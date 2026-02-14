@@ -1,160 +1,115 @@
-Here is a set of primary documents, papers, and discussions you can cite, with direct language on the “unattainable goal” passage and with concrete examples, plus CTA‑specific material.
+# Research: Shoghi Effendi's Translation Methodology
 
-### 1. Core quotation: “assist others… approach the unattainable goal”
+Research materials supporting the CTAI project's approach to computer-assisted
+translation modeled on Shoghi Effendi's methodology.
 
-- **“The Difficult Art of Translation — Selected Extracts from Letters Written By and On Behalf of the Universal House of Justice Concerning the Translations of Shoghi Effendi”** (Research Department compilation)
-  PDF: https://bahai-library.com/pdf/uhj/uhj_difficult_art_translation.pdf
-  - Contains the key extract quoting his letter on the *Kitáb‑i‑Íqán*:
-    > “…this book of unsurpassed pre‑eminence… and he expressed the hope *‘that it may assist others in their efforts to approach what must always be regarded as the unattainable goal—a befitting rendering of Bahá’u’lláh’s matchless utterance’*.” [bahai-library](https://bahai-library.com/pdf/uhj/uhj_difficult_art_translation.pdf)
-  - Also gives the broader context (translation as “unattainable perfection,” status of his translations, and their use as a **basis** for other languages). [bahai-library](https://bahai-library.com/compilation_provisional_translations)
+## Core Thesis
 
-- **“The Art of Translation” – Bahá’í Library Online**
-  HTML: https://bahai-library.com/miller_art_translation
-  - Includes and comments on the same “assist others in their efforts to approach… the unattainable goal” line, with bibliographic references back to the Research Department compilation. [bahai-library](https://bahai-library.com/miller_art_translation)
+> "The hope is that it may assist others in their efforts to approach what must
+> always be regarded as the unattainable goal -- a befitting rendering of
+> Baha'u'llah's matchless utterance."
+> -- Shoghi Effendi, Foreword to the *Kitab-i-Iqan*
 
-- **World Language Process site – UHJ memorandum on gendered language**
-  HTML: https://worldlanguageprocess.org/essays/uhj_on_gender.htm
-  - Quotes and discusses the same passage, explicitly referencing the “Difficult Art of Translation” compilation and the “hope… that it may assist others in their efforts to approach… the unattainable goal.” [worldlanguageprocess](https://worldlanguageprocess.org/essays/uhj_on_gender.htm)
+Shoghi Effendi regarded perfect translation of sacred text as inherently
+unattainable. CTAI's multi-agent deliberation process is designed to
+systematically *approach* that goal by surfacing every available precedent,
+perspective, and terminological decision.
 
-### 2. Institutional guidance citing his translations as a *guide* or *basis*
+## Files
 
-- **“Translation and Provisional Translations” – Bahá’í Library compilation**
-  HTML: https://bahai-library.com/compilation_provisional_translations
-  - Includes multiple extracts on:
-    - His translations carrying “a large measure of interpretation” and being **used as the basis** for other languages. [bahai-library](https://bahai-library.com/compilation_provisional_translations)
-    - Instructions that translations into European languages should be made on the basis of “this English translation.” [bahai-library](https://bahai-library.com/compilation_provisional_translations)
-    - The need for translators to “follow the example set by Shoghi Effendi in his magnificent translations.” [bahai-library](https://bahai-library.com/compilation_provisional_translations)
+- **[shoghi-effendi-translation-methodology.md](./shoghi-effendi-translation-methodology.md)** --
+  Annotated bibliography of 42 sources with summaries, key quotes, and
+  synthesized translation principles
+- **[documents/](./documents/)** -- Downloaded source materials (31 files, ~20MB)
 
-- **Concerning the Translations of Shoghi Effendi (same as “Difficult Art”)**
-  PDF (above) explicitly states:
-  - The English translation should “form the basis” for translations into other languages. [bahai-library](https://bahai-library.com/pdf/uhj/uhj_difficult_art_translation.pdf)
-  - The style of translation was “set by Shoghi Effendi,” and others are urged to harmonize closely with his style. [worldlanguageprocess](https://worldlanguageprocess.org/essays/uhj_on_gender.htm)
+## Downloaded Documents
 
-### 3. Detailed stylistic/lexical studies with concrete examples
+### PDFs (16 files)
 
-- **J. Perdu & S. Velasco, “Shoghi Effendi: An approach to his artistic contribution to style in English language and literature”**
-  PDF: https://bahai-library.com/pdf/p/perdu_velasco_shoghieffendi_style.pdf
-  - Long article with:
-    - Quantitative lexical analysis of his translations vs his own English writings.
-    - Detailed worked examples from the *Kitáb‑i‑Íqán* and *Kitáb‑i‑Aqdas* (e.g., “veils of glory” vs “vain imaginings”; “World Order” / “System” for *nazm* and *tartīb*).
-    - Discussion of how his style serves as a **precedent** and model for later translators.
-  - This is the single richest source of concrete, citable examples and term‑by‑term comparisons.
+| File | Pages | Description |
+|------|-------|-------------|
+| `uhj_difficult_art_translation.pdf` | -- | **"The Difficult Art of Translation"** -- UHJ Research Department compilation. The key institutional document on his translations as a standard. |
+| `perdu_velasco_shoghi_effendi_style.pdf` | -- | **Perdu & Velasco** -- "Shoghi Effendi: An Approach to His Artistic Contribution to Style in English Literature and to Standards in Translation." The richest source of term-by-term comparisons. Uses CTA concordance tool. |
+| `nakhjavani_range_power_pen.pdf` | -- | **Ali Nakhjavani** -- *Shoghi Effendi: The Range and Power of His Pen*. Survey of his complete literary output with prose style analysis. |
+| `nakhjavani_style_language_notes.pdf` | -- | **Bahiyyih Nakhjavani** -- Conference talk notes on his style. Key insight: "impossible to eliminate any word from one of his sentences without sacrificing part of the meaning." |
+| `mclean_celestial_burning.pdf` | 620 | **Jack McLean** -- *A Celestial Burning*. Full book treating Shoghi Effendi as interpreter and writer. ABS North America Book Award 2013. |
+| `boyles_style_shoghi_effendi.pdf` | -- | **Ann Boyles** -- "The Epistolary Style of Shoghi Effendi." Analyzes the epistle as a conscious literary form. |
+| `volker_translating_bahai_writings.pdf` | 8 | **Craig Volker** -- "Translating the Baha'i Writings." Argues his style bridges modern English and the figurative style of the originals. |
+| `compilation_provisional_translations.pdf` | 5 | Translation policy compilation: his translations as basis for other languages, "follow the example set by Shoghi Effendi." |
+| `compilation_literary_style_translation.pdf` | 6 | **Literary style of translation** -- compilation of institutional guidance on stylistic standards. |
+| `compilation_translating_writings_indigenous.pdf` | 7 | Guidance on translating Writings into indigenous languages, applying his methodology. |
+| `compilation_masculine_gender_writings.pdf` | 7 | Gender in the Writings and translation -- includes material on his translation choices. |
+| `uhj_masculine_pronouns_images.pdf` | 3 | UHJ guidance on pronouns and imagery in translation. |
+| `schaida_kitab-iqan_interlinear.pdf` | -- | **Peter Schaida** -- Interlinear Kitab-i-Iqan: Persian original alongside both Ali Kuli Khan's 1904 and Shoghi Effendi's 1931 translations. Invaluable for comparing his choices against the original and an earlier rendering. |
+| `kitab-i-iqan_baha-u-llah.pdf` | -- | Full *Kitab-i-Iqan* PDF with the Foreword containing the "unattainable goal" passage. |
+| `kitab-i-aqdas.pdf` | 8 | *Kitab-i-Aqdas* introduction. UHJ completed his partial translation striving for "accuracy of meaning, beauty of English, and conformity of style with that used by Shoghi Effendi" -- codifying his three core principles. |
+| `livius_5_1994_translation_studies.pdf` | -- | *Livius -- Revista de Estudios de Traduccion* 5 (1994). Translation-studies journal with section quoting the "unattainable goal" line in broader academic context. |
 
-- **Ali Nakhjavani, “Shoghi Effendi: The Range and Power of His Pen”**
-  PDF: https://www.datocms-assets.com/42576/1709212260-shoghi-effendi-the-range-and-p-ali-nakhjavani.pdf
-  - Chapter‑length discussion of his prose style, with references to his “art of translation” and some illustrative examples from his letters and translations. [datocms-assets](https://www.datocms-assets.com/42576/1709212260-shoghi-effendi-the-range-and-p-ali-nakhjavani.pdf)
+### Text Articles (15 files)
 
-- **“Translating the Bahá’í Writings” (article on Academia.edu – contemporary translation theory applied to Bahá’í texts)**
-  PDF: https://www.academia.edu/44595625/Translating_the_Bah%C3%A1%C3%AD_Writings
-  - Engages with institutional guidance on following Shoghi Effendi’s example; discusses his elevated register and its function as a model, with citations back to UHJ letters and the “Difficult Art” compilation. [academia](https://www.academia.edu/44595625/Translating_the_Bah%C3%A1%C3%AD_Writings)
+| File | Size | Description |
+|------|------|-------------|
+| `priceless_pearl_ch15_translations.txt` | 140K | **Ruhiyyih Khanum** -- *The Priceless Pearl*, chapter on translations. Eyewitness accounts: writing aloud, synonym analysis, Latin vs Germanic roots, meticulous fidelity. |
+| `mclean_rhetoric_shoghi_effendi.txt` | 124K | **Jack McLean** -- "The Art of Rhetoric in the Writings of Shoghi Effendi." Seven rhetorical modes, formal rhetoric training at Syrian Protestant College and Oxford. |
+| `worldlanguageprocess_uhj_gender.txt` | 122K | UHJ memorandum on gendered language. Quotes "unattainable goal" passage, references "Difficult Art of Translation" compilation. |
+| `mcglinn_uhj_elucidation.txt` | 230K | **Sen McGlinn** -- Blog post on UHJ elucidation. Notes translators use CTA because "Baha'i writings differ from those in Persian and Arabic dictionaries." |
+| `bahaiblog_elevated_language.txt` | 59K | **Layli Miron** -- "Why Do the English Translations Use Elevated Language?" Three reasons: fidelity to originals, linguistic stability, educational function. |
+| `lewis_translating_hidden_words.txt` | 41K | **Franklin Lewis** (U. of Chicago) -- Review of Malouf's *Unveiling the Hidden Words*. His approach was "artistic rather than strictly doctrinal," aimed at recreating spiritual experience. Musical analogy: meaning = notes, style = tempo. |
+| `lewis_hidden_words_extended.txt` | 18K | **Lewis & Brookshaw** -- Extended study of Hidden Words translation with additional examples and commentary. |
+| `fazel_study_shoghi_effendi.txt` | 28K | **Seena Fazel** -- "How to Study Shoghi Effendi's Writings." Methodology for systematic engagement with his ~26,000 letters plus cables. |
+| `mcglinn_shoghi_effendi_prayers.txt` | 28K | **Sen McGlinn** -- Blog post on Shoghi Effendi's prayers. Reflections on his English prose style with examples. |
+| `compilation_provisional_translations.txt` | 17K | HTML version of the provisional translations compilation. Key extracts on fidelity, style, and his translations as basis for other languages. |
+| `townshend_collaboration.txt` | 13K | **George Townshend's collaboration with Shoghi Effendi.** Townshend reviewed Hidden Words through God Passes By. Changes were "slight and subtle" but elevated translations "from very good to exquisite." |
+| `tablets_bahaullah_editorial_note.txt` | 11K | Editorial note from *Tablets of Baha'u'llah*: "wherever possible, translations made by Shoghi Effendi have been used." |
+| `miller_art_translation.txt` | 10K | **Miller** -- "The Art of Translation." Translation as "a change of clothing," impression over literalism for sacred material. |
+| `brookshaw_hidden_words_references.txt` | 6.7K | References of 'Abdu'l-Baha and Shoghi Effendi to the Hidden Words -- context for his interpretive translation choices. |
+| `bwc_materials_gender_translation.txt` | 5.9K | BWC materials on gender and translation, including guidance on literary style. |
 
-- **“Why Do the English Translations of the Bahá’í Writings Use Elevated Language?” – BahaiBlog**
-  HTML: https://www.bahaiblog.net/articles/bahai-life/why-do-the-english-translations-of-the-bahai-writings-use-elevated-language/
-  - Popular‑level but well‑cited discussion summarizing the institutional rationale for using his style as a pattern; quotes the “slightly archaic” description and explains its precedent‑setting function. [bahaiblog](https://www.bahaiblog.net/articles/bahai-life/why-do-the-english-translations-of-the-bahai-writings-use-elevated-language/)
+## Sources Not Downloaded (available online only)
 
-### 4. Sources explicitly about his style as a model for others
+These sources were identified but could not be downloaded as local files.
+The bibliography in `shoghi-effendi-translation-methodology.md` has full URLs.
 
-- **“The Art of Translation” (same as above)**
-  - Brings together UHJ extracts stating that the “style of translation into English was set by Shoghi Effendi” and that translators should strive for renderings “that harmonize closely with the style used by Shoghi Effendi.” [bahai-library](https://bahai-library.com/miller_art_translation)
+- **Diana Malouf** -- *Unveiling the Hidden Words* (1997, George Ronald). The
+  single most focused academic study of his translation norms. Available at
+  https://dokumen.pub/unveiling-the-hidden-words-...
+- **Riaz Khadem** -- *Shoghi Effendi in Oxford* (1999). His education at Balliol
+  College, essential background for his intellectual formation as translator.
+- **Morten Bergsmo (ed.)** -- *Studying the Writings of Shoghi Effendi* (1991).
+  David Hofman's essay "Shoghi Effendi, Expounder of the Word of God."
+- **Ruhiyyih Khanum** -- 1970 transcript of talk on Shoghi Effendi
+  (bahai.works -- requires JS rendering).
+- **Encyclopaedia Iranica** -- entries on "Shoghi Effendi" and "Kalemat-e Maknuna."
+- **CTA Project** -- https://ctaonline.org/pages/about-us (content behind JS).
+- **Muin Afnani** -- Irfan Colloquia presentation (2005) on his writings.
+- **Robert Stockman** -- Irfan Colloquia (1996) on revelation, interpretation,
+  and elucidation.
+- **Academia.edu articles** -- Perdu & Velasco (alt. PDF), Volker 2024 expanded
+  treatment (60 pages), and others behind login walls.
+- **Community discussions** -- Reddit threads, Facebook posts discussing his
+  translations as standard.
 
-- **Livius – Revista de Estudios de Traducción 5 (1994), article referencing Bahá’í materials**
-  PDF: https://hte.upf.edu/wp-content/uploads/Livius-5.pdf
-  - Contains a section quoting the “unattainable goal—a befitting rendering of Bahá’u’lláh’s matchless utterance” line, in a broader translation‑studies context. [hte.upf](https://hte.upf.edu/wp-content/uploads/Livius-5.pdf)
+## Synthesized Translation Principles
 
-### 5. CTA (Computer Translation Aid) – documentation and usage
+Distilled from all 42 sources (see full bibliography for citations):
 
-- **Bahá’í Library tag index: “Computer Translation Aid (CTA)”**
-  Tag page: https://bahai-library.com/tags/Computer_Translation_Aid_(CTA)
-  - Aggregates items related to CTA, including references in articles on translation tools and interlinear editions. [bahai-library](https://bahai-library.com/tags/Computer_Translation_Aid_(CTA))
+1. **The Unattainable Goal** -- Perfect rendering is impossible; the aim is to *approach* it through systematic effort
+2. **King James Bible as stylistic model** -- Elevated register conveying sacred character, not mere archaism
+3. **Absolute fidelity to the original** -- "You cannot change and leave out words"
+4. **English synonym exploitation** -- Using English's richer synonym differentiation to capture nuances Arabic/Persian synonyms don't distinguish
+5. **Endurance over accessibility** -- Language that lasts centuries
+6. **Harmonic synthesis** -- Blending Jacobean, Restoration, Victorian, and Edwardian English into a unique register
+7. **Interpretive authority embedded in translation** -- His translations sometimes clarify ambiguities in the originals
+8. **Collaborative refinement** -- Working with native English literary experts (Townshend, Rosenberg, Esslemont)
+9. **Three core standards** (codified by UHJ): accuracy of meaning, beauty of English, conformity of style with his precedent
+10. **Chastity of style** -- Avoiding extremes, maintaining dignity and precision
+11. **Writing aloud** -- Testing every sentence aurally
+12. **Webster's 1934 Dictionary** as primary reference tool
 
-- **“Interlinear Editions of the Bahá’í Writings” – Bahá’í Library**
-  HTML: https://bahai-library.com/uhj_interlinear_writings_cta
-  - Discusses the use of CTA and related tools in preparing interlinear editions, and explains how such software is used to maintain consistency with Shoghi Effendi’s established terminology. [bahai-library](https://bahai-library.com/uhj_interlinear_writings_cta)
+## CTA: The Predecessor
 
-- **CTA Project – current website**
-  About page: https://ctaonline.org/pages/about-us
-  - Describes the project’s aim to make accessible “the precedents provided in Shoghi Effendi’s translations” and in World Centre‑approved translations, for use as a **terminology and style reference** in ongoing translation work. [ctaonline](https://ctaonline.org/pages/about-us)
-
-- **Perdu & Velasco (above) – explicit methodological note**
-  - They state that they used CTA, “a basic concordance programme and translation tool,” for their lexical comparisons between the original texts and Shoghi Effendi’s translations, giving you a concrete, citable example of CTA applied to his style.
-
-### 6. Supplementary discussions and examples
-
-- **Bahá’í Reference Library – editorial note in *Tablets of Bahá’u’lláh* (English)**
-  HTML: https://www.bahai.org/library/authoritative-texts/bahaullah/tablets-bahaullah/8
-  - Editorial note explicitly saying that “wherever possible, translations made by Shoghi Effendi have been used,” and that his renderings of quotations were adopted and adjusted to original Tablets, underscoring their precedent value. [bahai](https://www.bahai.org/library/authoritative-texts/bahaullah/tablets-bahaullah/8)
-
-- **Sen McGlinn, “Shoghi Effendi’s Prayers” (blog post)**
-  HTML: https://senmcglinn.wordpress.com/2010/05/18/shoghi-effendis-prayers/
-  - Reflects on his English prayers and indirectly on his translation style; includes examples and references useful for footnotes. [senmcglinn.wordpress](https://senmcglinn.wordpress.com/2010/05/18/shoghi-effendis-prayers/)
-
-If you tell me which of these you intend to mine first (e.g., Perdu & Velasco vs. the Research Department compilation), I can next just list page‑numbered example locations (e.g., “Perdu & Velasco, pp. X–Y: *nazm* → ‘World Order’ / ‘System’”) without additional commentary.
-
-
-
-Here are additional items beyond the PDFs and formal articles, including discussion threads and smaller pieces where the “unattainable goal / assist others” line and his translations-as-guide idea are explicitly cited or debated.
-
-### A. Primary text and official reproductions of the “assist others… unattainable goal” line
-
-- **Shoghi Effendi, Foreword to the *Kitáb‑i‑Íqán***
-  - Bahá’í Reference Library (official text):
-    https://www.bahai.org/library/authoritative-texts/bahaullah/kitab-i-iqan/1
-    – Foreword contains: “The hope is that it may **assist others in their efforts to approach what must always be regarded as the unattainable goal**—a befitting rendering of Bahá’u’lláh’s matchless utterance.” [bahai](https://www.bahai.org/library/authoritative-texts/bahaullah/kitab-i-iqan/1)
-  - Bahá’í Library Online mirror of the Foreword:
-    https://mail.bahai-library.com/writings/bahaullah/iqan/iq-fwrd.htm [mail.bahai-library](https://mail.bahai-library.com/writings/bahaullah/iqan/iq-fwrd.htm)
-  - BahaiText.info reader (searchable context):
-    http://bahaitext.info/btxt.asp?buk=kiq&tgt=0&wds=zx [bahaitext](http://bahaitext.info/btxt.asp?buk=kiq&tgt=0&wds=zx)
-  - PDF edition hosted by BWNS / bicentenary site (for page‑based citation):
-    https://www.datocms-assets.com/42576/1709204586-the-kitab-i-iqan-baha-u-llah.pdf [datocms-assets](https://www.datocms-assets.com/42576/1709204586-the-kitab-i-iqan-baha-u-llah.pdf)
-
-- **Messages from the Universal House of Justice citing the same line**
-  - “Questions regarding Translation of Sacred Writings” (Messages 1986–2001):
-    https://bahai.works/MUHJ86-01/192/Questions_regarding_Translation_of_Sacred_Writings
-    – Quotes the Foreword sentence in full as part of translation guidance. [bahai](https://bahai.works/MUHJ86-01/192/Questions_regarding_Translation_of_Sacred_Writings)
-
-- **Juan Cole et al. / Holy‑Writings.com reprint of the Foreword**
-  - “Read text – Holy‑Writings.com” (mirrors the Foreword and the same line):
-    https://holy-writings.com/?a=SHOWTEXT&d=%2F%2Fen%2FBahai+Faith%2F3+-+Bahai-Library.com%2FTranslations+-+Provisional%2FTablet+of+... (URL truncated in index; open to view full path and text). [holy-writings](https://holy-writings.com/?a=SHOWTEXT&d=%2F%2Fen%2FBahai+Faith%2F3+-+Bahai-Library.com%2FTranslations+-+Provisional%2FTablet+of+the+Mist+of+the+Unknown.rch)
-
-### B. Academic / semi‑academic pieces that quote and discuss that line
-
-- **Robert Stockman, “Terms Revelation, Interpretation, and Elucidation in the Bahá’í Writings” (Irfán Colloquium, 1996)**
-  - HTML: https://irfancolloquia.org/4/stockman_terms/
-  - Includes the *Kitáb‑i‑Íqán* Foreword line in full and briefly comments on its implication that translations are inherently limited (“unattainable goal”) but Shoghi Effendi’s rendering helps others approach it. [irfancolloquia](https://irfancolloquia.org/4/stockman_terms/)
-
-- **Livius – *Revista de Estudios de Traducción* 5 (1994)**
-  - PDF: https://hte.upf.edu/wp-content/uploads/Livius-5.pdf
-  - Contains a section referencing the same sentence from the Foreword as a classic example of a translator framing his own work as provisional and exemplary. [hte.upf](https://hte.upf.edu/wp-content/uploads/Livius-5.pdf)
-
-### C. Informal discussion threads about his translations as a basis or guide
-
-- **Reddit: “I’m amazed at Shoghi Effendi’s translations being the basis…”**
-  - Thread: https://www.reddit.com/r/bahai/comments/qdorme/im_amazed_at_shoghi_effendis_translations_being/
-  - Discussion revolves around the policy of using his English as the basis for other languages, often citing or paraphrasing the Foreword’s “assist others” and UHJ guidance that his translations serve as a standard. [reddit](https://www.reddit.com/r/bahai/comments/qdorme/im_amazed_at_shoghi_effendis_translations_being/)
-
-- **Facebook group “Baha’i Library & Resources”: misreading of the “unattainable goal” line**
-  - Post: “Some people hold the view that this verse from Shoghi Effendi’s…”
-    https://www.facebook.com/groups/2209644753/posts/10155235462269754/
-  - Participants paste the Foreword sentence (“assist others… unattainable goal—a befitting rendering…”) and argue about whether it implies that all future translations must be judged against his or simply that he is offering one exemplary attempt. [facebook](https://www.facebook.com/groups/2209644753/posts/10155235462269754/)
-
-- **Reddit: OnThisDateInBahai – UHJ letter and CTA**
-  - Post: “March 8. On this date in 2015, the UHJ wrote ‘interlinear editions of…’”
-    https://www.reddit.com/r/OnThisDateInBahai/comments/1j5m0pn/march_8_on_this_date_in_2015_the_uhj_wrote/
-  - Quotes from the 2015 UHJ letter about interlinear editions and mentions the Computer Translation Aid (CTA), in the context of maintaining consistency with established translations. [reddit](https://www.reddit.com/r/OnThisDateInBahai/comments/1j5m0pn/march_8_on_this_date_in_2015_the_uhj_wrote/)
-
-### D. Discussion touching CTA and terminological precedent
-
-- **Sen McGlinn, “UHJ elucidations” (blog post)**
-  - HTML: https://senmcglinn.wordpress.com/2011/03/07/uhj-elucidation/
-  - Includes a paragraph noting that Bahá’í translators use CTA (Computer Translation Aid) because “Bahai writings differ from those in Persian and Arabic dictionaries,” linking CTA explicitly with precedent‑based terminology choice drawn from Shoghi Effendi’s translations. [senmcglinn.wordpress](https://senmcglinn.wordpress.com/2011/03/07/uhj-elucidation/)
-
-- **Bahá’í Library subject index for “* Translation” (includes CTA, policy, etc.)**
-  - HTML: https://bahai-library.com/tags/*_Translation
-  - Lists Computer Translation Aid (CTA) under translation‑related tags and points back to compilations where UHJ guidance on following Shoghi Effendi’s translations is collected. [bahai-library](https://bahai-library.com/tags/*_Translation)
-
-- **CTA‑related UHJ letter indexed by Bahá’í Library**
-  - “Interlinear Editions of the Bahá’í Writings” (already mentioned, but note again):
-    https://bahai-library.com/uhj_interlinear_writings_cta
-  - Describes interlinear projects, mentions CTA by name, and connects such tools with preserving consistency with authoritative translations. [bahai-library](https://bahai-library.com/uhj_interlinear_writings_cta)
-
-These should give you additional URLs and contexts, especially for the specific Foreword sentence and for CTA’s role, that you can footnote directly without needing to summarize or rely only on the longer PDFs.
+CTAI takes its name from the original CTA (Computer Translation Aid), a DOS-based
+concordance tool from the early 1990s used to support the translation of the
+Kitab-i-Aqdas. Where CTA was a static reference showing *what* Shoghi Effendi
+chose, CTAI is a dynamic collaborator helping translators understand *why* he
+chose it and how to extend his methodology to untranslated passages.
