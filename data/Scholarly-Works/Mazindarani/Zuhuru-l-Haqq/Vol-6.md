@@ -8,10 +8,9 @@ volume: 6
 volumes_total: 9
 subject: "Comprehensive history of the Babi and Baha'i Faiths"
 date_composed: "1932-1936"
+date_published: ""
 source_url: "https://bahai-library.com/mazandarani_tarikh_zuhur_haqq"
 source_format: "docx"
-transcriber: "Adel Shafipour"
-transcription_date: "2021-2023"
 ---
 ![Mansion of Bahjí and Gardens \| Bahá&#39;í Media Bank](media/image1.jpeg){width="7.179861111111111in" height="4.7875in"}
 

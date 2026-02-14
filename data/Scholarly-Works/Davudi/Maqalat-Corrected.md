@@ -4,7 +4,11 @@ title_original: "مقالات جناب دکتر داوودی (تصحیح شده)
 author: "Dr. Ali-Murad Davudi"
 author_original: "دکتر علی‌مراد داودی"
 language: "fa"
+volume: ""
+volumes_total: ""
 subject: "Collected articles - corrected edition"
+date_composed: ""
+date_published: ""
 source_url: "https://bahai-library.com/davudi_collected_works"
 source_format: "docx"
 ---

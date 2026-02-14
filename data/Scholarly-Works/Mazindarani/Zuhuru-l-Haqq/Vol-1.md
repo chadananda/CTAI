@@ -8,10 +8,9 @@ volume: 1
 volumes_total: 9
 subject: "Comprehensive history of the Babi and Baha'i Faiths"
 date_composed: "1932-1936"
+date_published: ""
 source_url: "https://bahai-library.com/mazandarani_tarikh_zuhur_haqq"
 source_format: "doc"
-transcriber: "Adel Shafipour"
-transcription_date: "2021-2023"
 ---
 کتاب ظهور الحقّ
 

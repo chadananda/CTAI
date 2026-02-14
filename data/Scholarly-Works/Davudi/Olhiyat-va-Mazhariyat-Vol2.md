@@ -5,8 +5,10 @@ author: "Dr. Ali-Murad Davudi"
 author_original: "دکتر علی‌مراد داودی"
 language: "fa"
 volume: 2
+volumes_total: ""
 subject: "Philosophy and mysticism - divinity and divine manifestation"
-date_published: "1996"
+date_composed: ""
+date_published: 1996
 source_url: "https://bahai-library.com/davudi_collected_works"
 source_format: "doc"
 ---

@@ -8,10 +8,9 @@ volume: 5
 volumes_total: 5
 subject: "Theological dictionary of Baha'i terms and concepts"
 date_composed: "c. 1955"
+date_published: ""
 source_url: "https://bahai-library.com/mazandarani_asrar_athar"
 source_format: "docx"
-transcriber: "Adel Shafipour"
-transcription_date: "2022-2023"
 ---
 اسرارالآثار
 

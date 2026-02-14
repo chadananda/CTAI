@@ -5,7 +5,10 @@ author: "Aziz'ullah Sulaymani Ardakani"
 author_original: "عزیزالله سلیمانی اردکانی"
 language: "fa"
 volume: 5
+volumes_total: ""
 subject: "Biographies of eminent Baha'is"
+date_composed: ""
+date_published: ""
 source_url: "https://bahai-library.com/davudi_collected_works"
 source_format: "docx"
 ---
