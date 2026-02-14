@@ -373,7 +373,7 @@ translation choices against the original and an earlier literal rendering.
 
 ---
 
-## VII. CTA (Computer Translation Aid) — The Predecessor
+## VII. CTA (Computer Translation Aid) — Historical Context
 
 ### 33. CTA Project — About Page
 

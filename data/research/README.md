@@ -106,10 +106,10 @@ Distilled from all 42 sources (see full bibliography for citations):
 11. **Writing aloud** -- Testing every sentence aurally
 12. **Webster's 1934 Dictionary** as primary reference tool
 
-## CTA: The Predecessor
+## Historical Context: CTA (Computer Translation Aid)
 
-CTAI takes its name from the original CTA (Computer Translation Aid), a DOS-based
-concordance tool from the early 1990s used to support the translation of the
-Kitab-i-Aqdas. Where CTA was a static reference showing *what* Shoghi Effendi
-chose, CTAI is a dynamic collaborator helping translators understand *why* he
-chose it and how to extend his methodology to untranslated passages.
+The original CTA was a DOS-based concordance tool from the early 1990s used to
+support the translation of the Kitab-i-Aqdas. It provided phrase-by-phrase access
+to Shoghi Effendi's translation corpus -- a static reference showing how the
+Guardian rendered any given term. Several of the academic sources in this
+collection (notably Perdu & Velasco) used CTA for their lexical comparisons.
