@@ -13,10 +13,22 @@ compiled from Shoghi Effendi's references.
 | The Bab | 24 | 20 | 1 | 1 | 0 |
 | Baha'u'llah | 179 | 134 | 5 | 5 | 35 |
 | 'Abdu'l-Baha | 25 | 9 | 2 | 4 | 10 |
-| Shoghi Effendi | 7 | 7 | 0 | 0 | 0 |
-| **TOTAL** | **235** | **170** | **8** | **10** | **45** |
+| Shoghi Effendi | 8 | 8 | 0 | 0 | 0 |
+| **TOTAL** | **236** | **171** | **8** | **10** | **45** |
 
-**Translation targets: 170 untranslated + 10 provisional = 180 priority works**
+**Translation targets: 171 untranslated + 10 provisional = 181 priority works**
+
+## Downloaded Source Texts
+
+190 source texts downloaded from OceanOfLights.org as Markdown with YAML frontmatter:
+
+| Author | Files | Size |
+|--------|-------|------|
+| The Bab | 16 | 1,854 KB |
+| Baha'u'llah | 144 | 4,894 KB |
+| 'Abdu'l-Baha | 21 | 1,166 KB |
+| Shoghi Effendi | 9 | 1,022 KB |
+| **TOTAL** | **190** | **8,937 KB** |
 
 ## Status Key
 
@@ -264,18 +276,19 @@ Significant doctrinal tablets (Kuntu Kanzan, Basitatu'l-Haqiqih context) remain 
 
 ## Shoghi Effendi (Persian/Arabic Works)
 
-**Summary:** 7 works cataloged. All 7 untranslated.
-These are annual messages (tawqi') to the Persian/Arabic-speaking Baha'i world.
+**Summary:** 8 works cataloged, 9 source texts downloaded (Lawh-i-Qarn available in both Arabic and Persian).
+These are annual messages (tawqi'at) to the Persian/Arabic-speaking Baha'i world.
 
-| Title | Status | Notes |
-|-------|--------|-------|
-| Tawqi'-i-Qarn (Naw-Ruz 88 BE) | `untranslated` | Message for Persian New Year, year 88 BE |
-| Tawqi'-i-Qarn (Naw-Ruz 89 BE) | `untranslated` | Message for Persian New Year, year 89 BE |
-| Tawqi'-i-Qarn (Naw-Ruz 101 BE) | `untranslated` | Message for Persian New Year, year 101 BE |
-| Tawqi'-i-Sannih 105 BE | `untranslated` | Annual message, year 105 BE |
-| Tawqi'-i-Sannih 108 BE | `untranslated` | Annual message, year 108 BE |
-| Tawqi'-i-Sannih 110 BE | `untranslated` | Annual message, year 110 BE |
-| Tawqi'-i-Sannih 111 BE | `untranslated` | Annual message, year 111 BE |
+| Title | Language | Status | Notes |
+|-------|----------|--------|-------|
+| Tawqi'-i-Mubarik Naw-Ruz 88 BE | Persian | `untranslated` | 1931 message |
+| Tawqi'-i-Mubarik Ridvan 89 BE | Persian | `untranslated` | 1932 message |
+| Tawqi'-i-Mubarik Naw-Ruz 101 BE (Lawh-i-Qarn) | Arabic & Persian | `untranslated` | Century Message (1944), both ar and fa texts available |
+| Tawqi'-i-Mubarik Ridvan 105 BE | Persian | `untranslated` | 1949 message |
+| Tawqi'-i-Mubarik Naw-Ruz 108 BE | Persian | `untranslated` | 1952 message |
+| Tawqi'-i-Mubarik Naw-Ruz 110 BE | Persian | `untranslated` | 1954 message |
+| Tawqi'-i-Mubarik Naw-Ruz 111 BE | Persian | `untranslated` | 1955 message |
+| Tawqi'-i-Mubarik Naw-Ruz 113 BE (Extracts) | Persian | `untranslated` | 1957 message (extracts) |
 
 ---
 
@@ -303,7 +316,7 @@ Based on significance and accessibility gaps:
 - Lawh-i-Tarbiyat (Tablet of Education)
 
 **Shoghi Effendi:**
-- All 7 annual messages (historical context for Persian/Arabic communities)
+- All 8 Tawqi'at including the Lawh-i-Qarn (Century Message, 1944) in both Arabic and Persian
 
 ---
 
