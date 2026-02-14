@@ -1,3 +1,18 @@
+---
+title: "Tarikh-i-Zuhuru'l-Haqq, Volume 4"
+title_original: "تاریخ ظهورالحقّ"
+author: "Mirza Asad'ullah Fadil Mazindarani"
+author_original: "میرزا اسدالله فاضل مازندرانی"
+language: "fa"
+volume: 4
+volumes_total: 9
+subject: "Comprehensive history of the Babi and Baha'i Faiths"
+date_composed: "1932-1936"
+source_url: "https://bahai-library.com/mazandarani_tarikh_zuhur_haqq"
+source_format: "docx"
+transcriber: "Adel Shafipour"
+transcription_date: "2021-2023"
+---
 ![The Significance of the Shrine of Baha\'u\'llah \| Baha\'i Blog](media/image1.jpeg){width="6.5in" height="4.333333333333333in"}
 
 ![Asadu\'llah Fadil Mazandarani](media/image2.gif){width="2.25in" height="3.191666666666667in"}

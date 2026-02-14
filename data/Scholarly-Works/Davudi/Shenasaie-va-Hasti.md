@@ -1,3 +1,13 @@
+---
+title: "Shinasa'i va Hasti (Epistemology and Ontology)"
+title_original: "شناسایی و هستی"
+author: "Dr. Ali-Murad Davudi"
+author_original: "دکتر علی‌مراد داودی"
+language: "fa"
+subject: "Epistemology and ontology from a Baha'i perspective"
+source_url: "https://bahai-library.com/davudi_collected_works"
+source_format: "docx"
+---
 *شناسائی و هستی*
 
 تأليف

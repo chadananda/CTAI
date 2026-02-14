@@ -1,3 +1,13 @@
+---
+title: "Uluhiyyat (On Divinity)"
+title_original: "الوهیّت"
+author: "Dr. Ali-Murad Davudi"
+author_original: "دکتر علی‌مراد داودی"
+language: "fa"
+subject: "Baha'i theology - the nature of God"
+source_url: "https://bahai-library.com/davudi_collected_works"
+source_format: "docx"
+---
 اَحَدِيَّت - مرتبه تجلي الهي بذاته لِذاتِه - مرتبهء ذات الهي بدون اعتبار اَسماء و صفات درباره ء او زيرا اَسماء و صفات حق در اين مرتبه عين ذات حقّند و اين مقام وحدت صرفه است برخلاف مرتبه واحديت ( بذيل كلمهء واحديت مراجعه شود ) .
 
 در عرف صوفيّه مذكور است كه غيب هويّت

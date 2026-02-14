@@ -1,3 +1,18 @@
+---
+title: "Tarikh-i-Zuhuru'l-Haqq, Volume 5"
+title_original: "تاریخ ظهورالحقّ"
+author: "Mirza Asad'ullah Fadil Mazindarani"
+author_original: "میرزا اسدالله فاضل مازندرانی"
+language: "fa"
+volume: 5
+volumes_total: 9
+subject: "Comprehensive history of the Babi and Baha'i Faiths"
+date_composed: "1932-1936"
+source_url: "https://bahai-library.com/mazandarani_tarikh_zuhur_haqq"
+source_format: "doc"
+transcriber: "Adel Shafipour"
+transcription_date: "2021-2023"
+---
 بيت مبارک رضا بيگ در ادرنه محلّ زندگي عائلهٴ مبارکه در ادرنه بعد از فصل اکبر در اواخر سال ۱۲۸۲ \]بهار ۱۸۶۶
 
 **

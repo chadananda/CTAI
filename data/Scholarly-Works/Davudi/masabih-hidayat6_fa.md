@@ -1,3 +1,14 @@
+---
+title: "Masabih-i-Hidayat (Lamps of Guidance), Volume 6"
+title_original: "مصابیح هدایت"
+author: "Aziz'ullah Sulaymani Ardakani"
+author_original: "عزیزالله سلیمانی اردکانی"
+language: "fa"
+volume: 6
+subject: "Biographies of eminent Baha'is"
+source_url: "https://bahai-library.com/davudi_collected_works"
+source_format: "docx"
+---
 مصابیح هدایت جلد ششم عزيز الله ـ سُليماني اردکانی
 
 عزيز الله ـ سُليماني

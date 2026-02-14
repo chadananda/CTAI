@@ -1,3 +1,16 @@
+---
+title: "Tarikh-i-Diyanat-i-Baha'i dar Khurasan (History of the Baha'i Faith in Khorasan)"
+title_original: "تاریخ دیانت بهائی در خراسان"
+author: "Hasan Fu'adi Bushrui"
+author_original: "حسن فؤادی بشروئی"
+language: "fa"
+subject: "History of the Baha'i Faith in the Khorasan province of Iran"
+date_composed: "1931"
+date_published: "2007 (1st ed.), 2022 (2nd ed.)"
+editor: "Minu Dukht Fu'adi, Faridun Vahman"
+source_url: "https://bahai-library.com/bushrui_diyanat_bahai_khorasan"
+source_format: "pdf"
+---
 تاريخ ديانت بهائى در خراسان
 
 تأليف حسن فؤادى بشروئى

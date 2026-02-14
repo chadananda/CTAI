@@ -1,3 +1,14 @@
+---
+title: "Masabih-i-Hidayat (Lamps of Guidance), Volume 5"
+title_original: "مصابیح هدایت"
+author: "Aziz'ullah Sulaymani Ardakani"
+author_original: "عزیزالله سلیمانی اردکانی"
+language: "fa"
+volume: 5
+subject: "Biographies of eminent Baha'is"
+source_url: "https://bahai-library.com/davudi_collected_works"
+source_format: "docx"
+---
 مصابیح هدایت جلد پنجم عزيز الله ـ سُليماني اردکانی
 
 عزيز الله ـ سُليماني

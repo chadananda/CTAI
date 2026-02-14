@@ -1,3 +1,18 @@
+---
+title: "Asraru'l-Athar, Volume 5"
+title_original: "اسرارالآثار خصوصی"
+author: "Mirza Asad'ullah Fadil Mazindarani"
+author_original: "میرزا اسدالله فاضل مازندرانی"
+language: "fa"
+volume: 5
+volumes_total: 5
+subject: "Theological dictionary of Baha'i terms and concepts"
+date_composed: "c. 1955"
+source_url: "https://bahai-library.com/mazandarani_asrar_athar"
+source_format: "docx"
+transcriber: "Adel Shafipour"
+transcription_date: "2022-2023"
+---
 اسرارالآثار
 
 خصوصي

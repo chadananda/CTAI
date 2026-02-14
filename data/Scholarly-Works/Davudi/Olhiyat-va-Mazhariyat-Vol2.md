@@ -1,3 +1,15 @@
+---
+title: "Uluhiyyat va Mazhariyyat (Divinity and Manifestation), Volume 2"
+title_original: "الوهیّت و مظهریّت"
+author: "Dr. Ali-Murad Davudi"
+author_original: "دکتر علی‌مراد داودی"
+language: "fa"
+volume: 2
+subject: "Philosophy and mysticism - divinity and divine manifestation"
+date_published: "1996"
+source_url: "https://bahai-library.com/davudi_collected_works"
+source_format: "doc"
+---
 دکتر‌علی‌مراد‌داودى
 
 الوهيّت و مظهريّت

@@ -1,3 +1,18 @@
+---
+title: "Tarikh-i-Zuhuru'l-Haqq, Volume 8"
+title_original: "تاریخ ظهورالحقّ"
+author: "Mirza Asad'ullah Fadil Mazindarani"
+author_original: "میرزا اسدالله فاضل مازندرانی"
+language: "fa"
+volume: 8
+volumes_total: 9
+subject: "Comprehensive history of the Babi and Baha'i Faiths"
+date_composed: "1932-1936"
+source_url: "https://bahai-library.com/mazandarani_tarikh_zuhur_haqq"
+source_format: "doc"
+transcriber: "Adel Shafipour"
+transcription_date: "2021-2023"
+---
 تاريخ ظهور الحق جلّد هشتم
 
 تآليف

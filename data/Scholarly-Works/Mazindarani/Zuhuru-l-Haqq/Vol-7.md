@@ -1,3 +1,18 @@
+---
+title: "Tarikh-i-Zuhuru'l-Haqq, Volume 7"
+title_original: "تاریخ ظهورالحقّ"
+author: "Mirza Asad'ullah Fadil Mazindarani"
+author_original: "میرزا اسدالله فاضل مازندرانی"
+language: "fa"
+volume: 7
+volumes_total: 9
+subject: "Comprehensive history of the Babi and Baha'i Faiths"
+date_composed: "1932-1936"
+source_url: "https://bahai-library.com/mazandarani_tarikh_zuhur_haqq"
+source_format: "docx"
+transcriber: "Adel Shafipour"
+transcription_date: "2021-2023"
+---
 ![https://bmb.imgix.net/cb259d74d8c94d0eed08f37f3ea77b58/original.jpg?q=55&fm=jpg&fit=clip&w=2048&h=1365](media/image1.jpeg){width="5.90625in" height="3.322589676290464in"}
 
 ![Asadu\'llah Fadil Mazandarani](media/image2.gif){width="2.158333333333333in" height="3.2416666666666667in"}

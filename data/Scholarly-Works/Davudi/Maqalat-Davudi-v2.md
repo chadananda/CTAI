@@ -1,3 +1,13 @@
+---
+title: "Maqalat-i-Davudi (Collected Articles), Version 2"
+title_original: "مقالات داودی"
+author: "Dr. Ali-Murad Davudi"
+author_original: "دکتر علی‌مراد داودی"
+language: "fa"
+subject: "Collected philosophical and theological articles"
+source_url: "https://bahai-library.com/davudi_collected_works"
+source_format: "docx"
+---
 علیمراد داودی
 
 مقالات داودی

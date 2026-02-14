@@ -1,3 +1,13 @@
+---
+title: "Maqalat-i-Davudi (Collected Articles, Corrected Edition)"
+title_original: "مقالات جناب دکتر داوودی (تصحیح شده)"
+author: "Dr. Ali-Murad Davudi"
+author_original: "دکتر علی‌مراد داودی"
+language: "fa"
+subject: "Collected articles - corrected edition"
+source_url: "https://bahai-library.com/davudi_collected_works"
+source_format: "docx"
+---
 مقالات داودی
 
 نوشته
