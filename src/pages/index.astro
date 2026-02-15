@@ -1,0 +1,35 @@
+---
+import Base from '../layouts/Base.astro';
+---
+
+<Base title="Home">
+  <div class="max-w-3xl mx-auto text-center py-16">
+    <h1 class="text-5xl font-semibold text-stone-800 mb-4 tracking-tight">CTAI</h1>
+    <p class="text-xl text-stone-600 mb-2">Committee Translation AI</p>
+    <p class="text-stone-500 mb-12 max-w-xl mx-auto leading-relaxed">
+      A scholarly reference site and translation service for Arabic and Persian sacred texts.
+      Explore Shoghi Effendi's translation corpus, search thousands of source texts,
+      and commission AI-powered committee translations.
+    </p>
+
+    <!-- Search placeholder — Phase 2 -->
+    <div class="bg-white rounded-lg border border-stone-200 p-8 mb-12">
+      <p class="text-stone-400 text-sm">Semantic phrase search — coming soon</p>
+    </div>
+
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-6 text-left">
+      <a href="/works/" class="block p-6 bg-white rounded-lg border border-stone-200 hover:border-gold-400 transition-colors">
+        <h2 class="font-semibold text-stone-800 mb-2">Best-Known Works</h2>
+        <p class="text-sm text-stone-500">Browse ~190 sacred texts in Arabic and Persian with source links and metadata.</p>
+      </a>
+      <a href="/corpus/" class="block p-6 bg-white rounded-lg border border-stone-200 hover:border-gold-400 transition-colors">
+        <h2 class="font-semibold text-stone-800 mb-2">Translation Corpus</h2>
+        <p class="text-sm text-stone-500">Side-by-side paragraphs from Shoghi Effendi's translations with term annotations.</p>
+      </a>
+      <a href="/articles/" class="block p-6 bg-white rounded-lg border border-stone-200 hover:border-gold-400 transition-colors">
+        <h2 class="font-semibold text-stone-800 mb-2">Articles</h2>
+        <p class="text-sm text-stone-500">Scholarly articles on translation methodology, terminology, and the corpus.</p>
+      </a>
+    </div>
+  </div>
+</Base>

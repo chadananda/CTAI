@@ -1,0 +1,51 @@
+---
+import Base from './Base.astro';
+
+interface Props {
+  title: string;
+  work?: string;
+  workSlug?: string;
+  paraIndex?: number;
+  totalParas?: number;
+}
+
+const { title, work, workSlug, paraIndex, totalParas } = Astro.props;
+const prevUrl = paraIndex && paraIndex > 1 ? `/corpus/${workSlug}/${paraIndex - 1}` : null;
+const nextUrl = paraIndex && totalParas && paraIndex < totalParas ? `/corpus/${workSlug}/${paraIndex + 1}` : null;
+---
+
+<Base title={title}>
+  <div class="mb-6">
+    {work && (
+      <nav class="flex items-center gap-3 text-sm text-stone-500 mb-4">
+        <a href="/corpus/" class="hover:text-stone-700">Corpus</a>
+        <span>/</span>
+        <a href={`/corpus/${workSlug}/`} class="hover:text-stone-700">{work}</a>
+        {paraIndex && (
+          <>
+            <span>/</span>
+            <span class="text-stone-700">Paragraph {paraIndex}</span>
+          </>
+        )}
+      </nav>
+    )}
+
+    {paraIndex && (
+      <div class="flex items-center gap-4 text-sm">
+        {prevUrl ? (
+          <a href={prevUrl} class="text-gold-700 hover:text-gold-900">&larr; prev</a>
+        ) : (
+          <span class="text-stone-300">&larr; prev</span>
+        )}
+        <a href={`/corpus/${workSlug}/`} class="text-stone-500 hover:text-stone-700">all paragraphs</a>
+        {nextUrl ? (
+          <a href={nextUrl} class="text-gold-700 hover:text-gold-900">next &rarr;</a>
+        ) : (
+          <span class="text-stone-300">next &rarr;</span>
+        )}
+      </div>
+    )}
+  </div>
+
+  <slot />
+</Base>
