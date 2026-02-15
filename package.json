@@ -3,6 +3,8 @@
   "version": "0.1.0",
   "type": "module",
   "private": true,
+  "author": "Chad Jones <chadananda@gmail.com> (https://ctai.info)",
+  "homepage": "https://ctai.info",
   "scripts": {
     "dev": "astro dev",
     "build": "astro build",
@@ -10,9 +12,10 @@
     "parse-corpus": "node scripts/parse-corpus.js",
     "segment": "node scripts/segment.js",
     "build-catalog": "node scripts/build-works-catalog.js",
+    "build-corpus": "node scripts/build-corpus-content.js",
     "setup-meili": "node scripts/setup-meili.js",
     "index": "node scripts/index.js",
-    "pipeline": "npm run parse-corpus && npm run segment && npm run build-catalog",
+    "pipeline": "npm run parse-corpus && npm run segment && npm run build-catalog && npm run build-corpus",
     "test": "vitest run",
     "test:watch": "vitest"
   },

@@ -1,0 +1,43 @@
+---
+import Base from '../../layouts/Base.astro';
+import fs from 'node:fs';
+import path from 'node:path';
+
+// Read _meta.json files from corpus content directory
+const corpusDir = path.resolve('src/content/corpus');
+const workDirs = fs.readdirSync(corpusDir).filter(d =>
+  fs.statSync(path.join(corpusDir, d)).isDirectory()
+);
+
+const works = workDirs.map(slug => {
+  const metaPath = path.join(corpusDir, slug, '_meta.json');
+  if (!fs.existsSync(metaPath)) return null;
+  return JSON.parse(fs.readFileSync(metaPath, 'utf-8'));
+}).filter(Boolean).sort((a, b) => b.pair_count - a.pair_count);
+
+const totalPairs = works.reduce((sum, w) => sum + w.pair_count, 0);
+---
+
+<Base title="Translation Corpus">
+  <h1 class="text-3xl font-semibold text-stone-800 mb-2">Shoghi Effendi Translation Corpus</h1>
+  <p class="text-stone-500 mb-8">
+    {totalPairs.toLocaleString()} parallel paragraphs across {works.length} works — side-by-side
+    source text and Shoghi Effendi's English translation.
+  </p>
+
+  <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+    {works.map(w => (
+      <a href={`/corpus/${w.slug}/`}
+         class="block p-5 bg-white rounded-lg border border-stone-200 hover:border-gold-400 transition-colors">
+        <div class="flex items-center justify-between mb-2">
+          <h2 class="font-semibold text-stone-800">{w.title}</h2>
+          <span class="text-[10px] uppercase tracking-wider text-stone-400 bg-stone-100 px-1.5 py-0.5 rounded">
+            {w.source_lang}
+          </span>
+        </div>
+        <p class="text-sm text-stone-500">{w.author}</p>
+        <p class="text-xs text-stone-400 mt-2">{w.pair_count} paragraphs</p>
+      </a>
+    ))}
+  </div>
+</Base>

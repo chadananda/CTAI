@@ -1,0 +1,56 @@
+---
+import Base from '../../../layouts/Base.astro';
+import { getCollection } from 'astro:content';
+import fs from 'node:fs';
+import path from 'node:path';
+
+export async function getStaticPaths() {
+  const corpusDir = path.resolve('src/content/corpus');
+  const slugs = fs.readdirSync(corpusDir).filter(d =>
+    fs.statSync(path.join(corpusDir, d)).isDirectory()
+  );
+
+  return slugs.map(slug => {
+    const metaPath = path.join(corpusDir, slug, '_meta.json');
+    const meta = fs.existsSync(metaPath) ? JSON.parse(fs.readFileSync(metaPath, 'utf-8')) : { title: slug, pair_count: 0 };
+    // Read paragraph files
+    const paraFiles = fs.readdirSync(path.join(corpusDir, slug))
+      .filter(f => f !== '_meta.json' && f.endsWith('.json'))
+      .map(f => JSON.parse(fs.readFileSync(path.join(corpusDir, slug, f), 'utf-8')))
+      .sort((a, b) => a.pair_index - b.pair_index);
+    return {
+      params: { work: slug },
+      props: { meta, paragraphs: paraFiles },
+    };
+  });
+}
+
+const { work } = Astro.params;
+const { meta, paragraphs } = Astro.props;
+---
+
+<Base title={`${meta.title} — Corpus`}>
+  <nav class="flex items-center gap-3 text-sm text-stone-500 mb-6">
+    <a href="/corpus/" class="hover:text-stone-700">Corpus</a>
+    <span>/</span>
+    <span class="text-stone-700">{meta.title}</span>
+  </nav>
+
+  <h1 class="text-3xl font-semibold text-stone-800 mb-1">{meta.title}</h1>
+  <p class="text-stone-500 mb-8">{meta.author} &middot; {paragraphs.length} paragraphs</p>
+
+  <div class="space-y-2">
+    {paragraphs.map(p => (
+      <a href={`/corpus/${work}/${p.pair_index}/`}
+         class="block p-4 bg-white rounded border border-stone-200 hover:border-gold-400 transition-colors">
+        <div class="flex items-start gap-4">
+          <span class="text-xs text-stone-400 font-mono shrink-0 pt-1">{p.pair_index}</span>
+          <div class="min-w-0 flex-1">
+            <p class="text-sm text-stone-800 line-clamp-2">{p.translation}</p>
+            <p class="font-arabic text-sm text-stone-500 mt-1 line-clamp-1" dir="rtl">{p.source_text}</p>
+          </div>
+        </div>
+      </a>
+    ))}
+  </div>
+</Base>

@@ -1,0 +1,39 @@
+---
+import Base from '../../layouts/Base.astro';
+import { getCollection } from 'astro:content';
+
+let articles = [];
+try {
+  articles = await getCollection('articles');
+} catch {
+  // No articles yet
+}
+---
+
+<Base title="Articles">
+  <h1 class="text-3xl font-semibold text-stone-800 mb-2">Articles</h1>
+  <p class="text-stone-500 mb-8">
+    Scholarly articles on translation methodology, terminology, and the Shoghi Effendi corpus.
+  </p>
+
+  {articles.length > 0 ? (
+    <div class="space-y-4">
+      {articles.map(article => (
+        <a href={`/articles/${article.id}/`}
+           class="block p-5 bg-white rounded-lg border border-stone-200 hover:border-gold-400 transition-colors">
+          <h2 class="font-semibold text-stone-800 mb-1">{article.data.title}</h2>
+          {article.data.excerpt && (
+            <p class="text-sm text-stone-500">{article.data.excerpt}</p>
+          )}
+          {article.data.date && (
+            <p class="text-xs text-stone-400 mt-2">{article.data.date}</p>
+          )}
+        </a>
+      ))}
+    </div>
+  ) : (
+    <div class="p-8 bg-white rounded-lg border border-stone-200 text-center">
+      <p class="text-stone-400">Articles coming soon.</p>
+    </div>
+  )}
+</Base>

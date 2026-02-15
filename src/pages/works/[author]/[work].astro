@@ -1,0 +1,74 @@
+---
+import Base from '../../../layouts/Base.astro';
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  const allWorks = await getCollection('works');
+  return allWorks.map(entry => ({
+    params: { author: entry.data.author_slug, work: entry.data.doc_id },
+    props: { work: entry.data },
+  }));
+}
+
+const { work } = Astro.props;
+---
+
+<Base title={work.title}>
+  <nav class="flex items-center gap-3 text-sm text-stone-500 mb-6">
+    <a href="/works/" class="hover:text-stone-700">Works</a>
+    <span>/</span>
+    <a href={`/works/${work.author_slug}/`} class="hover:text-stone-700">{work.author}</a>
+    <span>/</span>
+    <span class="text-stone-700">{work.title}</span>
+  </nav>
+
+  <div class="max-w-3xl">
+    <h1 class="text-3xl font-semibold text-stone-800 mb-1">{work.title}</h1>
+    {work.title_original && (
+      <p class="font-arabic text-2xl text-stone-600 mb-4" dir="rtl">{work.title_original}</p>
+    )}
+
+    <dl class="grid grid-cols-[auto_1fr] gap-x-6 gap-y-2 text-sm mt-6">
+      <dt class="text-stone-400">Author</dt>
+      <dd class="text-stone-800">{work.author}</dd>
+
+      <dt class="text-stone-400">Language</dt>
+      <dd class="text-stone-800">{work.language === 'ar' ? 'Arabic' : work.language === 'fa' ? 'Persian' : work.language}</dd>
+
+      {work.source_url && (
+        <>
+          <dt class="text-stone-400">Source</dt>
+          <dd>
+            <a href={work.source_url} target="_blank" rel="noopener noreferrer"
+               class="text-gold-700 hover:text-gold-900 underline underline-offset-2">
+              View original text
+            </a>
+          </dd>
+        </>
+      )}
+
+      {work.has_english_translation && work.english_url && (
+        <>
+          <dt class="text-stone-400">English</dt>
+          <dd>
+            <a href={work.english_url} target="_blank" rel="noopener noreferrer"
+               class="text-gold-700 hover:text-gold-900 underline underline-offset-2">
+              View English translation
+            </a>
+          </dd>
+        </>
+      )}
+
+      {work.se_translation && (
+        <>
+          <dt class="text-stone-400">SE Corpus</dt>
+          <dd>
+            <span class="text-gold-700 bg-gold-50 text-xs px-2 py-0.5 rounded">
+              In Shoghi Effendi translation corpus
+            </span>
+          </dd>
+        </>
+      )}
+    </dl>
+  </div>
+</Base>

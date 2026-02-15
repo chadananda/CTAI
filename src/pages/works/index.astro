@@ -1,0 +1,57 @@
+---
+import Base from '../../layouts/Base.astro';
+import { getCollection } from 'astro:content';
+
+const allWorks = await getCollection('works');
+const byAuthor = new Map();
+for (const entry of allWorks) {
+  const author = entry.data.author;
+  if (!byAuthor.has(author)) byAuthor.set(author, []);
+  byAuthor.get(author).push(entry.data);
+}
+// Sort authors: Baha'u'llah first, then The Bab, Abdu'l-Baha, Shoghi Effendi
+const authorOrder = ["Baha'u'llah", "The Bab", "Abdu'l-Baha", "Shoghi Effendi"];
+const sortedAuthors = [...byAuthor.keys()].sort(
+  (a, b) => (authorOrder.indexOf(a) === -1 ? 99 : authorOrder.indexOf(a)) - (authorOrder.indexOf(b) === -1 ? 99 : authorOrder.indexOf(b))
+);
+---
+
+<Base title="Best-Known Works">
+  <h1 class="text-3xl font-semibold text-stone-800 mb-2">Best-Known Works</h1>
+  <p class="text-stone-500 mb-8">
+    {allWorks.length} sacred texts in Arabic and Persian, with source links and metadata.
+  </p>
+
+  {sortedAuthors.map(author => {
+    const works = byAuthor.get(author).sort((a, b) => a.title.localeCompare(b.title));
+    const slug = works[0].author_slug;
+    return (
+      <section class="mb-10">
+        <h2 class="text-xl font-semibold text-stone-700 mb-1">
+          <a href={`/works/${slug}/`} class="hover:text-gold-700 transition-colors">{author}</a>
+        </h2>
+        <p class="text-sm text-stone-400 mb-4">{works.length} works</p>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-3">
+          {works.map(w => (
+            <a href={`/works/${w.author_slug}/${w.doc_id}/`}
+               class="block p-4 bg-white rounded border border-stone-200 hover:border-gold-400 transition-colors">
+              <div class="font-semibold text-stone-800 text-sm mb-1">{w.title}</div>
+              {w.title_original && (
+                <div class="font-arabic text-stone-500 text-sm" dir="rtl">{w.title_original}</div>
+              )}
+              <div class="flex items-center gap-2 mt-2">
+                <span class="text-[10px] uppercase tracking-wider text-stone-400 bg-stone-100 px-1.5 py-0.5 rounded">{w.language}</span>
+                {w.se_translation && (
+                  <span class="text-[10px] uppercase tracking-wider text-gold-700 bg-gold-50 px-1.5 py-0.5 rounded">SE Translation</span>
+                )}
+                {w.has_english_translation && (
+                  <span class="text-[10px] uppercase tracking-wider text-emerald-700 bg-emerald-50 px-1.5 py-0.5 rounded">English</span>
+                )}
+              </div>
+            </a>
+          ))}
+        </div>
+      </section>
+    );
+  })}
+</Base>

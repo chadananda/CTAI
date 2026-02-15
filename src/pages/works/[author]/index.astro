@@ -1,0 +1,53 @@
+---
+import Base from '../../../layouts/Base.astro';
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  const allWorks = await getCollection('works');
+  const authors = new Map();
+  for (const entry of allWorks) {
+    const slug = entry.data.author_slug;
+    if (!authors.has(slug)) authors.set(slug, { author: entry.data.author, works: [] });
+    authors.get(slug).works.push(entry.data);
+  }
+  return [...authors.entries()].map(([slug, { author, works }]) => ({
+    params: { author: slug },
+    props: { authorName: author, works: works.sort((a, b) => a.title.localeCompare(b.title)) },
+  }));
+}
+
+const { author } = Astro.params;
+const { authorName, works } = Astro.props;
+---
+
+<Base title={`${authorName} — Works`}>
+  <nav class="flex items-center gap-3 text-sm text-stone-500 mb-6">
+    <a href="/works/" class="hover:text-stone-700">Works</a>
+    <span>/</span>
+    <span class="text-stone-700">{authorName}</span>
+  </nav>
+
+  <h1 class="text-3xl font-semibold text-stone-800 mb-2">{authorName}</h1>
+  <p class="text-stone-500 mb-8">{works.length} works</p>
+
+  <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-3">
+    {works.map(w => (
+      <a href={`/works/${author}/${w.doc_id}/`}
+         class="block p-4 bg-white rounded border border-stone-200 hover:border-gold-400 transition-colors">
+        <div class="font-semibold text-stone-800 text-sm mb-1">{w.title}</div>
+        {w.title_original && (
+          <div class="font-arabic text-stone-500 text-sm" dir="rtl">{w.title_original}</div>
+        )}
+        <div class="flex items-center gap-2 mt-2">
+          <span class="text-[10px] uppercase tracking-wider text-stone-400 bg-stone-100 px-1.5 py-0.5 rounded">{w.language}</span>
+          {w.se_translation && (
+            <span class="text-[10px] uppercase tracking-wider text-gold-700 bg-gold-50 px-1.5 py-0.5 rounded">SE Translation</span>
+          )}
+          {w.has_english_translation && (
+            <span class="text-[10px] uppercase tracking-wider text-emerald-700 bg-emerald-50 px-1.5 py-0.5 rounded">English</span>
+          )}
+        </div>
+      </a>
+    ))}
+  </div>
+</Base>
