@@ -1,7 +1,13 @@
-tmp/
-.claude/context/
 node_modules/
 dist/
-.env
-.DS_Store
+.output/
+tmp/
+.claude/context/
 .claude/
+.env
+.env.local
+.wrangler/
+.astro/
+.DS_Store
+staging/
+*.log
