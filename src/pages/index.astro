@@ -3,69 +3,131 @@ import Base from '../layouts/Base.astro';
 import Search from '../components/Search.svelte';
 ---
 
-<Base title="Home">
+<Base title="Committee Translation AI">
   <!-- ===== HERO ===== -->
-  <section class="max-w-4xl mx-auto text-center pt-20 pb-16">
+  <section class="max-w-3xl mx-auto text-center pt-20 pb-16">
     <p class="text-sm uppercase tracking-[0.3em] text-gold-600 mb-6">Committee Translation AI</p>
-    <h1 class="text-5xl md:text-6xl font-semibold text-stone-800 tracking-tight leading-[1.1] mb-6">
-      Three AI scholars walk into<br class="hidden md:block" /> a translation committee&hellip;
+    <h1 class="text-4xl md:text-5xl font-semibold text-stone-800 tracking-tight leading-[1.15] mb-8">
+      The best translations<br class="hidden md:block" /> come from a committee.
     </h1>
-    <p class="text-xl text-stone-500 max-w-2xl mx-auto leading-relaxed mb-4">
-      &hellip;and what they produce is a deeply researched, phrase-by-phrase translation
-      informed by the complete indexed corpus of Shoghi Effendi's life work.
-      With notes. <em>Really good</em> notes.
+    <blockquote class="text-lg text-stone-600 leading-relaxed italic max-w-2xl mx-auto border-l-2 border-gold-300 pl-6 text-left mb-4">
+      &ldquo;Whenever it is possible a committee must be organized for the
+      translation of the Tablets. Wise souls who have mastered and studied
+      perfectly the Persian, Arabic, and other foreign languages&hellip;
+      must commence translating Tablets and books containing the proofs
+      of this Revelation.&rdquo;
+    </blockquote>
+    <p class="text-sm text-stone-400 mb-8">
+      &mdash; 'Abdu'l-Bah&aacute;, <em>Tablets of the Divine Plan</em>
     </p>
-    <p class="text-base text-stone-400 max-w-xl mx-auto">
-      If you remember a certain DOS concordance tool from the early '90s,
-      the acronym may ring a bell. That's not an accident.
+    <p class="text-stone-500 max-w-xl mx-auto leading-relaxed">
+      There's a reason for that. Translation of sacred text isn't a solo sport.
+      Every word carries layers &mdash; theological, literary, historical, cultural &mdash;
+      and no single mind can hold them all at once. A committee can.
     </p>
   </section>
 
-  <!-- ===== THE PROBLEM ===== -->
+  <!-- ===== SHOGHI EFFENDI'S STANDARD ===== -->
   <section class="max-w-3xl mx-auto pb-20">
     <div class="bg-white rounded-xl border border-stone-200 p-8 md:p-12 shadow-sm">
-      <p class="text-sm uppercase tracking-[0.2em] text-gold-600 mb-4">The puzzle</p>
       <h2 class="text-2xl font-semibold text-stone-800 mb-6">
-        One word. Four hours. Zero confidence.
+        Then Shoghi Effendi raised the bar.
       </h2>
       <p class="text-stone-600 leading-relaxed mb-6">
-        Picture this: you're translating a newly published Tablet of Bah&aacute;'u'll&aacute;h and you hit
-        <strong class="font-arabic text-lg" dir="rtl">مظهر ظهور</strong>.
-        Roughly: &ldquo;the place where something becomes manifest.&rdquo;
-        You could say &ldquo;appearance.&rdquo; You could go theological with &ldquo;theophany.&rdquo;
-        You could stare at the ceiling for a while.
+        For over thirty years, the Guardian of the Bah&aacute;'&iacute; Faith translated
+        Bah&aacute;'u'll&aacute;h's Arabic and Persian into some of the most architecturally
+        coherent English prose of the twentieth century. He didn't just translate words.
+        He built a <em>system</em>.
       </p>
       <p class="text-stone-600 leading-relaxed mb-6">
-        Shoghi Effendi &mdash; who spent decades turning Bah&aacute;'u'll&aacute;h's Arabic and Persian into
-        some of the most luminous English prose of the 20th century &mdash;
-        chose <strong>&ldquo;Manifestation.&rdquo;</strong>
-        And if you understand <em>why</em>, you're most of the way to understanding
-        what makes his translation corpus a masterwork of linguistic architecture.
+        Take the Arabic <span class="font-arabic text-lg" dir="rtl">قَلْبًا جَيِّدًا حَسَنًا مُنيرًا</span>.
+        Literally: &ldquo;a good, beautiful, luminous heart.&rdquo; Three physical adjectives.
+        Shoghi Effendi renders this as <strong>&ldquo;a pure, kindly and radiant heart&rdquo;</strong>
+        &mdash; three <em>spiritual</em> qualities. Same structure, entirely different register.
+        His widow R&uacute;h&iacute;yyih Kh&aacute;num explained why: he believed
+        &ldquo;Arabic synonyms usually meant the same thing but English ones always had
+        a slight shade of difference which made it possible to be more exact
+        in rendering the thought.&rdquo;
       </p>
       <p class="text-stone-600 leading-relaxed mb-6">
-        &ldquo;Manifestation&rdquo; carries the philosophical weight of the Latin <em>manifestare</em>
-        (to make palpable, to reveal to the senses) <em>and</em> the theological precision of
-        something hidden becoming visible. It resonates with Christian vocabulary
-        while preserving the Islamic philosophical substrate of the original.
-        He used it <em>consistently</em>, across thousands of pages.
+        Or consider <span class="font-arabic text-lg" dir="rtl">تقلید</span> (<em>Taql&iacute;d</em>).
+        A dictionary says &ldquo;imitation.&rdquo; But in Islamic jurisprudence
+        <em>Taql&iacute;d</em> carries a deeply negative connotation &mdash;
+        the uncritical acceptance of authority without independent investigation.
+        So Shoghi Effendi rendered it <strong>&ldquo;blind imitation&rdquo;</strong> &mdash;
+        adding an adjective that isn't in the Arabic <em>because the Arabic already implies it</em>
+        to any educated reader.
       </p>
-      <p class="text-stone-700 leading-relaxed font-medium">
-        Multiply that decision by tens of thousands of phrases across the
-        Kit&aacute;b-i-&Iacute;q&aacute;n, the Kit&aacute;b-i-Aqdas, Gleanings, and dozens of other works &mdash;
-        and you get a terminology so coherent that a single English word
-        can unlock an entire Arabic concept. <br/>
-        <span class="text-gold-700">CTAI gives translators access to that entire system.</span>
+      <p class="text-stone-600 leading-relaxed mb-6">
+        He did this across tens of thousands of phrases. The word
+        <span class="font-arabic" dir="rtl">مطلع</span> (<em>Ma&thorn;li'</em>)
+        is consistently rendered with solar imagery &mdash; &ldquo;Dayspring,&rdquo; &ldquo;Day Star,&rdquo;
+        &ldquo;Dawning-place&rdquo; &mdash; preserving the cosmological metaphor that pervades
+        the original. The word
+        <span class="font-arabic" dir="rtl">مُلْك</span> (<em>Mulk</em>)
+        is always &ldquo;sovereignty,&rdquo; never &ldquo;kingdom,&rdquo; never &ldquo;dominion.&rdquo;
+        Every choice reinforces every other choice, creating a terminology so coherent
+        that a single English word can unlock an entire Arabic concept.
+      </p>
+      <p class="text-stone-600 leading-relaxed">
+        Franklin Lewis, the University of Chicago Persian scholar, put it beautifully:
+        Shoghi Effendi's approach was <em>&ldquo;artistic rather than strictly doctrinal&rdquo;</em>
+        &mdash; aimed at recreating &ldquo;the psychological and spiritual experience of
+        reading the original.&rdquo; Like a musical conductor, he chose the tempo, the attack,
+        the mode of expression &mdash; and
+        <strong>&ldquo;has not played a single wrong note.&rdquo;</strong>
       </p>
     </div>
   </section>
 
-  <!-- ===== LIVE EXAMPLE: Side-by-side ===== -->
+  <!-- ===== THE UNATTAINABLE GOAL ===== -->
+  <section class="max-w-3xl mx-auto pb-20">
+    <div class="bg-stone-800 rounded-xl p-8 md:p-12 text-stone-200">
+      <h2 class="text-2xl font-semibold text-white mb-6">
+        And even he called it &ldquo;the unattainable goal.&rdquo;
+      </h2>
+      <blockquote class="text-lg text-stone-300 leading-relaxed italic border-l-2 border-gold-400 pl-6 mb-6">
+        &ldquo;This is one more attempt to introduce to the West, in language however
+        inadequate, this book of unsurpassed pre-eminence among the writings of the
+        Author of the Bah&aacute;'&iacute; Revelation. The hope is that it may assist others
+        in their efforts to approach what must always be regarded as the unattainable
+        goal &mdash; a befitting rendering of Bah&aacute;'u'll&aacute;h's matchless utterance.&rdquo;
+      </blockquote>
+      <p class="text-sm text-gold-400 mb-8">
+        &mdash; Shoghi Effendi, Foreword to the <em>Kit&aacute;b-i-&Iacute;q&aacute;n</em>
+      </p>
+      <p class="text-stone-300 leading-relaxed mb-6">
+        Even the authorized translator &mdash; the one whose renderings are the institutional
+        standard for all subsequent translations into other languages &mdash;
+        saw perfect translation as something to be <em>approached</em>, never reached.
+      </p>
+      <p class="text-stone-300 leading-relaxed mb-6">
+        And he didn't approach it alone. He consulted George Townshend, an Irish
+        cleric and literary master, on nearly every major translation from the
+        Hidden Words through <em>God Passes By</em>. Ethel Rosenberg reviewed the
+        Hidden Words word-by-word. Esslemont assisted. Their combined effect,
+        Townshend's biographers note, elevated the translations
+        <strong class="text-white">&ldquo;from being very good to being exquisite.&rdquo;</strong>
+      </p>
+      <p class="text-stone-300 leading-relaxed">
+        He wrote every sentence aloud. He kept a 1934 Webster's Dictionary at hand.
+        He read Gibbon and Carlyle for their prose rhythms.
+        He revised the Hidden Words <em>four times</em> &mdash;
+        1924, 1925, 1929, and 1954. The result was, as scholars describe it,
+        &ldquo;a grand synthesis of English majestic writing &mdash;
+        Jacobean, Restoration, Victorian, and Edwardian &mdash;
+        blended seamlessly into a new literary creation.&rdquo;
+      </p>
+    </div>
+  </section>
+
+  <!-- ===== LIVE EXAMPLE ===== -->
   <section class="max-w-5xl mx-auto pb-20">
     <p class="text-sm uppercase tracking-[0.2em] text-gold-600 mb-4 text-center">From the corpus</p>
     <h2 class="text-2xl font-semibold text-stone-800 mb-2 text-center">
-      2,530 paragraphs, indexed and searchable
+      See what that looks like in practice
     </h2>
-    <p class="text-stone-400 text-center mb-8 text-sm">Click to explore the full reference page</p>
+    <p class="text-stone-400 text-center mb-8 text-sm">2,530 paragraphs, indexed and searchable</p>
 
     <div class="grid grid-cols-1 md:grid-cols-2 gap-6 mb-6">
       <a href="/corpus/the-hidden-words/2/" class="bg-white rounded-xl border border-stone-200 p-8 hover:border-gold-400 transition-all hover:shadow-md block group">
@@ -82,66 +144,158 @@ import Search from '../components/Search.svelte';
         <p class="text-gold-600 text-xs mt-4 opacity-0 group-hover:opacity-100 transition-opacity">View reference page &rarr;</p>
       </a>
 
-      <div class="bg-stone-800 rounded-xl p-8 text-stone-200">
-        <p class="text-xs text-gold-400 mb-4">Why this rendering is a masterclass</p>
-        <p class="leading-relaxed mb-4 text-stone-300">
-          The Arabic <span class="font-arabic text-gold-300" dir="rtl">قَلْبًا جَيِّدًا حَسَنًا مُنيرًا</span>
-          is literally &ldquo;a good, beautiful, luminous heart.&rdquo;
-          Three physical adjectives.
-        </p>
-        <p class="leading-relaxed mb-4 text-stone-300">
-          Shoghi Effendi transforms these into <strong class="text-white">&ldquo;a pure, kindly and radiant heart&rdquo;</strong>
-          &mdash; three <em>spiritual</em> qualities. Same structure, completely different register.
-          That's not translation. That's alchemy.
-        </p>
-        <p class="leading-relaxed text-stone-300">
-          And <span class="font-arabic text-gold-300" dir="rtl">مُلْكًا</span> (<em>mulkan</em>)
-          becomes <strong class="text-white">&ldquo;sovereignty&rdquo;</strong> &mdash; never &ldquo;kingdom,&rdquo;
-          never &ldquo;dominion.&rdquo; Consistent across every work. Every time.
-        </p>
+      <div class="bg-stone-50 rounded-xl border border-stone-200 p-8">
+        <p class="text-xs text-stone-400 mb-4">What's happening here</p>
+        <div class="space-y-4 text-sm text-stone-600 leading-relaxed">
+          <p>
+            <span class="font-arabic text-gold-700" dir="rtl">جَيِّدًا حَسَنًا مُنيرًا</span>
+            &rarr; &ldquo;good, beautiful, luminous&rdquo; becomes
+            <strong>&ldquo;pure, kindly, radiant&rdquo;</strong> &mdash;
+            physical adjectives elevated into spiritual qualities.
+          </p>
+          <p>
+            <span class="font-arabic text-gold-700" dir="rtl">مُلْكًا</span>
+            &rarr; &ldquo;sovereignty,&rdquo; never &ldquo;kingdom.&rdquo;
+            Consistent across every work, every page.
+          </p>
+          <p>
+            <span class="font-arabic text-gold-700" dir="rtl">أَزَلًا قَدِيمًا</span>
+            &rarr; &ldquo;ancient, imperishable and everlasting&rdquo; &mdash;
+            two near-synonyms for eternity expanded into three English words,
+            each with its own shade.
+          </p>
+          <p class="text-stone-500 text-xs pt-2 border-t border-stone-200">
+            Every paragraph in the corpus gets a deep reference page like this.
+            <a href="/corpus/" class="text-gold-600 hover:text-gold-800 ml-1">Explore &rarr;</a>
+          </p>
+        </div>
       </div>
-    </div>
-
-    <div class="text-center">
-      <a href="/corpus/" class="inline-flex items-center gap-2 text-gold-700 hover:text-gold-900 text-sm font-medium transition-colors">
-        Explore the full corpus &rarr;
-      </a>
     </div>
   </section>
 
-  <!-- ===== HOW IT WORKS: The Committee ===== -->
+  <!-- ===== THE MODERN PROBLEM ===== -->
+  <section class="max-w-3xl mx-auto pb-20">
+    <h2 class="text-2xl font-semibold text-stone-800 mb-6">
+      Today we have instant AI translations.
+    </h2>
+    <p class="text-stone-600 leading-relaxed mb-6">
+      You can paste a Tablet of Bah&aacute;'u'll&aacute;h into any large language model
+      and get a translation in seconds. It'll be grammatical. It might even be elegant.
+    </p>
+    <p class="text-stone-800 text-xl font-medium mb-6">
+      But it won't be <em>this</em>.
+    </p>
+    <div class="space-y-5 mb-8">
+      <div class="flex gap-4">
+        <div class="shrink-0 w-8 h-8 rounded-full bg-stone-100 flex items-center justify-center text-stone-400 text-sm font-bold">1</div>
+        <div>
+          <p class="text-stone-800 font-medium mb-1">It averages everything</p>
+          <p class="text-stone-500 text-sm leading-relaxed">
+            LLMs have been trained on millions of translations &mdash; every quality level,
+            every tradition, every amateur effort. When you ask for a translation,
+            you get the mean. Shoghi Effendi's distinctive voice?
+            Drowned out by sheer volume.
+          </p>
+        </div>
+      </div>
+      <div class="flex gap-4">
+        <div class="shrink-0 w-8 h-8 rounded-full bg-stone-100 flex items-center justify-center text-stone-400 text-sm font-bold">2</div>
+        <div>
+          <p class="text-stone-800 font-medium mb-1">It forgets</p>
+          <p class="text-stone-500 text-sm leading-relaxed">
+            Shoghi Effendi's complete translations span thousands of pages.
+            No context window can hold them. That means no AI translator
+            can know that <span class="font-arabic" dir="rtl">مطلع</span>
+            appears 23 times in the corpus, always with solar imagery,
+            unless someone tells it. And nobody tells it.
+          </p>
+        </div>
+      </div>
+      <div class="flex gap-4">
+        <div class="shrink-0 w-8 h-8 rounded-full bg-stone-100 flex items-center justify-center text-stone-400 text-sm font-bold">3</div>
+        <div>
+          <p class="text-stone-800 font-medium mb-1">It works alone</p>
+          <p class="text-stone-500 text-sm leading-relaxed">
+            A single prompt produces a single rendering with a single set of biases.
+            When there's a hard call &mdash; &ldquo;sovereignty&rdquo; or &ldquo;dominion&rdquo;?
+            &ldquo;chosen&rdquo; or &ldquo;singled out&rdquo;? &mdash;
+            a single model silently picks one and moves on.
+            The tension between options, which is often where the insight lives,
+            vanishes without a trace.
+          </p>
+        </div>
+      </div>
+    </div>
+    <p class="text-stone-600 leading-relaxed">
+      'Abdu'l-Bah&aacute; said to use a committee.
+      Shoghi Effendi consulted collaborators on every major work.
+      But AI translates alone.
+    </p>
+  </section>
+
+  <!-- ===== THE WHAT-IF ===== -->
+  <section class="max-w-3xl mx-auto pb-20">
+    <div class="bg-gradient-to-br from-gold-50 to-amber-50 rounded-xl border border-gold-200 p-8 md:p-12">
+      <h2 class="text-2xl font-semibold text-stone-800 mb-6">
+        But what if it didn't have to?
+      </h2>
+      <p class="text-stone-700 leading-relaxed mb-6 text-lg">
+        What if you could give three AI translators distinct specializations &mdash;
+        literary, cultural, theological &mdash; and teach them to consult?
+        What if you gave them a research assistant with the <em>entire</em>
+        indexed corpus of Shoghi Effendi's translations, searchable
+        by keyword and meaning?
+      </p>
+      <p class="text-stone-600 leading-relaxed mb-6">
+        What if, before anyone translated a word, that research assistant
+        looked up every theologically significant term in your passage
+        and assembled a dossier of exactly how Shoghi Effendi handled each one &mdash;
+        with full surrounding context?
+      </p>
+      <p class="text-stone-600 leading-relaxed mb-6">
+        What if each translator worked independently &mdash; no peeking &mdash;
+        and then they critiqued each other's renderings?
+        What if they argued about it, revised, argued again,
+        and only settled when they converged or admitted genuine disagreement?
+      </p>
+      <p class="text-stone-800 leading-relaxed text-lg font-medium">
+        That's CTAI. A translation committee that never forgets a precedent,
+        never tires of deliberation, and shows all its work.
+      </p>
+    </div>
+  </section>
+
+  <!-- ===== THE COMMITTEE ===== -->
   <section class="max-w-4xl mx-auto pb-20">
-    <p class="text-sm uppercase tracking-[0.2em] text-gold-600 mb-4 text-center">How it works</p>
+    <p class="text-sm uppercase tracking-[0.2em] text-gold-600 mb-4 text-center">Meet the committee</p>
     <h2 class="text-3xl font-semibold text-stone-800 mb-4 text-center">
-      Not a chatbot.<br class="hidden md:block" />A consultation.
+      Four agents. Zero groupthink.
     </h2>
     <p class="text-stone-500 text-center max-w-2xl mx-auto mb-12">
-      Picture three brilliant specialists and one tireless research assistant,
-      sitting around a table, going back and forth until they get it right.
-      Now picture they have perfect memory.
+      Each agent brings a different lens to the same text &mdash;
+      and they argue about it until they get it right.
     </p>
 
-    <!-- Step 1: Research -->
-    <div class="relative">
-      <div class="absolute left-8 top-0 bottom-0 w-px bg-stone-200 hidden md:block"></div>
-
-      <div class="md:pl-20 mb-12 relative">
-        <div class="hidden md:flex absolute left-5 top-1 w-7 h-7 rounded-full bg-gold-100 border-2 border-gold-400 items-center justify-center text-xs font-mono text-gold-700">1</div>
-        <div class="bg-white rounded-xl border border-stone-200 p-8">
-          <h3 class="text-lg font-semibold text-stone-800 mb-3">The Research Agent does its homework</h3>
+    <!-- Research Agent -->
+    <div class="bg-white rounded-xl border border-stone-200 p-8 mb-6">
+      <div class="flex items-start gap-4">
+        <div class="shrink-0 w-10 h-10 rounded-full bg-stone-100 flex items-center justify-center text-stone-500 text-sm font-bold">R</div>
+        <div>
+          <h3 class="text-lg font-semibold text-stone-800 mb-1">The Research Agent</h3>
+          <p class="text-stone-500 text-sm mb-3">Does its homework before anyone translates a word</p>
           <p class="text-stone-600 leading-relaxed mb-4">
-            Before anyone translates a word, the Research Agent analyzes every theologically significant term
-            in your source passage. It searches the full indexed corpus &mdash;
-            keyword and semantic &mdash; and assembles a <strong>Reference Packet</strong>:
-            a dossier of exactly how Shoghi Effendi handled each term, with full surrounding context.
+            Analyzes every significant term in your source passage,
+            searches the full indexed corpus &mdash; keyword <em>and</em> semantic &mdash;
+            and assembles a <strong>Reference Packet</strong>:
+            a dossier of every relevant precedent, with full surrounding context.
           </p>
           <div class="bg-stone-50 rounded-lg p-5 text-sm">
             <p class="text-stone-500 mb-2">
-              Take <strong class="font-arabic" dir="rtl">عرفان</strong> (<em>Irf&aacute;n</em>). The Research Agent finds three distinct renderings:
+              Take <strong class="font-arabic" dir="rtl">عرفان</strong> (<em>Irf&aacute;n</em>). The Research Agent finds:
             </p>
             <ul class="text-stone-600 space-y-1 ml-4">
               <li>&bull; <strong>&ldquo;knowledge&rdquo;</strong> &mdash; general epistemological sense</li>
-              <li>&bull; <strong>&ldquo;recognition&rdquo;</strong> &mdash; recognizing the Manifestation of God</li>
+              <li>&bull; <strong>&ldquo;recognition&rdquo;</strong> &mdash; recognizing the Manifestation</li>
               <li>&bull; <strong>&ldquo;true understanding&rdquo;</strong> &mdash; mystical connotation</li>
             </ul>
             <p class="text-stone-400 mt-3 text-xs">
@@ -150,104 +304,79 @@ import Search from '../components/Search.svelte';
           </div>
         </div>
       </div>
+    </div>
 
-      <!-- Step 2: Three Translators -->
-      <div class="md:pl-20 mb-12 relative">
-        <div class="hidden md:flex absolute left-5 top-1 w-7 h-7 rounded-full bg-gold-100 border-2 border-gold-400 items-center justify-center text-xs font-mono text-gold-700">2</div>
-        <div class="bg-white rounded-xl border border-stone-200 p-8">
-          <h3 class="text-lg font-semibold text-stone-800 mb-2">Three translators. Zero groupthink.</h3>
-          <p class="text-stone-600 leading-relaxed mb-6">
-            Each agent works <strong>independently</strong> &mdash; no peeking at each other's papers.
-            Same source, same research, completely different critical lenses.
-          </p>
-
-          <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
-            <div class="rounded-lg bg-amber-50 border border-amber-200 p-5">
-              <p class="font-semibold text-stone-800 text-sm mb-1">Dr. Penelope Hamilton</p>
-              <p class="text-xs text-amber-700 uppercase tracking-wider mb-3">Literary &amp; Fidelity</p>
-              <p class="text-stone-600 text-sm leading-relaxed">
-                Keats. Gibbon. The King James Bible.
-                She ensures the translation reads like literature, not a gloss &mdash;
-                while flagging every deviation from the literal meaning, even the beautiful ones.
-              </p>
-            </div>
-            <div class="rounded-lg bg-emerald-50 border border-emerald-200 p-5">
-              <p class="font-semibold text-stone-800 text-sm mb-1">Prof. Reza Farid</p>
-              <p class="text-xs text-emerald-700 uppercase tracking-wider mb-3">Persian &amp; Cultural</p>
-              <p class="text-stone-600 text-sm leading-relaxed">
-                When your passage echoes H&aacute;fiz or R&uacute;m&iacute;, he's the one who catches it.
-                Expert in the layered meanings of Sufi terminology and the specific choices
-                Shoghi Effendi made in the Kit&aacute;b-i-&Iacute;q&aacute;n.
-              </p>
-            </div>
-            <div class="rounded-lg bg-sky-50 border border-sky-200 p-5">
-              <p class="font-semibold text-stone-800 text-sm mb-1">Dr. Ahmed Bakri</p>
-              <p class="text-xs text-sky-700 uppercase tracking-wider mb-3">Arabic &amp; Theological</p>
-              <p class="text-stone-600 text-sm leading-relaxed">
-                The Arabic says <span class="font-arabic" dir="rtl">تقلید</span>. A dictionary says &ldquo;imitation.&rdquo;
-                Dr. Bakri says <em>&ldquo;blind</em> imitation&rdquo; &mdash; and he can tell you exactly why
-                Shoghi Effendi added that adjective.
-              </p>
-            </div>
-          </div>
-        </div>
+    <!-- Three Translators -->
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-5 mb-6">
+      <div class="rounded-xl bg-amber-50 border border-amber-200 p-6">
+        <div class="w-8 h-8 rounded-full bg-amber-100 flex items-center justify-center text-amber-700 text-xs font-bold mb-3">H</div>
+        <p class="font-semibold text-stone-800 text-sm mb-1">Dr. Penelope Hamilton</p>
+        <p class="text-xs text-amber-700 uppercase tracking-wider mb-3">Literary &amp; Fidelity</p>
+        <p class="text-stone-600 text-sm leading-relaxed">
+          Keats. Gibbon. The King James Bible.
+          She ensures the translation reads like literature, not a gloss &mdash;
+          while flagging every deviation from the literal meaning.
+        </p>
       </div>
-
-      <!-- Step 3: Deliberation -->
-      <div class="md:pl-20 mb-12 relative">
-        <div class="hidden md:flex absolute left-5 top-1 w-7 h-7 rounded-full bg-gold-100 border-2 border-gold-400 items-center justify-center text-xs font-mono text-gold-700">3</div>
-        <div class="bg-white rounded-xl border border-stone-200 p-8">
-          <h3 class="text-lg font-semibold text-stone-800 mb-3">They argue. Then they argue some more.</h3>
-          <p class="text-stone-600 leading-relaxed mb-4">
-            All three renderings are revealed. Each agent critiques the other two on six axes:
-            <em>style, historical context, literary allusions, theological terminology, translation precedent,</em>
-            and <em>figurative language</em>.
-            Agreements get locked in. Disagreements get re-translated. Up to three rounds.
-          </p>
-          <p class="text-stone-700 leading-relaxed italic border-l-2 border-gold-300 pl-4">
-            Truth emerges not from any single perspective but from
-            the iterative clash and synthesis of diverse viewpoints offered with detachment.
-            <span class="text-stone-400 not-italic text-sm block mt-1">Sound familiar?</span>
-          </p>
-        </div>
+      <div class="rounded-xl bg-emerald-50 border border-emerald-200 p-6">
+        <div class="w-8 h-8 rounded-full bg-emerald-100 flex items-center justify-center text-emerald-700 text-xs font-bold mb-3">F</div>
+        <p class="font-semibold text-stone-800 text-sm mb-1">Prof. Reza Farid</p>
+        <p class="text-xs text-emerald-700 uppercase tracking-wider mb-3">Persian &amp; Cultural</p>
+        <p class="text-stone-600 text-sm leading-relaxed">
+          When your passage echoes H&aacute;fiz or R&uacute;m&iacute;, he catches it.
+          Expert in Sufi terminology and the specific methodology
+          Shoghi Effendi used in the Kit&aacute;b-i-&Iacute;q&aacute;n.
+        </p>
       </div>
-
-      <!-- Step 4: Assembly -->
-      <div class="md:pl-20 relative">
-        <div class="hidden md:flex absolute left-5 top-1 w-7 h-7 rounded-full bg-gold-100 border-2 border-gold-400 items-center justify-center text-xs font-mono text-gold-700">4</div>
-        <div class="bg-white rounded-xl border border-stone-200 p-8">
-          <h3 class="text-lg font-semibold text-stone-800 mb-3">From phrases to prose</h3>
-          <p class="text-stone-600 leading-relaxed mb-4">
-            An Assembly Agent weaves the settled phrases into flowing paragraphs.
-            A Fidelity Reviewer catches any meaning that drifted in the weaving.
-            Every phrase keeps its confidence level &mdash;
-            <strong>settled</strong> or <strong>contested</strong> &mdash;
-            and the full deliberation notes travel with it.
-          </p>
-          <p class="text-stone-500 text-sm">
-            Those notes? Often more valuable than the translation itself.
-          </p>
-        </div>
+      <div class="rounded-xl bg-sky-50 border border-sky-200 p-6">
+        <div class="w-8 h-8 rounded-full bg-sky-100 flex items-center justify-center text-sky-700 text-xs font-bold mb-3">B</div>
+        <p class="font-semibold text-stone-800 text-sm mb-1">Dr. Ahmed Bakri</p>
+        <p class="text-xs text-sky-700 uppercase tracking-wider mb-3">Arabic &amp; Theological</p>
+        <p class="text-stone-600 text-sm leading-relaxed">
+          The Arabic says <span class="font-arabic" dir="rtl">تقلید</span>.
+          A dictionary says &ldquo;imitation.&rdquo;
+          Dr. Bakri says <em>&ldquo;blind</em> imitation&rdquo; &mdash;
+          and can tell you exactly why Shoghi Effendi added that adjective.
+        </p>
       </div>
+    </div>
+
+    <!-- Deliberation -->
+    <div class="bg-white rounded-xl border border-stone-200 p-8">
+      <h3 class="text-lg font-semibold text-stone-800 mb-3">Then they argue about it.</h3>
+      <p class="text-stone-600 leading-relaxed mb-4">
+        All three renderings are revealed. Each agent critiques the others on six axes:
+        <em>style, historical context, literary allusions, theological terminology,
+        translation precedent,</em> and <em>figurative language</em>.
+        Agreements get locked in. Disagreements get re-translated.
+        Up to three rounds, or until nobody changes their mind.
+      </p>
+      <p class="text-stone-600 leading-relaxed mb-4">
+        An Assembly Agent weaves the settled phrases into flowing prose.
+        A Fidelity Reviewer catches any meaning that drifted in the weaving.
+        Every phrase keeps its deliberation notes &mdash;
+        often more valuable than the translation itself.
+      </p>
+      <p class="text-stone-500 text-sm italic border-l-2 border-gold-300 pl-4">
+        Truth emerges not from any single perspective but from the iterative clash
+        and synthesis of diverse viewpoints offered with detachment.
+        <span class="not-italic text-stone-400 block mt-1">Sound familiar?</span>
+      </p>
     </div>
   </section>
 
-  <!-- ===== CONCRETE EXAMPLE ===== -->
+  <!-- ===== COMMITTEE DEMO ===== -->
   <section class="max-w-4xl mx-auto pb-20">
-    <p class="text-sm uppercase tracking-[0.2em] text-gold-600 mb-4 text-center">Live demo</p>
+    <p class="text-sm uppercase tracking-[0.2em] text-gold-600 mb-4 text-center">In action</p>
     <h2 class="text-2xl font-semibold text-stone-800 mb-2 text-center">
-      Watch the committee work a single phrase
+      Watch them work a single phrase
     </h2>
-    <p class="text-stone-400 text-sm text-center mb-8">One phrase. Four perspectives. One convergent result.</p>
+    <p class="text-stone-400 text-sm text-center mb-8">From the Kit&aacute;b-i-&Iacute;q&aacute;n</p>
 
     <div class="bg-white rounded-xl border border-stone-200 overflow-hidden shadow-sm">
-      <!-- The phrase -->
       <div class="bg-stone-800 px-8 py-6">
         <p class="font-arabic text-2xl text-gold-300 text-center leading-loose" dir="rtl">
           قد اصطفاه الله و جعله مطلعاً لنفسه
-        </p>
-        <p class="text-stone-400 text-sm text-center mt-2 italic">
-          from the Kit&aacute;b-i-&Iacute;q&aacute;n
         </p>
         <p class="text-stone-500 text-xs text-center mt-2">
           Literal: &ldquo;God has chosen him and made him a dawning-place for His Self&rdquo;
@@ -255,24 +384,22 @@ import Search from '../components/Search.svelte';
       </div>
 
       <div class="p-8 space-y-6">
-        <!-- Research -->
         <div class="flex gap-4">
           <div class="shrink-0 w-8 h-8 rounded-full bg-stone-100 flex items-center justify-center text-stone-500 text-xs font-mono">R</div>
           <div>
             <p class="text-xs text-stone-400 uppercase tracking-wider mb-1">Research Agent</p>
             <p class="text-stone-600 text-sm leading-relaxed">
               <span class="font-arabic" dir="rtl">مطلع</span> appears 23 times in the corpus.
-              SE uses solar imagery every time: &ldquo;Dayspring,&rdquo; &ldquo;Day Star,&rdquo; &ldquo;Dawning-place.&rdquo;
-              Six instances of &ldquo;Dayspring&rdquo; in Gleanings alone.
-              <span class="font-arabic" dir="rtl">اصطفی</span> splits between &ldquo;chosen&rdquo; (casual) and
-              &ldquo;singled out&rdquo; (emphatic).
+              SE uses solar imagery every time: &ldquo;Dayspring,&rdquo; &ldquo;Day Star,&rdquo;
+              &ldquo;Dawning-place.&rdquo; Six instances of &ldquo;Dayspring&rdquo; in Gleanings alone.
+              <span class="font-arabic" dir="rtl">اصطفی</span> splits between &ldquo;chosen&rdquo;
+              (casual) and &ldquo;singled out&rdquo; (emphatic).
             </p>
           </div>
         </div>
 
         <hr class="border-stone-100" />
 
-        <!-- Hamilton -->
         <div class="flex gap-4">
           <div class="shrink-0 w-8 h-8 rounded-full bg-amber-100 flex items-center justify-center text-amber-700 text-xs font-bold">H</div>
           <div>
@@ -286,7 +413,6 @@ import Search from '../components/Search.svelte';
           </div>
         </div>
 
-        <!-- Farid -->
         <div class="flex gap-4">
           <div class="shrink-0 w-8 h-8 rounded-full bg-emerald-100 flex items-center justify-center text-emerald-700 text-xs font-bold">F</div>
           <div>
@@ -295,27 +421,27 @@ import Search from '../components/Search.svelte';
               &ldquo;God hath singled Him out and made Him the Dayspring of His Self&rdquo;
             </p>
             <p class="text-stone-500 text-sm mt-1">
-              &ldquo;Singled out&rdquo; has more rhetorical weight. &ldquo;Dayspring&rdquo; is SE's signature word here.
+              &ldquo;Singled out&rdquo; has more rhetorical weight.
+              &ldquo;Dayspring&rdquo; is SE's signature rendering here.
             </p>
           </div>
         </div>
 
-        <!-- Bakri -->
         <div class="flex gap-4">
           <div class="shrink-0 w-8 h-8 rounded-full bg-sky-100 flex items-center justify-center text-sky-700 text-xs font-bold">B</div>
           <div>
             <p class="text-xs text-sky-600 uppercase tracking-wider mb-1">Dr. Bakri</p>
             <p class="text-stone-600 text-sm leading-relaxed">
-              <span class="font-arabic" dir="rtl">نفس</span> (<em>Nafs</em>) here isn't casual &ldquo;self&rdquo; &mdash;
-              it's the Divine Essence as manifested in creation. Major doctrinal distinction.
-              The emphatic &ldquo;<em>Own</em> Self&rdquo; signals we're not talking about ordinary selfhood.
+              <span class="font-arabic" dir="rtl">نفس</span> (<em>Nafs</em>) here isn't casual
+              &ldquo;self&rdquo; &mdash; it's the Divine Essence as manifested in creation.
+              The emphatic &ldquo;<em>Own</em> Self&rdquo; signals we're not talking about
+              ordinary selfhood. Major doctrinal distinction.
             </p>
           </div>
         </div>
 
         <hr class="border-stone-100" />
 
-        <!-- Convergence -->
         <div class="bg-gold-50 rounded-lg p-6 border border-gold-200">
           <p class="text-xs text-gold-600 uppercase tracking-wider mb-3">After deliberation</p>
           <p class="text-xl text-stone-800 font-medium leading-relaxed mb-3">
@@ -338,7 +464,7 @@ import Search from '../components/Search.svelte';
       One translation, three ways to read it
     </h2>
     <p class="text-stone-500 text-center max-w-2xl mx-auto mb-10">
-      Commissioned by institutions, free for everyone.
+      Every commissioned translation is freely available once completed.
       The people who most need these texts shouldn't have to pay for them.
     </p>
 
@@ -347,15 +473,17 @@ import Search from '../components/Search.svelte';
         <div class="w-10 h-10 rounded-lg bg-amber-50 border border-amber-200 flex items-center justify-center mb-4 text-lg">&#128220;</div>
         <h3 class="font-semibold text-stone-800 mb-2">Translator's Report</h3>
         <p class="text-stone-500 text-sm leading-relaxed">
-          The minutes from a five-hour meeting, compressed into a searchable format.
-          Every phrase, every rendering, every critique.
+          The full deliberation record &mdash; every rendering, every critique,
+          every precedent citation. The minutes from a five-hour meeting,
+          compressed into a searchable format.
         </p>
       </div>
       <div class="bg-white rounded-xl border border-stone-200 p-6 hover:shadow-sm transition-shadow">
         <div class="w-10 h-10 rounded-lg bg-emerald-50 border border-emerald-200 flex items-center justify-center mb-4 text-lg">&#128269;</div>
         <h3 class="font-semibold text-stone-800 mb-2">Phrase Study</h3>
         <p class="text-stone-500 text-sm leading-relaxed">
-          The spiritual successor to that old DOS concordance &mdash;
+          Side-by-side interactive view. Click any phrase to expand its history &mdash;
+          the spiritual successor to that old DOS concordance tool,
           but one that shows you not just <em>what</em> but <em>why</em>.
         </p>
       </div>
@@ -363,45 +491,10 @@ import Search from '../components/Search.svelte';
         <div class="w-10 h-10 rounded-lg bg-sky-50 border border-sky-200 flex items-center justify-center mb-4 text-lg">&#128214;</div>
         <h3 class="font-semibold text-stone-800 mb-2">Reader's View</h3>
         <p class="text-stone-500 text-sm leading-relaxed">
-          Right-to-left Arabic. Left-to-right English. Hover to illuminate.
-          The version for people who just want to <em>read</em>.
+          Right-to-left Arabic, left-to-right English.
+          Hover to illuminate, click for a note.
+          For people who simply want to <em>read</em>.
         </p>
-      </div>
-    </div>
-  </section>
-
-  <!-- ===== WHY NOT SINGLE AI ===== -->
-  <section class="max-w-3xl mx-auto pb-20">
-    <div class="bg-stone-800 rounded-xl p-8 md:p-12 text-stone-200">
-      <p class="text-sm uppercase tracking-[0.2em] text-gold-400 mb-4">&ldquo;Can't you just ask ChatGPT?&rdquo;</p>
-      <h2 class="text-2xl font-semibold text-white mb-6">Sure. Here's what you'll get:</h2>
-
-      <div class="space-y-6">
-        <div>
-          <h3 class="text-gold-300 font-semibold mb-1">An average of everything</h3>
-          <p class="text-stone-300 leading-relaxed text-sm">
-            LLMs have been trained on millions of translations &mdash; every quality level, every tradition,
-            every amateur effort. When you ask for a translation, you get the mean.
-            Shoghi Effendi's distinctive voice? Drowned out by sheer volume.
-          </p>
-        </div>
-        <div>
-          <h3 class="text-gold-300 font-semibold mb-1">Amnesia at scale</h3>
-          <p class="text-stone-300 leading-relaxed text-sm">
-            The complete corpus spans thousands of pages. No context window can hold it.
-            But a search engine can index every word &mdash; and retrieve exactly the precedents
-            that matter for <em>your</em> passage. That's the Research Agent's entire job.
-          </p>
-        </div>
-        <div>
-          <h3 class="text-gold-300 font-semibold mb-1">One voice, one blind spot</h3>
-          <p class="text-stone-300 leading-relaxed text-sm">
-            A single prompt produces a single rendering with a single set of biases.
-            When Dr. Hamilton and Dr. Bakri disagree about <span class="font-arabic" dir="rtl">نفس</span>,
-            that disagreement <em>is the data</em>.
-            A single model would silently pick one and move on.
-          </p>
-        </div>
       </div>
     </div>
   </section>
@@ -421,14 +514,14 @@ import Search from '../components/Search.svelte';
 
   <!-- ===== ECONOMICS ===== -->
   <section class="max-w-3xl mx-auto pb-20">
-    <p class="text-sm uppercase tracking-[0.2em] text-gold-600 mb-4 text-center">The model</p>
-    <h2 class="text-2xl font-semibold text-stone-800 mb-6 text-center">
+    <h2 class="text-2xl font-semibold text-stone-800 mb-6">
       Translate once. Share forever.
     </h2>
     <div class="text-stone-600 leading-relaxed space-y-4">
       <p>
-        Good AI translation isn't cheap. The multi-agent deliberation &mdash; independent renderings,
-        iterative critique, assembly, fidelity review &mdash; can cost hundreds of dollars for a book-length work.
+        Good AI translation isn't cheap. The multi-agent deliberation &mdash;
+        independent renderings, iterative critique, assembly, fidelity review &mdash;
+        can cost hundreds of dollars for a book-length work.
       </p>
       <p class="text-stone-800 font-medium text-lg">
         But a translation only needs to be done once.
@@ -439,15 +532,10 @@ import Search from '../components/Search.svelte';
         A student in Lagos. A devotional group in Pune. A study circle in Santiago.
         Same high-quality translation, same full annotation, zero cost.
       </p>
-      <p class="text-stone-500 text-sm">
-        Every institution that commissions a translation contributes to a shared resource
-        that grows over time. The people who most need these texts are exactly
-        the people who shouldn't have to pay for them.
-      </p>
     </div>
   </section>
 
-  <!-- ===== EXPLORE SECTIONS ===== -->
+  <!-- ===== EXPLORE ===== -->
   <section class="max-w-5xl mx-auto pb-20">
     <p class="text-sm uppercase tracking-[0.2em] text-gold-600 mb-4 text-center">Explore</p>
     <h2 class="text-2xl font-semibold text-stone-800 mb-8 text-center">
@@ -463,8 +551,8 @@ import Search from '../components/Search.svelte';
         <div class="p-5">
           <h3 class="font-semibold text-stone-800 mb-1 group-hover:text-gold-700 transition-colors">Best-Known Works</h3>
           <p class="text-sm text-stone-500">
-            188 works by Bah&aacute;'u'll&aacute;h, the B&aacute;b, 'Abdu'l-Bah&aacute;, and Shoghi Effendi.
-            Arabic and Persian source texts with metadata and links.
+            188 works by Bah&aacute;'u'll&aacute;h, the B&aacute;b, 'Abdu'l-Bah&aacute;,
+            and Shoghi Effendi. Arabic and Persian source texts.
           </p>
         </div>
       </a>
@@ -499,24 +587,20 @@ import Search from '../components/Search.svelte';
     </div>
   </section>
 
-  <!-- ===== ASPIRATION ===== -->
+  <!-- ===== CLOSING ===== -->
   <section class="max-w-3xl mx-auto pb-20 text-center">
     <div class="border-t border-stone-200 pt-16">
-      <blockquote class="text-xl text-stone-600 leading-relaxed italic max-w-2xl mx-auto mb-6">
-        &ldquo;An intimate knowledge of the spirit and content of the original, as well as a mastery
-        of the language into which the work is to be translated.&rdquo;
-      </blockquote>
-      <p class="text-sm text-stone-400 mb-8">&mdash; Shoghi Effendi</p>
-      <p class="text-stone-500 leading-relaxed max-w-xl mx-auto mb-4">
-        CTAI doesn't replace that intimate knowledge. It's <em>infrastructure for that devotion</em> &mdash;
-        making sure no precedent is overlooked, no nuance is lost to the limits of human memory,
+      <p class="text-stone-500 leading-relaxed max-w-xl mx-auto mb-6">
+        CTAI doesn't replace the intimate knowledge that sacred translation demands.
+        It's <em>infrastructure for that devotion</em> &mdash;
+        making sure no precedent is overlooked, no nuance is lost to the limits of memory,
         and no translator works alone when they could be working in consultation.
       </p>
-      <p class="text-stone-500 leading-relaxed max-w-xl mx-auto">
+      <p class="text-stone-500 leading-relaxed max-w-xl mx-auto mb-8">
         An individual initiative demonstrating what becomes possible
         when AI is put in service of scholarship rather than in place of it.
       </p>
-      <p class="mt-8 text-sm text-stone-400">
+      <p class="text-sm text-stone-400">
         Built by <a href="https://github.com/chadananda" class="text-gold-600 hover:text-gold-800 transition-colors">Chad Jones</a>
         &middot;
         <a href="https://oceanlibrary.com" class="text-gold-600 hover:text-gold-800 transition-colors">Ocean Library</a>
