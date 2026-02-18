@@ -7,7 +7,7 @@
   "homepage": "https://ctai.info",
   "scripts": {
     "dev": "astro dev",
-    "prebuild": "node scripts/prebuild-corpus.js",
+    "prebuild": "node scripts/prebuild-corpus.js && node scripts/build-concordance-index.js",
     "build": "npm run prebuild && astro build",
     "preview": "astro preview",
     "parse-corpus": "node scripts/parse-corpus.js",

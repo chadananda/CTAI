@@ -1,0 +1,31 @@
+---
+import Base from '../layouts/Base.astro';
+import JafarSearch from '../components/JafarSearch.svelte';
+---
+
+<Base title="Jafar — Research Assistant">
+  <!-- Hero -->
+  <div class="text-center mb-5">
+    <div class="inline-flex items-center gap-3 mb-2">
+      <div class="inline-flex items-center justify-center w-10 h-10 rounded-lg bg-ink-800 border border-ink-700/60">
+        <span class="text-gold-400 text-lg font-mono font-bold">J</span>
+      </div>
+      <h1 class="text-2xl font-serif text-ink-100">Jafar <span class="text-ink-500 font-light">— Research Assistant</span></h1>
+    </div>
+    <p class="text-sm text-ink-300 max-w-xl mx-auto leading-relaxed">
+      The key to good AI translation is to inject good examples into the context.
+      Jafar does exactly that, adding relevant extracts from Shoghi Effendi's translations into the deliberation.
+    </p>
+  </div>
+
+  <!-- Search component -->
+  <JafarSearch client:only="svelte" />
+
+  <!-- Explanation -->
+  <div class="mt-8 max-w-2xl mx-auto text-center">
+    <p class="text-xs text-ink-500 leading-relaxed">
+      Looks up terms across 12 Shoghi Effendi translations, tracing each word to its trilateral root
+      and showing every rendering the Guardian chose. Pre-computed concordance — instant results.
+    </p>
+  </div>
+</Base>

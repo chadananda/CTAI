@@ -1,0 +1,310 @@
+---
+import Base from '../../../layouts/Base.astro';
+import ConcordanceSearch from '../../../components/ConcordanceSearch.svelte';
+import TranslationSpectrum from '../../../components/TranslationSpectrum.svelte';
+import { resolveDb, queryAll, slugify, unslugify, parsePairId, SLUG_ABBR } from '../../../lib/concordance-utils.js';
+
+export const prerender = false;
+
+const { word: wordSlug } = Astro.params;
+const queryForm = unslugify(wordSlug);
+
+// D1 in production, better-sqlite3 in dev
+const d1 = import.meta.env.PROD ? (Astro.locals?.runtime?.env?.JAFAR_DB ?? null) : null;
+const db = await resolveDb(d1);
+if (!db) return new Response('Database unavailable', { status: 503 });
+
+// Find all occurrences matching this English rendering
+const rows = await queryAll(db, `
+  SELECT o.*, r.root, r.transliteration, r.meaning, r.similar
+  FROM occurrences o
+  JOIN roots r ON r.id = o.root_id
+  WHERE LOWER(TRIM(o.en)) = ?
+  ORDER BY r.id, o.ref
+`, [queryForm]);
+
+if (rows.length === 0) return new Response(null, { status: 404 });
+
+// Use the display form from the first row (preserves original casing)
+const displayWord = rows[0].en.trim();
+
+// Group by root
+const rootGroups = [];
+const rootMap = new Map();
+for (const row of rows) {
+  const key = row.root_id;
+  if (!rootMap.has(key)) {
+    const group = {
+      rootId: key,
+      root: row.root,
+      transliteration: row.transliteration,
+      meaning: row.meaning,
+      similar: row.similar,
+      rows: [],
+      forms: new Map(),
+    };
+    rootMap.set(key, group);
+    rootGroups.push(group);
+  }
+  const g = rootMap.get(key);
+  g.rows.push(row);
+
+  // Track distinct forms
+  const formKey = row.form;
+  if (!g.forms.has(formKey)) {
+    g.forms.set(formKey, {
+      form: row.form,
+      translit: row.form_translit || '',
+      morphology: row.morphology || '',
+      count: 0,
+    });
+  }
+  g.forms.get(formKey).count++;
+}
+
+// Sort root groups by frequency (most occurrences first)
+rootGroups.sort((a, b) => b.rows.length - a.rows.length);
+
+const totalOccurrences = rows.length;
+const totalRoots = rootGroups.length;
+
+// For each root, get the full rendering spectrum (all English renderings for this root)
+for (const g of rootGroups) {
+  const allRenderings = await queryAll(db, `
+    SELECT LOWER(TRIM(en)) as rendering, COUNT(*) as cnt
+    FROM occurrences
+    WHERE root_id = ?
+    GROUP BY LOWER(TRIM(en))
+    ORDER BY cnt DESC
+  `, [g.rootId]);
+  g.spectrum = allRenderings;
+  g.totalRootOccurrences = allRenderings.reduce((sum, r) => sum + r.cnt, 0);
+}
+
+// "See also" — other English phrases that share these roots
+const seeAlso = new Map();
+for (const g of rootGroups) {
+  for (const s of g.spectrum) {
+    if (s.rendering !== queryForm && s.cnt >= 2) {
+      const existing = seeAlso.get(s.rendering);
+      if (existing) {
+        existing.count += s.cnt;
+        existing.roots++;
+      } else {
+        seeAlso.set(s.rendering, { rendering: s.rendering, count: s.cnt, roots: 1 });
+      }
+    }
+  }
+}
+const seeAlsoList = Array.from(seeAlso.values())
+  .sort((a, b) => b.roots - a.roots || b.count - a.count)
+  .slice(0, 20);
+
+// Parse pair_id for paragraph links
+function pairToUrl(pairId) {
+  const parsed = parsePairId(pairId);
+  if (!parsed) return null;
+  return `/examples/${parsed.workSlug}/${parsed.paraIndex}/`;
+}
+
+function pairToDisplay(pairId) {
+  const parsed = parsePairId(pairId);
+  if (!parsed) return pairId;
+  const abbr = SLUG_ABBR[parsed.workSlug] || parsed.workSlug;
+  return `${abbr} §${parsed.paraIndex}`;
+}
+
+// SEO
+const rootListStr = rootGroups.map(g => g.root).join(', ');
+const workSet = new Set(rows.map(r => {
+  const parsed = parsePairId(r.pair_id);
+  return parsed ? SLUG_ABBR[parsed.workSlug] || parsed.workSlug : '';
+}).filter(Boolean));
+const workListStr = Array.from(workSet).join(', ');
+
+const title = `${displayWord} — ${totalRoots} Arabic/Persian ${totalRoots === 1 ? 'Root' : 'Roots'}`;
+const description = `How Shoghi Effendi translated "${displayWord}" from Arabic and Persian. ${totalRoots} root${totalRoots > 1 ? 's' : ''} (${rootListStr}) with ${totalOccurrences} examples across ${workListStr}.`;
+
+const termLd = {
+  '@context': 'https://schema.org',
+  '@type': 'DefinedTerm',
+  name: displayWord,
+  description,
+  inDefinedTermSet: {
+    '@type': 'DefinedTermSet',
+    name: 'Shoghi Effendi Translation Concordance',
+    url: `${Astro.site}concordance/`,
+  },
+};
+
+const breadcrumbLd = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'Concordance', item: `${Astro.site}concordance/` },
+    { '@type': 'ListItem', position: 2, name: 'English' },
+    { '@type': 'ListItem', position: 3, name: displayWord },
+  ],
+};
+
+Astro.response.headers.set('Cache-Control', 'public, max-age=86400, s-maxage=604800, stale-while-revalidate=86400');
+---
+
+<Base title={title} description={description}>
+  <Fragment slot="head">
+    <script type="application/ld+json" set:html={JSON.stringify(termLd)} />
+    <script type="application/ld+json" set:html={JSON.stringify(breadcrumbLd)} />
+  </Fragment>
+
+  <!-- Breadcrumb -->
+  <nav class="text-xs text-ink-500 mb-6 font-mono">
+    <a href="/concordance/" class="hover:text-gold-400 transition-colors">Concordance</a>
+    <span class="mx-1.5">/</span>
+    <span>English</span>
+    <span class="mx-1.5">/</span>
+    <span class="text-ink-300">{displayWord}</span>
+  </nav>
+
+  <!-- Search -->
+  <div class="mb-8">
+    <ConcordanceSearch client:load />
+  </div>
+
+  <!-- Header -->
+  <header class="mb-8">
+    <h1 class="text-3xl md:text-4xl font-display font-bold text-ink-100 mb-2">
+      {displayWord}
+    </h1>
+    <p class="text-sm text-ink-400">
+      {totalOccurrences} {totalOccurrences === 1 ? 'occurrence' : 'occurrences'} across
+      {totalRoots} Arabic/Persian {totalRoots === 1 ? 'root' : 'roots'}
+    </p>
+  </header>
+
+  <!-- Root sections -->
+  {rootGroups.map((g, gi) => {
+    const forms = Array.from(g.forms.values()).sort((a, b) => b.count - a.count);
+    const pctOfRoot = ((g.rows.length / g.totalRootOccurrences) * 100).toFixed(0);
+    const spectrumSegments = g.spectrum.map(s => ({
+      label: s.rendering,
+      count: s.cnt,
+      highlighted: s.rendering === queryForm,
+    }));
+    const examples = g.rows.slice(0, 8);
+
+    return (
+      <section class="mb-10 p-5 rounded-xl bg-ink-800/30 border border-ink-700/30">
+        <!-- Root header -->
+        <div class="flex flex-wrap items-start gap-3 mb-4">
+          <a
+            href={`/concordance/root/${encodeURIComponent(g.transliteration)}/`}
+            class="text-2xl font-arabic text-ink-100 hover:text-gold-400 transition-colors"
+            dir="rtl" lang="ar"
+          >
+            {g.root}
+          </a>
+          <div class="flex-1 min-w-0">
+            <a
+              href={`/concordance/root/${encodeURIComponent(g.transliteration)}/`}
+              class="text-ink-300 hover:text-gold-400 transition-colors"
+            >
+              ({g.transliteration})
+            </a>
+            <span class="text-ink-500 ml-1">— {g.meaning}</span>
+          </div>
+          <div class="flex items-center gap-2">
+            <span class="px-2 py-0.5 rounded-full bg-gold-400/10 text-gold-400 text-xs font-mono">
+              {g.rows.length}
+            </span>
+            <span class="text-[10px] text-ink-500">{pctOfRoot}% of root</span>
+          </div>
+        </div>
+
+        <!-- Forms seen -->
+        <div class="mb-4">
+          <h3 class="text-[10px] uppercase tracking-wider text-ink-500 mb-2">Forms seen</h3>
+          <div class="flex flex-wrap gap-2">
+            {forms.map(f => (
+              <span class="inline-flex items-center gap-1.5 px-2 py-1 rounded-md bg-ink-700/40 text-sm">
+                <span class="font-arabic text-ink-200" dir="rtl" lang="ar">{f.form}</span>
+                {f.translit && <span class="text-ink-400 italic text-xs">({f.translit})</span>}
+                {f.morphology && <span class="text-ink-600 text-[10px]">· {f.morphology}</span>}
+                <span class="text-ink-600 text-[10px]">×{f.count}</span>
+              </span>
+            ))}
+          </div>
+        </div>
+
+        <!-- Translation spectrum -->
+        <div class="mb-4">
+          <h3 class="text-[10px] uppercase tracking-wider text-ink-500 mb-2">
+            Translation spectrum for this root
+          </h3>
+          <TranslationSpectrum segments={spectrumSegments} client:visible />
+        </div>
+
+        <!-- Example citations -->
+        <div class="mb-3">
+          <h3 class="text-[10px] uppercase tracking-wider text-ink-500 mb-2">Examples</h3>
+          <div class="space-y-3">
+            {examples.map(row => {
+              const url = pairToUrl(row.pair_id);
+              const display = pairToDisplay(row.pair_id);
+              return (
+                <div class="pl-3 border-l-2 border-ink-700/40">
+                  <p class="text-sm font-arabic text-ink-300 leading-relaxed" dir="rtl" lang="ar">
+                    {row.src}
+                  </p>
+                  <p class="text-sm text-ink-400 mt-1 leading-relaxed">
+                    {row.tr}
+                  </p>
+                  <div class="flex items-center gap-2 mt-1">
+                    {url ? (
+                      <a href={url} class="text-[10px] text-gold-400/70 hover:text-gold-400 font-mono transition-colors">
+                        {display}
+                      </a>
+                    ) : (
+                      <span class="text-[10px] text-ink-600 font-mono">{display}</span>
+                    )}
+                    <span class="text-[10px] text-ink-600">
+                      <span class="font-arabic" dir="rtl" lang="ar">{row.form}</span> → "{row.en}"
+                    </span>
+                  </div>
+                </div>
+              );
+            })}
+            {g.rows.length > 8 && (
+              <p class="text-xs text-ink-500 pl-3">
+                + {g.rows.length - 8} more examples.
+                <a href={`/concordance/root/${encodeURIComponent(g.transliteration)}/`}
+                   class="text-gold-400/70 hover:text-gold-400 transition-colors">
+                  View full root page
+                </a>
+              </p>
+            )}
+          </div>
+        </div>
+      </section>
+    );
+  })}
+
+  <!-- See also -->
+  {seeAlsoList.length > 0 && (
+    <section class="mb-10">
+      <h2 class="text-lg font-display font-semibold text-ink-200 mb-3">See Also</h2>
+      <p class="text-xs text-ink-500 mb-3">Other English words/phrases that share the same Arabic/Persian roots:</p>
+      <div class="flex flex-wrap gap-2">
+        {seeAlsoList.map(s => (
+          <a
+            href={`/concordance/english/${slugify(s.rendering)}/`}
+            class="px-2.5 py-1 rounded-md bg-ink-800/40 border border-ink-700/30
+                   text-sm text-ink-300 hover:text-gold-400 hover:border-gold-400/30 transition-all"
+          >
+            {s.rendering}
+            <span class="text-[10px] text-ink-600 ml-1">({s.count})</span>
+          </a>
+        ))}
+      </div>
+    </section>
+  )}
+</Base>

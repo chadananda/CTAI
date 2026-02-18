@@ -1,0 +1,224 @@
+---
+import Base from '../../layouts/Base.astro';
+import ConcordanceSearch from '../../components/ConcordanceSearch.svelte';
+import { resolveDb, queryAll, queryFirst } from '../../lib/concordance-utils.js';
+
+export const prerender = false;
+
+// Resolve database: D1 in production, better-sqlite3 in dev
+const d1 = import.meta.env.PROD ? (Astro.locals?.runtime?.env?.JAFAR_DB ?? null) : null;
+const db = await resolveDb(d1);
+
+let totalRoots = 0, totalOccurrences = 0, totalRenderings = 0, workCount = 0;
+let topEntriesByRoots = [];
+let topRoots = [];
+let letterCounts = {};
+
+if (db) {
+  // Stats
+  const statsRoot = await queryFirst(db, 'SELECT COUNT(*) as c FROM roots');
+  totalRoots = statsRoot?.c || 0;
+
+  const statsOcc = await queryFirst(db, 'SELECT COUNT(*) as c FROM occurrences');
+  totalOccurrences = statsOcc?.c || 0;
+
+  const statsEn = await queryFirst(db, 'SELECT COUNT(DISTINCT LOWER(TRIM(en))) as c FROM occurrences');
+  totalRenderings = statsEn?.c || 0;
+
+  const statsWorks = await queryFirst(db, `SELECT COUNT(DISTINCT SUBSTR(pair_id, 1, INSTR(pair_id, '§') - 2)) as c FROM occurrences`);
+  workCount = statsWorks?.c || 11;
+
+  // Top English entries by root diversity (most roots mapped to one English phrase)
+  topEntriesByRoots = await queryAll(db, `
+    SELECT
+      TRIM(en) as display,
+      LOWER(TRIM(en)) as lookup,
+      COUNT(*) as cnt,
+      COUNT(DISTINCT root_id) as root_cnt
+    FROM occurrences
+    GROUP BY LOWER(TRIM(en))
+    HAVING root_cnt >= 3
+    ORDER BY root_cnt DESC, cnt DESC
+    LIMIT 15
+  `);
+
+  // Top roots by occurrence count
+  topRoots = await queryAll(db, `
+    SELECT
+      r.root,
+      r.transliteration,
+      r.meaning,
+      COUNT(o.id) as cnt,
+      COUNT(DISTINCT LOWER(TRIM(o.en))) as rendering_cnt
+    FROM roots r
+    JOIN occurrences o ON o.root_id = r.id
+    GROUP BY r.id
+    ORDER BY cnt DESC
+    LIMIT 50
+  `);
+
+  // Letter counts for A-Z browse
+  const letterRows = await queryAll(db, `
+    SELECT
+      UPPER(SUBSTR(TRIM(en), 1, 1)) as letter,
+      COUNT(DISTINCT LOWER(TRIM(en))) as cnt
+    FROM occurrences
+    WHERE TRIM(en) GLOB '[A-Za-z]*'
+    GROUP BY UPPER(SUBSTR(TRIM(en), 1, 1))
+    ORDER BY letter
+  `);
+  for (const r of letterRows) {
+    letterCounts[r.letter] = r.cnt;
+  }
+}
+
+function slugify(phrase) {
+  return phrase.toLowerCase().trim().replace(/['']/g, '').replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+}
+
+const title = 'Translation Concordance of Shoghi Effendi';
+const description = `Bidirectional concordance mapping ${totalRenderings.toLocaleString()}+ English renderings to ${totalRoots.toLocaleString()} Arabic/Persian roots across ${totalOccurrences.toLocaleString()} passages from Shoghi Effendi's translations.`;
+
+const datasetLd = {
+  '@context': 'https://schema.org',
+  '@type': 'Dataset',
+  name: title,
+  description,
+  url: `${Astro.site}concordance/`,
+  creator: { '@type': 'Organization', name: 'CTAI — Committee Translation AI' },
+  variableMeasured: 'Translation patterns of Shoghi Effendi',
+};
+
+const breadcrumbLd = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'Concordance' },
+  ],
+};
+
+Astro.response.headers.set('Cache-Control', 'public, max-age=86400, s-maxage=604800, stale-while-revalidate=86400');
+---
+
+<Base title={title} description={description}>
+  <Fragment slot="head">
+    <script type="application/ld+json" set:html={JSON.stringify(datasetLd)} />
+    <script type="application/ld+json" set:html={JSON.stringify(breadcrumbLd)} />
+  </Fragment>
+
+  <!-- Hero -->
+  <div class="text-center mb-10">
+    <h1 class="text-3xl md:text-4xl font-display font-bold text-ink-100 mb-3">
+      How Shoghi Effendi Translated
+    </h1>
+    <p class="text-ink-400 max-w-2xl mx-auto leading-relaxed text-sm">
+      A bidirectional concordance exploring the translation choices of Shoghi Effendi.
+      Every English word and Arabic/Persian root, cross-linked with examples from the source texts.
+    </p>
+  </div>
+
+  <!-- Stats bar -->
+  <div class="flex flex-wrap justify-center gap-6 mb-10 text-center">
+    {[
+      { n: totalRoots.toLocaleString(), label: 'Arabic/Persian roots' },
+      { n: totalRenderings.toLocaleString() + '+', label: 'English renderings' },
+      { n: totalOccurrences.toLocaleString(), label: 'examples' },
+      { n: workCount, label: 'works' },
+    ].map(s => (
+      <div class="px-4">
+        <div class="text-2xl font-bold text-gold-400 font-mono">{s.n}</div>
+        <div class="text-[10px] text-ink-500 uppercase tracking-wider mt-0.5">{s.label}</div>
+      </div>
+    ))}
+  </div>
+
+  <!-- Search -->
+  <div class="mb-12">
+    <ConcordanceSearch client:load />
+  </div>
+
+  <!-- Featured entries: high root diversity -->
+  {topEntriesByRoots.length > 0 && (
+    <section class="mb-12">
+      <h2 class="text-lg font-display font-semibold text-ink-200 mb-4">
+        Featured: Words with Multiple Arabic/Persian Origins
+      </h2>
+      <div class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-3">
+        {topEntriesByRoots.map(e => (
+          <a
+            href={`/concordance/english/${slugify(e.display)}/`}
+            class="group block p-3 rounded-lg bg-ink-800/40 border border-ink-700/30
+                   hover:border-gold-400/30 hover:bg-ink-800/60 transition-all"
+          >
+            <span class="text-ink-200 group-hover:text-gold-400 transition-colors font-medium text-sm">
+              {e.display}
+            </span>
+            <span class="block text-[10px] text-ink-500 mt-1">
+              {e.root_cnt} roots · {e.cnt} occurrences
+            </span>
+          </a>
+        ))}
+      </div>
+    </section>
+  )}
+
+  <!-- Browse A-Z -->
+  <section class="mb-12">
+    <h2 class="text-lg font-display font-semibold text-ink-200 mb-4">
+      Browse by English Letter
+    </h2>
+    <div class="flex flex-wrap gap-1.5">
+      {'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('').map(letter => {
+        const count = letterCounts[letter] || 0;
+        return count > 0 ? (
+          <a
+            href={`#letter-${letter}`}
+            class="w-9 h-9 flex items-center justify-center rounded-md
+                   bg-ink-800/40 border border-ink-700/30
+                   text-ink-300 hover:text-gold-400 hover:border-gold-400/30
+                   text-sm font-mono transition-all"
+            title={`${count} entries`}
+          >
+            {letter}
+          </a>
+        ) : (
+          <span class="w-9 h-9 flex items-center justify-center rounded-md text-ink-600/40 text-sm font-mono">
+            {letter}
+          </span>
+        );
+      })}
+    </div>
+  </section>
+
+  <!-- Browse by Root -->
+  {topRoots.length > 0 && (
+    <section class="mb-12">
+      <h2 class="text-lg font-display font-semibold text-ink-200 mb-4">
+        Top Roots by Frequency
+      </h2>
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-2">
+        {topRoots.slice(0, 30).map(r => (
+          <a
+            href={`/concordance/root/${encodeURIComponent(r.transliteration)}/`}
+            class="group flex items-center gap-3 p-2.5 rounded-lg
+                   bg-ink-800/30 border border-ink-700/20
+                   hover:border-gold-400/30 hover:bg-ink-800/50 transition-all"
+          >
+            <span class="text-lg font-arabic text-ink-200" dir="rtl" lang="ar">{r.root}</span>
+            <span class="flex-1 min-w-0">
+              <span class="text-xs text-ink-400">({r.transliteration})</span>
+              <span class="block text-[10px] text-ink-500 truncate">{r.meaning}</span>
+            </span>
+            <span class="text-[10px] text-ink-600 font-mono whitespace-nowrap">
+              {r.cnt} · {r.rendering_cnt} en
+            </span>
+          </a>
+        ))}
+      </div>
+    </section>
+  )}
+
+  <div class="text-center text-xs text-ink-600 mt-8">
+    <p>Data sourced from the Jafar concordance database — {totalOccurrences.toLocaleString()} occurrences across {workCount} works.</p>
+  </div>
+</Base>

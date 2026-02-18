@@ -1,0 +1,319 @@
+---
+import Base from '../../../layouts/Base.astro';
+import ConcordanceSearch from '../../../components/ConcordanceSearch.svelte';
+import { resolveDb, queryAll, queryFirst, slugify, parsePairId, SLUG_ABBR } from '../../../lib/concordance-utils.js';
+
+export const prerender = false;
+
+const { transliteration } = Astro.params;
+const translit = decodeURIComponent(transliteration);
+
+// D1 in production, better-sqlite3 in dev
+const d1 = import.meta.env.PROD ? (Astro.locals?.runtime?.env?.JAFAR_DB ?? null) : null;
+const db = await resolveDb(d1);
+if (!db) return new Response('Database unavailable', { status: 503 });
+
+// Find the root
+const root = await queryFirst(db, 'SELECT * FROM roots WHERE transliteration = ?', [translit]);
+if (!root) return new Response(null, { status: 404 });
+
+// Get all occurrences
+const rows = await queryAll(db, `
+  SELECT * FROM occurrences
+  WHERE root_id = ?
+  ORDER BY form, LOWER(TRIM(en)), ref
+`, [root.id]);
+
+if (rows.length === 0) return new Response(null, { status: 404 });
+
+// Group by form
+const formGroups = new Map();
+for (const row of rows) {
+  const key = row.form;
+  if (!formGroups.has(key)) {
+    formGroups.set(key, {
+      form: row.form,
+      translit: row.form_translit || '',
+      morphology: row.morphology || '',
+      rows: [],
+      renderings: new Map(),
+    });
+  }
+  const g = formGroups.get(key);
+  g.rows.push(row);
+
+  const enKey = row.en.trim().toLowerCase();
+  g.renderings.set(enKey, (g.renderings.get(enKey) || 0) + 1);
+}
+
+// Sort forms by frequency
+const sortedForms = Array.from(formGroups.values()).sort((a, b) => b.rows.length - a.rows.length);
+
+// English renderings summary
+const renderingMap = new Map();
+for (const row of rows) {
+  const key = row.en.trim().toLowerCase();
+  const display = row.en.trim();
+  if (!renderingMap.has(key)) {
+    renderingMap.set(key, { display, count: 0, forms: new Set() });
+  }
+  const r = renderingMap.get(key);
+  r.count++;
+  r.forms.add(row.form);
+}
+const renderingSummary = Array.from(renderingMap.values()).sort((a, b) => b.count - a.count);
+
+// Related roots
+let relatedRoots = [];
+if (root.similar) {
+  try {
+    const similarIds = JSON.parse(root.similar).slice(0, 10);
+    const candidates = await Promise.all(
+      similarIds.map(async (id) => {
+        const r = await queryFirst(db, 'SELECT * FROM roots WHERE id = ?', [id]);
+        if (!r) return null;
+        const cnt = await queryFirst(db, 'SELECT COUNT(*) as c FROM occurrences WHERE root_id = ?', [id]);
+        return { root: r.root, transliteration: r.transliteration, meaning: r.meaning, count: cnt?.c || 0 };
+      })
+    );
+    relatedRoots = candidates.filter(Boolean);
+  } catch {}
+}
+
+// Parse pair_id helpers
+function pairToUrl(pairId) {
+  const parsed = parsePairId(pairId);
+  if (!parsed) return null;
+  return `/examples/${parsed.workSlug}/${parsed.paraIndex}/`;
+}
+
+function pairToDisplay(pairId) {
+  const parsed = parsePairId(pairId);
+  if (!parsed) return pairId;
+  const abbr = SLUG_ABBR[parsed.workSlug] || parsed.workSlug;
+  return `${abbr} §${parsed.paraIndex}`;
+}
+
+// SEO
+const totalOcc = rows.length;
+const totalRenderings = renderingSummary.length;
+const topRenderings = renderingSummary.slice(0, 5).map(r => `"${r.display}"`).join(', ');
+
+const title = `Root ${root.root} (${translit}) — ${root.meaning}`;
+const description = `Arabic root ${translit} (${root.root}): Shoghi Effendi rendered forms of this root as ${topRenderings} across ${totalOcc} passages.`;
+
+const termLd = {
+  '@context': 'https://schema.org',
+  '@type': 'DefinedTerm',
+  name: `${root.root} (${translit})`,
+  description,
+  inDefinedTermSet: {
+    '@type': 'DefinedTermSet',
+    name: 'Shoghi Effendi Translation Concordance',
+    url: `${Astro.site}concordance/`,
+  },
+};
+
+const breadcrumbLd = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'Concordance', item: `${Astro.site}concordance/` },
+    { '@type': 'ListItem', position: 2, name: 'Root' },
+    { '@type': 'ListItem', position: 3, name: `${root.root} (${translit})` },
+  ],
+};
+
+Astro.response.headers.set('Cache-Control', 'public, max-age=86400, s-maxage=604800, stale-while-revalidate=86400');
+---
+
+<Base title={title} description={description}>
+  <Fragment slot="head">
+    <script type="application/ld+json" set:html={JSON.stringify(termLd)} />
+    <script type="application/ld+json" set:html={JSON.stringify(breadcrumbLd)} />
+  </Fragment>
+
+  <!-- Breadcrumb -->
+  <nav class="text-xs text-ink-500 mb-6 font-mono">
+    <a href="/concordance/" class="hover:text-gold-400 transition-colors">Concordance</a>
+    <span class="mx-1.5">/</span>
+    <span>Root</span>
+    <span class="mx-1.5">/</span>
+    <span class="text-ink-300">{root.root} ({translit})</span>
+  </nav>
+
+  <!-- Search -->
+  <div class="mb-8">
+    <ConcordanceSearch client:load />
+  </div>
+
+  <!-- Header -->
+  <header class="mb-8">
+    <h1 class="flex items-baseline gap-4 flex-wrap">
+      <span class="text-4xl font-arabic text-ink-100" dir="rtl" lang="ar">{root.root}</span>
+      <span class="text-2xl text-ink-400 italic">({translit})</span>
+    </h1>
+    <p class="text-ink-400 mt-2">{root.meaning}</p>
+    <p class="text-sm text-ink-500 mt-1">
+      {totalOcc} {totalOcc === 1 ? 'occurrence' : 'occurrences'} ·
+      {totalRenderings} English {totalRenderings === 1 ? 'rendering' : 'renderings'}
+    </p>
+  </header>
+
+  <!-- Word Forms -->
+  <section class="mb-10">
+    <h2 class="text-lg font-display font-semibold text-ink-200 mb-4">Word Forms</h2>
+    <div class="space-y-6">
+      {sortedForms.map(fg => {
+        const renderingList = Array.from(fg.renderings.entries())
+          .sort((a, b) => b[1] - a[1])
+          .map(([en]) => `"${en}"`);
+        const examples = fg.rows.slice(0, 3);
+
+        return (
+          <div class="p-4 rounded-lg bg-ink-800/30 border border-ink-700/30">
+            <div class="flex flex-wrap items-baseline gap-2 mb-2">
+              <span class="text-xl font-arabic text-ink-100" dir="rtl" lang="ar">{fg.form}</span>
+              {fg.translit && <span class="text-ink-400 italic">({fg.translit})</span>}
+              {fg.morphology && <span class="text-ink-600 text-xs">— {fg.morphology}</span>}
+              <span class="text-[10px] text-ink-500 font-mono ml-auto">{fg.rows.length} occ</span>
+            </div>
+            <p class="text-xs text-ink-500 mb-3">
+              → {renderingList.join(', ')}
+            </p>
+
+            {/* Representative examples */}
+            <div class="space-y-2">
+              {examples.map(row => {
+                const url = pairToUrl(row.pair_id);
+                const display = pairToDisplay(row.pair_id);
+                return (
+                  <div class="pl-3 border-l-2 border-ink-700/40 text-sm">
+                    <p class="font-arabic text-ink-300 leading-relaxed" dir="rtl" lang="ar">{row.src}</p>
+                    <p class="text-ink-400 mt-0.5">{row.tr}</p>
+                    <div class="flex items-center gap-2 mt-0.5">
+                      {url ? (
+                        <a href={url} class="text-[10px] text-gold-400/70 hover:text-gold-400 font-mono transition-colors">
+                          {display}
+                        </a>
+                      ) : (
+                        <span class="text-[10px] text-ink-600 font-mono">{display}</span>
+                      )}
+                      <span class="text-[10px] text-ink-600">→ "{row.en}"</span>
+                    </div>
+                  </div>
+                );
+              })}
+              {fg.rows.length > 3 && (
+                <p class="text-[10px] text-ink-600 pl-3">+ {fg.rows.length - 3} more</p>
+              )}
+            </div>
+          </div>
+        );
+      })}
+    </div>
+  </section>
+
+  <!-- English Renderings Summary -->
+  <section class="mb-10">
+    <h2 class="text-lg font-display font-semibold text-ink-200 mb-4">English Renderings</h2>
+    <div class="overflow-x-auto">
+      <table class="w-full text-sm">
+        <thead>
+          <tr class="text-left text-[10px] uppercase tracking-wider text-ink-500 border-b border-ink-700/40">
+            <th class="pb-2 pr-4">Rendering</th>
+            <th class="pb-2 pr-4">Count</th>
+            <th class="pb-2 pr-4">%</th>
+            <th class="pb-2">Forms</th>
+          </tr>
+        </thead>
+        <tbody>
+          {renderingSummary.map(r => {
+            const pct = ((r.count / totalOcc) * 100).toFixed(0);
+            const formList = Array.from(r.forms);
+            return (
+              <tr class="border-b border-ink-800/30">
+                <td class="py-2 pr-4">
+                  <a
+                    href={`/concordance/english/${slugify(r.display)}/`}
+                    class="text-ink-200 hover:text-gold-400 transition-colors"
+                  >
+                    {r.display}
+                  </a>
+                </td>
+                <td class="py-2 pr-4 font-mono text-ink-500">{r.count}</td>
+                <td class="py-2 pr-4">
+                  <div class="flex items-center gap-2">
+                    <div class="w-16 h-1.5 rounded-full bg-ink-800/60 overflow-hidden">
+                      <div class="h-full bg-gold-400/60 rounded-full" style={`width: ${pct}%`}></div>
+                    </div>
+                    <span class="text-[10px] text-ink-500">{pct}%</span>
+                  </div>
+                </td>
+                <td class="py-2 text-xs">
+                  {formList.slice(0, 3).map((f, i) => (
+                    <span>
+                      {i > 0 && <span class="text-ink-700">, </span>}
+                      <span class="font-arabic text-ink-400" dir="rtl" lang="ar">{f}</span>
+                    </span>
+                  ))}
+                  {formList.length > 3 && <span class="text-ink-600"> +{formList.length - 3}</span>}
+                </td>
+              </tr>
+            );
+          })}
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <!-- Full Concordance List -->
+  <section class="mb-10">
+    <h2 class="text-lg font-display font-semibold text-ink-200 mb-4">Full Concordance</h2>
+    <details class="group">
+      <summary class="text-xs text-ink-500 cursor-pointer hover:text-ink-300 transition-colors mb-3">
+        Show all {totalOcc} occurrences
+      </summary>
+      <div class="space-y-2 mt-3">
+        {rows.map(row => {
+          const url = pairToUrl(row.pair_id);
+          const display = pairToDisplay(row.pair_id);
+          return (
+            <div class="flex items-start gap-3 py-1.5 border-b border-ink-800/20 text-sm">
+              <span class="font-arabic text-ink-300 w-24 text-right flex-shrink-0" dir="rtl" lang="ar">{row.form}</span>
+              <span class="text-ink-400 flex-1">{row.en}</span>
+              {url ? (
+                <a href={url} class="text-[10px] text-gold-400/70 hover:text-gold-400 font-mono whitespace-nowrap transition-colors">
+                  {display}
+                </a>
+              ) : (
+                <span class="text-[10px] text-ink-600 font-mono whitespace-nowrap">{display}</span>
+              )}
+            </div>
+          );
+        })}
+      </div>
+    </details>
+  </section>
+
+  <!-- Related Roots -->
+  {relatedRoots.length > 0 && (
+    <section class="mb-10">
+      <h2 class="text-lg font-display font-semibold text-ink-200 mb-3">Related Roots</h2>
+      <div class="flex flex-wrap gap-2">
+        {relatedRoots.map(r => (
+          <a
+            href={`/concordance/root/${encodeURIComponent(r.transliteration)}/`}
+            class="inline-flex items-center gap-2 px-3 py-1.5 rounded-md
+                   bg-ink-800/40 border border-ink-700/30
+                   hover:border-gold-400/30 hover:bg-ink-800/60 transition-all"
+          >
+            <span class="font-arabic text-ink-200" dir="rtl" lang="ar">{r.root}</span>
+            <span class="text-xs text-ink-400">({r.transliteration})</span>
+            <span class="text-[10px] text-ink-600">{r.meaning}</span>
+          </a>
+        ))}
+      </div>
+    </section>
+  )}
+</Base>

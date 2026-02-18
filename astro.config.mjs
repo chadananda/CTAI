@@ -22,10 +22,23 @@ if (fs.existsSync(corpusDir)) {
   }
 }
 
+// Build concordance URLs from pre-computed index
+const concordanceIndexPath = path.resolve('public/_concordance-index.json');
+const concordancePages = ['https://ctai.info/concordance/'];
+if (fs.existsSync(concordanceIndexPath)) {
+  const idx = JSON.parse(fs.readFileSync(concordanceIndexPath, 'utf-8'));
+  for (const [, slug] of idx.en) {
+    concordancePages.push(`https://ctai.info/concordance/english/${slug}/`);
+  }
+  for (const [, translit] of idx.roots) {
+    concordancePages.push(`https://ctai.info/concordance/root/${encodeURIComponent(translit)}/`);
+  }
+}
+
 export default defineConfig({
   adapter: cloudflare(),
   integrations: [svelte(), tailwind(), sitemap({
-    customPages: corpusPages,
+    customPages: [...corpusPages, ...concordancePages],
     filter: (page) => {
       if (page.includes('/dashboard')) return false;
       return true;
@@ -34,6 +47,14 @@ export default defineConfig({
       const url = item.url;
       if (url === 'https://ctai.info/' || url === 'https://ctai.info') {
         item.priority = 1.0;
+        item.changefreq = 'monthly';
+      }
+      else if (/\/concordance\/?$/.test(url)) {
+        item.priority = 0.8;
+        item.changefreq = 'monthly';
+      }
+      else if (/\/concordance\/(english|root)\//.test(url)) {
+        item.priority = 0.5;
         item.changefreq = 'monthly';
       }
       else if (/\/(examples|works|articles)\/?$/.test(url)) {

@@ -2,9 +2,20 @@
 interface Props {
   title: string;
   description?: string;
+  canonicalUrl?: string;
+  ogType?: string;
+  ogImage?: string;
 }
 
-const { title, description = 'Committee Translation AI — Scholarly reference and translation service for Arabic and Persian sacred texts' } = Astro.props;
+const {
+  title,
+  description = 'Committee Translation AI — Scholarly reference and translation service for Arabic and Persian sacred texts',
+  canonicalUrl,
+  ogType = 'website',
+  ogImage,
+} = Astro.props;
+const currentPath = Astro.url.pathname;
+const canonical = canonicalUrl || Astro.url.href;
 ---
 
 <!doctype html>
@@ -13,34 +24,143 @@ const { title, description = 'Committee Translation AI — Scholarly reference a
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="description" content={description} />
+    <meta property="og:title" content={`${title} — CTAI`} />
+    <meta property="og:description" content={description} />
+    <meta property="og:type" content={ogType} />
+    <meta property="og:url" content={canonical} />
+    <meta property="og:site_name" content="CTAI — Committee Translation AI" />
+    {ogImage && <meta property="og:image" content={ogImage} />}
+    <meta name="twitter:card" content={ogImage ? "summary_large_image" : "summary"} />
+    <meta name="twitter:title" content={`${title} — CTAI`} />
+    <meta name="twitter:description" content={description} />
+    {ogImage && <meta name="twitter:image" content={ogImage} />}
+    <meta name="theme-color" content="#1a1714" />
+    <link rel="icon" href="/favicon.ico" sizes="32x32" />
+    <link rel="icon" href="/favicon-512.png" type="image/png" sizes="512x512" />
+    <link rel="icon" href="/favicon-192.png" type="image/png" sizes="192x192" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <link rel="canonical" href={canonical} />
+    <slot name="head" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="preconnect" href="https://18441963.imgix.net" />
     <link
-      href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,300..900;1,8..60,300..900&family=Scheherazade+New:wght@400;700&family=JetBrains+Mono:wght@400;500&display=swap"
-      rel="stylesheet"
+      rel="preload"
+      as="style"
+      href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&family=Source+Serif+4:ital,opsz,wght@0,8..60,300..900;1,8..60,300..900&family=Scheherazade+New:wght@400;700&family=JetBrains+Mono:wght@400;500&display=swap"
+      onload="this.onload=null;this.rel='stylesheet'"
     />
+    <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&family=Source+Serif+4:ital,opsz,wght@0,8..60,300..900;1,8..60,300..900&family=Scheherazade+New:wght@400;700&family=JetBrains+Mono:wght@400;500&display=swap" /></noscript>
     <title>{title} — CTAI</title>
+    <style is:global>
+      ::selection {
+        background: #e2ad4466;
+        color: #fdf9ef;
+      }
+      :focus-visible { outline: 2px solid #e2ad44; outline-offset: 2px; }
+      html { scroll-behavior: smooth; }
+      body {
+        background-color: #1a1714;
+        background-image:
+          url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.7' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='0.03'/%3E%3C/svg%3E");
+      }
+      @keyframes grain {
+        0%, 100% { transform: translate(0, 0); }
+        10% { transform: translate(-1%, -1%); }
+        30% { transform: translate(1%, 0%); }
+        50% { transform: translate(-1%, 1%); }
+        70% { transform: translate(1%, -1%); }
+        90% { transform: translate(0%, 1%); }
+      }
+    </style>
   </head>
-  <body class="min-h-screen bg-stone-50 text-stone-900 font-serif antialiased">
-    <header class="border-b border-stone-200 bg-white">
-      <nav class="mx-auto max-w-6xl px-4 py-4 flex items-center justify-between">
-        <a href="/" class="text-xl font-semibold tracking-tight text-stone-800">
-          CTAI
+  <body class="min-h-screen text-ink-300 font-serif antialiased">
+    <a href="#main" class="sr-only focus:not-sr-only focus:fixed focus:top-2 focus:left-2 focus:z-[100] focus:bg-gold-400 focus:text-ink-900 focus:px-4 focus:py-2 focus:rounded focus:text-sm font-bold">
+      Skip to main content
+    </a>
+
+    <header class="border-b border-ink-800/60 backdrop-blur-sm sticky top-0 z-50 bg-ink-900/80">
+      <nav aria-label="Main navigation" class="mx-auto max-w-6xl px-6 py-4 flex items-center justify-between">
+        <a href="/" class="group flex items-center gap-3">
+          <span class="text-gold-400 font-mono text-xs tracking-widest uppercase opacity-80 group-hover:opacity-100 transition-opacity">CTAI</span>
+          <span class="hidden md:block w-px h-4 bg-ink-700"></span>
+          <span class="hidden md:block text-xs text-ink-500 font-mono">Committee Translation AI</span>
         </a>
-        <div class="flex gap-6 text-sm text-stone-600">
-          <a href="/works/" class="hover:text-stone-900 transition-colors">Works</a>
-          <a href="/corpus/" class="hover:text-stone-900 transition-colors">Corpus</a>
-          <a href="/articles/" class="hover:text-stone-900 transition-colors">Articles</a>
+        <div class="flex items-center gap-1">
+          {[
+            { href: '/works/', label: 'Tablets' },
+            { href: '/examples/', label: 'Examples' },
+            { href: '/concordance/', label: 'Concordance' },
+            { href: '/jafar', label: 'Try Jafar' },
+            { href: '/articles/', label: 'Articles' },
+            { href: '/dashboard', label: 'Dashboard' },
+          ].map(link => (
+            <a
+              href={link.href}
+              class:list={[
+                'px-3 py-1.5 text-xs font-mono tracking-wide rounded-md transition-all',
+                currentPath.startsWith(link.href)
+                  ? 'bg-ink-800 text-gold-400'
+                  : 'text-ink-400 hover:text-ink-200 hover:bg-ink-800/50',
+              ]}
+            >
+              {link.label}
+            </a>
+          ))}
         </div>
       </nav>
     </header>
 
-    <main class="mx-auto max-w-6xl px-4 py-8">
+    <main id="main" class="mx-auto max-w-6xl px-6 py-10">
       <slot />
     </main>
 
-    <footer class="border-t border-stone-200 mt-16 py-8 text-center text-sm text-stone-500">
-      <p>Committee Translation AI</p>
+    <footer class="border-t border-ink-800/40 mt-20">
+      <div class="mx-auto max-w-6xl px-6 py-12">
+        <div class="flex items-center gap-3 mb-8">
+          <span class="text-gold-400/60 font-mono text-[10px] tracking-[0.3em] uppercase">CTAI</span>
+          <span class="w-px h-3 bg-ink-800"></span>
+          <span class="text-ink-600 text-xs">Committee Translation AI</span>
+          <span class="flex-1 h-px bg-ink-800/40"></span>
+          <span class="text-xs text-ink-600">Built by <a href="https://github.com/chadananda" class="text-ink-400 hover:text-gold-400 transition-colors">Chad Jones</a> while procrastinating real work</span>
+        </div>
+        <p class="text-xs text-ink-500 font-mono tracking-wide uppercase mb-3">Other Cool Projects</p>
+        <div class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-5 gap-x-6 gap-y-4 mb-10">
+          {[
+            { href: 'https://bahai-library.org', name: 'Bahai-Library.org', desc: 'The largest collection of Bah\u00e1\u02bc\u00ed documents' },
+            { href: 'https://theutteranceproject.com', name: 'TheUtteranceProject.com', desc: 'A fantastic resource of readings' },
+            { href: 'https://upliftingwords.org', name: 'UpliftingWords.org', desc: 'A Bah\u00e1\u02bc\u00ed blog and collection' },
+            { href: 'https://afnanlibrary.org', name: 'AfnanLibrary.org', desc: 'Wonderful collection of manuscripts' },
+            { href: 'https://blog.loomofreality.org', name: 'LoomofReality.org', desc: 'Home of the Phelps partial inventory of tablets' },
+            { href: 'https://www.bahaiblog.net', name: 'BahaiBlog.net', desc: 'Bah\u00e1\u02bc\u00ed arts and musings' },
+            { href: 'https://bahaiteachings.org', name: 'BahaiTeachings.org', desc: 'Individual opinions of Bah\u00e1\u02bc\u00eds on thousands of subjects' },
+          ].map(link => (
+            <a href={link.href} class="group block">
+              <span class="text-xs text-ink-400 group-hover:text-gold-400 transition-colors">{link.name}</span>
+              <span class="block text-[10px] text-ink-600 leading-snug mt-0.5">{link.desc}</span>
+            </a>
+          ))}
+        </div>
+
+        <p class="text-xs text-ink-500 font-mono tracking-wide uppercase mb-3">My Projects</p>
+        <div class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-x-6 gap-y-4">
+          {[
+            { href: 'https://oceanlibrary.com', name: 'OceanLibrary.com', desc: 'Immersive interfaith library' },
+            { href: 'https://siftersearch.com', name: 'SifterSearch.com', desc: 'AI librarian for OceanLibrary supplemental search' },
+            { href: 'https://bahai-education.org', name: 'Bahai-Education.org', desc: "Personal blog about Baha'i topics" },
+            { href: 'https://oceanoflights.org', name: 'OceanofLights.org', desc: "Habib Riazati's Universe of Tablets project" },
+            { href: 'https://drbi.org', name: 'DRBI.org', desc: 'Desert Rose Baha\'i Institute' },
+            { href: 'https://novelarabic.com', name: 'NovelArabic.com', desc: 'Adventure stories turned into Arabic language labs' },
+            { href: 'https://almost-english.com', name: 'Almost-English.com', desc: 'Cognates turned into absurdist language bridges' },
+            { href: 'https://xswarm.ai', name: 'xSwarm.ai', desc: 'Agentic software development tools' },
+          ].map(link => (
+            <a href={link.href} class="group block">
+              <span class="text-xs text-ink-400 group-hover:text-gold-400 transition-colors">{link.name}</span>
+              <span class="block text-[10px] text-ink-600 leading-snug mt-0.5">{link.desc}</span>
+            </a>
+          ))}
+        </div>
+      </div>
     </footer>
   </body>
 </html>
