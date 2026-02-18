@@ -7,7 +7,8 @@
   "homepage": "https://ctai.info",
   "scripts": {
     "dev": "astro dev",
-    "build": "astro build",
+    "prebuild": "node scripts/prebuild-corpus.js",
+    "build": "npm run prebuild && astro build",
     "preview": "astro preview",
     "parse-corpus": "node scripts/parse-corpus.js",
     "segment": "node scripts/segment.js",
@@ -17,23 +18,35 @@
     "index": "node scripts/index.js",
     "pipeline": "npm run parse-corpus && npm run segment && npm run build-catalog && npm run build-corpus",
     "test": "vitest run",
-    "test:watch": "vitest"
+    "test:watch": "vitest",
+    "research": "node scripts/test-research.js",
+    "build-jafar": "node scripts/jafar-dictionary-build.js",
+    "build-annotations": "node scripts/build-annotations.js",
+    "sync-covers": "node scripts/sync-covers-r2.js",
+    "predeploy": "node scripts/sync-covers-r2.js",
+    "deploy": "npm run predeploy && bash scripts/deploy.sh",
+    "deploy:skip-d1": "npm run predeploy && bash scripts/deploy.sh --skip-d1"
   },
   "dependencies": {
-    "astro": "^5.3.0",
+    "@anthropic-ai/sdk": "^0.74.0",
+    "@astrojs/cloudflare": "^12.2.0",
+    "@astrojs/sitemap": "^3.7.0",
     "@astrojs/svelte": "^7.0.0",
     "@astrojs/tailwind": "^6.0.0",
-    "@astrojs/cloudflare": "^12.2.0",
-    "svelte": "^5.0.0",
-    "tailwindcss": "^3.4.0",
-    "meilisearch": "^0.44.0",
     "@libsql/client": "^0.14.0",
+    "@tailwindcss/typography": "^0.5.19",
+    "astro": "^5.3.0",
+    "better-sqlite3": "^12.6.2",
+    "gray-matter": "^4.0.3",
     "hono": "^4.6.0",
-    "gray-matter": "^4.0.3"
+    "meilisearch": "^0.44.0",
+    "svelte": "^5.0.0",
+    "tailwindcss": "^3.4.0"
   },
   "devDependencies": {
-    "vitest": "^3.0.0",
+    "@fontsource/jetbrains-mono": "^5.1.0",
     "@fontsource/source-serif-pro": "^5.1.0",
-    "@fontsource/jetbrains-mono": "^5.1.0"
+    "@playwright/test": "^1.58.2",
+    "vitest": "^3.0.0"
   }
 }

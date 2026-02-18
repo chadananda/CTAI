@@ -1,6 +1,21 @@
 name = "ctai"
 compatibility_date = "2024-12-01"
+compatibility_flags = ["nodejs_compat"]
 pages_build_output_dir = "./dist"
 
 [vars]
 ENVIRONMENT = "production"
+
+[[d1_databases]]
+binding = "JAFAR_DB"
+database_name = "ctai-jafar"
+database_id = "e077c62e-353d-46fe-b6a5-82590113dc64"
+
+[[d1_databases]]
+binding = "USERS_DB"
+database_name = "ctai-users"
+database_id = "64b01291-d9db-4827-9c66-a493adcf4221"
+
+[[kv_namespaces]]
+binding = "SESSIONS"
+id = "a3122683c8484bda94c2db009130648f"

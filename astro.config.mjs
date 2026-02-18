@@ -3,13 +3,31 @@ import svelte from '@astrojs/svelte';
 import tailwind from '@astrojs/tailwind';
 import sitemap from '@astrojs/sitemap';
 import cloudflare from '@astrojs/cloudflare';
+import fs from 'node:fs';
+import path from 'node:path';
+
+// Build corpus URLs from pre-computed search indexes for SSR paragraph pages
+const corpusDir = path.resolve('src/content/corpus');
+const corpusPages = [];
+if (fs.existsSync(corpusDir)) {
+  for (const work of fs.readdirSync(corpusDir)) {
+    const metaPath = path.join(corpusDir, work, '_meta.json');
+    if (!fs.existsSync(metaPath)) continue;
+    const meta = JSON.parse(fs.readFileSync(metaPath, 'utf-8'));
+    if (meta.search_index) {
+      for (const entry of meta.search_index) {
+        corpusPages.push(`https://ctai.info/examples/${work}/${entry.s}/`);
+      }
+    }
+  }
+}
 
 export default defineConfig({
   adapter: cloudflare(),
   integrations: [svelte(), tailwind(), sitemap({
+    customPages: corpusPages,
     filter: (page) => {
       if (page.includes('/dashboard')) return false;
-      if (/\/examples\/[^/]+\/\d+\/?$/.test(page)) return false;
       return true;
     },
     serialize: (item) => {
@@ -24,6 +42,10 @@ export default defineConfig({
       }
       else if (/\/examples\/[^/]+\/?$/.test(url) || /\/works\/[^/]+\/?$/.test(url)) {
         item.priority = 0.6;
+        item.changefreq = 'monthly';
+      }
+      else if (/\/examples\/[^/]+\/\d+-/.test(url)) {
+        item.priority = 0.5;
         item.changefreq = 'monthly';
       }
       else {
