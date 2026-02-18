@@ -30,8 +30,8 @@ if (fs.existsSync(concordanceIndexPath)) {
   for (const [, slug] of idx.en) {
     concordancePages.push(`https://ctai.info/concordance/english/${slug}/`);
   }
-  for (const [, translit] of idx.roots) {
-    concordancePages.push(`https://ctai.info/concordance/root/${encodeURIComponent(translit)}/`);
+  for (const [, slug] of idx.roots) {
+    concordancePages.push(`https://ctai.info/concordance/root/${slug}/`);
   }
 }
 

@@ -48,6 +48,7 @@ if (db) {
       r.root,
       r.transliteration,
       r.meaning,
+      r.slug,
       COUNT(o.id) as cnt,
       COUNT(DISTINCT LOWER(TRIM(o.en))) as rendering_cnt
     FROM roots r
@@ -199,7 +200,7 @@ Astro.response.headers.set('Cache-Control', 'public, max-age=86400, s-maxage=604
       <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-2">
         {topRoots.slice(0, 30).map(r => (
           <a
-            href={`/concordance/root/${encodeURIComponent(r.transliteration)}/`}
+            href={`/concordance/root/${r.slug}/`}
             class="group flex items-center gap-3 p-2.5 rounded-lg
                    bg-ink-800/30 border border-ink-700/20
                    hover:border-gold-400/30 hover:bg-ink-800/50 transition-all"

@@ -5,17 +5,18 @@ import { resolveDb, queryAll, queryFirst, slugify, parsePairId, SLUG_ABBR } from
 
 export const prerender = false;
 
-const { transliteration } = Astro.params;
-const translit = decodeURIComponent(transliteration);
+const { slug } = Astro.params;
 
 // D1 in production, better-sqlite3 in dev
 const d1 = import.meta.env.PROD ? (Astro.locals?.runtime?.env?.JAFAR_DB ?? null) : null;
 const db = await resolveDb(d1);
 if (!db) return new Response('Database unavailable', { status: 503 });
 
-// Find the root
-const root = await queryFirst(db, 'SELECT * FROM roots WHERE transliteration = ?', [translit]);
+// Find the root by its SEO slug
+const root = await queryFirst(db, 'SELECT * FROM roots WHERE slug = ?', [slug]);
 if (!root) return new Response(null, { status: 404 });
+
+const translit = root.transliteration;
 
 // Get all occurrences
 const rows = await queryAll(db, `
@@ -63,7 +64,7 @@ for (const row of rows) {
 }
 const renderingSummary = Array.from(renderingMap.values()).sort((a, b) => b.count - a.count);
 
-// Related roots
+// Related roots (fetch with slugs for linking)
 let relatedRoots = [];
 if (root.similar) {
   try {
@@ -73,7 +74,7 @@ if (root.similar) {
         const r = await queryFirst(db, 'SELECT * FROM roots WHERE id = ?', [id]);
         if (!r) return null;
         const cnt = await queryFirst(db, 'SELECT COUNT(*) as c FROM occurrences WHERE root_id = ?', [id]);
-        return { root: r.root, transliteration: r.transliteration, meaning: r.meaning, count: cnt?.c || 0 };
+        return { root: r.root, transliteration: r.transliteration, meaning: r.meaning, slug: r.slug, count: cnt?.c || 0 };
       })
     );
     relatedRoots = candidates.filter(Boolean);
@@ -182,7 +183,6 @@ Astro.response.headers.set('Cache-Control', 'public, max-age=86400, s-maxage=604
               → {renderingList.join(', ')}
             </p>
 
-            {/* Representative examples */}
             <div class="space-y-2">
               {examples.map(row => {
                 const url = pairToUrl(row.pair_id);
@@ -303,7 +303,7 @@ Astro.response.headers.set('Cache-Control', 'public, max-age=86400, s-maxage=604
       <div class="flex flex-wrap gap-2">
         {relatedRoots.map(r => (
           <a
-            href={`/concordance/root/${encodeURIComponent(r.transliteration)}/`}
+            href={`/concordance/root/${r.slug}/`}
             class="inline-flex items-center gap-2 px-3 py-1.5 rounded-md
                    bg-ink-800/40 border border-ink-700/30
                    hover:border-gold-400/30 hover:bg-ink-800/60 transition-all"

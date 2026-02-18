@@ -16,7 +16,7 @@ if (!db) return new Response('Database unavailable', { status: 503 });
 
 // Find all occurrences matching this English rendering
 const rows = await queryAll(db, `
-  SELECT o.*, r.root, r.transliteration, r.meaning, r.similar
+  SELECT o.*, r.root, r.transliteration, r.meaning, r.similar, r.slug as root_slug
   FROM occurrences o
   JOIN roots r ON r.id = o.root_id
   WHERE LOWER(TRIM(o.en)) = ?
@@ -40,6 +40,7 @@ for (const row of rows) {
       transliteration: row.transliteration,
       meaning: row.meaning,
       similar: row.similar,
+      rootSlug: row.root_slug,
       rows: [],
       forms: new Map(),
     };
@@ -197,7 +198,7 @@ Astro.response.headers.set('Cache-Control', 'public, max-age=86400, s-maxage=604
         <!-- Root header -->
         <div class="flex flex-wrap items-start gap-3 mb-4">
           <a
-            href={`/concordance/root/${encodeURIComponent(g.transliteration)}/`}
+            href={`/concordance/root/${g.rootSlug}/`}
             class="text-2xl font-arabic text-ink-100 hover:text-gold-400 transition-colors"
             dir="rtl" lang="ar"
           >
@@ -205,7 +206,7 @@ Astro.response.headers.set('Cache-Control', 'public, max-age=86400, s-maxage=604
           </a>
           <div class="flex-1 min-w-0">
             <a
-              href={`/concordance/root/${encodeURIComponent(g.transliteration)}/`}
+              href={`/concordance/root/${g.rootSlug}/`}
               class="text-ink-300 hover:text-gold-400 transition-colors"
             >
               ({g.transliteration})
@@ -276,7 +277,7 @@ Astro.response.headers.set('Cache-Control', 'public, max-age=86400, s-maxage=604
             {g.rows.length > 8 && (
               <p class="text-xs text-ink-500 pl-3">
                 + {g.rows.length - 8} more examples.
-                <a href={`/concordance/root/${encodeURIComponent(g.transliteration)}/`}
+                <a href={`/concordance/root/${g.rootSlug}/`}
                    class="text-gold-400/70 hover:text-gold-400 transition-colors">
                   View full root page
                 </a>

@@ -39,8 +39,9 @@
     const en = index.en
       .filter(r => r[0].toLowerCase().includes(q))
       .slice(0, 12);
+    // [0]=root, [1]=slug, [2]=transliteration, [3]=meaning, [4]=count, [5]=renderingCount
     const roots = index.roots
-      .filter(r => r[1].toLowerCase().includes(q) || r[2].toLowerCase().includes(q))
+      .filter(r => r[2].toLowerCase().includes(q) || r[3].toLowerCase().includes(q))
       .slice(0, 6);
     return { en, roots };
   });
@@ -60,7 +61,7 @@
       e.preventDefault();
       const url = selectedIdx < filtered.en.length
         ? `/concordance/english/${filtered.en[selectedIdx][1]}/`
-        : `/concordance/root/${encodeURIComponent(filtered.roots[selectedIdx - filtered.en.length][1])}/`;
+        : `/concordance/root/${filtered.roots[selectedIdx - filtered.en.length][1]}/`;
       window.location.href = url;
     } else if (e.key === 'Escape') {
       focused = false;
@@ -128,17 +129,17 @@
         </div>
         {#each filtered.roots as entry, i}
           <a
-            href="/concordance/root/{encodeURIComponent(entry[1])}/"
+            href="/concordance/root/{entry[1]}/"
             class="flex items-center justify-between px-3 py-2 text-sm hover:bg-ink-700/50 transition-colors
                    {selectedIdx === filtered.en.length + i ? 'bg-ink-700/50' : ''}"
           >
             <span>
               <span class="text-ink-200 font-arabic" dir="rtl" lang="ar">{entry[0]}</span>
-              <span class="text-ink-400 ml-2">({entry[1]})</span>
-              <span class="text-ink-500 ml-1 text-xs">— {entry[2]}</span>
+              <span class="text-ink-400 ml-2">({entry[2]})</span>
+              <span class="text-ink-500 ml-1 text-xs">— {entry[3]}</span>
             </span>
             <span class="text-[10px] text-ink-500 font-mono ml-2 whitespace-nowrap">
-              {entry[3]} occ · {entry[4]} renderings
+              {entry[4]} occ · {entry[5]} renderings
             </span>
           </a>
         {/each}
