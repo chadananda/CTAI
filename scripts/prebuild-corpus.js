@@ -17,8 +17,7 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const corpusDir = path.resolve(__dirname, '../src/content/corpus');
 const publicCorpusDir = path.resolve(__dirname, '../public/_corpus');
 
-// Clean and recreate public/_corpus
-if (fs.existsSync(publicCorpusDir)) fs.rmSync(publicCorpusDir, { recursive: true });
+// Ensure public/_corpus exists (overwrite in-place, don't delete — Dropbox metadata files block rmSync)
 fs.mkdirSync(publicCorpusDir, { recursive: true });
 
 const workDirs = fs.readdirSync(corpusDir).filter(d =>
