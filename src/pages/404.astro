@@ -1,0 +1,44 @@
+---
+import Base from '../layouts/Base.astro';
+---
+
+<Base
+  title="Page Not Found"
+  description="The page you're looking for doesn't exist. Try searching or browse our collection of sacred texts."
+>
+  <div class="flex flex-col items-center justify-center min-h-[60vh] text-center">
+    <div class="mb-8">
+      <div class="font-mono text-gold-400/40 text-7xl font-bold mb-6">404</div>
+      <h1 class="text-3xl font-display font-bold text-ink-200 mb-4">Page Not Found</h1>
+      <p class="text-ink-400 max-w-md mx-auto mb-8">
+        The page you're looking for doesn't exist. It may have been moved, removed, or the URL might be incorrect.
+      </p>
+    </div>
+    <div class="flex flex-wrap gap-4 justify-center">
+      <a
+        href="/"
+        class="px-6 py-2.5 bg-gold-400/10 hover:bg-gold-400/20 border border-gold-400/30 hover:border-gold-400/50 text-gold-400 font-mono text-sm tracking-wide rounded-md transition-all"
+      >
+        Home
+      </a>
+      <a
+        href="/examples/"
+        class="px-6 py-2.5 bg-ink-800/50 hover:bg-ink-800 border border-ink-700 hover:border-ink-600 text-ink-300 hover:text-ink-200 font-mono text-sm tracking-wide rounded-md transition-all"
+      >
+        Examples
+      </a>
+      <a
+        href="/works/"
+        class="px-6 py-2.5 bg-ink-800/50 hover:bg-ink-800 border border-ink-700 hover:border-ink-600 text-ink-300 hover:text-ink-200 font-mono text-sm tracking-wide rounded-md transition-all"
+      >
+        Tablets
+      </a>
+      <a
+        href="/articles/"
+        class="px-6 py-2.5 bg-ink-800/50 hover:bg-ink-800 border border-ink-700 hover:border-ink-600 text-ink-300 hover:text-ink-200 font-mono text-sm tracking-wide rounded-md transition-all"
+      >
+        Articles
+      </a>
+    </div>
+  </div>
+</Base>
