@@ -1,10 +1,488 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 404,
   "source_text": "سُبْحَانَكَ اللَّهُمَّ يا إِلهِي فَأَمْطِرْ مِنْ سَحابِ فَيْضِ فَضْلِكَ ما تُطَهَّرُ بِهِ أَفْئِدَةُ عِبادِكَ عَمَّا يَحْجُبُهُمْ عَنِ النَّظَرِ إِلى وَجْهِكَ وَيَمْنَعُهُمْ عَنِ التَّوَجُّهِ إِلى نَفْسِكَ لِيَعْرِفُنَّ كُلٌّ مُوجِدَهُمْ وَخالِقَهُمْ ثُمَّ أَصْعِدْهُمْ يا إِلهِي بِسُلْطانِ قُدرَتِكَ إِلى مَقامٍ يُمَيِّزُونَ النَّكْهَةَ الدَّفْرآءَ مِنْ رائِحَةِ قَمِيصِ اسْمِكَ العَلِيِّ الأَعْلی، وَيُقْبِلُونَ إِلَيْكَ بِقُلُوبِهِمْ وَيُؤانِسُونَ مَعَكَ فِي خَفِيَّاتِ سِرِّهِمْ بِحَيْثُ لَوْ يُؤْتُونَ ما فِي السَّمَواتِ وَالأَرْضِ لا يَعْتَنُونَ بِهِ وَلا يَشْغَلُهُمْ عَنْ ذِكْرِكَ وَوَصْفِكَ، ثُمَّ أَسْئَلُكَ",
   "translation": "Glorified art Thou, O Lord my God! Rain down, I beseech Thee, from the clouds of Thine overflowing grace, that which shall cleanse the hearts of Thy servants from whatever may prevent their beholding Thy face, or may prevent them from turning unto Thee, that they may all recognize Him Who is their Fashioner and Creator. Help them, then, O God, to reach forth, through the power of Thy sovereign might, towards such a station that they can readily distinguish every foul smell from the fragrance of the raiment of Him Who is the Bearer of Thy most lofty and exalted name, that they may turn with all their affections toward Thee, and may enjoy such intimate communion with Thee that if all that is in heaven and on earth were given them they would regard it as unworthy of their notice, and would refuse to cease from remembering Thee and from extolling Thy virtues.",
   "source_lang": "ar",
-  "score": 9.9
+  "score": 9.9,
+  "page_slug": "cleanse-hearts-servants-fragrance",
+  "alignment": [
+    {
+      "ar": "سُبْحَانَكَ",
+      "en": "Glorified art Thou"
+    },
+    {
+      "ar": "إِلهِي",
+      "en": "my God"
+    },
+    {
+      "ar": "فَأَمْطِرْ",
+      "en": "Rain down"
+    },
+    {
+      "ar": "سَحابِ",
+      "en": "clouds"
+    },
+    {
+      "ar": "فَيْضِ",
+      "en": "overflowing"
+    },
+    {
+      "ar": "فَضْلِكَ",
+      "en": "grace"
+    },
+    {
+      "ar": "أَفْئِدَةُ",
+      "en": "hearts"
+    },
+    {
+      "ar": "عِبادِكَ",
+      "en": "Thy servants"
+    },
+    {
+      "ar": "يَحْجُبُهُمْ",
+      "en": "prevent"
+    },
+    {
+      "ar": "وَجْهِكَ",
+      "en": "Thy face"
+    },
+    {
+      "ar": "يَمْنَعُهُمْ",
+      "en": "prevent them"
+    },
+    {
+      "ar": "نَفْسِكَ",
+      "en": "Thee"
+    },
+    {
+      "ar": "مُوجِدَهُمْ",
+      "en": "Fashioner"
+    },
+    {
+      "ar": "خالِقَهُمْ",
+      "en": "Creator"
+    },
+    {
+      "ar": "أَصْعِدْهُمْ",
+      "en": "reach forth"
+    },
+    {
+      "ar": "سُلْطانِ",
+      "en": "sovereign"
+    },
+    {
+      "ar": "قُدرَتِكَ",
+      "en": "might"
+    },
+    {
+      "ar": "مَقامٍ",
+      "en": "station"
+    },
+    {
+      "ar": "رائِحَةِ",
+      "en": "fragrance"
+    },
+    {
+      "ar": "قَمِيصِ",
+      "en": "raiment"
+    },
+    {
+      "ar": "اسْمِكَ",
+      "en": "name"
+    },
+    {
+      "ar": "الأَعْلی",
+      "en": "exalted"
+    },
+    {
+      "ar": "يُقْبِلُونَ",
+      "en": "turn"
+    },
+    {
+      "ar": "قُلُوبِهِمْ",
+      "en": "affections"
+    },
+    {
+      "ar": "يُؤانِسُونَ",
+      "en": "communion"
+    },
+    {
+      "ar": "يُؤْتُونَ",
+      "en": "given"
+    },
+    {
+      "ar": "الأَرْضِ",
+      "en": "earth"
+    },
+    {
+      "ar": "يَعْتَنُونَ",
+      "en": "regard"
+    },
+    {
+      "ar": "يَشْغَلُهُمْ",
+      "en": "cease"
+    },
+    {
+      "ar": "ذِكْرِكَ",
+      "en": "remembering Thee"
+    },
+    {
+      "ar": "وَصْفِكَ",
+      "en": "extolling Thy virtues"
+    },
+    {
+      "ar": "أَسْئَلُكَ",
+      "en": "beseech Thee"
+    }
+  ],
+  "terms": [
+    {
+      "term": "سُبْحَانَكَ",
+      "transliteration": "s-b-ḥ",
+      "literal": "glorified; the All-Praised; exalted",
+      "se_rendering": "Glorified art Thou",
+      "note": "Typically rendered 'the All-Praised' or 'the Breath of the All-Glorious' across 23 corpus occurrences. Here 'Glorified art Thou' captures liturgical invocation, establishing the prayer's solemn register.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 211,
+          "snippet": "the All-Praised"
+        },
+        {
+          "work": "gleanings",
+          "para": 212,
+          "snippet": "the Breath of the All-Glorious"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 13,
+          "snippet": "the breezes of the All-Glorious"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 42,
+          "snippet": "Gracious God"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 90,
+          "snippet": "Great God"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 62,
+          "snippet": "Glorified art Thou"
+        },
+        {
+          "work": "gleanings",
+          "para": 112,
+          "snippet": "Glory be to Thee"
+        },
+        {
+          "work": "gleanings",
+          "para": 1,
+          "snippet": "Lauded and glorified art Thou"
+        }
+      ]
+    },
+    {
+      "term": "فَيْضِ",
+      "transliteration": "f-y-d",
+      "literal": "flood; abundance; overflow; emanation; grace",
+      "se_rendering": "overflowing",
+      "note": "Root meaning flood/emanation, rendered variously as 'grace', 'mighty grace', 'grace of the Holy Spirit' (13 occ). 'Overflowing' here emphasizes abundance and continuous outpouring rather than static grace.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 10,
+          "snippet": "with"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 17,
+          "snippet": "emanating from"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 24,
+          "snippet": "grace"
+        },
+        {
+          "work": "gleanings",
+          "para": 10,
+          "snippet": "mighty grace"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 135,
+          "snippet": "grace of the Holy Spirit"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 154,
+          "snippet": "grace of the Divine Presence"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 160,
+          "snippet": "the All-Bountiful, the All-Generous"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 31,
+          "snippet": "bounties"
+        }
+      ]
+    },
+    {
+      "term": "أَفْئِدَةُ",
+      "transliteration": "f-ʾ-d",
+      "literal": "heart, innermost soul, mind",
+      "se_rendering": "hearts",
+      "note": "From root f-ʾ-d meaning heart/innermost soul. SE renders as 'hearts' (8 occ) here, though concordance notes deeper 'essence of thy heart' variant—cleansing the innermost spiritual core, not merely emotional hearts.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 7,
+          "snippet": "hearts"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 60,
+          "snippet": "thy heart"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 72,
+          "snippet": "essence of thy heart"
+        }
+      ]
+    },
+    {
+      "term": "وَجْهِكَ",
+      "transliteration": "w-j-h",
+      "literal": "face; countenance; direction; aspect",
+      "se_rendering": "Thy face",
+      "note": "Root w-j-h typically rendered 'face' (64 occ), but concordance also shows 'eyes', 'turned', 'set their faces'. 'Thy face' here carries mystical meaning—beholding Divine countenance as supreme spiritual station.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 77,
+          "snippet": "their faces"
+        },
+        {
+          "work": "gleanings",
+          "para": 596,
+          "snippet": "eyes"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 16,
+          "snippet": "unto Mine"
+        },
+        {
+          "work": "gleanings",
+          "para": 273,
+          "snippet": "face"
+        },
+        {
+          "work": "gleanings",
+          "para": 371,
+          "snippet": "turned"
+        },
+        {
+          "work": "gleanings",
+          "para": 275,
+          "snippet": "with white faces"
+        },
+        {
+          "work": "gleanings",
+          "para": 399,
+          "snippet": "with white faces and radiant hearts"
+        },
+        {
+          "work": "gleanings",
+          "para": 249,
+          "snippet": "for the sake of God"
+        }
+      ]
+    },
+    {
+      "term": "مَقامٍ",
+      "transliteration": "q-w-m",
+      "literal": "rising; standing; uprising; resurrection",
+      "se_rendering": "station",
+      "note": "Root q-w-m meanings include 'rising', 'standing', 'Resurrection' across 109 corpus occurrences. SE's 'station' here uniquely denotes a mystical rank or platform of spiritual attainment rather than physical rising.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 152,
+          "snippet": "Day of Resurrection"
+        },
+        {
+          "work": "gleanings",
+          "para": 437,
+          "snippet": "arise"
+        },
+        {
+          "work": "gleanings",
+          "para": 513,
+          "snippet": "dedicateth"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 153,
+          "snippet": "Resurrection"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 74,
+          "snippet": "rise"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "peoples"
+        },
+        {
+          "work": "gleanings",
+          "para": 693,
+          "snippet": "commandments"
+        },
+        {
+          "work": "gleanings",
+          "para": 628,
+          "snippet": "My commandments"
+        }
+      ]
+    },
+    {
+      "term": "رائِحَةِ",
+      "transliteration": "r-y-h",
+      "literal": "banner; standard; flag; sign",
+      "se_rendering": "fragrance",
+      "note": "Root r-y-h typically means 'banner/standard' (4 occ) but rendered 'fragrance' in this passage—a rare sensory/olfactory metaphor for spiritual perception absent from corpus data.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 268,
+          "snippet": "Standard"
+        },
+        {
+          "work": "gleanings",
+          "para": 179,
+          "snippet": "odor"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 211,
+          "snippet": "fragrance"
+        }
+      ]
+    },
+    {
+      "term": "اسْمِكَ",
+      "transliteration": "s-m-y",
+      "literal": "to name, to nominate, to designate, to appoint",
+      "se_rendering": "Thy name",
+      "note": "Root s-m-y rendered variously: 'nominated', 'Names', 'Titles', 'thy name' (20 occ). Here 'name' connects to Divine self-disclosure; the specific phrase 'raiment of Thy name' expresses sartorial metaphor for revealed attributes.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 20,
+          "snippet": "nominated and appointed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 3,
+          "snippet": "names"
+        },
+        {
+          "work": "gleanings",
+          "para": 374,
+          "snippet": "of His names"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 103,
+          "snippet": "thy name"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 91,
+          "snippet": "My name"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 35,
+          "snippet": "by Thy name"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 107,
+          "snippet": "in the Most Great Name"
+        },
+        {
+          "work": "gleanings",
+          "para": 112,
+          "snippet": "by the Name"
+        }
+      ]
+    },
+    {
+      "term": "سِرِّهِمْ",
+      "transliteration": "s-r-r",
+      "literal": "throne; couch; seat of authority",
+      "se_rendering": "their secret",
+      "note": "Root s-r-r primarily denotes 'throne', 'couch', 'seat of authority' (40 occ). SE's 'secret' here invokes hidden mystical depths rather than thrones, suggesting inner spiritual chambers.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 145,
+          "snippet": "couch"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 256,
+          "snippet": "throne"
+        },
+        {
+          "work": "tablet-of-carmel",
+          "para": 2,
+          "snippet": "joy"
+        },
+        {
+          "work": "gleanings",
+          "para": 576,
+          "snippet": "lamp"
+        },
+        {
+          "work": "gleanings",
+          "para": 218,
+          "snippet": "mystery"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 37,
+          "snippet": "in the gladness"
+        },
+        {
+          "work": "gleanings",
+          "para": 727,
+          "snippet": "gladness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 8,
+          "snippet": "by the mysteries"
+        }
+      ]
+    }
+  ],
+  "section_index": "XCV.1",
+  "section": "XCV",
+  "section_para": 1
 }

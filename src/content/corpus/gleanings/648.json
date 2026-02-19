@@ -1,10 +1,119 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 648,
   "source_text": "علیک وعلی من معک من أحبّائي أَلَا إنّهم من الفایزین",
   "translation": "My glory be with thee and with those of My loved ones that associate with thee. These indeed are they with whom it shall be well.",
   "source_lang": "ar",
-  "score": 9.5
+  "score": 9.5,
+  "page_slug": "glory-loved-ones-well",
+  "alignment": [
+    {
+      "ar": "علیک",
+      "en": "with thee"
+    },
+    {
+      "ar": "معک",
+      "en": "associate with thee"
+    },
+    {
+      "ar": "أحبّائي",
+      "en": "My loved ones"
+    },
+    {
+      "ar": "إنّهم",
+      "en": "These"
+    },
+    {
+      "ar": "الفایزین",
+      "en": "it shall be well"
+    }
+  ],
+  "terms": [
+    {
+      "term": "معک",
+      "transliteration": "ʿ-k-ʿ",
+      "literal": "with you; alongside you",
+      "se_rendering": "with those of My loved ones that associate with thee",
+      "note": "Single occurrence in corpus. 'With thee' establishes spatial/relational proximity; combined with 'loved ones,' creates fellowship of divine favor.",
+      "cross_refs": []
+    },
+    {
+      "term": "أحبّائي",
+      "transliteration": "ḥ-b-b",
+      "literal": "love; affection",
+      "se_rendering": "My loved ones",
+      "note": "Root ḥ-b-b consistently rendered 'loved ones' (92 occurrences across corpus). SE selects the possessive form to emphasize intimate divine relationship.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 3,
+          "snippet": "beloved of the Lord"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 53,
+          "snippet": "loved ones of the Lord"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 39,
+          "snippet": "His loved ones"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 10,
+          "snippet": "love for Thee"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 12,
+          "snippet": "love"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 26,
+          "snippet": "Thy loved ones"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 475,
+          "snippet": "Thy dear ones"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 47,
+          "snippet": "my Beloved"
+        }
+      ]
+    },
+    {
+      "term": "انهم",
+      "transliteration": "h-m",
+      "literal": "them (pronoun + object marker)",
+      "se_rendering": "These indeed are they",
+      "note": "Multiple renderings available (9 occurrences). 'These indeed are they' employs emphatic demonstrative construction, reinforcing distinction and certainty of the group addressed.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 22,
+          "snippet": "them"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 153,
+          "snippet": "mankind"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 182,
+          "snippet": "These, verily, are men"
+        }
+      ]
+    }
+  ],
+  "section_index": "CXLI.6",
+  "section": "CXLI",
+  "section_para": 6
 }

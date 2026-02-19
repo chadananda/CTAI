@@ -1,10 +1,409 @@
 {
   "work": "The Hidden Words",
   "slug": "the-hidden-words",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 139,
   "source_text": "(٦٢) ﴿ ای پسر خاک ﴾\nاز خمر بی مثال محبوب لا يزال چشم مپوش و بخمر کدره فانيه چشم مگشا * از دست ساقی احديّه کأوس باقيه برگير تا همه هوش شوی و از سروش غيب معنوی شنوی * بگو ای پست فطرتان از شراب باقی قدسم چرا بآب فانی رجوع نموديد *",
   "translation": "(62) O SON OF DUST!\nA dewdrop out of the fathomless ocean of My mercy I have shed upon the peoples of the world, yet found none turn thereunto, inasmuch as every one hath turned away from the celestial wine of unity unto the foul dregs of impurity, and, content with mortal cup, hath put away the chalice of immortal beauty. Vile is that wherewith he is contented.",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "celestial-wine-unity",
+  "alignment": [
+    {
+      "ar": "پسر",
+      "en": "SON"
+    },
+    {
+      "ar": "خاک",
+      "en": "DUST"
+    },
+    {
+      "ar": "خمر",
+      "en": "wine"
+    },
+    {
+      "ar": "بی مثال",
+      "en": "fathomless"
+    },
+    {
+      "ar": "محبوب",
+      "en": "mercy"
+    },
+    {
+      "ar": "چشم مپوش",
+      "en": "dewdrop"
+    },
+    {
+      "ar": "خمر",
+      "en": "dregs"
+    },
+    {
+      "ar": "کدره",
+      "en": "foul"
+    },
+    {
+      "ar": "فانيه",
+      "en": "impurity"
+    },
+    {
+      "ar": "ساقی",
+      "en": "celestial"
+    },
+    {
+      "ar": "احديّه",
+      "en": "unity"
+    },
+    {
+      "ar": "کأوس",
+      "en": "chalice"
+    },
+    {
+      "ar": "باقيه",
+      "en": "immortal"
+    },
+    {
+      "ar": "برگير",
+      "en": "put away"
+    },
+    {
+      "ar": "هوش",
+      "en": "content"
+    },
+    {
+      "ar": "سروش",
+      "en": "beauty"
+    },
+    {
+      "ar": "غيب",
+      "en": "cup"
+    },
+    {
+      "ar": "معنوی",
+      "en": "mortal"
+    },
+    {
+      "ar": "بگو",
+      "en": "inasmuch"
+    },
+    {
+      "ar": "پست فطرتان",
+      "en": "Vile"
+    },
+    {
+      "ar": "شراب",
+      "en": "ocean"
+    },
+    {
+      "ar": "باقی",
+      "en": "peoples"
+    },
+    {
+      "ar": "قدسم",
+      "en": "world"
+    },
+    {
+      "ar": "آب",
+      "en": "found"
+    },
+    {
+      "ar": "فانی",
+      "en": "none"
+    },
+    {
+      "ar": "رجوع نموديد",
+      "en": "contented"
+    }
+  ],
+  "terms": [
+    {
+      "term": "خمر",
+      "transliteration": "kh-m-r",
+      "literal": "wine; intoxicating drink",
+      "se_rendering": "celestial wine; wine",
+      "note": "Four occurrences across corpus all render as 'wine' with divine qualifiers. Here pairing 'celestial wine of unity' creates philosophical contrast with 'foul dregs'—SE's most elaborate contextual expansion.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 36,
+          "snippet": "wine of Thy tender mercy"
+        },
+        {
+          "work": "gleanings",
+          "para": 55,
+          "snippet": "wine of Thy meeting"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 215,
+          "snippet": "wine of Thy knowledge"
+        }
+      ]
+    },
+    {
+      "term": "فانیه",
+      "transliteration": "f-n-y",
+      "literal": "annihilation; perishing; extinction; cessation; the threshold",
+      "se_rendering": "foul dregs; mortal",
+      "note": "Consistently 'perisheth' or 'annihilation' (12 occ). Here 'foul dregs' represents semantic leap from extinction concept to visceral contamination imagery.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 2,
+          "snippet": "perisheth not"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 719,
+          "snippet": "annihilation"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 29,
+          "snippet": "mortal graves"
+        },
+        {
+          "work": "gleanings",
+          "para": 50,
+          "snippet": "expire"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 70,
+          "snippet": "dieth to himself"
+        },
+        {
+          "work": "gleanings",
+          "para": 104,
+          "snippet": "absolute servitude, utter destitution"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 194,
+          "snippet": "complete annihilation"
+        }
+      ]
+    },
+    {
+      "term": "احديّه",
+      "transliteration": "h-d-y",
+      "literal": "oneness; unity; absolute unicity; singleness of divine essence",
+      "se_rendering": "unity",
+      "note": "Standard renderings: 'Thy oneness/unity/transcendent unity' (4 occ). Here 'unity' alone—stripped to bare theological essence without possessive qualifier.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 74,
+          "snippet": "Thy transcendent unity"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 79,
+          "snippet": "Thy oneness"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 317,
+          "snippet": "Thy unity"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 216,
+          "snippet": "the Divine Oneness"
+        }
+      ]
+    },
+    {
+      "term": "باقیه",
+      "transliteration": "b-q-y",
+      "literal": "remaining; everlasting; eternal; immortal",
+      "se_rendering": "immortal beauty",
+      "note": "Typically 'the Eternal' or 'everlasting' (32 occ). Here rendered 'immortal beauty'—personifying the abstract into aesthetic experience, unique contextual specification.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 2,
+          "snippet": "the Eternal"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 56,
+          "snippet": "refrain"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 246,
+          "snippet": "everlasting"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 259,
+          "snippet": "O thou Remnant of God"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 798,
+          "snippet": "eternity"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 10,
+          "snippet": "eternal"
+        },
+        {
+          "work": "gleanings",
+          "para": 614,
+          "snippet": "vapor"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 158,
+          "snippet": "last trace"
+        }
+      ]
+    },
+    {
+      "term": "سروش",
+      "transliteration": "s-r-w",
+      "literal": "cypress (tree); call, voice; joy",
+      "se_rendering": "voice",
+      "note": "Five occurrences typically render 'call,' 'joy,' 'gladness.' Here 'voice' emphasizes auditory reception over emotional resonance—unusual sensory specificity.",
+      "cross_refs": [
+        {
+          "work": "tablet-of-carmel",
+          "para": 2,
+          "snippet": "joy"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 57,
+          "snippet": "gladness"
+        }
+      ]
+    },
+    {
+      "term": "غیب",
+      "transliteration": "gh-y-b",
+      "literal": "the unseen; the invisible; the hidden; the unknowable",
+      "se_rendering": "unseen; invisible",
+      "note": "Nine occurrences predominantly 'Unseen' or 'invisible' (9 occ). Here both terms used sequentially in single phrase—rare dual-rendering strategy for single root.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 40,
+          "snippet": "Unseen"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 214,
+          "snippet": "backbiting"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 10,
+          "snippet": "invisible"
+        },
+        {
+          "work": "gleanings",
+          "para": 91,
+          "snippet": "unknowable"
+        },
+        {
+          "work": "gleanings",
+          "para": 190,
+          "snippet": "the Unseen"
+        },
+        {
+          "work": "gleanings",
+          "para": 254,
+          "snippet": "secrets"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 77,
+          "snippet": "hidden"
+        },
+        {
+          "work": "gleanings",
+          "para": 550,
+          "snippet": "the secrets of the Unseen"
+        }
+      ]
+    },
+    {
+      "term": "معنوی",
+      "transliteration": "m-ʿ-n",
+      "literal": "meaning; sense; significance",
+      "se_rendering": "invisible",
+      "note": "Eight occurrences include mystical imagery ('O mystic nightingale'). Here 'invisible'—stripped of ornament, prioritizing epistemological invisibility over metaphorical beauty.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 45,
+          "snippet": "meaning"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 10,
+          "snippet": "Invisible"
+        },
+        {
+          "work": "gleanings",
+          "para": 672,
+          "snippet": "to the rose-garden of unfading splendor"
+        }
+      ]
+    },
+    {
+      "term": "رجوع",
+      "transliteration": "r-j-ʿ",
+      "literal": "return; reference; place of return; resort",
+      "se_rendering": "turned away",
+      "note": "Typically 'return' or 'to Him shall we return' (16 occ). Here 'turned away'—inverts semantic direction, expressing estrangement rather than homecoming.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 367,
+          "snippet": "target"
+        },
+        {
+          "work": "gleanings",
+          "para": 319,
+          "snippet": "return"
+        },
+        {
+          "work": "gleanings",
+          "para": 726,
+          "snippet": "to Him shall we return"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 53,
+          "snippet": "returned"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 530,
+          "snippet": "cause them to return"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 709,
+          "snippet": "return me"
+        },
+        {
+          "work": "gleanings",
+          "para": 683,
+          "snippet": "Retrace"
+        },
+        {
+          "work": "gleanings",
+          "para": 193,
+          "snippet": "will ultimately be united"
+        }
+      ]
+    }
+  ],
+  "section_index": "273",
+  "section": "273",
+  "section_para": 1
 }

@@ -1,10 +1,588 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 63,
   "source_text": "مِنْ آنٍ، طُوبَى لِلَّذِينَ طَارُوا بِأَجْنِحَةِ الانْقِطَاعِ إِلى مَقَامٍ جَعَلَهُ اللهُ فَوقَ الإِبْدَاعِ، وَاسْتَقَامُوا عَلَى الأَمْرِ عَلَى شَأْنٍ مَا مَنَعَتْهُمْ أَوْهَامُ الْعُلَمَآءِ وَلا جُنُودُ الآفَاقِ، يَا قَوْمِ هَلْ مِنْكُمْ مِنْ أَحَدٍ يَدَعُ الْوَرَى مُقْبِلاً إِلى اللهِ مَالِكِ الأَسْمَاءِ وَيَضَعُ مَا عِنْدَ النَّاسِ بِسُلْطَانِ اسْمِيَ الْمُهَيْمِنِ عَلَى الأَشْيَآءِ آخِذًا بِيَدِ الْقُوَّةِ مَا أُمِرَ بِهِ مِنْ لَدَى اللهِ عَالِمُ السِّرِّ وَالأَجْهَارِ، كَذَلِكَ نُزِّلَتِ النِّعْمَةُ وَتَمَّتِ الْحُجَّةُ وَأَشْرَقَ الْبُرْهَانُ مِنْ أُفُقِ الرَّحْمنِ إِنَّ الْفَوْزَ لِمَنْ أَقْبَلَ وَقَالَ لَكَ الْحَمْدُ يَا مَحْبُوبَ الْعَالَمِينَ وَلَكَ الْحَمْدُ يَا مَقْصُودَ",
   "translation": "Blessed are they that have soared on the wings of detachment and attained the station which, as ordained by God, overshadoweth the entire creation, whom neither the vain imaginations of the learned, nor the multitude of the hosts of the earth have succeeded in deflecting from His Cause. Who is there among you, O people, who will renounce the world, and draw nigh unto God, the Lord of all names? Where is he to be found who, through the power of My name that transcendeth all created things, will cast away the things that men possess, and cling, with all his might, to the things which God, the Knower of the unseen and of the seen, hath bidden him observe? Thus hath His bounty been sent down unto men, His testimony fulfilled, and His proof shone forth above the Horizon of mercy. Rich is the prize that shall be won by him who hath believed and exclaimed: “Lauded art Thou, O Beloved of all worlds! Magnified be Thy name, O Thou the Desire of every understanding heart!”",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "wings-detachment-beloved-worlds",
+  "alignment": [
+    {
+      "ar": "طُوبَى",
+      "en": "Blessed"
+    },
+    {
+      "ar": "طَارُوا",
+      "en": "have soared"
+    },
+    {
+      "ar": "بِأَجْنِحَةِ",
+      "en": "on the wings"
+    },
+    {
+      "ar": "الانْقِطَاعِ",
+      "en": "of detachment"
+    },
+    {
+      "ar": "إِلى",
+      "en": "and attained"
+    },
+    {
+      "ar": "مَقَامٍ",
+      "en": "the station"
+    },
+    {
+      "ar": "جَعَلَهُ",
+      "en": "as ordained"
+    },
+    {
+      "ar": "اللهُ",
+      "en": "by God"
+    },
+    {
+      "ar": "فَوقَ",
+      "en": "overshadoweth"
+    },
+    {
+      "ar": "الإِبْدَاعِ",
+      "en": "the entire creation"
+    },
+    {
+      "ar": "اسْتَقَامُوا",
+      "en": "succeeded"
+    },
+    {
+      "ar": "عَلَى الأَمْرِ",
+      "en": "from His Cause"
+    },
+    {
+      "ar": "عَلَى شَأْنٍ",
+      "en": "whom"
+    },
+    {
+      "ar": "مَا مَنَعَتْهُمْ",
+      "en": "neither"
+    },
+    {
+      "ar": "أَوْهَامُ",
+      "en": "the vain imaginations"
+    },
+    {
+      "ar": "الْعُلَمَآءِ",
+      "en": "of the learned"
+    },
+    {
+      "ar": "جُنُودُ",
+      "en": "the multitude of the hosts"
+    },
+    {
+      "ar": "الآفَاقِ",
+      "en": "of the earth"
+    },
+    {
+      "ar": "يَا قَوْمِ",
+      "en": "O people"
+    },
+    {
+      "ar": "هَلْ مِنْكُمْ مِنْ أَحَدٍ",
+      "en": "Who is there among you"
+    },
+    {
+      "ar": "يَدَعُ",
+      "en": "will renounce"
+    },
+    {
+      "ar": "الْوَرَى",
+      "en": "the world"
+    },
+    {
+      "ar": "مُقْبِلاً",
+      "en": "and draw nigh"
+    },
+    {
+      "ar": "إِلى اللهِ",
+      "en": "unto God"
+    },
+    {
+      "ar": "مَالِكِ",
+      "en": "the Lord"
+    },
+    {
+      "ar": "الأَسْمَاءِ",
+      "en": "of all names"
+    },
+    {
+      "ar": "يَضَعُ",
+      "en": "will cast away"
+    },
+    {
+      "ar": "بِسُلْطَانِ",
+      "en": "through the power"
+    },
+    {
+      "ar": "اسْمِيَ",
+      "en": "of My name"
+    },
+    {
+      "ar": "الْمُهَيْمِنِ",
+      "en": "that transcendeth"
+    },
+    {
+      "ar": "عَلَى الأَشْيَآءِ",
+      "en": "all created things"
+    },
+    {
+      "ar": "آخِذًا",
+      "en": "and cling"
+    },
+    {
+      "ar": "مَا أُمِرَ بِهِ",
+      "en": "the things which"
+    },
+    {
+      "ar": "مِنْ لَدَى اللهِ",
+      "en": "God"
+    },
+    {
+      "ar": "عَالِمُ",
+      "en": "the Knower"
+    },
+    {
+      "ar": "وَالأَجْهَارِ",
+      "en": "and of the seen"
+    },
+    {
+      "ar": "كَذَلِكَ",
+      "en": "Thus"
+    },
+    {
+      "ar": "أَشْرَقَ",
+      "en": "shone forth"
+    },
+    {
+      "ar": "الْبُرْهَانُ",
+      "en": "His proof"
+    },
+    {
+      "ar": "مِنْ أُفُقِ",
+      "en": "above the Horizon"
+    },
+    {
+      "ar": "لِمَنْ أَقْبَلَ",
+      "en": "that shall be won by him who hath believed"
+    },
+    {
+      "ar": "وَقَالَ",
+      "en": "and exclaimed"
+    },
+    {
+      "ar": "لَكَ الْحَمْدُ",
+      "en": "Lauded art Thou"
+    },
+    {
+      "ar": "يَا مَحْبُوبَ",
+      "en": "O Beloved"
+    },
+    {
+      "ar": "الْعَالَمِينَ",
+      "en": "of all worlds"
+    },
+    {
+      "ar": "وَلَكَ الْحَمْدُ",
+      "en": "Magnified be Thy name"
+    },
+    {
+      "ar": "يَا مَقْصُودَ",
+      "en": "O Thou the Desire"
+    }
+  ],
+  "terms": [
+    {
+      "term": "الانْقِطَاعِ",
+      "transliteration": "q-t-ʿ",
+      "literal": "to be severed; to be cut off; to detach oneself; to abstain",
+      "se_rendering": "detachment",
+      "note": "Primary root meaning 'to sever/cut off.' SE renders 'detachment' here — consistent with 'detached themselves' and 'detacheth himself' across corpus. Captures the mystical severance from worldly attachments.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 413,
+          "snippet": "detached themselves"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 427,
+          "snippet": "sundered"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 488,
+          "snippet": "have cut themselves off"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 11,
+          "snippet": "decisive"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 16,
+          "snippet": "detachment"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 276,
+          "snippet": "severed"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 340,
+          "snippet": "them that have rid themselves of all attachment"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 218,
+          "snippet": "renounced"
+        }
+      ]
+    },
+    {
+      "term": "مَقَامٍ",
+      "transliteration": "q-w-m",
+      "literal": "rising; standing; uprising; resurrection",
+      "se_rendering": "station",
+      "note": "Root typically yields 'Day of Resurrection,' 'arise,' 'Resurrection.' SE uses 'station' here — a unique rendering emphasizing spiritual standing rather than eschatological rising, appropriate to this context of mystical elevation.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 152,
+          "snippet": "Day of Resurrection"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 153,
+          "snippet": "Resurrection"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 74,
+          "snippet": "rise"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "peoples"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 26,
+          "snippet": "steadfast"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 38,
+          "snippet": "steadfast in faith"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 628,
+          "snippet": "stood fast"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 198,
+          "snippet": "station"
+        }
+      ]
+    },
+    {
+      "term": "الأَمْرِ",
+      "transliteration": "ʾ-m-m",
+      "literal": "mother; to lead; to head; matter; affair",
+      "se_rendering": "His Cause",
+      "note": "Consistently rendered 'His Cause' across 75 occurrences in corpus. SE maintains this rendering here, establishing 'Cause' as the primary term for divine command and revelation in Bahá'í discourse.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 257,
+          "snippet": "command"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 393,
+          "snippet": "Cause"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 13,
+          "snippet": "peoples"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 127,
+          "snippet": "nations"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 137,
+          "snippet": "before"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 178,
+          "snippet": "Imams"
+        }
+      ]
+    },
+    {
+      "term": "بِسُلْطَانِ",
+      "transliteration": "s-l-ṭ",
+      "literal": "dominion; authority; power; sovereignty; control",
+      "se_rendering": "power",
+      "note": "Root s-l-ṭ yields 'sovereignty,' 'dominion,' 'authority' across 43 corpus occurrences. SE renders 'power' here — a slight semantic shift emphasizing force over governance, aligning with 'through the might' variant.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 118,
+          "snippet": "sovereignty"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 151,
+          "snippet": "dominion"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 1,
+          "snippet": "Thy sovereignty"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 184,
+          "snippet": "by Thy sovereignty"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 416,
+          "snippet": "Lord"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 13,
+          "snippet": "O King"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 242,
+          "snippet": "king"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 157,
+          "snippet": "the Sháh"
+        }
+      ]
+    },
+    {
+      "term": "السِّرِّ",
+      "transliteration": "s-r-r",
+      "literal": "throne; couch; seat of authority",
+      "se_rendering": "unseen",
+      "note": "Root s-r-r commonly rendered 'throne,' 'couch,' 'mystery' across 40 occurrences. SE chooses 'unseen' here, deviating from typical renderings to create parallel structure with 'seen' (الأَجْهَارِ), emphasizing omniscience.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 145,
+          "snippet": "couch"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 256,
+          "snippet": "throne"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 185,
+          "snippet": "lamp"
+        },
+        {
+          "work": "tablet-of-carmel",
+          "para": 2,
+          "snippet": "joy"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 831,
+          "snippet": "Secret"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 37,
+          "snippet": "in the gladness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 8,
+          "snippet": "by the mysteries"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 18,
+          "snippet": "mysteries"
+        }
+      ]
+    },
+    {
+      "term": "نُزِّلَتِ",
+      "transliteration": "n-z-l",
+      "literal": "to descend, to be revealed",
+      "se_rendering": "sent down",
+      "note": "Standard rendering 'sent down' appears here. Corpus shows 88 occurrences with renderings including 'revealed' and 'descended,' but SE chooses 'sent down' to preserve the metaphor of divine bounty descending to humanity.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 188,
+          "snippet": "revealed"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 175,
+          "snippet": "didst send down"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 835,
+          "snippet": "sent down"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 34,
+          "snippet": "Descend"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 47,
+          "snippet": "pour forth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 330,
+          "snippet": "send down"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 40,
+          "snippet": "were revealed"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 16,
+          "snippet": "hath been sent down"
+        }
+      ]
+    },
+    {
+      "term": "الرَّحْمنِ",
+      "transliteration": "r-ḥ-m",
+      "literal": "merciful, compassionate; pertaining to divine mercy",
+      "se_rendering": "mercy",
+      "note": "Root r-ḥ-m yields 'Divine glory,' 'merciful,' 'spirit of mercy' across 70 occurrences. SE selects 'mercy' here — a direct, affective choice emphasizing compassion over abstract divine attribute, establishing the horizon as one of compassionate revelation.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 57,
+          "snippet": "Divine"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 89,
+          "snippet": "celestial melody"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 114,
+          "snippet": "spirit of mercy"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 220,
+          "snippet": "have mercy on them"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 546,
+          "snippet": "mercy"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 50,
+          "snippet": "the Compassionate"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 793,
+          "snippet": "have mercy upon them"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 47,
+          "snippet": "Thy mercy"
+        }
+      ]
+    },
+    {
+      "term": "مَحْبُوبَ",
+      "transliteration": "ḥ-b-b",
+      "literal": "love; affection",
+      "se_rendering": "Beloved",
+      "note": "Root ḥ-b-b consistently renders 'beloved' across 92 corpus occurrences. SE maintains 'Beloved' here in vocative address, reinforcing the intimate relationship between devotee and divine beloved central to Bahá'í spirituality.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 3,
+          "snippet": "beloved of the Lord"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 53,
+          "snippet": "loved ones of the Lord"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 39,
+          "snippet": "His loved ones"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 10,
+          "snippet": "love for Thee"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 12,
+          "snippet": "love"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 26,
+          "snippet": "Thy loved ones"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 475,
+          "snippet": "Thy dear ones"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 47,
+          "snippet": "my Beloved"
+        }
+      ]
+    }
+  ],
+  "section_index": "XIV.18",
+  "section": "XIV",
+  "section_para": 18
 }

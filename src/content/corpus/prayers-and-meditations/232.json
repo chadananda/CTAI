@@ -1,10 +1,542 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 232,
   "source_text": "سُبْحَانَكَ يا مَنْ ناداكَ أَلْسُنُ الكائِناتِ فِي أَزَلِ اللاَّبَداياتِ وَأبَدِ اللاَّنِهاياتِ، وَما وَصَلَ نِدآءُ أَحَدٍ مِنْهُمْ إِلى هَوآءِ بَقاءِ قُدْسِ كِبْرِيائِكَ، وَفُتِحَتْ عُيونُ المَوْجُوداتِ لِمُشاهَدَةِ أَنْوارِ جَمالِكَ، وَما وَقَعَتْ عَيْنُ نَفْسٍ إِلى بَوارِقِ ظُهُوراتِ شَمْسِ وِجْهَتِكَ، وَرَفَعَتْ أَيادِي المُقَرَّبِينَ بِدَوامِ عِزِّ سَلْطَنَتِكَ وَبَقاءِ قُدْسِ حُكُومَتِكَ، وَما بَلَغَتْ يَدُ أَحَدٍ إِلى ذَيْلِ رِدآءِ سُلْطانِ رُبُوبِيَّتِكَ، مَعَ الَّذِيْ لَمْ تَزَلْ كُنْتَ بِبَدائِعِ ج",
   "translation": "Praise be to Thee, to Whom the tongues of all created things have, from eternity, called, and yet failed to attain the heaven of Thine eternal holiness and grandeur. The eyes of all beings have been opened to behold the beauty of Thy radiant countenance, yet none hath succeeded in gazing on the brightness of the light of Thy face. The hands of them that are nigh unto Thee have, ever since the foundation of Thy glorious sovereignty and the establishment of Thy holy dominion, been raised suppliantly towards Thee, yet no one hath been able to touch the hem of the robe that clotheth Thy Divine and sovereign Essence. And yet none can deny that Thou hast ever been, through the wonders of Thy generosity and bounty, supreme over all things, art powerful to do all things, and art nearer unto all things than they are unto themselves.",
   "source_lang": "ar",
-  "score": 9.5
+  "score": 9.5,
+  "page_slug": "tongues-created-things-eternity",
+  "alignment": [
+    {
+      "ar": "سُبْحَانَكَ",
+      "en": "Praise be to Thee"
+    },
+    {
+      "ar": "ناداكَ",
+      "en": "called"
+    },
+    {
+      "ar": "أَلْسُنُ",
+      "en": "tongues"
+    },
+    {
+      "ar": "الكائِناتِ",
+      "en": "all created things"
+    },
+    {
+      "ar": "أَزَلِ",
+      "en": "eternity"
+    },
+    {
+      "ar": "أبَدِ",
+      "en": "eternal"
+    },
+    {
+      "ar": "وَصَلَ",
+      "en": "attain"
+    },
+    {
+      "ar": "أَحَدٍ",
+      "en": "none"
+    },
+    {
+      "ar": "هَوآءِ",
+      "en": "heaven"
+    },
+    {
+      "ar": "قُدْسِ",
+      "en": "holiness"
+    },
+    {
+      "ar": "كِبْرِيائِكَ",
+      "en": "grandeur"
+    },
+    {
+      "ar": "فُتِحَتْ",
+      "en": "opened"
+    },
+    {
+      "ar": "عُيونُ",
+      "en": "eyes"
+    },
+    {
+      "ar": "المَوْجُوداتِ",
+      "en": "all beings"
+    },
+    {
+      "ar": "لِمُشاهَدَةِ",
+      "en": "behold"
+    },
+    {
+      "ar": "أَنْوارِ",
+      "en": "light"
+    },
+    {
+      "ar": "جَمالِكَ",
+      "en": "beauty"
+    },
+    {
+      "ar": "وَقَعَتْ",
+      "en": "gazing"
+    },
+    {
+      "ar": "بَوارِقِ",
+      "en": "brightness"
+    },
+    {
+      "ar": "وِجْهَتِكَ",
+      "en": "face"
+    },
+    {
+      "ar": "رَفَعَتْ",
+      "en": "raised"
+    },
+    {
+      "ar": "أَيادِي",
+      "en": "hands"
+    },
+    {
+      "ar": "دَوامِ",
+      "en": "foundation"
+    },
+    {
+      "ar": "سَلْطَنَتِكَ",
+      "en": "sovereignty"
+    },
+    {
+      "ar": "بَقاءِ",
+      "en": "establishment"
+    },
+    {
+      "ar": "قُدْسِ",
+      "en": "holy"
+    },
+    {
+      "ar": "حُكُومَتِكَ",
+      "en": "dominion"
+    },
+    {
+      "ar": "بَلَغَتْ",
+      "en": "able"
+    },
+    {
+      "ar": "ذَيْلِ",
+      "en": "hem"
+    },
+    {
+      "ar": "رِدآءِ",
+      "en": "robe"
+    },
+    {
+      "ar": "سُلْطانِ",
+      "en": "sovereign"
+    },
+    {
+      "ar": "لَمْ تَزَلْ",
+      "en": "ever been"
+    },
+    {
+      "ar": "بِبَدائِعِ",
+      "en": "wonders"
+    }
+  ],
+  "terms": [
+    {
+      "term": "قُدْسِ",
+      "transliteration": "q-d-s",
+      "literal": "holy, sacred, sanctified",
+      "se_rendering": "holy",
+      "note": "Root pattern favors 'sacred' or 'holy' (47 occ). Here 'holy' — conventional, non-technical rendering without Sanctuary connotations.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 2,
+          "snippet": "Sacred"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 81,
+          "snippet": "hallowed"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 35,
+          "snippet": "spirit of holiness"
+        },
+        {
+          "work": "gleanings",
+          "para": 585,
+          "snippet": "holy Paradise"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 13,
+          "snippet": "Holy Mariner"
+        },
+        {
+          "work": "gleanings",
+          "para": 584,
+          "snippet": "Holy Veil"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 6,
+          "snippet": "sacred strand"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 26,
+          "snippet": "Celestial Concourse"
+        }
+      ]
+    },
+    {
+      "term": "المَوْجُوداتِ",
+      "transliteration": "w-j-d",
+      "literal": "to find; to discover; to obtain",
+      "se_rendering": "all beings",
+      "note": "Root typically 'being' or 'found' (67 occ). Here 'all beings' — existential scope rendering rather than abstract ontological term.",
+      "cross_refs": [
+        {
+          "work": "the-hidden-words",
+          "para": 91,
+          "snippet": "adorned"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 27,
+          "snippet": "found"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 215,
+          "snippet": "mentioned"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 69,
+          "snippet": "aware"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 6,
+          "snippet": "being"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 214,
+          "snippet": "is led"
+        },
+        {
+          "work": "gleanings",
+          "para": 436,
+          "snippet": "The Great Being"
+        },
+        {
+          "work": "gleanings",
+          "para": 4,
+          "snippet": "created things"
+        }
+      ]
+    },
+    {
+      "term": "لِمُشاهَدَةِ",
+      "transliteration": "sh-h-d",
+      "literal": "witnessed; observed; seen; evident; manifest",
+      "se_rendering": "behold",
+      "note": "Root usually 'manifest' or 'evident' (74 occ). Here 'behold' — emphasizes contemplative vision rather than objective disclosure.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 607,
+          "snippet": "manifest"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 35,
+          "snippet": "evident"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 6,
+          "snippet": "I testify"
+        },
+        {
+          "work": "gleanings",
+          "para": 298,
+          "snippet": "witness"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 138,
+          "snippet": "martyrdom"
+        },
+        {
+          "work": "gleanings",
+          "para": 134,
+          "snippet": "God witnesseth"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 57,
+          "snippet": "beheld"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 156,
+          "snippet": "bear witness"
+        }
+      ]
+    },
+    {
+      "term": "جَمالِكَ",
+      "transliteration": "j-m-l",
+      "literal": "beauty; comeliness",
+      "se_rendering": "beauty",
+      "note": "Root typically 'Beauty' with capital (38 occ). Here 'beauty' lowercase — avoids Bahá'í theological capital usage in this particular invocation.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 296,
+          "snippet": "Beauty"
+        },
+        {
+          "work": "gleanings",
+          "para": 183,
+          "snippet": "Ancient Beauty"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 193,
+          "snippet": "Among others"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 67,
+          "snippet": "Among"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 208,
+          "snippet": "Among the sciences"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 268,
+          "snippet": "Among them"
+        },
+        {
+          "work": "gleanings",
+          "para": 359,
+          "snippet": "Amongst"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 118,
+          "snippet": "following"
+        }
+      ]
+    },
+    {
+      "term": "ظُهُوراتِ",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "brightness of the light",
+      "note": "Root typically renders 'Manifestation' (96 occ). Here 'brightness of the light' — SE avoids the Bábí-Bahá'í technical term, opting for mystical luminosity instead.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 53,
+          "snippet": "Manifestation"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 136,
+          "snippet": "evident"
+        },
+        {
+          "work": "gleanings",
+          "para": 222,
+          "snippet": "material"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 206,
+          "snippet": "appeared"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 196,
+          "snippet": "Manifestations of God"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 32,
+          "snippet": "overwhelm the soul"
+        }
+      ]
+    },
+    {
+      "term": "المُقَرَّبِينَ",
+      "transliteration": "q-r-b",
+      "literal": "place of sacrifice; altar",
+      "se_rendering": "them that are nigh unto Thee",
+      "note": "Root variously 'place of sacrifice' or 'draw near' (44 occ). Here 'them that are nigh unto Thee' — SE chooses proximity meaning, suppressing sacrificial resonance.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 3,
+          "snippet": "unto the place of sacrifice"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 35,
+          "snippet": "my kindred"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 159,
+          "snippet": "their kindred"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 163,
+          "snippet": "at hand"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 9,
+          "snippet": "well-nigh"
+        },
+        {
+          "work": "gleanings",
+          "para": 191,
+          "snippet": "near"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 199,
+          "snippet": "draw them nigh unto God"
+        },
+        {
+          "work": "gleanings",
+          "para": 266,
+          "snippet": "draw them nearer unto Thee"
+        }
+      ]
+    },
+    {
+      "term": "سَلْطَنَتِكَ",
+      "transliteration": "s-l-ṭ",
+      "literal": "dominion; authority; power; sovereignty; control",
+      "se_rendering": "sovereignty",
+      "note": "Standard rendering 'sovereignty' matches corpus pattern (43 occ). Here applied to divine temporal authority, not mystical kingship.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 369,
+          "snippet": "sovereignty"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 151,
+          "snippet": "dominion"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 13,
+          "snippet": "O King"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 157,
+          "snippet": "the Sháh"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 1,
+          "snippet": "the King"
+        },
+        {
+          "work": "gleanings",
+          "para": 472,
+          "snippet": "King (Sulṭán 'Abdu'l-'Azíz)"
+        },
+        {
+          "work": "gleanings",
+          "para": 236,
+          "snippet": "the Sulṭán"
+        },
+        {
+          "work": "gleanings",
+          "para": 592,
+          "snippet": "by virtue of His sovereignty"
+        }
+      ]
+    },
+    {
+      "term": "حُكُومَتِكَ",
+      "transliteration": "h-k-m",
+      "literal": "government; rule; governance; wisdom",
+      "se_rendering": "dominion",
+      "note": "Consistently 'dominion' or 'government' (69 occ). Here 'dominion' — SE maintains the power-sovereignty sense, not the wisdom dimension.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-ahd",
+          "para": 6,
+          "snippet": "rule"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "government"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 160,
+          "snippet": "meaning of return"
+        },
+        {
+          "work": "gleanings",
+          "para": 224,
+          "snippet": "mysteries"
+        },
+        {
+          "work": "gleanings",
+          "para": 636,
+          "snippet": "rule of the sword"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 182,
+          "snippet": "mystery of the former verse"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 129,
+          "snippet": "perspicuous verses"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 46,
+          "snippet": "conclusive"
+        }
+      ]
+    }
+  ],
+  "section_index": "LVIII.1",
+  "section": "LVIII",
+  "section_para": 1
 }

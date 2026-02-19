@@ -1,10 +1,579 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 805,
   "source_text": "َشْهَدُ بِأَنَّ مَنْ عَرَفَكَ فَقَدْ عَرَفَ اللّهَ وَمَنْ فازَ بِلِقائِكَ فَقَدْ فازَ بِلِقآءِ اللّهِ، فَطُوبَى لِمَنْ آمَنَ بِكَ وَبِآياتِكَ وَخَضَعَ بِسُلْطانِكَ وَشُرِّفَ بِلِقآئِكَ وَبَلَغَ بِرِضائِكَ وَطافَ فِي حَوْلِكَ وَحَضَرَ تِلْقَاءَ عَرْشِكَ.\nفَوَيْلٌ لِمَنْ ظَلَمَكَ وَأَنْكَرَكَ وَكَفَرَ بِآياتِكَ وَجاحَد بِسُلْطَانِكَ وَحارَبَ بِنَفْسِكَ وَاسْتَكبَرَ لَدى وَجْهِكَ وَجادَلَ بِبُرْهَانِكَ وَفَرَّ مِنْ حُكُومَتِكَ وَاقْتِدَارِكَ وَكَانَ مِنَ الْمُشْرِكِيْنَ فِي أَلْواحِ الْقُدْسِ مِنْ إِصْبَعِ الْأَمْرِ مَكْتُوبًا.\nفَيا إِلَهِي وَمَحْبُوبي فَأَرْسِلْ",
   "translation": "I bear witness that he who hath known Thee hath known God, and he who hath attained unto Thy presence hath attained unto the presence of God. Great, therefore, is the blessedness of him who hath believed in Thee, and in Thy signs, and hath humbled himself before Thy sovereignty, and hath been honored with meeting Thee, and hath attained the good pleasure of Thy will, and circled around Thee, and stood before Thy throne. Woe betide him that hath transgressed against Thee, and hath denied Thee, and repudiated Thy signs, and gainsaid Thy sovereignty, and risen up against Thee, and waxed proud before Thy face, and hath disputed Thy testimonies, and fled from Thy rule and Thy dominion, and been numbered with the infidels whose names have been inscribed by the fingers of Thy behest upon Thy holy Tablets.",
   "source_lang": "ar",
-  "score": 9.9
+  "score": 9.9,
+  "page_slug": "known-god-attained-presence",
+  "alignment": [
+    {
+      "ar": "َشْهَدُ",
+      "en": "bear witness"
+    },
+    {
+      "ar": "مَنْ",
+      "en": "he who"
+    },
+    {
+      "ar": "عَرَفَكَ",
+      "en": "hath known Thee"
+    },
+    {
+      "ar": "فَقَدْ",
+      "en": "hath"
+    },
+    {
+      "ar": "عَرَفَ",
+      "en": "known"
+    },
+    {
+      "ar": "اللّهَ",
+      "en": "God"
+    },
+    {
+      "ar": "وَمَنْ",
+      "en": "and he who"
+    },
+    {
+      "ar": "فازَ",
+      "en": "hath attained"
+    },
+    {
+      "ar": "بِلِقائِكَ",
+      "en": "unto Thy presence"
+    },
+    {
+      "ar": "فازَ بِلِقآءِ",
+      "en": "hath attained unto the presence"
+    },
+    {
+      "ar": "اللّهِ",
+      "en": "of God"
+    },
+    {
+      "ar": "فَطُوبَى",
+      "en": "is the blessedness"
+    },
+    {
+      "ar": "لِمَنْ",
+      "en": "of him who"
+    },
+    {
+      "ar": "آمَنَ",
+      "en": "hath believed"
+    },
+    {
+      "ar": "بِكَ",
+      "en": "in Thee"
+    },
+    {
+      "ar": "وَبِآياتِكَ",
+      "en": "and in Thy signs"
+    },
+    {
+      "ar": "وَخَضَعَ",
+      "en": "and hath humbled himself"
+    },
+    {
+      "ar": "بِسُلْطانِكَ",
+      "en": "before Thy sovereignty"
+    },
+    {
+      "ar": "بِلِقآئِكَ",
+      "en": "with meeting Thee"
+    },
+    {
+      "ar": "وَبَلَغَ",
+      "en": "and hath attained"
+    },
+    {
+      "ar": "بِرِضائِكَ",
+      "en": "the good pleasure of Thy will"
+    },
+    {
+      "ar": "وَطافَ",
+      "en": "and circled"
+    },
+    {
+      "ar": "فِي حَوْلِكَ",
+      "en": "around Thee"
+    },
+    {
+      "ar": "وَحَضَرَ",
+      "en": "and stood"
+    },
+    {
+      "ar": "تِلْقَاءَ عَرْشِكَ",
+      "en": "before Thy throne"
+    },
+    {
+      "ar": "فَوَيْلٌ",
+      "en": "Woe betide"
+    },
+    {
+      "ar": "لِمَنْ",
+      "en": "him that"
+    },
+    {
+      "ar": "ظَلَمَكَ",
+      "en": "hath transgressed against Thee"
+    },
+    {
+      "ar": "وَأَنْكَرَكَ",
+      "en": "and hath denied Thee"
+    },
+    {
+      "ar": "وَكَفَرَ",
+      "en": "and repudiated"
+    },
+    {
+      "ar": "بِآياتِكَ",
+      "en": "Thy signs"
+    },
+    {
+      "ar": "وَجاحَد",
+      "en": "and gainsaid"
+    },
+    {
+      "ar": "بِسُلْطَانِكَ",
+      "en": "Thy sovereignty"
+    },
+    {
+      "ar": "وَحارَبَ",
+      "en": "and risen up"
+    },
+    {
+      "ar": "بِنَفْسِكَ",
+      "en": "against Thee"
+    },
+    {
+      "ar": "وَاسْتَكبَرَ",
+      "en": "and waxed proud"
+    },
+    {
+      "ar": "لَدى وَجْهِكَ",
+      "en": "before Thy face"
+    },
+    {
+      "ar": "وَجادَلَ",
+      "en": "and hath disputed"
+    },
+    {
+      "ar": "بِبُرْهَانِكَ",
+      "en": "Thy testimonies"
+    },
+    {
+      "ar": "مِنْ حُكُومَتِكَ",
+      "en": "from Thy rule"
+    },
+    {
+      "ar": "وَاقْتِدَارِكَ",
+      "en": "and Thy dominion"
+    },
+    {
+      "ar": "وَكَانَ",
+      "en": "and been"
+    },
+    {
+      "ar": "مِنَ الْمُشْرِكِيْنَ",
+      "en": "numbered with the infidels"
+    },
+    {
+      "ar": "فِي أَلْواحِ الْقُدْسِ",
+      "en": "upon Thy holy Tablets"
+    },
+    {
+      "ar": "مِنْ إِصْبَعِ الْأَمْرِ",
+      "en": "by the fingers of Thy behest"
+    },
+    {
+      "ar": "مَكْتُوبًا",
+      "en": "have been inscribed"
+    }
+  ],
+  "terms": [
+    {
+      "term": "عرفك",
+      "transliteration": "ʿ-r-f",
+      "literal": "to confess; to acknowledge; to recognize",
+      "se_rendering": "hath known Thee",
+      "note": "Root ʿ-r-f typically rendered 'acknowledged' or 'recognized' (82 occurrences); here SE chooses 'known' to parallel the immediately preceding 'known God,' creating theological symmetry between knowing the Manifestation and knowing God.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 135,
+          "snippet": "hath acknowledged"
+        },
+        {
+          "work": "gleanings",
+          "para": 568,
+          "snippet": "acknowledged"
+        },
+        {
+          "work": "gleanings",
+          "para": 295,
+          "snippet": "made objections"
+        },
+        {
+          "work": "gleanings",
+          "para": 87,
+          "snippet": "knowledge"
+        },
+        {
+          "work": "gleanings",
+          "para": 2,
+          "snippet": "perception"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 5,
+          "snippet": "acknowledging"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 4,
+          "snippet": "fragrance of His garment"
+        },
+        {
+          "work": "gleanings",
+          "para": 214,
+          "snippet": "acknowledge"
+        }
+      ]
+    },
+    {
+      "term": "بلقائك",
+      "transliteration": "l-q-y",
+      "literal": "opposite; facing; in front of; towards",
+      "se_rendering": "meeting Thee",
+      "note": "Root l-q-y normally yields 'the Divine Presence' or 'attainment unto the Divine Presence' (30 occurrences); here reduced to the concrete 'meeting Thee' in the blessing clause, then expanded to 'the presence of God' in the witness statement for cosmic scope.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 375,
+          "snippet": "before"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 171,
+          "snippet": "the Divine Presence"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 149,
+          "snippet": "attainment unto the Divine Presence"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 154,
+          "snippet": "Recite"
+        },
+        {
+          "work": "gleanings",
+          "para": 31,
+          "snippet": "hath attained unto His Presence"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 234,
+          "snippet": "that they shall ever meet Him"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 246,
+          "snippet": "encounter"
+        },
+        {
+          "work": "gleanings",
+          "para": 58,
+          "snippet": "reunion"
+        }
+      ]
+    },
+    {
+      "term": "برضائك",
+      "transliteration": "r-d-y",
+      "literal": "good-pleasure, consent, satisfaction",
+      "se_rendering": "the good pleasure of Thy will",
+      "note": "Root r-d-y consistently rendered 'good-pleasure' or 'pleasure' (30 occurrences); SE here chooses the fuller 'good pleasure of Thy will,' elaborating the phrase to emphasize volitional alignment rather than mere satisfaction.",
+      "cross_refs": [
+        {
+          "work": "the-hidden-words",
+          "para": 46,
+          "snippet": "content"
+        },
+        {
+          "work": "gleanings",
+          "para": 165,
+          "snippet": "consent"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 28,
+          "snippet": "is pleased with"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 41,
+          "snippet": "pleasure"
+        },
+        {
+          "work": "gleanings",
+          "para": 564,
+          "snippet": "goodly deeds"
+        },
+        {
+          "work": "gleanings",
+          "para": 598,
+          "snippet": "praiseworthy"
+        },
+        {
+          "work": "gleanings",
+          "para": 625,
+          "snippet": "approved"
+        },
+        {
+          "work": "gleanings",
+          "para": 58,
+          "snippet": "Ridván"
+        }
+      ]
+    },
+    {
+      "term": "حولك",
+      "transliteration": "h-w-l",
+      "literal": "states; conditions; circumstances; situations; affairs",
+      "se_rendering": "around Thee",
+      "note": "Root ḥ-w-l means 'states, conditions, circumstances' (26 occurrences) but SE renders this instance as 'around Thee,' treating it spatially rather than conditionally—a unique choice emphasizing circumambulation and devotional proximity.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 65,
+          "snippet": "circumstances"
+        },
+        {
+          "work": "gleanings",
+          "para": 724,
+          "snippet": "conduct"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 50,
+          "snippet": "all conditions"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 30,
+          "snippet": "in its state"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 59,
+          "snippet": "state"
+        },
+        {
+          "work": "gleanings",
+          "para": 309,
+          "snippet": "screening"
+        },
+        {
+          "work": "gleanings",
+          "para": 699,
+          "snippet": "at all times"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 4,
+          "snippet": "under all conditions"
+        }
+      ]
+    },
+    {
+      "term": "ظلمك",
+      "transliteration": "z-l-m",
+      "literal": "wrongedness, oppression, meekness; state of being wronged or oppressed",
+      "se_rendering": "transgressed against Thee",
+      "note": "Root z-l-m typically rendered 'wronged,' 'afflicted,' or 'Wronged One' (128 occurrences); here SE uses 'transgressed against Thee,' importing an active moral dimension absent from the root's passive connotations of oppression or injury.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 498,
+          "snippet": "afflicted with countless tribulations"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 49,
+          "snippet": "meekness"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 116,
+          "snippet": "injury"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 36,
+          "snippet": "Wronged One"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 253,
+          "snippet": "wronged"
+        },
+        {
+          "work": "gleanings",
+          "para": 221,
+          "snippet": "oppression"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 9,
+          "snippet": "Darkness"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 33,
+          "snippet": "tyranny"
+        }
+      ]
+    },
+    {
+      "term": "واستكبر",
+      "transliteration": "k-b-r",
+      "literal": "great; grand; mighty; large",
+      "se_rendering": "waxed proud",
+      "note": "Root k-b-r yields 'Great' or 'mighty' across contexts (34 occurrences); SE renders the reflexive form 'waxed proud,' capturing the psychological turning-away rather than mere magnitude, reflecting SE's sensitivity to verb conjugation nuances.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 181,
+          "snippet": "Great City"
+        },
+        {
+          "work": "gleanings",
+          "para": 351,
+          "snippet": "Most Great"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 64,
+          "snippet": "Great God"
+        },
+        {
+          "work": "gleanings",
+          "para": 10,
+          "snippet": "most mighty grace"
+        },
+        {
+          "work": "gleanings",
+          "para": 23,
+          "snippet": "most grievous veil"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "Greater Branch"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 188,
+          "snippet": "weighty"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 60,
+          "snippet": "great"
+        }
+      ]
+    },
+    {
+      "term": "ببرهانك",
+      "transliteration": "b-r-h-n",
+      "literal": "proof, evidence, demonstration, argument",
+      "se_rendering": "Thy testimonies",
+      "note": "Root b-r-h-n means 'proof' or 'evidence' (14 occurrences); SE here renders 'testimonies' rather than 'proofs,' importing religious witness language that transforms logical proof into doctrinal assertion and divine utterance.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 218,
+          "snippet": "proofs"
+        },
+        {
+          "work": "gleanings",
+          "para": 510,
+          "snippet": "His proof"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 133,
+          "snippet": "proof"
+        },
+        {
+          "work": "gleanings",
+          "para": 140,
+          "snippet": "nakedness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 69,
+          "snippet": "be fully persuaded"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 73,
+          "snippet": "become clear and manifest"
+        },
+        {
+          "work": "gleanings",
+          "para": 105,
+          "snippet": "repeatedly demonstrated"
+        }
+      ]
+    },
+    {
+      "term": "الأمر",
+      "transliteration": "ʾ-m-m",
+      "literal": "mother; to lead; to head; matter; affair",
+      "se_rendering": "Thy behest",
+      "note": "Root ʾ-m-m covers 'command,' 'Cause,' 'affair' (18 occurrences); SE renders 'behest' in the phrase 'fingers of Thy behest,' choosing an archaic form that conveys both imperial authority and written decree simultaneously.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 7,
+          "snippet": "beginning"
+        },
+        {
+          "work": "gleanings",
+          "para": 584,
+          "snippet": "Cause"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 13,
+          "snippet": "peoples"
+        },
+        {
+          "work": "gleanings",
+          "para": 47,
+          "snippet": "nations"
+        },
+        {
+          "work": "gleanings",
+          "para": 596,
+          "snippet": "before"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 178,
+          "snippet": "Imams"
+        }
+      ]
+    }
+  ],
+  "section_index": "CLXXX.3",
+  "section": "CLXXX",
+  "section_para": 3
 }

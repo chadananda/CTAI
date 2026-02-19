@@ -1,10 +1,345 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 800,
   "source_text": "وَقُوَّتِكَ، أَنَا الَّذِيْ يا إِلهِي بِحُبِّكَ اسْتَغْنَيْتُ عَنْ كُلِّ مَنْ فِي السَّمَواتِ وَالأَرْضِ وَبِهِ لَنْ أَجْزَعَ وَلَوْ يَرِدُ عَلَيَّ ضُرُّ العالَمِينَ، فَيا لَيْتَ كانَ الحِينُ حِينًا فِيهِ يُسْفَكَ دَمِي عَلَى وَجْهِ الأَرْضِ بَيْنَ يَدَيْكَ، وَتَشْهَدُنِي عَلَى الحالَةِ الَّتِيْ بِها شَهِدْتَ المُقَرَّبِينَ مِنْ عِبادِكَ وَالمُصْطَفِينَ مِنْ خِيرَةِ",
   "translation": "I am the one, O my God, who, through the love I bear to Thee, hath been able to dispense with all who are in heaven and on earth. Armed with this love, I am afraid of no one, though all the peoples of the world unite to hurt me. Oh, that my blood could, this very moment, be shed on the face of the earth before Thee, and Thou wouldst behold me in the condition in which Thou didst behold such of Thy servants as have drawn nigh unto Thee, and those of Thy righteous creatures as have been chosen by Thee!",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "blood-shed-before-thee",
+  "alignment": [
+    {
+      "ar": "أَنَا",
+      "en": "I am"
+    },
+    {
+      "ar": "إِلهِي",
+      "en": "my God"
+    },
+    {
+      "ar": "اسْتَغْنَيْتُ",
+      "en": "dispense"
+    },
+    {
+      "ar": "وَالأَرْضِ",
+      "en": "earth"
+    },
+    {
+      "ar": "بِهِ",
+      "en": "this love"
+    },
+    {
+      "ar": "أَجْزَعَ",
+      "en": "afraid"
+    },
+    {
+      "ar": "يَرِدُ",
+      "en": "unite"
+    },
+    {
+      "ar": "العالَمِينَ",
+      "en": "the peoples of the world"
+    },
+    {
+      "ar": "لَيْتَ",
+      "en": "Oh"
+    },
+    {
+      "ar": "كانَ",
+      "en": "could"
+    },
+    {
+      "ar": "الحِينُ",
+      "en": "this very moment"
+    },
+    {
+      "ar": "حِينًا",
+      "en": "moment"
+    },
+    {
+      "ar": "يُسْفَكَ",
+      "en": "be shed"
+    },
+    {
+      "ar": "دَمِي",
+      "en": "my blood"
+    },
+    {
+      "ar": "وَجْهِ",
+      "en": "face"
+    },
+    {
+      "ar": "الأَرْضِ",
+      "en": "the earth"
+    },
+    {
+      "ar": "يَدَيْكَ",
+      "en": "before Thee"
+    },
+    {
+      "ar": "تَشْهَدُنِي",
+      "en": "behold me"
+    },
+    {
+      "ar": "الحالَةِ",
+      "en": "the condition"
+    },
+    {
+      "ar": "شَهِدْتَ",
+      "en": "didst behold"
+    },
+    {
+      "ar": "عِبادِكَ",
+      "en": "Thy servants"
+    },
+    {
+      "ar": "المُصْطَفِينَ",
+      "en": "been chosen"
+    },
+    {
+      "ar": "خِيرَةِ",
+      "en": "Thy righteous creatures"
+    }
+  ],
+  "terms": [
+    {
+      "term": "بِحُبِّكَ",
+      "transliteration": "ḥ-b-b",
+      "literal": "love; affection",
+      "se_rendering": "the love I bear to Thee",
+      "note": "Root ḥ-b-b typically renders as 'beloved' or 'loved ones' across 92 occurrences. Here rendered as 'love I bear'—a direct emotional possession rather than object-status, emphasizing active devotion over passive belovedness.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 3,
+          "snippet": "beloved of the Lord"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 53,
+          "snippet": "loved ones of the Lord"
+        },
+        {
+          "work": "gleanings",
+          "para": 341,
+          "snippet": "loved ones of God"
+        },
+        {
+          "work": "gleanings",
+          "para": 689,
+          "snippet": "beloved of the one true God"
+        },
+        {
+          "work": "gleanings",
+          "para": 640,
+          "snippet": "loved ones"
+        },
+        {
+          "work": "gleanings",
+          "para": 690,
+          "snippet": "beloved of God"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 39,
+          "snippet": "His loved ones"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 10,
+          "snippet": "love for Thee"
+        }
+      ]
+    },
+    {
+      "term": "العالَمِينَ",
+      "transliteration": "ʿ-l-m",
+      "literal": "world; universe; the worlds",
+      "se_rendering": "all the peoples of the world",
+      "note": "Root ʿ-l-m renders 'world,' 'mankind,' 'all worlds,' across 141 occurrences. SE selects 'all the peoples of the world'—plural human collective. Shift from abstract 'worlds' to concrete 'peoples' narrows scope to inhabited, suffering beings.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 198,
+          "snippet": "world"
+        },
+        {
+          "work": "gleanings",
+          "para": 657,
+          "snippet": "all worlds"
+        },
+        {
+          "work": "gleanings",
+          "para": 182,
+          "snippet": "mankind"
+        },
+        {
+          "work": "gleanings",
+          "para": 183,
+          "snippet": "the whole world"
+        },
+        {
+          "work": "gleanings",
+          "para": 226,
+          "snippet": "all earthly defilements"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 28,
+          "snippet": "knowledge"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 122,
+          "snippet": "commentators"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 42,
+          "snippet": "banner"
+        }
+      ]
+    },
+    {
+      "term": "الحِينُ",
+      "transliteration": "ḥ-y-n",
+      "literal": "time; moment; while; season",
+      "se_rendering": "this very moment",
+      "note": "Root ḥ-y-n renders 'time,' 'moment,' 'when ascending,' across 11 occurrences. 'This very moment' conveys urgency and immediacy. SE avoids neutral 'time,' selecting phrase emphasizing present intensity of longing.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 311,
+          "snippet": "when ascending"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 8,
+          "snippet": "this very moment"
+        },
+        {
+          "work": "gleanings",
+          "para": 295,
+          "snippet": "Day of the promise"
+        },
+        {
+          "work": "gleanings",
+          "para": 339,
+          "snippet": "when breathing their last"
+        },
+        {
+          "work": "gleanings",
+          "para": 247,
+          "snippet": "time of Thine arrival"
+        },
+        {
+          "work": "gleanings",
+          "para": 716,
+          "snippet": "times"
+        },
+        {
+          "work": "gleanings",
+          "para": 501,
+          "snippet": "all times"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 161,
+          "snippet": "moment"
+        }
+      ]
+    },
+    {
+      "term": "دَمِي",
+      "transliteration": "d-m-y",
+      "literal": "breath; moment; instant",
+      "se_rendering": "my blood",
+      "note": "Root d-m-y yields 'blood,' 'breath,' 'moment' across 12 occurrences. SE chooses 'blood' here—literal martyrological reading aligned with Bahá'í expectation of persecution. 'Breath' or 'moment' would soften the eschatological urgency.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 164,
+          "snippet": "breathed"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 123,
+          "snippet": "was sounded"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 4,
+          "snippet": "moment"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 43,
+          "snippet": "blood"
+        },
+        {
+          "work": "gleanings",
+          "para": 507,
+          "snippet": "our blood"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 144,
+          "snippet": "by the blood"
+        }
+      ]
+    },
+    {
+      "term": "المُقَرَّبِينَ",
+      "transliteration": "q-r-b",
+      "literal": "place of sacrifice; altar",
+      "se_rendering": "drawn nigh unto Thee",
+      "note": "Root q-r-b usually 'draw near,' 'drawn nigh' across 44 occurrences. Form here indicates those brought near. SE adds 'unto Thee' for relational clarity, transforming abstract proximity into directional intimacy with God.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 3,
+          "snippet": "unto the place of sacrifice"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 35,
+          "snippet": "my kindred"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 159,
+          "snippet": "their kindred"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 163,
+          "snippet": "at hand"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 9,
+          "snippet": "well-nigh"
+        },
+        {
+          "work": "gleanings",
+          "para": 191,
+          "snippet": "near"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 199,
+          "snippet": "draw them nigh unto God"
+        },
+        {
+          "work": "gleanings",
+          "para": 266,
+          "snippet": "draw them nearer unto Thee"
+        }
+      ]
+    }
+  ],
+  "section_index": "CLXXIX.15",
+  "section": "CLXXIX",
+  "section_para": 15
 }

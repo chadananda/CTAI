@@ -1,10 +1,248 @@
 {
   "work": "Fire Tablet",
   "slug": "fire-tablet",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 19,
   "source_text": "قَدْ أَخَذَتْ سَكَرَاتُ المَوْتِ كُلَّ الآفَاقِ أَيْنَ رَشَحَاتُ بَحْرِ حَيَوَانِكَ يَا حَيَاةَ العَالَمِينَ *",
   "translation": "The agonies of death have laid hold on all men: Where is the surging of Thine ocean of eternal life, O Life of the worlds?",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "surging-ocean-eternal-life",
+  "alignment": [
+    {
+      "ar": "أَخَذَتْ",
+      "en": "laid hold"
+    },
+    {
+      "ar": "سَكَرَاتُ",
+      "en": "agonies"
+    },
+    {
+      "ar": "المَوْتِ",
+      "en": "death"
+    },
+    {
+      "ar": "الآفَاقِ",
+      "en": "men"
+    },
+    {
+      "ar": "أَيْنَ",
+      "en": "Where"
+    },
+    {
+      "ar": "رَشَحَاتُ",
+      "en": "surging"
+    },
+    {
+      "ar": "بَحْرِ",
+      "en": "ocean"
+    },
+    {
+      "ar": "حَيَوَانِكَ",
+      "en": "eternal life"
+    },
+    {
+      "ar": "حَيَاةَ",
+      "en": "Life"
+    },
+    {
+      "ar": "العَالَمِينَ",
+      "en": "worlds"
+    }
+  ],
+  "terms": [
+    {
+      "term": "سَكَرَاتُ",
+      "transliteration": "s-k-r",
+      "literal": "to become drunk; intoxication; inebriation",
+      "se_rendering": "agonies",
+      "note": "Root typically denotes intoxication/drunkenness (2 occ: 'drunk with pride', 'inebriated with wine'). Here rendered 'agonies'—a meaning derived from the convulsive throes of death, showing SE's semantic expansion beyond inebriation.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 528,
+          "snippet": "drunk with pride"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 359,
+          "snippet": "inebriated with the wine of Thy knowledge"
+        }
+      ]
+    },
+    {
+      "term": "الآفَاقِ",
+      "transliteration": "f-q-q",
+      "literal": "horizons; regions; quarters; skylines",
+      "se_rendering": "men",
+      "note": "Root typically rendered 'horizons', 'regions', 'world' across 7 occurrences. Here 'men' is unique—SE interprets 'all horizons' metonymically as 'all mankind', emphasizing the human scope of death's grip.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 107,
+          "snippet": "world"
+        },
+        {
+          "work": "gleanings",
+          "para": 226,
+          "snippet": "'Iráq"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 54,
+          "snippet": "regions"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 14,
+          "snippet": "the world"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 20,
+          "snippet": "horizons"
+        }
+      ]
+    },
+    {
+      "term": "بَحْرِ",
+      "transliteration": "b-ḥ-r",
+      "literal": "sea; ocean",
+      "se_rendering": "ocean",
+      "note": "Ocean renders consistently across 18 occurrences. Here 'Thine ocean' directly parallels earlier corpus usages ('ocean of Thy wrath'); the possessive intensifies divine sovereignty over life's source.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 2,
+          "snippet": "two Seas"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 32,
+          "snippet": "ocean"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 769,
+          "snippet": "oceans"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 119,
+          "snippet": "seas"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 353,
+          "snippet": "ocean of Thy wrath"
+        },
+        {
+          "work": "gleanings",
+          "para": 12,
+          "snippet": "Ocean of God's mercy"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 666,
+          "snippet": "unto the ocean"
+        }
+      ]
+    },
+    {
+      "term": "حَيَاةَ",
+      "transliteration": "h-y-y",
+      "literal": "greeting; salutation; tribute",
+      "se_rendering": "Life",
+      "note": "Same root as above (ḥ-y-y). In vocative 'O Life' SE invokes the abstract principle directly, paralleling the corpus pattern 'everlasting life' but elevated to personified address of the Divine.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 2,
+          "snippet": "Salutation"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 128,
+          "snippet": "life"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 23,
+          "snippet": "everlasting life"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 16,
+          "snippet": "regeneration of the world"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 118,
+          "snippet": "abashed"
+        },
+        {
+          "work": "gleanings",
+          "para": 716,
+          "snippet": "times"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 107,
+          "snippet": "quicken the world"
+        }
+      ]
+    },
+    {
+      "term": "العَالَمِينَ",
+      "transliteration": "ʿ-l-m",
+      "literal": "world; universe; the worlds",
+      "se_rendering": "the worlds",
+      "note": "Root ʿ-l-m rendered variously (141 occ): 'world', 'all worlds', 'mankind', 'knowledge'. Here 'the worlds' maintains plural universalism; contrasts with singular 'all men' above, suggesting both material and spiritual realms.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 198,
+          "snippet": "world"
+        },
+        {
+          "work": "gleanings",
+          "para": 657,
+          "snippet": "all worlds"
+        },
+        {
+          "work": "gleanings",
+          "para": 182,
+          "snippet": "mankind"
+        },
+        {
+          "work": "gleanings",
+          "para": 183,
+          "snippet": "the whole world"
+        },
+        {
+          "work": "gleanings",
+          "para": 226,
+          "snippet": "all earthly defilements"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 28,
+          "snippet": "knowledge"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 122,
+          "snippet": "commentators"
+        },
+        {
+          "work": "gleanings",
+          "para": 38,
+          "snippet": "understanding"
+        }
+      ]
+    }
+  ],
+  "section_index": "20",
+  "section": "20",
+  "section_para": 1
 }

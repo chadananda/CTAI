@@ -1,10 +1,614 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 127,
   "source_text": "مقصود از آفرینش عرفان حقّ و لقای او بوده و خواهد بود چنانچه در جمیع کتب الهیّه و صحف متقنهٴ ربّانیّه من غیر حجاب این مطلب احلی و مقصود اعلی مذکور و واضحست و هر نفسی که بآن صبح هدایت و فجر احدیّت فائز شد بمقام قرب و وصل که اصل جنّت و اعلی الجنانست فائز گردید و بمقام قاب و قوسین که ورای سدرهٴ منتهی است وارد شد والّا در امکنهٴ بعد که اصل نار و حقیقت نفی است ساکن بوده و خواهد بود اگرچه در ظاهر بر اکراس رفیعه و اعراش منیعه جالس باشد بلی آن سماء حقیقت قادر و مقتدر است که",
   "translation": "The purpose of God in creating man hath been, and will ever be, to enable him to know his Creator and to attain His Presence. To this most excellent aim, this supreme objective, all the heavenly Books and the divinely revealed and weighty Scriptures unequivocally bear witness. Whoso hath recognized the Dayspring of Divine guidance and entered His holy court hath drawn nigh unto God and attained His Presence, a Presence which is the real Paradise, and of which the loftiest mansions of heaven are but a symbol. Such a man hath attained the knowledge of the station of Him Who is “at the distance of two bows,” Who standeth beyond the Sadratu’l-Muntahá. Whoso hath failed to recognize Him will have condemned himself to the misery of remoteness, a remoteness which is naught but utter nothingness and the essence of the nethermost fire. Such will be his fate, though to outward seeming he may occupy the earth’s loftiest seats and be established upon its most exalted throne.",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "purpose-god-creating-man-know-creator",
+  "alignment": [
+    {
+      "ar": "مقصود",
+      "en": "purpose"
+    },
+    {
+      "ar": "آفرینش",
+      "en": "creating"
+    },
+    {
+      "ar": "عرفان",
+      "en": "know"
+    },
+    {
+      "ar": "حقّ",
+      "en": "his Creator"
+    },
+    {
+      "ar": "لقای",
+      "en": "attain His Presence"
+    },
+    {
+      "ar": "بوده",
+      "en": "hath been"
+    },
+    {
+      "ar": "خواهد بود",
+      "en": "will ever be"
+    },
+    {
+      "ar": "چنانچه",
+      "en": "To this"
+    },
+    {
+      "ar": "جمیع",
+      "en": "all"
+    },
+    {
+      "ar": "کتب",
+      "en": "Books"
+    },
+    {
+      "ar": "الهیّه",
+      "en": "heavenly"
+    },
+    {
+      "ar": "صحف",
+      "en": "Scriptures"
+    },
+    {
+      "ar": "متقنهٴ",
+      "en": "weighty"
+    },
+    {
+      "ar": "ربّانیّه",
+      "en": "divinely revealed"
+    },
+    {
+      "ar": "من غیر حجاب",
+      "en": "unequivocally"
+    },
+    {
+      "ar": "مطلب",
+      "en": "aim"
+    },
+    {
+      "ar": "احلی",
+      "en": "most excellent"
+    },
+    {
+      "ar": "مقصود اعلی",
+      "en": "supreme objective"
+    },
+    {
+      "ar": "مذکور",
+      "en": "bear witness"
+    },
+    {
+      "ar": "نفسی",
+      "en": "man"
+    },
+    {
+      "ar": "صبح",
+      "en": "Dayspring"
+    },
+    {
+      "ar": "هدایت",
+      "en": "Divine guidance"
+    },
+    {
+      "ar": "فجر",
+      "en": "holy court"
+    },
+    {
+      "ar": "فائز شد",
+      "en": "recognized"
+    },
+    {
+      "ar": "مقام",
+      "en": "Presence"
+    },
+    {
+      "ar": "قرب",
+      "en": "drawn nigh"
+    },
+    {
+      "ar": "وصل",
+      "en": "attained His Presence"
+    },
+    {
+      "ar": "اصل",
+      "en": "real"
+    },
+    {
+      "ar": "جنّت",
+      "en": "Paradise"
+    },
+    {
+      "ar": "اعلی الجنان",
+      "en": "loftiest mansions of heaven"
+    },
+    {
+      "ar": "فائز گردید",
+      "en": "hath attained"
+    },
+    {
+      "ar": "قاب و قوسین",
+      "en": "at the distance of two bows"
+    },
+    {
+      "ar": "ورای",
+      "en": "beyond"
+    },
+    {
+      "ar": "وارد شد",
+      "en": "standeth"
+    },
+    {
+      "ar": "والّا",
+      "en": "failed"
+    },
+    {
+      "ar": "امکنهٴ",
+      "en": "misery"
+    },
+    {
+      "ar": "بعد",
+      "en": "remoteness"
+    },
+    {
+      "ar": "نار",
+      "en": "fire"
+    },
+    {
+      "ar": "حقیقت",
+      "en": "essence"
+    },
+    {
+      "ar": "نفی",
+      "en": "nethermost"
+    },
+    {
+      "ar": "ساکن",
+      "en": "condemned"
+    },
+    {
+      "ar": "اگرچه",
+      "en": "though"
+    },
+    {
+      "ar": "ظاهر",
+      "en": "outward seeming"
+    },
+    {
+      "ar": "اکراس",
+      "en": "earth"
+    },
+    {
+      "ar": "رفیعه",
+      "en": "loftiest seats"
+    },
+    {
+      "ar": "اعراش",
+      "en": "throne"
+    },
+    {
+      "ar": "منیعه",
+      "en": "most exalted"
+    },
+    {
+      "ar": "جالس",
+      "en": "occupy"
+    },
+    {
+      "ar": "بلی",
+      "en": "Such"
+    },
+    {
+      "ar": "سماء",
+      "en": "fate"
+    },
+    {
+      "ar": "قادر",
+      "en": "His"
+    }
+  ],
+  "terms": [
+    {
+      "term": "مقصود",
+      "transliteration": "q-s-d",
+      "literal": "intention; purpose; aim; goal; to seek; to direct oneself",
+      "se_rendering": "purpose",
+      "note": "Consistently 'purpose' or 'aim' (32 occurrences). Here appears twice as 'purpose' and 'objective,' maintaining SE's standard rendering of this term for intentionality.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 204,
+          "snippet": "Seek"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 64,
+          "snippet": "aim"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 43,
+          "snippet": "purpose"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 444,
+          "snippet": "goal"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 47,
+          "snippet": "my heart's Desire"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 5,
+          "snippet": "my Desire"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 11,
+          "snippet": "the Goal of my desire"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 804,
+          "snippet": "the Desired One"
+        }
+      ]
+    },
+    {
+      "term": "عرفان",
+      "transliteration": "ʿ-r-f",
+      "literal": "to confess; to acknowledge; to recognize",
+      "se_rendering": "recognize",
+      "note": "Typically 'testifieth' or 'acknowledged' (82 occurrences). Here rendered as 'recognized'—aligning with the cognitive acknowledgment sense, emphasizing direct gnosis of the Divine rather than mere witness.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 601,
+          "snippet": "testifieth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 729,
+          "snippet": "hath acknowledged"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 582,
+          "snippet": "have recognized"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 228,
+          "snippet": "acknowledged"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 744,
+          "snippet": "understanding"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 5,
+          "snippet": "acknowledging"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 4,
+          "snippet": "fragrance of His garment"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 114,
+          "snippet": "Thy knowledge"
+        }
+      ]
+    },
+    {
+      "term": "لقای",
+      "transliteration": "l-q-y",
+      "literal": "opposite; facing; in front of; towards",
+      "se_rendering": "attain His Presence",
+      "note": "Root means 'to meet, face, encounter.' SE renders it 'attain His Presence' and 'the Divine Presence'—a profound interpretive choice translating meeting into mystical proximity rather than literal encounter.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 337,
+          "snippet": "in the face of"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 605,
+          "snippet": "before"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 171,
+          "snippet": "the Divine Presence"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 149,
+          "snippet": "attainment unto the Divine Presence"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 216,
+          "snippet": "the Judgment Day"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 154,
+          "snippet": "Recite"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 805,
+          "snippet": "hath attained unto Thy presence"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 234,
+          "snippet": "that they shall ever meet Him"
+        }
+      ]
+    },
+    {
+      "term": "حجاب",
+      "transliteration": "ḥ-j-b",
+      "literal": "to veil oneself, to be veiled",
+      "se_rendering": "unequivocally",
+      "note": "Usually 'veil' or 'veiled' (37 occurrences). Here rendered as 'unequivocally'—a unique adverbial rendering clarifying 'without veil' (من غیر حجاب), showing SE's contextual flexibility.",
+      "cross_refs": [
+        {
+          "work": "the-hidden-words",
+          "para": 33,
+          "snippet": "veil thyself"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 234,
+          "snippet": "veiling yourselves"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 22,
+          "snippet": "veiled"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 533,
+          "snippet": "the veil"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 150,
+          "snippet": "the veil of heedlessness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 175,
+          "snippet": "veiled from"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 214,
+          "snippet": "deprived"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 858,
+          "snippet": "which come in between us"
+        }
+      ]
+    },
+    {
+      "term": "نار",
+      "transliteration": "n-w-r",
+      "literal": "light; illumination",
+      "se_rendering": "fire",
+      "note": "Usually 'light' (78 occurrences). Here 'fire'—a singular departure reflecting the Arabic نار (not نور), demonstrating SE's precision in distinguishing homophonic roots with opposite valences.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 3,
+          "snippet": "light"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 114,
+          "snippet": "with the light"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 109,
+          "snippet": "Thy light"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 246,
+          "snippet": "Illumine"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 180,
+          "snippet": "fire"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 10,
+          "snippet": "flame of fire"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 39,
+          "snippet": "lights"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 312,
+          "snippet": "splendors"
+        }
+      ]
+    },
+    {
+      "term": "حقیقت",
+      "transliteration": "h-q-q",
+      "literal": "truth; right; that which is true or just",
+      "se_rendering": "the True One",
+      "note": "Typically 'Truth,' 'the True One,' or 'the one true God' (43 occurrences). Here 'essence' and 'reality'—abstract philosophical renderings rather than personal divine appellations, reflecting ontological rather than relational signification.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 238,
+          "snippet": "the True One"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 52,
+          "snippet": "Sun of Truth"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 103,
+          "snippet": "Luminaries of Truth"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 113,
+          "snippet": "was realized"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 215,
+          "snippet": "realization"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 9,
+          "snippet": "evident"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "betrayal of truth"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 195,
+          "snippet": "incontrovertible"
+        }
+      ]
+    },
+    {
+      "term": "ظاهر",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "outward seeming",
+      "note": "Standard as 'manifestation' or 'evident' (96 occurrences). Here 'outward seeming'—a periphrastic rendering emphasizing superficial appearance contra inner reality, adding interpretive depth to the Arabic.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 140,
+          "snippet": "manifestation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 160,
+          "snippet": "Author of all Manifestations"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 136,
+          "snippet": "evident"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 206,
+          "snippet": "appeared"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 196,
+          "snippet": "Manifestations of God"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 255,
+          "snippet": "Manifestations"
+        }
+      ]
+    },
+    {
+      "term": "قادر",
+      "transliteration": "q-d-r",
+      "literal": "power; might; decree; measure; worth",
+      "se_rendering": "Almighty",
+      "note": "Typically 'power,' 'Thy power,' or 'hath decreed' (100 occurrences). Here omitted or implied in 'such will be his fate'—possibly lost in SE's abridgment of the final incomplete sentence.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 171,
+          "snippet": "a while"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 339,
+          "snippet": "Thy power"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 12,
+          "snippet": "God of power"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 35,
+          "snippet": "Potent"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 282,
+          "snippet": "Almighty"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 177,
+          "snippet": "ordain"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 4,
+          "snippet": "for a moment"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 30,
+          "snippet": "didst ordain"
+        }
+      ]
+    }
+  ],
+  "section_index": "XXIX.1",
+  "section": "XXIX",
+  "section_para": 1
 }

@@ -1,10 +1,635 @@
 {
   "work": "Kitab-i-Iqan",
   "slug": "kitab-i-iqan",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 251,
   "source_text": "حال انصاف دهيد که شهادت اينها مقبول و مسموع است که قولشان و فعلشان موافق و ظاهرشان و باطنشان مطابق به نحوی که تاهَتِ العُقُولُ فی اَفعالِهِمْ و تَحَيَّرَتِ النُّفُوسُ فِی اصْطِبارِهِم و بِماحَمَلَتْ اَجسادُهُم و يا شهادت اين معرضين که بجز هوای نفس نفسی بر نيارند و از قفس ظنونات باطله نجاتی نيافتهاند؟ و در يوم سر از فراش برندارند مگر چون خفّاش ظلمانی در طلب دنيای فانيه کوشند و در ليل راحت نشوند مگر در تدبيرات امورات دانيه کوشند.  به تدبير نفسانی مشغول گشته و از تقدير الهی غافل شدهاند.  روز به جان در تلاش معاشند و شب در تزيين اسباب فراش.  آيا در هيچ شرع و ملّتی جايز است که به اعراض اين نفوس محدوده متمسّک شوند و از  اقبال و تصديق نفوسی که از جان و مال و اسم و رسم و ننگ و نام در رضای حقّ گذشتهاند اغفال نمايند؟",
   "translation": "Be fair: Is the testimony of those acceptable and worthy of attention whose deeds agree with their words, whose outward behaviour conforms with their inner life? The mind is bewildered at their deeds, and the soul marvelleth at their fortitude and bodily endurance. Or is the testimony of these faithless souls who breathe naught but the breath of selfish desire, and who lie imprisoned in the cage of their idle fancies, acceptable? Like the bats of darkness, they lift not their heads from their couch except to pursue the transient things of the world, and find no rest by night except as they labour to advance the aims of their sordid life. Immersed in their selfish schemes, they are oblivious of the divine Decree. In the day-time they strive with all their soul after worldly benefits, and in the night-season their sole occupation is to gratify their carnal desires. By what law or standard could men be justified in cleaving to the denials of such petty-minded souls, and in ignoring the faith of them that have renounced, for the sake of the good-pleasure of God, their life, and substance, their fame and renown, their reputation and honour?",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "testimony-faithless-souls-renounced",
+  "alignment": [
+    {
+      "ar": "حال",
+      "en": "Be"
+    },
+    {
+      "ar": "انصاف",
+      "en": "fair"
+    },
+    {
+      "ar": "دهيد",
+      "en": "Is"
+    },
+    {
+      "ar": "شهادت",
+      "en": "testimony"
+    },
+    {
+      "ar": "اينها",
+      "en": "those"
+    },
+    {
+      "ar": "مقبول",
+      "en": "acceptable"
+    },
+    {
+      "ar": "مسموع",
+      "en": "worthy of attention"
+    },
+    {
+      "ar": "قولشان",
+      "en": "their words"
+    },
+    {
+      "ar": "فعلشان",
+      "en": "their deeds"
+    },
+    {
+      "ar": "موافق",
+      "en": "agree"
+    },
+    {
+      "ar": "باطنشان",
+      "en": "their inner life"
+    },
+    {
+      "ar": "مطابق",
+      "en": "conforms"
+    },
+    {
+      "ar": "تاهَتِ",
+      "en": "bewildered"
+    },
+    {
+      "ar": "العُقُولُ",
+      "en": "The mind"
+    },
+    {
+      "ar": "اصْطِبارِهِم",
+      "en": "their fortitude"
+    },
+    {
+      "ar": "بِماحَمَلَتْ",
+      "en": "endurance"
+    },
+    {
+      "ar": "اَجسادُهُم",
+      "en": "bodily"
+    },
+    {
+      "ar": "معرضين",
+      "en": "faithless souls"
+    },
+    {
+      "ar": "هوای",
+      "en": "breath"
+    },
+    {
+      "ar": "نفس",
+      "en": "selfish desire"
+    },
+    {
+      "ar": "نفسی",
+      "en": "naught"
+    },
+    {
+      "ar": "قفس",
+      "en": "cage"
+    },
+    {
+      "ar": "ظنونات",
+      "en": "fancies"
+    },
+    {
+      "ar": "باطله",
+      "en": "idle"
+    },
+    {
+      "ar": "نجاتی نيافتهاند",
+      "en": "lie imprisoned"
+    },
+    {
+      "ar": "يوم",
+      "en": "day-time"
+    },
+    {
+      "ar": "سر",
+      "en": "heads"
+    },
+    {
+      "ar": "فراش",
+      "en": "couch"
+    },
+    {
+      "ar": "برندارند",
+      "en": "lift"
+    },
+    {
+      "ar": "خفّاش",
+      "en": "bats"
+    },
+    {
+      "ar": "ظلمانی",
+      "en": "darkness"
+    },
+    {
+      "ar": "طلب",
+      "en": "pursue"
+    },
+    {
+      "ar": "دنيای",
+      "en": "world"
+    },
+    {
+      "ar": "فانيه",
+      "en": "transient things"
+    },
+    {
+      "ar": "کوشند",
+      "en": "labour"
+    },
+    {
+      "ar": "ليل",
+      "en": "night"
+    },
+    {
+      "ar": "راحت",
+      "en": "rest"
+    },
+    {
+      "ar": "نشوند",
+      "en": "find no"
+    },
+    {
+      "ar": "تدبيرات",
+      "en": "advance"
+    },
+    {
+      "ar": "امورات",
+      "en": "aims"
+    },
+    {
+      "ar": "دانيه",
+      "en": "sordid life"
+    },
+    {
+      "ar": "تدبير",
+      "en": "schemes"
+    },
+    {
+      "ar": "نفسانی",
+      "en": "selfish"
+    },
+    {
+      "ar": "مشغول",
+      "en": "Immersed"
+    },
+    {
+      "ar": "تقدير",
+      "en": "Decree"
+    },
+    {
+      "ar": "الهی",
+      "en": "divine"
+    },
+    {
+      "ar": "غافل",
+      "en": "oblivious"
+    },
+    {
+      "ar": "روز",
+      "en": "the day-time"
+    },
+    {
+      "ar": "جان",
+      "en": "soul"
+    },
+    {
+      "ar": "تلاش",
+      "en": "strive"
+    },
+    {
+      "ar": "معاش",
+      "en": "worldly benefits"
+    },
+    {
+      "ar": "شب",
+      "en": "night-season"
+    },
+    {
+      "ar": "تزيين",
+      "en": "gratify"
+    },
+    {
+      "ar": "اسباب",
+      "en": "carnal desires"
+    },
+    {
+      "ar": "شرع",
+      "en": "law"
+    },
+    {
+      "ar": "ملّتی",
+      "en": "standard"
+    },
+    {
+      "ar": "جايز",
+      "en": "justified"
+    },
+    {
+      "ar": "اعراض",
+      "en": "denials"
+    },
+    {
+      "ar": "نفوس",
+      "en": "souls"
+    },
+    {
+      "ar": "محدوده",
+      "en": "petty-minded"
+    },
+    {
+      "ar": "متمسّک",
+      "en": "cleaving"
+    },
+    {
+      "ar": "اقبال",
+      "en": "faith"
+    },
+    {
+      "ar": "تصديق",
+      "en": "ignoring"
+    },
+    {
+      "ar": "مال",
+      "en": "substance"
+    },
+    {
+      "ar": "اسم",
+      "en": "fame"
+    },
+    {
+      "ar": "رسم",
+      "en": "renown"
+    },
+    {
+      "ar": "ننگ",
+      "en": "reputation"
+    },
+    {
+      "ar": "نام",
+      "en": "honour"
+    },
+    {
+      "ar": "رضای",
+      "en": "good-pleasure"
+    },
+    {
+      "ar": "حقّ",
+      "en": "God"
+    },
+    {
+      "ar": "گذشتهاند",
+      "en": "renounced"
+    }
+  ],
+  "terms": [
+    {
+      "term": "شهادت",
+      "transliteration": "sh-h-d",
+      "literal": "witnessed; observed; seen; evident; manifest",
+      "se_rendering": "testimony",
+      "note": "Standard rendering 'testimony' or 'witness' appears here. SE preserves the legal/evidentiary sense throughout this comparative passage on credibility.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 607,
+          "snippet": "manifest"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 811,
+          "snippet": "I bear witness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 6,
+          "snippet": "I testify"
+        },
+        {
+          "work": "gleanings",
+          "para": 298,
+          "snippet": "witness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 253,
+          "snippet": "martyrdom"
+        },
+        {
+          "work": "gleanings",
+          "para": 134,
+          "snippet": "God witnesseth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 230,
+          "snippet": "God testifieth"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 57,
+          "snippet": "beheld"
+        }
+      ]
+    },
+    {
+      "term": "اصطبارهم",
+      "transliteration": "s-b-r",
+      "literal": "patience; forbearance; endurance; to be patient",
+      "se_rendering": "fortitude",
+      "note": "Usually 'patience' or 'forbearance' (32 occurrences). SE renders as 'fortitude' here, heightening the sense of noble endurance under adversity.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 48,
+          "snippet": "forbearance"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 40,
+          "snippet": "Patience of the worlds"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 49,
+          "snippet": "patience"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 39,
+          "snippet": "Thy patience"
+        },
+        {
+          "work": "gleanings",
+          "para": 620,
+          "snippet": "be patient"
+        },
+        {
+          "work": "gleanings",
+          "para": 408,
+          "snippet": "steadfast"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 689,
+          "snippet": "patient"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 61,
+          "snippet": "endured patiently"
+        }
+      ]
+    },
+    {
+      "term": "معرضين",
+      "transliteration": "ʿ-r-d",
+      "literal": "to turn away; to avert; to abstain; heedless",
+      "se_rendering": "faithless souls",
+      "note": "Root typically 'turned away, turned aside, disbelievers.' SE uniquely renders as 'faithless souls' — a characterological rather than behavioral description.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 136,
+          "snippet": "turned away"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 168,
+          "snippet": "turned aside"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 230,
+          "snippet": "disbelievers"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 505,
+          "snippet": "turned their backs"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 431,
+          "snippet": "have turned back"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 29,
+          "snippet": "hast turned away"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 104,
+          "snippet": "are turned back"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 14,
+          "snippet": "turns away"
+        }
+      ]
+    },
+    {
+      "term": "ظلمانی",
+      "transliteration": "z-l-m",
+      "literal": "wrongedness, oppression, meekness; state of being wronged or oppressed",
+      "se_rendering": "of darkness",
+      "note": "Root typically renders as 'wrongedness, oppression, meekness.' Here SE uses 'of darkness' — a singular poetic choice emphasizing spiritual blindness rather than oppression.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 498,
+          "snippet": "afflicted with countless tribulations"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 49,
+          "snippet": "meekness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 36,
+          "snippet": "Wronged One"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 253,
+          "snippet": "wronged"
+        },
+        {
+          "work": "gleanings",
+          "para": 221,
+          "snippet": "oppression"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 9,
+          "snippet": "Darkness"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 33,
+          "snippet": "tyranny"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 573,
+          "snippet": "oppressed"
+        }
+      ]
+    },
+    {
+      "term": "تقدير",
+      "transliteration": "q-d-r",
+      "literal": "power; might; decree; measure; worth",
+      "se_rendering": "divine Decree",
+      "note": "Normally 'decree' or cognate terms across 100 occurrences. 'Divine Decree' here aligns with spiritual determinations; SE capitalizes to elevate its metaphysical status.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 171,
+          "snippet": "a while"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 339,
+          "snippet": "Thy power"
+        },
+        {
+          "work": "gleanings",
+          "para": 138,
+          "snippet": "hath been decreed"
+        },
+        {
+          "work": "gleanings",
+          "para": 662,
+          "snippet": "hath decreed"
+        },
+        {
+          "work": "gleanings",
+          "para": 496,
+          "snippet": "forbearing towards"
+        },
+        {
+          "work": "gleanings",
+          "para": 111,
+          "snippet": "schools"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 12,
+          "snippet": "God of power"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 35,
+          "snippet": "Potent"
+        }
+      ]
+    },
+    {
+      "term": "محدوده",
+      "transliteration": "h-d-d",
+      "literal": "iron; sharp, keen, acute",
+      "se_rendering": "petty-minded",
+      "note": "Root typically 'sharp, keen, acute' or 'limited.' SE's 'petty-minded' is interpretive — rendering the conceptual limitation of bounded souls rather than literal keenness.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 10,
+          "snippet": "keen"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 77,
+          "snippet": "sharp"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 134,
+          "snippet": "handiwork"
+        },
+        {
+          "work": "gleanings",
+          "para": 384,
+          "snippet": "penetrating"
+        },
+        {
+          "work": "gleanings",
+          "para": 308,
+          "snippet": "iron"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 228,
+          "snippet": "capacity"
+        }
+      ]
+    },
+    {
+      "term": "رضای",
+      "transliteration": "r-d-y",
+      "literal": "good-pleasure, consent, satisfaction",
+      "se_rendering": "good-pleasure",
+      "note": "Standard rendering 'good-pleasure' or 'pleasure' across 30 occurrences. Consistent with SE's elevated register for divine satisfaction.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 621,
+          "snippet": "Thy pleasure"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 410,
+          "snippet": "Thy good-pleasure"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 46,
+          "snippet": "content"
+        },
+        {
+          "work": "gleanings",
+          "para": 165,
+          "snippet": "consent"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 28,
+          "snippet": "is pleased with"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 41,
+          "snippet": "pleasure"
+        },
+        {
+          "work": "gleanings",
+          "para": 564,
+          "snippet": "goodly deeds"
+        },
+        {
+          "work": "gleanings",
+          "para": 598,
+          "snippet": "praiseworthy"
+        }
+      ]
+    }
+  ],
+  "section_index": "251",
+  "section": "251",
+  "section_para": 1
 }

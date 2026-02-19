@@ -1,10 +1,528 @@
 {
   "work": "Kitab-i-Iqan",
   "slug": "kitab-i-iqan",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 277,
   "source_text": "و از فقهاء و علمای بيان استدعا می نمايم که  چنين مشی ننمايند و بر جوهر الهی و نور ربّانی و صرف ازلی  و مبدأ و منتهای مظاهر غيبی در زمن مستغاث وارد نياورند آنچه در اين کور وارد شد و به عقول و ادراک و علم متمسّک نشوند و به آن مظهر علوم نامتناهی ربّانی مخاصمه ننمايند. اگر چه با جميع اين وصايا، ديده می شود که شخصی اعور که از رؤسای قوم است در نهايت معارضه بر خيزد.  و همچنين در  هر بلدی بر نفی آن جمال قدسی برخيزند و اصحاب آن سلطان وجود و جوهر مقصود در کوه ها و صحراها فرار نمايند و از دست ظالمين مستور شوند و برخی توکّل نمايند و با کمال انقطاع جان در بازند.  و گويا مشاهده می شود نفسی که به کمال زهد و تقوی موصوف و معروف است، به قسمی که جميع ناس اطاعت او را فرض شمرند و تسليم امرش را لازم دانند، به محاربه با آن اصل شجره الهيّه قيام نمايد و به منتهای جهد و اجتهاد به معارضه بر خيزد.  اين است شأن ناس.",
   "translation": "We entreat the learned men of the Bayán not to follow in such ways, not to inflict, at the time of Mustagháth, upon Him Who is the divine Essence, the heavenly Light, the absolute Eternity, the Beginning and the End of the Manifestations of the Invisible, that which hath been inflicted in this day. We beg them not to depend upon their intellect, their comprehension and learning, nor to contend with the Revealer of celestial and infinite knowledge. And yet, notwithstanding all these admonitions, We perceive that a one-eyed man, who himself is the chief of the people, is arising with the utmost malevolence against Us. We foresee that in every city people will arise to suppress the Blessed Beauty, that the companions of that Lord of being and ultimate Desire of all men will flee from the face of the oppressor and seek refuge from him in the wilderness, whilst others will resign themselves and, with absolute detachment, will sacrifice their lives in His path. Methinks We can discern one who is reputed for such devoutness and piety that men deem it an obligation to obey him, and to whose command they consider it necessary to submit, who will arise to assail the very root of the divine Tree, and endeavour to the uttermost of his power to resist and oppose Him. Such is the way of the people!",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "one-eyed-man-rises-against",
+  "alignment": [
+    {
+      "ar": "از",
+      "en": "of"
+    },
+    {
+      "ar": "فقهاء",
+      "en": "learned men"
+    },
+    {
+      "ar": "بيان",
+      "en": "Bayán"
+    },
+    {
+      "ar": "استدعا",
+      "en": "entreat"
+    },
+    {
+      "ar": "می نمايم",
+      "en": "We"
+    },
+    {
+      "ar": "چنين",
+      "en": "such"
+    },
+    {
+      "ar": "مشی",
+      "en": "ways"
+    },
+    {
+      "ar": "ننمايند",
+      "en": "not to follow"
+    },
+    {
+      "ar": "بر",
+      "en": "upon"
+    },
+    {
+      "ar": "جوهر",
+      "en": "Essence"
+    },
+    {
+      "ar": "الهی",
+      "en": "divine"
+    },
+    {
+      "ar": "نور",
+      "en": "Light"
+    },
+    {
+      "ar": "ربّانی",
+      "en": "heavenly"
+    },
+    {
+      "ar": "صرف",
+      "en": "absolute"
+    },
+    {
+      "ar": "ازلی",
+      "en": "Eternity"
+    },
+    {
+      "ar": "مبدأ",
+      "en": "Beginning"
+    },
+    {
+      "ar": "منتهای",
+      "en": "End"
+    },
+    {
+      "ar": "مظاهر",
+      "en": "Manifestations"
+    },
+    {
+      "ar": "غيبی",
+      "en": "Invisible"
+    },
+    {
+      "ar": "زمن",
+      "en": "time"
+    },
+    {
+      "ar": "مستغاث",
+      "en": "Mustagháth"
+    },
+    {
+      "ar": "وارد نياورند",
+      "en": "not to inflict"
+    },
+    {
+      "ar": "آنچه",
+      "en": "that which"
+    },
+    {
+      "ar": "در",
+      "en": "in"
+    },
+    {
+      "ar": "اين",
+      "en": "this"
+    },
+    {
+      "ar": "کور",
+      "en": "day"
+    },
+    {
+      "ar": "وارد شد",
+      "en": "hath been inflicted"
+    },
+    {
+      "ar": "عقول",
+      "en": "intellect"
+    },
+    {
+      "ar": "ادراک",
+      "en": "comprehension"
+    },
+    {
+      "ar": "علم",
+      "en": "learning"
+    },
+    {
+      "ar": "متمسّک نشوند",
+      "en": "not to depend"
+    },
+    {
+      "ar": "به",
+      "en": "with"
+    },
+    {
+      "ar": "آن",
+      "en": "the"
+    },
+    {
+      "ar": "مظهر",
+      "en": "Revealer"
+    },
+    {
+      "ar": "علوم",
+      "en": "knowledge"
+    },
+    {
+      "ar": "نامتناهی",
+      "en": "infinite"
+    },
+    {
+      "ar": "ربّانی",
+      "en": "celestial"
+    },
+    {
+      "ar": "اگر چه",
+      "en": "And yet"
+    },
+    {
+      "ar": "با",
+      "en": "notwithstanding"
+    },
+    {
+      "ar": "جميع",
+      "en": "all"
+    },
+    {
+      "ar": "اين",
+      "en": "these"
+    },
+    {
+      "ar": "وصايا",
+      "en": "admonitions"
+    },
+    {
+      "ar": "ديده می شود",
+      "en": "We perceive"
+    },
+    {
+      "ar": "که",
+      "en": "that"
+    },
+    {
+      "ar": "شخصی",
+      "en": "one"
+    },
+    {
+      "ar": "اعور",
+      "en": "one-eyed man"
+    },
+    {
+      "ar": "که",
+      "en": "who"
+    },
+    {
+      "ar": "رؤسای",
+      "en": "chief"
+    },
+    {
+      "ar": "قوم",
+      "en": "people"
+    },
+    {
+      "ar": "است",
+      "en": "is"
+    },
+    {
+      "ar": "نهايت",
+      "en": "utmost"
+    },
+    {
+      "ar": "معارضه",
+      "en": "malevolence"
+    },
+    {
+      "ar": "بر خيزد",
+      "en": "arising"
+    },
+    {
+      "ar": "همچنين",
+      "en": "We foresee"
+    },
+    {
+      "ar": "هر",
+      "en": "every"
+    },
+    {
+      "ar": "بلدی",
+      "en": "city"
+    },
+    {
+      "ar": "نفی",
+      "en": "suppress"
+    },
+    {
+      "ar": "جمال",
+      "en": "Beauty"
+    },
+    {
+      "ar": "قدسی",
+      "en": "Blessed"
+    },
+    {
+      "ar": "برخيزند",
+      "en": "will arise"
+    },
+    {
+      "ar": "اصحاب",
+      "en": "companions"
+    },
+    {
+      "ar": "سلطان",
+      "en": "Lord"
+    },
+    {
+      "ar": "وجود",
+      "en": "being"
+    },
+    {
+      "ar": "جوهر",
+      "en": "Desire"
+    },
+    {
+      "ar": "مقصود",
+      "en": "ultimate"
+    },
+    {
+      "ar": "کوه ها",
+      "en": "wilderness"
+    },
+    {
+      "ar": "فرار نمايند",
+      "en": "will flee"
+    },
+    {
+      "ar": "از",
+      "en": "from"
+    },
+    {
+      "ar": "دست",
+      "en": "face"
+    },
+    {
+      "ar": "ظالمين",
+      "en": "oppressor"
+    },
+    {
+      "ar": "مستور شوند",
+      "en": "seek refuge"
+    },
+    {
+      "ar": "برخی",
+      "en": "others"
+    },
+    {
+      "ar": "توکّل نمايند",
+      "en": "will resign themselves"
+    },
+    {
+      "ar": "انقطاع",
+      "en": "detachment"
+    },
+    {
+      "ar": "جان",
+      "en": "lives"
+    },
+    {
+      "ar": "در بازند",
+      "en": "sacrifice"
+    },
+    {
+      "ar": "گويا",
+      "en": "Methinks"
+    },
+    {
+      "ar": "مشاهده می شود",
+      "en": "We can discern"
+    },
+    {
+      "ar": "به",
+      "en": "for"
+    },
+    {
+      "ar": "زهد",
+      "en": "devoutness"
+    },
+    {
+      "ar": "تقوی",
+      "en": "piety"
+    },
+    {
+      "ar": "موصوف",
+      "en": "reputed"
+    },
+    {
+      "ar": "جميع",
+      "en": "men"
+    },
+    {
+      "ar": "اطاعت",
+      "en": "obey"
+    },
+    {
+      "ar": "او",
+      "en": "him"
+    },
+    {
+      "ar": "را",
+      "en": "to"
+    },
+    {
+      "ar": "فرض",
+      "en": "obligation"
+    },
+    {
+      "ar": "شمرند",
+      "en": "deem"
+    },
+    {
+      "ar": "تسليم",
+      "en": "submit"
+    },
+    {
+      "ar": "امرش",
+      "en": "command"
+    },
+    {
+      "ar": "لازم",
+      "en": "necessary"
+    },
+    {
+      "ar": "دانند",
+      "en": "consider"
+    },
+    {
+      "ar": "محاربه",
+      "en": "resist"
+    },
+    {
+      "ar": "با",
+      "en": "against"
+    },
+    {
+      "ar": "اصل",
+      "en": "root"
+    },
+    {
+      "ar": "شجره",
+      "en": "Tree"
+    },
+    {
+      "ar": "قيام نمايد",
+      "en": "will arise to assail"
+    },
+    {
+      "ar": "منتهای",
+      "en": "uttermost"
+    },
+    {
+      "ar": "جهد",
+      "en": "power"
+    },
+    {
+      "ar": "اجتهاد",
+      "en": "endeavour"
+    },
+    {
+      "ar": "معارضه",
+      "en": "oppose"
+    },
+    {
+      "ar": "اين",
+      "en": "Such"
+    },
+    {
+      "ar": "شأن",
+      "en": "way"
+    }
+  ],
+  "terms": [
+    {
+      "term": "مظاهر",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "Manifestations",
+      "note": "Typically 'Manifestation' (singular or capitalized). Here rendered 'Manifestations of the Invisible' to denote plural theophanic appearances, maintaining SE's standard theological terminology.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 53,
+          "snippet": "Manifestation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 160,
+          "snippet": "Author of all Manifestations"
+        },
+        {
+          "work": "gleanings",
+          "para": 222,
+          "snippet": "material"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 206,
+          "snippet": "appeared"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 255,
+          "snippet": "Manifestations"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 791,
+          "snippet": "tokens of Thy handiwork"
+        }
+      ]
+    },
+    {
+      "term": "انقطاع",
+      "transliteration": "q-t-ʿ",
+      "literal": "to be severed; to be cut off; to detach oneself; to abstain",
+      "se_rendering": "absolute detachment",
+      "note": "Usually 'detached themselves' or 'sundered'. Here 'absolute detachment' intensifies the spiritual meaning through the adverbial modifier, emphasizing complete severance from material concerns.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 413,
+          "snippet": "detached themselves"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 427,
+          "snippet": "sundered"
+        },
+        {
+          "work": "gleanings",
+          "para": 662,
+          "snippet": "detacheth himself"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 488,
+          "snippet": "have cut themselves off"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 11,
+          "snippet": "decisive"
+        },
+        {
+          "work": "gleanings",
+          "para": 310,
+          "snippet": "cut into pieces"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 16,
+          "snippet": "detachment"
+        },
+        {
+          "work": "gleanings",
+          "para": 255,
+          "snippet": "detached"
+        }
+      ]
+    }
+  ],
+  "section_index": "277",
+  "section": "277",
+  "section_para": 1
 }

@@ -1,10 +1,426 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 531,
   "source_text": "سْفَلِ النِّيرانِ، وَإِنَّكَ أَنْتَ المُقْتَدِرُ عَلَى ما تَشآءُ وَإِنَّكَ أَنْتَ العَزِيْزُ الحَكِيمُ فَوَعِزَّتِكَ يا إِلهِي كُلَّما أُرِيدُ أَنْ أَذْكُرَكَ يَمْنَعُنِيْ عُلُوُّكَ وَاقْتِدارُكَ، وَكُلَّما أُرِيْدُ أَنْ أَصْمُتَ يُنْطِقُنِي حُبُّكَ وَإِرادَتُكَ، فَيَا إِلهِي إِنَّ المِسْكينَ يَدْعُو مَوْلاهُ الغَنِيَّ وَالعَاجِزَ يَذْكُرُ مَوْلاهُ القَوِيَّ، إِنْ قَبِلَ مِنْهُ إِنَّهُ خَيْرُ مُعْطٍ، وَإِنْ أَطْرَدَهُ إِنَّهُ خَيْرُ عادِلٍ، وَالمَقْبُولُ يا إِلهِي مَنْ أَقْبَلَ إِلَيْكَ وَالمَحْرُومُ مَنْ غَفَلَ عَنْ ذِكْرِكَ فِي أَيَّامِكَ طُوبى لِمَنْ ذاقَ حَلاوَةَ ذِكْرِكَ وَثَنائِكَ إِنَّهُ لا يَمْنَعُهُ شَيْءٌ عَنِ التَّوَجُّهِ إِلى مَناهِجِ رِضائِكَ وَمَسالِكَ أَمْرِكَ وَلَوْ يُحارِبُهُ مَنْ عَلَى الأَرْضِ كُلُّها، فَانْظُرْ",
   "translation": "The glory of Thy might, O my God, beareth me witness! Every time I attempt to remember Thee, I find myself over-powered by the sublimity of Thy station and the immensity of Thy might; and every time I hold my peace, lo, I am impelled by my love for Thee and by the potency of Thy will, to unloose my tongue and mention Thee. He who is poor and needy, O my God, is calling for his Lord, the All-Possessing; and he who is destitute of all strength remembereth his Master, the All-Powerful. If He deign to accept His servant’s supplication, He is, verily, of unsurpassed bounteousness; and if He cast him out, He is of those who judge equitably the best. He indeed is acceptable, O my God, who hath set his face towards Thee, and he is truly deprived who hath been careless of the remembrance of Thee in Thy days. Blessed is he that hath tasted of the sweetness of Thy remembrance and praise. Nothing, not even the arising of all the peoples of the whole world to assail him, can hinder such a man from directing his steps towards the paths of Thy pleasure and the ways of Thy Cause.",
   "source_lang": "ar",
-  "score": 9.9
+  "score": 9.9,
+  "page_slug": "taste-sweetness-remembrance",
+  "alignment": [
+    {
+      "ar": "سْفَلِ",
+      "en": "sublimity"
+    },
+    {
+      "ar": "أَنْتَ",
+      "en": "He is"
+    },
+    {
+      "ar": "المُقْتَدِرُ",
+      "en": "unsurpassed bounteousness"
+    },
+    {
+      "ar": "عَلَى",
+      "en": "of"
+    },
+    {
+      "ar": "ما",
+      "en": "those who"
+    },
+    {
+      "ar": "تَشآءُ",
+      "en": "will"
+    },
+    {
+      "ar": "العَزِيْزُ",
+      "en": "best"
+    },
+    {
+      "ar": "الحَكِيمُ",
+      "en": "judge equitably"
+    },
+    {
+      "ar": "يا",
+      "en": "O"
+    },
+    {
+      "ar": "إِلهِي",
+      "en": "my God"
+    },
+    {
+      "ar": "أُرِيدُ",
+      "en": "I attempt"
+    },
+    {
+      "ar": "أَنْ",
+      "en": "to"
+    },
+    {
+      "ar": "أَذْكُرَكَ",
+      "en": "remember Thee"
+    },
+    {
+      "ar": "يَمْنَعُنِيْ",
+      "en": "I find myself over-powered"
+    },
+    {
+      "ar": "وَاقْتِدارُكَ",
+      "en": "immensity of Thy might"
+    },
+    {
+      "ar": "أُرِيْدُ",
+      "en": "I hold"
+    },
+    {
+      "ar": "أَصْمُتَ",
+      "en": "my peace"
+    },
+    {
+      "ar": "يُنْطِقُنِي",
+      "en": "I am impelled"
+    },
+    {
+      "ar": "وَإِرادَتُكَ",
+      "en": "potency of Thy will"
+    },
+    {
+      "ar": "المِسْكينَ",
+      "en": "poor and needy"
+    },
+    {
+      "ar": "يَدْعُو",
+      "en": "is calling for"
+    },
+    {
+      "ar": "مَوْلاهُ",
+      "en": "his Lord"
+    },
+    {
+      "ar": "وَالعَاجِزَ",
+      "en": "he who is destitute of all strength"
+    },
+    {
+      "ar": "يَذْكُرُ",
+      "en": "remembereth"
+    },
+    {
+      "ar": "إِنْ",
+      "en": "If"
+    },
+    {
+      "ar": "قَبِلَ",
+      "en": "accept"
+    },
+    {
+      "ar": "خَيْرُ",
+      "en": "the best"
+    },
+    {
+      "ar": "مُعْطٍ",
+      "en": "bounteousness"
+    },
+    {
+      "ar": "أَطْرَدَهُ",
+      "en": "cast him out"
+    },
+    {
+      "ar": "عادِلٍ",
+      "en": "equitably"
+    },
+    {
+      "ar": "وَالمَقْبُولُ",
+      "en": "He indeed is acceptable"
+    },
+    {
+      "ar": "مَنْ",
+      "en": "who"
+    },
+    {
+      "ar": "أَقْبَلَ",
+      "en": "hath set his face"
+    },
+    {
+      "ar": "إِلَيْكَ",
+      "en": "towards Thee"
+    },
+    {
+      "ar": "وَالمَحْرُومُ",
+      "en": "he is truly deprived"
+    },
+    {
+      "ar": "غَفَلَ",
+      "en": "hath been careless"
+    },
+    {
+      "ar": "ذِكْرِكَ",
+      "en": "remembrance of Thee"
+    },
+    {
+      "ar": "فِي",
+      "en": "in"
+    },
+    {
+      "ar": "طُوبى",
+      "en": "Blessed"
+    },
+    {
+      "ar": "لِمَنْ",
+      "en": "is he that"
+    },
+    {
+      "ar": "ذاقَ",
+      "en": "hath tasted"
+    },
+    {
+      "ar": "حَلاوَةَ",
+      "en": "sweetness"
+    },
+    {
+      "ar": "وَثَنائِكَ",
+      "en": "and praise"
+    },
+    {
+      "ar": "لا",
+      "en": "Nothing"
+    },
+    {
+      "ar": "يَمْنَعُهُ",
+      "en": "can hinder"
+    },
+    {
+      "ar": "شَيْءٌ",
+      "en": "not even"
+    },
+    {
+      "ar": "مَناهِجِ",
+      "en": "paths"
+    },
+    {
+      "ar": "رِضائِكَ",
+      "en": "Thy pleasure"
+    },
+    {
+      "ar": "وَمَسالِكَ",
+      "en": "ways"
+    },
+    {
+      "ar": "أَمْرِكَ",
+      "en": "Thy Cause"
+    },
+    {
+      "ar": "يُحارِبُهُ",
+      "en": "arising of all the peoples of the whole world to assail him"
+    },
+    {
+      "ar": "الأَرْضِ",
+      "en": "world"
+    },
+    {
+      "ar": "فَانْظُرْ",
+      "en": "Lo"
+    }
+  ],
+  "terms": [
+    {
+      "term": "عُلُوُّكَ",
+      "transliteration": "ʿ-l-w",
+      "literal": "highest; most high; supreme",
+      "se_rendering": "the sublimity of Thy station",
+      "note": "From ع-ل-و root typically rendered 'the Most High' or 'supreme' across 74 occurrences. Here rendered descriptively as 'sublimity of Thy station'—a paraphrastic approach emphasizing station over abstract supremacy.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 1,
+          "snippet": "the Most High"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 148,
+          "snippet": "the Most Sublime Pen"
+        },
+        {
+          "work": "gleanings",
+          "para": 232,
+          "snippet": "supreme"
+        },
+        {
+          "work": "gleanings",
+          "para": 616,
+          "snippet": "the realms above"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 68,
+          "snippet": "the Pen of Glory"
+        },
+        {
+          "work": "gleanings",
+          "para": 393,
+          "snippet": "The Pen of the Most High"
+        },
+        {
+          "work": "gleanings",
+          "para": 697,
+          "snippet": "the Dayspring of Glory"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 1,
+          "snippet": "the Realm of Glory"
+        }
+      ]
+    },
+    {
+      "term": "حُبُّكَ",
+      "transliteration": "ḥ-b-b",
+      "literal": "love; affection",
+      "se_rendering": "my love for Thee",
+      "note": "Root ح-ب-ب consistently rendered 'loved ones' or 'beloved' across 92 occurrences. This passage uniquely renders the abstract noun as direct emotion: 'my love for Thee'—singular, intimate, and active rather than passive.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 3,
+          "snippet": "beloved of the Lord"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 53,
+          "snippet": "loved ones of the Lord"
+        },
+        {
+          "work": "gleanings",
+          "para": 341,
+          "snippet": "loved ones of God"
+        },
+        {
+          "work": "gleanings",
+          "para": 689,
+          "snippet": "beloved of the one true God"
+        },
+        {
+          "work": "gleanings",
+          "para": 640,
+          "snippet": "loved ones"
+        },
+        {
+          "work": "gleanings",
+          "para": 690,
+          "snippet": "beloved of God"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 39,
+          "snippet": "His loved ones"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 10,
+          "snippet": "love for Thee"
+        }
+      ]
+    },
+    {
+      "term": "التَّوَجُّهِ",
+      "transliteration": "w-j-h",
+      "literal": "face; countenance; direction; aspect",
+      "se_rendering": "directing his steps towards",
+      "note": "Root و-ج-ه typically rendered 'faces' or 'set their faces' across 64 occurrences. This passage renders gerundially as 'directing his steps towards'—a dynamic, motion-based interpretation distinct from facial/directional metaphors elsewhere.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 77,
+          "snippet": "their faces"
+        },
+        {
+          "work": "gleanings",
+          "para": 596,
+          "snippet": "eyes"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 16,
+          "snippet": "unto Mine"
+        },
+        {
+          "work": "gleanings",
+          "para": 273,
+          "snippet": "face"
+        },
+        {
+          "work": "gleanings",
+          "para": 371,
+          "snippet": "turned"
+        },
+        {
+          "work": "gleanings",
+          "para": 275,
+          "snippet": "with white faces"
+        },
+        {
+          "work": "gleanings",
+          "para": 399,
+          "snippet": "with white faces and radiant hearts"
+        },
+        {
+          "work": "gleanings",
+          "para": 249,
+          "snippet": "for the sake of God"
+        }
+      ]
+    },
+    {
+      "term": "أَمْرِكَ",
+      "transliteration": "ʾ-m-r",
+      "literal": "command; cause; matter; affair",
+      "se_rendering": "Thy Cause",
+      "note": "Root ا-م-ر primarily yields 'His Cause' or 'His command' across 75 occurrences. Final position here renders 'Thy Cause'—maintaining SE's preferred theological term while marking this text's singular appeal to divine purpose.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "His Cause"
+        },
+        {
+          "work": "gleanings",
+          "para": 586,
+          "snippet": "His command"
+        },
+        {
+          "work": "gleanings",
+          "para": 691,
+          "snippet": "His Revelation"
+        },
+        {
+          "work": "gleanings",
+          "para": 723,
+          "snippet": "Cause"
+        },
+        {
+          "work": "gleanings",
+          "para": 8,
+          "snippet": "Revelation"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 167,
+          "snippet": "things"
+        },
+        {
+          "work": "gleanings",
+          "para": 524,
+          "snippet": "your affairs"
+        },
+        {
+          "work": "gleanings",
+          "para": 495,
+          "snippet": "affairs"
+        }
+      ]
+    }
+  ],
+  "section_index": "CXX.3",
+  "section": "CXX",
+  "section_para": 3
 }

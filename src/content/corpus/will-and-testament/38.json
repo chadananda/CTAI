@@ -1,10 +1,913 @@
 {
   "work": "Will and Testament",
   "slug": "will-and-testament",
-  "author": "'Abdu'l-Baha",
+  "author": "‘Abdu’l-Bahá",
   "pair_index": 38,
   "source_text": "ای یاران عزیز الآن من در خطری عظیمم و امید ساعتی از حیات مفقود و ناچار بتحریر این ورقه پرداختم حفظاً لأمر اللّه و صیانةً لدینه و حفظاً لکلمته و صوناً لتعالیمه این نفس مظلوم قسم بجمال قدم با نفسی ملال نداشته و ندارم و کدری در دل نگرفتم و کلمه‌ئی جز ذکر خیر نخواهم ولکن تکلیف شدید دارم و ناچار و مجبورم که حفظ و صون و وقایۀ امر اللّه نمایم لهذا در نهایت تحسّر و اسف وصیّت مینمایم که امر اللّه را محافظه نمائید و شریعت اللّه را صیانت کنید و از اختلاف نهایت استیحاش بفرمائید اساس عقائد اهل بها روحی لهم الفدآء حضرت ربّ اعلی مظهر وحدانیّت و فردانیّت الهیّه و مبشّر جمال قدم حضرت جمال ابهی روحی لأحبّائه الثّابتین فدا مظهر کلّیّۀ الهیّه و مطلع حقیقت مقدّسۀ ربّانیّه و مادون کلّ عباد له و کلّ بأمره یعملون مرجع کل کتاب اقدس و هر مسئلۀ غیر منصوصه راجع ببیت عدل عمومی ببیت عدل آنچه بالاتّفاق و یا باکثریّت آرا تحقّق یابد همان حقّ و مراد اللّه است من تجاوز عنه فهو ممّن احبّ الشّقاق و اظهر النّفاق و اعرض عن ربّ المیثاق ولی مراد بیت العدل عمومیست که از طرف جمیع بلاد انتخاب شود یعنی شرق و غرب احبّا که موجودند بقاعدۀ انتخاب مصطلحۀ در بلاد غرب نظیر انگلیس اعضائی انتخاب نمایند",
   "translation": "O dearly beloved friends! I am now in very great danger and the hope of even an hour’s life is lost to me. I am thus constrained to write these lines for the protection of the Cause of God, the preservation of His Law, the safeguarding of His Word and the safety of His Teachings. By the Ancient Beauty! This wronged one hath in no wise borne nor doth he bear a grudge against anyone; towards none doth he entertain any ill-feeling and uttereth no word save for the good of the world. My supreme obligation, however, of necessity prompteth me to guard and preserve the Cause of God. Thus, with the greatest regret, I counsel you saying: Guard ye the Cause of God, protect His Law and have the utmost fear of discord. This is the foundation of the belief of the people of Bahá (may my life be offered up for them): “His Holiness the Exalted One (the Báb) is the Manifestation of the Unity and Oneness of God and the Forerunner of the Ancient Beauty. His Holiness the Abhá Beauty (may my life be a sacrifice for His steadfast friends) is the Supreme Manifestation of God and the Dayspring of His Most Divine Essence. All others are servants unto Him and do His bidding.” Unto the Most Holy Book everyone must turn and all that is not expressly recorded therein must be referred to the Universal House of Justice. That which this body, whether unanimously or by a majority doth carry, that is verily the Truth and the Purpose of God Himself. Whoso doth deviate therefrom is verily of them that love discord, hath shown forth malice and turned away from the Lord of the Covenant. By this House is meant that Universal House of Justice which is to be elected from all countries, that is, from those parts in the East and West where the loved ones are to be found, after the manner of the customary elections in Western countries such as those of England.",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "guard-cause-god-preserve-law",
+  "alignment": [
+    {
+      "ar": "ای",
+      "en": "O"
+    },
+    {
+      "ar": "یاران",
+      "en": "friends"
+    },
+    {
+      "ar": "عزیز",
+      "en": "dearly beloved"
+    },
+    {
+      "ar": "الآن",
+      "en": "now"
+    },
+    {
+      "ar": "من",
+      "en": "I"
+    },
+    {
+      "ar": "در",
+      "en": "in"
+    },
+    {
+      "ar": "خطری",
+      "en": "danger"
+    },
+    {
+      "ar": "عظیمم",
+      "en": "very great"
+    },
+    {
+      "ar": "امید",
+      "en": "hope"
+    },
+    {
+      "ar": "حیات",
+      "en": "life"
+    },
+    {
+      "ar": "مفقود",
+      "en": "lost"
+    },
+    {
+      "ar": "ناچار",
+      "en": "constrained"
+    },
+    {
+      "ar": "بتحریر",
+      "en": "write"
+    },
+    {
+      "ar": "این",
+      "en": "these"
+    },
+    {
+      "ar": "ورقه",
+      "en": "lines"
+    },
+    {
+      "ar": "حفظاً",
+      "en": "protection"
+    },
+    {
+      "ar": "لأمر",
+      "en": "Cause"
+    },
+    {
+      "ar": "اللّه",
+      "en": "God"
+    },
+    {
+      "ar": "صیانةً",
+      "en": "preservation"
+    },
+    {
+      "ar": "لدینه",
+      "en": "His Law"
+    },
+    {
+      "ar": "حفظاً",
+      "en": "safeguarding"
+    },
+    {
+      "ar": "لکلمته",
+      "en": "His Word"
+    },
+    {
+      "ar": "صوناً",
+      "en": "safety"
+    },
+    {
+      "ar": "لتعالیمه",
+      "en": "His Teachings"
+    },
+    {
+      "ar": "نفس",
+      "en": "one"
+    },
+    {
+      "ar": "مظلوم",
+      "en": "wronged"
+    },
+    {
+      "ar": "قسم",
+      "en": "By"
+    },
+    {
+      "ar": "بجمال",
+      "en": "Beauty"
+    },
+    {
+      "ar": "قدم",
+      "en": "Ancient"
+    },
+    {
+      "ar": "با",
+      "en": "against"
+    },
+    {
+      "ar": "نفسی",
+      "en": "anyone"
+    },
+    {
+      "ar": "ملال",
+      "en": "grudge"
+    },
+    {
+      "ar": "نداشته",
+      "en": "borne"
+    },
+    {
+      "ar": "ندارم",
+      "en": "bear"
+    },
+    {
+      "ar": "کدری",
+      "en": "ill-feeling"
+    },
+    {
+      "ar": "در",
+      "en": "towards"
+    },
+    {
+      "ar": "دل",
+      "en": "entertain"
+    },
+    {
+      "ar": "نگرفتم",
+      "en": "none"
+    },
+    {
+      "ar": "کلمه‌ئی",
+      "en": "word"
+    },
+    {
+      "ar": "جز",
+      "en": "save"
+    },
+    {
+      "ar": "ذکر",
+      "en": "uttereth"
+    },
+    {
+      "ar": "خیر",
+      "en": "good"
+    },
+    {
+      "ar": "نخواهم",
+      "en": "no"
+    },
+    {
+      "ar": "ولکن",
+      "en": "however"
+    },
+    {
+      "ar": "تکلیف",
+      "en": "obligation"
+    },
+    {
+      "ar": "شدید",
+      "en": "supreme"
+    },
+    {
+      "ar": "دارم",
+      "en": "My"
+    },
+    {
+      "ar": "ناچار",
+      "en": "necessity"
+    },
+    {
+      "ar": "مجبورم",
+      "en": "prompteth"
+    },
+    {
+      "ar": "حفظ",
+      "en": "guard"
+    },
+    {
+      "ar": "صون",
+      "en": "preserve"
+    },
+    {
+      "ar": "لهذا",
+      "en": "Thus"
+    },
+    {
+      "ar": "در",
+      "en": "with"
+    },
+    {
+      "ar": "نهایت",
+      "en": "greatest"
+    },
+    {
+      "ar": "تحسّر",
+      "en": "regret"
+    },
+    {
+      "ar": "وصیّت",
+      "en": "counsel"
+    },
+    {
+      "ar": "که",
+      "en": "saying"
+    },
+    {
+      "ar": "محافظه",
+      "en": "Guard"
+    },
+    {
+      "ar": "نمائید",
+      "en": "ye"
+    },
+    {
+      "ar": "شریعت",
+      "en": "Law"
+    },
+    {
+      "ar": "صیانت",
+      "en": "protect"
+    },
+    {
+      "ar": "اختلاف",
+      "en": "discord"
+    },
+    {
+      "ar": "استیحاش",
+      "en": "fear"
+    },
+    {
+      "ar": "بفرمائید",
+      "en": "have"
+    },
+    {
+      "ar": "اساس",
+      "en": "foundation"
+    },
+    {
+      "ar": "عقائد",
+      "en": "belief"
+    },
+    {
+      "ar": "اهل",
+      "en": "people"
+    },
+    {
+      "ar": "بها",
+      "en": "Bahá"
+    },
+    {
+      "ar": "روحی",
+      "en": "my life"
+    },
+    {
+      "ar": "لهم",
+      "en": "them"
+    },
+    {
+      "ar": "الفدآء",
+      "en": "offered up"
+    },
+    {
+      "ar": "حضرت",
+      "en": "His Holiness"
+    },
+    {
+      "ar": "ربّ",
+      "en": "One"
+    },
+    {
+      "ar": "اعلی",
+      "en": "Exalted"
+    },
+    {
+      "ar": "مظهر",
+      "en": "Manifestation"
+    },
+    {
+      "ar": "وحدانیّت",
+      "en": "Unity"
+    },
+    {
+      "ar": "فردانیّت",
+      "en": "Oneness"
+    },
+    {
+      "ar": "مبشّر",
+      "en": "Forerunner"
+    },
+    {
+      "ar": "ابهی",
+      "en": "Abhá"
+    },
+    {
+      "ar": "لأحبّائه",
+      "en": "His"
+    },
+    {
+      "ar": "الثّابتین",
+      "en": "steadfast"
+    },
+    {
+      "ar": "فدا",
+      "en": "sacrifice"
+    },
+    {
+      "ar": "کلّیّۀ",
+      "en": "Supreme"
+    },
+    {
+      "ar": "مطلع",
+      "en": "Dayspring"
+    },
+    {
+      "ar": "حقیقت",
+      "en": "Essence"
+    },
+    {
+      "ar": "مقدّسۀ",
+      "en": "Most Divine"
+    },
+    {
+      "ar": "مادون",
+      "en": "others"
+    },
+    {
+      "ar": "کلّ",
+      "en": "All"
+    },
+    {
+      "ar": "عباد",
+      "en": "servants"
+    },
+    {
+      "ar": "له",
+      "en": "unto Him"
+    },
+    {
+      "ar": "بأمره",
+      "en": "His bidding"
+    },
+    {
+      "ar": "یعملون",
+      "en": "do"
+    },
+    {
+      "ar": "مرجع",
+      "en": "turn"
+    },
+    {
+      "ar": "کتاب",
+      "en": "Book"
+    },
+    {
+      "ar": "اقدس",
+      "en": "Most Holy"
+    },
+    {
+      "ar": "هر",
+      "en": "all"
+    },
+    {
+      "ar": "مسئلۀ",
+      "en": "that"
+    },
+    {
+      "ar": "غیر",
+      "en": "not"
+    },
+    {
+      "ar": "منصوصه",
+      "en": "expressly recorded"
+    },
+    {
+      "ar": "راجع",
+      "en": "referred"
+    },
+    {
+      "ar": "ببیت",
+      "en": "House"
+    },
+    {
+      "ar": "عدل",
+      "en": "Justice"
+    },
+    {
+      "ar": "عمومی",
+      "en": "Universal"
+    },
+    {
+      "ar": "آنچه",
+      "en": "That which"
+    },
+    {
+      "ar": "بالاتّفاق",
+      "en": "unanimously"
+    },
+    {
+      "ar": "یا",
+      "en": "or"
+    },
+    {
+      "ar": "باکثریّت",
+      "en": "majority"
+    },
+    {
+      "ar": "آرا",
+      "en": "by"
+    },
+    {
+      "ar": "تحقّق",
+      "en": "carry"
+    },
+    {
+      "ar": "یابد",
+      "en": "doth"
+    },
+    {
+      "ar": "همان",
+      "en": "verily"
+    },
+    {
+      "ar": "حقّ",
+      "en": "Truth"
+    },
+    {
+      "ar": "مراد",
+      "en": "Purpose"
+    },
+    {
+      "ar": "من",
+      "en": "Whoso"
+    },
+    {
+      "ar": "تجاوز",
+      "en": "deviate"
+    },
+    {
+      "ar": "عنه",
+      "en": "therefrom"
+    },
+    {
+      "ar": "فهو",
+      "en": "is"
+    },
+    {
+      "ar": "احبّ",
+      "en": "love"
+    },
+    {
+      "ar": "اظهر",
+      "en": "shown forth"
+    },
+    {
+      "ar": "النّفاق",
+      "en": "malice"
+    },
+    {
+      "ar": "اعرض",
+      "en": "turned away"
+    },
+    {
+      "ar": "عن",
+      "en": "from"
+    },
+    {
+      "ar": "المیثاق",
+      "en": "Covenant"
+    },
+    {
+      "ar": "بلاد",
+      "en": "countries"
+    },
+    {
+      "ar": "انتخاب",
+      "en": "elected"
+    },
+    {
+      "ar": "یعنی",
+      "en": "that is"
+    },
+    {
+      "ar": "شرق",
+      "en": "East"
+    },
+    {
+      "ar": "غرب",
+      "en": "West"
+    },
+    {
+      "ar": "احبّا",
+      "en": "loved ones"
+    },
+    {
+      "ar": "که",
+      "en": "where"
+    },
+    {
+      "ar": "موجودند",
+      "en": "to be found"
+    },
+    {
+      "ar": "بقاعدۀ",
+      "en": "manner"
+    },
+    {
+      "ar": "انتخاب",
+      "en": "elections"
+    },
+    {
+      "ar": "مصطلحۀ",
+      "en": "customary"
+    },
+    {
+      "ar": "غرب",
+      "en": "Western"
+    },
+    {
+      "ar": "نظیر",
+      "en": "such as"
+    },
+    {
+      "ar": "انگلیس",
+      "en": "England"
+    },
+    {
+      "ar": "اعضائی",
+      "en": "those"
+    }
+  ],
+  "terms": [
+    {
+      "term": "لامر",
+      "transliteration": "ʾ-m-r",
+      "literal": "command; cause; matter; affair",
+      "se_rendering": "Cause",
+      "note": "Variant of امر اللّه; rendered 'Cause' consistently. Demonstrates SE's unified approach to this central concept throughout.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 586,
+          "snippet": "His command"
+        },
+        {
+          "work": "gleanings",
+          "para": 635,
+          "snippet": "His Cause"
+        },
+        {
+          "work": "gleanings",
+          "para": 691,
+          "snippet": "His Revelation"
+        },
+        {
+          "work": "gleanings",
+          "para": 723,
+          "snippet": "Cause"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 797,
+          "snippet": "Thy Cause"
+        },
+        {
+          "work": "gleanings",
+          "para": 8,
+          "snippet": "Revelation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 597,
+          "snippet": "service"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 167,
+          "snippet": "things"
+        }
+      ]
+    },
+    {
+      "term": "اختلاف",
+      "transliteration": "kh-l-f",
+      "literal": "opposing; contrary; conflicting",
+      "se_rendering": "discord",
+      "note": "Usually 'in conflict with' or 'contrary' (37 occ). Here rendered 'discord' — a more emotional, cautionary term emphasizing community fragmentation rather than doctrinal opposition.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 189,
+          "snippet": "in conflict with"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 107,
+          "snippet": "contrary"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 220,
+          "snippet": "adversaries"
+        },
+        {
+          "work": "gleanings",
+          "para": 495,
+          "snippet": "counter to"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 57,
+          "snippet": "contrary to"
+        },
+        {
+          "work": "gleanings",
+          "para": 468,
+          "snippet": "opposed"
+        },
+        {
+          "work": "gleanings",
+          "para": 462,
+          "snippet": "thou hast violated"
+        },
+        {
+          "work": "gleanings",
+          "para": 242,
+          "snippet": "conflict"
+        }
+      ]
+    },
+    {
+      "term": "مظهر",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "Manifestation",
+      "note": "Primary rendering 'Manifestation' (96 occ). Applied three times here to describe the Báb and Bahá'u'lláh, maintaining SE's technical theological vocabulary.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 53,
+          "snippet": "Manifestation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 160,
+          "snippet": "Author of all Manifestations"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 136,
+          "snippet": "evident"
+        },
+        {
+          "work": "gleanings",
+          "para": 222,
+          "snippet": "material"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 206,
+          "snippet": "appeared"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 196,
+          "snippet": "Manifestations of God"
+        }
+      ]
+    },
+    {
+      "term": "وحدانیّت",
+      "transliteration": "w-h-d",
+      "literal": "Divine unity; monotheism; belief in the oneness of God",
+      "se_rendering": "Unity",
+      "note": "Standard 'Unity' (56 occ). Single appearance in 'Unity and Oneness of God' pairs it with 'فردانیّت' to express divine monotheism comprehensively.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 546,
+          "snippet": "unity"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 69,
+          "snippet": "Tawhid"
+        },
+        {
+          "work": "gleanings",
+          "para": 103,
+          "snippet": "oneness"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 167,
+          "snippet": "one"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 682,
+          "snippet": "once"
+        },
+        {
+          "work": "gleanings",
+          "para": 386,
+          "snippet": "His oneness"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 647,
+          "snippet": "Thy unity"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 285,
+          "snippet": "Thy oneness"
+        }
+      ]
+    },
+    {
+      "term": "حقیقت",
+      "transliteration": "h-q-q",
+      "literal": "truth; right; that which is true or just",
+      "se_rendering": "Truth",
+      "note": "Normally 'the Truth' or 'the True One' (43 occ). Here 'Dayspring of His Most Divine Essence' — SE interprets حقیقت مقدّسۀ as essence rather than truth, revealing interpretive liberty with abstract nouns.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 651,
+          "snippet": "the True One"
+        },
+        {
+          "work": "gleanings",
+          "para": 85,
+          "snippet": "the Truth"
+        },
+        {
+          "work": "gleanings",
+          "para": 328,
+          "snippet": "the one true God"
+        },
+        {
+          "work": "gleanings",
+          "para": 707,
+          "snippet": "Him"
+        },
+        {
+          "work": "gleanings",
+          "para": 18,
+          "snippet": "Sun of Truth"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 103,
+          "snippet": "Luminaries of Truth"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 113,
+          "snippet": "was realized"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 215,
+          "snippet": "realization"
+        }
+      ]
+    },
+    {
+      "term": "مقدّسۀ",
+      "transliteration": "q-d-s",
+      "literal": "holy, sacred, sanctified",
+      "se_rendering": "Divine Essence",
+      "note": "Standard 'Sacred' or 'holy' (47 occ). Rendered 'Divine Essence' here — an unusual expansion that treats the adjective as descriptive of the noun's metaphysical nature.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 81,
+          "snippet": "hallowed"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 35,
+          "snippet": "spirit of holiness"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 448,
+          "snippet": "Sanctuary"
+        },
+        {
+          "work": "gleanings",
+          "para": 585,
+          "snippet": "holy Paradise"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 13,
+          "snippet": "Holy Mariner"
+        },
+        {
+          "work": "gleanings",
+          "para": 584,
+          "snippet": "Holy Veil"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 6,
+          "snippet": "sacred strand"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 26,
+          "snippet": "Celestial Concourse"
+        }
+      ]
+    },
+    {
+      "term": "عباد",
+      "transliteration": "ʿ-b-d",
+      "literal": "servant; slave; worshipper",
+      "se_rendering": "servants",
+      "note": "Typically 'servants' (68 occ). Appears once as 'servants unto Him,' maintaining SE's hierarchical religious vocabulary.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 279,
+          "snippet": "Thy servants"
+        },
+        {
+          "work": "gleanings",
+          "para": 686,
+          "snippet": "servants"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 204,
+          "snippet": "Thy servant"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 260,
+          "snippet": "'Abdu'l-'Azíz"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 663,
+          "snippet": "servant"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 50,
+          "snippet": "the servants"
+        },
+        {
+          "work": "gleanings",
+          "para": 627,
+          "snippet": "these servants of Thine"
+        },
+        {
+          "work": "gleanings",
+          "para": 104,
+          "snippet": "absolute servitude"
+        }
+      ]
+    }
+  ],
+  "section_index": "2.7",
+  "section": "2",
+  "section_para": 7
 }

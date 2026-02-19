@@ -1,10 +1,578 @@
 {
   "work": "Kitab-i-Iqan",
   "slug": "kitab-i-iqan",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 133,
   "source_text": "سؤالی می نمائيم از آن جناب که اگر مقصود از سلطنت، حکم ظاهر و غلبه و اقتدار ظاهر ملکی باشد که همه ناس مقهور شوند و به ظاهر مطيع و منقاد گردند تا دوستان مستريح و معزّز و دشمنان مخذول و منکوب شوند، پس در حقّ ربّ العزّه که مسلّماً سلطنت به اسم اوست و جميع به عظمت و شوکت او معترفند اين نوع از سلطنت صادق نمی آيد.  چنانچه مشاهده می نمائی که اکثر ارض در تصرّف دشمنان اوست و جميع بر خلاف رضای او حرکت می نمايند و همه کافر و معرض و  مدبرند از آنچه به آن امر فرموده و مقبل و فاعل اند آنچه را نهی نموده و دوستان او هميشه در دست دشمنان مبتلا و مقهورند.چنانچه همه اينها اظهر من الشّمس واضح است.",
   "translation": "And now, ponder this in thine heart: Were sovereignty to mean earthly sovereignty and worldly dominion, were it to imply the subjection and external allegiance of all the peoples and kindreds of the earth—whereby His loved ones should be exalted and be made to live in peace, and His enemies be abased and tormented—such form of sovereignty would not be true of God Himself, the Source of all dominion, Whose majesty and power all things testify. For, dost thou not witness how the generality of mankind is under the sway of His enemies? Have they not all turned away from the path of His good-pleasure? Have they not done that which He hath forbidden, and left undone, nay repudiated and opposed, those things which He hath commanded? Have not His friends ever been the victims of the tyranny of His foes? All these things are more obvious than even the splendour of the noon-tide sun.",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "sovereignty-earthly-dominion-god",
+  "alignment": [
+    {
+      "ar": "سؤالی",
+      "en": "ponder this"
+    },
+    {
+      "ar": "می نمائيم",
+      "en": "ponder"
+    },
+    {
+      "ar": "جناب",
+      "en": "thine"
+    },
+    {
+      "ar": "مقصود",
+      "en": "Were sovereignty to mean"
+    },
+    {
+      "ar": "سلطنت",
+      "en": "sovereignty"
+    },
+    {
+      "ar": "حکم",
+      "en": "dominion"
+    },
+    {
+      "ar": "ظاهر",
+      "en": "earthly"
+    },
+    {
+      "ar": "غلبه",
+      "en": "worldly dominion"
+    },
+    {
+      "ar": "ناس",
+      "en": "peoples"
+    },
+    {
+      "ar": "مقهور",
+      "en": "subjection"
+    },
+    {
+      "ar": "شوند",
+      "en": "should be"
+    },
+    {
+      "ar": "مطيع",
+      "en": "allegiance"
+    },
+    {
+      "ar": "دوستان",
+      "en": "loved ones"
+    },
+    {
+      "ar": "مستريح",
+      "en": "peace"
+    },
+    {
+      "ar": "معزّز",
+      "en": "exalted"
+    },
+    {
+      "ar": "دشمنان",
+      "en": "enemies"
+    },
+    {
+      "ar": "مخذول",
+      "en": "abased"
+    },
+    {
+      "ar": "منکوب",
+      "en": "tormented"
+    },
+    {
+      "ar": "حقّ",
+      "en": "true"
+    },
+    {
+      "ar": "ربّ العزّه",
+      "en": "Source of all dominion"
+    },
+    {
+      "ar": "اسم",
+      "en": "God Himself"
+    },
+    {
+      "ar": "جميع",
+      "en": "all things"
+    },
+    {
+      "ar": "عظمت",
+      "en": "majesty"
+    },
+    {
+      "ar": "شوکت",
+      "en": "power"
+    },
+    {
+      "ar": "معترفند",
+      "en": "testify"
+    },
+    {
+      "ar": "نوع",
+      "en": "form"
+    },
+    {
+      "ar": "نمی آيد",
+      "en": "not be"
+    },
+    {
+      "ar": "مشاهده",
+      "en": "witness"
+    },
+    {
+      "ar": "اکثر",
+      "en": "generality"
+    },
+    {
+      "ar": "ارض",
+      "en": "mankind"
+    },
+    {
+      "ar": "تصرّف",
+      "en": "sway"
+    },
+    {
+      "ar": "خلاف",
+      "en": "turned away"
+    },
+    {
+      "ar": "رضای",
+      "en": "good-pleasure"
+    },
+    {
+      "ar": "حرکت",
+      "en": "turned"
+    },
+    {
+      "ar": "امر",
+      "en": "commanded"
+    },
+    {
+      "ar": "مقبل",
+      "en": "done"
+    },
+    {
+      "ar": "نهی",
+      "en": "forbidden"
+    },
+    {
+      "ar": "هميشه",
+      "en": "ever"
+    },
+    {
+      "ar": "دست",
+      "en": "tyranny"
+    },
+    {
+      "ar": "مبتلا",
+      "en": "victims"
+    },
+    {
+      "ar": "اظهر من الشّمس",
+      "en": "the splendour of the noon-tide sun"
+    },
+    {
+      "ar": "واضح",
+      "en": "obvious"
+    }
+  ],
+  "terms": [
+    {
+      "term": "سلطنت",
+      "transliteration": "s-l-ṭ",
+      "literal": "dominion; authority; power; sovereignty; control",
+      "se_rendering": "sovereignty",
+      "note": "Typically 'sovereignty' or 'dominion' (43 occ). SE uses 'sovereignty' here at passage opening, establishing the conceptual framework before critiquing its earthly interpretation.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 369,
+          "snippet": "sovereignty"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 151,
+          "snippet": "dominion"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 1,
+          "snippet": "Thy sovereignty"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 184,
+          "snippet": "by Thy sovereignty"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 416,
+          "snippet": "Lord"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 13,
+          "snippet": "O King"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 242,
+          "snippet": "king"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 157,
+          "snippet": "the Sháh"
+        }
+      ]
+    },
+    {
+      "term": "ظاهر",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "external",
+      "note": "Usually 'Manifestation' or 'manifestation' (96 occ). Here rendered 'external' twice, denoting material appearance rather than divine revelation—a functional rather than ontological sense.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 53,
+          "snippet": "Manifestation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 160,
+          "snippet": "Author of all Manifestations"
+        },
+        {
+          "work": "gleanings",
+          "para": 222,
+          "snippet": "material"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 206,
+          "snippet": "appeared"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 255,
+          "snippet": "Manifestations"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 791,
+          "snippet": "tokens of Thy handiwork"
+        }
+      ]
+    },
+    {
+      "term": "مستریح",
+      "transliteration": "r-w-h",
+      "literal": "rest; ease; comfort; tranquility",
+      "se_rendering": "peace",
+      "note": "Standard 'peace' or 'rest' (24 occ). SE uses 'peace' here to denote tranquility of the faithful, contrasting with the torment of enemies in the conditional sovereignty scenario.",
+      "cross_refs": [
+        {
+          "work": "the-hidden-words",
+          "para": 115,
+          "snippet": "ease"
+        },
+        {
+          "work": "gleanings",
+          "para": 417,
+          "snippet": "peace"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 78,
+          "snippet": "rest"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 426,
+          "snippet": "comfort"
+        },
+        {
+          "work": "gleanings",
+          "para": 10,
+          "snippet": "at rest"
+        },
+        {
+          "work": "gleanings",
+          "para": 712,
+          "snippet": "the wind"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 98,
+          "snippet": "Mortal blasts"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 161,
+          "snippet": "different winds"
+        }
+      ]
+    },
+    {
+      "term": "عظمت",
+      "transliteration": "ʿ-z̟-m",
+      "literal": "greatest; supreme; mightiest",
+      "se_rendering": "majesty",
+      "note": "Usually 'supreme' or 'Most Great' (63 occ). Here 'majesty' appeals to aesthetic grandeur and dignity, harmonizing with 'power' in the phrase about universal acknowledgment.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 56,
+          "snippet": "supreme"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 269,
+          "snippet": "Most Great"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 734,
+          "snippet": "Most Great Name"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 3,
+          "snippet": "greatest"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 6,
+          "snippet": "greater"
+        },
+        {
+          "work": "gleanings",
+          "para": 10,
+          "snippet": "most mighty"
+        },
+        {
+          "work": "gleanings",
+          "para": 392,
+          "snippet": "great"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 9,
+          "snippet": "mighty"
+        }
+      ]
+    },
+    {
+      "term": "رضای",
+      "transliteration": "r-d-y",
+      "literal": "good-pleasure, consent, satisfaction",
+      "se_rendering": "good-pleasure",
+      "note": "Consistently 'Thy pleasure' or 'good-pleasure' (30 occ). SE preserves 'good-pleasure' here, maintaining the archaic theological register appropriate to this elevated discourse.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 621,
+          "snippet": "Thy pleasure"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 410,
+          "snippet": "Thy good-pleasure"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 46,
+          "snippet": "content"
+        },
+        {
+          "work": "gleanings",
+          "para": 165,
+          "snippet": "consent"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 28,
+          "snippet": "is pleased with"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 41,
+          "snippet": "pleasure"
+        },
+        {
+          "work": "gleanings",
+          "para": 564,
+          "snippet": "goodly deeds"
+        },
+        {
+          "work": "gleanings",
+          "para": 598,
+          "snippet": "praiseworthy"
+        }
+      ]
+    },
+    {
+      "term": "معرض",
+      "transliteration": "ʿ-r-d",
+      "literal": "to turn away; to avert; to abstain; heedless",
+      "se_rendering": "turned away",
+      "note": "Standard rendering 'turned away' or 'turned aside' (47 occ). Applied here to humanity's collective aversion from God's will, reinforcing the paragraph's argument about divine power's earthly manifestation.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 136,
+          "snippet": "turned away"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 168,
+          "snippet": "turned aside"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 230,
+          "snippet": "disbelievers"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 505,
+          "snippet": "turned their backs"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 431,
+          "snippet": "have turned back"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 29,
+          "snippet": "hast turned away"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 104,
+          "snippet": "are turned back"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 14,
+          "snippet": "turns away"
+        }
+      ]
+    },
+    {
+      "term": "امر",
+      "transliteration": "ʾ-m-r",
+      "literal": "command; cause; matter; affair",
+      "se_rendering": "commanded",
+      "note": "Predominantly 'His Cause' or 'His Revelation' (75 occ). Here 'commanded' emphasizes the imperative dimension of divine will rather than the Cause's metaphysical status.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "His Cause"
+        },
+        {
+          "work": "gleanings",
+          "para": 586,
+          "snippet": "His command"
+        },
+        {
+          "work": "gleanings",
+          "para": 691,
+          "snippet": "His Revelation"
+        },
+        {
+          "work": "gleanings",
+          "para": 723,
+          "snippet": "Cause"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 797,
+          "snippet": "Thy Cause"
+        },
+        {
+          "work": "gleanings",
+          "para": 8,
+          "snippet": "Revelation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 597,
+          "snippet": "service"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 167,
+          "snippet": "things"
+        }
+      ]
+    },
+    {
+      "term": "مبتلا",
+      "transliteration": "b-l-ʾ",
+      "literal": "affliction; trial; calamity",
+      "se_rendering": "victims",
+      "note": "Typically 'trials' or 'tribulations' (27 occ). SE renders 'victims' here, shifting from abstract affliction to concrete suffering—sharpening the rhetorical force of the persecution argument.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 249,
+          "snippet": "trials"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 137,
+          "snippet": "Troubles"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 179,
+          "snippet": "tribulations"
+        },
+        {
+          "work": "gleanings",
+          "para": 660,
+          "snippet": "afflictions"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 63,
+          "snippet": "the lands"
+        },
+        {
+          "work": "gleanings",
+          "para": 498,
+          "snippet": "afflicted"
+        },
+        {
+          "work": "gleanings",
+          "para": 640,
+          "snippet": "subjected"
+        },
+        {
+          "work": "gleanings",
+          "para": 40,
+          "snippet": "Yea"
+        }
+      ]
+    }
+  ],
+  "section_index": "133",
+  "section": "133",
+  "section_para": 1
 }

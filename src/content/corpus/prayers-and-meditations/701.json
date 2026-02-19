@@ -1,10 +1,239 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 701,
   "source_text": "إِلهِي إِلهِي كَيْفَ أَخْتارُ النَّوْمَ وَعُيُوْنُ مُشْتاقِيْكَ ساهِرَةٌ فِي فِراقِكَ، وَكَيْفَ أَسْتَريحُ عَلَى الفِراشِ وَأَفْئِدَةُ عاشِقِيكَ مُضْطَرِبَةٌ مِنْ هَجْرِكَ، أَيْ رَبِّ",
   "translation": "How can I choose to sleep, O God, my God, when the eyes of them that long for Thee are wakeful because of their separation from Thee; and how can I lie down to rest whilst the souls of Thy lovers are sore vexed in their remoteness from Thy presence?",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "eyes-lovers-separation-god",
+  "alignment": [
+    {
+      "ar": "إِلهِي",
+      "en": "O God"
+    },
+    {
+      "ar": "إِلهِي",
+      "en": "my God"
+    },
+    {
+      "ar": "كَيْفَ",
+      "en": "How can"
+    },
+    {
+      "ar": "أَخْتارُ",
+      "en": "choose"
+    },
+    {
+      "ar": "عُيُوْنُ",
+      "en": "eyes"
+    },
+    {
+      "ar": "مُشْتاقِيْكَ",
+      "en": "them that long for Thee"
+    },
+    {
+      "ar": "ساهِرَةٌ",
+      "en": "wakeful"
+    },
+    {
+      "ar": "فِراقِكَ",
+      "en": "separation from Thee"
+    },
+    {
+      "ar": "كَيْفَ",
+      "en": "how can"
+    },
+    {
+      "ar": "أَسْتَريحُ",
+      "en": "lie down to rest"
+    },
+    {
+      "ar": "الفِراشِ",
+      "en": "rest"
+    },
+    {
+      "ar": "أَفْئِدَةُ",
+      "en": "souls"
+    },
+    {
+      "ar": "عاشِقِيكَ",
+      "en": "Thy lovers"
+    },
+    {
+      "ar": "مُضْطَرِبَةٌ",
+      "en": "sore vexed"
+    },
+    {
+      "ar": "هَجْرِكَ",
+      "en": "remoteness from Thy presence"
+    }
+  ],
+  "terms": [
+    {
+      "term": "أَخْتارُ",
+      "transliteration": "kh-t-m",
+      "literal": "to seal; to conclude; to end; seal",
+      "se_rendering": "choose",
+      "note": "Root kh-t-m typically rendered 'seal' (21 occurrences across corpus). Here SE deviates to 'choose,' selecting the etymologically related sense of deliberate selection that fits the ethical rhetorical question.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 31,
+          "snippet": "seal"
+        },
+        {
+          "work": "gleanings",
+          "para": 695,
+          "snippet": "sealed"
+        },
+        {
+          "work": "gleanings",
+          "para": 114,
+          "snippet": "finality of the Seal"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 178,
+          "snippet": "Seal of the Prophets"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 226,
+          "snippet": "as a ring"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 287,
+          "snippet": "We conclude"
+        }
+      ]
+    },
+    {
+      "term": "النَّوْمَ",
+      "transliteration": "n-w-m",
+      "literal": "to sleep; to slumber",
+      "se_rendering": "sleep",
+      "note": "Root n-w-m predominantly rendered 'sleep' (17 occurrences). SE maintains literal sense here; notably absent are corpus outliers like 'Most Great Law' or 'Qayyúmu'l-Asmá' that appear in theological contexts.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 33,
+          "snippet": "sleepeth not"
+        },
+        {
+          "work": "gleanings",
+          "para": 191,
+          "snippet": "slumber"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 37,
+          "snippet": "sleep"
+        },
+        {
+          "work": "gleanings",
+          "para": 425,
+          "snippet": "Most Great Law"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 259,
+          "snippet": "Qayyúmu'l-Asmá"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 121,
+          "snippet": "name"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 24,
+          "snippet": "the people"
+        },
+        {
+          "work": "gleanings",
+          "para": 446,
+          "snippet": "among mankind"
+        }
+      ]
+    },
+    {
+      "term": "مُشْتاقِيْكَ",
+      "transliteration": "sh-t-w-q",
+      "literal": "longing; yearning; desirous",
+      "se_rendering": "them that long for Thee",
+      "note": "Root sh-t-w-q shows zero corpus occurrences in Jafar data despite appearing here. SE renders 'them that long for Thee,' establishing this yearning term's first documented rendering in the SE corpus.",
+      "cross_refs": []
+    },
+    {
+      "term": "ساهِرَةٌ",
+      "transliteration": "s-h-r",
+      "literal": "wakeful; sleepless; vigilant",
+      "se_rendering": "wakeful",
+      "note": "Root s-h-r appears only once in Jafar data. SE renders 'wakeful,' a literal and singular documented usage suggesting minimal variation across the corpus for this vigilance term.",
+      "cross_refs": []
+    },
+    {
+      "term": "أَسْتَريحُ",
+      "transliteration": "r-w-h",
+      "literal": "rest; ease; comfort; tranquility",
+      "se_rendering": "lie down to rest",
+      "note": "Root r-y-h typically 'rest' or 'ease' (24 occurrences). SE expands here to 'lie down to rest,' adding physical posture detail absent from abstract renderings like 'peace' or 'comfort' seen elsewhere.",
+      "cross_refs": [
+        {
+          "work": "the-hidden-words",
+          "para": 115,
+          "snippet": "ease"
+        },
+        {
+          "work": "gleanings",
+          "para": 417,
+          "snippet": "peace"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 78,
+          "snippet": "rest"
+        },
+        {
+          "work": "gleanings",
+          "para": 10,
+          "snippet": "at rest"
+        },
+        {
+          "work": "gleanings",
+          "para": 712,
+          "snippet": "the wind"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 98,
+          "snippet": "Mortal blasts"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 161,
+          "snippet": "different winds"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 22,
+          "snippet": "fellowship"
+        }
+      ]
+    },
+    {
+      "term": "مُضْطَرِبَةٌ",
+      "transliteration": "ḍ-ṭ-r",
+      "literal": "to be troubled, shaken, agitated; to tremble",
+      "se_rendering": "sore vexed",
+      "note": "Root ḍ-ṭ-r shows single corpus occurrence. SE renders 'sore vexed,' an archaic English intensification emphasizing emotional perturbation beyond the root's literal 'trembled' or 'agitated' sense.",
+      "cross_refs": []
+    }
+  ],
+  "section_index": "CLXXII.1",
+  "section": "CLXXII",
+  "section_para": 1
 }

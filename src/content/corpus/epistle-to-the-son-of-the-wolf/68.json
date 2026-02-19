@@ -1,10 +1,646 @@
 {
   "work": "Epistle to the Son of the Wolf",
   "slug": "epistle-to-the-son-of-the-wolf",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 68,
   "source_text": "يا سلطان لو تسمع صرير القلم الاعلی و هدير ورقاء البقاء علی افنان سدرة المنتهی فی ذکر اللّه موجد الاسماء و خالق الارض و السّماء ليبلّغک الی مقام لا تری فی الوجود الّا تجلّی حضرة المعبود و تری الملک احقر شیء عندک تضعه لمن اراد و تتوجّه الی افق کان بانوار الوجه مضيئا و لا تحمل ثقل الملک ابدا الّا لنصرة ربّک العليّ الاعلی * اذا يُصَلِّی عليک الملأ الاعلی حبّذا هذا المقام الاسنی لو ترتقی اليه بسلطان کان باسم اللّه معروفا *",
   "translation": "\"O King! Wert thou to incline thine ears unto the shrill voice of the Pen of Glory and the cooing of the Dove of Eternity, which on the branches of the Lote-Tree beyond which there is no passing, uttereth praises to God, the Maker of all Names and the Creator of earth and heaven, thou wouldst attain unto a station from which thou wouldst behold in the world of being naught save the effulgence of the Adored One, and wouldst regard thy sovereignty as the most contemptible of thy possessions, abandoning it to whosoever might desire it, and setting thy face toward the Horizon aglow with the light of His countenance. Neither wouldst thou ever be willing to bear the burden of dominion save for the purpose of helping thy Lord, the Exalted, the Most High. Then would the Concourse on high bless thee. O how excellent is this most sublime station, couldst thou ascend thereunto through the power of a sovereignty recognized as derived from the Name of God!\"",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "sovereignty-divine-station-horizon",
+  "alignment": [
+    {
+      "ar": "يا",
+      "en": "O"
+    },
+    {
+      "ar": "سلطان",
+      "en": "King"
+    },
+    {
+      "ar": "لو",
+      "en": "Wert thou"
+    },
+    {
+      "ar": "تسمع",
+      "en": "to incline thine ears"
+    },
+    {
+      "ar": "صرير",
+      "en": "shrill voice"
+    },
+    {
+      "ar": "القلم",
+      "en": "Pen"
+    },
+    {
+      "ar": "الاعلی",
+      "en": "Glory"
+    },
+    {
+      "ar": "هدير",
+      "en": "cooing"
+    },
+    {
+      "ar": "ورقاء",
+      "en": "Dove"
+    },
+    {
+      "ar": "البقاء",
+      "en": "Eternity"
+    },
+    {
+      "ar": "افنان",
+      "en": "branches"
+    },
+    {
+      "ar": "سدرة",
+      "en": "Lote-Tree"
+    },
+    {
+      "ar": "المنتهی",
+      "en": "beyond which there is no passing"
+    },
+    {
+      "ar": "ذکر",
+      "en": "praises"
+    },
+    {
+      "ar": "اللّه",
+      "en": "God"
+    },
+    {
+      "ar": "موجد",
+      "en": "Maker"
+    },
+    {
+      "ar": "الاسماء",
+      "en": "Names"
+    },
+    {
+      "ar": "خالق",
+      "en": "Creator"
+    },
+    {
+      "ar": "الارض",
+      "en": "earth"
+    },
+    {
+      "ar": "السّماء",
+      "en": "heaven"
+    },
+    {
+      "ar": "ليبلّغک",
+      "en": "thou wouldst attain"
+    },
+    {
+      "ar": "مقام",
+      "en": "station"
+    },
+    {
+      "ar": "لا",
+      "en": "naught"
+    },
+    {
+      "ar": "تری",
+      "en": "behold"
+    },
+    {
+      "ar": "الوجود",
+      "en": "world of being"
+    },
+    {
+      "ar": "الّا",
+      "en": "save"
+    },
+    {
+      "ar": "تجلّی",
+      "en": "effulgence"
+    },
+    {
+      "ar": "حضرة",
+      "en": "the Adored"
+    },
+    {
+      "ar": "المعبود",
+      "en": "One"
+    },
+    {
+      "ar": "الملک",
+      "en": "sovereignty"
+    },
+    {
+      "ar": "احقر",
+      "en": "most contemptible"
+    },
+    {
+      "ar": "شیء",
+      "en": "possessions"
+    },
+    {
+      "ar": "عندک",
+      "en": "thy"
+    },
+    {
+      "ar": "تضعه",
+      "en": "abandoning"
+    },
+    {
+      "ar": "من",
+      "en": "whosoever"
+    },
+    {
+      "ar": "اراد",
+      "en": "desire"
+    },
+    {
+      "ar": "تتوجّه",
+      "en": "setting thy face"
+    },
+    {
+      "ar": "افق",
+      "en": "Horizon"
+    },
+    {
+      "ar": "کان",
+      "en": "aglow"
+    },
+    {
+      "ar": "بانوار",
+      "en": "light"
+    },
+    {
+      "ar": "الوجه",
+      "en": "countenance"
+    },
+    {
+      "ar": "مضيئا",
+      "en": "with the light"
+    },
+    {
+      "ar": "تحمل",
+      "en": "bear"
+    },
+    {
+      "ar": "ثقل",
+      "en": "burden"
+    },
+    {
+      "ar": "ابدا",
+      "en": "ever"
+    },
+    {
+      "ar": "لنصرة",
+      "en": "helping"
+    },
+    {
+      "ar": "ربّک",
+      "en": "thy Lord"
+    },
+    {
+      "ar": "العليّ",
+      "en": "Exalted"
+    },
+    {
+      "ar": "الاعلی",
+      "en": "Most High"
+    },
+    {
+      "ar": "اذا",
+      "en": "Then"
+    },
+    {
+      "ar": "عليک",
+      "en": "thee"
+    },
+    {
+      "ar": "الملأ الاعلی",
+      "en": "Concourse on high"
+    },
+    {
+      "ar": "حبّذا",
+      "en": "how excellent"
+    },
+    {
+      "ar": "هذا",
+      "en": "this"
+    },
+    {
+      "ar": "الاسنی",
+      "en": "most sublime"
+    },
+    {
+      "ar": "ترتقی",
+      "en": "ascend"
+    },
+    {
+      "ar": "اليه",
+      "en": "thereunto"
+    },
+    {
+      "ar": "باسم",
+      "en": "Name"
+    },
+    {
+      "ar": "معروفا",
+      "en": "recognized"
+    }
+  ],
+  "terms": [
+    {
+      "term": "سلطان",
+      "transliteration": "s-l-ṭ",
+      "literal": "dominion; authority; power; sovereignty; control",
+      "se_rendering": "sovereignty",
+      "note": "Consistently 'sovereignty' or 'dominion' across 43 occurrences. Appears twice here with parallel weight, reinforcing the paradox of power relinquished for divine service.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 369,
+          "snippet": "sovereignty"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 151,
+          "snippet": "dominion"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 1,
+          "snippet": "Thy sovereignty"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 184,
+          "snippet": "by Thy sovereignty"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 416,
+          "snippet": "Lord"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 242,
+          "snippet": "king"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 1,
+          "snippet": "the King"
+        },
+        {
+          "work": "gleanings",
+          "para": 472,
+          "snippet": "King (Sulṭán 'Abdu'l-'Azíz)"
+        }
+      ]
+    },
+    {
+      "term": "ورقاء",
+      "transliteration": "w-r-q",
+      "literal": "leaf, page, sheet, parchment, document",
+      "se_rendering": "Dove",
+      "note": "Appears as 'Nightingale' or 'Scroll' in concordance (28 occ); here 'Dove.' SE employs ornithological symbolism, shifting from textual to avian imagery for mystical utterance.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 30,
+          "snippet": "written paper"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 2,
+          "snippet": "Nightingale"
+        },
+        {
+          "work": "gleanings",
+          "para": 494,
+          "snippet": "snow-white Scroll"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 38,
+          "snippet": "lines"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 751,
+          "snippet": "leaf"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 34,
+          "snippet": "leaves"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 34,
+          "snippet": "scrolls"
+        },
+        {
+          "work": "gleanings",
+          "para": 56,
+          "snippet": "foliage"
+        }
+      ]
+    },
+    {
+      "term": "البقاء",
+      "transliteration": "b-q-y",
+      "literal": "remaining; everlasting; eternal; immortal",
+      "se_rendering": "Eternity",
+      "note": "Typically 'everlasting' or 'immortal' (32 occurrences). 'Dove of Eternity' personifies the attribute as a celestial messenger — SE's metaphorical elevation of the concept.",
+      "cross_refs": [
+        {
+          "work": "the-hidden-words",
+          "para": 88,
+          "snippet": "everlasting beauty"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 98,
+          "snippet": "everlasting candle"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 117,
+          "snippet": "immortal sovereignty"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 110,
+          "snippet": "everlasting torch of divine guidance"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 56,
+          "snippet": "refrain"
+        },
+        {
+          "work": "gleanings",
+          "para": 148,
+          "snippet": "everlasting"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 259,
+          "snippet": "O thou Remnant of God"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 798,
+          "snippet": "eternity"
+        }
+      ]
+    },
+    {
+      "term": "مقام",
+      "transliteration": "q-w-m",
+      "literal": "rising; standing; uprising; resurrection",
+      "se_rendering": "station",
+      "note": "Root q-w-m typically renders as 'Resurrection' or 'rising' (109 occurrences). Here 'station' marks a spiritual achievement rather than eschatological event — SE adapts the metaphysical sense.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 152,
+          "snippet": "Day of Resurrection"
+        },
+        {
+          "work": "gleanings",
+          "para": 437,
+          "snippet": "arise"
+        },
+        {
+          "work": "gleanings",
+          "para": 513,
+          "snippet": "dedicateth"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 153,
+          "snippet": "Resurrection"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "peoples"
+        },
+        {
+          "work": "gleanings",
+          "para": 693,
+          "snippet": "commandments"
+        },
+        {
+          "work": "gleanings",
+          "para": 628,
+          "snippet": "My commandments"
+        },
+        {
+          "work": "gleanings",
+          "para": 518,
+          "snippet": "steadfast"
+        }
+      ]
+    },
+    {
+      "term": "المعبود",
+      "transliteration": "ʿ-b-d",
+      "literal": "servant; slave; worshipper",
+      "se_rendering": "Adored One",
+      "note": "Usually 'servant' or 'Thy servant' (68 occurrences); here uniquely 'Adored One' referring to God. SE's only such rendering in the concordance — a rare theological pivot.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 279,
+          "snippet": "Thy servants"
+        },
+        {
+          "work": "gleanings",
+          "para": 686,
+          "snippet": "servants"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 27,
+          "snippet": "'Abdu'l‑Bahá"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 204,
+          "snippet": "Thy servant"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 663,
+          "snippet": "servant"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 10,
+          "snippet": "this wronged servant of Thine"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 47,
+          "snippet": "this servant of Thine"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 50,
+          "snippet": "the servants"
+        }
+      ]
+    },
+    {
+      "term": "تتوجّه",
+      "transliteration": "w-j-h",
+      "literal": "face; countenance; direction; aspect",
+      "se_rendering": "setting thy face",
+      "note": "Root w-j-h renders as 'faces' or 'turned' (64 occurrences); here 'setting thy face toward.' SE preserves directional intentionality while poeticizing the surrender gesture.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 503,
+          "snippet": "their faces"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 246,
+          "snippet": "faces"
+        },
+        {
+          "work": "gleanings",
+          "para": 596,
+          "snippet": "eyes"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 162,
+          "snippet": "turned"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 306,
+          "snippet": "set their faces"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 16,
+          "snippet": "unto Mine"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 498,
+          "snippet": "his face"
+        },
+        {
+          "work": "gleanings",
+          "para": 273,
+          "snippet": "face"
+        }
+      ]
+    },
+    {
+      "term": "بانوار",
+      "transliteration": "n-w-r",
+      "literal": "light; illumination",
+      "se_rendering": "with the light",
+      "note": "Standardly 'light' or 'with the light' (78 occurrences). Here 'with the light of His countenance' — SE maintains the root but amplifies its divine-relational tenor.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 583,
+          "snippet": "light"
+        },
+        {
+          "work": "gleanings",
+          "para": 230,
+          "snippet": "Orb of Light"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 114,
+          "snippet": "with the light"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 109,
+          "snippet": "Thy light"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 246,
+          "snippet": "Illumine"
+        },
+        {
+          "work": "gleanings",
+          "para": 235,
+          "snippet": "glory"
+        },
+        {
+          "work": "gleanings",
+          "para": 597,
+          "snippet": "fire"
+        },
+        {
+          "work": "gleanings",
+          "para": 458,
+          "snippet": "fire of God"
+        }
+      ]
+    },
+    {
+      "term": "معروفا",
+      "transliteration": "ʿ-r-f",
+      "literal": "to confess; to acknowledge; to recognize",
+      "se_rendering": "recognized as derived",
+      "note": "Root ʿ-r-f typically 'recognized' or 'acknowledged' (82 occurrences). 'Recognized as derived from the Name' — SE's rendering emphasizes epistemological authentication rather than mere acknowledgment.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 601,
+          "snippet": "testifieth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 729,
+          "snippet": "hath acknowledged"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 582,
+          "snippet": "have recognized"
+        },
+        {
+          "work": "gleanings",
+          "para": 568,
+          "snippet": "acknowledged"
+        },
+        {
+          "work": "gleanings",
+          "para": 295,
+          "snippet": "made objections"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 744,
+          "snippet": "understanding"
+        },
+        {
+          "work": "gleanings",
+          "para": 87,
+          "snippet": "knowledge"
+        },
+        {
+          "work": "gleanings",
+          "para": 2,
+          "snippet": "perception"
+        }
+      ]
+    }
+  ],
+  "section_index": "68",
+  "section": "68",
+  "section_para": 1
 }

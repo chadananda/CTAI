@@ -1,10 +1,627 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 219,
   "source_text": "قلنا و قولنا الحقّ ثمّ اعلم بأنّ لیس هذا أوّل وهن نزل علی بیتي وقد نزل من قبل بما اکتسبت أیدي الظّالمین وسینزل علیه من الذّلّة ما تجري به الدّموع عن کلّ بصر بصیر کذلك ألقیناك بما هو المستور في حجب الغیب وما اطّلع به أحد إلّا الله العزیز الحمید ثمّ تمضي أیّام یرفعه الله بالحقّ ویجعله عَلَمًا في الملك بحیث یطوف في حوله ملأ عارفون هذا قول ربّي من قبل أن یأتي یوم الفزع قد أخبرناك به في هذا اللّوح لئلّا یحزنك ما ورد علی البیت بما اكتسبت أیدي المعتدین والحمد للّه العلیم الحکیم",
   "translation": "To him We have written: This is not the first humiliation inflicted upon My House. In days gone by the hand of the oppressor hath heaped indignities upon it. Verily, it shall be so abased in the days to come as to cause tears to flow from every discerning eye. Thus have We unfolded to thee things hidden beyond the veil, inscrutable to all save God, the Almighty, the All-Praised. In the fullness of time, the Lord shall, by the power of truth, exalt it in the eyes of all men. He shall cause it to become the Standard of His Kingdom, the Shrine round which will circle the concourse of the faithful. Thus hath spoken the Lord, thy God, ere the day of lamentation arriveth. This revelation have We given thee in Our holy Tablet, lest thou sorrow for what hath befallen Our House through the assaults of the enemy. All praise be to God, the All-Knowing, the All-Wise.",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "standard-kingdom-exalt-house",
+  "alignment": [
+    {
+      "ar": "قلنا",
+      "en": "We have written"
+    },
+    {
+      "ar": "الحقّ",
+      "en": "truth"
+    },
+    {
+      "ar": "اعلم",
+      "en": "have We given thee"
+    },
+    {
+      "ar": "لیس",
+      "en": "not"
+    },
+    {
+      "ar": "هذا",
+      "en": "This"
+    },
+    {
+      "ar": "أوّل",
+      "en": "first"
+    },
+    {
+      "ar": "وهن",
+      "en": "humiliation"
+    },
+    {
+      "ar": "نزل",
+      "en": "inflicted"
+    },
+    {
+      "ar": "بیتي",
+      "en": "My House"
+    },
+    {
+      "ar": "نزل",
+      "en": "heaped"
+    },
+    {
+      "ar": "من قبل",
+      "en": "In days gone by"
+    },
+    {
+      "ar": "اکتسبت",
+      "en": "assaults"
+    },
+    {
+      "ar": "أیدي",
+      "en": "hand"
+    },
+    {
+      "ar": "الظّالمین",
+      "en": "oppressor"
+    },
+    {
+      "ar": "سینزل",
+      "en": "shall"
+    },
+    {
+      "ar": "علیه",
+      "en": "it"
+    },
+    {
+      "ar": "الذّلّة",
+      "en": "abased"
+    },
+    {
+      "ar": "تجري",
+      "en": "flow"
+    },
+    {
+      "ar": "الدّموع",
+      "en": "tears"
+    },
+    {
+      "ar": "کلّ",
+      "en": "every"
+    },
+    {
+      "ar": "بصر",
+      "en": "eye"
+    },
+    {
+      "ar": "بصیر",
+      "en": "discerning"
+    },
+    {
+      "ar": "ألقیناك",
+      "en": "have We unfolded to thee"
+    },
+    {
+      "ar": "المستور",
+      "en": "hidden"
+    },
+    {
+      "ar": "حجب",
+      "en": "veil"
+    },
+    {
+      "ar": "اطّلع",
+      "en": "inscrutable"
+    },
+    {
+      "ar": "أحد",
+      "en": "all"
+    },
+    {
+      "ar": "إلّا",
+      "en": "save"
+    },
+    {
+      "ar": "الله",
+      "en": "God"
+    },
+    {
+      "ar": "العزیز",
+      "en": "Almighty"
+    },
+    {
+      "ar": "الحمید",
+      "en": "All-Praised"
+    },
+    {
+      "ar": "تمضي",
+      "en": "fullness"
+    },
+    {
+      "ar": "أیّام",
+      "en": "time"
+    },
+    {
+      "ar": "یرفعه",
+      "en": "exalt it"
+    },
+    {
+      "ar": "الله",
+      "en": "Lord"
+    },
+    {
+      "ar": "بالحقّ",
+      "en": "by the power of truth"
+    },
+    {
+      "ar": "یجعله",
+      "en": "cause it to become"
+    },
+    {
+      "ar": "عَلَمًا",
+      "en": "Standard"
+    },
+    {
+      "ar": "الملك",
+      "en": "Kingdom"
+    },
+    {
+      "ar": "بحیث",
+      "en": "round which"
+    },
+    {
+      "ar": "یطوف",
+      "en": "circle"
+    },
+    {
+      "ar": "حوله",
+      "en": "round"
+    },
+    {
+      "ar": "ملأ",
+      "en": "concourse"
+    },
+    {
+      "ar": "عارفون",
+      "en": "faithful"
+    },
+    {
+      "ar": "قول",
+      "en": "spoken"
+    },
+    {
+      "ar": "یأتي",
+      "en": "arriveth"
+    },
+    {
+      "ar": "یوم",
+      "en": "day"
+    },
+    {
+      "ar": "الفزع",
+      "en": "lamentation"
+    },
+    {
+      "ar": "أخبرناك",
+      "en": "revelation have We given thee"
+    },
+    {
+      "ar": "اللّوح",
+      "en": "Tablet"
+    },
+    {
+      "ar": "لئلّا",
+      "en": "lest"
+    },
+    {
+      "ar": "یحزنك",
+      "en": "sorrow"
+    },
+    {
+      "ar": "ورد",
+      "en": "befallen"
+    },
+    {
+      "ar": "البیت",
+      "en": "House"
+    },
+    {
+      "ar": "المعتدین",
+      "en": "enemy"
+    },
+    {
+      "ar": "الحمد",
+      "en": "praise"
+    },
+    {
+      "ar": "العلیم",
+      "en": "All-Knowing"
+    },
+    {
+      "ar": "الحکیم",
+      "en": "All-Wise"
+    }
+  ],
+  "terms": [
+    {
+      "term": "نزل",
+      "transliteration": "n-z-l",
+      "literal": "to descend, to be revealed",
+      "se_rendering": "inflicted upon; shall be so abased",
+      "note": "Standard renderings include 'sent down,' 'revealed,' 'descended' across 88 occurrences. Split rendering here—'inflicted upon' and 'abased'—transforms descent metaphor into degradation.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 188,
+          "snippet": "revealed"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 175,
+          "snippet": "didst send down"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 835,
+          "snippet": "sent down"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 34,
+          "snippet": "Descend"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 47,
+          "snippet": "pour forth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 330,
+          "snippet": "send down"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 40,
+          "snippet": "were revealed"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 16,
+          "snippet": "hath been sent down"
+        }
+      ]
+    },
+    {
+      "term": "الظّالمین",
+      "transliteration": "z-l-m",
+      "literal": "wrongedness, oppression, meekness; state of being wronged or oppressed",
+      "se_rendering": "oppressor",
+      "note": "Typically rendered as 'wronged' or 'afflicted' across 128 occurrences. Here 'oppressor' shifts focus from the wronged to the wrongdoer—unique polarity reversal in this passage.",
+      "cross_refs": [
+        {
+          "work": "fire-tablet",
+          "para": 49,
+          "snippet": "meekness"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 116,
+          "snippet": "injury"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 36,
+          "snippet": "Wronged One"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 253,
+          "snippet": "wronged"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 9,
+          "snippet": "Darkness"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 33,
+          "snippet": "tyranny"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 573,
+          "snippet": "oppressed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 181,
+          "snippet": "wronged ones"
+        }
+      ]
+    },
+    {
+      "term": "المستور",
+      "transliteration": "s-t-r",
+      "literal": "to veil; to conceal; to cover; veil; covering",
+      "se_rendering": "hidden beyond the veil",
+      "note": "Usually 'hidden,' 'concealed,' 'wrapt within the veil' across 22 occurrences. 'Hidden beyond the veil' here emphasizes epistemic distance and divine concealment simultaneously.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 8,
+          "snippet": "concealed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 17,
+          "snippet": "hidden"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 35,
+          "snippet": "star"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 46,
+          "snippet": "tabernacle"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 45,
+          "snippet": "Concealer"
+        }
+      ]
+    },
+    {
+      "term": "حجب",
+      "transliteration": "ḥ-j-b",
+      "literal": "to veil oneself, to be veiled",
+      "se_rendering": "veil",
+      "note": "Consistently 'veil' or 'veiling' across 37 occurrences. Singular, definitive usage here—'the veil'—becomes boundary of all knowable reality in this context.",
+      "cross_refs": [
+        {
+          "work": "the-hidden-words",
+          "para": 33,
+          "snippet": "veil thyself"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 234,
+          "snippet": "veiling yourselves"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 22,
+          "snippet": "veiled"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 533,
+          "snippet": "the veil"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 150,
+          "snippet": "the veil of heedlessness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 175,
+          "snippet": "veiled from"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 214,
+          "snippet": "deprived"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 858,
+          "snippet": "which come in between us"
+        }
+      ]
+    },
+    {
+      "term": "یرفعه",
+      "transliteration": "r-f-ʿ",
+      "literal": "to be raised, elevated, exalted, lifted up",
+      "se_rendering": "exalt",
+      "note": "Typically 'exalt,' 'elevated,' 'raised' across 45 occurrences. 'Exalt' here appears as divine action restoring what was abased—redemptive trajectory after preceding humiliation.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 52,
+          "snippet": "elevated heavens"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 11,
+          "snippet": "was hoisted"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 15,
+          "snippet": "exalted"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 227,
+          "snippet": "exaltation"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 210,
+          "snippet": "lift up"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 4,
+          "snippet": "are uplifted"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 285,
+          "snippet": "uplifted"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 43,
+          "snippet": "have We abolished"
+        }
+      ]
+    },
+    {
+      "term": "الملك",
+      "transliteration": "m-l-k",
+      "literal": "kingdom; dominion; realm; sovereignty",
+      "se_rendering": "Kingdom",
+      "note": "Typically 'kingdom,' 'realm,' 'heaven' across 70 occurrences. 'Kingdom' here acquires cosmic significance—the House becomes celestial standard, not earthly dominion.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-ahd",
+          "para": 16,
+          "snippet": "heaven"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 171,
+          "snippet": "kingdom"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 69,
+          "snippet": "realms"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 28,
+          "snippet": "righteous"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 167,
+          "snippet": "by the heavenly power"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 57,
+          "snippet": "Ruler"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 82,
+          "snippet": "King"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 102,
+          "snippet": "Lord of all mankind"
+        }
+      ]
+    },
+    {
+      "term": "عارفون",
+      "transliteration": "ʿ-r-f",
+      "literal": "to confess; to acknowledge; to recognize",
+      "se_rendering": "the faithful",
+      "note": "Usually 'recognized,' 'acknowledged,' 'testifieth' across 82 occurrences. 'The faithful' here is interpretive—transforms epistemological recognition into communal devotion and witness.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 601,
+          "snippet": "testifieth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 729,
+          "snippet": "hath acknowledged"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 582,
+          "snippet": "have recognized"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 228,
+          "snippet": "acknowledged"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 744,
+          "snippet": "understanding"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 5,
+          "snippet": "acknowledging"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 4,
+          "snippet": "fragrance of His garment"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 114,
+          "snippet": "Thy knowledge"
+        }
+      ]
+    },
+    {
+      "term": "یحزنك",
+      "transliteration": "h-z-n",
+      "literal": "sorrow; grief; sadness; anguish",
+      "se_rendering": "sorrow",
+      "note": "Standard renderings 'sorrow,' 'grieve,' 'anguish' across 23 occurrences. 'Sorrow' here carries consolatory force—divine explanation preempts human grief before it arises.",
+      "cross_refs": [
+        {
+          "work": "fire-tablet",
+          "para": 12,
+          "snippet": "Sorrows"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 57,
+          "snippet": "sorrow"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 35,
+          "snippet": "Grieve Thou not"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 36,
+          "snippet": "Sorrow not"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 54,
+          "snippet": "be not sad"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 11,
+          "snippet": "affliction"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 16,
+          "snippet": "his sadness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 217,
+          "snippet": "Let nothing grieve thee"
+        }
+      ]
+    }
+  ],
+  "section_index": "LVIII.2",
+  "section": "LVIII",
+  "section_para": 2
 }

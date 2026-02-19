@@ -1,10 +1,654 @@
 {
   "work": "Kitab-i-Iqan",
   "slug": "kitab-i-iqan",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 199,
   "source_text": "باری، در کلمات شموس حقيقت بايد تفکّر نمود و اگر ادراک نشد بايد از واقفين مخازن علم سؤال شود تا بيان فرمايند و رفع اشکال نمايند نه آنکه به عقل ناقص خود کلمات قدسيّه را تفسير نمايند و چون مطابق نفس و هوای خود نيابند بنای ردّ و اعتراض گذارند.  چنانچه اليوم علماء و فقهای عصر که بر مسند علم و فضل نشستهاند و جهل را علم نام گذاشتهاند و ظلم را عدل ناميدهاند اگر مجعولات خاطر خود را از شمس حقيقی سؤال نمايند و جواب موافق آنچه فهميده و يا از کتاب  مثل خود ادراک نمودهاند نشنوند البتّه نفی علم از آن معدن و منبع علم نمايند. چنانچه در هر زمانی اين واقع شد.",
   "translation": "Those words uttered by the Luminaries of Truth must needs be pondered, and should their significance be not grasped, enlightenment should be sought from the Trustees of the depositories of Knowledge, that these may expound their meaning, and unravel their mystery. For it behooveth no man to interpret the holy words according to his own imperfect understanding, nor, having found them to be contrary to his inclination and desires, to reject and repudiate their truth. For such, today, is the manner of the divines and doctors of the age, who occupy the seats of knowledge and learning, and who have named ignorance knowledge, and called oppression justice. Were these to ask the Light of Truth concerning those images which their idle fancy hath carved, and were they to find His answer inconsistent with their own conceptions and their own understanding of the Book, they would assuredly denounce Him Who is the Mine and Wellhead of all Knowledge as the very negation of understanding. Such things have happened in every age.",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "luminaries-truth-holy-words",
+  "alignment": [
+    {
+      "ar": "باری",
+      "en": "For"
+    },
+    {
+      "ar": "کلمات",
+      "en": "words"
+    },
+    {
+      "ar": "شموس",
+      "en": "Luminaries"
+    },
+    {
+      "ar": "حقيقت",
+      "en": "Truth"
+    },
+    {
+      "ar": "بايد",
+      "en": "must needs"
+    },
+    {
+      "ar": "تفکّر",
+      "en": "pondered"
+    },
+    {
+      "ar": "نمود",
+      "en": "be"
+    },
+    {
+      "ar": "اگر",
+      "en": "should"
+    },
+    {
+      "ar": "ادراک",
+      "en": "significance"
+    },
+    {
+      "ar": "نشد",
+      "en": "not grasped"
+    },
+    {
+      "ar": "واقفين",
+      "en": "Trustees"
+    },
+    {
+      "ar": "مخازن",
+      "en": "depositories"
+    },
+    {
+      "ar": "علم",
+      "en": "Knowledge"
+    },
+    {
+      "ar": "سؤال",
+      "en": "enlightenment should be sought"
+    },
+    {
+      "ar": "شود",
+      "en": "be sought"
+    },
+    {
+      "ar": "بيان",
+      "en": "expound"
+    },
+    {
+      "ar": "فرمايند",
+      "en": "may expound"
+    },
+    {
+      "ar": "رفع",
+      "en": "unravel"
+    },
+    {
+      "ar": "اشکال",
+      "en": "mystery"
+    },
+    {
+      "ar": "نه آنکه",
+      "en": "For it behooveth no man"
+    },
+    {
+      "ar": "عقل",
+      "en": "understanding"
+    },
+    {
+      "ar": "ناقص",
+      "en": "imperfect"
+    },
+    {
+      "ar": "خود",
+      "en": "his own"
+    },
+    {
+      "ar": "قدسيّه",
+      "en": "holy"
+    },
+    {
+      "ar": "تفسير",
+      "en": "interpret"
+    },
+    {
+      "ar": "نمايند",
+      "en": "to interpret"
+    },
+    {
+      "ar": "چون",
+      "en": "having found"
+    },
+    {
+      "ar": "مطابق",
+      "en": "inconsistent"
+    },
+    {
+      "ar": "نفس",
+      "en": "inclination"
+    },
+    {
+      "ar": "هوای",
+      "en": "desires"
+    },
+    {
+      "ar": "نيابند",
+      "en": "contrary"
+    },
+    {
+      "ar": "بنای",
+      "en": "to reject"
+    },
+    {
+      "ar": "ردّ",
+      "en": "reject"
+    },
+    {
+      "ar": "اعتراض",
+      "en": "repudiate"
+    },
+    {
+      "ar": "چنانچه",
+      "en": "For such"
+    },
+    {
+      "ar": "اليوم",
+      "en": "today"
+    },
+    {
+      "ar": "علماء",
+      "en": "divines"
+    },
+    {
+      "ar": "فقهای",
+      "en": "doctors"
+    },
+    {
+      "ar": "عصر",
+      "en": "age"
+    },
+    {
+      "ar": "مسند",
+      "en": "seats"
+    },
+    {
+      "ar": "علم",
+      "en": "knowledge"
+    },
+    {
+      "ar": "فضل",
+      "en": "learning"
+    },
+    {
+      "ar": "نشستهاند",
+      "en": "occupy"
+    },
+    {
+      "ar": "جهل",
+      "en": "ignorance"
+    },
+    {
+      "ar": "نام",
+      "en": "named"
+    },
+    {
+      "ar": "ظلم",
+      "en": "oppression"
+    },
+    {
+      "ar": "عدل",
+      "en": "justice"
+    },
+    {
+      "ar": "ناميدهاند",
+      "en": "called"
+    },
+    {
+      "ar": "مجعولات",
+      "en": "images"
+    },
+    {
+      "ar": "خاطر",
+      "en": "fancy"
+    },
+    {
+      "ar": "خود",
+      "en": "their idle"
+    },
+    {
+      "ar": "شمس",
+      "en": "Light"
+    },
+    {
+      "ar": "سؤال",
+      "en": "ask"
+    },
+    {
+      "ar": "جواب",
+      "en": "answer"
+    },
+    {
+      "ar": "موافق",
+      "en": "consistent"
+    },
+    {
+      "ar": "کتاب",
+      "en": "Book"
+    },
+    {
+      "ar": "ادراک",
+      "en": "conceptions"
+    },
+    {
+      "ar": "نشنوند",
+      "en": "find"
+    },
+    {
+      "ar": "البتّه",
+      "en": "assuredly"
+    },
+    {
+      "ar": "نفی",
+      "en": "negation"
+    },
+    {
+      "ar": "معدن",
+      "en": "Mine"
+    },
+    {
+      "ar": "منبع",
+      "en": "Wellhead"
+    },
+    {
+      "ar": "نمايند",
+      "en": "denounce"
+    },
+    {
+      "ar": "چنانچه",
+      "en": "Such"
+    },
+    {
+      "ar": "هر",
+      "en": "every"
+    },
+    {
+      "ar": "واقع",
+      "en": "happened"
+    }
+  ],
+  "terms": [
+    {
+      "term": "کلمات",
+      "transliteration": "k-l-m",
+      "literal": "words; utterances; locutions",
+      "se_rendering": "words",
+      "note": "Standard 'words' rendering (58 occurrences across corpus). Here modified by 'holy' to establish the sacred hermeneutical context central to the passage's argument.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 6,
+          "snippet": "words"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 38,
+          "snippet": "His Word"
+        },
+        {
+          "work": "gleanings",
+          "para": 353,
+          "snippet": "the Word of God"
+        },
+        {
+          "work": "gleanings",
+          "para": 603,
+          "snippet": "a jewel"
+        },
+        {
+          "work": "gleanings",
+          "para": 441,
+          "snippet": "a word"
+        },
+        {
+          "work": "gleanings",
+          "para": 689,
+          "snippet": "the sayings"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 48,
+          "snippet": "Thy Word"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 2,
+          "snippet": "the Word"
+        }
+      ]
+    },
+    {
+      "term": "شموس",
+      "transliteration": "sh-m-s",
+      "literal": "sun; daystar; manifestation of divine light",
+      "se_rendering": "Luminaries",
+      "note": "Typically 'Sun' or 'Daystar' (13 corpus occurrences); 'Luminaries' plural here uniquely emphasizes the metaphorical multiplicity of divine truth-bearers rather than singular solar imagery.",
+      "cross_refs": [
+        {
+          "work": "fire-tablet",
+          "para": 43,
+          "snippet": "Sun"
+        },
+        {
+          "work": "gleanings",
+          "para": 93,
+          "snippet": "Orb"
+        },
+        {
+          "work": "gleanings",
+          "para": 292,
+          "snippet": "Daystar"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 234,
+          "snippet": "Sun-like Mirrors"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 715,
+          "snippet": "suns"
+        }
+      ]
+    },
+    {
+      "term": "حقيقت",
+      "transliteration": "h-q-q",
+      "literal": "truth; right; that which is true or just",
+      "se_rendering": "Truth",
+      "note": "Usually 'the True One' or 'the Truth' (43 occurrences); compounded with 'شموس' into 'Luminaries of Truth' to create a unified concept distinct from the singular 'Sun of Truth' pattern elsewhere.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 651,
+          "snippet": "the True One"
+        },
+        {
+          "work": "gleanings",
+          "para": 85,
+          "snippet": "the Truth"
+        },
+        {
+          "work": "gleanings",
+          "para": 328,
+          "snippet": "the one true God"
+        },
+        {
+          "work": "gleanings",
+          "para": 707,
+          "snippet": "Him"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 52,
+          "snippet": "Sun of Truth"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 9,
+          "snippet": "evident"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "betrayal of truth"
+        },
+        {
+          "work": "gleanings",
+          "para": 100,
+          "snippet": "clear"
+        }
+      ]
+    },
+    {
+      "term": "مخازن",
+      "transliteration": "kh-z-n",
+      "literal": "to store, to treasure; storehouse, depository, treasury",
+      "se_rendering": "depositories",
+      "note": "Consistently 'depositories' or 'repositories' (19 occurrences). Here plural form with 'علم' emphasizes institutional guardianship of knowledge—a structural critique of scholarly authority.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 93,
+          "snippet": "repositories"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 58,
+          "snippet": "treasuries"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 1,
+          "snippet": "treasury"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 131,
+          "snippet": "hidden Treasure"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 742,
+          "snippet": "hidden in the treasuries"
+        },
+        {
+          "work": "gleanings",
+          "para": 630,
+          "snippet": "treasured"
+        },
+        {
+          "work": "gleanings",
+          "para": 677,
+          "snippet": "My treasure"
+        }
+      ]
+    },
+    {
+      "term": "علم",
+      "transliteration": "ʿ-l-m",
+      "literal": "world; universe; the worlds",
+      "se_rendering": "Knowledge",
+      "note": "Predominantly 'world' or 'knowledge' (141 occurrences, widest semantic range); here 'Knowledge' capitalized and thrice-repeated creates theological personification—knowledge as divine repository rather than worldly domain.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 198,
+          "snippet": "world"
+        },
+        {
+          "work": "gleanings",
+          "para": 657,
+          "snippet": "all worlds"
+        },
+        {
+          "work": "gleanings",
+          "para": 182,
+          "snippet": "mankind"
+        },
+        {
+          "work": "gleanings",
+          "para": 183,
+          "snippet": "the whole world"
+        },
+        {
+          "work": "gleanings",
+          "para": 226,
+          "snippet": "all earthly defilements"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 28,
+          "snippet": "knowledge"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 42,
+          "snippet": "banner"
+        },
+        {
+          "work": "gleanings",
+          "para": 38,
+          "snippet": "understanding"
+        }
+      ]
+    },
+    {
+      "term": "بيان",
+      "transliteration": "b-y-n",
+      "literal": "to manifest; to make clear; clear, evident",
+      "se_rendering": "expound",
+      "note": "Corpus shows 'the Expounder' or 'the Bayán' as primary renderings (87 occurrences); here 'expound' as verb form shifts meaning to the interpretive act itself rather than a proper noun or agent.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 223,
+          "snippet": "the Expounder, the Most Manifest"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 3,
+          "snippet": "proofs"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 12,
+          "snippet": "clear proofs"
+        },
+        {
+          "work": "gleanings",
+          "para": 563,
+          "snippet": "Dawning-Place of the proofs"
+        },
+        {
+          "work": "gleanings",
+          "para": 292,
+          "snippet": "the Bayán"
+        },
+        {
+          "work": "gleanings",
+          "para": 636,
+          "snippet": "utterance"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 120,
+          "snippet": "evil"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 178,
+          "snippet": "evident error"
+        }
+      ]
+    },
+    {
+      "term": "ظلم",
+      "transliteration": "z-l-m",
+      "literal": "wrongedness, oppression, meekness; state of being wronged or oppressed",
+      "se_rendering": "oppression",
+      "note": "Root typically rendered as 'wronged/Wronged One' (128 occurrences); 'oppression' here abstracts the concept as a vice opposed to justice, marking SE's rare nominalization of this relational term.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 498,
+          "snippet": "afflicted with countless tribulations"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 49,
+          "snippet": "meekness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 36,
+          "snippet": "Wronged One"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 253,
+          "snippet": "wronged"
+        },
+        {
+          "work": "gleanings",
+          "para": 221,
+          "snippet": "oppression"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 9,
+          "snippet": "Darkness"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 33,
+          "snippet": "tyranny"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 573,
+          "snippet": "oppressed"
+        }
+      ]
+    },
+    {
+      "term": "عدل",
+      "transliteration": "ʿ-d-l",
+      "literal": "justice; equity",
+      "se_rendering": "justice",
+      "note": "Standard 'justice' or 'equity' (29 occurrences) maintained here; paired antithetically with ظلم to structure the passage's critique of scholarly corruption through binary moral categories.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 16,
+          "snippet": "Justice"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "just"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 145,
+          "snippet": "Who dealest equitably"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 15,
+          "snippet": "equity"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 7,
+          "snippet": "Thy justice"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 128,
+          "snippet": "with equity and justice"
+        },
+        {
+          "work": "gleanings",
+          "para": 21,
+          "snippet": "with justice and equity"
+        },
+        {
+          "work": "gleanings",
+          "para": 538,
+          "snippet": "as numerous as"
+        }
+      ]
+    }
+  ],
+  "section_index": "199",
+  "section": "199",
+  "section_para": 1
 }

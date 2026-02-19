@@ -1,10 +1,210 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 600,
   "source_text": "المُتَعالِ المُهَيْمِنُ العَزِيزُ الحَكِيمُ.",
   "translation": "Thou art, verily, the Almighty, the Protector, the All-Glorious, the All-Wise.",
   "source_lang": "ar",
-  "score": 9.1
+  "score": 9.1,
+  "page_slug": "almighty-protector-all-glorious-all-wise",
+  "alignment": [
+    {
+      "ar": "المُتَعالِ",
+      "en": "the Almighty"
+    },
+    {
+      "ar": "المُهَيْمِنُ",
+      "en": "the Protector"
+    },
+    {
+      "ar": "العَزِيزُ",
+      "en": "the All-Glorious"
+    },
+    {
+      "ar": "الحَكِيمُ",
+      "en": "the All-Wise"
+    }
+  ],
+  "terms": [
+    {
+      "term": "المُتَعالِ",
+      "transliteration": "ʿ-l-w",
+      "literal": "highest; most high; supreme",
+      "se_rendering": "the Almighty",
+      "note": "Typically 'the Most High' or 'the Most Exalted' across 74 occurrences; 'the Almighty' here emphasizes divine power over transcendence, a less frequent choice.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 1,
+          "snippet": "the Most High"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 148,
+          "snippet": "the Most Sublime Pen"
+        },
+        {
+          "work": "gleanings",
+          "para": 232,
+          "snippet": "supreme"
+        },
+        {
+          "work": "gleanings",
+          "para": 616,
+          "snippet": "the realms above"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 68,
+          "snippet": "the Pen of Glory"
+        },
+        {
+          "work": "gleanings",
+          "para": 393,
+          "snippet": "The Pen of the Most High"
+        },
+        {
+          "work": "gleanings",
+          "para": 697,
+          "snippet": "the Dayspring of Glory"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 1,
+          "snippet": "the Realm of Glory"
+        }
+      ]
+    },
+    {
+      "term": "المُهَيْمِنُ",
+      "transliteration": "h-y-m",
+      "literal": "the Protector; the Overseer; the Guardian",
+      "se_rendering": "the Protector",
+      "note": "Rarest term in corpus (4 occurrences). SE renders as 'the Protector' here, consistent with guardian/overseer sense; 'the Help in Peril' and 'the Supreme Protector' alternate elsewhere.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 37,
+          "snippet": "the Help in Peril"
+        },
+        {
+          "work": "gleanings",
+          "para": 180,
+          "snippet": "the Protector"
+        },
+        {
+          "work": "gleanings",
+          "para": 300,
+          "snippet": "the Guardian"
+        },
+        {
+          "work": "gleanings",
+          "para": 610,
+          "snippet": "the Supreme Protector"
+        }
+      ]
+    },
+    {
+      "term": "العَزِيزُ",
+      "transliteration": "ʿ-z-z",
+      "literal": "glory; might; honor; dignity; power; majesty",
+      "se_rendering": "the All-Glorious",
+      "note": "Root carries 'glory; might; honor; dignity' senses. 'All-Glorious' compounds English adjective, diverging from simple 'glory' or 'honor' found in 49 other instances.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 185,
+          "snippet": "glory"
+        },
+        {
+          "work": "gleanings",
+          "para": 642,
+          "snippet": "honor"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 99,
+          "snippet": "Dear"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 38,
+          "snippet": "dearly beloved"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 37,
+          "snippet": "Gracious"
+        },
+        {
+          "work": "gleanings",
+          "para": 260,
+          "snippet": "All-Glorious"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 162,
+          "snippet": "Mighty"
+        },
+        {
+          "work": "gleanings",
+          "para": 660,
+          "snippet": "powerful"
+        }
+      ]
+    },
+    {
+      "term": "الحَكِيمُ",
+      "transliteration": "h-k-m",
+      "literal": "government; rule; governance; wisdom",
+      "se_rendering": "the All-Wise",
+      "note": "Root denotes 'governance; wisdom; rule.' 'All-Wise' here prioritizes wisdom attribute; corpus shows SE also renders as 'rule,' 'government,' or 'mysteries' depending on context.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-ahd",
+          "para": 6,
+          "snippet": "rule"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "government"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 160,
+          "snippet": "meaning of return"
+        },
+        {
+          "work": "gleanings",
+          "para": 224,
+          "snippet": "mysteries"
+        },
+        {
+          "work": "gleanings",
+          "para": 636,
+          "snippet": "rule of the sword"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 182,
+          "snippet": "mystery of the former verse"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 129,
+          "snippet": "perspicuous verses"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 46,
+          "snippet": "conclusive"
+        }
+      ]
+    }
+  ],
+  "section_index": "CXXXIX.5",
+  "section": "CXXXIX",
+  "section_para": 5
 }

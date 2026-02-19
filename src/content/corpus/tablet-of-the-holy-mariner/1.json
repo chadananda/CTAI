@@ -1,10 +1,309 @@
 {
   "work": "Tablet of the Holy Mariner",
   "slug": "tablet-of-the-holy-mariner",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 1,
   "source_text": "﴿ هو العزيز المحبوب ﴾\nأن يا ملّاح القدس فاحضر سفينة البقاء في ملأ الأعلى فسبحان ربّي الأبهى",
   "translation": "﴾ He is the Gracious, the Well-Beloved! ﴿\nO Holy Mariner!\n Bid thine ark of eternity appear before the Celestial Concourse,\n Glorified be my Lord, the All-Glorious!",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "holy-mariner-ark-eternity",
+  "alignment": [
+    {
+      "ar": "هو",
+      "en": "He"
+    },
+    {
+      "ar": "العزيز",
+      "en": "Gracious"
+    },
+    {
+      "ar": "المحبوب",
+      "en": "Well-Beloved"
+    },
+    {
+      "ar": "ملّاح",
+      "en": "Mariner"
+    },
+    {
+      "ar": "القدس",
+      "en": "Holy"
+    },
+    {
+      "ar": "احضر",
+      "en": "appear"
+    },
+    {
+      "ar": "سفينة",
+      "en": "ark"
+    },
+    {
+      "ar": "البقاء",
+      "en": "eternity"
+    },
+    {
+      "ar": "ملأ",
+      "en": "Concourse"
+    },
+    {
+      "ar": "الأعلى",
+      "en": "Celestial"
+    },
+    {
+      "ar": "سبحان",
+      "en": "Glorified"
+    },
+    {
+      "ar": "ربّي",
+      "en": "my Lord"
+    },
+    {
+      "ar": "الأبهى",
+      "en": "All-Glorious"
+    }
+  ],
+  "terms": [
+    {
+      "term": "العزيز",
+      "transliteration": "ʿ-z-z",
+      "literal": "glory; might; honor; dignity; power; majesty",
+      "se_rendering": "the Gracious",
+      "note": "Typically 'glory' or 'might' across 49 occurrences. 'Gracious' here uniquely softens the term toward intimate affection, pairing with المحبوب.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 185,
+          "snippet": "glory"
+        },
+        {
+          "work": "gleanings",
+          "para": 642,
+          "snippet": "honor"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 491,
+          "snippet": "exalted"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 99,
+          "snippet": "Dear"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 38,
+          "snippet": "dearly beloved"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 37,
+          "snippet": "Gracious"
+        },
+        {
+          "work": "gleanings",
+          "para": 260,
+          "snippet": "All-Glorious"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 162,
+          "snippet": "Mighty"
+        }
+      ]
+    },
+    {
+      "term": "المحبوب",
+      "transliteration": "ḥ-b-b",
+      "literal": "love; affection",
+      "se_rendering": "the Well-Beloved",
+      "note": "Rendered here as 'Well-Beloved' — a singular, intimate form. Jafar shows SE usually pluralizes ('loved ones'); this singularization intensifies direct address.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 3,
+          "snippet": "beloved of the Lord"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 53,
+          "snippet": "loved ones of the Lord"
+        },
+        {
+          "work": "gleanings",
+          "para": 341,
+          "snippet": "loved ones of God"
+        },
+        {
+          "work": "gleanings",
+          "para": 689,
+          "snippet": "beloved of the one true God"
+        },
+        {
+          "work": "gleanings",
+          "para": 640,
+          "snippet": "loved ones"
+        },
+        {
+          "work": "gleanings",
+          "para": 690,
+          "snippet": "beloved of God"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 39,
+          "snippet": "His loved ones"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 10,
+          "snippet": "love for Thee"
+        }
+      ]
+    },
+    {
+      "term": "ملّاح",
+      "transliteration": "m-l-h",
+      "literal": "sailor; mariner; to observe; consideration",
+      "se_rendering": "Holy Mariner",
+      "note": "Only 3 Jafar occurrences total. 'Holy Mariner' is SE's sole rendering for this term, establishing a symbolic figure addressing divine command.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 324,
+          "snippet": "Consider"
+        }
+      ]
+    },
+    {
+      "term": "البقاء",
+      "transliteration": "b-q-y",
+      "literal": "remaining; everlasting; eternal; immortal",
+      "se_rendering": "eternity",
+      "note": "Typically 'everlasting' or 'immortal' across 32 occurrences. 'Eternity' here shifts to absolute timelessness, intensifying the ark's eternal nature.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 2,
+          "snippet": "the Eternal"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 88,
+          "snippet": "everlasting beauty"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 98,
+          "snippet": "everlasting candle"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 117,
+          "snippet": "immortal sovereignty"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 110,
+          "snippet": "everlasting torch of divine guidance"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 56,
+          "snippet": "refrain"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 246,
+          "snippet": "everlasting"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 259,
+          "snippet": "O thou Remnant of God"
+        }
+      ]
+    },
+    {
+      "term": "الأعلى",
+      "transliteration": "ʿ-l-w",
+      "literal": "highest; most high; supreme",
+      "se_rendering": "the Celestial Concourse",
+      "note": "Renders as 'the Celestial Concourse' — uniquely specific. Jafar shows 'the Most High' or 'supreme' dominate (74 occurrences); this theological concretization is distinctive.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 1,
+          "snippet": "the Most High"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 148,
+          "snippet": "the Most Sublime Pen"
+        },
+        {
+          "work": "gleanings",
+          "para": 232,
+          "snippet": "supreme"
+        },
+        {
+          "work": "gleanings",
+          "para": 616,
+          "snippet": "the realms above"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 390,
+          "snippet": "the Most Exalted, the Most High"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 68,
+          "snippet": "the Pen of Glory"
+        },
+        {
+          "work": "gleanings",
+          "para": 393,
+          "snippet": "The Pen of the Most High"
+        },
+        {
+          "work": "gleanings",
+          "para": 697,
+          "snippet": "the Dayspring of Glory"
+        }
+      ]
+    },
+    {
+      "term": "الأبهی",
+      "transliteration": "b-h-y",
+      "literal": "splendor; glory; magnificence; Bahá (Proper Name in Bahá'í texts)",
+      "se_rendering": "the All-Glorious",
+      "note": "Renders as 'the All-Glorious' — a descriptive epithet. Jafar shows 'Bahá' (proper name) is frequent; here SE preserves the appellative glory sense over proper-name precision.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 280,
+          "snippet": "Bahá"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 59,
+          "snippet": "Glory"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 51,
+          "snippet": "Abhá"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 271,
+          "snippet": "All-Glorious"
+        }
+      ]
+    }
+  ],
+  "section_index": "1",
+  "section": "1",
+  "section_para": 1
 }

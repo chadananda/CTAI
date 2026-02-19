@@ -1,10 +1,293 @@
 {
   "work": "Fire Tablet",
   "slug": "fire-tablet",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 15,
   "source_text": "قَدْ أَخَذَتْ رَعْدَةُ الضَّمَاءِ مَنْ فِي الإِنْشَاءِ أَيْنَ فُرَاتُ عِنَايَتِكَ يَا رَحْمَةَ العَالَمِيْنَ *",
   "translation": "Sore thirst hath overcome all men: Where is the river of Thy bounty, O Mercy of the worlds?",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "river-of-thy-bounty",
+  "alignment": [
+    {
+      "ar": "أَخَذَتْ",
+      "en": "hath overcome"
+    },
+    {
+      "ar": "رَعْدَةُ",
+      "en": "Sore"
+    },
+    {
+      "ar": "مَنْ",
+      "en": "men"
+    },
+    {
+      "ar": "الإِنْشَاءِ",
+      "en": "all"
+    },
+    {
+      "ar": "أَيْنَ",
+      "en": "Where"
+    },
+    {
+      "ar": "فُرَاتُ",
+      "en": "river"
+    },
+    {
+      "ar": "عِنَايَتِكَ",
+      "en": "Thy bounty"
+    },
+    {
+      "ar": "رَحْمَةَ",
+      "en": "Mercy"
+    },
+    {
+      "ar": "العَالَمِيْنَ",
+      "en": "the worlds"
+    }
+  ],
+  "terms": [
+    {
+      "term": "أَخَذَتْ",
+      "transliteration": "ʾ-kh-dh",
+      "literal": "to take; to seize; to affect",
+      "se_rendering": "hath overcome",
+      "note": "Root ʾ-kh-dh typically rendered 'laid hold on them' or 'hath gripped' across corpus. 'Hath overcome' here softens the sense, using affective rather than physical seizure language.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "nor idle talk"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 36,
+          "snippet": "not to requite them"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 230,
+          "snippet": "turneth them to ridicule"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 63,
+          "snippet": "laid hold on them"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 5,
+          "snippet": "am so carried away by"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 778,
+          "snippet": "comprehend"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 122,
+          "snippet": "carried away"
+        },
+        {
+          "work": "gleanings",
+          "para": 241,
+          "snippet": "cast behind"
+        }
+      ]
+    },
+    {
+      "term": "الإِنْشَاءِ",
+      "transliteration": "n-sh-ʾ",
+      "literal": "creation; bringing into existence; establishment",
+      "se_rendering": "men",
+      "note": "Root n-sh-ʾ normally 'creation' or 'kingdoms of creation.' Here rendered 'all men'—a synecdochic substitution treating creation's inhabitants as the referent rather than creation itself.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 57,
+          "snippet": "creation"
+        },
+        {
+          "work": "gleanings",
+          "para": 384,
+          "snippet": "God grant"
+        },
+        {
+          "work": "gleanings",
+          "para": 439,
+          "snippet": "Please God"
+        }
+      ]
+    },
+    {
+      "term": "فُرَاتُ",
+      "transliteration": "f-r-t",
+      "literal": "sweet water; river; the Euphrates",
+      "se_rendering": "river",
+      "note": "Root f-r-t occurs only 4 times in corpus. SE consistently renders 'river' or 'rivers.' Direct, literal rendering preserves the Qur'anic Euphrates metaphor without spiritual abstraction.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 206,
+          "snippet": "River"
+        },
+        {
+          "work": "gleanings",
+          "para": 595,
+          "snippet": "rivers"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 111,
+          "snippet": "fresh"
+        }
+      ]
+    },
+    {
+      "term": "عِنَايَتِكَ",
+      "transliteration": "ʿ-n",
+      "literal": "from; about; concerning; away from",
+      "se_rendering": "bounty",
+      "note": "Root ʿ-n typically 'from' or spatial/relational prepositions. Here rendered 'bounty'—SE interprets the construct phrase عِنَايَتِكَ (Your care/solicitude) as divine beneficence rather than abstract relationship.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 611,
+          "snippet": "from the veil"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 29,
+          "snippet": "from Us"
+        },
+        {
+          "work": "gleanings",
+          "para": 399,
+          "snippet": "My loving-kindness"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 343,
+          "snippet": "grace"
+        },
+        {
+          "work": "gleanings",
+          "para": 467,
+          "snippet": "about them"
+        },
+        {
+          "work": "gleanings",
+          "para": 579,
+          "snippet": "from whom"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 42,
+          "snippet": "from"
+        }
+      ]
+    },
+    {
+      "term": "رَحْمَةَ",
+      "transliteration": "r-ḥ-m",
+      "literal": "merciful, compassionate; pertaining to divine mercy",
+      "se_rendering": "Mercy",
+      "note": "Root r-ḥ-m spans 70 occurrences with diverse renderings including 'Divine glory,' 'celestial melody,' and 'spirit of mercy.' 'Mercy' here is the most literal and traditional rendering, emphasizing compassionate divine nature.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 673,
+          "snippet": "Divine glory"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 57,
+          "snippet": "Divine"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 89,
+          "snippet": "celestial melody"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 114,
+          "snippet": "spirit of mercy"
+        },
+        {
+          "work": "gleanings",
+          "para": 372,
+          "snippet": "merciful"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 220,
+          "snippet": "have mercy on them"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 546,
+          "snippet": "mercy"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 50,
+          "snippet": "the Compassionate"
+        }
+      ]
+    },
+    {
+      "term": "العَالَمِيْنَ",
+      "transliteration": "ʿ-l-m",
+      "literal": "world; universe; the worlds",
+      "se_rendering": "worlds",
+      "note": "Root ʿ-l-m appears 141 times with renderings from 'world' to 'all earthly defilements.' Here 'worlds' preserves the plural cosmological scope—invoking address to the God of all realms rather than temporal world.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 198,
+          "snippet": "world"
+        },
+        {
+          "work": "gleanings",
+          "para": 657,
+          "snippet": "all worlds"
+        },
+        {
+          "work": "gleanings",
+          "para": 182,
+          "snippet": "mankind"
+        },
+        {
+          "work": "gleanings",
+          "para": 183,
+          "snippet": "the whole world"
+        },
+        {
+          "work": "gleanings",
+          "para": 226,
+          "snippet": "all earthly defilements"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 28,
+          "snippet": "knowledge"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 122,
+          "snippet": "commentators"
+        },
+        {
+          "work": "gleanings",
+          "para": 38,
+          "snippet": "understanding"
+        }
+      ]
+    }
+  ],
+  "section_index": "16",
+  "section": "16",
+  "section_para": 1
 }

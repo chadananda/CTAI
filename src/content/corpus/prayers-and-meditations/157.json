@@ -1,10 +1,397 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 157,
   "source_text": "سُبْحانَكَ يا إِلهِي وَإِلهَ كُلِّ شَيْءٍ وَبَهائِي وَبَهاءَ كُلِّ شَيْءٍ وَرَجائِيْ وَرَجاءَ كُلِّ شَيْءٍ وَعِزِّيْ وَعِزَّ كُلِّ شَيْءٍ وَسُلْطانِيْ وَسُلْطانَ كُلِّ شَيْءٍ وَمالِكيْ وَمالِكَ كُلِّ شَيْءٍ وَمَحْبُوبِيْ وَمَحْبُوبَ كُلِّ شَيْءٍ وَمَقْصُودِيْ وَمَقْصُودَ كُلِّ شَيْءٍ وَمُحَرِّكي وَمُحَرِّكَ كُلِّ شَيْءٍ، أَسْئَلُكَ بِأَنْ لا تَمْنَعَنِي عَنْ بَحْرِ إِفْضالِكَ",
   "translation": "Lauded be Thy name, O my God and the God of all things, my Glory and the Glory of all things, my Desire and the Desire of all things, my Strength and the Strength of all things, my King and the King of all things, my Possessor and the Possessor of all things, my Aim and the Aim of all things, my Mover and the Mover of all things! Suffer me not, I implore Thee, to be kept back from the ocean of Thy tender mercies, nor to be far removed from the shores of nearness to Thee.",
   "source_lang": "ar",
-  "score": 9.9
+  "score": 9.9,
+  "page_slug": "ocean-tender-mercies",
+  "alignment": [
+    {
+      "ar": "سُبْحانَكَ",
+      "en": "Lauded be Thy name"
+    },
+    {
+      "ar": "إِلهِي",
+      "en": "my God"
+    },
+    {
+      "ar": "إِلهَ",
+      "en": "the God"
+    },
+    {
+      "ar": "بَهائِي",
+      "en": "my Glory"
+    },
+    {
+      "ar": "بَهاءَ",
+      "en": "the Glory"
+    },
+    {
+      "ar": "رَجائِيْ",
+      "en": "my Desire"
+    },
+    {
+      "ar": "رَجاءَ",
+      "en": "the Desire"
+    },
+    {
+      "ar": "سُلْطانِيْ",
+      "en": "my King"
+    },
+    {
+      "ar": "سُلْطانَ",
+      "en": "the King"
+    },
+    {
+      "ar": "مالِكيْ",
+      "en": "my Possessor"
+    },
+    {
+      "ar": "مالِكَ",
+      "en": "the Possessor"
+    },
+    {
+      "ar": "مَحْبُوبِيْ",
+      "en": "my Aim"
+    },
+    {
+      "ar": "مَحْبُوبَ",
+      "en": "the Aim"
+    },
+    {
+      "ar": "مَقْصُودِيْ",
+      "en": "my Mover"
+    },
+    {
+      "ar": "مَقْصُودَ",
+      "en": "the Mover"
+    },
+    {
+      "ar": "أَسْئَلُكَ",
+      "en": "I implore Thee"
+    },
+    {
+      "ar": "تَمْنَعَنِي",
+      "en": "Suffer me not"
+    },
+    {
+      "ar": "بَحْرِ",
+      "en": "ocean"
+    },
+    {
+      "ar": "إِفْضالِكَ",
+      "en": "Thy tender mercies"
+    }
+  ],
+  "terms": [
+    {
+      "term": "سُبْحانَكَ",
+      "transliteration": "s-b-ḥ",
+      "literal": "glorified; the All-Praised; exalted",
+      "se_rendering": "Lauded be Thy name",
+      "note": "Typically 'Glorified art Thou' or 'the All-Praised' across 23 occurrences. 'Lauded be Thy name' uniquely combines exaltation with personal address, emphasizing active veneration rather than abstract glorification.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 211,
+          "snippet": "the All-Praised"
+        },
+        {
+          "work": "gleanings",
+          "para": 212,
+          "snippet": "the Breath of the All-Glorious"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 13,
+          "snippet": "the breezes of the All-Glorious"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 42,
+          "snippet": "Gracious God"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 90,
+          "snippet": "Great God"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 62,
+          "snippet": "Glorified art Thou"
+        },
+        {
+          "work": "gleanings",
+          "para": 112,
+          "snippet": "Glory be to Thee"
+        },
+        {
+          "work": "gleanings",
+          "para": 1,
+          "snippet": "Lauded and glorified art Thou"
+        }
+      ]
+    },
+    {
+      "term": "وَبَهائِي",
+      "transliteration": "b-h-ʾ",
+      "literal": "Bahá'í; of Bahá; splendor; glory",
+      "se_rendering": "my Glory",
+      "note": "Root b-h-ʾ appears only 9 times in corpus with limited renderings. 'My Glory' here personalizes the abstract divine attribute of Bahá, making it relational rather than descriptive.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 24,
+          "snippet": "divine grace"
+        },
+        {
+          "work": "gleanings",
+          "para": 169,
+          "snippet": "glory"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 204,
+          "snippet": "for the people of Bahá"
+        }
+      ]
+    },
+    {
+      "term": "وَعِزِّيْ",
+      "transliteration": "ʿ-z-z",
+      "literal": "glory; might; honor; dignity; power; majesty",
+      "se_rendering": "my Strength",
+      "note": "Typically 'glory' or 'honor' across 49 occurrences. 'My Strength' reframes the root ʿ-z-z toward physical power and resilience, departing from the usual emphasis on majesty.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 185,
+          "snippet": "glory"
+        },
+        {
+          "work": "gleanings",
+          "para": 642,
+          "snippet": "honor"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 99,
+          "snippet": "Dear"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 38,
+          "snippet": "dearly beloved"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 37,
+          "snippet": "Gracious"
+        },
+        {
+          "work": "gleanings",
+          "para": 260,
+          "snippet": "All-Glorious"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 162,
+          "snippet": "Mighty"
+        },
+        {
+          "work": "gleanings",
+          "para": 660,
+          "snippet": "powerful"
+        }
+      ]
+    },
+    {
+      "term": "وَسُلْطانِيْ",
+      "transliteration": "s-l-ṭ",
+      "literal": "dominion; authority; power; sovereignty; control",
+      "se_rendering": "my King",
+      "note": "Commonly 'sovereignty' or 'dominion' across 43 occurrences. 'My King' personalizes abstract authority into a singular ruler figure, creating vertical dependence rather than horizontal dominion.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 369,
+          "snippet": "sovereignty"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 151,
+          "snippet": "dominion"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 13,
+          "snippet": "O King"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 157,
+          "snippet": "the Sháh"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 1,
+          "snippet": "the King"
+        },
+        {
+          "work": "gleanings",
+          "para": 472,
+          "snippet": "King (Sulṭán 'Abdu'l-'Azíz)"
+        },
+        {
+          "work": "gleanings",
+          "para": 236,
+          "snippet": "the Sulṭán"
+        },
+        {
+          "work": "gleanings",
+          "para": 592,
+          "snippet": "by virtue of His sovereignty"
+        }
+      ]
+    },
+    {
+      "term": "وَمَحْبُوبِيْ",
+      "transliteration": "ḥ-b-b",
+      "literal": "love; affection",
+      "se_rendering": "my Aim",
+      "note": "Root ḥ-b-b typically denotes 'beloved' or 'loved ones' across 92 occurrences. Applied here to God as 'my Aim,' SE transposes beloved-hood into teleological purpose, reorienting the emotional register.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 3,
+          "snippet": "beloved of the Lord"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 53,
+          "snippet": "loved ones of the Lord"
+        },
+        {
+          "work": "gleanings",
+          "para": 341,
+          "snippet": "loved ones of God"
+        },
+        {
+          "work": "gleanings",
+          "para": 689,
+          "snippet": "beloved of the one true God"
+        },
+        {
+          "work": "gleanings",
+          "para": 640,
+          "snippet": "loved ones"
+        },
+        {
+          "work": "gleanings",
+          "para": 690,
+          "snippet": "beloved of God"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 39,
+          "snippet": "His loved ones"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 10,
+          "snippet": "love for Thee"
+        }
+      ]
+    },
+    {
+      "term": "وَمُحَرِّكي",
+      "transliteration": "h-r-k",
+      "literal": "movement; motion; trembling",
+      "se_rendering": "my Mover",
+      "note": "Root h-r-k appears 21 times with varied renderings including 'trembling' and 'alert and active.' 'My Mover' here emphasizes divine agency in human motivation, distinct from passive trembling.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 10,
+          "snippet": "trembling"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 42,
+          "snippet": "falsification"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 43,
+          "snippet": "alert and active"
+        },
+        {
+          "work": "gleanings",
+          "para": 655,
+          "snippet": "that movest me"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 96,
+          "snippet": "MOVING FORM OF DUST"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 13,
+          "snippet": "the breezes of the All-Glorious"
+        },
+        {
+          "work": "gleanings",
+          "para": 159,
+          "snippet": "agitate"
+        },
+        {
+          "work": "gleanings",
+          "para": 324,
+          "snippet": "motion and stillness"
+        }
+      ]
+    },
+    {
+      "term": "بَحْرِ",
+      "transliteration": "b-ḥ-r",
+      "literal": "sea; ocean",
+      "se_rendering": "ocean",
+      "note": "Standard rendering 'ocean' across 18 occurrences. SE's placement—'ocean of Thy tender mercies'—transforms the marine metaphor into infinite grace, the most emotionally laden sense available.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 2,
+          "snippet": "two Seas"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 32,
+          "snippet": "ocean"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 32,
+          "snippet": "sea of grace"
+        },
+        {
+          "work": "gleanings",
+          "para": 12,
+          "snippet": "Ocean of God's mercy"
+        },
+        {
+          "work": "gleanings",
+          "para": 106,
+          "snippet": "seas"
+        }
+      ]
+    }
+  ],
+  "section_index": "XLII.1",
+  "section": "XLII",
+  "section_para": 1
 }

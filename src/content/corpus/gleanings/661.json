@@ -1,10 +1,516 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 661,
   "source_text": "عمري سوف نطوي الدّنیا وما فیها ونبسط بساطًا آخَر إنّه کان علی کلّ شيء قدیرًا قدّس قلبک لذکري وأُذنک لاستماع آیاتي ثمّ أَقْبِل إلی المقرّ الّذي استقرّ فیه عرش ربّک الرّحمن قل أي ربّ لک الحمد بما وفّقتني علی عرفان مظهر نفسک وجعلتني مقبلا إلی کعبة وصلک ولقائک أسألک باسمک الّذي منه انفطرت السّمآء وانشقّت الأرض بأن تکتب لي ما کتبته لمن أعرض عن دونک وأَقْبَل إلیک وقدّر لي مقعد صدق عندک في سرادق الأبهی إنّک أنت فعّال لما تشآء لا إله إلّا أنت العزیز الحکیم",
   "translation": "Sanctify thine heart, that thou mayest remember Me; and purge thine ear, that thou mayest hearken unto My words. Set then thy face towards the Spot wherein the throne of thy Lord, the God of Mercy, hath been established, and say: Praise be to Thee, O my Lord, for having enabled me to recognize the Manifestation of Thine own Self, and aided me to fix mine heart on the court of Thy presence, the object of my soul’s adoration. I beseech Thee, by Thy name that caused the heavens to be rent and the earth to be cleft asunder, to ordain for me what Thou didst ordain for them that have turned away from all else but Thee, and rested their hearts firmly upon Thee. Grant that I may be seated in Thy presence on the seat of truth, within the Tabernacle of Glory. Powerful art Thou to do what Thou willest. There is none other God but Thee, the All-Glorious, the All-Wise.",
   "source_lang": "ar",
-  "score": 9.6
+  "score": 9.6,
+  "page_slug": "seat-of-truth-tabernacle-glory",
+  "alignment": [
+    {
+      "ar": "قدّس",
+      "en": "Sanctify"
+    },
+    {
+      "ar": "قلبک",
+      "en": "thine heart"
+    },
+    {
+      "ar": "لذکري",
+      "en": "remember Me"
+    },
+    {
+      "ar": "أُذنک",
+      "en": "thine ear"
+    },
+    {
+      "ar": "لاستماع",
+      "en": "hearken"
+    },
+    {
+      "ar": "آیاتي",
+      "en": "My words"
+    },
+    {
+      "ar": "أَقْبِل",
+      "en": "Set then thy face"
+    },
+    {
+      "ar": "المقرّ",
+      "en": "the Spot"
+    },
+    {
+      "ar": "استقرّ",
+      "en": "been established"
+    },
+    {
+      "ar": "عرش",
+      "en": "throne"
+    },
+    {
+      "ar": "ربّک",
+      "en": "thy Lord"
+    },
+    {
+      "ar": "الرّحمن",
+      "en": "the God of Mercy"
+    },
+    {
+      "ar": "قل",
+      "en": "say"
+    },
+    {
+      "ar": "ربّ",
+      "en": "my Lord"
+    },
+    {
+      "ar": "لک الحمد",
+      "en": "Praise be to Thee"
+    },
+    {
+      "ar": "وفّقتني",
+      "en": "enabled me"
+    },
+    {
+      "ar": "عرفان",
+      "en": "recognize"
+    },
+    {
+      "ar": "مظهر",
+      "en": "the Manifestation"
+    },
+    {
+      "ar": "نفسک",
+      "en": "Thine own Self"
+    },
+    {
+      "ar": "جعلتني",
+      "en": "aided me"
+    },
+    {
+      "ar": "مقبلا",
+      "en": "fix mine heart"
+    },
+    {
+      "ar": "کعبة",
+      "en": "the court"
+    },
+    {
+      "ar": "وصلک",
+      "en": "Thy presence"
+    },
+    {
+      "ar": "أسألک",
+      "en": "I beseech Thee"
+    },
+    {
+      "ar": "باسمک",
+      "en": "by Thy name"
+    },
+    {
+      "ar": "انفطرت",
+      "en": "to be rent"
+    },
+    {
+      "ar": "السّمآء",
+      "en": "the heavens"
+    },
+    {
+      "ar": "انشقّت",
+      "en": "to be cleft asunder"
+    },
+    {
+      "ar": "الأرض",
+      "en": "the earth"
+    },
+    {
+      "ar": "تکتب",
+      "en": "ordain"
+    },
+    {
+      "ar": "کتبته",
+      "en": "didst ordain"
+    },
+    {
+      "ar": "أعرض",
+      "en": "turned away"
+    },
+    {
+      "ar": "دونک",
+      "en": "all else but Thee"
+    },
+    {
+      "ar": "أَقْبَل",
+      "en": "rested their hearts firmly"
+    },
+    {
+      "ar": "إلیک",
+      "en": "upon Thee"
+    },
+    {
+      "ar": "قدّر",
+      "en": "Grant"
+    },
+    {
+      "ar": "مقعد صدق",
+      "en": "the seat of truth"
+    },
+    {
+      "ar": "عندک",
+      "en": "in Thy presence"
+    },
+    {
+      "ar": "سرادق",
+      "en": "Tabernacle"
+    },
+    {
+      "ar": "الأبهی",
+      "en": "Glory"
+    },
+    {
+      "ar": "فعّال",
+      "en": "Powerful"
+    },
+    {
+      "ar": "تشآء",
+      "en": "Thou willest"
+    },
+    {
+      "ar": "لا إله إلّا أنت",
+      "en": "There is none other God but Thee"
+    },
+    {
+      "ar": "العزیز",
+      "en": "the All-Glorious"
+    },
+    {
+      "ar": "الحکیم",
+      "en": "the All-Wise"
+    }
+  ],
+  "terms": [
+    {
+      "term": "قدّس",
+      "transliteration": "q-d-s",
+      "literal": "holy, sacred, sanctified",
+      "se_rendering": "Sanctify",
+      "note": "Typically 'sacred' or 'hallowed' (47 occ.). 'Sanctify' as imperative verb uniquely addresses interior spiritual purification rather than external sanctity.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 2,
+          "snippet": "Sacred"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 81,
+          "snippet": "hallowed"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 35,
+          "snippet": "spirit of holiness"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 448,
+          "snippet": "Sanctuary"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 13,
+          "snippet": "Holy Mariner"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 6,
+          "snippet": "sacred strand"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 26,
+          "snippet": "Celestial Concourse"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 189,
+          "snippet": "Most Holy"
+        }
+      ]
+    },
+    {
+      "term": "الرحمن",
+      "transliteration": "r-ḥ-m",
+      "literal": "merciful, compassionate; pertaining to divine mercy",
+      "se_rendering": "God of Mercy",
+      "note": "Typically 'Divine' or 'merciful'; here rendered 'God of Mercy' (single occurrence). Choice emphasizes compassionate dimension of divine throne-establishment.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 57,
+          "snippet": "Divine"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 89,
+          "snippet": "celestial melody"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 114,
+          "snippet": "spirit of mercy"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 220,
+          "snippet": "have mercy on them"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 546,
+          "snippet": "mercy"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 50,
+          "snippet": "the Compassionate"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 793,
+          "snippet": "have mercy upon them"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 47,
+          "snippet": "Thy mercy"
+        }
+      ]
+    },
+    {
+      "term": "مظهر",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "Manifestation",
+      "note": "Consistently 'Manifestation' across 96 occurrences. Here applied to recognition of divine self-disclosure—core Bahá'í theological usage.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 140,
+          "snippet": "manifestation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 160,
+          "snippet": "Author of all Manifestations"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 136,
+          "snippet": "evident"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 206,
+          "snippet": "appeared"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 196,
+          "snippet": "Manifestations of God"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 255,
+          "snippet": "Manifestations"
+        }
+      ]
+    },
+    {
+      "term": "انفطرت",
+      "transliteration": "f-ṭ-r",
+      "literal": "creator; the one who splits/creates",
+      "se_rendering": "caused the heavens to be rent",
+      "note": "Root ف-ط-ر usually 'Creator' or 'Maker' (19 occ.). Participial rendering 'caused heavens to be rent' preserves cosmological miracle language absent in standard nominal forms.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 606,
+          "snippet": "Maker"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 40,
+          "snippet": "Creator"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 138,
+          "snippet": "the true Faith"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 236,
+          "snippet": "inner ears"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 27,
+          "snippet": "hearts"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 46,
+          "snippet": "cleaving of the heaven"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 194,
+          "snippet": "cleaved"
+        }
+      ]
+    },
+    {
+      "term": "الابهی",
+      "transliteration": "b-h-y",
+      "literal": "splendor; glory; magnificence; Bahá (Proper Name in Bahá'í texts)",
+      "se_rendering": "Glory",
+      "note": "Proper name Bahá in sacred context; rendered 'Glory' here. SE uses 'Tabernacle of Glory' to preserve mystical splendor connotation.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 280,
+          "snippet": "Bahá"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 59,
+          "snippet": "Glory"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 51,
+          "snippet": "Abhá"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 271,
+          "snippet": "All-Glorious"
+        }
+      ]
+    },
+    {
+      "term": "فعّال",
+      "transliteration": "ʿ-l-w",
+      "literal": "highest; most high; supreme",
+      "se_rendering": "Powerful",
+      "note": "Root ع-ل-و usually yields 'Most High' or 'Most Sublime' (74 occ.). 'Powerful' here uniquely stresses divine agency over transcendence.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 1,
+          "snippet": "the Most High"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 148,
+          "snippet": "the Most Sublime Pen"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 390,
+          "snippet": "the Most Exalted, the Most High"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 68,
+          "snippet": "the Pen of Glory"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 1,
+          "snippet": "the Realm of Glory"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 257,
+          "snippet": "the Báb, the Lord, the most exalted"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 21,
+          "snippet": "sublime"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 143,
+          "snippet": "exalted be He"
+        }
+      ]
+    },
+    {
+      "term": "العزیز",
+      "transliteration": "ʿ-z-z",
+      "literal": "glory; might; honor; dignity; power; majesty",
+      "se_rendering": "All-Glorious",
+      "note": "Regularly 'glory' or 'honor' (49 occ.). 'All-Glorious' pairs with 'All-Wise' to frame divine sovereignty—elevated epithet pairing.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 245,
+          "snippet": "glory"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 491,
+          "snippet": "exalted"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 99,
+          "snippet": "Dear"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 38,
+          "snippet": "dearly beloved"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 37,
+          "snippet": "Gracious"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 162,
+          "snippet": "Mighty"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 789,
+          "snippet": "Thy glory"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 158,
+          "snippet": "on thy glory"
+        }
+      ]
+    }
+  ],
+  "section_index": "CXLIII.4",
+  "section": "CXLIII",
+  "section_para": 4
 }

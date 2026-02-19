@@ -1,10 +1,491 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 461,
   "source_text": "من الكارهين، وأنت يا سفير تفكّر في نفسك أقلّ من آن ثمّ أنصف في ذاتك بأيّ جرم افتريت علينا عند هؤلاء الوكلاء واتّبعت هواك وأعرضت عن الصّدق وكنت من المفترين، بعد الّذي ما عاشرتني وما عاشرتك وما رأيتني إلّا في بيت أبيك أيّام الّتي فيها يذكر مصائب الحسين وفي تلك المجالس لم يجد الفرصة أحد ليفتح اللّسان ويشتغل بالبيان حتّى يعرف مطالبه أو عقائده وأنت تصدّقني في ذلك لو تكون من الصّادقين، وفي غير تلك المجالس ما دخلت لتراني أنت أو يراني غيرك مع ذلك كيف أفتيت عليّ ما لا سمعت منّي، أما سمعت ما قال عزّ وجلّ: ﴿لا تقُولُوا لِمَنْ أَلْقَى إِلَيْكُمُ السَّلامَ لَسْتَ مُؤْمِنًا﴾ ولا تطرد الّذين يدعون ربّهم بالغداة",
   "translation": "Pause for but a little while and reflect, O Minister, and be fair in thy judgment. What is it that We have committed that could justify thee in having slandered Us unto the King’s Ministers, in following thy desires, in perverting the truth, and in uttering thy calumnies against Us? We have never met each other except when We met thee in thy father’s house, in the days when the martyrdom of Imám Ḥusayn was being commemorated. On those occasions no one could have the chance of making known to others his views and beliefs in conversation or in discourse. Thou wilt bear witness to the truth of My words, if thou be of the truthful. I have frequented no other gatherings in which thou couldst have learned My mind or in which any other could have done so. How, then, didst thou pronounce thy verdict against Me, when thou hadst not heard My testimony from Mine own lips? Hast thou not heard what God, exalted be His glory, hath said: “Say not to every one who meeteth you with a greeting, ‘Thou art not a believer’.” “Thrust not away those who cry to their Lord at morn and even, craving to behold His face.” Thou hast indeed forsaken what the Book of God hath prescribed, and yet thou deemest thyself to be a believer!",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "how-didst-thou-pronounce-verdict",
+  "alignment": [
+    {
+      "ar": "الكارهين",
+      "en": "those who"
+    },
+    {
+      "ar": "سفير",
+      "en": "Minister"
+    },
+    {
+      "ar": "تفكّر",
+      "en": "reflect"
+    },
+    {
+      "ar": "نفسك",
+      "en": "thy"
+    },
+    {
+      "ar": "أقلّ",
+      "en": "but a little"
+    },
+    {
+      "ar": "آن",
+      "en": "while"
+    },
+    {
+      "ar": "أنصف",
+      "en": "be fair"
+    },
+    {
+      "ar": "ذاتك",
+      "en": "thy judgment"
+    },
+    {
+      "ar": "جرم",
+      "en": "committed"
+    },
+    {
+      "ar": "افتريت",
+      "en": "slandered"
+    },
+    {
+      "ar": "علينا",
+      "en": "Us"
+    },
+    {
+      "ar": "هؤلاء",
+      "en": "the"
+    },
+    {
+      "ar": "اتّبعت",
+      "en": "following"
+    },
+    {
+      "ar": "هواك",
+      "en": "thy desires"
+    },
+    {
+      "ar": "أعرضت",
+      "en": "perverting"
+    },
+    {
+      "ar": "الصّدق",
+      "en": "the truth"
+    },
+    {
+      "ar": "كنت",
+      "en": "uttering"
+    },
+    {
+      "ar": "المفترين",
+      "en": "thy calumnies"
+    },
+    {
+      "ar": "عاشرتني",
+      "en": "met"
+    },
+    {
+      "ar": "عاشرتك",
+      "en": "each other"
+    },
+    {
+      "ar": "رأيتني",
+      "en": "met thee"
+    },
+    {
+      "ar": "بيت",
+      "en": "house"
+    },
+    {
+      "ar": "أيّام",
+      "en": "the days"
+    },
+    {
+      "ar": "يذكر",
+      "en": "commemorated"
+    },
+    {
+      "ar": "مصائب",
+      "en": "martyrdom"
+    },
+    {
+      "ar": "الحسين",
+      "en": "Imám Ḥusayn"
+    },
+    {
+      "ar": "المجالس",
+      "en": "occasions"
+    },
+    {
+      "ar": "يجد",
+      "en": "have"
+    },
+    {
+      "ar": "الفرصة",
+      "en": "the chance"
+    },
+    {
+      "ar": "أحد",
+      "en": "no one"
+    },
+    {
+      "ar": "يفتح",
+      "en": "making known"
+    },
+    {
+      "ar": "اللّسان",
+      "en": "conversation"
+    },
+    {
+      "ar": "يشتغل",
+      "en": "discourse"
+    },
+    {
+      "ar": "البيان",
+      "en": "views"
+    },
+    {
+      "ar": "يعرف",
+      "en": "learned"
+    },
+    {
+      "ar": "مطالبه",
+      "en": "his"
+    },
+    {
+      "ar": "عقائده",
+      "en": "beliefs"
+    },
+    {
+      "ar": "تصدّقني",
+      "en": "bear witness"
+    },
+    {
+      "ar": "تكون",
+      "en": "be"
+    },
+    {
+      "ar": "الصّادقين",
+      "en": "the truthful"
+    },
+    {
+      "ar": "غير",
+      "en": "no other"
+    },
+    {
+      "ar": "تلك",
+      "en": "those"
+    },
+    {
+      "ar": "دخلت",
+      "en": "frequented"
+    },
+    {
+      "ar": "تراني",
+      "en": "couldst have learned My mind"
+    },
+    {
+      "ar": "غيرك",
+      "en": "any other"
+    },
+    {
+      "ar": "أفتيت",
+      "en": "pronounce thy verdict"
+    },
+    {
+      "ar": "عليّ",
+      "en": "against Me"
+    },
+    {
+      "ar": "سمعت",
+      "en": "hadst not heard"
+    },
+    {
+      "ar": "منّي",
+      "en": "from Mine own lips"
+    },
+    {
+      "ar": "قال",
+      "en": "said"
+    },
+    {
+      "ar": "عزّ وجلّ",
+      "en": "exalted be His glory"
+    },
+    {
+      "ar": "لا تقُولُوا",
+      "en": "Say not"
+    },
+    {
+      "ar": "لِمَنْ",
+      "en": "to every one who"
+    },
+    {
+      "ar": "أَلْقَى",
+      "en": "meeteth"
+    },
+    {
+      "ar": "إِلَيْكُمُ",
+      "en": "you"
+    },
+    {
+      "ar": "لَسْتَ",
+      "en": "Thou art not"
+    },
+    {
+      "ar": "مُؤْمِنًا",
+      "en": "a believer"
+    },
+    {
+      "ar": "لا تطرد",
+      "en": "Thrust not away"
+    },
+    {
+      "ar": "يدعون",
+      "en": "cry"
+    },
+    {
+      "ar": "ربّهم",
+      "en": "their Lord"
+    },
+    {
+      "ar": "بالغداة",
+      "en": "at morn"
+    }
+  ],
+  "terms": [
+    {
+      "term": "الوکلاء",
+      "transliteration": "w-k-l",
+      "literal": "agency; representation; trusteeship; delegated authority",
+      "se_rendering": "the King's Ministers",
+      "note": "Root typically rendered 'trust,' 'reliance,' or 'agency.' Here rendered 'King's Ministers' — a specific contextual application showing SE's historical precision in administrative terminology.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 44,
+          "snippet": "trust"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 201,
+          "snippet": "ministers of state"
+        }
+      ]
+    },
+    {
+      "term": "الصّدق",
+      "transliteration": "s-d-q",
+      "literal": "to confirm; to verify; to acknowledge; to testify to truth",
+      "se_rendering": "the truth",
+      "note": "Usually 'truth' or 'truthful'; here rendered as 'the truth' in 'perverting the truth.' Consistent with root pattern but emphasizes doctrinal truth being distorted.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 225,
+          "snippet": "acknowledge"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 226,
+          "snippet": "men of truth"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 253,
+          "snippet": "truthful"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 134,
+          "snippet": "the truthful"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 28,
+          "snippet": "truthfulness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 143,
+          "snippet": "fidelity"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 10,
+          "snippet": "truth"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 268,
+          "snippet": "spoken the truth"
+        }
+      ]
+    },
+    {
+      "term": "المجالس",
+      "transliteration": "j-l-s",
+      "literal": "council; assembly; gathering; session",
+      "se_rendering": "those occasions",
+      "note": "Root yields 'council,' 'assembly,' 'gathering.' Here 'occasions' is more abstract. SE chose temporal rather than spatial framing to emphasize the specific commemorative gatherings.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 32,
+          "snippet": "assembly of mystical knowledge"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 258,
+          "snippet": "dwelleth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 434,
+          "snippet": "sitting"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 141,
+          "snippet": "seated"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 201,
+          "snippet": "of the government"
+        }
+      ]
+    },
+    {
+      "term": "اللّسان",
+      "transliteration": "l-s-n",
+      "literal": "tongue; language",
+      "se_rendering": "his views",
+      "note": "Root yields 'tongue,' 'language,' 'sword of your tongue.' Here 'his views' is indirect — SE rendered the phrase 'ليفتح اللّسان' idiomatically rather than literally.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 36,
+          "snippet": "with my tongue"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 745,
+          "snippet": "tongue"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 43,
+          "snippet": "sword of your tongue"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 62,
+          "snippet": "the tongues"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 786,
+          "snippet": "tongues"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 101,
+          "snippet": "in word"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 194,
+          "snippet": "their lying tongues"
+        }
+      ]
+    },
+    {
+      "term": "السلام",
+      "transliteration": "s-l-m",
+      "literal": "resignation; submission; surrender; submissiveness",
+      "se_rendering": "with a greeting",
+      "note": "Root primarily 'resignation,' 'submission,' 'surrender.' Here 'greeting' is semantic shift toward salutation meaning. Reflects Qur'anic context overriding typical Bahá'í theological rendering.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 126,
+          "snippet": "resignation"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 87,
+          "snippet": "King of Islam"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 242,
+          "snippet": "we believe in God"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 260,
+          "snippet": "salutations"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 256,
+          "snippet": "the abode of peace"
+        }
+      ]
+    },
+    {
+      "term": "یدعون",
+      "transliteration": "d-ʿ-w",
+      "literal": "call, invocation, summons; to call, invite, summon",
+      "se_rendering": "cry to their Lord",
+      "note": "Root commonly 'call upon Thee,' 'summoned,' 'invocation.' Here 'cry to their Lord' adds emotional urgency and devotional tone absent in typical renderings.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 839,
+          "snippet": "supplicated Thee"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 199,
+          "snippet": "summoned"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 537,
+          "snippet": "called upon Thy servants"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 36,
+          "snippet": "I call upon Thee"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 24,
+          "snippet": "I call thee"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 34,
+          "snippet": "I summon thee"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 226,
+          "snippet": "summon"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 48,
+          "snippet": "allowed me"
+        }
+      ]
+    }
+  ],
+  "section_index": "CXIII.14",
+  "section": "CXIII",
+  "section_para": 14
 }

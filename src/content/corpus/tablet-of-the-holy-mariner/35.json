@@ -1,10 +1,248 @@
 {
   "work": "Tablet of the Holy Mariner",
   "slug": "tablet-of-the-holy-mariner",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 35,
   "source_text": "ثمّ التفتي إليهم فيما أسرّوه في سرائر سرّهم الأخفى فسبحان ربّي الأبهى",
   "translation": "\"And turn thou unto that which they have concealed in the inmost of their hearts. Glorified be my Lord, the All-Glorious!",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "concealed-inmost-hearts",
+  "alignment": [
+    {
+      "ar": "ثمّ",
+      "en": "And"
+    },
+    {
+      "ar": "التفتي",
+      "en": "turn thou"
+    },
+    {
+      "ar": "إليهم",
+      "en": "unto"
+    },
+    {
+      "ar": "أسرّوه",
+      "en": "concealed"
+    },
+    {
+      "ar": "سرائر",
+      "en": "inmost"
+    },
+    {
+      "ar": "سرّهم",
+      "en": "their hearts"
+    },
+    {
+      "ar": "الأخفى",
+      "en": "the"
+    },
+    {
+      "ar": "فسبحان",
+      "en": "Glorified"
+    },
+    {
+      "ar": "ربّي",
+      "en": "my Lord"
+    },
+    {
+      "ar": "الأبهى",
+      "en": "All-Glorious"
+    }
+  ],
+  "terms": [
+    {
+      "term": "التفتي",
+      "transliteration": "l-t-f",
+      "literal": "to turn; to perceive; to pay attention",
+      "se_rendering": "turn",
+      "note": "Single Jafar occurrence renders 'failed to perceive'; here SE translates actively as 'turn' (imperative mood). Captures command to reorient perception.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 74,
+          "snippet": "failed to perceive"
+        }
+      ]
+    },
+    {
+      "term": "سرّهم",
+      "transliteration": "s-r-r",
+      "literal": "throne; couch; seat of authority",
+      "se_rendering": "hearts",
+      "note": "Root typically rendered 'throne', 'couch', 'mystery', 'Secret' (40 occurrences). Here rendered 'hearts'—a unique semantic shift toward interiority rather than spatial/mystical authority.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 145,
+          "snippet": "couch"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 256,
+          "snippet": "throne"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 185,
+          "snippet": "lamp"
+        },
+        {
+          "work": "tablet-of-carmel",
+          "para": 2,
+          "snippet": "joy"
+        },
+        {
+          "work": "gleanings",
+          "para": 218,
+          "snippet": "mystery"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 831,
+          "snippet": "Secret"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 37,
+          "snippet": "in the gladness"
+        },
+        {
+          "work": "gleanings",
+          "para": 727,
+          "snippet": "gladness"
+        }
+      ]
+    },
+    {
+      "term": "فسبحان",
+      "transliteration": "s-b-ḥ",
+      "literal": "glorified; the All-Praised; exalted",
+      "se_rendering": "Glorified",
+      "note": "Rendered 'Glorified' as perfective verb form; Jafar shows 'All-Praised', 'exalted', 'Gracious God' (23 occurrences). This form emphasizes the verbal act of glorification.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 211,
+          "snippet": "the All-Praised"
+        },
+        {
+          "work": "gleanings",
+          "para": 212,
+          "snippet": "the Breath of the All-Glorious"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 13,
+          "snippet": "the breezes of the All-Glorious"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 42,
+          "snippet": "Gracious God"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 90,
+          "snippet": "Great God"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 62,
+          "snippet": "Glorified art Thou"
+        },
+        {
+          "work": "gleanings",
+          "para": 112,
+          "snippet": "Glory be to Thee"
+        },
+        {
+          "work": "gleanings",
+          "para": 1,
+          "snippet": "Lauded and glorified art Thou"
+        }
+      ]
+    },
+    {
+      "term": "ربّي",
+      "transliteration": "r-b-b",
+      "literal": "divine; of God; lordly",
+      "se_rendering": "Lord",
+      "note": "Standard rendering 'Lord' aligns with primary Jafar data (31 occurrences). Conservative choice maintains personal devotional address.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 2,
+          "snippet": "Holy"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 45,
+          "snippet": "Lord"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 69,
+          "snippet": "lordship"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 201,
+          "snippet": "My Lord's"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 162,
+          "snippet": "Divine might"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 16,
+          "snippet": "divine knowledge"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 205,
+          "snippet": "divine wisdom"
+        },
+        {
+          "work": "gleanings",
+          "para": 684,
+          "snippet": "Divine glory"
+        }
+      ]
+    },
+    {
+      "term": "الأبهى",
+      "transliteration": "b-h-y",
+      "literal": "splendor; glory; magnificence; Bahá (Proper Name in Bahá'í texts)",
+      "se_rendering": "All-Glorious",
+      "note": "Rendered 'All-Glorious' rather than proper name 'Bahá' or 'Abhá' (17 occurrences). Superlative form drives SE toward attributive glory rather than nominative reference.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 280,
+          "snippet": "Bahá"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 59,
+          "snippet": "Glory"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 51,
+          "snippet": "Abhá"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 271,
+          "snippet": "All-Glorious"
+        }
+      ]
+    }
+  ],
+  "section_index": "36",
+  "section": "36",
+  "section_para": 1
 }

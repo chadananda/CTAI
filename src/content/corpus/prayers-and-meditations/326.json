@@ -1,10 +1,513 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 326,
   "source_text": "مَذْكورًا بَيْنَ بَرِيَّتِكَ، وَكُلُّ ذِي بَصَرٍ مِنْ عِبادِكَ يُوقِنُ بِأَنَّ هَيْكَلِي بَاقٍ لا يَفْنى لأنَّ ذِكْرَكَ باقٍ بِدَوامِ نَفْسِكَ وَثَنائَكَ دائِمٌ بِدَوامِ سَلْطَنَتِكَ وَبِهِ يَذْكُرُكَ الذَّاكِرُونَ مِنْ أَصْفِيائِكَ وَالمُخْلِصُونَ مِنْ عِبادِكَ بَلْ كُلُّ مَنْ يَذْكُرُكَ فِي الإِمْكانِ بُدِءَ ذِكْرُهُ مِنْ هذا المَقَامِ وَيَرْجِعُ إِلَيْهِ، كما أَنَّ الشَّمْسَ إِذا أَشْرَقَتْ تَتَجَلَّى عَلَى كُلِّ مَنْ قابَلَها وَالتَّجَلِّي الَّذِيْ ظَهَرَ فِي كُلِّ شَيءٍ هُو مِنْهَا",
   "translation": "Every man endued with insight among Thy servants is persuaded that my self liveth eternally and can never perish, inasmuch as remembrance of Thee is eternal and will endure so long as Thine own Self endureth, and Thy praise is everlasting and will last as long as Thine own sovereignty will last. By its means Thou art glorified by such of Thy chosen ones as call upon Thee and by the sincere among Thy servants. Nay, the praise wherewith any one, in the entire creation, praiseth Thee proceedeth from this exalted self and returneth unto it, even as the sun which, while it shineth, sheddeth its splendor upon whatsoever may be exposed to its rays. From this sun is generated, and unto it must return, the light which is shed over all things.",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "self-liveth-eternally-praise",
+  "alignment": [
+    {
+      "ar": "مَذْكورًا",
+      "en": "glorified"
+    },
+    {
+      "ar": "ذِي",
+      "en": "endued with"
+    },
+    {
+      "ar": "بَصَرٍ",
+      "en": "insight"
+    },
+    {
+      "ar": "عِبادِكَ",
+      "en": "Thy servants"
+    },
+    {
+      "ar": "يُوقِنُ",
+      "en": "is persuaded"
+    },
+    {
+      "ar": "هَيْكَلِي",
+      "en": "my self"
+    },
+    {
+      "ar": "بَاقٍ",
+      "en": "liveth eternally"
+    },
+    {
+      "ar": "يَفْنى",
+      "en": "perish"
+    },
+    {
+      "ar": "ذِكْرَكَ",
+      "en": "remembrance of Thee"
+    },
+    {
+      "ar": "باقٍ",
+      "en": "eternal"
+    },
+    {
+      "ar": "بِدَوامِ",
+      "en": "endure so long as"
+    },
+    {
+      "ar": "نَفْسِكَ",
+      "en": "Thine own Self"
+    },
+    {
+      "ar": "وَثَنائَكَ",
+      "en": "Thy praise"
+    },
+    {
+      "ar": "دائِمٌ",
+      "en": "everlasting"
+    },
+    {
+      "ar": "سَلْطَنَتِكَ",
+      "en": "Thine own sovereignty"
+    },
+    {
+      "ar": "بِهِ",
+      "en": "By its means"
+    },
+    {
+      "ar": "يَذْكُرُكَ",
+      "en": "call upon Thee"
+    },
+    {
+      "ar": "أَصْفِيائِكَ",
+      "en": "Thy chosen ones"
+    },
+    {
+      "ar": "المُخْلِصُونَ",
+      "en": "the sincere"
+    },
+    {
+      "ar": "بَلْ",
+      "en": "Nay"
+    },
+    {
+      "ar": "مَنْ",
+      "en": "any one"
+    },
+    {
+      "ar": "الإِمْكانِ",
+      "en": "the entire creation"
+    },
+    {
+      "ar": "بُدِءَ",
+      "en": "proceedeth"
+    },
+    {
+      "ar": "ذِكْرُهُ",
+      "en": "the praise"
+    },
+    {
+      "ar": "المَقَامِ",
+      "en": "exalted self"
+    },
+    {
+      "ar": "يَرْجِعُ",
+      "en": "returneth"
+    },
+    {
+      "ar": "إِلَيْهِ",
+      "en": "unto it"
+    },
+    {
+      "ar": "أَشْرَقَتْ",
+      "en": "shineth"
+    },
+    {
+      "ar": "قابَلَها",
+      "en": "exposed to its rays"
+    },
+    {
+      "ar": "ظَهَرَ",
+      "en": "is shed"
+    },
+    {
+      "ar": "شَيءٍ",
+      "en": "all things"
+    },
+    {
+      "ar": "مِنْهَا",
+      "en": "From this sun"
+    }
+  ],
+  "terms": [
+    {
+      "term": "هَيْكَلِي",
+      "transliteration": "h-k-l",
+      "literal": "temple; structure; form; body",
+      "se_rendering": "my self",
+      "note": "Typically 'Temple' or 'Súratu'l-Haykal' (20 occurrences), but rendered 'my self' here—unusual personalization transforming architectural metaphor into existential claim of immortality.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "Temple"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 96,
+          "snippet": "Súratu'l-Haykal"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 10,
+          "snippet": "person"
+        },
+        {
+          "work": "gleanings",
+          "para": 168,
+          "snippet": "beauty of the immortal Being"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 154,
+          "snippet": "Being"
+        },
+        {
+          "work": "gleanings",
+          "para": 326,
+          "snippet": "human temple"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 28,
+          "snippet": "body"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 196,
+          "snippet": "temples"
+        }
+      ]
+    },
+    {
+      "term": "بَاقٍ",
+      "transliteration": "b-q-y",
+      "literal": "remaining; everlasting; eternal; immortal",
+      "se_rendering": "liveth eternally",
+      "note": "Standard 'everlasting' or 'eternal' pattern (32 occurrences). Rendered 'liveth eternally' here—SE adds verbal dynamism ('liveth') absent in root, intensifying eschatological permanence.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 2,
+          "snippet": "the Eternal"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 88,
+          "snippet": "everlasting beauty"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 98,
+          "snippet": "everlasting candle"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 117,
+          "snippet": "immortal sovereignty"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 110,
+          "snippet": "everlasting torch of divine guidance"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 56,
+          "snippet": "refrain"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 246,
+          "snippet": "everlasting"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 259,
+          "snippet": "O thou Remnant of God"
+        }
+      ]
+    },
+    {
+      "term": "سَلْطَنَتِكَ",
+      "transliteration": "s-l-ṭ",
+      "literal": "dominion; authority; power; sovereignty; control",
+      "se_rendering": "Thine own sovereignty",
+      "note": "Consistently 'sovereignty' across 43 occurrences. Maintained here but structurally paired with 'praise' to establish God's dual dimensions: power and recognition.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 369,
+          "snippet": "sovereignty"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 151,
+          "snippet": "dominion"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 13,
+          "snippet": "O King"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 157,
+          "snippet": "the Sháh"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 1,
+          "snippet": "the King"
+        },
+        {
+          "work": "gleanings",
+          "para": 472,
+          "snippet": "King (Sulṭán 'Abdu'l-'Azíz)"
+        },
+        {
+          "work": "gleanings",
+          "para": 236,
+          "snippet": "the Sulṭán"
+        },
+        {
+          "work": "gleanings",
+          "para": 592,
+          "snippet": "by virtue of His sovereignty"
+        }
+      ]
+    },
+    {
+      "term": "أَصْفِيائِكَ",
+      "transliteration": "ṣ-f-y",
+      "literal": "pure one; chosen one; selected one; elite",
+      "se_rendering": "Thy chosen ones",
+      "note": "Standard 'chosen ones' pattern (13 occurrences). 'Thy chosen ones' here preserves standard usage but emphasizes exclusivity of those who remember God.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 45,
+          "snippet": "Thy Holy Ones"
+        },
+        {
+          "work": "gleanings",
+          "para": 94,
+          "snippet": "holy and chosen Messengers"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 133,
+          "snippet": "chosen Ones"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 110,
+          "snippet": "holy, and chosen Messengers"
+        }
+      ]
+    },
+    {
+      "term": "المَقَامِ",
+      "transliteration": "q-w-m",
+      "literal": "rising; standing; uprising; resurrection",
+      "se_rendering": "this exalted self",
+      "note": "Root typically yields 'Resurrection' or 'uprising' (109 occurrences), but rendered 'this exalted self' here—contextual deviation identifying the speaker's station as origin-point of all remembrance.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 152,
+          "snippet": "Day of Resurrection"
+        },
+        {
+          "work": "gleanings",
+          "para": 437,
+          "snippet": "arise"
+        },
+        {
+          "work": "gleanings",
+          "para": 513,
+          "snippet": "dedicateth"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 153,
+          "snippet": "Resurrection"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 74,
+          "snippet": "rise"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "peoples"
+        },
+        {
+          "work": "gleanings",
+          "para": 693,
+          "snippet": "commandments"
+        },
+        {
+          "work": "gleanings",
+          "para": 628,
+          "snippet": "My commandments"
+        }
+      ]
+    },
+    {
+      "term": "الشَّمْسَ",
+      "transliteration": "sh-m-s",
+      "literal": "sun; daystar; manifestation of divine light",
+      "se_rendering": "sun",
+      "note": "Usually 'Sun,' 'Daystar,' or 'Prophets' (13 occurrences). Plain 'sun' here—SE preserves astronomical literalism for simile's natural coherence, avoiding theological substitution.",
+      "cross_refs": [
+        {
+          "work": "fire-tablet",
+          "para": 43,
+          "snippet": "Sun"
+        },
+        {
+          "work": "gleanings",
+          "para": 93,
+          "snippet": "Orb"
+        },
+        {
+          "work": "gleanings",
+          "para": 292,
+          "snippet": "Daystar"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 33,
+          "snippet": "Prophets"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 234,
+          "snippet": "Sun-like Mirrors"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 191,
+          "snippet": "Luminaries arising from the Daysprings"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 199,
+          "snippet": "Luminaries of Truth"
+        }
+      ]
+    },
+    {
+      "term": "والتَّجَلِّي",
+      "transliteration": "j-l-ī",
+      "literal": "effulgence; manifestation; revelation",
+      "se_rendering": "light",
+      "note": "Typically 'effulgence' or technical 'Tajallí' (11 occurrences). Rendered 'light' here—SE simplifies mystical term for clarity within solar metaphor, adapting register to simile's logic.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 48,
+          "snippet": "In the third Tajallí"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 71,
+          "snippet": "effulgent glory"
+        },
+        {
+          "work": "gleanings",
+          "para": 687,
+          "snippet": "unfading light"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 12,
+          "snippet": "splendorous light"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 150,
+          "snippet": "Specific Revelation of God"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 151,
+          "snippet": "Secondary Revelation of God"
+        },
+        {
+          "work": "gleanings",
+          "para": 379,
+          "snippet": "revelation of God"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 203,
+          "snippet": "with the effulgence"
+        }
+      ]
+    },
+    {
+      "term": "ظَهَرَ",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "is generated",
+      "note": "Standard 'manifest' or 'Manifestation' (96 occurrences). Rendered 'is generated' here—unique choice suggesting emanation process rather than revelation, aligning with solar physics metaphor's causal structure.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 53,
+          "snippet": "Manifestation"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 136,
+          "snippet": "evident"
+        },
+        {
+          "work": "gleanings",
+          "para": 222,
+          "snippet": "material"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 206,
+          "snippet": "appeared"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 196,
+          "snippet": "Manifestations of God"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 32,
+          "snippet": "overwhelm the soul"
+        }
+      ]
+    }
+  ],
+  "section_index": "LXXVIII.2",
+  "section": "LXXVIII",
+  "section_para": 2
 }

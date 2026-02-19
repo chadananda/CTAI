@@ -1,10 +1,555 @@
 {
   "work": "The Hidden Words",
   "slug": "the-hidden-words",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 129,
   "source_text": "(٥٢) ﴿ ای پسران غفلت و هوی ﴾\nدشمن مرا در خانه من راه داده‌ايد و دوست مرا از خود رانده‌ايد چنانچه حبّ غير مرا در دل منزل داده‌ايد * بشنويد بيان دوست را و برضوانش اقبال نمائيد * دوستان ظاهر نظر بمصلحت خود يکديگر را دوست داشته و دارند و لکن دوست معنوی شما را لاجل شما دوست داشته و دارد بلکه مخصوص هدايت شما بلايای لا تحصی قبول فرموده * بچنين دوست جفا مکنيد و بکويش بشتابيد * اينست شمس کلمه صدق و وفا که از افق اصبع مالک اسماء اشراق فرموده * افتحوا آذانکم لاصغاء کلمة اللّه المهيمن القيّوم *",
   "translation": "(52) O CHILDREN OF NEGLIGENCE AND PASSION\nYe have suffered My enemy to enter My house and have cast out My friend, for ye have enshrined the love of another than Me in your hearts. Give ear to the sayings of the Friend and turn towards His paradise. Worldly friends, seeking their own good, appear to love one the other, whereas the true Friend hath loved and doth love you for your own sakes; indeed He hath suffered for your guidance countless afflictions. Be not disloyal to such a Friend, nay rather hasten unto Him. Such is the daystar of the word of truth and faithfulness, that hath dawned above the horizon of the pen of the Lord of all names. Open your ears that ye may hearken unto the word of God, the Help in peril, the Self-existent.",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "true-friend-daystar-faithfulness",
+  "alignment": [
+    {
+      "ar": "ای",
+      "en": "O"
+    },
+    {
+      "ar": "پسران",
+      "en": "CHILDREN"
+    },
+    {
+      "ar": "غفلت",
+      "en": "NEGLIGENCE"
+    },
+    {
+      "ar": "هوی",
+      "en": "PASSION"
+    },
+    {
+      "ar": "دشمن",
+      "en": "enemy"
+    },
+    {
+      "ar": "مرا",
+      "en": "My"
+    },
+    {
+      "ar": "خانه",
+      "en": "house"
+    },
+    {
+      "ar": "راه داده‌ايد",
+      "en": "to enter"
+    },
+    {
+      "ar": "دوست",
+      "en": "friend"
+    },
+    {
+      "ar": "رانده‌ايد",
+      "en": "cast out"
+    },
+    {
+      "ar": "حبّ",
+      "en": "love"
+    },
+    {
+      "ar": "غير",
+      "en": "another"
+    },
+    {
+      "ar": "دل",
+      "en": "hearts"
+    },
+    {
+      "ar": "منزل داده‌ايد",
+      "en": "enshrined"
+    },
+    {
+      "ar": "بشنويد",
+      "en": "Give ear"
+    },
+    {
+      "ar": "بيان",
+      "en": "sayings"
+    },
+    {
+      "ar": "دوست",
+      "en": "Friend"
+    },
+    {
+      "ar": "برضوانش",
+      "en": "paradise"
+    },
+    {
+      "ar": "اقبال نمائيد",
+      "en": "turn"
+    },
+    {
+      "ar": "دوستان",
+      "en": "friends"
+    },
+    {
+      "ar": "ظاهر",
+      "en": "Worldly"
+    },
+    {
+      "ar": "نظر",
+      "en": "appear"
+    },
+    {
+      "ar": "بمصلحت",
+      "en": "good"
+    },
+    {
+      "ar": "خود",
+      "en": "their own"
+    },
+    {
+      "ar": "يکديگر",
+      "en": "one the other"
+    },
+    {
+      "ar": "لکن",
+      "en": "whereas"
+    },
+    {
+      "ar": "دوست معنوی",
+      "en": "true Friend"
+    },
+    {
+      "ar": "شما",
+      "en": "you"
+    },
+    {
+      "ar": "لاجل",
+      "en": "for"
+    },
+    {
+      "ar": "شما",
+      "en": "your own sakes"
+    },
+    {
+      "ar": "دوست داشته و دارد",
+      "en": "loved and doth love"
+    },
+    {
+      "ar": "بلکه",
+      "en": "indeed"
+    },
+    {
+      "ar": "هدايت",
+      "en": "guidance"
+    },
+    {
+      "ar": "شما",
+      "en": "your"
+    },
+    {
+      "ar": "بلايای",
+      "en": "afflictions"
+    },
+    {
+      "ar": "لا تحصی",
+      "en": "countless"
+    },
+    {
+      "ar": "قبول فرموده",
+      "en": "suffered"
+    },
+    {
+      "ar": "بچنين",
+      "en": "such"
+    },
+    {
+      "ar": "جفا مکنيد",
+      "en": "Be not disloyal"
+    },
+    {
+      "ar": "بکويش",
+      "en": "unto Him"
+    },
+    {
+      "ar": "بشتابيد",
+      "en": "hasten"
+    },
+    {
+      "ar": "اينست",
+      "en": "Such is"
+    },
+    {
+      "ar": "شمس",
+      "en": "daystar"
+    },
+    {
+      "ar": "کلمه",
+      "en": "word"
+    },
+    {
+      "ar": "صدق",
+      "en": "truth"
+    },
+    {
+      "ar": "وفا",
+      "en": "faithfulness"
+    },
+    {
+      "ar": "افق",
+      "en": "horizon"
+    },
+    {
+      "ar": "اصبع",
+      "en": "pen"
+    },
+    {
+      "ar": "مالک اسماء",
+      "en": "Lord of all names"
+    },
+    {
+      "ar": "اشراق فرموده",
+      "en": "dawned"
+    },
+    {
+      "ar": "افتحوا",
+      "en": "Open"
+    },
+    {
+      "ar": "آذانکم",
+      "en": "your ears"
+    },
+    {
+      "ar": "لاصغاء",
+      "en": "hearken"
+    },
+    {
+      "ar": "اللّه",
+      "en": "God"
+    },
+    {
+      "ar": "المهيمن",
+      "en": "Help in peril"
+    },
+    {
+      "ar": "القيّوم",
+      "en": "Self-existent"
+    }
+  ],
+  "terms": [
+    {
+      "term": "غفلت",
+      "transliteration": "gh-f-l",
+      "literal": "heedlessness; negligence; inattention",
+      "se_rendering": "Negligence",
+      "note": "Root meaning heedlessness; SE typically renders 'heedless' or 'O heedless one.' Here capitalized in heading as 'Negligence,' treating it as a vice-personification parallel to 'Passion.'",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 158,
+          "snippet": "O heedless one"
+        },
+        {
+          "work": "gleanings",
+          "para": 132,
+          "snippet": "heedless"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 134,
+          "snippet": "thou who hast gone astray"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 156,
+          "snippet": "thou who art gone astray"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 6,
+          "snippet": "my heedlessness"
+        },
+        {
+          "work": "gleanings",
+          "para": 214,
+          "snippet": "who have been heedless"
+        },
+        {
+          "work": "gleanings",
+          "para": 413,
+          "snippet": "the heedless"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 273,
+          "snippet": "wayward"
+        }
+      ]
+    },
+    {
+      "term": "منزل",
+      "transliteration": "n-z-l",
+      "literal": "to descend, to be revealed",
+      "se_rendering": "enshrined",
+      "note": "Root denotes descent/revelation (88 occurrences). Here 'enshrined' is unique—capturing the spiritual lodging of love in hearts, a more intimate rendering than typical 'sent down' or 'revealed.'",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 643,
+          "snippet": "sent down"
+        },
+        {
+          "work": "gleanings",
+          "para": 218,
+          "snippet": "revealed"
+        },
+        {
+          "work": "gleanings",
+          "para": 656,
+          "snippet": "descended"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 175,
+          "snippet": "didst send down"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 34,
+          "snippet": "Descend"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 47,
+          "snippet": "pour forth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 330,
+          "snippet": "send down"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 40,
+          "snippet": "were revealed"
+        }
+      ]
+    },
+    {
+      "term": "بيان",
+      "transliteration": "b-y-n",
+      "literal": "to manifest; to make clear; clear, evident",
+      "se_rendering": "sayings",
+      "note": "Typically 'clear proofs' or 'the Bayán.' Here 'sayings of the Friend'—SE emphasizes oratory address over manifestation, highlighting the relational context rather than theological exposition.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 223,
+          "snippet": "the Expounder, the Most Manifest"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 231,
+          "snippet": "clear verses"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 3,
+          "snippet": "proofs"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 12,
+          "snippet": "clear proofs"
+        },
+        {
+          "work": "gleanings",
+          "para": 563,
+          "snippet": "Dawning-Place of the proofs"
+        },
+        {
+          "work": "gleanings",
+          "para": 292,
+          "snippet": "the Bayán"
+        },
+        {
+          "work": "gleanings",
+          "para": 636,
+          "snippet": "utterance"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 101,
+          "snippet": "Bayán"
+        }
+      ]
+    },
+    {
+      "term": "اقبال",
+      "transliteration": "q-b-l",
+      "literal": "group; company; tribe; sort; kind",
+      "se_rendering": "paradise",
+      "note": "Root means group/company (58 occurrences). SE renders 'paradise' here—interpreting it as divine acceptance/favour leading to paradise, a devotional rather than literal semantic choice.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 698,
+          "snippet": "company"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 552,
+          "snippet": "seal of acceptance"
+        },
+        {
+          "work": "gleanings",
+          "para": 603,
+          "snippet": "if it be accepted and take effect"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 146,
+          "snippet": "breeze that bloweth from the meads of the good-pleasure of God"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 25,
+          "snippet": "not a drop is acceptable"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 71,
+          "snippet": "hearkened unto and accepted"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 74,
+          "snippet": "tribes"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 24,
+          "snippet": "kindreds and religions"
+        }
+      ]
+    },
+    {
+      "term": "شمس",
+      "transliteration": "sh-m-s",
+      "literal": "sun; daystar; manifestation of divine light",
+      "se_rendering": "daystar",
+      "note": "Standard 'Sun' or 'Daystar' (13 occurrences). 'Daystar' selected here to parallel classical dawn imagery, reinforcing the radiating truth motif over celestial bodies.",
+      "cross_refs": [
+        {
+          "work": "fire-tablet",
+          "para": 43,
+          "snippet": "Sun"
+        },
+        {
+          "work": "gleanings",
+          "para": 93,
+          "snippet": "Orb"
+        },
+        {
+          "work": "gleanings",
+          "para": 292,
+          "snippet": "Daystar"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 33,
+          "snippet": "Prophets"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 234,
+          "snippet": "Sun-like Mirrors"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 191,
+          "snippet": "Luminaries arising from the Daysprings"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 715,
+          "snippet": "suns"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 199,
+          "snippet": "Luminaries of Truth"
+        }
+      ]
+    },
+    {
+      "term": "وفا",
+      "transliteration": "w-f-y",
+      "literal": "faithfulness; loyalty; fulfillment; fidelity",
+      "se_rendering": "faithfulness",
+      "note": "Consistently 'faithfulness' or 'fidelity' (15 occurrences). Here paired with 'truth' in 'word of truth and faithfulness'—both nouns treated as co-equal divine attributes.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 10,
+          "snippet": "faithfulness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 24,
+          "snippet": "ye that are foolish"
+        }
+      ]
+    },
+    {
+      "term": "القیوم",
+      "transliteration": "q-w-m",
+      "literal": "rising; standing; uprising; resurrection",
+      "se_rendering": "Self-existent",
+      "note": "Usually 'Resurrection' or 'Self-existent' (109 occurrences). Here 'Self-existent' emphasizes God's independent being; grammatically modifying 'word' rather than denoting eschatological event.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 152,
+          "snippet": "Day of Resurrection"
+        },
+        {
+          "work": "gleanings",
+          "para": 437,
+          "snippet": "arise"
+        },
+        {
+          "work": "gleanings",
+          "para": 513,
+          "snippet": "dedicateth"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 153,
+          "snippet": "Resurrection"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 74,
+          "snippet": "rise"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "peoples"
+        },
+        {
+          "work": "gleanings",
+          "para": 693,
+          "snippet": "commandments"
+        },
+        {
+          "work": "gleanings",
+          "para": 628,
+          "snippet": "My commandments"
+        }
+      ]
+    }
+  ],
+  "section_index": "253",
+  "section": "253",
+  "section_para": 1
 }

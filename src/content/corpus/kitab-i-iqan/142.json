@@ -1,10 +1,526 @@
 {
   "work": "Kitab-i-Iqan",
   "slug": "kitab-i-iqan",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 142,
   "source_text": "و مثل اين از حضرت صادق ذکر شده که روزی شخصی از اصحاب در خدمت آن حضرت شکايت از فقر نمود.  آن جمال لا يزالی فرمودند که تو غنی هستی و از شراب غنا آشاميده ای. آن فقير از بيان طلعت منير متحيّر شد که چگونه غنيّ هستم که به فلسی محتاجم؟ آن حضرت فرمود:  آيا محبّت ما را نداری؟ عرض نمود:  بلی، يا ابن رسول اللّه.  فرمود:  آيا به هزار دينار اين را مبايعه می نمائی؟ عرض نمود که به جميع دنيا و آنچه در آن است نمی دهم.  حضرت فرمودند:  آيا نفسی که چنين چيزی نزد او باشد که او را به عالم ندهد چگونه فقير است؟",
   "translation": "In like manner, it is related that on a certain day, one of the companions of Sádiq complained of his poverty before him. Whereupon, Sádiq, that immortal beauty, made reply: “Verily thou art rich, and hast drunk the draught of wealth.” That poverty-stricken soul was perplexed at the words uttered by that luminous countenance, and said: “Where are my riches, I who stand in need of a single coin?” Sádiq thereupon observed: “Dost thou not possess our love?” He replied: “Yea, I possess it, O thou scion of the Prophet of God!” And Sádiq asked him saying: “Exchangest thou this love for one thousand dinars?” He answered: “Nay, never will I exchange it, though the world and all that is therein be given me!” Then Sádiq remarked: “How can he who possesses such a treasure be called poor?”",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "treasure-possessed-cannot-poor",
+  "alignment": [
+    {
+      "ar": "مثل",
+      "en": "like manner"
+    },
+    {
+      "ar": "اين",
+      "en": "this"
+    },
+    {
+      "ar": "حضرت",
+      "en": "Sádiq"
+    },
+    {
+      "ar": "ذکر",
+      "en": "related"
+    },
+    {
+      "ar": "روزی",
+      "en": "on a certain day"
+    },
+    {
+      "ar": "شخصی",
+      "en": "one"
+    },
+    {
+      "ar": "اصحاب",
+      "en": "companions"
+    },
+    {
+      "ar": "خدمت",
+      "en": "before"
+    },
+    {
+      "ar": "آن حضرت",
+      "en": "him"
+    },
+    {
+      "ar": "شکايت",
+      "en": "complained"
+    },
+    {
+      "ar": "فقر",
+      "en": "poverty"
+    },
+    {
+      "ar": "جمال",
+      "en": "beauty"
+    },
+    {
+      "ar": "لا يزالی",
+      "en": "immortal"
+    },
+    {
+      "ar": "فرمودند",
+      "en": "made reply"
+    },
+    {
+      "ar": "تو",
+      "en": "thou"
+    },
+    {
+      "ar": "غنی",
+      "en": "rich"
+    },
+    {
+      "ar": "هستی",
+      "en": "art"
+    },
+    {
+      "ar": "شراب",
+      "en": "draught"
+    },
+    {
+      "ar": "غنا",
+      "en": "wealth"
+    },
+    {
+      "ar": "آشاميده",
+      "en": "drunk"
+    },
+    {
+      "ar": "ای",
+      "en": "hast"
+    },
+    {
+      "ar": "فقير",
+      "en": "poverty-stricken soul"
+    },
+    {
+      "ar": "بيان",
+      "en": "words"
+    },
+    {
+      "ar": "طلعت",
+      "en": "countenance"
+    },
+    {
+      "ar": "منير",
+      "en": "luminous"
+    },
+    {
+      "ar": "متحيّر",
+      "en": "perplexed"
+    },
+    {
+      "ar": "چگونه",
+      "en": "Where"
+    },
+    {
+      "ar": "غنيّ",
+      "en": "riches"
+    },
+    {
+      "ar": "فلسی",
+      "en": "single coin"
+    },
+    {
+      "ar": "محتاجم",
+      "en": "stand in need"
+    },
+    {
+      "ar": "آيا",
+      "en": "Dost"
+    },
+    {
+      "ar": "محبّت",
+      "en": "love"
+    },
+    {
+      "ar": "ما",
+      "en": "our"
+    },
+    {
+      "ar": "نداری",
+      "en": "possess"
+    },
+    {
+      "ar": "عرض نمود",
+      "en": "replied"
+    },
+    {
+      "ar": "بلی",
+      "en": "Yea"
+    },
+    {
+      "ar": "يا",
+      "en": "O"
+    },
+    {
+      "ar": "ابن",
+      "en": "scion"
+    },
+    {
+      "ar": "رسول",
+      "en": "Prophet"
+    },
+    {
+      "ar": "اللّه",
+      "en": "God"
+    },
+    {
+      "ar": "هزار",
+      "en": "one thousand"
+    },
+    {
+      "ar": "دينار",
+      "en": "dinars"
+    },
+    {
+      "ar": "مبايعه",
+      "en": "Exchangest"
+    },
+    {
+      "ar": "جميع",
+      "en": "all"
+    },
+    {
+      "ar": "دنيا",
+      "en": "world"
+    },
+    {
+      "ar": "آنچه",
+      "en": "that"
+    },
+    {
+      "ar": "در آن است",
+      "en": "therein"
+    },
+    {
+      "ar": "نمی دهم",
+      "en": "never will I exchange it"
+    },
+    {
+      "ar": "نفسی",
+      "en": "he"
+    },
+    {
+      "ar": "چنين",
+      "en": "such"
+    },
+    {
+      "ar": "چيزی",
+      "en": "treasure"
+    },
+    {
+      "ar": "نزد",
+      "en": "possesses"
+    },
+    {
+      "ar": "او",
+      "en": "who"
+    },
+    {
+      "ar": "ندهد",
+      "en": "given"
+    },
+    {
+      "ar": "فقير",
+      "en": "poor"
+    },
+    {
+      "ar": "است",
+      "en": "can"
+    }
+  ],
+  "terms": [
+    {
+      "term": "جمال",
+      "transliteration": "j-m-l",
+      "literal": "beauty; comeliness",
+      "se_rendering": "beauty",
+      "note": "Rendered as 'beauty' in apposition; corpus shows 'Beauty' (capitalized, divine) and 'Ancient Beauty' as predominant; lowercase 'beauty' here applied directly to Sádiq's person rather than abstract attribute.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 296,
+          "snippet": "Beauty"
+        },
+        {
+          "work": "gleanings",
+          "para": 183,
+          "snippet": "Ancient Beauty"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 193,
+          "snippet": "Among others"
+        },
+        {
+          "work": "gleanings",
+          "para": 359,
+          "snippet": "Amongst"
+        },
+        {
+          "work": "gleanings",
+          "para": 649,
+          "snippet": "by the beauty"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 88,
+          "snippet": "for a beauty"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 116,
+          "snippet": "by Thine Ancient Beauty"
+        },
+        {
+          "work": "gleanings",
+          "para": 165,
+          "snippet": "By My Beauty"
+        }
+      ]
+    },
+    {
+      "term": "غنی",
+      "transliteration": "gh-n-y",
+      "literal": "to be independent of; to be in no need of; to dispense with",
+      "se_rendering": "rich",
+      "note": "Root meaning 'to be independent of'; rendered as 'rich' in address (تو غنی), departing from 'Self-Sufficing' or 'All-Bounteous' patterns used for divine attributes in other contexts.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 27,
+          "snippet": "in no need of"
+        },
+        {
+          "work": "gleanings",
+          "para": 685,
+          "snippet": "rid yourselves of attachment"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 660,
+          "snippet": "the All-Possessing"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 77,
+          "snippet": "treasure"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 155,
+          "snippet": "Self-Sufficing"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 115,
+          "snippet": "the All-Bounteous"
+        },
+        {
+          "work": "gleanings",
+          "para": 179,
+          "snippet": "the Self-Subsisting"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 128,
+          "snippet": "riches"
+        }
+      ]
+    },
+    {
+      "term": "فقير",
+      "transliteration": "f-q-r",
+      "literal": "poor; needy; the poor one; pauper",
+      "se_rendering": "poor",
+      "note": "Rendered as 'poor' and 'poverty-stricken' in this narrative; corpus shows 'needy' and 'paupers' as alternatives, but SE maintains concrete economic sense here rather than spiritual poverty.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 665,
+          "snippet": "poor"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 214,
+          "snippet": "passages"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 149,
+          "snippet": "to the poor"
+        },
+        {
+          "work": "gleanings",
+          "para": 268,
+          "snippet": "paupers"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 93,
+          "snippet": "the poor"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 90,
+          "snippet": "the poor and the destitute"
+        }
+      ]
+    },
+    {
+      "term": "بيان",
+      "transliteration": "b-y-n",
+      "literal": "to manifest; to make clear; clear, evident",
+      "se_rendering": "words",
+      "note": "Root typically yields 'the Bayán' or 'clear proofs' in doctrinal contexts; rendered as 'words' here in descriptive phrase 'words uttered by that luminous countenance,' a rare narrative usage.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 223,
+          "snippet": "the Expounder, the Most Manifest"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 3,
+          "snippet": "proofs"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 12,
+          "snippet": "clear proofs"
+        },
+        {
+          "work": "gleanings",
+          "para": 563,
+          "snippet": "Dawning-Place of the proofs"
+        },
+        {
+          "work": "gleanings",
+          "para": 292,
+          "snippet": "the Bayán"
+        },
+        {
+          "work": "gleanings",
+          "para": 636,
+          "snippet": "utterance"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 120,
+          "snippet": "evil"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 178,
+          "snippet": "evident error"
+        }
+      ]
+    },
+    {
+      "term": "محبّت",
+      "transliteration": "ḥ-b-b",
+      "literal": "love; affection",
+      "se_rendering": "our love",
+      "note": "Corpus shows 'loved ones of the Lord' and 'beloved' as dominant renderings; 'our love' here is possessive-relational, emphasizing intimate spiritual attachment over divine attribute.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 3,
+          "snippet": "beloved of the Lord"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 53,
+          "snippet": "loved ones of the Lord"
+        },
+        {
+          "work": "gleanings",
+          "para": 341,
+          "snippet": "loved ones of God"
+        },
+        {
+          "work": "gleanings",
+          "para": 689,
+          "snippet": "beloved of the one true God"
+        },
+        {
+          "work": "gleanings",
+          "para": 640,
+          "snippet": "loved ones"
+        },
+        {
+          "work": "gleanings",
+          "para": 690,
+          "snippet": "beloved of God"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 39,
+          "snippet": "His loved ones"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 10,
+          "snippet": "love for Thee"
+        }
+      ]
+    },
+    {
+      "term": "عالم",
+      "transliteration": "ʿ-l-m",
+      "literal": "world; universe; the worlds",
+      "se_rendering": "world",
+      "note": "Typically 'world' or 'all worlds' across 141 occurrences; 'world' chosen here in final rhetorical question, consistent with material/temporal sense rather than knowledge or universal scope.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 198,
+          "snippet": "world"
+        },
+        {
+          "work": "gleanings",
+          "para": 657,
+          "snippet": "all worlds"
+        },
+        {
+          "work": "gleanings",
+          "para": 182,
+          "snippet": "mankind"
+        },
+        {
+          "work": "gleanings",
+          "para": 183,
+          "snippet": "the whole world"
+        },
+        {
+          "work": "gleanings",
+          "para": 226,
+          "snippet": "all earthly defilements"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 28,
+          "snippet": "knowledge"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 42,
+          "snippet": "banner"
+        },
+        {
+          "work": "gleanings",
+          "para": 38,
+          "snippet": "understanding"
+        }
+      ]
+    }
+  ],
+  "section_index": "142",
+  "section": "142",
+  "section_para": 1
 }

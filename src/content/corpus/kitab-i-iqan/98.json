@@ -1,10 +1,658 @@
 {
   "work": "Kitab-i-Iqan",
   "slug": "kitab-i-iqan",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 98,
   "source_text": "اگر چه از بعضی حمقای ارض شنيده شد که انجيل سماوی در دست نصاری نيست و به آسمان رفته، ديگر غافل از اينکه از همين قول نسبت کمال ظلم و جبر برای حضرت باری جلّ و عزّ ثابت می شود.  زيرا بعد از آنکه شمس جمال عيسی از ميان قوم غائب شد و به فلک چهارم ارتقاء فرمود و کتاب حقّ جلّ ذکره که اعظم برهان اوست ميان خلق او، آن هم غائب شود ديگر آن خلق از زمان عيسی تا زمان اشراق شمس محمّدی به چه متمسّک اند و به کدام امر مأمور؟ و ديگر چگونه مورد انتقام منتقم حقيقی می شوند و محلّ نزول عذاب و سياط سلطان معنوی می گردند ؟ از همه گذشته انقطاع فيض فيّاض و انسداد باب رحمت سلطان ايجاد لازم می آيد.  فَنَعُوذُ بِاللّه عَمّا يَظُنُّ العبادُ فی حَقِّه، فَتَعالی عَمّا هُم يَعرفُونَ.",
   "translation": "We have also heard a number of the foolish of the earth assert that the genuine text of the heavenly Gospel doth not exist amongst the Christians, that it hath ascended unto heaven. How grievously they have erred! How oblivious of the fact that such a statement imputeth the gravest injustice and tyranny to a gracious and loving Providence! How could God, when once the Day-star of the beauty of Jesus had disappeared from the sight of His people, and ascended unto the fourth heaven, cause His holy Book, His most great testimony amongst His creatures, to disappear also? What would be left to that people to cling to from the setting of the day-star of Jesus until the rise of the sun of the Muhammadan Dispensation? What law could be their stay and guide? How could such people be made the victims of the avenging wrath of God, the omnipotent Avenger? How could they be afflicted with the scourge of chastisement by the heavenly King? Above all, how could the flow of the grace of the All-Bountiful be stayed? How could the ocean of His tender mercies be stilled? We take refuge with God, from that which His creatures have fancied about Him! Exalted is He above their comprehension!",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "ocean-tender-mercies-stilled",
+  "alignment": [
+    {
+      "ar": "اگر چه",
+      "en": "also"
+    },
+    {
+      "ar": "بعضی",
+      "en": "a number"
+    },
+    {
+      "ar": "حمقای",
+      "en": "foolish"
+    },
+    {
+      "ar": "ارض",
+      "en": "the earth"
+    },
+    {
+      "ar": "شنيده شد",
+      "en": "heard"
+    },
+    {
+      "ar": "انجيل",
+      "en": "Gospel"
+    },
+    {
+      "ar": "سماوی",
+      "en": "heavenly"
+    },
+    {
+      "ar": "دست",
+      "en": "amongst"
+    },
+    {
+      "ar": "نصاری",
+      "en": "Christians"
+    },
+    {
+      "ar": "نيست",
+      "en": "doth not exist"
+    },
+    {
+      "ar": "آسمان",
+      "en": "heaven"
+    },
+    {
+      "ar": "رفته",
+      "en": "ascended"
+    },
+    {
+      "ar": "غافل",
+      "en": "oblivious"
+    },
+    {
+      "ar": "قول",
+      "en": "statement"
+    },
+    {
+      "ar": "نسبت",
+      "en": "imputeth"
+    },
+    {
+      "ar": "کمال",
+      "en": "gravest"
+    },
+    {
+      "ar": "ظلم",
+      "en": "injustice"
+    },
+    {
+      "ar": "جبر",
+      "en": "tyranny"
+    },
+    {
+      "ar": "حضرت باری",
+      "en": "Providence"
+    },
+    {
+      "ar": "جلّ و عزّ",
+      "en": "gracious and loving"
+    },
+    {
+      "ar": "ثابت می شود",
+      "en": "assert"
+    },
+    {
+      "ar": "بعد از",
+      "en": "when once"
+    },
+    {
+      "ar": "شمس",
+      "en": "Day-star"
+    },
+    {
+      "ar": "جمال",
+      "en": "beauty"
+    },
+    {
+      "ar": "عيسی",
+      "en": "Jesus"
+    },
+    {
+      "ar": "قوم",
+      "en": "His people"
+    },
+    {
+      "ar": "غائب شد",
+      "en": "disappeared"
+    },
+    {
+      "ar": "چهارم",
+      "en": "fourth"
+    },
+    {
+      "ar": "کتاب",
+      "en": "Book"
+    },
+    {
+      "ar": "حقّ",
+      "en": "holy"
+    },
+    {
+      "ar": "جلّ ذکره",
+      "en": "His"
+    },
+    {
+      "ar": "اعظم",
+      "en": "most great"
+    },
+    {
+      "ar": "برهان",
+      "en": "testimony"
+    },
+    {
+      "ar": "خلق",
+      "en": "creatures"
+    },
+    {
+      "ar": "غائب شود",
+      "en": "disappear"
+    },
+    {
+      "ar": "زمان",
+      "en": "setting"
+    },
+    {
+      "ar": "اشراق",
+      "en": "rise"
+    },
+    {
+      "ar": "محمّدی",
+      "en": "Muhammadan Dispensation"
+    },
+    {
+      "ar": "متمسّک",
+      "en": "cling to"
+    },
+    {
+      "ar": "امر",
+      "en": "law"
+    },
+    {
+      "ar": "مأمور",
+      "en": "stay and guide"
+    },
+    {
+      "ar": "مورد",
+      "en": "victims"
+    },
+    {
+      "ar": "انتقام",
+      "en": "avenging wrath"
+    },
+    {
+      "ar": "منتقم حقيقی",
+      "en": "omnipotent Avenger"
+    },
+    {
+      "ar": "محلّ",
+      "en": "afflicted"
+    },
+    {
+      "ar": "نزول",
+      "en": "with"
+    },
+    {
+      "ar": "عذاب",
+      "en": "chastisement"
+    },
+    {
+      "ar": "سياط",
+      "en": "scourge"
+    },
+    {
+      "ar": "سلطان معنوی",
+      "en": "heavenly King"
+    },
+    {
+      "ar": "همه",
+      "en": "all"
+    },
+    {
+      "ar": "گذشته",
+      "en": "Above"
+    },
+    {
+      "ar": "انقطاع",
+      "en": "stayed"
+    },
+    {
+      "ar": "فيض",
+      "en": "flow"
+    },
+    {
+      "ar": "فيّاض",
+      "en": "grace of the All-Bountiful"
+    },
+    {
+      "ar": "انسداد",
+      "en": "stilled"
+    },
+    {
+      "ar": "باب",
+      "en": "ocean"
+    },
+    {
+      "ar": "رحمت",
+      "en": "tender mercies"
+    },
+    {
+      "ar": "لازم می آيد",
+      "en": "be"
+    },
+    {
+      "ar": "فَنَعُوذُ بِاللّه",
+      "en": "We take refuge with God"
+    },
+    {
+      "ar": "العبادُ",
+      "en": "His creatures"
+    },
+    {
+      "ar": "فَتَعالی",
+      "en": "Exalted is He"
+    },
+    {
+      "ar": "يَعرفُونَ",
+      "en": "their comprehension"
+    }
+  ],
+  "terms": [
+    {
+      "term": "ظلم",
+      "transliteration": "z-l-m",
+      "literal": "wrongedness, oppression, meekness; state of being wronged or oppressed",
+      "se_rendering": "injustice and tyranny",
+      "note": "Corpus shows 'wronged/afflicted' predominantly (128 occ.). Here SE renders the abstract 'injustice and tyranny,' not the victimhood angle — emphasizing God's integrity rather than human suffering.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 498,
+          "snippet": "afflicted with countless tribulations"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 49,
+          "snippet": "meekness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 36,
+          "snippet": "Wronged One"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 253,
+          "snippet": "wronged"
+        },
+        {
+          "work": "gleanings",
+          "para": 221,
+          "snippet": "oppression"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 9,
+          "snippet": "Darkness"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 33,
+          "snippet": "tyranny"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 573,
+          "snippet": "oppressed"
+        }
+      ]
+    },
+    {
+      "term": "اعظم",
+      "transliteration": "ʿ-z̟-m",
+      "literal": "greatest; supreme; mightiest",
+      "se_rendering": "most great",
+      "note": "Standard 'greatest/Most Great' (63 occ.). Rendered 'most great' here in lowercase, describing the Book rather than a Name — conservative usage befitting scriptural testimony.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 56,
+          "snippet": "supreme"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 269,
+          "snippet": "Most Great"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 734,
+          "snippet": "Most Great Name"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 3,
+          "snippet": "greatest"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 6,
+          "snippet": "greater"
+        },
+        {
+          "work": "gleanings",
+          "para": 10,
+          "snippet": "most mighty"
+        },
+        {
+          "work": "gleanings",
+          "para": 392,
+          "snippet": "great"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 9,
+          "snippet": "mighty"
+        }
+      ]
+    },
+    {
+      "term": "امر",
+      "transliteration": "ʾ-m-r",
+      "literal": "command; cause; matter; affair",
+      "se_rendering": "law",
+      "note": "Usually 'Cause/Revelation/Command' (75 occ.). Rendered 'law' here — a juridical sense unique to this passage, addressing guidance and legal obligation for Christians.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "His Cause"
+        },
+        {
+          "work": "gleanings",
+          "para": 586,
+          "snippet": "His command"
+        },
+        {
+          "work": "gleanings",
+          "para": 691,
+          "snippet": "His Revelation"
+        },
+        {
+          "work": "gleanings",
+          "para": 723,
+          "snippet": "Cause"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 797,
+          "snippet": "Thy Cause"
+        },
+        {
+          "work": "gleanings",
+          "para": 8,
+          "snippet": "Revelation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 597,
+          "snippet": "service"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 167,
+          "snippet": "things"
+        }
+      ]
+    },
+    {
+      "term": "حقيقی",
+      "transliteration": "h-q-q",
+      "literal": "truth; right; that which is true or just",
+      "se_rendering": "omnipotent Avenger",
+      "note": "Ordinarily 'Truth/True One' (43 occ.). Here becomes 'omnipotent Avenger' — SE imports semantic weight from context ('منتقم') to forge a composite epithet absent from root alone.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 651,
+          "snippet": "the True One"
+        },
+        {
+          "work": "gleanings",
+          "para": 85,
+          "snippet": "the Truth"
+        },
+        {
+          "work": "gleanings",
+          "para": 328,
+          "snippet": "the one true God"
+        },
+        {
+          "work": "gleanings",
+          "para": 707,
+          "snippet": "Him"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 52,
+          "snippet": "Sun of Truth"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 9,
+          "snippet": "evident"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "betrayal of truth"
+        },
+        {
+          "work": "gleanings",
+          "para": 100,
+          "snippet": "clear"
+        }
+      ]
+    },
+    {
+      "term": "نزول",
+      "transliteration": "n-z-l",
+      "literal": "to descend, to be revealed",
+      "se_rendering": "afflicted with the scourge of",
+      "note": "Typically 'revealed/sent down' (88 occ.), marking divine action. Here transformed to passive 'afflicted with the scourge of,' reversing agency to describe punishment rather than grace.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 643,
+          "snippet": "sent down"
+        },
+        {
+          "work": "gleanings",
+          "para": 218,
+          "snippet": "revealed"
+        },
+        {
+          "work": "gleanings",
+          "para": 656,
+          "snippet": "descended"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 175,
+          "snippet": "didst send down"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 34,
+          "snippet": "Descend"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 47,
+          "snippet": "pour forth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 330,
+          "snippet": "send down"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 40,
+          "snippet": "were revealed"
+        }
+      ]
+    },
+    {
+      "term": "سلطان",
+      "transliteration": "s-l-ṭ",
+      "literal": "dominion; authority; power; sovereignty; control",
+      "se_rendering": "heavenly King",
+      "note": "Typically 'sovereignty/dominion' (43 occ.). 'Heavenly King' here personalizes abstract power as a monarch; 'heavenly' bridges the معنوی (spiritual) modifier.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 369,
+          "snippet": "sovereignty"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 151,
+          "snippet": "dominion"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 1,
+          "snippet": "Thy sovereignty"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 184,
+          "snippet": "by Thy sovereignty"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 416,
+          "snippet": "Lord"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 13,
+          "snippet": "O King"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 242,
+          "snippet": "king"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 157,
+          "snippet": "the Sháh"
+        }
+      ]
+    },
+    {
+      "term": "انقطاع",
+      "transliteration": "q-t-ʿ",
+      "literal": "to be severed; to be cut off; to detach oneself; to abstain",
+      "se_rendering": "the flow of the grace",
+      "note": "Root means 'cut off/severed' (33 occ.). SE renders the gerund 'انقطاع' as 'flow...be stayed,' reinterpreting severance as cessation of grace-flow rather than human detachment.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 413,
+          "snippet": "detached themselves"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 427,
+          "snippet": "sundered"
+        },
+        {
+          "work": "gleanings",
+          "para": 662,
+          "snippet": "detacheth himself"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 488,
+          "snippet": "have cut themselves off"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 11,
+          "snippet": "decisive"
+        },
+        {
+          "work": "gleanings",
+          "para": 310,
+          "snippet": "cut into pieces"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 16,
+          "snippet": "detachment"
+        },
+        {
+          "work": "gleanings",
+          "para": 255,
+          "snippet": "detached"
+        }
+      ]
+    },
+    {
+      "term": "رحمت",
+      "transliteration": "r-ḥ-m",
+      "literal": "merciful, compassionate; pertaining to divine mercy",
+      "se_rendering": "tender mercies",
+      "note": "Corpus: 'Divine/merciful/spirit of mercy' (70 occ.). 'Tender mercies' adds emotional register ('tender') not in root; SE emphasizes affection over juridical mercy.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 673,
+          "snippet": "Divine glory"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 57,
+          "snippet": "Divine"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 89,
+          "snippet": "celestial melody"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 114,
+          "snippet": "spirit of mercy"
+        },
+        {
+          "work": "gleanings",
+          "para": 372,
+          "snippet": "merciful"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 220,
+          "snippet": "have mercy on them"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 546,
+          "snippet": "mercy"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 50,
+          "snippet": "the Compassionate"
+        }
+      ]
+    }
+  ],
+  "section_index": "98",
+  "section": "98",
+  "section_para": 1
 }

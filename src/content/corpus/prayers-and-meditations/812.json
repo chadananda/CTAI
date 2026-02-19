@@ -1,10 +1,165 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 812,
   "source_text": "وَغَنَائِكَ لَا إِلَهَ إِلَّا أَنْتَ المُهَيْمِنُ القَيُّوْمُ.",
   "translation": "There is none other God but Thee, the Help in Peril, the Self-Subsisting.",
   "source_lang": "ar",
-  "score": 9.9
+  "score": 9.9,
+  "page_slug": "help-in-peril-self-subsisting",
+  "alignment": [
+    {
+      "ar": "غَنَائِكَ",
+      "en": "Help"
+    },
+    {
+      "ar": "لَا",
+      "en": "none"
+    },
+    {
+      "ar": "إِلَهَ",
+      "en": "God"
+    },
+    {
+      "ar": "أَنْتَ",
+      "en": "Thee"
+    },
+    {
+      "ar": "المُهَيْمِنُ",
+      "en": "Peril"
+    }
+  ],
+  "terms": [
+    {
+      "term": "وَغَنَائِكَ",
+      "transliteration": "gh-n-y",
+      "literal": "to be independent of; to be in no need of; to dispense with",
+      "se_rendering": "none other God",
+      "note": "Root gh-n-y typically renders as 'Self-Sufficing' or 'All-Possessing' (20 occurrences). Here absorbed into negation construction, functioning within denial rather than assertion.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 27,
+          "snippet": "in no need of"
+        },
+        {
+          "work": "gleanings",
+          "para": 685,
+          "snippet": "rid yourselves of attachment"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 77,
+          "snippet": "treasure"
+        },
+        {
+          "work": "gleanings",
+          "para": 711,
+          "snippet": "the All-Possessing"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 155,
+          "snippet": "Self-Sufficing"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 115,
+          "snippet": "the All-Bounteous"
+        },
+        {
+          "work": "gleanings",
+          "para": 179,
+          "snippet": "the Self-Subsisting"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 143,
+          "snippet": "the Rich"
+        }
+      ]
+    },
+    {
+      "term": "المُهَيْمِنُ",
+      "transliteration": "h-y-m",
+      "literal": "the Protector; the Overseer; the Guardian",
+      "se_rendering": "the Help in Peril",
+      "note": "Root h-y-m typically 'the Protector' or 'the Guardian' (4 occurrences). 'Help in Peril' is unique rendering in this corpus, emphasizing divine assistance in crisis rather than watchful oversight.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 37,
+          "snippet": "the Help in Peril"
+        },
+        {
+          "work": "gleanings",
+          "para": 180,
+          "snippet": "the Protector"
+        },
+        {
+          "work": "gleanings",
+          "para": 300,
+          "snippet": "the Guardian"
+        },
+        {
+          "work": "gleanings",
+          "para": 610,
+          "snippet": "the Supreme Protector"
+        }
+      ]
+    },
+    {
+      "term": "القَيُّوْمُ",
+      "transliteration": "q-w-m",
+      "literal": "rising; standing; uprising; resurrection",
+      "se_rendering": "the Self-Subsisting",
+      "note": "Root q-w-m predominantly 'Resurrection/arise' across 109 occurrences. 'Self-Subsisting' is exceptional abstract rendering, privileging ontological self-sufficiency over temporal renewal meaning.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 152,
+          "snippet": "Day of Resurrection"
+        },
+        {
+          "work": "gleanings",
+          "para": 437,
+          "snippet": "arise"
+        },
+        {
+          "work": "gleanings",
+          "para": 513,
+          "snippet": "dedicateth"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 153,
+          "snippet": "Resurrection"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 74,
+          "snippet": "rise"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "peoples"
+        },
+        {
+          "work": "gleanings",
+          "para": 693,
+          "snippet": "commandments"
+        },
+        {
+          "work": "gleanings",
+          "para": 628,
+          "snippet": "My commandments"
+        }
+      ]
+    }
+  ],
+  "section_index": "CLXXXI.3",
+  "section": "CLXXXI",
+  "section_para": 3
 }

@@ -1,10 +1,635 @@
 {
   "work": "Kitab-i-Iqan",
   "slug": "kitab-i-iqan",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 34,
   "source_text": "و در مقام ديگر مقصود از شمس و قمر و نجوم، علمای ظهور قبلند که در زمان ظهور بعد موجودند و زمام دين مردم در دست ايشان است.  و اگر در ظهور شمس اُخری به ضيای او منوّر گشتند لهذا مقبول و منير و روشن خواهند بود و الّا حکم ظلمت در حقّ آنها جاری است اگر چه به ظاهر هادی باشند زيرا که جميع اين مراتب از کفر و ايمان و هدايت و ضلالت و سعادت و شقاوت و نور و ظلمت منوط به تصديق  آن شمس معنوی الهی است.  بر هر نفسی از علماء حکم ايمان از مبدأ عرفان در يوم تغابن و احسان جاری شد حکم علم و رضا و نور و ايمان درباره او صادق است و الّا حکم جهل و  نفی و کفر و ظلم در حقّ او جريان يابد.",
   "translation": "In another sense, by these terms is intended the divines of the former Dispensation, who live in the days of the subsequent Revelations, and who hold the reins of religion in their grasp. If these divines be illumined by the light of the latter Revelation they will be acceptable unto God, and will shine with a light everlasting. Otherwise, they will be declared as darkened, even though to outward seeming they be leaders of men, inasmuch as belief and unbelief, guidance and error, felicity and misery, light and darkness, are all dependent upon the sanction of Him Who is the Day-star of Truth. Whosoever among the divines of every age receiveth, in the Day of Reckoning, the testimony of faith from the Source of true knowledge, he verily becometh the recipient of learning, of divine favour, and of the light of true understanding. Otherwise, he is branded as guilty of folly, denial, blasphemy, and oppression.",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "divines-illumined-by-latter-revelation",
+  "alignment": [
+    {
+      "ar": "مقام",
+      "en": "sense"
+    },
+    {
+      "ar": "ديگر",
+      "en": "another"
+    },
+    {
+      "ar": "مقصود",
+      "en": "intended"
+    },
+    {
+      "ar": "شمس",
+      "en": "Day-star"
+    },
+    {
+      "ar": "قمر",
+      "en": "by these terms"
+    },
+    {
+      "ar": "علمای",
+      "en": "divines"
+    },
+    {
+      "ar": "ظهور",
+      "en": "Dispensation"
+    },
+    {
+      "ar": "قبل",
+      "en": "former"
+    },
+    {
+      "ar": "زمان",
+      "en": "days"
+    },
+    {
+      "ar": "ظهور",
+      "en": "Revelations"
+    },
+    {
+      "ar": "بعد",
+      "en": "subsequent"
+    },
+    {
+      "ar": "موجودند",
+      "en": "live"
+    },
+    {
+      "ar": "زمام",
+      "en": "reins"
+    },
+    {
+      "ar": "دين",
+      "en": "religion"
+    },
+    {
+      "ar": "مردم",
+      "en": "men"
+    },
+    {
+      "ar": "دست",
+      "en": "grasp"
+    },
+    {
+      "ar": "ايشان",
+      "en": "their"
+    },
+    {
+      "ar": "شمس",
+      "en": "light"
+    },
+    {
+      "ar": "اُخری",
+      "en": "latter"
+    },
+    {
+      "ar": "منوّر",
+      "en": "illumined"
+    },
+    {
+      "ar": "گشتند",
+      "en": "be"
+    },
+    {
+      "ar": "مقبول",
+      "en": "acceptable"
+    },
+    {
+      "ar": "منير",
+      "en": "shine"
+    },
+    {
+      "ar": "روشن",
+      "en": "everlasting"
+    },
+    {
+      "ar": "حکم",
+      "en": "declared"
+    },
+    {
+      "ar": "ظلمت",
+      "en": "darkened"
+    },
+    {
+      "ar": "حقّ",
+      "en": "upon"
+    },
+    {
+      "ar": "آنها",
+      "en": "they"
+    },
+    {
+      "ar": "جاری",
+      "en": "dependent"
+    },
+    {
+      "ar": "ظاهر",
+      "en": "outward seeming"
+    },
+    {
+      "ar": "هادی",
+      "en": "leaders"
+    },
+    {
+      "ar": "جميع",
+      "en": "all"
+    },
+    {
+      "ar": "مراتب",
+      "en": "inasmuch"
+    },
+    {
+      "ar": "کفر",
+      "en": "unbelief"
+    },
+    {
+      "ar": "ايمان",
+      "en": "belief"
+    },
+    {
+      "ar": "هدايت",
+      "en": "guidance"
+    },
+    {
+      "ar": "ضلالت",
+      "en": "error"
+    },
+    {
+      "ar": "سعادت",
+      "en": "felicity"
+    },
+    {
+      "ar": "شقاوت",
+      "en": "misery"
+    },
+    {
+      "ar": "ظلمت",
+      "en": "darkness"
+    },
+    {
+      "ar": "تصديق",
+      "en": "sanction"
+    },
+    {
+      "ar": "معنوی",
+      "en": "Truth"
+    },
+    {
+      "ar": "نفسی",
+      "en": "Whosoever"
+    },
+    {
+      "ar": "حکم",
+      "en": "testimony"
+    },
+    {
+      "ar": "ايمان",
+      "en": "faith"
+    },
+    {
+      "ar": "مبدأ",
+      "en": "Source"
+    },
+    {
+      "ar": "عرفان",
+      "en": "knowledge"
+    },
+    {
+      "ar": "يوم",
+      "en": "Day"
+    },
+    {
+      "ar": "تغابن",
+      "en": "Reckoning"
+    },
+    {
+      "ar": "احسان",
+      "en": "true"
+    },
+    {
+      "ar": "جاری",
+      "en": "receiveth"
+    },
+    {
+      "ar": "علم",
+      "en": "learning"
+    },
+    {
+      "ar": "رضا",
+      "en": "favour"
+    },
+    {
+      "ar": "ايمان",
+      "en": "understanding"
+    },
+    {
+      "ar": "صادق",
+      "en": "recipient"
+    },
+    {
+      "ar": "جهل",
+      "en": "folly"
+    },
+    {
+      "ar": "نفی",
+      "en": "denial"
+    },
+    {
+      "ar": "کفر",
+      "en": "blasphemy"
+    },
+    {
+      "ar": "ظلم",
+      "en": "oppression"
+    },
+    {
+      "ar": "جريان",
+      "en": "branded"
+    }
+  ],
+  "terms": [
+    {
+      "term": "مقام",
+      "transliteration": "q-w-m",
+      "literal": "rising; standing; uprising; resurrection",
+      "se_rendering": "sense",
+      "note": "Root 'rising, standing, resurrection' (109 occurrences); here simply 'sense'—SE de-emphasizes eschatological resonance in favor of interpretive distinction.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 437,
+          "snippet": "arise"
+        },
+        {
+          "work": "gleanings",
+          "para": 513,
+          "snippet": "dedicateth"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 74,
+          "snippet": "rise"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "peoples"
+        },
+        {
+          "work": "gleanings",
+          "para": 693,
+          "snippet": "commandments"
+        },
+        {
+          "work": "gleanings",
+          "para": 628,
+          "snippet": "My commandments"
+        },
+        {
+          "work": "gleanings",
+          "para": 518,
+          "snippet": "steadfast"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 38,
+          "snippet": "steadfast in faith"
+        }
+      ]
+    },
+    {
+      "term": "شمس",
+      "transliteration": "sh-m-s",
+      "literal": "sun; daystar; manifestation of divine light",
+      "se_rendering": "Day-star",
+      "note": "Typically 'Sun' or 'Daystar' (13 occurrences); here 'Day-star of Truth' adds explicit theological attribution absent from bare 'sun' renderings.",
+      "cross_refs": [
+        {
+          "work": "fire-tablet",
+          "para": 43,
+          "snippet": "Sun"
+        },
+        {
+          "work": "gleanings",
+          "para": 93,
+          "snippet": "Orb"
+        },
+        {
+          "work": "gleanings",
+          "para": 292,
+          "snippet": "Daystar"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 234,
+          "snippet": "Sun-like Mirrors"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 715,
+          "snippet": "suns"
+        }
+      ]
+    },
+    {
+      "term": "علمای",
+      "transliteration": "ʿ-l-m",
+      "literal": "world; universe; the worlds",
+      "se_rendering": "divines",
+      "note": "Root typically means 'world' or 'worlds' (141 occurrences); here rendered as 'divines'—SE's context-driven interpretation isolates the theological class rather than cosmic scope.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 198,
+          "snippet": "world"
+        },
+        {
+          "work": "gleanings",
+          "para": 657,
+          "snippet": "all worlds"
+        },
+        {
+          "work": "gleanings",
+          "para": 182,
+          "snippet": "mankind"
+        },
+        {
+          "work": "gleanings",
+          "para": 183,
+          "snippet": "the whole world"
+        },
+        {
+          "work": "gleanings",
+          "para": 226,
+          "snippet": "all earthly defilements"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 28,
+          "snippet": "knowledge"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 42,
+          "snippet": "banner"
+        },
+        {
+          "work": "gleanings",
+          "para": 38,
+          "snippet": "understanding"
+        }
+      ]
+    },
+    {
+      "term": "ظهور",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "Revelation",
+      "note": "Consistently 'Manifestation' across 96 occurrences; here 'Revelation' mirrors the theological sense of progressive disclosure rather than abstract appearance.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 53,
+          "snippet": "Manifestation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 160,
+          "snippet": "Author of all Manifestations"
+        },
+        {
+          "work": "gleanings",
+          "para": 222,
+          "snippet": "material"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 206,
+          "snippet": "appeared"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 255,
+          "snippet": "Manifestations"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 791,
+          "snippet": "tokens of Thy handiwork"
+        }
+      ]
+    },
+    {
+      "term": "حکم",
+      "transliteration": "h-k-m",
+      "literal": "government; rule; governance; wisdom",
+      "se_rendering": "rule",
+      "note": "Root covers 'government, rule, wisdom' (69 occurrences); deployed three times here as 'rule'—applying juridical authority to metaphysical states.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-ahd",
+          "para": 6,
+          "snippet": "rule"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "government"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 849,
+          "snippet": "signs of Thy sovereignty"
+        },
+        {
+          "work": "gleanings",
+          "para": 224,
+          "snippet": "mysteries"
+        },
+        {
+          "work": "gleanings",
+          "para": 636,
+          "snippet": "rule of the sword"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 129,
+          "snippet": "perspicuous verses"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 157,
+          "snippet": "justice"
+        },
+        {
+          "work": "gleanings",
+          "para": 139,
+          "snippet": "the face of wisdom"
+        }
+      ]
+    },
+    {
+      "term": "ظلمت",
+      "transliteration": "z-l-m",
+      "literal": "wrongedness, oppression, meekness; state of being wronged or oppressed",
+      "se_rendering": "darkened",
+      "note": "Root meaning 'wrongedness, oppression, meekness' rendered as 'darkened'—SE employs metaphorical light/darkness framework rather than justice vocabulary.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 498,
+          "snippet": "afflicted with countless tribulations"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 49,
+          "snippet": "meekness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 36,
+          "snippet": "Wronged One"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 253,
+          "snippet": "wronged"
+        },
+        {
+          "work": "gleanings",
+          "para": 221,
+          "snippet": "oppression"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 9,
+          "snippet": "Darkness"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 33,
+          "snippet": "tyranny"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 573,
+          "snippet": "oppressed"
+        }
+      ]
+    },
+    {
+      "term": "تصديق",
+      "transliteration": "s-d-q",
+      "literal": "to confirm; to verify; to acknowledge; to testify to truth",
+      "se_rendering": "sanction",
+      "note": "Standard rendering 'confirmed' or 'acknowledge' across 25 occurrences; here 'sanction' conveys divine authorization—a stronger legal/formal sense.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 39,
+          "snippet": "confirmed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 134,
+          "snippet": "the truthful"
+        },
+        {
+          "work": "gleanings",
+          "para": 461,
+          "snippet": "truth"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 28,
+          "snippet": "truthfulness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 143,
+          "snippet": "fidelity"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 268,
+          "snippet": "spoken the truth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 665,
+          "snippet": "seat of truth"
+        },
+        {
+          "work": "gleanings",
+          "para": 364,
+          "snippet": "unquestionable sincerity"
+        }
+      ]
+    },
+    {
+      "term": "عرفان",
+      "transliteration": "ʿ-r-f",
+      "literal": "to confess; to acknowledge; to recognize",
+      "se_rendering": "true knowledge",
+      "note": "Typically 'acknowledged' or 'testifieth' (82 occurrences); here 'true knowledge' emphasizes epistemological foundation over attestation.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 601,
+          "snippet": "testifieth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 729,
+          "snippet": "hath acknowledged"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 582,
+          "snippet": "have recognized"
+        },
+        {
+          "work": "gleanings",
+          "para": 568,
+          "snippet": "acknowledged"
+        },
+        {
+          "work": "gleanings",
+          "para": 295,
+          "snippet": "made objections"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 744,
+          "snippet": "understanding"
+        },
+        {
+          "work": "gleanings",
+          "para": 87,
+          "snippet": "knowledge"
+        },
+        {
+          "work": "gleanings",
+          "para": 2,
+          "snippet": "perception"
+        }
+      ]
+    }
+  ],
+  "section_index": "34",
+  "section": "34",
+  "section_para": 1
 }

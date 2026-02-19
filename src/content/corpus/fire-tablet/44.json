@@ -1,10 +1,338 @@
 {
   "work": "Fire Tablet",
   "slug": "fire-tablet",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 44,
   "source_text": "أَنِ اصْطَبِرْ يَا غَرِيْبَ العَالَمِينَ قَدْ جَعَلْنَا الذِّلَّةَ قَمِيْصَ العِزَّةِ وَالبَلِيَّةَ طِرَازَ هَيْكَلِكَ يَا فَخْرَ العَالَمِينَ *",
   "translation": "We have made abasement the garment of glory, and affliction the adornment of Thy temple, O Pride of the worlds.",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "abasement-garment-glory",
+  "alignment": [
+    {
+      "ar": "اصْطَبِرْ",
+      "en": "abasement"
+    },
+    {
+      "ar": "غَرِيْبَ",
+      "en": "Pride"
+    },
+    {
+      "ar": "العَالَمِينَ",
+      "en": "the worlds"
+    },
+    {
+      "ar": "جَعَلْنَا",
+      "en": "made"
+    },
+    {
+      "ar": "قَمِيْصَ",
+      "en": "garment"
+    },
+    {
+      "ar": "طِرَازَ",
+      "en": "adornment"
+    },
+    {
+      "ar": "هَيْكَلِكَ",
+      "en": "Thy temple"
+    },
+    {
+      "ar": "العَالَمِينَ",
+      "en": "worlds"
+    }
+  ],
+  "terms": [
+    {
+      "term": "غَرِيْبَ",
+      "transliteration": "gh-r-b",
+      "literal": "west; sunset; place of setting",
+      "se_rendering": "Exile",
+      "note": "Root typically yields 'west,' 'foreign land,' or 'exile.' SE selects 'Exile' here—the existential rather than geographical sense, emphasizing spiritual displacement.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 232,
+          "snippet": "west"
+        },
+        {
+          "work": "gleanings",
+          "para": 277,
+          "snippet": "is set"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 51,
+          "snippet": "land of exile"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 56,
+          "snippet": "exile"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 45,
+          "snippet": "set"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 266,
+          "snippet": "sunset"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 250,
+          "snippet": "setting"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 228,
+          "snippet": "setteth"
+        }
+      ]
+    },
+    {
+      "term": "جَعَلْنَا",
+      "transliteration": "j-ʿ-l",
+      "literal": "to make; to cause; to render; to appoint",
+      "se_rendering": "have made",
+      "note": "Root ج-ع-ل spans 37 occurrences with renderings like 'ordained' and 'enable.' Here SE uses simple 'have made,' maintaining direct causal language suited to paradox.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 12,
+          "snippet": "make them"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 212,
+          "snippet": "enable them"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 25,
+          "snippet": "hath ordained"
+        },
+        {
+          "work": "gleanings",
+          "para": 529,
+          "snippet": "ordained"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 172,
+          "snippet": "make him"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 50,
+          "snippet": "assist us to help"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 242,
+          "snippet": "set me"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 191,
+          "snippet": "Deny me not"
+        }
+      ]
+    },
+    {
+      "term": "الذِّلَّةَ",
+      "transliteration": "dh-l-l",
+      "literal": "abasement; humiliation; lowliness; to be abased",
+      "se_rendering": "abasement",
+      "note": "Among 13 occurrences, 'abasement' is SE's primary choice. This passage exemplifies that standard rendering in a paradox where humiliation becomes glory.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 656,
+          "snippet": "abasement"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 857,
+          "snippet": "lowly one"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 11,
+          "snippet": "degradation"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 47,
+          "snippet": "humbled himself"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 10,
+          "snippet": "wronged servant"
+        },
+        {
+          "work": "gleanings",
+          "para": 665,
+          "snippet": "abased"
+        }
+      ]
+    },
+    {
+      "term": "قَمِيْصَ",
+      "transliteration": "q-m-s",
+      "literal": "garment; shirt; tunic",
+      "se_rendering": "garment",
+      "note": "Only 4 occurrences in corpus; SE consistently renders 'garment.' The metaphor of clothing abasement invokes Qur'anic imagery of spiritual investiture.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 10,
+          "snippet": "my garment"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 4,
+          "snippet": "garment"
+        },
+        {
+          "work": "gleanings",
+          "para": 187,
+          "snippet": "their garment"
+        }
+      ]
+    },
+    {
+      "term": "العِزَّةِ",
+      "transliteration": "ʿ-z-z",
+      "literal": "glory; might; honor; dignity; power; majesty",
+      "se_rendering": "glory",
+      "note": "49 occurrences predominantly as 'glory' or 'honor.' SE uses 'glory' here to amplify the oxymoron—abasement as the vestment of ultimate exaltation.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 185,
+          "snippet": "glory"
+        },
+        {
+          "work": "gleanings",
+          "para": 642,
+          "snippet": "honor"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 491,
+          "snippet": "exalted"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 99,
+          "snippet": "Dear"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 38,
+          "snippet": "dearly beloved"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 37,
+          "snippet": "Gracious"
+        },
+        {
+          "work": "gleanings",
+          "para": 260,
+          "snippet": "All-Glorious"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 162,
+          "snippet": "Mighty"
+        }
+      ]
+    },
+    {
+      "term": "طِرَازَ",
+      "transliteration": "t-r-z",
+      "literal": "ornament; adornment; embroidery; stripe",
+      "se_rendering": "adornment",
+      "note": "Only 7 occurrences; SE renders 'adornment' here from root meanings of embroidery and stripe. The ornamental frame elevates affliction to sacred decoration.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 15,
+          "snippet": "with the ornament"
+        },
+        {
+          "work": "gleanings",
+          "para": 426,
+          "snippet": "most wondrous glory"
+        },
+        {
+          "work": "gleanings",
+          "para": 157,
+          "snippet": "ornament of every doctrine"
+        },
+        {
+          "work": "gleanings",
+          "para": 184,
+          "snippet": "glory wherewith God"
+        }
+      ]
+    },
+    {
+      "term": "هَيْكَلِكَ",
+      "transliteration": "h-k-l",
+      "literal": "temple; structure; form; body",
+      "se_rendering": "temple",
+      "note": "20 occurrences with diverse renderings including 'person' and 'human temple.' SE chooses 'temple' to sacralize the addressee's form as a sanctuary of divine presence.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "Temple"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 96,
+          "snippet": "Súratu'l-Haykal"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 10,
+          "snippet": "person"
+        },
+        {
+          "work": "gleanings",
+          "para": 168,
+          "snippet": "beauty of the immortal Being"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 154,
+          "snippet": "Being"
+        },
+        {
+          "work": "gleanings",
+          "para": 326,
+          "snippet": "human temple"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 28,
+          "snippet": "body"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 196,
+          "snippet": "temples"
+        }
+      ]
+    }
+  ],
+  "section_index": "45",
+  "section": "45",
+  "section_para": 1
 }

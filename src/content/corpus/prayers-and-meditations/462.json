@@ -1,10 +1,205 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 462,
   "source_text": "ابِ بُرْهَانِكَ، فَلَمَّا جَاءَ الوَعْدُ وَظَهَرَ المَوْعُودُ أَنْكَرُوهُ عِبَادُكَ الَّذِينَ يَدَّعُونَ الإِيمَانَ بِمَظْهَرِ نَفْسِكَ الَّذِيْ جَعَلْتَهُ مُبَشِّرًا لِهذَا الظُّهُورِ الَّذِيْ مِنْهُ قَرَّتْ عُيُونُ أَهْلِ خِبَاءِ أَحَدِيَّتِكَ، أَيْ رَبِّ لَمْ أَدْرِ بِأَيِّ حُجَّةٍ آمَنُوا بِكَ وَبِآياتِكَ وَبِأَيِّ بُرْهانٍ كَفَرُوا بِسُلْطَانِكَ، كُلَّما أَدْعُوهُمْ",
   "translation": "And when the Pledge was fulfilled and the Promised One appeared, He was rejected by such of Thy servants as profess to have believed in Him in Whom Thy Godhead was manifested, Whom Thou didst ordain to be the Herald of this Revelation, and through Whose advent the eyes of the inmates of the sanctuary of Thy unity were cheered.",
   "source_lang": "ar",
-  "score": 8.5
+  "score": 8.5,
+  "page_slug": "promised-one-rejected-servants",
+  "alignment": [
+    {
+      "ar": "بُرْهَانِكَ",
+      "en": "Revelation"
+    },
+    {
+      "ar": "جَاءَ",
+      "en": "fulfilled"
+    },
+    {
+      "ar": "الوَعْدُ",
+      "en": "Pledge"
+    },
+    {
+      "ar": "ظَهَرَ",
+      "en": "appeared"
+    },
+    {
+      "ar": "المَوْعُودُ",
+      "en": "Promised One"
+    },
+    {
+      "ar": "أَنْكَرُوهُ",
+      "en": "rejected"
+    },
+    {
+      "ar": "عِبَادُكَ",
+      "en": "Thy servants"
+    },
+    {
+      "ar": "الإِيمَانَ",
+      "en": "believed"
+    },
+    {
+      "ar": "مَظْهَرِ",
+      "en": "manifested"
+    },
+    {
+      "ar": "نَفْسِكَ",
+      "en": "Thy Godhead"
+    },
+    {
+      "ar": "جَعَلْتَهُ",
+      "en": "didst ordain"
+    },
+    {
+      "ar": "عُيُونُ",
+      "en": "eyes"
+    },
+    {
+      "ar": "أَهْلِ",
+      "en": "inmates"
+    },
+    {
+      "ar": "خِبَاءِ",
+      "en": "sanctuary"
+    }
+  ],
+  "terms": [
+    {
+      "term": "المَوْعُودُ",
+      "transliteration": "w-ʿ-d",
+      "literal": "promised; the Promised One",
+      "se_rendering": "the Promised One",
+      "note": "Standard rendering across 13 occurrences. Maintains capital-P 'Promised One' throughout corpus as christological parallel.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 8,
+          "snippet": "Promised One"
+        },
+        {
+          "work": "gleanings",
+          "para": 37,
+          "snippet": "promised"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 172,
+          "snippet": "promise"
+        },
+        {
+          "work": "gleanings",
+          "para": 26,
+          "snippet": "promises"
+        }
+      ]
+    },
+    {
+      "term": "مُبَشِّرًا",
+      "transliteration": "b-sh-r",
+      "literal": "human; mankind; human nature",
+      "se_rendering": "the Herald",
+      "note": "Root b-sh-r usually 'human' or 'SON OF MAN' (26 occ.). Only here rendered 'Herald'—unique eschatological function rather than nature.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 87,
+          "snippet": "human"
+        },
+        {
+          "work": "gleanings",
+          "para": 711,
+          "snippet": "law"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 9,
+          "snippet": "testimony written by Mírzá Shu'á'u'lláh"
+        },
+        {
+          "work": "gleanings",
+          "para": 719,
+          "snippet": "human race"
+        },
+        {
+          "work": "tablet-of-carmel",
+          "para": 4,
+          "snippet": "announce"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 8,
+          "snippet": "SON OF MAN"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 231,
+          "snippet": "Forerunner"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 210,
+          "snippet": "that bringest good tidings"
+        }
+      ]
+    },
+    {
+      "term": "أَحَدِيَّتِكَ",
+      "transliteration": "h-d-y",
+      "literal": "oneness; unity; absolute unicity; singleness of divine essence",
+      "se_rendering": "Thy unity",
+      "note": "All 4 corpus occurrences alternate 'unity'/'oneness'/'transcendent unity.' This passage uses 'unity'—simplest form.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 216,
+          "snippet": "the Divine Oneness"
+        }
+      ]
+    },
+    {
+      "term": "حُجَّةٍ",
+      "transliteration": "ḥ-j-j",
+      "literal": "path, way; clear path",
+      "se_rendering": "proof",
+      "note": "Root ḥ-j-j ranges widely: 'Sanctuary,' 'Proofs,' 'veil,' 'proof' (10 occ.). Here 'proof' emphasizes rational grounds for faith—epistemic rather than mystical.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "Sanctuary"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 2,
+          "snippet": "with proofs"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 45,
+          "snippet": "Proofs"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 7,
+          "snippet": "proof"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 262,
+          "snippet": "testimony"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 231,
+          "snippet": "argument"
+        }
+      ]
+    }
+  ],
+  "section_index": "CVIII.2",
+  "section": "CVIII",
+  "section_para": 2
 }

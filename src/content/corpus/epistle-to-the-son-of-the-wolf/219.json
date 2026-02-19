@@ -1,10 +1,610 @@
 {
   "work": "Epistle to the Son of the Wolf",
   "slug": "epistle-to-the-son-of-the-wolf",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 219,
   "source_text": "يا معشر المنصفين در امواج بحر بيان و علم الهی نظر نمائيد و تفکّر کنيد تا بلسان ظاهر و باطن شهادت دهيد بانّ عنده علم کلّ شیء فی الکتاب لا يعزب عن علمه من شیء انّه اظهر ما کان مکنونا اذ استوی علی عرش البيان فی الماب * انچه نازل شده کلمه بکلمه در ارض ظاهر گشته و ميشود از برای احدی مجال اعراض و اعتراض نه و لکن چون انصاف مخذول و مستور اکثری باوهامات خود تکلّم مينمايند *",
   "translation": "O concourse of the fair-minded! Observe and reflect upon the billows of the ocean of the utterance and knowledge of God, so that ye may testify with your inner and outer tongues that with Him is the knowledge of all that is in the Book. Nothing escapeth His knowledge. He, verily, hath manifested that which was hidden, when He, upon His return, mounted the throne of the Bayán. All that hath been sent down hath and will come to pass, word for word, upon earth. No possibility is left for anyone either to turn aside or protest. As fairness, however, is disgraced and concealed, most men speak as prompted by their own idle fancies.",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "knowledge-hidden-made-manifest",
+  "alignment": [
+    {
+      "ar": "يا",
+      "en": "O"
+    },
+    {
+      "ar": "معشر",
+      "en": "concourse"
+    },
+    {
+      "ar": "المنصفين",
+      "en": "the fair-minded"
+    },
+    {
+      "ar": "در",
+      "en": "upon"
+    },
+    {
+      "ar": "امواج",
+      "en": "billows"
+    },
+    {
+      "ar": "بحر",
+      "en": "ocean"
+    },
+    {
+      "ar": "بيان",
+      "en": "utterance"
+    },
+    {
+      "ar": "علم",
+      "en": "knowledge"
+    },
+    {
+      "ar": "الهی",
+      "en": "God"
+    },
+    {
+      "ar": "نظر نمائيد",
+      "en": "Observe"
+    },
+    {
+      "ar": "تفکّر کنيد",
+      "en": "reflect"
+    },
+    {
+      "ar": "بلسان",
+      "en": "tongues"
+    },
+    {
+      "ar": "ظاهر",
+      "en": "outer"
+    },
+    {
+      "ar": "باطن",
+      "en": "inner"
+    },
+    {
+      "ar": "شهادت دهيد",
+      "en": "testify"
+    },
+    {
+      "ar": "بانّ",
+      "en": "that"
+    },
+    {
+      "ar": "عنده",
+      "en": "with Him"
+    },
+    {
+      "ar": "علم کلّ شیء",
+      "en": "knowledge of all"
+    },
+    {
+      "ar": "فی الکتاب",
+      "en": "in the Book"
+    },
+    {
+      "ar": "لا يعزب",
+      "en": "Nothing escapeth"
+    },
+    {
+      "ar": "عن علمه",
+      "en": "His knowledge"
+    },
+    {
+      "ar": "من شیء",
+      "en": ""
+    },
+    {
+      "ar": "انّه",
+      "en": "He"
+    },
+    {
+      "ar": "اظهر",
+      "en": "manifested"
+    },
+    {
+      "ar": "ما کان مکنونا",
+      "en": "that which was hidden"
+    },
+    {
+      "ar": "اذ",
+      "en": "when"
+    },
+    {
+      "ar": "استوی",
+      "en": "mounted"
+    },
+    {
+      "ar": "علی عرش",
+      "en": "the throne"
+    },
+    {
+      "ar": "البيان",
+      "en": "Bayán"
+    },
+    {
+      "ar": "فی الماب",
+      "en": "upon His return"
+    },
+    {
+      "ar": "انچه",
+      "en": "All that"
+    },
+    {
+      "ar": "نازل شده",
+      "en": "sent down"
+    },
+    {
+      "ar": "کلمه بکلمه",
+      "en": "word for word"
+    },
+    {
+      "ar": "در ارض",
+      "en": "upon earth"
+    },
+    {
+      "ar": "ظاهر گشته",
+      "en": "come to pass"
+    },
+    {
+      "ar": "از برای",
+      "en": "for"
+    },
+    {
+      "ar": "احدی",
+      "en": "anyone"
+    },
+    {
+      "ar": "مجال",
+      "en": "possibility"
+    },
+    {
+      "ar": "اعراض",
+      "en": "turn aside"
+    },
+    {
+      "ar": "اعتراض",
+      "en": "protest"
+    },
+    {
+      "ar": "نه",
+      "en": "No"
+    },
+    {
+      "ar": "لکن",
+      "en": "however"
+    },
+    {
+      "ar": "چون",
+      "en": "As"
+    },
+    {
+      "ar": "انصاف",
+      "en": "fairness"
+    },
+    {
+      "ar": "مخذول",
+      "en": "disgraced"
+    },
+    {
+      "ar": "مستور",
+      "en": "concealed"
+    },
+    {
+      "ar": "اکثری",
+      "en": "most men"
+    },
+    {
+      "ar": "باوهامات",
+      "en": "idle fancies"
+    },
+    {
+      "ar": "خود",
+      "en": "their own"
+    },
+    {
+      "ar": "تکلّم مينمايند",
+      "en": "speak"
+    }
+  ],
+  "terms": [
+    {
+      "term": "بیان",
+      "transliteration": "b-y-n",
+      "literal": "to manifest; to make clear; clear, evident",
+      "se_rendering": "the Bayán",
+      "note": "Typically rendered as proper noun 'the Bayán' (87 occurrences). Here used as literal noun phrase 'throne of the Bayán' — preserves technical Bábí-Bahá'í reference while functioning as predicate locus.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 223,
+          "snippet": "the Expounder, the Most Manifest"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 231,
+          "snippet": "clear verses"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 3,
+          "snippet": "proofs"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 12,
+          "snippet": "clear proofs"
+        },
+        {
+          "work": "gleanings",
+          "para": 563,
+          "snippet": "Dawning-Place of the proofs"
+        },
+        {
+          "work": "gleanings",
+          "para": 292,
+          "snippet": "the Bayán"
+        },
+        {
+          "work": "gleanings",
+          "para": 636,
+          "snippet": "utterance"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 101,
+          "snippet": "Bayán"
+        }
+      ]
+    },
+    {
+      "term": "علم",
+      "transliteration": "ʿ-l-m",
+      "literal": "world; universe; the worlds",
+      "se_rendering": "knowledge",
+      "note": "Typically 'knowledge' (141 occurrences), but corpus shows alternate 'world' and 'universe' renderings. Here exclusively 'knowledge' — semantically consistent with epistemological focus.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 198,
+          "snippet": "world"
+        },
+        {
+          "work": "gleanings",
+          "para": 657,
+          "snippet": "all worlds"
+        },
+        {
+          "work": "gleanings",
+          "para": 182,
+          "snippet": "mankind"
+        },
+        {
+          "work": "gleanings",
+          "para": 183,
+          "snippet": "the whole world"
+        },
+        {
+          "work": "gleanings",
+          "para": 226,
+          "snippet": "all earthly defilements"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 76,
+          "snippet": "Knowledge"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 122,
+          "snippet": "commentators"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 42,
+          "snippet": "banner"
+        }
+      ]
+    },
+    {
+      "term": "ظاهر",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "manifested",
+      "note": "Usually 'Manifestation' (96 occurrences); here rendered 'manifested' as past participle. Grammatically necessary for predicate construction; shifts noun to verbal concept.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 53,
+          "snippet": "Manifestation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 160,
+          "snippet": "Author of all Manifestations"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 136,
+          "snippet": "evident"
+        },
+        {
+          "work": "gleanings",
+          "para": 222,
+          "snippet": "material"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 196,
+          "snippet": "Manifestations of God"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 255,
+          "snippet": "Manifestations"
+        }
+      ]
+    },
+    {
+      "term": "باطن",
+      "transliteration": "b-ṭ-n",
+      "literal": "inner; hidden; inward; esoteric",
+      "se_rendering": "inner",
+      "note": "Typically 'concealment', 'inwardly', 'inner life' (13 occurrences). Here 'inner' as adjective in 'inner and outer tongues.' Structurally parallel to ظاهر; maintains binary conceptual schema.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 602,
+          "snippet": "Concealment"
+        },
+        {
+          "work": "gleanings",
+          "para": 362,
+          "snippet": "inner life"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 100,
+          "snippet": "inwardly"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 132,
+          "snippet": "spiritual"
+        },
+        {
+          "work": "gleanings",
+          "para": 405,
+          "snippet": "smirched and mired"
+        },
+        {
+          "work": "gleanings",
+          "para": 493,
+          "snippet": "be"
+        },
+        {
+          "work": "gleanings",
+          "para": 248,
+          "snippet": "wombs"
+        },
+        {
+          "work": "gleanings",
+          "para": 521,
+          "snippet": "bosom"
+        }
+      ]
+    },
+    {
+      "term": "شهادت",
+      "transliteration": "sh-h-d",
+      "literal": "witnessed; observed; seen; evident; manifest",
+      "se_rendering": "testify",
+      "note": "Typically 'manifest' or 'evident' as adjective (74 occurrences); here 'testify' as verb. SE transforms witness-noun into speech-act. Theologically significant — moves from passive observation to active attestation.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 607,
+          "snippet": "manifest"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 35,
+          "snippet": "evident"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 811,
+          "snippet": "I bear witness"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 836,
+          "snippet": "I testify"
+        },
+        {
+          "work": "gleanings",
+          "para": 298,
+          "snippet": "witness"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 138,
+          "snippet": "martyrdom"
+        },
+        {
+          "work": "gleanings",
+          "para": 134,
+          "snippet": "God witnesseth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 230,
+          "snippet": "God testifieth"
+        }
+      ]
+    },
+    {
+      "term": "مکنونا",
+      "transliteration": "k-n-n",
+      "literal": "to do; to make; to perform",
+      "se_rendering": "hidden",
+      "note": "Verb 'to make/do' in root form (18 occurrences); SE renders 'hid' here. Rare verbal usage; corpus shows 'hid' appears minimally. Unusual extraction of past-participle meaning from infinitive form.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 376,
+          "snippet": "consider"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 136,
+          "snippet": "interpret"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 240,
+          "snippet": "observest"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 110,
+          "snippet": "quench"
+        },
+        {
+          "work": "tablet-of-carmel",
+          "para": 5,
+          "snippet": "been wrapped"
+        },
+        {
+          "work": "tablet-of-carmel",
+          "para": 4,
+          "snippet": "hidden"
+        },
+        {
+          "work": "gleanings",
+          "para": 557,
+          "snippet": "hid"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 9,
+          "snippet": "lieth concealed"
+        }
+      ]
+    },
+    {
+      "term": "عرش",
+      "transliteration": "ʿ-r-sh",
+      "literal": "of the Throne; companion of the Throne",
+      "se_rendering": "throne",
+      "note": "Usually 'throne' or 'MY THRONE' (14 occurrences). Here 'throne' in metaphorical phrase 'throne of the Bayán.' Maintains singular concreteness despite abstract predicate; sustains throne imagery.",
+      "cross_refs": [
+        {
+          "work": "the-hidden-words",
+          "para": 120,
+          "snippet": "MY THRONE"
+        },
+        {
+          "work": "gleanings",
+          "para": 11,
+          "snippet": "Our sight"
+        },
+        {
+          "work": "gleanings",
+          "para": 539,
+          "snippet": "the Throne"
+        },
+        {
+          "work": "gleanings",
+          "para": 210,
+          "snippet": "the court of My presence"
+        },
+        {
+          "work": "gleanings",
+          "para": 82,
+          "snippet": "Our throne"
+        },
+        {
+          "work": "gleanings",
+          "para": 51,
+          "snippet": "throne"
+        },
+        {
+          "work": "gleanings",
+          "para": 31,
+          "snippet": "His Throne"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 435,
+          "snippet": "the throne of Thy glory"
+        }
+      ]
+    },
+    {
+      "term": "نازل",
+      "transliteration": "n-z-l",
+      "literal": "to descend, to be revealed",
+      "se_rendering": "sent down",
+      "note": "Standard 'sent down' rendering matches corpus pattern (88 occurrences). Consistent with Qur'anic revelation terminology. No deviation; semantically aligned.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 643,
+          "snippet": "sent down"
+        },
+        {
+          "work": "gleanings",
+          "para": 218,
+          "snippet": "revealed"
+        },
+        {
+          "work": "gleanings",
+          "para": 656,
+          "snippet": "descended"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 175,
+          "snippet": "didst send down"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 34,
+          "snippet": "Descend"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 47,
+          "snippet": "pour forth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 330,
+          "snippet": "send down"
+        },
+        {
+          "work": "gleanings",
+          "para": 604,
+          "snippet": "have been sent down"
+        }
+      ]
+    }
+  ],
+  "section_index": "219",
+  "section": "219",
+  "section_para": 1
 }

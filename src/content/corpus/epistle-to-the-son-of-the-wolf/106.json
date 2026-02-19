@@ -1,10 +1,589 @@
 {
   "work": "Epistle to the Son of the Wolf",
   "slug": "epistle-to-the-son-of-the-wolf",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 106,
   "source_text": "( الی ان قلنا ) و ما جعله اللّه الدّرياق الاعظم و السّبب الاتمّ لصحّته هو اتّحاد من علی الارض علی امر واحد و شريعة واحدة * هذا لا يمکن ابدا الّا بطبيب حاذق کامل مؤيّد * لعمری هذا هو الحقّ و ما بعده الّا الضّلال المبين * کلّما اتی ذاک السّبب الاعظم و اشرق ذاک النّور من مشرق القدم منعه المتطبّبون و صاروا سحابا بينه و بين العالم لذا ما طاب مرضه و بَقِیَ فی سقمه الی الحين * انّهم لم يقدروا علی حفظه و صحّته و الّذی کان مظهر القدرة بين البريّة منع عمّا اراد بما اکتسبت ايدی المتطبّبين",
   "translation": "And further We have said: \"That which God hath ordained as the sovereign remedy and mightiest instrument for the healing of the world is the union of all its peoples in one universal Cause, one common Faith. This can in no wise be achieved except through the power of a skilled, an all-powerful, and inspired Physician. By My life! This is the truth, and all else naught but error. Each time that Most Mighty Instrument hath come, and that Light shone forth from the Ancient Dayspring, He was withheld by ignorant physicians who, even as clouds, interposed themselves between Him and the world. It failed therefore, to recover, and its sickness hath persisted until this day. They indeed were powerless to protect it, or to effect a cure, whilst He Who hath been the Manifestation of Power amongst men was withheld from achieving His purpose, by reason of what the hands of the ignorant physicians have wrought.",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "sovereign-remedy-healing-world",
+  "alignment": [
+    {
+      "ar": "جعله",
+      "en": "ordained"
+    },
+    {
+      "ar": "اللّه",
+      "en": "God"
+    },
+    {
+      "ar": "الدّرياق",
+      "en": "remedy"
+    },
+    {
+      "ar": "الاعظم",
+      "en": "sovereign"
+    },
+    {
+      "ar": "السّبب",
+      "en": "instrument"
+    },
+    {
+      "ar": "الاتمّ",
+      "en": "mightiest"
+    },
+    {
+      "ar": "لصحّته",
+      "en": "healing"
+    },
+    {
+      "ar": "اتّحاد",
+      "en": "union"
+    },
+    {
+      "ar": "الارض",
+      "en": "its peoples"
+    },
+    {
+      "ar": "امر",
+      "en": "Cause"
+    },
+    {
+      "ar": "واحد",
+      "en": "one universal"
+    },
+    {
+      "ar": "شريعة",
+      "en": "Faith"
+    },
+    {
+      "ar": "واحدة",
+      "en": "common"
+    },
+    {
+      "ar": "لا يمکن",
+      "en": "can in no wise be achieved"
+    },
+    {
+      "ar": "ابدا",
+      "en": "except"
+    },
+    {
+      "ar": "بطبيب",
+      "en": "Physician"
+    },
+    {
+      "ar": "حاذق",
+      "en": "skilled"
+    },
+    {
+      "ar": "کامل",
+      "en": "all-powerful"
+    },
+    {
+      "ar": "مؤيّد",
+      "en": "inspired"
+    },
+    {
+      "ar": "لعمری",
+      "en": "By My life"
+    },
+    {
+      "ar": "الحقّ",
+      "en": "truth"
+    },
+    {
+      "ar": "الضّلال",
+      "en": "error"
+    },
+    {
+      "ar": "المبين",
+      "en": "naught"
+    },
+    {
+      "ar": "اتی",
+      "en": "come"
+    },
+    {
+      "ar": "ذاک",
+      "en": "that"
+    },
+    {
+      "ar": "السّبب الاعظم",
+      "en": "Most Mighty Instrument"
+    },
+    {
+      "ar": "اشرق",
+      "en": "shone forth"
+    },
+    {
+      "ar": "النّور",
+      "en": "Light"
+    },
+    {
+      "ar": "مشرق",
+      "en": "Dayspring"
+    },
+    {
+      "ar": "القدم",
+      "en": "Ancient"
+    },
+    {
+      "ar": "منعه",
+      "en": "withheld"
+    },
+    {
+      "ar": "المتطبّبون",
+      "en": "physicians"
+    },
+    {
+      "ar": "صاروا",
+      "en": "interposed"
+    },
+    {
+      "ar": "سحابا",
+      "en": "clouds"
+    },
+    {
+      "ar": "بينه",
+      "en": "between Him"
+    },
+    {
+      "ar": "العالم",
+      "en": "world"
+    },
+    {
+      "ar": "طاب",
+      "en": "recover"
+    },
+    {
+      "ar": "مرضه",
+      "en": "It"
+    },
+    {
+      "ar": "بَقِیَ",
+      "en": "persisted"
+    },
+    {
+      "ar": "سقمه",
+      "en": "sickness"
+    },
+    {
+      "ar": "الحين",
+      "en": "this day"
+    },
+    {
+      "ar": "لم يقدروا",
+      "en": "powerless"
+    },
+    {
+      "ar": "حفظه",
+      "en": "protect"
+    },
+    {
+      "ar": "صحّته",
+      "en": "cure"
+    },
+    {
+      "ar": "مظهر",
+      "en": "Manifestation"
+    },
+    {
+      "ar": "القدرة",
+      "en": "Power"
+    },
+    {
+      "ar": "البريّة",
+      "en": "men"
+    },
+    {
+      "ar": "اراد",
+      "en": "purpose"
+    },
+    {
+      "ar": "اکتسبت",
+      "en": "wrought"
+    },
+    {
+      "ar": "ايدی",
+      "en": "hands"
+    },
+    {
+      "ar": "المتطبّبين",
+      "en": "ignorant physicians"
+    }
+  ],
+  "terms": [
+    {
+      "term": "الاعظم",
+      "transliteration": "ʿ-z̟-m",
+      "literal": "greatest; supreme; mightiest",
+      "se_rendering": "Most Mighty",
+      "note": "Typically rendered 'Most Great' (63 occ). 'Most Mighty' appears here—SE opts for might/power nuance rather than greatness, emphasizing the Instrument's efficacy.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 56,
+          "snippet": "supreme"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 269,
+          "snippet": "Most Great"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 734,
+          "snippet": "Most Great Name"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 3,
+          "snippet": "greatest"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 6,
+          "snippet": "greater"
+        },
+        {
+          "work": "gleanings",
+          "para": 10,
+          "snippet": "most mighty"
+        },
+        {
+          "work": "gleanings",
+          "para": 392,
+          "snippet": "great"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 9,
+          "snippet": "mighty"
+        }
+      ]
+    },
+    {
+      "term": "السّبب",
+      "transliteration": "s-b-b",
+      "literal": "cause; reason; means; instrument",
+      "se_rendering": "Instrument",
+      "note": "Standard rendering 'cause' or 'instrument' (22 occ). 'Instrument' selected here to parallel 'Physician' metaphor and reinforce medical theme of paragraph.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 366,
+          "snippet": "will exalt"
+        },
+        {
+          "work": "gleanings",
+          "para": 35,
+          "snippet": "motive"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 15,
+          "snippet": "hindered"
+        },
+        {
+          "work": "gleanings",
+          "para": 511,
+          "snippet": "prerequisites"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 14,
+          "snippet": "cause"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 11,
+          "snippet": "by reason of"
+        },
+        {
+          "work": "gleanings",
+          "para": 307,
+          "snippet": "due to the hindrances"
+        },
+        {
+          "work": "gleanings",
+          "para": 222,
+          "snippet": "material means"
+        }
+      ]
+    },
+    {
+      "term": "اتّحاد",
+      "transliteration": "w-ḥ-d",
+      "literal": "unity; union; unification",
+      "se_rendering": "union",
+      "note": "Root و-ح-د yields 'unity' or 'oneness' (56 occ). 'Union' here expresses practical collective action rather than theological oneness, suiting the worldly healing context.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-ahd",
+          "para": 5,
+          "snippet": "unity"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 14,
+          "snippet": "union"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 9,
+          "snippet": "unifying influence"
+        }
+      ]
+    },
+    {
+      "term": "النّور",
+      "transliteration": "n-w-r",
+      "literal": "light; illumination",
+      "se_rendering": "Light",
+      "note": "Consistently 'light' across 78 occurrences. Capitalized 'Light' here—SE emphasizes the Manifestation's illuminative power as agent of healing.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 583,
+          "snippet": "light"
+        },
+        {
+          "work": "gleanings",
+          "para": 230,
+          "snippet": "Orb of Light"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 114,
+          "snippet": "with the light"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 109,
+          "snippet": "Thy light"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 246,
+          "snippet": "Illumine"
+        },
+        {
+          "work": "gleanings",
+          "para": 235,
+          "snippet": "glory"
+        },
+        {
+          "work": "gleanings",
+          "para": 597,
+          "snippet": "fire"
+        },
+        {
+          "work": "gleanings",
+          "para": 458,
+          "snippet": "fire of God"
+        }
+      ]
+    },
+    {
+      "term": "منعه",
+      "transliteration": "m-n-ʿ",
+      "literal": "forbidden; prevented; deprived",
+      "se_rendering": "withheld",
+      "note": "Root م-ن-ع consistently 'forbidden,' 'deprived,' 'prevented' (36 occ). 'Withheld' chosen—passive, divine action—emphasizing obstruction by ignorant physicians of the Physician's purpose.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "forbidden"
+        },
+        {
+          "work": "gleanings",
+          "para": 641,
+          "snippet": "deprived"
+        },
+        {
+          "work": "gleanings",
+          "para": 181,
+          "snippet": "be not deprived"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 56,
+          "snippet": "hindrance"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 674,
+          "snippet": "which have hindered me"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 628,
+          "snippet": "have failed to deter"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 74,
+          "snippet": "withhold"
+        },
+        {
+          "work": "gleanings",
+          "para": 314,
+          "snippet": "refused to allow"
+        }
+      ]
+    },
+    {
+      "term": "يقدروا",
+      "transliteration": "q-d-r",
+      "literal": "power; might; decree; measure; worth",
+      "se_rendering": "powerless",
+      "note": "Root ق-د-ر ranges widely: 'power,' 'decree,' 'forbearing' (100 occ). 'Powerless' (negated form) deployed to emphasize human incapacity against divine withholding.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 339,
+          "snippet": "Thy power"
+        },
+        {
+          "work": "gleanings",
+          "para": 138,
+          "snippet": "hath been decreed"
+        },
+        {
+          "work": "gleanings",
+          "para": 662,
+          "snippet": "hath decreed"
+        },
+        {
+          "work": "gleanings",
+          "para": 496,
+          "snippet": "forbearing towards"
+        },
+        {
+          "work": "gleanings",
+          "para": 111,
+          "snippet": "schools"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 12,
+          "snippet": "God of power"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 35,
+          "snippet": "Potent"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 282,
+          "snippet": "Almighty"
+        }
+      ]
+    },
+    {
+      "term": "حفظه",
+      "transliteration": "h-f-z",
+      "literal": "guardian; preserver; keeper",
+      "se_rendering": "protect",
+      "note": "Root ح-ف-ظ renders as 'protection,' 'Guardian,' 'Shield' (45 occ). 'Protect' here maintains active verb form, paralleling the physicians' failure to heal.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 3,
+          "snippet": "protection"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 44,
+          "snippet": "shield"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 55,
+          "snippet": "guard"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 22,
+          "snippet": "Guardian"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 193,
+          "snippet": "Keep"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 102,
+          "snippet": "Preserve"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 625,
+          "snippet": "the Preserver"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 30,
+          "snippet": "been preserved"
+        }
+      ]
+    },
+    {
+      "term": "مظهر",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "Manifestation",
+      "note": "Usually 'Manifestation' (96 occ). Here paired with 'Power' to denote divine agency; SE preserves theological terminology while contextualizing it within medical discourse.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 53,
+          "snippet": "Manifestation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 160,
+          "snippet": "Author of all Manifestations"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 136,
+          "snippet": "evident"
+        },
+        {
+          "work": "gleanings",
+          "para": 222,
+          "snippet": "material"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 196,
+          "snippet": "Manifestations of God"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 255,
+          "snippet": "Manifestations"
+        }
+      ]
+    }
+  ],
+  "section_index": "106",
+  "section": "106",
+  "section_para": 1
 }

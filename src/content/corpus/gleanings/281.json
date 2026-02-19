@@ -1,10 +1,487 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 281,
   "source_text": "يا ملأ الأرض تالله الحقّ قد انفجرت من الأحجار الأنهار العذبة السّآئغة بما أخذتها حلاوة بيان ربّكم المختار وأنتم من الغافلين دعوا ما عندكم ثمّ طيروا بقوادم الانقطاع فوق الإبداع كذلك يأمركم مالك الاختراع الّذي بحركة قلمه قلّب العالمين",
   "translation": "O peoples of the earth! God, the Eternal Truth, is My witness that streams of fresh and soft-flowing waters have gushed from the rocks, through the sweetness of the words uttered by your Lord, the Unconstrained; and still ye slumber. Cast away that which ye possess, and, on the wings of detachment, soar beyond all created things. Thus biddeth you the Lord of creation, the movement of Whose Pen hath revolutionized the soul of mankind.",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "streams-fresh-waters-rocks",
+  "alignment": [
+    {
+      "ar": "ملأ",
+      "en": "peoples"
+    },
+    {
+      "ar": "الأرض",
+      "en": "earth"
+    },
+    {
+      "ar": "تالله",
+      "en": "God"
+    },
+    {
+      "ar": "الحقّ",
+      "en": "Truth"
+    },
+    {
+      "ar": "الأحجار",
+      "en": "rocks"
+    },
+    {
+      "ar": "الأنهار",
+      "en": "streams"
+    },
+    {
+      "ar": "العذبة",
+      "en": "fresh"
+    },
+    {
+      "ar": "السّآئغة",
+      "en": "soft-flowing"
+    },
+    {
+      "ar": "أخذتها",
+      "en": "through"
+    },
+    {
+      "ar": "حلاوة",
+      "en": "sweetness"
+    },
+    {
+      "ar": "بيان",
+      "en": "words"
+    },
+    {
+      "ar": "ربّكم",
+      "en": "your Lord"
+    },
+    {
+      "ar": "المختار",
+      "en": "Unconstrained"
+    },
+    {
+      "ar": "الغافلين",
+      "en": "slumber"
+    },
+    {
+      "ar": "دعوا",
+      "en": "Cast away"
+    },
+    {
+      "ar": "عندكم",
+      "en": "ye possess"
+    },
+    {
+      "ar": "طيروا",
+      "en": "soar"
+    },
+    {
+      "ar": "بقوادم",
+      "en": "wings"
+    },
+    {
+      "ar": "الانقطاع",
+      "en": "detachment"
+    },
+    {
+      "ar": "فوق",
+      "en": "beyond"
+    },
+    {
+      "ar": "الإبداع",
+      "en": "created things"
+    },
+    {
+      "ar": "يأمركم",
+      "en": "biddeth"
+    },
+    {
+      "ar": "مالك",
+      "en": "Lord"
+    },
+    {
+      "ar": "الاختراع",
+      "en": "creation"
+    },
+    {
+      "ar": "بحركة",
+      "en": "movement"
+    },
+    {
+      "ar": "قلمه",
+      "en": "Whose Pen"
+    },
+    {
+      "ar": "قلّب",
+      "en": "revolutionized"
+    },
+    {
+      "ar": "العالمين",
+      "en": "mankind"
+    }
+  ],
+  "terms": [
+    {
+      "term": "الحقّ",
+      "transliteration": "h-q-q",
+      "literal": "truth; right; that which is true or just",
+      "se_rendering": "the Eternal Truth",
+      "note": "Typically 'the True One' or 'the Truth' (43 occ). Here 'the Eternal Truth' adds temporal dimension absent from root meaning, emphasizing absolute reality.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 238,
+          "snippet": "the True One"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 52,
+          "snippet": "Sun of Truth"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 103,
+          "snippet": "Luminaries of Truth"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 113,
+          "snippet": "was realized"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 215,
+          "snippet": "realization"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 9,
+          "snippet": "evident"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "betrayal of truth"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 195,
+          "snippet": "incontrovertible"
+        }
+      ]
+    },
+    {
+      "term": "الأحجار",
+      "transliteration": "h-j-r",
+      "literal": "stone; rock",
+      "se_rendering": "the rocks",
+      "note": "Rare root occurrence (2 occ total). SE renders as 'the rocks' here versus alternative 'veils'—literal reading chosen over metaphorical interpretation.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 138,
+          "snippet": "veils"
+        }
+      ]
+    },
+    {
+      "term": "بيان",
+      "transliteration": "b-y-n",
+      "literal": "to manifest; to make clear; clear, evident",
+      "se_rendering": "the words uttered",
+      "note": "Root spans 87 renderings including 'the Bayán' as proper noun. Here 'the words uttered' treats as verbal noun (utterance) rather than as theological term, emphasizing communication act.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 231,
+          "snippet": "clear verses"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 3,
+          "snippet": "proofs"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 12,
+          "snippet": "clear proofs"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 101,
+          "snippet": "Bayán"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 84,
+          "snippet": "palpable smoke"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 120,
+          "snippet": "evil"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 178,
+          "snippet": "evident error"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 189,
+          "snippet": "meaning"
+        }
+      ]
+    },
+    {
+      "term": "الغافلين",
+      "transliteration": "gh-f-l",
+      "literal": "heedlessness; negligence; inattention",
+      "se_rendering": "slumber",
+      "note": "Typically 'heedless' or 'negligent' (39 occ). 'Slumber' here is unique—metaphorical rendering suggesting sleep/unconsciousness rather than moral heedlessness.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 158,
+          "snippet": "O heedless one"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 134,
+          "snippet": "thou who hast gone astray"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 156,
+          "snippet": "thou who art gone astray"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 178,
+          "snippet": "heedless"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 6,
+          "snippet": "my heedlessness"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 90,
+          "snippet": "Essence of Negligence"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 95,
+          "snippet": "couch of heedlessness"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 152,
+          "snippet": "Children of Negligence"
+        }
+      ]
+    },
+    {
+      "term": "الانقطاع",
+      "transliteration": "q-t-ʿ",
+      "literal": "to be severed; to be cut off; to detach oneself; to abstain",
+      "se_rendering": "detachment",
+      "note": "Root usually means 'detached/sundered' (33 occ). Kept as 'detachment' (noun of state) rather than verbal form, emphasizing the condition over the act of severing.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 413,
+          "snippet": "detached themselves"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 427,
+          "snippet": "sundered"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 488,
+          "snippet": "have cut themselves off"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 11,
+          "snippet": "decisive"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 16,
+          "snippet": "detachment"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 276,
+          "snippet": "severed"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 340,
+          "snippet": "them that have rid themselves of all attachment"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 218,
+          "snippet": "renounced"
+        }
+      ]
+    },
+    {
+      "term": "قلمه",
+      "transliteration": "q-l-m",
+      "literal": "pen; writing instrument",
+      "se_rendering": "Whose Pen",
+      "note": "Typically 'the Pen of the Most High' or 'the Pen of Glory' (25 occ). 'Whose Pen' here uses possessive pronoun, maintaining agency attribution without formulaic epithet.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 100,
+          "snippet": "the Pen of the Most High"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 68,
+          "snippet": "the Pen of Glory"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 182,
+          "snippet": "the Most Sublime Pen"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 257,
+          "snippet": "the pen of the Primal Point"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 30,
+          "snippet": "thine heart"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 280,
+          "snippet": "Pen"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 159,
+          "snippet": "My Supreme Pen"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 85,
+          "snippet": "standards"
+        }
+      ]
+    },
+    {
+      "term": "قلّب",
+      "transliteration": "q-l-b",
+      "literal": "heart; to turn; to overturn",
+      "se_rendering": "revolutionized",
+      "note": "Root 'to turn/overturn' usually rendered 'hearts' or 'cataclysms' (60 occ). 'Revolutionized' here is uniquely dynamic, emphasizing transformation of consciousness versus physical upheaval.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 187,
+          "snippet": "hearts"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 432,
+          "snippet": "their hearts"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 652,
+          "snippet": "heart"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 777,
+          "snippet": "commotion"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 13,
+          "snippet": "tumult"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 30,
+          "snippet": "thine heart"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 4,
+          "snippet": "with a pure heart"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 82,
+          "snippet": "with a sound heart"
+        }
+      ]
+    },
+    {
+      "term": "العالمین",
+      "transliteration": "ʿ-l-m",
+      "literal": "world; universe; the worlds",
+      "se_rendering": "the soul of mankind",
+      "note": "Root covers wide semantic field (141 occ): 'worlds,' 'mankind,' 'knowledge.' Here 'the soul of mankind' narrows to human consciousness rather than cosmological domains.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 28,
+          "snippet": "knowledge"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 122,
+          "snippet": "commentators"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 42,
+          "snippet": "banner"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 19,
+          "snippet": "understanding"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 205,
+          "snippet": "ancient Knowledge"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 65,
+          "snippet": "universe"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 4,
+          "snippet": "divine"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 199,
+          "snippet": "peoples of the world"
+        }
+      ]
+    }
+  ],
+  "section_index": "LXXII.2",
+  "section": "LXXII",
+  "section_para": 2
 }

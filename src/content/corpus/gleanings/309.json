@@ -1,10 +1,453 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 309,
   "source_text": "چنانچه ایّامی که غمام حایل است اگرچه ارض بنور شمس روشن است ولکن آن روشنی ضعیف بوده و خواهد بود و بعد از رفع سحاب انوار شمس بکمال ظهور مشهود و در دو حالت شمس در رتبهٴ خود علی حدّ واحد بوده هم‌چنین است آفتاب نفوس که باسم روح مذکور شده و میشود",
   "translation": "Consider again the sun when it is completely hidden behind the clouds. Though the earth is still illumined with its light, yet the measure of light which it receiveth is considerably reduced. Not until the clouds have dispersed, can the sun shine again in the plenitude of its glory. Neither the presence of the cloud nor its absence can, in any way, affect the inherent splendor of the sun. The soul of man is the sun by which his body is illumined, and from which it draweth its sustenance, and should be so regarded.",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "sun-behind-clouds-soul",
+  "alignment": [
+    {
+      "ar": "ایّامی",
+      "en": "when"
+    },
+    {
+      "ar": "غمام",
+      "en": "clouds"
+    },
+    {
+      "ar": "حایل",
+      "en": "hidden"
+    },
+    {
+      "ar": "ارض",
+      "en": "earth"
+    },
+    {
+      "ar": "نور",
+      "en": "light"
+    },
+    {
+      "ar": "شمس",
+      "en": "sun"
+    },
+    {
+      "ar": "روشن",
+      "en": "illumined"
+    },
+    {
+      "ar": "روشنی",
+      "en": "measure of light"
+    },
+    {
+      "ar": "ضعیف",
+      "en": "reduced"
+    },
+    {
+      "ar": "رفع",
+      "en": "dispersed"
+    },
+    {
+      "ar": "سحاب",
+      "en": "cloud"
+    },
+    {
+      "ar": "انوار",
+      "en": "shine"
+    },
+    {
+      "ar": "کمال",
+      "en": "plenitude"
+    },
+    {
+      "ar": "ظهور",
+      "en": "glory"
+    },
+    {
+      "ar": "دو",
+      "en": "Neither"
+    },
+    {
+      "ar": "حالت",
+      "en": "presence"
+    },
+    {
+      "ar": "رتبهٴ",
+      "en": "splendor"
+    },
+    {
+      "ar": "خود",
+      "en": "inherent"
+    },
+    {
+      "ar": "علی",
+      "en": "of"
+    },
+    {
+      "ar": "حدّ",
+      "en": "way"
+    },
+    {
+      "ar": "واحد",
+      "en": "any"
+    },
+    {
+      "ar": "نفوس",
+      "en": "soul of man"
+    },
+    {
+      "ar": "روح",
+      "en": "sustenance"
+    }
+  ],
+  "terms": [
+    {
+      "term": "رفع",
+      "transliteration": "r-f-ʿ",
+      "literal": "to be raised, elevated, exalted, lifted up",
+      "se_rendering": "dispersed",
+      "note": "Usually 'exalted', 'elevated', or 'sublimity.' Here 'dispersed' inverts the root's upward vector to lateral dissipation, a translation subordinating etymology to metaphorical coherence.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 52,
+          "snippet": "elevated heavens"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 11,
+          "snippet": "was hoisted"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 15,
+          "snippet": "exalted"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 227,
+          "snippet": "exaltation"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 210,
+          "snippet": "lift up"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 4,
+          "snippet": "are uplifted"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 285,
+          "snippet": "uplifted"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 43,
+          "snippet": "have We abolished"
+        }
+      ]
+    },
+    {
+      "term": "بکمال",
+      "transliteration": "k-m-l",
+      "literal": "perfection; completeness; fully; with full; in complete",
+      "se_rendering": "plenitude",
+      "note": "Typically 'with full' or 'with utmost.' Here 'plenitude' introduces Neoplatonic philosophical register entirely absent from the concordance's 14 standard renderings, elevating aesthetic completion.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 9,
+          "snippet": "with full"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 117,
+          "snippet": "with utmost"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 20,
+          "snippet": "with the utmost"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 53,
+          "snippet": "greatest"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 132,
+          "snippet": "perfect"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 25,
+          "snippet": "outward seeming"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 18,
+          "snippet": "excellence"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 9,
+          "snippet": "consummate"
+        }
+      ]
+    },
+    {
+      "term": "ظهور",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "glory",
+      "note": "Typically 'Manifestation' or 'manifestation' (96 occurrences). Here rendered as 'glory' — a rare choice subordinating theological weight to poetic brilliance within the solar metaphor.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 140,
+          "snippet": "manifestation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 160,
+          "snippet": "Author of all Manifestations"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 136,
+          "snippet": "evident"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 206,
+          "snippet": "appeared"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 196,
+          "snippet": "Manifestations of God"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 255,
+          "snippet": "Manifestations"
+        }
+      ]
+    },
+    {
+      "term": "مشهود",
+      "transliteration": "sh-h-d",
+      "literal": "witnessed; observed; seen; evident; manifest",
+      "se_rendering": "manifest",
+      "note": "Usually 'manifest' or 'evident.' Here 'manifest' is retained but in the phrase 'plenitude of its glory' where the root's witness-bearing sense recedes in favor of radiant visibility.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 35,
+          "snippet": "evident"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 811,
+          "snippet": "I bear witness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 6,
+          "snippet": "I testify"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 138,
+          "snippet": "martyrdom"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 230,
+          "snippet": "God testifieth"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 57,
+          "snippet": "beheld"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 117,
+          "snippet": "testify"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 156,
+          "snippet": "bear witness"
+        }
+      ]
+    },
+    {
+      "term": "واحد",
+      "transliteration": "w-h-d",
+      "literal": "Divine unity; monotheism; belief in the oneness of God",
+      "se_rendering": "one",
+      "note": "Standardly 'unity', 'Unity', or 'oneness' across 56 occurrences. Here 'one' — the only occurrence in the concordance as a bare numeral, flattening theological monotheism into singular identity.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 69,
+          "snippet": "Tawhid"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 167,
+          "snippet": "one"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 682,
+          "snippet": "once"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 49,
+          "snippet": "alone"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 647,
+          "snippet": "Thy unity"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 285,
+          "snippet": "Thy oneness"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 249,
+          "snippet": "unique"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 1,
+          "snippet": "the One"
+        }
+      ]
+    },
+    {
+      "term": "نفوس",
+      "transliteration": "n-f-s",
+      "literal": "self; soul; psyche",
+      "se_rendering": "soul",
+      "note": "Typically rendered with possessive reflexives ('his own Self', 'Mine own Self'). Here 'soul' objectifies the human psyche as the luminous center, shifting from station to essence.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 114,
+          "snippet": "over Mine own Self"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 789,
+          "snippet": "myself to be only nothing"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 70,
+          "snippet": "This is the station in which I have no power"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 71,
+          "snippet": "his own entity in the kingdom of his self"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 572,
+          "snippet": "Thy Self at all times"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 109,
+          "snippet": "those"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 125,
+          "snippet": "sense of their own powerlessness"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 179,
+          "snippet": "abstained from all that is abhorrent unto Thee"
+        }
+      ]
+    },
+    {
+      "term": "روح",
+      "transliteration": "r-w-h",
+      "literal": "to go; to depart; to rest; spirit; soul",
+      "se_rendering": "spirit",
+      "note": "Commonly 'spirit' or 'my spirit' in devotional contexts. Here 'spirit' captures the animating principle of the body, aligning with pneumatic theology rather than mystical interiority.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 702,
+          "snippet": "my spirit"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 201,
+          "snippet": "the Spirit"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 121,
+          "snippet": "spiritual"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 215,
+          "snippet": "spiritually-minded"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 20,
+          "snippet": "a breath of My own Spirit"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 100,
+          "snippet": "spirit"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 22,
+          "snippet": "in a spirit"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 17,
+          "snippet": "with My spirit"
+        }
+      ]
+    }
+  ],
+  "section_index": "LXXX.4",
+  "section": "LXXX",
+  "section_para": 4
 }

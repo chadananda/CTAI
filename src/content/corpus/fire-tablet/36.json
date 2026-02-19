@@ -1,10 +1,283 @@
 {
   "work": "Fire Tablet",
   "slug": "fire-tablet",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 36,
   "source_text": "قَدْ بَقَى الغُلَامُ فِي أَرْضٍ جَدْبَاءَ أَيْنَ غَيْثُ سَمَاءِ فَضْلِكَ يَا غِيَاثَ العَالَمِينَ *",
   "translation": "This Youth is lonely in a desolate land: Where is the rain of Thy heavenly grace, O Bestower of the worlds?",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "rain-heavenly-grace-desolate-land",
+  "alignment": [
+    {
+      "ar": "بَقَى",
+      "en": "is"
+    },
+    {
+      "ar": "الغُلَامُ",
+      "en": "Youth"
+    },
+    {
+      "ar": "أَرْضٍ",
+      "en": "land"
+    },
+    {
+      "ar": "جَدْبَاءَ",
+      "en": "desolate"
+    },
+    {
+      "ar": "أَيْنَ",
+      "en": "Where"
+    },
+    {
+      "ar": "غَيْثُ",
+      "en": "rain"
+    },
+    {
+      "ar": "سَمَاءِ",
+      "en": "heavenly"
+    },
+    {
+      "ar": "فَضْلِكَ",
+      "en": "grace"
+    },
+    {
+      "ar": "غِيَاثَ",
+      "en": "Bestower"
+    },
+    {
+      "ar": "العَالَمِينَ",
+      "en": "worlds"
+    }
+  ],
+  "terms": [
+    {
+      "term": "بَقَى",
+      "transliteration": "b-q-y",
+      "literal": "remaining; everlasting; eternal; immortal",
+      "se_rendering": "is",
+      "note": "Root commonly rendered as 'the Eternal' or 'everlasting' across 32 occurrences; here as present tense verb 'is,' capturing active isolation rather than metaphysical eternity.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 2,
+          "snippet": "the Eternal"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 88,
+          "snippet": "everlasting beauty"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 98,
+          "snippet": "everlasting candle"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 117,
+          "snippet": "immortal sovereignty"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 110,
+          "snippet": "everlasting torch of divine guidance"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 56,
+          "snippet": "refrain"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 246,
+          "snippet": "everlasting"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 259,
+          "snippet": "O thou Remnant of God"
+        }
+      ]
+    },
+    {
+      "term": "الغُلَامُ",
+      "transliteration": "gh-l-m",
+      "literal": "youth; boy; servant; the Youth (Bahá'u'lláh)",
+      "se_rendering": "this Youth",
+      "note": "Seven occurrences in corpus; typically 'Youth' or 'the Youth.' Here rendered as 'this Youth,' establishing intimate address and temporal immediacy.",
+      "cross_refs": [
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 51,
+          "snippet": "the Youth"
+        },
+        {
+          "work": "gleanings",
+          "para": 190,
+          "snippet": "this Youth"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 103,
+          "snippet": "slaves"
+        },
+        {
+          "work": "gleanings",
+          "para": 537,
+          "snippet": "Youths"
+        }
+      ]
+    },
+    {
+      "term": "سَمَاءِ",
+      "transliteration": "s-m-w",
+      "literal": "heaven; sky",
+      "se_rendering": "heavenly",
+      "note": "Root yields 'heaven,' 'heavens,' and 'heavenly Grace' in 39 occurrences; here compounded with فضل as 'heavenly grace,' merging celestial and bounty metaphors.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 591,
+          "snippet": "heaven"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 594,
+          "snippet": "the heavens"
+        },
+        {
+          "work": "gleanings",
+          "para": 78,
+          "snippet": "heavens"
+        },
+        {
+          "work": "gleanings",
+          "para": 212,
+          "snippet": "breath"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 53,
+          "snippet": "heavenly Grace"
+        },
+        {
+          "work": "gleanings",
+          "para": 417,
+          "snippet": "heavenly Book"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 177,
+          "snippet": "heavenly Books"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 98,
+          "snippet": "heavenly Gospel"
+        }
+      ]
+    },
+    {
+      "term": "فَضْلِكَ",
+      "transliteration": "f-d-l",
+      "literal": "grace; bounty; generosity; excellence",
+      "se_rendering": "grace",
+      "note": "Typically 'grace,' 'bounty,' or 'most excellent favors' across 36 occurrences; 'grace' here is most austere rendering, stressing urgent need over abundance.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 50,
+          "snippet": "the Gracious, the All-Bountiful"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 115,
+          "snippet": "the All-Bounteous"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 259,
+          "snippet": "merits"
+        },
+        {
+          "work": "gleanings",
+          "para": 10,
+          "snippet": "most excellent favors"
+        },
+        {
+          "work": "gleanings",
+          "para": 60,
+          "snippet": "grace"
+        },
+        {
+          "work": "gleanings",
+          "para": 234,
+          "snippet": "His gracious favor"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "graciously"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 92,
+          "snippet": "realms"
+        }
+      ]
+    },
+    {
+      "term": "العَالَمِينَ",
+      "transliteration": "ʿ-l-m",
+      "literal": "world; universe; the worlds",
+      "se_rendering": "the worlds",
+      "note": "Root spans 141 occurrences with diverse renderings including 'mankind,' 'all worlds,' 'knowledge'; here 'the worlds' emphasizes cosmic scope of divine bestowal.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 198,
+          "snippet": "world"
+        },
+        {
+          "work": "gleanings",
+          "para": 657,
+          "snippet": "all worlds"
+        },
+        {
+          "work": "gleanings",
+          "para": 182,
+          "snippet": "mankind"
+        },
+        {
+          "work": "gleanings",
+          "para": 183,
+          "snippet": "the whole world"
+        },
+        {
+          "work": "gleanings",
+          "para": 226,
+          "snippet": "all earthly defilements"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 28,
+          "snippet": "knowledge"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 122,
+          "snippet": "commentators"
+        },
+        {
+          "work": "gleanings",
+          "para": 38,
+          "snippet": "understanding"
+        }
+      ]
+    }
+  ],
+  "section_index": "37",
+  "section": "37",
+  "section_para": 1
 }

@@ -1,10 +1,611 @@
 {
   "work": "Kitab-i-Iqan",
   "slug": "kitab-i-iqan",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 206,
   "source_text": "باری، بسيار متعجّب شدم، از اين بيانات نديدم مگر اينکه می خواهد بر مردم برساند که جميع اين علوم نزد  ايشان است با وجود اينکه قسم به خدا نسيمی از رياض علم الهی نشنيده و بر حرفی از اسرار حکمت ربّانی اطّلاع نيافته. بلکه اگر معنی علم گفته شود البتّه مضطرب شود و جبل وجود او مندکّ گردد.  با وجود اين اقوال سخيفه بی معنی چه دعوی های زياده از حدّ نموده.",
   "translation": "We were surprised exceedingly when We observed that his one purpose was to make the people realize that all these learnings were possessed by him. And yet, I swear by God that not one breath, blowing from the meads of divine knowledge, hath ever been wafted upon his soul, nor hath he ever unravelled a single mystery of ancient wisdom. Nay, were the meaning of Knowledge ever to be expounded unto him, dismay would fill his heart, and his whole being would shake to its foundation. Notwithstanding his base and senseless statements, behold to what heights of extravagance his claims have reached!",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "not-one-breath-divine-knowledge",
+  "alignment": [
+    {
+      "ar": "باری،",
+      "en": "And yet"
+    },
+    {
+      "ar": "بسيار",
+      "en": "exceedingly"
+    },
+    {
+      "ar": "متعجّب",
+      "en": "surprised"
+    },
+    {
+      "ar": "شدم،",
+      "en": "were"
+    },
+    {
+      "ar": "از",
+      "en": "when"
+    },
+    {
+      "ar": "بيانات",
+      "en": "statements"
+    },
+    {
+      "ar": "نديدم",
+      "en": "observed"
+    },
+    {
+      "ar": "مگر",
+      "en": "one"
+    },
+    {
+      "ar": "اينکه",
+      "en": "that"
+    },
+    {
+      "ar": "می خواهد",
+      "en": "purpose was"
+    },
+    {
+      "ar": "بر",
+      "en": "upon"
+    },
+    {
+      "ar": "مردم",
+      "en": "people"
+    },
+    {
+      "ar": "برساند",
+      "en": "realize"
+    },
+    {
+      "ar": "جميع",
+      "en": "all"
+    },
+    {
+      "ar": "اين",
+      "en": "these"
+    },
+    {
+      "ar": "علوم",
+      "en": "learnings"
+    },
+    {
+      "ar": "نزد",
+      "en": "possessed by"
+    },
+    {
+      "ar": "ايشان",
+      "en": "him"
+    },
+    {
+      "ar": "قسم",
+      "en": "swear"
+    },
+    {
+      "ar": "به خدا",
+      "en": "by God"
+    },
+    {
+      "ar": "نسيمی",
+      "en": "one breath"
+    },
+    {
+      "ar": "از",
+      "en": "from"
+    },
+    {
+      "ar": "رياض",
+      "en": "meads"
+    },
+    {
+      "ar": "علم",
+      "en": "knowledge"
+    },
+    {
+      "ar": "الهی",
+      "en": "divine"
+    },
+    {
+      "ar": "نشنيده",
+      "en": "wafted"
+    },
+    {
+      "ar": "و",
+      "en": "nor"
+    },
+    {
+      "ar": "حرفی",
+      "en": "a single"
+    },
+    {
+      "ar": "از",
+      "en": "of"
+    },
+    {
+      "ar": "اسرار",
+      "en": "mystery"
+    },
+    {
+      "ar": "حکمت",
+      "en": "wisdom"
+    },
+    {
+      "ar": "ربّانی",
+      "en": "ancient"
+    },
+    {
+      "ar": "اطّلاع",
+      "en": "unravelled"
+    },
+    {
+      "ar": "نيافته.",
+      "en": "hath ever"
+    },
+    {
+      "ar": "بلکه",
+      "en": "Nay"
+    },
+    {
+      "ar": "معنی",
+      "en": "meaning"
+    },
+    {
+      "ar": "علم",
+      "en": "Knowledge"
+    },
+    {
+      "ar": "گفته شود",
+      "en": "expounded"
+    },
+    {
+      "ar": "البتّه",
+      "en": "would"
+    },
+    {
+      "ar": "مضطرب",
+      "en": "dismay"
+    },
+    {
+      "ar": "شود",
+      "en": "fill"
+    },
+    {
+      "ar": "و",
+      "en": "and"
+    },
+    {
+      "ar": "جبل",
+      "en": "foundation"
+    },
+    {
+      "ar": "وجود",
+      "en": "being"
+    },
+    {
+      "ar": "او",
+      "en": "his"
+    },
+    {
+      "ar": "مندکّ",
+      "en": "shake"
+    },
+    {
+      "ar": "با وجود",
+      "en": "Notwithstanding"
+    },
+    {
+      "ar": "سخيفه",
+      "en": "base"
+    },
+    {
+      "ar": "بی معنی",
+      "en": "senseless"
+    },
+    {
+      "ar": "چه",
+      "en": "what"
+    },
+    {
+      "ar": "دعوی های",
+      "en": "claims"
+    },
+    {
+      "ar": "زياده",
+      "en": "extravagance"
+    },
+    {
+      "ar": "از حدّ",
+      "en": "heights"
+    },
+    {
+      "ar": "نموده.",
+      "en": "reached"
+    }
+  ],
+  "terms": [
+    {
+      "term": "علوم",
+      "transliteration": "ʿ-l-m",
+      "literal": "world; universe; the worlds",
+      "se_rendering": "learnings",
+      "note": "Root typically rendered 'world' or 'worlds' (141 occurrences). Here rendered 'learnings'—a unique abstractions-focused choice reflecting the context of claimed knowledge.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 198,
+          "snippet": "world"
+        },
+        {
+          "work": "gleanings",
+          "para": 657,
+          "snippet": "all worlds"
+        },
+        {
+          "work": "gleanings",
+          "para": 182,
+          "snippet": "mankind"
+        },
+        {
+          "work": "gleanings",
+          "para": 183,
+          "snippet": "the whole world"
+        },
+        {
+          "work": "gleanings",
+          "para": 226,
+          "snippet": "all earthly defilements"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 28,
+          "snippet": "knowledge"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 42,
+          "snippet": "banner"
+        },
+        {
+          "work": "gleanings",
+          "para": 38,
+          "snippet": "understanding"
+        }
+      ]
+    },
+    {
+      "term": "وجود",
+      "transliteration": "w-j-d",
+      "literal": "to find; to discover; to obtain",
+      "se_rendering": "being",
+      "note": "Root means 'to find/discover' but rendered 'being' here; most occurrences use varied physical/existential terms, making this abstract philosophical usage notable.",
+      "cross_refs": [
+        {
+          "work": "the-hidden-words",
+          "para": 91,
+          "snippet": "adorned"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 27,
+          "snippet": "found"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 783,
+          "snippet": "point of creation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 832,
+          "snippet": "being"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 214,
+          "snippet": "is led"
+        },
+        {
+          "work": "gleanings",
+          "para": 436,
+          "snippet": "The Great Being"
+        },
+        {
+          "work": "gleanings",
+          "para": 4,
+          "snippet": "created things"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 291,
+          "snippet": "all created things"
+        }
+      ]
+    },
+    {
+      "term": "نسيمی",
+      "transliteration": "n-s-m",
+      "literal": "breeze; gentle wind; fragrance",
+      "se_rendering": "breath",
+      "note": "Consistently rendered as 'breeze' variants across 18 occurrences; here 'breath' captures the gentle, life-giving quality while maintaining the metaphorical association with divine knowledge.",
+      "cross_refs": [
+        {
+          "work": "the-hidden-words",
+          "para": 105,
+          "snippet": "breeze of My loving-kindness"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 122,
+          "snippet": "breeze"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 100,
+          "snippet": "fragrances"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 768,
+          "snippet": "rustling"
+        },
+        {
+          "work": "gleanings",
+          "para": 182,
+          "snippet": "Breathings of the Divine Spirit"
+        },
+        {
+          "work": "gleanings",
+          "para": 167,
+          "snippet": "Breeze of God"
+        },
+        {
+          "work": "gleanings",
+          "para": 212,
+          "snippet": "Breath of the All-Glorious"
+        }
+      ]
+    },
+    {
+      "term": "اسرار",
+      "transliteration": "s-r-r",
+      "literal": "throne; couch; seat of authority",
+      "se_rendering": "mystery",
+      "note": "Root primarily means 'throne' or 'seat of authority' but typically rendered 'mystery' in 40 occurrences; this passage confirms the metaphorical application to hidden wisdom.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 185,
+          "snippet": "lamp"
+        },
+        {
+          "work": "tablet-of-carmel",
+          "para": 2,
+          "snippet": "joy"
+        },
+        {
+          "work": "gleanings",
+          "para": 218,
+          "snippet": "mystery"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 831,
+          "snippet": "Secret"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 37,
+          "snippet": "in the gladness"
+        },
+        {
+          "work": "gleanings",
+          "para": 727,
+          "snippet": "gladness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 8,
+          "snippet": "by the mysteries"
+        },
+        {
+          "work": "gleanings",
+          "para": 318,
+          "snippet": "mysteries"
+        }
+      ]
+    },
+    {
+      "term": "حکمت",
+      "transliteration": "h-k-m",
+      "literal": "government; rule; governance; wisdom",
+      "se_rendering": "wisdom",
+      "note": "Root covers 'government' and 'wisdom' across 69 occurrences; 'wisdom' here fits the epistemological context, though 'rule' is the primary secular rendering.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-ahd",
+          "para": 6,
+          "snippet": "rule"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "government"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 849,
+          "snippet": "signs of Thy sovereignty"
+        },
+        {
+          "work": "gleanings",
+          "para": 224,
+          "snippet": "mysteries"
+        },
+        {
+          "work": "gleanings",
+          "para": 636,
+          "snippet": "rule of the sword"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 129,
+          "snippet": "perspicuous verses"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 157,
+          "snippet": "justice"
+        },
+        {
+          "work": "gleanings",
+          "para": 139,
+          "snippet": "the face of wisdom"
+        }
+      ]
+    },
+    {
+      "term": "مضطرب",
+      "transliteration": "h-z-z",
+      "literal": "to shake, quiver, vibrate, tremble with emotion",
+      "se_rendering": "shake",
+      "note": "Root means 'to shake/tremble' and rendered 'shake' here; consistent with the tremor/vibration semantic family across all 14 occurrences of this root.",
+      "cross_refs": [
+        {
+          "work": "tablet-of-carmel",
+          "para": 2,
+          "snippet": "transports of joy"
+        },
+        {
+          "work": "gleanings",
+          "para": 282,
+          "snippet": "the tremor of the Word"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 29,
+          "snippet": "All beings were shaken"
+        },
+        {
+          "work": "gleanings",
+          "para": 652,
+          "snippet": "the Tree of My care trembled"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 215,
+          "snippet": "disturbed"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 827,
+          "snippet": "set aflame"
+        }
+      ]
+    },
+    {
+      "term": "اقوال",
+      "transliteration": "q-w-m",
+      "literal": "rising; standing; uprising; resurrection",
+      "se_rendering": "statements",
+      "note": "Root means 'rising/standing/uprising' but rendered 'statements'; this is a rare deviation from eschatological terms like 'Resurrection' that dominate 109 occurrences.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 437,
+          "snippet": "arise"
+        },
+        {
+          "work": "gleanings",
+          "para": 513,
+          "snippet": "dedicateth"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 74,
+          "snippet": "rise"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "peoples"
+        },
+        {
+          "work": "gleanings",
+          "para": 693,
+          "snippet": "commandments"
+        },
+        {
+          "work": "gleanings",
+          "para": 628,
+          "snippet": "My commandments"
+        },
+        {
+          "work": "gleanings",
+          "para": 518,
+          "snippet": "steadfast"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 38,
+          "snippet": "steadfast in faith"
+        }
+      ]
+    },
+    {
+      "term": "دعوی",
+      "transliteration": "d-ʿ-y",
+      "literal": "to claim; to allege",
+      "se_rendering": "claims",
+      "note": "Consistently rendered 'claims' or 'claim' across all 15 occurrences; this passage exemplifies the standard usage in contexts of false pretension.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 502,
+          "snippet": "Whoso"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 41,
+          "snippet": "claims"
+        },
+        {
+          "work": "gleanings",
+          "para": 605,
+          "snippet": "claims of such as make false claims"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 252,
+          "snippet": "Testimonies"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 316,
+          "snippet": "claim"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 24,
+          "snippet": "guise"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 99,
+          "snippet": "name"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 240,
+          "snippet": "pretenders"
+        }
+      ]
+    }
+  ],
+  "section_index": "206",
+  "section": "206",
+  "section_para": 1
 }

@@ -1,10 +1,346 @@
 {
   "work": "Fire Tablet",
   "slug": "fire-tablet",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 14,
   "source_text": "تَرَى مَشْرِقَ الآيَاتِ فِي سُبُحَاتِ الإِشْارَاتِ أَيْنَ إِصْبَعُ قُدْرَتِكَ يَا إِقْتِدَارَ العَالَمِيْنَ *",
   "translation": "Thou seest the Dawning Place of Thy signs veiled by evil suggestions: Where are the fingers of Thy might, O Power of the worlds?",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "dawning-place-signs-might",
+  "alignment": [
+    {
+      "ar": "تَرَى",
+      "en": "Thou seest"
+    },
+    {
+      "ar": "مَشْرِقَ",
+      "en": "Dawning Place"
+    },
+    {
+      "ar": "الآيَاتِ",
+      "en": "Thy signs"
+    },
+    {
+      "ar": "سُبُحَاتِ",
+      "en": "veiled"
+    },
+    {
+      "ar": "الإِشْارَاتِ",
+      "en": "evil suggestions"
+    },
+    {
+      "ar": "أَيْنَ",
+      "en": "Where"
+    },
+    {
+      "ar": "إِصْبَعُ",
+      "en": "fingers"
+    },
+    {
+      "ar": "قُدْرَتِكَ",
+      "en": "Thy might"
+    },
+    {
+      "ar": "إِقْتِدَارَ",
+      "en": "Power"
+    },
+    {
+      "ar": "العَالَمِيْنَ",
+      "en": "the worlds"
+    }
+  ],
+  "terms": [
+    {
+      "term": "مَشْرِقَ",
+      "transliteration": "sh-r-q",
+      "literal": "radiance; splendor; dawn; illumination",
+      "se_rendering": "Dawning Place",
+      "note": "Usually 'radiance' or 'Daystar' in 63 occurrences; 'Dawning Place' is unique, capturing the sh-r-q root's dawn-light sense while maintaining theological abstraction.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 47,
+          "snippet": "Ishraq"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 28,
+          "snippet": "radiance"
+        },
+        {
+          "work": "gleanings",
+          "para": 382,
+          "snippet": "revelation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 83,
+          "snippet": "Daystar"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 116,
+          "snippet": "shone"
+        },
+        {
+          "work": "gleanings",
+          "para": 612,
+          "snippet": "shining"
+        },
+        {
+          "work": "gleanings",
+          "para": 126,
+          "snippet": "Dayspring"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 214,
+          "snippet": "sun"
+        }
+      ]
+    },
+    {
+      "term": "الآيَاتِ",
+      "transliteration": "ʾ-y-t",
+      "literal": "verse; sign; miracle; proof",
+      "se_rendering": "signs",
+      "note": "Most frequent rendering as 'the signs' aligns with standard usage across 18 occurrences; here conveys divine proofs requiring perception.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 232,
+          "snippet": "His verses"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 234,
+          "snippet": "verses"
+        },
+        {
+          "work": "gleanings",
+          "para": 262,
+          "snippet": "the signs"
+        },
+        {
+          "work": "gleanings",
+          "para": 368,
+          "snippet": "sign"
+        },
+        {
+          "work": "gleanings",
+          "para": 417,
+          "snippet": "verse"
+        }
+      ]
+    },
+    {
+      "term": "سُبُحَاتِ",
+      "transliteration": "s-b-ḥ",
+      "literal": "glorified; the All-Praised; exalted",
+      "se_rendering": "veiled",
+      "note": "Typically 'All-Praised' or glorification epithets; 'veiled by' reads as oblique English verb phrase rather than nominal divine attribute—an interpretive compression.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 211,
+          "snippet": "the All-Praised"
+        },
+        {
+          "work": "gleanings",
+          "para": 212,
+          "snippet": "the Breath of the All-Glorious"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 13,
+          "snippet": "the breezes of the All-Glorious"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 42,
+          "snippet": "Gracious God"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 90,
+          "snippet": "Great God"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 62,
+          "snippet": "Glorified art Thou"
+        },
+        {
+          "work": "gleanings",
+          "para": 112,
+          "snippet": "Glory be to Thee"
+        },
+        {
+          "work": "gleanings",
+          "para": 1,
+          "snippet": "Lauded and glorified art Thou"
+        }
+      ]
+    },
+    {
+      "term": "الإِشَارَاتِ",
+      "transliteration": "sh-r-ḥ",
+      "literal": "explanation; commentary; to explain; to open",
+      "se_rendering": "evil suggestions",
+      "note": "Normally 'allusions' or 'conditions'; 'evil suggestions' is interpretively loaded, inferring negative agency absent from Arabic root meaning 'explanation/opening'.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 10,
+          "snippet": "dilated"
+        },
+        {
+          "work": "gleanings",
+          "para": 116,
+          "snippet": "by a breath"
+        },
+        {
+          "work": "gleanings",
+          "para": 158,
+          "snippet": "allusions"
+        },
+        {
+          "work": "gleanings",
+          "para": 554,
+          "snippet": "conditions"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 275,
+          "snippet": "suggestions"
+        }
+      ]
+    },
+    {
+      "term": "إِصْبَعُ",
+      "transliteration": "ṣ-b-ʿ",
+      "literal": "finger; digit",
+      "se_rendering": "fingers",
+      "note": "Only 6 occurrences in corpus; here 'fingers' matches frequency pattern; metaphorical hand-of-God imagery frames divine intervention.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 79,
+          "snippet": "fingers"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 850,
+          "snippet": "finger"
+        },
+        {
+          "work": "gleanings",
+          "para": 586,
+          "snippet": "Finger of Holiness"
+        }
+      ]
+    },
+    {
+      "term": "قُدْرَتِكَ",
+      "transliteration": "q-d-r",
+      "literal": "power; might; decree; measure; worth",
+      "se_rendering": "might",
+      "note": "Standard rendering 'power' or 'Thy power' across 100 occurrences; 'might' preserves force while shifting register toward masculine strength.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 171,
+          "snippet": "a while"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 339,
+          "snippet": "Thy power"
+        },
+        {
+          "work": "gleanings",
+          "para": 138,
+          "snippet": "hath been decreed"
+        },
+        {
+          "work": "gleanings",
+          "para": 662,
+          "snippet": "hath decreed"
+        },
+        {
+          "work": "gleanings",
+          "para": 496,
+          "snippet": "forbearing towards"
+        },
+        {
+          "work": "gleanings",
+          "para": 111,
+          "snippet": "schools"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 12,
+          "snippet": "God of power"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 35,
+          "snippet": "Potent"
+        }
+      ]
+    },
+    {
+      "term": "العَالَمِيْنَ",
+      "transliteration": "ʿ-l-m",
+      "literal": "world; universe; the worlds",
+      "se_rendering": "the worlds",
+      "note": "Predominantly 'the worlds' or 'all worlds' across 141 occurrences; plural form emphasizes cosmic scope of divine power over singular 'world'.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 198,
+          "snippet": "world"
+        },
+        {
+          "work": "gleanings",
+          "para": 657,
+          "snippet": "all worlds"
+        },
+        {
+          "work": "gleanings",
+          "para": 182,
+          "snippet": "mankind"
+        },
+        {
+          "work": "gleanings",
+          "para": 183,
+          "snippet": "the whole world"
+        },
+        {
+          "work": "gleanings",
+          "para": 226,
+          "snippet": "all earthly defilements"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 28,
+          "snippet": "knowledge"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 122,
+          "snippet": "commentators"
+        },
+        {
+          "work": "gleanings",
+          "para": 38,
+          "snippet": "understanding"
+        }
+      ]
+    }
+  ],
+  "section_index": "15",
+  "section": "15",
+  "section_para": 1
 }

@@ -1,10 +1,288 @@
 {
   "work": "The Hidden Words",
   "slug": "the-hidden-words",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 50,
   "source_text": "(٤٩) ﴿ يَا ابْنَ الإِنْسانِ ﴾\nالْمُحِبُّ الصَّادِقُ يَرْجُو الْبَلاءَ كَرَجاءِ الْعاصِي إِلَى الْمَغْفِرَةِ وَالمُذْنِبِ إِلَى الرَّحْمَةِ.",
   "translation": "(49) O SON OF MAN!\nThe true lover yearneth for tribulation even as doth the rebel for forgiveness and the sinful for mercy.",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "true-lover-yearns-tribulation",
+  "alignment": [
+    {
+      "ar": "يَا",
+      "en": "O"
+    },
+    {
+      "ar": "ابْنَ",
+      "en": "SON"
+    },
+    {
+      "ar": "الإِنْسانِ",
+      "en": "MAN"
+    },
+    {
+      "ar": "يَرْجُو",
+      "en": "yearneth"
+    },
+    {
+      "ar": "الْبَلاءَ",
+      "en": "tribulation"
+    },
+    {
+      "ar": "رَجاءِ",
+      "en": "doth"
+    },
+    {
+      "ar": "الْعاصِي",
+      "en": "the rebel"
+    },
+    {
+      "ar": "الْمَغْفِرَةِ",
+      "en": "forgiveness"
+    }
+  ],
+  "terms": [
+    {
+      "term": "الْمُحِبُّ",
+      "transliteration": "m-h-b",
+      "literal": "lover; one who loves",
+      "se_rendering": "lover",
+      "note": "No prior SE renderings in concordance (0 occurrences listed). First attestation in corpus; SE selects simple 'lover' to establish relational intimacy.",
+      "cross_refs": []
+    },
+    {
+      "term": "الصَّادِقُ",
+      "transliteration": "s-d-q",
+      "literal": "to confirm; to verify; to acknowledge; to testify to truth",
+      "se_rendering": "true",
+      "note": "Root typically rendered 'confirmed', 'truthful', or 'truth' across 25 occurrences. 'True' here functions as adjective rather than noun, compressing the confirmation/verification sense.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 39,
+          "snippet": "confirmed"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 225,
+          "snippet": "acknowledge"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 226,
+          "snippet": "men of truth"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 253,
+          "snippet": "truthful"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 134,
+          "snippet": "the truthful"
+        },
+        {
+          "work": "gleanings",
+          "para": 461,
+          "snippet": "truth"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 28,
+          "snippet": "truthfulness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 143,
+          "snippet": "fidelity"
+        }
+      ]
+    },
+    {
+      "term": "يَرْجُو",
+      "transliteration": "r-j-w",
+      "literal": "to hope; to aspire; to expect",
+      "se_rendering": "yearneth",
+      "note": "Five occurrences show range: 'Longing', 'ardent desire', 'hope', 'desire'. 'Yearneth' elevates emotional intensity with archaic verb form matching SE's mystical register.",
+      "cross_refs": [
+        {
+          "work": "fire-tablet",
+          "para": 4,
+          "snippet": "Longing"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 580,
+          "snippet": "ardent desire"
+        },
+        {
+          "work": "gleanings",
+          "para": 629,
+          "snippet": "hope"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 214,
+          "snippet": "desire"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 74,
+          "snippet": "they shall see"
+        }
+      ]
+    },
+    {
+      "term": "الْبَلاءَ",
+      "transliteration": "b-l-ʾ",
+      "literal": "affliction; trial; calamity",
+      "se_rendering": "tribulation",
+      "note": "Consistently rendered 'trials', 'afflictions', or 'tribulations' across 27 uses. 'Tribulation' here emphasizes suffering as spiritual test rather than mere affliction.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 249,
+          "snippet": "trials"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 137,
+          "snippet": "Troubles"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 179,
+          "snippet": "tribulations"
+        },
+        {
+          "work": "gleanings",
+          "para": 660,
+          "snippet": "afflictions"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 63,
+          "snippet": "the lands"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 28,
+          "snippet": "afflicted"
+        },
+        {
+          "work": "gleanings",
+          "para": 640,
+          "snippet": "subjected"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 145,
+          "snippet": "sick"
+        }
+      ]
+    },
+    {
+      "term": "الْعاصِي",
+      "transliteration": "ʿ-ṣ-y",
+      "literal": "disobey; transgress; rebel",
+      "se_rendering": "rebel",
+      "note": "Common renderings include 'rebellion', 'iniquity', 'disobedience'. 'Rebel' as agent noun preserves active defiance rather than abstract transgression quality.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 169,
+          "snippet": "the most guilty among them that have transgressed"
+        },
+        {
+          "work": "gleanings",
+          "para": 656,
+          "snippet": "evil doings"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 187,
+          "snippet": "iniquity"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 58,
+          "snippet": "obeyeth him not"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 7,
+          "snippet": "rebellion"
+        },
+        {
+          "work": "gleanings",
+          "para": 136,
+          "snippet": "disobedience"
+        },
+        {
+          "work": "gleanings",
+          "para": 651,
+          "snippet": "sin"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 32,
+          "snippet": "unversed"
+        }
+      ]
+    },
+    {
+      "term": "الرَّحْمَةِ",
+      "transliteration": "r-ḥ-m",
+      "literal": "merciful, compassionate; pertaining to divine mercy",
+      "se_rendering": "mercy",
+      "note": "Typically 'merciful', 'spirit of mercy', or 'Divine glory' across 70 occurrences. 'Mercy' here as abstract noun sharpens contrast with concrete 'forgiveness' in parallel clause.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 673,
+          "snippet": "Divine glory"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 57,
+          "snippet": "Divine"
+        },
+        {
+          "work": "gleanings",
+          "para": 372,
+          "snippet": "merciful"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 220,
+          "snippet": "have mercy on them"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 546,
+          "snippet": "mercy"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 50,
+          "snippet": "the Compassionate"
+        },
+        {
+          "work": "gleanings",
+          "para": 183,
+          "snippet": "the Merciful, the Compassionate"
+        },
+        {
+          "work": "gleanings",
+          "para": 338,
+          "snippet": "the All-Forgiving, the Compassionate"
+        }
+      ]
+    }
+  ],
+  "section_index": "99",
+  "section": "99",
+  "section_para": 1
 }

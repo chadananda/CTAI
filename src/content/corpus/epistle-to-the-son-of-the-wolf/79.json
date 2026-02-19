@@ -1,10 +1,719 @@
 {
   "work": "Epistle to the Son of the Wolf",
   "slug": "epistle-to-the-son-of-the-wolf",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 79,
   "source_text": "يا ملک باريس نبّئ القسّيس ان لا يدقّ النّواقيس * تاللّه الحقّ قد ظهر النّاقوس الافخم علی هيکل الاسم الاعظم و تدقّه اصابع مشيّة ربّک العلیّ الاعلی فی جبروت البقاء باسمه الابهی * کذلک نزّلت آيات ربّک الکبری تارّة اخری لتقوم علی ذکر اللّه فاطر الارض و السّماء فی هذه الايّام الّتی فيها ناحت قبائل الارض کلّها و تزلزلت ارکان البلاد و غشّت العباد غبرة الالحاد الّا من شاء ربّک العليم الحکيم * قل قد اتی المختار فی ظلل الانوار ليحيی الاکوان من نفحات اسمه الرّحمن و يتّحد العالم و يجتمعوا علی هذه المائدة الّتی نزلت من السّماء * ايّاکم ان تکفروا بنعمة اللّه بعد انزالها هذا خير لکم ممّا عندکم لانّه سيفنی و ما عند اللّه يبقی انّه هو الحاکم علی ما يريد * قد هبّت نسمات الغفران من شطر ربّکم الرّحمن * من اقبل اليها طهّرته عن العصيان و عن کلّ داء و سقم طوبی لمن اقبل اليها و ويل للمعرضين *",
   "translation": "O King of Paris! Tell the priest to ring the bells no longer. By God, the True One! The Most Mighty Bell hath appeared in the form of Him Who is the Most Great Name, and the fingers of the will of Thy Lord, the Most Exalted, the Most High, toll it out in the heaven of Immortality, in His name, the All-Glorious. Thus have the mighty verses of Thy Lord been again sent down unto thee, that thou mayest arise to remember God, the Creator of earth and heaven, in these days when all the tribes of the earth have mourned, and the foundations of the cities have trembled, and the dust of irreligion hath enwrapped all men, except such as God, the All-Knowing, the All-Wise, was pleased to spare. Say: He Who is the Unconditioned is come, in the clouds of light, that He may quicken all created things with the breezes of His Name, the Most Merciful, and unify the world, and gather all men around this Table which hath been sent down from heaven. Beware that ye deny not the favor of God after it hath been sent down unto you. Better is this for you than that which ye possess; for that which is yours perisheth, whilst that which is with God endureth. He, in truth, ordaineth what He pleaseth. Verily, the breezes of forgiveness have been wafted from the direction of your Lord, the God of Mercy; whoso turneth thereunto, shall be cleansed of his sins, and of all pain and sickness. Happy the man that hath turned towards them, and woe betide him that hath turned aside. \"",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "mighty-bell-most-great-name",
+  "alignment": [
+    {
+      "ar": "ملک",
+      "en": "King"
+    },
+    {
+      "ar": "باريس",
+      "en": "Paris"
+    },
+    {
+      "ar": "نبّئ",
+      "en": "Tell"
+    },
+    {
+      "ar": "القسّيس",
+      "en": "the priest"
+    },
+    {
+      "ar": "ان",
+      "en": "to"
+    },
+    {
+      "ar": "لا",
+      "en": "no"
+    },
+    {
+      "ar": "يدقّ",
+      "en": "ring"
+    },
+    {
+      "ar": "النّواقيس",
+      "en": "the bells"
+    },
+    {
+      "ar": "تاللّه",
+      "en": "By God"
+    },
+    {
+      "ar": "الحقّ",
+      "en": "the True One"
+    },
+    {
+      "ar": "قد",
+      "en": "hath"
+    },
+    {
+      "ar": "ظهر",
+      "en": "appeared"
+    },
+    {
+      "ar": "النّاقوس",
+      "en": "Bell"
+    },
+    {
+      "ar": "الافخم",
+      "en": "Most Mighty"
+    },
+    {
+      "ar": "علی",
+      "en": "in"
+    },
+    {
+      "ar": "هيکل",
+      "en": "the form"
+    },
+    {
+      "ar": "الاسم",
+      "en": "Name"
+    },
+    {
+      "ar": "الاعظم",
+      "en": "Most Great"
+    },
+    {
+      "ar": "تدقّه",
+      "en": "toll it out"
+    },
+    {
+      "ar": "اصابع",
+      "en": "the fingers"
+    },
+    {
+      "ar": "مشيّة",
+      "en": "the will"
+    },
+    {
+      "ar": "ربّک",
+      "en": "Thy Lord"
+    },
+    {
+      "ar": "العلیّ",
+      "en": "the Most Exalted"
+    },
+    {
+      "ar": "الاعلی",
+      "en": "the Most High"
+    },
+    {
+      "ar": "جبروت",
+      "en": "the heaven"
+    },
+    {
+      "ar": "البقاء",
+      "en": "Immortality"
+    },
+    {
+      "ar": "باسمه",
+      "en": "His name"
+    },
+    {
+      "ar": "الابهی",
+      "en": "the All-Glorious"
+    },
+    {
+      "ar": "کذلک",
+      "en": "Thus"
+    },
+    {
+      "ar": "نزّلت",
+      "en": "sent down"
+    },
+    {
+      "ar": "آيات",
+      "en": "verses"
+    },
+    {
+      "ar": "الکبری",
+      "en": "mighty"
+    },
+    {
+      "ar": "تارّة",
+      "en": "again"
+    },
+    {
+      "ar": "لتقوم",
+      "en": "that thou mayest arise"
+    },
+    {
+      "ar": "ذکر",
+      "en": "remember"
+    },
+    {
+      "ar": "اللّه",
+      "en": "God"
+    },
+    {
+      "ar": "فاطر",
+      "en": "the Creator"
+    },
+    {
+      "ar": "الارض",
+      "en": "earth"
+    },
+    {
+      "ar": "السّماء",
+      "en": "heaven"
+    },
+    {
+      "ar": "هذه",
+      "en": "these"
+    },
+    {
+      "ar": "الايّام",
+      "en": "days"
+    },
+    {
+      "ar": "الّتی",
+      "en": "when"
+    },
+    {
+      "ar": "ناحت",
+      "en": "mourned"
+    },
+    {
+      "ar": "قبائل",
+      "en": "the tribes"
+    },
+    {
+      "ar": "کلّها",
+      "en": "all"
+    },
+    {
+      "ar": "تزلزلت",
+      "en": "trembled"
+    },
+    {
+      "ar": "ارکان",
+      "en": "the foundations"
+    },
+    {
+      "ar": "البلاد",
+      "en": "the cities"
+    },
+    {
+      "ar": "غشّت",
+      "en": "enwrapped"
+    },
+    {
+      "ar": "العباد",
+      "en": "all men"
+    },
+    {
+      "ar": "غبرة",
+      "en": "the dust"
+    },
+    {
+      "ar": "الالحاد",
+      "en": "irreligion"
+    },
+    {
+      "ar": "الّا",
+      "en": "except"
+    },
+    {
+      "ar": "من",
+      "en": "such as"
+    },
+    {
+      "ar": "شاء",
+      "en": "pleased"
+    },
+    {
+      "ar": "العليم",
+      "en": "the All-Knowing"
+    },
+    {
+      "ar": "الحکيم",
+      "en": "the All-Wise"
+    },
+    {
+      "ar": "قل",
+      "en": "Say"
+    },
+    {
+      "ar": "اتی",
+      "en": "is come"
+    },
+    {
+      "ar": "المختار",
+      "en": "the Unconditioned"
+    },
+    {
+      "ar": "ظلل",
+      "en": "the clouds"
+    },
+    {
+      "ar": "الانوار",
+      "en": "light"
+    },
+    {
+      "ar": "ليحيی",
+      "en": "that He may quicken"
+    },
+    {
+      "ar": "الاکوان",
+      "en": "all created things"
+    },
+    {
+      "ar": "نفحات",
+      "en": "the breezes"
+    },
+    {
+      "ar": "اسمه",
+      "en": "His Name"
+    },
+    {
+      "ar": "يتّحد",
+      "en": "unify"
+    },
+    {
+      "ar": "العالم",
+      "en": "the world"
+    },
+    {
+      "ar": "يجتمعوا",
+      "en": "gather"
+    },
+    {
+      "ar": "المائدة",
+      "en": "this Table"
+    },
+    {
+      "ar": "نزلت",
+      "en": "been sent down"
+    },
+    {
+      "ar": "ايّاکم",
+      "en": "Beware"
+    },
+    {
+      "ar": "تکفروا",
+      "en": "ye deny not"
+    },
+    {
+      "ar": "نعمة",
+      "en": "the favor"
+    },
+    {
+      "ar": "بعد",
+      "en": "after"
+    },
+    {
+      "ar": "انزالها",
+      "en": "it hath been sent down"
+    },
+    {
+      "ar": "هذا",
+      "en": "this"
+    },
+    {
+      "ar": "خير",
+      "en": "Better"
+    },
+    {
+      "ar": "لکم",
+      "en": "for you"
+    },
+    {
+      "ar": "ممّا",
+      "en": "than that which"
+    },
+    {
+      "ar": "عندکم",
+      "en": "ye possess"
+    },
+    {
+      "ar": "لانّه",
+      "en": "for"
+    },
+    {
+      "ar": "سيفنی",
+      "en": "perisheth"
+    },
+    {
+      "ar": "عند",
+      "en": "with"
+    },
+    {
+      "ar": "يبقی",
+      "en": "endureth"
+    },
+    {
+      "ar": "انّه",
+      "en": "He"
+    },
+    {
+      "ar": "الحاکم",
+      "en": "ordaineth"
+    },
+    {
+      "ar": "يريد",
+      "en": "He pleaseth"
+    },
+    {
+      "ar": "هبّت",
+      "en": "have been wafted"
+    },
+    {
+      "ar": "الغفران",
+      "en": "forgiveness"
+    },
+    {
+      "ar": "شطر",
+      "en": "the direction"
+    },
+    {
+      "ar": "ربّکم",
+      "en": "your Lord"
+    },
+    {
+      "ar": "الرّحمن",
+      "en": "the God of Mercy"
+    },
+    {
+      "ar": "اقبل",
+      "en": "turneth"
+    },
+    {
+      "ar": "اليها",
+      "en": "thereunto"
+    },
+    {
+      "ar": "طهّرته",
+      "en": "shall be cleansed"
+    },
+    {
+      "ar": "العصيان",
+      "en": "his sins"
+    },
+    {
+      "ar": "داء",
+      "en": "pain"
+    },
+    {
+      "ar": "سقم",
+      "en": "sickness"
+    },
+    {
+      "ar": "طوبی",
+      "en": "Happy"
+    },
+    {
+      "ar": "لمن",
+      "en": "the man that"
+    },
+    {
+      "ar": "ويل",
+      "en": "woe betide"
+    },
+    {
+      "ar": "للمعرضين",
+      "en": "him that hath turned aside"
+    }
+  ],
+  "terms": [
+    {
+      "term": "ظهر",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "appeared",
+      "note": "Core manifestation term (96 occurrences). Here rendered 'appeared' rather than characteristic 'Manifestation'—a simpler English form suited to the narrative context of divine revelation emerging.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 53,
+          "snippet": "Manifestation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 160,
+          "snippet": "Author of all Manifestations"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 136,
+          "snippet": "evident"
+        },
+        {
+          "work": "gleanings",
+          "para": 222,
+          "snippet": "material"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 196,
+          "snippet": "Manifestations of God"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 255,
+          "snippet": "Manifestations"
+        }
+      ]
+    },
+    {
+      "term": "البقاء",
+      "transliteration": "b-q-y",
+      "literal": "remaining; everlasting; eternal; immortal",
+      "se_rendering": "Immortality",
+      "note": "Eternity concept (32 occurrences). 'Immortality' deviates from typical patterns ('everlasting', 'eternal'). The choice suggests timeless realm quality over mere duration—a more metaphysical inflection.",
+      "cross_refs": [
+        {
+          "work": "the-hidden-words",
+          "para": 88,
+          "snippet": "everlasting beauty"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 98,
+          "snippet": "everlasting candle"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 117,
+          "snippet": "immortal sovereignty"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 110,
+          "snippet": "everlasting torch of divine guidance"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 56,
+          "snippet": "refrain"
+        },
+        {
+          "work": "gleanings",
+          "para": 148,
+          "snippet": "everlasting"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 259,
+          "snippet": "O thou Remnant of God"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 798,
+          "snippet": "eternity"
+        }
+      ]
+    },
+    {
+      "term": "نزّلت",
+      "transliteration": "n-z-l",
+      "literal": "to descend, to be revealed",
+      "se_rendering": "sent down",
+      "note": "Revelation root (88 occurrences). 'Sent down' is SE's standard rendering, consistently applied here across three occurrences, emphasizing celestial origin of divine verses and Table.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 643,
+          "snippet": "sent down"
+        },
+        {
+          "work": "gleanings",
+          "para": 218,
+          "snippet": "revealed"
+        },
+        {
+          "work": "gleanings",
+          "para": 656,
+          "snippet": "descended"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 175,
+          "snippet": "didst send down"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 34,
+          "snippet": "Descend"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 47,
+          "snippet": "pour forth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 330,
+          "snippet": "send down"
+        },
+        {
+          "work": "gleanings",
+          "para": 604,
+          "snippet": "have been sent down"
+        }
+      ]
+    },
+    {
+      "term": "الانوار",
+      "transliteration": "r-w-h",
+      "literal": "to go; to depart; to rest; spirit; soul",
+      "se_rendering": "clouds of light",
+      "note": "Spirit/light root (34 occurrences). Here uniquely rendered 'clouds of light' rather than 'spirit' or 'spiritual'—a poetic elaboration that bridges imagery (clouds) with luminosity (light), specific to mystical theophany.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 164,
+          "snippet": "My Well-Beloved"
+        },
+        {
+          "work": "gleanings",
+          "para": 246,
+          "snippet": "My"
+        },
+        {
+          "work": "gleanings",
+          "para": 367,
+          "snippet": "spirit"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 702,
+          "snippet": "my spirit"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 201,
+          "snippet": "the Spirit"
+        },
+        {
+          "work": "gleanings",
+          "para": 548,
+          "snippet": "spiritual"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 215,
+          "snippet": "spiritually-minded"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 20,
+          "snippet": "a breath of My own Spirit"
+        }
+      ]
+    },
+    {
+      "term": "الرحمن",
+      "transliteration": "r-ḥ-m",
+      "literal": "merciful, compassionate; pertaining to divine mercy",
+      "se_rendering": "Most Merciful",
+      "note": "Mercy root (70 occurrences). 'Most Merciful' follows standard pattern but appears in climactic context emphasizing divine compassion as the quickening force for all creation.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 673,
+          "snippet": "Divine glory"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 57,
+          "snippet": "Divine"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 89,
+          "snippet": "celestial melody"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 114,
+          "snippet": "spirit of mercy"
+        },
+        {
+          "work": "gleanings",
+          "para": 372,
+          "snippet": "merciful"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 546,
+          "snippet": "mercy"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 50,
+          "snippet": "the Compassionate"
+        },
+        {
+          "work": "gleanings",
+          "para": 183,
+          "snippet": "the Merciful, the Compassionate"
+        }
+      ]
+    },
+    {
+      "term": "العصيان",
+      "transliteration": "ʿ-ṣ-y",
+      "literal": "disobey; transgress; rebel",
+      "se_rendering": "sins",
+      "note": "Disobedience root (24 occurrences). 'Sins' is a subtle shift from typical 'disobedience' or 'rebellion'—emphasizing moral transgression over willful defiance, softening the tone in context of divine forgiveness.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 169,
+          "snippet": "the most guilty among them that have transgressed"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 96,
+          "snippet": "rebellion"
+        },
+        {
+          "work": "gleanings",
+          "para": 656,
+          "snippet": "evil doings"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 187,
+          "snippet": "iniquity"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 58,
+          "snippet": "obeyeth him not"
+        },
+        {
+          "work": "gleanings",
+          "para": 136,
+          "snippet": "disobedience"
+        },
+        {
+          "work": "gleanings",
+          "para": 651,
+          "snippet": "sin"
+        }
+      ]
+    }
+  ],
+  "section_index": "79",
+  "section": "79",
+  "section_para": 1
 }

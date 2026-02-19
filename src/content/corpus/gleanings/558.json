@@ -1,10 +1,602 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 558,
   "source_text": "شنود و اسرار رجوع و ایاب را بچشم سر ملاحظه فرماید چه ذکر نمایم از آثار و علامات و ظهورات و تجلّیات که بامر سلطان اسماء و صفات در آن مدینه مقدّر شده بی‌آب رفع عطش نماید و بی‌نار حرارت محبّة الله بیفزاید در هر گیاهی حکمت بالغهٔ معنوی مستور است و بر شاخسار هر گل هزار بلبل ناطقه در جذب و شور از لاله‌های بدیعش سرّ نار موسوی ظاهر و از نفحات قدسیّه‌اش نفخهٔ روح القدس عیسوی باهر بی‌ذهب غنا بخشد و بی‌فنا بقا عطا فرماید در هر ورقش نعیمی",
   "translation": "How unspeakably glorious are the signs, the tokens, the revelations, and splendors which He, Who is the King of Names and Attributes, hath destined for that City! The attainment unto this City quencheth thirst without water, and kindleth the love of God without fire. Within every blade of grass are enshrined the mysteries of an inscrutable Wisdom, and upon every rosebush a myriad nightingales pour out, in blissful rapture, their melody. Its wondrous tulips unfold the mystery of the undying Fire in the Burning Bush, and its sweet savors of holiness breathe the perfume of the Messianic Spirit. It bestoweth wealth without gold, and conferreth immortality without death. In each one of its leaves ineffable delights are treasured, and within every chamber unnumbered mysteries lie hidden.",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "city-quencheth-thirst-without-water",
+  "alignment": [
+    {
+      "ar": "اسرار",
+      "en": "mysteries"
+    },
+    {
+      "ar": "رجوع",
+      "en": "attainment"
+    },
+    {
+      "ar": "آثار",
+      "en": "signs"
+    },
+    {
+      "ar": "علامات",
+      "en": "tokens"
+    },
+    {
+      "ar": "ظهورات",
+      "en": "revelations"
+    },
+    {
+      "ar": "تجلّیات",
+      "en": "splendors"
+    },
+    {
+      "ar": "بامر",
+      "en": "destined"
+    },
+    {
+      "ar": "سلطان",
+      "en": "King"
+    },
+    {
+      "ar": "اسماء",
+      "en": "Names"
+    },
+    {
+      "ar": "صفات",
+      "en": "Attributes"
+    },
+    {
+      "ar": "مدینه",
+      "en": "City"
+    },
+    {
+      "ar": "بی‌آب",
+      "en": "without water"
+    },
+    {
+      "ar": "رفع",
+      "en": "quencheth"
+    },
+    {
+      "ar": "عطش",
+      "en": "thirst"
+    },
+    {
+      "ar": "بی‌نار",
+      "en": "without fire"
+    },
+    {
+      "ar": "حرارت",
+      "en": "kindleth"
+    },
+    {
+      "ar": "محبّة",
+      "en": "love"
+    },
+    {
+      "ar": "الله",
+      "en": "God"
+    },
+    {
+      "ar": "گیاهی",
+      "en": "blade of grass"
+    },
+    {
+      "ar": "حکمت",
+      "en": "Wisdom"
+    },
+    {
+      "ar": "بالغهٔ",
+      "en": "inscrutable"
+    },
+    {
+      "ar": "مستور",
+      "en": "enshrined"
+    },
+    {
+      "ar": "شاخسار",
+      "en": "rosebush"
+    },
+    {
+      "ar": "هزار",
+      "en": "myriad"
+    },
+    {
+      "ar": "بلبل",
+      "en": "nightingales"
+    },
+    {
+      "ar": "ناطقه",
+      "en": "pour out"
+    },
+    {
+      "ar": "جذب",
+      "en": "rapture"
+    },
+    {
+      "ar": "شور",
+      "en": "blissful"
+    },
+    {
+      "ar": "لاله‌های",
+      "en": "tulips"
+    },
+    {
+      "ar": "بدیعش",
+      "en": "wondrous"
+    },
+    {
+      "ar": "سرّ",
+      "en": "mystery"
+    },
+    {
+      "ar": "نار",
+      "en": "Fire"
+    },
+    {
+      "ar": "موسوی",
+      "en": "Burning Bush"
+    },
+    {
+      "ar": "ظاهر",
+      "en": "unfold"
+    },
+    {
+      "ar": "نفحات",
+      "en": "savors"
+    },
+    {
+      "ar": "قدسیّه‌اش",
+      "en": "holiness"
+    },
+    {
+      "ar": "نفخهٔ",
+      "en": "perfume"
+    },
+    {
+      "ar": "روح",
+      "en": "Spirit"
+    },
+    {
+      "ar": "عیسوی",
+      "en": "Messianic"
+    },
+    {
+      "ar": "باهر",
+      "en": "breathe"
+    },
+    {
+      "ar": "بی‌ذهب",
+      "en": "without gold"
+    },
+    {
+      "ar": "غنا",
+      "en": "wealth"
+    },
+    {
+      "ar": "بخشد",
+      "en": "bestoweth"
+    },
+    {
+      "ar": "بی‌فنا",
+      "en": "without death"
+    },
+    {
+      "ar": "بقا",
+      "en": "immortality"
+    },
+    {
+      "ar": "عطا",
+      "en": "conferreth"
+    },
+    {
+      "ar": "ورقش",
+      "en": "leaves"
+    },
+    {
+      "ar": "نعیمی",
+      "en": "delights"
+    }
+  ],
+  "terms": [
+    {
+      "term": "علامات",
+      "transliteration": "ʿ-l-m",
+      "literal": "world; universe; the worlds",
+      "se_rendering": "signs",
+      "note": "Standard rendering is 'world' or 'worlds' (141 occurrences). Here 'signs' shifts focus from cosmological to semiotic—tokens of divine presence rather than material realms.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 28,
+          "snippet": "knowledge"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 122,
+          "snippet": "commentators"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 42,
+          "snippet": "banner"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 19,
+          "snippet": "understanding"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 205,
+          "snippet": "ancient Knowledge"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 65,
+          "snippet": "universe"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 4,
+          "snippet": "divine"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 199,
+          "snippet": "peoples of the world"
+        }
+      ]
+    },
+    {
+      "term": "ظهورات",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "revelations",
+      "note": "Typically 'Manifestation' (96 occurrences across corpus). Here rendered as 'revelations'—a more particularized theological term emphasizing disclosed mysteries rather than the Person of the Manifestation.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 140,
+          "snippet": "manifestation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 160,
+          "snippet": "Author of all Manifestations"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 136,
+          "snippet": "evident"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 206,
+          "snippet": "appeared"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 196,
+          "snippet": "Manifestations of God"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 255,
+          "snippet": "Manifestations"
+        }
+      ]
+    },
+    {
+      "term": "حکمت",
+      "transliteration": "h-k-m",
+      "literal": "government; rule; governance; wisdom",
+      "se_rendering": "mysteries",
+      "note": "Usually 'rule,' 'government,' or 'mysteries' (69 occurrences). 'mysteries' choice here foregrounds sapiential rather than administrative sense, fitting the mystical garden imagery.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-ahd",
+          "para": 6,
+          "snippet": "rule"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "government"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 849,
+          "snippet": "signs of Thy sovereignty"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 160,
+          "snippet": "meaning of return"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 182,
+          "snippet": "mystery of the former verse"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 129,
+          "snippet": "perspicuous verses"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 46,
+          "snippet": "conclusive"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 220,
+          "snippet": "impregnable stronghold"
+        }
+      ]
+    },
+    {
+      "term": "ناطقه",
+      "transliteration": "n-t-q",
+      "literal": "to speak; to utter; to pronounce; to articulate",
+      "se_rendering": "pour out",
+      "note": "Typically 'spoke' or 'speaking' (22 occurrences). 'pour out' personalizes utterance into an outpouring—nightingales as active vessels of song rather than mere speakers.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 2,
+          "snippet": "spoke"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 719,
+          "snippet": "speaking"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 90,
+          "snippet": "utterance"
+        },
+        {
+          "work": "tablet-of-carmel",
+          "para": 5,
+          "snippet": "hath been moved to disclose"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 596,
+          "snippet": "uttered"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 626,
+          "snippet": "made me able so to reveal"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 137,
+          "snippet": "I have spoken, and still speak forth"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 9,
+          "snippet": "hath not spoken"
+        }
+      ]
+    },
+    {
+      "term": "جذب",
+      "transliteration": "j-dh-b",
+      "literal": "to draw, attract, pull; to be enraptured",
+      "se_rendering": "rapture",
+      "note": "Typically 'enravished' or 'attract' (12 occurrences). 'rapture' emphasizes ecstatic emotional transport over magnetizing force or drawing action.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 413,
+          "snippet": "enravished"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 506,
+          "snippet": "draw"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 3,
+          "snippet": "Enchanter"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 201,
+          "snippet": "attract"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 762,
+          "snippet": "attract me"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 492,
+          "snippet": "would all be"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 236,
+          "snippet": "attraction"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 764,
+          "snippet": "all who are in heaven and all who are on earth have been enraptured"
+        }
+      ]
+    },
+    {
+      "term": "القدس",
+      "transliteration": "q-d-s",
+      "literal": "holy, sacred, sanctified",
+      "se_rendering": "holiness",
+      "note": "Commonly 'sacred' or 'hallowed' (47 occurrences). 'holiness' here emphasizes the quality of sanctity itself, abstract and perfumed, rather than a state or place.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 2,
+          "snippet": "Sacred"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 81,
+          "snippet": "hallowed"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 35,
+          "snippet": "spirit of holiness"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 448,
+          "snippet": "Sanctuary"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 13,
+          "snippet": "Holy Mariner"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 6,
+          "snippet": "sacred strand"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 26,
+          "snippet": "Celestial Concourse"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 189,
+          "snippet": "Most Holy"
+        }
+      ]
+    },
+    {
+      "term": "غنا",
+      "transliteration": "gh-n-y",
+      "literal": "to be independent of; to be in no need of; to dispense with",
+      "se_rendering": "wealth",
+      "note": "Usually 'in no need of' or 'Self-Sufficing' (20 occurrences). 'wealth' renders abstract divine independence as concrete material abundance—a paradoxical bestowal without gold.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 27,
+          "snippet": "in no need of"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 660,
+          "snippet": "the All-Possessing"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 77,
+          "snippet": "treasure"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 155,
+          "snippet": "Self-Sufficing"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 115,
+          "snippet": "the All-Bounteous"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 143,
+          "snippet": "the Rich"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 128,
+          "snippet": "riches"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 56,
+          "snippet": "sufficiency"
+        }
+      ]
+    },
+    {
+      "term": "نعیمی",
+      "transliteration": "n-ʿ-m",
+      "literal": "bliss; bounty; grace; comfort; felicity",
+      "se_rendering": "delights",
+      "note": "Standard 'bliss' or 'bounty' (20 occurrences). 'delights' here retains the sensual-spiritual valence while allowing 'ineffable' to intensify the apophatic dimension of experience.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 72,
+          "snippet": "felicity"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 22,
+          "snippet": "bounties"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 49,
+          "snippet": "bounty"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 223,
+          "snippet": "gift"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 130,
+          "snippet": "bliss"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 196,
+          "snippet": "We have forbidden you"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 104,
+          "snippet": "done well"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 149,
+          "snippet": "prosperity"
+        }
+      ]
+    }
+  ],
+  "section_index": "CXXV.9",
+  "section": "CXXV",
+  "section_para": 9
 }

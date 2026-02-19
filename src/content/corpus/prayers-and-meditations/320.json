@@ -1,10 +1,413 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 320,
   "source_text": "بَيْنَ النَّارِ وَالنُّورِ وَالنَّفْيِ وَالإِثْباتِ بِأَنْ تُنَزِّلَ عَلَيَّ وَمَنْ مَعِي مِنْ أَحِبَّائِي خَيْرَ الدُّنْيا وَالآخِرَةِ، ثُمَّ ارْزُقْنَا مِنْ بَدائِعِ نِعَمِكَ المَكْنُونَةِ وَإِنَّكَ أَنْتَ خالِقُ البَرِيَّةِ لا إِلهَ إِلاَّ أَنْتَ المُقْتَدِرُ العَزِيزُ المُتَعالِ.",
   "translation": "I entreat Thee, O my Lord, by Thy Most Great Name whereby Thou didst separate light from fire, and truth from denial, to send down upon me and upon such of my loved ones as are in my company the good of this world and of the next. Supply us, then, with Thy wondrous gifts that are hid from the eyes of men. Thou art, verily, the Fashioner of all creation. No God is there but Thee, the Almighty, the All-Glorious, the Most High.",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "fashioner-of-creation-wondrous-gifts",
+  "alignment": [
+    {
+      "ar": "الإِثْباتِ",
+      "en": "truth"
+    },
+    {
+      "ar": "مَعِي",
+      "en": "in my company"
+    },
+    {
+      "ar": "خَيْرَ",
+      "en": "the good"
+    },
+    {
+      "ar": "الآخِرَةِ",
+      "en": "the next"
+    },
+    {
+      "ar": "ارْزُقْنَا",
+      "en": "Supply us"
+    },
+    {
+      "ar": "بَدائِعِ",
+      "en": "wondrous"
+    },
+    {
+      "ar": "نِعَمِكَ",
+      "en": "gifts"
+    },
+    {
+      "ar": "المَكْنُونَةِ",
+      "en": "hid"
+    },
+    {
+      "ar": "خالِقُ",
+      "en": "Fashioner"
+    },
+    {
+      "ar": "إِلهَ",
+      "en": "God"
+    },
+    {
+      "ar": "المُقْتَدِرُ",
+      "en": "Almighty"
+    },
+    {
+      "ar": "العَزِيزُ",
+      "en": "All-Glorious"
+    },
+    {
+      "ar": "المُتَعالِ",
+      "en": "Most High"
+    }
+  ],
+  "terms": [
+    {
+      "term": "النَّارِ",
+      "transliteration": "n-w-r",
+      "literal": "light; illumination",
+      "se_rendering": "fire",
+      "note": "Root n-w-r typically renders as 'light' across 78 occurrences; here paired with نور as 'fire' to express contrasting duality, appearing in opening invocation formula.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 3,
+          "snippet": "light"
+        },
+        {
+          "work": "gleanings",
+          "para": 230,
+          "snippet": "Orb of Light"
+        },
+        {
+          "work": "gleanings",
+          "para": 235,
+          "snippet": "glory"
+        },
+        {
+          "work": "gleanings",
+          "para": 597,
+          "snippet": "fire"
+        },
+        {
+          "work": "gleanings",
+          "para": 458,
+          "snippet": "fire of God"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 10,
+          "snippet": "flame of fire"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 39,
+          "snippet": "lights"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 144,
+          "snippet": "radiant"
+        }
+      ]
+    },
+    {
+      "term": "تُنَزِّلَ",
+      "transliteration": "n-z-l",
+      "literal": "to descend, to be revealed",
+      "se_rendering": "send down",
+      "note": "Consistent with 'send down' (88 occurrences primary pattern); maintains revelation terminology applied here to bestowal of worldly and spiritual goods.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 643,
+          "snippet": "sent down"
+        },
+        {
+          "work": "gleanings",
+          "para": 218,
+          "snippet": "revealed"
+        },
+        {
+          "work": "gleanings",
+          "para": 656,
+          "snippet": "descended"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 34,
+          "snippet": "Descend"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 40,
+          "snippet": "were revealed"
+        },
+        {
+          "work": "gleanings",
+          "para": 604,
+          "snippet": "have been sent down"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 16,
+          "snippet": "hath been sent down"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 171,
+          "snippet": "which have been sent down"
+        }
+      ]
+    },
+    {
+      "term": "أَحِبَّائِي",
+      "transliteration": "ḥ-b-b",
+      "literal": "love; affection",
+      "se_rendering": "loved ones",
+      "note": "Within 92-occurrence pattern of 'loved ones'; SE uses unadorned possessive form rather than 'beloved of the Lord' variants, emphasizing intimate personal relation.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 3,
+          "snippet": "beloved of the Lord"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 53,
+          "snippet": "loved ones of the Lord"
+        },
+        {
+          "work": "gleanings",
+          "para": 341,
+          "snippet": "loved ones of God"
+        },
+        {
+          "work": "gleanings",
+          "para": 689,
+          "snippet": "beloved of the one true God"
+        },
+        {
+          "work": "gleanings",
+          "para": 640,
+          "snippet": "loved ones"
+        },
+        {
+          "work": "gleanings",
+          "para": 690,
+          "snippet": "beloved of God"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 39,
+          "snippet": "His loved ones"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 10,
+          "snippet": "love for Thee"
+        }
+      ]
+    },
+    {
+      "term": "المَكْنُونَةِ",
+      "transliteration": "k-n-n",
+      "literal": "to do; to make; to perform",
+      "se_rendering": "hid",
+      "note": "K-n-n root yields 'hid' here; concordance shows only 18 occurrences total with primary sense 'to do/make'; 'hidden/concealed' rendering reflects SE's semantic extension beyond typical usage.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 376,
+          "snippet": "consider"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 136,
+          "snippet": "interpret"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 240,
+          "snippet": "observest"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 24,
+          "snippet": "wear the guise"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 110,
+          "snippet": "quench"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 8,
+          "snippet": "hid"
+        },
+        {
+          "work": "tablet-of-carmel",
+          "para": 5,
+          "snippet": "been wrapped"
+        },
+        {
+          "work": "tablet-of-carmel",
+          "para": 4,
+          "snippet": "hidden"
+        }
+      ]
+    },
+    {
+      "term": "خالِقُ",
+      "transliteration": "kh-l-q",
+      "literal": "character; moral traits; disposition; conduct",
+      "se_rendering": "Fashioner",
+      "note": "Root kh-l-q typically denotes 'character' or 'virtues' (49 occurrences); here rendered 'Fashioner' applying verbal sense—singular theological usage in this cosmological context.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 28,
+          "snippet": "character"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 50,
+          "snippet": "spiritual characteristics"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 195,
+          "snippet": "virtues"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 54,
+          "snippet": "created her"
+        },
+        {
+          "work": "gleanings",
+          "para": 451,
+          "snippet": "His Apostle"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 2,
+          "snippet": "His creation"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 40,
+          "snippet": "wert created"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 23,
+          "snippet": "created thee"
+        }
+      ]
+    },
+    {
+      "term": "المُقْتَدِرُ",
+      "transliteration": "q-d-r",
+      "literal": "power; might; decree; measure; worth",
+      "se_rendering": "the Almighty",
+      "note": "Q-d-r root spans 100 occurrences with dominant 'power' and 'decree'; SE chooses 'Almighty' epithet—interpretive rendering emphasizing divine potency over causal determination.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 171,
+          "snippet": "a while"
+        },
+        {
+          "work": "gleanings",
+          "para": 138,
+          "snippet": "hath been decreed"
+        },
+        {
+          "work": "gleanings",
+          "para": 662,
+          "snippet": "hath decreed"
+        },
+        {
+          "work": "gleanings",
+          "para": 496,
+          "snippet": "forbearing towards"
+        },
+        {
+          "work": "gleanings",
+          "para": 111,
+          "snippet": "schools"
+        },
+        {
+          "work": "gleanings",
+          "para": 532,
+          "snippet": "can"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 4,
+          "snippet": "for a moment"
+        },
+        {
+          "work": "gleanings",
+          "para": 112,
+          "snippet": "Thy might"
+        }
+      ]
+    },
+    {
+      "term": "المُتَعالِ",
+      "transliteration": "ʿ-l-w",
+      "literal": "highest; most high; supreme",
+      "se_rendering": "the Most High",
+      "note": "Standard 'Most High' within 74-occurrence pattern; concludes theophoric chain in classic divine attributive position, conventional superlative usage maintained.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 1,
+          "snippet": "the Most High"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 148,
+          "snippet": "the Most Sublime Pen"
+        },
+        {
+          "work": "gleanings",
+          "para": 232,
+          "snippet": "supreme"
+        },
+        {
+          "work": "gleanings",
+          "para": 616,
+          "snippet": "the realms above"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 68,
+          "snippet": "the Pen of Glory"
+        },
+        {
+          "work": "gleanings",
+          "para": 393,
+          "snippet": "The Pen of the Most High"
+        },
+        {
+          "work": "gleanings",
+          "para": 697,
+          "snippet": "the Dayspring of Glory"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 1,
+          "snippet": "the Realm of Glory"
+        }
+      ]
+    }
+  ],
+  "section_index": "LXXVI.2",
+  "section": "LXXVI",
+  "section_para": 2
 }

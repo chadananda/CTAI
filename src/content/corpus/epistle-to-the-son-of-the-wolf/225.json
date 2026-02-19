@@ -1,10 +1,612 @@
 {
   "work": "Epistle to the Son of the Wolf",
   "slug": "epistle-to-the-son-of-the-wolf",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 225,
   "source_text": "در اين کلمه عليا تفکّر نمائيد ميفرمايد [ انّی مؤمن به و بدينه و بکتابه و بادلّائه و بمناهجه و بما يظهر من عنده فی کلّ ذلک مفتخرا بنسبتی اليه و متعزّزا بايمانی به ] و همچنين ميفرمايد [ ان يا کلّ شیء فی البيان فلتعرفنّ حدّ انفسکم فانّ مثل نقطة البيان يؤمن بمن يظهره اللّه قبل کلّ شیء و انّنی انا بذلک افتخرنّ علی من فی ملکوت السّموات و الارض ] انتهی * لعمر اللّه جميع ذرّات کائنات بنوحه و ندبه مشغولند از ظلم معرضين بيان * ايا صاحبان ابصار و آذان کجا رفتند ؟ نسأل اللّه تبارک و تعالی ان يحضرهم و ينصحهم بما ينفعهم و يمنعهم عمّا يضرّهم انّه هو القویّ الغالب القدير *",
   "translation": "Meditate upon these sublime words. He saith: \"I, verily, am a believer in Him, and in His Faith, and in His Book, and in His Testimonies, and in His Ways, and in all that proceedeth from Him concerning them. I glory in My kinship with Him, and pride Myself on My belief in Him.\" And likewise, He saith: \"O congregation of the Bayán and all who are therein! Recognize ye the limits imposed upon you, for such a One as the Point of the Bayán Himself hath believed in Him Whom God shall make manifest, before all things were created. Therein, verily, do I glory before all who are in the kingdom of heaven and earth.\" By God! All the atoms of the universe groan and lament at the cruelty perpetrated by the froward among the people of the Bayán. Whither are gone they who are endued with insight and hearing? We beseech God - blessed and glorified be He - to summon them and exhort them unto that which will profit them, and withhold them from that which will harm them. He, in truth, is the Strong, the All-Subduing, the Almighty.",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "point-of-the-bayan-believed",
+  "alignment": [
+    {
+      "ar": "در",
+      "en": "upon"
+    },
+    {
+      "ar": "اين",
+      "en": "these"
+    },
+    {
+      "ar": "کلمه",
+      "en": "words"
+    },
+    {
+      "ar": "عليا",
+      "en": "sublime"
+    },
+    {
+      "ar": "تفکّر",
+      "en": "Meditate"
+    },
+    {
+      "ar": "ميفرمايد",
+      "en": "He saith"
+    },
+    {
+      "ar": "انّی",
+      "en": "I"
+    },
+    {
+      "ar": "مؤمن",
+      "en": "believer"
+    },
+    {
+      "ar": "به",
+      "en": "in Him"
+    },
+    {
+      "ar": "بدينه",
+      "en": "in His Faith"
+    },
+    {
+      "ar": "بکتابه",
+      "en": "in His Book"
+    },
+    {
+      "ar": "بادلّائه",
+      "en": "in His Testimonies"
+    },
+    {
+      "ar": "بمناهجه",
+      "en": "in His Ways"
+    },
+    {
+      "ar": "بما",
+      "en": "in all that"
+    },
+    {
+      "ar": "يظهر",
+      "en": "proceedeth"
+    },
+    {
+      "ar": "من عنده",
+      "en": "from Him"
+    },
+    {
+      "ar": "فی",
+      "en": "concerning"
+    },
+    {
+      "ar": "کلّ",
+      "en": "all"
+    },
+    {
+      "ar": "ذلک",
+      "en": "them"
+    },
+    {
+      "ar": "مفتخرا",
+      "en": "glory"
+    },
+    {
+      "ar": "بنسبتی",
+      "en": "kinship"
+    },
+    {
+      "ar": "اليه",
+      "en": "with Him"
+    },
+    {
+      "ar": "متعزّزا",
+      "en": "pride"
+    },
+    {
+      "ar": "بايمانی",
+      "en": "belief"
+    },
+    {
+      "ar": "همچنين",
+      "en": "likewise"
+    },
+    {
+      "ar": "يا",
+      "en": "O"
+    },
+    {
+      "ar": "کلّ شیء",
+      "en": "congregation"
+    },
+    {
+      "ar": "البيان",
+      "en": "the Bayán"
+    },
+    {
+      "ar": "فلتعرفنّ",
+      "en": "Recognize"
+    },
+    {
+      "ar": "حدّ",
+      "en": "limits"
+    },
+    {
+      "ar": "انفسکم",
+      "en": "imposed upon you"
+    },
+    {
+      "ar": "فانّ",
+      "en": "for"
+    },
+    {
+      "ar": "مثل",
+      "en": "such a One as"
+    },
+    {
+      "ar": "نقطة",
+      "en": "the Point"
+    },
+    {
+      "ar": "يؤمن",
+      "en": "believed"
+    },
+    {
+      "ar": "يظهره",
+      "en": "shall make manifest"
+    },
+    {
+      "ar": "اللّه",
+      "en": "God"
+    },
+    {
+      "ar": "قبل",
+      "en": "before"
+    },
+    {
+      "ar": "شیء",
+      "en": "things"
+    },
+    {
+      "ar": "بذلک",
+      "en": "Therein"
+    },
+    {
+      "ar": "افتخرنّ",
+      "en": "do I glory"
+    },
+    {
+      "ar": "ملکوت",
+      "en": "kingdom"
+    },
+    {
+      "ar": "السّموات",
+      "en": "heaven"
+    },
+    {
+      "ar": "الارض",
+      "en": "earth"
+    },
+    {
+      "ar": "انتهی",
+      "en": ""
+    },
+    {
+      "ar": "لعمر",
+      "en": "By God"
+    },
+    {
+      "ar": "جميع",
+      "en": "All"
+    },
+    {
+      "ar": "ذرّات",
+      "en": "atoms"
+    },
+    {
+      "ar": "کائنات",
+      "en": "the universe"
+    },
+    {
+      "ar": "بنوحه",
+      "en": "groan"
+    },
+    {
+      "ar": "ندبه",
+      "en": "lament"
+    },
+    {
+      "ar": "مشغولند",
+      "en": ""
+    },
+    {
+      "ar": "از",
+      "en": "at"
+    },
+    {
+      "ar": "ظلم",
+      "en": "the cruelty"
+    },
+    {
+      "ar": "معرضين",
+      "en": "the froward"
+    },
+    {
+      "ar": "ايا",
+      "en": ""
+    },
+    {
+      "ar": "صاحبان",
+      "en": "they who are endued"
+    },
+    {
+      "ar": "ابصار",
+      "en": "insight"
+    },
+    {
+      "ar": "آذان",
+      "en": "hearing"
+    },
+    {
+      "ar": "کجا",
+      "en": "Whither"
+    },
+    {
+      "ar": "رفتند",
+      "en": "are gone"
+    },
+    {
+      "ar": "نسأل",
+      "en": "We beseech"
+    },
+    {
+      "ar": "تبارک",
+      "en": "blessed"
+    },
+    {
+      "ar": "تعالی",
+      "en": "glorified"
+    },
+    {
+      "ar": "ان",
+      "en": "to"
+    },
+    {
+      "ar": "يحضرهم",
+      "en": "summon them"
+    },
+    {
+      "ar": "ينصحهم",
+      "en": "exhort them"
+    },
+    {
+      "ar": "ينفعهم",
+      "en": "will profit them"
+    },
+    {
+      "ar": "يمنعهم",
+      "en": "withhold them"
+    },
+    {
+      "ar": "عمّا",
+      "en": "from that which"
+    },
+    {
+      "ar": "يضرّهم",
+      "en": "will harm them"
+    },
+    {
+      "ar": "انّه",
+      "en": "He"
+    },
+    {
+      "ar": "القویّ",
+      "en": "the Strong"
+    },
+    {
+      "ar": "الغالب",
+      "en": "the All-Subduing"
+    },
+    {
+      "ar": "القدير",
+      "en": "the Almighty"
+    }
+  ],
+  "terms": [
+    {
+      "term": "عليا",
+      "transliteration": "ʿ-l-w",
+      "literal": "highest; most high; supreme",
+      "se_rendering": "sublime",
+      "note": "Most frequent rendering is 'the Most High' or 'supreme' across 74 occurrences. 'Sublime' here suggests elevated rhetorical force rather than transcendent station—a stylistic choice for opening invocation.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 1,
+          "snippet": "the Most High"
+        },
+        {
+          "work": "gleanings",
+          "para": 232,
+          "snippet": "supreme"
+        },
+        {
+          "work": "gleanings",
+          "para": 616,
+          "snippet": "the realms above"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 390,
+          "snippet": "the Most Exalted, the Most High"
+        },
+        {
+          "work": "gleanings",
+          "para": 393,
+          "snippet": "The Pen of the Most High"
+        },
+        {
+          "work": "gleanings",
+          "para": 697,
+          "snippet": "the Dayspring of Glory"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 1,
+          "snippet": "the Realm of Glory"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 257,
+          "snippet": "the Báb, the Lord, the most exalted"
+        }
+      ]
+    },
+    {
+      "term": "البيان",
+      "transliteration": "b-y-n",
+      "literal": "to manifest; to make clear; clear, evident",
+      "se_rendering": "the Bayán",
+      "note": "Appears untranslated as 'the Bayán' here, maintaining proper noun status. Elsewhere rendered 'clear verses' or 'proofs'—SE reserves transliteration for this specific dispensation's title.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 223,
+          "snippet": "the Expounder, the Most Manifest"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 231,
+          "snippet": "clear verses"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 3,
+          "snippet": "proofs"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 12,
+          "snippet": "clear proofs"
+        },
+        {
+          "work": "gleanings",
+          "para": 563,
+          "snippet": "Dawning-Place of the proofs"
+        },
+        {
+          "work": "gleanings",
+          "para": 292,
+          "snippet": "the Bayán"
+        },
+        {
+          "work": "gleanings",
+          "para": 636,
+          "snippet": "utterance"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 101,
+          "snippet": "Bayán"
+        }
+      ]
+    },
+    {
+      "term": "ملکوت",
+      "transliteration": "m-l-k",
+      "literal": "kingdom; dominion; realm; sovereignty",
+      "se_rendering": "kingdom",
+      "note": "Standard 'kingdom' or 'realm' across 70 occurrences. Here 'kingdom' (singular) maintains cosmological scope 'of heaven and earth' without redundancy that 'realms' would introduce.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-ahd",
+          "para": 16,
+          "snippet": "heaven"
+        },
+        {
+          "work": "gleanings",
+          "para": 394,
+          "snippet": "realm"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 71,
+          "snippet": "kingdom"
+        },
+        {
+          "work": "gleanings",
+          "para": 313,
+          "snippet": "heavenly gem"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 69,
+          "snippet": "realms"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 28,
+          "snippet": "righteous"
+        },
+        {
+          "work": "gleanings",
+          "para": 171,
+          "snippet": "by the heavenly power"
+        },
+        {
+          "work": "gleanings",
+          "para": 59,
+          "snippet": "Lord"
+        }
+      ]
+    },
+    {
+      "term": "ظلم",
+      "transliteration": "z-l-m",
+      "literal": "wrongedness, oppression, meekness; state of being wronged or oppressed",
+      "se_rendering": "cruelty",
+      "note": "Jafar data shows 'wrongedness' or 'oppression' as base patterns across 128 occurrences. 'Cruelty' here personalizes the harm and foregrounds emotional register suitable to lamentation context.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 498,
+          "snippet": "afflicted with countless tribulations"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 49,
+          "snippet": "meekness"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 116,
+          "snippet": "injury"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 3,
+          "snippet": "Wronged One"
+        },
+        {
+          "work": "gleanings",
+          "para": 221,
+          "snippet": "oppression"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 9,
+          "snippet": "Darkness"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 33,
+          "snippet": "tyranny"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 573,
+          "snippet": "oppressed"
+        }
+      ]
+    },
+    {
+      "term": "معرضين",
+      "transliteration": "ʿ-r-d",
+      "literal": "to turn away; to avert; to abstain; heedless",
+      "se_rendering": "froward",
+      "note": "Typically 'turned away' or 'turned aside' across 47 occurrences. 'Froward' is archaic English for perverse obstinacy—SE's rare choice elevates moral condemnation with stylistic gravity.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 182,
+          "snippet": "turned away"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 505,
+          "snippet": "turned their backs"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 89,
+          "snippet": "objections"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 431,
+          "snippet": "have turned back"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 104,
+          "snippet": "are turned back"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 14,
+          "snippet": "turns away"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 487,
+          "snippet": "turned back"
+        },
+        {
+          "work": "gleanings",
+          "para": 108,
+          "snippet": "rejection"
+        }
+      ]
+    },
+    {
+      "term": "القدير",
+      "transliteration": "q-d-r",
+      "literal": "power; might; decree; measure; worth",
+      "se_rendering": "the Almighty",
+      "note": "Jafar shows 'power' or 'Thy power' as dominant pattern across 100 occurrences. 'The Almighty' abstracts the root toward divine title rather than potency—fitting for closing doxology.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 339,
+          "snippet": "Thy power"
+        },
+        {
+          "work": "gleanings",
+          "para": 138,
+          "snippet": "hath been decreed"
+        },
+        {
+          "work": "gleanings",
+          "para": 662,
+          "snippet": "hath decreed"
+        },
+        {
+          "work": "gleanings",
+          "para": 496,
+          "snippet": "forbearing towards"
+        },
+        {
+          "work": "gleanings",
+          "para": 111,
+          "snippet": "schools"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 12,
+          "snippet": "God of power"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 35,
+          "snippet": "Potent"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 282,
+          "snippet": "Almighty"
+        }
+      ]
+    }
+  ],
+  "section_index": "225",
+  "section": "225",
+  "section_para": 1
 }

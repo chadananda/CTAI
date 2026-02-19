@@ -1,10 +1,131 @@
 {
   "work": "The Hidden Words",
   "slug": "the-hidden-words",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 74,
   "source_text": "اوّل سروش دوست اينست",
   "translation": "The first call of the Beloved is this",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "first-call-beloved",
+  "alignment": [
+    {
+      "ar": "اوّل",
+      "en": "first"
+    },
+    {
+      "ar": "سروش",
+      "en": "call"
+    },
+    {
+      "ar": "دوست",
+      "en": "Beloved"
+    },
+    {
+      "ar": "اينست",
+      "en": "is this"
+    }
+  ],
+  "terms": [
+    {
+      "term": "اوّل",
+      "transliteration": "ʾ-w-l",
+      "literal": "first; beginning; at first",
+      "se_rendering": "first",
+      "note": "Typically 'first' or 'beginning' in SE's corpus. Here 'first' marks temporal priority—initiating a sequence of divine utterances.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 7,
+          "snippet": "beginning"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 602,
+          "snippet": "Firstness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 51,
+          "snippet": "first"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 39,
+          "snippet": "friends"
+        },
+        {
+          "work": "gleanings",
+          "para": 38,
+          "snippet": "endowed"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 6,
+          "snippet": "loved ones"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 223,
+          "snippet": "inception"
+        },
+        {
+          "work": "gleanings",
+          "para": 293,
+          "snippet": "of old"
+        }
+      ]
+    },
+    {
+      "term": "سروش",
+      "transliteration": "s-r-w",
+      "literal": "cypress (tree); call, voice; joy",
+      "se_rendering": "call",
+      "note": "Standard SE rendering as 'call' across 5 occurrences. Captures the vocative dimension of divine address rather than 'joy' or 'gladness' alternatives.",
+      "cross_refs": [
+        {
+          "work": "tablet-of-carmel",
+          "para": 2,
+          "snippet": "joy"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 57,
+          "snippet": "gladness"
+        }
+      ]
+    },
+    {
+      "term": "دوست",
+      "transliteration": "d-w-s",
+      "literal": "friend; beloved; to befriend",
+      "se_rendering": "Beloved",
+      "note": "Predominantly 'friend' or 'Friend' in SE's renderings. Capitalized 'Beloved' here emphasizes divine intimacy and relational identity over generic friendship.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 142,
+          "snippet": "friend"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 51,
+          "snippet": "friends"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 24,
+          "snippet": "friendliness"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 185,
+          "snippet": "hundred"
+        }
+      ]
+    }
+  ],
+  "section_index": "147",
+  "section": "147",
+  "section_para": 1
 }

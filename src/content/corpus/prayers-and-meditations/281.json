@@ -1,10 +1,456 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 281,
   "source_text": "سُبْحَانَكَ اللَّهُمَّ يا إِلهِي لَكَ الحَمْدُ بِما عَرَّفْتَنِي مَظْهَر نَفْسِكَ وَقَطَعْتَنِي عَنْ أَعْدائِكَ، وَكَشَفْتَ لِي أَعْمالَهُمْ وَأَفْعالَهُمْ فِي أَيَّامِكَ وَأَقْلَبْتَنِي مُنْقَطِعًا عَنْهُمْ إِلى شَطْرِ فَضْلِكَ وَأَلْطافِكَ، وَأَنْزَلْتَ عَلَيَّ مِنْ سَحَابِ مَشِيَّتِكَ ما طَهَّرَنِي عَنْ إِشاراتِ المُشْرِكِينَ وَدَلالاتِ المُنْكِرِينَ، عَلَى شَأْنٍ كُنْتُ مُقْبِلاً بِكُلِّي إِلَيْكَ وَهارِبًا عَن الَّذِيْنَ كَفَرُوا بِوَجْهِكَ وَجَعَلْتَنِي قائِمًا عَلَى حُبِّكَ وَناطِقًا بِذِكْرِكَ وَثَنائِكَ وَسَقَيْتَنِي كَأْسَ رَحْمَتِكَ الَّتِيْ سَبَقَتْ مَنْ فِي الغَيْبِ وَالشُّهُودِ، وَإِنَّكَ أَنْتَ",
   "translation": "Glorified art Thou, O Lord my God! I yield Thee thanks for having enabled me to recognize the Manifestation of Thyself, and for having severed me from Thine enemies, and laid bare before mine eyes their misdeeds and wicked works in Thy days, and for having rid me of all attachment to them, and caused me to turn wholly towards Thy grace and bountiful favors. I give Thee thanks, also, for having sent down upon me from the clouds of Thy will that which hath so sanctified me from the hints of the infidels and the allusions of the misbelievers that I have fixed my heart firmly on Thee, and fled from such as have denied the light of Thy countenance. Again I thank Thee for having empowered me to be steadfast in Thy love, and to speak forth Thy praise and to extol Thy virtues, and for having given me to drink of the cup of Thy mercy that hath surpassed all things visible and invisible.",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "cup-of-thy-mercy",
+  "alignment": [
+    {
+      "ar": "سُبْحَانَكَ",
+      "en": "Glorified art Thou"
+    },
+    {
+      "ar": "إِلهِي",
+      "en": "my God"
+    },
+    {
+      "ar": "الحَمْدُ",
+      "en": "thanks"
+    },
+    {
+      "ar": "مَظْهَر",
+      "en": "Manifestation"
+    },
+    {
+      "ar": "نَفْسِكَ",
+      "en": "Thyself"
+    },
+    {
+      "ar": "قَطَعْتَنِي",
+      "en": "severed me"
+    },
+    {
+      "ar": "أَعْدائِكَ",
+      "en": "Thine enemies"
+    },
+    {
+      "ar": "كَشَفْتَ",
+      "en": "laid bare"
+    },
+    {
+      "ar": "أَعْمالَهُمْ",
+      "en": "misdeeds"
+    },
+    {
+      "ar": "أَفْعالَهُمْ",
+      "en": "wicked works"
+    },
+    {
+      "ar": "أَقْلَبْتَنِي",
+      "en": "caused me to turn"
+    },
+    {
+      "ar": "مُنْقَطِعًا",
+      "en": "rid me of all attachment"
+    },
+    {
+      "ar": "شَطْرِ",
+      "en": "towards"
+    },
+    {
+      "ar": "فَضْلِكَ",
+      "en": "Thy grace"
+    },
+    {
+      "ar": "أَلْطافِكَ",
+      "en": "bountiful favors"
+    },
+    {
+      "ar": "أَنْزَلْتَ",
+      "en": "sent down"
+    },
+    {
+      "ar": "سَحَابِ",
+      "en": "clouds"
+    },
+    {
+      "ar": "إِشاراتِ",
+      "en": "hints"
+    },
+    {
+      "ar": "المُشْرِكِينَ",
+      "en": "infidels"
+    },
+    {
+      "ar": "دَلالاتِ",
+      "en": "allusions"
+    },
+    {
+      "ar": "المُنْكِرِينَ",
+      "en": "misbelievers"
+    },
+    {
+      "ar": "شَأْنٍ",
+      "en": "that"
+    },
+    {
+      "ar": "مُقْبِلاً",
+      "en": "fixed"
+    },
+    {
+      "ar": "هارِبًا",
+      "en": "fled"
+    },
+    {
+      "ar": "كَفَرُوا",
+      "en": "denied"
+    },
+    {
+      "ar": "بِوَجْهِكَ",
+      "en": "light of Thy countenance"
+    },
+    {
+      "ar": "جَعَلْتَنِي",
+      "en": "empowered me"
+    },
+    {
+      "ar": "قائِمًا",
+      "en": "steadfast"
+    },
+    {
+      "ar": "ناطِقًا",
+      "en": "speak forth"
+    },
+    {
+      "ar": "بِذِكْرِكَ",
+      "en": "Thy praise"
+    },
+    {
+      "ar": "ثَنائِكَ",
+      "en": "extol Thy virtues"
+    },
+    {
+      "ar": "سَقَيْتَنِي",
+      "en": "given me to drink"
+    },
+    {
+      "ar": "كَأْسَ",
+      "en": "cup"
+    },
+    {
+      "ar": "رَحْمَتِكَ",
+      "en": "Thy mercy"
+    },
+    {
+      "ar": "سَبَقَتْ",
+      "en": "surpassed"
+    },
+    {
+      "ar": "الغَيْبِ",
+      "en": "invisible"
+    }
+  ],
+  "terms": [
+    {
+      "term": "مَظْهَر",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "Manifestation",
+      "note": "Standard rendering as 'Manifestation' across 96 occurrences. Here applied to recognizing God's self-disclosure in human form, core Bahá'í theological concept.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 53,
+          "snippet": "Manifestation"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 136,
+          "snippet": "evident"
+        },
+        {
+          "work": "gleanings",
+          "para": 222,
+          "snippet": "material"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 206,
+          "snippet": "appeared"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 196,
+          "snippet": "Manifestations of God"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 32,
+          "snippet": "overwhelm the soul"
+        }
+      ]
+    },
+    {
+      "term": "مُنْقَطِعًا",
+      "transliteration": "q-t-ʿ",
+      "literal": "to be severed; to be cut off; to detach oneself; to abstain",
+      "se_rendering": "rid me of all attachment",
+      "note": "Rendered as 'rid me of all attachment' rather than typical 'detached themselves' or 'sundered.' SE uses active divine agency phrasing emphasizing God's transformative power.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 662,
+          "snippet": "detacheth himself"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 11,
+          "snippet": "decisive"
+        },
+        {
+          "work": "gleanings",
+          "para": 310,
+          "snippet": "cut into pieces"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 16,
+          "snippet": "detachment"
+        },
+        {
+          "work": "gleanings",
+          "para": 255,
+          "snippet": "detached"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 218,
+          "snippet": "renounced"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 682,
+          "snippet": "wholly detached"
+        },
+        {
+          "work": "gleanings",
+          "para": 490,
+          "snippet": "cut off"
+        }
+      ]
+    },
+    {
+      "term": "طَهَّرَنِي",
+      "transliteration": "t-h-r",
+      "literal": "to purify; to cleanse",
+      "se_rendering": "sanctified me",
+      "note": "Rendered as 'sanctified me' here; corpus shows 'purified' or 'Purify me' are more frequent. This choice elevates spiritual cleansing to sacred consecration.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 578,
+          "snippet": "purified"
+        },
+        {
+          "work": "gleanings",
+          "para": 466,
+          "snippet": "Tihrán"
+        },
+        {
+          "work": "gleanings",
+          "para": 589,
+          "snippet": "Essence of Purity"
+        },
+        {
+          "work": "gleanings",
+          "para": 212,
+          "snippet": "most holy habitation"
+        },
+        {
+          "work": "gleanings",
+          "para": 617,
+          "snippet": "purify"
+        },
+        {
+          "work": "gleanings",
+          "para": 726,
+          "snippet": "pure and undefiled"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 170,
+          "snippet": "Purge"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 223,
+          "snippet": "pure heart"
+        }
+      ]
+    },
+    {
+      "term": "قائِمًا",
+      "transliteration": "q-w-m",
+      "literal": "rising; standing; uprising; resurrection",
+      "se_rendering": "steadfast",
+      "note": "Translated as 'steadfast' rather than 'standing' or 'rising.' Rare rendering choice emphasizing firm constancy in love over physical or eschatological standing.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 152,
+          "snippet": "Day of Resurrection"
+        },
+        {
+          "work": "gleanings",
+          "para": 437,
+          "snippet": "arise"
+        },
+        {
+          "work": "gleanings",
+          "para": 513,
+          "snippet": "dedicateth"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 153,
+          "snippet": "Resurrection"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 74,
+          "snippet": "rise"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "peoples"
+        },
+        {
+          "work": "gleanings",
+          "para": 693,
+          "snippet": "commandments"
+        },
+        {
+          "work": "gleanings",
+          "para": 628,
+          "snippet": "My commandments"
+        }
+      ]
+    },
+    {
+      "term": "حُبِّكَ",
+      "transliteration": "ḥ-b-b",
+      "literal": "love; affection",
+      "se_rendering": "Thy love",
+      "note": "Rendered as 'Thy love' (noun of divine affection). Typical pattern; corpus confirms 'love' dominates renderings of this root across 92 occurrences.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 3,
+          "snippet": "beloved of the Lord"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 53,
+          "snippet": "loved ones of the Lord"
+        },
+        {
+          "work": "gleanings",
+          "para": 341,
+          "snippet": "loved ones of God"
+        },
+        {
+          "work": "gleanings",
+          "para": 689,
+          "snippet": "beloved of the one true God"
+        },
+        {
+          "work": "gleanings",
+          "para": 640,
+          "snippet": "loved ones"
+        },
+        {
+          "work": "gleanings",
+          "para": 690,
+          "snippet": "beloved of God"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 39,
+          "snippet": "His loved ones"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 10,
+          "snippet": "love for Thee"
+        }
+      ]
+    },
+    {
+      "term": "رَحْمَتِكَ",
+      "transliteration": "r-ḥ-m",
+      "literal": "merciful, compassionate; pertaining to divine mercy",
+      "se_rendering": "Thy mercy",
+      "note": "Rendered as 'Thy mercy' here; corpus lists 'Divine glory' and 'spirit of mercy' as alternate renderings. SE chooses relational compassion over abstract glory.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 673,
+          "snippet": "Divine glory"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 57,
+          "snippet": "Divine"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 89,
+          "snippet": "celestial melody"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 114,
+          "snippet": "spirit of mercy"
+        },
+        {
+          "work": "gleanings",
+          "para": 372,
+          "snippet": "merciful"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 220,
+          "snippet": "have mercy on them"
+        },
+        {
+          "work": "gleanings",
+          "para": 12,
+          "snippet": "mercy"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 50,
+          "snippet": "the Compassionate"
+        }
+      ]
+    }
+  ],
+  "section_index": "LXVII.1",
+  "section": "LXVII",
+  "section_para": 1
 }

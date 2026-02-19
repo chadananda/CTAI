@@ -1,10 +1,332 @@
 {
   "work": "Tablet of the Holy Mariner",
   "slug": "tablet-of-the-holy-mariner",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 20,
   "source_text": "إذا أطردهم شهاب الدّرّيّ من سكّان ملكوت اللّقاء فسبحان ربّي الأبهى",
   "translation": "Whereupon the burning meteor cast them out from them that abide in the Kingdom of His Presence,\n Glorified be my Lord, the All-Glorious!",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "burning-meteor-cast-out-kingdom",
+  "alignment": [
+    {
+      "ar": "إذا",
+      "en": "Whereupon"
+    },
+    {
+      "ar": "أطردهم",
+      "en": "cast them out"
+    },
+    {
+      "ar": "شهاب",
+      "en": "meteor"
+    },
+    {
+      "ar": "الدّرّيّ",
+      "en": "burning"
+    },
+    {
+      "ar": "سكّان",
+      "en": "them that abide"
+    },
+    {
+      "ar": "ملكوت",
+      "en": "Kingdom"
+    },
+    {
+      "ar": "اللّقاء",
+      "en": "His Presence"
+    },
+    {
+      "ar": "فسبحان",
+      "en": "Glorified"
+    },
+    {
+      "ar": "ربّي",
+      "en": "my Lord"
+    },
+    {
+      "ar": "الأبهى",
+      "en": "All-Glorious"
+    }
+  ],
+  "terms": [
+    {
+      "term": "سكّان",
+      "transliteration": "s-k-n",
+      "literal": "stillness, rest, quietude, tranquility",
+      "se_rendering": "abide",
+      "note": "Root s-k-n typically rendered as 'stillness' or 'tranquillity' (18 occ). Here SE uses 'abide,' transforming the abstract state into active habitation, suggesting dwelling rather than mere quietude.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 209,
+          "snippet": "calmly"
+        },
+        {
+          "work": "gleanings",
+          "para": 511,
+          "snippet": "tranquillity"
+        },
+        {
+          "work": "gleanings",
+          "para": 324,
+          "snippet": "stillness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 140,
+          "snippet": "serenity"
+        },
+        {
+          "work": "gleanings",
+          "para": 109,
+          "snippet": "abode of tranquility"
+        },
+        {
+          "work": "gleanings",
+          "para": 316,
+          "snippet": "in its original state"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 185,
+          "snippet": "inmates"
+        },
+        {
+          "work": "gleanings",
+          "para": 338,
+          "snippet": "are"
+        }
+      ]
+    },
+    {
+      "term": "ملكوت",
+      "transliteration": "m-l-k",
+      "literal": "kingdom; dominion; realm; sovereignty",
+      "se_rendering": "Kingdom",
+      "note": "Consistently rendered as 'Kingdom' across 70 occurrences. Capitalization here emphasizes metaphysical dominion over material realm, a standard SE choice for this frequent term.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-ahd",
+          "para": 16,
+          "snippet": "heaven"
+        },
+        {
+          "work": "gleanings",
+          "para": 394,
+          "snippet": "realm"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 171,
+          "snippet": "kingdom"
+        },
+        {
+          "work": "gleanings",
+          "para": 313,
+          "snippet": "heavenly gem"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 69,
+          "snippet": "realms"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 28,
+          "snippet": "righteous"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 167,
+          "snippet": "by the heavenly power"
+        },
+        {
+          "work": "gleanings",
+          "para": 59,
+          "snippet": "Lord"
+        }
+      ]
+    },
+    {
+      "term": "اللّقاء",
+      "transliteration": "l-q-y",
+      "literal": "opposite; facing; in front of; towards",
+      "se_rendering": "His Presence",
+      "note": "Root l-q-y renders variously as 'before,' 'in the face of,' or 'the Divine Presence' (30 occ). SE selects 'His Presence,' personalizing the abstract encounter into direct divine confrontation.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 337,
+          "snippet": "in the face of"
+        },
+        {
+          "work": "gleanings",
+          "para": 375,
+          "snippet": "before"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 171,
+          "snippet": "the Divine Presence"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 149,
+          "snippet": "attainment unto the Divine Presence"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 216,
+          "snippet": "the Judgment Day"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 154,
+          "snippet": "Recite"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 805,
+          "snippet": "hath attained unto Thy presence"
+        },
+        {
+          "work": "gleanings",
+          "para": 31,
+          "snippet": "hath attained unto His Presence"
+        }
+      ]
+    },
+    {
+      "term": "فسبحان",
+      "transliteration": "s-b-ḥ",
+      "literal": "glorified; the All-Praised; exalted",
+      "se_rendering": "Glorified be",
+      "note": "Root s-b-ḥ typically 'the All-Praised' or 'Glorified art Thou' (23 occ). SE's imperative 'Glorified be' reshapes the doxology into command rather than declarative praise.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 211,
+          "snippet": "the All-Praised"
+        },
+        {
+          "work": "gleanings",
+          "para": 212,
+          "snippet": "the Breath of the All-Glorious"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 13,
+          "snippet": "the breezes of the All-Glorious"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 42,
+          "snippet": "Gracious God"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 90,
+          "snippet": "Great God"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 62,
+          "snippet": "Glorified art Thou"
+        },
+        {
+          "work": "gleanings",
+          "para": 112,
+          "snippet": "Glory be to Thee"
+        },
+        {
+          "work": "gleanings",
+          "para": 1,
+          "snippet": "Lauded and glorified art Thou"
+        }
+      ]
+    },
+    {
+      "term": "ربّي",
+      "transliteration": "r-b-b",
+      "literal": "divine; of God; lordly",
+      "se_rendering": "my Lord",
+      "note": "Root r-b-b renders as 'Lord,' 'Holy,' or 'Divine' (31 occ). 'My Lord' emphasizes personal possession and intimate relationship, heightening the devotional tone of the closing invocation.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 2,
+          "snippet": "Holy"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 45,
+          "snippet": "Lord"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 69,
+          "snippet": "lordship"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 201,
+          "snippet": "My Lord's"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 162,
+          "snippet": "Divine might"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 16,
+          "snippet": "divine knowledge"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 205,
+          "snippet": "divine wisdom"
+        },
+        {
+          "work": "gleanings",
+          "para": 684,
+          "snippet": "Divine glory"
+        }
+      ]
+    },
+    {
+      "term": "الأبهى",
+      "transliteration": "b-h-y",
+      "literal": "splendor; glory; magnificence; Bahá (Proper Name in Bahá'í texts)",
+      "se_rendering": "the All-Glorious",
+      "note": "Root b-h-y encompasses 'Glory,' 'Bahá,' and 'All-Glorious' (17 occ). 'All-Glorious' avoids the proper noun reading, maintaining adjectival supremacy while echoing Bahá'í theological magnificence.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 280,
+          "snippet": "Bahá"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 59,
+          "snippet": "Glory"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 51,
+          "snippet": "Abhá"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 271,
+          "snippet": "All-Glorious"
+        }
+      ]
+    }
+  ],
+  "section_index": "21",
+  "section": "21",
+  "section_para": 1
 }

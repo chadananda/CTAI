@@ -1,10 +1,128 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 130,
   "source_text": "إِلاَّ أَنْتَ العَزِيزُ الحَكِيمُ.",
   "translation": "No God is there but Thee, the Almighty, the All-Wise.",
   "source_lang": "ar",
-  "score": 9.6
+  "score": 9.6,
+  "page_slug": "almighty-all-wise",
+  "alignment": [
+    {
+      "ar": "أَنْتَ",
+      "en": "Thee"
+    },
+    {
+      "ar": "العَزِيزُ",
+      "en": "the Almighty"
+    },
+    {
+      "ar": "الحَكِيمُ",
+      "en": "the All-Wise"
+    }
+  ],
+  "terms": [
+    {
+      "term": "العَزِيزُ",
+      "transliteration": "ʿ-z-z",
+      "literal": "glory; might; honor; dignity; power; majesty",
+      "se_rendering": "the Almighty",
+      "note": "Primary renderings are 'glory' and 'honor' across 49 occurrences. 'Almighty' here uniquely emphasizes divine power rather than majesty.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 185,
+          "snippet": "glory"
+        },
+        {
+          "work": "gleanings",
+          "para": 642,
+          "snippet": "honor"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 99,
+          "snippet": "Dear"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 38,
+          "snippet": "dearly beloved"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 37,
+          "snippet": "Gracious"
+        },
+        {
+          "work": "gleanings",
+          "para": 260,
+          "snippet": "All-Glorious"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 162,
+          "snippet": "Mighty"
+        },
+        {
+          "work": "gleanings",
+          "para": 660,
+          "snippet": "powerful"
+        }
+      ]
+    },
+    {
+      "term": "الحَكِيمُ",
+      "transliteration": "h-k-m",
+      "literal": "government; rule; governance; wisdom",
+      "se_rendering": "the All-Wise",
+      "note": "Typically 'rule' or 'government' across 69 occurrences; 'wisdom' is secondary. 'All-Wise' foregrounds wisdom in this devotional context.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-ahd",
+          "para": 6,
+          "snippet": "rule"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "government"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 160,
+          "snippet": "meaning of return"
+        },
+        {
+          "work": "gleanings",
+          "para": 224,
+          "snippet": "mysteries"
+        },
+        {
+          "work": "gleanings",
+          "para": 636,
+          "snippet": "rule of the sword"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 182,
+          "snippet": "mystery of the former verse"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 129,
+          "snippet": "perspicuous verses"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 46,
+          "snippet": "conclusive"
+        }
+      ]
+    }
+  ],
+  "section_index": "XXXVII.4",
+  "section": "XXXVII",
+  "section_para": 4
 }

@@ -1,10 +1,678 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 453,
   "source_text": "وكم من امرأة بقت بغير زوج ومعين، وارتقيتم في الظّلم إلى مقام الّذي قتلتم الّذي ما تحرّف وجهه عن وجه الله العليّ العظيم، فيا ليت قتلتموه كما يقتل النّاس بعضهم بعضا بل قتلتموه بقسم الّذي ما رأت بمثله عيون النّاس وبكت عليه السّماء وضجّت أفئدة المقرّبين، أما كان ابن نبيّكم وأما كان نسبته إلى النّبيّ مشتهرا بينكم فكيف فعلتم به ما لا فعل أحد من الأوّلين، فوالله ما شهد عين الوجود بمثلكم تقتلون ابن نبيّكم ثمّ تفرحون على مقاعدكم وتكوننّ من الفرحين، وتلعنون الّذين هم كانوا من قبل وفعلوا بمثل ما فعلتم ثمّ عن أنفسكم لمن الغافلين، إذا فأنصف في",
   "translation": "Your iniquity waxed greater and greater until ye slew Him Who had never taken His eyes away from the face of God, the Most Exalted, the Most Great. Would that ye had put Him to death after the manner men are wont to put one another to death! Ye slew Him, however, in such circumstances as no man hath ever witnessed. The heavens wept sore over Him, and the souls of them who are nigh unto God cried out for His affliction. Was He not a Scion of your Prophet’s ancient House? Had not His fame as a direct descendant of the Apostle been spread abroad amongst you? Why, then, did ye inflict upon Him what no man, however far ye may look back, hath inflicted upon another? By God! The eye of creation hath never beheld your like. Ye slay Him Who is a Scion of your Prophet’s House, and rejoice and make merry while seated on your seats of honor! Ye utter your imprecations against them who were before you, and who have perpetrated what ye have perpetrated, and remain yourselves all the time unaware of your enormities!",
   "source_lang": "ar",
-  "score": 9.8
+  "score": 9.8,
+  "page_slug": "slew-scion-prophet-house",
+  "alignment": [
+    {
+      "ar": "ارتقيتم",
+      "en": "waxed"
+    },
+    {
+      "ar": "الظّلم",
+      "en": "iniquity"
+    },
+    {
+      "ar": "مقام",
+      "en": "greater"
+    },
+    {
+      "ar": "قتلتم",
+      "en": "slew"
+    },
+    {
+      "ar": "الّذي",
+      "en": "Him Who"
+    },
+    {
+      "ar": "ما",
+      "en": "never"
+    },
+    {
+      "ar": "تحرّف",
+      "en": "taken"
+    },
+    {
+      "ar": "وجهه",
+      "en": "His eyes"
+    },
+    {
+      "ar": "عن",
+      "en": "away from"
+    },
+    {
+      "ar": "وجه",
+      "en": "the face"
+    },
+    {
+      "ar": "الله",
+      "en": "God"
+    },
+    {
+      "ar": "العليّ",
+      "en": "the Most Exalted"
+    },
+    {
+      "ar": "العظيم",
+      "en": "the Most Great"
+    },
+    {
+      "ar": "فيا ليت",
+      "en": "Would that"
+    },
+    {
+      "ar": "قتلتموه",
+      "en": "put Him to death"
+    },
+    {
+      "ar": "كما",
+      "en": "after the manner"
+    },
+    {
+      "ar": "يقتل",
+      "en": "put"
+    },
+    {
+      "ar": "النّاس",
+      "en": "men"
+    },
+    {
+      "ar": "بعضهم بعضا",
+      "en": "one another"
+    },
+    {
+      "ar": "بل",
+      "en": "however"
+    },
+    {
+      "ar": "بقسم",
+      "en": "in such circumstances"
+    },
+    {
+      "ar": "رأت",
+      "en": "witnessed"
+    },
+    {
+      "ar": "عيون",
+      "en": "eyes"
+    },
+    {
+      "ar": "بكت",
+      "en": "wept"
+    },
+    {
+      "ar": "السّماء",
+      "en": "The heavens"
+    },
+    {
+      "ar": "عليه",
+      "en": "over Him"
+    },
+    {
+      "ar": "ضجّت",
+      "en": "cried out"
+    },
+    {
+      "ar": "أفئدة",
+      "en": "the souls"
+    },
+    {
+      "ar": "المقرّبين",
+      "en": "them who are nigh unto God"
+    },
+    {
+      "ar": "أما كان",
+      "en": "Was He not"
+    },
+    {
+      "ar": "ابن",
+      "en": "a Scion"
+    },
+    {
+      "ar": "نبيّكم",
+      "en": "your Prophet"
+    },
+    {
+      "ar": "نسبته",
+      "en": "descendant"
+    },
+    {
+      "ar": "إلى",
+      "en": "of"
+    },
+    {
+      "ar": "النّبيّ",
+      "en": "the Apostle"
+    },
+    {
+      "ar": "مشتهرا",
+      "en": "spread abroad"
+    },
+    {
+      "ar": "بينكم",
+      "en": "amongst you"
+    },
+    {
+      "ar": "فكيف",
+      "en": "Why, then"
+    },
+    {
+      "ar": "فعلتم",
+      "en": "did ye inflict"
+    },
+    {
+      "ar": "به",
+      "en": "upon Him"
+    },
+    {
+      "ar": "لا",
+      "en": "no"
+    },
+    {
+      "ar": "فعل",
+      "en": "hath inflicted"
+    },
+    {
+      "ar": "أحد",
+      "en": "another"
+    },
+    {
+      "ar": "الأوّلين",
+      "en": "before"
+    },
+    {
+      "ar": "فوالله",
+      "en": "By God"
+    },
+    {
+      "ar": "شهد",
+      "en": "beheld"
+    },
+    {
+      "ar": "عين",
+      "en": "The eye"
+    },
+    {
+      "ar": "الوجود",
+      "en": "creation"
+    },
+    {
+      "ar": "بمثلكم",
+      "en": "your like"
+    },
+    {
+      "ar": "تقتلون",
+      "en": "Ye slay"
+    },
+    {
+      "ar": "ثمّ",
+      "en": "and"
+    },
+    {
+      "ar": "تفرحون",
+      "en": "rejoice"
+    },
+    {
+      "ar": "على",
+      "en": "on"
+    },
+    {
+      "ar": "مقاعدكم",
+      "en": "your seats"
+    },
+    {
+      "ar": "تكوننّ",
+      "en": "make merry"
+    },
+    {
+      "ar": "الفرحين",
+      "en": "honor"
+    },
+    {
+      "ar": "تلعنون",
+      "en": "Ye utter your imprecations"
+    },
+    {
+      "ar": "الّذين",
+      "en": "them who"
+    },
+    {
+      "ar": "هم",
+      "en": "who"
+    },
+    {
+      "ar": "كانوا",
+      "en": "were"
+    },
+    {
+      "ar": "من قبل",
+      "en": "before you"
+    },
+    {
+      "ar": "فعلوا",
+      "en": "have perpetrated"
+    },
+    {
+      "ar": "بمثل",
+      "en": "what"
+    },
+    {
+      "ar": "ما فعلتم",
+      "en": "ye have perpetrated"
+    },
+    {
+      "ar": "عن أنفسكم",
+      "en": "yourselves"
+    },
+    {
+      "ar": "لمن",
+      "en": "remain"
+    },
+    {
+      "ar": "الغافلين",
+      "en": "unaware"
+    }
+  ],
+  "terms": [
+    {
+      "term": "الظّلم",
+      "transliteration": "z-l-m",
+      "literal": "wrongedness, oppression, meekness; state of being wronged or oppressed",
+      "se_rendering": "iniquity",
+      "note": "Root typically renders as 'wrongedness' or 'afflicted' (128 occ). Here 'iniquity' emphasizes moral culpability rather than victimhood, a rare evaluative choice.",
+      "cross_refs": [
+        {
+          "work": "fire-tablet",
+          "para": 49,
+          "snippet": "meekness"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 116,
+          "snippet": "injury"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 36,
+          "snippet": "Wronged One"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 253,
+          "snippet": "wronged"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 9,
+          "snippet": "Darkness"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 33,
+          "snippet": "tyranny"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 573,
+          "snippet": "oppressed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 181,
+          "snippet": "wronged ones"
+        }
+      ]
+    },
+    {
+      "term": "مقام",
+      "transliteration": "q-w-m",
+      "literal": "rising; standing; uprising; resurrection",
+      "se_rendering": "place",
+      "note": "Root primarily denotes 'Day of Resurrection' or 'arise' (109 occ). Here rendered implicitly through context as spatial 'place,' departing from SE's eschatological pattern.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 152,
+          "snippet": "Day of Resurrection"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 153,
+          "snippet": "Resurrection"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 74,
+          "snippet": "rise"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "peoples"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 26,
+          "snippet": "steadfast"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 38,
+          "snippet": "steadfast in faith"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 628,
+          "snippet": "stood fast"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 198,
+          "snippet": "station"
+        }
+      ]
+    },
+    {
+      "term": "وجهه",
+      "transliteration": "w-j-h",
+      "literal": "face; countenance; direction; aspect",
+      "se_rendering": "eyes",
+      "note": "Standard pattern: 'faces' or 'eyes' (64 occ). 'Eyes' here metaphorically extends the facial imagery to express perpetual divine orientation—interpretive rather than literal.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 503,
+          "snippet": "their faces"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 246,
+          "snippet": "faces"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 162,
+          "snippet": "turned"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 306,
+          "snippet": "set their faces"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 16,
+          "snippet": "unto Mine"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 498,
+          "snippet": "his face"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 636,
+          "snippet": "towards"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 470,
+          "snippet": "fixed"
+        }
+      ]
+    },
+    {
+      "term": "العظيم",
+      "transliteration": "ʿ-z̟-m",
+      "literal": "greatest; supreme; mightiest",
+      "se_rendering": "Most Great",
+      "note": "Consistently 'Most Great' or 'greatest' (63 occ). Maintains standard rendering, paired with 'Most Exalted' for emphatic divine transcendence in this doxology.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 269,
+          "snippet": "Most Great"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 734,
+          "snippet": "Most Great Name"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 3,
+          "snippet": "greatest"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 6,
+          "snippet": "greater"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 209,
+          "snippet": "Great"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 9,
+          "snippet": "mighty"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 262,
+          "snippet": "glorious"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 88,
+          "snippet": "the Most Great"
+        }
+      ]
+    },
+    {
+      "term": "السّماء",
+      "transliteration": "s-m-w",
+      "literal": "heaven; sky",
+      "se_rendering": "heavens",
+      "note": "Standard: 'heaven' or 'heavens' (39 occ). Maintains pattern; the weeping of heavens is conventional theodicy language in Bahá'í eschatology.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 594,
+          "snippet": "the heavens"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 52,
+          "snippet": "heaven"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 53,
+          "snippet": "heavenly Grace"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 177,
+          "snippet": "heavenly Books"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 98,
+          "snippet": "heavenly Gospel"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 123,
+          "snippet": "the grace of God and the mercy of his Lord"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 397,
+          "snippet": "the kingdoms of earth and heaven"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 534,
+          "snippet": "earth and heaven"
+        }
+      ]
+    },
+    {
+      "term": "المقرّبين",
+      "transliteration": "q-r-b",
+      "literal": "place of sacrifice; altar",
+      "se_rendering": "them who are nigh unto God",
+      "note": "Root denotes 'place of sacrifice' or 'draw near' (44 occ). 'Them who are nigh unto God' emphasizes proximity to divinity; sacrificial sense submerged in favor of ontological nearness.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 3,
+          "snippet": "unto the place of sacrifice"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 35,
+          "snippet": "my kindred"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 159,
+          "snippet": "their kindred"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 101,
+          "snippet": "draw near unto"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 430,
+          "snippet": "drawn nigh"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 98,
+          "snippet": "drawing near"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 245,
+          "snippet": "draweth near"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 163,
+          "snippet": "at hand"
+        }
+      ]
+    },
+    {
+      "term": "شهد",
+      "transliteration": "sh-h-d",
+      "literal": "witnessed; observed; seen; evident; manifest",
+      "se_rendering": "beheld",
+      "note": "Typically 'witness' or 'testify' (74 occ). 'Beheld' here stresses visual perception of an unprecedented atrocity—existential testimony over juridical.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 35,
+          "snippet": "evident"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 811,
+          "snippet": "I bear witness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 6,
+          "snippet": "I testify"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 138,
+          "snippet": "martyrdom"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 230,
+          "snippet": "God testifieth"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 57,
+          "snippet": "beheld"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 117,
+          "snippet": "testify"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 156,
+          "snippet": "bear witness"
+        }
+      ]
+    },
+    {
+      "term": "الوجود",
+      "transliteration": "w-j-d",
+      "literal": "to find; to discover; to obtain",
+      "se_rendering": "creation",
+      "note": "Usual renderings: 'being' or 'point of creation' (67 occ). 'Eye of creation' is unique personification, transforming the abstract concept into witness-bearing agency.",
+      "cross_refs": [
+        {
+          "work": "the-hidden-words",
+          "para": 91,
+          "snippet": "adorned"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 27,
+          "snippet": "found"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 215,
+          "snippet": "mentioned"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 69,
+          "snippet": "aware"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 783,
+          "snippet": "point of creation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 832,
+          "snippet": "being"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 214,
+          "snippet": "is led"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 291,
+          "snippet": "all created things"
+        }
+      ]
+    }
+  ],
+  "section_index": "CXIII.6",
+  "section": "CXIII",
+  "section_para": 6
 }

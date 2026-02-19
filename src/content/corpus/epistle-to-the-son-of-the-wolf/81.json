@@ -1,10 +1,581 @@
 {
   "work": "Epistle to the Son of the Wolf",
   "slug": "epistle-to-the-son-of-the-wolf",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 81,
   "source_text": "يا ملک اسمع النّداء من هذه النّار المشتعلة من هذه الشّجرة الخضراء فی هذا الطّور المرتفع علی البقعة المقدّسة البيضاء خلف قُلزُم البقاء انّه لا اله الّا انا الغفور الرّحيم * قد ارسلنا من ايّدناه بروح القدس ليخبرکم بهذا النّور الّذی اشرق من افق مشيّة ربّکم العلیّ الابهی و ظهرت فی الغرب اثاره توجّهوا اليه فی هذا اليوم الّذی جعله اللّه غرّة الايّام و فيه تجلّی الرّحمن علی من فی السّموات و الارضين * قم علی خدمة اللّه و نصرة امره انّه يؤيّدک بجنود الغيب و الشّهادة و يجعلک سلطانا علی ما تطلع الشّمس عليه انّ ربّک هو المقتدر القدير *",
   "translation": "\"Give ear, O King, unto the Voice that calleth from the Fire which burneth in this verdant Tree, on this Sinai which hath been raised above the hallowed and snow-white Spot, beyond the Everlasting City; \\‘Verily, there is none other God but Me, the Ever-Forgiving, the Most Merciful!' We, in truth, have sent Him Whom We aided with the Holy Spirit (Jesus Christ) that He may announce unto you this Light that hath shone forth from the horizon of the will of your Lord, the Most Exalted, the All-Glorious, and Whose signs have been revealed in the West. Set your faces towards Him (Bahá’u’lláh), on this Day which God hath exalted above all other days, and whereon the All-Merciful hath shed the splendor of His effulgent glory upon all who are in heaven and all who are on earth. Arise thou to serve God and help His Cause. He, verily, will assist thee with the hosts of the seen and unseen, and will set thee king over all that whereon the sun riseth. Thy Lord, in truth, is the All-Powerful, the Almighty.",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "fire-verdant-tree-sinai",
+  "alignment": [
+    {
+      "ar": "ملک",
+      "en": "King"
+    },
+    {
+      "ar": "اسمع",
+      "en": "Give ear"
+    },
+    {
+      "ar": "النّداء",
+      "en": "Voice"
+    },
+    {
+      "ar": "النّار",
+      "en": "Fire"
+    },
+    {
+      "ar": "المشتعلة",
+      "en": "burneth"
+    },
+    {
+      "ar": "الشّجرة",
+      "en": "Tree"
+    },
+    {
+      "ar": "الخضراء",
+      "en": "verdant"
+    },
+    {
+      "ar": "الطّور",
+      "en": "Sinai"
+    },
+    {
+      "ar": "المرتفع",
+      "en": "raised"
+    },
+    {
+      "ar": "البقعة",
+      "en": "Spot"
+    },
+    {
+      "ar": "المقدّسة",
+      "en": "hallowed"
+    },
+    {
+      "ar": "البيضاء",
+      "en": "snow-white"
+    },
+    {
+      "ar": "قُلزُم",
+      "en": "City"
+    },
+    {
+      "ar": "البقاء",
+      "en": "Everlasting"
+    },
+    {
+      "ar": "لا اله الّا انا",
+      "en": "there is none other God but Me"
+    },
+    {
+      "ar": "الغفور",
+      "en": "Ever-Forgiving"
+    },
+    {
+      "ar": "الرّحيم",
+      "en": "Most Merciful"
+    },
+    {
+      "ar": "ارسلنا",
+      "en": "sent"
+    },
+    {
+      "ar": "ايّدناه",
+      "en": "aided"
+    },
+    {
+      "ar": "روح القدس",
+      "en": "Holy Spirit"
+    },
+    {
+      "ar": "ليخبرکم",
+      "en": "announce"
+    },
+    {
+      "ar": "النّور",
+      "en": "Light"
+    },
+    {
+      "ar": "اشرق",
+      "en": "shone forth"
+    },
+    {
+      "ar": "افق",
+      "en": "horizon"
+    },
+    {
+      "ar": "مشيّة",
+      "en": "will"
+    },
+    {
+      "ar": "ربّکم",
+      "en": "your Lord"
+    },
+    {
+      "ar": "العلیّ",
+      "en": "Most Exalted"
+    },
+    {
+      "ar": "الابهی",
+      "en": "All-Glorious"
+    },
+    {
+      "ar": "ظهرت",
+      "en": "revealed"
+    },
+    {
+      "ar": "الغرب",
+      "en": "West"
+    },
+    {
+      "ar": "اثاره",
+      "en": "signs"
+    },
+    {
+      "ar": "توجّهوا",
+      "en": "Set your faces"
+    },
+    {
+      "ar": "اليوم",
+      "en": "Day"
+    },
+    {
+      "ar": "جعله",
+      "en": "exalted"
+    },
+    {
+      "ar": "اللّه",
+      "en": "God"
+    },
+    {
+      "ar": "غرّة",
+      "en": "above all other"
+    },
+    {
+      "ar": "الايّام",
+      "en": "days"
+    },
+    {
+      "ar": "تجلّی",
+      "en": "shed the splendor"
+    },
+    {
+      "ar": "الرّحمن",
+      "en": "All-Merciful"
+    },
+    {
+      "ar": "السّموات",
+      "en": "heaven"
+    },
+    {
+      "ar": "الارضين",
+      "en": "earth"
+    },
+    {
+      "ar": "قم",
+      "en": "Arise"
+    },
+    {
+      "ar": "خدمة",
+      "en": "serve"
+    },
+    {
+      "ar": "نصرة",
+      "en": "help"
+    },
+    {
+      "ar": "امره",
+      "en": "His Cause"
+    },
+    {
+      "ar": "يؤيّدک",
+      "en": "assist thee"
+    },
+    {
+      "ar": "جنود",
+      "en": "hosts"
+    },
+    {
+      "ar": "الغيب",
+      "en": "unseen"
+    },
+    {
+      "ar": "الشّهادة",
+      "en": "seen"
+    },
+    {
+      "ar": "يجعلک",
+      "en": "set thee"
+    },
+    {
+      "ar": "سلطانا",
+      "en": "king"
+    },
+    {
+      "ar": "تطلع",
+      "en": "riseth"
+    },
+    {
+      "ar": "الشّمس",
+      "en": "sun"
+    },
+    {
+      "ar": "المقتدر",
+      "en": "All-Powerful"
+    },
+    {
+      "ar": "القدير",
+      "en": "Almighty"
+    }
+  ],
+  "terms": [
+    {
+      "term": "النّار",
+      "transliteration": "n-w-r",
+      "literal": "light; illumination",
+      "se_rendering": "Fire",
+      "note": "Root n-w-r normally renders as 'light' (78 occurrences). Here 'Fire' is figurative—the burning tree of Sinai—showing SE's contextual shift from illumination to divine manifestation.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 583,
+          "snippet": "light"
+        },
+        {
+          "work": "gleanings",
+          "para": 230,
+          "snippet": "Orb of Light"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 114,
+          "snippet": "with the light"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 109,
+          "snippet": "Thy light"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 246,
+          "snippet": "Illumine"
+        },
+        {
+          "work": "gleanings",
+          "para": 235,
+          "snippet": "glory"
+        },
+        {
+          "work": "gleanings",
+          "para": 597,
+          "snippet": "fire"
+        },
+        {
+          "work": "gleanings",
+          "para": 458,
+          "snippet": "fire of God"
+        }
+      ]
+    },
+    {
+      "term": "الغفور",
+      "transliteration": "gh-f-r",
+      "literal": "to forgive; forgiveness",
+      "se_rendering": "Ever-Forgiving",
+      "note": "Root gh-f-r normally renders as 'forgiveness' or 'the Forgiving' (21 occurrences). 'Ever-Forgiving' is SE's only occurrence with 'Ever-,' emphasizing perpetual clemency in God's nature.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 13,
+          "snippet": "wronged"
+        },
+        {
+          "work": "gleanings",
+          "para": 217,
+          "snippet": "forgive"
+        },
+        {
+          "work": "gleanings",
+          "para": 652,
+          "snippet": "forgiveness"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 787,
+          "snippet": "Thy forgiveness"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 416,
+          "snippet": "the Ever-Forgiving"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 533,
+          "snippet": "the Forgiving"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 477,
+          "snippet": "Forgive me"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 451,
+          "snippet": "Ever-Forgiving"
+        }
+      ]
+    },
+    {
+      "term": "ظهرت",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "revealed",
+      "note": "Root z-h-r typically renders as 'Manifestation' or 'manifestation' (96 occurrences). 'Revealed' here subordinates the appearance to historical disclosure in the West, emphasizing hiddenness-to-revelation.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 53,
+          "snippet": "Manifestation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 160,
+          "snippet": "Author of all Manifestations"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 136,
+          "snippet": "evident"
+        },
+        {
+          "work": "gleanings",
+          "para": 222,
+          "snippet": "material"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 196,
+          "snippet": "Manifestations of God"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 255,
+          "snippet": "Manifestations"
+        }
+      ]
+    },
+    {
+      "term": "توجّهوا",
+      "transliteration": "w-j-h",
+      "literal": "face; countenance; direction; aspect",
+      "se_rendering": "Set your faces towards",
+      "note": "Root w-j-h renders as 'faces' or 'set their faces' (64 occurrences). SE's 'Set your faces towards Him' is imperative—commanding devotional orientation toward Bahá'u'lláh as divine standard.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 503,
+          "snippet": "their faces"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 246,
+          "snippet": "faces"
+        },
+        {
+          "work": "gleanings",
+          "para": 596,
+          "snippet": "eyes"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 162,
+          "snippet": "turned"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 306,
+          "snippet": "set their faces"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 16,
+          "snippet": "unto Mine"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 498,
+          "snippet": "his face"
+        },
+        {
+          "work": "gleanings",
+          "para": 273,
+          "snippet": "face"
+        }
+      ]
+    },
+    {
+      "term": "امره",
+      "transliteration": "ʾ-m-r",
+      "literal": "command; cause; matter; affair",
+      "se_rendering": "His Cause",
+      "note": "Consistently 'His Cause' or 'His command' (75 occurrences). SE maintains 'His Cause' here, underscoring the Bahá'í theological sense of Bahá'u'lláh's religion as divine Purpose.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "His Cause"
+        },
+        {
+          "work": "gleanings",
+          "para": 586,
+          "snippet": "His command"
+        },
+        {
+          "work": "gleanings",
+          "para": 691,
+          "snippet": "His Revelation"
+        },
+        {
+          "work": "gleanings",
+          "para": 723,
+          "snippet": "Cause"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 797,
+          "snippet": "Thy Cause"
+        },
+        {
+          "work": "gleanings",
+          "para": 8,
+          "snippet": "Revelation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 597,
+          "snippet": "service"
+        },
+        {
+          "work": "gleanings",
+          "para": 524,
+          "snippet": "your affairs"
+        }
+      ]
+    },
+    {
+      "term": "سلطانا",
+      "transliteration": "s-l-ṭ",
+      "literal": "dominion; authority; power; sovereignty; control",
+      "se_rendering": "king",
+      "note": "Root s-l-ṭ renders variously as 'sovereignty' or 'dominion' (43 occurrences). SE's 'king' here is uniquely concrete—actualizing abstract dominion into personal kingly authority.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 369,
+          "snippet": "sovereignty"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 151,
+          "snippet": "dominion"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 1,
+          "snippet": "Thy sovereignty"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 184,
+          "snippet": "by Thy sovereignty"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 416,
+          "snippet": "Lord"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 242,
+          "snippet": "king"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 1,
+          "snippet": "the King"
+        },
+        {
+          "work": "gleanings",
+          "para": 472,
+          "snippet": "King (Sulṭán 'Abdu'l-'Azíz)"
+        }
+      ]
+    },
+    {
+      "term": "المقتدر",
+      "transliteration": "q-d-r",
+      "literal": "power; might; decree; measure; worth",
+      "se_rendering": "All-Powerful",
+      "note": "Root q-d-r typically renders as 'power' or 'might' (100 occurrences). 'All-Powerful' here pairs with 'Almighty' (القدير), creating parallel titles emphasizing omnipotence rather than decree or measure.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 339,
+          "snippet": "Thy power"
+        },
+        {
+          "work": "gleanings",
+          "para": 138,
+          "snippet": "hath been decreed"
+        },
+        {
+          "work": "gleanings",
+          "para": 662,
+          "snippet": "hath decreed"
+        },
+        {
+          "work": "gleanings",
+          "para": 496,
+          "snippet": "forbearing towards"
+        },
+        {
+          "work": "gleanings",
+          "para": 111,
+          "snippet": "schools"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 12,
+          "snippet": "God of power"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 35,
+          "snippet": "Potent"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 282,
+          "snippet": "Almighty"
+        }
+      ]
+    }
+  ],
+  "section_index": "81",
+  "section": "81",
+  "section_para": 1
 }

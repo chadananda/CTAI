@@ -1,10 +1,226 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 821,
   "source_text": "أَشْهَدُ بِوَحْدَانِيَّتِكَ وَفَرْدَانِيَّتِكَ وَبِأَنَّكَ أَنْتَ اللهُ لَا إِلَهَ إِلَّا أَنْتَ.",
   "translation": "to recite these words: “I bear witness to Thy unity and Thy oneness, and that Thou art God, and that there is none other God beside Thee.”)",
   "source_lang": "ar",
-  "score": 9.9
+  "score": 9.9,
+  "page_slug": "bear-witness-unity-oneness",
+  "alignment": [
+    {
+      "ar": "أَشْهَدُ",
+      "en": "I bear witness"
+    },
+    {
+      "ar": "أَنْتَ",
+      "en": "Thou"
+    },
+    {
+      "ar": "اللهُ",
+      "en": "God"
+    }
+  ],
+  "terms": [
+    {
+      "term": "أَشْهَدُ",
+      "transliteration": "sh-h-d",
+      "literal": "witnessed; observed; seen; evident; manifest",
+      "se_rendering": "I bear witness",
+      "note": "Consistently rendered 'I bear witness' across corpus (74 occurrences). Standard attestative formula in Islamic theology reflecting direct personal affirmation.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 607,
+          "snippet": "manifest"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 35,
+          "snippet": "evident"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 6,
+          "snippet": "I testify"
+        },
+        {
+          "work": "gleanings",
+          "para": 298,
+          "snippet": "witness"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 138,
+          "snippet": "martyrdom"
+        },
+        {
+          "work": "gleanings",
+          "para": 134,
+          "snippet": "God witnesseth"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 57,
+          "snippet": "beheld"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 156,
+          "snippet": "bear witness"
+        }
+      ]
+    },
+    {
+      "term": "بِوَحْدَانِيَّتِكَ",
+      "transliteration": "w-h-d",
+      "literal": "Divine unity; monotheism; belief in the oneness of God",
+      "se_rendering": "unity",
+      "note": "Primary rendering 'unity' here; corpus shows 'Tawhid' appears 56 times. SE preserves theological monotheism concept without adopting the Arabic term in translation.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 546,
+          "snippet": "unity"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 69,
+          "snippet": "Tawhid"
+        },
+        {
+          "work": "gleanings",
+          "para": 103,
+          "snippet": "oneness"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 682,
+          "snippet": "once"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 49,
+          "snippet": "alone"
+        },
+        {
+          "work": "gleanings",
+          "para": 386,
+          "snippet": "His oneness"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 249,
+          "snippet": "unique"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 1,
+          "snippet": "the One"
+        }
+      ]
+    },
+    {
+      "term": "وَفَرْدَانِيَّتِكَ",
+      "transliteration": "f-r-d",
+      "literal": "unique; singular; incomparable",
+      "se_rendering": "oneness",
+      "note": "Rendered 'oneness' paralleling وَحْدَانِيَّة; corpus shows 'unique' (23 occ) more frequent. Repetition of 'oneness' emphasizes divine singularity rather than uniqueness.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 2,
+          "snippet": "wondrous"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 249,
+          "snippet": "unique"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 49,
+          "snippet": "alone"
+        },
+        {
+          "work": "gleanings",
+          "para": 384,
+          "snippet": "oneness"
+        },
+        {
+          "work": "gleanings",
+          "para": 386,
+          "snippet": "His singleness"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 47,
+          "snippet": "Thy oneness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 5,
+          "snippet": "Thy unity and Thy oneness"
+        },
+        {
+          "work": "gleanings",
+          "para": 2,
+          "snippet": "uniqueness"
+        }
+      ]
+    },
+    {
+      "term": "اللهُ",
+      "transliteration": "ʾ-l-h",
+      "literal": "God; Allah",
+      "se_rendering": "God",
+      "note": "Direct 'God' rendering; corpus shows 53 occurrences with varied forms ('O God, my God', 'My God, Thou Whom I adore'). Formulaic attestation warrants simplest designation.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 294,
+          "snippet": "God"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 10,
+          "snippet": "O God, my God"
+        },
+        {
+          "work": "gleanings",
+          "para": 341,
+          "snippet": "of God"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 11,
+          "snippet": "My God"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 62,
+          "snippet": "O Lord"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 102,
+          "snippet": "the Divine Lote-Tree"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 53,
+          "snippet": "the loved ones of the Lord"
+        },
+        {
+          "work": "gleanings",
+          "para": 338,
+          "snippet": "Ark of God"
+        }
+      ]
+    }
+  ],
+  "section_index": "CLXXXII.9",
+  "section": "CLXXXII",
+  "section_para": 9
 }

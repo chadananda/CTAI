@@ -1,10 +1,79 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 121,
   "source_text": "أَنْتَ المُقْتَدِرُ القَدِيرُ.",
   "translation": "Thou art, verily, the All-Powerful, the Almighty.",
   "source_lang": "ar",
-  "score": 9.4
+  "score": 9.4,
+  "page_slug": "all-powerful-almighty",
+  "alignment": [
+    {
+      "ar": "أَنْتَ",
+      "en": "Thou art"
+    },
+    {
+      "ar": "المُقْتَدِرُ",
+      "en": "the All-Powerful"
+    },
+    {
+      "ar": "القَدِيرُ",
+      "en": "the Almighty"
+    }
+  ],
+  "terms": [
+    {
+      "term": "المُقْتَدِرُ",
+      "transliteration": "q-d-r",
+      "literal": "power; might; decree; measure; worth",
+      "se_rendering": "the All-Powerful",
+      "note": "Root q-d-r shows 100 occurrences with diverse renderings ('power', 'Thy power', 'hath decreed', 'schools'). SE renders 'All-Powerful' here—a direct power attribution rare in the Jafar data pattern.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 171,
+          "snippet": "a while"
+        },
+        {
+          "work": "gleanings",
+          "para": 138,
+          "snippet": "hath been decreed"
+        },
+        {
+          "work": "gleanings",
+          "para": 662,
+          "snippet": "hath decreed"
+        },
+        {
+          "work": "gleanings",
+          "para": 496,
+          "snippet": "forbearing towards"
+        },
+        {
+          "work": "gleanings",
+          "para": 111,
+          "snippet": "schools"
+        },
+        {
+          "work": "gleanings",
+          "para": 532,
+          "snippet": "can"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 4,
+          "snippet": "for a moment"
+        },
+        {
+          "work": "gleanings",
+          "para": 112,
+          "snippet": "Thy might"
+        }
+      ]
+    }
+  ],
+  "section_index": "XXXV.3",
+  "section": "XXXV",
+  "section_para": 3
 }

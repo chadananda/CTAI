@@ -1,10 +1,568 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 503,
   "source_text": "لهو المقتدر القدیر مشاهده کن که اهل بیان آنقدر ادراک ننموده‌اند که مظهر قبلم و مبشّر جمالم آنچه فرموده ناظراً الی الظّهور و قیامه علی الأمر فرموده والّا ونفسه الحقّ بکلمه‌ئی از آنچه فرموده تکلّم نمینمودند این جهّال امر غنیّ متعال را لعب اطفال دانسته‌اند هر روز بخیالی حرکت مینمایند و در مفازه‌ئی سایرند لو کان الأمر کما یقولون کیف یستقرّ امر ربّک علی عرش السّکون تفکّر و کن من المتفرّسین تفکّر و کن من المتوسّمین تفکّر و کن من الرّاسخین تفکّر و کن من المطمئنّین علی شأن لو یدّعی کلّ البشر بکلّ ما یمکن او فوقه لا تتوجّه الیهم و تدعهم عن ورائک",
   "translation": "Behold how the people of the Bayán have utterly failed to recognize that the sole object of whatsoever My Previous Manifestation and Harbinger of My Beauty hath revealed hath been My Revelation and the proclamation of My Cause. Never — and to this He Who is the Sovereign Truth beareth Me witness — would He have, but for Me, pronounced what He did pronounce. Witness how this foolish people have treated the Cause of Him Who is the All-Possessing, the Inaccessible, as a play and pastime! Their hearts devise each day a new device, and their fancy leadeth them to seek a fresh retreat. If what they say be true, how then can the stability of the Cause of thy Lord be ensured? Ponder this in thine heart, and be thou of them who are sharp-sighted, who scan heedfully, who are steadfast in their purpose and confident in their belief. Such should be thy certitude that if all mankind were to advance such claims as no man hath ever advanced, or any mind conceived, thou wouldst completely ignore them, wouldst cast them from thee, and would set thy face towards Him Who is the Object of the adoration of all worlds.",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "stability-cause-thy-lord",
+  "alignment": [
+    {
+      "ar": "مشاهده کن",
+      "en": "Behold"
+    },
+    {
+      "ar": "اهل",
+      "en": "people"
+    },
+    {
+      "ar": "بیان",
+      "en": "Bayán"
+    },
+    {
+      "ar": "آنقدر",
+      "en": "utterly"
+    },
+    {
+      "ar": "ادراک",
+      "en": "recognize"
+    },
+    {
+      "ar": "ننموده‌اند",
+      "en": "failed"
+    },
+    {
+      "ar": "مظهر",
+      "en": "Manifestation"
+    },
+    {
+      "ar": "قبلم",
+      "en": "Previous"
+    },
+    {
+      "ar": "مبشّر",
+      "en": "Harbinger"
+    },
+    {
+      "ar": "جمالم",
+      "en": "My Beauty"
+    },
+    {
+      "ar": "آنچه",
+      "en": "whatsoever"
+    },
+    {
+      "ar": "فرموده",
+      "en": "revealed"
+    },
+    {
+      "ar": "ناظراً",
+      "en": "object"
+    },
+    {
+      "ar": "الظّهور",
+      "en": "My Revelation"
+    },
+    {
+      "ar": "قیامه",
+      "en": "proclamation"
+    },
+    {
+      "ar": "الأمر",
+      "en": "My Cause"
+    },
+    {
+      "ar": "نفسه",
+      "en": "He"
+    },
+    {
+      "ar": "الحقّ",
+      "en": "Sovereign Truth"
+    },
+    {
+      "ar": "بکلمه‌ئی",
+      "en": "what"
+    },
+    {
+      "ar": "تکلّم",
+      "en": "pronounced"
+    },
+    {
+      "ar": "نمینمودند",
+      "en": "would He have"
+    },
+    {
+      "ar": "جهّال",
+      "en": "foolish people"
+    },
+    {
+      "ar": "امر",
+      "en": "Cause"
+    },
+    {
+      "ar": "غنیّ",
+      "en": "All-Possessing"
+    },
+    {
+      "ar": "متعال",
+      "en": "Inaccessible"
+    },
+    {
+      "ar": "لعب",
+      "en": "play"
+    },
+    {
+      "ar": "اطفال",
+      "en": "pastime"
+    },
+    {
+      "ar": "دانسته‌اند",
+      "en": "treated"
+    },
+    {
+      "ar": "هر روز",
+      "en": "each day"
+    },
+    {
+      "ar": "بخیالی",
+      "en": "a new device"
+    },
+    {
+      "ar": "حرکت",
+      "en": "devise"
+    },
+    {
+      "ar": "مینمایند",
+      "en": "leadeth"
+    },
+    {
+      "ar": "مفازه‌ئی",
+      "en": "retreat"
+    },
+    {
+      "ar": "سایرند",
+      "en": "seek"
+    },
+    {
+      "ar": "کان",
+      "en": "be"
+    },
+    {
+      "ar": "یقولون",
+      "en": "say"
+    },
+    {
+      "ar": "کیف",
+      "en": "how"
+    },
+    {
+      "ar": "یستقرّ",
+      "en": "stability"
+    },
+    {
+      "ar": "ربّک",
+      "en": "thy Lord"
+    },
+    {
+      "ar": "عرش",
+      "en": "ensured"
+    },
+    {
+      "ar": "تفکّر",
+      "en": "Ponder"
+    },
+    {
+      "ar": "المتفرّسین",
+      "en": "sharp-sighted"
+    },
+    {
+      "ar": "المتوسّمین",
+      "en": "scan heedfully"
+    },
+    {
+      "ar": "الرّاسخین",
+      "en": "steadfast in their purpose"
+    },
+    {
+      "ar": "المطمئنّین",
+      "en": "confident in their belief"
+    },
+    {
+      "ar": "علی شأن",
+      "en": "Such should be thy certitude"
+    },
+    {
+      "ar": "یدّعی",
+      "en": "advance such claims"
+    },
+    {
+      "ar": "کلّ البشر",
+      "en": "all mankind"
+    },
+    {
+      "ar": "یمکن",
+      "en": "conceived"
+    },
+    {
+      "ar": "فوقه",
+      "en": "ever advanced"
+    },
+    {
+      "ar": "لا تتوجّه",
+      "en": "ignore"
+    },
+    {
+      "ar": "الیهم",
+      "en": "them"
+    },
+    {
+      "ar": "تدعهم",
+      "en": "cast them from thee"
+    }
+  ],
+  "terms": [
+    {
+      "term": "مظهر",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "Manifestation",
+      "note": "Typically 'Manifestation' (96 occurrences); here rendered 'Manifestation' in 'My Previous Manifestation,' maintaining SE's most common pattern.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 140,
+          "snippet": "manifestation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 160,
+          "snippet": "Author of all Manifestations"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 136,
+          "snippet": "evident"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 206,
+          "snippet": "appeared"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 196,
+          "snippet": "Manifestations of God"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 255,
+          "snippet": "Manifestations"
+        }
+      ]
+    },
+    {
+      "term": "قیامه",
+      "transliteration": "q-w-m",
+      "literal": "rising; standing; uprising; resurrection",
+      "se_rendering": "proclamation",
+      "note": "Usually 'Resurrection' or 'rise' (109 occurrences); rendered 'proclamation' here—uniquely active and temporal rather than eschatological or static.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 152,
+          "snippet": "Day of Resurrection"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 153,
+          "snippet": "Resurrection"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 74,
+          "snippet": "rise"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "peoples"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 26,
+          "snippet": "steadfast"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 38,
+          "snippet": "steadfast in faith"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 628,
+          "snippet": "stood fast"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 198,
+          "snippet": "station"
+        }
+      ]
+    },
+    {
+      "term": "امر",
+      "transliteration": "ʾ-m-r",
+      "literal": "command; cause; matter; affair",
+      "se_rendering": "Cause",
+      "note": "Predominantly 'Cause' or 'Revelation' (75 occurrences); here 'Cause' appears twice with varying contexts emphasizing both divine order and human comprehension.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "His Cause"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 797,
+          "snippet": "Thy Cause"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 597,
+          "snippet": "service"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 167,
+          "snippet": "things"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "commanded"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 236,
+          "snippet": "commissioned"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 785,
+          "snippet": "Thy Revelation"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 38,
+          "snippet": "for the protection of the Cause"
+        }
+      ]
+    },
+    {
+      "term": "متعال",
+      "transliteration": "ʿ-l-w",
+      "literal": "highest; most high; supreme",
+      "se_rendering": "Inaccessible",
+      "note": "Typically 'Most High' or 'Most Exalted' (74 occurrences); rendered 'Inaccessible' here, emphasizing transcendent remoteness rather than hierarchical elevation.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 1,
+          "snippet": "the Most High"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 148,
+          "snippet": "the Most Sublime Pen"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 390,
+          "snippet": "the Most Exalted, the Most High"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 68,
+          "snippet": "the Pen of Glory"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 1,
+          "snippet": "the Realm of Glory"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 257,
+          "snippet": "the Báb, the Lord, the most exalted"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 21,
+          "snippet": "sublime"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 143,
+          "snippet": "exalted be He"
+        }
+      ]
+    },
+    {
+      "term": "یقولون",
+      "transliteration": "q-w-l",
+      "literal": "speech; utterance; saying; word",
+      "se_rendering": "say",
+      "note": "Typically 'saith' or 'said' (69 occurrences); rendered 'say' here in conditional clause, maintaining simple speech verb without theological weight.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 66,
+          "snippet": "His words"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 207,
+          "snippet": "He saith"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 261,
+          "snippet": "said"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 263,
+          "snippet": "hath said"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 236,
+          "snippet": "protested saying"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 231,
+          "snippet": "say"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 224,
+          "snippet": "replied"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 88,
+          "snippet": "they said"
+        }
+      ]
+    },
+    {
+      "term": "السکون",
+      "transliteration": "s-k-n",
+      "literal": "stillness, rest, quietude, tranquility",
+      "se_rendering": "stability",
+      "note": "Usually 'tranquility' or 'stillness' (18 occurrences); rendered 'stability' here, shifting from contemplative state to structural permanence of divine order.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 209,
+          "snippet": "calmly"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 140,
+          "snippet": "serenity"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 185,
+          "snippet": "inmates"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 87,
+          "snippet": "the inhabitants"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 193,
+          "snippet": "inhabitants"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 62,
+          "snippet": "abase Me"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 205,
+          "snippet": "dwell"
+        }
+      ]
+    },
+    {
+      "term": "تتوجه",
+      "transliteration": "w-j-h",
+      "literal": "face; countenance; direction; aspect",
+      "se_rendering": "ignore",
+      "note": "Typically 'set their faces' or 'turned' (64 occurrences); rendered 'ignore' here, uniquely negated and emphatic rather than directional or visual.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 503,
+          "snippet": "their faces"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 246,
+          "snippet": "faces"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 162,
+          "snippet": "turned"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 306,
+          "snippet": "set their faces"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 16,
+          "snippet": "unto Mine"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 498,
+          "snippet": "his face"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 636,
+          "snippet": "towards"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 470,
+          "snippet": "fixed"
+        }
+      ]
+    }
+  ],
+  "section_index": "CXV.11",
+  "section": "CXV",
+  "section_para": 11
 }

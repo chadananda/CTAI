@@ -1,10 +1,244 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 162,
   "source_text": "(سورة الدم) إي ربّ لك الحمد على بدائع قضاياك وجوامع رزاياك مرّة أودعتني بيد النمرود",
   "translation": "Praise be to Thee, O Lord My God, for the wondrous revelations of Thy inscrutable decree and the manifold woes and trials Thou hast destined for myself.",
   "source_lang": "ar",
-  "score": 9.5
+  "score": 9.5,
+  "page_slug": "wondrous-revelations-inscrutable-decree",
+  "alignment": [
+    {
+      "ar": "إي",
+      "en": "O"
+    },
+    {
+      "ar": "ربّ",
+      "en": "Lord"
+    },
+    {
+      "ar": "لك",
+      "en": "to Thee"
+    },
+    {
+      "ar": "الحمد",
+      "en": "Praise"
+    },
+    {
+      "ar": "بدائع",
+      "en": "wondrous"
+    },
+    {
+      "ar": "قضاياك",
+      "en": "revelations of Thy inscrutable decree"
+    },
+    {
+      "ar": "جوامع",
+      "en": "manifold"
+    },
+    {
+      "ar": "رزاياك",
+      "en": "woes and trials"
+    },
+    {
+      "ar": "أودعتني",
+      "en": "destined for myself"
+    }
+  ],
+  "terms": [
+    {
+      "term": "الحمد",
+      "transliteration": "h-m-d",
+      "literal": "praise; to praise",
+      "se_rendering": "Praise be to Thee",
+      "note": "Standard rendering as 'Praise be to Thee'; consistently deployed across 25 occurrences in corpus with minor variations ('All praise', 'Praised be Thou').",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "All praise"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 778,
+          "snippet": "Praise be"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 845,
+          "snippet": "Praise be to Thee"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 229,
+          "snippet": "Praised be Thou"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 564,
+          "snippet": "I yield Thee thanks"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 181,
+          "snippet": "Praiseworthy art Thou in Thy works"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 159,
+          "snippet": "glorious station"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 458,
+          "snippet": "most resplendent, Thine adorable, and ever-blest"
+        }
+      ]
+    },
+    {
+      "term": "قضاياک",
+      "transliteration": "q-d-y",
+      "literal": "requirement; exigency; what demands or calls for",
+      "se_rendering": "inscrutable decree",
+      "note": "Rendered as 'inscrutable decree' here. Typical corpus patterns show 'mysteries of Thy decree', 'cloud of destiny', 'winds of Thy decree'—this choice emphasizes divine inscrutability over causal forces.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 341,
+          "snippet": "cloud of destiny"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 847,
+          "snippet": "mysteries of Thy decree"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 29,
+          "snippet": "gales of destiny"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 481,
+          "snippet": "winds of Thy decree"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 106,
+          "snippet": "according to"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 29,
+          "snippet": "for a judge"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 85,
+          "snippet": "the decision made"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 121,
+          "snippet": "have passed beyond"
+        }
+      ]
+    },
+    {
+      "term": "رزایاک",
+      "transliteration": "r-z-y",
+      "literal": "calamity; disaster; affliction; misfortune",
+      "se_rendering": "manifold woes and trials",
+      "note": "Rendered as 'manifold woes and trials'; aligns with corpus frequency ('afflictions', 'woes', 'trials'). 'Manifold' intensifies the plurality implied by the plural form رزایا.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 32,
+          "snippet": "afflictions"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 391,
+          "snippet": "trials"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 49,
+          "snippet": "darts of affliction"
+        }
+      ]
+    },
+    {
+      "term": "مره",
+      "transliteration": "m-r-r",
+      "literal": "to pass; to pass by; to go",
+      "se_rendering": "[implicit in temporal framing]",
+      "note": "Appears structurally but semantically absorbed into the temporal-causal frame of 'destined for'; corpus shows 'once', 'times', 'bloweth upon'—temporal marking elided here.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 192,
+          "snippet": "station and mission"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 64,
+          "snippet": "were being wafted"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 810,
+          "snippet": "once"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 55,
+          "snippet": "one time"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 181,
+          "snippet": "entirely"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 204,
+          "snippet": "passeth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 26,
+          "snippet": "blow"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 378,
+          "snippet": "sweep"
+        }
+      ]
+    },
+    {
+      "term": "بید",
+      "transliteration": "b-y-d",
+      "literal": "it is necessary; it behooves; one must",
+      "se_rendering": "[implicit in destined for]",
+      "note": "Rendered implicitly within 'Thou hast destined for myself'; typically 'by/with the hand of' in corpus, but SE opts for causal absorption rather than instrumental marking.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 28,
+          "snippet": "It is incumbent upon you to be"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 77,
+          "snippet": "must needs therefore be cleansed"
+        }
+      ]
+    }
+  ],
+  "section_index": "XXXIX.1",
+  "section": "XXXIX",
+  "section_para": 1
 }

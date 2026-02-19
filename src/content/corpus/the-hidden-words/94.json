@@ -1,10 +1,255 @@
 {
   "work": "The Hidden Words",
   "slug": "the-hidden-words",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 94,
   "source_text": "(در سطر هشتم از اسطر قدس که در لوح پنجم از فردوس است ميفرمايد)",
   "translation": "In the eighth of the most holy lines, in the fifth Tablet of Paradise, He saith:",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "eighth-holy-lines-fifth-tablet-paradise",
+  "alignment": [
+    {
+      "ar": "سطر",
+      "en": "lines"
+    },
+    {
+      "ar": "هشتم",
+      "en": "eighth"
+    },
+    {
+      "ar": "قدس",
+      "en": "most holy"
+    },
+    {
+      "ar": "لوح",
+      "en": "Tablet"
+    },
+    {
+      "ar": "پنجم",
+      "en": "fifth"
+    },
+    {
+      "ar": "فردوس",
+      "en": "Paradise"
+    },
+    {
+      "ar": "ميفرمايد",
+      "en": "He saith"
+    }
+  ],
+  "terms": [
+    {
+      "term": "سطر",
+      "transliteration": "s-t-r",
+      "literal": "written; inscribed; recorded",
+      "se_rendering": "lines",
+      "note": "Usually 'written' or 'engraved' (7 occurrences). 'Lines' here emphasizes sequential textual arrangement over the act of inscription.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 54,
+          "snippet": "written"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 19,
+          "snippet": "Written Tablet"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 18,
+          "snippet": "Tablets"
+        }
+      ]
+    },
+    {
+      "term": "قدس",
+      "transliteration": "q-d-s",
+      "literal": "holy, sacred, sanctified",
+      "se_rendering": "most holy",
+      "note": "Consistently sacred/holy across 47 occurrences. 'Most holy' intensifies the superlative through adjective clustering rather than noun substantivation.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 2,
+          "snippet": "Sacred"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 81,
+          "snippet": "hallowed"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 448,
+          "snippet": "Sanctuary"
+        },
+        {
+          "work": "gleanings",
+          "para": 585,
+          "snippet": "holy Paradise"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 13,
+          "snippet": "Holy Mariner"
+        },
+        {
+          "work": "gleanings",
+          "para": 584,
+          "snippet": "Holy Veil"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 6,
+          "snippet": "sacred strand"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 26,
+          "snippet": "Celestial Concourse"
+        }
+      ]
+    },
+    {
+      "term": "لوح",
+      "transliteration": "l-w-h",
+      "literal": "tablet; panel; divine decree; revelation",
+      "se_rendering": "Tablet",
+      "note": "Standard 'Tablet' across 16 occurrences. Maintains parallel with Qur'anic Lawh al-Mahfuz; no deviation observed.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 218,
+          "snippet": "Lawh-i-Fu'ad"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 245,
+          "snippet": "Tablets"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 66,
+          "snippet": "Tablet"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 7,
+          "snippet": "a document"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 100,
+          "snippet": "the Scriptures"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 461,
+          "snippet": "the Tablets"
+        }
+      ]
+    },
+    {
+      "term": "پنجم",
+      "transliteration": "p-n-j",
+      "literal": "fifty",
+      "se_rendering": "fifth",
+      "note": "Root p-n-j shows ambiguous semantic range: 'fifty', 'five', 'fifth' (4 occurrences). Ordinal 'fifth' contextually appropriate for enumerated tablets.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 7,
+          "snippet": "fifty"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 249,
+          "snippet": "five"
+        }
+      ]
+    },
+    {
+      "term": "فردوس",
+      "transliteration": "f-r-d-w-s",
+      "literal": "paradise; garden",
+      "se_rendering": "Paradise",
+      "note": "Consistently 'Paradise' across 5 occurrences. Proper noun usage here emphasizes cosmological realm rather than metaphorical garden.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 273,
+          "snippet": "inmates of Paradise"
+        },
+        {
+          "work": "gleanings",
+          "para": 588,
+          "snippet": "Maid of Heaven, inmate of the Exalted Paradise"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 2,
+          "snippet": "Nightingale of Paradise"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 51,
+          "snippet": "Paradise"
+        }
+      ]
+    },
+    {
+      "term": "میفرمايد",
+      "transliteration": "f-r-m",
+      "literal": "to say; to decree; to ordain; to command",
+      "se_rendering": "saith",
+      "note": "Root f-r-m typically rendered 'said' or 'hath stated' (50 occurrences). 'Saith' here invokes archaic liturgical tone, befitting scripture citation.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 117,
+          "snippet": "recreated"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 231,
+          "snippet": "said"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 227,
+          "snippet": "hath stated"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 222,
+          "snippet": "spoke"
+        },
+        {
+          "work": "gleanings",
+          "para": 35,
+          "snippet": "Reflect"
+        },
+        {
+          "work": "gleanings",
+          "para": 148,
+          "snippet": "Ponder"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 282,
+          "snippet": "Consider"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 61,
+          "snippet": "Behold"
+        }
+      ]
+    }
+  ],
+  "section_index": "186",
+  "section": "186",
+  "section_para": 1
 }

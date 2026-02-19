@@ -1,10 +1,665 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 25,
   "source_text": "يا حسين بعضی از احزاب ارض منتظر ظهور حسينی بودند چه که از قبل اصفيای حق جلّ جلاله عباد را بشارت داده‌اند بظهور آن حضرت بعد از قائم و همچنين اخبار فرمودند که در حين ظهور آن مطلع فيوضات الهی جميع انبياء و مرسلين حتّی قائم در ظلّ علم مبارک آن حضرت جمع ميشوند چون وقت رسيد و عالم بانوار وجه منوّر گشت کلّ اعراض نمودند مگر نفوسی که اصنام ظنون و هوی را بقوّت مالک اسمآء شکستند و قصد مدينه ايقان نمودند امروز رحيق مختوم باسم قيّوم ظاهر و جاری خذ کأسًا منه ثمّ اشرب بهذا الإسم المُبارک المحمود ...",
   "translation": "O Ḥusayn! Consider the eagerness with which certain peoples and nations have anticipated the return of Imám Ḥusayn, whose coming, after the appearance of the Qá’im, hath been prophesied, in days past, by the chosen ones of God, exalted be His glory. These holy ones have, moreover, announced that when He Who is the Dayspring of the manifold grace of God manifesteth Himself, all the Prophets and Messengers, including the Qá’im, will gather together beneath the shadow of the sacred Standard which the Promised One will raise. That hour is now come. The world is illumined with the effulgent glory of His countenance. And yet, behold how far its peoples have strayed from His path! None have believed in Him except them who, through the power of the Lord of Names, have shattered the idols of their vain imaginings and corrupt desires and entered the city of certitude. The seal of the choice Wine of His Revelation hath, in this Day and in His Name, the Self-Sufficing, been broken. Its grace is being poured out upon men. Fill thy cup, and drink in, in His Name, the Most Holy, the All-Praised.",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "seal-choice-wine-revelation",
+  "alignment": [
+    {
+      "ar": "حسين",
+      "en": "Ḥusayn"
+    },
+    {
+      "ar": "بعضی",
+      "en": "certain"
+    },
+    {
+      "ar": "احزاب",
+      "en": "peoples"
+    },
+    {
+      "ar": "ارض",
+      "en": "nations"
+    },
+    {
+      "ar": "منتظر",
+      "en": "anticipated"
+    },
+    {
+      "ar": "ظهور",
+      "en": "return"
+    },
+    {
+      "ar": "حسينی",
+      "en": "Imám Ḥusayn"
+    },
+    {
+      "ar": "بودند",
+      "en": "have"
+    },
+    {
+      "ar": "از قبل",
+      "en": "in days past"
+    },
+    {
+      "ar": "اصفيای",
+      "en": "chosen ones"
+    },
+    {
+      "ar": "حق",
+      "en": "God"
+    },
+    {
+      "ar": "جلّ جلاله",
+      "en": "exalted be His glory"
+    },
+    {
+      "ar": "عباد",
+      "en": "These holy ones"
+    },
+    {
+      "ar": "بشارت داده‌اند",
+      "en": "prophesied"
+    },
+    {
+      "ar": "بظهور",
+      "en": "appearance"
+    },
+    {
+      "ar": "بعد از",
+      "en": "after"
+    },
+    {
+      "ar": "همچنين",
+      "en": "moreover"
+    },
+    {
+      "ar": "اخبار فرمودند",
+      "en": "announced"
+    },
+    {
+      "ar": "در حين",
+      "en": "when"
+    },
+    {
+      "ar": "مطلع",
+      "en": "Dayspring"
+    },
+    {
+      "ar": "فيوضات",
+      "en": "grace"
+    },
+    {
+      "ar": "جميع",
+      "en": "all"
+    },
+    {
+      "ar": "انبياء",
+      "en": "Prophets"
+    },
+    {
+      "ar": "مرسلين",
+      "en": "Messengers"
+    },
+    {
+      "ar": "حتّی",
+      "en": "including"
+    },
+    {
+      "ar": "ظلّ",
+      "en": "shadow"
+    },
+    {
+      "ar": "علم",
+      "en": "Standard"
+    },
+    {
+      "ar": "مبارک",
+      "en": "sacred"
+    },
+    {
+      "ar": "جمع ميشوند",
+      "en": "gather together"
+    },
+    {
+      "ar": "چون",
+      "en": "That"
+    },
+    {
+      "ar": "وقت",
+      "en": "hour"
+    },
+    {
+      "ar": "رسيد",
+      "en": "now come"
+    },
+    {
+      "ar": "عالم",
+      "en": "world"
+    },
+    {
+      "ar": "بانوار",
+      "en": "effulgent glory"
+    },
+    {
+      "ar": "وجه",
+      "en": "countenance"
+    },
+    {
+      "ar": "منوّر گشت",
+      "en": "illumined"
+    },
+    {
+      "ar": "کلّ",
+      "en": "its peoples"
+    },
+    {
+      "ar": "اعراض نمودند",
+      "en": "strayed"
+    },
+    {
+      "ar": "مگر",
+      "en": "except"
+    },
+    {
+      "ar": "نفوسی",
+      "en": "them"
+    },
+    {
+      "ar": "اصنام",
+      "en": "idols"
+    },
+    {
+      "ar": "ظنون",
+      "en": "vain imaginings"
+    },
+    {
+      "ar": "هوی",
+      "en": "corrupt desires"
+    },
+    {
+      "ar": "بقوّت",
+      "en": "through the power"
+    },
+    {
+      "ar": "مالک",
+      "en": "Lord"
+    },
+    {
+      "ar": "اسمآء",
+      "en": "Names"
+    },
+    {
+      "ar": "شکستند",
+      "en": "shattered"
+    },
+    {
+      "ar": "قصد",
+      "en": "entered"
+    },
+    {
+      "ar": "مدينه",
+      "en": "city"
+    },
+    {
+      "ar": "ايقان",
+      "en": "certitude"
+    },
+    {
+      "ar": "امروز",
+      "en": "in this Day"
+    },
+    {
+      "ar": "رحيق",
+      "en": "Wine"
+    },
+    {
+      "ar": "مختوم",
+      "en": "seal"
+    },
+    {
+      "ar": "باسم",
+      "en": "in His Name"
+    },
+    {
+      "ar": "قيّوم",
+      "en": "Self-Sufficing"
+    },
+    {
+      "ar": "ظاهر",
+      "en": "broken"
+    },
+    {
+      "ar": "جاری",
+      "en": "poured out"
+    },
+    {
+      "ar": "خذ",
+      "en": "Fill"
+    },
+    {
+      "ar": "کأسًا",
+      "en": "cup"
+    },
+    {
+      "ar": "ثمّ",
+      "en": "and"
+    },
+    {
+      "ar": "اشرب",
+      "en": "drink"
+    },
+    {
+      "ar": "بهذا",
+      "en": "in"
+    },
+    {
+      "ar": "الإسم",
+      "en": "Name"
+    },
+    {
+      "ar": "المُبارک",
+      "en": "Most Holy"
+    },
+    {
+      "ar": "المحمود",
+      "en": "All-Praised"
+    }
+  ],
+  "terms": [
+    {
+      "term": "ظهور",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "appearance; manifestation",
+      "note": "Typically 'Manifestation' or 'manifestation' (96 occurrences). Here rendered as both 'return' and 'appearance/manifestation'—SE accommodates the temporal focus on Imám Ḥusayn's anticipated coming.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 140,
+          "snippet": "manifestation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 160,
+          "snippet": "Author of all Manifestations"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 136,
+          "snippet": "evident"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 206,
+          "snippet": "appeared"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 196,
+          "snippet": "Manifestations of God"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 255,
+          "snippet": "Manifestations"
+        }
+      ]
+    },
+    {
+      "term": "مطلع",
+      "transliteration": "t-l-ʿ",
+      "literal": "rising; appearance; countenance; manifestation",
+      "se_rendering": "Dayspring",
+      "note": "Usually 'Manifestations' or 'countenances' (32 occurrences). Here 'Dayspring'—emphasizing dawn imagery and the breaking forth of divine grace rather than mere appearance.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 47,
+          "snippet": "lives"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 856,
+          "snippet": "countenances"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "sources of command"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 16,
+          "snippet": "embodiments"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 21,
+          "snippet": "daysprings"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 24,
+          "snippet": "exponents"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 276,
+          "snippet": "Revealer"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 26,
+          "snippet": "Dayspring"
+        }
+      ]
+    },
+    {
+      "term": "علم",
+      "transliteration": "ʿ-l-m",
+      "literal": "world; universe; the worlds",
+      "se_rendering": "Standard",
+      "note": "Root typically renders as 'world' or 'knowledge' (141 occurrences). Uniquely rendered 'Standard' here—a symbolic rather than literal rendering that shifts the theological weight to the Promised One's banner.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 28,
+          "snippet": "knowledge"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 122,
+          "snippet": "commentators"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 42,
+          "snippet": "banner"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 19,
+          "snippet": "understanding"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 205,
+          "snippet": "ancient Knowledge"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 65,
+          "snippet": "universe"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 4,
+          "snippet": "divine"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 199,
+          "snippet": "peoples of the world"
+        }
+      ]
+    },
+    {
+      "term": "اعراض",
+      "transliteration": "ʿ-r-d",
+      "literal": "to turn away; to avert; to abstain; heedless",
+      "se_rendering": "strayed from His path",
+      "note": "Typically 'turned away' or 'turned aside' (47 occurrences). SE renders as 'strayed from His path'—a more ethical formulation than simple aversion, embedding moral judgment.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 136,
+          "snippet": "turned away"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 168,
+          "snippet": "turned aside"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 230,
+          "snippet": "disbelievers"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 505,
+          "snippet": "turned their backs"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 89,
+          "snippet": "objections"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 431,
+          "snippet": "have turned back"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 29,
+          "snippet": "hast turned away"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 104,
+          "snippet": "are turned back"
+        }
+      ]
+    },
+    {
+      "term": "نفوسی",
+      "transliteration": "n-f-s",
+      "literal": "self; soul; psyche",
+      "se_rendering": "them",
+      "note": "Usually renders as 'self,' 'soul,' or 'those' (43 occurrences). Here rendered as pronoun 'them'—SE erases the reflexive quality entirely, prioritizing readability over the souls' self-shattering work.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 114,
+          "snippet": "over Mine own Self"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 789,
+          "snippet": "myself to be only nothing"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 70,
+          "snippet": "This is the station in which I have no power"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 71,
+          "snippet": "his own entity in the kingdom of his self"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 572,
+          "snippet": "Thy Self at all times"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 109,
+          "snippet": "those"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 125,
+          "snippet": "sense of their own powerlessness"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 179,
+          "snippet": "abstained from all that is abhorrent unto Thee"
+        }
+      ]
+    },
+    {
+      "term": "بقوت",
+      "transliteration": "q-w-y",
+      "literal": "strength; power; might",
+      "se_rendering": "through the power",
+      "note": "Regularly 'through the power' or 'strength' (21 occurrences). SE consistently preserves preposition and agency here—'through the power' maintains the instrumental divine causality essential to the passage's soteriology.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 49,
+          "snippet": "strength"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 169,
+          "snippet": "through the power"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 210,
+          "snippet": "with strength"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 61,
+          "snippet": "through the force"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 54,
+          "snippet": "power"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 594,
+          "snippet": "Thy might"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 829,
+          "snippet": "hath strengthened"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 383,
+          "snippet": "Thy strength"
+        }
+      ]
+    },
+    {
+      "term": "امروز",
+      "transliteration": "ʾ-m-r",
+      "literal": "command; cause; matter; affair",
+      "se_rendering": "Day",
+      "note": "Typically 'Cause' or 'Revelation' (75 occurrences). Here rendered as 'Day'—a temporal rather than doctrinal shift, emphasizing the chronological present over the theological meaning.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "His Cause"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 797,
+          "snippet": "Thy Cause"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 597,
+          "snippet": "service"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 167,
+          "snippet": "things"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "commanded"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 236,
+          "snippet": "commissioned"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 785,
+          "snippet": "Thy Revelation"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 38,
+          "snippet": "for the protection of the Cause"
+        }
+      ]
+    },
+    {
+      "term": "مختوم",
+      "transliteration": "kh-t-m",
+      "literal": "to seal; to conclude; to end; seal",
+      "se_rendering": "seal",
+      "note": "Consistently 'seal' or 'sealed' (21 occurrences). Here 'seal' in nominative position—the seal as completed act rather than static condition, aligning with the breaking of the Wine's seal.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 31,
+          "snippet": "seal"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 552,
+          "snippet": "affixed Thy seal"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 178,
+          "snippet": "Seal of the Prophets"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 76,
+          "snippet": "sealed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 226,
+          "snippet": "as a ring"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 287,
+          "snippet": "We conclude"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 701,
+          "snippet": "choose"
+        }
+      ]
+    }
+  ],
+  "section_index": "IX.1",
+  "section": "IX",
+  "section_para": 1
 }

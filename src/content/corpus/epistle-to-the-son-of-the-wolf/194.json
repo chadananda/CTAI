@@ -1,10 +1,416 @@
 {
   "work": "Epistle to the Son of the Wolf",
   "slug": "epistle-to-the-son-of-the-wolf",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 194,
   "source_text": "هذه آياتٌ انزلناها من قبل فی اوّل ورودنا فی سجن عکّاء و ارسلناها اليک لتعرف ما نطقت به ألسنتهم الکذبة اذ اتی الامر بقدرة و سلطان * قد تزعزع بنيان الظّنون و انفطرت سماء الاوهام و القوم فی مِرْيَةٍ و شقاق * قد انکروا حجّة اللّه و برهانه بعد اذ اتی من افق الاقتدار بملکوت الآيات * ترکوا ما امروا به و ارتکبوا ما منعوا عنه فی الکتاب * وضعوا إلههم اخذوا اهواءهم أَلَا انّهم فی غفلة و ضلال * يقرءون الآيات و ينکرونها يرون البيّنات و يعرضون عنها أَلَا انّهم فی ريب عجاب *",
   "translation": "These are verses We sent down previously, soon after Our arrival in the prison-city of ‘Akká, and We have sent them unto thee, that thou mayest be acquainted with what their lying tongues have spoken, when Our Cause came unto them with might and sovereignty. The foundations of idle fancies have trembled, and the heaven of vain imaginings hath been cleft asunder, and yet the people are in doubt and in contention with Him. They have denied the testimony of God and His proof, after He came from the heaven of power with the kingdom of His signs. They have cast away what had been prescribed, and perpetrated what had been forbidden them in the Book. They have abandoned their God, and clung unto their desires. They truly have strayed and are in error. They read the verses and deny them. They behold the clear tokens and turn aside. They truly are lost in strange doubt.",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "foundations-idle-fancies-trembled",
+  "alignment": [
+    {
+      "ar": "هذه",
+      "en": "These"
+    },
+    {
+      "ar": "آياتٌ",
+      "en": "verses"
+    },
+    {
+      "ar": "انزلناها",
+      "en": "sent down"
+    },
+    {
+      "ar": "من قبل",
+      "en": "previously"
+    },
+    {
+      "ar": "اوّل",
+      "en": "soon after"
+    },
+    {
+      "ar": "ورودنا",
+      "en": "Our arrival"
+    },
+    {
+      "ar": "سجن",
+      "en": "prison-city"
+    },
+    {
+      "ar": "ارسلناها",
+      "en": "sent them"
+    },
+    {
+      "ar": "اليک",
+      "en": "unto thee"
+    },
+    {
+      "ar": "لتعرف",
+      "en": "that thou mayest be acquainted"
+    },
+    {
+      "ar": "نطقت",
+      "en": "spoken"
+    },
+    {
+      "ar": "ألسنتهم",
+      "en": "tongues"
+    },
+    {
+      "ar": "الکذبة",
+      "en": "lying"
+    },
+    {
+      "ar": "اذ",
+      "en": "when"
+    },
+    {
+      "ar": "اتی",
+      "en": "came"
+    },
+    {
+      "ar": "الامر",
+      "en": "Our Cause"
+    },
+    {
+      "ar": "بقدرة",
+      "en": "with might"
+    },
+    {
+      "ar": "سلطان",
+      "en": "sovereignty"
+    },
+    {
+      "ar": "تزعزع",
+      "en": "trembled"
+    },
+    {
+      "ar": "بنيان",
+      "en": "foundations"
+    },
+    {
+      "ar": "الظّنون",
+      "en": "idle fancies"
+    },
+    {
+      "ar": "انفطرت",
+      "en": "cleft asunder"
+    },
+    {
+      "ar": "سماء",
+      "en": "heaven"
+    },
+    {
+      "ar": "الاوهام",
+      "en": "vain imaginings"
+    },
+    {
+      "ar": "القوم",
+      "en": "the people"
+    },
+    {
+      "ar": "مِرْيَةٍ",
+      "en": "doubt"
+    },
+    {
+      "ar": "شقاق",
+      "en": "contention"
+    },
+    {
+      "ar": "انکروا",
+      "en": "denied"
+    },
+    {
+      "ar": "حجّة",
+      "en": "testimony"
+    },
+    {
+      "ar": "اللّه",
+      "en": "God"
+    },
+    {
+      "ar": "برهانه",
+      "en": "His proof"
+    },
+    {
+      "ar": "بعد",
+      "en": "after"
+    },
+    {
+      "ar": "الاقتدار",
+      "en": "power"
+    },
+    {
+      "ar": "بملکوت",
+      "en": "with the kingdom"
+    },
+    {
+      "ar": "الآيات",
+      "en": "His signs"
+    },
+    {
+      "ar": "ترکوا",
+      "en": "cast away"
+    },
+    {
+      "ar": "امروا",
+      "en": "prescribed"
+    },
+    {
+      "ar": "ارتکبوا",
+      "en": "perpetrated"
+    },
+    {
+      "ar": "منعوا",
+      "en": "forbidden"
+    },
+    {
+      "ar": "الکتاب",
+      "en": "the Book"
+    },
+    {
+      "ar": "وضعوا",
+      "en": "abandoned"
+    },
+    {
+      "ar": "إلههم",
+      "en": "their God"
+    },
+    {
+      "ar": "اخذوا",
+      "en": "clung"
+    },
+    {
+      "ar": "اهواءهم",
+      "en": "their desires"
+    },
+    {
+      "ar": "أَلَا",
+      "en": "They truly"
+    },
+    {
+      "ar": "غفلة",
+      "en": "strayed"
+    },
+    {
+      "ar": "ضلال",
+      "en": "error"
+    },
+    {
+      "ar": "يقرءون",
+      "en": "read"
+    },
+    {
+      "ar": "ينکرونها",
+      "en": "deny them"
+    },
+    {
+      "ar": "يرون",
+      "en": "behold"
+    },
+    {
+      "ar": "البيّنات",
+      "en": "clear tokens"
+    },
+    {
+      "ar": "يعرضون",
+      "en": "turn aside"
+    },
+    {
+      "ar": "عجاب",
+      "en": "strange"
+    }
+  ],
+  "terms": [
+    {
+      "term": "الامر",
+      "transliteration": "ʾ-m-m",
+      "literal": "mother; to lead; to head; matter; affair",
+      "se_rendering": "Cause",
+      "note": "Root ا-م-ر renders predominantly as 'Cause' or 'command' (75 occurrences). Here 'Cause' capitalizes the theological claim—equating Muhammad-Bahá'u'lláh's mission with divine imperative rather than mere instruction.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 257,
+          "snippet": "command"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 393,
+          "snippet": "Cause"
+        },
+        {
+          "work": "gleanings",
+          "para": 7,
+          "snippet": "beginning"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 13,
+          "snippet": "peoples"
+        },
+        {
+          "work": "gleanings",
+          "para": 47,
+          "snippet": "nations"
+        },
+        {
+          "work": "gleanings",
+          "para": 596,
+          "snippet": "before"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 155,
+          "snippet": "Imams"
+        }
+      ]
+    },
+    {
+      "term": "سلطان",
+      "transliteration": "s-l-ṭ",
+      "literal": "dominion; authority; power; sovereignty; control",
+      "se_rendering": "sovereignty",
+      "note": "Renders as 'sovereignty', 'dominion', 'power' (43 occurrences). Paired with 'might' (قدرة) here, 'sovereignty' emphasizes juridical authority and legitimacy over mere physical force, distinguishing divine right from brute strength.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 369,
+          "snippet": "sovereignty"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 151,
+          "snippet": "dominion"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 1,
+          "snippet": "Thy sovereignty"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 184,
+          "snippet": "by Thy sovereignty"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 416,
+          "snippet": "Lord"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 242,
+          "snippet": "king"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 1,
+          "snippet": "the King"
+        },
+        {
+          "work": "gleanings",
+          "para": 472,
+          "snippet": "King (Sulṭán 'Abdu'l-'Azíz)"
+        }
+      ]
+    },
+    {
+      "term": "انکروا",
+      "transliteration": "n-k-r",
+      "literal": "denial; rejection; repudiation",
+      "se_rendering": "denied",
+      "note": "Root ن-ك-ر renders as 'denied' or 'denial' (19 occurrences). SE's past tense 'denied' matches the accusatory tone of the Bayan's historical recrimination, establishing culpability rather than ongoing negation.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 236,
+          "snippet": "denials"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 149,
+          "snippet": "repudiated"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 58,
+          "snippet": "denieth"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 36,
+          "snippet": "wrong"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 752,
+          "snippet": "denied"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 34,
+          "snippet": "disowned"
+        },
+        {
+          "work": "gleanings",
+          "para": 645,
+          "snippet": "averse"
+        }
+      ]
+    },
+    {
+      "term": "الکتاب",
+      "transliteration": "k-t-b",
+      "literal": "book; scripture; writing",
+      "se_rendering": "Book",
+      "note": "Standard rendering 'Book' (33 occurrences). SE maintains singular definite article to reference the Qur'an specifically, emphasizing the transgression as violation of scriptural law rather than generic prohibition.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 365,
+          "snippet": "Book"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 242,
+          "snippet": "the Book"
+        },
+        {
+          "work": "gleanings",
+          "para": 19,
+          "snippet": "hath written"
+        },
+        {
+          "work": "gleanings",
+          "para": 560,
+          "snippet": "Word of God"
+        },
+        {
+          "work": "gleanings",
+          "para": 288,
+          "snippet": "heavenly Books"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 551,
+          "snippet": "write"
+        },
+        {
+          "work": "gleanings",
+          "para": 125,
+          "snippet": "My Book"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 16,
+          "snippet": "My mighty and wondrous Book"
+        }
+      ]
+    }
+  ],
+  "section_index": "194",
+  "section": "194",
+  "section_para": 1
 }

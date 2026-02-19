@@ -1,10 +1,616 @@
 {
   "work": "Epistle to the Son of the Wolf",
   "slug": "epistle-to-the-son-of-the-wolf",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 212,
   "source_text": "يا شيخ در اين بيان مقصود عالميان که بعاموص فرموده تفکّر نما قوله [ فاستعدّ للقاء الهک يا اسرائيل فانّه هو ذا الّذي صنع الجبال و خلق الرّيح و اخبر الانسان ما هو فکره الّذی يجعل الفجر ظلاما و يمشی علی مشارف الارض يهوه اله الجنود اسمه ] ميفرمايد فجر را تاريک مينمايد مقصود انکه اگر در حين ظهور مکلّم طور نفسی خود را صبح صادق داند بقوّت و قدرت الهی تاريک ميشود صبح کاذبست و خود را صادق ميداند ويل له و ويل لمن اتّبعه من دون بيّنة من اللّه ربّ العالمين *",
   "translation": "O Shaykh! Reflect upon these words addressed by Him Who is the Desire of the world to Amos. He saith: \"Prepare to meet thy God, O Israel, for, lo, He that formeth the mountains and createth the wind, and declareth unto man what is his thought, that maketh the morning darkness, and treadeth upon the high places of the earth, the Lord, the God of Hosts, is His name.\" He saith that He maketh the morning darkness. By this is meant that if, at the time of the Manifestation of Him Who conversed on Sinai anyone were to regard himself as the true morn, he will, through the might and power of God, be turned into darkness. He truly is the false dawn, though believing himself to be the true one. Woe unto him, and woe unto such as follow him without a clear token from God, the Lord of the worlds.",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "false-dawn-true-morn",
+  "alignment": [
+    {
+      "ar": "يا",
+      "en": "O"
+    },
+    {
+      "ar": "شيخ",
+      "en": "Shaykh"
+    },
+    {
+      "ar": "در",
+      "en": "upon"
+    },
+    {
+      "ar": "اين",
+      "en": "these"
+    },
+    {
+      "ar": "بيان",
+      "en": "words"
+    },
+    {
+      "ar": "مقصود",
+      "en": "Desire"
+    },
+    {
+      "ar": "عالميان",
+      "en": "the world"
+    },
+    {
+      "ar": "که",
+      "en": "by Him Who"
+    },
+    {
+      "ar": "بعاموص",
+      "en": "to Amos"
+    },
+    {
+      "ar": "فرموده",
+      "en": "addressed"
+    },
+    {
+      "ar": "تفکّر",
+      "en": "Reflect"
+    },
+    {
+      "ar": "قوله",
+      "en": "He saith"
+    },
+    {
+      "ar": "فاستعدّ",
+      "en": "Prepare"
+    },
+    {
+      "ar": "للقاء",
+      "en": "to meet"
+    },
+    {
+      "ar": "الهک",
+      "en": "thy God"
+    },
+    {
+      "ar": "اسرائيل",
+      "en": "Israel"
+    },
+    {
+      "ar": "فانّه",
+      "en": "for, lo"
+    },
+    {
+      "ar": "هو",
+      "en": "He"
+    },
+    {
+      "ar": "الّذي",
+      "en": "that"
+    },
+    {
+      "ar": "صنع",
+      "en": "formeth"
+    },
+    {
+      "ar": "الجبال",
+      "en": "the mountains"
+    },
+    {
+      "ar": "و",
+      "en": "and"
+    },
+    {
+      "ar": "خلق",
+      "en": "createth"
+    },
+    {
+      "ar": "الرّيح",
+      "en": "the wind"
+    },
+    {
+      "ar": "اخبر",
+      "en": "declareth"
+    },
+    {
+      "ar": "الانسان",
+      "en": "man"
+    },
+    {
+      "ar": "ما",
+      "en": "what"
+    },
+    {
+      "ar": "هو",
+      "en": "is"
+    },
+    {
+      "ar": "فکره",
+      "en": "his thought"
+    },
+    {
+      "ar": "يجعل",
+      "en": "maketh"
+    },
+    {
+      "ar": "الفجر",
+      "en": "the morning"
+    },
+    {
+      "ar": "ظلاما",
+      "en": "darkness"
+    },
+    {
+      "ar": "يمشی",
+      "en": "treadeth"
+    },
+    {
+      "ar": "مشارف",
+      "en": "the high places"
+    },
+    {
+      "ar": "الارض",
+      "en": "the earth"
+    },
+    {
+      "ar": "يهوه",
+      "en": "the Lord"
+    },
+    {
+      "ar": "اله",
+      "en": "the God"
+    },
+    {
+      "ar": "الجنود",
+      "en": "of Hosts"
+    },
+    {
+      "ar": "اسمه",
+      "en": "His name"
+    },
+    {
+      "ar": "مقصود",
+      "en": "By this is meant"
+    },
+    {
+      "ar": "اگر",
+      "en": "if"
+    },
+    {
+      "ar": "در",
+      "en": "at"
+    },
+    {
+      "ar": "حين",
+      "en": "the time"
+    },
+    {
+      "ar": "ظهور",
+      "en": "the Manifestation"
+    },
+    {
+      "ar": "مکلّم",
+      "en": "Who conversed"
+    },
+    {
+      "ar": "طور",
+      "en": "on Sinai"
+    },
+    {
+      "ar": "نفسی",
+      "en": "anyone"
+    },
+    {
+      "ar": "خود",
+      "en": "himself"
+    },
+    {
+      "ar": "صبح",
+      "en": "morn"
+    },
+    {
+      "ar": "صادق",
+      "en": "the true"
+    },
+    {
+      "ar": "داند",
+      "en": "regard"
+    },
+    {
+      "ar": "بقوّت",
+      "en": "through the might"
+    },
+    {
+      "ar": "قدرت",
+      "en": "power"
+    },
+    {
+      "ar": "الهی",
+      "en": "of God"
+    },
+    {
+      "ar": "ميشود",
+      "en": "be turned into"
+    },
+    {
+      "ar": "صبح",
+      "en": "dawn"
+    },
+    {
+      "ar": "کاذبست",
+      "en": "the false"
+    },
+    {
+      "ar": "و",
+      "en": "though"
+    },
+    {
+      "ar": "صادق",
+      "en": "the true one"
+    },
+    {
+      "ar": "ميداند",
+      "en": "believing"
+    },
+    {
+      "ar": "ويل",
+      "en": "Woe"
+    },
+    {
+      "ar": "له",
+      "en": "unto him"
+    },
+    {
+      "ar": "ويل",
+      "en": "woe"
+    },
+    {
+      "ar": "لمن",
+      "en": "unto such as"
+    },
+    {
+      "ar": "اتّبعه",
+      "en": "follow him"
+    },
+    {
+      "ar": "من",
+      "en": "without"
+    },
+    {
+      "ar": "بيّنة",
+      "en": "a clear token"
+    },
+    {
+      "ar": "من",
+      "en": "from"
+    },
+    {
+      "ar": "اللّه",
+      "en": "God"
+    },
+    {
+      "ar": "العالمين",
+      "en": "the worlds"
+    }
+  ],
+  "terms": [
+    {
+      "term": "بيان",
+      "transliteration": "b-y-n",
+      "literal": "to manifest; to make clear; clear, evident",
+      "se_rendering": "words",
+      "note": "Root ranges from 'Bayán' (the text itself) to 'proofs' and 'clear verses' (87 occ); rendered 'words' here—SE neutralizes the term to emphasize quotation of scripture rather than Bahá'í cosmology.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 223,
+          "snippet": "the Expounder, the Most Manifest"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 231,
+          "snippet": "clear verses"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 3,
+          "snippet": "proofs"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 12,
+          "snippet": "clear proofs"
+        },
+        {
+          "work": "gleanings",
+          "para": 563,
+          "snippet": "Dawning-Place of the proofs"
+        },
+        {
+          "work": "gleanings",
+          "para": 292,
+          "snippet": "the Bayán"
+        },
+        {
+          "work": "gleanings",
+          "para": 636,
+          "snippet": "utterance"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 101,
+          "snippet": "Bayán"
+        }
+      ]
+    },
+    {
+      "term": "ظلاما",
+      "transliteration": "z-l-m",
+      "literal": "wrongedness, oppression, meekness; state of being wronged or oppressed",
+      "se_rendering": "darkness",
+      "note": "Root typically renders as 'wronged' or 'afflicted' (128 occ); here rendered 'darkness' metaphorically—SE interprets wrongedness as spiritual obscuration rather than literal harm.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 498,
+          "snippet": "afflicted with countless tribulations"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 49,
+          "snippet": "meekness"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 116,
+          "snippet": "injury"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 3,
+          "snippet": "Wronged One"
+        },
+        {
+          "work": "gleanings",
+          "para": 221,
+          "snippet": "oppression"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 9,
+          "snippet": "Darkness"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 33,
+          "snippet": "tyranny"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 573,
+          "snippet": "oppressed"
+        }
+      ]
+    },
+    {
+      "term": "ظهور",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "Manifestation",
+      "note": "Consistently 'Manifestation' (96 occ); SE maintains technical term for the Prophet-Messenger's revelation, centering the passage on recognizing true versus false religious authority.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 53,
+          "snippet": "Manifestation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 160,
+          "snippet": "Author of all Manifestations"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 136,
+          "snippet": "evident"
+        },
+        {
+          "work": "gleanings",
+          "para": 222,
+          "snippet": "material"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 196,
+          "snippet": "Manifestations of God"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 255,
+          "snippet": "Manifestations"
+        }
+      ]
+    },
+    {
+      "term": "مکلّم",
+      "transliteration": "k-l-m",
+      "literal": "word; utterance; speech",
+      "se_rendering": "Him Who conversed",
+      "note": "Rare in corpus (12 occ); SE renders 'Him Who conversed on Sinai'—glossed paraphrase identifying Moses, not a direct translation, indicating SE's interpretive expansion for clarity.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 20,
+          "snippet": "exalted words"
+        },
+        {
+          "work": "gleanings",
+          "para": 603,
+          "snippet": "a jewel"
+        },
+        {
+          "work": "gleanings",
+          "para": 563,
+          "snippet": "that was heard from"
+        }
+      ]
+    },
+    {
+      "term": "صادق",
+      "transliteration": "s-d-q",
+      "literal": "to confirm; to verify; to acknowledge; to testify to truth",
+      "se_rendering": "true",
+      "note": "Ordinarily 'confirmed', 'truthful', 'truth' (25 occ); rendered 'true' in 'true morn'—SE uses English adjective rather than Persian verbal root to heighten the dawn metaphor.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 39,
+          "snippet": "confirmed"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 225,
+          "snippet": "acknowledge"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 226,
+          "snippet": "men of truth"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 253,
+          "snippet": "truthful"
+        },
+        {
+          "work": "gleanings",
+          "para": 461,
+          "snippet": "truth"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 28,
+          "snippet": "truthfulness"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 665,
+          "snippet": "seat of truth"
+        },
+        {
+          "work": "gleanings",
+          "para": 364,
+          "snippet": "unquestionable sincerity"
+        }
+      ]
+    },
+    {
+      "term": "قدرت",
+      "transliteration": "q-d-r",
+      "literal": "power; might; decree; measure; worth",
+      "se_rendering": "power",
+      "note": "Root yields 'power', 'might', 'decree' across 100 occurrences; here 'power' pairs with 'might' for paired emphasis on divine agency transforming false claimants.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 339,
+          "snippet": "Thy power"
+        },
+        {
+          "work": "gleanings",
+          "para": 138,
+          "snippet": "hath been decreed"
+        },
+        {
+          "work": "gleanings",
+          "para": 662,
+          "snippet": "hath decreed"
+        },
+        {
+          "work": "gleanings",
+          "para": 496,
+          "snippet": "forbearing towards"
+        },
+        {
+          "work": "gleanings",
+          "para": 111,
+          "snippet": "schools"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 12,
+          "snippet": "God of power"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 35,
+          "snippet": "Potent"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 282,
+          "snippet": "Almighty"
+        }
+      ]
+    },
+    {
+      "term": "اتّبعه",
+      "transliteration": "t-b-ʿ",
+      "literal": "to follow; to obey; to pursue",
+      "se_rendering": "follow",
+      "note": "Standard rendering 'follow' or 'followers' (32 occ); SE maintains consistency here, though paired with 'without a clear token' to emphasize blind allegiance as the condemned act.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 784,
+          "snippet": "followed"
+        },
+        {
+          "work": "gleanings",
+          "para": 519,
+          "snippet": "Follow"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 176,
+          "snippet": "followers"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 207,
+          "snippet": "have borne allegiance to his person"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 256,
+          "snippet": "become the followers of Truth"
+        },
+        {
+          "work": "gleanings",
+          "para": 706,
+          "snippet": "submission unto"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 26,
+          "snippet": "to follow the light"
+        },
+        {
+          "work": "gleanings",
+          "para": 605,
+          "snippet": "obedience to"
+        }
+      ]
+    }
+  ],
+  "section_index": "212",
+  "section": "212",
+  "section_para": 1
 }

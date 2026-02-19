@@ -1,10 +1,362 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 234,
   "source_text": "یا أرض المقصود قد جئتک من قبل الله وأبشّرک بفضله ورحمته وأکبّر علیک من لدنه إنّه لهو الفضّال الکریم طوبی لنفس توجّهت إلیک ووجدت منک عرف الله ربّ العالمین النّور علیک والبهآء علیک بما جعلک الله فردوسا لعباده والأرض المقدّسة المبارکة الّتي أنزل الله ذکرها في کتب النّبیّین والمرسلین",
   "translation": "I am come to thee, O land of the heart’s desire, with tidings from God, and announce to thee His gracious favor and mercy, and greet and magnify thee in His name. He, in truth, is of immense bounteousness and goodness. Blessed be the man that turneth his face towards thee, that perceiveth from thee the fragrance of God’s Presence, the Lord of all worlds. His glory be on thee, and the brightness of His light envelop thee, inasmuch as God hath made thee a paradise unto His servants, and proclaimed thee to be the blest and sacred land of which He, Himself, hath made mention in the Books which His Prophets and Messengers have revealed.",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "land-heart-desire-paradise",
+  "alignment": [
+    {
+      "ar": "أرض",
+      "en": "land"
+    },
+    {
+      "ar": "جئتک",
+      "en": "come to thee"
+    },
+    {
+      "ar": "الله",
+      "en": "God"
+    },
+    {
+      "ar": "أبشّرک",
+      "en": "announce to thee"
+    },
+    {
+      "ar": "فضله",
+      "en": "His gracious favor"
+    },
+    {
+      "ar": "رحمته",
+      "en": "mercy"
+    },
+    {
+      "ar": "أکبّر",
+      "en": "magnify"
+    },
+    {
+      "ar": "علیک",
+      "en": "thee"
+    },
+    {
+      "ar": "لدنه",
+      "en": "His name"
+    },
+    {
+      "ar": "الفضّال",
+      "en": "bounteousness"
+    },
+    {
+      "ar": "الکریم",
+      "en": "goodness"
+    },
+    {
+      "ar": "طوبی",
+      "en": "Blessed"
+    },
+    {
+      "ar": "لنفس",
+      "en": "be the man"
+    },
+    {
+      "ar": "توجّهت",
+      "en": "turneth his face"
+    },
+    {
+      "ar": "إلیک",
+      "en": "towards thee"
+    },
+    {
+      "ar": "وجدت",
+      "en": "perceiveth"
+    },
+    {
+      "ar": "عرف",
+      "en": "fragrance"
+    },
+    {
+      "ar": "ربّ",
+      "en": "Lord"
+    },
+    {
+      "ar": "العالمین",
+      "en": "all worlds"
+    },
+    {
+      "ar": "النّور",
+      "en": "glory"
+    },
+    {
+      "ar": "البهآء",
+      "en": "brightness of His light"
+    },
+    {
+      "ar": "جعلک",
+      "en": "made thee"
+    },
+    {
+      "ar": "فردوسا",
+      "en": "paradise"
+    },
+    {
+      "ar": "لعباده",
+      "en": "unto His servants"
+    },
+    {
+      "ar": "الأرض المقدّسة",
+      "en": "sacred land"
+    },
+    {
+      "ar": "المبارکة",
+      "en": "blest"
+    },
+    {
+      "ar": "أنزل",
+      "en": "proclaimed"
+    },
+    {
+      "ar": "ذکرها",
+      "en": "made mention"
+    },
+    {
+      "ar": "کتب",
+      "en": "Books"
+    },
+    {
+      "ar": "النّبیّین",
+      "en": "Prophets"
+    },
+    {
+      "ar": "المرسلین",
+      "en": "Messengers"
+    }
+  ],
+  "terms": [
+    {
+      "term": "المقصود",
+      "transliteration": "q-s-d",
+      "literal": "intention; purpose; aim; goal; to seek; to direct oneself",
+      "se_rendering": "heart's desire",
+      "note": "Root typically rendered 'Seek', 'goal', 'purpose' across 32 occurrences. 'Heart's desire' here poeticizes the destination as intimate longing rather than abstract aim.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 204,
+          "snippet": "Seek"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 64,
+          "snippet": "aim"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 43,
+          "snippet": "purpose"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 444,
+          "snippet": "goal"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 47,
+          "snippet": "my heart's Desire"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 5,
+          "snippet": "my Desire"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 11,
+          "snippet": "the Goal of my desire"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 804,
+          "snippet": "the Desired One"
+        }
+      ]
+    },
+    {
+      "term": "عرف",
+      "transliteration": "ʿ-r-f",
+      "literal": "to confess; to acknowledge; to recognize",
+      "se_rendering": "fragrance",
+      "note": "Root denotes 'confess', 'acknowledge', 'recognize' across 82 occurrences. 'Fragrance' uniquely sensory—shifts abstract recognition to olfactory perception of divine presence.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 601,
+          "snippet": "testifieth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 729,
+          "snippet": "hath acknowledged"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 582,
+          "snippet": "have recognized"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 228,
+          "snippet": "acknowledged"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 744,
+          "snippet": "understanding"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 5,
+          "snippet": "acknowledging"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 4,
+          "snippet": "fragrance of His garment"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 114,
+          "snippet": "Thy knowledge"
+        }
+      ]
+    },
+    {
+      "term": "فردوسا",
+      "transliteration": "f-r-d-w-s",
+      "literal": "paradise; garden",
+      "se_rendering": "paradise",
+      "note": "Five occurrences in corpus show 'Paradise' as standard rendering. Direct, literal choice appropriate to designation of Akká-Bahjí region.",
+      "cross_refs": [
+        {
+          "work": "tablet-of-ahmad",
+          "para": 2,
+          "snippet": "Nightingale of Paradise"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 92,
+          "snippet": "dwellers in the Highest Paradise"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 51,
+          "snippet": "Paradise"
+        }
+      ]
+    },
+    {
+      "term": "المقدّسة",
+      "transliteration": "q-d-s",
+      "literal": "holy, sacred, sanctified",
+      "se_rendering": "sacred",
+      "note": "Consistently 'sacred' matches primary pattern across 47 occurrences. Standard epithet for this geographically sanctified land.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 2,
+          "snippet": "Sacred"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 81,
+          "snippet": "hallowed"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 35,
+          "snippet": "spirit of holiness"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 448,
+          "snippet": "Sanctuary"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 13,
+          "snippet": "Holy Mariner"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 6,
+          "snippet": "sacred strand"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 26,
+          "snippet": "Celestial Concourse"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 189,
+          "snippet": "Most Holy"
+        }
+      ]
+    },
+    {
+      "term": "أنزل",
+      "transliteration": "n-z-l",
+      "literal": "to descend, to be revealed",
+      "se_rendering": "made mention",
+      "note": "Root typically 'sent down', 'revealed', 'descended' across 88 occurrences. 'Made mention' here adopts verbal rather than descendent metaphor, emphasizing utterance over ontological descent.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 188,
+          "snippet": "revealed"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 175,
+          "snippet": "didst send down"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 835,
+          "snippet": "sent down"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 34,
+          "snippet": "Descend"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 47,
+          "snippet": "pour forth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 330,
+          "snippet": "send down"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 40,
+          "snippet": "were revealed"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 16,
+          "snippet": "hath been sent down"
+        }
+      ]
+    }
+  ],
+  "section_index": "LXIV.3",
+  "section": "LXIV",
+  "section_para": 3
 }

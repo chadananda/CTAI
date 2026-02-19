@@ -1,10 +1,181 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 528,
   "source_text": "عَلَى كُلِّ شَيْءٍ لا إِلهَ إِلاَّ أَنْتَ العَلِيمُ الحَكيْمُ.",
   "translation": "Supreme art Thou over all things. There is none other God save Thee, the All-Knowing, the All-Wise.",
   "source_lang": "ar",
-  "score": 9.5
+  "score": 9.5,
+  "page_slug": "all-knowing-all-wise",
+  "alignment": [
+    {
+      "ar": "عَلَى",
+      "en": "over"
+    },
+    {
+      "ar": "شَيْءٍ",
+      "en": "things"
+    },
+    {
+      "ar": "العَلِيمُ",
+      "en": "All-Knowing"
+    },
+    {
+      "ar": "الحَكيْمُ",
+      "en": "All-Wise"
+    }
+  ],
+  "terms": [
+    {
+      "term": "اله",
+      "transliteration": "ʾ-l-h",
+      "literal": "God; Allah",
+      "se_rendering": "God",
+      "note": "Root ا-ل-ه consistently renders as 'God' across 53 occurrences; SE maintains this standard rendering without the devotional intensity of alternative forms like 'My God.'",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 294,
+          "snippet": "God"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 10,
+          "snippet": "O God, my God"
+        },
+        {
+          "work": "gleanings",
+          "para": 341,
+          "snippet": "of God"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 11,
+          "snippet": "My God"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 62,
+          "snippet": "O Lord"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 102,
+          "snippet": "the Divine Lote-Tree"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 53,
+          "snippet": "the loved ones of the Lord"
+        },
+        {
+          "work": "gleanings",
+          "para": 338,
+          "snippet": "Ark of God"
+        }
+      ]
+    },
+    {
+      "term": "العَلِيمُ",
+      "transliteration": "ʿ-l-m",
+      "literal": "world; universe; the worlds",
+      "se_rendering": "the All-Knowing",
+      "note": "Root ع-ل-م typically renders as 'world' or 'knowledge' across 141 occurrences; here SE renders as 'All-Knowing,' attributing the abstract quality to the divine subject rather than translating the literal root sense.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 198,
+          "snippet": "world"
+        },
+        {
+          "work": "gleanings",
+          "para": 657,
+          "snippet": "all worlds"
+        },
+        {
+          "work": "gleanings",
+          "para": 182,
+          "snippet": "mankind"
+        },
+        {
+          "work": "gleanings",
+          "para": 183,
+          "snippet": "the whole world"
+        },
+        {
+          "work": "gleanings",
+          "para": 226,
+          "snippet": "all earthly defilements"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 28,
+          "snippet": "knowledge"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 122,
+          "snippet": "commentators"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 42,
+          "snippet": "banner"
+        }
+      ]
+    },
+    {
+      "term": "الحَكيْمُ",
+      "transliteration": "h-k-m",
+      "literal": "government; rule; governance; wisdom",
+      "se_rendering": "the All-Wise",
+      "note": "Root ح-ك-م usually appears as 'rule,' 'government,' or 'governance' across 69 occurrences; here SE selects 'All-Wise,' choosing the wisdom aspect over governance, reflecting the divine epithet context.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-ahd",
+          "para": 6,
+          "snippet": "rule"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "government"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 160,
+          "snippet": "meaning of return"
+        },
+        {
+          "work": "gleanings",
+          "para": 224,
+          "snippet": "mysteries"
+        },
+        {
+          "work": "gleanings",
+          "para": 636,
+          "snippet": "rule of the sword"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 182,
+          "snippet": "mystery of the former verse"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 129,
+          "snippet": "perspicuous verses"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 46,
+          "snippet": "conclusive"
+        }
+      ]
+    }
+  ],
+  "section_index": "CXIX.6",
+  "section": "CXIX",
+  "section_para": 6
 }

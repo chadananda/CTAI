@@ -1,10 +1,612 @@
 {
   "work": "Epistle to the Son of the Wolf",
   "slug": "epistle-to-the-son-of-the-wolf",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 142,
   "source_text": "يا شيخ همّت کن و بر خدمت امر قيام نما امروز رحيق مختوم امام وجوه ظاهر خذه باسم ربّک ثمّ اشربه بذکره العزيز البديع * اين مظلوم در ليالی و ايّام بتاليف قلوب و تهذيب نفوس مشغول * امورات واقعه در ايران در سنين اوّليّه فی الحقيقه سبب حزن مقرّبين و مخلصين بوده و در هر سنه قتل و غارت و تاراج و سفک دماء موجود * يک سنه در زنجان ظاهر شد انچه که سبب فزع اکبر بود و همچنين يک سنه در نيريز و سنه ديگر در طبرسی تا انکه واقعه ارض طا واقع و از ان ببعد اين مظلوم باعانت حقّ جلّ جلاله اين حزب مظلوم را بما ينبغی اگاه نمود کلّ از ما عندهم و ما عند القوم مقدّس و بما عند اللّه متشبّث و ناظر *",
   "translation": "Exert thyself, O Shaykh, and arise to serve this Cause. The Sealed Wine is disclosed in this day before the faces of men. Seize it in the name of thy Lord, and quaff thy fill in remembrance of Him Who is the Mighty, the Incomparable. Night and day hath this Wronged One been occupied in that which would unite the hearts, and edify the souls of men. The events that have happened in Persia during the early years have truly saddened the well-favored and sincere ones. Each year witnessed a fresh massacre, pillage, plunder, and shedding of blood. At one time there appeared in Zanjan that which caused the greatest consternation; at another in Nayríz, and at yet another in Ṭabarsí, and finally there occurred the episode of the Land of Ta (Ṭihrán). From that time onwards this Wronged One, assisted by the One True God - exalted be His glory - acquainted this oppressed people with the things which beseemed them. All have sanctified themselves from the things which they and others possess, and have clung unto, and fixed their eyes upon that which pertaineth unto God.",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "sealed-wine-service-cause",
+  "alignment": [
+    {
+      "ar": "يا",
+      "en": "O"
+    },
+    {
+      "ar": "شيخ",
+      "en": "Shaykh"
+    },
+    {
+      "ar": "همّت کن",
+      "en": "Exert thyself"
+    },
+    {
+      "ar": "بر خدمت",
+      "en": "serve"
+    },
+    {
+      "ar": "امر",
+      "en": "Cause"
+    },
+    {
+      "ar": "قيام نما",
+      "en": "arise"
+    },
+    {
+      "ar": "امروز",
+      "en": "in this day"
+    },
+    {
+      "ar": "رحيق مختوم",
+      "en": "Sealed Wine"
+    },
+    {
+      "ar": "امام",
+      "en": "before"
+    },
+    {
+      "ar": "وجوه",
+      "en": "faces"
+    },
+    {
+      "ar": "ظاهر",
+      "en": "disclosed"
+    },
+    {
+      "ar": "خذه",
+      "en": "Seize it"
+    },
+    {
+      "ar": "باسم",
+      "en": "in the name"
+    },
+    {
+      "ar": "ربّک",
+      "en": "thy Lord"
+    },
+    {
+      "ar": "ثمّ",
+      "en": "and"
+    },
+    {
+      "ar": "اشربه",
+      "en": "quaff thy fill"
+    },
+    {
+      "ar": "بذکره",
+      "en": "in remembrance of Him"
+    },
+    {
+      "ar": "العزيز",
+      "en": "Mighty"
+    },
+    {
+      "ar": "البديع",
+      "en": "Incomparable"
+    },
+    {
+      "ar": "مظلوم",
+      "en": "Wronged One"
+    },
+    {
+      "ar": "ليالی",
+      "en": "Night"
+    },
+    {
+      "ar": "ايّام",
+      "en": "day"
+    },
+    {
+      "ar": "بتاليف",
+      "en": "unite"
+    },
+    {
+      "ar": "قلوب",
+      "en": "hearts"
+    },
+    {
+      "ar": "تهذيب",
+      "en": "edify"
+    },
+    {
+      "ar": "نفوس",
+      "en": "souls"
+    },
+    {
+      "ar": "مشغول",
+      "en": "occupied"
+    },
+    {
+      "ar": "امورات واقعه",
+      "en": "events that have happened"
+    },
+    {
+      "ar": "ايران",
+      "en": "Persia"
+    },
+    {
+      "ar": "سنين اوّليّه",
+      "en": "early years"
+    },
+    {
+      "ar": "فی الحقيقه",
+      "en": "truly"
+    },
+    {
+      "ar": "سبب",
+      "en": "caused"
+    },
+    {
+      "ar": "حزن",
+      "en": "saddened"
+    },
+    {
+      "ar": "مقرّبين",
+      "en": "well-favored"
+    },
+    {
+      "ar": "مخلصين",
+      "en": "sincere ones"
+    },
+    {
+      "ar": "هر سنه",
+      "en": "Each year"
+    },
+    {
+      "ar": "قتل",
+      "en": "massacre"
+    },
+    {
+      "ar": "غارت",
+      "en": "pillage"
+    },
+    {
+      "ar": "تاراج",
+      "en": "plunder"
+    },
+    {
+      "ar": "سفک دماء",
+      "en": "shedding of blood"
+    },
+    {
+      "ar": "موجود",
+      "en": "witnessed"
+    },
+    {
+      "ar": "يک سنه",
+      "en": "At one time"
+    },
+    {
+      "ar": "زنجان",
+      "en": "Zanjan"
+    },
+    {
+      "ar": "فزع اکبر",
+      "en": "greatest consternation"
+    },
+    {
+      "ar": "همچنين",
+      "en": "at another"
+    },
+    {
+      "ar": "نيريز",
+      "en": "Nayríz"
+    },
+    {
+      "ar": "ديگر",
+      "en": "at yet another"
+    },
+    {
+      "ar": "طبرسی",
+      "en": "Ṭabarsí"
+    },
+    {
+      "ar": "واقعه",
+      "en": "episode"
+    },
+    {
+      "ar": "ارض طا",
+      "en": "Land of Ta"
+    },
+    {
+      "ar": "از ان ببعد",
+      "en": "From that time onwards"
+    },
+    {
+      "ar": "باعانت",
+      "en": "assisted by"
+    },
+    {
+      "ar": "حقّ",
+      "en": "One True God"
+    },
+    {
+      "ar": "جلّ جلاله",
+      "en": "exalted be His glory"
+    },
+    {
+      "ar": "حزب مظلوم",
+      "en": "oppressed people"
+    },
+    {
+      "ar": "بما ينبغی",
+      "en": "which beseemed"
+    },
+    {
+      "ar": "اگاه نمود",
+      "en": "acquainted"
+    },
+    {
+      "ar": "کلّ",
+      "en": "All"
+    },
+    {
+      "ar": "ما عندهم",
+      "en": "which they"
+    },
+    {
+      "ar": "ما عند القوم",
+      "en": "others possess"
+    },
+    {
+      "ar": "مقدّس",
+      "en": "sanctified"
+    },
+    {
+      "ar": "بما عند اللّه",
+      "en": "that which pertaineth unto God"
+    },
+    {
+      "ar": "متشبّث",
+      "en": "clung unto"
+    },
+    {
+      "ar": "ناظر",
+      "en": "fixed their eyes"
+    }
+  ],
+  "terms": [
+    {
+      "term": "امر",
+      "transliteration": "ʾ-m-r",
+      "literal": "command; cause; matter; affair",
+      "se_rendering": "Cause",
+      "note": "Standard rendering as 'Cause' across 75 occurrences. In 'خدمت امر' (service to this Cause), SE fuses two concepts into the singular 'serve this Cause,' compressing Persian compound structure.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "His Cause"
+        },
+        {
+          "work": "gleanings",
+          "para": 586,
+          "snippet": "His command"
+        },
+        {
+          "work": "gleanings",
+          "para": 691,
+          "snippet": "His Revelation"
+        },
+        {
+          "work": "gleanings",
+          "para": 723,
+          "snippet": "Cause"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 797,
+          "snippet": "Thy Cause"
+        },
+        {
+          "work": "gleanings",
+          "para": 8,
+          "snippet": "Revelation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 597,
+          "snippet": "service"
+        },
+        {
+          "work": "gleanings",
+          "para": 524,
+          "snippet": "your affairs"
+        }
+      ]
+    },
+    {
+      "term": "مختوم",
+      "transliteration": "kh-t-m",
+      "literal": "to seal; to conclude; to end; seal",
+      "se_rendering": "Sealed",
+      "note": "Typically 'seal' or 'sealed' as noun/verb. 'Sealed Wine' here metaphorizes eschatological finality—the rarest compound usage in corpus, suggesting apocalyptic revelation disclosed.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 552,
+          "snippet": "affixed Thy seal"
+        },
+        {
+          "work": "gleanings",
+          "para": 695,
+          "snippet": "sealed"
+        },
+        {
+          "work": "gleanings",
+          "para": 114,
+          "snippet": "finality of the Seal"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 178,
+          "snippet": "Seal of the Prophets"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 188,
+          "snippet": "seal"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 287,
+          "snippet": "We conclude"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 701,
+          "snippet": "choose"
+        }
+      ]
+    },
+    {
+      "term": "ظاهر",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "disclosed",
+      "note": "Root usually 'Manifestation' (96 occ); here 'disclosed' and 'appeared' emphasize temporal emergence rather than metaphysical status, reflecting historical narrative focus.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 53,
+          "snippet": "Manifestation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 160,
+          "snippet": "Author of all Manifestations"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 136,
+          "snippet": "evident"
+        },
+        {
+          "work": "gleanings",
+          "para": 222,
+          "snippet": "material"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 196,
+          "snippet": "Manifestations of God"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 255,
+          "snippet": "Manifestations"
+        }
+      ]
+    },
+    {
+      "term": "مظلوم",
+      "transliteration": "z-l-m",
+      "literal": "wrongedness, oppression, meekness; state of being wronged or oppressed",
+      "se_rendering": "Wronged One",
+      "note": "Usually 'Wronged One' as a title (128 occ). Here applied consistently to both the Báb's person ('this Wronged One') and the community ('this oppressed people'), emphasizing collective victimhood.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 498,
+          "snippet": "afflicted with countless tribulations"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 49,
+          "snippet": "meekness"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 116,
+          "snippet": "injury"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 3,
+          "snippet": "Wronged One"
+        },
+        {
+          "work": "gleanings",
+          "para": 221,
+          "snippet": "oppression"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 9,
+          "snippet": "Darkness"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 33,
+          "snippet": "tyranny"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 573,
+          "snippet": "oppressed"
+        }
+      ]
+    },
+    {
+      "term": "اکبر",
+      "transliteration": "k-b-r",
+      "literal": "great; grand; mighty; large",
+      "se_rendering": "greatest",
+      "note": "Typically 'Most Great' or 'great' (34 occ). 'Greatest consternation' is superlative intensification unique to this passage, heightening psychological impact of early persecution.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 351,
+          "snippet": "Most Great"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 64,
+          "snippet": "Great God"
+        },
+        {
+          "work": "gleanings",
+          "para": 10,
+          "snippet": "most mighty grace"
+        },
+        {
+          "work": "gleanings",
+          "para": 23,
+          "snippet": "most grievous veil"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "Greater Branch"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 60,
+          "snippet": "great"
+        },
+        {
+          "work": "gleanings",
+          "para": 318,
+          "snippet": "mighty"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 48,
+          "snippet": "pride"
+        }
+      ]
+    },
+    {
+      "term": "مقدّس",
+      "transliteration": "q-d-s",
+      "literal": "holy, sacred, sanctified",
+      "se_rendering": "sanctified",
+      "note": "Standard 'sacred' or 'sanctified' (47 occ). Reflexive 'have sanctified themselves' reflects Persian grammar (مقدّس متشبّث) but shifts from passive sanctity to active spiritual renunciation.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 2,
+          "snippet": "Sacred"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 35,
+          "snippet": "spirit of holiness"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 448,
+          "snippet": "Sanctuary"
+        },
+        {
+          "work": "gleanings",
+          "para": 585,
+          "snippet": "holy Paradise"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 13,
+          "snippet": "Holy Mariner"
+        },
+        {
+          "work": "gleanings",
+          "para": 584,
+          "snippet": "Holy Veil"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 6,
+          "snippet": "sacred strand"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 26,
+          "snippet": "Celestial Concourse"
+        }
+      ]
+    },
+    {
+      "term": "ناظر",
+      "transliteration": "n-dh-r",
+      "literal": "sight; view; spectacle; appearance",
+      "se_rendering": "fixed their eyes upon",
+      "note": "Usually spatial 'towards' or temporal 'expectantly awaited' (48 occ). 'Fixed their eyes upon' is rare dynamic rendering emphasizing sustained contemplation rather than mere direction.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 351,
+          "snippet": "towards the Most Great Revelation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 793,
+          "snippet": "expectantly awaited"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 371,
+          "snippet": "expectant"
+        },
+        {
+          "work": "gleanings",
+          "para": 150,
+          "snippet": "anticipating"
+        },
+        {
+          "work": "gleanings",
+          "para": 201,
+          "snippet": "counterpart"
+        },
+        {
+          "work": "gleanings",
+          "para": 385,
+          "snippet": "comparison"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 2,
+          "snippet": "unique"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 184,
+          "snippet": "the eyes"
+        }
+      ]
+    }
+  ],
+  "section_index": "142",
+  "section": "142",
+  "section_para": 1
 }

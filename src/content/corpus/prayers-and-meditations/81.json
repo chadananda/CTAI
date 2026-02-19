@@ -1,10 +1,331 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 81,
   "source_text": "ْ حُبِّيْ، أَيْ رَبِّ أَسْئَلُكَ بِذِكْرِكَ نَفْسَكَ وَبِثَنائِكَ ذاتَكَ بِأَنْ تَجْعَلَنا مِنَ الَّذِينَ أَقَرُّوا بِكَ وَاعْتَرَفُوا بِسُلْطانِكَ فِيْ أَيَّامِكَ، ثُمَ أَشْرِبْنا يا إِلهِي مِنْ أَصابِعِ الرَّحْمَةِ كَوْثَرَ العِنَايَةِ لِيُغْفِلَنا عَمَّا سِواكَ وَيُشْغِلَنَا بِكَ، وَإِنَّكَ أَنْتَ المُقْتَدِرُ عَلَى ما تَشَاءُ لا إِلهَ إِلاَّ أَنْتَ العَزِيزُ المُهَيْمِنُ القَيُّومُ وَالحَمْدُ",
   "translation": "I beseech Thee, by the praise wherewith Thou praisest Thyself and the glory wherewith Thou glorifiest Thine own Essence, to grant that we may be numbered among them that have recognized Thee and acknowledged Thy sovereignty in Thy days. Help us then to quaff, O my God, from the fingers of mercy the living waters of Thy loving-kindness, that we may utterly forget all else except Thee, and be occupied only with Thy Self. Powerful art Thou to do what Thou willest. No God is there beside Thee, the Mighty, the Help in Peril, the Self-Subsisting.",
   "source_lang": "ar",
-  "score": 9.5
+  "score": 9.5,
+  "page_slug": "living-waters-loving-kindness",
+  "alignment": [
+    {
+      "ar": "أَسْئَلُكَ",
+      "en": "I beseech Thee"
+    },
+    {
+      "ar": "بِذِكْرِكَ",
+      "en": "by the praise"
+    },
+    {
+      "ar": "نَفْسَكَ",
+      "en": "Thyself"
+    },
+    {
+      "ar": "بِثَنائِكَ",
+      "en": "wherewith Thou praisest"
+    },
+    {
+      "ar": "ذاتَكَ",
+      "en": "Thine own Essence"
+    },
+    {
+      "ar": "تَجْعَلَنا",
+      "en": "that we may be numbered"
+    },
+    {
+      "ar": "اعْتَرَفُوا",
+      "en": "acknowledged"
+    },
+    {
+      "ar": "بِسُلْطانِكَ",
+      "en": "Thy sovereignty"
+    },
+    {
+      "ar": "أَشْرِبْنا",
+      "en": "to quaff"
+    },
+    {
+      "ar": "إِلهِي",
+      "en": "O my God"
+    },
+    {
+      "ar": "أَصابِعِ",
+      "en": "fingers"
+    },
+    {
+      "ar": "كَوْثَرَ",
+      "en": "the living waters"
+    },
+    {
+      "ar": "العِنَايَةِ",
+      "en": "Thy loving-kindness"
+    },
+    {
+      "ar": "يُغْفِلَنا",
+      "en": "forget"
+    },
+    {
+      "ar": "يُشْغِلَنَا",
+      "en": "be occupied"
+    },
+    {
+      "ar": "بِكَ",
+      "en": "with Thy Self"
+    },
+    {
+      "ar": "المُقْتَدِرُ",
+      "en": "Powerful"
+    },
+    {
+      "ar": "تَشَاءُ",
+      "en": "Thou willest"
+    },
+    {
+      "ar": "العَزِيزُ",
+      "en": "the Mighty"
+    },
+    {
+      "ar": "المُهَيْمِنُ",
+      "en": "the Help in Peril"
+    },
+    {
+      "ar": "الحَمْدُ",
+      "en": "glory"
+    }
+  ],
+  "terms": [
+    {
+      "term": "أَقَرُّوا",
+      "transliteration": "q-r-r",
+      "literal": "stability; firmness; establishment",
+      "se_rendering": "have recognized",
+      "note": "Root q-r-r typically rendered 'steadfast in faith' or 'established.' 'Have recognized' here emphasizes acknowledgment rather than stability.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 227,
+          "snippet": "ordained"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 13,
+          "snippet": "resting place"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 17,
+          "snippet": "determine"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 57,
+          "snippet": "established"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 155,
+          "snippet": "Peruse"
+        },
+        {
+          "work": "gleanings",
+          "para": 157,
+          "snippet": "acknowledged"
+        },
+        {
+          "work": "gleanings",
+          "para": 618,
+          "snippet": "Intone"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 15,
+          "snippet": "chant"
+        }
+      ]
+    },
+    {
+      "term": "أَصابِعِ",
+      "transliteration": "ṣ-b-ʿ",
+      "literal": "finger; digit",
+      "se_rendering": "fingers",
+      "note": "Rarest term in corpus (6 occurrences). SE renders 'fingers' here literally; Jafar shows 'Finger of Holiness' in other contexts, making this rendering restrained.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 79,
+          "snippet": "fingers"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 14,
+          "snippet": "finger"
+        },
+        {
+          "work": "gleanings",
+          "para": 586,
+          "snippet": "Finger of Holiness"
+        }
+      ]
+    },
+    {
+      "term": "كَوْثَرَ",
+      "transliteration": "k-w-th-r",
+      "literal": "abundance; river of paradise; the Kawthar",
+      "se_rendering": "living waters",
+      "note": "Qur'anic term for paradise river. SE renders 'living waters' rather than the more frequent 'Kawthar' transliteration, choosing English poetic idiom.",
+      "cross_refs": [
+        {
+          "work": "the-hidden-words",
+          "para": 113,
+          "snippet": "river of everlasting life"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 72,
+          "snippet": "Kawthar"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 65,
+          "snippet": "stream of pure water"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 239,
+          "snippet": "Kawthar of nearness"
+        }
+      ]
+    },
+    {
+      "term": "المُقْتَدِرُ",
+      "transliteration": "q-d-r",
+      "literal": "power; might; decree; measure; worth",
+      "se_rendering": "Powerful",
+      "note": "Root q-d-r spans 'power,' 'decree,' 'might.' SE chooses 'Powerful' emphasizing active agency rather than decrees.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 171,
+          "snippet": "a while"
+        },
+        {
+          "work": "gleanings",
+          "para": 138,
+          "snippet": "hath been decreed"
+        },
+        {
+          "work": "gleanings",
+          "para": 662,
+          "snippet": "hath decreed"
+        },
+        {
+          "work": "gleanings",
+          "para": 496,
+          "snippet": "forbearing towards"
+        },
+        {
+          "work": "gleanings",
+          "para": 111,
+          "snippet": "schools"
+        },
+        {
+          "work": "gleanings",
+          "para": 532,
+          "snippet": "can"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 4,
+          "snippet": "for a moment"
+        },
+        {
+          "work": "gleanings",
+          "para": 112,
+          "snippet": "Thy might"
+        }
+      ]
+    },
+    {
+      "term": "المُهَيْمِنُ",
+      "transliteration": "h-y-m",
+      "literal": "the Protector; the Overseer; the Guardian",
+      "se_rendering": "the Help in Peril",
+      "note": "Rare epithet (4 occurrences). SE renders 'the Help in Peril' here; Jafar shows 'the Protector' and 'the Guardian' elsewhere. Unique contextual choice.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 37,
+          "snippet": "the Help in Peril"
+        },
+        {
+          "work": "gleanings",
+          "para": 180,
+          "snippet": "the Protector"
+        },
+        {
+          "work": "gleanings",
+          "para": 300,
+          "snippet": "the Guardian"
+        },
+        {
+          "work": "gleanings",
+          "para": 610,
+          "snippet": "the Supreme Protector"
+        }
+      ]
+    },
+    {
+      "term": "القَيُّومُ",
+      "transliteration": "q-w-m",
+      "literal": "rising; standing; uprising; resurrection",
+      "se_rendering": "the Self-Subsisting",
+      "note": "One of highest-frequency terms (109 occ.) typically 'Resurrection' or 'arise.' Here rendered 'the Self-Subsisting,' the only substantive epithet application in Jafar data.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 152,
+          "snippet": "Day of Resurrection"
+        },
+        {
+          "work": "gleanings",
+          "para": 437,
+          "snippet": "arise"
+        },
+        {
+          "work": "gleanings",
+          "para": 513,
+          "snippet": "dedicateth"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 153,
+          "snippet": "Resurrection"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 74,
+          "snippet": "rise"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "peoples"
+        },
+        {
+          "work": "gleanings",
+          "para": 693,
+          "snippet": "commandments"
+        },
+        {
+          "work": "gleanings",
+          "para": 628,
+          "snippet": "My commandments"
+        }
+      ]
+    }
+  ],
+  "section_index": "XXVI.2",
+  "section": "XXVI",
+  "section_para": 2
 }

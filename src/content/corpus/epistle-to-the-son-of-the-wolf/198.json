@@ -1,10 +1,788 @@
 {
   "work": "Epistle to the Son of the Wolf",
   "slug": "epistle-to-the-son-of-the-wolf",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 198,
   "source_text": "انّا نذکر لک الامانة و مقامها عند اللّه ربّک ربّ العرش العظيم * انّا قصدنا يوما من الايّام جزيرتنا الخضراء و لمّا وردنا رأينا انهارها جارية و اشجارها ملتفّة و کانت الشّمس تلعب فی خلال الاشجار * اذا توجّهنا الی اليمين رأينا ما لا يتحرّک القلم علی ذکره و ذکر ما شهدت عين مولی الوری فی ذاک المقام الالطف الاشرف المبارک الاعلی * ثمّ اقبلنا الی اليسار شاهدنا طلعة من طلعات الفردوس الاعلی قائمة علی عمود من النّور و نادت باعلی النّداء : يا ملأ الارض و السّماء انظروا جمالی و نوری و ظهوری و اشراقی تاللّه الحقّ انا الامانة و ظهورها و حسنها و اجرٌ لمن تمسّک بها و عرف شانها و مقامها و تشبّث بذيلها * انا الزّينة الکبری لاهل البهاء و طراز العزّ لمن فی ملکوت الانشاء و أنا السّبب الاعظم لثروة العالم و افق الاطمئنان لاهل الامکان * کذلک انزلنا لک ما يقرّب العباد الی مالک الايجاد *",
   "translation": "\"We will now mention unto thee Trustworthiness and the station thereof in the estimation of God, thy Lord, the Lord of the Mighty Throne. One day of days We repaired unto Our Green Island. Upon Our arrival, We beheld its streams flowing, and its trees luxuriant, and the sunlight playing in their midst. Turning Our face to the right, We beheld what the pen is powerless to describe; nor can it set forth that which the eye of the Lord of Mankind witnessed in that most sanctified, that most sublime, that blest, and most exalted Spot. Turning, then, to the left We gazed on one of the Beauties of the Most Sublime Paradise, standing on a pillar of light, and calling aloud saying: \\‘O inmates of earth and heaven! Behold ye My beauty, and My radiance, and My revelation, and My effulgence. By God, the True One! I am Trustworthiness and the revelation thereof, and the beauty thereof. I will recompense whosoever will cleave unto Me, and recognize My rank and station, and hold fast unto My hem. I am the most great ornament of the people of Bahá, and the vesture of glory unto all who are in the kingdom of creation. I am the supreme instrument for the prosperity of the world, and the horizon of assurance unto all beings.' Thus have We sent down for thee that which will draw men nigh unto the Lord of creation.\"",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "trustworthiness-green-island-beauty",
+  "alignment": [
+    {
+      "ar": "نذکر",
+      "en": "mention"
+    },
+    {
+      "ar": "لک",
+      "en": "unto thee"
+    },
+    {
+      "ar": "الامانة",
+      "en": "Trustworthiness"
+    },
+    {
+      "ar": "مقامها",
+      "en": "station thereof"
+    },
+    {
+      "ar": "عند",
+      "en": "in the estimation of"
+    },
+    {
+      "ar": "اللّه",
+      "en": "God"
+    },
+    {
+      "ar": "ربّک",
+      "en": "thy Lord"
+    },
+    {
+      "ar": "ربّ",
+      "en": "the Lord of"
+    },
+    {
+      "ar": "العرش",
+      "en": "Throne"
+    },
+    {
+      "ar": "العظيم",
+      "en": "Mighty"
+    },
+    {
+      "ar": "قصدنا",
+      "en": "repaired"
+    },
+    {
+      "ar": "يوما",
+      "en": "One day"
+    },
+    {
+      "ar": "من الايّام",
+      "en": "of days"
+    },
+    {
+      "ar": "جزيرتنا",
+      "en": "Our"
+    },
+    {
+      "ar": "الخضراء",
+      "en": "Green Island"
+    },
+    {
+      "ar": "وردنا",
+      "en": "Our arrival"
+    },
+    {
+      "ar": "رأينا",
+      "en": "We beheld"
+    },
+    {
+      "ar": "انهارها",
+      "en": "its streams"
+    },
+    {
+      "ar": "جارية",
+      "en": "flowing"
+    },
+    {
+      "ar": "اشجارها",
+      "en": "its trees"
+    },
+    {
+      "ar": "ملتفّة",
+      "en": "luxuriant"
+    },
+    {
+      "ar": "کانت",
+      "en": "and"
+    },
+    {
+      "ar": "الشّمس",
+      "en": "the sunlight"
+    },
+    {
+      "ar": "تلعب",
+      "en": "playing"
+    },
+    {
+      "ar": "خلال",
+      "en": "in their midst"
+    },
+    {
+      "ar": "توجّهنا",
+      "en": "Turning Our face"
+    },
+    {
+      "ar": "الی اليمين",
+      "en": "to the right"
+    },
+    {
+      "ar": "لا يتحرّک",
+      "en": "is powerless"
+    },
+    {
+      "ar": "القلم",
+      "en": "the pen"
+    },
+    {
+      "ar": "ذکره",
+      "en": "to describe"
+    },
+    {
+      "ar": "ذکر",
+      "en": "set forth"
+    },
+    {
+      "ar": "ما",
+      "en": "that which"
+    },
+    {
+      "ar": "شهدت",
+      "en": "witnessed"
+    },
+    {
+      "ar": "عين",
+      "en": "the eye of"
+    },
+    {
+      "ar": "مولی الوری",
+      "en": "the Lord of Mankind"
+    },
+    {
+      "ar": "ذاک",
+      "en": "that"
+    },
+    {
+      "ar": "المقام",
+      "en": "Spot"
+    },
+    {
+      "ar": "الالطف",
+      "en": "most sanctified"
+    },
+    {
+      "ar": "الاشرف",
+      "en": "most sublime"
+    },
+    {
+      "ar": "المبارک",
+      "en": "blest"
+    },
+    {
+      "ar": "الاعلی",
+      "en": "most exalted"
+    },
+    {
+      "ar": "اقبلنا",
+      "en": "Turning"
+    },
+    {
+      "ar": "الی اليسار",
+      "en": "to the left"
+    },
+    {
+      "ar": "شاهدنا",
+      "en": "We gazed on"
+    },
+    {
+      "ar": "طلعة",
+      "en": "one of the Beauties"
+    },
+    {
+      "ar": "من طلعات",
+      "en": "of"
+    },
+    {
+      "ar": "الفردوس",
+      "en": "Paradise"
+    },
+    {
+      "ar": "الاعلی",
+      "en": "Most Sublime"
+    },
+    {
+      "ar": "قائمة",
+      "en": "standing"
+    },
+    {
+      "ar": "علی",
+      "en": "on"
+    },
+    {
+      "ar": "عمود",
+      "en": "a pillar"
+    },
+    {
+      "ar": "من النّور",
+      "en": "of light"
+    },
+    {
+      "ar": "نادت",
+      "en": "calling aloud"
+    },
+    {
+      "ar": "باعلی",
+      "en": "aloud"
+    },
+    {
+      "ar": "النّداء",
+      "en": "saying"
+    },
+    {
+      "ar": "ملأ",
+      "en": "inmates"
+    },
+    {
+      "ar": "الارض",
+      "en": "earth"
+    },
+    {
+      "ar": "و السّماء",
+      "en": "and heaven"
+    },
+    {
+      "ar": "انظروا",
+      "en": "Behold ye"
+    },
+    {
+      "ar": "جمالی",
+      "en": "My beauty"
+    },
+    {
+      "ar": "و نوری",
+      "en": "and My radiance"
+    },
+    {
+      "ar": "و ظهوری",
+      "en": "and My revelation"
+    },
+    {
+      "ar": "و اشراقی",
+      "en": "and My effulgence"
+    },
+    {
+      "ar": "تاللّه",
+      "en": "By God"
+    },
+    {
+      "ar": "الحقّ",
+      "en": "the True One"
+    },
+    {
+      "ar": "انا الامانة",
+      "en": "I am Trustworthiness"
+    },
+    {
+      "ar": "و ظهورها",
+      "en": "and the revelation thereof"
+    },
+    {
+      "ar": "و حسنها",
+      "en": "and the beauty thereof"
+    },
+    {
+      "ar": "اجرٌ",
+      "en": "I will recompense"
+    },
+    {
+      "ar": "لمن",
+      "en": "whosoever"
+    },
+    {
+      "ar": "تمسّک",
+      "en": "will cleave"
+    },
+    {
+      "ar": "بها",
+      "en": "unto Me"
+    },
+    {
+      "ar": "عرف",
+      "en": "recognize"
+    },
+    {
+      "ar": "شانها",
+      "en": "My rank"
+    },
+    {
+      "ar": "و مقامها",
+      "en": "and station"
+    },
+    {
+      "ar": "تشبّث",
+      "en": "hold fast"
+    },
+    {
+      "ar": "بذيلها",
+      "en": "unto My hem"
+    },
+    {
+      "ar": "الزّينة",
+      "en": "ornament"
+    },
+    {
+      "ar": "الکبری",
+      "en": "most great"
+    },
+    {
+      "ar": "لاهل",
+      "en": "of the people of"
+    },
+    {
+      "ar": "البهاء",
+      "en": "Bahá"
+    },
+    {
+      "ar": "طراز",
+      "en": "the vesture"
+    },
+    {
+      "ar": "العزّ",
+      "en": "of glory"
+    },
+    {
+      "ar": "لمن",
+      "en": "unto all who are"
+    },
+    {
+      "ar": "فی",
+      "en": "in"
+    },
+    {
+      "ar": "ملکوت",
+      "en": "the kingdom"
+    },
+    {
+      "ar": "الانشاء",
+      "en": "of creation"
+    },
+    {
+      "ar": "السّبب",
+      "en": "instrument"
+    },
+    {
+      "ar": "الاعظم",
+      "en": "the supreme"
+    },
+    {
+      "ar": "لثروة",
+      "en": "for the prosperity"
+    },
+    {
+      "ar": "العالم",
+      "en": "of the world"
+    },
+    {
+      "ar": "افق",
+      "en": "the horizon"
+    },
+    {
+      "ar": "الاطمئنان",
+      "en": "of assurance"
+    },
+    {
+      "ar": "لاهل",
+      "en": "unto all"
+    },
+    {
+      "ar": "الامکان",
+      "en": "beings"
+    },
+    {
+      "ar": "کذلک",
+      "en": "Thus"
+    },
+    {
+      "ar": "انزلنا",
+      "en": "have We sent down"
+    },
+    {
+      "ar": "لک",
+      "en": "for thee"
+    },
+    {
+      "ar": "يقرّب",
+      "en": "will draw"
+    },
+    {
+      "ar": "العباد",
+      "en": "men"
+    },
+    {
+      "ar": "الی",
+      "en": "nigh unto"
+    },
+    {
+      "ar": "الايجاد",
+      "en": "creation"
+    }
+  ],
+  "terms": [
+    {
+      "term": "الامانة",
+      "transliteration": "ʾ-m-n",
+      "literal": "to believe; to have faith; to be secure",
+      "se_rendering": "Trustworthiness",
+      "note": "Typically rendered as 'Trustworthiness' in Bahá'í texts. Here SE consistently maintains this primary rendering as the central spiritual principle being described and personified.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 585,
+          "snippet": "have believed"
+        },
+        {
+          "work": "gleanings",
+          "para": 268,
+          "snippet": "believe"
+        },
+        {
+          "work": "gleanings",
+          "para": 251,
+          "snippet": "believed"
+        },
+        {
+          "work": "gleanings",
+          "para": 404,
+          "snippet": "belief"
+        },
+        {
+          "work": "gleanings",
+          "para": 416,
+          "snippet": "faith"
+        },
+        {
+          "work": "gleanings",
+          "para": 671,
+          "snippet": "believer"
+        },
+        {
+          "work": "gleanings",
+          "para": 266,
+          "snippet": "a trust"
+        },
+        {
+          "work": "gleanings",
+          "para": 42,
+          "snippet": "people of faith"
+        }
+      ]
+    },
+    {
+      "term": "مقامها",
+      "transliteration": "q-w-m",
+      "literal": "rising; standing; uprising; resurrection",
+      "se_rendering": "station",
+      "note": "Root ق-و-م usually renders as 'Resurrection' or 'Day of Resurrection' (109 occurrences). Here SE uses 'station' twice, uniquely departing from eschatological language to denote rank and standing.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 152,
+          "snippet": "Day of Resurrection"
+        },
+        {
+          "work": "gleanings",
+          "para": 437,
+          "snippet": "arise"
+        },
+        {
+          "work": "gleanings",
+          "para": 513,
+          "snippet": "dedicateth"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 153,
+          "snippet": "Resurrection"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "peoples"
+        },
+        {
+          "work": "gleanings",
+          "para": 693,
+          "snippet": "commandments"
+        },
+        {
+          "work": "gleanings",
+          "para": 628,
+          "snippet": "My commandments"
+        },
+        {
+          "work": "gleanings",
+          "para": 518,
+          "snippet": "steadfast"
+        }
+      ]
+    },
+    {
+      "term": "النّور",
+      "transliteration": "n-w-r",
+      "literal": "light; illumination",
+      "se_rendering": "light",
+      "note": "Consistently 'light' across 78 occurrences. SE preserves this standard rendering 'pillar of light,' maintaining the foundational metaphor of illumination in divine description.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 583,
+          "snippet": "light"
+        },
+        {
+          "work": "gleanings",
+          "para": 230,
+          "snippet": "Orb of Light"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 114,
+          "snippet": "with the light"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 109,
+          "snippet": "Thy light"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 246,
+          "snippet": "Illumine"
+        },
+        {
+          "work": "gleanings",
+          "para": 235,
+          "snippet": "glory"
+        },
+        {
+          "work": "gleanings",
+          "para": 597,
+          "snippet": "fire"
+        },
+        {
+          "work": "gleanings",
+          "para": 458,
+          "snippet": "fire of God"
+        }
+      ]
+    },
+    {
+      "term": "جمالی",
+      "transliteration": "j-m-l",
+      "literal": "beauty; comeliness",
+      "se_rendering": "beauty",
+      "note": "Usually 'Beauty' or 'beauty' (38 occurrences). SE maintains lowercase 'beauty' in the possessive 'My beauty,' treating it as attribute rather than proper name despite its sacred context.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 296,
+          "snippet": "Beauty"
+        },
+        {
+          "work": "gleanings",
+          "para": 183,
+          "snippet": "Ancient Beauty"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 67,
+          "snippet": "Among"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 208,
+          "snippet": "Among the sciences"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 268,
+          "snippet": "Among them"
+        },
+        {
+          "work": "gleanings",
+          "para": 359,
+          "snippet": "Amongst"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 118,
+          "snippet": "following"
+        },
+        {
+          "work": "gleanings",
+          "para": 649,
+          "snippet": "by the beauty"
+        }
+      ]
+    },
+    {
+      "term": "ظهوری",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; revelation",
+      "se_rendering": "revelation",
+      "note": "Usually 'Manifestation' across 96 occurrences. SE renders as 'revelation' here, choosing a more general term that emphasizes disclosure rather than the specific theological concept of the Manifestation of God.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 101,
+          "snippet": "Manifestation"
+        },
+        {
+          "work": "gleanings",
+          "para": 409,
+          "snippet": "Revelation"
+        }
+      ]
+    },
+    {
+      "term": "اشراقی",
+      "transliteration": "sh-r-q",
+      "literal": "radiance; splendor; dawn; illumination",
+      "se_rendering": "effulgence",
+      "note": "Typically 'radiance' or 'Ishraq' (63 occurrences). SE renders as 'effulgence' here, employing a more archaic English term that conveys radiating brilliance with greater majesty and formality.",
+      "cross_refs": [
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 28,
+          "snippet": "radiance"
+        },
+        {
+          "work": "gleanings",
+          "para": 382,
+          "snippet": "revelation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 83,
+          "snippet": "Daystar"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 41,
+          "snippet": "dawning"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 2,
+          "snippet": "shining"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 14,
+          "snippet": "Dawning Place"
+        },
+        {
+          "work": "gleanings",
+          "para": 126,
+          "snippet": "Dayspring"
+        },
+        {
+          "work": "gleanings",
+          "para": 605,
+          "snippet": "Manifestation"
+        }
+      ]
+    },
+    {
+      "term": "العزّ",
+      "transliteration": "ʿ-z-z",
+      "literal": "glory; might; honor; dignity; power; majesty",
+      "se_rendering": "glory",
+      "note": "Typically 'glory' or 'honor' (49 occurrences). SE renders as 'glory' here in 'vesture of glory,' aligning with the most frequent rendering while expressing dignity and majesty.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 185,
+          "snippet": "glory"
+        },
+        {
+          "work": "gleanings",
+          "para": 642,
+          "snippet": "honor"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 491,
+          "snippet": "exalted"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 99,
+          "snippet": "Dear"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 38,
+          "snippet": "dearly beloved"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 37,
+          "snippet": "Gracious"
+        },
+        {
+          "work": "gleanings",
+          "para": 260,
+          "snippet": "All-Glorious"
+        },
+        {
+          "work": "gleanings",
+          "para": 660,
+          "snippet": "powerful"
+        }
+      ]
+    },
+    {
+      "term": "انزلنا",
+      "transliteration": "n-z-l",
+      "literal": "to descend, to be revealed",
+      "se_rendering": "sent down",
+      "note": "Usually 'sent down' or 'revealed' (88 occurrences). SE renders as 'sent down' here, preserving the quranic idiom of revelation descending from divine realms to create access.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 643,
+          "snippet": "sent down"
+        },
+        {
+          "work": "gleanings",
+          "para": 218,
+          "snippet": "revealed"
+        },
+        {
+          "work": "gleanings",
+          "para": 656,
+          "snippet": "descended"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 175,
+          "snippet": "didst send down"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 34,
+          "snippet": "Descend"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 47,
+          "snippet": "pour forth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 330,
+          "snippet": "send down"
+        },
+        {
+          "work": "gleanings",
+          "para": 604,
+          "snippet": "have been sent down"
+        }
+      ]
+    }
+  ],
+  "section_index": "198",
+  "section": "198",
+  "section_para": 1
 }

@@ -1,10 +1,504 @@
 {
   "work": "Kitab-i-Iqan",
   "slug": "kitab-i-iqan",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 90,
   "source_text": "سبحان اللّه،  با وجود اقرار به اين حديث، علمائی که در مسائل شرعيّه هنوز در ظنّ و شکّ اند چگونه در غوامض مسائل اصول الهيّه و جواهر اسرار کلمات قدسيّه اظهار علم می نمايند و می گويند فلان حديث که از علائم ظهور قائم است هنوز ظاهر نشده با اينکه رائحه معانی احاديث را ابداً ادراک ننمودهاند و غافل از اينکه جميع علامات ظاهر شد و صراط امر کشيده گشت و المُؤمِنُونَ  کَالبَرقِ عَلَيه يَمرُّون و هُم لِظُهُورِ العلامَةِ يَنتَظِرون، قُلْ يا مَلأ الجُهّالِ فَانتَظِرُوا کما کانَ الّذينَ مِنْ قَبلِکُم لَمِنَ المُنتَظرينَ.",
   "translation": "Great God! Notwithstanding their acceptance of the truth of this tradition, these divines who are still doubtful of, and dispute about, the theological obscurities of their faith, yet claim to be the exponents of the subtleties of the law of God, and the expounders of the essential mysteries of His holy Word. They confidently assert that such traditions as indicate the advent of the expected Qá’im have not yet been fulfilled, whilst they themselves have failed to inhale the fragrance of the meaning of these traditions, and are still oblivious of the fact that all the signs foretold have come to pass, that the way of God’s holy Cause hath been revealed, and the concourse of the faithful, swift as lightning, are, even now, passing upon that way, whilst these foolish divines wait expecting to witness the signs foretold. Say, O ye foolish ones! Wait ye even as those before you are waiting!",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "faithful-swift-as-lightning",
+  "alignment": [
+    {
+      "ar": "سبحان",
+      "en": "Great"
+    },
+    {
+      "ar": "اللّه",
+      "en": "God"
+    },
+    {
+      "ar": "وجود",
+      "en": "Notwithstanding"
+    },
+    {
+      "ar": "اقرار",
+      "en": "acceptance"
+    },
+    {
+      "ar": "اين",
+      "en": "this"
+    },
+    {
+      "ar": "حديث",
+      "en": "tradition"
+    },
+    {
+      "ar": "علمائی",
+      "en": "divines"
+    },
+    {
+      "ar": "مسائل",
+      "en": "obscurities"
+    },
+    {
+      "ar": "شرعيّه",
+      "en": "theological"
+    },
+    {
+      "ar": "هنوز",
+      "en": "still"
+    },
+    {
+      "ar": "ظنّ",
+      "en": "doubtful"
+    },
+    {
+      "ar": "شکّ",
+      "en": "dispute"
+    },
+    {
+      "ar": "غوامض",
+      "en": "subtleties"
+    },
+    {
+      "ar": "اصول الهيّه",
+      "en": "law of God"
+    },
+    {
+      "ar": "جواهر",
+      "en": "essential"
+    },
+    {
+      "ar": "اسرار",
+      "en": "mysteries"
+    },
+    {
+      "ar": "کلمات",
+      "en": "Word"
+    },
+    {
+      "ar": "قدسيّه",
+      "en": "holy"
+    },
+    {
+      "ar": "اظهار علم",
+      "en": "exponents"
+    },
+    {
+      "ar": "می نمايند",
+      "en": "claim"
+    },
+    {
+      "ar": "می گويند",
+      "en": "assert"
+    },
+    {
+      "ar": "فلان",
+      "en": "such"
+    },
+    {
+      "ar": "حديث",
+      "en": "traditions"
+    },
+    {
+      "ar": "علائم",
+      "en": "signs"
+    },
+    {
+      "ar": "ظهور",
+      "en": "advent"
+    },
+    {
+      "ar": "ظاهر نشده",
+      "en": "not yet been fulfilled"
+    },
+    {
+      "ar": "رائحه",
+      "en": "fragrance"
+    },
+    {
+      "ar": "معانی",
+      "en": "meaning"
+    },
+    {
+      "ar": "احاديث",
+      "en": "these traditions"
+    },
+    {
+      "ar": "ادراک ننمودهاند",
+      "en": "failed to inhale"
+    },
+    {
+      "ar": "غافل",
+      "en": "oblivious"
+    },
+    {
+      "ar": "جميع",
+      "en": "all"
+    },
+    {
+      "ar": "علامات",
+      "en": "the signs foretold"
+    },
+    {
+      "ar": "ظاهر شد",
+      "en": "have come to pass"
+    },
+    {
+      "ar": "صراط",
+      "en": "way"
+    },
+    {
+      "ar": "امر",
+      "en": "Cause"
+    },
+    {
+      "ar": "کشيده گشت",
+      "en": "hath been revealed"
+    },
+    {
+      "ar": "المُؤمِنُونَ",
+      "en": "the faithful"
+    },
+    {
+      "ar": "کَالبَرقِ",
+      "en": "swift as lightning"
+    },
+    {
+      "ar": "عَلَيه",
+      "en": "upon that way"
+    },
+    {
+      "ar": "هُم",
+      "en": "these"
+    },
+    {
+      "ar": "يَنتَظِرون",
+      "en": "wait expecting"
+    },
+    {
+      "ar": "قُلْ",
+      "en": "Say"
+    },
+    {
+      "ar": "مَلأ",
+      "en": "ones"
+    },
+    {
+      "ar": "الجُهّالِ",
+      "en": "foolish"
+    },
+    {
+      "ar": "فَانتَظِرُوا",
+      "en": "Wait"
+    },
+    {
+      "ar": "الّذينَ مِنْ قَبلِکُم",
+      "en": "those before you"
+    },
+    {
+      "ar": "المُنتَظرينَ",
+      "en": "waiting"
+    }
+  ],
+  "terms": [
+    {
+      "term": "علمائی",
+      "transliteration": "ʿ-l-m",
+      "literal": "world; universe; the worlds",
+      "se_rendering": "divines",
+      "note": "Typically rendered 'world' or 'knowledge' across 141 occurrences. Here as 'divines' — a context-specific noun denoting the religious scholars being addressed, departing from SE's usual pattern.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 198,
+          "snippet": "world"
+        },
+        {
+          "work": "gleanings",
+          "para": 657,
+          "snippet": "all worlds"
+        },
+        {
+          "work": "gleanings",
+          "para": 182,
+          "snippet": "mankind"
+        },
+        {
+          "work": "gleanings",
+          "para": 183,
+          "snippet": "the whole world"
+        },
+        {
+          "work": "gleanings",
+          "para": 226,
+          "snippet": "all earthly defilements"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 28,
+          "snippet": "knowledge"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 42,
+          "snippet": "banner"
+        },
+        {
+          "work": "gleanings",
+          "para": 38,
+          "snippet": "understanding"
+        }
+      ]
+    },
+    {
+      "term": "اسرار",
+      "transliteration": "s-r-r",
+      "literal": "throne; couch; seat of authority",
+      "se_rendering": "mysteries",
+      "note": "Usually 'mystery' or 'Secret' (40 occ). 'Mysteries' here preserves the plural mystical sense while maintaining SE's reverent tone toward divine knowledge.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 185,
+          "snippet": "lamp"
+        },
+        {
+          "work": "tablet-of-carmel",
+          "para": 2,
+          "snippet": "joy"
+        },
+        {
+          "work": "gleanings",
+          "para": 218,
+          "snippet": "mystery"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 831,
+          "snippet": "Secret"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 37,
+          "snippet": "in the gladness"
+        },
+        {
+          "work": "gleanings",
+          "para": 727,
+          "snippet": "gladness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 8,
+          "snippet": "by the mysteries"
+        },
+        {
+          "work": "gleanings",
+          "para": 318,
+          "snippet": "mysteries"
+        }
+      ]
+    },
+    {
+      "term": "اظهار",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "exponents",
+      "note": "Usually 'Manifestation' or 'manifestation' (96 occ). Here 'exponents' — SE renders the verbal noun as a relational noun, capturing the scholars' claimed role rather than mystical appearance.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 53,
+          "snippet": "Manifestation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 160,
+          "snippet": "Author of all Manifestations"
+        },
+        {
+          "work": "gleanings",
+          "para": 222,
+          "snippet": "material"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 206,
+          "snippet": "appeared"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 255,
+          "snippet": "Manifestations"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 791,
+          "snippet": "tokens of Thy handiwork"
+        }
+      ]
+    },
+    {
+      "term": "امر",
+      "transliteration": "ʾ-m-r",
+      "literal": "command; cause; matter; affair",
+      "se_rendering": "Cause",
+      "note": "Standard renderings include 'Cause' and 'Revelation' (75 occ). 'Cause' here maintains SE's theological terminology for the divine purpose and mission of the Manifestation.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "His Cause"
+        },
+        {
+          "work": "gleanings",
+          "para": 586,
+          "snippet": "His command"
+        },
+        {
+          "work": "gleanings",
+          "para": 691,
+          "snippet": "His Revelation"
+        },
+        {
+          "work": "gleanings",
+          "para": 723,
+          "snippet": "Cause"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 797,
+          "snippet": "Thy Cause"
+        },
+        {
+          "work": "gleanings",
+          "para": 8,
+          "snippet": "Revelation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 597,
+          "snippet": "service"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 167,
+          "snippet": "things"
+        }
+      ]
+    },
+    {
+      "term": "المؤمنون",
+      "transliteration": "ʾ-m-n",
+      "literal": "to believe; to have faith; to be secure",
+      "se_rendering": "concourse of the faithful",
+      "note": "Typically 'believed' or 'believe' (62 occ). 'Concourse of the faithful' here renders the noun substantive as a collective body, emphasizing communal faith rather than individual belief.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 585,
+          "snippet": "believed"
+        },
+        {
+          "work": "gleanings",
+          "para": 268,
+          "snippet": "believe"
+        },
+        {
+          "work": "gleanings",
+          "para": 251,
+          "snippet": "have believed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 108,
+          "snippet": "sent Moses with Our signs"
+        },
+        {
+          "work": "gleanings",
+          "para": 260,
+          "snippet": "I truly believe"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 12,
+          "snippet": "trusted servants"
+        },
+        {
+          "work": "gleanings",
+          "para": 496,
+          "snippet": "trustworthy ones of God among His servants"
+        },
+        {
+          "work": "gleanings",
+          "para": 621,
+          "snippet": "trustees"
+        }
+      ]
+    },
+    {
+      "term": "الجهال",
+      "transliteration": "j-h-l",
+      "literal": "ignorant; foolish; the ignorant ones",
+      "se_rendering": "foolish ones",
+      "note": "Standard 'foolish' or 'ignorant ones' (22 occ). 'Foolish ones' here maintains SE's deliberate address to the unlearned, consonant with his typical rendering pattern.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 221,
+          "snippet": "foolish"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 99,
+          "snippet": "FOOLISH, YET HAVE A NAME TO BE WISE"
+        },
+        {
+          "work": "gleanings",
+          "para": 237,
+          "snippet": "of those who are ignorant"
+        },
+        {
+          "work": "gleanings",
+          "para": 543,
+          "snippet": "among the foolish"
+        },
+        {
+          "work": "gleanings",
+          "para": 719,
+          "snippet": "fool"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 7,
+          "snippet": "ignorance"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 5,
+          "snippet": "the ignorant"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 237,
+          "snippet": "fanaticism"
+        }
+      ]
+    }
+  ],
+  "section_index": "90",
+  "section": "90",
+  "section_para": 1
 }

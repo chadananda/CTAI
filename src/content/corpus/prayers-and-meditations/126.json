@@ -1,10 +1,83 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 126,
   "source_text": "إِنَّكَ أَنْتَ مَوْلَى العالَمِينَ وَأَرْحَمُ الرَّاحِمِينَ.",
   "translation": "Thou art the Lord of the worlds, and of all those who show mercy, art the Most Merciful.",
   "source_lang": "ar",
-  "score": 9.9
+  "score": 9.9,
+  "page_slug": "lord-of-the-worlds",
+  "alignment": [
+    {
+      "ar": "أَنْتَ",
+      "en": "art"
+    },
+    {
+      "ar": "مَوْلَى",
+      "en": "Lord"
+    },
+    {
+      "ar": "العالَمِينَ",
+      "en": "the worlds"
+    },
+    {
+      "ar": "أَرْحَمُ",
+      "en": "the Most Merciful"
+    }
+  ],
+  "terms": [
+    {
+      "term": "العالَمِينَ",
+      "transliteration": "ʿ-l-m",
+      "literal": "world; universe; the worlds",
+      "se_rendering": "the worlds",
+      "note": "Root ع-ل-م spans 141 occurrences with varied renderings: 'world', 'mankind', 'knowledge'. SE's 'the worlds' here maintains plurality, suggesting multiple orders of existence rather than singular creation.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 198,
+          "snippet": "world"
+        },
+        {
+          "work": "gleanings",
+          "para": 657,
+          "snippet": "all worlds"
+        },
+        {
+          "work": "gleanings",
+          "para": 182,
+          "snippet": "mankind"
+        },
+        {
+          "work": "gleanings",
+          "para": 183,
+          "snippet": "the whole world"
+        },
+        {
+          "work": "gleanings",
+          "para": 226,
+          "snippet": "all earthly defilements"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 28,
+          "snippet": "knowledge"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 122,
+          "snippet": "commentators"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 42,
+          "snippet": "banner"
+        }
+      ]
+    }
+  ],
+  "section_index": "XXXVI.5",
+  "section": "XXXVI",
+  "section_para": 5
 }

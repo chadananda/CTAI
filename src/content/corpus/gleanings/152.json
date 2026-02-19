@@ -1,10 +1,569 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 152,
   "source_text": "أعلاکم أسفلکم وأسفلکم أعلاکم\" و مضمون این فقره در اکثر کتب الهیّه و بیانات انبیا و اصفیا بوده براستی میگویم امر بشأنی عظیم است که پدر از پسر و پسر از پدر فرار مینماید در حضرت نوح و کنعان مشاهده کنید انشآءالله باید در این ایّام روحانی از نسایم سبحانی و فیوضات ربیع رحمانی محروم نمانید باسم معلوم منقطعًا عن العلوم برخیزید و ندا فرمائید قسم بآفتاب افق امر در آن حین فرات علوم الهیّه را از قلب جاری مشاهده نمائید و انوار حکمت ربّانیّه را بی‌پرده بیابید اگر حلاوت بیان رحمن را بیابی از جان",
   "translation": "Verily I say, such is the greatness of this Cause that the father flieth from his son, and the son flieth from his father. Call ye to mind the story of Noah and Canaan. God grant that, in these days of heavenly delight, ye may not deprive yourselves of the sweet savors of the All-Glorious God, and may partake, in this spiritual Springtime, of the outpourings of His grace. Arise in the name of Him Who is the Object of all knowledge, and, with absolute detachment from the learning of men, lift up your voices and proclaim His Cause. I swear by the Daystar of Divine Revelation! The very moment ye arise, ye will witness how a flood of Divine knowledge will gush out of your hearts, and will behold the wonders of His heavenly wisdom manifested in all their glory before you. Were ye to taste of the sweetness of the sayings of the All-Merciful, ye would unhesitatingly forsake your selves, and would lay down your lives for the Well-Beloved.",
   "source_lang": "ar",
-  "score": 9.7
+  "score": 9.7,
+  "page_slug": "father-flieth-from-son",
+  "alignment": [
+    {
+      "ar": "الهیّه",
+      "en": "Divine"
+    },
+    {
+      "ar": "براستی",
+      "en": "Verily"
+    },
+    {
+      "ar": "میگویم",
+      "en": "I say"
+    },
+    {
+      "ar": "امر",
+      "en": "Cause"
+    },
+    {
+      "ar": "بشأنی",
+      "en": "greatness"
+    },
+    {
+      "ar": "عظیم",
+      "en": "great"
+    },
+    {
+      "ar": "پدر",
+      "en": "father"
+    },
+    {
+      "ar": "پسر",
+      "en": "son"
+    },
+    {
+      "ar": "فرار",
+      "en": "flieth"
+    },
+    {
+      "ar": "نوح",
+      "en": "Noah"
+    },
+    {
+      "ar": "کنعان",
+      "en": "Canaan"
+    },
+    {
+      "ar": "مشاهده",
+      "en": "Call ye to mind"
+    },
+    {
+      "ar": "کنید",
+      "en": "mind"
+    },
+    {
+      "ar": "انشآءالله",
+      "en": "God grant"
+    },
+    {
+      "ar": "باید",
+      "en": "may"
+    },
+    {
+      "ar": "ایّام",
+      "en": "days"
+    },
+    {
+      "ar": "روحانی",
+      "en": "spiritual"
+    },
+    {
+      "ar": "نسایم",
+      "en": "sweet savors"
+    },
+    {
+      "ar": "سبحانی",
+      "en": "All-Glorious God"
+    },
+    {
+      "ar": "فیوضات",
+      "en": "outpourings"
+    },
+    {
+      "ar": "ربیع",
+      "en": "Springtime"
+    },
+    {
+      "ar": "رحمانی",
+      "en": "grace"
+    },
+    {
+      "ar": "محروم",
+      "en": "deprive"
+    },
+    {
+      "ar": "نمانید",
+      "en": "not"
+    },
+    {
+      "ar": "باسم",
+      "en": "in the name"
+    },
+    {
+      "ar": "معلوم",
+      "en": "Object of all knowledge"
+    },
+    {
+      "ar": "منقطعًا",
+      "en": "detachment"
+    },
+    {
+      "ar": "العلوم",
+      "en": "learning of men"
+    },
+    {
+      "ar": "برخیزید",
+      "en": "Arise"
+    },
+    {
+      "ar": "ندا",
+      "en": "lift up your voices"
+    },
+    {
+      "ar": "فرمائید",
+      "en": "proclaim"
+    },
+    {
+      "ar": "قسم",
+      "en": "I swear"
+    },
+    {
+      "ar": "بآفتاب",
+      "en": "by the Daystar"
+    },
+    {
+      "ar": "افق",
+      "en": "of"
+    },
+    {
+      "ar": "آن",
+      "en": "the"
+    },
+    {
+      "ar": "حین",
+      "en": "moment"
+    },
+    {
+      "ar": "فرات",
+      "en": "flood"
+    },
+    {
+      "ar": "علوم",
+      "en": "knowledge"
+    },
+    {
+      "ar": "قلب",
+      "en": "hearts"
+    },
+    {
+      "ar": "جاری",
+      "en": "gush out"
+    },
+    {
+      "ar": "مشاهده",
+      "en": "witness"
+    },
+    {
+      "ar": "نمائید",
+      "en": "behold"
+    },
+    {
+      "ar": "انوار",
+      "en": "wonders"
+    },
+    {
+      "ar": "حکمت",
+      "en": "wisdom"
+    },
+    {
+      "ar": "ربّانیّه",
+      "en": "heavenly"
+    },
+    {
+      "ar": "بی‌پرده",
+      "en": "manifested"
+    },
+    {
+      "ar": "بیابید",
+      "en": "before you"
+    },
+    {
+      "ar": "حلاوت",
+      "en": "sweetness"
+    },
+    {
+      "ar": "بیان",
+      "en": "sayings"
+    },
+    {
+      "ar": "رحمن",
+      "en": "All-Merciful"
+    },
+    {
+      "ar": "بیابی",
+      "en": "taste"
+    },
+    {
+      "ar": "جان",
+      "en": "lives"
+    }
+  ],
+  "terms": [
+    {
+      "term": "امر",
+      "transliteration": "ʾ-m-r",
+      "literal": "command; cause; matter; affair",
+      "se_rendering": "His Cause; Divine Revelation",
+      "note": "Core rendering: 'His Cause' or 'His Revelation' (75 occ.). Both appear here—'Cause' thematically, 'Revelation' in 'Daystar of Divine Revelation'—showing SE's deliberate oscillation between juridical and luminous registers.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "His Cause"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 797,
+          "snippet": "Thy Cause"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 597,
+          "snippet": "service"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 167,
+          "snippet": "things"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "commanded"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 236,
+          "snippet": "commissioned"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 785,
+          "snippet": "Thy Revelation"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 38,
+          "snippet": "for the protection of the Cause"
+        }
+      ]
+    },
+    {
+      "term": "مشاهده",
+      "transliteration": "sh-h-d",
+      "literal": "witnessed; observed; seen; evident; manifest",
+      "se_rendering": "witness; behold",
+      "note": "Frequent as 'manifest' or 'witness' (74 occ.). Here both: 'witness how' and 'behold'—dual form captures Persian root's blend of visual perception and testimonial immediacy.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 35,
+          "snippet": "evident"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 811,
+          "snippet": "I bear witness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 6,
+          "snippet": "I testify"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 138,
+          "snippet": "martyrdom"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 230,
+          "snippet": "God testifieth"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 57,
+          "snippet": "beheld"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 117,
+          "snippet": "testify"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 156,
+          "snippet": "bear witness"
+        }
+      ]
+    },
+    {
+      "term": "رحمانی",
+      "transliteration": "r-ḥ-m",
+      "literal": "merciful, compassionate; pertaining to divine mercy",
+      "se_rendering": "merciful; heavenly",
+      "note": "Typically 'Divine' or 'merciful' (70 occ.). Here oscillates: 'heavenly delight,' 'All-Glorious,' 'All-Merciful'—semantic range reflects Rahmanic mercy as celestial radiance, not abstract compassion.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 57,
+          "snippet": "Divine"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 89,
+          "snippet": "celestial melody"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 114,
+          "snippet": "spirit of mercy"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 220,
+          "snippet": "have mercy on them"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 546,
+          "snippet": "mercy"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 50,
+          "snippet": "the Compassionate"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 793,
+          "snippet": "have mercy upon them"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 47,
+          "snippet": "Thy mercy"
+        }
+      ]
+    },
+    {
+      "term": "معلوم",
+      "transliteration": "ʿ-l-m",
+      "literal": "world; universe; the worlds",
+      "se_rendering": "the Object of all knowledge",
+      "note": "Typically 'world' or 'knowledge' (141 occ.). Here 'the Object of all knowledge'—unique nominalization emphasizing divine knowledge as the locus of detachment, not mere worldly abstraction.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 28,
+          "snippet": "knowledge"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 122,
+          "snippet": "commentators"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 42,
+          "snippet": "banner"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 19,
+          "snippet": "understanding"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 205,
+          "snippet": "ancient Knowledge"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 65,
+          "snippet": "universe"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 4,
+          "snippet": "divine"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 199,
+          "snippet": "peoples of the world"
+        }
+      ]
+    },
+    {
+      "term": "منقطعًا",
+      "transliteration": "q-t-ʿ",
+      "literal": "to be severed; to be cut off; to detach oneself; to abstain",
+      "se_rendering": "absolute detachment",
+      "note": "Standard pattern: 'detached/severed.' Here 'absolute detachment'—intensified by 'absolutely,' foregrounding the radical cutting-off required for spiritual transformation.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 413,
+          "snippet": "detached themselves"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 427,
+          "snippet": "sundered"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 488,
+          "snippet": "have cut themselves off"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 11,
+          "snippet": "decisive"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 16,
+          "snippet": "detachment"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 276,
+          "snippet": "severed"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 340,
+          "snippet": "them that have rid themselves of all attachment"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 218,
+          "snippet": "renounced"
+        }
+      ]
+    },
+    {
+      "term": "قلب",
+      "transliteration": "q-l-b",
+      "literal": "heart; to turn; to overturn",
+      "se_rendering": "hearts",
+      "note": "Consistent 'hearts' throughout corpus (60 occ.). Maintained here; no deviation. Shows SE's firm anchoring of qalb as the inner locus of divine gnosis.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 187,
+          "snippet": "hearts"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 432,
+          "snippet": "their hearts"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 652,
+          "snippet": "heart"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 777,
+          "snippet": "commotion"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 13,
+          "snippet": "tumult"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 30,
+          "snippet": "thine heart"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 4,
+          "snippet": "with a pure heart"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 82,
+          "snippet": "with a sound heart"
+        }
+      ]
+    },
+    {
+      "term": "حکمت",
+      "transliteration": "h-k-m",
+      "literal": "government; rule; governance; wisdom",
+      "se_rendering": "wisdom",
+      "note": "Usually 'rule/government/mysteries' (69 occ.). Here uniquely 'wisdom'—emphasizes celestial order as intelligible rather than sovereign, aligning with the flood-of-knowledge metaphor.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-ahd",
+          "para": 6,
+          "snippet": "rule"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "government"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 849,
+          "snippet": "signs of Thy sovereignty"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 160,
+          "snippet": "meaning of return"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 182,
+          "snippet": "mystery of the former verse"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 129,
+          "snippet": "perspicuous verses"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 46,
+          "snippet": "conclusive"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 220,
+          "snippet": "impregnable stronghold"
+        }
+      ]
+    }
+  ],
+  "section_index": "XXXV.5",
+  "section": "XXXV",
+  "section_para": 5
 }

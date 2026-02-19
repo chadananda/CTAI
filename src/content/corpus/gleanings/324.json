@@ -1,10 +1,581 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 324,
   "source_text": "ملاحظه در نفس ناطقه که ودیعهٴ ربّانیّه است در انفس انسانیّه نمائید مثلاً در خود ملاحظه نما که حرکت و سکون و اراده و مشیّت و دون آن و فوق آن و هم‌چنین سمع و بصر و شمّ و نطق و مادون آن از حواسّ ظاهره و باطنه جمیع بوجود آن موجودند چنانچه اگر نسبت او از بدن اقلّ من آن مقطوع شود جمیع این حواسّ از آثار و افعال خود محجوب و ممنوع شوند و این بسی واضح و معلوم بوده که اثر جمیع این اسباب مذکوره منوط و مشروط بوجود نفس ناطقه که آیهٴ تجلّی سلطان احدیّه است بوده و خواهد بود چنانچه از ظهور او جمیع این اسماء و صفات ظاهر و از بطون آن جمیع",
   "translation": "Consider the rational faculty with which God hath endowed the essence of man. Examine thine own self, and behold how thy motion and stillness, thy will and purpose, thy sight and hearing, thy sense of smell and power of speech, and whatever else is related to, or transcendeth, thy physical senses or spiritual perceptions, all proceed from, and owe their existence to, this same faculty. So closely are they related unto it, that if in less than the twinkling of an eye its relationship to the human body be severed, each and every one of these senses will cease immediately to exercise its function, and will be deprived of the power to manifest the evidences of its activity. It is indubitably clear and evident that each of these aforementioned instruments has depended, and will ever continue to depend, for its proper functioning on this rational faculty, which should be regarded as a sign of the revelation of Him Who is the sovereign Lord of all. Through its manifestation all these names and attributes have been revealed, and by the suspension of its action they are all destroyed and perish.",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "rational-faculty-divine-revelation",
+  "alignment": [
+    {
+      "ar": "ملاحظه",
+      "en": "Consider"
+    },
+    {
+      "ar": "نفس ناطقه",
+      "en": "rational faculty"
+    },
+    {
+      "ar": "ودیعهٴ",
+      "en": "endowed"
+    },
+    {
+      "ar": "ربّانیّه",
+      "en": "God"
+    },
+    {
+      "ar": "انفس",
+      "en": "essence"
+    },
+    {
+      "ar": "انسانیّه",
+      "en": "man"
+    },
+    {
+      "ar": "ملاحظه",
+      "en": "Examine"
+    },
+    {
+      "ar": "خود",
+      "en": "thine own self"
+    },
+    {
+      "ar": "حرکت",
+      "en": "motion"
+    },
+    {
+      "ar": "سکون",
+      "en": "stillness"
+    },
+    {
+      "ar": "اراده",
+      "en": "will"
+    },
+    {
+      "ar": "مشیّت",
+      "en": "purpose"
+    },
+    {
+      "ar": "دون",
+      "en": "related to"
+    },
+    {
+      "ar": "فوق",
+      "en": "transcendeth"
+    },
+    {
+      "ar": "سمع",
+      "en": "hearing"
+    },
+    {
+      "ar": "بصر",
+      "en": "sight"
+    },
+    {
+      "ar": "شمّ",
+      "en": "sense of smell"
+    },
+    {
+      "ar": "نطق",
+      "en": "power of speech"
+    },
+    {
+      "ar": "مادون",
+      "en": "physical senses"
+    },
+    {
+      "ar": "حواسّ",
+      "en": "senses"
+    },
+    {
+      "ar": "ظاهره",
+      "en": "physical"
+    },
+    {
+      "ar": "باطنه",
+      "en": "spiritual perceptions"
+    },
+    {
+      "ar": "جمیع",
+      "en": "all"
+    },
+    {
+      "ar": "بوجود",
+      "en": "owe their existence to"
+    },
+    {
+      "ar": "آن",
+      "en": "this same faculty"
+    },
+    {
+      "ar": "نسبت",
+      "en": "relationship"
+    },
+    {
+      "ar": "بدن",
+      "en": "human body"
+    },
+    {
+      "ar": "اقلّ من آن",
+      "en": "less than the twinkling of an eye"
+    },
+    {
+      "ar": "مقطوع",
+      "en": "severed"
+    },
+    {
+      "ar": "حواسّ",
+      "en": "each and every one of these senses"
+    },
+    {
+      "ar": "آثار",
+      "en": "evidences"
+    },
+    {
+      "ar": "افعال",
+      "en": "activity"
+    },
+    {
+      "ar": "محجوب",
+      "en": "cease"
+    },
+    {
+      "ar": "ممنوع",
+      "en": "deprived"
+    },
+    {
+      "ar": "واضح",
+      "en": "clear"
+    },
+    {
+      "ar": "معلوم",
+      "en": "evident"
+    },
+    {
+      "ar": "اثر",
+      "en": "functioning"
+    },
+    {
+      "ar": "اسباب",
+      "en": "instruments"
+    },
+    {
+      "ar": "مذکوره",
+      "en": "aforementioned"
+    },
+    {
+      "ar": "منوط",
+      "en": "depended"
+    },
+    {
+      "ar": "مشروط",
+      "en": "continue to depend"
+    },
+    {
+      "ar": "آیهٴ",
+      "en": "sign"
+    },
+    {
+      "ar": "تجلّی",
+      "en": "revelation"
+    },
+    {
+      "ar": "سلطان",
+      "en": "sovereign Lord"
+    },
+    {
+      "ar": "ظهور",
+      "en": "manifestation"
+    },
+    {
+      "ar": "اسماء",
+      "en": "names"
+    },
+    {
+      "ar": "صفات",
+      "en": "attributes"
+    },
+    {
+      "ar": "ظاهر",
+      "en": "revealed"
+    },
+    {
+      "ar": "بطون",
+      "en": "suspension"
+    }
+  ],
+  "terms": [
+    {
+      "term": "ناطقه",
+      "transliteration": "n-t-q",
+      "literal": "to speak; to utter; to pronounce; to articulate",
+      "se_rendering": "rational faculty",
+      "note": "Typically 'spoke' or 'speaking' across 22 occurrences. 'Rational faculty' appears uniquely here—SE's most substantive rendering, capturing the faculty of articulate reason rather than mere speech.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 2,
+          "snippet": "spoke"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 719,
+          "snippet": "speaking"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 90,
+          "snippet": "utterance"
+        },
+        {
+          "work": "tablet-of-carmel",
+          "para": 5,
+          "snippet": "hath been moved to disclose"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 596,
+          "snippet": "uttered"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 626,
+          "snippet": "made me able so to reveal"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 137,
+          "snippet": "I have spoken, and still speak forth"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 9,
+          "snippet": "hath not spoken"
+        }
+      ]
+    },
+    {
+      "term": "ربّانیّه",
+      "transliteration": "r-b-b",
+      "literal": "divine; of God; lordly",
+      "se_rendering": "divine",
+      "note": "Usually 'Lord' or 'divine' across 31 occurrences. Here 'divine deposit' conveys lordly ownership/trust—emphasizing God's bestowal rather than abstract divinity.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 2,
+          "snippet": "Holy"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 45,
+          "snippet": "Lord"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 69,
+          "snippet": "lordship"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 201,
+          "snippet": "My Lord's"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 162,
+          "snippet": "Divine might"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 16,
+          "snippet": "divine knowledge"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 205,
+          "snippet": "divine wisdom"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 102,
+          "snippet": "thy Lord, the Lord of all mankind"
+        }
+      ]
+    },
+    {
+      "term": "ظاهره",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "physical",
+      "note": "Usually 'manifestation' or 'revealed' across 96 occurrences. 'Physical' here opts for categorical classification rather than revelatory language, separating bodily senses from spiritual perceptions.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 140,
+          "snippet": "manifestation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 160,
+          "snippet": "Author of all Manifestations"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 136,
+          "snippet": "evident"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 206,
+          "snippet": "appeared"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 196,
+          "snippet": "Manifestations of God"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 255,
+          "snippet": "Manifestations"
+        }
+      ]
+    },
+    {
+      "term": "باطنه",
+      "transliteration": "b-ṭ-n",
+      "literal": "inner; hidden; inward; esoteric",
+      "se_rendering": "spiritual",
+      "note": "Usually 'inner' or 'spiritual' across 13 occurrences. 'Spiritual perceptions' here explicitly opposes physical—SE renders the esoteric-exoteric duality through sensory categories rather than ontological layers.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 602,
+          "snippet": "Concealment"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 23,
+          "snippet": "inwardly"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 132,
+          "snippet": "spiritual"
+        }
+      ]
+    },
+    {
+      "term": "مقطوع",
+      "transliteration": "q-t-ʿ",
+      "literal": "to be severed; to be cut off; to detach oneself; to abstain",
+      "se_rendering": "severed",
+      "note": "Usually 'detached' or 'cut off' across 33 occurrences. 'Severed' here carries mechanical precision fitting the anatomical analogy of consciousness withdrawing from the body.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 413,
+          "snippet": "detached themselves"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 427,
+          "snippet": "sundered"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 488,
+          "snippet": "have cut themselves off"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 11,
+          "snippet": "decisive"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 16,
+          "snippet": "detachment"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 276,
+          "snippet": "severed"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 340,
+          "snippet": "them that have rid themselves of all attachment"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 218,
+          "snippet": "renounced"
+        }
+      ]
+    },
+    {
+      "term": "محجوب",
+      "transliteration": "ḥ-j-b",
+      "literal": "to veil oneself, to be veiled",
+      "se_rendering": "deprived",
+      "note": "Usually 'veiled' across 37 occurrences. 'Deprived' here shifts from metaphysical veiling to functional deprivation—emphasizing loss of capacity rather than obscuration.",
+      "cross_refs": [
+        {
+          "work": "the-hidden-words",
+          "para": 33,
+          "snippet": "veil thyself"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 234,
+          "snippet": "veiling yourselves"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 22,
+          "snippet": "veiled"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 533,
+          "snippet": "the veil"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 150,
+          "snippet": "the veil of heedlessness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 175,
+          "snippet": "veiled from"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 214,
+          "snippet": "deprived"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 858,
+          "snippet": "which come in between us"
+        }
+      ]
+    },
+    {
+      "term": "اسباب",
+      "transliteration": "s-b-b",
+      "literal": "cause; reason; means; instrument",
+      "se_rendering": "instruments",
+      "note": "Usually 'cause' or 'means' across 22 occurrences. 'Instruments' here particularizes to physical organs—reframing causes as dependent tools rather than abstract reasons.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 240,
+          "snippet": "instrument"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 14,
+          "snippet": "motive"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 15,
+          "snippet": "hindered"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 14,
+          "snippet": "cause"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 11,
+          "snippet": "by reason of"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 256,
+          "snippet": "because of"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 123,
+          "snippet": "to curse"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 124,
+          "snippet": "to blaspheme"
+        }
+      ]
+    },
+    {
+      "term": "سلطان",
+      "transliteration": "s-l-ṭ",
+      "literal": "dominion; authority; power; sovereignty; control",
+      "se_rendering": "sovereign Lord",
+      "note": "Usually 'sovereignty' or 'dominion' across 43 occurrences. 'Sovereign Lord' combines sovereignty with divine lordship, uniquely personalizing the metaphysical principle.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 118,
+          "snippet": "sovereignty"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 151,
+          "snippet": "dominion"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 1,
+          "snippet": "Thy sovereignty"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 184,
+          "snippet": "by Thy sovereignty"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 416,
+          "snippet": "Lord"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 13,
+          "snippet": "O King"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 242,
+          "snippet": "king"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 157,
+          "snippet": "the Sháh"
+        }
+      ]
+    }
+  ],
+  "section_index": "LXXXIII.1",
+  "section": "LXXXIII",
+  "section_para": 1
 }

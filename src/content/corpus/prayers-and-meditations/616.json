@@ -1,10 +1,181 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 616,
   "source_text": "وَسُلْطانُهُمْ وَإِنَّكَ أَنْتَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ.",
   "translation": "Thou art, truly, the Lord and King of all men, and art potent over all things.",
   "source_lang": "ar",
-  "score": 9.8
+  "score": 9.8,
+  "page_slug": "lord-king-all-men",
+  "alignment": [
+    {
+      "ar": "سُلْطانُهُمْ",
+      "en": "Lord and King"
+    },
+    {
+      "ar": "أَنْتَ",
+      "en": "art"
+    },
+    {
+      "ar": "شَيْءٍ",
+      "en": "things"
+    },
+    {
+      "ar": "قَدِيرٌ",
+      "en": "potent"
+    }
+  ],
+  "terms": [
+    {
+      "term": "وَسُلْطانُهُمْ",
+      "transliteration": "s-l-ṭ",
+      "literal": "dominion; authority; power; sovereignty; control",
+      "se_rendering": "Lord",
+      "note": "Root s-l-ṭ typically rendered 'sovereignty' or 'dominion' across 43 occurrences. Here SE renders the construct form as 'Lord'—a theological elevation that conflates authority with lordship rather than maintaining abstract sovereignty.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 369,
+          "snippet": "sovereignty"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 151,
+          "snippet": "dominion"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 13,
+          "snippet": "O King"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 157,
+          "snippet": "the Sháh"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 1,
+          "snippet": "the King"
+        },
+        {
+          "work": "gleanings",
+          "para": 472,
+          "snippet": "King (Sulṭán 'Abdu'l-'Azíz)"
+        },
+        {
+          "work": "gleanings",
+          "para": 236,
+          "snippet": "the Sulṭán"
+        },
+        {
+          "work": "gleanings",
+          "para": 592,
+          "snippet": "by virtue of His sovereignty"
+        }
+      ]
+    },
+    {
+      "term": "شَيْءٍ",
+      "transliteration": "sh-y-ʾ",
+      "literal": "thing; something",
+      "se_rendering": "things",
+      "note": "Root sh-y-ʾ typically rendered 'thing' or 'things' across 41 occurrences. 'All things' here uses the singular construct genitive form—standard rendering, maintaining universality without abstraction to 'nothingness'.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 708,
+          "snippet": "nothingness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 37,
+          "snippet": "something"
+        },
+        {
+          "work": "gleanings",
+          "para": 368,
+          "snippet": "thing"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 15,
+          "snippet": "earthly things"
+        },
+        {
+          "work": "gleanings",
+          "para": 153,
+          "snippet": "transitory things"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 35,
+          "snippet": "all things"
+        },
+        {
+          "work": "gleanings",
+          "para": 161,
+          "snippet": "created things"
+        },
+        {
+          "work": "gleanings",
+          "para": 154,
+          "snippet": "creation"
+        }
+      ]
+    },
+    {
+      "term": "قَدِيرٌ",
+      "transliteration": "q-d-r",
+      "literal": "power; might; decree; measure; worth",
+      "se_rendering": "potent",
+      "note": "Root q-d-r spans diverse renderings ('power', 'decree', 'forbearing towards') across 100 occurrences. 'Potent' is rare, choosing active efficacy over SE's more common 'power' or doctrinal 'decreed'.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 171,
+          "snippet": "a while"
+        },
+        {
+          "work": "gleanings",
+          "para": 138,
+          "snippet": "hath been decreed"
+        },
+        {
+          "work": "gleanings",
+          "para": 662,
+          "snippet": "hath decreed"
+        },
+        {
+          "work": "gleanings",
+          "para": 496,
+          "snippet": "forbearing towards"
+        },
+        {
+          "work": "gleanings",
+          "para": 111,
+          "snippet": "schools"
+        },
+        {
+          "work": "gleanings",
+          "para": 532,
+          "snippet": "can"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 4,
+          "snippet": "for a moment"
+        },
+        {
+          "work": "gleanings",
+          "para": 112,
+          "snippet": "Thy might"
+        }
+      ]
+    }
+  ],
+  "section_index": "CXLIV.4",
+  "section": "CXLIV",
+  "section_para": 4
 }

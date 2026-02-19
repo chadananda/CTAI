@@ -1,10 +1,483 @@
 {
   "work": "Epistle to the Son of the Wolf",
   "slug": "epistle-to-the-son-of-the-wolf",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 246,
   "source_text": "* و همچنين در مقام ديگر ميفرمايد [ اگر در اين حين ظاهر شود من اوّل عابدين و اوّل ساجدينم ] انتهی * يا قوم انصاف دهيد مقصود حضرت اعلی انکه قرب ظهور ناس را از شريعه باقيه الهيّه منع ننمايد چنانچه اصحاب يحيی را از اقرار بروح منع نمود * مکرّر فرموده و ميفرمايد [ بيان و انچه در او نازل شده شما را از ان ساذج وجود و مالک غيب و شهود منع ننمايد ] مع اين حکم محکم اگر کسی ببيان تمسّک نمايد از ظلّ سدره مبارکه عليا خارجست انصفوا يا قوم و لا تکونوا من الغافلين *",
   "translation": "In another connection He, likewise, saith: \"Were He to appear this very moment, I would be the first to adore Him, and the first to bow down before Him.\" Be fair, O people! The purpose of the Most Exalted One (the Báb) was to insure that the proximity of the Revelation should not withhold men from the Divine and everlasting Law, even as the companions of John (the Baptist) were prevented from acknowledging Him Who is the Spirit (Jesus). Time and again He hath said: \"Suffer not the Bayán and all that hath been revealed therein to withhold you from that Essence of Being and Lord of the visible and invisible.\" Should any one, considering this binding injunction, cling unto the Bayán, such a one hath, verily, passed out of the shadow of the blessed and exalted Tree. Be fair, O people, and be not of the heedless.",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "first-adore-bow-down",
+  "alignment": [
+    {
+      "ar": "همچنين",
+      "en": "likewise"
+    },
+    {
+      "ar": "مقام",
+      "en": "connection"
+    },
+    {
+      "ar": "ديگر",
+      "en": "another"
+    },
+    {
+      "ar": "ميفرمايد",
+      "en": "saith"
+    },
+    {
+      "ar": "اگر",
+      "en": "Were"
+    },
+    {
+      "ar": "در",
+      "en": "this"
+    },
+    {
+      "ar": "حين",
+      "en": "very moment"
+    },
+    {
+      "ar": "ظاهر",
+      "en": "appear"
+    },
+    {
+      "ar": "من",
+      "en": "I"
+    },
+    {
+      "ar": "اوّل",
+      "en": "first"
+    },
+    {
+      "ar": "عابدين",
+      "en": "to adore"
+    },
+    {
+      "ar": "اوّل ساجدين",
+      "en": "first to bow down"
+    },
+    {
+      "ar": "قوم",
+      "en": "people"
+    },
+    {
+      "ar": "انصاف",
+      "en": "Be fair"
+    },
+    {
+      "ar": "مقصود",
+      "en": "purpose"
+    },
+    {
+      "ar": "حضرت اعلی",
+      "en": "Most Exalted One"
+    },
+    {
+      "ar": "قرب",
+      "en": "proximity"
+    },
+    {
+      "ar": "ظهور",
+      "en": "Revelation"
+    },
+    {
+      "ar": "ناس",
+      "en": "men"
+    },
+    {
+      "ar": "شريعه",
+      "en": "Law"
+    },
+    {
+      "ar": "باقيه",
+      "en": "everlasting"
+    },
+    {
+      "ar": "الهيّه",
+      "en": "Divine"
+    },
+    {
+      "ar": "منع",
+      "en": "withhold"
+    },
+    {
+      "ar": "چنانچه",
+      "en": "even as"
+    },
+    {
+      "ar": "اصحاب",
+      "en": "companions"
+    },
+    {
+      "ar": "يحيی",
+      "en": "John"
+    },
+    {
+      "ar": "اقرار",
+      "en": "acknowledging"
+    },
+    {
+      "ar": "روح",
+      "en": "Spirit"
+    },
+    {
+      "ar": "نمود",
+      "en": "prevented"
+    },
+    {
+      "ar": "مکرّر",
+      "en": "Time and again"
+    },
+    {
+      "ar": "فرموده",
+      "en": "said"
+    },
+    {
+      "ar": "بيان",
+      "en": "Bayán"
+    },
+    {
+      "ar": "انچه",
+      "en": "all that"
+    },
+    {
+      "ar": "او",
+      "en": "therein"
+    },
+    {
+      "ar": "نازل",
+      "en": "revealed"
+    },
+    {
+      "ar": "شما",
+      "en": "you"
+    },
+    {
+      "ar": "ان",
+      "en": "that"
+    },
+    {
+      "ar": "ساذج",
+      "en": "Essence"
+    },
+    {
+      "ar": "وجود",
+      "en": "Being"
+    },
+    {
+      "ar": "مالک",
+      "en": "Lord"
+    },
+    {
+      "ar": "غيب",
+      "en": "invisible"
+    },
+    {
+      "ar": "شهود",
+      "en": "visible"
+    },
+    {
+      "ar": "مع",
+      "en": "considering"
+    },
+    {
+      "ar": "حکم",
+      "en": "injunction"
+    },
+    {
+      "ar": "محکم",
+      "en": "binding"
+    },
+    {
+      "ar": "کسی",
+      "en": "any one"
+    },
+    {
+      "ar": "تمسّک",
+      "en": "cling"
+    },
+    {
+      "ar": "ظلّ",
+      "en": "shadow"
+    },
+    {
+      "ar": "سدره",
+      "en": "Tree"
+    },
+    {
+      "ar": "مبارکه",
+      "en": "blessed"
+    },
+    {
+      "ar": "عليا",
+      "en": "exalted"
+    },
+    {
+      "ar": "خارجست",
+      "en": "passed out"
+    },
+    {
+      "ar": "يا قوم",
+      "en": "O people"
+    },
+    {
+      "ar": "لا تکونوا",
+      "en": "be not"
+    },
+    {
+      "ar": "من الغافلين",
+      "en": "of the heedless"
+    }
+  ],
+  "terms": [
+    {
+      "term": "ظاهر",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "appear",
+      "note": "Typically 'Manifestation' or 'manifestation' (96 occurrences). Here rendered 'appear'—a simpler, temporal verb form marking the hypothetical immediacy of the advent rather than ontological status.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 53,
+          "snippet": "Manifestation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 160,
+          "snippet": "Author of all Manifestations"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 136,
+          "snippet": "evident"
+        },
+        {
+          "work": "gleanings",
+          "para": 222,
+          "snippet": "material"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 196,
+          "snippet": "Manifestations of God"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 255,
+          "snippet": "Manifestations"
+        }
+      ]
+    },
+    {
+      "term": "بيان",
+      "transliteration": "b-y-n",
+      "literal": "to manifest; to make clear; clear, evident",
+      "se_rendering": "the Bayán",
+      "note": "Most frequently 'the Bayán' (proper noun, 87 occurrences) or abstract 'clear proofs'. Here retained as 'the Bayán'—SE preserves the technical Bahá'í term denoting the Báb's scriptural work without translation.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 223,
+          "snippet": "the Expounder, the Most Manifest"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 231,
+          "snippet": "clear verses"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 3,
+          "snippet": "proofs"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 12,
+          "snippet": "clear proofs"
+        },
+        {
+          "work": "gleanings",
+          "para": 563,
+          "snippet": "Dawning-Place of the proofs"
+        },
+        {
+          "work": "gleanings",
+          "para": 292,
+          "snippet": "the Bayán"
+        },
+        {
+          "work": "gleanings",
+          "para": 636,
+          "snippet": "utterance"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 101,
+          "snippet": "Bayán"
+        }
+      ]
+    },
+    {
+      "term": "وجود",
+      "transliteration": "w-j-d",
+      "literal": "to find; to discover; to obtain",
+      "se_rendering": "Essence of Being",
+      "note": "Root typically 'found', 'being', 'adorned' (67 occurrences). 'Essence of Being' here—a metaphysical rendering elevating the term from material discovery to ontological substance, the fundamental reality.",
+      "cross_refs": [
+        {
+          "work": "the-hidden-words",
+          "para": 91,
+          "snippet": "adorned"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 215,
+          "snippet": "mentioned"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 105,
+          "snippet": "found"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 69,
+          "snippet": "aware"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 783,
+          "snippet": "point of creation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 832,
+          "snippet": "being"
+        },
+        {
+          "work": "gleanings",
+          "para": 436,
+          "snippet": "The Great Being"
+        },
+        {
+          "work": "gleanings",
+          "para": 4,
+          "snippet": "created things"
+        }
+      ]
+    },
+    {
+      "term": "مالک",
+      "transliteration": "m-l-k",
+      "literal": "kingdom; dominion; realm; sovereignty",
+      "se_rendering": "Lord",
+      "note": "Usually 'kingdom', 'realm', 'heaven' (70 occurrences). 'Lord' here—SE shifts from spatial domain to personal sovereignty, emphasizing divine authority and presence rather than territory.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-ahd",
+          "para": 16,
+          "snippet": "heaven"
+        },
+        {
+          "work": "gleanings",
+          "para": 394,
+          "snippet": "realm"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 71,
+          "snippet": "kingdom"
+        },
+        {
+          "work": "gleanings",
+          "para": 313,
+          "snippet": "heavenly gem"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 69,
+          "snippet": "realms"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 28,
+          "snippet": "righteous"
+        },
+        {
+          "work": "gleanings",
+          "para": 171,
+          "snippet": "by the heavenly power"
+        },
+        {
+          "work": "gleanings",
+          "para": 59,
+          "snippet": "Lord"
+        }
+      ]
+    },
+    {
+      "term": "تمسّک",
+      "transliteration": "m-s-k",
+      "literal": "musk; to seize; grip",
+      "se_rendering": "cling unto",
+      "note": "Typically 'holding fast unto' or 'cleaving' (23 occurrences). 'Cling unto' here—same semantic field but more vivid, emphasizing desperate attachment that prevents transcendence to the next revelation.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 188,
+          "snippet": "musk"
+        },
+        {
+          "work": "gleanings",
+          "para": 224,
+          "snippet": "clinging"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 768,
+          "snippet": "holding fast"
+        },
+        {
+          "work": "gleanings",
+          "para": 396,
+          "snippet": "cleave"
+        },
+        {
+          "work": "gleanings",
+          "para": 367,
+          "snippet": "take ye counsel"
+        },
+        {
+          "work": "gleanings",
+          "para": 720,
+          "snippet": "cleaveth"
+        },
+        {
+          "work": "gleanings",
+          "para": 719,
+          "snippet": "Hold ye fast"
+        },
+        {
+          "work": "gleanings",
+          "para": 606,
+          "snippet": "steadfastness"
+        }
+      ]
+    }
+  ],
+  "section_index": "246",
+  "section": "246",
+  "section_para": 1
 }

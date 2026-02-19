@@ -1,10 +1,637 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 594,
   "source_text": "کن في النّعمة منفقًا وفي فقدها شاکرًا وفي الحقوق أمینًا وفي الوجه طَلْقًا وللفقرآء کنزًا وللأغنیآء ناصحًا وللمنادي مجیبًا وفي الوعد وَفَیًّا وفي الأمور منصفًا وفي الجمع صامتًا وفي القضآء عادلاً وللإنسان خاضعًا وفي الظّلمة سراجًا وللهموم فرحًا وللظّمآن بحرًا وللمکروب ملجأ وللمظلوم ناصرًا وعضدًا وظهرًا وفي الأعمال متّقیًا وللغریب وطنًا وللمریض شفآء وللمستجیر حِصنًا وللضّریر بصرًا ولمن ضلّ صراطًا ولوجه الصّدق جمالاً ولهیکل الأمانة طرازًا ولبیت الأخلاق عرشًا ولجسد العالم روحًا ولجنود العدل رایة ولأفق الخیر نورًا وللأرض الطّیّبة رَذَاذًا ولبحر العلم فَلکًا ولسمآء الکرم نجمًا ولرأس الحکمة إکلیلاً ولجبین الدّهر بیاضًا ولشجر الخشوع ثمرًا.",
   "translation": "Be generous in prosperity, and thankful in adversity. Be worthy of the trust of thy neighbor, and look upon him with a bright and friendly face. Be a treasure to the poor, an admonisher to the rich, an answerer of the cry of the needy, a preserver of the sanctity of thy pledge. Be fair in thy judgment, and guarded in thy speech. Be unjust to no man, and show all meekness to all men. Be as a lamp unto them that walk in darkness, a joy to the sorrowful, a sea for the thirsty, a haven for the distressed, an upholder and defender of the victim of oppression. Let integrity and uprightness distinguish all thine acts. Be a home for the stranger, a balm to the suffering, a tower of strength for the fugitive. Be eyes to the blind, and a guiding light unto the feet of the erring. Be an ornament to the countenance of truth, a crown to the brow of fidelity, a pillar of the temple of righteousness, a breath of life to the body of mankind, an ensign of the hosts of justice, a luminary above the horizon of virtue, a dew to the soil of the human heart, an ark on the ocean of knowledge, a sun in the heaven of bounty, a gem on the diadem of wisdom, a shining light in the firmament of thy generation, a fruit upon the tree of humility.",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "lamp-unto-them-that-walk-in-darkness",
+  "alignment": [
+    {
+      "ar": "کن",
+      "en": "Be"
+    },
+    {
+      "ar": "النّعمة",
+      "en": "prosperity"
+    },
+    {
+      "ar": "منفقًا",
+      "en": "generous"
+    },
+    {
+      "ar": "فقدها",
+      "en": "adversity"
+    },
+    {
+      "ar": "شاکرًا",
+      "en": "thankful"
+    },
+    {
+      "ar": "الحقوق",
+      "en": "the trust"
+    },
+    {
+      "ar": "أمینًا",
+      "en": "worthy"
+    },
+    {
+      "ar": "الوجه",
+      "en": "face"
+    },
+    {
+      "ar": "طَلْقًا",
+      "en": "bright and friendly"
+    },
+    {
+      "ar": "للفقرآء",
+      "en": "to the poor"
+    },
+    {
+      "ar": "کنزًا",
+      "en": "treasure"
+    },
+    {
+      "ar": "وللأغنیآء",
+      "en": "to the rich"
+    },
+    {
+      "ar": "ناصحًا",
+      "en": "admonisher"
+    },
+    {
+      "ar": "للمنادي",
+      "en": "of the cry of the needy"
+    },
+    {
+      "ar": "مجیبًا",
+      "en": "answerer"
+    },
+    {
+      "ar": "الوعد",
+      "en": "thy pledge"
+    },
+    {
+      "ar": "الأمور",
+      "en": "thy judgment"
+    },
+    {
+      "ar": "منصفًا",
+      "en": "fair"
+    },
+    {
+      "ar": "الجمع",
+      "en": "thy speech"
+    },
+    {
+      "ar": "صامتًا",
+      "en": "guarded"
+    },
+    {
+      "ar": "القضآء",
+      "en": "unjust"
+    },
+    {
+      "ar": "عادلاً",
+      "en": "no"
+    },
+    {
+      "ar": "للإنسان",
+      "en": "to all men"
+    },
+    {
+      "ar": "خاضعًا",
+      "en": "meekness"
+    },
+    {
+      "ar": "الظّلمة",
+      "en": "darkness"
+    },
+    {
+      "ar": "سراجًا",
+      "en": "lamp"
+    },
+    {
+      "ar": "للهموم",
+      "en": "to the sorrowful"
+    },
+    {
+      "ar": "فرحًا",
+      "en": "joy"
+    },
+    {
+      "ar": "للظّمآن",
+      "en": "for the thirsty"
+    },
+    {
+      "ar": "بحرًا",
+      "en": "sea"
+    },
+    {
+      "ar": "للمکروب",
+      "en": "for the distressed"
+    },
+    {
+      "ar": "ملجأ",
+      "en": "haven"
+    },
+    {
+      "ar": "وللمظلوم",
+      "en": "of the victim of oppression"
+    },
+    {
+      "ar": "ناصرًا",
+      "en": "upholder"
+    },
+    {
+      "ar": "وعضدًا",
+      "en": "defender"
+    },
+    {
+      "ar": "متّقیًا",
+      "en": "integrity and uprightness"
+    },
+    {
+      "ar": "للغریب",
+      "en": "for the stranger"
+    },
+    {
+      "ar": "وطنًا",
+      "en": "home"
+    },
+    {
+      "ar": "للمریض",
+      "en": "to the suffering"
+    },
+    {
+      "ar": "شفآء",
+      "en": "balm"
+    },
+    {
+      "ar": "للمستجیر",
+      "en": "for the fugitive"
+    },
+    {
+      "ar": "حِصنًا",
+      "en": "tower of strength"
+    },
+    {
+      "ar": "للضّریر",
+      "en": "to the blind"
+    },
+    {
+      "ar": "بصرًا",
+      "en": "eyes"
+    },
+    {
+      "ar": "لمن ضلّ",
+      "en": "unto the feet of the erring"
+    },
+    {
+      "ar": "صراطًا",
+      "en": "guiding light"
+    },
+    {
+      "ar": "لوجه الصّدق",
+      "en": "to the countenance of truth"
+    },
+    {
+      "ar": "جمالاً",
+      "en": "ornament"
+    },
+    {
+      "ar": "ولهیکل الأمانة",
+      "en": "of fidelity"
+    },
+    {
+      "ar": "طرازًا",
+      "en": "crown"
+    },
+    {
+      "ar": "ولبیت الأخلاق",
+      "en": "of the temple of righteousness"
+    },
+    {
+      "ar": "عرشًا",
+      "en": "pillar"
+    },
+    {
+      "ar": "ولجسد العالم",
+      "en": "to the body of mankind"
+    },
+    {
+      "ar": "روحًا",
+      "en": "breath of life"
+    },
+    {
+      "ar": "ولجنود العدل",
+      "en": "of the hosts of justice"
+    },
+    {
+      "ar": "رایة",
+      "en": "ensign"
+    },
+    {
+      "ar": "ولأفق الخیر",
+      "en": "above the horizon of virtue"
+    },
+    {
+      "ar": "نورًا",
+      "en": "luminary"
+    },
+    {
+      "ar": "رَذَاذًا",
+      "en": "dew"
+    },
+    {
+      "ar": "ولبحر العلم",
+      "en": "on the ocean of knowledge"
+    },
+    {
+      "ar": "فَلکًا",
+      "en": "ark"
+    },
+    {
+      "ar": "ولسمآء الکرم",
+      "en": "in the heaven of bounty"
+    },
+    {
+      "ar": "نجمًا",
+      "en": "sun"
+    },
+    {
+      "ar": "ولرأس الحکمة",
+      "en": "on the diadem of wisdom"
+    },
+    {
+      "ar": "إکلیلاً",
+      "en": "gem"
+    },
+    {
+      "ar": "ولجبین الدّهر",
+      "en": "in the firmament of thy generation"
+    },
+    {
+      "ar": "بیاضًا",
+      "en": "shining light"
+    },
+    {
+      "ar": "ولشجر الخشوع",
+      "en": "upon the tree of humility"
+    },
+    {
+      "ar": "ثمرًا",
+      "en": "fruit"
+    }
+  ],
+  "terms": [
+    {
+      "term": "الحقوق",
+      "transliteration": "h-q-q",
+      "literal": "truth; right; that which is true or just",
+      "se_rendering": "the trust of thy neighbor",
+      "note": "Root typically renders as 'truth' or 'right' (43 occ); here exceptionally rendered as 'trust,' shifting from theological to interpersonal ethics.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 238,
+          "snippet": "the True One"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 52,
+          "snippet": "Sun of Truth"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 103,
+          "snippet": "Luminaries of Truth"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 113,
+          "snippet": "was realized"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 215,
+          "snippet": "realization"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 9,
+          "snippet": "evident"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "betrayal of truth"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 195,
+          "snippet": "incontrovertible"
+        }
+      ]
+    },
+    {
+      "term": "الأمور",
+      "transliteration": "ʾ-m-r",
+      "literal": "command; cause; matter; affair",
+      "se_rendering": "thy judgment",
+      "note": "Normally 'His Cause' or 'Revelation' (75 occ); here rendered as 'judgment,' anchoring the term in ethical conduct rather than divine agency.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "His Cause"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 797,
+          "snippet": "Thy Cause"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 597,
+          "snippet": "service"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 167,
+          "snippet": "things"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "commanded"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 236,
+          "snippet": "commissioned"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 785,
+          "snippet": "Thy Revelation"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 38,
+          "snippet": "for the protection of the Cause"
+        }
+      ]
+    },
+    {
+      "term": "الأعمال",
+      "transliteration": "ʿ-m-l",
+      "literal": "to work; to act; to do; to perform",
+      "se_rendering": "all thine acts",
+      "note": "Usually 'works' or 'actions' (44 occ); rendered as 'all thine acts,' maintaining semantic range but emphasizing personal agency and volition.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 24,
+          "snippet": "Consort"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 782,
+          "snippet": "works"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 286,
+          "snippet": "God doeth unto them as they do unto themselves"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 94,
+          "snippet": "knew that they did so"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 144,
+          "snippet": "done"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 19,
+          "snippet": "Fane"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 34,
+          "snippet": "deed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 86,
+          "snippet": "wrought"
+        }
+      ]
+    },
+    {
+      "term": "الصّدق",
+      "transliteration": "s-d-q",
+      "literal": "to confirm; to verify; to acknowledge; to testify to truth",
+      "se_rendering": "the countenance of truth",
+      "note": "Root typically 'men of truth' or 'truthful' (25 occ); here 'countenance of truth' transforms epistemological concept into aesthetic manifestation.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 225,
+          "snippet": "acknowledge"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 226,
+          "snippet": "men of truth"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 253,
+          "snippet": "truthful"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 134,
+          "snippet": "the truthful"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 28,
+          "snippet": "truthfulness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 143,
+          "snippet": "fidelity"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 10,
+          "snippet": "truth"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 268,
+          "snippet": "spoken the truth"
+        }
+      ]
+    },
+    {
+      "term": "الأمانة",
+      "transliteration": "ʾ-m-n",
+      "literal": "to believe; to have faith; to be secure",
+      "se_rendering": "fidelity",
+      "note": "Twin root ا-م-ن renders variously as 'believe' or 'faith' (32 occ); here 'fidelity' emphasizes trustworthiness and covenant-keeping over belief.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 431,
+          "snippet": "believed"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 2,
+          "snippet": "faith"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 198,
+          "snippet": "Trustworthiness"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 561,
+          "snippet": "hath believed"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 7,
+          "snippet": "have ye believed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 225,
+          "snippet": "believer"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 25,
+          "snippet": "believers"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 6,
+          "snippet": "trustees"
+        }
+      ]
+    },
+    {
+      "term": "الأخلاق",
+      "transliteration": "kh-l-q",
+      "literal": "character; moral traits; disposition; conduct",
+      "se_rendering": "the temple of righteousness",
+      "note": "Usually 'character' or 'spiritual characteristics' (49 occ); here 'temple of righteousness' elevates moral character into institutional/cosmic architecture.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 28,
+          "snippet": "character"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 50,
+          "snippet": "spiritual characteristics"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 195,
+          "snippet": "virtues"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 54,
+          "snippet": "created her"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 231,
+          "snippet": "His creatures"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 139,
+          "snippet": "His creation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 343,
+          "snippet": "Thy creatures"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 40,
+          "snippet": "wert created"
+        }
+      ]
+    },
+    {
+      "term": "الحکمة",
+      "transliteration": "h-k-m",
+      "literal": "government; rule; governance; wisdom",
+      "se_rendering": "wisdom",
+      "note": "Typically 'rule' or 'government' (69 occ); here 'wisdom' selects from broader semantic field, repositioning governance as spiritual discernment.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-ahd",
+          "para": 6,
+          "snippet": "rule"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "government"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 849,
+          "snippet": "signs of Thy sovereignty"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 160,
+          "snippet": "meaning of return"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 182,
+          "snippet": "mystery of the former verse"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 129,
+          "snippet": "perspicuous verses"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 46,
+          "snippet": "conclusive"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 220,
+          "snippet": "impregnable stronghold"
+        }
+      ]
+    }
+  ],
+  "section_index": "CXXX.1",
+  "section": "CXXX",
+  "section_para": 1
 }

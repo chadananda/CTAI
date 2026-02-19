@@ -1,10 +1,386 @@
 {
   "work": "Epistle to the Son of the Wolf",
   "slug": "epistle-to-the-son-of-the-wolf",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 250,
   "source_text": "و همچنين ميفرمايد [ چه بسا ناری را که خدا نور ميکند بمن يظهره اللّه و چه بسا نوری را که نار ميفرمايد باو و ميبينم ظهور او را مثل اين شمس در وسط السّماء و غروب کلّ را بمثل نجوم ليل در نهار ] انتهی * يا عالم هل لک اذن لتسمع نداء الحقّ و تنصف فی هذا الظّهور الّذی اذ ظهر نطق الطّور قد اتی مکلّمی بآيات واضحات و براهين لائحات رغما لکلّ غافل بعيد و کلّ مفتر کذّاب الّذين ارادوا ان يطفئوا نور اللّه بمفترياتهم و يمحوا آثار اللّه بغلّهم أَلَا انّهم من الظّالمين فی کتاب اللّه ربّ العالمين *",
   "translation": "And, likewise, He saith: \"How many the fires which God converteth into light through Him Whom God shall make manifest; and how numerous the lights which are turned into fire through Him! I behold His appearance even as the sun in the midmost heaven, and the disappearance of all even as that of the stars of the night by day.\" Hast thou ears, O world, wherewith to hear the voice of the True One, and to judge equitably this Revelation Which, as soon as it appeared, Sinai exclaimed: \"He that discoursed upon Me is come with evident signs and resplendent tokens, in spite of every heedless one that hath gone far astray, and of every lying calumniator, who hath wished to quench the light of God with his calumnies, and blot out the signs of God through his malice. They, verily, are of such as have acted unjustly in the Book of God, the Lord of the worlds.\"",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "fires-converted-into-light",
+  "alignment": [
+    {
+      "ar": "همچنين",
+      "en": "likewise"
+    },
+    {
+      "ar": "ميفرمايد",
+      "en": "saith"
+    },
+    {
+      "ar": "چه بسا",
+      "en": "How many"
+    },
+    {
+      "ar": "ناری",
+      "en": "fires"
+    },
+    {
+      "ar": "خدا",
+      "en": "God"
+    },
+    {
+      "ar": "نور",
+      "en": "light"
+    },
+    {
+      "ar": "ميکند",
+      "en": "converteth"
+    },
+    {
+      "ar": "بمن يظهره اللّه",
+      "en": "through Him Whom God shall make manifest"
+    },
+    {
+      "ar": "چه بسا",
+      "en": "how numerous"
+    },
+    {
+      "ar": "نوری",
+      "en": "lights"
+    },
+    {
+      "ar": "نار",
+      "en": "fire"
+    },
+    {
+      "ar": "ميفرمايد",
+      "en": "turned"
+    },
+    {
+      "ar": "باو",
+      "en": "through Him"
+    },
+    {
+      "ar": "ميبينم",
+      "en": "behold"
+    },
+    {
+      "ar": "ظهور",
+      "en": "appearance"
+    },
+    {
+      "ar": "او",
+      "en": "His"
+    },
+    {
+      "ar": "مثل",
+      "en": "even as"
+    },
+    {
+      "ar": "اين",
+      "en": "the"
+    },
+    {
+      "ar": "شمس",
+      "en": "sun"
+    },
+    {
+      "ar": "در",
+      "en": "in"
+    },
+    {
+      "ar": "وسط السّماء",
+      "en": "midmost heaven"
+    },
+    {
+      "ar": "غروب",
+      "en": "disappearance"
+    },
+    {
+      "ar": "کلّ",
+      "en": "all"
+    },
+    {
+      "ar": "بمثل",
+      "en": "as that of"
+    },
+    {
+      "ar": "نجوم",
+      "en": "stars"
+    },
+    {
+      "ar": "ليل",
+      "en": "night"
+    },
+    {
+      "ar": "در",
+      "en": "by"
+    },
+    {
+      "ar": "نهار",
+      "en": "day"
+    },
+    {
+      "ar": "انتهی",
+      "en": ""
+    },
+    {
+      "ar": "عالم",
+      "en": "world"
+    },
+    {
+      "ar": "هل لک",
+      "en": "Hast thou"
+    },
+    {
+      "ar": "اذن",
+      "en": "ears"
+    },
+    {
+      "ar": "لتسمع",
+      "en": "to hear"
+    },
+    {
+      "ar": "نداء",
+      "en": "voice"
+    },
+    {
+      "ar": "الحقّ",
+      "en": "True One"
+    },
+    {
+      "ar": "تنصف",
+      "en": "judge equitably"
+    },
+    {
+      "ar": "فی",
+      "en": ""
+    },
+    {
+      "ar": "هذا",
+      "en": "this"
+    },
+    {
+      "ar": "الظّهور",
+      "en": "Revelation"
+    },
+    {
+      "ar": "الّذی",
+      "en": "Which"
+    },
+    {
+      "ar": "اذ",
+      "en": "as soon as"
+    },
+    {
+      "ar": "ظهر",
+      "en": "appeared"
+    },
+    {
+      "ar": "نطق",
+      "en": "exclaimed"
+    },
+    {
+      "ar": "الطّور",
+      "en": "Sinai"
+    },
+    {
+      "ar": "قد اتی",
+      "en": "is come"
+    },
+    {
+      "ar": "مکلّمی",
+      "en": "He that discoursed upon Me"
+    },
+    {
+      "ar": "بآيات",
+      "en": "signs"
+    },
+    {
+      "ar": "واضحات",
+      "en": "evident"
+    },
+    {
+      "ar": "براهين",
+      "en": "tokens"
+    },
+    {
+      "ar": "لائحات",
+      "en": "resplendent"
+    },
+    {
+      "ar": "رغما",
+      "en": "in spite of"
+    },
+    {
+      "ar": "لکلّ",
+      "en": "every"
+    },
+    {
+      "ar": "غافل",
+      "en": "heedless"
+    },
+    {
+      "ar": "بعيد",
+      "en": "gone far astray"
+    },
+    {
+      "ar": "مفتر",
+      "en": "calumniator"
+    },
+    {
+      "ar": "کذّاب",
+      "en": "lying"
+    },
+    {
+      "ar": "الّذين",
+      "en": "who"
+    },
+    {
+      "ar": "ارادوا",
+      "en": "wished"
+    },
+    {
+      "ar": "ان",
+      "en": "to"
+    },
+    {
+      "ar": "يطفئوا",
+      "en": "quench"
+    },
+    {
+      "ar": "بمفترياتهم",
+      "en": "with his calumnies"
+    },
+    {
+      "ar": "يمحوا",
+      "en": "blot out"
+    },
+    {
+      "ar": "بغلّهم",
+      "en": "through his malice"
+    },
+    {
+      "ar": "أَلَا",
+      "en": "verily"
+    },
+    {
+      "ar": "انّهم",
+      "en": "They"
+    },
+    {
+      "ar": "من",
+      "en": "of"
+    },
+    {
+      "ar": "الظّالمين",
+      "en": "acted unjustly"
+    },
+    {
+      "ar": "کتاب",
+      "en": "Book"
+    },
+    {
+      "ar": "ربّ",
+      "en": "Lord"
+    },
+    {
+      "ar": "العالمين",
+      "en": "worlds"
+    }
+  ],
+  "terms": [
+    {
+      "term": "براهين",
+      "transliteration": "b-r-h-n",
+      "literal": "proof, evidence, demonstration, argument",
+      "se_rendering": "resplendent tokens",
+      "note": "Root ب-ر-ه-ن standardly 'proofs' or 'proof' (14 occurrences). Here 'resplendent tokens' — lyrical elevation matching 'evident signs' parallel.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 218,
+          "snippet": "proofs"
+        },
+        {
+          "work": "gleanings",
+          "para": 510,
+          "snippet": "His proof"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 258,
+          "snippet": "proof"
+        },
+        {
+          "work": "gleanings",
+          "para": 140,
+          "snippet": "nakedness"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 73,
+          "snippet": "become clear and manifest"
+        },
+        {
+          "work": "gleanings",
+          "para": 105,
+          "snippet": "repeatedly demonstrated"
+        }
+      ]
+    },
+    {
+      "term": "الظّالمين",
+      "transliteration": "z-l-m",
+      "literal": "wrongedness, oppression, meekness; state of being wronged or oppressed",
+      "se_rendering": "acted unjustly",
+      "note": "Root ظ-ل-م typically 'Wronged One' or 'wronged' (128 occurrences), denoting victimhood. Here 'acted unjustly' — inverts polarity to describe perpetrators, not victims.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 498,
+          "snippet": "afflicted with countless tribulations"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 49,
+          "snippet": "meekness"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 116,
+          "snippet": "injury"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 3,
+          "snippet": "Wronged One"
+        },
+        {
+          "work": "gleanings",
+          "para": 221,
+          "snippet": "oppression"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 9,
+          "snippet": "Darkness"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 33,
+          "snippet": "tyranny"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 573,
+          "snippet": "oppressed"
+        }
+      ]
+    }
+  ],
+  "section_index": "250",
+  "section": "250",
+  "section_para": 1
 }

@@ -1,10 +1,576 @@
 {
   "work": "Epistle to the Son of the Wolf",
   "slug": "epistle-to-the-son-of-the-wolf",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 31,
   "source_text": "يا شيخ براستی ميگويم ختم رحيق مختوم باسم قيّوم برداشته شد خود را محروم منما * اين مظلوم لوجه اللّه ميگويد تو هم لوجه اللّه در انچه نازل شده و ظاهر گشته تفکّر نما شايد از فيوضات فيّاض حقيقی در اين يوم مبارک نصيب برداری و محروم نمانی ليس هذا علی اللّه بعزيز * ادم خاکی از کلمه الهی عرشی شد و صيّاد ماهی دارای حکمت ربّانی گشت حضرت ابوذر راعی غنم بود سيّد امم شد *",
   "translation": "O Shaykh! Verily I say, the seal of the Choice Wine hath, in the name of Him Who is the Self-Subsisting, been broken; withhold not thyself therefrom. This Wronged One speaketh wholly for the sake of God; thou too shouldst, likewise, for the sake of God, meditate upon those things that have been sent down and manifested, that haply thou mayest, on this blessed Day, take thy portion of the liberal effusions of Him Who is truly the All-Bountiful, and mayest not remain deprived thereof. This indeed would not be hard for God. Dust-made Adam was raised up, through the Word of God, to the heavenly throne, and a mere fisherman was made the repository of Divine wisdom, and Abu Dhar, the shepherd, became a prince of the nations!",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "seal-choice-wine-broken",
+  "alignment": [
+    {
+      "ar": "يا",
+      "en": "O"
+    },
+    {
+      "ar": "شيخ",
+      "en": "Shaykh"
+    },
+    {
+      "ar": "براستی",
+      "en": "Verily"
+    },
+    {
+      "ar": "ميگويم",
+      "en": "I say"
+    },
+    {
+      "ar": "ختم",
+      "en": "seal"
+    },
+    {
+      "ar": "رحيق",
+      "en": "Wine"
+    },
+    {
+      "ar": "مختوم",
+      "en": "Choice"
+    },
+    {
+      "ar": "باسم",
+      "en": "in the name"
+    },
+    {
+      "ar": "قيّوم",
+      "en": "Self-Subsisting"
+    },
+    {
+      "ar": "برداشته شد",
+      "en": "been broken"
+    },
+    {
+      "ar": "خود",
+      "en": "thyself"
+    },
+    {
+      "ar": "محروم",
+      "en": "withhold"
+    },
+    {
+      "ar": "منما",
+      "en": "not"
+    },
+    {
+      "ar": "مظلوم",
+      "en": "Wronged One"
+    },
+    {
+      "ar": "لوجه اللّه",
+      "en": "for the sake of God"
+    },
+    {
+      "ar": "گويد",
+      "en": "speaketh"
+    },
+    {
+      "ar": "تو",
+      "en": "thou"
+    },
+    {
+      "ar": "هم",
+      "en": "too"
+    },
+    {
+      "ar": "انچه",
+      "en": "those things that"
+    },
+    {
+      "ar": "نازل شده",
+      "en": "sent down"
+    },
+    {
+      "ar": "ظاهر گشته",
+      "en": "manifested"
+    },
+    {
+      "ar": "تفکّر نما",
+      "en": "meditate"
+    },
+    {
+      "ar": "شايد",
+      "en": "haply"
+    },
+    {
+      "ar": "فيوضات",
+      "en": "effusions"
+    },
+    {
+      "ar": "فيّاض",
+      "en": "liberal"
+    },
+    {
+      "ar": "حقيقی",
+      "en": "truly"
+    },
+    {
+      "ar": "يوم",
+      "en": "Day"
+    },
+    {
+      "ar": "مبارک",
+      "en": "blessed"
+    },
+    {
+      "ar": "نصيب",
+      "en": "portion"
+    },
+    {
+      "ar": "برداری",
+      "en": "take"
+    },
+    {
+      "ar": "نمانی",
+      "en": "remain"
+    },
+    {
+      "ar": "محروم",
+      "en": "deprived"
+    },
+    {
+      "ar": "هذا",
+      "en": "This"
+    },
+    {
+      "ar": "علی",
+      "en": "for"
+    },
+    {
+      "ar": "اللّه",
+      "en": "God"
+    },
+    {
+      "ar": "بعزيز",
+      "en": "hard"
+    },
+    {
+      "ar": "ادم",
+      "en": "Adam"
+    },
+    {
+      "ar": "خاکی",
+      "en": "Dust-made"
+    },
+    {
+      "ar": "کلمه",
+      "en": "Word"
+    },
+    {
+      "ar": "الهی",
+      "en": "of God"
+    },
+    {
+      "ar": "عرشی",
+      "en": "heavenly throne"
+    },
+    {
+      "ar": "شد",
+      "en": "raised up"
+    },
+    {
+      "ar": "صيّاد",
+      "en": "fisherman"
+    },
+    {
+      "ar": "دارای",
+      "en": "repository"
+    },
+    {
+      "ar": "حکمت",
+      "en": "wisdom"
+    },
+    {
+      "ar": "ربّانی",
+      "en": "Divine"
+    },
+    {
+      "ar": "گشت",
+      "en": "made"
+    },
+    {
+      "ar": "حضرت",
+      "en": ""
+    },
+    {
+      "ar": "ابوذر",
+      "en": "Abu Dhar"
+    },
+    {
+      "ar": "راعی",
+      "en": "shepherd"
+    },
+    {
+      "ar": "غنم",
+      "en": ""
+    },
+    {
+      "ar": "بود",
+      "en": "became"
+    },
+    {
+      "ar": "سيّد",
+      "en": "prince"
+    },
+    {
+      "ar": "امم",
+      "en": "nations"
+    }
+  ],
+  "terms": [
+    {
+      "term": "ختم",
+      "transliteration": "kh-t-m",
+      "literal": "to seal; to conclude; to end; seal",
+      "se_rendering": "seal",
+      "note": "Most frequent renderings are 'seal' and 'Seal of the Prophets' (21 occ). Here 'seal' of Choice Wine emphasizes finality and closure over prophetic office.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 552,
+          "snippet": "affixed Thy seal"
+        },
+        {
+          "work": "gleanings",
+          "para": 695,
+          "snippet": "sealed"
+        },
+        {
+          "work": "gleanings",
+          "para": 114,
+          "snippet": "finality of the Seal"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 178,
+          "snippet": "Seal of the Prophets"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 188,
+          "snippet": "seal"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 287,
+          "snippet": "We conclude"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 701,
+          "snippet": "choose"
+        }
+      ]
+    },
+    {
+      "term": "مظلوم",
+      "transliteration": "z-l-m",
+      "literal": "wrongedness, oppression, meekness; state of being wronged or oppressed",
+      "se_rendering": "Wronged One",
+      "note": "Dominantly 'afflicted' or 'Wronged One' (128 occ). Here 'Wronged One' capitals the speaker's identity, unique emphasis on personal suffering.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 498,
+          "snippet": "afflicted with countless tribulations"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 49,
+          "snippet": "meekness"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 116,
+          "snippet": "injury"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 3,
+          "snippet": "Wronged One"
+        },
+        {
+          "work": "gleanings",
+          "para": 221,
+          "snippet": "oppression"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 9,
+          "snippet": "Darkness"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 33,
+          "snippet": "tyranny"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 573,
+          "snippet": "oppressed"
+        }
+      ]
+    },
+    {
+      "term": "نازل",
+      "transliteration": "n-z-l",
+      "literal": "to descend, to be revealed",
+      "se_rendering": "sent down",
+      "note": "Standard 'sent down' and 'revealed' (88 occ). This passage uses 'sent down' maintaining traditional revelation language; consistent with primary rendering.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 643,
+          "snippet": "sent down"
+        },
+        {
+          "work": "gleanings",
+          "para": 218,
+          "snippet": "revealed"
+        },
+        {
+          "work": "gleanings",
+          "para": 656,
+          "snippet": "descended"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 175,
+          "snippet": "didst send down"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 34,
+          "snippet": "Descend"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 47,
+          "snippet": "pour forth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 330,
+          "snippet": "send down"
+        },
+        {
+          "work": "gleanings",
+          "para": 604,
+          "snippet": "have been sent down"
+        }
+      ]
+    },
+    {
+      "term": "ظاهر",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "manifested",
+      "note": "Usually 'Manifestation' or 'manifestation' (96 occ). Here 'manifested' as past participle shifts from noun to verb form, emphasizing active appearance.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 53,
+          "snippet": "Manifestation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 160,
+          "snippet": "Author of all Manifestations"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 136,
+          "snippet": "evident"
+        },
+        {
+          "work": "gleanings",
+          "para": 222,
+          "snippet": "material"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 196,
+          "snippet": "Manifestations of God"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 255,
+          "snippet": "Manifestations"
+        }
+      ]
+    },
+    {
+      "term": "کلمه",
+      "transliteration": "k-l-m",
+      "literal": "word; utterance; speech",
+      "se_rendering": "Word",
+      "note": "Mostly 'The first word', 'The second word', 'exalted words' (12 occ). Capitalized singular 'Word of God' here elevates Christ-like Logos theology.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 20,
+          "snippet": "exalted words"
+        },
+        {
+          "work": "gleanings",
+          "para": 603,
+          "snippet": "a jewel"
+        },
+        {
+          "work": "gleanings",
+          "para": 563,
+          "snippet": "that was heard from"
+        }
+      ]
+    },
+    {
+      "term": "عرشی",
+      "transliteration": "ʿ-r-sh",
+      "literal": "of the Throne; companion of the Throne",
+      "se_rendering": "heavenly throne",
+      "note": "Usually 'the Throne' or 'MY THRONE' (14 occ). Here 'heavenly throne' adds descriptor 'heavenly' absent from most corpus instances.",
+      "cross_refs": [
+        {
+          "work": "the-hidden-words",
+          "para": 120,
+          "snippet": "MY THRONE"
+        },
+        {
+          "work": "gleanings",
+          "para": 11,
+          "snippet": "Our sight"
+        },
+        {
+          "work": "gleanings",
+          "para": 539,
+          "snippet": "the Throne"
+        },
+        {
+          "work": "gleanings",
+          "para": 210,
+          "snippet": "the court of My presence"
+        },
+        {
+          "work": "gleanings",
+          "para": 82,
+          "snippet": "Our throne"
+        },
+        {
+          "work": "gleanings",
+          "para": 51,
+          "snippet": "throne"
+        },
+        {
+          "work": "gleanings",
+          "para": 31,
+          "snippet": "His Throne"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 435,
+          "snippet": "the throne of Thy glory"
+        }
+      ]
+    },
+    {
+      "term": "حکمت",
+      "transliteration": "h-k-m",
+      "literal": "government; rule; governance; wisdom",
+      "se_rendering": "wisdom",
+      "note": "Typically 'rule' or 'government' (69 occ). Here uniquely 'wisdom' — only spiritual/intellectual sense among predominantly political renderings in corpus.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-ahd",
+          "para": 6,
+          "snippet": "rule"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "government"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 849,
+          "snippet": "signs of Thy sovereignty"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 160,
+          "snippet": "meaning of return"
+        },
+        {
+          "work": "gleanings",
+          "para": 224,
+          "snippet": "mysteries"
+        },
+        {
+          "work": "gleanings",
+          "para": 636,
+          "snippet": "rule of the sword"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 182,
+          "snippet": "mystery of the former verse"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 46,
+          "snippet": "conclusive"
+        }
+      ]
+    },
+    {
+      "term": "سیّد",
+      "transliteration": "s-y-d",
+      "literal": "master; lord; chief; my master",
+      "se_rendering": "prince",
+      "note": "Often proper names or 'my Master' (12 occ). Here 'prince' — sole abstract/titular rendering, departing from possessive or personal forms.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 249,
+          "snippet": "Siyyid Yaḥyá"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 252,
+          "snippet": "Prince of Martyrs"
+        },
+        {
+          "work": "gleanings",
+          "para": 291,
+          "snippet": "Lord of Days"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 221,
+          "snippet": "Master of Messengers"
+        }
+      ]
+    }
+  ],
+  "section_index": "31",
+  "section": "31",
+  "section_para": 1
 }

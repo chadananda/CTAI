@@ -1,10 +1,320 @@
 {
   "work": "Tablet of the Holy Mariner",
   "slug": "tablet-of-the-holy-mariner",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 17,
   "source_text": "ويطّلعون بالأسرار في لجج الأنوار فسبحان ربّي الأبهى",
   "translation": "May know the mysteries hidden in the Seas of light. \nGlorified be my Lord, the All-Glorious!",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "mysteries-seas-of-light",
+  "alignment": [
+    {
+      "ar": "ويطّلعون",
+      "en": "May know"
+    },
+    {
+      "ar": "بالأسرار",
+      "en": "the mysteries"
+    },
+    {
+      "ar": "لجج",
+      "en": "Seas"
+    },
+    {
+      "ar": "الأنوار",
+      "en": "light"
+    },
+    {
+      "ar": "فسبحان",
+      "en": "Glorified"
+    },
+    {
+      "ar": "ربّي",
+      "en": "my Lord"
+    },
+    {
+      "ar": "الأبهى",
+      "en": "the All-Glorious"
+    }
+  ],
+  "terms": [
+    {
+      "term": "ويطّلعون",
+      "transliteration": "t-l-ʿ",
+      "literal": "rising; appearance; countenance; manifestation",
+      "se_rendering": "May know",
+      "note": "Root typically rendered 'Manifestations' or 'countenances' (32 occ). Here SE employs 'know' — a cognitive rather than visual rendering, suggesting spiritual apprehension over appearance.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 47,
+          "snippet": "lives"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 856,
+          "snippet": "countenances"
+        },
+        {
+          "work": "gleanings",
+          "para": 35,
+          "snippet": "Revealers of the beauty"
+        },
+        {
+          "work": "gleanings",
+          "para": 364,
+          "snippet": "Manifestations"
+        },
+        {
+          "work": "gleanings",
+          "para": 221,
+          "snippet": "instigators"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "sources of command"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 16,
+          "snippet": "embodiments"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 21,
+          "snippet": "daysprings"
+        }
+      ]
+    },
+    {
+      "term": "بالاسرار",
+      "transliteration": "s-r-r",
+      "literal": "throne; couch; seat of authority",
+      "se_rendering": "mysteries",
+      "note": "Standard rendering 'mystery' or 'Secret' (40 occ). SE's choice here aligns with mystical content but avoids 'throne' or 'couch' meanings, privileging esoteric interpretation.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 145,
+          "snippet": "couch"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 256,
+          "snippet": "throne"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 185,
+          "snippet": "lamp"
+        },
+        {
+          "work": "tablet-of-carmel",
+          "para": 2,
+          "snippet": "joy"
+        },
+        {
+          "work": "gleanings",
+          "para": 218,
+          "snippet": "mystery"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 831,
+          "snippet": "Secret"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 37,
+          "snippet": "in the gladness"
+        },
+        {
+          "work": "gleanings",
+          "para": 727,
+          "snippet": "gladness"
+        }
+      ]
+    },
+    {
+      "term": "الانوار",
+      "transliteration": "r-w-h",
+      "literal": "to go; to depart; to rest; spirit; soul",
+      "se_rendering": "light",
+      "note": "Jafar data lists root r-w-h as 'spirit; soul' with renderings 'spiritual', 'spirit' (34 occ). Here 'light' appears — a semantic shift treating the noun as metaphorical illumination rather than pneumatic substance.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 164,
+          "snippet": "My Well-Beloved"
+        },
+        {
+          "work": "gleanings",
+          "para": 246,
+          "snippet": "My"
+        },
+        {
+          "work": "gleanings",
+          "para": 367,
+          "snippet": "spirit"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 702,
+          "snippet": "my spirit"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 201,
+          "snippet": "the Spirit"
+        },
+        {
+          "work": "gleanings",
+          "para": 548,
+          "snippet": "spiritual"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 215,
+          "snippet": "spiritually-minded"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 20,
+          "snippet": "a breath of My own Spirit"
+        }
+      ]
+    },
+    {
+      "term": "فسبحان",
+      "transliteration": "s-b-ḥ",
+      "literal": "glorified; the All-Praised; exalted",
+      "se_rendering": "Glorified be",
+      "note": "Root s-b-ḥ shows diverse renderings: 'All-Praised', 'Glorified', 'Gracious God' (23 occ). Here 'Glorified be' is doxological and formal, matching the invocatory context rather than narrative praise.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 211,
+          "snippet": "the All-Praised"
+        },
+        {
+          "work": "gleanings",
+          "para": 212,
+          "snippet": "the Breath of the All-Glorious"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 13,
+          "snippet": "the breezes of the All-Glorious"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 42,
+          "snippet": "Gracious God"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 90,
+          "snippet": "Great God"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 62,
+          "snippet": "Glorified art Thou"
+        },
+        {
+          "work": "gleanings",
+          "para": 112,
+          "snippet": "Glory be to Thee"
+        },
+        {
+          "work": "gleanings",
+          "para": 1,
+          "snippet": "Lauded and glorified art Thou"
+        }
+      ]
+    },
+    {
+      "term": "ربی",
+      "transliteration": "r-b-b",
+      "literal": "divine; of God; lordly",
+      "se_rendering": "Lord",
+      "note": "Root r-b-b typically 'Lord' (31 occ). SE's choice here is canonical, maintaining address to the Divine without variation into 'Holy' or 'Divine might' alternatives.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 2,
+          "snippet": "Holy"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 45,
+          "snippet": "Lord"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 69,
+          "snippet": "lordship"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 201,
+          "snippet": "My Lord's"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 162,
+          "snippet": "Divine might"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 16,
+          "snippet": "divine knowledge"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 205,
+          "snippet": "divine wisdom"
+        },
+        {
+          "work": "gleanings",
+          "para": 684,
+          "snippet": "Divine glory"
+        }
+      ]
+    },
+    {
+      "term": "الابهی",
+      "transliteration": "b-h-y",
+      "literal": "splendor; glory; magnificence; Bahá (Proper Name in Bahá'í texts)",
+      "se_rendering": "All-Glorious",
+      "note": "Root b-h-y includes proper name 'Bahá' alongside 'Glory', 'Abhá', 'All-Glorious' (17 occ). SE's 'All-Glorious' here maintains the superlative epithet rather than the proper name, suiting the closing glorification.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 280,
+          "snippet": "Bahá"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 59,
+          "snippet": "Glory"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 51,
+          "snippet": "Abhá"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 271,
+          "snippet": "All-Glorious"
+        }
+      ]
+    }
+  ],
+  "section_index": "18",
+  "section": "18",
+  "section_para": 1
 }

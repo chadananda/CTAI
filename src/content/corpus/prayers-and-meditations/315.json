@@ -1,10 +1,395 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 315,
   "source_text": "سُبْحَانَكَ اللَّهُمَّ يا إِلهِي لَمْ أَدْرِ بِأَيِّ ذِكْرٍ أَذْكُرُكَ وَبِأَيِّ وَصْفٍ أُثْنِيكَ وَبِأَيِّ اسْمٍ أَدْعُوكَ، لَوْ أَدْعُوكَ بِاسْمِ المَالِكَ أُشَاهِدُ بِأَنَّ مَالِكَ مَمالِكَ الإِبْداعِ وَالاخْتِراعِ مَمْلُوكٌ لَكَ وَمَخْلُوقٌ بِكَلِمَةٍ مِنْ عِنْدِكَ، وَإِنْ أَذْكُرُكَ بِاسْمِ القَيُّومِ أُشَاهِدُ بِأَنَّهُ كانَ ساجِدًا عَلَى كفٍّ مِنَ التُّرابِ مِنْ خَشْيَتِكَ وَسَلْطَنَتِكَ وَاقْتِدارِكَ، وَإِنْ أَصِفُكَ بِأَحَدِيَّةِ ذاتِكَ أُشَاهِدُ بِأَنَّ هذا وَصْفٌ أَلْبَسَهُ ظَنِّي ثَوْبَ الوَصْفِيَّةِ وَإِنَّكَ لَمْ تَزَلْ كُنْتَ مُق",
   "translation": "All praise be to Thee, O Lord, my God! I know not how to sing Thy praise, how to describe Thy glory, how to call upon Thy Name. If I call upon Thee by Thy Name, the All-Possessing, I am compelled to recognize that He Who holdeth in His hand the immediate destinies of all created things is but a vassal dependent upon Thee, and is the creation of but a word proceeding from Thy mouth. And if I proclaim Thee by the name of Him Who is the All-Compelling, I readily discover that He is but a suppliant fallen upon the dust, awe-stricken by Thy dreadful might, Thy sovereignty and power. And if I attempt to describe Thee by glorifying the oneness of Thy Being, I soon realize that such a conception is but a notion which mine own fancy hath woven, and that Thou hast ever been immeasurably exalted above the vain imaginations which the hearts of men have devised.",
   "source_lang": "ar",
-  "score": 9.7
+  "score": 9.7,
+  "page_slug": "vassal-dependent-upon-thee",
+  "alignment": [
+    {
+      "ar": "سُبْحَانَكَ",
+      "en": "All praise be to Thee"
+    },
+    {
+      "ar": "إِلهِي",
+      "en": "my God"
+    },
+    {
+      "ar": "لَمْ أَدْرِ",
+      "en": "I know not"
+    },
+    {
+      "ar": "أَذْكُرُكَ",
+      "en": "to sing Thy praise"
+    },
+    {
+      "ar": "أُثْنِيكَ",
+      "en": "to describe Thy glory"
+    },
+    {
+      "ar": "أَدْعُوكَ",
+      "en": "to call upon Thy Name"
+    },
+    {
+      "ar": "لَوْ أَدْعُوكَ",
+      "en": "If I call upon Thee"
+    },
+    {
+      "ar": "بِاسْمِ",
+      "en": "by Thy Name"
+    },
+    {
+      "ar": "المَالِكَ",
+      "en": "the All-Possessing"
+    },
+    {
+      "ar": "أُشَاهِدُ",
+      "en": "I am compelled to recognize"
+    },
+    {
+      "ar": "مَالِكَ",
+      "en": "He Who holdeth"
+    },
+    {
+      "ar": "مَمالِكَ",
+      "en": "destinies"
+    },
+    {
+      "ar": "الإِبْداعِ",
+      "en": "created"
+    },
+    {
+      "ar": "وَالاخْتِراعِ",
+      "en": "things"
+    },
+    {
+      "ar": "مَمْلُوكٌ",
+      "en": "vassal dependent"
+    },
+    {
+      "ar": "لَكَ",
+      "en": "upon Thee"
+    },
+    {
+      "ar": "وَمَخْلُوقٌ",
+      "en": "the creation"
+    },
+    {
+      "ar": "بِكَلِمَةٍ",
+      "en": "a word"
+    },
+    {
+      "ar": "مِنْ عِنْدِكَ",
+      "en": "from Thy mouth"
+    },
+    {
+      "ar": "وَإِنْ أَذْكُرُكَ",
+      "en": "And if I proclaim Thee"
+    },
+    {
+      "ar": "بِاسْمِ",
+      "en": "by the name"
+    },
+    {
+      "ar": "أُشَاهِدُ",
+      "en": "I readily discover"
+    },
+    {
+      "ar": "كانَ",
+      "en": "is"
+    },
+    {
+      "ar": "ساجِدًا",
+      "en": "suppliant"
+    },
+    {
+      "ar": "مِنْ خَشْيَتِكَ",
+      "en": "awe-stricken"
+    },
+    {
+      "ar": "وَسَلْطَنَتِكَ",
+      "en": "Thy sovereignty"
+    },
+    {
+      "ar": "وَاقْتِدارِكَ",
+      "en": "power"
+    },
+    {
+      "ar": "وَإِنْ أَصِفُكَ",
+      "en": "And if I attempt to describe Thee"
+    },
+    {
+      "ar": "ذاتِكَ",
+      "en": "Thy Being"
+    },
+    {
+      "ar": "أُشَاهِدُ",
+      "en": "I soon realize"
+    },
+    {
+      "ar": "هذا",
+      "en": "such"
+    },
+    {
+      "ar": "وَصْفٌ",
+      "en": "a conception"
+    },
+    {
+      "ar": "أَلْبَسَهُ",
+      "en": "woven"
+    }
+  ],
+  "terms": [
+    {
+      "term": "ذِكْرٍ",
+      "transliteration": "dh-k-r",
+      "literal": "remembrance; mention; memory",
+      "se_rendering": "praise",
+      "note": "Root dh-k-r usually 'remembrance' or 'mention' across 57 occurrences. 'Praise' (via verb athníka) shifts toward celebratory invocation; SE renders the semantic field of recollection as active glorification.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 597,
+          "snippet": "remembrance"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 54,
+          "snippet": "mention"
+        },
+        {
+          "work": "gleanings",
+          "para": 237,
+          "snippet": "Then it was recalled"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 117,
+          "snippet": "Time and again have I declared"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 39,
+          "snippet": "deliberate"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 274,
+          "snippet": "aforementioned"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 112,
+          "snippet": "recorded"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 34,
+          "snippet": "confined in that"
+        }
+      ]
+    },
+    {
+      "term": "المَالِكَ",
+      "transliteration": "m-l-k",
+      "literal": "kingdom; dominion; realm; sovereignty",
+      "se_rendering": "All-Possessing",
+      "note": "Consistently 'All-Possessing' aligns with root m-l-k rendered as 'kingdom' or 'realm' across 70 occurrences. SE preserves the possessive agency of the divine Name throughout.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-ahd",
+          "para": 16,
+          "snippet": "heaven"
+        },
+        {
+          "work": "gleanings",
+          "para": 394,
+          "snippet": "realm"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 171,
+          "snippet": "kingdom"
+        },
+        {
+          "work": "gleanings",
+          "para": 313,
+          "snippet": "heavenly gem"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 69,
+          "snippet": "realms"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 28,
+          "snippet": "righteous"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 167,
+          "snippet": "by the heavenly power"
+        },
+        {
+          "work": "gleanings",
+          "para": 59,
+          "snippet": "Lord"
+        }
+      ]
+    },
+    {
+      "term": "بِكَلِمَةٍ",
+      "transliteration": "k-l-m",
+      "literal": "words; utterances; locutions",
+      "se_rendering": "a word",
+      "note": "Root k-l-m typically 'His Word' or 'Word of God' across 58 occurrences. Indefinite 'a word' here emphasizes divine utterance as causative force of creation rather than a specific theological Word.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 6,
+          "snippet": "words"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 38,
+          "snippet": "His Word"
+        },
+        {
+          "work": "gleanings",
+          "para": 353,
+          "snippet": "the Word of God"
+        },
+        {
+          "work": "gleanings",
+          "para": 603,
+          "snippet": "a jewel"
+        },
+        {
+          "work": "gleanings",
+          "para": 441,
+          "snippet": "a word"
+        },
+        {
+          "work": "gleanings",
+          "para": 689,
+          "snippet": "the sayings"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 48,
+          "snippet": "Thy Word"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 2,
+          "snippet": "the Word"
+        }
+      ]
+    },
+    {
+      "term": "القَيُّومِ",
+      "transliteration": "q-w-m",
+      "literal": "rising; standing; uprising; resurrection",
+      "se_rendering": "All-Compelling",
+      "note": "Root typically renders as 'Resurrection' or 'Day of Resurrection' across 109 occurrences. Here uniquely rendered 'All-Compelling' — SE interprets the divine attribute of subsistence as overwhelming transcendence rather than temporal resurrection.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 152,
+          "snippet": "Day of Resurrection"
+        },
+        {
+          "work": "gleanings",
+          "para": 437,
+          "snippet": "arise"
+        },
+        {
+          "work": "gleanings",
+          "para": 513,
+          "snippet": "dedicateth"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 153,
+          "snippet": "Resurrection"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 74,
+          "snippet": "rise"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "peoples"
+        },
+        {
+          "work": "gleanings",
+          "para": 693,
+          "snippet": "commandments"
+        },
+        {
+          "work": "gleanings",
+          "para": 628,
+          "snippet": "My commandments"
+        }
+      ]
+    },
+    {
+      "term": "واقْتِدارِكَ",
+      "transliteration": "q-d-r",
+      "literal": "power; might; decree; measure; worth",
+      "se_rendering": "power",
+      "note": "Usually 'Thy power' or 'hath decreed' across 100 occurrences. Rendering as 'power' here maintains consistency with preceding 'might' (dread might), creating semantic parallelism with sovereignty.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 171,
+          "snippet": "a while"
+        },
+        {
+          "work": "gleanings",
+          "para": 138,
+          "snippet": "hath been decreed"
+        },
+        {
+          "work": "gleanings",
+          "para": 662,
+          "snippet": "hath decreed"
+        },
+        {
+          "work": "gleanings",
+          "para": 496,
+          "snippet": "forbearing towards"
+        },
+        {
+          "work": "gleanings",
+          "para": 111,
+          "snippet": "schools"
+        },
+        {
+          "work": "gleanings",
+          "para": 532,
+          "snippet": "can"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 4,
+          "snippet": "for a moment"
+        },
+        {
+          "work": "gleanings",
+          "para": 112,
+          "snippet": "Thy might"
+        }
+      ]
+    }
+  ],
+  "section_index": "LXXV.1",
+  "section": "LXXV",
+  "section_para": 1
 }

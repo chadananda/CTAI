@@ -1,10 +1,496 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 106,
   "source_text": "ْمَتِكَ، يا إِلهِي هذا هُوَ الَّذِيْ قُلْتَ فِيْ حَقِّهِ لَوْلاهُ مَا نُزِّلَتِ الكُتُبُ وَما أُرْسِلَتِ الرُّسُلُ، فَلَمَّا ظَهَرَ بِأَمْرِكَ وَنَطَقَ بِثَنائِكَ اجْتَمَعَ عَلَيْهِ أَشْرارُ خَلْقِكَ بِأَسْيافِ البَغْضآءِ يا مالِكَ الأَسْمآءِ، وَأَنْتَ تَعْلَمُ مَا وَرَدَ عَلَيْهِ مِنَ الَّذِينَ هَتَكُوا سِتْرَ الكِبْرِياءِ وَنَبَذُوا عَنْ وَرَائِهِمْ عَهْدَكَ وَمِيثاقَكَ يا فاطِرَ السَّمآءِ، وَهذا هُو الَّذِيْ أَنْفَقْتَ رُوحَكَ لِنَفْسِهِ وَقَبِلْتَ ضُرَّ العالَمِينَ لِظُهُورِهِ وَنَادَيْتَ الْكُلَّ بِاسْمِهِ، فَلَمَّا أَتَى مِنْ سَماءِ العَظَمَةِ وَالاقْتِدارِ بَسَطَ عَلَيْهِ عِبادُكَ أَيادِيَ الظُّلْمِ وَالنِّفاقِ وَوَرَدَ عَلَيْهِ ما لا يَتِمُّ بِالأَوْراقِ،",
   "translation": "He it is, O my God, about Whom Thou hast said: “But for Thee the Scriptures would have remained unrevealed, and the Prophets unsent.” And no sooner had He, by Thy behest, been manifested and spoken forth Thy praise, than the wicked doers among Thy creatures compassed Him round, with the swords of hate drawn against Him, O Thou the Lord of all names! Thou well knowest what befell Him at the hands of such as have rent asunder the veil of Thy grandeur, and cast behind their backs Thy Covenant and Thy Testament, O Thou Who art the Maker of the heavens! He is the One for Whose sake Thou (the Báb) hast yielded Thy life, and hast consented to be touched by the manifold ills of the world that He may manifest Himself, and summoned all mankind in His name. As soon as He came down, however, from the heaven of majesty and power, Thy servants stretched out against Him the hands of cruelty and sedition, and caused Him to be afflicted with such troubles that the scrolls of the world are insufficient to contain a full recital of them.",
   "source_lang": "ar",
-  "score": 9.9
+  "score": 9.9,
+  "page_slug": "scrolls-world-insufficient-contain",
+  "alignment": [
+    {
+      "ar": "مَتِكَ",
+      "en": "Thee"
+    },
+    {
+      "ar": "إِلهِي",
+      "en": "my God"
+    },
+    {
+      "ar": "هذا",
+      "en": "He"
+    },
+    {
+      "ar": "هُوَ",
+      "en": "it is"
+    },
+    {
+      "ar": "قُلْتَ",
+      "en": "hast said"
+    },
+    {
+      "ar": "لَوْلاهُ",
+      "en": "But for"
+    },
+    {
+      "ar": "الكُتُبُ",
+      "en": "Scriptures"
+    },
+    {
+      "ar": "أُرْسِلَتِ",
+      "en": "unsent"
+    },
+    {
+      "ar": "ظَهَرَ",
+      "en": "manifested"
+    },
+    {
+      "ar": "بِأَمْرِكَ",
+      "en": "by Thy behest"
+    },
+    {
+      "ar": "نَطَقَ",
+      "en": "spoken forth"
+    },
+    {
+      "ar": "بِثَنائِكَ",
+      "en": "Thy praise"
+    },
+    {
+      "ar": "اجْتَمَعَ",
+      "en": "compassed"
+    },
+    {
+      "ar": "عَلَيْهِ",
+      "en": "Him"
+    },
+    {
+      "ar": "أَشْرارُ",
+      "en": "wicked doers"
+    },
+    {
+      "ar": "خَلْقِكَ",
+      "en": "Thy creatures"
+    },
+    {
+      "ar": "بِأَسْيافِ",
+      "en": "swords"
+    },
+    {
+      "ar": "البَغْضآءِ",
+      "en": "hate"
+    },
+    {
+      "ar": "مالِكَ",
+      "en": "Lord"
+    },
+    {
+      "ar": "الأَسْمآءِ",
+      "en": "names"
+    },
+    {
+      "ar": "تَعْلَمُ",
+      "en": "knowest"
+    },
+    {
+      "ar": "وَرَدَ",
+      "en": "befell"
+    },
+    {
+      "ar": "هَتَكُوا",
+      "en": "rent asunder"
+    },
+    {
+      "ar": "سِتْرَ",
+      "en": "veil"
+    },
+    {
+      "ar": "الكِبْرِياءِ",
+      "en": "grandeur"
+    },
+    {
+      "ar": "نَبَذُوا",
+      "en": "cast behind"
+    },
+    {
+      "ar": "وَرَائِهِمْ",
+      "en": "their backs"
+    },
+    {
+      "ar": "عَهْدَكَ",
+      "en": "Thy Covenant"
+    },
+    {
+      "ar": "مِيثاقَكَ",
+      "en": "Thy Testament"
+    },
+    {
+      "ar": "فاطِرَ",
+      "en": "Maker"
+    },
+    {
+      "ar": "أَنْفَقْتَ",
+      "en": "yielded"
+    },
+    {
+      "ar": "رُوحَكَ",
+      "en": "Thy life"
+    },
+    {
+      "ar": "لِنَفْسِهِ",
+      "en": "for Whose sake"
+    },
+    {
+      "ar": "قَبِلْتَ",
+      "en": "consented"
+    },
+    {
+      "ar": "العالَمِينَ",
+      "en": "world"
+    },
+    {
+      "ar": "لِظُهُورِهِ",
+      "en": "that He may manifest Himself"
+    },
+    {
+      "ar": "نَادَيْتَ",
+      "en": "summoned"
+    },
+    {
+      "ar": "بِاسْمِهِ",
+      "en": "in His name"
+    },
+    {
+      "ar": "أَتَى",
+      "en": "came down"
+    },
+    {
+      "ar": "سَماءِ",
+      "en": "heaven"
+    },
+    {
+      "ar": "العَظَمَةِ",
+      "en": "majesty"
+    },
+    {
+      "ar": "الاقْتِدارِ",
+      "en": "power"
+    },
+    {
+      "ar": "بَسَطَ",
+      "en": "stretched out"
+    },
+    {
+      "ar": "عِبادُكَ",
+      "en": "Thy servants"
+    },
+    {
+      "ar": "أَيادِيَ",
+      "en": "hands"
+    },
+    {
+      "ar": "الأَوْراقِ",
+      "en": "scrolls"
+    }
+  ],
+  "terms": [
+    {
+      "term": "ظَهَرَ",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "manifested",
+      "note": "Root typically renders as 'Manifestation' or 'manifestation' across 96 occurrences; 'manifested' here is verbal form marking the central theological act of appearance.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 53,
+          "snippet": "Manifestation"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 136,
+          "snippet": "evident"
+        },
+        {
+          "work": "gleanings",
+          "para": 222,
+          "snippet": "material"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 206,
+          "snippet": "appeared"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 196,
+          "snippet": "Manifestations of God"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 32,
+          "snippet": "overwhelm the soul"
+        }
+      ]
+    },
+    {
+      "term": "وَرَدَ",
+      "transliteration": "w-r-d",
+      "literal": "to enter, to come, to befall, to arrive",
+      "se_rendering": "befell",
+      "note": "Generally 'befallen' or 'hath befallen' (36 occ); here 'befell' completes narrative of tribulation emphasizing past definiteness.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 126,
+          "snippet": "hath touched"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 61,
+          "snippet": "befallen"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 113,
+          "snippet": "came"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 183,
+          "snippet": "befell"
+        },
+        {
+          "work": "gleanings",
+          "para": 557,
+          "snippet": "will discern"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 30,
+          "snippet": "brought forth"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 204,
+          "snippet": "heaped upon"
+        },
+        {
+          "work": "gleanings",
+          "para": 489,
+          "snippet": "hath befallen"
+        }
+      ]
+    },
+    {
+      "term": "سِتْرَ",
+      "transliteration": "s-t-r",
+      "literal": "to veil; to conceal; to cover; veil; covering",
+      "se_rendering": "veil",
+      "note": "Standardly 'veil' or 'concealment' (22 occ); 'veil of Thy grandeur' maintains consistent theological imagery of divine inaccessibility rent asunder.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 216,
+          "snippet": "the veil of thy sanctity"
+        },
+        {
+          "work": "gleanings",
+          "para": 683,
+          "snippet": "concealment and revelation"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 8,
+          "snippet": "concealed"
+        },
+        {
+          "work": "gleanings",
+          "para": 586,
+          "snippet": "wrapt within the veil"
+        },
+        {
+          "work": "gleanings",
+          "para": 19,
+          "snippet": "hidden"
+        },
+        {
+          "work": "gleanings",
+          "para": 56,
+          "snippet": "was hidden"
+        },
+        {
+          "work": "gleanings",
+          "para": 434,
+          "snippet": "unrevealed"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 35,
+          "snippet": "star"
+        }
+      ]
+    },
+    {
+      "term": "رُوحَكَ",
+      "transliteration": "r-w-h",
+      "literal": "to go; to depart; to rest; spirit; soul",
+      "se_rendering": "life",
+      "note": "Usually 'spirit' or 'spiritual' (34 occ); 'life' here is rare substitution conveying absolute sacrifice—SE renders the root's soul-sense as existential surrender.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 164,
+          "snippet": "My Well-Beloved"
+        },
+        {
+          "work": "gleanings",
+          "para": 246,
+          "snippet": "My"
+        },
+        {
+          "work": "gleanings",
+          "para": 367,
+          "snippet": "spirit"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 201,
+          "snippet": "the Spirit"
+        },
+        {
+          "work": "gleanings",
+          "para": 548,
+          "snippet": "spiritual"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 215,
+          "snippet": "spiritually-minded"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 20,
+          "snippet": "a breath of My own Spirit"
+        },
+        {
+          "work": "gleanings",
+          "para": 337,
+          "snippet": "human souls"
+        }
+      ]
+    },
+    {
+      "term": "العَظَمَةِ",
+      "transliteration": "ʿ-z̟-m",
+      "literal": "greatest; supreme; mightiest",
+      "se_rendering": "majesty",
+      "note": "Root renders 'Most Great' or 'supreme' (63 occ); 'majesty' here is unique—SE chooses aesthetic rather than superlative theological language.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 56,
+          "snippet": "supreme"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 3,
+          "snippet": "greatest"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 6,
+          "snippet": "greater"
+        },
+        {
+          "work": "gleanings",
+          "para": 10,
+          "snippet": "most mighty"
+        },
+        {
+          "work": "gleanings",
+          "para": 409,
+          "snippet": "most great"
+        },
+        {
+          "work": "gleanings",
+          "para": 392,
+          "snippet": "great"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 9,
+          "snippet": "mighty"
+        },
+        {
+          "work": "gleanings",
+          "para": 169,
+          "snippet": "vast"
+        }
+      ]
+    },
+    {
+      "term": "الظُّلْمِ",
+      "transliteration": "z-l-m",
+      "literal": "wrongedness, oppression, meekness; state of being wronged or oppressed",
+      "se_rendering": "cruelty",
+      "note": "Root typically 'Wronged One' or 'wronged' (128 occ); 'cruelty' here uniquely emphasizes the active wrongdoing rather than passive state of being wronged.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 498,
+          "snippet": "afflicted with countless tribulations"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 49,
+          "snippet": "meekness"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 116,
+          "snippet": "injury"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 36,
+          "snippet": "Wronged One"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 253,
+          "snippet": "wronged"
+        },
+        {
+          "work": "gleanings",
+          "para": 221,
+          "snippet": "oppression"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 9,
+          "snippet": "Darkness"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 33,
+          "snippet": "tyranny"
+        }
+      ]
+    }
+  ],
+  "section_index": "XXXII.2",
+  "section": "XXXII",
+  "section_para": 2
 }

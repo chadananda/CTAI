@@ -1,10 +1,126 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 46,
   "source_text": "ضَيْتَ لِي بِأَنْ أَرْتَقِيَ إِلَى الرَّفِيقِ الأَبْهى وَالمَلَكُوتِ الأَسْنَی، أَيْ رَبِّ قَرِّبْهُ بِفَ",
   "translation": "Thou well knowest, however, O my God, that my wish is wholly dissolved in Thy wish, and that Thou hast irrevocably decreed that my soul should ascend unto the loftiest mansions of Thy Kingdom, and pass into the presence of my all-glorious Companion.",
   "source_lang": "ar",
-  "score": 7.7
+  "score": 7.7,
+  "page_slug": "ascend-loftiest-mansions-kingdom",
+  "alignment": [
+    {
+      "ar": "أَرْتَقِيَ",
+      "en": "ascend"
+    },
+    {
+      "ar": "الأَبْهى",
+      "en": "all-glorious"
+    },
+    {
+      "ar": "وَالمَلَكُوتِ",
+      "en": "Kingdom"
+    },
+    {
+      "ar": "الأَسْنَی",
+      "en": "loftiest mansions"
+    }
+  ],
+  "terms": [
+    {
+      "term": "الأبهى",
+      "transliteration": "b-h-y",
+      "literal": "splendor; glory; magnificence; Bahá (Proper Name in Bahá'í texts)",
+      "se_rendering": "all-glorious",
+      "note": "Root b-h-y typically rendered 'Bahá', 'Glory', or 'Abhá' (17 occ). Here 'all-glorious' uniquely modifies 'Companion,' emphasizing relational glory rather than theophoric name.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 89,
+          "snippet": "Bahá"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 59,
+          "snippet": "Glory"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 51,
+          "snippet": "Abhá"
+        },
+        {
+          "work": "gleanings",
+          "para": 645,
+          "snippet": "All-Glorious"
+        }
+      ]
+    },
+    {
+      "term": "الأسنی",
+      "transliteration": "s-n-w",
+      "literal": "most beautiful; finest; highest",
+      "se_rendering": "loftiest",
+      "note": "Only 2 occurrences in corpus; rendered 'loftiest' here, matching typical superlative sense 'most beautiful/highest.' Establishes hierarchical elevation.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 159,
+          "snippet": "sublime and fundamental"
+        }
+      ]
+    },
+    {
+      "term": "قربه",
+      "transliteration": "q-r-b",
+      "literal": "place of sacrifice; altar",
+      "se_rendering": "presence",
+      "note": "Root q-r-b primarily 'draw near/drawn nigh' (44 occ), but rendered 'presence' here—a spatial rather than relational rendering, suggesting immediate proximity to the Companion.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 3,
+          "snippet": "unto the place of sacrifice"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 35,
+          "snippet": "my kindred"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 159,
+          "snippet": "their kindred"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 163,
+          "snippet": "at hand"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 9,
+          "snippet": "well-nigh"
+        },
+        {
+          "work": "gleanings",
+          "para": 191,
+          "snippet": "near"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 199,
+          "snippet": "draw them nigh unto God"
+        },
+        {
+          "work": "gleanings",
+          "para": 266,
+          "snippet": "draw them nearer unto Thee"
+        }
+      ]
+    }
+  ],
+  "section_index": "XV.3",
+  "section": "XV",
+  "section_para": 3
 }

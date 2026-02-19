@@ -1,10 +1,596 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 475,
   "source_text": "إيّاك أن لا تدع زمام الأمور عن كفّك ولا تطمئنّ بهم ولا تكن من الغافلين، وإنّ الّذين تجد قلوبهم إلى غيرك فاحترز عنهم ولا تأمنهم على أمرك وأمور المسلمين، ولا تجعل الذّئب راعي أغنام الله ولا تدع محبّيه تحت أيدي المبغضين، إنّ الذّين يخانون الله في أمره لن تطمع منهم الأمانة ولا الدّيانة وتجنّب عنهم وكن في حفظ عظيم، لئلاّ يرد عليك مكرهم وضرّهم فأعرض عنهم ثمّ أقبل إلى الله ربّك العزيز الكريم، من كان لله كان الله له ومن يتوكّل عليه إنّه هو يحرسه عن كلّ ما يضرّه وعن شرّ كلّ مكّار لئيم، وإنّك لو تسمع قولي وتستنصح بنصحي يرفعك الله إلى مق",
   "translation": "Take heed that thou resign not the reins of the affairs of thy state into the hands of others, and repose not thy confidence in ministers unworthy of thy trust, and be not of them that live in heedlessness. Shun them whose hearts are turned away from thee, and place not thy confidence in them, and entrust them not with thine affairs and the affairs of such as profess thy faith. Beware that thou allow not the wolf to become the shepherd of God’s flock, and surrender not the fate of His loved ones to the mercy of the malicious. Expect not that they who violate the ordinances of God will be trustworthy or sincere in the faith they profess. Avoid them, and preserve strict guard over thyself, lest their devices and mischief hurt thee. Turn away from them, and fix thy gaze upon God, thy Lord, the All-Glorious, the Most Bountiful. He that giveth up himself wholly to God, God shall, assuredly, be with him; and he that placeth his complete trust in God, God shall, verily, protect him from whatsoever may harm him, and shield him from the wickedness of every evil plotter.",
   "source_lang": "ar",
-  "score": 9.9
+  "score": 9.9,
+  "page_slug": "wolf-shepherd-gods-flock",
+  "alignment": [
+    {
+      "ar": "إيّاك",
+      "en": "Take heed"
+    },
+    {
+      "ar": "تدع",
+      "en": "resign"
+    },
+    {
+      "ar": "زمام",
+      "en": "reins"
+    },
+    {
+      "ar": "الأمور",
+      "en": "affairs"
+    },
+    {
+      "ar": "كفّك",
+      "en": "hands of others"
+    },
+    {
+      "ar": "تطمئنّ",
+      "en": "repose not thy confidence"
+    },
+    {
+      "ar": "الغافلين",
+      "en": "heedlessness"
+    },
+    {
+      "ar": "الّذين",
+      "en": "them whose"
+    },
+    {
+      "ar": "تجد",
+      "en": "are"
+    },
+    {
+      "ar": "قلوبهم",
+      "en": "hearts"
+    },
+    {
+      "ar": "غيرك",
+      "en": "turned away from thee"
+    },
+    {
+      "ar": "فاحترز",
+      "en": "Shun"
+    },
+    {
+      "ar": "تأمنهم",
+      "en": "place not thy confidence"
+    },
+    {
+      "ar": "أمرك",
+      "en": "thine affairs"
+    },
+    {
+      "ar": "المسلمين",
+      "en": "such as profess thy faith"
+    },
+    {
+      "ar": "تجعل",
+      "en": "allow"
+    },
+    {
+      "ar": "الذّئب",
+      "en": "wolf"
+    },
+    {
+      "ar": "راعي",
+      "en": "shepherd"
+    },
+    {
+      "ar": "أغنام",
+      "en": "flock"
+    },
+    {
+      "ar": "الله",
+      "en": "God"
+    },
+    {
+      "ar": "تدع",
+      "en": "surrender"
+    },
+    {
+      "ar": "محبّيه",
+      "en": "His loved ones"
+    },
+    {
+      "ar": "أيدي",
+      "en": "mercy"
+    },
+    {
+      "ar": "المبغضين",
+      "en": "malicious"
+    },
+    {
+      "ar": "الذّين",
+      "en": "they who"
+    },
+    {
+      "ar": "يخانون",
+      "en": "violate"
+    },
+    {
+      "ar": "أمره",
+      "en": "ordinances"
+    },
+    {
+      "ar": "تطمع",
+      "en": "Expect"
+    },
+    {
+      "ar": "الأمانة",
+      "en": "trustworthy"
+    },
+    {
+      "ar": "الدّيانة",
+      "en": "sincere in the faith"
+    },
+    {
+      "ar": "تجنّب",
+      "en": "Avoid"
+    },
+    {
+      "ar": "حفظ",
+      "en": "guard"
+    },
+    {
+      "ar": "عظيم",
+      "en": "strict"
+    },
+    {
+      "ar": "يرد",
+      "en": "hurt"
+    },
+    {
+      "ar": "مكرهم",
+      "en": "devices and mischief"
+    },
+    {
+      "ar": "فأعرض",
+      "en": "Turn away"
+    },
+    {
+      "ar": "أقبل",
+      "en": "fix thy gaze"
+    },
+    {
+      "ar": "ربّك",
+      "en": "thy Lord"
+    },
+    {
+      "ar": "العزيز",
+      "en": "All-Glorious"
+    },
+    {
+      "ar": "الكريم",
+      "en": "Most Bountiful"
+    },
+    {
+      "ar": "كان",
+      "en": "giveth up himself"
+    },
+    {
+      "ar": "لله",
+      "en": "to God"
+    },
+    {
+      "ar": "كان",
+      "en": "be with"
+    },
+    {
+      "ar": "يتوكّل",
+      "en": "placeth his complete trust"
+    },
+    {
+      "ar": "يحرسه",
+      "en": "protect"
+    },
+    {
+      "ar": "يضرّه",
+      "en": "may harm"
+    },
+    {
+      "ar": "شرّ",
+      "en": "wickedness"
+    },
+    {
+      "ar": "مكّار",
+      "en": "plotter"
+    },
+    {
+      "ar": "لئيم",
+      "en": "evil"
+    }
+  ],
+  "terms": [
+    {
+      "term": "الأمور",
+      "transliteration": "ʾ-m-r",
+      "literal": "command; cause; matter; affair",
+      "se_rendering": "affairs",
+      "note": "Typically 'Cause' or 'command' across 75 occurrences; here rendered 'affairs' for temporal governance—contextual shift reflecting administrative rather than spiritual domain.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "His Cause"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 797,
+          "snippet": "Thy Cause"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 597,
+          "snippet": "service"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 167,
+          "snippet": "things"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "commanded"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 236,
+          "snippet": "commissioned"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 785,
+          "snippet": "Thy Revelation"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 38,
+          "snippet": "for the protection of the Cause"
+        }
+      ]
+    },
+    {
+      "term": "قلوبهم",
+      "transliteration": "q-l-b",
+      "literal": "heart; to turn; to overturn",
+      "se_rendering": "hearts",
+      "note": "Standard rendering 'hearts' maintains consistency across 60 occurrences; the phrase 'hearts turned away' emphasizes psychological disloyalty alongside action.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 187,
+          "snippet": "hearts"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 432,
+          "snippet": "their hearts"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 652,
+          "snippet": "heart"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 777,
+          "snippet": "commotion"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 13,
+          "snippet": "tumult"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 30,
+          "snippet": "thine heart"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 4,
+          "snippet": "with a pure heart"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 82,
+          "snippet": "with a sound heart"
+        }
+      ]
+    },
+    {
+      "term": "المبغضين",
+      "transliteration": "b-gh-dh",
+      "literal": "hatred; enmity; animosity",
+      "se_rendering": "malicious",
+      "note": "Regularly 'hatred' or 'enmity' across 37 occurrences; here 'malicious' as adjective describing persons—SE adapts the noun form to suit English grammatical flow.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 5,
+          "snippet": "with great enmity"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 45,
+          "snippet": "hate"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 59,
+          "snippet": "hatred"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 18,
+          "snippet": "animosity"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 14,
+          "snippet": "enmity"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 117,
+          "snippet": "every hater"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 54,
+          "snippet": "hatred and enmity"
+        }
+      ]
+    },
+    {
+      "term": "الأمانة",
+      "transliteration": "ʾ-m-n",
+      "literal": "to believe; to have faith; to be secure",
+      "se_rendering": "trustworthy",
+      "note": "Usually 'belief' or 'faith' across 32 occurrences; here 'trustworthy' shifts from religious faith to ethical reliability—semantic stretching justified by context of administrative unfitness.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 431,
+          "snippet": "believed"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 2,
+          "snippet": "faith"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 198,
+          "snippet": "Trustworthiness"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 561,
+          "snippet": "hath believed"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 7,
+          "snippet": "have ye believed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 225,
+          "snippet": "believer"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 25,
+          "snippet": "believers"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 6,
+          "snippet": "trustees"
+        }
+      ]
+    },
+    {
+      "term": "الدّيانة",
+      "transliteration": "d-y-n",
+      "literal": "religion; faith; creed",
+      "se_rendering": "faith",
+      "note": "Typically 'Faith' or 'Revelation' across 45 occurrences; 'faith they profess' captures dīn as lived religion—emphasizing sincerity of profession over doctrinal content.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "His Cause"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 18,
+          "snippet": "Faith"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 26,
+          "snippet": "Thy Faith"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 221,
+          "snippet": "Revelation"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 5,
+          "snippet": "Faith of God"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 143,
+          "snippet": "and the like"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 52,
+          "snippet": "Dispensations"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 24,
+          "snippet": "religions"
+        }
+      ]
+    },
+    {
+      "term": "حفظ",
+      "transliteration": "h-f-z",
+      "literal": "guardian; preserver; keeper",
+      "se_rendering": "guard",
+      "note": "Consistently 'protection' or 'guard' across 45 occurrences; 'guard' here preserves active sense of vigilant self-preservation rather than passive divine shielding.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 3,
+          "snippet": "protection"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 44,
+          "snippet": "shield"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 55,
+          "snippet": "guard"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 22,
+          "snippet": "Guardian"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 193,
+          "snippet": "Keep"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 90,
+          "snippet": "Watch"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 102,
+          "snippet": "Preserve"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 625,
+          "snippet": "the Preserver"
+        }
+      ]
+    },
+    {
+      "term": "العزيز",
+      "transliteration": "ʿ-z-z",
+      "literal": "glory; might; honor; dignity; power; majesty",
+      "se_rendering": "All-Glorious",
+      "note": "Usually 'glory' or 'might' across 49 occurrences; 'All-Glorious' here joins paired divine attributes—SE elevates to superlative form for liturgical rhythm.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 245,
+          "snippet": "glory"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 491,
+          "snippet": "exalted"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 99,
+          "snippet": "Dear"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 38,
+          "snippet": "dearly beloved"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 37,
+          "snippet": "Gracious"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 162,
+          "snippet": "Mighty"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 789,
+          "snippet": "Thy glory"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 158,
+          "snippet": "on thy glory"
+        }
+      ]
+    },
+    {
+      "term": "الكريم",
+      "transliteration": "k-r-m",
+      "literal": "Carmel (Mount Carmel); vineyard, fruitful field",
+      "se_rendering": "Most Bountiful",
+      "note": "Root meaning Mount Carmel; rendered 'Most Bountiful' here through gracious/generous sense—unique choice aligning with generosity theme rather than geographical reference.",
+      "cross_refs": [
+        {
+          "work": "tablet-of-carmel",
+          "para": 4,
+          "snippet": "O Carmel"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 211,
+          "snippet": "Carmel"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 50,
+          "snippet": "the All-Bountiful"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 26,
+          "snippet": "the Gracious"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 144,
+          "snippet": "generosity"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 662,
+          "snippet": "the God of bounty and mercy"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 657,
+          "snippet": "bounty"
+        }
+      ]
+    }
+  ],
+  "section_index": "CXIV.4",
+  "section": "CXIV",
+  "section_para": 4
 }

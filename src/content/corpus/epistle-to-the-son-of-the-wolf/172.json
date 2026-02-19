@@ -1,10 +1,532 @@
 {
   "work": "Epistle to the Son of the Wolf",
   "slug": "epistle-to-the-son-of-the-wolf",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 172,
   "source_text": "در جميع کتب الهی وعده لقاء صريح بوده و هست و مقصود از اين لقاء لقاء مشرق آيات و مطلع بيّنات و مظهر اسماء حسنی و مصدر صفات عليای حقّ جلّ جلاله است * حقّ بذاته و بنفسه غيب منيع لا يدرک بوده پس مقصود از لقاء لقاء نفسی است که قائم مقام اوست ما بين عباد و از برای او هم شبه و مثلی نبوده و نيست چه اگر از برای او شبه و مثلی مشاهده شود کيف يثبت تقديس ذاته و تنزيه کينونته عن الاشباه و الامثال * باری در مقامات لقاء و تجلّی در کتاب ايقان نازل شده انچه که منصفين را کفايت نمايد * نسأله تعالی ان يؤيّد الکلّ علی الصّدق الخالص و يقرّبهم اليه انّه هو المقتدر القدير لا اله الّا هو السّامع النّاطق العزيز الحميد *",
   "translation": "In all the Divine Books the promise of the Divine Presence hath been explicitly recorded. By this Presence is meant the Presence of Him Who is the Dayspring of the signs, and the Dawning-Place of the clear tokens, and the Manifestation of the Excellent Names, and the Source of the attributes, of the true God, exalted be His glory. God in His Essence and in His own Self hath ever been unseen, inaccessible, and unknowable. By Presence, therefore, is meant the Presence of the One Who is His Viceregent amongst men. He, moreover, hath never had, nor hath He, any peer or likeness. For were He to have any peer or likeness, how could it then be demonstrated that His being is exalted above, and His essence sanctified from, all comparison and likeness? Briefly, there hath been revealed in the Kitáb-i-Íqán (Book of Certitude) concerning the Presence and Revelation of God that which will suffice the fair-minded. We beseech Him - exalted be He - to aid every one to become the essence of truthfulness, and to draw nigh unto Him. He, verily, is the Lord of strength and power. No God is there but Him, the All-Hearing, the Lord of Utterance, the Almighty, the All-Praised.",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "dayspring-signs-divine-presence",
+  "alignment": [
+    {
+      "ar": "جميع",
+      "en": "all"
+    },
+    {
+      "ar": "کتب",
+      "en": "Books"
+    },
+    {
+      "ar": "الهی",
+      "en": "Divine"
+    },
+    {
+      "ar": "وعده",
+      "en": "promise"
+    },
+    {
+      "ar": "لقاء",
+      "en": "Presence"
+    },
+    {
+      "ar": "صريح",
+      "en": "explicitly"
+    },
+    {
+      "ar": "بوده",
+      "en": "recorded"
+    },
+    {
+      "ar": "مقصود",
+      "en": "meant"
+    },
+    {
+      "ar": "مشرق",
+      "en": "Dayspring"
+    },
+    {
+      "ar": "آيات",
+      "en": "signs"
+    },
+    {
+      "ar": "مطلع",
+      "en": "Dawning-Place"
+    },
+    {
+      "ar": "بيّنات",
+      "en": "clear tokens"
+    },
+    {
+      "ar": "مظهر",
+      "en": "Manifestation"
+    },
+    {
+      "ar": "اسماء",
+      "en": "Names"
+    },
+    {
+      "ar": "حسنی",
+      "en": "Excellent"
+    },
+    {
+      "ar": "مصدر",
+      "en": "Source"
+    },
+    {
+      "ar": "صفات",
+      "en": "attributes"
+    },
+    {
+      "ar": "عليای",
+      "en": "true"
+    },
+    {
+      "ar": "حقّ",
+      "en": "God"
+    },
+    {
+      "ar": "جلّ جلاله",
+      "en": "exalted be His glory"
+    },
+    {
+      "ar": "بذاته",
+      "en": "in His Essence"
+    },
+    {
+      "ar": "بنفسه",
+      "en": "in His own Self"
+    },
+    {
+      "ar": "غيب",
+      "en": "unseen"
+    },
+    {
+      "ar": "منيع",
+      "en": "inaccessible"
+    },
+    {
+      "ar": "لا يدرک",
+      "en": "unknowable"
+    },
+    {
+      "ar": "نفسی",
+      "en": "One"
+    },
+    {
+      "ar": "قائم مقام",
+      "en": "Viceregent"
+    },
+    {
+      "ar": "عباد",
+      "en": "men"
+    },
+    {
+      "ar": "شبه",
+      "en": "peer"
+    },
+    {
+      "ar": "مثلی",
+      "en": "likeness"
+    },
+    {
+      "ar": "نبوده",
+      "en": "never had"
+    },
+    {
+      "ar": "نيست",
+      "en": "hath He"
+    },
+    {
+      "ar": "مشاهده شود",
+      "en": "have"
+    },
+    {
+      "ar": "کيف يثبت",
+      "en": "how could it then be demonstrated"
+    },
+    {
+      "ar": "تقديس",
+      "en": "sanctified"
+    },
+    {
+      "ar": "ذاته",
+      "en": "His being"
+    },
+    {
+      "ar": "تنزيه",
+      "en": "exalted above"
+    },
+    {
+      "ar": "کينونته",
+      "en": "essence"
+    },
+    {
+      "ar": "عن الاشباه و الامثال",
+      "en": "all comparison and likeness"
+    },
+    {
+      "ar": "باری",
+      "en": "Briefly"
+    },
+    {
+      "ar": "تجلّی",
+      "en": "Revelation"
+    },
+    {
+      "ar": "کتاب ايقان",
+      "en": "Kitáb-i-Íqán"
+    },
+    {
+      "ar": "نازل شده",
+      "en": "revealed"
+    },
+    {
+      "ar": "انچه",
+      "en": "that which"
+    },
+    {
+      "ar": "منصفين",
+      "en": "fair-minded"
+    },
+    {
+      "ar": "کفايت نمايد",
+      "en": "suffice"
+    },
+    {
+      "ar": "نسأله",
+      "en": "We beseech Him"
+    },
+    {
+      "ar": "تعالی",
+      "en": "exalted be He"
+    },
+    {
+      "ar": "يؤيّد",
+      "en": "aid"
+    },
+    {
+      "ar": "الکلّ",
+      "en": "every one"
+    },
+    {
+      "ar": "الصّدق",
+      "en": "truthfulness"
+    },
+    {
+      "ar": "يقرّبهم",
+      "en": "draw nigh"
+    },
+    {
+      "ar": "اليه",
+      "en": "unto Him"
+    },
+    {
+      "ar": "المقتدر",
+      "en": "Lord of strength"
+    },
+    {
+      "ar": "القدير",
+      "en": "power"
+    },
+    {
+      "ar": "لا اله الّا هو",
+      "en": "No God is there but Him"
+    },
+    {
+      "ar": "السّامع",
+      "en": "All-Hearing"
+    },
+    {
+      "ar": "النّاطق",
+      "en": "Lord of Utterance"
+    },
+    {
+      "ar": "العزيز",
+      "en": "Almighty"
+    },
+    {
+      "ar": "الحميد",
+      "en": "All-Praised"
+    }
+  ],
+  "terms": [
+    {
+      "term": "لقاء",
+      "transliteration": "l-q-y",
+      "literal": "opposite; facing; in front of; towards",
+      "se_rendering": "the Divine Presence; the Presence",
+      "note": "Typically rendered 'in the face of' or 'Judgment Day' (30 occ.); here exclusively 'Divine Presence/Presence' — SE transforms the spatial-temporal concept into direct theological presence, anchoring the passage's core doctrine.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 337,
+          "snippet": "in the face of"
+        },
+        {
+          "work": "gleanings",
+          "para": 375,
+          "snippet": "before"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 33,
+          "snippet": "the Divine Presence"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 149,
+          "snippet": "attainment unto the Divine Presence"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 216,
+          "snippet": "the Judgment Day"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 805,
+          "snippet": "hath attained unto Thy presence"
+        },
+        {
+          "work": "gleanings",
+          "para": 31,
+          "snippet": "hath attained unto His Presence"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 234,
+          "snippet": "that they shall ever meet Him"
+        }
+      ]
+    },
+    {
+      "term": "مظهر",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "Manifestation",
+      "note": "Standard 'Manifestation' or 'manifestation' rendering (96 occ.); consistently applied here in theological context as 'Manifestation of the Excellent Names' — SE maintains doctrinal precision.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 53,
+          "snippet": "Manifestation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 160,
+          "snippet": "Author of all Manifestations"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 136,
+          "snippet": "evident"
+        },
+        {
+          "work": "gleanings",
+          "para": 222,
+          "snippet": "material"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 196,
+          "snippet": "Manifestations of God"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 255,
+          "snippet": "Manifestations"
+        }
+      ]
+    },
+    {
+      "term": "مشاهده",
+      "transliteration": "sh-h-d",
+      "literal": "witnessed; observed; seen; evident; manifest",
+      "se_rendering": "demonstrated",
+      "note": "Root sh-h-d usually 'manifest' or 'I testify' (74 occ.); 'demonstrated' here shifts from passive observation to active proof — emphasizes logical necessity rather than witnessing.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 607,
+          "snippet": "manifest"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 35,
+          "snippet": "evident"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 811,
+          "snippet": "I bear witness"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 836,
+          "snippet": "I testify"
+        },
+        {
+          "work": "gleanings",
+          "para": 298,
+          "snippet": "witness"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 138,
+          "snippet": "martyrdom"
+        },
+        {
+          "work": "gleanings",
+          "para": 134,
+          "snippet": "God witnesseth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 230,
+          "snippet": "God testifieth"
+        }
+      ]
+    },
+    {
+      "term": "نازل",
+      "transliteration": "n-z-l",
+      "literal": "to descend, to be revealed",
+      "se_rendering": "revealed",
+      "note": "Standard 'revealed' or 'sent down' (88 occ.); 'revealed' used here — consistency with SE's doctrinal rendering of divine communication within sacred texts.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 643,
+          "snippet": "sent down"
+        },
+        {
+          "work": "gleanings",
+          "para": 218,
+          "snippet": "revealed"
+        },
+        {
+          "work": "gleanings",
+          "para": 656,
+          "snippet": "descended"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 175,
+          "snippet": "didst send down"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 34,
+          "snippet": "Descend"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 47,
+          "snippet": "pour forth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 330,
+          "snippet": "send down"
+        },
+        {
+          "work": "gleanings",
+          "para": 604,
+          "snippet": "have been sent down"
+        }
+      ]
+    },
+    {
+      "term": "منصفين",
+      "transliteration": "n-ṣ-f",
+      "literal": "justice; fairness; equity",
+      "se_rendering": "fair-minded",
+      "note": "Root n-ṣ-f typically 'justice' or 'fairness' (25 occ.); 'fair-minded' here as adjective — SE moralizes the noun, implying ethical discernment in the reader rather than abstract principle.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 63,
+          "snippet": "justice"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 184,
+          "snippet": "fair"
+        },
+        {
+          "work": "gleanings",
+          "para": 470,
+          "snippet": "injustice"
+        },
+        {
+          "work": "gleanings",
+          "para": 180,
+          "snippet": "judge fairly"
+        }
+      ]
+    },
+    {
+      "term": "المقتدر",
+      "transliteration": "q-d-r",
+      "literal": "power; might; decree; measure; worth",
+      "se_rendering": "Lord of strength and power",
+      "note": "Root q-d-r variously 'Thy power,' 'hath decreed,' or 'forbearing' (100 occ.); 'Lord of strength and power' here — SE amplifies through paired synonyms, creating liturgical resonance in the closing invocation.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 339,
+          "snippet": "Thy power"
+        },
+        {
+          "work": "gleanings",
+          "para": 138,
+          "snippet": "hath been decreed"
+        },
+        {
+          "work": "gleanings",
+          "para": 662,
+          "snippet": "hath decreed"
+        },
+        {
+          "work": "gleanings",
+          "para": 496,
+          "snippet": "forbearing towards"
+        },
+        {
+          "work": "gleanings",
+          "para": 111,
+          "snippet": "schools"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 12,
+          "snippet": "God of power"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 35,
+          "snippet": "Potent"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 282,
+          "snippet": "Almighty"
+        }
+      ]
+    }
+  ],
+  "section_index": "172",
+  "section": "172",
+  "section_para": 1
 }

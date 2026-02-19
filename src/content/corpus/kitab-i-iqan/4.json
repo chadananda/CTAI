@@ -1,10 +1,544 @@
 {
   "work": "Kitab-i-Iqan",
   "slug": "kitab-i-iqan",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 4,
   "source_text": "حال قدری تأمّل نمائيد که سبب اعتراض ناس بعد از طلب و آمال ايشان چه بود.  و به قسمی هم اعتراض می نمودند که زبان و بيان و تقرير و تحرير همه از ذکر آن عاجز و قاصر است.  و احدی از مظاهر قدسيّه و مطالع احديّه ظاهر نشد مگر آنکه به اعتراض و انکار و احتجاج ناس مبتلاگشت.  چنانچه می فرمايد:  \"يا حَسرَةً عَلَی العِبادِ ما يأتيهِمْ مِن رَسُولٍ إلّا کَانُوا بِهِ يَستَهزِؤونَ.\"  و در مقام ديگر می فرمايد:\n\"وَ هَمَّتْ کلُّ اُمّةٍ  بِرَسولِهِم لِيَأخُذوهُ وَ جادَلُوا بِالباطل لِيُدحِضوا بِهِ الحَقّ.\"",
   "translation": "Ponder for a moment, and reflect upon that which hath been the cause of such denial on the part of those who have searched with such earnestness and longing. Their attack hath been more fierce than tongue or pen can describe. Not one single Manifestation of Holiness hath appeared but He was afflicted by the denials, the repudiation, and the vehement opposition of the people around Him. Thus it hath been revealed: “O the misery of men! No Messenger cometh unto them but they laugh Him to scorn.” Again He saith: “Each nation hath plotted darkly against their Messenger to lay violent hold on Him, and disputed with vain words to invalidate the truth.”",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "manifestation-afflicted-denial-opposition",
+  "alignment": [
+    {
+      "ar": "حال",
+      "en": "for a moment"
+    },
+    {
+      "ar": "تأمّل",
+      "en": "Ponder"
+    },
+    {
+      "ar": "که",
+      "en": "that"
+    },
+    {
+      "ar": "سبب",
+      "en": "the cause"
+    },
+    {
+      "ar": "اعتراض",
+      "en": "denial"
+    },
+    {
+      "ar": "ناس",
+      "en": "those"
+    },
+    {
+      "ar": "بعد از",
+      "en": "on the part of"
+    },
+    {
+      "ar": "طلب",
+      "en": "searched"
+    },
+    {
+      "ar": "آمال",
+      "en": "longing"
+    },
+    {
+      "ar": "ايشان",
+      "en": "who"
+    },
+    {
+      "ar": "چه",
+      "en": "which"
+    },
+    {
+      "ar": "بود",
+      "en": "hath been"
+    },
+    {
+      "ar": "به قسمی",
+      "en": "more fierce"
+    },
+    {
+      "ar": "می نمودند",
+      "en": "attack"
+    },
+    {
+      "ar": "زبان",
+      "en": "tongue"
+    },
+    {
+      "ar": "تقرير",
+      "en": "pen"
+    },
+    {
+      "ar": "همه",
+      "en": "can describe"
+    },
+    {
+      "ar": "ذکر",
+      "en": "describe"
+    },
+    {
+      "ar": "احدی",
+      "en": "Not one single"
+    },
+    {
+      "ar": "مظاهر",
+      "en": "Manifestation"
+    },
+    {
+      "ar": "قدسيّه",
+      "en": "of Holiness"
+    },
+    {
+      "ar": "احديّه",
+      "en": "Holiness"
+    },
+    {
+      "ar": "ظاهر نشد",
+      "en": "hath appeared"
+    },
+    {
+      "ar": "مگر",
+      "en": "but"
+    },
+    {
+      "ar": "آنکه",
+      "en": "He"
+    },
+    {
+      "ar": "انکار",
+      "en": "repudiation"
+    },
+    {
+      "ar": "احتجاج",
+      "en": "vehement opposition"
+    },
+    {
+      "ar": "مبتلاگشت",
+      "en": "was afflicted"
+    },
+    {
+      "ar": "چنانچه",
+      "en": "Thus"
+    },
+    {
+      "ar": "می فرمايد",
+      "en": "it hath been revealed"
+    },
+    {
+      "ar": "يا حَسرَةً",
+      "en": "O the misery"
+    },
+    {
+      "ar": "عَلَی",
+      "en": "of"
+    },
+    {
+      "ar": "العِبادِ",
+      "en": "men"
+    },
+    {
+      "ar": "ما",
+      "en": "No"
+    },
+    {
+      "ar": "يأتيهِمْ",
+      "en": "cometh unto them"
+    },
+    {
+      "ar": "رَسُولٍ",
+      "en": "Messenger"
+    },
+    {
+      "ar": "کَانُوا",
+      "en": "they"
+    },
+    {
+      "ar": "بِهِ",
+      "en": "Him"
+    },
+    {
+      "ar": "يَستَهزِؤونَ",
+      "en": "laugh Him to scorn"
+    },
+    {
+      "ar": "مقام",
+      "en": "Again"
+    },
+    {
+      "ar": "اُمّةٍ",
+      "en": "nation"
+    },
+    {
+      "ar": "بِرَسولِهِم",
+      "en": "their Messenger"
+    },
+    {
+      "ar": "لِيَأخُذوهُ",
+      "en": "to lay violent hold on Him"
+    },
+    {
+      "ar": "جادَلُوا",
+      "en": "disputed"
+    },
+    {
+      "ar": "بِالباطل",
+      "en": "with vain words"
+    },
+    {
+      "ar": "لِيُدحِضوا",
+      "en": "to invalidate"
+    },
+    {
+      "ar": "الحَقّ",
+      "en": "the truth"
+    }
+  ],
+  "terms": [
+    {
+      "term": "اعتراض",
+      "transliteration": "ʿ-t-r-ḍ",
+      "literal": "objection, protest, denial; cavil",
+      "se_rendering": "denial",
+      "note": "SE renders as 'denial' here; corpus shows 'objection' and 'cavils' are equally common. 'Denial' emphasizes theological rejection over procedural objection.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 181,
+          "snippet": "have objected"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 168,
+          "snippet": "objection"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 9,
+          "snippet": "any cavils they may raise"
+        },
+        {
+          "work": "gleanings",
+          "para": 647,
+          "snippet": "object"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 83,
+          "snippet": "opposed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 29,
+          "snippet": "protested against"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 273,
+          "snippet": "opposed me"
+        }
+      ]
+    },
+    {
+      "term": "تحریر",
+      "transliteration": "h-r-k",
+      "literal": "movement; motion; trembling",
+      "se_rendering": "pen",
+      "note": "SE renders as 'pen' (metonomy); root means 'motion/movement.' 'Falsification' appears in corpus but inapplicable here; choice creates parallelism with 'tongue.'",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 10,
+          "snippet": "trembling"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 42,
+          "snippet": "falsification"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 43,
+          "snippet": "alert and active"
+        },
+        {
+          "work": "gleanings",
+          "para": 655,
+          "snippet": "that movest me"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 96,
+          "snippet": "MOVING FORM OF DUST"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 13,
+          "snippet": "the breezes of the All-Glorious"
+        },
+        {
+          "work": "gleanings",
+          "para": 159,
+          "snippet": "agitate"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 506,
+          "snippet": "soared"
+        }
+      ]
+    },
+    {
+      "term": "ذکر",
+      "transliteration": "dh-k-r",
+      "literal": "remembrance; mention; memory",
+      "se_rendering": "mention",
+      "note": "Standard 'mention' used; corpus shows 'remembrance' is primary (57 occ). Choice here suits rhetorical context of inability to describe.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 597,
+          "snippet": "remembrance"
+        },
+        {
+          "work": "gleanings",
+          "para": 237,
+          "snippet": "Then it was recalled"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 117,
+          "snippet": "Time and again have I declared"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 39,
+          "snippet": "deliberate"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 112,
+          "snippet": "recorded"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 34,
+          "snippet": "confined in that"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 4,
+          "snippet": "mentioned"
+        },
+        {
+          "work": "gleanings",
+          "para": 721,
+          "snippet": "remembered"
+        }
+      ]
+    },
+    {
+      "term": "عاجز",
+      "transliteration": "ʿ-j-z",
+      "literal": "to be unable; to fail; to be exhausted; impotence",
+      "se_rendering": "unable",
+      "note": "SE renders 'unable' here; corpus shows 'powerless' and 'helplessness' frequent. Selection fits grammatical parallelism with 'qāṣir.'",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 49,
+          "snippet": "tribulation hath exhausted me"
+        },
+        {
+          "work": "gleanings",
+          "para": 297,
+          "snippet": "powerlessness"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 41,
+          "snippet": "helplessness"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 425,
+          "snippet": "can utter"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 584,
+          "snippet": "powerless"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 745,
+          "snippet": "unable"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 62,
+          "snippet": "have been withheld"
+        },
+        {
+          "work": "gleanings",
+          "para": 449,
+          "snippet": "frustrate His Will"
+        }
+      ]
+    },
+    {
+      "term": "مظاهر",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "Manifestation",
+      "note": "Standard rendering 'Manifestation' used here; consistent with 96 occurrences. 'Holy' added by SE, not in Persian source.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 53,
+          "snippet": "Manifestation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 160,
+          "snippet": "Author of all Manifestations"
+        },
+        {
+          "work": "gleanings",
+          "para": 222,
+          "snippet": "material"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 206,
+          "snippet": "appeared"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 255,
+          "snippet": "Manifestations"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 791,
+          "snippet": "tokens of Thy handiwork"
+        }
+      ]
+    },
+    {
+      "term": "مطالع",
+      "transliteration": "t-l-ʿ",
+      "literal": "rising; appearance; countenance; manifestation",
+      "se_rendering": "Manifestations",
+      "note": "Rendered 'Manifestations' here; corpus typically shows 'countenances' or 'sources.' This rendering parallels مظاهر rather than distinguishing it.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 856,
+          "snippet": "countenances"
+        },
+        {
+          "work": "gleanings",
+          "para": 35,
+          "snippet": "Revealers of the beauty"
+        },
+        {
+          "work": "gleanings",
+          "para": 364,
+          "snippet": "Manifestations"
+        },
+        {
+          "work": "gleanings",
+          "para": 221,
+          "snippet": "instigators"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "sources of command"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 16,
+          "snippet": "embodiments"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 21,
+          "snippet": "daysprings"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 24,
+          "snippet": "exponents"
+        }
+      ]
+    },
+    {
+      "term": "رسول",
+      "transliteration": "r-s-l",
+      "literal": "to send; dispatch; transmission",
+      "se_rendering": "Messenger",
+      "note": "Standard 'Messenger' used; corpus shows 'Messengers' dominant. Singular form and Qur'anic context preserve original collective sense.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 95,
+          "snippet": "dispatch"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 202,
+          "snippet": "communicate"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 45,
+          "snippet": "Thy Messengers"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 53,
+          "snippet": "treatise on"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 98,
+          "snippet": "messages"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 145,
+          "snippet": "Epistle"
+        },
+        {
+          "work": "gleanings",
+          "para": 107,
+          "snippet": "Messengership"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 5,
+          "snippet": "King of the Messengers"
+        }
+      ]
+    }
+  ],
+  "section_index": "4",
+  "section": "4",
+  "section_para": 1
 }

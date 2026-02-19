@@ -1,10 +1,397 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 560,
   "source_text": "وَعَلَى أَحِبَّتِي ما يَسْتَقِيمُهُمْ عَلَى أَمْرِكَ، ثُمَّ اجْعَلْهُمْ أَيادِيَ أَمْرِكَ بَيْنَ عِبادِكَ لِيَنْتَشِرَ مِنْهُمْ آثارُكَ وَيَظْهَرَ سُلْطانُكَ، لا إِلهَ إِلاَّ أَنْتَ المُقْتَدِرُ عَلَى ما تُرِيْدُ وَإِنَّكَ أَنْتَ العَزِيزُ الحَمِيدُ.",
   "translation": "Send down, therefore, O my Lord, upon me and upon them that love me, that which will cause us to become steadfast in Thy Faith. Enable them, then, to become the Hands of Thy Cause amongst Thy servants, that they may scatter abroad Thy signs, and show forth Thy sovereignty. There is no God but Thee, Who art powerful to do whatsoever Thou willest. Thou art, in truth, the All-Glorious, the All-Praised.",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "hands-cause-scatter-signs",
+  "alignment": [
+    {
+      "ar": "يَسْتَقِيمُهُمْ",
+      "en": "become steadfast"
+    },
+    {
+      "ar": "أَمْرِكَ",
+      "en": "Thy Faith"
+    },
+    {
+      "ar": "اجْعَلْهُمْ",
+      "en": "Enable them"
+    },
+    {
+      "ar": "أَيادِيَ",
+      "en": "the Hands"
+    },
+    {
+      "ar": "أَمْرِكَ",
+      "en": "Thy Cause"
+    },
+    {
+      "ar": "عِبادِكَ",
+      "en": "Thy servants"
+    },
+    {
+      "ar": "يَنْتَشِرَ",
+      "en": "scatter abroad"
+    },
+    {
+      "ar": "آثارُكَ",
+      "en": "Thy signs"
+    },
+    {
+      "ar": "يَظْهَرَ",
+      "en": "show forth"
+    },
+    {
+      "ar": "سُلْطانُكَ",
+      "en": "Thy sovereignty"
+    },
+    {
+      "ar": "المُقْتَدِرُ",
+      "en": "powerful"
+    },
+    {
+      "ar": "تُرِيْدُ",
+      "en": "willest"
+    },
+    {
+      "ar": "العَزِيزُ",
+      "en": "the All-Glorious"
+    },
+    {
+      "ar": "الحَمِيدُ",
+      "en": "the All-Praised"
+    }
+  ],
+  "terms": [
+    {
+      "term": "أَمْرِكَ",
+      "transliteration": "ʾ-m-r",
+      "literal": "command; cause; matter; affair",
+      "se_rendering": "Cause",
+      "note": "Typically 'Cause' or 'command' across 75 occurrences. SE's 'Cause' rendering here is the standard fixed term in Bahá'í English usage, denoting the divine purpose.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "His Cause"
+        },
+        {
+          "work": "gleanings",
+          "para": 586,
+          "snippet": "His command"
+        },
+        {
+          "work": "gleanings",
+          "para": 691,
+          "snippet": "His Revelation"
+        },
+        {
+          "work": "gleanings",
+          "para": 723,
+          "snippet": "Cause"
+        },
+        {
+          "work": "gleanings",
+          "para": 8,
+          "snippet": "Revelation"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 167,
+          "snippet": "things"
+        },
+        {
+          "work": "gleanings",
+          "para": 524,
+          "snippet": "your affairs"
+        },
+        {
+          "work": "gleanings",
+          "para": 495,
+          "snippet": "affairs"
+        }
+      ]
+    },
+    {
+      "term": "أَيادِيَ",
+      "transliteration": "y-d",
+      "literal": "hand; power; strength; (plural) hands; agents; helpers",
+      "se_rendering": "Hands",
+      "note": "Consistently rendered 'Hands' (13 occurrences). Here SE capitalizes it as 'Hands of Thy Cause' — the technical Bahá'í term for appointed representatives.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 19,
+          "snippet": "Hands"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 174,
+          "snippet": "with the hands"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 95,
+          "snippet": "with their own hands"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 244,
+          "snippet": "with their hands"
+        }
+      ]
+    },
+    {
+      "term": "آثارُكَ",
+      "transliteration": "ʾ-th-r",
+      "literal": "effect; trace; influence; imprint",
+      "se_rendering": "signs",
+      "note": "Root yields 'trace', 'reflection', 'effect' across 17 occurrences. SE renders as 'signs' here—a theologically significant choice emphasizing manifestation over imprint.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 158,
+          "snippet": "trace"
+        },
+        {
+          "work": "gleanings",
+          "para": 383,
+          "snippet": "reflection"
+        },
+        {
+          "work": "gleanings",
+          "para": 377,
+          "snippet": "effect"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 65,
+          "snippet": "effects"
+        },
+        {
+          "work": "gleanings",
+          "para": 666,
+          "snippet": "prefer"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 30,
+          "snippet": "affected"
+        },
+        {
+          "work": "gleanings",
+          "para": 289,
+          "snippet": "signs"
+        },
+        {
+          "work": "gleanings",
+          "para": 321,
+          "snippet": "evidences"
+        }
+      ]
+    },
+    {
+      "term": "سُلْطانُكَ",
+      "transliteration": "s-l-ṭ",
+      "literal": "dominion; authority; power; sovereignty; control",
+      "se_rendering": "sovereignty",
+      "note": "Most common rendering is 'sovereignty' (43 occurrences); alternatives include 'dominion' and 'authority'. SE's 'sovereignty' here reinforces divine majesty and universal control.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 369,
+          "snippet": "sovereignty"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 151,
+          "snippet": "dominion"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 13,
+          "snippet": "O King"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 157,
+          "snippet": "the Sháh"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 1,
+          "snippet": "the King"
+        },
+        {
+          "work": "gleanings",
+          "para": 472,
+          "snippet": "King (Sulṭán 'Abdu'l-'Azíz)"
+        },
+        {
+          "work": "gleanings",
+          "para": 236,
+          "snippet": "the Sulṭán"
+        },
+        {
+          "work": "gleanings",
+          "para": 592,
+          "snippet": "by virtue of His sovereignty"
+        }
+      ]
+    },
+    {
+      "term": "المُقْتَدِرُ",
+      "transliteration": "q-d-r",
+      "literal": "power; might; decree; measure; worth",
+      "se_rendering": "powerful",
+      "note": "Usually 'power' or 'might' across 100 occurrences; other forms include 'hath decreed'. SE's 'powerful' here is verbal and active, emphasizing divine agency and will.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 171,
+          "snippet": "a while"
+        },
+        {
+          "work": "gleanings",
+          "para": 138,
+          "snippet": "hath been decreed"
+        },
+        {
+          "work": "gleanings",
+          "para": 662,
+          "snippet": "hath decreed"
+        },
+        {
+          "work": "gleanings",
+          "para": 496,
+          "snippet": "forbearing towards"
+        },
+        {
+          "work": "gleanings",
+          "para": 111,
+          "snippet": "schools"
+        },
+        {
+          "work": "gleanings",
+          "para": 532,
+          "snippet": "can"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 4,
+          "snippet": "for a moment"
+        },
+        {
+          "work": "gleanings",
+          "para": 112,
+          "snippet": "Thy might"
+        }
+      ]
+    },
+    {
+      "term": "العَزِيزُ",
+      "transliteration": "ʿ-z-z",
+      "literal": "glory; might; honor; dignity; power; majesty",
+      "se_rendering": "All-Glorious",
+      "note": "Typically 'glory' or 'honor' across 49 occurrences. SE's 'All-Glorious' here amplifies majesty through intensification, matching paired 'All-Praised'.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 185,
+          "snippet": "glory"
+        },
+        {
+          "work": "gleanings",
+          "para": 642,
+          "snippet": "honor"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 99,
+          "snippet": "Dear"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 38,
+          "snippet": "dearly beloved"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 37,
+          "snippet": "Gracious"
+        },
+        {
+          "work": "gleanings",
+          "para": 260,
+          "snippet": "All-Glorious"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 162,
+          "snippet": "Mighty"
+        },
+        {
+          "work": "gleanings",
+          "para": 660,
+          "snippet": "powerful"
+        }
+      ]
+    },
+    {
+      "term": "الحَمِيدُ",
+      "transliteration": "h-m-d",
+      "literal": "praise; to praise",
+      "se_rendering": "All-Praised",
+      "note": "Standard renderings are 'Praise' and 'Praised be Thou' across 25 occurrences. SE's 'All-Praised' here is a superlative formation paralleling 'All-Glorious'.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "All praise"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 2,
+          "snippet": "Praise be"
+        },
+        {
+          "work": "gleanings",
+          "para": 717,
+          "snippet": "All praise be"
+        },
+        {
+          "work": "gleanings",
+          "para": 186,
+          "snippet": "the All-Praised"
+        },
+        {
+          "work": "gleanings",
+          "para": 231,
+          "snippet": "glorious"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 159,
+          "snippet": "glorious station"
+        },
+        {
+          "work": "gleanings",
+          "para": 260,
+          "snippet": "All-Praised"
+        },
+        {
+          "work": "gleanings",
+          "para": 266,
+          "snippet": "praiseworthy"
+        }
+      ]
+    }
+  ],
+  "section_index": "CXXVII.3",
+  "section": "CXXVII",
+  "section_para": 3
 }

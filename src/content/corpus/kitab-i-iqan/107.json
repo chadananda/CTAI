@@ -1,10 +1,633 @@
 {
   "work": "Kitab-i-Iqan",
   "slug": "kitab-i-iqan",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 107,
   "source_text": "و احاديث و اخبار مدلّه بر اين مطلب بسيار است و اين بنده نظر به اختصار متعرّض ذکر آنها نشدم.  بلکه آنچه در آسمان ها و زمين است محالّ بروز صفات و اسمای الهی هستند چنانچه در هر ذرهّ آثار تجلّی آن شمس حقيقی ظاهر و هويدا است که گويا بدون ظهور آن تجلّی در عالم ملکی هيچ شیء به خلعت هستی مفتخر نيايد و به وجود مشرّف نشود.  چه آفتاب های معارف که در ذرّه مستور شده و  چه بحرهای حکمت که در قطره پنهان گشته.  خاصّه انسان که از بين موجودات به اين خلَع تخصيص يافته و به اين شرافت ممتاز گشته.  چنانچه جميع صفات و اسمای الهی ازمظاهر انسانی به نحو اکمل و اشرف ظاهر و هويدا است وکلّ اين اسماء و صفات راجع به اوست.  اين است که فرموده :\n\"اَلإنسانُ سِرّی و اَنَا سِرّهُ.\" و آيات متواتره که مدلّ و مشعربر اين مطلب رقيق لطيف است در جميع کتب سماويّه و صحف الهيّه مسطور و مذکور است.  چنانچه می فرمايد:\n\" سَنُريهِمْ آيَاتِنَا فِی الآفَاقِ وَ فِی اَنفُسِهِم.\"  و در مقام ديگرمی فرمايد :  \"وَ فِی اَنْفُسِکُم اَفَلا تُبصِروُنَ. \"  و در مقام ديگر می فرمايد:  \"لا تَکُونُوا کَالَّذينَ نَسُوا اللّهَ فَاَنسَاهُمْ اَنفُسَهُم. \"   چنانچه سلطان بقا، روح من فی سرادق العماء فداه می فرمايد :  \"مَن عَرَفَ نَفسَهُ فَقَد عَرَفَ رَبّه.\"",
   "translation": "The traditions and sayings that bear direct reference to Our theme are divers and manifold; We have refrained from quoting them for the sake of brevity. Nay, whatever is in the heavens and whatever is on the earth is a direct evidence of the revelation within it of the attributes and names of God, inasmuch as within every atom are enshrined the signs that bear eloquent testimony to the revelation of that most great Light. Methinks, but for the potency of that revelation, no being could ever exist. How resplendent the luminaries of knowledge that shine in an atom, and how vast the oceans of wisdom that surge within a drop! To a supreme degree is this true of man, who, among all created things, hath been invested with the robe of such gifts, and hath been singled out for the glory of such distinction. For in him are potentially revealed all the attributes and names of God to a degree that no other created being hath excelled or surpassed. All these names and attributes are applicable to him. Even as He hath said: “Man is My mystery, and I am his mystery.” Manifold are the verses that have been repeatedly revealed in all the heavenly Books and the holy Scriptures, expressive of this most subtle and lofty theme. Even as He hath revealed: “We will surely show them Our signs in the world and within themselves.” Again He saith: “And also in your own selves: will ye not then behold the signs of God?” And yet again He revealeth: “And be ye not like those who forget God, and whom He hath therefore caused to forget their own selves.” In this connection, He Who is the eternal King—may the souls of all that dwell within the mystic Tabernacle be a sacrifice unto Him—hath spoken: “He hath known God who hath known himself.”",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "man-is-my-mystery",
+  "alignment": [
+    {
+      "ar": "احاديث",
+      "en": "traditions"
+    },
+    {
+      "ar": "اخبار",
+      "en": "sayings"
+    },
+    {
+      "ar": "مدلّه",
+      "en": "bear direct reference"
+    },
+    {
+      "ar": "بر",
+      "en": "to"
+    },
+    {
+      "ar": "اين",
+      "en": "Our"
+    },
+    {
+      "ar": "مطلب",
+      "en": "theme"
+    },
+    {
+      "ar": "بسيار",
+      "en": "divers and manifold"
+    },
+    {
+      "ar": "است",
+      "en": "are"
+    },
+    {
+      "ar": "بنده",
+      "en": "We"
+    },
+    {
+      "ar": "نظر",
+      "en": "for"
+    },
+    {
+      "ar": "اختصار",
+      "en": "brevity"
+    },
+    {
+      "ar": "متعرّض",
+      "en": "refrained"
+    },
+    {
+      "ar": "ذکر",
+      "en": "quoting"
+    },
+    {
+      "ar": "آنها",
+      "en": "them"
+    },
+    {
+      "ar": "نشدم",
+      "en": "have refrained"
+    },
+    {
+      "ar": "بلکه",
+      "en": "Nay"
+    },
+    {
+      "ar": "آنچه",
+      "en": "whatever"
+    },
+    {
+      "ar": "آسمان",
+      "en": "heavens"
+    },
+    {
+      "ar": "زمين",
+      "en": "earth"
+    },
+    {
+      "ar": "محالّ",
+      "en": "evidence"
+    },
+    {
+      "ar": "بروز",
+      "en": "revelation"
+    },
+    {
+      "ar": "صفات",
+      "en": "attributes"
+    },
+    {
+      "ar": "اسمای",
+      "en": "names"
+    },
+    {
+      "ar": "الهی",
+      "en": "God"
+    },
+    {
+      "ar": "هستند",
+      "en": "is"
+    },
+    {
+      "ar": "چنانچه",
+      "en": "inasmuch as"
+    },
+    {
+      "ar": "هر",
+      "en": "every"
+    },
+    {
+      "ar": "ذرهّ",
+      "en": "atom"
+    },
+    {
+      "ar": "آثار",
+      "en": "signs"
+    },
+    {
+      "ar": "آن",
+      "en": "that"
+    },
+    {
+      "ar": "شمس",
+      "en": "Light"
+    },
+    {
+      "ar": "حقيقی",
+      "en": "most great"
+    },
+    {
+      "ar": "ظاهر",
+      "en": "revealed"
+    },
+    {
+      "ar": "هويدا",
+      "en": "testimony"
+    },
+    {
+      "ar": "گويا",
+      "en": "Methinks"
+    },
+    {
+      "ar": "بدون",
+      "en": "but for"
+    },
+    {
+      "ar": "ظهور",
+      "en": "potency"
+    },
+    {
+      "ar": "عالم",
+      "en": "being"
+    },
+    {
+      "ar": "هيچ",
+      "en": "no"
+    },
+    {
+      "ar": "خلعت",
+      "en": "robe"
+    },
+    {
+      "ar": "هستی",
+      "en": "exist"
+    },
+    {
+      "ar": "مفتخر",
+      "en": "invested"
+    },
+    {
+      "ar": "نيايد",
+      "en": "could"
+    },
+    {
+      "ar": "آفتاب",
+      "en": "luminaries"
+    },
+    {
+      "ar": "معارف",
+      "en": "knowledge"
+    },
+    {
+      "ar": "مستور",
+      "en": "shine"
+    },
+    {
+      "ar": "بحرهای",
+      "en": "oceans"
+    },
+    {
+      "ar": "حکمت",
+      "en": "wisdom"
+    },
+    {
+      "ar": "قطره",
+      "en": "drop"
+    },
+    {
+      "ar": "پنهان",
+      "en": "within"
+    },
+    {
+      "ar": "گشته",
+      "en": "surge"
+    },
+    {
+      "ar": "خاصّه",
+      "en": "supreme degree"
+    },
+    {
+      "ar": "انسان",
+      "en": "man"
+    },
+    {
+      "ar": "بين",
+      "en": "among"
+    },
+    {
+      "ar": "موجودات",
+      "en": "created things"
+    },
+    {
+      "ar": "خلَع",
+      "en": "gifts"
+    },
+    {
+      "ar": "تخصيص",
+      "en": "singled out"
+    },
+    {
+      "ar": "شرافت",
+      "en": "glory"
+    },
+    {
+      "ar": "ممتاز",
+      "en": "distinction"
+    },
+    {
+      "ar": "جميع",
+      "en": "all"
+    },
+    {
+      "ar": "ازمظاهر",
+      "en": "in him"
+    },
+    {
+      "ar": "انسانی",
+      "en": "him"
+    },
+    {
+      "ar": "نحو",
+      "en": "degree"
+    },
+    {
+      "ar": "اکمل",
+      "en": "no other created being hath excelled"
+    },
+    {
+      "ar": "اشرف",
+      "en": "surpassed"
+    },
+    {
+      "ar": "کلّ",
+      "en": "All"
+    },
+    {
+      "ar": "راجع",
+      "en": "applicable"
+    },
+    {
+      "ar": "فرموده",
+      "en": "hath said"
+    },
+    {
+      "ar": "اَلإنسانُ",
+      "en": "Man"
+    },
+    {
+      "ar": "سِرّی",
+      "en": "My mystery"
+    },
+    {
+      "ar": "اَنَا",
+      "en": "I am"
+    },
+    {
+      "ar": "سِرّهُ",
+      "en": "his mystery"
+    },
+    {
+      "ar": "آيات",
+      "en": "verses"
+    },
+    {
+      "ar": "متواتره",
+      "en": "repeatedly revealed"
+    },
+    {
+      "ar": "مدلّ",
+      "en": "expressive"
+    },
+    {
+      "ar": "رقيق",
+      "en": "subtle"
+    },
+    {
+      "ar": "لطيف",
+      "en": "lofty"
+    },
+    {
+      "ar": "کتب",
+      "en": "Books"
+    },
+    {
+      "ar": "سماويّه",
+      "en": "heavenly"
+    },
+    {
+      "ar": "صحف",
+      "en": "Scriptures"
+    },
+    {
+      "ar": "الهيّه",
+      "en": "holy"
+    },
+    {
+      "ar": "می فرمايد",
+      "en": "hath revealed"
+    },
+    {
+      "ar": "سَنُريهِمْ",
+      "en": "We will surely show them"
+    },
+    {
+      "ar": "آيَاتِنَا",
+      "en": "Our signs"
+    },
+    {
+      "ar": "فِی",
+      "en": "in"
+    },
+    {
+      "ar": "الآفَاقِ",
+      "en": "the world"
+    },
+    {
+      "ar": "اَنفُسِهِم",
+      "en": "themselves"
+    },
+    {
+      "ar": "مقام",
+      "en": "Again"
+    },
+    {
+      "ar": "ديگرمی",
+      "en": "again"
+    },
+    {
+      "ar": "اَنْفُسِکُم",
+      "en": "your own selves"
+    },
+    {
+      "ar": "اَفَلا",
+      "en": "will ye not then"
+    },
+    {
+      "ar": "تُبصِروُنَ",
+      "en": "behold"
+    },
+    {
+      "ar": "لا",
+      "en": "not"
+    },
+    {
+      "ar": "تَکُونُوا",
+      "en": "be ye"
+    },
+    {
+      "ar": "نَسُوا",
+      "en": "forget"
+    },
+    {
+      "ar": "فَاَنسَاهُمْ",
+      "en": "caused to forget"
+    },
+    {
+      "ar": "سلطان",
+      "en": "King"
+    },
+    {
+      "ar": "بقا",
+      "en": "eternal"
+    },
+    {
+      "ar": "روح",
+      "en": "souls"
+    },
+    {
+      "ar": "سرادق",
+      "en": "Tabernacle"
+    },
+    {
+      "ar": "العماء",
+      "en": "mystic"
+    },
+    {
+      "ar": "فداه",
+      "en": "sacrifice"
+    },
+    {
+      "ar": "مَن",
+      "en": "He"
+    },
+    {
+      "ar": "عَرَفَ",
+      "en": "hath known"
+    },
+    {
+      "ar": "نَفسَهُ",
+      "en": "himself"
+    },
+    {
+      "ar": "فَقَد",
+      "en": "hath"
+    }
+  ],
+  "terms": [
+    {
+      "term": "مدلّه",
+      "transliteration": "d-l-l",
+      "literal": "to argue; to demonstrate; proof",
+      "se_rendering": "bear direct reference",
+      "note": "Root د-ل-ل typically renders as 'evidence' or 'testify' (20 occurrences). Here 'bear direct reference' is more idiomatic, emphasizing active connection rather than passive proof.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 53,
+          "snippet": "evidence"
+        },
+        {
+          "work": "gleanings",
+          "para": 196,
+          "snippet": "testimony"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 215,
+          "snippet": "proof"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 83,
+          "snippet": "seek to establish"
+        },
+        {
+          "work": "gleanings",
+          "para": 317,
+          "snippet": "sign"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 225,
+          "snippet": "in His Testimonies"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 252,
+          "snippet": "Testimonies"
+        }
+      ]
+    },
+    {
+      "term": "سری",
+      "transliteration": "s-r-r",
+      "literal": "throne; couch; seat of authority",
+      "se_rendering": "mystery",
+      "note": "Root س-ر-ر carries primary meaning 'throne' or 'couch' (40 occ.), but SE renders as 'mystery' here—adopting Sufi mystical vocabulary to align the hadith's paradox of divine-human reciprocity.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 185,
+          "snippet": "lamp"
+        },
+        {
+          "work": "tablet-of-carmel",
+          "para": 2,
+          "snippet": "joy"
+        },
+        {
+          "work": "gleanings",
+          "para": 218,
+          "snippet": "mystery"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 831,
+          "snippet": "Secret"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 37,
+          "snippet": "in the gladness"
+        },
+        {
+          "work": "gleanings",
+          "para": 727,
+          "snippet": "gladness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 8,
+          "snippet": "by the mysteries"
+        },
+        {
+          "work": "gleanings",
+          "para": 318,
+          "snippet": "mysteries"
+        }
+      ]
+    },
+    {
+      "term": "لطيف",
+      "transliteration": "l-t-f",
+      "literal": "kindness; grace; gentleness; benevolence",
+      "se_rendering": "subtle",
+      "note": "Root ل-ط-ف typically 'grace' or 'bounties' (21 occ.), but SE renders as 'subtle' here, shifting from attribute language to epistemological register appropriate to 'theme' (مطلب).",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 27,
+          "snippet": "bounties"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 10,
+          "snippet": "overflowing"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 162,
+          "snippet": "grace"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 160,
+          "snippet": "divine favor"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 168,
+          "snippet": "under the wings of Thy grace and favours"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 99,
+          "snippet": "and favours"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 793,
+          "snippet": "with the wonders of Thy mercy"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 162,
+          "snippet": "Thy gifts"
+        }
+      ]
+    },
+    {
+      "term": "عرف",
+      "transliteration": "ʿ-r-f",
+      "literal": "to confess; to acknowledge; to recognize",
+      "se_rendering": "hath known",
+      "note": "Root ع-ر-ف primarily 'acknowledged' or 'recognized' (82 occ.). SE's 'hath known' here emphasizes gnosis over mere recognition, deepening the mystical self-knowledge presented in the closing hadith.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 601,
+          "snippet": "testifieth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 729,
+          "snippet": "hath acknowledged"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 582,
+          "snippet": "have recognized"
+        },
+        {
+          "work": "gleanings",
+          "para": 568,
+          "snippet": "acknowledged"
+        },
+        {
+          "work": "gleanings",
+          "para": 295,
+          "snippet": "made objections"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 744,
+          "snippet": "understanding"
+        },
+        {
+          "work": "gleanings",
+          "para": 87,
+          "snippet": "knowledge"
+        },
+        {
+          "work": "gleanings",
+          "para": 2,
+          "snippet": "perception"
+        }
+      ]
+    }
+  ],
+  "section_index": "107",
+  "section": "107",
+  "section_para": 1
 }

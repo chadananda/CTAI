@@ -1,10 +1,525 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 470,
   "source_text": "إيّاك أن لا تغمض عيناك في مواقع الإنصاف وتوجّه إلى شطر العدل بقلبك ولا تبدّل أمر الله وكن بما نزّل في الكتاب لمن النّاظرين، أن لا تتّبع هواك في أمر واتّبع حكم الله ربّك المنّان القديم، سترجع إلى التّراب ولن يبقى نفسك ولا ما تسرّ به في أيّامك وهذا ما ظهر من",
   "translation": "Beware lest thou be led to connive at injustice. Set thy heart firmly upon justice, and alter not the Cause of God, and be of them whose eyes are directed towards the things that have been revealed in His Book. Follow not, under any condition, the promptings of thine evil desires. Keep thou the law of God, thy Lord, the Beneficent, the Ancient of Days. Thou shalt most certainly return to dust, and shalt perish like all the things in which thou takest delight. This is what the Tongue of truth and glory hath spoken.",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "return-to-dust-justice",
+  "alignment": [
+    {
+      "ar": "إيّاك",
+      "en": "Beware"
+    },
+    {
+      "ar": "لا تغمض",
+      "en": "connive"
+    },
+    {
+      "ar": "عيناك",
+      "en": "eyes"
+    },
+    {
+      "ar": "الإنصاف",
+      "en": "injustice"
+    },
+    {
+      "ar": "توجّه",
+      "en": "Set"
+    },
+    {
+      "ar": "شطر",
+      "en": "upon"
+    },
+    {
+      "ar": "العدل",
+      "en": "justice"
+    },
+    {
+      "ar": "بقلبك",
+      "en": "thy heart"
+    },
+    {
+      "ar": "لا تبدّل",
+      "en": "alter not"
+    },
+    {
+      "ar": "أمر",
+      "en": "Cause"
+    },
+    {
+      "ar": "الله",
+      "en": "God"
+    },
+    {
+      "ar": "كن",
+      "en": "be"
+    },
+    {
+      "ar": "نزّل",
+      "en": "revealed"
+    },
+    {
+      "ar": "الكتاب",
+      "en": "His Book"
+    },
+    {
+      "ar": "النّاظرين",
+      "en": "whose eyes are directed"
+    },
+    {
+      "ar": "لا تتّبع",
+      "en": "Follow not"
+    },
+    {
+      "ar": "هواك",
+      "en": "thine evil desires"
+    },
+    {
+      "ar": "أمر",
+      "en": "condition"
+    },
+    {
+      "ar": "اتّبع",
+      "en": "Keep"
+    },
+    {
+      "ar": "حكم",
+      "en": "law"
+    },
+    {
+      "ar": "ربّك",
+      "en": "thy Lord"
+    },
+    {
+      "ar": "المنّان",
+      "en": "Beneficent"
+    },
+    {
+      "ar": "القديم",
+      "en": "Ancient of Days"
+    },
+    {
+      "ar": "سترجع",
+      "en": "return"
+    },
+    {
+      "ar": "التّراب",
+      "en": "dust"
+    },
+    {
+      "ar": "لن يبقى",
+      "en": "perish"
+    },
+    {
+      "ar": "نفسك",
+      "en": "all the things"
+    },
+    {
+      "ar": "تسرّ",
+      "en": "takest delight"
+    },
+    {
+      "ar": "أيّامك",
+      "en": "in which"
+    },
+    {
+      "ar": "ظهر",
+      "en": "spoken"
+    }
+  ],
+  "terms": [
+    {
+      "term": "الإنصاف",
+      "transliteration": "n-ṣ-f",
+      "literal": "justice; fairness; equity",
+      "se_rendering": "injustice",
+      "note": "Root means 'justice/fairness' (25 occ.), but here SE renders negatively as 'injustice' to preserve rhetorical force of 'connive at injustice.'",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 175,
+          "snippet": "fair"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 16,
+          "snippet": "equity"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 63,
+          "snippet": "justice"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 136,
+          "snippet": "fairness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 219,
+          "snippet": "fair-minded"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 118,
+          "snippet": "fair-minded person"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 133,
+          "snippet": "Judge thou fairly"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 224,
+          "snippet": "Be fair, be fair"
+        }
+      ]
+    },
+    {
+      "term": "شطر",
+      "transliteration": "sh-ṭ-r",
+      "literal": "side, direction; half; to split",
+      "se_rendering": "upon",
+      "note": "Direction/side (9 occ.). SE omits 'shaptir' from translation, embedding it within 'Set thy heart firmly upon,' privileging semantic cohesion over literalism.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 222,
+          "snippet": "towards Thy grace"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 30,
+          "snippet": "towards Him Who is the Kaaba of God"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 410,
+          "snippet": "in the direction of Thy good-pleasure"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 488,
+          "snippet": "in the direction of Thy mercy"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 77,
+          "snippet": "towards their Friend"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 257,
+          "snippet": "direction"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 470,
+          "snippet": "toward Thy tender mercies"
+        }
+      ]
+    },
+    {
+      "term": "تبدّل",
+      "transliteration": "b-d-l",
+      "literal": "in place of; instead of; to change; to alter (preposition or verb stem)",
+      "se_rendering": "alter",
+      "note": "Root typically renders as 'changed' or 'transformed' (17 occ.). Here 'alter' conveys legal/regulatory shift, fitting the Cause's immutability theme.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 19,
+          "snippet": "darkness hath been turned into light"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 48,
+          "snippet": "changing"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 50,
+          "snippet": "changed"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 92,
+          "snippet": "alteration"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 164,
+          "snippet": "transformation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 656,
+          "snippet": "changeth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 655,
+          "snippet": "changest"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 171,
+          "snippet": "in the manner of"
+        }
+      ]
+    },
+    {
+      "term": "أمر",
+      "transliteration": "ʾ-m-r",
+      "literal": "command; cause; matter; affair",
+      "se_rendering": "Cause",
+      "note": "Predominantly 'Cause' (75 occ.), though 'command' and 'Revelation' appear. This passage uses 'Cause of God,' emphasizing theological continuity.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "His Cause"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 797,
+          "snippet": "Thy Cause"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 597,
+          "snippet": "service"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 167,
+          "snippet": "things"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "commanded"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 236,
+          "snippet": "commissioned"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 785,
+          "snippet": "Thy Revelation"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 38,
+          "snippet": "for the protection of the Cause"
+        }
+      ]
+    },
+    {
+      "term": "نزّل",
+      "transliteration": "n-z-l",
+      "literal": "to descend, to be revealed",
+      "se_rendering": "revealed",
+      "note": "Standard renderings 'revealed' and 'sent down' (88 occ.). SE chose 'revealed in,' linking divine disclosure to scriptural authority.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 188,
+          "snippet": "revealed"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 175,
+          "snippet": "didst send down"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 835,
+          "snippet": "sent down"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 34,
+          "snippet": "Descend"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 47,
+          "snippet": "pour forth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 330,
+          "snippet": "send down"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 40,
+          "snippet": "were revealed"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 16,
+          "snippet": "hath been sent down"
+        }
+      ]
+    },
+    {
+      "term": "حكم",
+      "transliteration": "h-k-m",
+      "literal": "government; rule; governance; wisdom",
+      "se_rendering": "law",
+      "note": "Typically 'rule' or 'government' (69 occ.). Here rendered 'law,' emphasizing divine governance as binding ordinance rather than abstract sovereignty.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-ahd",
+          "para": 6,
+          "snippet": "rule"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "government"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 849,
+          "snippet": "signs of Thy sovereignty"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 160,
+          "snippet": "meaning of return"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 182,
+          "snippet": "mystery of the former verse"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 129,
+          "snippet": "perspicuous verses"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 46,
+          "snippet": "conclusive"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 220,
+          "snippet": "impregnable stronghold"
+        }
+      ]
+    },
+    {
+      "term": "المنّان",
+      "transliteration": "m-n-n",
+      "literal": "to grant, bestow favor; grace, bounty, kindness",
+      "se_rendering": "Beneficent",
+      "note": "Rare epithet; usually 'Beneficent' in this passage. Only 17 occurrences; SE avoids direct 'bounty' or 'grace' terms, choosing relational attribute.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 27,
+          "snippet": "hath graciously favoured"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 793,
+          "snippet": "expectant"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 29,
+          "snippet": "beyond which there is no passing"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 576,
+          "snippet": "the Beneficent"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 24,
+          "snippet": "Mine"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 39,
+          "snippet": "honesty"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 555,
+          "snippet": "confidence"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 657,
+          "snippet": "the Bestower"
+        }
+      ]
+    },
+    {
+      "term": "القديم",
+      "transliteration": "q-d-m",
+      "literal": "ancientness; antiquity; foot; to come forward",
+      "se_rendering": "Ancient of Days",
+      "note": "Among 29 occurrences, 'Ancient of Days' appears only here—borrowing biblical nomenclature for divine eternity and transcendence.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 146,
+          "snippet": "certitude"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 127,
+          "snippet": "eternity"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 116,
+          "snippet": "by Thine Ancient Beauty"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 2,
+          "snippet": "the ancient sea"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 263,
+          "snippet": "rose"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 670,
+          "snippet": "feet"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 749,
+          "snippet": "their feet"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 1,
+          "snippet": "the Most Ancient"
+        }
+      ]
+    }
+  ],
+  "section_index": "CXIII.23",
+  "section": "CXIII",
+  "section_para": 23
 }

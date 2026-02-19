@@ -1,10 +1,545 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 417,
   "source_text": "مقصود از کتابهای آسمانی و آیات الهی آنکه مردمان بآدابی تربیت شوند که سبب راحت خود و سایر بندگان شود هر امری که قلب را راحت نماید و بر بزرگی انسان بیفزاید و ناس را راضی دارد مقبول خواهد بود مقام انسان بلند است اگر بانسانیّت مزیّن باشد والّا پست‌تر از جمیع مخلوق مشاهده میشود بگو ای دوستان امروز را غنیمت شمرید و خود را از فیوضات بحر معانی محروم ننمائید از حقّ میطلبیم جمیع را بطراز عمل پاک و خالص در این یوم مبارک مزیّن فرماید انّه لهو الحاکم المختار",
   "translation": "The purpose underlying the revelation of every heavenly Book, nay, of every divinely revealed verse, is to endue all men with righteousness and understanding, so that peace and tranquillity may be firmly established amongst them. Whatsoever instilleth assurance into the hearts of men, whatsoever exalteth their station or promoteth their contentment, is acceptable in the sight of God. How lofty is the station which man, if he but choose to fulfill his high destiny, can attain! To what depths of degradation he can sink, depths which the meanest of creatures have never reached! Seize, O friends, the chance which this Day offereth you, and deprive not yourselves of the liberal effusions of His grace. I beseech God that He may graciously enable every one of you to adorn himself, in this blessed Day, with the ornament of pure and holy deeds. He, verily, doeth whatsoever He willeth.",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "station-man-fulfill-destiny",
+  "alignment": [
+    {
+      "ar": "مقصود",
+      "en": "purpose"
+    },
+    {
+      "ar": "کتابهای",
+      "en": "Book"
+    },
+    {
+      "ar": "آسمانی",
+      "en": "heavenly"
+    },
+    {
+      "ar": "آیات",
+      "en": "verse"
+    },
+    {
+      "ar": "الهی",
+      "en": "divinely revealed"
+    },
+    {
+      "ar": "مردمان",
+      "en": "all men"
+    },
+    {
+      "ar": "تربیت",
+      "en": "endue"
+    },
+    {
+      "ar": "شوند",
+      "en": "understanding"
+    },
+    {
+      "ar": "راحت",
+      "en": "peace"
+    },
+    {
+      "ar": "خود",
+      "en": "tranquillity"
+    },
+    {
+      "ar": "سایر",
+      "en": "amongst"
+    },
+    {
+      "ar": "بندگان",
+      "en": "them"
+    },
+    {
+      "ar": "امری",
+      "en": "Whatsoever"
+    },
+    {
+      "ar": "قلب",
+      "en": "hearts"
+    },
+    {
+      "ar": "راحت",
+      "en": "assurance"
+    },
+    {
+      "ar": "بزرگی",
+      "en": "exalteth"
+    },
+    {
+      "ar": "انسان",
+      "en": "man"
+    },
+    {
+      "ar": "بیفزاید",
+      "en": "station"
+    },
+    {
+      "ar": "ناس",
+      "en": "their"
+    },
+    {
+      "ar": "راضی",
+      "en": "contentment"
+    },
+    {
+      "ar": "مقبول",
+      "en": "acceptable"
+    },
+    {
+      "ar": "بلند",
+      "en": "lofty"
+    },
+    {
+      "ar": "انسانیّت",
+      "en": "high destiny"
+    },
+    {
+      "ar": "مزیّن",
+      "en": "attain"
+    },
+    {
+      "ar": "پست‌تر",
+      "en": "depths of degradation"
+    },
+    {
+      "ar": "جمیع",
+      "en": "meanest"
+    },
+    {
+      "ar": "مخلوق",
+      "en": "creatures"
+    },
+    {
+      "ar": "مشاهده",
+      "en": "reached"
+    },
+    {
+      "ar": "دوستان",
+      "en": "friends"
+    },
+    {
+      "ar": "امروز",
+      "en": "this Day"
+    },
+    {
+      "ar": "غنیمت",
+      "en": "chance"
+    },
+    {
+      "ar": "شمرید",
+      "en": "Seize"
+    },
+    {
+      "ar": "خود",
+      "en": "yourselves"
+    },
+    {
+      "ar": "فیوضات",
+      "en": "effusions"
+    },
+    {
+      "ar": "بحر",
+      "en": "liberal"
+    },
+    {
+      "ar": "معانی",
+      "en": "grace"
+    },
+    {
+      "ar": "محروم",
+      "en": "deprive not"
+    },
+    {
+      "ar": "ننمائید",
+      "en": "deprive"
+    },
+    {
+      "ar": "حقّ",
+      "en": "God"
+    },
+    {
+      "ar": "میطلبیم",
+      "en": "beseech"
+    },
+    {
+      "ar": "جمیع",
+      "en": "every one"
+    },
+    {
+      "ar": "طراز",
+      "en": "ornament"
+    },
+    {
+      "ar": "عمل",
+      "en": "deeds"
+    },
+    {
+      "ar": "پاک",
+      "en": "pure"
+    },
+    {
+      "ar": "خالص",
+      "en": "holy"
+    },
+    {
+      "ar": "یوم",
+      "en": "Day"
+    },
+    {
+      "ar": "مبارک",
+      "en": "blessed"
+    },
+    {
+      "ar": "مزیّن",
+      "en": "adorn"
+    },
+    {
+      "ar": "فرماید",
+      "en": "enable"
+    },
+    {
+      "ar": "الحاکم",
+      "en": "doeth"
+    },
+    {
+      "ar": "المختار",
+      "en": "willeth"
+    }
+  ],
+  "terms": [
+    {
+      "term": "مقصود",
+      "transliteration": "q-s-d",
+      "literal": "intention; purpose; aim; goal; to seek; to direct oneself",
+      "se_rendering": "purpose",
+      "note": "Typically 'purpose' or 'goal' (32 occurrences). Here directly rendered as 'purpose,' establishing the paragraph's foundational framework without metaphorical elaboration.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 204,
+          "snippet": "Seek"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 64,
+          "snippet": "aim"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 43,
+          "snippet": "purpose"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 444,
+          "snippet": "goal"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 47,
+          "snippet": "my heart's Desire"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 5,
+          "snippet": "my Desire"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 11,
+          "snippet": "the Goal of my desire"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 804,
+          "snippet": "the Desired One"
+        }
+      ]
+    },
+    {
+      "term": "امری",
+      "transliteration": "ʾ-m-r",
+      "literal": "command; cause; matter; affair",
+      "se_rendering": "Whatsoever",
+      "note": "Usually 'His Cause' or 'His command' (75 occurrences). Here rendered 'Whatsoever' (transposing the relative clause), abstracting the term from Bahá'u'lláh's Cause into universal moral principle.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "His Cause"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 797,
+          "snippet": "Thy Cause"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 597,
+          "snippet": "service"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 167,
+          "snippet": "things"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "commanded"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 236,
+          "snippet": "commissioned"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 785,
+          "snippet": "Thy Revelation"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 38,
+          "snippet": "for the protection of the Cause"
+        }
+      ]
+    },
+    {
+      "term": "مقام",
+      "transliteration": "q-w-m",
+      "literal": "rising; standing; uprising; resurrection",
+      "se_rendering": "station",
+      "note": "Regularly 'station' or 'Day of Resurrection' (109 occurrences). Here 'station' appears twice—once as abstract dignity, once as achievable human potential—emphasizing ethical ascent over eschatological finality.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 152,
+          "snippet": "Day of Resurrection"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 153,
+          "snippet": "Resurrection"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 74,
+          "snippet": "rise"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "peoples"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 26,
+          "snippet": "steadfast"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 38,
+          "snippet": "steadfast in faith"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 628,
+          "snippet": "stood fast"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 198,
+          "snippet": "station"
+        }
+      ]
+    },
+    {
+      "term": "مزیّن",
+      "transliteration": "z-y-n",
+      "literal": "to adorn; ornament; beauty",
+      "se_rendering": "adorn",
+      "note": "Typically 'adorned' or 'adorn' (29 occurrences). Applied twice here—to human dignity and deeds—reinforcing ornamental beauty as both condition and action in spiritual development.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 15,
+          "snippet": "Attire"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 203,
+          "snippet": "adorned"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 102,
+          "snippet": "adorn"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 199,
+          "snippet": "doth but add unto their loss"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 134,
+          "snippet": "Beware"
+        }
+      ]
+    },
+    {
+      "term": "بحر",
+      "transliteration": "b-ḥ-r",
+      "literal": "sea; ocean",
+      "se_rendering": "effusions",
+      "note": "Regularly 'ocean' or 'seas' (18 occurrences). Here rendered 'effusions'—dematerializing the sea metaphor into grace's abstract outpouring, a unique interpretive choice.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 2,
+          "snippet": "two Seas"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 32,
+          "snippet": "ocean"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 769,
+          "snippet": "oceans"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 119,
+          "snippet": "seas"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 353,
+          "snippet": "ocean of Thy wrath"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 32,
+          "snippet": "sea of grace"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 666,
+          "snippet": "unto the ocean"
+        }
+      ]
+    },
+    {
+      "term": "محروم",
+      "transliteration": "h-r-m",
+      "literal": "sanctity, inviolability, dignity, honor, respect",
+      "se_rendering": "deprive",
+      "note": "Usually 'sanctity,' 'right,' or 'withhold' (25 occurrences). Here 'deprive' shifts from dignity-concepts to active volition, emphasizing human responsibility for spiritual loss.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 191,
+          "snippet": "Deny me not"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 293,
+          "snippet": "withhold not from me"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 76,
+          "snippet": "debarred"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 23,
+          "snippet": "depriveth himself"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 785,
+          "snippet": "Thy Cause"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 484,
+          "snippet": "suffer not yourselves to be kept back"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 93,
+          "snippet": "withhold not from the poor"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 506,
+          "snippet": "Withhold not from her"
+        }
+      ]
+    },
+    {
+      "term": "الحاکم",
+      "transliteration": "h-k-m",
+      "literal": "government; rule; governance; wisdom",
+      "se_rendering": "doeth",
+      "note": "Normally 'rule' or 'government' (69 occurrences). Here 'doeth' abandons governance language entirely for pure volitional agency, radically depersonifying divine sovereignty.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-ahd",
+          "para": 6,
+          "snippet": "rule"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "government"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 849,
+          "snippet": "signs of Thy sovereignty"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 160,
+          "snippet": "meaning of return"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 182,
+          "snippet": "mystery of the former verse"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 129,
+          "snippet": "perspicuous verses"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 46,
+          "snippet": "conclusive"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 220,
+          "snippet": "impregnable stronghold"
+        }
+      ]
+    }
+  ],
+  "section_index": "CI.1",
+  "section": "CI",
+  "section_para": 1
 }

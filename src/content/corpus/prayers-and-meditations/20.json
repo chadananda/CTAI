@@ -1,10 +1,242 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 20,
   "source_text": "، أَيْ رَبِّ أَنَا الَّذِيْ تَمَسَّكْتُ بِحَبْلِ عِنايَتِكَ وَتَشَبَّثْتُ بِذَيْلِ رَحْمَتِكَ وَأَلْطافِكَ، قَدِّرْ لِي وَلأَحِبَّتِي خَيْرَ الدُّنْيا وَالآخِرَةِ، ثُمَّ ارْزُقْهُمْ مِنَ النِّعْمَةِ المَكْنُونَةِ الَّتِيْ قَدَّرْتَها لِخِيرَةِ البَريَّةِ، أَيْ",
   "translation": "I am the one, O my Lord, who hath held fast the cord of Thy loving-kindness, and clung to the hem of Thy mercy and favors. Do Thou ordain for me and for my loved ones the good of this world and of the world to come. Supply them, then, with the Hidden Gift Thou didst ordain for the choicest among Thy creatures.",
   "source_lang": "ar",
-  "score": 9.9
+  "score": 9.9,
+  "page_slug": "held-fast-cord-loving-kindness",
+  "alignment": [
+    {
+      "ar": "أَنَا",
+      "en": "I"
+    },
+    {
+      "ar": "بِحَبْلِ",
+      "en": "the cord"
+    },
+    {
+      "ar": "عِنايَتِكَ",
+      "en": "Thy loving-kindness"
+    },
+    {
+      "ar": "بِذَيْلِ",
+      "en": "to the hem"
+    },
+    {
+      "ar": "رَحْمَتِكَ",
+      "en": "Thy mercy"
+    },
+    {
+      "ar": "أَلْطافِكَ",
+      "en": "favors"
+    },
+    {
+      "ar": "لِي",
+      "en": "for me"
+    },
+    {
+      "ar": "خَيْرَ",
+      "en": "the good"
+    },
+    {
+      "ar": "وَالآخِرَةِ",
+      "en": "and of the world to come"
+    },
+    {
+      "ar": "ارْزُقْهُمْ",
+      "en": "Supply them"
+    },
+    {
+      "ar": "لِخِيرَةِ",
+      "en": "for the choicest"
+    }
+  ],
+  "terms": [
+    {
+      "term": "بِحَبْلِ",
+      "transliteration": "h-b-l",
+      "literal": "cord; rope; bond; connection",
+      "se_rendering": "cord of",
+      "note": "Consistent with SE's pattern (6 occurrences): 'cord of' is standard metaphor for divine connection throughout the corpus.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 5,
+          "snippet": "cord of"
+        }
+      ]
+    },
+    {
+      "term": "عِنايَتِكَ",
+      "transliteration": "ʿ-n",
+      "literal": "from; about; concerning; away from",
+      "se_rendering": "Thy loving-kindness",
+      "note": "SE renders عناية as 'grace' and 'My loving-kindness' elsewhere; here uniquely combines both senses as 'loving-kindness' to personify divine care.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 611,
+          "snippet": "from the veil"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 29,
+          "snippet": "from Us"
+        },
+        {
+          "work": "gleanings",
+          "para": 399,
+          "snippet": "My loving-kindness"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 32,
+          "snippet": "grace"
+        },
+        {
+          "work": "gleanings",
+          "para": 467,
+          "snippet": "about them"
+        },
+        {
+          "work": "gleanings",
+          "para": 579,
+          "snippet": "from whom"
+        },
+        {
+          "work": "gleanings",
+          "para": 479,
+          "snippet": "from"
+        }
+      ]
+    },
+    {
+      "term": "بِذَيْلِ",
+      "transliteration": "dh-y-l",
+      "literal": "hem; skirt; tail; border",
+      "se_rendering": "hem of",
+      "note": "SE maintains 'hem of' consistently across 6 occurrences; tactile imagery of clinging to divine mercy's border is preserved literally.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 647,
+          "snippet": "hem of"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 9,
+          "snippet": "seized the hem of the"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 107,
+          "snippet": "his followers"
+        }
+      ]
+    },
+    {
+      "term": "رَحْمَتِكَ",
+      "transliteration": "r-ḥ-m",
+      "literal": "merciful, compassionate; pertaining to divine mercy",
+      "se_rendering": "Thy mercy",
+      "note": "Typically 'mercy' or 'merciful' (70 occ); here 'Thy mercy' is straightforward rendering, avoiding alternate forms like 'Divine glory' or 'celestial melody' used elsewhere.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 673,
+          "snippet": "Divine glory"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 57,
+          "snippet": "Divine"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 89,
+          "snippet": "celestial melody"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 114,
+          "snippet": "spirit of mercy"
+        },
+        {
+          "work": "gleanings",
+          "para": 372,
+          "snippet": "merciful"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 220,
+          "snippet": "have mercy on them"
+        },
+        {
+          "work": "gleanings",
+          "para": 12,
+          "snippet": "mercy"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 50,
+          "snippet": "the Compassionate"
+        }
+      ]
+    },
+    {
+      "term": "البَريَّةِ",
+      "transliteration": "b-r-y",
+      "literal": "high; exalted; upper",
+      "se_rendering": "Thy creatures",
+      "note": "B-r-y typically means 'exalted' or 'brought forth'; SE renders as 'creation' here, designating creatures as created beings rather than elevated ones, emphasizing divine origination.",
+      "cross_refs": [
+        {
+          "work": "the-hidden-words",
+          "para": 92,
+          "snippet": "highest"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 10,
+          "snippet": "forth came"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 30,
+          "snippet": "brought forth to the light"
+        },
+        {
+          "work": "gleanings",
+          "para": 686,
+          "snippet": "I have brought forth and revealed"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 149,
+          "snippet": "come forth"
+        },
+        {
+          "work": "gleanings",
+          "para": 214,
+          "snippet": "creation"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 213,
+          "snippet": "wilderness"
+        },
+        {
+          "work": "gleanings",
+          "para": 378,
+          "snippet": "Creator"
+        }
+      ]
+    }
+  ],
+  "section_index": "VII.2",
+  "section": "VII",
+  "section_para": 2
 }

@@ -1,10 +1,128 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 183,
   "source_text": "أَنْتَ العَلِيمُ الحَكِيمُ.",
   "translation": "Thou, in truth, art the All-Knowing, the All-Wise.",
   "source_lang": "ar",
-  "score": 9.3
+  "score": 9.3,
+  "page_slug": "all-knowing-all-wise",
+  "alignment": [
+    {
+      "ar": "أَنْتَ",
+      "en": "Thou"
+    },
+    {
+      "ar": "العَلِيمُ",
+      "en": "All-Knowing"
+    },
+    {
+      "ar": "الحَكِيمُ",
+      "en": "All-Wise"
+    }
+  ],
+  "terms": [
+    {
+      "term": "العَلِيمُ",
+      "transliteration": "ʿ-l-m",
+      "literal": "world; universe; the worlds",
+      "se_rendering": "the All-Knowing",
+      "note": "Root ʿ-l-m typically renders as 'world' or 'knowledge' across 141 occurrences. Here SE selects 'All-Knowing' to reflect the divine attribute sense, departing from mundane spatial renderings.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 198,
+          "snippet": "world"
+        },
+        {
+          "work": "gleanings",
+          "para": 657,
+          "snippet": "all worlds"
+        },
+        {
+          "work": "gleanings",
+          "para": 182,
+          "snippet": "mankind"
+        },
+        {
+          "work": "gleanings",
+          "para": 183,
+          "snippet": "the whole world"
+        },
+        {
+          "work": "gleanings",
+          "para": 226,
+          "snippet": "all earthly defilements"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 28,
+          "snippet": "knowledge"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 122,
+          "snippet": "commentators"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 42,
+          "snippet": "banner"
+        }
+      ]
+    },
+    {
+      "term": "الحَكِيمُ",
+      "transliteration": "h-k-m",
+      "literal": "government; rule; governance; wisdom",
+      "se_rendering": "the All-Wise",
+      "note": "Root h-k-m predominantly renders as 'rule', 'government', or 'governance' across 69 occurrences. Here SE renders as 'All-Wise' to capture the abstract divine wisdom attribute rather than governance connotations.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-ahd",
+          "para": 6,
+          "snippet": "rule"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "government"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 160,
+          "snippet": "meaning of return"
+        },
+        {
+          "work": "gleanings",
+          "para": 224,
+          "snippet": "mysteries"
+        },
+        {
+          "work": "gleanings",
+          "para": 636,
+          "snippet": "rule of the sword"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 182,
+          "snippet": "mystery of the former verse"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 129,
+          "snippet": "perspicuous verses"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 46,
+          "snippet": "conclusive"
+        }
+      ]
+    }
+  ],
+  "section_index": "XLVI.5",
+  "section": "XLVI",
+  "section_para": 5
 }

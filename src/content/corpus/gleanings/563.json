@@ -1,10 +1,529 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 563,
   "source_text": "مشاهده کند و هر صاحب سمعی ندای مکلّم طور را اصغا نماید امواج بحر رحمت الهی بکمال اوج ظاهر بشأنی که مشرق آیات و مطلع بیّنات با جمیع احزاب بی پرده و حجاب جالس و مؤانس چه مقدار از اهل آفاق بنفاق داخل و بوفاق خارج باب فضل بر وجوه کل مفتوح با عاصی و مطیع در ظاهر بیک قسم معاشر که شاید بدکاران بدریای بخشش بی‌پایان پی‌برند تجلّیات اسم ستّار بقسمی ظاهر که بدکار گمان مینمود از اخیار محسوب هیچ قاصدی محروم نماند و هیچ مقبلی ممنوع نه...",
   "translation": "Every discerning eye can, in this Day, perceive the dawning light of God’s Revelation, and every attentive ear can recognize the Voice that was heard from the Burning Bush. Such is the rushing of the waters of Divine mercy, that He Who is the Dayspring of the signs of God and the Revealer of the evidences of His glory is without veil or concealment associating and conversing with the peoples of the earth and its kindreds. How numerous are those who, with hearts intent upon malice, have sought Our Presence, and departed from it loyal and loving friends! The portals of grace are wide open before the face of all men. In Our outward dealings with them We have treated alike the righteous and the sinner, that perchance the evildoer may attain the limitless ocean of Divine forgiveness. Our name “the Concealer” hath shed such a light upon men that the froward hath imagined himself to be numbered with the pious. No man that seeketh Us will We ever disappoint, neither shall he that hath set his face towards Us be denied access unto Our court.…",
   "source_lang": "ar",
-  "score": 9.7
+  "score": 9.7,
+  "page_slug": "dayspring-signs-god-revelation",
+  "alignment": [
+    {
+      "ar": "مشاهده کند",
+      "en": "perceive"
+    },
+    {
+      "ar": "هر",
+      "en": "every"
+    },
+    {
+      "ar": "صاحب",
+      "en": "discerning"
+    },
+    {
+      "ar": "سمعی",
+      "en": "ear"
+    },
+    {
+      "ar": "ندای",
+      "en": "Voice"
+    },
+    {
+      "ar": "مکلّم طور",
+      "en": "Burning Bush"
+    },
+    {
+      "ar": "اصغا نماید",
+      "en": "recognize"
+    },
+    {
+      "ar": "امواج",
+      "en": "rushing of the waters"
+    },
+    {
+      "ar": "بحر",
+      "en": "ocean"
+    },
+    {
+      "ar": "رحمت",
+      "en": "mercy"
+    },
+    {
+      "ar": "الهی",
+      "en": "Divine"
+    },
+    {
+      "ar": "بکمال",
+      "en": "Such"
+    },
+    {
+      "ar": "اوج",
+      "en": "rushing"
+    },
+    {
+      "ar": "ظاهر",
+      "en": "open"
+    },
+    {
+      "ar": "بشأنی",
+      "en": "that"
+    },
+    {
+      "ar": "مشرق",
+      "en": "Dayspring"
+    },
+    {
+      "ar": "آیات",
+      "en": "signs"
+    },
+    {
+      "ar": "مطلع",
+      "en": "Revealer"
+    },
+    {
+      "ar": "بیّنات",
+      "en": "evidences"
+    },
+    {
+      "ar": "جمیع",
+      "en": "all"
+    },
+    {
+      "ar": "احزاب",
+      "en": "peoples"
+    },
+    {
+      "ar": "بی پرده",
+      "en": "without veil"
+    },
+    {
+      "ar": "حجاب",
+      "en": "concealment"
+    },
+    {
+      "ar": "جالس",
+      "en": "associating"
+    },
+    {
+      "ar": "مؤانس",
+      "en": "conversing"
+    },
+    {
+      "ar": "مقدار",
+      "en": "numerous"
+    },
+    {
+      "ar": "اهل",
+      "en": "those"
+    },
+    {
+      "ar": "آفاق",
+      "en": "earth"
+    },
+    {
+      "ar": "بنفاق",
+      "en": "malice"
+    },
+    {
+      "ar": "داخل",
+      "en": "sought"
+    },
+    {
+      "ar": "بوفاق",
+      "en": "loyal"
+    },
+    {
+      "ar": "خارج",
+      "en": "departed"
+    },
+    {
+      "ar": "باب",
+      "en": "portals"
+    },
+    {
+      "ar": "فضل",
+      "en": "grace"
+    },
+    {
+      "ar": "وجوه",
+      "en": "face"
+    },
+    {
+      "ar": "عاصی",
+      "en": "sinner"
+    },
+    {
+      "ar": "مطیع",
+      "en": "righteous"
+    },
+    {
+      "ar": "ظاهر",
+      "en": "outward"
+    },
+    {
+      "ar": "بیک قسم",
+      "en": "alike"
+    },
+    {
+      "ar": "معاشر",
+      "en": "dealings"
+    },
+    {
+      "ar": "شاید",
+      "en": "perchance"
+    },
+    {
+      "ar": "بدکاران",
+      "en": "evildoer"
+    },
+    {
+      "ar": "بخشش",
+      "en": "forgiveness"
+    },
+    {
+      "ar": "بی‌پایان",
+      "en": "limitless"
+    },
+    {
+      "ar": "پی‌برند",
+      "en": "attain"
+    },
+    {
+      "ar": "تجلّیات",
+      "en": "light"
+    },
+    {
+      "ar": "اسم",
+      "en": "name"
+    },
+    {
+      "ar": "ستّار",
+      "en": "Concealer"
+    },
+    {
+      "ar": "بقسمی",
+      "en": "such"
+    },
+    {
+      "ar": "بدکار",
+      "en": "froward"
+    },
+    {
+      "ar": "گمان مینمود",
+      "en": "imagined"
+    },
+    {
+      "ar": "اخیار",
+      "en": "pious"
+    },
+    {
+      "ar": "محسوب",
+      "en": "numbered"
+    },
+    {
+      "ar": "هیچ",
+      "en": "No"
+    },
+    {
+      "ar": "قاصدی",
+      "en": "man that seeketh"
+    },
+    {
+      "ar": "محروم نماند",
+      "en": "disappoint"
+    },
+    {
+      "ar": "مقبلی",
+      "en": "he that hath set his face"
+    },
+    {
+      "ar": "ممنوع",
+      "en": "denied"
+    }
+  ],
+  "terms": [
+    {
+      "term": "مشاهده",
+      "transliteration": "sh-h-d",
+      "literal": "witnessed; observed; seen; evident; manifest",
+      "se_rendering": "perceive",
+      "note": "Root sh-h-d typically rendered 'manifest' or 'evident' across 74 occurrences. Here 'perceive' emphasizes active vision rather than passive manifestation—a rare sensory rendering.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 35,
+          "snippet": "evident"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 811,
+          "snippet": "I bear witness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 6,
+          "snippet": "I testify"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 138,
+          "snippet": "martyrdom"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 230,
+          "snippet": "God testifieth"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 57,
+          "snippet": "beheld"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 117,
+          "snippet": "testify"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 156,
+          "snippet": "bear witness"
+        }
+      ]
+    },
+    {
+      "term": "سمعی",
+      "transliteration": "s-m-ʿ",
+      "literal": "heard, hearkened to, acceptable, worthy of attention",
+      "se_rendering": "attentive",
+      "note": "Root s-m-ʿ typically 'Hearken' or 'worthy of attention' across 48 occurrences. 'Attentive' here shifts from imperative to descriptive, qualifying the ear itself rather than addressing listeners.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 251,
+          "snippet": "worthy of attention"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 97,
+          "snippet": "Incline"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 100,
+          "snippet": "Hearken"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 311,
+          "snippet": "hast inclined mine ear to"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 104,
+          "snippet": "We have also heard"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 48,
+          "snippet": "I have heard"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 29,
+          "snippet": "We have learned"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 85,
+          "snippet": "We heard"
+        }
+      ]
+    },
+    {
+      "term": "حجاب",
+      "transliteration": "ḥ-j-b",
+      "literal": "to veil oneself, to be veiled",
+      "se_rendering": "veil or concealment",
+      "note": "Root ḥ-j-b consistently 'veil' across 37 occurrences. Paired with 'concealment' (from ستر), SE doubles the veiling concept—emphasizing total transparency rather than single barrier.",
+      "cross_refs": [
+        {
+          "work": "the-hidden-words",
+          "para": 33,
+          "snippet": "veil thyself"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 234,
+          "snippet": "veiling yourselves"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 22,
+          "snippet": "veiled"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 533,
+          "snippet": "the veil"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 150,
+          "snippet": "the veil of heedlessness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 175,
+          "snippet": "veiled from"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 214,
+          "snippet": "deprived"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 858,
+          "snippet": "which come in between us"
+        }
+      ]
+    },
+    {
+      "term": "ستّار",
+      "transliteration": "s-t-r",
+      "literal": "to veil; to conceal; to cover; veil; covering",
+      "se_rendering": "the Concealer",
+      "note": "Root s-t-r typically 'concealed' or 'hidden' across 22 occurrences. Here SE renders as 'the Concealer'—a divine name—paradoxically 'shedding light,' inverting the root's veiling semantics.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 8,
+          "snippet": "concealed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 17,
+          "snippet": "hidden"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 35,
+          "snippet": "star"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 46,
+          "snippet": "tabernacle"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 45,
+          "snippet": "Concealer"
+        }
+      ]
+    },
+    {
+      "term": "قاصدی",
+      "transliteration": "q-s-d",
+      "literal": "intention; purpose; aim; goal; to seek; to direct oneself",
+      "se_rendering": "seeketh Us",
+      "note": "Root q-s-d typically 'Seek' or 'aim' across 32 occurrences. 'Seeketh Us' personalizes the verb toward aspirants actively seeking divine presence.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 204,
+          "snippet": "Seek"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 64,
+          "snippet": "aim"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 43,
+          "snippet": "purpose"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 444,
+          "snippet": "goal"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 47,
+          "snippet": "my heart's Desire"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 5,
+          "snippet": "my Desire"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 11,
+          "snippet": "the Goal of my desire"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 804,
+          "snippet": "the Desired One"
+        }
+      ]
+    },
+    {
+      "term": "ممنوع",
+      "transliteration": "m-n-ʿ",
+      "literal": "forbidden; prevented; deprived",
+      "se_rendering": "be denied access",
+      "note": "Root m-n-ʿ typically 'forbidden' or 'deprived' across 36 occurrences. 'Be denied access' contextualizes deprivation specifically as exclusion from divine court rather than prohibition.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "forbidden"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 56,
+          "snippet": "hindrance"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 674,
+          "snippet": "which have hindered me"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 89,
+          "snippet": "was powerless to deter"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 628,
+          "snippet": "have failed to deter"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 193,
+          "snippet": "prevented them"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 74,
+          "snippet": "withhold"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 108,
+          "snippet": "strove to hinder"
+        }
+      ]
+    }
+  ],
+  "section_index": "CXXVI.3",
+  "section": "CXXVI",
+  "section_para": 3
 }

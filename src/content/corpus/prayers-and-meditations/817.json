@@ -1,10 +1,252 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 817,
   "source_text": "ثم يقوم للقنوت ويقول: يَا إِلَهِيْ لَا تُخَيِّبْ مَنْ تَشَبَّثَ بِأَنَامِلِ الرَّجَاءِ بِأَذْيَالِ رَحْمَتِكَ وَفَضْلِكَ يَا أَرْحَمَ الرَّاحِمِيْنَ.",
   "translation": "Then, standing with open hands, palms upward toward the face, let him say:\nDisappoint not, O my God, him that hath, with beseeching fingers, clung to the hem of Thy mercy and Thy grace, O Thou Who of those who show mercy art the Most Merciful!",
   "source_lang": "ar",
-  "score": 9.5
+  "score": 9.5,
+  "page_slug": "hem-of-mercy-and-grace",
+  "alignment": [
+    {
+      "ar": "يقوم",
+      "en": "standing"
+    },
+    {
+      "ar": "يقول",
+      "en": "let him say"
+    },
+    {
+      "ar": "إِلَهِيْ",
+      "en": "my God"
+    },
+    {
+      "ar": "لَا",
+      "en": "not"
+    },
+    {
+      "ar": "مَنْ",
+      "en": "him that"
+    },
+    {
+      "ar": "بِأَنَامِلِ",
+      "en": "with beseeching fingers"
+    },
+    {
+      "ar": "بِأَذْيَالِ",
+      "en": "to the hem"
+    },
+    {
+      "ar": "رَحْمَتِكَ",
+      "en": "Thy mercy"
+    },
+    {
+      "ar": "وَفَضْلِكَ",
+      "en": "Thy grace"
+    },
+    {
+      "ar": "أَرْحَمَ",
+      "en": "the Most Merciful"
+    }
+  ],
+  "terms": [
+    {
+      "term": "تَشَبَّثَ",
+      "transliteration": "sh-b-th",
+      "literal": "to cling to; to grasp; to hold fast",
+      "se_rendering": "clung",
+      "note": "Root sh-b-th typically rendered 'holdeth fast' or 'holding fast unto a hem' across six occurrences; 'clung' here employs a more intimate, visceral verb capturing desperation.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 645,
+          "snippet": "holdeth fast to the hem"
+        },
+        {
+          "work": "gleanings",
+          "para": 647,
+          "snippet": "cling thou to the hem of the Robe of God"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 5,
+          "snippet": "clinging"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 200,
+          "snippet": "cling"
+        }
+      ]
+    },
+    {
+      "term": "بِأَنَامِلِ",
+      "transliteration": "ʾ-n-m",
+      "literal": "people; mankind; human beings",
+      "se_rendering": "beseeching fingers",
+      "note": "Root ʾ-n-m means 'people' or 'mankind' in most contexts, but rendered 'fingers' here—likely interpreting أَنَامِل as plural of إصبع via etymological association, creating the poignant 'beseeching fingers' image.",
+      "cross_refs": [
+        {
+          "work": "fire-tablet",
+          "para": 24,
+          "snippet": "people"
+        },
+        {
+          "work": "gleanings",
+          "para": 57,
+          "snippet": "fingers"
+        }
+      ]
+    },
+    {
+      "term": "الرَّجَاءِ",
+      "transliteration": "r-j-w",
+      "literal": "to hope; to aspire; to expect",
+      "se_rendering": "hope",
+      "note": "Root r-j-w covers 'hope', 'desire', 'aspiration' across five occurrences; 'hope' selected here as most abstract and universal rendering.",
+      "cross_refs": [
+        {
+          "work": "fire-tablet",
+          "para": 4,
+          "snippet": "Longing"
+        },
+        {
+          "work": "gleanings",
+          "para": 629,
+          "snippet": "hope"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 74,
+          "snippet": "they shall see"
+        }
+      ]
+    },
+    {
+      "term": "بِأَذْيَالِ",
+      "transliteration": "dh-y-l",
+      "literal": "hem; skirt; tail; border",
+      "se_rendering": "hem of",
+      "note": "Root dh-y-l consistently rendered 'hem of' across six occurrences; this passage maintains the figurative imagery of grasping the divine garment's edge.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 647,
+          "snippet": "hem of"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 9,
+          "snippet": "seized the hem of the"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 107,
+          "snippet": "his followers"
+        }
+      ]
+    },
+    {
+      "term": "رَحْمَتِكَ",
+      "transliteration": "r-ḥ-m",
+      "literal": "merciful, compassionate; pertaining to divine mercy",
+      "se_rendering": "mercy",
+      "note": "Root r-ḥ-m shows wide semantic range ('Divine glory', 'spirit of mercy', 'merciful') across 70 occurrences; 'mercy' here is direct, unadorned rendering of the abstract noun.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 673,
+          "snippet": "Divine glory"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 57,
+          "snippet": "Divine"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 89,
+          "snippet": "celestial melody"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 114,
+          "snippet": "spirit of mercy"
+        },
+        {
+          "work": "gleanings",
+          "para": 372,
+          "snippet": "merciful"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 220,
+          "snippet": "have mercy on them"
+        },
+        {
+          "work": "gleanings",
+          "para": 12,
+          "snippet": "mercy"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 50,
+          "snippet": "the Compassionate"
+        }
+      ]
+    },
+    {
+      "term": "وَفَضْلِكَ",
+      "transliteration": "f-d-l",
+      "literal": "grace; bounty; generosity; excellence",
+      "se_rendering": "grace",
+      "note": "Root f-d-l typically rendered with compound forms like 'the Gracious, the All-Bountiful' or 'most excellent favors'; simple 'grace' here subordinates the term to parallel 'mercy'.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 50,
+          "snippet": "the Gracious, the All-Bountiful"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 115,
+          "snippet": "the All-Bounteous"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 259,
+          "snippet": "merits"
+        },
+        {
+          "work": "gleanings",
+          "para": 10,
+          "snippet": "most excellent favors"
+        },
+        {
+          "work": "gleanings",
+          "para": 60,
+          "snippet": "grace"
+        },
+        {
+          "work": "gleanings",
+          "para": 234,
+          "snippet": "His gracious favor"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "graciously"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 92,
+          "snippet": "realms"
+        }
+      ]
+    }
+  ],
+  "section_index": "CLXXXII.5",
+  "section": "CLXXXII",
+  "section_para": 5
 }

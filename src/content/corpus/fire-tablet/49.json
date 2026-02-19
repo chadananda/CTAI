@@ -1,10 +1,362 @@
 {
   "work": "Fire Tablet",
   "slug": "fire-tablet",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 49,
   "source_text": "أَنْ يَا عَلِيُّ قَبْلَ أَكْبَرَ أَنِ اشْكُرِ اللهَ بِهَذَا اللَّوْحِ الَّذِي تَجِدُ مِنْهُ رَائِحَةَ مَظْلُوْمِيَّتِي وَمَا أَنَا فِيْهِ فِي سَبِيْلِ اللهِ مَعْبُوْدِ العَالَمِينَ *",
   "translation": "O ‘Alí-Akbar, thank thy Lord for this Tablet whence thou canst breathe the fragrance of My meekness, and know what hath beset Us in the path of God, the Adored of all the worlds.",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "fragrance-meekness-path-god",
+  "alignment": [
+    {
+      "ar": "يَا",
+      "en": "O"
+    },
+    {
+      "ar": "قَبْلَ",
+      "en": "-"
+    },
+    {
+      "ar": "أَكْبَرَ",
+      "en": "Akbar"
+    },
+    {
+      "ar": "اشْكُرِ",
+      "en": "thank"
+    },
+    {
+      "ar": "اللهَ",
+      "en": "thy Lord"
+    },
+    {
+      "ar": "تَجِدُ",
+      "en": "breathe"
+    },
+    {
+      "ar": "رَائِحَةَ",
+      "en": "fragrance"
+    },
+    {
+      "ar": "مَا",
+      "en": "what"
+    },
+    {
+      "ar": "أَنَا",
+      "en": "Us"
+    },
+    {
+      "ar": "فِيْهِ",
+      "en": "beset"
+    },
+    {
+      "ar": "سَبِيْلِ",
+      "en": "path"
+    },
+    {
+      "ar": "اللهِ",
+      "en": "God"
+    },
+    {
+      "ar": "مَعْبُوْدِ",
+      "en": "Adored"
+    },
+    {
+      "ar": "العَالَمِينَ",
+      "en": "worlds"
+    }
+  ],
+  "terms": [
+    {
+      "term": "اشْكُرِ",
+      "transliteration": "sh-k-r",
+      "literal": "thankfulness, gratitude; to give thanks, be grateful",
+      "se_rendering": "thank",
+      "note": "Usually 'render thanks' or 'praise' (11 occurrences). 'Thank' here is the simplest rendering, creating direct address appropriate to intimate exhortation.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 73,
+          "snippet": "praise"
+        },
+        {
+          "work": "gleanings",
+          "para": 607,
+          "snippet": "gratitude"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 230,
+          "snippet": "thanks"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 149,
+          "snippet": "thankful"
+        },
+        {
+          "work": "gleanings",
+          "para": 569,
+          "snippet": "render thanks"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 682,
+          "snippet": "yield thanks"
+        }
+      ]
+    },
+    {
+      "term": "اللَّوْحِ",
+      "transliteration": "l-w-h",
+      "literal": "tablet; panel; divine decree; revelation",
+      "se_rendering": "Tablet",
+      "note": "Rendered 'Tablet' here, consistent with SE's standard treatment across sacred writings. This passage exemplifies the Tablet as vehicle for communicating divine oppression and patience.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 218,
+          "snippet": "Lawh-i-Fu'ad"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 245,
+          "snippet": "Tablets"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 112,
+          "snippet": "Tablet"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 7,
+          "snippet": "a document"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 100,
+          "snippet": "the Scriptures"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 461,
+          "snippet": "the Tablets"
+        }
+      ]
+    },
+    {
+      "term": "رَائِحَةَ",
+      "transliteration": "r-y-h",
+      "literal": "banner; standard; flag; sign",
+      "se_rendering": "fragrance",
+      "note": "Root predominantly means 'banner' or 'standard' (4 occurrences total). SE renders as 'fragrance' here alone—a sensory metaphor unique to this passage, emphasizing spiritual perception.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 268,
+          "snippet": "Standard"
+        },
+        {
+          "work": "gleanings",
+          "para": 179,
+          "snippet": "odor"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 211,
+          "snippet": "fragrance"
+        }
+      ]
+    },
+    {
+      "term": "مَظْلُوْمِيَّتِي",
+      "transliteration": "z-l-m",
+      "literal": "wrongedness, oppression, meekness; state of being wronged or oppressed",
+      "se_rendering": "meekness",
+      "note": "Typically rendered 'wronged' or 'afflicted' across 128 occurrences. 'Meekness' here is exceptional and theologically significant, presenting oppression as spiritual virtue rather than passive suffering.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 498,
+          "snippet": "afflicted with countless tribulations"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 116,
+          "snippet": "injury"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 36,
+          "snippet": "Wronged One"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 253,
+          "snippet": "wronged"
+        },
+        {
+          "work": "gleanings",
+          "para": 221,
+          "snippet": "oppression"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 141,
+          "snippet": "tyranny"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 573,
+          "snippet": "oppressed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 181,
+          "snippet": "wronged ones"
+        }
+      ]
+    },
+    {
+      "term": "سَبِيْلِ",
+      "transliteration": "s-b-l",
+      "literal": "path; way; means",
+      "se_rendering": "path",
+      "note": "Consistently rendered 'path' across 9 occurrences. Here 'the path of God' aligns with SE's standard formulation, locating suffering within divine purpose.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 17,
+          "snippet": "in His path"
+        },
+        {
+          "work": "gleanings",
+          "para": 153,
+          "snippet": "in the path of"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 2,
+          "snippet": "path"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 119,
+          "snippet": "in the ways of"
+        },
+        {
+          "work": "gleanings",
+          "para": 660,
+          "snippet": "in My path"
+        },
+        {
+          "work": "gleanings",
+          "para": 205,
+          "snippet": "in the path of God"
+        }
+      ]
+    },
+    {
+      "term": "مَعْبُوْدِ",
+      "transliteration": "ʿ-b-d",
+      "literal": "servant; slave; worshipper",
+      "se_rendering": "Adored",
+      "note": "Root ع-ب-د usually renders as 'servants' or 'servant' (68 occurrences). 'Adored' is unprecedented—SE inverts the servant-master relationship to emphasize divine worship rather than servitude.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 279,
+          "snippet": "Thy servants"
+        },
+        {
+          "work": "gleanings",
+          "para": 686,
+          "snippet": "servants"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 27,
+          "snippet": "'Abdu'l‑Bahá"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 204,
+          "snippet": "Thy servant"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 260,
+          "snippet": "'Abdu'l-'Azíz"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 663,
+          "snippet": "servant"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 10,
+          "snippet": "this wronged servant of Thine"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 47,
+          "snippet": "this servant of Thine"
+        }
+      ]
+    },
+    {
+      "term": "العَالَمِينَ",
+      "transliteration": "ʿ-l-m",
+      "literal": "world; universe; the worlds",
+      "se_rendering": "all the worlds",
+      "note": "Typically 'worlds' or 'all worlds' (141 occurrences). 'All the worlds' here maintains this pattern while emphasizing comprehensiveness of divine adoration.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 198,
+          "snippet": "world"
+        },
+        {
+          "work": "gleanings",
+          "para": 657,
+          "snippet": "all worlds"
+        },
+        {
+          "work": "gleanings",
+          "para": 182,
+          "snippet": "mankind"
+        },
+        {
+          "work": "gleanings",
+          "para": 183,
+          "snippet": "the whole world"
+        },
+        {
+          "work": "gleanings",
+          "para": 226,
+          "snippet": "all earthly defilements"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 28,
+          "snippet": "knowledge"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 122,
+          "snippet": "commentators"
+        },
+        {
+          "work": "gleanings",
+          "para": 38,
+          "snippet": "understanding"
+        }
+      ]
+    }
+  ],
+  "section_index": "50",
+  "section": "50",
+  "section_para": 1
 }

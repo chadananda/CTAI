@@ -1,10 +1,327 @@
 {
   "work": "Tablet of the Holy Mariner",
   "slug": "tablet-of-the-holy-mariner",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 47,
   "source_text": "ثمّ صاحت وضجّت ورجعت إلى مقامها في قصرها الحمراء فسبحان ربّي الأبهى",
   "translation": "She then cried aloud, wailed and repaired to her own station within her most lofty mansion,\n Glorified be my Lord, the All-Glorious!",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "cried-aloud-repaired-lofty-mansion",
+  "alignment": [
+    {
+      "ar": "صاحت",
+      "en": "cried aloud"
+    },
+    {
+      "ar": "ضجّت",
+      "en": "wailed"
+    },
+    {
+      "ar": "رجعت",
+      "en": "repaired"
+    },
+    {
+      "ar": "مقامها",
+      "en": "her own station"
+    },
+    {
+      "ar": "قصرها",
+      "en": "her"
+    },
+    {
+      "ar": "الحمراء",
+      "en": "most lofty mansion"
+    },
+    {
+      "ar": "سبحان",
+      "en": "Glorified"
+    },
+    {
+      "ar": "ربّي",
+      "en": "my Lord"
+    },
+    {
+      "ar": "الأبهى",
+      "en": "the All-Glorious"
+    }
+  ],
+  "terms": [
+    {
+      "term": "ورجعت",
+      "transliteration": "r-j-ʿ",
+      "literal": "return; reference; place of return; resort",
+      "se_rendering": "repaired",
+      "note": "Usually 'return' or 'returned' across corpus; 'repaired' here conveys purposeful movement to a specific location with formal tone.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 367,
+          "snippet": "target"
+        },
+        {
+          "work": "gleanings",
+          "para": 319,
+          "snippet": "return"
+        },
+        {
+          "work": "gleanings",
+          "para": 726,
+          "snippet": "to Him shall we return"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 53,
+          "snippet": "returned"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 530,
+          "snippet": "cause them to return"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 709,
+          "snippet": "return me"
+        },
+        {
+          "work": "gleanings",
+          "para": 683,
+          "snippet": "Retrace"
+        },
+        {
+          "work": "gleanings",
+          "para": 193,
+          "snippet": "will ultimately be united"
+        }
+      ]
+    },
+    {
+      "term": "مقامها",
+      "transliteration": "q-w-m",
+      "literal": "rising; standing; uprising; resurrection",
+      "se_rendering": "station",
+      "note": "Root typically yields 'Resurrection' or 'uprising' (109 occ); here rendered 'station'—a spatial rather than eschatological sense unique to this passage.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 152,
+          "snippet": "Day of Resurrection"
+        },
+        {
+          "work": "gleanings",
+          "para": 437,
+          "snippet": "arise"
+        },
+        {
+          "work": "gleanings",
+          "para": 513,
+          "snippet": "dedicateth"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 153,
+          "snippet": "Resurrection"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 74,
+          "snippet": "rise"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "peoples"
+        },
+        {
+          "work": "gleanings",
+          "para": 693,
+          "snippet": "commandments"
+        },
+        {
+          "work": "gleanings",
+          "para": 628,
+          "snippet": "My commandments"
+        }
+      ]
+    },
+    {
+      "term": "قصرها",
+      "transliteration": "q-s-r",
+      "literal": "shortcoming; negligence; falling short; to be deficient",
+      "se_rendering": "mansion",
+      "note": "Root denotes deficiency/shortcoming in corpus (3 occ); here it means 'mansion'—a homonymic collision or distinct lexical identity entirely obscured.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 60,
+          "snippet": "shortcoming"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 745,
+          "snippet": "incapable"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 434,
+          "snippet": "fallen short"
+        }
+      ]
+    },
+    {
+      "term": "الحمراء",
+      "transliteration": "h-m-r",
+      "literal": "to be red; to redden",
+      "se_rendering": "most lofty mansion",
+      "note": "Rare rendering 'most lofty mansion' obscures the literal 'red/crimson' sense; elsewhere 'Crimson Ark' preserves color imagery.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 10,
+          "snippet": "be reddened"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 204,
+          "snippet": "Crimson Ark"
+        },
+        {
+          "work": "gleanings",
+          "para": 399,
+          "snippet": "the Crimson Ark"
+        }
+      ]
+    },
+    {
+      "term": "فسبحان",
+      "transliteration": "s-b-ḥ",
+      "literal": "glorified; the All-Praised; exalted",
+      "se_rendering": "Glorified",
+      "note": "Standard renderings include 'All-Praised' and 'Glorified art Thou'; 'Glorified' here is the participial form, maintaining doxological force.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 211,
+          "snippet": "the All-Praised"
+        },
+        {
+          "work": "gleanings",
+          "para": 212,
+          "snippet": "the Breath of the All-Glorious"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 13,
+          "snippet": "the breezes of the All-Glorious"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 42,
+          "snippet": "Gracious God"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 90,
+          "snippet": "Great God"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 62,
+          "snippet": "Glorified art Thou"
+        },
+        {
+          "work": "gleanings",
+          "para": 112,
+          "snippet": "Glory be to Thee"
+        },
+        {
+          "work": "gleanings",
+          "para": 1,
+          "snippet": "Lauded and glorified art Thou"
+        }
+      ]
+    },
+    {
+      "term": "ربّي",
+      "transliteration": "r-b-b",
+      "literal": "divine; of God; lordly",
+      "se_rendering": "Lord",
+      "note": "Consistently 'Lord' or 'My Lord' across 31 occurrences; this passage uses the possessive form 'my Lord' to maintain first-person devotion.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 2,
+          "snippet": "Holy"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 45,
+          "snippet": "Lord"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 69,
+          "snippet": "lordship"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 201,
+          "snippet": "My Lord's"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 162,
+          "snippet": "Divine might"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 16,
+          "snippet": "divine knowledge"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 205,
+          "snippet": "divine wisdom"
+        },
+        {
+          "work": "gleanings",
+          "para": 684,
+          "snippet": "Divine glory"
+        }
+      ]
+    },
+    {
+      "term": "الابهی",
+      "transliteration": "b-h-y",
+      "literal": "splendor; glory; magnificence; Bahá (Proper Name in Bahá'í texts)",
+      "se_rendering": "All-Glorious",
+      "note": "Usually 'Bahá' or 'Abhá' as proper names; 'All-Glorious' here treats it as an epithet, emphasizing magnificence over sacred designation.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 280,
+          "snippet": "Bahá"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 59,
+          "snippet": "Glory"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 51,
+          "snippet": "Abhá"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 271,
+          "snippet": "All-Glorious"
+        }
+      ]
+    }
+  ],
+  "section_index": "48",
+  "section": "48",
+  "section_para": 1
 }

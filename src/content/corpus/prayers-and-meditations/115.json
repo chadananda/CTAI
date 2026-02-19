@@ -1,10 +1,109 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 115,
   "source_text": "الإِمْكانِ وَمَنْ فِيْ الأَكْوانِ.",
   "translation": "Praised be Thou, Who art the Lord of all creation.",
   "source_lang": "ar",
-  "score": 9.9
+  "score": 9.9,
+  "page_slug": "lord-of-all-creation",
+  "alignment": [
+    {
+      "ar": "الإِمْكانِ",
+      "en": "creation"
+    },
+    {
+      "ar": "الأَكْوانِ",
+      "en": "all"
+    }
+  ],
+  "terms": [
+    {
+      "term": "الإِمْكانِ",
+      "transliteration": "m-k-n",
+      "literal": "establishment; confirmation; empowerment; firm settlement",
+      "se_rendering": "all creation",
+      "note": "Root m-k-n typically renders as 'establishment' or 'empowerment.' Here SE chose 'all creation'—a dynamic interpretive leap treating the abstract realm of possibility as concrete created things.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 595,
+          "snippet": "establishment"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 82,
+          "snippet": "all created things"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 30,
+          "snippet": "the hands of all created things"
+        },
+        {
+          "work": "gleanings",
+          "para": 568,
+          "snippet": "pervaded all created things"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 39,
+          "snippet": "therein"
+        },
+        {
+          "work": "gleanings",
+          "para": 446,
+          "snippet": "all creation"
+        },
+        {
+          "work": "gleanings",
+          "para": 529,
+          "snippet": "can in no wise be"
+        }
+      ]
+    },
+    {
+      "term": "وَمَنْ",
+      "transliteration": "m-n",
+      "literal": "from; out of; than (preposition and particle)",
+      "se_rendering": "of",
+      "note": "Preposition m-n usually renders as 'from,' 'of,' or 'in.' SE subsumed it into the larger phrase structure, rendering the relationship between realm and inhabitants as unified whole.",
+      "cross_refs": [
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 2,
+          "snippet": "their"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 3,
+          "snippet": "in them"
+        },
+        {
+          "work": "gleanings",
+          "para": 4,
+          "snippet": "them"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 5,
+          "snippet": "of them"
+        },
+        {
+          "work": "gleanings",
+          "para": 46,
+          "snippet": "of all that is in the realm of possibility"
+        },
+        {
+          "work": "gleanings",
+          "para": 63,
+          "snippet": "from that time"
+        }
+      ]
+    }
+  ],
+  "section_index": "XXXIII.6",
+  "section": "XXXIII",
+  "section_para": 6
 }

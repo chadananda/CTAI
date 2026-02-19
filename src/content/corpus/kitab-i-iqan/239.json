@@ -1,10 +1,544 @@
 {
   "work": "Kitab-i-Iqan",
   "slug": "kitab-i-iqan",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 239,
   "source_text": "بشنويد ندای قدس الهی و نوای خوش صمدانی را که چگونه در تلويح، انذار فرموده مکذّبين آيات را و بيزاری جسته منکرين کلمات قدسيّه را.  و بُعد ناس را ملاحظه فرمائيد از کوثر قرب و اعراض و استکبار آن محرومان را بر آن جمال قدس.  با اينکه آن جوهر لطف و کرم، هياکل عدم را به عرصه قِدَم هدايت می فرمود و آن فقيران حقيقی را به شريعه قدسيّه غنا دلالت می نمود مع ذلک بعضی می گفتند اين مردی است افترا کننده بر پروردگار عالميان و بعضی می گفتند اين منع کننده است ناس را از شريعه دين و ايمان و برخی نسبت جنون می دادند و امثال ذلک.",
   "translation": "Give ear unto God’s holy Voice, and heed thou His sweet and immortal melody. Behold how He hath solemnly warned them that have repudiated the verses of God, and hath disowned them that have denied His holy words. Consider how far the people have strayed from the Kawthar of the divine Presence, and how grievous hath been the faithlessness and arrogance of the spiritually destitute in the face of that sanctified Beauty. Although that Essence of lovingkindness and bounty caused those evanescent beings to step into the realm of immortality, and guided those destitute souls to the sacred river of wealth, yet some denounced Him as “a calumniator of God, the Lord of all creatures,” others accused Him of being “the one that withholdeth the people from the path of faith and true belief,” and still others declared Him to be “a lunatic” and the like.",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "calumniator-god-lord-creatures",
+  "alignment": [
+    {
+      "ar": "بشنويد",
+      "en": "Give ear"
+    },
+    {
+      "ar": "ندای",
+      "en": "Voice"
+    },
+    {
+      "ar": "قدس",
+      "en": "holy"
+    },
+    {
+      "ar": "نوای",
+      "en": "melody"
+    },
+    {
+      "ar": "خوش",
+      "en": "sweet"
+    },
+    {
+      "ar": "صمدانی",
+      "en": "immortal"
+    },
+    {
+      "ar": "چگونه",
+      "en": "how"
+    },
+    {
+      "ar": "تلويح",
+      "en": "solemnly"
+    },
+    {
+      "ar": "انذار",
+      "en": "warned"
+    },
+    {
+      "ar": "فرموده",
+      "en": "hath"
+    },
+    {
+      "ar": "مکذّبين",
+      "en": "have repudiated"
+    },
+    {
+      "ar": "آيات",
+      "en": "verses"
+    },
+    {
+      "ar": "بيزاری جسته",
+      "en": "disowned"
+    },
+    {
+      "ar": "منکرين",
+      "en": "have denied"
+    },
+    {
+      "ar": "کلمات",
+      "en": "words"
+    },
+    {
+      "ar": "بُعد",
+      "en": "far"
+    },
+    {
+      "ar": "ناس",
+      "en": "people"
+    },
+    {
+      "ar": "ملاحظه فرمائيد",
+      "en": "Consider"
+    },
+    {
+      "ar": "کوثر",
+      "en": "Kawthar"
+    },
+    {
+      "ar": "قرب",
+      "en": "Presence"
+    },
+    {
+      "ar": "اعراض",
+      "en": "faithlessness"
+    },
+    {
+      "ar": "استکبار",
+      "en": "arrogance"
+    },
+    {
+      "ar": "محرومان",
+      "en": "destitute"
+    },
+    {
+      "ar": "جمال",
+      "en": "Beauty"
+    },
+    {
+      "ar": "قدس",
+      "en": "sanctified"
+    },
+    {
+      "ar": "جوهر",
+      "en": "Essence"
+    },
+    {
+      "ar": "لطف",
+      "en": "lovingkindness"
+    },
+    {
+      "ar": "کرم",
+      "en": "bounty"
+    },
+    {
+      "ar": "هياکل",
+      "en": "beings"
+    },
+    {
+      "ar": "عدم",
+      "en": "evanescent"
+    },
+    {
+      "ar": "عرصه",
+      "en": "realm"
+    },
+    {
+      "ar": "قِدَم",
+      "en": "immortality"
+    },
+    {
+      "ar": "هدايت",
+      "en": "guided"
+    },
+    {
+      "ar": "حقيقی",
+      "en": "souls"
+    },
+    {
+      "ar": "شريعه",
+      "en": "river"
+    },
+    {
+      "ar": "قدسيّه",
+      "en": "sacred"
+    },
+    {
+      "ar": "غنا",
+      "en": "wealth"
+    },
+    {
+      "ar": "بعضی",
+      "en": "some"
+    },
+    {
+      "ar": "می گفتند",
+      "en": "denounced"
+    },
+    {
+      "ar": "مردی",
+      "en": "one"
+    },
+    {
+      "ar": "افترا کننده",
+      "en": "calumniator"
+    },
+    {
+      "ar": "پروردگار",
+      "en": "Lord"
+    },
+    {
+      "ar": "عالميان",
+      "en": "all creatures"
+    },
+    {
+      "ar": "بعضی",
+      "en": "others"
+    },
+    {
+      "ar": "منع کننده",
+      "en": "withholdeth"
+    },
+    {
+      "ar": "شريعه",
+      "en": "path"
+    },
+    {
+      "ar": "دين",
+      "en": "faith"
+    },
+    {
+      "ar": "ايمان",
+      "en": "true belief"
+    },
+    {
+      "ar": "برخی",
+      "en": "still others"
+    },
+    {
+      "ar": "نسبت",
+      "en": "declared"
+    },
+    {
+      "ar": "جنون",
+      "en": "lunatic"
+    },
+    {
+      "ar": "امثال",
+      "en": "the like"
+    }
+  ],
+  "terms": [
+    {
+      "term": "قدس",
+      "transliteration": "q-d-s",
+      "literal": "holy, sacred, sanctified",
+      "se_rendering": "sacred; sanctified",
+      "note": "Typically 'Sacred' or 'holy' across corpus. Here SE uses both 'sanctified Beauty' and 'sacred river,' demonstrating flexibility in applying the root to different contexts.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 2,
+          "snippet": "Sacred"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 81,
+          "snippet": "hallowed"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 35,
+          "snippet": "spirit of holiness"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 448,
+          "snippet": "Sanctuary"
+        },
+        {
+          "work": "gleanings",
+          "para": 585,
+          "snippet": "holy Paradise"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 13,
+          "snippet": "Holy Mariner"
+        },
+        {
+          "work": "gleanings",
+          "para": 584,
+          "snippet": "Holy Veil"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 6,
+          "snippet": "sacred strand"
+        }
+      ]
+    },
+    {
+      "term": "کلمات",
+      "transliteration": "k-l-m",
+      "literal": "words; utterances; locutions",
+      "se_rendering": "words",
+      "note": "Consistently 'words' or 'Word of God' across 58 occurrences. Rendered straightforwardly as 'holy words' here without capitalization, marking these as specific divine utterances rather than the absolute Word.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 6,
+          "snippet": "words"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 38,
+          "snippet": "His Word"
+        },
+        {
+          "work": "gleanings",
+          "para": 353,
+          "snippet": "the Word of God"
+        },
+        {
+          "work": "gleanings",
+          "para": 603,
+          "snippet": "a jewel"
+        },
+        {
+          "work": "gleanings",
+          "para": 441,
+          "snippet": "a word"
+        },
+        {
+          "work": "gleanings",
+          "para": 689,
+          "snippet": "the sayings"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 48,
+          "snippet": "Thy Word"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 2,
+          "snippet": "the Word"
+        }
+      ]
+    },
+    {
+      "term": "قرب",
+      "transliteration": "q-r-b",
+      "literal": "place of sacrifice; altar",
+      "se_rendering": "Kawthar of the divine Presence",
+      "note": "Jafar lists primary sense as 'place of sacrifice' with diverse renderings. SE's 'Kawthar of the divine Presence' is interpretive, conflating proximity (قرب) with the Quranic spring (كوثر), suggesting spiritual nearness as the source's intent.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 3,
+          "snippet": "unto the place of sacrifice"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 35,
+          "snippet": "my kindred"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 159,
+          "snippet": "their kindred"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 101,
+          "snippet": "draw near unto"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 430,
+          "snippet": "drawn nigh"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 98,
+          "snippet": "drawing near"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 245,
+          "snippet": "draweth near"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 163,
+          "snippet": "at hand"
+        }
+      ]
+    },
+    {
+      "term": "استکبار",
+      "transliteration": "k-b-r",
+      "literal": "great; grand; mighty; large",
+      "se_rendering": "arrogance",
+      "note": "Jafar root typically yields 'great' or 'mighty' adjectives. SE renders as 'arrogance' (noun, abstract vice) rather than adhering to size/magnitude semantics, interpreting the term as moral disposition rather than scale.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 181,
+          "snippet": "Great City"
+        },
+        {
+          "work": "gleanings",
+          "para": 351,
+          "snippet": "Most Great"
+        },
+        {
+          "work": "gleanings",
+          "para": 10,
+          "snippet": "most mighty grace"
+        },
+        {
+          "work": "gleanings",
+          "para": 23,
+          "snippet": "most grievous veil"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "Greater Branch"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 188,
+          "snippet": "weighty"
+        },
+        {
+          "work": "gleanings",
+          "para": 318,
+          "snippet": "mighty"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 48,
+          "snippet": "pride"
+        }
+      ]
+    },
+    {
+      "term": "جمال",
+      "transliteration": "j-m-l",
+      "literal": "beauty; comeliness",
+      "se_rendering": "Beauty",
+      "note": "Standard rendering 'Beauty' (capitalized) across 38 occurrences. Here applied to divine reality confronting human rejection, maintaining SE's capital convention for transcendent attributes.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 296,
+          "snippet": "Beauty"
+        },
+        {
+          "work": "gleanings",
+          "para": 183,
+          "snippet": "Ancient Beauty"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 193,
+          "snippet": "Among others"
+        },
+        {
+          "work": "gleanings",
+          "para": 359,
+          "snippet": "Amongst"
+        },
+        {
+          "work": "gleanings",
+          "para": 649,
+          "snippet": "by the beauty"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 88,
+          "snippet": "for a beauty"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 116,
+          "snippet": "by Thine Ancient Beauty"
+        },
+        {
+          "work": "gleanings",
+          "para": 165,
+          "snippet": "By My Beauty"
+        }
+      ]
+    },
+    {
+      "term": "شريعه",
+      "transliteration": "sh-r-ʿ",
+      "literal": "law; legislation; religious law; canon; ordinance",
+      "se_rendering": "sacred river",
+      "note": "Primary meanings 'law' or 'Sanctuary' across corpus. SE renders as 'sacred river,' aligning with metaphorical usage following the preceding reference to Kawthar, creating imagistic coherence.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "Sanctuary"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 3,
+          "snippet": "Law"
+        },
+        {
+          "work": "gleanings",
+          "para": 529,
+          "snippet": "one common Faith"
+        }
+      ]
+    },
+    {
+      "term": "افترا",
+      "transliteration": "f-t-r",
+      "literal": "slander; calumny; fabrication; false accusation",
+      "se_rendering": "calumniator",
+      "note": "Typically 'slander' or 'calumny' across 30 occurrences. SE chooses 'calumniator' (agent noun) to match the accusation's structure: 'a calumniator of God,' capturing the accusers' charge directly.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 6,
+          "snippet": "slander"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 34,
+          "snippet": "hurled their calumny"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 7,
+          "snippet": "calumny"
+        },
+        {
+          "work": "gleanings",
+          "para": 109,
+          "snippet": "false accusation"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 184,
+          "snippet": "calumnies"
+        },
+        {
+          "work": "gleanings",
+          "para": 461,
+          "snippet": "slandered"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 122,
+          "snippet": "under the influence of calumniators"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 109,
+          "snippet": "by false accusations"
+        }
+      ]
+    }
+  ],
+  "section_index": "239",
+  "section": "239",
+  "section_para": 1
 }

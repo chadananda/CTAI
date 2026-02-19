@@ -1,10 +1,531 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 440,
   "source_text": "ای احزاب مختلفه باتّحاد توجّه نمائید و بنور اتّفاق منوّر گردید لوجه الله در مقرّی حاضر شوید و آنچه سبب اختلاف است از میان بردارید تا جمیع عالم بانوار نیّر اعظم فائز گردند و در یک مدینه وارد شوند و بر یک سریر جالس این مظلوم از اوّل ایّام الی حین مقصودی جز آنچه ذکر شد نداشته و ندارد شکّی نیست جمیع احزاب بافق اعلی متوجّهند و بامر حقّ عامل نظر بمقتضیات عصر اوامر و احکام مختلف شده ولکن کل من عند الله بوده و از نزد او نازل شده و بعضی از امور هم از عناد ظاهر گشته باری بعضد ایقان اصنام اوهام و اختلاف را بشکنید و باتّحاد و اتّفاق تمسّک نمائید این است کلمهٴ علیا که از امّ الکتاب نازل شده یشهد بذلک لسان العظمة فی مقامه الرّفیع...",
   "translation": "O contending peoples and kindreds of the earth! Set your faces towards unity, and let the radiance of its light shine upon you. Gather ye together, and for the sake of God resolve to root out whatever is the source of contention amongst you. Then will the effulgence of the world’s great Luminary envelop the whole earth, and its inhabitants become the citizens of one city, and the occupants of one and the same throne. This wronged One hath, ever since the early days of His life, cherished none other desire but this, and will continue to entertain no wish except this wish. There can be no doubt whatever that the peoples of the world, of whatever race or religion, derive their inspiration from one heavenly Source, and are the subjects of one God. The difference between the ordinances under which they abide should be attributed to the varying requirements and exigencies of the age in which they were revealed. All of them, except a few which are the outcome of human perversity, were ordained of God, and are a reflection of His Will and Purpose. Arise and, armed with the power of faith, shatter to pieces the gods of your vain imaginings, the sowers of dissension amongst you. Cleave unto that which draweth you together and uniteth you. This, verily, is the most exalted Word which the Mother Book hath sent down and revealed unto you. To this beareth witness the Tongue of Grandeur from His habitation of glory.",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "unity-radiance-luminary",
+  "alignment": [
+    {
+      "ar": "احزاب",
+      "en": "peoples and kindreds"
+    },
+    {
+      "ar": "مختلفه",
+      "en": "contending"
+    },
+    {
+      "ar": "باتّحاد",
+      "en": "towards unity"
+    },
+    {
+      "ar": "توجّه",
+      "en": "Set your faces"
+    },
+    {
+      "ar": "نمائید",
+      "en": "Set"
+    },
+    {
+      "ar": "بنور",
+      "en": "the radiance"
+    },
+    {
+      "ar": "اتّفاق",
+      "en": "its light"
+    },
+    {
+      "ar": "منوّر",
+      "en": "shine"
+    },
+    {
+      "ar": "گردید",
+      "en": "shine upon you"
+    },
+    {
+      "ar": "لوجه الله",
+      "en": "for the sake of God"
+    },
+    {
+      "ar": "مقرّی",
+      "en": "together"
+    },
+    {
+      "ar": "حاضر",
+      "en": "Gather"
+    },
+    {
+      "ar": "آنچه",
+      "en": "whatever"
+    },
+    {
+      "ar": "سبب",
+      "en": "the source"
+    },
+    {
+      "ar": "اختلاف",
+      "en": "contention"
+    },
+    {
+      "ar": "از میان بردارید",
+      "en": "root out"
+    },
+    {
+      "ar": "جمیع",
+      "en": "the whole"
+    },
+    {
+      "ar": "عالم",
+      "en": "earth"
+    },
+    {
+      "ar": "بانوار",
+      "en": "the effulgence"
+    },
+    {
+      "ar": "نیّر",
+      "en": "Luminary"
+    },
+    {
+      "ar": "اعظم",
+      "en": "great"
+    },
+    {
+      "ar": "فائز",
+      "en": "envelop"
+    },
+    {
+      "ar": "گردند",
+      "en": "become"
+    },
+    {
+      "ar": "یک مدینه",
+      "en": "one city"
+    },
+    {
+      "ar": "وارد",
+      "en": "the citizens"
+    },
+    {
+      "ar": "یک سریر",
+      "en": "one and the same throne"
+    },
+    {
+      "ar": "جالس",
+      "en": "the occupants"
+    },
+    {
+      "ar": "مظلوم",
+      "en": "This wronged One"
+    },
+    {
+      "ar": "اوّل",
+      "en": "early"
+    },
+    {
+      "ar": "ایّام",
+      "en": "days"
+    },
+    {
+      "ar": "حین",
+      "en": "His life"
+    },
+    {
+      "ar": "مقصودی",
+      "en": "desire"
+    },
+    {
+      "ar": "ذکر",
+      "en": "this"
+    },
+    {
+      "ar": "نداشته",
+      "en": "cherished none other"
+    },
+    {
+      "ar": "ندارد",
+      "en": "will continue to entertain no wish"
+    },
+    {
+      "ar": "شکّی نیست",
+      "en": "There can be no doubt whatever"
+    },
+    {
+      "ar": "احزاب",
+      "en": "the peoples of the world"
+    },
+    {
+      "ar": "افق اعلی",
+      "en": "one heavenly Source"
+    },
+    {
+      "ar": "متوجّهند",
+      "en": "derive their inspiration"
+    },
+    {
+      "ar": "بامر حقّ",
+      "en": "the subjects of one God"
+    },
+    {
+      "ar": "عامل",
+      "en": "are"
+    },
+    {
+      "ar": "مقتضیات",
+      "en": "the varying requirements and exigencies"
+    },
+    {
+      "ar": "عصر",
+      "en": "the age"
+    },
+    {
+      "ar": "اوامر",
+      "en": "the ordinances"
+    },
+    {
+      "ar": "احکام",
+      "en": "ordinances"
+    },
+    {
+      "ar": "مختلف",
+      "en": "The difference"
+    },
+    {
+      "ar": "کل",
+      "en": "All of them"
+    },
+    {
+      "ar": "من عند الله",
+      "en": "ordained of God"
+    },
+    {
+      "ar": "نازل",
+      "en": "revealed"
+    },
+    {
+      "ar": "بعضی",
+      "en": "a few"
+    },
+    {
+      "ar": "امور",
+      "en": "them"
+    },
+    {
+      "ar": "عناد",
+      "en": "human perversity"
+    },
+    {
+      "ar": "ظاهر",
+      "en": "the outcome"
+    },
+    {
+      "ar": "بعضد",
+      "en": "armed with the power"
+    },
+    {
+      "ar": "ایقان",
+      "en": "faith"
+    },
+    {
+      "ar": "اصنام",
+      "en": "the gods"
+    },
+    {
+      "ar": "اوهام",
+      "en": "your vain imaginings"
+    },
+    {
+      "ar": "بشکنید",
+      "en": "shatter to pieces"
+    },
+    {
+      "ar": "باتّحاد",
+      "en": "draweth you together"
+    },
+    {
+      "ar": "اتّفاق",
+      "en": "uniteth you"
+    },
+    {
+      "ar": "تمسّک",
+      "en": "Cleave"
+    },
+    {
+      "ar": "کلمهٴ علیا",
+      "en": "the most exalted Word"
+    },
+    {
+      "ar": "امّ الکتاب",
+      "en": "the Mother Book"
+    },
+    {
+      "ar": "نازل شده",
+      "en": "sent down and revealed"
+    },
+    {
+      "ar": "یشهد",
+      "en": "beareth witness"
+    },
+    {
+      "ar": "لسان العظمة",
+      "en": "the Tongue of Grandeur"
+    },
+    {
+      "ar": "مقامه الرّفیع",
+      "en": "His habitation of glory"
+    }
+  ],
+  "terms": [
+    {
+      "term": "سریر",
+      "transliteration": "s-r-r",
+      "literal": "throne; couch; seat of authority",
+      "se_rendering": "throne",
+      "note": "Rendered 'throne' here; appears 40 times with renderings including 'couch', 'lamp', 'joy', 'mystery'. Choice of 'throne' emphasizes political/eschatological unity rather than intimacy.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 145,
+          "snippet": "couch"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 256,
+          "snippet": "throne"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 185,
+          "snippet": "lamp"
+        },
+        {
+          "work": "tablet-of-carmel",
+          "para": 2,
+          "snippet": "joy"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 831,
+          "snippet": "Secret"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 37,
+          "snippet": "in the gladness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 8,
+          "snippet": "by the mysteries"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 18,
+          "snippet": "mysteries"
+        }
+      ]
+    },
+    {
+      "term": "مظلوم",
+      "transliteration": "z-l-m",
+      "literal": "wrongedness, oppression, meekness; state of being wronged or oppressed",
+      "se_rendering": "Wronged One",
+      "note": "Typically 'wronged', 'afflicted', or 'meekness' across 128 occurrences. Here rendered as 'Wronged One'—a nominalization that elevates the term to a proper descriptor of Bahá'u'lláh's station.",
+      "cross_refs": [
+        {
+          "work": "fire-tablet",
+          "para": 49,
+          "snippet": "meekness"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 116,
+          "snippet": "injury"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 36,
+          "snippet": "Wronged One"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 253,
+          "snippet": "wronged"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 9,
+          "snippet": "Darkness"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 33,
+          "snippet": "tyranny"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 573,
+          "snippet": "oppressed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 181,
+          "snippet": "wronged ones"
+        }
+      ]
+    },
+    {
+      "term": "اعلی",
+      "transliteration": "ʿ-l-w",
+      "literal": "highest; most high; supreme",
+      "se_rendering": "most exalted",
+      "note": "Usually 'the Most High' or 'Most Sublime Pen' (74 occ); here rendered 'most exalted' in superlative form, modifying 'Word' to stress the utterance's transcendent status.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 1,
+          "snippet": "the Most High"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 148,
+          "snippet": "the Most Sublime Pen"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 390,
+          "snippet": "the Most Exalted, the Most High"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 68,
+          "snippet": "the Pen of Glory"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 1,
+          "snippet": "the Realm of Glory"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 257,
+          "snippet": "the Báb, the Lord, the most exalted"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 21,
+          "snippet": "sublime"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 143,
+          "snippet": "exalted be He"
+        }
+      ]
+    },
+    {
+      "term": "احکام",
+      "transliteration": "h-k-m",
+      "literal": "government; rule; governance; wisdom",
+      "se_rendering": "ordinances",
+      "note": "Typically 'rule', 'government', 'governments' (69 occ); here 'ordinances' emphasizes the legal-prescriptive dimension of divine revelation across ages rather than sovereignty or governance.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-ahd",
+          "para": 6,
+          "snippet": "rule"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "government"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 849,
+          "snippet": "signs of Thy sovereignty"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 160,
+          "snippet": "meaning of return"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 182,
+          "snippet": "mystery of the former verse"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 129,
+          "snippet": "perspicuous verses"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 46,
+          "snippet": "conclusive"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 220,
+          "snippet": "impregnable stronghold"
+        }
+      ]
+    },
+    {
+      "term": "نازل",
+      "transliteration": "n-z-l",
+      "literal": "to descend, to be revealed",
+      "se_rendering": "sent down",
+      "note": "Standard 'sent down' or 'revealed' (88 occ); here maintains religious authority semantics connecting divine ordinance to temporal revelation and the descent from 'Mother Book'.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 188,
+          "snippet": "revealed"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 175,
+          "snippet": "didst send down"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 835,
+          "snippet": "sent down"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 34,
+          "snippet": "Descend"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 47,
+          "snippet": "pour forth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 330,
+          "snippet": "send down"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 40,
+          "snippet": "were revealed"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 16,
+          "snippet": "hath been sent down"
+        }
+      ]
+    }
+  ],
+  "section_index": "CXI.1",
+  "section": "CXI",
+  "section_para": 1
 }

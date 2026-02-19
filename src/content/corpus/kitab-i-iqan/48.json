@@ -1,10 +1,632 @@
 {
   "work": "Kitab-i-Iqan",
   "slug": "kitab-i-iqan",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 48,
   "source_text": "و همچنين معنی تبديل ارض را ادراک نما که غمام رحمت آن سماء بر قلوبی که نيسان مکرمت مبذول داشت،تبديل شد اراضی آن قلوب به ارض معرفت و حکمت.  و چه رياحين توحيد که در رياض قلوبشان انبات شده و چه شقايق های حقايق علم وحکمت که از صدور منيرشان روئيده.  و اگر ارض قلوبشان تبديل نمی شد چگونه رجالی که حرفی تعليم نگرفتهاند و معلّم  را نديدهاند و به هيچ دبستانی قدم نگذاشتهاند به کلمات و معارفی تکلّم می نمايند که احدی ادراک نتواند نمود؟ گويا از تراب علم سرمدی سرشته شدهاند و از آب حکمت لدنّی عجين گشتهاند.  اين است که می فرمايد:  \"اَلعِلمُ نُورٌ  يَقْذِفُه  اللّهُ فی قَلبِ مَن يَشاء.\" و اين نحو از علم است که ممدوح بوده و هست.  نه علوم محدوده که از افکار محجوبه کدره احداث شده و آن را گاهی از هم سرقت می نمايند و بر ديگران افتخار می کنند.",
   "translation": "In like manner, endeavour to comprehend the meaning of the “changing of the earth.” Know thou, that upon whatever hearts the bountiful showers of mercy, raining from the “heaven” of divine Revelation, have fallen, the earth of those hearts hath verily been changed into the earth of divine knowledge and wisdom. What myrtles of unity hath the soil of their hearts produced! What blossoms of true knowledge and wisdom hath their illumined bosoms yielded! Were the earth of their hearts to remain unchanged, how could such souls who have not been taught one letter, have seen no teacher, and entered no school, utter such words and display such knowledge as none can apprehend? Methinks they have been moulded from the clay of infinite knowledge, and kneaded with the water of divine wisdom. Therefore, hath it been said: “Knowledge is a light which God casteth into the heart of whomsoever He willeth.” It is this kind of knowledge which is and hath ever been praiseworthy, and not the limited knowledge that hath sprung forth from veiled and obscured minds. This limited knowledge they even stealthily borrow one from the other, and vainly pride themselves therein!",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "clay-of-infinite-knowledge",
+  "alignment": [
+    {
+      "ar": "همچنين",
+      "en": "In like manner"
+    },
+    {
+      "ar": "معنی",
+      "en": "meaning"
+    },
+    {
+      "ar": "تبديل",
+      "en": "changing"
+    },
+    {
+      "ar": "ارض",
+      "en": "earth"
+    },
+    {
+      "ar": "ادراک",
+      "en": "comprehend"
+    },
+    {
+      "ar": "نما",
+      "en": "endeavour"
+    },
+    {
+      "ar": "غمام",
+      "en": "showers"
+    },
+    {
+      "ar": "رحمت",
+      "en": "mercy"
+    },
+    {
+      "ar": "آن",
+      "en": "the"
+    },
+    {
+      "ar": "سماء",
+      "en": "heaven"
+    },
+    {
+      "ar": "قلوبی",
+      "en": "hearts"
+    },
+    {
+      "ar": "نيسان",
+      "en": "raining"
+    },
+    {
+      "ar": "مکرمت",
+      "en": "bountiful"
+    },
+    {
+      "ar": "مبذول",
+      "en": "fallen"
+    },
+    {
+      "ar": "داشت",
+      "en": "have"
+    },
+    {
+      "ar": "تبديل شد",
+      "en": "been changed"
+    },
+    {
+      "ar": "معرفت",
+      "en": "knowledge"
+    },
+    {
+      "ar": "حکمت",
+      "en": "wisdom"
+    },
+    {
+      "ar": "رياحين",
+      "en": "myrtles"
+    },
+    {
+      "ar": "توحيد",
+      "en": "unity"
+    },
+    {
+      "ar": "رياض",
+      "en": "soil"
+    },
+    {
+      "ar": "قلوبشان",
+      "en": "their hearts"
+    },
+    {
+      "ar": "انبات",
+      "en": "produced"
+    },
+    {
+      "ar": "شده",
+      "en": "hath"
+    },
+    {
+      "ar": "شقايق",
+      "en": "blossoms"
+    },
+    {
+      "ar": "حقايق",
+      "en": "true"
+    },
+    {
+      "ar": "صدور",
+      "en": "bosoms"
+    },
+    {
+      "ar": "منيرشان",
+      "en": "illumined"
+    },
+    {
+      "ar": "روئيده",
+      "en": "yielded"
+    },
+    {
+      "ar": "اگر",
+      "en": "Were"
+    },
+    {
+      "ar": "ارض قلوبشان",
+      "en": "earth of their hearts"
+    },
+    {
+      "ar": "تبديل نمی شد",
+      "en": "to remain unchanged"
+    },
+    {
+      "ar": "چگونه",
+      "en": "how"
+    },
+    {
+      "ar": "رجالی",
+      "en": "souls"
+    },
+    {
+      "ar": "حرفی",
+      "en": "one letter"
+    },
+    {
+      "ar": "تعليم",
+      "en": "taught"
+    },
+    {
+      "ar": "نگرفتهاند",
+      "en": "have not been"
+    },
+    {
+      "ar": "معلّم",
+      "en": "teacher"
+    },
+    {
+      "ar": "نديدهاند",
+      "en": "seen"
+    },
+    {
+      "ar": "هيچ",
+      "en": "no"
+    },
+    {
+      "ar": "دبستانی",
+      "en": "school"
+    },
+    {
+      "ar": "قدم",
+      "en": "entered"
+    },
+    {
+      "ar": "کلمات",
+      "en": "words"
+    },
+    {
+      "ar": "تکلّم می نمايند",
+      "en": "utter"
+    },
+    {
+      "ar": "احدی",
+      "en": "none"
+    },
+    {
+      "ar": "ادراک نتواند نمود",
+      "en": "can apprehend"
+    },
+    {
+      "ar": "گويا",
+      "en": "Methinks"
+    },
+    {
+      "ar": "تراب",
+      "en": "clay"
+    },
+    {
+      "ar": "علم سرمدی",
+      "en": "infinite knowledge"
+    },
+    {
+      "ar": "سرشته",
+      "en": "moulded"
+    },
+    {
+      "ar": "شدهاند",
+      "en": "been"
+    },
+    {
+      "ar": "آب",
+      "en": "water"
+    },
+    {
+      "ar": "حکمت لدنّی",
+      "en": "divine wisdom"
+    },
+    {
+      "ar": "عجين",
+      "en": "kneaded"
+    },
+    {
+      "ar": "اين است که",
+      "en": "Therefore"
+    },
+    {
+      "ar": "می فرمايد",
+      "en": "said"
+    },
+    {
+      "ar": "اَلعِلمُ",
+      "en": "Knowledge"
+    },
+    {
+      "ar": "نُورٌ",
+      "en": "light"
+    },
+    {
+      "ar": "يَقْذِفُه",
+      "en": "casteth"
+    },
+    {
+      "ar": "اللّهُ",
+      "en": "God"
+    },
+    {
+      "ar": "قَلبِ",
+      "en": "heart"
+    },
+    {
+      "ar": "مَن",
+      "en": "whomsoever"
+    },
+    {
+      "ar": "يَشاء",
+      "en": "He willeth"
+    },
+    {
+      "ar": "اين نحو",
+      "en": "this kind"
+    },
+    {
+      "ar": "است",
+      "en": "is"
+    },
+    {
+      "ar": "ممدوح",
+      "en": "praiseworthy"
+    },
+    {
+      "ar": "بوده",
+      "en": "hath ever been"
+    },
+    {
+      "ar": "نه",
+      "en": "not"
+    },
+    {
+      "ar": "محدوده",
+      "en": "limited"
+    },
+    {
+      "ar": "افکار",
+      "en": "minds"
+    },
+    {
+      "ar": "محجوبه",
+      "en": "veiled"
+    },
+    {
+      "ar": "کدره",
+      "en": "obscured"
+    },
+    {
+      "ar": "احداث",
+      "en": "sprung forth"
+    },
+    {
+      "ar": "آن",
+      "en": "This"
+    },
+    {
+      "ar": "گاهی",
+      "en": "even"
+    },
+    {
+      "ar": "هم",
+      "en": "one from the other"
+    },
+    {
+      "ar": "سرقت",
+      "en": "stealthily borrow"
+    },
+    {
+      "ar": "می نمايند",
+      "en": "borrow"
+    },
+    {
+      "ar": "ديگران",
+      "en": "therein"
+    },
+    {
+      "ar": "افتخار می کنند",
+      "en": "pride themselves"
+    }
+  ],
+  "terms": [
+    {
+      "term": "تبديل",
+      "transliteration": "b-d-l",
+      "literal": "in place of; instead of; to change; to alter (preposition or verb stem)",
+      "se_rendering": "changing",
+      "note": "Typically 'darkness hath been turned into light', 'transformed' (17 occurrences). 'Changing' here is less vivid, more philosophical — denoting metaphysical transmutation of the heart.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 19,
+          "snippet": "darkness hath been turned into light"
+        },
+        {
+          "work": "gleanings",
+          "para": 614,
+          "snippet": "for having repaid with ingratitude the favours of God"
+        },
+        {
+          "work": "gleanings",
+          "para": 221,
+          "snippet": "hath transformed the dungeon into a paradise"
+        },
+        {
+          "work": "gleanings",
+          "para": 687,
+          "snippet": "heart and soul and tongue"
+        },
+        {
+          "work": "gleanings",
+          "para": 44,
+          "snippet": "changes"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 656,
+          "snippet": "changeth"
+        },
+        {
+          "work": "gleanings",
+          "para": 470,
+          "snippet": "alter"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 655,
+          "snippet": "changest"
+        }
+      ]
+    },
+    {
+      "term": "معرفت",
+      "transliteration": "ʿ-r-f",
+      "literal": "to confess; to acknowledge; to recognize",
+      "se_rendering": "divine knowledge",
+      "note": "Typically 'testifieth', 'acknowledged', 'understanding' (82 occurrences). Here 'divine knowledge' — a rare compound rendering emphasizing revealed epistemology rather than recognition.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 601,
+          "snippet": "testifieth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 729,
+          "snippet": "hath acknowledged"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 582,
+          "snippet": "have recognized"
+        },
+        {
+          "work": "gleanings",
+          "para": 568,
+          "snippet": "acknowledged"
+        },
+        {
+          "work": "gleanings",
+          "para": 295,
+          "snippet": "made objections"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 744,
+          "snippet": "understanding"
+        },
+        {
+          "work": "gleanings",
+          "para": 87,
+          "snippet": "knowledge"
+        },
+        {
+          "work": "gleanings",
+          "para": 2,
+          "snippet": "perception"
+        }
+      ]
+    },
+    {
+      "term": "حکمت",
+      "transliteration": "h-k-m",
+      "literal": "government; rule; governance; wisdom",
+      "se_rendering": "divine wisdom",
+      "note": "Usually 'rule', 'government', 'mysteries' (69 occurrences). 'Divine wisdom' here maintains abstract sense but pairs with knowledge in a complementary epistemological framework.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-ahd",
+          "para": 6,
+          "snippet": "rule"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "government"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 849,
+          "snippet": "signs of Thy sovereignty"
+        },
+        {
+          "work": "gleanings",
+          "para": 224,
+          "snippet": "mysteries"
+        },
+        {
+          "work": "gleanings",
+          "para": 636,
+          "snippet": "rule of the sword"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 129,
+          "snippet": "perspicuous verses"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 157,
+          "snippet": "justice"
+        },
+        {
+          "work": "gleanings",
+          "para": 139,
+          "snippet": "the face of wisdom"
+        }
+      ]
+    },
+    {
+      "term": "توحيد",
+      "transliteration": "w-h-d",
+      "literal": "Divine unity; monotheism; belief in the oneness of God",
+      "se_rendering": "unity",
+      "note": "Standard 'unity', 'Divine unity', 'oneness' (56 occurrences). 'Myrtles of unity' is SE's only botanical deployment — making divine monotheism yield literal blossoms.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 546,
+          "snippet": "unity"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 69,
+          "snippet": "Tawhid"
+        },
+        {
+          "work": "gleanings",
+          "para": 103,
+          "snippet": "oneness"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 167,
+          "snippet": "one"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 682,
+          "snippet": "once"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 49,
+          "snippet": "alone"
+        },
+        {
+          "work": "gleanings",
+          "para": 386,
+          "snippet": "His oneness"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 647,
+          "snippet": "Thy unity"
+        }
+      ]
+    },
+    {
+      "term": "علم",
+      "transliteration": "ʿ-l-m",
+      "literal": "world; universe; the worlds",
+      "se_rendering": "knowledge",
+      "note": "Appears 141 times with 'world', 'universe', 'knowledge' primary renderings. Here predominantly 'knowledge' in the 'infinite knowledge' phrase — the epistemological rather than cosmological sense.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 198,
+          "snippet": "world"
+        },
+        {
+          "work": "gleanings",
+          "para": 657,
+          "snippet": "all worlds"
+        },
+        {
+          "work": "gleanings",
+          "para": 182,
+          "snippet": "mankind"
+        },
+        {
+          "work": "gleanings",
+          "para": 183,
+          "snippet": "the whole world"
+        },
+        {
+          "work": "gleanings",
+          "para": 226,
+          "snippet": "all earthly defilements"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 28,
+          "snippet": "knowledge"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 42,
+          "snippet": "banner"
+        },
+        {
+          "work": "gleanings",
+          "para": 38,
+          "snippet": "understanding"
+        }
+      ]
+    },
+    {
+      "term": "نور",
+      "transliteration": "n-w-r",
+      "literal": "light; illumination",
+      "se_rendering": "light",
+      "note": "Consistently 'light' across 78 occurrences. Deployed in the Qur'anic citation where knowledge itself becomes illumination — SE's most literal scriptural rendering.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 3,
+          "snippet": "light"
+        },
+        {
+          "work": "gleanings",
+          "para": 230,
+          "snippet": "Orb of Light"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 114,
+          "snippet": "with the light"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 109,
+          "snippet": "Thy light"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 246,
+          "snippet": "Illumine"
+        },
+        {
+          "work": "gleanings",
+          "para": 235,
+          "snippet": "glory"
+        },
+        {
+          "work": "gleanings",
+          "para": 597,
+          "snippet": "fire"
+        },
+        {
+          "work": "gleanings",
+          "para": 458,
+          "snippet": "fire of God"
+        }
+      ]
+    }
+  ],
+  "section_index": "48",
+  "section": "48",
+  "section_para": 1
 }

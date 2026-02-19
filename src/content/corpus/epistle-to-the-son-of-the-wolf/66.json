@@ -1,10 +1,782 @@
 {
   "work": "Epistle to the Son of the Wolf",
   "slug": "epistle-to-the-son-of-the-wolf",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 66,
   "source_text": "اين کلمات عاليات که در لوح حضرت سلطان نازل بعضی از انرا مکرّر ذکر مينمائيم تا ان جناب بيقين مبين بدانند که انچه ذکر شده من عند اللّه بوده *يا سلطان انّی کنت کاحد من العباد و راقدا علی المهاد مرّت عَلَیَّ نسائم السّبحان و علّمنی علم ما کان ليس هذا من عندی بل من لدن عزيز عليم * و امرنی بالنّداء بين الارض و السّماء بذلک ورد عَلَیَّ ما ذرفت به دموع العارفين * ما قرأت ما عند النّاس من العلوم و ما دخلت المدارس فاسأل المدينة الّتی کنت فيها لتوقن بانّی لست من الکاذبين * هذه ورقة حرّکتها ارياح مشيّة ربّک العزيز الحميد * هل لها استقرار عند هبوب ارياح عاصفات لا و مالک الاسماء و الصّفات بل تحرّکها کيف تريد * ليس للعدم وجودٌ تلقاء القدم قد جاء امره المبرم و انطقنی بذکره بين العالمين * انّی لم اکن الّا کالميّت تلقاء امره قلّبتنی يد ارادة ربّک الرّحمن الرّحيم * هل يقدر احد ان يتکلّم من تلقاء نفسه بما يعترض به عليه العباد من کلّ وضيع و شريف لا و الّذی علّم القلم اسرار القدم الّا من کان مؤيّدا من لدن مقتدر قدير",
   "translation": "We once again refer unto some of the sublime words revealed in the Tablet to His Majesty the Sháh, so that thou mayest know of a certainty that whatever hath been mentioned hath come from God: \"O King! I was but a man like others, asleep upon My couch, when lo, the breezes of the All-Glorious were wafted over Me, and taught Me the knowledge of all that hath been. This thing is not from Me, but from One Who is Almighty and All-Knowing. And He bade Me lift up My voice between earth and heaven, and for this there befell Me what hath caused the tears of every man of understanding to flow. The learning current amongst men I studied not; their schools I entered not. Ask of the city wherein I dwelt, that thou mayest be well assured that I am not of them who speak falsely. This is but a leaf which the winds of the will of thy Lord, the Almighty, the All-Praised, have stirred. Can it be still when the tempestuous winds are blowing? Nay, by Him Who is the Lord of all Names and Attributes! They move it as they list. The evanescent is as nothing before Him Who is the Ever-Abiding. His all-compelling summons hath reached Me, and caused Me to speak His praise amidst all people. I was indeed as one dead when His behest was uttered. The hand of the will of thy Lord, the Compassionate, the Merciful, transformed Me. Can anyone speak forth of his own accord that for which all men, both high and low, will protest against him? Nay, by Him Who taught the Pen the eternal mysteries, save him whom the grace of the Almighty, the All-Powerful, hath strengthened.",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "breezes-all-glorious-taught-knowledge",
+  "alignment": [
+    {
+      "ar": "اين",
+      "en": "some"
+    },
+    {
+      "ar": "کلمات",
+      "en": "words"
+    },
+    {
+      "ar": "عاليات",
+      "en": "sublime"
+    },
+    {
+      "ar": "لوح",
+      "en": "Tablet"
+    },
+    {
+      "ar": "حضرت",
+      "en": "His Majesty"
+    },
+    {
+      "ar": "سلطان",
+      "en": "Sháh"
+    },
+    {
+      "ar": "نازل",
+      "en": "revealed"
+    },
+    {
+      "ar": "مکرّر",
+      "en": "once again"
+    },
+    {
+      "ar": "ذکر",
+      "en": "refer"
+    },
+    {
+      "ar": "ان جناب",
+      "en": "thou"
+    },
+    {
+      "ar": "بيقين",
+      "en": "of a certainty"
+    },
+    {
+      "ar": "مبين",
+      "en": "know"
+    },
+    {
+      "ar": "بدانند",
+      "en": "mayest know"
+    },
+    {
+      "ar": "انچه",
+      "en": "whatever"
+    },
+    {
+      "ar": "ذکر شده",
+      "en": "hath been mentioned"
+    },
+    {
+      "ar": "من عند اللّه",
+      "en": "from God"
+    },
+    {
+      "ar": "بوده",
+      "en": "hath come"
+    },
+    {
+      "ar": "يا سلطان",
+      "en": "O King"
+    },
+    {
+      "ar": "انّی",
+      "en": "I"
+    },
+    {
+      "ar": "کنت",
+      "en": "was"
+    },
+    {
+      "ar": "کاحد",
+      "en": "like"
+    },
+    {
+      "ar": "من العباد",
+      "en": "man like others"
+    },
+    {
+      "ar": "راقدا",
+      "en": "asleep"
+    },
+    {
+      "ar": "علی المهاد",
+      "en": "upon My couch"
+    },
+    {
+      "ar": "مرّت",
+      "en": "were wafted"
+    },
+    {
+      "ar": "نسائم",
+      "en": "breezes"
+    },
+    {
+      "ar": "السّبحان",
+      "en": "All-Glorious"
+    },
+    {
+      "ar": "علّمنی",
+      "en": "taught Me"
+    },
+    {
+      "ar": "علم",
+      "en": "knowledge"
+    },
+    {
+      "ar": "ما کان",
+      "en": "all that hath been"
+    },
+    {
+      "ar": "ليس",
+      "en": "not"
+    },
+    {
+      "ar": "هذا",
+      "en": "This"
+    },
+    {
+      "ar": "من عندی",
+      "en": "from Me"
+    },
+    {
+      "ar": "من لدن",
+      "en": "from One"
+    },
+    {
+      "ar": "عزيز",
+      "en": "Almighty"
+    },
+    {
+      "ar": "عليم",
+      "en": "All-Knowing"
+    },
+    {
+      "ar": "امرنی",
+      "en": "bade Me"
+    },
+    {
+      "ar": "بالنّداء",
+      "en": "lift up My voice"
+    },
+    {
+      "ar": "بين الارض و السّماء",
+      "en": "between earth and heaven"
+    },
+    {
+      "ar": "بذلک",
+      "en": "for this"
+    },
+    {
+      "ar": "ورد",
+      "en": "befell"
+    },
+    {
+      "ar": "ما ذرفت",
+      "en": "caused the tears"
+    },
+    {
+      "ar": "دموع",
+      "en": "tears"
+    },
+    {
+      "ar": "العارفين",
+      "en": "every man of understanding"
+    },
+    {
+      "ar": "ما قرأت",
+      "en": "I studied not"
+    },
+    {
+      "ar": "ما عند النّاس من العلوم",
+      "en": "The learning current amongst men"
+    },
+    {
+      "ar": "ما دخلت",
+      "en": "I entered not"
+    },
+    {
+      "ar": "المدارس",
+      "en": "their schools"
+    },
+    {
+      "ar": "فاسأل",
+      "en": "Ask"
+    },
+    {
+      "ar": "المدينة",
+      "en": "the city"
+    },
+    {
+      "ar": "الّتی کنت فيها",
+      "en": "wherein I dwelt"
+    },
+    {
+      "ar": "لتوقن",
+      "en": "that thou mayest be well assured"
+    },
+    {
+      "ar": "بانّی",
+      "en": "that I"
+    },
+    {
+      "ar": "لست",
+      "en": "am not"
+    },
+    {
+      "ar": "من الکاذبين",
+      "en": "of them who speak falsely"
+    },
+    {
+      "ar": "ورقة",
+      "en": "a leaf"
+    },
+    {
+      "ar": "حرّکتها",
+      "en": "stirred"
+    },
+    {
+      "ar": "ارياح",
+      "en": "the winds"
+    },
+    {
+      "ar": "مشيّة",
+      "en": "the will"
+    },
+    {
+      "ar": "ربّک",
+      "en": "thy Lord"
+    },
+    {
+      "ar": "العزيز",
+      "en": "the Almighty"
+    },
+    {
+      "ar": "الحميد",
+      "en": "the All-Praised"
+    },
+    {
+      "ar": "هل لها استقرار",
+      "en": "Can it be still"
+    },
+    {
+      "ar": "عند هبوب",
+      "en": "are blowing"
+    },
+    {
+      "ar": "ارياح عاصفات",
+      "en": "the tempestuous winds"
+    },
+    {
+      "ar": "لا",
+      "en": "Nay"
+    },
+    {
+      "ar": "و مالک الاسماء و الصّفات",
+      "en": "by Him Who is the Lord of all Names and Attributes"
+    },
+    {
+      "ar": "بل تحرّکها",
+      "en": "They move it"
+    },
+    {
+      "ar": "کيف تريد",
+      "en": "as they list"
+    },
+    {
+      "ar": "ليس للعدم وجودٌ",
+      "en": "The evanescent is as nothing"
+    },
+    {
+      "ar": "تلقاء القدم",
+      "en": "before Him Who is the Ever-Abiding"
+    },
+    {
+      "ar": "قد جاء",
+      "en": "hath reached"
+    },
+    {
+      "ar": "امره",
+      "en": "summons"
+    },
+    {
+      "ar": "المبرم",
+      "en": "all-compelling"
+    },
+    {
+      "ar": "انطقنی",
+      "en": "caused Me to speak"
+    },
+    {
+      "ar": "بذکره",
+      "en": "His praise"
+    },
+    {
+      "ar": "بين العالمين",
+      "en": "amidst all people"
+    },
+    {
+      "ar": "انّی لم اکن الّا کالميّت",
+      "en": "I was indeed as one dead"
+    },
+    {
+      "ar": "تلقاء امره",
+      "en": "when His behest was uttered"
+    },
+    {
+      "ar": "قلّبتنی",
+      "en": "transformed Me"
+    },
+    {
+      "ar": "يد",
+      "en": "The hand"
+    },
+    {
+      "ar": "ربّک الرّحمن الرّحيم",
+      "en": "thy Lord, the Compassionate, the Merciful"
+    },
+    {
+      "ar": "هل يقدر",
+      "en": "Can"
+    },
+    {
+      "ar": "احد",
+      "en": "anyone"
+    },
+    {
+      "ar": "ان يتکلّم",
+      "en": "speak forth"
+    },
+    {
+      "ar": "من تلقاء نفسه",
+      "en": "of his own accord"
+    },
+    {
+      "ar": "بما يعترض",
+      "en": "that for which"
+    },
+    {
+      "ar": "به عليه العباد",
+      "en": "all men"
+    },
+    {
+      "ar": "من کلّ وضيع و شريف",
+      "en": "both high and low"
+    },
+    {
+      "ar": "و الّذی علّم القلم اسرار القدم",
+      "en": "by Him Who taught the Pen the eternal mysteries"
+    },
+    {
+      "ar": "الّا من کان مؤيّدا",
+      "en": "save him whom the grace"
+    },
+    {
+      "ar": "من لدن",
+      "en": "of"
+    },
+    {
+      "ar": "مقتدر",
+      "en": "the All-Powerful"
+    }
+  ],
+  "terms": [
+    {
+      "term": "علّمنی",
+      "transliteration": "ʿ-l-m",
+      "literal": "world; universe; the worlds",
+      "se_rendering": "taught Me the knowledge",
+      "note": "Typically 'knowledge' (141 occ); here encompasses both the act of teaching and the knowledge conveyed — SE preserves the dual sense in 'taught Me the knowledge of all that hath been.'",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 198,
+          "snippet": "world"
+        },
+        {
+          "work": "gleanings",
+          "para": 657,
+          "snippet": "all worlds"
+        },
+        {
+          "work": "gleanings",
+          "para": 182,
+          "snippet": "mankind"
+        },
+        {
+          "work": "gleanings",
+          "para": 183,
+          "snippet": "the whole world"
+        },
+        {
+          "work": "gleanings",
+          "para": 226,
+          "snippet": "all earthly defilements"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 76,
+          "snippet": "Knowledge"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 122,
+          "snippet": "commentators"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 42,
+          "snippet": "banner"
+        }
+      ]
+    },
+    {
+      "term": "امرنی",
+      "transliteration": "ʾ-m-r",
+      "literal": "command; cause; matter; affair",
+      "se_rendering": "He bade Me lift up My voice",
+      "note": "Standardly 'His command' or 'His Cause' (75 occ); rendered here as 'He bade Me' to capture the imperative force of divine injunction in context of lifted voice.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "His Cause"
+        },
+        {
+          "work": "gleanings",
+          "para": 586,
+          "snippet": "His command"
+        },
+        {
+          "work": "gleanings",
+          "para": 691,
+          "snippet": "His Revelation"
+        },
+        {
+          "work": "gleanings",
+          "para": 723,
+          "snippet": "Cause"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 797,
+          "snippet": "Thy Cause"
+        },
+        {
+          "work": "gleanings",
+          "para": 8,
+          "snippet": "Revelation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 597,
+          "snippet": "service"
+        },
+        {
+          "work": "gleanings",
+          "para": 524,
+          "snippet": "your affairs"
+        }
+      ]
+    },
+    {
+      "term": "ورد",
+      "transliteration": "w-r-d",
+      "literal": "to enter, to come, to befall, to arrive",
+      "se_rendering": "befell Me",
+      "note": "Consistently 'befell' or 'hath touched' (36 occ); here becomes 'befell Me' to emphasize the passive suffering consequent upon obedience — tears of understanding men flow from this befalling.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 557,
+          "snippet": "will discern"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 30,
+          "snippet": "brought forth"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 204,
+          "snippet": "heaped upon"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 47,
+          "snippet": "befallen"
+        },
+        {
+          "work": "gleanings",
+          "para": 489,
+          "snippet": "hath befallen"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 49,
+          "snippet": "approaching"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 788,
+          "snippet": "waters"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 240,
+          "snippet": "gain admittance"
+        }
+      ]
+    },
+    {
+      "term": "العارفين",
+      "transliteration": "ʿ-r-f",
+      "literal": "to confess; to acknowledge; to recognize",
+      "se_rendering": "every man of understanding",
+      "note": "Root ʿ-r-f typically yields 'acknowledged' or 'have recognized' (82 occ); rendered 'man of understanding' here to heighten the knowing gnosis of those moved to tears by the speaker's plight.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 601,
+          "snippet": "testifieth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 729,
+          "snippet": "hath acknowledged"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 582,
+          "snippet": "have recognized"
+        },
+        {
+          "work": "gleanings",
+          "para": 568,
+          "snippet": "acknowledged"
+        },
+        {
+          "work": "gleanings",
+          "para": 295,
+          "snippet": "made objections"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 744,
+          "snippet": "understanding"
+        },
+        {
+          "work": "gleanings",
+          "para": 87,
+          "snippet": "knowledge"
+        },
+        {
+          "work": "gleanings",
+          "para": 2,
+          "snippet": "perception"
+        }
+      ]
+    },
+    {
+      "term": "ورقة",
+      "transliteration": "w-r-q",
+      "literal": "leaf, page, sheet, parchment, document",
+      "se_rendering": "a leaf",
+      "note": "Root w-r-q spans 'leaf,' 'Nightingale,' 'Scroll' (28 occ); SE selects 'leaf' to evoke fragility and motion — the metaphor of stirred parchment, not scriptural grandeur.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 30,
+          "snippet": "written paper"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 2,
+          "snippet": "Nightingale"
+        },
+        {
+          "work": "gleanings",
+          "para": 494,
+          "snippet": "snow-white Scroll"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 38,
+          "snippet": "lines"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 751,
+          "snippet": "leaf"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 34,
+          "snippet": "leaves"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 34,
+          "snippet": "scrolls"
+        },
+        {
+          "work": "gleanings",
+          "para": 56,
+          "snippet": "foliage"
+        }
+      ]
+    },
+    {
+      "term": "تلقاء",
+      "transliteration": "l-q-y",
+      "literal": "opposite; facing; in front of; towards",
+      "se_rendering": "before Him Who is the Ever-Abiding",
+      "note": "Typically 'before' or 'in the face of' (30 occ); used twice here in opposing senses — once for evanescence before eternity, once for speaker's own will — demonstrating SE's contextual flexibility.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 337,
+          "snippet": "in the face of"
+        },
+        {
+          "work": "gleanings",
+          "para": 375,
+          "snippet": "before"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 33,
+          "snippet": "the Divine Presence"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 149,
+          "snippet": "attainment unto the Divine Presence"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 216,
+          "snippet": "the Judgment Day"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 805,
+          "snippet": "hath attained unto Thy presence"
+        },
+        {
+          "work": "gleanings",
+          "para": 31,
+          "snippet": "hath attained unto His Presence"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 234,
+          "snippet": "that they shall ever meet Him"
+        }
+      ]
+    },
+    {
+      "term": "القدم",
+      "transliteration": "q-d-m",
+      "literal": "ancientness; antiquity; foot; to come forward",
+      "se_rendering": "eternal mysteries",
+      "note": "Usually 'Ancient of Days' or 'eternity' (29 occ); rendered 'eternal mysteries' to bridge the noun's temporal sense with the mysteries taught to the Pen — an interpretive leap.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 183,
+          "snippet": "Ancient Beauty"
+        },
+        {
+          "work": "gleanings",
+          "para": 259,
+          "snippet": "Ancient of Days"
+        },
+        {
+          "work": "gleanings",
+          "para": 595,
+          "snippet": "Ancient King"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 146,
+          "snippet": "certitude"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 127,
+          "snippet": "eternity"
+        },
+        {
+          "work": "gleanings",
+          "para": 13,
+          "snippet": "celebration of His praise and glory"
+        },
+        {
+          "work": "gleanings",
+          "para": 407,
+          "snippet": "sanctify"
+        },
+        {
+          "work": "gleanings",
+          "para": 496,
+          "snippet": "sanctified"
+        }
+      ]
+    },
+    {
+      "term": "اسرار",
+      "transliteration": "s-r-r",
+      "literal": "throne; couch; seat of authority",
+      "se_rendering": "eternal mysteries",
+      "note": "Root s-r-r spans 'throne,' 'mystery,' 'secret' (40 occ); here becomes 'eternal mysteries' — the abstract mystical sense overtaking the concrete throne imagery.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 145,
+          "snippet": "couch"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 256,
+          "snippet": "throne"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 185,
+          "snippet": "lamp"
+        },
+        {
+          "work": "tablet-of-carmel",
+          "para": 2,
+          "snippet": "joy"
+        },
+        {
+          "work": "gleanings",
+          "para": 218,
+          "snippet": "mystery"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 831,
+          "snippet": "Secret"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 37,
+          "snippet": "in the gladness"
+        },
+        {
+          "work": "gleanings",
+          "para": 727,
+          "snippet": "gladness"
+        }
+      ]
+    }
+  ],
+  "section_index": "66",
+  "section": "66",
+  "section_para": 1
 }

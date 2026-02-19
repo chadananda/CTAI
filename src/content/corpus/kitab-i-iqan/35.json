@@ -1,10 +1,579 @@
 {
   "work": "Kitab-i-Iqan",
   "slug": "kitab-i-iqan",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 35,
   "source_text": "و اين بر هر ذی بصری مشهود است که همچنان که نور ستاره محو می شود نزد اشراق شمس ظاهره، همين قسم شمس علم و حکمت و عرفان ظاهره نزد طلوع شمس حقيقت و آفتاب معنوی محو و تاريک می شود.",
   "translation": "It is evident and manifest unto every discerning observer that even as the light of the star fadeth before the effulgent splendour of the sun, so doth the luminary of earthly knowledge, of wisdom, and understanding vanish into nothingness when brought face to face with the resplendent glories of the Sun of Truth, the Day-star of divine enlightenment.",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "sun-of-truth-eclipses-earthly-knowledge",
+  "alignment": [
+    {
+      "ar": "بر",
+      "en": "unto"
+    },
+    {
+      "ar": "هر",
+      "en": "every"
+    },
+    {
+      "ar": "ذی بصری",
+      "en": "discerning observer"
+    },
+    {
+      "ar": "مشهود",
+      "en": "evident and manifest"
+    },
+    {
+      "ar": "است",
+      "en": "is"
+    },
+    {
+      "ar": "که",
+      "en": "that"
+    },
+    {
+      "ar": "همچنان که",
+      "en": "even as"
+    },
+    {
+      "ar": "نور",
+      "en": "light"
+    },
+    {
+      "ar": "ستاره",
+      "en": "star"
+    },
+    {
+      "ar": "محو",
+      "en": "fadeth"
+    },
+    {
+      "ar": "می شود",
+      "en": "doth"
+    },
+    {
+      "ar": "نزد",
+      "en": "before"
+    },
+    {
+      "ar": "اشراق",
+      "en": "effulgent splendour"
+    },
+    {
+      "ar": "شمس",
+      "en": "sun"
+    },
+    {
+      "ar": "ظاهره",
+      "en": "earthly"
+    },
+    {
+      "ar": "همين قسم",
+      "en": "so"
+    },
+    {
+      "ar": "علم",
+      "en": "knowledge"
+    },
+    {
+      "ar": "حکمت",
+      "en": "wisdom"
+    },
+    {
+      "ar": "عرفان",
+      "en": "understanding"
+    },
+    {
+      "ar": "طلوع",
+      "en": "brought face to face"
+    },
+    {
+      "ar": "حقيقت",
+      "en": "Truth"
+    },
+    {
+      "ar": "آفتاب",
+      "en": "Day-star"
+    },
+    {
+      "ar": "معنوی",
+      "en": "divine enlightenment"
+    },
+    {
+      "ar": "تاريک",
+      "en": "nothingness"
+    }
+  ],
+  "terms": [
+    {
+      "term": "بصری",
+      "transliteration": "b-ṣ-r",
+      "literal": "sight; insight; discernment; spiritual perception",
+      "se_rendering": "discerning",
+      "note": "Standard 'discerning' rendering matches the corpus pattern of 'discerning eye' and insight-based perception.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 77,
+          "snippet": "hearing ears, and sharp sight"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 667,
+          "snippet": "the All-Seeing"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 3,
+          "snippet": "proofs"
+        },
+        {
+          "work": "gleanings",
+          "para": 75,
+          "snippet": "eyes"
+        },
+        {
+          "work": "gleanings",
+          "para": 67,
+          "snippet": "insight"
+        },
+        {
+          "work": "gleanings",
+          "para": 563,
+          "snippet": "perceive"
+        },
+        {
+          "work": "gleanings",
+          "para": 689,
+          "snippet": "view"
+        },
+        {
+          "work": "gleanings",
+          "para": 388,
+          "snippet": "discerning"
+        }
+      ]
+    },
+    {
+      "term": "مشهود",
+      "transliteration": "sh-h-d",
+      "literal": "witnessed; observed; seen; evident; manifest",
+      "se_rendering": "evident and manifest",
+      "note": "Dual 'evident and manifest' rendering emphasizes ontological disclosure; typically appears singly as either term.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 607,
+          "snippet": "manifest"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 811,
+          "snippet": "I bear witness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 6,
+          "snippet": "I testify"
+        },
+        {
+          "work": "gleanings",
+          "para": 298,
+          "snippet": "witness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 253,
+          "snippet": "martyrdom"
+        },
+        {
+          "work": "gleanings",
+          "para": 134,
+          "snippet": "God witnesseth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 230,
+          "snippet": "God testifieth"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 57,
+          "snippet": "beheld"
+        }
+      ]
+    },
+    {
+      "term": "نور",
+      "transliteration": "n-w-r",
+      "literal": "light; illumination",
+      "se_rendering": "light",
+      "note": "Core 'light' rendering aligns with 78 corpus occurrences; here it forms the foundational metaphor of epistemological insufficiency.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 3,
+          "snippet": "light"
+        },
+        {
+          "work": "gleanings",
+          "para": 230,
+          "snippet": "Orb of Light"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 114,
+          "snippet": "with the light"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 109,
+          "snippet": "Thy light"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 246,
+          "snippet": "Illumine"
+        },
+        {
+          "work": "gleanings",
+          "para": 235,
+          "snippet": "glory"
+        },
+        {
+          "work": "gleanings",
+          "para": 597,
+          "snippet": "fire"
+        },
+        {
+          "work": "gleanings",
+          "para": 458,
+          "snippet": "fire of God"
+        }
+      ]
+    },
+    {
+      "term": "ستاره",
+      "transliteration": "s-t-r",
+      "literal": "to veil; to conceal; to cover; veil; covering",
+      "se_rendering": "star",
+      "note": "Rendered as 'star' (literal), though corpus typically uses 'veil/concealment' metaphors from the س-ت-ر root; here SE selects the astronomical referent.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 216,
+          "snippet": "the veil of thy sanctity"
+        },
+        {
+          "work": "gleanings",
+          "para": 683,
+          "snippet": "concealment and revelation"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 8,
+          "snippet": "concealed"
+        },
+        {
+          "work": "gleanings",
+          "para": 586,
+          "snippet": "wrapt within the veil"
+        },
+        {
+          "work": "gleanings",
+          "para": 19,
+          "snippet": "hidden"
+        },
+        {
+          "work": "gleanings",
+          "para": 56,
+          "snippet": "was hidden"
+        },
+        {
+          "work": "gleanings",
+          "para": 434,
+          "snippet": "unrevealed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 24,
+          "snippet": "star"
+        }
+      ]
+    },
+    {
+      "term": "اشراق",
+      "transliteration": "sh-r-q",
+      "literal": "radiance; splendor; dawn; illumination",
+      "se_rendering": "effulgent splendour",
+      "note": "Rendered as 'effulgent splendour' rather than typical 'radiance' or 'Daystar'; amplifies the overwhelming brilliance of divine manifestation.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 47,
+          "snippet": "Ishraq"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 28,
+          "snippet": "radiance"
+        },
+        {
+          "work": "gleanings",
+          "para": 382,
+          "snippet": "revelation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 83,
+          "snippet": "Daystar"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 41,
+          "snippet": "dawning"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 116,
+          "snippet": "shone"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 2,
+          "snippet": "shining"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 14,
+          "snippet": "Dawning Place"
+        }
+      ]
+    },
+    {
+      "term": "علم",
+      "transliteration": "ʿ-l-m",
+      "literal": "world; universe; the worlds",
+      "se_rendering": "knowledge",
+      "note": "Rendered as 'knowledge' here (one of 141 occurrences); typically 'world/universe' in SE's corpus—here confined to epistemological domain.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 198,
+          "snippet": "world"
+        },
+        {
+          "work": "gleanings",
+          "para": 657,
+          "snippet": "all worlds"
+        },
+        {
+          "work": "gleanings",
+          "para": 182,
+          "snippet": "mankind"
+        },
+        {
+          "work": "gleanings",
+          "para": 183,
+          "snippet": "the whole world"
+        },
+        {
+          "work": "gleanings",
+          "para": 226,
+          "snippet": "all earthly defilements"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 28,
+          "snippet": "knowledge"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 42,
+          "snippet": "banner"
+        },
+        {
+          "work": "gleanings",
+          "para": 38,
+          "snippet": "understanding"
+        }
+      ]
+    },
+    {
+      "term": "حکمت",
+      "transliteration": "h-k-m",
+      "literal": "government; rule; governance; wisdom",
+      "se_rendering": "wisdom",
+      "note": "Rendered as 'wisdom' rather than typical 'government/rule'; reflects the intellectual triad (علم، حکمت، عرفان) of earthly learning.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-ahd",
+          "para": 6,
+          "snippet": "rule"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "government"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 849,
+          "snippet": "signs of Thy sovereignty"
+        },
+        {
+          "work": "gleanings",
+          "para": 224,
+          "snippet": "mysteries"
+        },
+        {
+          "work": "gleanings",
+          "para": 636,
+          "snippet": "rule of the sword"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 129,
+          "snippet": "perspicuous verses"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 157,
+          "snippet": "justice"
+        },
+        {
+          "work": "gleanings",
+          "para": 139,
+          "snippet": "the face of wisdom"
+        }
+      ]
+    },
+    {
+      "term": "عرفان",
+      "transliteration": "ʿ-r-f",
+      "literal": "to confess; to acknowledge; to recognize",
+      "se_rendering": "understanding",
+      "note": "Rendered as 'understanding' rather than typical 'testifieth/acknowledged'; here it denotes passive cognitive capacity rather than active recognition.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 601,
+          "snippet": "testifieth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 729,
+          "snippet": "hath acknowledged"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 582,
+          "snippet": "have recognized"
+        },
+        {
+          "work": "gleanings",
+          "para": 568,
+          "snippet": "acknowledged"
+        },
+        {
+          "work": "gleanings",
+          "para": 295,
+          "snippet": "made objections"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 744,
+          "snippet": "understanding"
+        },
+        {
+          "work": "gleanings",
+          "para": 87,
+          "snippet": "knowledge"
+        },
+        {
+          "work": "gleanings",
+          "para": 2,
+          "snippet": "perception"
+        }
+      ]
+    },
+    {
+      "term": "حقيقت",
+      "transliteration": "h-q-q",
+      "literal": "truth; right; that which is true or just",
+      "se_rendering": "Sun of Truth",
+      "note": "Rendered as 'Sun of Truth' (capitalizing and metaphorizing); inverts the star-sun metaphor to represent absolute divine reality against relative human knowledge.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 651,
+          "snippet": "the True One"
+        },
+        {
+          "work": "gleanings",
+          "para": 85,
+          "snippet": "the Truth"
+        },
+        {
+          "work": "gleanings",
+          "para": 328,
+          "snippet": "the one true God"
+        },
+        {
+          "work": "gleanings",
+          "para": 707,
+          "snippet": "Him"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 52,
+          "snippet": "Sun of Truth"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 9,
+          "snippet": "evident"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "betrayal of truth"
+        },
+        {
+          "work": "gleanings",
+          "para": 100,
+          "snippet": "clear"
+        }
+      ]
+    },
+    {
+      "term": "معنوی",
+      "transliteration": "m-ʿ-n",
+      "literal": "meaning; sense; significance",
+      "se_rendering": "divine enlightenment",
+      "note": "Rendered as 'divine enlightenment' (compound); corpus shows 'meaning/sense' typically; here SE elevates to spiritual-transcendent domain.",
+      "cross_refs": [
+        {
+          "work": "the-hidden-words",
+          "para": 75,
+          "snippet": "O mystic nightingale"
+        },
+        {
+          "work": "gleanings",
+          "para": 672,
+          "snippet": "to the rose-garden of unfading splendor"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 89,
+          "snippet": "nightingale of holiness"
+        }
+      ]
+    }
+  ],
+  "section_index": "35",
+  "section": "35",
+  "section_para": 1
 }

@@ -1,10 +1,333 @@
 {
   "work": "Fire Tablet",
   "slug": "fire-tablet",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 30,
   "source_text": "قَدْ بَقَى الوَجْهُ فِي غُبَارِ الإِفْتِرَاءِ أَيْنَ أَرْيَاحُ رَحْمَتِكَ يَا رَحْمَنَ العَالَمِينَ *",
   "translation": "This Face is hidden in the dust of slander: Where are the breezes of Thy compassion, O Mercy of the worlds?",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "face-hidden-dust-slander",
+  "alignment": [
+    {
+      "ar": "بَقَى",
+      "en": "hidden"
+    },
+    {
+      "ar": "الوَجْهُ",
+      "en": "Face"
+    },
+    {
+      "ar": "غُبَارِ",
+      "en": "dust"
+    },
+    {
+      "ar": "الإِفْتِرَاءِ",
+      "en": "slander"
+    },
+    {
+      "ar": "أَيْنَ",
+      "en": "Where"
+    },
+    {
+      "ar": "أَرْيَاحُ",
+      "en": "breezes"
+    },
+    {
+      "ar": "رَحْمَتِكَ",
+      "en": "Thy compassion"
+    },
+    {
+      "ar": "رَحْمَنَ",
+      "en": "Mercy"
+    },
+    {
+      "ar": "العَالَمِينَ",
+      "en": "worlds"
+    }
+  ],
+  "terms": [
+    {
+      "term": "بَقَى",
+      "transliteration": "b-q-y",
+      "literal": "remaining; everlasting; eternal; immortal",
+      "se_rendering": "is hidden",
+      "note": "Root usually yields 'eternal', 'everlasting', or 'immortal' attributes (32 occ). Here rendered implicitly through 'is hidden'—suggesting paradox of eternal Face obscured by transient slander.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 2,
+          "snippet": "the Eternal"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 88,
+          "snippet": "everlasting beauty"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 98,
+          "snippet": "everlasting candle"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 117,
+          "snippet": "immortal sovereignty"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 110,
+          "snippet": "everlasting torch of divine guidance"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 56,
+          "snippet": "refrain"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 246,
+          "snippet": "everlasting"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 259,
+          "snippet": "O thou Remnant of God"
+        }
+      ]
+    },
+    {
+      "term": "الوَجْهُ",
+      "transliteration": "w-j-h",
+      "literal": "face; countenance; direction; aspect",
+      "se_rendering": "Face",
+      "note": "Typically rendered 'faces' or 'eyes' across 64 occurrences. 'Face' as singular countenance here creates intimate directness in addressing the divine response to calumny.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 503,
+          "snippet": "their faces"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 246,
+          "snippet": "faces"
+        },
+        {
+          "work": "gleanings",
+          "para": 596,
+          "snippet": "eyes"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 162,
+          "snippet": "turned"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 306,
+          "snippet": "set their faces"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 16,
+          "snippet": "unto Mine"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 498,
+          "snippet": "his face"
+        },
+        {
+          "work": "gleanings",
+          "para": 273,
+          "snippet": "face"
+        }
+      ]
+    },
+    {
+      "term": "غُبَارِ",
+      "transliteration": "gh-b-r",
+      "literal": "dust; particles",
+      "se_rendering": "dust",
+      "note": "Specialized rendering; appears only 7 times. 'Dust of slander' here is SE's established compound, appearing elsewhere as 'dust of sin' or 'dust of turmoil'—contextual adaptation.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 57,
+          "snippet": "dust of turmoil"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 98,
+          "snippet": "dust"
+        },
+        {
+          "work": "gleanings",
+          "para": 677,
+          "snippet": "becloud its luster"
+        },
+        {
+          "work": "gleanings",
+          "para": 626,
+          "snippet": "with the stain"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 422,
+          "snippet": "dust of yellowness"
+        }
+      ]
+    },
+    {
+      "term": "الإِفْتِرَاءِ",
+      "transliteration": "f-t-r",
+      "literal": "slander; calumny; fabrication; false accusation",
+      "se_rendering": "slander",
+      "note": "Consistently rendered as 'slander' or 'calumny' across 30 occurrences. Standard rendering maintained here; no deviation.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 6,
+          "snippet": "slander"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 34,
+          "snippet": "hurled their calumny"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 7,
+          "snippet": "calumny"
+        },
+        {
+          "work": "gleanings",
+          "para": 109,
+          "snippet": "false accusation"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 184,
+          "snippet": "calumnies"
+        },
+        {
+          "work": "gleanings",
+          "para": 461,
+          "snippet": "slandered"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 122,
+          "snippet": "under the influence of calumniators"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 109,
+          "snippet": "by false accusations"
+        }
+      ]
+    },
+    {
+      "term": "أَرْيَاحُ",
+      "transliteration": "r-w-h",
+      "literal": "rest; ease; comfort; tranquility",
+      "se_rendering": "breezes",
+      "note": "Root ر-ي-ح typically means 'ease', 'rest', 'peace'. 'Breezes' here is rare metaphorical rendering—only one of 24 occurrences, suggesting winds/breath of mercy rather than literal comfort.",
+      "cross_refs": [
+        {
+          "work": "the-hidden-words",
+          "para": 115,
+          "snippet": "ease"
+        },
+        {
+          "work": "gleanings",
+          "para": 417,
+          "snippet": "peace"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 78,
+          "snippet": "rest"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 426,
+          "snippet": "comfort"
+        },
+        {
+          "work": "gleanings",
+          "para": 10,
+          "snippet": "at rest"
+        },
+        {
+          "work": "gleanings",
+          "para": 712,
+          "snippet": "the wind"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 98,
+          "snippet": "Mortal blasts"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 161,
+          "snippet": "different winds"
+        }
+      ]
+    },
+    {
+      "term": "رَحْمَتِكَ",
+      "transliteration": "r-ḥ-m",
+      "literal": "merciful, compassionate; pertaining to divine mercy",
+      "se_rendering": "compassion",
+      "note": "Usually 'Divine glory' or 'Divine' (70 occ); here rendered as 'compassion'—directly literal to Arabic mercy-root, emphasizing relational rather than majestic divine attribute.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 673,
+          "snippet": "Divine glory"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 57,
+          "snippet": "Divine"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 89,
+          "snippet": "celestial melody"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 114,
+          "snippet": "spirit of mercy"
+        },
+        {
+          "work": "gleanings",
+          "para": 372,
+          "snippet": "merciful"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 220,
+          "snippet": "have mercy on them"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 546,
+          "snippet": "mercy"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 50,
+          "snippet": "the Compassionate"
+        }
+      ]
+    }
+  ],
+  "section_index": "31",
+  "section": "31",
+  "section_para": 1
 }

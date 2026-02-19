@@ -17,6 +17,7 @@ const {
 const currentPath = Astro.url.pathname;
 const canonical = canonicalUrl || Astro.url.href;
 
+import '../styles/theme.css';
 import '../styles/fonts.css';
 ---
 
@@ -50,27 +51,7 @@ import '../styles/fonts.css';
     <link rel="preload" href="/fonts/cormorant-garamond-latin-normal.woff2" as="font" type="font/woff2" crossorigin />
     <link rel="preload" href="/fonts/scheherazade-new-arabic-normal-400.woff2" as="font" type="font/woff2" crossorigin />
     <title>{title} — CTAI</title>
-    <style is:global>
-      ::selection {
-        background: #e2ad4466;
-        color: #fdf9ef;
-      }
-      :focus-visible { outline: 2px solid #e2ad44; outline-offset: 2px; }
-      html { scroll-behavior: smooth; }
-      body {
-        background-color: #1a1714;
-        background-image:
-          url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.7' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='0.03'/%3E%3C/svg%3E");
-      }
-      @keyframes grain {
-        0%, 100% { transform: translate(0, 0); }
-        10% { transform: translate(-1%, -1%); }
-        30% { transform: translate(1%, 0%); }
-        50% { transform: translate(-1%, 1%); }
-        70% { transform: translate(1%, -1%); }
-        90% { transform: translate(0%, 1%); }
-      }
-    </style>
+    <!-- Global styles in src/styles/theme.css -->
   </head>
   <body class="min-h-screen text-ink-300 font-serif antialiased">
     <a href="#main" class="sr-only focus:not-sr-only focus:fixed focus:top-2 focus:left-2 focus:z-[100] focus:bg-gold-400 focus:text-ink-900 focus:px-4 focus:py-2 focus:rounded focus:text-sm font-bold">
@@ -113,50 +94,54 @@ import '../styles/fonts.css';
       <slot />
     </main>
 
-    <footer class="border-t border-ink-800/40 mt-20">
-      <div class="mx-auto max-w-6xl px-6 py-12">
-        <div class="flex items-center gap-3 mb-8">
+    <footer class="border-t border-ink-700/60 mt-20 bg-ink-800/40">
+      <div class="mx-auto max-w-6xl px-6 py-6">
+        <div class="flex items-center gap-3 mb-4">
           <span class="text-gold-400/60 font-mono text-[10px] tracking-[0.3em] uppercase">CTAI</span>
-          <span class="w-px h-3 bg-ink-800"></span>
-          <span class="text-ink-600 text-xs">Committee Translation AI</span>
-          <span class="flex-1 h-px bg-ink-800/40"></span>
-          <span class="text-xs text-ink-600">Built by <a href="https://github.com/chadananda" class="text-ink-400 hover:text-gold-400 transition-colors">Chad Jones</a> while procrastinating real work</span>
+          <span class="w-px h-3 bg-ink-700"></span>
+          <span class="text-ink-500 text-[10px]">Committee Translation AI</span>
+          <span class="flex-1 h-px bg-ink-700/40"></span>
+          <span class="text-[10px] text-ink-600">Built by <a href="https://github.com/chadananda" class="text-ink-500 hover:text-gold-400 transition-colors">Chad Jones</a></span>
         </div>
-        <p class="text-xs text-ink-500 font-mono tracking-wide uppercase mb-3">Other Cool Projects</p>
-        <div class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-5 gap-x-6 gap-y-4 mb-10">
-          {[
-            { href: 'https://bahai-library.org', name: 'Bahai-Library.org', desc: 'The largest collection of Bah\u00e1\u02bc\u00ed documents' },
-            { href: 'https://theutteranceproject.com', name: 'TheUtteranceProject.com', desc: 'A fantastic resource of readings' },
-            { href: 'https://upliftingwords.org', name: 'UpliftingWords.org', desc: 'A Bah\u00e1\u02bc\u00ed blog and collection' },
-            { href: 'https://afnanlibrary.org', name: 'AfnanLibrary.org', desc: 'Wonderful collection of manuscripts' },
-            { href: 'https://blog.loomofreality.org', name: 'LoomofReality.org', desc: 'Home of the Phelps partial inventory of tablets' },
-            { href: 'https://www.bahaiblog.net', name: 'BahaiBlog.net', desc: 'Bah\u00e1\u02bc\u00ed arts and musings' },
-            { href: 'https://bahaiteachings.org', name: 'BahaiTeachings.org', desc: 'Individual opinions of Bah\u00e1\u02bc\u00eds on thousands of subjects' },
-          ].map(link => (
-            <a href={link.href} class="group block">
-              <span class="text-xs text-ink-400 group-hover:text-gold-400 transition-colors">{link.name}</span>
-              <span class="block text-[10px] text-ink-600 leading-snug mt-0.5">{link.desc}</span>
-            </a>
-          ))}
-        </div>
-
-        <p class="text-xs text-ink-500 font-mono tracking-wide uppercase mb-3">My Projects</p>
-        <div class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-x-6 gap-y-4">
-          {[
-            { href: 'https://oceanlibrary.com', name: 'OceanLibrary.com', desc: 'Immersive interfaith library' },
-            { href: 'https://siftersearch.com', name: 'SifterSearch.com', desc: 'AI librarian for OceanLibrary supplemental search' },
-            { href: 'https://bahai-education.org', name: 'Bahai-Education.org', desc: "Personal blog about Baha'i topics" },
-            { href: 'https://oceanoflights.org', name: 'OceanofLights.org', desc: "Habib Riazati's Universe of Tablets project" },
-            { href: 'https://drbi.org', name: 'DRBI.org', desc: 'Desert Rose Baha\'i Institute' },
-            { href: 'https://novelarabic.com', name: 'NovelArabic.com', desc: 'Adventure stories turned into Arabic language labs' },
-            { href: 'https://almost-english.com', name: 'Almost-English.com', desc: 'Cognates turned into absurdist language bridges' },
-            { href: 'https://xswarm.ai', name: 'xSwarm.ai', desc: 'Agentic software development tools' },
-          ].map(link => (
-            <a href={link.href} class="group block">
-              <span class="text-xs text-ink-400 group-hover:text-gold-400 transition-colors">{link.name}</span>
-              <span class="block text-[10px] text-ink-600 leading-snug mt-0.5">{link.desc}</span>
-            </a>
-          ))}
+        <div class="flex flex-col sm:flex-row gap-4 sm:gap-8">
+          <div class="flex-1">
+            <p class="text-[10px] text-ink-600 font-mono tracking-wide uppercase mb-1.5">My Projects</p>
+            <div class="flex flex-wrap gap-x-1">
+              {[
+                { href: 'https://oceanlibrary.com', name: 'OceanLibrary', desc: 'interfaith library' },
+                { href: 'https://siftersearch.com', name: 'SifterSearch', desc: 'AI librarian search' },
+                { href: 'https://bahai-education.org', name: 'Bahai-Education', desc: "Baha'i blog" },
+                { href: 'https://oceanoflights.org', name: 'OceanofLights', desc: 'Universe of Tablets' },
+                { href: 'https://drbi.org', name: 'DRBI', desc: "Baha'i Institute" },
+                { href: 'https://novelarabic.com', name: 'NovelArabic', desc: 'Arabic story labs' },
+                { href: 'https://almost-english.com', name: 'Almost-English', desc: 'cognate bridges' },
+                { href: 'https://xswarm.ai', name: 'xSwarm', desc: 'agentic dev tools' },
+                { href: 'https://thinkdone.com', name: 'ThinkDone', desc: 'AI productivity' },
+              ].map((link, i, arr) => (
+                <span class="text-[11px] leading-snug">
+                  <a href={link.href} class="text-ink-400 hover:text-gold-400 transition-colors" title={link.desc}>{link.name}</a>{i < arr.length - 1 && <span class="text-ink-700"> · </span>}
+                </span>
+              ))}
+            </div>
+          </div>
+          <div class="flex-1">
+            <p class="text-[10px] text-ink-600 font-mono tracking-wide uppercase mb-1.5">Other Cool Projects</p>
+            <div class="flex flex-wrap gap-x-1">
+              {[
+                { href: 'https://bahai-library.org', name: 'Bahai-Library', desc: "Bah\u00e1'\u00ed documents" },
+                { href: 'https://theutteranceproject.com', name: 'UtteranceProject', desc: 'readings resource' },
+                { href: 'https://upliftingwords.org', name: 'UpliftingWords', desc: "Bah\u00e1'\u00ed collection" },
+                { href: 'https://afnanlibrary.org', name: 'AfnanLibrary', desc: 'manuscripts' },
+                { href: 'https://blog.loomofreality.org', name: 'LoomofReality', desc: 'tablet inventory' },
+                { href: 'https://www.bahaiblog.net', name: 'BahaiBlog', desc: 'arts & musings' },
+                { href: 'https://bahaiteachings.org', name: 'BahaiTeachings', desc: 'opinion essays' },
+              ].map((link, i, arr) => (
+                <span class="text-[11px] leading-snug">
+                  <a href={link.href} class="text-ink-400 hover:text-gold-400 transition-colors" title={link.desc}>{link.name}</a>{i < arr.length - 1 && <span class="text-ink-700"> · </span>}
+                </span>
+              ))}
+            </div>
+          </div>
         </div>
       </div>
     </footer>

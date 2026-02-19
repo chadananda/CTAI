@@ -1,10 +1,627 @@
 {
   "work": "Epistle to the Son of the Wolf",
   "slug": "epistle-to-the-son-of-the-wolf",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 230,
   "source_text": "و همچنين ردّا لبعضی از معرضين ميفرمايد [ چه کسی عالم بظهور نيست غير اللّه هر وقت شود بايد کلّ تصديق بنقطه حقيقت نمايند و شکر الهی بجای اورند ] انتهی * معرضين بمثابه امّت يحيی تکلّم نمودند چه که ان نفوس هم بر حضرت روح اعتراض کردند که شريعت يحيی تمام نشد تو از برای چه امدی * حال هم معرضين مع انکه ابدا با ما نبودند و اطّلاع از اصل امر نداشته و ندارند که از که بوده و چه بوده گفته‌اند انچه را که اشياء کلّها بنوحه و ندبه مشغول * لعمری انّ الاخرس لا يقدر ان يقوم امام ملکوت البيان * اتّقوا اللّه يا قوم ثمّ اقراوا ما نزّل بالحقّ فی الباب الثّامن من الواحد السّادس من البيان و لا تکونوا من المعرضين * و همچنين امر فرموده [ که در هر نوزده روز يکدفعه در اين باب نظر کنند لعلّ در ظهور من يظهره اللّه محتجب نشوند بشئونی دون شان آيات که اعظم حجج و براهين بوده و هست ] انتهی *",
   "translation": "Likewise, refuting certain disbelievers, He saith: \"For none knoweth the time of the Revelation except God. Whenever it appeareth, all must acknowledge the Point of Truth, and render thanks unto God.\" They that have turned aside from Me have spoken even as the followers of John (the Baptist) spoke. For they, too, protested against Him Who was the Spirit (Jesus) saying: \"The dispensation of John hath not yet ended; wherefore hast thou come?\" Now, too, they that have repudiated Us, though they have never known Us and have been at all times ignorant of the fundamentals of this Cause, knowing not from Whom it proceeded or what it signifieth, have spoken that which hath made all created things to sigh and lament. By My life! The mute can never confront the One Who incarnateth in Himself the kingdom of utterance. Fear God, O people, and peruse, then, that which hath been sent down with truth in the eighth Chapter of the sixth Vahid of the Bayán, and be not of such as have turned aside. He, likewise, hath commanded: \"Once every nineteen days this Chapter should be read, that haply they may not be veiled, in the time of the revelation of Him Whom God shall make manifest, by considerations foreign to the verses, which have been, and are still, the weightiest of all proofs and testimonies.\"",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "mute-cannot-confront-utterance",
+  "alignment": [
+    {
+      "ar": "همچنين",
+      "en": "Likewise"
+    },
+    {
+      "ar": "ردّا",
+      "en": "refuting"
+    },
+    {
+      "ar": "لبعضی",
+      "en": "certain"
+    },
+    {
+      "ar": "معرضين",
+      "en": "disbelievers"
+    },
+    {
+      "ar": "ميفرمايد",
+      "en": "He saith"
+    },
+    {
+      "ar": "چه کسی",
+      "en": "none"
+    },
+    {
+      "ar": "عالم",
+      "en": "knoweth"
+    },
+    {
+      "ar": "بظهور",
+      "en": "the time of the Revelation"
+    },
+    {
+      "ar": "غير",
+      "en": "except"
+    },
+    {
+      "ar": "اللّه",
+      "en": "God"
+    },
+    {
+      "ar": "هر وقت",
+      "en": "Whenever"
+    },
+    {
+      "ar": "شود",
+      "en": "appeareth"
+    },
+    {
+      "ar": "بايد",
+      "en": "must"
+    },
+    {
+      "ar": "کلّ",
+      "en": "all"
+    },
+    {
+      "ar": "تصديق",
+      "en": "acknowledge"
+    },
+    {
+      "ar": "بنقطه حقيقت",
+      "en": "the Point of Truth"
+    },
+    {
+      "ar": "شکر",
+      "en": "thanks"
+    },
+    {
+      "ar": "الهی",
+      "en": "unto God"
+    },
+    {
+      "ar": "بجای اورند",
+      "en": "render"
+    },
+    {
+      "ar": "انتهی",
+      "en": ""
+    },
+    {
+      "ar": "بمثابه",
+      "en": "even as"
+    },
+    {
+      "ar": "امّت",
+      "en": "the followers"
+    },
+    {
+      "ar": "يحيی",
+      "en": "John"
+    },
+    {
+      "ar": "تکلّم نمودند",
+      "en": "spoke"
+    },
+    {
+      "ar": "چه که",
+      "en": "For"
+    },
+    {
+      "ar": "ان",
+      "en": "they"
+    },
+    {
+      "ar": "هم",
+      "en": "too"
+    },
+    {
+      "ar": "بر",
+      "en": "against"
+    },
+    {
+      "ar": "حضرت روح",
+      "en": "Him Who was the Spirit"
+    },
+    {
+      "ar": "اعتراض کردند",
+      "en": "protested"
+    },
+    {
+      "ar": "که",
+      "en": "saying"
+    },
+    {
+      "ar": "شريعت",
+      "en": "The dispensation"
+    },
+    {
+      "ar": "تمام نشد",
+      "en": "hath not yet ended"
+    },
+    {
+      "ar": "تو",
+      "en": "thou"
+    },
+    {
+      "ar": "از برای چه",
+      "en": "wherefore"
+    },
+    {
+      "ar": "امدی",
+      "en": "hast thou come"
+    },
+    {
+      "ar": "حال",
+      "en": "Now"
+    },
+    {
+      "ar": "مع انکه",
+      "en": "though"
+    },
+    {
+      "ar": "ابدا",
+      "en": "never"
+    },
+    {
+      "ar": "با ما",
+      "en": "Us"
+    },
+    {
+      "ar": "نبودند",
+      "en": "have never known"
+    },
+    {
+      "ar": "اطّلاع",
+      "en": "ignorant"
+    },
+    {
+      "ar": "از اصل",
+      "en": "of the fundamentals"
+    },
+    {
+      "ar": "امر",
+      "en": "this Cause"
+    },
+    {
+      "ar": "نداشته",
+      "en": "have been at all times ignorant"
+    },
+    {
+      "ar": "از که بوده",
+      "en": "from Whom it proceeded"
+    },
+    {
+      "ar": "چه بوده",
+      "en": "what it signifieth"
+    },
+    {
+      "ar": "گفته‌اند",
+      "en": "have spoken"
+    },
+    {
+      "ar": "انچه را",
+      "en": "that which"
+    },
+    {
+      "ar": "اشياء",
+      "en": "created things"
+    },
+    {
+      "ar": "بنوحه",
+      "en": "to sigh"
+    },
+    {
+      "ar": "ندبه",
+      "en": "lament"
+    },
+    {
+      "ar": "مشغول",
+      "en": "made"
+    },
+    {
+      "ar": "لعمری",
+      "en": "By My life"
+    },
+    {
+      "ar": "انّ الاخرس",
+      "en": "The mute"
+    },
+    {
+      "ar": "لا يقدر",
+      "en": "can never"
+    },
+    {
+      "ar": "ان يقوم",
+      "en": "confront"
+    },
+    {
+      "ar": "ملکوت البيان",
+      "en": "the kingdom of utterance"
+    },
+    {
+      "ar": "اتّقوا",
+      "en": "Fear"
+    },
+    {
+      "ar": "يا قوم",
+      "en": "O people"
+    },
+    {
+      "ar": "ثمّ",
+      "en": "then"
+    },
+    {
+      "ar": "اقراوا",
+      "en": "peruse"
+    },
+    {
+      "ar": "ما نزّل",
+      "en": "that which hath been sent down"
+    },
+    {
+      "ar": "بالحقّ",
+      "en": "with truth"
+    },
+    {
+      "ar": "فی الباب",
+      "en": "in"
+    },
+    {
+      "ar": "الثّامن",
+      "en": "the eighth Chapter"
+    },
+    {
+      "ar": "من الواحد",
+      "en": "Vahid"
+    },
+    {
+      "ar": "السّادس",
+      "en": "the sixth"
+    },
+    {
+      "ar": "من البيان",
+      "en": "of the Bayán"
+    },
+    {
+      "ar": "و لا تکونوا",
+      "en": "and be not"
+    },
+    {
+      "ar": "من المعرضين",
+      "en": "of such as have turned aside"
+    },
+    {
+      "ar": "امر فرموده",
+      "en": "hath commanded"
+    },
+    {
+      "ar": "در هر",
+      "en": "every"
+    },
+    {
+      "ar": "نوزده",
+      "en": "nineteen"
+    },
+    {
+      "ar": "روز",
+      "en": "days"
+    },
+    {
+      "ar": "يکدفعه",
+      "en": "Once"
+    },
+    {
+      "ar": "در اين باب",
+      "en": "this Chapter"
+    },
+    {
+      "ar": "نظر کنند",
+      "en": "should be read"
+    },
+    {
+      "ar": "لعلّ",
+      "en": "that haply"
+    },
+    {
+      "ar": "در ظهور",
+      "en": "in the time of the revelation"
+    },
+    {
+      "ar": "من يظهره اللّه",
+      "en": "Him Whom God shall make manifest"
+    },
+    {
+      "ar": "محتجب نشوند",
+      "en": "may not be veiled"
+    },
+    {
+      "ar": "بشئونی",
+      "en": "by considerations"
+    },
+    {
+      "ar": "دون شان",
+      "en": "foreign to"
+    },
+    {
+      "ar": "آيات",
+      "en": "the verses"
+    },
+    {
+      "ar": "که",
+      "en": "which"
+    },
+    {
+      "ar": "اعظم",
+      "en": "the weightiest"
+    },
+    {
+      "ar": "حجج",
+      "en": "proofs"
+    },
+    {
+      "ar": "براهين",
+      "en": "testimonies"
+    },
+    {
+      "ar": "بوده",
+      "en": "have been"
+    },
+    {
+      "ar": "و هست",
+      "en": "and are still"
+    }
+  ],
+  "terms": [
+    {
+      "term": "معرضين",
+      "transliteration": "ʿ-r-d",
+      "literal": "to turn away; to avert; to abstain; heedless",
+      "se_rendering": "disbelievers; turned aside",
+      "note": "Typically 'turned away' or 'turned aside' (47 occ). SE uses both 'disbelievers' and 'turned aside' within this passage—the former emphasizing theological stance, latter relational distance.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 182,
+          "snippet": "turned away"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 505,
+          "snippet": "turned their backs"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 89,
+          "snippet": "objections"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 431,
+          "snippet": "have turned back"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 104,
+          "snippet": "are turned back"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 14,
+          "snippet": "turns away"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 487,
+          "snippet": "turned back"
+        },
+        {
+          "work": "gleanings",
+          "para": 108,
+          "snippet": "rejection"
+        }
+      ]
+    },
+    {
+      "term": "عالم",
+      "transliteration": "ʿ-l-m",
+      "literal": "world; universe; the worlds",
+      "se_rendering": "knoweth",
+      "note": "Root usually means 'world' or 'knowledge' across 141 occurrences. Here rendered 'knoweth' (verb form), reflecting the participial Persian construction distinctly.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 198,
+          "snippet": "world"
+        },
+        {
+          "work": "gleanings",
+          "para": 657,
+          "snippet": "all worlds"
+        },
+        {
+          "work": "gleanings",
+          "para": 182,
+          "snippet": "mankind"
+        },
+        {
+          "work": "gleanings",
+          "para": 183,
+          "snippet": "the whole world"
+        },
+        {
+          "work": "gleanings",
+          "para": 226,
+          "snippet": "all earthly defilements"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 76,
+          "snippet": "Knowledge"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 122,
+          "snippet": "commentators"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 42,
+          "snippet": "banner"
+        }
+      ]
+    },
+    {
+      "term": "روح",
+      "transliteration": "r-w-h",
+      "literal": "to go; to depart; to rest; spirit; soul",
+      "se_rendering": "Spirit",
+      "note": "Primarily 'spirit' or 'the Spirit' (34 occ). Capitalization and context identify Jesus as 'the Spirit'—capitalizing to denote Manifestation status.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 164,
+          "snippet": "My Well-Beloved"
+        },
+        {
+          "work": "gleanings",
+          "para": 246,
+          "snippet": "My"
+        },
+        {
+          "work": "gleanings",
+          "para": 367,
+          "snippet": "spirit"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 702,
+          "snippet": "my spirit"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 201,
+          "snippet": "the Spirit"
+        },
+        {
+          "work": "gleanings",
+          "para": 548,
+          "snippet": "spiritual"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 215,
+          "snippet": "spiritually-minded"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 20,
+          "snippet": "a breath of My own Spirit"
+        }
+      ]
+    },
+    {
+      "term": "امر",
+      "transliteration": "ʾ-m-r",
+      "literal": "command; cause; matter; affair",
+      "se_rendering": "Cause",
+      "note": "Usually 'Cause' or 'Revelation' (75 occ). Here 'fundamentals of this Cause,' using possessive genitive construction to anchor doctrinal substance.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "His Cause"
+        },
+        {
+          "work": "gleanings",
+          "para": 586,
+          "snippet": "His command"
+        },
+        {
+          "work": "gleanings",
+          "para": 691,
+          "snippet": "His Revelation"
+        },
+        {
+          "work": "gleanings",
+          "para": 723,
+          "snippet": "Cause"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 797,
+          "snippet": "Thy Cause"
+        },
+        {
+          "work": "gleanings",
+          "para": 8,
+          "snippet": "Revelation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 597,
+          "snippet": "service"
+        },
+        {
+          "work": "gleanings",
+          "para": 524,
+          "snippet": "your affairs"
+        }
+      ]
+    },
+    {
+      "term": "يقدر",
+      "transliteration": "q-d-r",
+      "literal": "power; might; decree; measure; worth",
+      "se_rendering": "can",
+      "note": "Root typically 'power' or 'decree' (100 occ). Here rendered 'can' (modal verb), emphasizing incapacity rather than potency or decree—rare verbal usage.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 339,
+          "snippet": "Thy power"
+        },
+        {
+          "work": "gleanings",
+          "para": 138,
+          "snippet": "hath been decreed"
+        },
+        {
+          "work": "gleanings",
+          "para": 662,
+          "snippet": "hath decreed"
+        },
+        {
+          "work": "gleanings",
+          "para": 496,
+          "snippet": "forbearing towards"
+        },
+        {
+          "work": "gleanings",
+          "para": 111,
+          "snippet": "schools"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 12,
+          "snippet": "God of power"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 35,
+          "snippet": "Potent"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 282,
+          "snippet": "Almighty"
+        }
+      ]
+    }
+  ],
+  "section_index": "230",
+  "section": "230",
+  "section_para": 1
 }

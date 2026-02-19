@@ -1,10 +1,678 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 285,
   "source_text": "معلوم آن جناب بوده که کلّ اسماء و صفات و جمیع اشیاء از آنچه ظاهر و مشهود است و از آنچه باطن و غیر مشهود بعد از کشف حجبات عن وجهها لن یبقی منها الّا آیة الله الّتی اودعها الله فیها و هی باقیة الی ما شآء الله ربّک و ربّ السّموات و الأرضین تا چه رسد بمؤمن که مقصود از آفرینش وجود و حیات او بوده و چنانچه اسم ایمان از اوّل لا اوّل بوده و الی آخر لا آخر خواهد بود و هم‌چنین مؤمن باقی و حیّ بوده و خواهد بود و لم‌یزل و لایزال طائف حول مشیّة الله بوده و او است باقی ببقآء الله و دائم بدوام او و ظاهر بظهور او و باطن بامر او و این مشهود است که اعلی افق بقا مقرّ مؤمنین بالله و آیات او بوده ابداً فنا بآن مقعد قدس راه نجوید کذلک نلقی علیک من آیات ربّک لتستقیم علی حبّک و تکون من العارفین",
   "translation": "It is clear and evident that when the veils that conceal the realities of the manifestations of the Names and Attributes of God, nay of all created things visible or invisible, have been rent asunder, nothing except the Sign of God will remain — a sign which He, Himself, hath placed within these realities. This sign will endure as long as is the wish of the Lord thy God, the Lord of the heavens and of the earth. If such be the blessings conferred on all created things, how superior must be the destiny of the true believer, whose existence and life are to be regarded as the originating purpose of all creation. Just as the conception of faith hath existed from the beginning that hath no beginning, and will endure till the end that hath no end, in like manner will the true believer eternally live and endure. His spirit will everlastingly circle round the Will of God. He will last as long as God, Himself, will last. He is revealed through the Revelation of God, and is hidden at His bidding. It is evident that the loftiest mansions in the Realm of Immortality have been ordained as the habitation of them that have truly believed in God and in His signs. Death can never invade that holy seat. Thus have We entrusted thee with the signs of thy Lord, that thou mayest persevere in thy love for Him, and be of them that comprehend this truth.",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "true-believer-eternally-live-endure",
+  "alignment": [
+    {
+      "ar": "معلوم",
+      "en": "clear and evident"
+    },
+    {
+      "ar": "آن جناب",
+      "en": "thee"
+    },
+    {
+      "ar": "بوده",
+      "en": "is"
+    },
+    {
+      "ar": "کلّ",
+      "en": "all"
+    },
+    {
+      "ar": "اسماء",
+      "en": "Names"
+    },
+    {
+      "ar": "صفات",
+      "en": "Attributes"
+    },
+    {
+      "ar": "اشیاء",
+      "en": "created things"
+    },
+    {
+      "ar": "ظاهر",
+      "en": "visible"
+    },
+    {
+      "ar": "باطن",
+      "en": "invisible"
+    },
+    {
+      "ar": "کشف",
+      "en": "rent asunder"
+    },
+    {
+      "ar": "حجبات",
+      "en": "veils"
+    },
+    {
+      "ar": "عن وجهها",
+      "en": "that conceal the realities"
+    },
+    {
+      "ar": "لن یبقی",
+      "en": "will remain"
+    },
+    {
+      "ar": "منها",
+      "en": "nothing"
+    },
+    {
+      "ar": "الّا",
+      "en": "except"
+    },
+    {
+      "ar": "آیة الله",
+      "en": "Sign of God"
+    },
+    {
+      "ar": "الّتی اودعها الله فیها",
+      "en": "which He, Himself, hath placed within these realities"
+    },
+    {
+      "ar": "باقیة",
+      "en": "endure"
+    },
+    {
+      "ar": "الی ما شآء الله",
+      "en": "as long as is the wish"
+    },
+    {
+      "ar": "ربّک",
+      "en": "Lord thy God"
+    },
+    {
+      "ar": "السّموات",
+      "en": "heavens"
+    },
+    {
+      "ar": "الأرضین",
+      "en": "earth"
+    },
+    {
+      "ar": "تا چه رسد",
+      "en": "how superior"
+    },
+    {
+      "ar": "بمؤمن",
+      "en": "true believer"
+    },
+    {
+      "ar": "مقصود",
+      "en": "purpose"
+    },
+    {
+      "ar": "آفرینش",
+      "en": "creation"
+    },
+    {
+      "ar": "وجود",
+      "en": "existence"
+    },
+    {
+      "ar": "حیات",
+      "en": "life"
+    },
+    {
+      "ar": "او",
+      "en": "His"
+    },
+    {
+      "ar": "چنانچه",
+      "en": "Just as"
+    },
+    {
+      "ar": "اسم ایمان",
+      "en": "conception of faith"
+    },
+    {
+      "ar": "اوّل لا اوّل",
+      "en": "beginning that hath no beginning"
+    },
+    {
+      "ar": "آخر لا آخر",
+      "en": "end that hath no end"
+    },
+    {
+      "ar": "خواهد بود",
+      "en": "will"
+    },
+    {
+      "ar": "هم‌چنین",
+      "en": "in like manner"
+    },
+    {
+      "ar": "باقی",
+      "en": "eternally live"
+    },
+    {
+      "ar": "حیّ",
+      "en": "live"
+    },
+    {
+      "ar": "لم‌یزل و لایزال",
+      "en": "everlastingly"
+    },
+    {
+      "ar": "طائف",
+      "en": "circle"
+    },
+    {
+      "ar": "حول",
+      "en": "round"
+    },
+    {
+      "ar": "مشیّة الله",
+      "en": "Will of God"
+    },
+    {
+      "ar": "او است",
+      "en": "He"
+    },
+    {
+      "ar": "باقی ببقآء الله",
+      "en": "last as long as God"
+    },
+    {
+      "ar": "دائم بدوام او",
+      "en": "last"
+    },
+    {
+      "ar": "ظاهر بظهور او",
+      "en": "revealed through the Revelation of God"
+    },
+    {
+      "ar": "باطن بامر او",
+      "en": "hidden at His bidding"
+    },
+    {
+      "ar": "این",
+      "en": "It"
+    },
+    {
+      "ar": "مشهود است",
+      "en": "evident"
+    },
+    {
+      "ar": "اعلی",
+      "en": "loftiest"
+    },
+    {
+      "ar": "افق",
+      "en": "Realm"
+    },
+    {
+      "ar": "بقا",
+      "en": "Immortality"
+    },
+    {
+      "ar": "مقرّ",
+      "en": "mansions"
+    },
+    {
+      "ar": "مؤمنین",
+      "en": "them that have truly believed"
+    },
+    {
+      "ar": "بالله",
+      "en": "in God"
+    },
+    {
+      "ar": "آیات او",
+      "en": "His signs"
+    },
+    {
+      "ar": "ابداً",
+      "en": "never"
+    },
+    {
+      "ar": "فنا",
+      "en": "Death"
+    },
+    {
+      "ar": "مقعد قدس",
+      "en": "holy seat"
+    },
+    {
+      "ar": "راه نجوید",
+      "en": "invade"
+    },
+    {
+      "ar": "کذلک",
+      "en": "Thus"
+    },
+    {
+      "ar": "نلقی علیک",
+      "en": "entrusted thee"
+    },
+    {
+      "ar": "من آیات",
+      "en": "with the signs"
+    },
+    {
+      "ar": "ربّک",
+      "en": "thy Lord"
+    },
+    {
+      "ar": "لتستقیم",
+      "en": "persevere"
+    },
+    {
+      "ar": "علی حبّک",
+      "en": "in thy love for Him"
+    },
+    {
+      "ar": "تکون",
+      "en": "be"
+    },
+    {
+      "ar": "من العارفین",
+      "en": "of them that comprehend this truth"
+    }
+  ],
+  "terms": [
+    {
+      "term": "ظاهر",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "revealed",
+      "note": "Usually 'Manifestation' or 'manifestation' (96 occ). Rendered 'revealed' here — a passive voice choice that shifts from divine self-disclosure to the believer's perception, illuminating SE's treatment of theophanic language.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 140,
+          "snippet": "manifestation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 160,
+          "snippet": "Author of all Manifestations"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 136,
+          "snippet": "evident"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 206,
+          "snippet": "appeared"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 196,
+          "snippet": "Manifestations of God"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 255,
+          "snippet": "Manifestations"
+        }
+      ]
+    },
+    {
+      "term": "حجبات",
+      "transliteration": "h-w-l",
+      "literal": "states; conditions; circumstances; situations; affairs",
+      "se_rendering": "veils",
+      "note": "Root typically rendered as 'states' or 'conditions' (26 occ). Here SE renders 'حجبات عن وجهها' as 'veils that conceal' — a unique metaphorical choice emphasizing spiritual obstruction rather than circumstantial states.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 65,
+          "snippet": "circumstances"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 50,
+          "snippet": "all conditions"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 572,
+          "snippet": "all times and under all conditions"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 30,
+          "snippet": "in its state"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 59,
+          "snippet": "state"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 108,
+          "snippet": "stood"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 858,
+          "snippet": "come in between"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 636,
+          "snippet": "at all times"
+        }
+      ]
+    },
+    {
+      "term": "باقیه",
+      "transliteration": "b-q-y",
+      "literal": "remaining; everlasting; eternal; immortal",
+      "se_rendering": "endure",
+      "note": "Typically 'everlasting' or 'immortal' (32 occ). Rendered 'endure' here as verb — SE employs active duration language rather than adjectival eternality, emphasizing temporal persistence rather than static attributes.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 2,
+          "snippet": "the Eternal"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 88,
+          "snippet": "everlasting beauty"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 98,
+          "snippet": "everlasting candle"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 117,
+          "snippet": "immortal sovereignty"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 110,
+          "snippet": "everlasting torch of divine guidance"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 56,
+          "snippet": "refrain"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 246,
+          "snippet": "everlasting"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 259,
+          "snippet": "O thou Remnant of God"
+        }
+      ]
+    },
+    {
+      "term": "مقصود",
+      "transliteration": "q-s-d",
+      "literal": "intention; purpose; aim; goal; to seek; to direct oneself",
+      "se_rendering": "originating purpose",
+      "note": "Usually 'purpose' or 'goal' (32 occ). 'Originating purpose' here — SE compounds the term with 'originating' to underscore creation's intentionality and teleology, a doctrinal emphasis not present in the simple nominal form.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 204,
+          "snippet": "Seek"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 64,
+          "snippet": "aim"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 43,
+          "snippet": "purpose"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 444,
+          "snippet": "goal"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 47,
+          "snippet": "my heart's Desire"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 5,
+          "snippet": "my Desire"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 11,
+          "snippet": "the Goal of my desire"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 804,
+          "snippet": "the Desired One"
+        }
+      ]
+    },
+    {
+      "term": "ایمان",
+      "transliteration": "ʾ-m-n",
+      "literal": "to believe; to have faith; to be secure",
+      "se_rendering": "faith",
+      "note": "Typically 'belief' or 'faith' (32 occ). 'Conception of faith' here — SE's addition of 'conception' elevates the abstract status of ایمان from propositional belief to metaphysical principle, shifting register toward Neoplatonic universals.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 431,
+          "snippet": "believed"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 2,
+          "snippet": "faith"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 198,
+          "snippet": "Trustworthiness"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 561,
+          "snippet": "hath believed"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 7,
+          "snippet": "have ye believed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 225,
+          "snippet": "believer"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 25,
+          "snippet": "believers"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 6,
+          "snippet": "trustees"
+        }
+      ]
+    },
+    {
+      "term": "بامر",
+      "transliteration": "ʾ-m-r",
+      "literal": "command; cause; matter; affair",
+      "se_rendering": "His bidding",
+      "note": "Usually 'His Cause' or 'His command' (75 occ). 'His bidding' here — an archaic familial term that domesticates divine imperative, contrasting sharply with legal 'command' and cosmic 'Cause' renderings elsewhere.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "His Cause"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 797,
+          "snippet": "Thy Cause"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 597,
+          "snippet": "service"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 167,
+          "snippet": "things"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "commanded"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 236,
+          "snippet": "commissioned"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 785,
+          "snippet": "Thy Revelation"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 38,
+          "snippet": "for the protection of the Cause"
+        }
+      ]
+    },
+    {
+      "term": "اعلی",
+      "transliteration": "ʿ-l-w",
+      "literal": "highest; most high; supreme",
+      "se_rendering": "loftiest",
+      "note": "Typically 'the Most High' or 'supreme' (74 occ). 'Loftiest' here — a spatial metaphor applied to 'mansions' that concretizes abstraction, creating architectural imagery where SE usually maintains transcendent abstraction.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 1,
+          "snippet": "the Most High"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 148,
+          "snippet": "the Most Sublime Pen"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 390,
+          "snippet": "the Most Exalted, the Most High"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 68,
+          "snippet": "the Pen of Glory"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 1,
+          "snippet": "the Realm of Glory"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 257,
+          "snippet": "the Báb, the Lord, the most exalted"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 21,
+          "snippet": "sublime"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 143,
+          "snippet": "exalted be He"
+        }
+      ]
+    },
+    {
+      "term": "العارفین",
+      "transliteration": "ʿ-r-f",
+      "literal": "to confess; to acknowledge; to recognize",
+      "se_rendering": "them that comprehend this truth",
+      "note": "Standard form 'have recognized' or 'acknowledged' (82 occ). 'Them that comprehend this truth' here — SE dramatically expands to encompass cognitive grasping and existential understanding, transcending simple recognition.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 601,
+          "snippet": "testifieth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 729,
+          "snippet": "hath acknowledged"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 582,
+          "snippet": "have recognized"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 228,
+          "snippet": "acknowledged"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 744,
+          "snippet": "understanding"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 5,
+          "snippet": "acknowledging"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 4,
+          "snippet": "fragrance of His garment"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 114,
+          "snippet": "Thy knowledge"
+        }
+      ]
+    }
+  ],
+  "section_index": "LXXIII.1",
+  "section": "LXXIII",
+  "section_para": 1
 }

@@ -1,10 +1,383 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 687,
   "source_text": "ای عباد نيست در اين قلب مگر تجلّيات انوار صبح بقا و تکلم نمينمايد مگر بر حق خالص از پروردگار شما پس متابعت نفس ننمائيد و عهد اللّه را مشکنيد و نقض ميثاق مکنيد باستقامت تمام بدل و قلب و زبان باو توجه نمائيد و نباشيد از بيخردان دنيا نمايشی است بی حقيقت و نيستی است بصورت هستی آراسته دل باو مبنديد و از پروردگار خود مگسليد و مباشيد از غفلت کنندگان براستی ميگويم که مثل دنيا مثل سرابيست که بصورت آب نمايد و صاحبان عطش در طلبش جهد بليغ نمايند و چون باو رسند بی بهره و بی نصيب مانند و يا صورت معشوقی که از جان و روح عاری مانده و عاشق چون بدو رسد لا يسمن و لا يغنی مشاهده نمايد و جز تعب زياد و حسرت حاصلی نيابد",
   "translation": "O My servants! There shineth nothing else in Mine heart except the unfading light of the Morn of Divine guidance, and out of My mouth proceedeth naught but the essence of truth, which the Lord your God hath revealed. Follow not, therefore, your earthly desires, and violate not the Covenant of God, nor break your pledge to Him. With firm determination, with the whole affection of your heart, and with the full force of your words, turn ye unto Him, and walk not in the ways of the foolish. The world is but a show, vain and empty, a mere nothing, bearing the semblance of reality. Set not your affections upon it. Break not the bond that uniteth you with your Creator, and be not of those that have erred and strayed from His ways. Verily I say, the world is like the vapor in a desert, which the thirsty dreameth to be water and striveth after it with all his might, until when he cometh unto it, he findeth it to be mere illusion. It may, moreover, be likened unto the lifeless image of the beloved whom the lover hath sought and found, in the end, after long search and to his utmost regret, to be such as cannot “fatten nor appease his hunger.”",
   "source_lang": "ar",
-  "score": 9.8
+  "score": 9.8,
+  "page_slug": "world-like-vapor-desert",
+  "alignment": [
+    {
+      "ar": "عباد",
+      "en": "My servants"
+    },
+    {
+      "ar": "نيست",
+      "en": "nothing"
+    },
+    {
+      "ar": "قلب",
+      "en": "heart"
+    },
+    {
+      "ar": "مگر",
+      "en": "except"
+    },
+    {
+      "ar": "تجلّيات",
+      "en": "shineth"
+    },
+    {
+      "ar": "انوار",
+      "en": "light"
+    },
+    {
+      "ar": "صبح",
+      "en": "Morn"
+    },
+    {
+      "ar": "بقا",
+      "en": "Divine guidance"
+    },
+    {
+      "ar": "تکلم",
+      "en": "proceedeth"
+    },
+    {
+      "ar": "حق",
+      "en": "truth"
+    },
+    {
+      "ar": "خالص",
+      "en": "essence"
+    },
+    {
+      "ar": "پروردگار",
+      "en": "Lord your God"
+    },
+    {
+      "ar": "متابعت",
+      "en": "Follow"
+    },
+    {
+      "ar": "نفس",
+      "en": "earthly desires"
+    },
+    {
+      "ar": "عهد",
+      "en": "Covenant"
+    },
+    {
+      "ar": "مشکنيد",
+      "en": "violate"
+    },
+    {
+      "ar": "نقض",
+      "en": "break"
+    },
+    {
+      "ar": "ميثاق",
+      "en": "pledge"
+    },
+    {
+      "ar": "باستقامت",
+      "en": "firm determination"
+    },
+    {
+      "ar": "تمام",
+      "en": "whole"
+    },
+    {
+      "ar": "دل",
+      "en": "affection of your heart"
+    },
+    {
+      "ar": "زبان",
+      "en": "words"
+    },
+    {
+      "ar": "توجه",
+      "en": "turn"
+    },
+    {
+      "ar": "بيخردان",
+      "en": "foolish"
+    },
+    {
+      "ar": "دنيا",
+      "en": "world"
+    },
+    {
+      "ar": "نمايشی",
+      "en": "show"
+    },
+    {
+      "ar": "حقيقت",
+      "en": "reality"
+    },
+    {
+      "ar": "هستی",
+      "en": "semblance"
+    },
+    {
+      "ar": "آراسته",
+      "en": "bearing"
+    },
+    {
+      "ar": "مبنديد",
+      "en": "Set not your affections"
+    },
+    {
+      "ar": "مگسليد",
+      "en": "Break not the bond"
+    },
+    {
+      "ar": "غفلت",
+      "en": "erred"
+    },
+    {
+      "ar": "براستی",
+      "en": "Verily"
+    },
+    {
+      "ar": "ميگويم",
+      "en": "I say"
+    },
+    {
+      "ar": "مثل",
+      "en": "like"
+    },
+    {
+      "ar": "سرابيست",
+      "en": "vapor"
+    },
+    {
+      "ar": "آب",
+      "en": "water"
+    },
+    {
+      "ar": "نمايد",
+      "en": "dreameth"
+    },
+    {
+      "ar": "صاحبان",
+      "en": "thirsty"
+    },
+    {
+      "ar": "طلبش",
+      "en": "striveth after it"
+    },
+    {
+      "ar": "جهد",
+      "en": "might"
+    },
+    {
+      "ar": "بليغ",
+      "en": "all"
+    },
+    {
+      "ar": "رسند",
+      "en": "cometh"
+    },
+    {
+      "ar": "بی بهره",
+      "en": "mere illusion"
+    },
+    {
+      "ar": "بی نصيب",
+      "en": "illusion"
+    },
+    {
+      "ar": "مانند",
+      "en": "findeth"
+    },
+    {
+      "ar": "معشوقی",
+      "en": "beloved"
+    },
+    {
+      "ar": "جان",
+      "en": "lifeless"
+    },
+    {
+      "ar": "عاشق",
+      "en": "lover"
+    },
+    {
+      "ar": "رسد",
+      "en": "found"
+    },
+    {
+      "ar": "لا يسمن",
+      "en": "fatten"
+    },
+    {
+      "ar": "لا يغنی",
+      "en": "appease his hunger"
+    },
+    {
+      "ar": "تعب",
+      "en": "search"
+    },
+    {
+      "ar": "زياد",
+      "en": "long"
+    },
+    {
+      "ar": "حسرت",
+      "en": "regret"
+    },
+    {
+      "ar": "حاصلی",
+      "en": "such"
+    },
+    {
+      "ar": "نيابد",
+      "en": "cannot"
+    }
+  ],
+  "terms": [
+    {
+      "term": "تجلّيات",
+      "transliteration": "j-l-ī",
+      "literal": "effulgence; manifestation; revelation",
+      "se_rendering": "unfading light",
+      "note": "Root sh-h-d typically rendered 'witness' or 'manifest' (74 occ.). Here the related noun becomes 'unfading light'—a metaphorical translation emphasizing illumination over witness-bearing.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 48,
+          "snippet": "In the third Tajallí"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 71,
+          "snippet": "effulgent glory"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 12,
+          "snippet": "splendorous light"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 150,
+          "snippet": "Specific Revelation of God"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 151,
+          "snippet": "Secondary Revelation of God"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 203,
+          "snippet": "with the effulgence"
+        }
+      ]
+    },
+    {
+      "term": "روح",
+      "transliteration": "r-w-h",
+      "literal": "to go; to depart; to rest; spirit; soul",
+      "se_rendering": "soul",
+      "note": "Root r-w-h typically 'spirit', 'soul', or 'spiritual' (34 occ.). Here rendered 'soul' in direct object position, maintaining the dual beloved metaphor's existential emptiness.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 702,
+          "snippet": "my spirit"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 201,
+          "snippet": "the Spirit"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 121,
+          "snippet": "spiritual"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 215,
+          "snippet": "spiritually-minded"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 20,
+          "snippet": "a breath of My own Spirit"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 100,
+          "snippet": "spirit"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 22,
+          "snippet": "in a spirit"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 17,
+          "snippet": "with My spirit"
+        }
+      ]
+    },
+    {
+      "term": "یغنی",
+      "transliteration": "gh-n-y",
+      "literal": "to be independent of; to be in no need of; to dispense with",
+      "se_rendering": "appease",
+      "note": "Root gh-n-y means 'to dispense with' or 'in no need of' (20 occ.). SE's 'appease' (from Arabic *yughni* in Qur'anic quotation) shifts from sufficiency to satiation—a hunger-fulfillment semantic.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 27,
+          "snippet": "in no need of"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 660,
+          "snippet": "the All-Possessing"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 77,
+          "snippet": "treasure"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 155,
+          "snippet": "Self-Sufficing"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 115,
+          "snippet": "the All-Bounteous"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 143,
+          "snippet": "the Rich"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 128,
+          "snippet": "riches"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 56,
+          "snippet": "sufficiency"
+        }
+      ]
+    }
+  ],
+  "section_index": "CLIII.8",
+  "section": "CLIII",
+  "section_para": 8
 }

@@ -1,10 +1,661 @@
 {
   "work": "Epistle to the Son of the Wolf",
   "slug": "epistle-to-the-son-of-the-wolf",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 204,
   "source_text": "يا شيخ قصد شاطیء بحر اعظم فرما ثمّ ادخل فی السّفينة الحمراء الّتي قدّرها اللّه لاهل البهاء فی قيّوم الاسماء و انّها تمرّ علی البرّ و البحر من دخل فيها نجی و من اعرض هلک * اذا دخلت و فزت ولّ وجهک شطر کعبة اللّه المهيمن القيّوم و قل : اللّهمّ انّی اسألک من بهائک بأبهاه و کلّ بهائک بهیّ * اذا تفتح علی وجهک ابواب الملکوت و تری ما لا رأت العيون و تسمع ما لا سمعت الآذان * انّ المظلوم يعظک کما وعظک و ما اراد لک الّا الدّخول فی بحر احديّة اللّه ربّ العالمين * هذا يوم فيه تنادی کلّ الاشياء و تبشّر النّاس بهذا الظّهور الّذی به ظهر ما کان مکنونا مخزونا فی علم اللّه العزيز الحميد *",
   "translation": "O Shaykh! Seek thou the shore of the Most Great Ocean, and enter, then, the Crimson Ark which God hath ordained in the Qayyum-i-Asmá’ for the people of Bahá. Verily, it passeth over land and sea. He that entereth therein is saved, and he that turneth aside perisheth. Shouldst thou enter therein and attain unto it, set thy face towards the Kaaba of God, the Help in Peril, the Self-Subsisting, and say: \"O my God! I beseech Thee by Thy most glorious light, and all Thy lights are verily glorious.\" Thereupon, will the doors of the Kingdom be flung wide before thy face, and thou wilt behold what eyes have never beheld, and hear what ears have never heard. This Wronged One exhorteth thee as He hath exhorted thee before, and hath never had any wish for thee save that thou shouldst enter the ocean of the unity of God, the Lord of the worlds. This is the day whereon all created things cry out, and announce unto men this Revelation, through which hath appeared what was concealed and preserved in the knowledge of God, the Mighty, the All-Praised.",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "crimson-ark-ocean-unity",
+  "alignment": [
+    {
+      "ar": "يا",
+      "en": "O"
+    },
+    {
+      "ar": "شيخ",
+      "en": "Shaykh"
+    },
+    {
+      "ar": "قصد",
+      "en": "Seek"
+    },
+    {
+      "ar": "شاطیء",
+      "en": "shore"
+    },
+    {
+      "ar": "بحر",
+      "en": "Ocean"
+    },
+    {
+      "ar": "اعظم",
+      "en": "Most Great"
+    },
+    {
+      "ar": "فرما",
+      "en": "thou"
+    },
+    {
+      "ar": "ادخل",
+      "en": "enter"
+    },
+    {
+      "ar": "السّفينة",
+      "en": "Ark"
+    },
+    {
+      "ar": "الحمراء",
+      "en": "Crimson"
+    },
+    {
+      "ar": "قدّرها",
+      "en": "ordained"
+    },
+    {
+      "ar": "اللّه",
+      "en": "God"
+    },
+    {
+      "ar": "لاهل",
+      "en": "for the people"
+    },
+    {
+      "ar": "البهاء",
+      "en": "Bahá"
+    },
+    {
+      "ar": "انّها",
+      "en": "it"
+    },
+    {
+      "ar": "تمرّ",
+      "en": "passeth"
+    },
+    {
+      "ar": "البرّ",
+      "en": "land"
+    },
+    {
+      "ar": "البحر",
+      "en": "sea"
+    },
+    {
+      "ar": "دخل",
+      "en": "entereth"
+    },
+    {
+      "ar": "فيها",
+      "en": "therein"
+    },
+    {
+      "ar": "نجی",
+      "en": "saved"
+    },
+    {
+      "ar": "اعرض",
+      "en": "turneth aside"
+    },
+    {
+      "ar": "هلک",
+      "en": "perisheth"
+    },
+    {
+      "ar": "اذا",
+      "en": "Shouldst"
+    },
+    {
+      "ar": "فزت",
+      "en": "attain"
+    },
+    {
+      "ar": "ولّ",
+      "en": "set"
+    },
+    {
+      "ar": "وجهک",
+      "en": "thy face"
+    },
+    {
+      "ar": "شطر",
+      "en": "towards"
+    },
+    {
+      "ar": "کعبة",
+      "en": "Kaaba"
+    },
+    {
+      "ar": "المهيمن",
+      "en": "Help in Peril"
+    },
+    {
+      "ar": "القيّوم",
+      "en": "Self-Subsisting"
+    },
+    {
+      "ar": "قل",
+      "en": "say"
+    },
+    {
+      "ar": "اللّهمّ",
+      "en": "O my God"
+    },
+    {
+      "ar": "انّی",
+      "en": "I"
+    },
+    {
+      "ar": "اسألک",
+      "en": "beseech Thee"
+    },
+    {
+      "ar": "بهائک",
+      "en": "Thy"
+    },
+    {
+      "ar": "بأبهاه",
+      "en": "most glorious light"
+    },
+    {
+      "ar": "کلّ",
+      "en": "all"
+    },
+    {
+      "ar": "بهیّ",
+      "en": "glorious"
+    },
+    {
+      "ar": "تفتح",
+      "en": "be flung wide"
+    },
+    {
+      "ar": "ابواب",
+      "en": "doors"
+    },
+    {
+      "ar": "الملکوت",
+      "en": "Kingdom"
+    },
+    {
+      "ar": "تری",
+      "en": "behold"
+    },
+    {
+      "ar": "ما",
+      "en": "what"
+    },
+    {
+      "ar": "رأت",
+      "en": "beheld"
+    },
+    {
+      "ar": "العيون",
+      "en": "eyes"
+    },
+    {
+      "ar": "تسمع",
+      "en": "hear"
+    },
+    {
+      "ar": "سمعت",
+      "en": "heard"
+    },
+    {
+      "ar": "الآذان",
+      "en": "ears"
+    },
+    {
+      "ar": "المظلوم",
+      "en": "Wronged One"
+    },
+    {
+      "ar": "يعظک",
+      "en": "exhorteth thee"
+    },
+    {
+      "ar": "کما",
+      "en": "as"
+    },
+    {
+      "ar": "وعظک",
+      "en": "exhorted thee"
+    },
+    {
+      "ar": "اراد",
+      "en": "wish"
+    },
+    {
+      "ar": "لک",
+      "en": "for thee"
+    },
+    {
+      "ar": "الّا",
+      "en": "save"
+    },
+    {
+      "ar": "احديّة",
+      "en": "unity"
+    },
+    {
+      "ar": "ربّ",
+      "en": "Lord"
+    },
+    {
+      "ar": "العالمين",
+      "en": "worlds"
+    },
+    {
+      "ar": "هذا",
+      "en": "This"
+    },
+    {
+      "ar": "يوم",
+      "en": "day"
+    },
+    {
+      "ar": "فيه",
+      "en": "whereon"
+    },
+    {
+      "ar": "تنادی",
+      "en": "cry out"
+    },
+    {
+      "ar": "الاشياء",
+      "en": "created things"
+    },
+    {
+      "ar": "تبشّر",
+      "en": "announce"
+    },
+    {
+      "ar": "النّاس",
+      "en": "men"
+    },
+    {
+      "ar": "الظّهور",
+      "en": "Revelation"
+    },
+    {
+      "ar": "به",
+      "en": "through which"
+    },
+    {
+      "ar": "ظهر",
+      "en": "appeared"
+    },
+    {
+      "ar": "کان",
+      "en": "was"
+    },
+    {
+      "ar": "مکنونا",
+      "en": "concealed"
+    },
+    {
+      "ar": "مخزونا",
+      "en": "preserved"
+    },
+    {
+      "ar": "علم",
+      "en": "knowledge"
+    },
+    {
+      "ar": "العزيز",
+      "en": "Mighty"
+    },
+    {
+      "ar": "الحميد",
+      "en": "All-Praised"
+    }
+  ],
+  "terms": [
+    {
+      "term": "قيّوم",
+      "transliteration": "q-w-m",
+      "literal": "rising; standing; uprising; resurrection",
+      "se_rendering": "Self-Subsisting",
+      "note": "Usually 'Resurrection' or 'Day of Resurrection' (109 occ), denoting eschatological rising. Here 'Self-Subsisting' applies the Qur'anic epithet Al-Qayyum to the divine names, shifting from temporal to metaphysical standing.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 152,
+          "snippet": "Day of Resurrection"
+        },
+        {
+          "work": "gleanings",
+          "para": 437,
+          "snippet": "arise"
+        },
+        {
+          "work": "gleanings",
+          "para": 513,
+          "snippet": "dedicateth"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 153,
+          "snippet": "Resurrection"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "peoples"
+        },
+        {
+          "work": "gleanings",
+          "para": 693,
+          "snippet": "commandments"
+        },
+        {
+          "work": "gleanings",
+          "para": 628,
+          "snippet": "My commandments"
+        },
+        {
+          "work": "gleanings",
+          "para": 518,
+          "snippet": "steadfast"
+        }
+      ]
+    },
+    {
+      "term": "الملکوت",
+      "transliteration": "m-l-k",
+      "literal": "kingdom; dominion; realm; sovereignty",
+      "se_rendering": "Kingdom",
+      "note": "Standardly 'kingdom' or 'Kingdom' (70 occ). Here kept as 'Kingdom' but in mystical context of unveiling perception—the realm where supernatural sight and hearing occur.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-ahd",
+          "para": 16,
+          "snippet": "heaven"
+        },
+        {
+          "work": "gleanings",
+          "para": 394,
+          "snippet": "realm"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 71,
+          "snippet": "kingdom"
+        },
+        {
+          "work": "gleanings",
+          "para": 313,
+          "snippet": "heavenly gem"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 69,
+          "snippet": "realms"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 28,
+          "snippet": "righteous"
+        },
+        {
+          "work": "gleanings",
+          "para": 171,
+          "snippet": "by the heavenly power"
+        },
+        {
+          "work": "gleanings",
+          "para": 59,
+          "snippet": "Lord"
+        }
+      ]
+    },
+    {
+      "term": "المظلوم",
+      "transliteration": "z-l-m",
+      "literal": "wrongedness, oppression, meekness; state of being wronged or oppressed",
+      "se_rendering": "Wronged One",
+      "note": "Typically 'afflicted', 'wronged', or 'meekness' across 128 occurrences. Here rendered as 'Wronged One'—a nominalized epithet applied to the speaker, transforming oppression into identity.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 498,
+          "snippet": "afflicted with countless tribulations"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 49,
+          "snippet": "meekness"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 116,
+          "snippet": "injury"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 3,
+          "snippet": "Wronged One"
+        },
+        {
+          "work": "gleanings",
+          "para": 221,
+          "snippet": "oppression"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 9,
+          "snippet": "Darkness"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 33,
+          "snippet": "tyranny"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 573,
+          "snippet": "oppressed"
+        }
+      ]
+    },
+    {
+      "term": "العالمين",
+      "transliteration": "ʿ-l-m",
+      "literal": "world; universe; the worlds",
+      "se_rendering": "the worlds",
+      "note": "Usually 'world', 'all worlds', or 'mankind' (141 occ). Here 'the worlds' maintains plural emphasis on universal lordship, aligning with Qur'anic 'Rabb al-'Alamin' theology.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 198,
+          "snippet": "world"
+        },
+        {
+          "work": "gleanings",
+          "para": 657,
+          "snippet": "all worlds"
+        },
+        {
+          "work": "gleanings",
+          "para": 182,
+          "snippet": "mankind"
+        },
+        {
+          "work": "gleanings",
+          "para": 183,
+          "snippet": "the whole world"
+        },
+        {
+          "work": "gleanings",
+          "para": 226,
+          "snippet": "all earthly defilements"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 76,
+          "snippet": "Knowledge"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 122,
+          "snippet": "commentators"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 42,
+          "snippet": "banner"
+        }
+      ]
+    },
+    {
+      "term": "تبشّر",
+      "transliteration": "b-sh-r",
+      "literal": "human; mankind; human nature",
+      "se_rendering": "announce",
+      "note": "Root typically means 'human' or 'mankind' (26 occ), but here rendered 'announce'—demonstrating SE's flexibility with cognates to prioritize semantic coherence over etymological consistency.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 87,
+          "snippet": "human"
+        },
+        {
+          "work": "gleanings",
+          "para": 711,
+          "snippet": "law"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 9,
+          "snippet": "testimony written by Mírzá Shu'á'u'lláh"
+        },
+        {
+          "work": "gleanings",
+          "para": 719,
+          "snippet": "human race"
+        },
+        {
+          "work": "tablet-of-carmel",
+          "para": 4,
+          "snippet": "announce"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 8,
+          "snippet": "SON OF MAN"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 755,
+          "snippet": "herald"
+        },
+        {
+          "work": "gleanings",
+          "para": 503,
+          "snippet": "Harbinger"
+        }
+      ]
+    },
+    {
+      "term": "الظّهور",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "Revelation",
+      "note": "Typically 'Manifestation' or 'manifestation' (96 occ). Here rendered as 'Revelation'—a rare choice emphasizing disclosure of hidden knowledge rather than theophanic appearance.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 53,
+          "snippet": "Manifestation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 160,
+          "snippet": "Author of all Manifestations"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 136,
+          "snippet": "evident"
+        },
+        {
+          "work": "gleanings",
+          "para": 222,
+          "snippet": "material"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 196,
+          "snippet": "Manifestations of God"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 255,
+          "snippet": "Manifestations"
+        }
+      ]
+    },
+    {
+      "term": "مخزونا",
+      "transliteration": "kh-z-n",
+      "literal": "to store, to treasure; storehouse, depository, treasury",
+      "se_rendering": "preserved",
+      "note": "Usually 'treasury', 'repositories', or 'hidden Treasure' (19 occ). Here 'preserved' prioritizes the state of concealment over the container, emphasizing divine knowledge's protective custody.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 199,
+          "snippet": "depositories"
+        },
+        {
+          "work": "gleanings",
+          "para": 93,
+          "snippet": "repositories"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 1,
+          "snippet": "treasury"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 204,
+          "snippet": "custodians of the treasures"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 131,
+          "snippet": "hidden Treasure"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 742,
+          "snippet": "hidden in the treasuries"
+        },
+        {
+          "work": "gleanings",
+          "para": 630,
+          "snippet": "treasured"
+        },
+        {
+          "work": "gleanings",
+          "para": 677,
+          "snippet": "My treasure"
+        }
+      ]
+    }
+  ],
+  "section_index": "204",
+  "section": "204",
+  "section_para": 1
 }

@@ -1,10 +1,387 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 667,
   "source_text": "پروردگار از تو ميطلبيم كلّ را راه نمائى و هدايت فرمائى توئى قادر و توانا و عالم و بينا.",
   "translation": "We beg of Thee, O Providence, to show Thy way unto all men, and to guide them aright. Thou art, verily, the Almighty, the Most Powerful, the All-Knowing, the All-Seeing.",
   "source_lang": "ar",
-  "score": 9.9
+  "score": 9.9,
+  "page_slug": "almighty-all-knowing-all-seeing",
+  "alignment": [
+    {
+      "ar": "پروردگار",
+      "en": "Providence"
+    },
+    {
+      "ar": "از",
+      "en": "of"
+    },
+    {
+      "ar": "تو",
+      "en": "Thee"
+    },
+    {
+      "ar": "ميطلبيم",
+      "en": "beg"
+    },
+    {
+      "ar": "كلّ",
+      "en": "all"
+    },
+    {
+      "ar": "را",
+      "en": "unto"
+    },
+    {
+      "ar": "راه نمائى",
+      "en": "show Thy way"
+    },
+    {
+      "ar": "هدايت فرمائى",
+      "en": "guide them aright"
+    },
+    {
+      "ar": "توئى",
+      "en": "Thou art"
+    },
+    {
+      "ar": "قادر",
+      "en": "the Almighty"
+    },
+    {
+      "ar": "توانا",
+      "en": "the Most Powerful"
+    },
+    {
+      "ar": "عالم",
+      "en": "the All-Knowing"
+    },
+    {
+      "ar": "بينا",
+      "en": "the All-Seeing"
+    }
+  ],
+  "terms": [
+    {
+      "term": "پروردگار",
+      "transliteration": "p-rvar-d",
+      "literal": "Lord; Sustainer; Provider; Creator",
+      "se_rendering": "Providence",
+      "note": "Five occurrences in corpus. 'Providence' here departs from more common 'Lord' rendering, creating abstract theological formality rather than personal relationship.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 389,
+          "snippet": "Lord"
+        }
+      ]
+    },
+    {
+      "term": "میطلبیم",
+      "transliteration": "t-l-b",
+      "literal": "seeker, one who seeks; those who seek",
+      "se_rendering": "We beg of Thee",
+      "note": "Among 20 occurrences, 'We beg of Thee' represents the imperative, petitionary sense; contrasts with 'seekers' and 'seeketh' in other contexts.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 128,
+          "snippet": "seekers"
+        },
+        {
+          "work": "gleanings",
+          "para": 575,
+          "snippet": "the seekers"
+        },
+        {
+          "work": "gleanings",
+          "para": 301,
+          "snippet": "seeketh"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 53,
+          "snippet": "we beg"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 60,
+          "snippet": "ask"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 65,
+          "snippet": "besought"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 153,
+          "snippet": "Entreat"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 178,
+          "snippet": "beseech Thee"
+        }
+      ]
+    },
+    {
+      "term": "نمائی",
+      "transliteration": "n-m-w",
+      "literal": "to show, display, exhibit; to grow, develop",
+      "se_rendering": "show",
+      "note": "Among 33 occurrences primarily meaning 'show/display,' SE renders as 'show' here; other occurrences yield 'inspire,' 'behold,' 'withhold not' — highly variable.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 22,
+          "snippet": "share"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 24,
+          "snippet": "consort"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 126,
+          "snippet": "borne"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 101,
+          "snippet": "inspire"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 170,
+          "snippet": "behold"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 31,
+          "snippet": "withhold not"
+        },
+        {
+          "work": "gleanings",
+          "para": 333,
+          "snippet": "extinguish"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 14,
+          "snippet": "be made"
+        }
+      ]
+    },
+    {
+      "term": "هدایت",
+      "transliteration": "h-d-y",
+      "literal": "guidance; direction; leading rightly",
+      "se_rendering": "guide them aright",
+      "note": "Five occurrences in corpus. 'Guide them aright' here is expanded paraphrase; typically rendered simply as 'Guidance' or 'guidance of men' — SE elaborates the meaning substantially.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 14,
+          "snippet": "guidance of the nations and peoples"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 153,
+          "snippet": "Guidance"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 110,
+          "snippet": "everlasting torch of divine guidance"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 227,
+          "snippet": "guidance of men"
+        }
+      ]
+    },
+    {
+      "term": "قادر",
+      "transliteration": "q-d-r",
+      "literal": "power; might; decree; measure; worth",
+      "se_rendering": "the Almighty",
+      "note": "Among 100 occurrences, 'the Almighty' is distinctive; root typically yields 'decreed,' 'hath decreed,' 'Thy power' — here SE emphasizes divine attribute over decree sense.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 171,
+          "snippet": "a while"
+        },
+        {
+          "work": "gleanings",
+          "para": 138,
+          "snippet": "hath been decreed"
+        },
+        {
+          "work": "gleanings",
+          "para": 662,
+          "snippet": "hath decreed"
+        },
+        {
+          "work": "gleanings",
+          "para": 496,
+          "snippet": "forbearing towards"
+        },
+        {
+          "work": "gleanings",
+          "para": 111,
+          "snippet": "schools"
+        },
+        {
+          "work": "gleanings",
+          "para": 532,
+          "snippet": "can"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 4,
+          "snippet": "for a moment"
+        },
+        {
+          "work": "gleanings",
+          "para": 112,
+          "snippet": "Thy might"
+        }
+      ]
+    },
+    {
+      "term": "توانا",
+      "transliteration": "t-w-n",
+      "literal": "to be able, can; power, strength",
+      "se_rendering": "the Most Powerful",
+      "note": "Among 17 occurrences, 'the Most Powerful' combines root meaning of ability/power with superlative; appears alongside قادر to create paired divine epithets.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 180,
+          "snippet": "can"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 73,
+          "snippet": "Mighty"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 11,
+          "snippet": "Almighty"
+        },
+        {
+          "work": "gleanings",
+          "para": 140,
+          "snippet": "power"
+        }
+      ]
+    },
+    {
+      "term": "عالم",
+      "transliteration": "ʿ-l-m",
+      "literal": "world; universe; the worlds",
+      "se_rendering": "the All-Knowing",
+      "note": "Among 141 occurrences, 'the All-Knowing' is standard rendering for divine attribute; root spans 'world,' 'knowledge,' 'mankind' — context here is purely theological.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 198,
+          "snippet": "world"
+        },
+        {
+          "work": "gleanings",
+          "para": 657,
+          "snippet": "all worlds"
+        },
+        {
+          "work": "gleanings",
+          "para": 182,
+          "snippet": "mankind"
+        },
+        {
+          "work": "gleanings",
+          "para": 183,
+          "snippet": "the whole world"
+        },
+        {
+          "work": "gleanings",
+          "para": 226,
+          "snippet": "all earthly defilements"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 28,
+          "snippet": "knowledge"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 122,
+          "snippet": "commentators"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 42,
+          "snippet": "banner"
+        }
+      ]
+    },
+    {
+      "term": "بینا",
+      "transliteration": "b-ṣ-r",
+      "literal": "sight; insight; discernment; spiritual perception",
+      "se_rendering": "the All-Seeing",
+      "note": "Among 27 occurrences, 'the All-Seeing' represents the epithet form; root yields 'discerning eye,' 'eye of insight,' 'eye of God' — here SE renders as abstract divine attribute.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 27,
+          "snippet": "discerning"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 278,
+          "snippet": "eye of insight"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 16,
+          "snippet": "eye of God"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 116,
+          "snippet": "discerning eye"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 77,
+          "snippet": "hearing ears, and sharp sight"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 231,
+          "snippet": "clear"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 3,
+          "snippet": "proofs"
+        },
+        {
+          "work": "gleanings",
+          "para": 75,
+          "snippet": "eyes"
+        }
+      ]
+    }
+  ],
+  "section_index": "CLX.4",
+  "section": "CLX",
+  "section_para": 4
 }

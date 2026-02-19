@@ -1,10 +1,185 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 579,
   "source_text": "الكَرِيْمُ وَالحَمْدُ لَكَ يا مَحْبُوبَ العَارِفِينَ.",
   "translation": "Praise be to Thee, O Thou Who art the Beloved of them that have known Thee!",
   "source_lang": "ar",
-  "score": 9.8
+  "score": 9.8,
+  "page_slug": "beloved-them-known-thee",
+  "alignment": [
+    {
+      "ar": "الكَرِيْمُ",
+      "en": "Thee"
+    },
+    {
+      "ar": "الحَمْدُ",
+      "en": "Praise"
+    },
+    {
+      "ar": "لَكَ",
+      "en": "to Thee"
+    },
+    {
+      "ar": "مَحْبُوبَ",
+      "en": "Beloved"
+    },
+    {
+      "ar": "العَارِفِينَ",
+      "en": "them that have known Thee"
+    }
+  ],
+  "terms": [
+    {
+      "term": "الکریم",
+      "transliteration": "k-r-m",
+      "literal": "Carmel (Mount Carmel); vineyard, fruitful field",
+      "se_rendering": "not present in translation",
+      "note": "Appears in source text but absent from SE's translation. Concordance shows 'Carmel', 'All-Bountiful', 'Gracious' as primary renderings (21 occ); omission suggests SE prioritized vocative clarity over literal comprehensiveness.",
+      "cross_refs": [
+        {
+          "work": "tablet-of-carmel",
+          "para": 4,
+          "snippet": "O Carmel"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 211,
+          "snippet": "Carmel"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 50,
+          "snippet": "the All-Bountiful"
+        },
+        {
+          "work": "gleanings",
+          "para": 234,
+          "snippet": "of immense bounteous grace"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 26,
+          "snippet": "the Gracious"
+        },
+        {
+          "work": "gleanings",
+          "para": 608,
+          "snippet": "the All-Forgiving, the Gracious"
+        },
+        {
+          "work": "gleanings",
+          "para": 642,
+          "snippet": "the Mighty, the Generous"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 144,
+          "snippet": "generosity"
+        }
+      ]
+    },
+    {
+      "term": "محبوب",
+      "transliteration": "ḥ-b-b",
+      "literal": "love; affection",
+      "se_rendering": "Beloved",
+      "note": "Rendered 'Beloved' here, singular attributive form. Typical corpus pattern includes 'beloved of the Lord' and 'loved ones'; this stripped rendering heightens divine intimacy.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 3,
+          "snippet": "beloved of the Lord"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 53,
+          "snippet": "loved ones of the Lord"
+        },
+        {
+          "work": "gleanings",
+          "para": 341,
+          "snippet": "loved ones of God"
+        },
+        {
+          "work": "gleanings",
+          "para": 689,
+          "snippet": "beloved of the one true God"
+        },
+        {
+          "work": "gleanings",
+          "para": 640,
+          "snippet": "loved ones"
+        },
+        {
+          "work": "gleanings",
+          "para": 690,
+          "snippet": "beloved of God"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 39,
+          "snippet": "His loved ones"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 10,
+          "snippet": "love for Thee"
+        }
+      ]
+    },
+    {
+      "term": "العارفین",
+      "transliteration": "ʿ-r-f",
+      "literal": "to confess; to acknowledge; to recognize",
+      "se_rendering": "have known",
+      "note": "Rendered 'have known' via participial form. Concordance shows 'testifieth' and 'acknowledged' as frequent alternates; this past-tense choice emphasizes completed recognition over ongoing testimony.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 135,
+          "snippet": "hath acknowledged"
+        },
+        {
+          "work": "gleanings",
+          "para": 568,
+          "snippet": "acknowledged"
+        },
+        {
+          "work": "gleanings",
+          "para": 295,
+          "snippet": "made objections"
+        },
+        {
+          "work": "gleanings",
+          "para": 87,
+          "snippet": "knowledge"
+        },
+        {
+          "work": "gleanings",
+          "para": 2,
+          "snippet": "perception"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 5,
+          "snippet": "acknowledging"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 4,
+          "snippet": "fragrance of His garment"
+        },
+        {
+          "work": "gleanings",
+          "para": 214,
+          "snippet": "acknowledge"
+        }
+      ]
+    }
+  ],
+  "section_index": "CXXXII.3",
+  "section": "CXXXII",
+  "section_para": 3
 }

@@ -1,10 +1,495 @@
 {
   "work": "Tablet of Carmel",
   "slug": "tablet-of-carmel",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 3,
   "source_text": "فَلمّا بَلغَ ندائها اِلی ذاکَ المَقامِ الأَعلی قُلنا يا کَرمِلُ احْمدی رَبَّکِ قَد کنتِ محترقة بِنارِ الفِراق اذاً ماج بَحرُ الوصال امامَ وَجْهِک بذلکَ قرّت عينک وَ عَيْن الوُجود وَ ابتَسَم ثغر الغَيْب وَ الشُّهُود طُوبی لَک بِما جَعَلکِ اللّه فی هذا اليَوم مَقَرّ عَرشه وَ مَطْلع آياتِه وَ مَشرِق بيّناته طُوبی لعَبْد طاف حَولکِ وَ ذَکَرَ ظهورک وَ بُرُوْزَکَ وَ ما فزتِ بهِ مِن فَضلِ اللّه رَبّک خُذی کأسَ البَقاء باسْمِ رَبّک الأبهی ثمَّ اشْکريه بما بَدَّلَ حُزنکِ بالسُّرُور وَ هَمّکِ بالفَرَح الأکبَر رَحْمةً مِنْ عندِه انّهُ يُحبُّ المَقام الّذِی اسْتَقَرَّ فيه عَرشه وَ تَشرَّفَ بقُدُومه وَ فازَ بِلقآئه وَ فيهِ ارْتفع ندائُه وَ صَعَدت زَفَراتُه",
   "translation": "No sooner had her voice reached that most exalted Spot than We made reply: ‘Render thanks unto thy Lord, O Carmel. The fire of thy separation from Me was fast consuming thee, when the ocean of My presence surged before thy face, cheering thine eyes and those of all creation, and filling with delight all things visible and invisible. Rejoice, for God hath in this Day established upon thee His throne, hath made thee the dawning-place of His signs and the dayspring of the evidences of His Revelation. Well is it with him that circleth around thee, that proclaimeth the revelation of thy glory, and recounteth that which the bounty of the Lord thy God hath showered upon thee. Seize thou the Chalice of Immortality in the name of thy Lord, the All-Glorious, and give thanks unto Him, inasmuch as He, in token of His mercy unto thee, hath turned thy sorrow into gladness, and transmuted thy grief into blissful joy. He, verily, loveth the spot which hath been made the seat of His throne, which His footsteps have trodden, which hath been honoured by His presence, from which He raised His call, and upon which He shed His tears.",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "carmel-seat-of-his-throne",
+  "alignment": [
+    {
+      "ar": "بَلغَ",
+      "en": "reached"
+    },
+    {
+      "ar": "ندائها",
+      "en": "her voice"
+    },
+    {
+      "ar": "المَقامِ الأَعلی",
+      "en": "that most exalted Spot"
+    },
+    {
+      "ar": "قُلنا",
+      "en": "We made reply"
+    },
+    {
+      "ar": "کَرمِلُ",
+      "en": "Carmel"
+    },
+    {
+      "ar": "احْمدی",
+      "en": "Render thanks"
+    },
+    {
+      "ar": "کنتِ",
+      "en": "was"
+    },
+    {
+      "ar": "محترقة",
+      "en": "consuming"
+    },
+    {
+      "ar": "نارِ",
+      "en": "fire"
+    },
+    {
+      "ar": "الفِراق",
+      "en": "thy separation"
+    },
+    {
+      "ar": "ماج",
+      "en": "surged"
+    },
+    {
+      "ar": "بَحرُ",
+      "en": "ocean"
+    },
+    {
+      "ar": "الوصال",
+      "en": "My presence"
+    },
+    {
+      "ar": "امامَ",
+      "en": "before"
+    },
+    {
+      "ar": "وَجْهِک",
+      "en": "thy face"
+    },
+    {
+      "ar": "قرّت",
+      "en": "cheering"
+    },
+    {
+      "ar": "عينک",
+      "en": "thine eyes"
+    },
+    {
+      "ar": "عَيْن الوُجود",
+      "en": "those of all creation"
+    },
+    {
+      "ar": "ابتَسَم",
+      "en": "filling with delight"
+    },
+    {
+      "ar": "ثغر",
+      "en": "things"
+    },
+    {
+      "ar": "الغَيْب",
+      "en": "invisible"
+    },
+    {
+      "ar": "طُوبی",
+      "en": "Rejoice"
+    },
+    {
+      "ar": "جَعَلکِ",
+      "en": "established upon thee"
+    },
+    {
+      "ar": "اللّه",
+      "en": "God"
+    },
+    {
+      "ar": "مَقَرّ",
+      "en": "seat"
+    },
+    {
+      "ar": "عَرشه",
+      "en": "His throne"
+    },
+    {
+      "ar": "مَطْلع",
+      "en": "the dawning-place"
+    },
+    {
+      "ar": "آياتِه",
+      "en": "His signs"
+    },
+    {
+      "ar": "مَشرِق",
+      "en": "the dayspring"
+    },
+    {
+      "ar": "بيّناته",
+      "en": "the evidences of His Revelation"
+    },
+    {
+      "ar": "طُوبی لعَبْد",
+      "en": "Well is it with him"
+    },
+    {
+      "ar": "طاف",
+      "en": "circleth"
+    },
+    {
+      "ar": "حَولکِ",
+      "en": "around thee"
+    },
+    {
+      "ar": "ذَکَرَ",
+      "en": "proclaimeth"
+    },
+    {
+      "ar": "ظهورک",
+      "en": "the revelation of thy glory"
+    },
+    {
+      "ar": "بُرُوْزَکَ",
+      "en": "recounteth"
+    },
+    {
+      "ar": "فزتِ",
+      "en": "showered"
+    },
+    {
+      "ar": "فَضلِ",
+      "en": "the bounty"
+    },
+    {
+      "ar": "رَبّک",
+      "en": "the Lord thy God"
+    },
+    {
+      "ar": "خُذی",
+      "en": "Seize thou"
+    },
+    {
+      "ar": "کأسَ",
+      "en": "the Chalice"
+    },
+    {
+      "ar": "البَقاء",
+      "en": "Immortality"
+    },
+    {
+      "ar": "باسْمِ",
+      "en": "in the name"
+    },
+    {
+      "ar": "الأبهی",
+      "en": "the All-Glorious"
+    },
+    {
+      "ar": "اشْکريه",
+      "en": "give thanks unto Him"
+    },
+    {
+      "ar": "حُزنکِ",
+      "en": "thy sorrow"
+    },
+    {
+      "ar": "هَمّکِ",
+      "en": "thy grief"
+    },
+    {
+      "ar": "الفَرَح الأکبَر",
+      "en": "blissful joy"
+    },
+    {
+      "ar": "رَحْمةً",
+      "en": "mercy"
+    },
+    {
+      "ar": "المَقام",
+      "en": "the spot"
+    },
+    {
+      "ar": "اسْتَقَرَّ",
+      "en": "been made the seat"
+    },
+    {
+      "ar": "بقُدُومه",
+      "en": "His presence"
+    },
+    {
+      "ar": "فازَ",
+      "en": "have trodden"
+    },
+    {
+      "ar": "بِلقآئه",
+      "en": "His footsteps"
+    },
+    {
+      "ar": "ارْتفع",
+      "en": "raised"
+    },
+    {
+      "ar": "ندائُه",
+      "en": "His call"
+    },
+    {
+      "ar": "صَعَدت",
+      "en": "shed"
+    },
+    {
+      "ar": "زَفَراتُه",
+      "en": "His tears"
+    }
+  ],
+  "terms": [
+    {
+      "term": "الشُّهُود",
+      "transliteration": "sh-h-d",
+      "literal": "witnessed; observed; seen; evident; manifest",
+      "se_rendering": "invisible",
+      "note": "Typical renderings include 'witness', 'testify', 'evident' across 74 occurrences. 'Invisible' here renders the paired concept with Ghayb; SE employs antonymic pairing strategy.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 607,
+          "snippet": "manifest"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 35,
+          "snippet": "evident"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 811,
+          "snippet": "I bear witness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 6,
+          "snippet": "I testify"
+        },
+        {
+          "work": "gleanings",
+          "para": 298,
+          "snippet": "witness"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 138,
+          "snippet": "martyrdom"
+        },
+        {
+          "work": "gleanings",
+          "para": 134,
+          "snippet": "God witnesseth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 230,
+          "snippet": "God testifieth"
+        }
+      ]
+    },
+    {
+      "term": "ظهورک",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "revelation of thy glory",
+      "note": "Standard rendering 'Manifestation' dominates 96 occurrences. 'Revelation of thy glory' adapts to Mount Carmel's feminine personification and avoids redundancy with prior 'Manifestations' reference.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 53,
+          "snippet": "Manifestation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 160,
+          "snippet": "Author of all Manifestations"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 136,
+          "snippet": "evident"
+        },
+        {
+          "work": "gleanings",
+          "para": 222,
+          "snippet": "material"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 206,
+          "snippet": "appeared"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 196,
+          "snippet": "Manifestations of God"
+        }
+      ]
+    },
+    {
+      "term": "البَقاء",
+      "transliteration": "b-q-y",
+      "literal": "remaining; everlasting; eternal; immortal",
+      "se_rendering": "Immortality",
+      "note": "Usually 'everlasting', 'eternal', or 'immortal' across 32 occurrences. 'Chalice of Immortality' metaphorically renders Baqa' as salvific permanence rather than abstract eternity.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 2,
+          "snippet": "the Eternal"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 88,
+          "snippet": "everlasting beauty"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 98,
+          "snippet": "everlasting candle"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 117,
+          "snippet": "immortal sovereignty"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 110,
+          "snippet": "everlasting torch of divine guidance"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 56,
+          "snippet": "refrain"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 246,
+          "snippet": "everlasting"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 259,
+          "snippet": "O thou Remnant of God"
+        }
+      ]
+    },
+    {
+      "term": "رَحْمةً",
+      "transliteration": "r-ḥ-m",
+      "literal": "merciful, compassionate; pertaining to divine mercy",
+      "se_rendering": "mercy",
+      "note": "Usually 'Divine glory', 'spirit of mercy', or 'merciful' across 70 occurrences. 'Mercy' here as abstract noun emphasizes compassionate motivation for Carmel's transformation without theological magnification.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 673,
+          "snippet": "Divine glory"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 57,
+          "snippet": "Divine"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 89,
+          "snippet": "celestial melody"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 114,
+          "snippet": "spirit of mercy"
+        },
+        {
+          "work": "gleanings",
+          "para": 372,
+          "snippet": "merciful"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 220,
+          "snippet": "have mercy on them"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 546,
+          "snippet": "mercy"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 50,
+          "snippet": "the Compassionate"
+        }
+      ]
+    },
+    {
+      "term": "يُحبُّ",
+      "transliteration": "ḥ-b-b",
+      "literal": "love; affection",
+      "se_rendering": "loveth",
+      "note": "Typically 'beloved of the Lord' or 'loved ones' across 92 occurrences. Simple 'loveth' here maintains divine subject and intimate direct address absent in nominal forms elsewhere.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 3,
+          "snippet": "beloved of the Lord"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 53,
+          "snippet": "loved ones of the Lord"
+        },
+        {
+          "work": "gleanings",
+          "para": 341,
+          "snippet": "loved ones of God"
+        },
+        {
+          "work": "gleanings",
+          "para": 689,
+          "snippet": "beloved of the one true God"
+        },
+        {
+          "work": "gleanings",
+          "para": 640,
+          "snippet": "loved ones"
+        },
+        {
+          "work": "gleanings",
+          "para": 690,
+          "snippet": "beloved of God"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 39,
+          "snippet": "His loved ones"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 10,
+          "snippet": "love for Thee"
+        }
+      ]
+    }
+  ],
+  "section_index": "3",
+  "section": "3",
+  "section_para": 1
 }

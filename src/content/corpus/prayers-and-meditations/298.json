@@ -1,10 +1,485 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 298,
   "source_text": "يْبِكَ بِأَعْلامِ نَصْرِكَ لِيَنْصُرُنَّهُمْ فِي مَمْلَكَتِكَ وَيَحْفَظُنَّهُمْ مِنْ أَعْدائِكَ، وَأَسْئَلُكَ يا إِلهِي بِاسْمِكَ الَّذيْ بِهِ أَمْطَرَتِ السَّحَابُ وَجَرَتِ الأَنْهارُ وَاشْتَعَلَتْ نَارُ الحُبِّ فِي الأَشْطَارِ بِأَنْ تَنْصُرَ عَبْدَكَ الَّذيْ أَقْبَلَ إِلَيْكَ وَنَطَقَ بِذِكْرِكَ وَأَرَادَ نُصْرَتَكَ، ثُمَّ أَثْبِتْهُ يا إِلهِي عَلَى حُبِّكَ وَدِينِكَ، هذا خَيْرٌ لَهُ عَمَّا خُلِقَ فِي أَرْضِكَ لأنَّ الدُّنْيا وَما خُلِقَ فِيها تَفْنَى وَما عِنْدَكَ يَبْقى بِدَوامِ أَسْمائِكَ الحُسْنی، فَوَعِزَّتِك لَوْ تكُونُ الدُّنْيَا باقِيَةً بِدَوَامِ مَلَكُوتِكَ لا يَنْبَغِيْ أَنْ يَتَوَجَّهَ إِلَيْها مَنْ شَرِبَ خَمْرَ الوِصالِ مِنْ أَيادِي رَحْمَتِكَ، فَكَيْفَ بَعْدَ عِلْمِهِ بِفَنَائِها وَإِيقانِهِ بِزَوالِها، وَإِنَّ تَغْيِيرَها وَتَغْيِيرَ ما فِيها فِي كُلِّ الأَحْيَانِ لَبُرْهانٌ",
   "translation": "I entreat Thee, O my God, by Thy name through which the clouds have rained down their rain, and the streams have flowed, and the fire of Thy love hath been kindled throughout Thy dominion, to assist Thy servant who hath turned towards Thee, and hath spoken forth Thy praise, and determined to help Thee. Fortify, then, his heart, O my God, in Thy love and in Thy Faith. Better is this for him than all that hath been created on Thine earth, for the world and whatsoever is therein must perish, and what pertaineth unto Thee must endure as long as Thy most excellent names endure. By Thy Glory! Were the world to last as long as Thine own kingdom will last, to set their affections upon it would still be unseemly for such as have quaffed, from the hands of Thy mercy, the wine of Thy presence; how much more when they recognize its fleetingness and are persuaded of its transience. The chances that overtake it, and the changes to which all things pertaining unto it are continually subjected, attest its impermanence.",
   "source_lang": "ar",
-  "score": 9.6
+  "score": 9.6,
+  "page_slug": "wine-of-thy-presence-eternal",
+  "alignment": [
+    {
+      "ar": "بِأَعْلامِ",
+      "en": "by"
+    },
+    {
+      "ar": "نَصْرِكَ",
+      "en": "Thy name"
+    },
+    {
+      "ar": "مَمْلَكَتِكَ",
+      "en": "Thy dominion"
+    },
+    {
+      "ar": "أَعْدائِكَ",
+      "en": ""
+    },
+    {
+      "ar": "أَسْئَلُكَ",
+      "en": "I entreat Thee"
+    },
+    {
+      "ar": "إِلهِي",
+      "en": "my God"
+    },
+    {
+      "ar": "بِاسْمِكَ",
+      "en": "by Thy name"
+    },
+    {
+      "ar": "أَمْطَرَتِ",
+      "en": "rained down"
+    },
+    {
+      "ar": "جَرَتِ",
+      "en": "flowed"
+    },
+    {
+      "ar": "الأَنْهارُ",
+      "en": "the streams"
+    },
+    {
+      "ar": "اشْتَعَلَتْ",
+      "en": "hath been kindled"
+    },
+    {
+      "ar": "نَارُ",
+      "en": "the fire"
+    },
+    {
+      "ar": "الأَشْطَارِ",
+      "en": "throughout"
+    },
+    {
+      "ar": "تَنْصُرَ",
+      "en": "to assist"
+    },
+    {
+      "ar": "عَبْدَكَ",
+      "en": "Thy servant"
+    },
+    {
+      "ar": "أَقْبَلَ",
+      "en": "hath turned"
+    },
+    {
+      "ar": "إِلَيْكَ",
+      "en": "towards Thee"
+    },
+    {
+      "ar": "نَطَقَ",
+      "en": "hath spoken forth"
+    },
+    {
+      "ar": "بِذِكْرِكَ",
+      "en": "Thy praise"
+    },
+    {
+      "ar": "أَرَادَ",
+      "en": "determined"
+    },
+    {
+      "ar": "نُصْرَتَكَ",
+      "en": "to help Thee"
+    },
+    {
+      "ar": "أَثْبِتْهُ",
+      "en": "Fortify"
+    },
+    {
+      "ar": "عَلَى",
+      "en": "in"
+    },
+    {
+      "ar": "دِينِكَ",
+      "en": "Thy Faith"
+    },
+    {
+      "ar": "خَيْرٌ",
+      "en": "Better"
+    },
+    {
+      "ar": "لَهُ",
+      "en": "for him"
+    },
+    {
+      "ar": "خُلِقَ",
+      "en": "hath been created"
+    },
+    {
+      "ar": "أَرْضِكَ",
+      "en": "Thine earth"
+    },
+    {
+      "ar": "وَما",
+      "en": "and whatsoever"
+    },
+    {
+      "ar": "خُلِقَ فِيها",
+      "en": "is therein"
+    },
+    {
+      "ar": "تَفْنَى",
+      "en": "must perish"
+    },
+    {
+      "ar": "عِنْدَكَ",
+      "en": "pertaineth unto Thee"
+    },
+    {
+      "ar": "يَبْقى",
+      "en": "must endure"
+    },
+    {
+      "ar": "بِدَوامِ",
+      "en": "as long as"
+    },
+    {
+      "ar": "أَسْمائِكَ",
+      "en": "Thy most excellent names"
+    },
+    {
+      "ar": "الحُسْنی",
+      "en": "endure"
+    },
+    {
+      "ar": "لَوْ",
+      "en": "Were"
+    },
+    {
+      "ar": "تكُونُ",
+      "en": ""
+    },
+    {
+      "ar": "باقِيَةً",
+      "en": "to last"
+    },
+    {
+      "ar": "مَلَكُوتِكَ",
+      "en": "Thine own kingdom will last"
+    },
+    {
+      "ar": "لا يَنْبَغِيْ",
+      "en": "unseemly"
+    },
+    {
+      "ar": "إِلَيْها",
+      "en": "upon it"
+    },
+    {
+      "ar": "مَنْ",
+      "en": "such as"
+    },
+    {
+      "ar": "شَرِبَ",
+      "en": "have quaffed"
+    },
+    {
+      "ar": "خَمْرَ",
+      "en": "the wine"
+    },
+    {
+      "ar": "الوِصالِ",
+      "en": "of Thy presence"
+    },
+    {
+      "ar": "أَيادِي",
+      "en": "from the hands"
+    },
+    {
+      "ar": "رَحْمَتِكَ",
+      "en": "of Thy mercy"
+    },
+    {
+      "ar": "كَيْفَ",
+      "en": "how much more"
+    },
+    {
+      "ar": "بَعْدَ",
+      "en": "when"
+    },
+    {
+      "ar": "عِلْمِهِ",
+      "en": "they recognize"
+    },
+    {
+      "ar": "بِفَنَائِها",
+      "en": "its fleetingness"
+    },
+    {
+      "ar": "إِيقانِهِ",
+      "en": "are persuaded"
+    },
+    {
+      "ar": "بِزَوالِها",
+      "en": "of its transience"
+    },
+    {
+      "ar": "تَغْيِيرَها",
+      "en": "The chances that overtake it"
+    },
+    {
+      "ar": "تَغْيِيرَ",
+      "en": "the changes"
+    },
+    {
+      "ar": "ما فِيها",
+      "en": "all things pertaining unto it"
+    },
+    {
+      "ar": "لَبُرْهانٌ",
+      "en": "attest its impermanence"
+    }
+  ],
+  "terms": [
+    {
+      "term": "عَبْدَكَ",
+      "transliteration": "ʿ-b-d",
+      "literal": "servant; slave; worshipper",
+      "se_rendering": "Thy servant",
+      "note": "Consistently 'servant' or 'Thy servant' across 68 occurrences. SE's singular form here emphasizes personal devotion of the individual supplicant rather than collective servitude.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 686,
+          "snippet": "servants"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 27,
+          "snippet": "'Abdu'l‑Bahá"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 260,
+          "snippet": "'Abdu'l-'Azíz"
+        },
+        {
+          "work": "gleanings",
+          "para": 67,
+          "snippet": "servant"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 10,
+          "snippet": "this wronged servant of Thine"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 47,
+          "snippet": "this servant of Thine"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 50,
+          "snippet": "the servants"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 12,
+          "snippet": "Thy trusted servants"
+        }
+      ]
+    },
+    {
+      "term": "الحُسْنی",
+      "transliteration": "h-s-n",
+      "literal": "goodness; beauty; excellence; good deed",
+      "se_rendering": "most excellent names",
+      "note": "Beauty/excellence root (h-s-n) at 28 occurrences. SE renders 'most excellent' here, emphasizing superlative divine names. Consistent with 'most excellent titles' rendering pattern rather than simple 'good' or 'beautiful.'",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 245,
+          "snippet": "Ḥasan"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 2,
+          "snippet": "kindly"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 21,
+          "snippet": "improve the character"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 120,
+          "snippet": "good deeds"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 3,
+          "snippet": "most excellent"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 97,
+          "snippet": "most excellent Names"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 223,
+          "snippet": "the Best of creators"
+        },
+        {
+          "work": "gleanings",
+          "para": 473,
+          "snippet": "show kindness"
+        }
+      ]
+    },
+    {
+      "term": "فَوَعِزَّتِك",
+      "transliteration": "ʿ-z-z",
+      "literal": "glory; might; honor; dignity; power; majesty",
+      "se_rendering": "By Thy Glory",
+      "note": "Glory root (ʿ-z-z) yields 'glory,' 'honor,' or 'exalted' across 49 occurrences. SE's 'By Thy Glory!' preserves the oath formula structure, marking this as emphatic divine affirmation rather than mere attribute.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 185,
+          "snippet": "glory"
+        },
+        {
+          "work": "gleanings",
+          "para": 642,
+          "snippet": "honor"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 99,
+          "snippet": "Dear"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 38,
+          "snippet": "dearly beloved"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 37,
+          "snippet": "Gracious"
+        },
+        {
+          "work": "gleanings",
+          "para": 260,
+          "snippet": "All-Glorious"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 162,
+          "snippet": "Mighty"
+        },
+        {
+          "work": "gleanings",
+          "para": 660,
+          "snippet": "powerful"
+        }
+      ]
+    },
+    {
+      "term": "بِزَوالِها",
+      "transliteration": "z-w-l",
+      "literal": "to pass away; to vanish; to disappear; to cease",
+      "se_rendering": "its transience",
+      "note": "Vanish root (z-w-l) typically 'pass away,' 'cease,' 'perisheth.' SE's 'transience' is philosophically abstract, stressing the metaphysical quality of worldly impermanence rather than physical dissolution.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 306,
+          "snippet": "cease"
+        },
+        {
+          "work": "gleanings",
+          "para": 555,
+          "snippet": "pass away"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 2,
+          "snippet": "declineth not"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 113,
+          "snippet": "perisheth"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 158,
+          "snippet": "fade away"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 266,
+          "snippet": "eventide"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 62,
+          "snippet": "imperishable"
+        }
+      ]
+    },
+    {
+      "term": "لَبُرْهانٌ",
+      "transliteration": "b-r-h-n",
+      "literal": "proof, evidence, demonstration, argument",
+      "se_rendering": "attest its impermanence",
+      "note": "Proof root (b-r-h-n) across 14 occurrences yields 'proof,' 'His proof,' 'Proof.' SE's 'attest' as passive voice shifts from rational demonstration to perceptual witness, making impermanence self-evident through observation.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 218,
+          "snippet": "proofs"
+        },
+        {
+          "work": "gleanings",
+          "para": 510,
+          "snippet": "His proof"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 133,
+          "snippet": "proof"
+        },
+        {
+          "work": "gleanings",
+          "para": 140,
+          "snippet": "nakedness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 69,
+          "snippet": "be fully persuaded"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 73,
+          "snippet": "become clear and manifest"
+        },
+        {
+          "work": "gleanings",
+          "para": 105,
+          "snippet": "repeatedly demonstrated"
+        }
+      ]
+    }
+  ],
+  "section_index": "LXX.4",
+  "section": "LXX",
+  "section_para": 4
 }

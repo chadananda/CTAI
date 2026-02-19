@@ -1,10 +1,531 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 801,
   "source_text": "خَلْقِكَ، فَلَكَ الحَمْدُ يا إِلهِي عَلَى ما قَضَيْتَ بِسُلْطانِ قَضائِكَ وَتَقْضِي بِتَقْدِيرِكَ وَإِمْضائِكَ، أَسْئَلُكَ يا مَحْبُوبِي بِاسْمِكَ الَّذِيْ بِهِ رُفِعَتْ أَعْلامُ أَمْرِكَ وَأَشْرَقَتْ أَنْوارُ وَجْهِكَ بِأَنْ تُنْزِلَ عَلَيَّ وَعَلَى المُخْلِصِينَ مِنْ عِبادِكَ كُلَّ خَيرٍ قَدَّرْتَهُ فِي الأَلْواحِ، ثُمَّ اجْعَلْ لَنا مَقْعَدَ صِدْقٍ عِنْدَكَ يا مَنْ بِيَدِكَ مَلَكُوتُ كُلِّ شَيْءٍ وَإِنَّكَ",
   "translation": "I give Thee thanks, O my God, that Thou hast decided through the power of Thy decree, and wilt continue to decide through Thine irrevocable appointment and purpose. I entreat Thee, O my Beloved, by Thy Name through which Thou didst lift up the ensigns of Thy Cause, and shed the splendors of the light of Thy countenance, to send down upon me and upon such of Thy servants as are wholly devoted to Thee all the good Thou hast ordained in Thy Tablets. Establish us, then, upon the seats of truth in Thy presence, O Thou in Whose hands is the kingdom of all things!",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "seats-of-truth-in-thy-presence",
+  "alignment": [
+    {
+      "ar": "فَلَكَ",
+      "en": "Thee"
+    },
+    {
+      "ar": "الحَمْدُ",
+      "en": "thanks"
+    },
+    {
+      "ar": "إِلهِي",
+      "en": "my God"
+    },
+    {
+      "ar": "عَلَى",
+      "en": "that"
+    },
+    {
+      "ar": "قَضَيْتَ",
+      "en": "decided"
+    },
+    {
+      "ar": "بِسُلْطانِ",
+      "en": "through the power"
+    },
+    {
+      "ar": "قَضائِكَ",
+      "en": "Thy decree"
+    },
+    {
+      "ar": "وَتَقْضِي",
+      "en": "wilt continue to decide"
+    },
+    {
+      "ar": "بِتَقْدِيرِكَ",
+      "en": "Thine irrevocable"
+    },
+    {
+      "ar": "وَإِمْضائِكَ",
+      "en": "appointment and purpose"
+    },
+    {
+      "ar": "أَسْئَلُكَ",
+      "en": "entreat Thee"
+    },
+    {
+      "ar": "مَحْبُوبِي",
+      "en": "my Beloved"
+    },
+    {
+      "ar": "بِاسْمِكَ",
+      "en": "by Thy Name"
+    },
+    {
+      "ar": "بِهِ",
+      "en": "through which"
+    },
+    {
+      "ar": "رُفِعَتْ",
+      "en": "lift up"
+    },
+    {
+      "ar": "أَعْلامُ",
+      "en": "ensigns"
+    },
+    {
+      "ar": "أَمْرِكَ",
+      "en": "Thy Cause"
+    },
+    {
+      "ar": "وَأَشْرَقَتْ",
+      "en": "shed the splendors"
+    },
+    {
+      "ar": "أَنْوارُ",
+      "en": "the light"
+    },
+    {
+      "ar": "وَجْهِكَ",
+      "en": "Thy countenance"
+    },
+    {
+      "ar": "بِأَنْ",
+      "en": "to"
+    },
+    {
+      "ar": "تُنْزِلَ",
+      "en": "send down"
+    },
+    {
+      "ar": "وَعَلَى",
+      "en": "and upon"
+    },
+    {
+      "ar": "المُخْلِصِينَ",
+      "en": "wholly devoted"
+    },
+    {
+      "ar": "مِنْ",
+      "en": "of"
+    },
+    {
+      "ar": "عِبادِكَ",
+      "en": "Thy servants"
+    },
+    {
+      "ar": "خَيرٍ",
+      "en": "the good"
+    },
+    {
+      "ar": "فِي",
+      "en": "in"
+    },
+    {
+      "ar": "الأَلْواحِ",
+      "en": "Thy Tablets"
+    },
+    {
+      "ar": "اجْعَلْ",
+      "en": "Establish"
+    },
+    {
+      "ar": "لَنا",
+      "en": "us"
+    },
+    {
+      "ar": "مَقْعَدَ",
+      "en": "seats"
+    },
+    {
+      "ar": "صِدْقٍ",
+      "en": "truth"
+    },
+    {
+      "ar": "عِنْدَكَ",
+      "en": "in Thy presence"
+    },
+    {
+      "ar": "يا",
+      "en": "O"
+    },
+    {
+      "ar": "مَنْ",
+      "en": "Thou"
+    },
+    {
+      "ar": "بِيَدِكَ",
+      "en": "in Whose hands"
+    },
+    {
+      "ar": "مَلَكُوتُ",
+      "en": "kingdom"
+    },
+    {
+      "ar": "شَيْءٍ",
+      "en": "things"
+    }
+  ],
+  "terms": [
+    {
+      "term": "الحَمْدُ",
+      "transliteration": "h-m-d",
+      "literal": "praise; to praise",
+      "se_rendering": "thanks",
+      "note": "Typically 'praise' or 'All praise' across 25 occurrences; rendered here as 'thanks,' a more gratitude-focused variant reflecting the passage's tone of acknowledgment rather than laudation.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "All praise"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 2,
+          "snippet": "Praise be"
+        },
+        {
+          "work": "gleanings",
+          "para": 717,
+          "snippet": "All praise be"
+        },
+        {
+          "work": "gleanings",
+          "para": 186,
+          "snippet": "the All-Praised"
+        },
+        {
+          "work": "gleanings",
+          "para": 231,
+          "snippet": "glorious"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 159,
+          "snippet": "glorious station"
+        },
+        {
+          "work": "gleanings",
+          "para": 260,
+          "snippet": "All-Praised"
+        },
+        {
+          "work": "gleanings",
+          "para": 266,
+          "snippet": "praiseworthy"
+        }
+      ]
+    },
+    {
+      "term": "بِسُلْطانِ",
+      "transliteration": "s-l-ṭ",
+      "literal": "dominion; authority; power; sovereignty; control",
+      "se_rendering": "power",
+      "note": "Common rendering 'sovereignty' or 'dominion' in 43 occurrences; 'power' here emphasizes divine efficacy and decisional authority over abstract rulership.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 369,
+          "snippet": "sovereignty"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 151,
+          "snippet": "dominion"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 13,
+          "snippet": "O King"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 157,
+          "snippet": "the Sháh"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 1,
+          "snippet": "the King"
+        },
+        {
+          "work": "gleanings",
+          "para": 472,
+          "snippet": "King (Sulṭán 'Abdu'l-'Azíz)"
+        },
+        {
+          "work": "gleanings",
+          "para": 236,
+          "snippet": "the Sulṭán"
+        },
+        {
+          "work": "gleanings",
+          "para": 592,
+          "snippet": "by virtue of His sovereignty"
+        }
+      ]
+    },
+    {
+      "term": "محبوبِي",
+      "transliteration": "ḥ-b-b",
+      "literal": "love; affection",
+      "se_rendering": "Beloved",
+      "note": "Standard form 'Beloved' aligns with corpus frequency (92 occ.); this direct vocative intensifies intimate petition within the prayer's rhetorical structure.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 3,
+          "snippet": "beloved of the Lord"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 53,
+          "snippet": "loved ones of the Lord"
+        },
+        {
+          "work": "gleanings",
+          "para": 341,
+          "snippet": "loved ones of God"
+        },
+        {
+          "work": "gleanings",
+          "para": 689,
+          "snippet": "beloved of the one true God"
+        },
+        {
+          "work": "gleanings",
+          "para": 640,
+          "snippet": "loved ones"
+        },
+        {
+          "work": "gleanings",
+          "para": 690,
+          "snippet": "beloved of God"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 39,
+          "snippet": "His loved ones"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 10,
+          "snippet": "love for Thee"
+        }
+      ]
+    },
+    {
+      "term": "أَمْرِكَ",
+      "transliteration": "ʾ-m-r",
+      "literal": "command; cause; matter; affair",
+      "se_rendering": "Cause",
+      "note": "Predominantly 'Cause' (75 occ.) in Bahá'í contexts; this rendering anchors divine purpose to the revealed religion, not generic 'command' or 'matter.'",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "His Cause"
+        },
+        {
+          "work": "gleanings",
+          "para": 586,
+          "snippet": "His command"
+        },
+        {
+          "work": "gleanings",
+          "para": 691,
+          "snippet": "His Revelation"
+        },
+        {
+          "work": "gleanings",
+          "para": 723,
+          "snippet": "Cause"
+        },
+        {
+          "work": "gleanings",
+          "para": 8,
+          "snippet": "Revelation"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 167,
+          "snippet": "things"
+        },
+        {
+          "work": "gleanings",
+          "para": 524,
+          "snippet": "your affairs"
+        },
+        {
+          "work": "gleanings",
+          "para": 495,
+          "snippet": "affairs"
+        }
+      ]
+    },
+    {
+      "term": "أَنْوارُ",
+      "transliteration": "n-w-ʿ",
+      "literal": "type; kind; species",
+      "se_rendering": "splendors",
+      "note": "Root n-w-ʿ typically means 'types/kinds'; here 'splendors' metaphorically extends to divine radiance, diverging from literal categorical sense.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 4,
+          "snippet": "all manner of"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 27,
+          "snippet": "light"
+        },
+        {
+          "work": "gleanings",
+          "para": 674,
+          "snippet": "sing ye"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 25,
+          "snippet": "mankind"
+        },
+        {
+          "work": "gleanings",
+          "para": 144,
+          "snippet": "such"
+        },
+        {
+          "work": "gleanings",
+          "para": 515,
+          "snippet": "by the lights"
+        }
+      ]
+    },
+    {
+      "term": "تُنْزِلَ",
+      "transliteration": "n-z-l",
+      "literal": "to descend, to be revealed",
+      "se_rendering": "send down",
+      "note": "Consistent 'send down' rendering (88 occ.) maintains revelation vocabulary; reinforces descending grace model central to Bahá'í theology.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 643,
+          "snippet": "sent down"
+        },
+        {
+          "work": "gleanings",
+          "para": 218,
+          "snippet": "revealed"
+        },
+        {
+          "work": "gleanings",
+          "para": 656,
+          "snippet": "descended"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 34,
+          "snippet": "Descend"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 40,
+          "snippet": "were revealed"
+        },
+        {
+          "work": "gleanings",
+          "para": 604,
+          "snippet": "have been sent down"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 16,
+          "snippet": "hath been sent down"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 171,
+          "snippet": "which have been sent down"
+        }
+      ]
+    },
+    {
+      "term": "المُخْلِصِينَ",
+      "transliteration": "kh-l-s",
+      "literal": "sincere; devoted; pure one",
+      "se_rendering": "wholly devoted",
+      "note": "Root kh-l-s yields 'devoted' here; corpus shows spectrum 'sincere/devoted/pure' (20 occ.); 'wholly devoted' emphasizes exclusivity and absolute commitment.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 187,
+          "snippet": "devoted"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 1,
+          "snippet": "the sincere"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 44,
+          "snippet": "insincere"
+        },
+        {
+          "work": "gleanings",
+          "para": 233,
+          "snippet": "the sincere lovers of God"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 72,
+          "snippet": "pure"
+        },
+        {
+          "work": "gleanings",
+          "para": 667,
+          "snippet": "purely"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 191,
+          "snippet": "free thyself"
+        }
+      ]
+    },
+    {
+      "term": "الأَلْواحِ",
+      "transliteration": "l-w-h",
+      "literal": "tablet; panel; divine decree; revelation",
+      "se_rendering": "Tablets",
+      "note": "Standard 'Tablets' (16 occ.) preserves Bahá'í scriptural terminology; refers to divine decrees as written revelation, maintaining sacred-text associations.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 218,
+          "snippet": "Lawh-i-Fu'ad"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 245,
+          "snippet": "Tablets"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 112,
+          "snippet": "Tablet"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 7,
+          "snippet": "a document"
+        }
+      ]
+    }
+  ],
+  "section_index": "CLXXIX.16",
+  "section": "CLXXIX",
+  "section_para": 16
 }

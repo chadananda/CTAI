@@ -1,10 +1,496 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 573,
   "source_text": "مستقيم ثمّ اعلموا بأنّ الدّنيا هي غفلتكم عن موجدكم و‌اشتغالكم بما سويٰه و‌الآخرة ما يقرّبكم إلی اللّه العزيز الجميل و‌كلّما يمنعكم اليوم عن حبّ اللّه إنّها لهي الدّنيا أن اجتنبوا منها لتكوننّ من المفلحين إنّ الّذي لن يمنعه شيء عن اللّه لا بأس عليه لو يزيّن نفسه بحلل الأرض و‌زينتها و‌ما خلق فيها لأنّ اللّه خلق كلّ ما في السّموات و‌الأرض لعباده الموحّدين كُلُوا يا قوم ما أحلّ اللّه عليكم و‌لا تحرّموا أنفسكم عن بدايع نعمائه ثمّ اشكروه و‌كونوا من الشّاكرين يا أيّها المهاجر إلی اللّه بلّغ النّاس رسالات ربّك لعلّ يمن",
   "translation": "Know ye that by “the world” is meant your unawareness of Him Who is your Maker, and your absorption in aught else but Him. The “life to come,” on the other hand, signifieth the things that give you a safe approach to God, the All-Glorious, the Incomparable. Whatsoever deterreth you, in this Day, from loving God is nothing but the world. Flee it, that ye may be numbered with the blest. Should a man wish to adorn himself with the ornaments of the earth, to wear its apparels, or partake of the benefits it can bestow, no harm can befall him, if he alloweth nothing whatever to intervene between him and God, for God hath ordained every good thing, whether created in the heavens or in the earth, for such of His servants as truly believe in Him. Eat ye, O people, of the good things which God hath allowed you, and deprive not yourselves from His wondrous bounties. Render thanks and praise unto Him, and be of them that are truly thankful.",
   "source_lang": "ar",
-  "score": 9.5
+  "score": 9.5,
+  "page_slug": "nothing-intervene-between-god",
+  "alignment": [
+    {
+      "ar": "مستقيم",
+      "en": "safe approach"
+    },
+    {
+      "ar": "اعلموا",
+      "en": "Know ye"
+    },
+    {
+      "ar": "الدّنيا",
+      "en": "the world"
+    },
+    {
+      "ar": "غفلتكم",
+      "en": "your unawareness"
+    },
+    {
+      "ar": "موجدكم",
+      "en": "your Maker"
+    },
+    {
+      "ar": "اشتغالكم",
+      "en": "your absorption"
+    },
+    {
+      "ar": "سويٰه",
+      "en": "aught else but Him"
+    },
+    {
+      "ar": "الآخرة",
+      "en": "life to come"
+    },
+    {
+      "ar": "يقرّبكم",
+      "en": "give you a safe approach"
+    },
+    {
+      "ar": "اللّه",
+      "en": "God"
+    },
+    {
+      "ar": "العزيز",
+      "en": "All-Glorious"
+    },
+    {
+      "ar": "الجميل",
+      "en": "Incomparable"
+    },
+    {
+      "ar": "كلّما",
+      "en": "Whatsoever"
+    },
+    {
+      "ar": "يمنعكم",
+      "en": "deterreth you"
+    },
+    {
+      "ar": "اليوم",
+      "en": "this Day"
+    },
+    {
+      "ar": "حبّ",
+      "en": "loving"
+    },
+    {
+      "ar": "إنّها",
+      "en": "is nothing but"
+    },
+    {
+      "ar": "اجتنبوا",
+      "en": "Flee"
+    },
+    {
+      "ar": "منها",
+      "en": "it"
+    },
+    {
+      "ar": "لتكوننّ",
+      "en": "that ye may be numbered"
+    },
+    {
+      "ar": "المفلحين",
+      "en": "the blest"
+    },
+    {
+      "ar": "إنّ الّذي",
+      "en": "Should a man"
+    },
+    {
+      "ar": "لن يمنعه",
+      "en": "if he alloweth nothing whatever to intervene"
+    },
+    {
+      "ar": "شيء",
+      "en": "nothing whatever"
+    },
+    {
+      "ar": "لا بأس عليه",
+      "en": "no harm can befall him"
+    },
+    {
+      "ar": "يزيّن",
+      "en": "adorn"
+    },
+    {
+      "ar": "نفسه",
+      "en": "himself"
+    },
+    {
+      "ar": "بحلل",
+      "en": "ornaments"
+    },
+    {
+      "ar": "الأرض",
+      "en": "the earth"
+    },
+    {
+      "ar": "زينتها",
+      "en": "its apparels"
+    },
+    {
+      "ar": "ما خلق فيها",
+      "en": "benefits it can bestow"
+    },
+    {
+      "ar": "خلق",
+      "en": "ordained"
+    },
+    {
+      "ar": "كلّ",
+      "en": "every"
+    },
+    {
+      "ar": "السّموات",
+      "en": "the heavens"
+    },
+    {
+      "ar": "لعباده",
+      "en": "for such of His servants"
+    },
+    {
+      "ar": "الموحّدين",
+      "en": "truly believe in Him"
+    },
+    {
+      "ar": "كُلُوا",
+      "en": "Eat ye"
+    },
+    {
+      "ar": "قوم",
+      "en": "people"
+    },
+    {
+      "ar": "أحلّ",
+      "en": "allowed"
+    },
+    {
+      "ar": "لا تحرّموا",
+      "en": "deprive not"
+    },
+    {
+      "ar": "أنفسكم",
+      "en": "yourselves"
+    },
+    {
+      "ar": "بدايع",
+      "en": "wondrous"
+    },
+    {
+      "ar": "نعمائه",
+      "en": "bounties"
+    },
+    {
+      "ar": "اشكروه",
+      "en": "Render thanks and praise unto Him"
+    },
+    {
+      "ar": "كونوا",
+      "en": "be"
+    },
+    {
+      "ar": "الشّاكرين",
+      "en": "truly thankful"
+    }
+  ],
+  "terms": [
+    {
+      "term": "غفلتكم",
+      "transliteration": "gh-f-l",
+      "literal": "heedlessness; negligence; inattention",
+      "se_rendering": "unawareness",
+      "note": "",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 158,
+          "snippet": "O heedless one"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 134,
+          "snippet": "thou who hast gone astray"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 156,
+          "snippet": "thou who art gone astray"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 178,
+          "snippet": "heedless"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 6,
+          "snippet": "my heedlessness"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 90,
+          "snippet": "Essence of Negligence"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 95,
+          "snippet": "couch of heedlessness"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 152,
+          "snippet": "Children of Negligence"
+        }
+      ]
+    },
+    {
+      "term": "موجدكم",
+      "transliteration": "w-j-d",
+      "literal": "to find; to discover; to obtain",
+      "se_rendering": "Maker",
+      "note": "",
+      "cross_refs": [
+        {
+          "work": "the-hidden-words",
+          "para": 91,
+          "snippet": "adorned"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 27,
+          "snippet": "found"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 215,
+          "snippet": "mentioned"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 69,
+          "snippet": "aware"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 783,
+          "snippet": "point of creation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 832,
+          "snippet": "being"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 214,
+          "snippet": "is led"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 291,
+          "snippet": "all created things"
+        }
+      ]
+    },
+    {
+      "term": "يقرّبكم",
+      "transliteration": "q-r-b",
+      "literal": "place of sacrifice; altar",
+      "se_rendering": "give you a safe approach",
+      "note": "",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 3,
+          "snippet": "unto the place of sacrifice"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 35,
+          "snippet": "my kindred"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 159,
+          "snippet": "their kindred"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 101,
+          "snippet": "draw near unto"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 430,
+          "snippet": "drawn nigh"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 98,
+          "snippet": "drawing near"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 245,
+          "snippet": "draweth near"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 163,
+          "snippet": "at hand"
+        }
+      ]
+    },
+    {
+      "term": "اجتنبوا",
+      "transliteration": "j-n-b",
+      "literal": "to avoid; to shun; to keep away from",
+      "se_rendering": "Flee",
+      "note": "Root j-n-b usually 'avoid,' 'shun,' or 'shun and avoid' (16 occ). SE selects 'Flee,' intensifying urgency and emotional valence compared to cooler avoidance language.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 40,
+          "snippet": "shun and avoid"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 166,
+          "snippet": "O Shaykh"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 257,
+          "snippet": "Dayyan"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 249,
+          "snippet": "Aqá Siyyid Yahyá"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 53,
+          "snippet": "thou"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 119,
+          "snippet": "Káẓim"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 147,
+          "snippet": "Wert thou"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 15,
+          "snippet": "upon the wings"
+        }
+      ]
+    },
+    {
+      "term": "الموحّدين",
+      "transliteration": "w-h-d",
+      "literal": "Divine unity; monotheism; belief in the oneness of God",
+      "se_rendering": "truly believe in Him",
+      "note": "Root w-h-d typically renders as 'unity,' 'oneness,' or 'Divine unity' (56 occ). SE expands to 'truly believe in Him,' unpacking theological monotheism into actual faith commitment.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 69,
+          "snippet": "Tawhid"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 167,
+          "snippet": "one"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 682,
+          "snippet": "once"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 49,
+          "snippet": "alone"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 647,
+          "snippet": "Thy unity"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 285,
+          "snippet": "Thy oneness"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 249,
+          "snippet": "unique"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 1,
+          "snippet": "the One"
+        }
+      ]
+    },
+    {
+      "term": "بلّغ",
+      "transliteration": "b-l-gh",
+      "literal": "to reach; to attain; to deliver; to proclaim",
+      "se_rendering": "proclaim",
+      "note": "Root b-l-gh renders variously: 'reached,' 'proclaim the Cause,' 'Teaching the Cause,' 'diffusion of Light' (11 occ). 'Proclaim' here privileges declarative apostolic function over passive arrival.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 352,
+          "snippet": "they have reached"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 14,
+          "snippet": "Teaching the Cause"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 263,
+          "snippet": "proclaim the Cause of God"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 56,
+          "snippet": "the diffusion of the Light of Faith"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 8,
+          "snippet": "hath reached"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 44,
+          "snippet": "reached"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 68,
+          "snippet": "that it may bring thee unto"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 103,
+          "snippet": "We have heard"
+        }
+      ]
+    }
+  ],
+  "section_index": "CXXVIII.4",
+  "section": "CXXVIII",
+  "section_para": 4
 }

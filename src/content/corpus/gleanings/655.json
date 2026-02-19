@@ -1,10 +1,513 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 655,
   "source_text": "جمیع را مشتعل نماید قل یا الهی و محبوبی و محرّکی و مجذبی و المنادی فی قلبی و محبوب سرّی لک الحمد بما جعلتنی مقبلاً الی وجهک و مشتعلاً بذکرک و منادیاً باسمک و ناطقاً بثنائک\nای ربّ ای ربّ ان لم تظهر الغفلة من این نصبت اعلام رحمتک و رفعت رایات کرمک و ان لم یعلن الخطآء کیف یعلم بأنّک انت السّتّار الغفّار العلیم الحکیم نفسی لغفلة غافلیک الفدآء بما مرّت عن ورائها نسمات رحمة اسمک الرّحمن الرّحیم ذاتی لذنب مذنبیک الفدآء بما عرفت به اریاح فضلک و تضوّعات مسک الطافک کینونتی لعصیان عاصیک الفدآء لأنّ به اشرقت شمس مواهبک من افق",
   "translation": "My God, my God! If none be found to stray from Thy path, how, then, can the ensign of Thy mercy be unfurled, or the banner of Thy bountiful favor be hoisted? And if iniquity be not committed, what is it that can proclaim Thee to be the Concealer of men’s sins, the Ever-Forgiving, the Omniscient, the All-Wise? May my soul be a sacrifice to the trespasses of them that trespass against Thee, for upon such trespasses are wafted the sweet savors of the tender mercies of Thy Name, the Compassionate, the All-Merciful. May my life be laid down for the transgressions of such as transgress against Thee, for through them the breath of Thy grace and the fragrance of Thy loving-kindness are made known and diffused amongst men. May my inmost being be offered up for the sins of them that have sinned against Thee, for it is as a result of such sins that the Daystar of Thy manifold favors revealeth itself above the horizon of Thy bounty, and the clouds of Thy never-failing providence rain down their gifts upon the realities of all created things.",
   "source_lang": "ar",
-  "score": 9.8
+  "score": 9.8,
+  "page_slug": "daystar-manifold-favors",
+  "alignment": [
+    {
+      "ar": "قل",
+      "en": "My God, my God!"
+    },
+    {
+      "ar": "الهی",
+      "en": "My God"
+    },
+    {
+      "ar": "ای ربّ ای ربّ",
+      "en": "My God, my God"
+    },
+    {
+      "ar": "ان لم تظهر",
+      "en": "If none be found"
+    },
+    {
+      "ar": "الغفلة",
+      "en": "to stray"
+    },
+    {
+      "ar": "من این",
+      "en": "from Thy path"
+    },
+    {
+      "ar": "نصبت",
+      "en": "be hoisted"
+    },
+    {
+      "ar": "اعلام",
+      "en": "ensign"
+    },
+    {
+      "ar": "رحمتک",
+      "en": "Thy mercy"
+    },
+    {
+      "ar": "رفعت",
+      "en": "be unfurled"
+    },
+    {
+      "ar": "رایات",
+      "en": "banner"
+    },
+    {
+      "ar": "کرمک",
+      "en": "Thy bountiful favor"
+    },
+    {
+      "ar": "ان لم یعلن",
+      "en": "if iniquity be not committed"
+    },
+    {
+      "ar": "الخطآء",
+      "en": "iniquity"
+    },
+    {
+      "ar": "کیف یعلم",
+      "en": "what is it that can proclaim"
+    },
+    {
+      "ar": "بأنّک",
+      "en": "Thee to be"
+    },
+    {
+      "ar": "انت",
+      "en": "Thee"
+    },
+    {
+      "ar": "الغفّار",
+      "en": "the Ever-Forgiving"
+    },
+    {
+      "ar": "العلیم",
+      "en": "the Omniscient"
+    },
+    {
+      "ar": "الحکیم",
+      "en": "the All-Wise"
+    },
+    {
+      "ar": "نفسی",
+      "en": "May my soul"
+    },
+    {
+      "ar": "لغفلة",
+      "en": "to the trespasses"
+    },
+    {
+      "ar": "غافلیک",
+      "en": "of them that trespass against Thee"
+    },
+    {
+      "ar": "الفدآء",
+      "en": "be a sacrifice"
+    },
+    {
+      "ar": "بما مرّت",
+      "en": "are wafted"
+    },
+    {
+      "ar": "عن ورائها",
+      "en": "upon such trespasses"
+    },
+    {
+      "ar": "نسمات",
+      "en": "the sweet savors"
+    },
+    {
+      "ar": "رحمة",
+      "en": "the tender mercies"
+    },
+    {
+      "ar": "اسمک",
+      "en": "Thy Name"
+    },
+    {
+      "ar": "الرّحمن",
+      "en": "the Compassionate"
+    },
+    {
+      "ar": "الرّحیم",
+      "en": "the All-Merciful"
+    },
+    {
+      "ar": "ذاتی",
+      "en": "May my life"
+    },
+    {
+      "ar": "لذنب",
+      "en": "for the transgressions"
+    },
+    {
+      "ar": "مذنبیک",
+      "en": "of such as transgress against Thee"
+    },
+    {
+      "ar": "عرفت",
+      "en": "are made known"
+    },
+    {
+      "ar": "اریاح",
+      "en": "the breath"
+    },
+    {
+      "ar": "فضلک",
+      "en": "Thy grace"
+    },
+    {
+      "ar": "تضوّعات",
+      "en": "the fragrance"
+    },
+    {
+      "ar": "مسک",
+      "en": "fragrance"
+    },
+    {
+      "ar": "الطافک",
+      "en": "Thy loving-kindness"
+    },
+    {
+      "ar": "کینونتی",
+      "en": "May my inmost being"
+    },
+    {
+      "ar": "لعصیان",
+      "en": "for the sins"
+    },
+    {
+      "ar": "عاصیک",
+      "en": "of them that have sinned against Thee"
+    },
+    {
+      "ar": "لأنّ به",
+      "en": "for it is as a result of such sins"
+    },
+    {
+      "ar": "اشرقت",
+      "en": "revealeth itself"
+    },
+    {
+      "ar": "شمس",
+      "en": "the Daystar"
+    },
+    {
+      "ar": "مواهبک",
+      "en": "Thy manifold favors"
+    },
+    {
+      "ar": "من افق",
+      "en": "above the horizon"
+    }
+  ],
+  "terms": [
+    {
+      "term": "الغفلة",
+      "transliteration": "gh-f-l",
+      "literal": "heedlessness; negligence; inattention",
+      "se_rendering": "stray from Thy path",
+      "note": "Corpus shows 'heedless' and 'negligence' forms dominate. Here inverted into verbal phrase 'stray from Thy path'—SE transposes the concept of heedlessness into active disobedience.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 158,
+          "snippet": "O heedless one"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 134,
+          "snippet": "thou who hast gone astray"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 156,
+          "snippet": "thou who art gone astray"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 178,
+          "snippet": "heedless"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 6,
+          "snippet": "my heedlessness"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 90,
+          "snippet": "Essence of Negligence"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 95,
+          "snippet": "couch of heedlessness"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 152,
+          "snippet": "Children of Negligence"
+        }
+      ]
+    },
+    {
+      "term": "رحمتک",
+      "transliteration": "r-ḥ-m",
+      "literal": "merciful, compassionate; pertaining to divine mercy",
+      "se_rendering": "mercy",
+      "note": "Usually 'merciful' or 'spirit of mercy' across 70 renderings. Here simply 'mercy'—a rare nominal rendering that emphasizes divine attribute over descriptive quality.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 57,
+          "snippet": "Divine"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 89,
+          "snippet": "celestial melody"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 114,
+          "snippet": "spirit of mercy"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 220,
+          "snippet": "have mercy on them"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 546,
+          "snippet": "mercy"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 50,
+          "snippet": "the Compassionate"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 793,
+          "snippet": "have mercy upon them"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 47,
+          "snippet": "Thy mercy"
+        }
+      ]
+    },
+    {
+      "term": "الستار",
+      "transliteration": "s-t-r",
+      "literal": "to veil; to conceal; to cover; veil; covering",
+      "se_rendering": "Concealer",
+      "note": "Standard 'concealment' or 'veil' in corpus. Here 'Concealer' (nominal agent)—SE transforms abstract concealment into an active divine attribute paired with 'Ever-Forgiving'.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 8,
+          "snippet": "concealed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 17,
+          "snippet": "hidden"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 35,
+          "snippet": "star"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 46,
+          "snippet": "tabernacle"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 45,
+          "snippet": "Concealer"
+        }
+      ]
+    },
+    {
+      "term": "الفدآء",
+      "transliteration": "f-d-y",
+      "literal": "to sacrifice; to ransom; to redeem",
+      "se_rendering": "sacrifice",
+      "note": "Consistently 'sacrifice' across 22 renderings. Here maintained exactly—yet deployed three times structurally to create emphatic parallelism ('soul', 'life', 'inmost being') absent in corpus.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 808,
+          "snippet": "sacrifice"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 257,
+          "snippet": "sacrifice unto Him"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 17,
+          "snippet": "whose soul be glorified"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 74,
+          "snippet": "may the life of all be a sacrifice unto Him"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 270,
+          "snippet": "to renew"
+        }
+      ]
+    },
+    {
+      "term": "لعصیان",
+      "transliteration": "ʿ-ṣ-y",
+      "literal": "disobey; transgress; rebel",
+      "se_rendering": "sins",
+      "note": "Corpus alternates 'transgress', 'rebellion', 'disobedience'. Here 'sins'—SE softens the juridical tone to pastoral compassion, aligning with the passage's theology of redemptive transgression.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 169,
+          "snippet": "the most guilty among them that have transgressed"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 96,
+          "snippet": "rebellion"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 187,
+          "snippet": "iniquity"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 58,
+          "snippet": "obeyeth him not"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 32,
+          "snippet": "unversed"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 35,
+          "snippet": "sin"
+        }
+      ]
+    },
+    {
+      "term": "اشرقت",
+      "transliteration": "sh-r-q",
+      "literal": "radiance; splendor; dawn; illumination",
+      "se_rendering": "Daystar",
+      "note": "Typically 'radiance' or 'revelation' across 63 occurrences. Here 'Daystar'—a luminous metaphor that embodies dawning light with personal agency, heightening mystical intensity.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 47,
+          "snippet": "Ishraq"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 28,
+          "snippet": "radiance"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 83,
+          "snippet": "Daystar"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 41,
+          "snippet": "dawning"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 116,
+          "snippet": "shone"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 2,
+          "snippet": "shining"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 14,
+          "snippet": "Dawning Place"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 186,
+          "snippet": "dayspring"
+        }
+      ]
+    },
+    {
+      "term": "مواهبک",
+      "transliteration": "w-h-b",
+      "literal": "gift; grant; bestowal",
+      "se_rendering": "manifold favors",
+      "note": "Usually 'gift' or 'divine gift' across 26 occurrences. Here 'manifold favors'—SE pluralizes and adds 'manifold' to amplify abundance and diversity of divine bestowal.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 56,
+          "snippet": "gift"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 226,
+          "snippet": "the Bestower"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 504,
+          "snippet": "of bounty"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 99,
+          "snippet": "the direction of Thy gifts"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 793,
+          "snippet": "wonders of Thine aid"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 263,
+          "snippet": "source of Thy gifts"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 715,
+          "snippet": "heaven of Thy gifts"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 15,
+          "snippet": "Possessor of all gifts"
+        }
+      ]
+    }
+  ],
+  "section_index": "CXLII.7",
+  "section": "CXLII",
+  "section_para": 7
 }

@@ -1,10 +1,311 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 440,
   "source_text": "كْرِ تَشْهَدُ بِنِسْيَانِهَا وَمَحْوِهَا عِنْدَ ظُهُوراتِ آيَاتِكَ وَبُرُوزَاتِ ذِكْرِكَ، فَلَمَّا كانَ الأَمْرُ كَذلِكَ ما يَفْعَلُ هذا الفَقِيرُ وَبِأَيِّ حَبْلٍ يَتَمَسَّكُ هذ",
   "translation": "The quintessence of knowledge, O my Lord, proclaimeth its powerlessness to know Thee, and perplexity, in its very soul, confesseth its bewilderment in the face of the revelations of Thy sovereign might, and remembrance, in its inmost spirit, acknowledgeth its forgetfulness and effacement before the manifestations of Thy signs and the evidences of Thy praise. What, then, can this poor creature hope to achieve, and to what cord must this wretched soul cling?",
   "source_lang": "ar",
-  "score": 6.4
+  "score": 6.4,
+  "page_slug": "powerlessness-face-revelations",
+  "alignment": [
+    {
+      "ar": "كْرِ",
+      "en": "remembrance"
+    },
+    {
+      "ar": "تَشْهَدُ",
+      "en": "acknowledgeth"
+    },
+    {
+      "ar": "بِنِسْيَانِهَا",
+      "en": "its forgetfulness"
+    },
+    {
+      "ar": "وَمَحْوِهَا",
+      "en": "effacement"
+    },
+    {
+      "ar": "عِنْدَ",
+      "en": "before"
+    },
+    {
+      "ar": "ظُهُوراتِ",
+      "en": "the manifestations"
+    },
+    {
+      "ar": "آيَاتِكَ",
+      "en": "Thy signs"
+    },
+    {
+      "ar": "وَبُرُوزَاتِ",
+      "en": "the evidences"
+    },
+    {
+      "ar": "ذِكْرِكَ",
+      "en": "Thy praise"
+    },
+    {
+      "ar": "كانَ",
+      "en": "What"
+    },
+    {
+      "ar": "الأَمْرُ",
+      "en": "can"
+    },
+    {
+      "ar": "كَذلِكَ",
+      "en": "this"
+    },
+    {
+      "ar": "يَفْعَلُ",
+      "en": "achieve"
+    },
+    {
+      "ar": "الفَقِيرُ",
+      "en": "poor creature"
+    },
+    {
+      "ar": "حَبْلٍ",
+      "en": "cord"
+    },
+    {
+      "ar": "هذ",
+      "en": "this wretched soul"
+    }
+  ],
+  "terms": [
+    {
+      "term": "تَشْهَدُ",
+      "transliteration": "sh-h-d",
+      "literal": "witnessed; observed; seen; evident; manifest",
+      "se_rendering": "confesseth",
+      "note": "Root sh-h-d typically renders as 'manifest' or 'I bear witness' (74 occurrences). Here SE chose 'confesseth'—a verb of admission that intensifies the epistemological confession rather than juridical testimony.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 607,
+          "snippet": "manifest"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 35,
+          "snippet": "evident"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 6,
+          "snippet": "I testify"
+        },
+        {
+          "work": "gleanings",
+          "para": 298,
+          "snippet": "witness"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 138,
+          "snippet": "martyrdom"
+        },
+        {
+          "work": "gleanings",
+          "para": 134,
+          "snippet": "God witnesseth"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 57,
+          "snippet": "beheld"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 156,
+          "snippet": "bear witness"
+        }
+      ]
+    },
+    {
+      "term": "بِنِسْيَانِهَا",
+      "transliteration": "n-s-b",
+      "literal": "relation; relationship; connection; attribution; proportion",
+      "se_rendering": "forgetfulness",
+      "note": "Root n-s-b's primary meanings are 'relationship' or 'attribution' (13 occurrences), but SE renders here as 'forgetfulness'—a semantic deviation requiring the sense of nisyan (oblivion) rather than the root's relational meanings.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 108,
+          "snippet": "charge of fomenting discord"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 235,
+          "snippet": "impute similar charges"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 115,
+          "snippet": "calumnies and reproaches"
+        },
+        {
+          "work": "gleanings",
+          "para": 4,
+          "snippet": "relationship"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 34,
+          "snippet": "hurled"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 286,
+          "snippet": "forgetfulness"
+        },
+        {
+          "work": "gleanings",
+          "para": 225,
+          "snippet": "profess"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 225,
+          "snippet": "in my relationship to"
+        }
+      ]
+    },
+    {
+      "term": "وَمَحْوِهَا",
+      "transliteration": "m-h-w",
+      "literal": "to efface; to obliterate; to blot out; to cause to disappear",
+      "se_rendering": "effacement",
+      "note": "Root m-h-w typically renders 'destroyed' or 'blot out' (4 occurrences). 'Effacement' here preserves the metaphysical sense of obliteration while elevating the register to match the passage's mystical tone.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 350,
+          "snippet": "destroyed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 248,
+          "snippet": "blot out"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 35,
+          "snippet": "fadeth"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 155,
+          "snippet": "abase"
+        }
+      ]
+    },
+    {
+      "term": "ظُهُوراتِ",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "manifestations",
+      "note": "Consistent with primary rendering 'manifestation' across 96 occurrences. Paired with the parallel term buruzat to denote God's self-revelations in plural form.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 53,
+          "snippet": "Manifestation"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 136,
+          "snippet": "evident"
+        },
+        {
+          "work": "gleanings",
+          "para": 222,
+          "snippet": "material"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 206,
+          "snippet": "appeared"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 196,
+          "snippet": "Manifestations of God"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 32,
+          "snippet": "overwhelm the soul"
+        }
+      ]
+    },
+    {
+      "term": "الأَمْرُ",
+      "transliteration": "ʾ-m-m",
+      "literal": "mother; to lead; to head; matter; affair",
+      "se_rendering": "Cause",
+      "note": "Root ʾ-m-m renders variously as 'command,' 'Cause,' or 'affair' (18 occurrences). SE chose 'Cause' here—a theological term capitalizing the word to denote divine causality or the Bahá'í Cause itself.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 7,
+          "snippet": "beginning"
+        },
+        {
+          "work": "gleanings",
+          "para": 584,
+          "snippet": "Cause"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 13,
+          "snippet": "peoples"
+        },
+        {
+          "work": "gleanings",
+          "para": 47,
+          "snippet": "nations"
+        },
+        {
+          "work": "gleanings",
+          "para": 596,
+          "snippet": "before"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 178,
+          "snippet": "Imams"
+        }
+      ]
+    },
+    {
+      "term": "حَبْلٍ",
+      "transliteration": "h-b-l",
+      "literal": "cord; rope; bond; connection",
+      "se_rendering": "cord",
+      "note": "Consistently rendered 'cord' across all 6 occurrences. The metaphor of clinging to a cord appears unchanged, maintaining the image of spiritual attachment amid epistemic vertigo.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 5,
+          "snippet": "cord of"
+        }
+      ]
+    }
+  ],
+  "section_index": "CIII.3",
+  "section": "CIII",
+  "section_para": 3
 }

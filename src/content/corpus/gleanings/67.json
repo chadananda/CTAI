@@ -1,10 +1,562 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 67,
   "source_text": "يا أيّها العبد الّذي أردت رضاء اللّه وحبّه بعد الّذي كلّ انفضّوا عن جماله إلّا عدّة من أولي الأبصار فجزاك اللّه من فضله جزاء حسنًا باقيًا دائمًا بما أردته في يوم عمت فيه الأنظار ثمّ اعلم بأنّا لو نلقي عليك رشحًا عمّا رشّ علينا من رشحات أبحر القضاء من أولي الغلّ والبغضاء لتبكي وتنوح في العشيّ والأبكار فيا ليت نجد في الأرض من منصف ذي بصر ليعرف ما ظهر في هذا الظّهور من سلطنة اللّه وإقتداره ويذكر النّاس خالصًا لوجه اللّه بالسّرّ والاجهار لعلّ النّاس يقومنّ وينصرنّ هذا المظلوم الّذي ابتلي بين يدي هؤلاء الفجّار إذًا روح القدس ينطق عن",
   "translation": "O My servant, who hast sought the good-pleasure of God and clung to His love on the Day when all except a few who were endued with insight have broken away from Him! May God, through His grace, recompense thee with a generous, an incorruptible and everlasting reward, inasmuch as thou hast sought Him on the Day when eyes were blinded. Know thou that if We reveal to thee but a sprinkling of the showers which, through God’s decree, and at the hands of the envious and the malicious, have rained upon Us, thou wouldst weep with a great weeping, and wouldst bewail day and night Our plight. Oh, would that a discerning and fair-minded soul could be found who would recognize the wonders of this Revelation — wonders that proclaim the sovereignty of God and the greatness of its power. Would that such a man might arise and, wholly for the sake of God, admonish, privately and openly, the people, that haply they may bestir themselves and aid this wronged One Whom the workers of iniquity have so sorely afflicted.",
   "source_lang": "ar",
-  "score": 9.6
+  "score": 9.6,
+  "page_slug": "wronged-one-spirit-holiness",
+  "alignment": [
+    {
+      "ar": "يا",
+      "en": "O"
+    },
+    {
+      "ar": "العبد",
+      "en": "servant"
+    },
+    {
+      "ar": "الّذي",
+      "en": "who"
+    },
+    {
+      "ar": "أردت",
+      "en": "hast sought"
+    },
+    {
+      "ar": "رضاء",
+      "en": "good-pleasure"
+    },
+    {
+      "ar": "اللّه",
+      "en": "God"
+    },
+    {
+      "ar": "حبّه",
+      "en": "His love"
+    },
+    {
+      "ar": "بعد",
+      "en": "when"
+    },
+    {
+      "ar": "كلّ",
+      "en": "all"
+    },
+    {
+      "ar": "انفضّوا",
+      "en": "broken away"
+    },
+    {
+      "ar": "جماله",
+      "en": "Him"
+    },
+    {
+      "ar": "إلّا",
+      "en": "except"
+    },
+    {
+      "ar": "عدّة",
+      "en": "a few"
+    },
+    {
+      "ar": "أولي الأبصار",
+      "en": "endued with insight"
+    },
+    {
+      "ar": "فجزاك",
+      "en": "recompense thee"
+    },
+    {
+      "ar": "فضله",
+      "en": "His grace"
+    },
+    {
+      "ar": "جزاء",
+      "en": "reward"
+    },
+    {
+      "ar": "حسنًا",
+      "en": "generous"
+    },
+    {
+      "ar": "باقيًا",
+      "en": "incorruptible"
+    },
+    {
+      "ar": "دائمًا",
+      "en": "everlasting"
+    },
+    {
+      "ar": "بما",
+      "en": "inasmuch as"
+    },
+    {
+      "ar": "أردته",
+      "en": "thou hast sought Him"
+    },
+    {
+      "ar": "يوم",
+      "en": "Day"
+    },
+    {
+      "ar": "عمت",
+      "en": "were blinded"
+    },
+    {
+      "ar": "الأنظار",
+      "en": "eyes"
+    },
+    {
+      "ar": "اعلم",
+      "en": "Know thou"
+    },
+    {
+      "ar": "بأنّا",
+      "en": "We"
+    },
+    {
+      "ar": "لو",
+      "en": "if"
+    },
+    {
+      "ar": "نلقي",
+      "en": "reveal"
+    },
+    {
+      "ar": "عليك",
+      "en": "to thee"
+    },
+    {
+      "ar": "رشحًا",
+      "en": "a sprinkling"
+    },
+    {
+      "ar": "رشّ",
+      "en": "rained"
+    },
+    {
+      "ar": "علينا",
+      "en": "upon Us"
+    },
+    {
+      "ar": "رشحات",
+      "en": "showers"
+    },
+    {
+      "ar": "أولي",
+      "en": "at the hands"
+    },
+    {
+      "ar": "الغلّ",
+      "en": "envious"
+    },
+    {
+      "ar": "البغضاء",
+      "en": "malicious"
+    },
+    {
+      "ar": "لتبكي",
+      "en": "thou wouldst weep"
+    },
+    {
+      "ar": "تنوح",
+      "en": "wouldst bewail"
+    },
+    {
+      "ar": "العشيّ",
+      "en": "night"
+    },
+    {
+      "ar": "الأبكار",
+      "en": "day"
+    },
+    {
+      "ar": "فيا ليت",
+      "en": "Oh, would that"
+    },
+    {
+      "ar": "نجد",
+      "en": "be found"
+    },
+    {
+      "ar": "الأرض",
+      "en": "the people"
+    },
+    {
+      "ar": "منصف",
+      "en": "fair-minded"
+    },
+    {
+      "ar": "ذي بصر",
+      "en": "discerning"
+    },
+    {
+      "ar": "ليعرف",
+      "en": "who would recognize"
+    },
+    {
+      "ar": "ما",
+      "en": "the"
+    },
+    {
+      "ar": "ظهر",
+      "en": "wonders"
+    },
+    {
+      "ar": "هذا الظّهور",
+      "en": "this Revelation"
+    },
+    {
+      "ar": "سلطنة",
+      "en": "sovereignty"
+    },
+    {
+      "ar": "إقتداره",
+      "en": "the greatness of its power"
+    },
+    {
+      "ar": "يذكر",
+      "en": "admonish"
+    },
+    {
+      "ar": "خالصًا",
+      "en": "wholly for the sake"
+    },
+    {
+      "ar": "لوجه اللّه",
+      "en": "of God"
+    },
+    {
+      "ar": "بالسّرّ",
+      "en": "privately"
+    },
+    {
+      "ar": "الاجهار",
+      "en": "openly"
+    },
+    {
+      "ar": "لعلّ",
+      "en": "that haply"
+    },
+    {
+      "ar": "النّاس",
+      "en": "they"
+    },
+    {
+      "ar": "يقومنّ",
+      "en": "may bestir themselves"
+    },
+    {
+      "ar": "ينصرنّ",
+      "en": "aid"
+    },
+    {
+      "ar": "المظلوم",
+      "en": "this wronged One"
+    },
+    {
+      "ar": "الّذي",
+      "en": "Whom"
+    },
+    {
+      "ar": "ابتلي",
+      "en": "afflicted"
+    },
+    {
+      "ar": "الفجّار",
+      "en": "workers of iniquity"
+    }
+  ],
+  "terms": [
+    {
+      "term": "جماله",
+      "transliteration": "j-m-l",
+      "literal": "beauty; comeliness",
+      "se_rendering": "Him",
+      "note": "Typically 'Beauty,' 'Ancient Beauty,' or 'beauty' (38 occurrences). Rendered as 'Him' here through antecedent elision, softening appellative force.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 11,
+          "snippet": "beauty"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 193,
+          "snippet": "Among others"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 67,
+          "snippet": "Among"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 208,
+          "snippet": "Among the sciences"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 268,
+          "snippet": "Among them"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 118,
+          "snippet": "following"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 246,
+          "snippet": "Amongst"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 88,
+          "snippet": "for a beauty"
+        }
+      ]
+    },
+    {
+      "term": "والبغضاء",
+      "transliteration": "b-gh-dh",
+      "literal": "hatred; enmity; animosity",
+      "se_rendering": "malicious",
+      "note": "Renders consistently as 'hatred,' 'enmity,' 'animosity' (37 occurrences). 'malicious' here shifts from noun abstraction to adjectival agency, personifying the opposition.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 5,
+          "snippet": "with great enmity"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 45,
+          "snippet": "hate"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 59,
+          "snippet": "hatred"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 18,
+          "snippet": "animosity"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 14,
+          "snippet": "enmity"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 117,
+          "snippet": "every hater"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 54,
+          "snippet": "hatred and enmity"
+        }
+      ]
+    },
+    {
+      "term": "منصف",
+      "transliteration": "n-ṣ-f",
+      "literal": "justice; fairness; equity",
+      "se_rendering": "fair-minded",
+      "note": "Usually 'justice' or 'equity' (25 occurrences). 'fair-minded' relocates meaning from abstract virtue to character disposition—a personalizing choice.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 175,
+          "snippet": "fair"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 16,
+          "snippet": "equity"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 63,
+          "snippet": "justice"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 136,
+          "snippet": "fairness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 219,
+          "snippet": "fair-minded"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 118,
+          "snippet": "fair-minded person"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 133,
+          "snippet": "Judge thou fairly"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 224,
+          "snippet": "Be fair, be fair"
+        }
+      ]
+    },
+    {
+      "term": "سلطنة",
+      "transliteration": "s-l-ṭ",
+      "literal": "dominion; authority; power; sovereignty; control",
+      "se_rendering": "sovereignty",
+      "note": "Consistently rendered 'sovereignty' across 43 occurrences. Usage here maintains doctrinal precision regarding divine dominion over historical events.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 118,
+          "snippet": "sovereignty"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 151,
+          "snippet": "dominion"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 1,
+          "snippet": "Thy sovereignty"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 184,
+          "snippet": "by Thy sovereignty"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 416,
+          "snippet": "Lord"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 13,
+          "snippet": "O King"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 242,
+          "snippet": "king"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 157,
+          "snippet": "the Sháh"
+        }
+      ]
+    },
+    {
+      "term": "المظلوم",
+      "transliteration": "z-l-m",
+      "literal": "wrongedness, oppression, meekness; state of being wronged or oppressed",
+      "se_rendering": "wronged One",
+      "note": "Standard renderings include 'Wronged One,' 'afflicted,' and 'wronged.' SE uses capitalized 'Wronged One' here to denote a specific station, aligning with titular usage.",
+      "cross_refs": [
+        {
+          "work": "fire-tablet",
+          "para": 49,
+          "snippet": "meekness"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 116,
+          "snippet": "injury"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 36,
+          "snippet": "Wronged One"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 253,
+          "snippet": "wronged"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 9,
+          "snippet": "Darkness"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 33,
+          "snippet": "tyranny"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 573,
+          "snippet": "oppressed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 181,
+          "snippet": "wronged ones"
+        }
+      ]
+    },
+    {
+      "term": "ابتلی",
+      "transliteration": "b-l-ʾ",
+      "literal": "affliction; trial; calamity",
+      "se_rendering": "afflicted",
+      "note": "Standard range: 'trials,' 'tribulations,' 'afflictions' (27 occurrences). 'afflicted' as past participle emphasizes completed state rather than ongoing trial-process.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 249,
+          "snippet": "trials"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 137,
+          "snippet": "Troubles"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 179,
+          "snippet": "tribulations"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 63,
+          "snippet": "the lands"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 28,
+          "snippet": "afflicted"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 145,
+          "snippet": "sick"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 92,
+          "snippet": "Yea"
+        }
+      ]
+    }
+  ],
+  "section_index": "XV.2",
+  "section": "XV",
+  "section_para": 2
 }

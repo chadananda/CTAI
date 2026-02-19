@@ -1,10 +1,486 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 238,
   "source_text": "قل ان کان اصولکم من عند انفسکم لن نتّبعها ابداً و بذلک امرت من لدن حکیم خبیر و کذلک کنت من قبل و نکون من بعد بحول الله و قوّته و انّ هذا لصراط حقّ مستقیم و ان کان من عند الله فأتوا برهانکم ان کنتم لمن الصّادقین قل انّا اثبتنا کلّ ما ظنّوا فیک و عملوا بک فی کتاب الّذی لن یغادر فیه حرف من عمل العاملین",
   "translation": "Such hath been My way in the past, and such will it remain in the future, through the power of God and His might. This, indeed, is the true and right way. If they be ordained by God, bring forth, then, your proofs, if ye be of them that speak the truth. Say: We have written down in a Book which leaveth not unrecorded the work of any man, however insignificant, all that they have imputed to Thee, and all that they have done unto Thee.\nSay: It behooveth you, O Ministers of State, to keep the precepts of God, and to forsake your own laws and regulations, and to be of them who are guided aright.",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "book-unrecorded-work-man",
+  "alignment": [
+    {
+      "ar": "قل",
+      "en": "Say"
+    },
+    {
+      "ar": "ان کان",
+      "en": "If"
+    },
+    {
+      "ar": "اصولکم",
+      "en": "precepts"
+    },
+    {
+      "ar": "من عند",
+      "en": "ordained by"
+    },
+    {
+      "ar": "انفسکم",
+      "en": "your own"
+    },
+    {
+      "ar": "لن",
+      "en": "forsake"
+    },
+    {
+      "ar": "نتّبعها",
+      "en": "keep"
+    },
+    {
+      "ar": "ابداً",
+      "en": "guided aright"
+    },
+    {
+      "ar": "بذلک",
+      "en": "This"
+    },
+    {
+      "ar": "امرت",
+      "en": "behooveth"
+    },
+    {
+      "ar": "من لدن",
+      "en": "Ministers of State"
+    },
+    {
+      "ar": "حکیم",
+      "en": "God"
+    },
+    {
+      "ar": "خبیر",
+      "en": "laws and regulations"
+    },
+    {
+      "ar": "کذلک",
+      "en": "such"
+    },
+    {
+      "ar": "کنت",
+      "en": "hath been"
+    },
+    {
+      "ar": "من قبل",
+      "en": "in the past"
+    },
+    {
+      "ar": "نکون",
+      "en": "will it remain"
+    },
+    {
+      "ar": "من بعد",
+      "en": "in the future"
+    },
+    {
+      "ar": "بحول الله",
+      "en": "through the power of God"
+    },
+    {
+      "ar": "قوّته",
+      "en": "His might"
+    },
+    {
+      "ar": "لصراط",
+      "en": "way"
+    },
+    {
+      "ar": "حقّ",
+      "en": "true"
+    },
+    {
+      "ar": "مستقیم",
+      "en": "right"
+    },
+    {
+      "ar": "ان کان",
+      "en": "If they be"
+    },
+    {
+      "ar": "من عند الله",
+      "en": "ordained by God"
+    },
+    {
+      "ar": "فأتوا",
+      "en": "bring forth"
+    },
+    {
+      "ar": "برهانکم",
+      "en": "your proofs"
+    },
+    {
+      "ar": "ان کنتم",
+      "en": "if ye be"
+    },
+    {
+      "ar": "لمن",
+      "en": "of them"
+    },
+    {
+      "ar": "الصّادقین",
+      "en": "that speak the truth"
+    },
+    {
+      "ar": "انّا",
+      "en": "We"
+    },
+    {
+      "ar": "اثبتنا",
+      "en": "have written down"
+    },
+    {
+      "ar": "کلّ",
+      "en": "all"
+    },
+    {
+      "ar": "ما",
+      "en": "that"
+    },
+    {
+      "ar": "ظنّوا",
+      "en": "have imputed"
+    },
+    {
+      "ar": "فیک",
+      "en": "to Thee"
+    },
+    {
+      "ar": "عملوا",
+      "en": "have done"
+    },
+    {
+      "ar": "بک",
+      "en": "unto Thee"
+    },
+    {
+      "ar": "فی کتاب",
+      "en": "in a Book"
+    },
+    {
+      "ar": "الّذی",
+      "en": "which"
+    },
+    {
+      "ar": "لن یغادر",
+      "en": "leaveth not unrecorded"
+    },
+    {
+      "ar": "فیه",
+      "en": "unrecorded"
+    },
+    {
+      "ar": "حرف",
+      "en": "however insignificant"
+    },
+    {
+      "ar": "من عمل",
+      "en": "the work"
+    },
+    {
+      "ar": "العاملین",
+      "en": "of any man"
+    }
+  ],
+  "terms": [
+    {
+      "term": "اصولکم",
+      "transliteration": "s-w-l",
+      "literal": "principles; foundations; rules; origins",
+      "se_rendering": "your own laws and regulations",
+      "note": "Root typically rendered 'foundations' or 'principles' (3 occ). Here 'your own laws and regulations' expands the term to encompass human statutes as counterpoint to divine precepts.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 104,
+          "snippet": "foundations"
+        }
+      ]
+    },
+    {
+      "term": "امرت",
+      "transliteration": "ʾ-m-r",
+      "literal": "command; cause; matter; affair",
+      "se_rendering": "have I been commanded",
+      "note": "Usually 'His Cause' or 'His command' (75 occ). 'Have I been commanded' here emphasizes passive receipt of divine instruction rather than active agency or revelation.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "His Cause"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 797,
+          "snippet": "Thy Cause"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 597,
+          "snippet": "service"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 167,
+          "snippet": "things"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "commanded"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 236,
+          "snippet": "commissioned"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 785,
+          "snippet": "Thy Revelation"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 38,
+          "snippet": "for the protection of the Cause"
+        }
+      ]
+    },
+    {
+      "term": "خبیر",
+      "transliteration": "kh-b-r",
+      "literal": "all-knowing; aware; well-informed; omniscient",
+      "se_rendering": "All-knowing",
+      "note": "Consistently 'all-knowing' or 'All-Informed' (16 occ). This rendering aligns with standard usage; SE's choice emphasizes divine omniscience regarding human affairs.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 263,
+          "snippet": "I announce unto you"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 212,
+          "snippet": "declared"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 83,
+          "snippet": "declareth"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 107,
+          "snippet": "traditions and sayings"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 282,
+          "snippet": "in the traditions"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 92,
+          "snippet": "Proclaim"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 126,
+          "snippet": "Tell"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 245,
+          "snippet": "tidings"
+        }
+      ]
+    },
+    {
+      "term": "مستقیم",
+      "transliteration": "q-w-m",
+      "literal": "rising; standing; uprising; resurrection",
+      "se_rendering": "right way",
+      "note": "Root q-w-m typically denotes 'rising' or 'Resurrection' (109 occ). 'Right way' here employs the adjectival form to describe the character of the path rather than eschatological occurrence.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 152,
+          "snippet": "Day of Resurrection"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 153,
+          "snippet": "Resurrection"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 74,
+          "snippet": "rise"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "peoples"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 26,
+          "snippet": "steadfast"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 38,
+          "snippet": "steadfast in faith"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 628,
+          "snippet": "stood fast"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 198,
+          "snippet": "station"
+        }
+      ]
+    },
+    {
+      "term": "برهانکم",
+      "transliteration": "b-r-h-n",
+      "literal": "proof, evidence, demonstration, argument",
+      "se_rendering": "proofs",
+      "note": "Consistently 'proofs' or 'proof' (14 occ). This rendering remains standard; no notable deviation in this passage.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 218,
+          "snippet": "proofs"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 133,
+          "snippet": "proof"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 69,
+          "snippet": "be fully persuaded"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 73,
+          "snippet": "become clear and manifest"
+        }
+      ]
+    },
+    {
+      "term": "عملوا",
+      "transliteration": "ʿ-m-l",
+      "literal": "to work; to act; to do; to perform",
+      "se_rendering": "done",
+      "note": "Usually 'works' or 'actions' (44 occ). 'Done' here provides a simpler verb form emphasizing the finished deed rather than the abstract category of work.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 24,
+          "snippet": "Consort"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 782,
+          "snippet": "works"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 286,
+          "snippet": "God doeth unto them as they do unto themselves"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 94,
+          "snippet": "knew that they did so"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 144,
+          "snippet": "done"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 19,
+          "snippet": "Fane"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 34,
+          "snippet": "deed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 86,
+          "snippet": "wrought"
+        }
+      ]
+    },
+    {
+      "term": "حرف",
+      "transliteration": "h-r-f",
+      "literal": "letter; character; edge",
+      "se_rendering": "unrecorded",
+      "note": "Typically 'letters' or 'falsification' (32 occ). 'Unrecorded' here interprets حرف negatively within the context of the Divine Book's completeness—nothing escapes recording.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 46,
+          "snippet": "letters"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 5,
+          "snippet": "passed out"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 6,
+          "snippet": "falsifying"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 41,
+          "snippet": "falsification"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 92,
+          "snippet": "alteration"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 97,
+          "snippet": "perverted"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 11,
+          "snippet": "his boundless transgression"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 179,
+          "snippet": "setting down"
+        }
+      ]
+    }
+  ],
+  "section_index": "LXV.3",
+  "section": "LXV",
+  "section_para": 3
 }

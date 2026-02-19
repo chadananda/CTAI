@@ -1,10 +1,233 @@
 {
   "work": "The Hidden Words",
   "slug": "the-hidden-words",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 56,
   "source_text": "(٥٥) ﴿ يَا ابْنَ الوُجُودِ ﴾\nلَا تَشْتَغِل بِالدُّنْيا؛ لِأَنَّ بِالنَّارِ نَمْتَحِنُ الذَّهَبَ، وَبِالذَّهَبِ نَمْتَحِنُ العِبادَ.",
   "translation": "(55) O SON OF BEING!\nBusy not thyself with this world, for with fire We test the gold, and with gold We test Our servants.",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "test-gold-servants",
+  "alignment": [
+    {
+      "ar": "ابْنَ",
+      "en": "SON"
+    },
+    {
+      "ar": "الوُجُودِ",
+      "en": "BEING"
+    },
+    {
+      "ar": "لَا تَشْتَغِل",
+      "en": "Busy not thyself"
+    },
+    {
+      "ar": "نَمْتَحِنُ",
+      "en": "test"
+    },
+    {
+      "ar": "نَمْتَحِنُ",
+      "en": "We test"
+    },
+    {
+      "ar": "العِبادَ",
+      "en": "Our servants"
+    }
+  ],
+  "terms": [
+    {
+      "term": "بِالدُّنْيا",
+      "transliteration": "d-n-y",
+      "literal": "this world; earthly life; temporal realm",
+      "se_rendering": "this world",
+      "note": "Translated 'this world' matching primary root d-n-y pattern. Consistent with 15 occurrences; grounds the exhortation against temporal preoccupation.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 248,
+          "snippet": "this life"
+        },
+        {
+          "work": "gleanings",
+          "para": 661,
+          "snippet": "world"
+        },
+        {
+          "work": "gleanings",
+          "para": 663,
+          "snippet": "this world"
+        },
+        {
+          "work": "gleanings",
+          "para": 699,
+          "snippet": "earthly things"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 38,
+          "snippet": "know"
+        },
+        {
+          "work": "gleanings",
+          "para": 715,
+          "snippet": "described"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 244,
+          "snippet": "knowest"
+        }
+      ]
+    },
+    {
+      "term": "بِالنَّارِ",
+      "transliteration": "n-w-r",
+      "literal": "light; illumination",
+      "se_rendering": "fire",
+      "note": "Rendered 'fire' not 'light', despite root n-w-r primarily rendering as 'light' across 78 occurrences. This stark deviation reflects metaphorical testing rather than divine illumination.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 3,
+          "snippet": "light"
+        },
+        {
+          "work": "gleanings",
+          "para": 230,
+          "snippet": "Orb of Light"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 114,
+          "snippet": "with the light"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 109,
+          "snippet": "Thy light"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 246,
+          "snippet": "Illumine"
+        },
+        {
+          "work": "gleanings",
+          "para": 235,
+          "snippet": "glory"
+        },
+        {
+          "work": "gleanings",
+          "para": 597,
+          "snippet": "fire"
+        },
+        {
+          "work": "gleanings",
+          "para": 458,
+          "snippet": "fire of God"
+        }
+      ]
+    },
+    {
+      "term": "الذَّهَبَ",
+      "transliteration": "dh-h-b",
+      "literal": "religion; creed; doctrine; belief; sect",
+      "se_rendering": "gold",
+      "note": "Translated 'gold' literally, but root dh-h-b typically means 'religion; creed; doctrine' with renderings like 'divers communions'. SE privileges literal sense here to sustain the alchemical testing metaphor.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 18,
+          "snippet": "the divers communions"
+        },
+        {
+          "work": "gleanings",
+          "para": 599,
+          "snippet": "divers communions"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 19,
+          "snippet": "religious"
+        },
+        {
+          "work": "gleanings",
+          "para": 361,
+          "snippet": "renounced"
+        },
+        {
+          "work": "gleanings",
+          "para": 360,
+          "snippet": "passed beyond"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 33,
+          "snippet": "past"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 1,
+          "snippet": "bequeathed"
+        },
+        {
+          "work": "gleanings",
+          "para": 227,
+          "snippet": "gold"
+        }
+      ]
+    },
+    {
+      "term": "العِبادَ",
+      "transliteration": "ʿ-b-d",
+      "literal": "servant; slave; worshipper",
+      "se_rendering": "servants",
+      "note": "Rendered 'servants' consistently with root ʿ-b-d patterns (68 occurrences). Standard choice across corpus, though 'Our' emphasizes divine relationship in this context.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 279,
+          "snippet": "Thy servants"
+        },
+        {
+          "work": "gleanings",
+          "para": 686,
+          "snippet": "servants"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 27,
+          "snippet": "'Abdu'l‑Bahá"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 204,
+          "snippet": "Thy servant"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 260,
+          "snippet": "'Abdu'l-'Azíz"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 663,
+          "snippet": "servant"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 10,
+          "snippet": "this wronged servant of Thine"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 47,
+          "snippet": "this servant of Thine"
+        }
+      ]
+    }
+  ],
+  "section_index": "111",
+  "section": "111",
+  "section_para": 1
 }

@@ -1,10 +1,238 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 294,
   "source_text": "وَالحَمْدُ لَكَ يا إِلهَ العالَمِينَ ومَعْبُودَ العالَمِينَ.",
   "translation": "All-praise to Thee, O Lord of the worlds and the Object of the adoration of the entire creation!",
   "source_lang": "ar",
-  "score": 9.5
+  "score": 9.5,
+  "page_slug": "lord-of-worlds-object-adoration",
+  "alignment": [
+    {
+      "ar": "الحَمْدُ",
+      "en": "All-praise"
+    },
+    {
+      "ar": "لَكَ",
+      "en": "to Thee"
+    },
+    {
+      "ar": "إِلهَ",
+      "en": "Lord"
+    },
+    {
+      "ar": "العالَمِينَ",
+      "en": "the worlds"
+    },
+    {
+      "ar": "مَعْبُودَ",
+      "en": "Object of the adoration"
+    },
+    {
+      "ar": "العالَمِينَ",
+      "en": "the entire creation"
+    }
+  ],
+  "terms": [
+    {
+      "term": "والحمد",
+      "transliteration": "h-m-d",
+      "literal": "praise; to praise",
+      "se_rendering": "All-praise",
+      "note": "Rendered 'All-praise' here; corpus shows SE favors 'All praise' (without hyphen) in 25 occurrences. Hyphenation appears singular.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "All praise"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 2,
+          "snippet": "Praise be"
+        },
+        {
+          "work": "gleanings",
+          "para": 717,
+          "snippet": "All praise be"
+        },
+        {
+          "work": "gleanings",
+          "para": 186,
+          "snippet": "the All-Praised"
+        },
+        {
+          "work": "gleanings",
+          "para": 231,
+          "snippet": "glorious"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 159,
+          "snippet": "glorious station"
+        },
+        {
+          "work": "gleanings",
+          "para": 260,
+          "snippet": "All-Praised"
+        },
+        {
+          "work": "gleanings",
+          "para": 266,
+          "snippet": "praiseworthy"
+        }
+      ]
+    },
+    {
+      "term": "إله",
+      "transliteration": "ʾ-l-h",
+      "literal": "God; Allah",
+      "se_rendering": "Lord",
+      "note": "Rendered 'Lord' rather than 'God' (the standard in 53 occurrences). SE uses 'Lord' to emphasize sovereignty and dominion over creation, intensifying the theological claim.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 294,
+          "snippet": "God"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 10,
+          "snippet": "O God, my God"
+        },
+        {
+          "work": "gleanings",
+          "para": 341,
+          "snippet": "of God"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 11,
+          "snippet": "My God"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 62,
+          "snippet": "O Lord"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 102,
+          "snippet": "the Divine Lote-Tree"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 53,
+          "snippet": "the loved ones of the Lord"
+        },
+        {
+          "work": "gleanings",
+          "para": 338,
+          "snippet": "Ark of God"
+        }
+      ]
+    },
+    {
+      "term": "العالمين",
+      "transliteration": "ʿ-l-m",
+      "literal": "world; universe; the worlds",
+      "se_rendering": "the worlds / the entire creation",
+      "note": "Translated 'the worlds / the entire creation' (dual rendering in single phrase). Corpus shows 'world' and 'all worlds' are typical; 'entire creation' captures the cosmic scope SE intends here.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 198,
+          "snippet": "world"
+        },
+        {
+          "work": "gleanings",
+          "para": 657,
+          "snippet": "all worlds"
+        },
+        {
+          "work": "gleanings",
+          "para": 182,
+          "snippet": "mankind"
+        },
+        {
+          "work": "gleanings",
+          "para": 183,
+          "snippet": "the whole world"
+        },
+        {
+          "work": "gleanings",
+          "para": 226,
+          "snippet": "all earthly defilements"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 28,
+          "snippet": "knowledge"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 122,
+          "snippet": "commentators"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 42,
+          "snippet": "banner"
+        }
+      ]
+    },
+    {
+      "term": "ومعبود",
+      "transliteration": "ʿ-b-d",
+      "literal": "servant; slave; worshipper",
+      "se_rendering": "the Object of the adoration",
+      "note": "Rendered 'the Object of the adoration' rather than 'servant' or 'worshipper' (the standard root sense in 68 occurrences). SE transforms the morphology entirely—from agent noun to passive construction—elevating God's reciprocal status as worshipped entity.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 686,
+          "snippet": "servants"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 27,
+          "snippet": "'Abdu'l‑Bahá"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 260,
+          "snippet": "'Abdu'l-'Azíz"
+        },
+        {
+          "work": "gleanings",
+          "para": 67,
+          "snippet": "servant"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 10,
+          "snippet": "this wronged servant of Thine"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 47,
+          "snippet": "this servant of Thine"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 50,
+          "snippet": "the servants"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 12,
+          "snippet": "Thy trusted servants"
+        }
+      ]
+    }
+  ],
+  "section_index": "LXIX.8",
+  "section": "LXIX",
+  "section_para": 8
 }

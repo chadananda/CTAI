@@ -1,10 +1,306 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 621,
   "source_text": "رِضاكَ، وَإِنَّكَ أَنْتَ المُقَدَّسُ عَمَّا سِواكَ وَإِنَّكَ أَنْتَ الشَّافِي الكَافِي الحافِظُ الغَفُورُ الرَّحِيمُ.",
   "translation": "Thou, in truth, art immensely exalted above all else except Thyself. Thou art, verily, the Healer, the All-Sufficing, the Preserver, the Ever-Forgiving, the Most Merciful.",
   "source_lang": "ar",
-  "score": 9.7
+  "score": 9.7,
+  "page_slug": "healer-all-sufficing-preserver",
+  "alignment": [
+    {
+      "ar": "رِضاكَ",
+      "en": "Thyself"
+    },
+    {
+      "ar": "أَنْتَ",
+      "en": "art"
+    },
+    {
+      "ar": "سِواكَ",
+      "en": "all else except"
+    },
+    {
+      "ar": "الكَافِي",
+      "en": "the All-Sufficing"
+    },
+    {
+      "ar": "الحافِظُ",
+      "en": "the Preserver"
+    },
+    {
+      "ar": "الغَفُورُ",
+      "en": "the Ever-Forgiving"
+    }
+  ],
+  "terms": [
+    {
+      "term": "رِضاكَ",
+      "transliteration": "r-d-y",
+      "literal": "good-pleasure, consent, satisfaction",
+      "se_rendering": "Thy pleasure",
+      "note": "Standard rendering as 'Thy pleasure' aligns with primary Jafar patterns ('Thy pleasure', 'Thy good-pleasure'). Maintains devotional address throughout corpus.",
+      "cross_refs": [
+        {
+          "work": "the-hidden-words",
+          "para": 46,
+          "snippet": "content"
+        },
+        {
+          "work": "gleanings",
+          "para": 165,
+          "snippet": "consent"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 28,
+          "snippet": "is pleased with"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 41,
+          "snippet": "pleasure"
+        },
+        {
+          "work": "gleanings",
+          "para": 564,
+          "snippet": "goodly deeds"
+        },
+        {
+          "work": "gleanings",
+          "para": 598,
+          "snippet": "praiseworthy"
+        },
+        {
+          "work": "gleanings",
+          "para": 625,
+          "snippet": "approved"
+        },
+        {
+          "work": "gleanings",
+          "para": 58,
+          "snippet": "Ridván"
+        }
+      ]
+    },
+    {
+      "term": "المُقَدَّسُ",
+      "transliteration": "q-d-s",
+      "literal": "holy, sacred, sanctified",
+      "se_rendering": "immensely exalted above all else except Thyself",
+      "note": "Deviates from primary 'Sacred'/'hallowed' renderings; rendered idiomatically as relational exaltation rather than abstract sanctity. Unique interpretive expansion.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 2,
+          "snippet": "Sacred"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 81,
+          "snippet": "hallowed"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 35,
+          "snippet": "spirit of holiness"
+        },
+        {
+          "work": "gleanings",
+          "para": 585,
+          "snippet": "holy Paradise"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 13,
+          "snippet": "Holy Mariner"
+        },
+        {
+          "work": "gleanings",
+          "para": 584,
+          "snippet": "Holy Veil"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 6,
+          "snippet": "sacred strand"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 26,
+          "snippet": "Celestial Concourse"
+        }
+      ]
+    },
+    {
+      "term": "الكَافِي",
+      "transliteration": "k-f-y",
+      "literal": "to be content; to suffice; to be satisfied",
+      "se_rendering": "the All-Sufficing",
+      "note": "Rendered 'the All-Sufficing' — matches one of six Jafar occurrences exactly. Preserves technical sufficiency concept via hyphenated intensification.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 34,
+          "snippet": "were not content"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 46,
+          "snippet": "All-Sufficing"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 275,
+          "snippet": "Rawdíy-i-Káfí"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 140,
+          "snippet": "suffice"
+        }
+      ]
+    },
+    {
+      "term": "الحافِظُ",
+      "transliteration": "h-f-z",
+      "literal": "guardian; preserver; keeper",
+      "se_rendering": "the Preserver",
+      "note": "Rendered 'the Preserver' — directly matches Jafar pattern entries. Selects substantive agent noun from 'protection/shield/guard' semantic field.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 3,
+          "snippet": "protection"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 44,
+          "snippet": "shield"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 55,
+          "snippet": "guard"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 22,
+          "snippet": "Guardian"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 90,
+          "snippet": "Watch"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 45,
+          "snippet": "keep"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 30,
+          "snippet": "been preserved"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 165,
+          "snippet": "protected"
+        }
+      ]
+    },
+    {
+      "term": "الغَفُورُ",
+      "transliteration": "gh-f-r",
+      "literal": "to forgive; forgiveness",
+      "se_rendering": "the Ever-Forgiving",
+      "note": "Rendered 'the Ever-Forgiving' — matches one Jafar entry exactly. Temporal intensifier 'Ever-' elevates abstract forgiveness to perpetual divine attribute.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 13,
+          "snippet": "wronged"
+        },
+        {
+          "work": "gleanings",
+          "para": 217,
+          "snippet": "forgive"
+        },
+        {
+          "work": "gleanings",
+          "para": 652,
+          "snippet": "forgiveness"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 35,
+          "snippet": "Thy forgiveness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 192,
+          "snippet": "pardon"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 682,
+          "snippet": "forgivest"
+        }
+      ]
+    },
+    {
+      "term": "الرَّحِيمُ",
+      "transliteration": "r-ḥ-m",
+      "literal": "merciful, compassionate; pertaining to divine mercy",
+      "se_rendering": "the Most Merciful",
+      "note": "Rendered 'the Most Merciful' — diverges from 'merciful/compassionate' base patterns in Jafar. Superlative form intensifies mercy concept beyond primary renderings.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 673,
+          "snippet": "Divine glory"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 57,
+          "snippet": "Divine"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 89,
+          "snippet": "celestial melody"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 114,
+          "snippet": "spirit of mercy"
+        },
+        {
+          "work": "gleanings",
+          "para": 372,
+          "snippet": "merciful"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 220,
+          "snippet": "have mercy on them"
+        },
+        {
+          "work": "gleanings",
+          "para": 12,
+          "snippet": "mercy"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 50,
+          "snippet": "the Compassionate"
+        }
+      ]
+    }
+  ],
+  "section_index": "CXLVI.4",
+  "section": "CXLVI",
+  "section_para": 4
 }

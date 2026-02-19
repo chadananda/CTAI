@@ -1,10 +1,647 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 300,
   "source_text": "وأمّا ما سألت عن الفطرة فاعلم بأنّ کلّ النّاس قد خلقوا علی فطرة الله المهیمن القیّوم وقدّر لکلّ نفس مقادیر الأمر علی ما رقم في ألواح عزّ محفوظ ولکن یظهر کلّ ذلک بإرادات أنفسکم کما أنتم في أعمالکم تشهدون مثلاً فانظر فیما حرّم علی العباد فی الکتاب من شيء کما أنتم في البیان تنظرون بحیث أحلّ الله ما أراد بأمره وحرّم ما شآء بسلطانه قل کلّ ذلک في الکتاب أفلا تشهدون ولکنّ النّاس بعد علمهم عمّا نهوا عنه هم یرتکبون هل ینسب هذا إلی الله أو إلی أنفسهم إن أنتم تنصفون قل ما من حسنة إلّا من عند الله وما من سیّئة إلّا من أنفسکم أفلا تعرفون وهذا ما نزل في کلّ الألواح إن أنتم تعلمون بلی إنّه عالم بأعمالکم قبل ظهورها کما هو عالم بعد ظهورها وإنّه ما من إله إلّا هو له الخلق والأمر وکلّ عنده في ألواح قدس مکنون وهذا العلم لم یکن علّة الفعل في خلقه کما إنّ علمکم بشيء لم یکن علّة لظهوره فیما أردتم أو تریدون وعلمتم أو تعلمون...",
   "translation": "And now, concerning thy question regarding the creation of man. Know thou that all men have been created in the nature made by God, the Guardian, the Self-Subsisting. Unto each one hath been prescribed a preordained measure, as decreed in God’s mighty and guarded Tablets. All that which ye potentially possess can, however, be manifested only as a result of your own volition. Your own acts testify to this truth. Consider, for instance, that which hath been forbidden, in the Bayán, unto men. God hath in that Book, and by His behest, decreed as lawful whatsoever He hath pleased to decree, and hath, through the power of His sovereign might, forbidden whatsoever He elected to forbid. To this testifieth the text of that Book. Will ye not bear witness? Men, however, have wittingly broken His law. Is such a behavior to be attributed to God, or to their proper selves? Be fair in your judgment. Every good thing is of God, and every evil thing is from yourselves. Will ye not comprehend? This same truth hath been revealed in all the Scriptures, if ye be of them that understand. Every act ye meditate is as clear to Him as is that act when already accomplished. There is none other God besides Him. His is all creation and its empire. All stands revealed before Him; all is recorded in His holy and hidden Tablets. This foreknowledge of God, however, should not be regarded as having caused the actions of men, just as your own previous knowledge that a certain event is to occur, or your desire that it should happen, is not and can never be the reason for its occurrence.",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "good-evil-mans-own-volition",
+  "alignment": [
+    {
+      "ar": "سألت",
+      "en": "thy question"
+    },
+    {
+      "ar": "الفطرة",
+      "en": "the creation"
+    },
+    {
+      "ar": "اعلم",
+      "en": "Know thou"
+    },
+    {
+      "ar": "کلّ",
+      "en": "all"
+    },
+    {
+      "ar": "النّاس",
+      "en": "men"
+    },
+    {
+      "ar": "خلقوا",
+      "en": "have been created"
+    },
+    {
+      "ar": "علی",
+      "en": "in"
+    },
+    {
+      "ar": "فطرة",
+      "en": "the nature"
+    },
+    {
+      "ar": "الله",
+      "en": "God"
+    },
+    {
+      "ar": "المهیمن",
+      "en": "the Guardian"
+    },
+    {
+      "ar": "القیّوم",
+      "en": "the Self-Subsisting"
+    },
+    {
+      "ar": "قدّر",
+      "en": "hath been prescribed"
+    },
+    {
+      "ar": "لکلّ",
+      "en": "Unto each"
+    },
+    {
+      "ar": "نفس",
+      "en": "one"
+    },
+    {
+      "ar": "مقادیر",
+      "en": "a preordained measure"
+    },
+    {
+      "ar": "الأمر",
+      "en": "decreed"
+    },
+    {
+      "ar": "ألواح",
+      "en": "Tablets"
+    },
+    {
+      "ar": "عزّ",
+      "en": "mighty"
+    },
+    {
+      "ar": "محفوظ",
+      "en": "guarded"
+    },
+    {
+      "ar": "یظهر",
+      "en": "be manifested"
+    },
+    {
+      "ar": "کلّ ذلک",
+      "en": "All that"
+    },
+    {
+      "ar": "بإرادات",
+      "en": "as a result of"
+    },
+    {
+      "ar": "أنفسکم",
+      "en": "your own volition"
+    },
+    {
+      "ar": "أنتم",
+      "en": "ye"
+    },
+    {
+      "ar": "أعمالکم",
+      "en": "Your own acts"
+    },
+    {
+      "ar": "تشهدون",
+      "en": "testify"
+    },
+    {
+      "ar": "مثلاً",
+      "en": "for instance"
+    },
+    {
+      "ar": "فانظر",
+      "en": "Consider"
+    },
+    {
+      "ar": "حرّم",
+      "en": "forbidden"
+    },
+    {
+      "ar": "الکتاب",
+      "en": "the Bayán"
+    },
+    {
+      "ar": "البیان",
+      "en": "that Book"
+    },
+    {
+      "ar": "تنظرون",
+      "en": "bear witness"
+    },
+    {
+      "ar": "أحلّ",
+      "en": "decreed as lawful"
+    },
+    {
+      "ar": "أراد",
+      "en": "pleased to decree"
+    },
+    {
+      "ar": "بأمره",
+      "en": "by His behest"
+    },
+    {
+      "ar": "شآء",
+      "en": "elected to forbid"
+    },
+    {
+      "ar": "بسلطانه",
+      "en": "through the power of His sovereign might"
+    },
+    {
+      "ar": "کلّ ذلک",
+      "en": "To this"
+    },
+    {
+      "ar": "في الکتاب",
+      "en": "the text of that Book"
+    },
+    {
+      "ar": "أفلا تشهدون",
+      "en": "Will ye not bear witness"
+    },
+    {
+      "ar": "النّاس",
+      "en": "Men"
+    },
+    {
+      "ar": "بعد علمهم",
+      "en": "wittingly"
+    },
+    {
+      "ar": "نهوا",
+      "en": "His law"
+    },
+    {
+      "ar": "یرتکبون",
+      "en": "broken"
+    },
+    {
+      "ar": "هل ینسب",
+      "en": "Is such a behavior to be attributed"
+    },
+    {
+      "ar": "هذا",
+      "en": "such"
+    },
+    {
+      "ar": "إلی الله",
+      "en": "to God"
+    },
+    {
+      "ar": "إلی أنفسهم",
+      "en": "to their proper selves"
+    },
+    {
+      "ar": "تنصفون",
+      "en": "Be fair in your judgment"
+    },
+    {
+      "ar": "ما من حسنة",
+      "en": "Every good thing"
+    },
+    {
+      "ar": "إلّا من عند الله",
+      "en": "is of God"
+    },
+    {
+      "ar": "ما من سیّئة",
+      "en": "every evil thing"
+    },
+    {
+      "ar": "إلّا من أنفسکم",
+      "en": "is from yourselves"
+    },
+    {
+      "ar": "أفلا تعرفون",
+      "en": "Will ye not comprehend"
+    },
+    {
+      "ar": "هذا",
+      "en": "This same truth"
+    },
+    {
+      "ar": "نزل",
+      "en": "hath been revealed"
+    },
+    {
+      "ar": "في کلّ الألواح",
+      "en": "in all the Scriptures"
+    },
+    {
+      "ar": "إن أنتم تعلمون",
+      "en": "if ye be of them that understand"
+    },
+    {
+      "ar": "بلی",
+      "en": "Every"
+    },
+    {
+      "ar": "إنّه",
+      "en": "Him"
+    },
+    {
+      "ar": "عالم",
+      "en": "clear"
+    },
+    {
+      "ar": "بأعمالکم",
+      "en": "act ye meditate"
+    },
+    {
+      "ar": "قبل ظهورها",
+      "en": "is as clear to Him"
+    },
+    {
+      "ar": "کما هو عالم",
+      "en": "as is"
+    },
+    {
+      "ar": "بعد ظهورها",
+      "en": "when already accomplished"
+    },
+    {
+      "ar": "ما من إله إلّا هو",
+      "en": "There is none other God besides Him"
+    },
+    {
+      "ar": "له الخلق",
+      "en": "His is all creation"
+    },
+    {
+      "ar": "والأمر",
+      "en": "and its empire"
+    },
+    {
+      "ar": "وکلّ",
+      "en": "All"
+    },
+    {
+      "ar": "عنده",
+      "en": "before Him"
+    },
+    {
+      "ar": "في ألواح",
+      "en": "in His holy and hidden Tablets"
+    },
+    {
+      "ar": "قدس",
+      "en": "holy"
+    },
+    {
+      "ar": "مکنون",
+      "en": "hidden"
+    },
+    {
+      "ar": "هذا العلم",
+      "en": "This foreknowledge of God"
+    },
+    {
+      "ar": "لم یکن",
+      "en": "should not be regarded"
+    },
+    {
+      "ar": "علّة",
+      "en": "as having caused"
+    },
+    {
+      "ar": "الفعل",
+      "en": "the actions"
+    },
+    {
+      "ar": "في خلقه",
+      "en": "of men"
+    },
+    {
+      "ar": "کما إنّ",
+      "en": "just as"
+    },
+    {
+      "ar": "علمکم",
+      "en": "your own previous knowledge"
+    },
+    {
+      "ar": "بشيء",
+      "en": "that a certain event"
+    },
+    {
+      "ar": "لم یکن علّة",
+      "en": "is not and can never be the reason"
+    },
+    {
+      "ar": "لظهوره",
+      "en": "for its occurrence"
+    },
+    {
+      "ar": "فیما أردتم",
+      "en": "your desire that it should happen"
+    },
+    {
+      "ar": "أو تریدون",
+      "en": "is to occur"
+    }
+  ],
+  "terms": [
+    {
+      "term": "الفطرة",
+      "transliteration": "f-ṭ-r",
+      "literal": "creator; the one who splits/creates",
+      "se_rendering": "the nature made by God",
+      "note": "Only occurrence as 'the nature made by God' in SE; typically 'Creator' or 'the true Faith' (19 occ). This unique rendering emphasizes the divine primordial nature itself rather than its source.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 606,
+          "snippet": "Maker"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 40,
+          "snippet": "Creator"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 138,
+          "snippet": "the true Faith"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 236,
+          "snippet": "inner ears"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 27,
+          "snippet": "hearts"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 46,
+          "snippet": "cleaving of the heaven"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 194,
+          "snippet": "cleaved"
+        }
+      ]
+    },
+    {
+      "term": "القیّوم",
+      "transliteration": "q-w-m",
+      "literal": "rising; standing; uprising; resurrection",
+      "se_rendering": "the Self-Subsisting",
+      "note": "Renders as 'the Self-Subsisting' here, contrasting Jafar's typical 'Resurrection' or 'arise' (109 occ). SE employs rare theological epithet emphasizing God's self-sufficiency.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 152,
+          "snippet": "Day of Resurrection"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 153,
+          "snippet": "Resurrection"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 74,
+          "snippet": "rise"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "peoples"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 26,
+          "snippet": "steadfast"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 38,
+          "snippet": "steadfast in faith"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 628,
+          "snippet": "stood fast"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 198,
+          "snippet": "station"
+        }
+      ]
+    },
+    {
+      "term": "یظهر",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "manifested",
+      "note": "Renders as 'manifested' here, aligned with typical 'Manifestation/manifestation' pattern (96 occ). Applied to potentiality becoming actual through human volition.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 140,
+          "snippet": "manifestation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 160,
+          "snippet": "Author of all Manifestations"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 136,
+          "snippet": "evident"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 206,
+          "snippet": "appeared"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 196,
+          "snippet": "Manifestations of God"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 255,
+          "snippet": "Manifestations"
+        }
+      ]
+    },
+    {
+      "term": "تشهدون",
+      "transliteration": "sh-h-d",
+      "literal": "witnessed; observed; seen; evident; manifest",
+      "se_rendering": "testify",
+      "note": "Renders as 'testify' here, matching core Jafar pattern (74 occ). Applied to acts as evidence of theological principle, not mere observation.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 35,
+          "snippet": "evident"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 811,
+          "snippet": "I bear witness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 6,
+          "snippet": "I testify"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 138,
+          "snippet": "martyrdom"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 230,
+          "snippet": "God testifieth"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 57,
+          "snippet": "beheld"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 117,
+          "snippet": "testify"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 156,
+          "snippet": "bear witness"
+        }
+      ]
+    },
+    {
+      "term": "بسلطانه",
+      "transliteration": "s-l-ṭ",
+      "literal": "dominion; authority; power; sovereignty; control",
+      "se_rendering": "the power of His sovereign might",
+      "note": "Renders as 'the power of His sovereign might' here; Jafar shows 'sovereignty/dominion/by Thy sovereignty' (43 occ). SE adds 'power' and 'might' to emphasize divine causation.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 118,
+          "snippet": "sovereignty"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 151,
+          "snippet": "dominion"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 1,
+          "snippet": "Thy sovereignty"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 184,
+          "snippet": "by Thy sovereignty"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 416,
+          "snippet": "Lord"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 13,
+          "snippet": "O King"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 242,
+          "snippet": "king"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 157,
+          "snippet": "the Sháh"
+        }
+      ]
+    },
+    {
+      "term": "نزل",
+      "transliteration": "n-z-l",
+      "literal": "to descend, to be revealed",
+      "se_rendering": "revealed",
+      "note": "Renders as 'revealed' here, standard Jafar pattern (88 occ). Applied to truth throughout Scriptures rather than specific revelation event.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 188,
+          "snippet": "revealed"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 175,
+          "snippet": "didst send down"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 835,
+          "snippet": "sent down"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 34,
+          "snippet": "Descend"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 47,
+          "snippet": "pour forth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 330,
+          "snippet": "send down"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 40,
+          "snippet": "were revealed"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 16,
+          "snippet": "hath been sent down"
+        }
+      ]
+    }
+  ],
+  "section_index": "LXXVII.1",
+  "section": "LXXVII",
+  "section_para": 1
 }

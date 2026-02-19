@@ -1,10 +1,663 @@
 {
   "work": "Epistle to the Son of the Wolf",
   "slug": "epistle-to-the-son-of-the-wolf",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 134,
   "source_text": "يا ايّها الغافل انّک ما رأيتني و ما عاشرت و ما آنست معی فی اقلّ من آنٍ فکيف امرت النّاس بسبّی هل اتّبعت فی ذلک هواک ام مولاک ؟ فأت بآية ان انت من الصّادقين * نشهد انّک نبذت شريعة اللّه وراءک و اخذت شريعة نفسک انّه لا يعزب عن علمه من شیء انّه هو الفرد الخبير * يا ايّها الغافل اسمع ما انزله الرّحمن فی الفرقان ﴿ لَا تَقُولُوا لِمَنْ أَلْقَی إِلَيْکُمْ السَّلَامَ لَسْتَ مُؤْمِنًا ﴾ کذلک حکم من في قبضته ملکوت الامر و الخلق ان انت من السّامعين * انّک نبذت حکم اللّه و اخذت حکم نفسک فويل لک يا ايّها الغافل المريب * انّک لو تنکرنی بایّ برهان يثبت ما عندک ؟ فأت به يا ايّها المشرک باللّه و المعرض عن سلطانه الّذی احاط العالمين *",
   "translation": "\"O thou who hast gone astray! Thou hast neither seen Me, nor associated with Me, nor been My companion for the fraction of a moment. How is it, then, that thou hast bidden men to curse Me? Didst thou, in this, follow the promptings of thine own desires, or didst thou obey thy Lord? Produce thou a sign, if thou art one of the truthful. We testify that thou hast cast behind thy back the Law of God, and laid hold on the dictates of thy passions. Nothing, in truth, escapeth His knowledge; He, verily, is the Incomparable, the All-Informed. O heedless one! Hearken unto that which the Merciful hath revealed in the Qur’án: \\‘Say not to every one who meeteth you with a greeting, \"Thou art not a believer.\"' Thus hath He decreed in Whose grasp are the kingdoms of Revelation and of creation, if thou be of them that hearken. Thou hast set aside the commandment of God, and clung unto the promptings of thine own desire. Woe, then, unto thee, O careless one that doubtest! If thou deniest Me, by what proof canst thou vindicate the truth of that which thou dost possess? Produce it, then, O thou who hast joined partners with God, and turned aside from His sovereignty that hath encompassed the worlds!",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "cast-behind-thy-back-law-of-god",
+  "alignment": [
+    {
+      "ar": "يا",
+      "en": "O"
+    },
+    {
+      "ar": "ايّها",
+      "en": "thou"
+    },
+    {
+      "ar": "الغافل",
+      "en": "hast gone astray"
+    },
+    {
+      "ar": "انّک",
+      "en": "Thou"
+    },
+    {
+      "ar": "ما",
+      "en": "neither"
+    },
+    {
+      "ar": "رأيتني",
+      "en": "seen Me"
+    },
+    {
+      "ar": "عاشرت",
+      "en": "associated with Me"
+    },
+    {
+      "ar": "آنست",
+      "en": "been My companion"
+    },
+    {
+      "ar": "معی",
+      "en": "My companion"
+    },
+    {
+      "ar": "اقلّ",
+      "en": "fraction"
+    },
+    {
+      "ar": "آنٍ",
+      "en": "moment"
+    },
+    {
+      "ar": "فکيف",
+      "en": "How is it"
+    },
+    {
+      "ar": "امرت",
+      "en": "bidden"
+    },
+    {
+      "ar": "النّاس",
+      "en": "men"
+    },
+    {
+      "ar": "بسبّی",
+      "en": "to curse Me"
+    },
+    {
+      "ar": "هل",
+      "en": "Didst thou"
+    },
+    {
+      "ar": "اتّبعت",
+      "en": "follow"
+    },
+    {
+      "ar": "ذلک",
+      "en": "this"
+    },
+    {
+      "ar": "هواک",
+      "en": "thine own desires"
+    },
+    {
+      "ar": "ام",
+      "en": "or"
+    },
+    {
+      "ar": "مولاک",
+      "en": "thy Lord"
+    },
+    {
+      "ar": "فأت",
+      "en": "Produce thou"
+    },
+    {
+      "ar": "بآية",
+      "en": "a sign"
+    },
+    {
+      "ar": "ان",
+      "en": "if"
+    },
+    {
+      "ar": "الصّادقين",
+      "en": "the truthful"
+    },
+    {
+      "ar": "نشهد",
+      "en": "We testify"
+    },
+    {
+      "ar": "نبذت",
+      "en": "hast cast"
+    },
+    {
+      "ar": "شريعة",
+      "en": "the Law"
+    },
+    {
+      "ar": "اللّه",
+      "en": "of God"
+    },
+    {
+      "ar": "وراءک",
+      "en": "behind thy back"
+    },
+    {
+      "ar": "اخذت",
+      "en": "laid hold"
+    },
+    {
+      "ar": "شريعة نفسک",
+      "en": "the dictates of thy passions"
+    },
+    {
+      "ar": "انّه",
+      "en": "in truth"
+    },
+    {
+      "ar": "لا",
+      "en": "Nothing"
+    },
+    {
+      "ar": "يعزب",
+      "en": "escapeth"
+    },
+    {
+      "ar": "علمه",
+      "en": "His knowledge"
+    },
+    {
+      "ar": "الفرد",
+      "en": "the Incomparable"
+    },
+    {
+      "ar": "الخبير",
+      "en": "the All-Informed"
+    },
+    {
+      "ar": "الغافل",
+      "en": "heedless one"
+    },
+    {
+      "ar": "اسمع",
+      "en": "Hearken"
+    },
+    {
+      "ar": "ما",
+      "en": "that which"
+    },
+    {
+      "ar": "انزله",
+      "en": "revealed"
+    },
+    {
+      "ar": "الرّحمن",
+      "en": "the Merciful"
+    },
+    {
+      "ar": "فی",
+      "en": "in"
+    },
+    {
+      "ar": "لَا تَقُولُوا",
+      "en": "Say not"
+    },
+    {
+      "ar": "لِمَنْ",
+      "en": "to every one who"
+    },
+    {
+      "ar": "أَلْقَی",
+      "en": "meeteth"
+    },
+    {
+      "ar": "إِلَيْکُمْ",
+      "en": "you"
+    },
+    {
+      "ar": "لَسْتَ",
+      "en": "Thou art not"
+    },
+    {
+      "ar": "مُؤْمِنًا",
+      "en": "a believer"
+    },
+    {
+      "ar": "کذلک",
+      "en": "Thus"
+    },
+    {
+      "ar": "حکم",
+      "en": "hath He decreed"
+    },
+    {
+      "ar": "من",
+      "en": "He"
+    },
+    {
+      "ar": "قبضته",
+      "en": "Whose grasp"
+    },
+    {
+      "ar": "ملکوت",
+      "en": "the kingdoms"
+    },
+    {
+      "ar": "الامر",
+      "en": "Revelation"
+    },
+    {
+      "ar": "الخلق",
+      "en": "creation"
+    },
+    {
+      "ar": "السّامعين",
+      "en": "them that hearken"
+    },
+    {
+      "ar": "نبذت",
+      "en": "hast set aside"
+    },
+    {
+      "ar": "حکم",
+      "en": "the commandment"
+    },
+    {
+      "ar": "اخذت",
+      "en": "clung unto"
+    },
+    {
+      "ar": "حکم نفسک",
+      "en": "the promptings of thine own desire"
+    },
+    {
+      "ar": "فويل",
+      "en": "Woe"
+    },
+    {
+      "ar": "لک",
+      "en": "unto thee"
+    },
+    {
+      "ar": "الغافل",
+      "en": "careless one"
+    },
+    {
+      "ar": "المريب",
+      "en": "that doubtest"
+    },
+    {
+      "ar": "لو",
+      "en": "If"
+    },
+    {
+      "ar": "تنکرنی",
+      "en": "thou deniest Me"
+    },
+    {
+      "ar": "بایّ",
+      "en": "by what"
+    },
+    {
+      "ar": "برهان",
+      "en": "proof"
+    },
+    {
+      "ar": "يثبت",
+      "en": "canst thou vindicate"
+    },
+    {
+      "ar": "عندک",
+      "en": "thou dost possess"
+    },
+    {
+      "ar": "به",
+      "en": "it"
+    },
+    {
+      "ar": "المشرک",
+      "en": "hast joined partners"
+    },
+    {
+      "ar": "المعرض",
+      "en": "turned aside"
+    },
+    {
+      "ar": "سلطانه",
+      "en": "His sovereignty"
+    },
+    {
+      "ar": "احاط",
+      "en": "hath encompassed"
+    },
+    {
+      "ar": "العالمين",
+      "en": "the worlds"
+    }
+  ],
+  "terms": [
+    {
+      "term": "نشهد",
+      "transliteration": "sh-h-d",
+      "literal": "witnessed; observed; seen; evident; manifest",
+      "se_rendering": "We testify",
+      "note": "Usually 'I testify' or 'manifest' across 74 occurrences. Here 'We testify' employs plural first-person, heightening the witness as collective divine attestation.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 607,
+          "snippet": "manifest"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 35,
+          "snippet": "evident"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 811,
+          "snippet": "I bear witness"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 836,
+          "snippet": "I testify"
+        },
+        {
+          "work": "gleanings",
+          "para": 298,
+          "snippet": "witness"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 138,
+          "snippet": "martyrdom"
+        },
+        {
+          "work": "gleanings",
+          "para": 134,
+          "snippet": "God witnesseth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 230,
+          "snippet": "God testifieth"
+        }
+      ]
+    },
+    {
+      "term": "شريعة",
+      "transliteration": "sh-r-ʿ",
+      "literal": "law; legislation; religious law; canon; ordinance",
+      "se_rendering": "Law",
+      "note": "Typically 'law' or 'laws' across 27 occurrences. Here rendered as 'Law' with capitalization both times, emphasizing divine ordinance versus human desire.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "Sanctuary"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 221,
+          "snippet": "Law"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 10,
+          "snippet": "river"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 25,
+          "snippet": "grace"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 38,
+          "snippet": "Dispensation"
+        },
+        {
+          "work": "gleanings",
+          "para": 529,
+          "snippet": "one common Faith"
+        }
+      ]
+    },
+    {
+      "term": "الفرد",
+      "transliteration": "f-r-d",
+      "literal": "unique; singular; incomparable",
+      "se_rendering": "the Incomparable",
+      "note": "Usually 'unique' or 'wondrous' across 23 occurrences. Here paired with 'All-Informed' as 'the Incomparable'—stressing incomparability over singularity.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 2,
+          "snippet": "wondrous"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 249,
+          "snippet": "unique"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 49,
+          "snippet": "alone"
+        },
+        {
+          "work": "gleanings",
+          "para": 384,
+          "snippet": "oneness"
+        },
+        {
+          "work": "gleanings",
+          "para": 386,
+          "snippet": "His singleness"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 658,
+          "snippet": "Thy oneness"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 153,
+          "snippet": "Thy singleness"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 56,
+          "snippet": "court of Thy glory"
+        }
+      ]
+    },
+    {
+      "term": "الرحمن",
+      "transliteration": "r-ḥ-m",
+      "literal": "merciful, compassionate; pertaining to divine mercy",
+      "se_rendering": "the Merciful",
+      "note": "Typically 'merciful,' 'divine glory,' or 'spirit of mercy' across 70 occurrences. Here SE chooses 'the Merciful'—a direct divine epithet emphasizing mercy as active attribute.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 673,
+          "snippet": "Divine glory"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 57,
+          "snippet": "Divine"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 89,
+          "snippet": "celestial melody"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 114,
+          "snippet": "spirit of mercy"
+        },
+        {
+          "work": "gleanings",
+          "para": 372,
+          "snippet": "merciful"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 546,
+          "snippet": "mercy"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 50,
+          "snippet": "the Compassionate"
+        },
+        {
+          "work": "gleanings",
+          "para": 183,
+          "snippet": "the Merciful, the Compassionate"
+        }
+      ]
+    },
+    {
+      "term": "الفرقان",
+      "transliteration": "f-r-q",
+      "literal": "faction; sect; group; company",
+      "se_rendering": "the Qur'án",
+      "note": "Jafar data shows 28 occurrences with 'sect,' 'division,' 'separation.' SE renders as 'the Qur'án'—directly identifying the Islamic scripture rather than its etymological meaning of 'criterion/distinction.'",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 6,
+          "snippet": "sect"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 20,
+          "snippet": "the cause of division"
+        },
+        {
+          "work": "gleanings",
+          "para": 175,
+          "snippet": "hatred causes division"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 1,
+          "snippet": "separation"
+        },
+        {
+          "work": "gleanings",
+          "para": 258,
+          "snippet": "devised"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 32,
+          "snippet": "that separate"
+        },
+        {
+          "work": "gleanings",
+          "para": 207,
+          "snippet": "scattered"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 36,
+          "snippet": "cannot distinguish"
+        }
+      ]
+    },
+    {
+      "term": "حکم",
+      "transliteration": "h-k-m",
+      "literal": "government; rule; governance; wisdom",
+      "se_rendering": "commandment",
+      "note": "Typically 'government,' 'rule,' or 'mysteries' across 69 occurrences. Used twice: 'commandment' and 'commandment,' whereas Jafar data shows more varied renderings like 'rule' or 'signs of Thy sovereignty.'",
+      "cross_refs": [
+        {
+          "work": "kitab-i-ahd",
+          "para": 6,
+          "snippet": "rule"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "government"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 849,
+          "snippet": "signs of Thy sovereignty"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 160,
+          "snippet": "meaning of return"
+        },
+        {
+          "work": "gleanings",
+          "para": 224,
+          "snippet": "mysteries"
+        },
+        {
+          "work": "gleanings",
+          "para": 636,
+          "snippet": "rule of the sword"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 182,
+          "snippet": "mystery of the former verse"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 46,
+          "snippet": "conclusive"
+        }
+      ]
+    },
+    {
+      "term": "ملکوت",
+      "transliteration": "m-l-k",
+      "literal": "kingdom; dominion; realm; sovereignty",
+      "se_rendering": "kingdoms",
+      "note": "Regularly 'kingdom' or 'realm' across 70 occurrences. Here 'kingdoms' (plural) of both 'Revelation' and 'creation,' suggesting dual realms of divine authority.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-ahd",
+          "para": 16,
+          "snippet": "heaven"
+        },
+        {
+          "work": "gleanings",
+          "para": 394,
+          "snippet": "realm"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 71,
+          "snippet": "kingdom"
+        },
+        {
+          "work": "gleanings",
+          "para": 313,
+          "snippet": "heavenly gem"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 69,
+          "snippet": "realms"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 28,
+          "snippet": "righteous"
+        },
+        {
+          "work": "gleanings",
+          "para": 171,
+          "snippet": "by the heavenly power"
+        },
+        {
+          "work": "gleanings",
+          "para": 59,
+          "snippet": "Lord"
+        }
+      ]
+    }
+  ],
+  "section_index": "134",
+  "section": "134",
+  "section_para": 1
 }

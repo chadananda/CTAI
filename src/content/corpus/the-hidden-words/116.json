@@ -1,10 +1,289 @@
 {
   "work": "The Hidden Words",
   "slug": "the-hidden-words",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 116,
   "source_text": "(٤٠) ﴿ ای بنده من ﴾\nاز بند ملک خود را رهائی بخش و از حبس نفس خود را آزاد کن وقت را غنيمت شمر زيرا که اين وقت را ديگر نبينی و اين زمان را هرگز نيابی *",
   "translation": "(40) O MY SERVANT!\nFree thyself from the fetters of this world, and loose thy soul from the prison of self. Seize thy chance, for it will come to thee no more.",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "free-thyself-fetters-world",
+  "alignment": [
+    {
+      "ar": "بنده من",
+      "en": "MY SERVANT"
+    },
+    {
+      "ar": "بند",
+      "en": "fetters"
+    },
+    {
+      "ar": "ملک",
+      "en": "this world"
+    },
+    {
+      "ar": "خود",
+      "en": "thyself"
+    },
+    {
+      "ar": "رهائی بخش",
+      "en": "Free"
+    },
+    {
+      "ar": "حبس",
+      "en": "prison"
+    },
+    {
+      "ar": "نفس",
+      "en": "self"
+    },
+    {
+      "ar": "آزاد کن",
+      "en": "loose"
+    },
+    {
+      "ar": "وقت",
+      "en": "chance"
+    },
+    {
+      "ar": "غنيمت شمر",
+      "en": "Seize"
+    },
+    {
+      "ar": "اين",
+      "en": "it"
+    },
+    {
+      "ar": "ديگر",
+      "en": "no more"
+    },
+    {
+      "ar": "نبينی",
+      "en": "come to thee"
+    }
+  ],
+  "terms": [
+    {
+      "term": "ملک",
+      "transliteration": "m-l-k",
+      "literal": "kingdom; dominion; realm; sovereignty",
+      "se_rendering": "world",
+      "note": "Root typically yields 'kingdom' or 'realm' across 70 occurrences. Here rendered as 'world'—a notable departure emphasizing earthly rather than regal connotation.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-ahd",
+          "para": 16,
+          "snippet": "heaven"
+        },
+        {
+          "work": "gleanings",
+          "para": 394,
+          "snippet": "realm"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 171,
+          "snippet": "kingdom"
+        },
+        {
+          "work": "gleanings",
+          "para": 313,
+          "snippet": "heavenly gem"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 69,
+          "snippet": "realms"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 28,
+          "snippet": "righteous"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 167,
+          "snippet": "by the heavenly power"
+        },
+        {
+          "work": "gleanings",
+          "para": 59,
+          "snippet": "Lord"
+        }
+      ]
+    },
+    {
+      "term": "حبس",
+      "transliteration": "h-b-s",
+      "literal": "to confine; to detain; prison",
+      "se_rendering": "prison",
+      "note": "Only 3 occurrences in corpus, all relating to confinement. Here 'prison' maintains the literal imprisonment metaphor for self-attachment.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 514,
+          "snippet": "imprisoned"
+        }
+      ]
+    },
+    {
+      "term": "نفس",
+      "transliteration": "n-f-s",
+      "literal": "soul; self; person; essence",
+      "se_rendering": "self",
+      "note": "Root ordinarily renders as 'every one' or 'His life' across 2 occurrences. Here 'self'—capturing the ego-prison sense essential to mystical liberation theology.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 544,
+          "snippet": "every one"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 189,
+          "snippet": "His life"
+        }
+      ]
+    },
+    {
+      "term": "وقت",
+      "transliteration": "w-q-t",
+      "literal": "time; occasion; moment; period",
+      "se_rendering": "time",
+      "note": "Consistently 'time' across 11 occurrences in corpus. Maintained here with idiomatic English 'thy chance' to capture the sense of seizable moment.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 37,
+          "snippet": "moments"
+        },
+        {
+          "work": "gleanings",
+          "para": 34,
+          "snippet": "times"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 3,
+          "snippet": "all times"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 28,
+          "snippet": "time"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 121,
+          "snippet": "when"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 230,
+          "snippet": "when he becometh acquainted"
+        }
+      ]
+    },
+    {
+      "term": "غنيمت",
+      "transliteration": "gh-n-y",
+      "literal": "to be independent of; to be in no need of; to dispense with",
+      "se_rendering": "chance",
+      "note": "Root means 'to be independent of' but SE renders here as 'chance'—distinctly different from corpus patterns like 'treasure' or 'Self-Sufficing.' Reflects imperative sense rather than nominal.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 27,
+          "snippet": "in no need of"
+        },
+        {
+          "work": "gleanings",
+          "para": 685,
+          "snippet": "rid yourselves of attachment"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 660,
+          "snippet": "the All-Possessing"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 155,
+          "snippet": "Self-Sufficing"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 115,
+          "snippet": "the All-Bounteous"
+        },
+        {
+          "work": "gleanings",
+          "para": 179,
+          "snippet": "the Self-Subsisting"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 143,
+          "snippet": "the Rich"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 56,
+          "snippet": "sufficiency"
+        }
+      ]
+    },
+    {
+      "term": "زمان",
+      "transliteration": "z-m-n",
+      "literal": "time; age; era; period",
+      "se_rendering": "time",
+      "note": "Typically 'time' or 'age' in 12 occurrences. Here 'time' again, parallel to وقت but used to emphasize unrepeatable temporal opportunity.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 45,
+          "snippet": "time"
+        },
+        {
+          "work": "gleanings",
+          "para": 109,
+          "snippet": "age"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 197,
+          "snippet": "in this day"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 18,
+          "snippet": "lifetime"
+        },
+        {
+          "work": "gleanings",
+          "para": 357,
+          "snippet": "earth"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 30,
+          "snippet": "underground"
+        },
+        {
+          "work": "gleanings",
+          "para": 124,
+          "snippet": "ages"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 198,
+          "snippet": "of days"
+        }
+      ]
+    }
+  ],
+  "section_index": "228",
+  "section": "228",
+  "section_para": 1
 }

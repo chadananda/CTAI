@@ -1,10 +1,124 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 534,
   "source_text": "إِنَّكَ أَنْتَ رَبُّ السَّمواتِ وَالأَرَضِينَ.",
   "translation": "Praise be unto Thee, for Thou art, in truth, the Lord of earth and heaven.",
   "source_lang": "ar",
-  "score": 9.7
+  "score": 9.7,
+  "page_slug": "lord-of-earth-and-heaven",
+  "alignment": [
+    {
+      "ar": "أَنْتَ",
+      "en": "Thou"
+    },
+    {
+      "ar": "الأَرَضِينَ",
+      "en": "earth"
+    }
+  ],
+  "terms": [
+    {
+      "term": "السَّمواتِ",
+      "transliteration": "s-m-w",
+      "literal": "heaven; sky",
+      "se_rendering": "heaven",
+      "note": "Typically 'the heavens' or 'heaven' across 39 occurrences; here rendered 'heaven' in compound phrase with earth, maintaining cosmological duality.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 591,
+          "snippet": "heaven"
+        },
+        {
+          "work": "gleanings",
+          "para": 78,
+          "snippet": "heavens"
+        },
+        {
+          "work": "gleanings",
+          "para": 212,
+          "snippet": "breath"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 53,
+          "snippet": "heavenly Grace"
+        },
+        {
+          "work": "gleanings",
+          "para": 417,
+          "snippet": "heavenly Book"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 177,
+          "snippet": "heavenly Books"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 98,
+          "snippet": "heavenly Gospel"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 123,
+          "snippet": "the grace of God and the mercy of his Lord"
+        }
+      ]
+    },
+    {
+      "term": "والأَرَضِينَ",
+      "transliteration": "ʾ-r-d",
+      "literal": "earth; land; ground; country",
+      "se_rendering": "earth",
+      "note": "Root ا-ر-ض yields varied renderings ('The earth', 'land', 'soil'); here 'earth' captures the complementary terrestrial pole to celestial realm.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 76,
+          "snippet": "The earth"
+        },
+        {
+          "work": "gleanings",
+          "para": 203,
+          "snippet": "Land of Ṭá (Ṭihrán)"
+        },
+        {
+          "work": "gleanings",
+          "para": 207,
+          "snippet": "Land of Ṭá"
+        },
+        {
+          "work": "gleanings",
+          "para": 234,
+          "snippet": "land"
+        },
+        {
+          "work": "gleanings",
+          "para": 679,
+          "snippet": "soil"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 111,
+          "snippet": "Lord of Lords"
+        },
+        {
+          "work": "gleanings",
+          "para": 725,
+          "snippet": "Holy Land"
+        },
+        {
+          "work": "gleanings",
+          "para": 713,
+          "snippet": "lands"
+        }
+      ]
+    }
+  ],
+  "section_index": "CXX.6",
+  "section": "CXX",
+  "section_para": 6
 }

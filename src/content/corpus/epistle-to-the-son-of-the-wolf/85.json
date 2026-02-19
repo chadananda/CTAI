@@ -1,10 +1,758 @@
 {
   "work": "Epistle to the Son of the Wolf",
   "slug": "epistle-to-the-son-of-the-wolf",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 85,
   "source_text": "يا ملک انّا سمعنا منک کلمة تکلّمت بها اذ سألک ملک الرّوس عمّا قُضِیَ من حکم الغزاء انّ ربّک هو العليم الخبير * قلت کنت راقدا فی المهاد ايقظنی نداء العباد الّذين ظلموا الی ان غرقوا فی البحر الاسود کذلک سمعنا و ربّک علی ما اقول شهيد * نشهد انّک ما ايقظک النّداء بل الهوی لانّا بلوناک وجدناک فی معزل * اعرف لحن القول و کن من المتفرّسين * انّا ما نحبّ ان نرجع اليک کلمة سوء حفظا للمقام الّذی اعطيناک فی الحياة الظّاهرة انّا اخترنا الادب و جعلناه سجيّة المقرّبين * انّه ثوب يوافق النّفوس من کلّ صغير و کبير * طوبی لمن جعله طراز هيکله ويل لمن جعل محروما من هذا الفضل العظيم * لو کنت صاحب الکلمة ما نبذت کتاب اللّه وراء ظهرک اذ ارسل اليک من لدن عزيز حکيم * انّا بلوناک به ما وجدناک علی ما ادّعيت * قم و تدارک ما فات عنک سوف تفنی الدّنيا و ما عندک و يبقی الملک للّه ربّک و ربّ ابائک الاوّلين * لا ينبغی لک ان تقتصر الامور علی ما يهوی هواک اتّق زفرات المظلوم احفظه من سهام الظّالمين *",
   "translation": "\"O King! We heard the words thou didst utter in answer to the Czar of Russia, concerning the decision made regarding the war (Crimean War). Thy Lord, verily, knoweth, is informed of all. Thou didst say: \\‘I lay asleep upon my couch, when the cry of the oppressed, who were drowned in the Black Sea, wakened me.' This is what We heard thee say, and, verily, thy Lord is witness unto what I say. We testify that that which wakened thee was not their cry but the promptings of thine own passions, for We tested thee, and found thee wanting. Comprehend the meaning of My words, and be thou of the discerning. It is not Our wish to address thee words of condemnation, out of regard for the dignity We conferred upon thee in this mortal life. We, verily, have chosen courtesy, and made it the true mark of such as are nigh unto Him. Courtesy is, in truth, a raiment which fitteth all men, whether young or old. Well is it with him that adorneth his temple therewith, and woe unto him who is deprived of this great bounty. Hadst thou been sincere in thy words, thou wouldst have not cast behind thy back the Book of God, when it was sent unto thee by Him Who is the Almighty, the All-Wise. We have proved thee through it, and found thee other than that which thou didst profess. Arise, and make amends for that which escaped thee. Erelong the world and all that thou possessest will perish, and the kingdom will remain unto God, thy Lord and the Lord of thy fathers of old. It behooveth thee not to conduct thine affairs according to the dictates of thy desires. Fear the sighs of this Wronged One, and shield Him from the darts of such as act unjustly.",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "cry-oppressed-black-sea",
+  "alignment": [
+    {
+      "ar": "ملک",
+      "en": "King"
+    },
+    {
+      "ar": "سمعنا",
+      "en": "heard"
+    },
+    {
+      "ar": "منک",
+      "en": "thou"
+    },
+    {
+      "ar": "کلمة",
+      "en": "words"
+    },
+    {
+      "ar": "تکلّمت",
+      "en": "didst utter"
+    },
+    {
+      "ar": "سألک",
+      "en": "answer"
+    },
+    {
+      "ar": "ملک الرّوس",
+      "en": "Czar of Russia"
+    },
+    {
+      "ar": "قُضِیَ",
+      "en": "decision made"
+    },
+    {
+      "ar": "حکم",
+      "en": "decision"
+    },
+    {
+      "ar": "الغزاء",
+      "en": "war"
+    },
+    {
+      "ar": "ربّک",
+      "en": "Thy Lord"
+    },
+    {
+      "ar": "العليم",
+      "en": "knoweth"
+    },
+    {
+      "ar": "الخبير",
+      "en": "informed"
+    },
+    {
+      "ar": "قلت",
+      "en": "didst say"
+    },
+    {
+      "ar": "کنت",
+      "en": "lay"
+    },
+    {
+      "ar": "راقدا",
+      "en": "asleep"
+    },
+    {
+      "ar": "المهاد",
+      "en": "couch"
+    },
+    {
+      "ar": "ايقظنی",
+      "en": "wakened me"
+    },
+    {
+      "ar": "نداء",
+      "en": "cry"
+    },
+    {
+      "ar": "العباد",
+      "en": "oppressed"
+    },
+    {
+      "ar": "غرقوا",
+      "en": "drowned"
+    },
+    {
+      "ar": "البحر الاسود",
+      "en": "Black Sea"
+    },
+    {
+      "ar": "شهيد",
+      "en": "witness"
+    },
+    {
+      "ar": "نشهد",
+      "en": "testify"
+    },
+    {
+      "ar": "ما ايقظک",
+      "en": "that which wakened thee"
+    },
+    {
+      "ar": "النّداء",
+      "en": "their cry"
+    },
+    {
+      "ar": "الهوی",
+      "en": "promptings"
+    },
+    {
+      "ar": "بلوناک",
+      "en": "tested thee"
+    },
+    {
+      "ar": "وجدناک",
+      "en": "found thee"
+    },
+    {
+      "ar": "معزل",
+      "en": "wanting"
+    },
+    {
+      "ar": "اعرف",
+      "en": "Comprehend"
+    },
+    {
+      "ar": "لحن القول",
+      "en": "meaning of My words"
+    },
+    {
+      "ar": "المتفرّسين",
+      "en": "discerning"
+    },
+    {
+      "ar": "نحبّ",
+      "en": "wish"
+    },
+    {
+      "ar": "نرجع",
+      "en": "address"
+    },
+    {
+      "ar": "کلمة سوء",
+      "en": "words of condemnation"
+    },
+    {
+      "ar": "حفظا",
+      "en": "regard"
+    },
+    {
+      "ar": "اعطيناک",
+      "en": "conferred upon thee"
+    },
+    {
+      "ar": "الحياة الظّاهرة",
+      "en": "mortal life"
+    },
+    {
+      "ar": "اخترنا",
+      "en": "chosen"
+    },
+    {
+      "ar": "الادب",
+      "en": "courtesy"
+    },
+    {
+      "ar": "جعلناه",
+      "en": "made it"
+    },
+    {
+      "ar": "سجيّة",
+      "en": "true mark"
+    },
+    {
+      "ar": "المقرّبين",
+      "en": "nigh unto Him"
+    },
+    {
+      "ar": "ثوب",
+      "en": "raiment"
+    },
+    {
+      "ar": "يوافق",
+      "en": "fitteth"
+    },
+    {
+      "ar": "النّفوس",
+      "en": "men"
+    },
+    {
+      "ar": "صغير",
+      "en": "young"
+    },
+    {
+      "ar": "کبير",
+      "en": "old"
+    },
+    {
+      "ar": "طوبی",
+      "en": "Well is it"
+    },
+    {
+      "ar": "جعله",
+      "en": "adorneth"
+    },
+    {
+      "ar": "هيکله",
+      "en": "temple"
+    },
+    {
+      "ar": "ويل",
+      "en": "woe"
+    },
+    {
+      "ar": "محروما",
+      "en": "deprived"
+    },
+    {
+      "ar": "الفضل العظيم",
+      "en": "great bounty"
+    },
+    {
+      "ar": "کنت",
+      "en": "Hadst thou been"
+    },
+    {
+      "ar": "صاحب الکلمة",
+      "en": "sincere in thy words"
+    },
+    {
+      "ar": "ما نبذت",
+      "en": "not cast"
+    },
+    {
+      "ar": "کتاب اللّه",
+      "en": "Book of God"
+    },
+    {
+      "ar": "وراء ظهرک",
+      "en": "behind thy back"
+    },
+    {
+      "ar": "ارسل",
+      "en": "sent"
+    },
+    {
+      "ar": "اليک",
+      "en": "unto thee"
+    },
+    {
+      "ar": "عزيز",
+      "en": "Almighty"
+    },
+    {
+      "ar": "حکيم",
+      "en": "All-Wise"
+    },
+    {
+      "ar": "بلوناک",
+      "en": "proved thee"
+    },
+    {
+      "ar": "ما وجدناک",
+      "en": "found thee other"
+    },
+    {
+      "ar": "ادّعيت",
+      "en": "didst profess"
+    },
+    {
+      "ar": "قم",
+      "en": "Arise"
+    },
+    {
+      "ar": "تدارک",
+      "en": "make amends"
+    },
+    {
+      "ar": "ما فات",
+      "en": "that which escaped thee"
+    },
+    {
+      "ar": "تفنی",
+      "en": "perish"
+    },
+    {
+      "ar": "الدّنيا",
+      "en": "world"
+    },
+    {
+      "ar": "ما عندک",
+      "en": "all that thou possessest"
+    },
+    {
+      "ar": "يبقی",
+      "en": "remain"
+    },
+    {
+      "ar": "الملک",
+      "en": "kingdom"
+    },
+    {
+      "ar": "ربّک",
+      "en": "thy Lord"
+    },
+    {
+      "ar": "ربّ ابائک الاوّلين",
+      "en": "Lord of thy fathers of old"
+    },
+    {
+      "ar": "لا ينبغی",
+      "en": "behooveth thee not"
+    },
+    {
+      "ar": "تقتصر",
+      "en": "conduct"
+    },
+    {
+      "ar": "الامور",
+      "en": "affairs"
+    },
+    {
+      "ar": "يهوی هواک",
+      "en": "dictates of thy desires"
+    },
+    {
+      "ar": "اتّق",
+      "en": "Fear"
+    },
+    {
+      "ar": "زفرات",
+      "en": "sighs"
+    },
+    {
+      "ar": "المظلوم",
+      "en": "Wronged One"
+    },
+    {
+      "ar": "احفظه",
+      "en": "shield Him"
+    },
+    {
+      "ar": "سهام",
+      "en": "darts"
+    },
+    {
+      "ar": "الظّالمين",
+      "en": "such as act unjustly"
+    }
+  ],
+  "terms": [
+    {
+      "term": "تکلّمت",
+      "transliteration": "k-l-m",
+      "literal": "words; utterances; locutions",
+      "se_rendering": "words",
+      "note": "Rendered 'words' (plural noun). Corpus shows 'His Word,' 'Word of God,' 'utterances'—here SE keeps earthly speech register rather than elevating to divine Locution despite Bahá'u'lláh's authorship.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 6,
+          "snippet": "words"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 38,
+          "snippet": "His Word"
+        },
+        {
+          "work": "gleanings",
+          "para": 353,
+          "snippet": "the Word of God"
+        },
+        {
+          "work": "gleanings",
+          "para": 603,
+          "snippet": "a jewel"
+        },
+        {
+          "work": "gleanings",
+          "para": 441,
+          "snippet": "a word"
+        },
+        {
+          "work": "gleanings",
+          "para": 689,
+          "snippet": "the sayings"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 48,
+          "snippet": "Thy Word"
+        },
+        {
+          "work": "gleanings",
+          "para": 138,
+          "snippet": "the Word"
+        }
+      ]
+    },
+    {
+      "term": "شهيد",
+      "transliteration": "sh-h-d",
+      "literal": "witnessed; observed; seen; evident; manifest",
+      "se_rendering": "witness",
+      "note": "Rendered 'witness' here in direct testimony. Corpus shows 'I testify,' 'manifest,' 'evident,' and 'martyrdom'—this instance emphasizes God's role as observer rather than witness-bearer or martyr.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 607,
+          "snippet": "manifest"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 35,
+          "snippet": "evident"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 811,
+          "snippet": "I bear witness"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 836,
+          "snippet": "I testify"
+        },
+        {
+          "work": "gleanings",
+          "para": 298,
+          "snippet": "witness"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 138,
+          "snippet": "martyrdom"
+        },
+        {
+          "work": "gleanings",
+          "para": 134,
+          "snippet": "God witnesseth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 230,
+          "snippet": "God testifieth"
+        }
+      ]
+    },
+    {
+      "term": "حفظا",
+      "transliteration": "h-f-z",
+      "literal": "guardian; preserver; keeper",
+      "se_rendering": "regard",
+      "note": "Rendered 'regard' (abstract respect). Corpus typically uses 'protection,' 'shield,' 'Guardian'—this instance emphasizes honorific consideration over physical guardianship or divine protection role.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 3,
+          "snippet": "protection"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 44,
+          "snippet": "shield"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 55,
+          "snippet": "guard"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 22,
+          "snippet": "Guardian"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 193,
+          "snippet": "Keep"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 102,
+          "snippet": "Preserve"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 625,
+          "snippet": "the Preserver"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 30,
+          "snippet": "been preserved"
+        }
+      ]
+    },
+    {
+      "term": "الظاهره",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "mortal life",
+      "note": "Rendered 'mortal life' here, a temporal-descriptive sense. Corpus typically uses 'Manifestation,' 'manifestation,' or 'material'—this rendering emphasizes transience rather than divine appearance.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 53,
+          "snippet": "Manifestation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 160,
+          "snippet": "Author of all Manifestations"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 136,
+          "snippet": "evident"
+        },
+        {
+          "work": "gleanings",
+          "para": 222,
+          "snippet": "material"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 196,
+          "snippet": "Manifestations of God"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 255,
+          "snippet": "Manifestations"
+        }
+      ]
+    },
+    {
+      "term": "الفضل",
+      "transliteration": "f-d-l",
+      "literal": "grace; bounty; generosity; excellence",
+      "se_rendering": "bounty",
+      "note": "Rendered 'bounty' here as spiritual gift. Corpus shows 'grace,' 'gracious favor,' 'merits'—this rendering emphasizes abundance and generosity, fitting courtesy's presentation as gracious bestowing rather than mere grace.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 50,
+          "snippet": "the Gracious, the All-Bountiful"
+        },
+        {
+          "work": "gleanings",
+          "para": 10,
+          "snippet": "most excellent favors"
+        },
+        {
+          "work": "gleanings",
+          "para": 60,
+          "snippet": "grace"
+        },
+        {
+          "work": "gleanings",
+          "para": 234,
+          "snippet": "His gracious favor"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "graciously"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 92,
+          "snippet": "realms"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 278,
+          "snippet": "realm"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 782,
+          "snippet": "through Thy grace"
+        }
+      ]
+    },
+    {
+      "term": "العظيم",
+      "transliteration": "ʿ-z̟-m",
+      "literal": "greatest; supreme; mightiest",
+      "se_rendering": "great",
+      "note": "Rendered 'great' as simple adjective. Corpus typically elevates to 'Most Great,' 'supreme,' 'greatest'—this understated rendering suits the condemnatory address and avoids honorific intensity.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 56,
+          "snippet": "supreme"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 269,
+          "snippet": "Most Great"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 734,
+          "snippet": "Most Great Name"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 3,
+          "snippet": "greatest"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 6,
+          "snippet": "greater"
+        },
+        {
+          "work": "gleanings",
+          "para": 10,
+          "snippet": "most mighty"
+        },
+        {
+          "work": "gleanings",
+          "para": 392,
+          "snippet": "great"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 9,
+          "snippet": "mighty"
+        }
+      ]
+    },
+    {
+      "term": "الامور",
+      "transliteration": "ʾ-m-r",
+      "literal": "command; cause; matter; affair",
+      "se_rendering": "affairs",
+      "note": "Rendered 'affairs' in secular governance context. Corpus usually renders as 'Cause,' 'Revelation,' or 'His command'—here SE preserves the administrative meaning for the earthly king without theological elevation.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "His Cause"
+        },
+        {
+          "work": "gleanings",
+          "para": 586,
+          "snippet": "His command"
+        },
+        {
+          "work": "gleanings",
+          "para": 691,
+          "snippet": "His Revelation"
+        },
+        {
+          "work": "gleanings",
+          "para": 723,
+          "snippet": "Cause"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 797,
+          "snippet": "Thy Cause"
+        },
+        {
+          "work": "gleanings",
+          "para": 8,
+          "snippet": "Revelation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 597,
+          "snippet": "service"
+        },
+        {
+          "work": "gleanings",
+          "para": 524,
+          "snippet": "your affairs"
+        }
+      ]
+    },
+    {
+      "term": "المظلوم",
+      "transliteration": "z-l-m",
+      "literal": "wrongedness, oppression, meekness; state of being wronged or oppressed",
+      "se_rendering": "Wronged One",
+      "note": "Capitalized as 'Wronged One' here in reference to Bahá'u'lláh Himself—theological personalizing. Usually rendered as 'afflicted,' 'wronged,' or 'meekness' across corpus; capital designation signals sacred identity unique to this passage.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 498,
+          "snippet": "afflicted with countless tribulations"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 49,
+          "snippet": "meekness"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 116,
+          "snippet": "injury"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 3,
+          "snippet": "Wronged One"
+        },
+        {
+          "work": "gleanings",
+          "para": 221,
+          "snippet": "oppression"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 9,
+          "snippet": "Darkness"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 33,
+          "snippet": "tyranny"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 573,
+          "snippet": "oppressed"
+        }
+      ]
+    }
+  ],
+  "section_index": "85",
+  "section": "85",
+  "section_para": 1
 }

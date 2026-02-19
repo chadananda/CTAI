@@ -1,10 +1,284 @@
 {
   "work": "Tablet of the Holy Mariner",
   "slug": "tablet-of-the-holy-mariner",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 29,
   "source_text": "إذا اهتزّت هياكل الوجود عن قبور الفناء فسبحان ربّي الأبهى",
   "translation": "All beings were shaken in their mortal graves \nGlorified be my Lord, the All-Glorious!",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "shaken-mortal-graves-glorified",
+  "alignment": [
+    {
+      "ar": "اهتزّت",
+      "en": "were shaken"
+    },
+    {
+      "ar": "هياكل",
+      "en": "beings"
+    },
+    {
+      "ar": "الوجود",
+      "en": "All"
+    },
+    {
+      "ar": "قبور",
+      "en": "graves"
+    },
+    {
+      "ar": "الفناء",
+      "en": "mortal"
+    },
+    {
+      "ar": "فسبحان",
+      "en": "Glorified"
+    },
+    {
+      "ar": "ربّي",
+      "en": "my Lord"
+    },
+    {
+      "ar": "الأبهى",
+      "en": "All-Glorious"
+    }
+  ],
+  "terms": [
+    {
+      "term": "اهتزّت",
+      "transliteration": "h-z-z",
+      "literal": "to shake, quiver, vibrate, tremble with emotion",
+      "se_rendering": "shaken",
+      "note": "Core rendering 'shaken' appears 14 times across corpus; here deployed to open the passage with maximum dramatic force, establishing the eschatological tremor.",
+      "cross_refs": [
+        {
+          "work": "tablet-of-carmel",
+          "para": 2,
+          "snippet": "transports of joy"
+        },
+        {
+          "work": "gleanings",
+          "para": 282,
+          "snippet": "the tremor of the Word"
+        },
+        {
+          "work": "gleanings",
+          "para": 652,
+          "snippet": "the Tree of My care trembled"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 215,
+          "snippet": "disturbed"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 827,
+          "snippet": "set aflame"
+        }
+      ]
+    },
+    {
+      "term": "هياكل",
+      "transliteration": "h-k-l",
+      "literal": "temple; structure; form; body",
+      "se_rendering": "beings",
+      "note": "Typically 'Temple' or 'human temple' (20 occ); rendered here as 'beings' to preserve parallel structure with 'الوجود', creating abstract spiritual scope rather than concrete form.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "Temple"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 96,
+          "snippet": "Súratu'l-Haykal"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 10,
+          "snippet": "person"
+        },
+        {
+          "work": "gleanings",
+          "para": 168,
+          "snippet": "beauty of the immortal Being"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 154,
+          "snippet": "Being"
+        },
+        {
+          "work": "gleanings",
+          "para": 326,
+          "snippet": "human temple"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 28,
+          "snippet": "body"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 196,
+          "snippet": "temples"
+        }
+      ]
+    },
+    {
+      "term": "الوجود",
+      "transliteration": "w-j-d",
+      "literal": "to find; to discover; to obtain",
+      "se_rendering": "being",
+      "note": "Most frequent rendering 'being' (67 occ); combined with 'هياکل' to denote the totality of creation shaken, not isolated existence or discovery.",
+      "cross_refs": [
+        {
+          "work": "the-hidden-words",
+          "para": 91,
+          "snippet": "adorned"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 27,
+          "snippet": "found"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 215,
+          "snippet": "mentioned"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 69,
+          "snippet": "aware"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 783,
+          "snippet": "point of creation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 832,
+          "snippet": "being"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 214,
+          "snippet": "is led"
+        },
+        {
+          "work": "gleanings",
+          "para": 436,
+          "snippet": "The Great Being"
+        }
+      ]
+    },
+    {
+      "term": "قبور",
+      "transliteration": "q-b-r",
+      "literal": "Cyprus (toponym)",
+      "se_rendering": "graves",
+      "note": "Root meaning Cyprus but rendered 'graves' here (5 occ); contextually mandatory given 'الفناء' (annihilation), creating the mortuary metaphor for material existence.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 176,
+          "snippet": "Cyprus"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 178,
+          "snippet": "graves"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 151,
+          "snippet": "sepulchers"
+        }
+      ]
+    },
+    {
+      "term": "الفناء",
+      "transliteration": "f-n-y",
+      "literal": "annihilation; perishing; extinction; cessation; the threshold",
+      "se_rendering": "mortal",
+      "note": "Polysemous root (12 occ): 'annihilation', 'perisheth', 'dieth to himself'; here uniquely 'mortal' as modifier, rendering the concept as adjective rather than noun—a compression that intensifies spiritual contempt for the material.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 2,
+          "snippet": "perisheth not"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 719,
+          "snippet": "annihilation"
+        },
+        {
+          "work": "gleanings",
+          "para": 50,
+          "snippet": "expire"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 24,
+          "snippet": "perisheth"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 70,
+          "snippet": "dieth to himself"
+        },
+        {
+          "work": "gleanings",
+          "para": 104,
+          "snippet": "absolute servitude, utter destitution"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 194,
+          "snippet": "complete annihilation"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 84,
+          "snippet": "mortal"
+        }
+      ]
+    },
+    {
+      "term": "الأبهى",
+      "transliteration": "b-h-y",
+      "literal": "splendor; glory; magnificence; Bahá (Proper Name in Bahá'í texts)",
+      "se_rendering": "All-Glorious",
+      "note": "Renders as 'All-Glorious' here (17 occ also include 'Bahá', 'Abhá', 'Glory'); proper-name resonance ('Bahá') is suppressed in favor of superlative epithet, emphasizing divine attribute over nomenclature.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 280,
+          "snippet": "Bahá"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 59,
+          "snippet": "Glory"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 51,
+          "snippet": "Abhá"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 271,
+          "snippet": "All-Glorious"
+        }
+      ]
+    }
+  ],
+  "section_index": "30",
+  "section": "30",
+  "section_para": 1
 }

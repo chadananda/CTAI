@@ -1,10 +1,395 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 98,
   "source_text": "جَهْرَةً رِسالاتِكَ وَأَوامِرَكَ وَما أَرادَ فِيْ حِينٍ مِنَ الأَحْيانِ حِفْظَ نَفْسِهِ بَلْ حِفْظَ عِبادِكَ عَمَّا يَمْنَعُهُمْ عَنِ التَّقَرُّبِ إِلى مَلَكُوتِ قُرْبِكَ وَالتَّوجُّهِ إِلى أُفُقِ رِضائِكَ، يا إِلهِي تَراهُ تَحْتَ السَّيْفِ يَدْعُ الأُمَمَ",
   "translation": "So highly didst Thou exalt Him that He openly delivered unto the kings Thy messages and commandments, and hath never for one moment sought His own protection, but striven to protect Thy servants from whatever might withhold them from approaching the kingdom of Thy nearness, and from setting their faces towards the horizon of Thy good pleasure.",
   "source_lang": "ar",
-  "score": 9.5
+  "score": 9.5,
+  "page_slug": "openly-delivered-messages-commandments",
+  "alignment": [
+    {
+      "ar": "جَهْرَةً",
+      "en": "openly"
+    },
+    {
+      "ar": "رِسالاتِكَ",
+      "en": "messages"
+    },
+    {
+      "ar": "وَأَوامِرَكَ",
+      "en": "commandments"
+    },
+    {
+      "ar": "أَرادَ",
+      "en": "sought"
+    },
+    {
+      "ar": "حِينٍ",
+      "en": "moment"
+    },
+    {
+      "ar": "الأَحْيانِ",
+      "en": "one"
+    },
+    {
+      "ar": "حِفْظَ",
+      "en": "protection"
+    },
+    {
+      "ar": "نَفْسِهِ",
+      "en": "His own"
+    },
+    {
+      "ar": "بَلْ",
+      "en": "but"
+    },
+    {
+      "ar": "حِفْظَ",
+      "en": "protect"
+    },
+    {
+      "ar": "عِبادِكَ",
+      "en": "Thy servants"
+    },
+    {
+      "ar": "يَمْنَعُهُمْ",
+      "en": "withhold them"
+    },
+    {
+      "ar": "مَلَكُوتِ",
+      "en": "kingdom"
+    },
+    {
+      "ar": "قُرْبِكَ",
+      "en": "Thy nearness"
+    },
+    {
+      "ar": "أُفُقِ",
+      "en": "horizon"
+    },
+    {
+      "ar": "رِضائِكَ",
+      "en": "Thy good pleasure"
+    },
+    {
+      "ar": "إِلهِي",
+      "en": "Thou"
+    },
+    {
+      "ar": "تَراهُ",
+      "en": "Him"
+    },
+    {
+      "ar": "تَحْتَ",
+      "en": "highly"
+    },
+    {
+      "ar": "يَدْعُ",
+      "en": "delivered"
+    },
+    {
+      "ar": "الأُمَمَ",
+      "en": "the kings"
+    }
+  ],
+  "terms": [
+    {
+      "term": "جَهْرَةً",
+      "transliteration": "j-h-r",
+      "literal": "to proclaim openly; manifest; public",
+      "se_rendering": "openly",
+      "note": "Root j-h-r rendered 'in secret' elsewhere (1 occ); SE uniquely chooses 'openly' here, inverting expected meaning — likely contextual emphasis on public proclamation contra concealment.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 43,
+          "snippet": "in secret"
+        }
+      ]
+    },
+    {
+      "term": "رِسالاتِكَ",
+      "transliteration": "r-s-l",
+      "literal": "to send; dispatch; transmission",
+      "se_rendering": "messages",
+      "note": "Typically 'messages' or 'Epistle' across 31 occurrences; SE's 'messages' here maintains plural accessibility rather than singular authority-document reading.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 95,
+          "snippet": "dispatch"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 202,
+          "snippet": "communicate"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 45,
+          "snippet": "Thy Messengers"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 53,
+          "snippet": "treatise on"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 145,
+          "snippet": "Epistle"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 198,
+          "snippet": "Messengership"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 222,
+          "snippet": "mission"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 5,
+          "snippet": "King of the Messengers"
+        }
+      ]
+    },
+    {
+      "term": "حِفْظَ",
+      "transliteration": "h-f-z",
+      "literal": "guardian; preserver; keeper",
+      "se_rendering": "protection",
+      "note": "Standard 'protection' or 'guard' across 45 occurrences; SE preserves 'protection' consistently, but context shifts from self-protection to servanthood-protection, inverting agency.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 3,
+          "snippet": "protection"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 44,
+          "snippet": "shield"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 55,
+          "snippet": "guard"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 22,
+          "snippet": "Guardian"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 90,
+          "snippet": "Watch"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 45,
+          "snippet": "keep"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 30,
+          "snippet": "been preserved"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 165,
+          "snippet": "protected"
+        }
+      ]
+    },
+    {
+      "term": "عِبادِكَ",
+      "transliteration": "ʿ-b-d",
+      "literal": "servant; slave; worshipper",
+      "se_rendering": "Thy servants",
+      "note": "Typically 'Thy servants' (68 occ); SE retains literal form here; notable that ʿ-b-d root allows 'servant' (individual) or 'worshipper' — collective sense dominates.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 686,
+          "snippet": "servants"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 27,
+          "snippet": "'Abdu'l‑Bahá"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 260,
+          "snippet": "'Abdu'l-'Azíz"
+        },
+        {
+          "work": "gleanings",
+          "para": 67,
+          "snippet": "servant"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 10,
+          "snippet": "this wronged servant of Thine"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 47,
+          "snippet": "this servant of Thine"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 50,
+          "snippet": "the servants"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 12,
+          "snippet": "Thy trusted servants"
+        }
+      ]
+    },
+    {
+      "term": "التَّقَرُّبِ",
+      "transliteration": "q-r-b",
+      "literal": "place of sacrifice; altar",
+      "se_rendering": "approaching",
+      "note": "Root q-r-b typically 'draw near' or 'drawing near' across 44 occurrences; SE's 'approaching' here stresses active motion rather than sacrificial proximity.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 3,
+          "snippet": "unto the place of sacrifice"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 35,
+          "snippet": "my kindred"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 159,
+          "snippet": "their kindred"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 163,
+          "snippet": "at hand"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 9,
+          "snippet": "well-nigh"
+        },
+        {
+          "work": "gleanings",
+          "para": 191,
+          "snippet": "near"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 199,
+          "snippet": "draw them nigh unto God"
+        },
+        {
+          "work": "gleanings",
+          "para": 266,
+          "snippet": "draw them nearer unto Thee"
+        }
+      ]
+    },
+    {
+      "term": "مَلَكُوتِ",
+      "transliteration": "m-l-k",
+      "literal": "kingdom; dominion; realm; sovereignty",
+      "se_rendering": "kingdom",
+      "note": "Rendered 'kingdom' or 'realm' across 70 occurrences; 'kingdom' here emphasizes transcendent sovereignty (Malakut as celestial domain) versus earthly realm.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-ahd",
+          "para": 16,
+          "snippet": "heaven"
+        },
+        {
+          "work": "gleanings",
+          "para": 394,
+          "snippet": "realm"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 171,
+          "snippet": "kingdom"
+        },
+        {
+          "work": "gleanings",
+          "para": 313,
+          "snippet": "heavenly gem"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 69,
+          "snippet": "realms"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 28,
+          "snippet": "righteous"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 167,
+          "snippet": "by the heavenly power"
+        },
+        {
+          "work": "gleanings",
+          "para": 59,
+          "snippet": "Lord"
+        }
+      ]
+    },
+    {
+      "term": "السَّيْفِ",
+      "transliteration": "s-y-f",
+      "literal": "sword",
+      "se_rendering": "the sword",
+      "note": "Standard 'sword' or 'the sword' across 8 occurrences; SE preserves literal instrument, situating martyrdom as climactic proof of unwavering proclamation.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 636,
+          "snippet": "the sword"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 149,
+          "snippet": "sword"
+        },
+        {
+          "work": "gleanings",
+          "para": 244,
+          "snippet": "My sword"
+        },
+        {
+          "work": "gleanings",
+          "para": 212,
+          "snippet": "swords"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 93,
+          "snippet": "with the sword"
+        }
+      ]
+    }
+  ],
+  "section_index": "XXXI.3",
+  "section": "XXXI",
+  "section_para": 3
 }

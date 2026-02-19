@@ -1,10 +1,499 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 579,
   "source_text": "فقوا إنّه ما من إله إلّا هو له الخلق و‌الأمر يعطي من يشاء و‌يمنع عمّن يشاء وإنّه لهو المعطي الباذل العزيز الكريم قل يا ملأ البهاء بلّغوا أمر اللّه لأنّ اللّه كتب لكلّ نفس تبليغ أمره و‌جعله أفضل الأعمال لأنّها لن يقبل إلّا بعد عرفان اللّه المهيمن العزيز القدير و‌قدّر التّبليغ بالبيان لا بدونه كذلك نزل الأمر من جبروت اللّه العليّ الحكيم إيّاكم أن لا تحاربوا مع نفس بل ذكّروها باليبان الحسنة و‌الموعظة البالغة إن كانت متذكّرة فلها وإلّا فأعرضوا عنها ثمّ اقبلوا إلی شطر",
   "translation": "Say: Teach ye the Cause of God, O people of Bahá, for God hath prescribed unto every one the duty of proclaiming His Message, and regardeth it as the most meritorious of all deeds. Such a deed is acceptable only when he that teacheth the Cause is already a firm believer in God, the Supreme Protector, the Gracious, the Almighty. He hath, moreover, ordained that His Cause be taught through the power of men’s utterance, and not through resort to violence. Thus hath His ordinance been sent down from the Kingdom of Him Who is the Most Exalted, the All-Wise. Beware lest ye contend with anyone, nay, strive to make him aware of the truth with kindly manner and most convincing exhortation. If your hearer respond, he will have responded to his own behoof, and if not, turn ye away from him, and set your faces towards God’s sacred Court, the seat of resplendent holiness.",
   "source_lang": "ar",
-  "score": 9.6
+  "score": 9.6,
+  "page_slug": "teach-cause-god-kindly-manner",
+  "alignment": [
+    {
+      "ar": "قل",
+      "en": "Say"
+    },
+    {
+      "ar": "يا",
+      "en": "O"
+    },
+    {
+      "ar": "ملأ",
+      "en": "people"
+    },
+    {
+      "ar": "البهاء",
+      "en": "Bahá"
+    },
+    {
+      "ar": "بلّغوا",
+      "en": "Teach ye"
+    },
+    {
+      "ar": "أمر",
+      "en": "Cause"
+    },
+    {
+      "ar": "اللّه",
+      "en": "God"
+    },
+    {
+      "ar": "لأنّ",
+      "en": "for"
+    },
+    {
+      "ar": "كتب",
+      "en": "hath prescribed"
+    },
+    {
+      "ar": "لكلّ",
+      "en": "unto every"
+    },
+    {
+      "ar": "نفس",
+      "en": "one"
+    },
+    {
+      "ar": "تبليغ",
+      "en": "the duty of proclaiming"
+    },
+    {
+      "ar": "أمره",
+      "en": "His Message"
+    },
+    {
+      "ar": "جعله",
+      "en": "regardeth it"
+    },
+    {
+      "ar": "أفضل",
+      "en": "the most meritorious"
+    },
+    {
+      "ar": "الأعمال",
+      "en": "deeds"
+    },
+    {
+      "ar": "لن يقبل",
+      "en": "acceptable"
+    },
+    {
+      "ar": "إلّا",
+      "en": "only"
+    },
+    {
+      "ar": "بعد",
+      "en": "when"
+    },
+    {
+      "ar": "عرفان",
+      "en": "a firm believer in"
+    },
+    {
+      "ar": "المهيمن",
+      "en": "the Supreme Protector"
+    },
+    {
+      "ar": "العزيز",
+      "en": "the Gracious"
+    },
+    {
+      "ar": "القدير",
+      "en": "the Almighty"
+    },
+    {
+      "ar": "قدّر",
+      "en": "ordained"
+    },
+    {
+      "ar": "التّبليغ",
+      "en": "His Cause be taught"
+    },
+    {
+      "ar": "لا",
+      "en": "not"
+    },
+    {
+      "ar": "بدونه",
+      "en": "through resort to violence"
+    },
+    {
+      "ar": "كذلك",
+      "en": "Thus"
+    },
+    {
+      "ar": "نزل",
+      "en": "hath His ordinance been sent down"
+    },
+    {
+      "ar": "الأمر",
+      "en": "ordinance"
+    },
+    {
+      "ar": "جبروت",
+      "en": "the Kingdom"
+    },
+    {
+      "ar": "العليّ",
+      "en": "the Most Exalted"
+    },
+    {
+      "ar": "الحكيم",
+      "en": "the All-Wise"
+    },
+    {
+      "ar": "إيّاكم",
+      "en": "Beware"
+    },
+    {
+      "ar": "أن لا تحاربوا",
+      "en": "lest ye contend"
+    },
+    {
+      "ar": "مع",
+      "en": "with"
+    },
+    {
+      "ar": "نفس",
+      "en": "anyone"
+    },
+    {
+      "ar": "بل",
+      "en": "nay"
+    },
+    {
+      "ar": "ذكّروها",
+      "en": "strive to make him aware"
+    },
+    {
+      "ar": "باليبان الحسنة",
+      "en": "with kindly manner"
+    },
+    {
+      "ar": "الموعظة البالغة",
+      "en": "most convincing exhortation"
+    },
+    {
+      "ar": "إن كانت متذكّرة",
+      "en": "If your hearer respond"
+    },
+    {
+      "ar": "فلها",
+      "en": "he will have responded to his own behoof"
+    },
+    {
+      "ar": "وإلّا",
+      "en": "and if not"
+    },
+    {
+      "ar": "فأعرضوا",
+      "en": "turn ye away"
+    },
+    {
+      "ar": "عنها",
+      "en": "from him"
+    },
+    {
+      "ar": "ثمّ",
+      "en": "and"
+    },
+    {
+      "ar": "اقبلوا",
+      "en": "set your faces"
+    }
+  ],
+  "terms": [
+    {
+      "term": "العزيز",
+      "transliteration": "ʿ-z-z",
+      "literal": "glory; might; honor; dignity; power; majesty",
+      "se_rendering": "the Gracious",
+      "note": "Predominantly 'glory' or 'might' (49 occ). SE uses 'the Gracious' in this passage—exceptionally tender rendering appearing nowhere else in concordance data, softening divine majesty with compassionate accessibility.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 245,
+          "snippet": "glory"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 491,
+          "snippet": "exalted"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 99,
+          "snippet": "Dear"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 38,
+          "snippet": "dearly beloved"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 37,
+          "snippet": "Gracious"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 162,
+          "snippet": "Mighty"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 789,
+          "snippet": "Thy glory"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 158,
+          "snippet": "on thy glory"
+        }
+      ]
+    },
+    {
+      "term": "الكريم",
+      "transliteration": "k-r-m",
+      "literal": "Carmel (Mount Carmel); vineyard, fruitful field",
+      "se_rendering": "the All-Bountiful",
+      "note": "Concordance conflates with Carmel (Mount); actual renderings span 'the All-Bountiful' to 'the Gracious' (21 occ). SE chooses 'the All-Bountiful' here—emphasizing generosity as divine attribute within pedagogical context.",
+      "cross_refs": [
+        {
+          "work": "tablet-of-carmel",
+          "para": 4,
+          "snippet": "O Carmel"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 211,
+          "snippet": "Carmel"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 50,
+          "snippet": "the All-Bountiful"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 26,
+          "snippet": "the Gracious"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 144,
+          "snippet": "generosity"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 662,
+          "snippet": "the God of bounty and mercy"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 657,
+          "snippet": "bounty"
+        }
+      ]
+    },
+    {
+      "term": "تبليغ",
+      "transliteration": "ʿ-b-d",
+      "literal": "servant; slave; worshipper",
+      "se_rendering": "proclaiming His Message",
+      "note": "Concordance shows root ع-ب-د (servant); this passage uses ت-ب-ل-ي-غ. SE renders as 'proclaiming His Message' and 'duty of proclaiming'—standard across corpus but contextually emphasizes didactic proclamation over abstract concept.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 279,
+          "snippet": "Thy servants"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 431,
+          "snippet": "servants"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 27,
+          "snippet": "'Abdu'l‑Bahá"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 204,
+          "snippet": "Thy servant"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 260,
+          "snippet": "'Abdu'l-'Azíz"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 663,
+          "snippet": "servant"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 10,
+          "snippet": "this wronged servant of Thine"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 47,
+          "snippet": "this servant of Thine"
+        }
+      ]
+    },
+    {
+      "term": "افضل",
+      "transliteration": "f-d-l",
+      "literal": "grace; bounty; generosity; excellence",
+      "se_rendering": "most meritorious",
+      "note": "Range includes 'most excellent favors' and 'grace' (36 occ). SE renders 'most meritorious' here—an ethical-evaluative choice highlighting teaching's rank in divine reckoning rather than ontological grace-bestowal.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 50,
+          "snippet": "the Gracious, the All-Bountiful"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 115,
+          "snippet": "the All-Bounteous"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 259,
+          "snippet": "merits"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "graciously"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 92,
+          "snippet": "realms"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 278,
+          "snippet": "realm"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 782,
+          "snippet": "through Thy grace"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 709,
+          "snippet": "by Thy grace"
+        }
+      ]
+    },
+    {
+      "term": "عرفان",
+      "transliteration": "ʿ-r-f",
+      "literal": "to confess; to acknowledge; to recognize",
+      "se_rendering": "firm believer in God",
+      "note": "Typically 'acknowledged' or 'understanding' (82 occ). Here SE renders 'firm believer in God'—a notably interpretive expansion converting intellectual recognition into spiritual conviction and steadfastness.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 601,
+          "snippet": "testifieth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 729,
+          "snippet": "hath acknowledged"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 582,
+          "snippet": "have recognized"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 228,
+          "snippet": "acknowledged"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 744,
+          "snippet": "understanding"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 5,
+          "snippet": "acknowledging"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 4,
+          "snippet": "fragrance of His garment"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 114,
+          "snippet": "Thy knowledge"
+        }
+      ]
+    },
+    {
+      "term": "جبروت",
+      "transliteration": "j-b-r",
+      "literal": "compelled; forced; constrained",
+      "se_rendering": "the Kingdom",
+      "note": "Ranges from 'the realm of might' to 'omnipotence' (19 occ). SE renders 'the Kingdom' here—a deliberate doctrinal choice aligning divine ordinance with Bahá'í cosmology of spiritual kingdoms rather than abstract power.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "exhorted"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 38,
+          "snippet": "constrained"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 141,
+          "snippet": "the omnipotence of the signs"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 402,
+          "snippet": "the realm of immortality"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 438,
+          "snippet": "the heaven of omnipotence"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 234,
+          "snippet": "the realm of might"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 53,
+          "snippet": "Divine Strength"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 1,
+          "snippet": "glory"
+        }
+      ]
+    }
+  ],
+  "section_index": "CXXVIII.10",
+  "section": "CXXVIII",
+  "section_para": 10
 }

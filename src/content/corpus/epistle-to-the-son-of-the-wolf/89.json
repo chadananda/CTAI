@@ -1,10 +1,613 @@
 {
   "work": "Epistle to the Son of the Wolf",
   "slug": "epistle-to-the-son-of-the-wolf",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 89,
   "source_text": "( الی ان قلنا ) کلّما ازداد البلاء زاد البهاء فی حبّ اللّه و امره بحيث ما منعنی ما ورد عَلَیَّ من جنود الغافلين * لو يستروننی فی اطباق التّراب يجدوننی راکبا علی السّحاب و داعيا الی اللّه المقتدر القدير * انّی فديت بنفسی فی سبيل اللّه و اشتاق البلايا فی حبّه و رضائه يشهد بذلک ما انا فيه من البلايا الّتی ما حملها احد من العالمين و ينطق کلّ شعر من شعراتی بما نطق شجر الطّور و کلّ عرق من عروقی يدعو اللّه و يقول ياليت قطعت فی سبيلک لحياة العالم و اتّحاد من فيه کذلک قضی الامر من لدن عليم خبير *",
   "translation": "And further We have said: \"As My tribulations multiplied, so did My love for God and for His Cause increase, in such wise that all that befell Me from the hosts of the wayward was powerless to deter Me from My purpose. Should they hide Me away in the depths of the earth, yet would they find Me riding aloft on the clouds, and calling out unto God, the Lord of strength and of might. I have offered Myself up in the way of God, and I yearn after tribulations in My love for Him, and for the sake of His good-pleasure. Unto this bear witness the woes which now afflict Me, the like of which no other man hath suffered. Every single hair of Mine head calleth out that which the Burning Bush uttered on Sinai, and each vein of My body invoketh God and saith: \\‘O would I had been severed in Thy path, so that the world might be quickened, and all its peoples be united!' Thus hath it been decreed by Him Who is the All-Knowing, the All-Informed.",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "riding-clouds-calling-god",
+  "alignment": [
+    {
+      "ar": "الی ان قلنا",
+      "en": "And further We have said"
+    },
+    {
+      "ar": "ازداد",
+      "en": "multiplied"
+    },
+    {
+      "ar": "البلاء",
+      "en": "tribulations"
+    },
+    {
+      "ar": "زاد",
+      "en": "increase"
+    },
+    {
+      "ar": "البهاء",
+      "en": "love"
+    },
+    {
+      "ar": "حبّ",
+      "en": "love for"
+    },
+    {
+      "ar": "اللّه",
+      "en": "God"
+    },
+    {
+      "ar": "امره",
+      "en": "His Cause"
+    },
+    {
+      "ar": "بحيث",
+      "en": "in such wise"
+    },
+    {
+      "ar": "ما منعنی",
+      "en": "was powerless to deter Me"
+    },
+    {
+      "ar": "ما ورد",
+      "en": "that befell Me"
+    },
+    {
+      "ar": "جنود",
+      "en": "hosts"
+    },
+    {
+      "ar": "الغافلين",
+      "en": "the wayward"
+    },
+    {
+      "ar": "لو",
+      "en": "Should"
+    },
+    {
+      "ar": "يستروننی",
+      "en": "hide Me"
+    },
+    {
+      "ar": "اطباق",
+      "en": "depths"
+    },
+    {
+      "ar": "التّراب",
+      "en": "the earth"
+    },
+    {
+      "ar": "يجدوننی",
+      "en": "would they find Me"
+    },
+    {
+      "ar": "راکبا",
+      "en": "riding"
+    },
+    {
+      "ar": "السّحاب",
+      "en": "the clouds"
+    },
+    {
+      "ar": "داعيا",
+      "en": "calling out"
+    },
+    {
+      "ar": "المقتدر",
+      "en": "strength"
+    },
+    {
+      "ar": "القدير",
+      "en": "might"
+    },
+    {
+      "ar": "انّی",
+      "en": "I"
+    },
+    {
+      "ar": "فديت",
+      "en": "offered"
+    },
+    {
+      "ar": "بنفسی",
+      "en": "Myself"
+    },
+    {
+      "ar": "سبيل",
+      "en": "way"
+    },
+    {
+      "ar": "اشتاق",
+      "en": "yearn after"
+    },
+    {
+      "ar": "حبّه",
+      "en": "love for Him"
+    },
+    {
+      "ar": "رضائه",
+      "en": "His good-pleasure"
+    },
+    {
+      "ar": "يشهد",
+      "en": "bear witness"
+    },
+    {
+      "ar": "ما انا فيه",
+      "en": "which now afflict Me"
+    },
+    {
+      "ar": "البلايا",
+      "en": "woes"
+    },
+    {
+      "ar": "الّتی",
+      "en": "which"
+    },
+    {
+      "ar": "ما حملها",
+      "en": "no other man hath suffered"
+    },
+    {
+      "ar": "احد",
+      "en": "no"
+    },
+    {
+      "ar": "العالمين",
+      "en": "man"
+    },
+    {
+      "ar": "ينطق",
+      "en": "calleth out"
+    },
+    {
+      "ar": "شعر",
+      "en": "single hair"
+    },
+    {
+      "ar": "شعراتی",
+      "en": "Mine head"
+    },
+    {
+      "ar": "ما نطق",
+      "en": "that which"
+    },
+    {
+      "ar": "شجر الطّور",
+      "en": "the Burning Bush"
+    },
+    {
+      "ar": "عرق",
+      "en": "vein"
+    },
+    {
+      "ar": "عروقی",
+      "en": "My body"
+    },
+    {
+      "ar": "يدعو",
+      "en": "invoketh"
+    },
+    {
+      "ar": "يقول",
+      "en": "saith"
+    },
+    {
+      "ar": "ياليت",
+      "en": "O would I"
+    },
+    {
+      "ar": "قطعت",
+      "en": "been severed"
+    },
+    {
+      "ar": "سبيلک",
+      "en": "Thy path"
+    },
+    {
+      "ar": "لحياة",
+      "en": "be quickened"
+    },
+    {
+      "ar": "العالم",
+      "en": "the world"
+    },
+    {
+      "ar": "اتّحاد",
+      "en": "be united"
+    },
+    {
+      "ar": "من فيه",
+      "en": "all its peoples"
+    },
+    {
+      "ar": "قضی",
+      "en": "hath it been decreed"
+    },
+    {
+      "ar": "الامر",
+      "en": "it"
+    },
+    {
+      "ar": "عليم",
+      "en": "All-Knowing"
+    },
+    {
+      "ar": "خبير",
+      "en": "All-Informed"
+    }
+  ],
+  "terms": [
+    {
+      "term": "البلاء",
+      "transliteration": "b-l-ʾ",
+      "literal": "affliction; trial; calamity",
+      "se_rendering": "tribulations",
+      "note": "Consistently 'tribulations' across 27 occurrences; SE maintains this rendering throughout passage to emphasize suffering as spiritual refinement rather than mere calamity.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 249,
+          "snippet": "trials"
+        },
+        {
+          "work": "gleanings",
+          "para": 660,
+          "snippet": "afflictions"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 63,
+          "snippet": "the lands"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 28,
+          "snippet": "afflicted"
+        },
+        {
+          "work": "gleanings",
+          "para": 640,
+          "snippet": "subjected"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 145,
+          "snippet": "sick"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 92,
+          "snippet": "Yea"
+        },
+        {
+          "work": "gleanings",
+          "para": 410,
+          "snippet": "affliction"
+        }
+      ]
+    },
+    {
+      "term": "البهاء",
+      "transliteration": "b-h-y",
+      "literal": "splendor; glory; magnificence; Bahá (Proper Name in Bahá'í texts)",
+      "se_rendering": "My love for God",
+      "note": "Root typically renders as 'Bahá' (proper name) or 'Glory/glory' in 17 occurrences; here uniquely rendered as 'My love for God'—SE interprets splendor as the spiritual radiance of divine love rather than abstract magnificence.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 280,
+          "snippet": "Bahá"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 59,
+          "snippet": "Glory"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 271,
+          "snippet": "All-Glorious"
+        }
+      ]
+    },
+    {
+      "term": "امره",
+      "transliteration": "ʾ-m-r",
+      "literal": "command; cause; matter; affair",
+      "se_rendering": "His Cause",
+      "note": "Standard rendering 'His Cause' (75 occ.) applied here; critical choice linking divine command to Bahá'u'lláh's redemptive mission in Bahá'í theology.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "His Cause"
+        },
+        {
+          "work": "gleanings",
+          "para": 586,
+          "snippet": "His command"
+        },
+        {
+          "work": "gleanings",
+          "para": 691,
+          "snippet": "His Revelation"
+        },
+        {
+          "work": "gleanings",
+          "para": 723,
+          "snippet": "Cause"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 797,
+          "snippet": "Thy Cause"
+        },
+        {
+          "work": "gleanings",
+          "para": 8,
+          "snippet": "Revelation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 597,
+          "snippet": "service"
+        },
+        {
+          "work": "gleanings",
+          "para": 524,
+          "snippet": "your affairs"
+        }
+      ]
+    },
+    {
+      "term": "المقتدر",
+      "transliteration": "q-d-r",
+      "literal": "power; might; decree; measure; worth",
+      "se_rendering": "Lord of strength and of might",
+      "note": "Root q-d-r renders variously as 'power/might/decree' (100 occ.); paired with 'القدير' as 'Lord of strength and of might'—SE explicates divine attributes through dual formulation absent from standard paradigm.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 339,
+          "snippet": "Thy power"
+        },
+        {
+          "work": "gleanings",
+          "para": 138,
+          "snippet": "hath been decreed"
+        },
+        {
+          "work": "gleanings",
+          "para": 662,
+          "snippet": "hath decreed"
+        },
+        {
+          "work": "gleanings",
+          "para": 496,
+          "snippet": "forbearing towards"
+        },
+        {
+          "work": "gleanings",
+          "para": 111,
+          "snippet": "schools"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 12,
+          "snippet": "God of power"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 35,
+          "snippet": "Potent"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 282,
+          "snippet": "Almighty"
+        }
+      ]
+    },
+    {
+      "term": "حبّه",
+      "transliteration": "ḥ-b-b",
+      "literal": "love; affection",
+      "se_rendering": "My love for Him",
+      "note": "Regular 'love' form (92 occ.); SE preserves intimate singular 'My love for Him' rather than collective 'loved ones,' intensifying personal devotional intensity.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 3,
+          "snippet": "beloved of the Lord"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 53,
+          "snippet": "loved ones of the Lord"
+        },
+        {
+          "work": "gleanings",
+          "para": 341,
+          "snippet": "loved ones of God"
+        },
+        {
+          "work": "gleanings",
+          "para": 689,
+          "snippet": "beloved of the one true God"
+        },
+        {
+          "work": "gleanings",
+          "para": 640,
+          "snippet": "loved ones"
+        },
+        {
+          "work": "gleanings",
+          "para": 690,
+          "snippet": "beloved of God"
+        },
+        {
+          "work": "gleanings",
+          "para": 477,
+          "snippet": "His loved ones"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 10,
+          "snippet": "love for Thee"
+        }
+      ]
+    },
+    {
+      "term": "العالمين",
+      "transliteration": "ʿ-l-m",
+      "literal": "world; universe; the worlds",
+      "se_rendering": "no other man",
+      "note": "Typically 'world/all worlds/mankind' (141 occ.); here rendered 'no other man' as genitive plural comparative—SE shifts from cosmic scope to human particularity.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 198,
+          "snippet": "world"
+        },
+        {
+          "work": "gleanings",
+          "para": 657,
+          "snippet": "all worlds"
+        },
+        {
+          "work": "gleanings",
+          "para": 182,
+          "snippet": "mankind"
+        },
+        {
+          "work": "gleanings",
+          "para": 183,
+          "snippet": "the whole world"
+        },
+        {
+          "work": "gleanings",
+          "para": 226,
+          "snippet": "all earthly defilements"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 76,
+          "snippet": "Knowledge"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 122,
+          "snippet": "commentators"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 42,
+          "snippet": "banner"
+        }
+      ]
+    },
+    {
+      "term": "ینطق",
+      "transliteration": "n-t-q",
+      "literal": "to speak; to utter; to pronounce; to articulate",
+      "se_rendering": "calleth out",
+      "note": "Regular 'spoke/speaking/uttered' pattern (22 occ.); 'calleth out' uniquely captures continuous vocalization—heightens existential witness through present-tense eloquence.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 2,
+          "snippet": "spoke"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 719,
+          "snippet": "speaking"
+        },
+        {
+          "work": "gleanings",
+          "para": 324,
+          "snippet": "rational faculty"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 90,
+          "snippet": "utterance"
+        },
+        {
+          "work": "gleanings",
+          "para": 616,
+          "snippet": "hath spoken"
+        },
+        {
+          "work": "tablet-of-carmel",
+          "para": 5,
+          "snippet": "hath been moved to disclose"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 596,
+          "snippet": "uttered"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 626,
+          "snippet": "made me able so to reveal"
+        }
+      ]
+    },
+    {
+      "term": "قطعت",
+      "transliteration": "q-t-ʿ",
+      "literal": "to be severed; to be cut off; to detach oneself; to abstain",
+      "se_rendering": "been severed",
+      "note": "Usually 'detached/sundered/have cut themselves off' (33 occ.); 'been severed' here emphasizes bodily self-sacrifice rather than spiritual detachment or abstention.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 413,
+          "snippet": "detached themselves"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 427,
+          "snippet": "sundered"
+        },
+        {
+          "work": "gleanings",
+          "para": 662,
+          "snippet": "detacheth himself"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 488,
+          "snippet": "have cut themselves off"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 11,
+          "snippet": "decisive"
+        },
+        {
+          "work": "gleanings",
+          "para": 310,
+          "snippet": "cut into pieces"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 16,
+          "snippet": "detachment"
+        },
+        {
+          "work": "gleanings",
+          "para": 255,
+          "snippet": "detached"
+        }
+      ]
+    }
+  ],
+  "section_index": "89",
+  "section": "89",
+  "section_para": 1
 }

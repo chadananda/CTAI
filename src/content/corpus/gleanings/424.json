@@ -1,10 +1,525 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 424,
   "source_text": "هذا يوم فيه فاز الكليم بأنوار القديم وشرب زلال الوصال من هذا القدح الّذي به سجّرت البحور قل تالله الحقّ إنّ الطّور يطوف حول مطلع الظّهور والرّوح ينادي من الملكوت هلمّوا وتعالوا يا أبنآء الغرور هذا يوم فيه سرع كوم الله شوقًا للقآئه وصاح الصّهيون قد أتى الوعد وظهر ما هو المكتوب في ألواح الله المتعالي العزيز المحبوب",
   "translation": "This is the Day in which He Who held converse with God hath attained the light of the Ancient of Days, and quaffed the pure waters of reunion from this Cup that hath caused the seas to swell. Say: By the one true God! Sinai is circling round the Dayspring of Revelation, while from the heights of the Kingdom the Voice of the Spirit of God is heard proclaiming: “Bestir yourselves, ye proud ones of the earth, and hasten ye unto Him.” Carmel hath, in this Day, hastened in longing adoration to attain His court, whilst from the heart of Zion there cometh the cry: “The promise is fulfilled. That which had been announced in the holy Writ of God, the most Exalted, the Almighty, the Best-Beloved, is made manifest.”",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "sinai-circling-dayspring-revelation",
+  "alignment": [
+    {
+      "ar": "هذا",
+      "en": "This"
+    },
+    {
+      "ar": "يوم",
+      "en": "Day"
+    },
+    {
+      "ar": "فيه",
+      "en": "in which"
+    },
+    {
+      "ar": "فاز",
+      "en": "attained"
+    },
+    {
+      "ar": "الكليم",
+      "en": "He Who held converse with God"
+    },
+    {
+      "ar": "بأنوار",
+      "en": "the light"
+    },
+    {
+      "ar": "القديم",
+      "en": "the Ancient of Days"
+    },
+    {
+      "ar": "شرب",
+      "en": "quaffed"
+    },
+    {
+      "ar": "زلال",
+      "en": "the pure waters"
+    },
+    {
+      "ar": "الوصال",
+      "en": "reunion"
+    },
+    {
+      "ar": "القدح",
+      "en": "Cup"
+    },
+    {
+      "ar": "به",
+      "en": "that"
+    },
+    {
+      "ar": "سجّرت",
+      "en": "caused the seas to swell"
+    },
+    {
+      "ar": "البحور",
+      "en": "seas"
+    },
+    {
+      "ar": "قل",
+      "en": "Say"
+    },
+    {
+      "ar": "تالله",
+      "en": "By the one true God"
+    },
+    {
+      "ar": "الحقّ",
+      "en": "true"
+    },
+    {
+      "ar": "الطّور",
+      "en": "Sinai"
+    },
+    {
+      "ar": "يطوف",
+      "en": "circling"
+    },
+    {
+      "ar": "حول",
+      "en": "round"
+    },
+    {
+      "ar": "مطلع",
+      "en": "Dayspring"
+    },
+    {
+      "ar": "الظّهور",
+      "en": "Revelation"
+    },
+    {
+      "ar": "الرّوح",
+      "en": "the Spirit of God"
+    },
+    {
+      "ar": "ينادي",
+      "en": "is heard proclaiming"
+    },
+    {
+      "ar": "الملكوت",
+      "en": "the Kingdom"
+    },
+    {
+      "ar": "هلمّوا",
+      "en": "Bestir yourselves"
+    },
+    {
+      "ar": "تعالوا",
+      "en": "hasten ye"
+    },
+    {
+      "ar": "أبنآء",
+      "en": "ones"
+    },
+    {
+      "ar": "الغرور",
+      "en": "proud"
+    },
+    {
+      "ar": "كوم الله",
+      "en": "Carmel"
+    },
+    {
+      "ar": "سرع",
+      "en": "hastened"
+    },
+    {
+      "ar": "شوقًا",
+      "en": "longing adoration"
+    },
+    {
+      "ar": "للقآئه",
+      "en": "to attain His court"
+    },
+    {
+      "ar": "صاح",
+      "en": "the cry"
+    },
+    {
+      "ar": "الصّهيون",
+      "en": "Zion"
+    },
+    {
+      "ar": "قد",
+      "en": "is"
+    },
+    {
+      "ar": "أتى",
+      "en": "fulfilled"
+    },
+    {
+      "ar": "الوعد",
+      "en": "promise"
+    },
+    {
+      "ar": "ظهر",
+      "en": "made manifest"
+    },
+    {
+      "ar": "ما",
+      "en": "That which"
+    },
+    {
+      "ar": "المكتوب",
+      "en": "announced"
+    },
+    {
+      "ar": "ألواح",
+      "en": "holy Writ"
+    },
+    {
+      "ar": "الله",
+      "en": "God"
+    },
+    {
+      "ar": "المتعالي",
+      "en": "the most Exalted"
+    },
+    {
+      "ar": "العزيز",
+      "en": "the Almighty"
+    },
+    {
+      "ar": "المحبوب",
+      "en": "the Best-Beloved"
+    }
+  ],
+  "terms": [
+    {
+      "term": "الكليم",
+      "transliteration": "k-l-l",
+      "literal": "all; every; whole; entirety",
+      "se_rendering": "He Who held converse with God",
+      "note": "Root k-l-l typically renders as 'all/entirety/utterly.' Here SE employs the proper name 'He Who held converse with God' (Qur'anic reference to Moses), a complete semantic departure from literal root meaning.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 15,
+          "snippet": "themselves"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 55,
+          "snippet": "entirely"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 40,
+          "snippet": "utterly"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 68,
+          "snippet": "Moses"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 15,
+          "snippet": "with the crown"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 2,
+          "snippet": "Word"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 132,
+          "snippet": "all"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 228,
+          "snippet": "each"
+        }
+      ]
+    },
+    {
+      "term": "القديم",
+      "transliteration": "q-d-m",
+      "literal": "ancientness; antiquity; foot; to come forward",
+      "se_rendering": "Ancient of Days",
+      "note": "Usually 'Ancient Beauty' or 'Ancient of Days' across corpus. SE selects 'Ancient of Days' here—biblical resonance emphasizing timeless, eternal divinity over other attestations.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 146,
+          "snippet": "certitude"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 127,
+          "snippet": "eternity"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 116,
+          "snippet": "by Thine Ancient Beauty"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 2,
+          "snippet": "the ancient sea"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 263,
+          "snippet": "rose"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 670,
+          "snippet": "feet"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 749,
+          "snippet": "their feet"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 1,
+          "snippet": "the Most Ancient"
+        }
+      ]
+    },
+    {
+      "term": "الملكوت",
+      "transliteration": "m-l-k",
+      "literal": "kingdom; dominion; realm; sovereignty",
+      "se_rendering": "Kingdom",
+      "note": "Typically 'realm/kingdom/heaven' (70 occ). Here rendered 'Kingdom' with capital K, elevating to proper theological designation of divine sovereignty rather than generic spatial realm.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-ahd",
+          "para": 16,
+          "snippet": "heaven"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 171,
+          "snippet": "kingdom"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 69,
+          "snippet": "realms"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 28,
+          "snippet": "righteous"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 167,
+          "snippet": "by the heavenly power"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 57,
+          "snippet": "Ruler"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 82,
+          "snippet": "King"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 102,
+          "snippet": "Lord of all mankind"
+        }
+      ]
+    },
+    {
+      "term": "الغرور",
+      "transliteration": "gh-r-r",
+      "literal": "delusion, deceit; deluded, deceived",
+      "se_rendering": "proud ones of the earth",
+      "note": "Root gh-r-r denotes delusion/deceit across 10 occurrences. SE renders 'proud ones of the earth' here—ethical judgment substituting for etymological deception, amplifying pride as spiritual error.",
+      "cross_refs": [
+        {
+          "work": "the-hidden-words",
+          "para": 130,
+          "snippet": "PRIDE YOURSELVES"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 352,
+          "snippet": "deception"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 90,
+          "snippet": "pride"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 151,
+          "snippet": "vainglory"
+        }
+      ]
+    },
+    {
+      "term": "المكتوب",
+      "transliteration": "k-t-b",
+      "literal": "book; scripture; writing",
+      "se_rendering": "holy Writ",
+      "note": "Usually 'Book/book/Tablet' (33 occ). Here 'holy Writ' inserts adjective 'holy' and archaic 'Writ' for scriptural gravitas, elevating beyond simple 'writing' or 'scripture.'",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 155,
+          "snippet": "Book"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 242,
+          "snippet": "the Book"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 8,
+          "snippet": "Thy Book"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 172,
+          "snippet": "Divine Books"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 551,
+          "snippet": "write"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 45,
+          "snippet": "My Book"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 16,
+          "snippet": "My mighty and wondrous Book"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 196,
+          "snippet": "books"
+        }
+      ]
+    },
+    {
+      "term": "المتعالي",
+      "transliteration": "ʿ-l-w",
+      "literal": "highest; most high; supreme",
+      "se_rendering": "most Exalted",
+      "note": "Typical renderings include 'Most High/Most Sublime/Most Exalted' (74 occ). Here 'most Exalted'—a superlative form emphasizing transcendence, standard within corpus but unmarked choice.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 1,
+          "snippet": "the Most High"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 148,
+          "snippet": "the Most Sublime Pen"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 390,
+          "snippet": "the Most Exalted, the Most High"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 68,
+          "snippet": "the Pen of Glory"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 1,
+          "snippet": "the Realm of Glory"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 257,
+          "snippet": "the Báb, the Lord, the most exalted"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 21,
+          "snippet": "sublime"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 143,
+          "snippet": "exalted be He"
+        }
+      ]
+    },
+    {
+      "term": "العزيز",
+      "transliteration": "ʿ-z-z",
+      "literal": "glory; might; honor; dignity; power; majesty",
+      "se_rendering": "Almighty",
+      "note": "Root ʿ-z-z spans 'glory/might/honor' across 49 occurrences. Here 'Almighty' shifts from power-attributes to divine omnipotence—rare rendering emphasizing absolute capability over majesty or dignity.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 245,
+          "snippet": "glory"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 491,
+          "snippet": "exalted"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 99,
+          "snippet": "Dear"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 38,
+          "snippet": "dearly beloved"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 37,
+          "snippet": "Gracious"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 162,
+          "snippet": "Mighty"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 789,
+          "snippet": "Thy glory"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 158,
+          "snippet": "on thy glory"
+        }
+      ]
+    }
+  ],
+  "section_index": "CV.3",
+  "section": "CV",
+  "section_para": 3
 }

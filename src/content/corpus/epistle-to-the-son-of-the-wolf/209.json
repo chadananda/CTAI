@@ -1,10 +1,577 @@
 {
   "work": "Epistle to the Son of the Wolf",
   "slug": "epistle-to-the-son-of-the-wolf",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 209,
   "source_text": "يا شيخ امر عظيم است و نبأ عظيم * بصبر و سکون در آيات باهرات و کلمات عاليات و ما ظهر فی هذه الايّام تفکّر نما شايد اسرار مکنونه در کتب را بيابی و بر هدايت عباد همّت نمائی * ندای ارميا را بسمع حقيقی بشنو ميفرمايد [ آه لانّ ذلک اليوم عظيم و ليس مثله ] اگر ان جناب بانصاف نظر نمايند بر عظمت يوم اگاه شوند * اسمع نداء هذا النّاصح العليم و لا تجعل نفسک محرومة عن الرّحمة الّتی سبقت الوجود من الغيب و الشّهود * نغمه حضرت داود را بشنو ميفرمايد [ من يقودنی الی المدينة المحصّنة ] مدينه محصّنه عکّا است که سجن اعظم ناميده شده و دارای حصن و قلعه محکم است *",
   "translation": "O Shaykh! Great is the Cause, and great the Announcement! Patiently and calmly ponder thou upon the resplendent signs and the sublime words, and all that hath been revealed in these days, that haply thou mayest fathom the mysteries that are hid in the Books, and mayest strive to guide His servants. Hearken with thine inner ear unto the Voice of Jeremiah, Who saith: \"Oh, for great is that Day, and it hath no equal.\" Wert thou to observe with the eye of fairness, thou wouldst perceive the greatness of the Day. Incline thine ear unto the Voice of this All-Knowing Counsellor, and suffer not thyself to be deprived of the mercy that hath surpassed all created things, visible and invisible. Lend an ear unto the song of David. He saith: \"Who will bring me into the Strong City?\" The Strong City is ‘Akká, which hath been named the Most Great Prison, and which possesseth a fortress and mighty ramparts.",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "strong-city-akka-prison",
+  "alignment": [
+    {
+      "ar": "شيخ",
+      "en": "Shaykh"
+    },
+    {
+      "ar": "امر",
+      "en": "Cause"
+    },
+    {
+      "ar": "عظيم",
+      "en": "Great"
+    },
+    {
+      "ar": "نبأ",
+      "en": "Announcement"
+    },
+    {
+      "ar": "عظيم",
+      "en": "great"
+    },
+    {
+      "ar": "بصبر",
+      "en": "Patiently"
+    },
+    {
+      "ar": "سکون",
+      "en": "calmly"
+    },
+    {
+      "ar": "آيات",
+      "en": "signs"
+    },
+    {
+      "ar": "باهرات",
+      "en": "resplendent"
+    },
+    {
+      "ar": "کلمات",
+      "en": "words"
+    },
+    {
+      "ar": "عاليات",
+      "en": "sublime"
+    },
+    {
+      "ar": "ظهر",
+      "en": "revealed"
+    },
+    {
+      "ar": "هذه الايّام",
+      "en": "these days"
+    },
+    {
+      "ar": "تفکّر",
+      "en": "ponder"
+    },
+    {
+      "ar": "اسرار",
+      "en": "mysteries"
+    },
+    {
+      "ar": "مکنونه",
+      "en": "hid"
+    },
+    {
+      "ar": "کتب",
+      "en": "Books"
+    },
+    {
+      "ar": "بيابی",
+      "en": "fathom"
+    },
+    {
+      "ar": "هدايت",
+      "en": "guide"
+    },
+    {
+      "ar": "عباد",
+      "en": "servants"
+    },
+    {
+      "ar": "همّت",
+      "en": "strive"
+    },
+    {
+      "ar": "ندای",
+      "en": "Voice"
+    },
+    {
+      "ar": "ارميا",
+      "en": "Jeremiah"
+    },
+    {
+      "ar": "بسمع",
+      "en": "ear"
+    },
+    {
+      "ar": "حقيقی",
+      "en": "inner"
+    },
+    {
+      "ar": "بشنو",
+      "en": "Hearken"
+    },
+    {
+      "ar": "ميفرمايد",
+      "en": "saith"
+    },
+    {
+      "ar": "ذلک اليوم",
+      "en": "that Day"
+    },
+    {
+      "ar": "ليس مثله",
+      "en": "no equal"
+    },
+    {
+      "ar": "ان جناب",
+      "en": "thou"
+    },
+    {
+      "ar": "بانصاف",
+      "en": "fairness"
+    },
+    {
+      "ar": "نظر",
+      "en": "eye"
+    },
+    {
+      "ar": "نمايند",
+      "en": "observe"
+    },
+    {
+      "ar": "عظمت",
+      "en": "greatness"
+    },
+    {
+      "ar": "يوم",
+      "en": "Day"
+    },
+    {
+      "ar": "اگاه",
+      "en": "perceive"
+    },
+    {
+      "ar": "اسمع",
+      "en": "Incline"
+    },
+    {
+      "ar": "النّاصح",
+      "en": "Counsellor"
+    },
+    {
+      "ar": "العليم",
+      "en": "All-Knowing"
+    },
+    {
+      "ar": "لا تجعل",
+      "en": "suffer not"
+    },
+    {
+      "ar": "نفسک",
+      "en": "thyself"
+    },
+    {
+      "ar": "محرومة",
+      "en": "deprived"
+    },
+    {
+      "ar": "الرّحمة",
+      "en": "mercy"
+    },
+    {
+      "ar": "سبقت",
+      "en": "surpassed"
+    },
+    {
+      "ar": "الوجود",
+      "en": "created things"
+    },
+    {
+      "ar": "الغيب",
+      "en": "invisible"
+    },
+    {
+      "ar": "الشّهود",
+      "en": "visible"
+    },
+    {
+      "ar": "نغمه",
+      "en": "song"
+    },
+    {
+      "ar": "حضرت",
+      "en": "of"
+    },
+    {
+      "ar": "داود",
+      "en": "David"
+    },
+    {
+      "ar": "بشنو",
+      "en": "Lend an ear"
+    },
+    {
+      "ar": "من يقودنی",
+      "en": "Who will bring me"
+    },
+    {
+      "ar": "المدينة المحصّنة",
+      "en": "Strong City"
+    },
+    {
+      "ar": "سجن اعظم",
+      "en": "Most Great Prison"
+    },
+    {
+      "ar": "ناميده شده",
+      "en": "named"
+    },
+    {
+      "ar": "دارای",
+      "en": "possesseth"
+    },
+    {
+      "ar": "حصن",
+      "en": "fortress"
+    },
+    {
+      "ar": "قلعه",
+      "en": "ramparts"
+    },
+    {
+      "ar": "محکم",
+      "en": "mighty"
+    }
+  ],
+  "terms": [
+    {
+      "term": "امر",
+      "transliteration": "ʾ-m-r",
+      "literal": "command; cause; matter; affair",
+      "se_rendering": "Cause",
+      "note": "Typically 'Cause', 'Revelation', 'His command' (75 occ). Here 'Cause' aligns with standard rendering; paired with 'Announcement' to distinguish dual aspects of Bahá'u'lláh's proclamation.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "His Cause"
+        },
+        {
+          "work": "gleanings",
+          "para": 586,
+          "snippet": "His command"
+        },
+        {
+          "work": "gleanings",
+          "para": 691,
+          "snippet": "His Revelation"
+        },
+        {
+          "work": "gleanings",
+          "para": 723,
+          "snippet": "Cause"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 797,
+          "snippet": "Thy Cause"
+        },
+        {
+          "work": "gleanings",
+          "para": 8,
+          "snippet": "Revelation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 597,
+          "snippet": "service"
+        },
+        {
+          "work": "gleanings",
+          "para": 524,
+          "snippet": "your affairs"
+        }
+      ]
+    },
+    {
+      "term": "عظيم",
+      "transliteration": "sh-d-d",
+      "literal": "strong; severe; intense; violent",
+      "se_rendering": "great",
+      "note": "Usually 'Most Great', 'greatest', 'supreme' (63 occ). 'Great' here appears twice in opening—simpler rendering suggesting accessibility of the message to the addressee.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 38,
+          "snippet": "very great"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 5,
+          "snippet": "great"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 30,
+          "snippet": "most turbulent"
+        },
+        {
+          "work": "gleanings",
+          "para": 94,
+          "snippet": "more intense manifestation"
+        },
+        {
+          "work": "gleanings",
+          "para": 256,
+          "snippet": "most severe in punishment"
+        },
+        {
+          "work": "gleanings",
+          "para": 248,
+          "snippet": "reached manhood"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 141,
+          "snippet": "uttered"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 53,
+          "snippet": "arose"
+        }
+      ]
+    },
+    {
+      "term": "اسرار",
+      "transliteration": "s-r-r",
+      "literal": "throne; couch; seat of authority",
+      "se_rendering": "mysteries",
+      "note": "Root means 'throne/seat of authority' (40 occ); renderings include 'throne', 'Secret', 'mystery'. Here 'mysteries' emphasizes hidden spiritual knowledge rather than governance connotations.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 145,
+          "snippet": "couch"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 256,
+          "snippet": "throne"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 185,
+          "snippet": "lamp"
+        },
+        {
+          "work": "tablet-of-carmel",
+          "para": 2,
+          "snippet": "joy"
+        },
+        {
+          "work": "gleanings",
+          "para": 218,
+          "snippet": "mystery"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 831,
+          "snippet": "Secret"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 37,
+          "snippet": "in the gladness"
+        },
+        {
+          "work": "gleanings",
+          "para": 727,
+          "snippet": "gladness"
+        }
+      ]
+    },
+    {
+      "term": "بانصاف",
+      "transliteration": "n-ṣ-f",
+      "literal": "justice; fairness; equity",
+      "se_rendering": "fairness",
+      "note": "Consistently 'justice', 'fairness', 'equity' (25 occ). 'Fairness' here echoes the call for unbiased observation—justice conceived as perceptual equity rather than juridical judgment.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 63,
+          "snippet": "justice"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 184,
+          "snippet": "fair"
+        },
+        {
+          "work": "gleanings",
+          "para": 470,
+          "snippet": "injustice"
+        },
+        {
+          "work": "gleanings",
+          "para": 180,
+          "snippet": "judge fairly"
+        }
+      ]
+    },
+    {
+      "term": "محرومة",
+      "transliteration": "h-r-m",
+      "literal": "sanctity, inviolability, dignity, honor, respect",
+      "se_rendering": "deprived",
+      "note": "Root denotes sanctity/inviolability (25 occ); renderings include 'debarred', 'withhold not', 'thy right'. 'Deprived' foregrounds exclusion from divine mercy—emphasizing loss rather than violation of dignity.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 216,
+          "snippet": "thy sanctity"
+        },
+        {
+          "work": "gleanings",
+          "para": 215,
+          "snippet": "thy right"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 191,
+          "snippet": "Deny me not"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 293,
+          "snippet": "withhold not from me"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 23,
+          "snippet": "depriveth himself"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 785,
+          "snippet": "Thy Cause"
+        },
+        {
+          "work": "gleanings",
+          "para": 507,
+          "snippet": "violated our honor"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 484,
+          "snippet": "suffer not yourselves to be kept back"
+        }
+      ]
+    },
+    {
+      "term": "الشّهود",
+      "transliteration": "sh-h-d",
+      "literal": "witnessed; observed; seen; evident; manifest",
+      "se_rendering": "invisible",
+      "note": "Typically 'witness', 'martyrdom', 'evident', 'manifest' (74 occ). 'Invisible' here is unique—paired with 'visible' to render غيب و الشّهود as unseen and seen realms respectively.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 607,
+          "snippet": "manifest"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 35,
+          "snippet": "evident"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 811,
+          "snippet": "I bear witness"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 836,
+          "snippet": "I testify"
+        },
+        {
+          "work": "gleanings",
+          "para": 298,
+          "snippet": "witness"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 138,
+          "snippet": "martyrdom"
+        },
+        {
+          "work": "gleanings",
+          "para": 134,
+          "snippet": "God witnesseth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 230,
+          "snippet": "God testifieth"
+        }
+      ]
+    },
+    {
+      "term": "محکم",
+      "transliteration": "h-k-m",
+      "literal": "government; rule; governance; wisdom",
+      "se_rendering": "mighty",
+      "note": "Root 'governance/wisdom' (69 occ); renderings include 'rule', 'mysteries', 'government'. 'Mighty' qualifies the literal fortress—a rare architectural application emphasizing 'Akká's impregnable strength.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-ahd",
+          "para": 6,
+          "snippet": "rule"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "government"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 849,
+          "snippet": "signs of Thy sovereignty"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 160,
+          "snippet": "meaning of return"
+        },
+        {
+          "work": "gleanings",
+          "para": 224,
+          "snippet": "mysteries"
+        },
+        {
+          "work": "gleanings",
+          "para": 636,
+          "snippet": "rule of the sword"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 182,
+          "snippet": "mystery of the former verse"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 46,
+          "snippet": "conclusive"
+        }
+      ]
+    }
+  ],
+  "section_index": "209",
+  "section": "209",
+  "section_para": 1
 }

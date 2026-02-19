@@ -1,10 +1,547 @@
 {
   "work": "Kitab-i-Iqan",
   "slug": "kitab-i-iqan",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 3,
   "source_text": "ناظر به ايّام قبل شويد که چقدر مردم از اعالی و ادانی هميشه منتظر ظهورات احديّه در هياکل قدسيّه بودهاند به قسمی که در جميع اوقات و اوان مترصّد و منتظر بودند ودعاها و تضرّع ها می نمودند که شايد نسيم رحمت الهيّه به وزيدن آيد و جمال موعود از سرادق غيب به عرصه ظهورقدم گذارد.  و چون ابواب عنايت مفتوح می گرديد و غمام مکرمت مرتفع و شمس غيب از افق قدرت ظاهر می شد جميع تکذيب می نمودند و از لقاء او که عين لقاءاللّه است احترازمی جستند چنانچه تفصيل آن در جميع کتب سماويّه مذکور ومسطور است.",
   "translation": "Consider the past. How many, both high and low, have, at all times, yearningly awaited the advent of the Manifestations of God in the sanctified persons of His chosen Ones. How often have they expected His coming, how frequently have they prayed that the breeze of divine mercy might blow, and the promised Beauty step forth from behind the veil of concealment, and be made manifest to all the world. And whensoever the portals of grace did open, and the clouds of divine bounty did rain upon mankind, and the light of the Unseen did shine above the horizon of celestial might, they all denied Him, and turned away from His face—the face of God Himself. Refer ye, to verify this truth, to that which hath been recorded in every sacred Book.",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "denied-him-turned-away-face",
+  "alignment": [
+    {
+      "ar": "ناظر",
+      "en": "Consider"
+    },
+    {
+      "ar": "ايّام",
+      "en": "times"
+    },
+    {
+      "ar": "قبل",
+      "en": "past"
+    },
+    {
+      "ar": "شويد",
+      "en": "Refer ye"
+    },
+    {
+      "ar": "چقدر",
+      "en": "How many"
+    },
+    {
+      "ar": "مردم",
+      "en": "mankind"
+    },
+    {
+      "ar": "اعالی",
+      "en": "high"
+    },
+    {
+      "ar": "ادانی",
+      "en": "low"
+    },
+    {
+      "ar": "هميشه",
+      "en": "at all"
+    },
+    {
+      "ar": "منتظر",
+      "en": "awaited"
+    },
+    {
+      "ar": "ظهورات",
+      "en": "advent"
+    },
+    {
+      "ar": "احديّه",
+      "en": "Manifestations of God"
+    },
+    {
+      "ar": "هياکل",
+      "en": "persons"
+    },
+    {
+      "ar": "قدسيّه",
+      "en": "sanctified"
+    },
+    {
+      "ar": "جميع",
+      "en": "all"
+    },
+    {
+      "ar": "مترصّد",
+      "en": "expected"
+    },
+    {
+      "ar": "دعاها",
+      "en": "prayed"
+    },
+    {
+      "ar": "نمودند",
+      "en": "have"
+    },
+    {
+      "ar": "شايد",
+      "en": "might"
+    },
+    {
+      "ar": "نسيم",
+      "en": "breeze"
+    },
+    {
+      "ar": "رحمت",
+      "en": "mercy"
+    },
+    {
+      "ar": "الهيّه",
+      "en": "divine"
+    },
+    {
+      "ar": "وزيدن",
+      "en": "blow"
+    },
+    {
+      "ar": "جمال",
+      "en": "Beauty"
+    },
+    {
+      "ar": "موعود",
+      "en": "promised"
+    },
+    {
+      "ar": "سرادق",
+      "en": "veil"
+    },
+    {
+      "ar": "غيب",
+      "en": "concealment"
+    },
+    {
+      "ar": "عرصه",
+      "en": "world"
+    },
+    {
+      "ar": "ظهور",
+      "en": "manifest"
+    },
+    {
+      "ar": "قدم گذارد",
+      "en": "step forth"
+    },
+    {
+      "ar": "ابواب",
+      "en": "portals"
+    },
+    {
+      "ar": "عنايت",
+      "en": "grace"
+    },
+    {
+      "ar": "مفتوح",
+      "en": "open"
+    },
+    {
+      "ar": "می گرديد",
+      "en": "did"
+    },
+    {
+      "ar": "غمام",
+      "en": "clouds"
+    },
+    {
+      "ar": "مکرمت",
+      "en": "bounty"
+    },
+    {
+      "ar": "مرتفع",
+      "en": "rain"
+    },
+    {
+      "ar": "شمس",
+      "en": "light"
+    },
+    {
+      "ar": "غيب",
+      "en": "Unseen"
+    },
+    {
+      "ar": "افق",
+      "en": "horizon"
+    },
+    {
+      "ar": "ظاهر",
+      "en": "shine"
+    },
+    {
+      "ar": "تکذيب",
+      "en": "denied"
+    },
+    {
+      "ar": "می نمودند",
+      "en": "turned away"
+    },
+    {
+      "ar": "لقاء",
+      "en": "face"
+    },
+    {
+      "ar": "تفصيل",
+      "en": "truth"
+    },
+    {
+      "ar": "کتب",
+      "en": "Book"
+    },
+    {
+      "ar": "سماويّه",
+      "en": "sacred"
+    },
+    {
+      "ar": "مذکور",
+      "en": "recorded"
+    },
+    {
+      "ar": "مسطور",
+      "en": "hath been recorded"
+    }
+  ],
+  "terms": [
+    {
+      "term": "ظهورات",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "Manifestations",
+      "note": "Consistent with primary rendering 'Manifestation' across 96 occurrences; here singular plural form emphasizes cyclical divine appearances.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 53,
+          "snippet": "Manifestation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 160,
+          "snippet": "Author of all Manifestations"
+        },
+        {
+          "work": "gleanings",
+          "para": 222,
+          "snippet": "material"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 206,
+          "snippet": "appeared"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 255,
+          "snippet": "Manifestations"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 791,
+          "snippet": "tokens of Thy handiwork"
+        }
+      ]
+    },
+    {
+      "term": "هیاکل",
+      "transliteration": "h-k-l",
+      "literal": "temple; structure; form; body",
+      "se_rendering": "persons",
+      "note": "Typically 'temple' or 'structure'; 'persons' here personalizes the abstract, marking Manifestations as embodied rather than metaphorical.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "Temple"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 96,
+          "snippet": "Súratu'l-Haykal"
+        },
+        {
+          "work": "gleanings",
+          "para": 168,
+          "snippet": "beauty of the immortal Being"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 154,
+          "snippet": "Being"
+        },
+        {
+          "work": "gleanings",
+          "para": 326,
+          "snippet": "human temple"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 28,
+          "snippet": "body"
+        },
+        {
+          "work": "gleanings",
+          "para": 359,
+          "snippet": "person"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 196,
+          "snippet": "temples"
+        }
+      ]
+    },
+    {
+      "term": "رحمت",
+      "transliteration": "r-ḥ-m",
+      "literal": "merciful, compassionate; pertaining to divine mercy",
+      "se_rendering": "divine mercy",
+      "note": "Typically 'merciful' or 'mercy'; SE renders as 'divine mercy' here, echoing poetic parallel with breeze motif found in mystical literature.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 673,
+          "snippet": "Divine glory"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 57,
+          "snippet": "Divine"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 89,
+          "snippet": "celestial melody"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 114,
+          "snippet": "spirit of mercy"
+        },
+        {
+          "work": "gleanings",
+          "para": 372,
+          "snippet": "merciful"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 220,
+          "snippet": "have mercy on them"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 546,
+          "snippet": "mercy"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 50,
+          "snippet": "the Compassionate"
+        }
+      ]
+    },
+    {
+      "term": "جمال",
+      "transliteration": "j-m-l",
+      "literal": "beauty; comeliness",
+      "se_rendering": "Beauty",
+      "note": "Standard rendering 'Beauty' aligns with Bahá'í theology; 'promised Beauty' elevates the metaphysical epithet to messianic expectation.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 296,
+          "snippet": "Beauty"
+        },
+        {
+          "work": "gleanings",
+          "para": 183,
+          "snippet": "Ancient Beauty"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 193,
+          "snippet": "Among others"
+        },
+        {
+          "work": "gleanings",
+          "para": 359,
+          "snippet": "Amongst"
+        },
+        {
+          "work": "gleanings",
+          "para": 649,
+          "snippet": "by the beauty"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 88,
+          "snippet": "for a beauty"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 116,
+          "snippet": "by Thine Ancient Beauty"
+        },
+        {
+          "work": "gleanings",
+          "para": 165,
+          "snippet": "By My Beauty"
+        }
+      ]
+    },
+    {
+      "term": "قدرت",
+      "transliteration": "q-d-r",
+      "literal": "power; might; decree; measure; worth",
+      "se_rendering": "celestial might",
+      "note": "Usually 'power' or 'might'; here 'celestial might' bridges the 100 occurrences with cosmic imagery, avoiding abstract decree meanings.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 171,
+          "snippet": "a while"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 339,
+          "snippet": "Thy power"
+        },
+        {
+          "work": "gleanings",
+          "para": 138,
+          "snippet": "hath been decreed"
+        },
+        {
+          "work": "gleanings",
+          "para": 662,
+          "snippet": "hath decreed"
+        },
+        {
+          "work": "gleanings",
+          "para": 496,
+          "snippet": "forbearing towards"
+        },
+        {
+          "work": "gleanings",
+          "para": 111,
+          "snippet": "schools"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 12,
+          "snippet": "God of power"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 35,
+          "snippet": "Potent"
+        }
+      ]
+    },
+    {
+      "term": "تکذيب",
+      "transliteration": "k-dh-b",
+      "literal": "denial; belying; falsification; rejection",
+      "se_rendering": "denied",
+      "note": "Rare occurrence (14 occ.); 'denied' captures rejection sense; this active denial frames the historical pattern of resistance to Manifestations.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 729,
+          "snippet": "lying impostor"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 194,
+          "snippet": "lying"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 34,
+          "snippet": "falsehood"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 7,
+          "snippet": "false ones"
+        },
+        {
+          "work": "gleanings",
+          "para": 192,
+          "snippet": "false"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 59,
+          "snippet": "lies"
+        }
+      ]
+    },
+    {
+      "term": "لقاء",
+      "transliteration": "l-q-y",
+      "literal": "opposite; facing; in front of; towards",
+      "se_rendering": "face",
+      "note": "Polysemous root (30 occ.); SE renders 'opposite/facing' as 'face' here, creating apposition structure: His face = God's face.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 337,
+          "snippet": "in the face of"
+        },
+        {
+          "work": "gleanings",
+          "para": 375,
+          "snippet": "before"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 171,
+          "snippet": "the Divine Presence"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 216,
+          "snippet": "the Judgment Day"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 154,
+          "snippet": "Recite"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 805,
+          "snippet": "hath attained unto Thy presence"
+        },
+        {
+          "work": "gleanings",
+          "para": 31,
+          "snippet": "hath attained unto His Presence"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 665,
+          "snippet": "behold the countenance"
+        }
+      ]
+    }
+  ],
+  "section_index": "3",
+  "section": "3",
+  "section_para": 1
 }

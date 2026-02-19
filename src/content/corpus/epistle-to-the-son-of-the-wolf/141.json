@@ -1,10 +1,667 @@
 {
   "work": "Epistle to the Son of the Wolf",
   "slug": "epistle-to-the-son-of-the-wolf",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 141,
   "source_text": "يا هادی نزد اخوی رفتی و ديدی حال بساحت مظلوم توجّه نما شايد نفحات وحی و فوحات الهام ترا تاييد نمايد و بمقصود فائز گرداند * هر نفسی اليوم بمشاهده اثار فائز شود حقّ را از باطل بمثابه شمس از ظلّ تميز دهد و بمقصود اگاه گردد * حقّ شاهد و گواه که انچه ذکر شده لوجه اللّه بوده که شايد ان جناب سبب هدايت خلق شوند و احزاب عالم را از ظنون و اوهام نجات بخشند * سبحان اللّه الی حين معرضين و منکرين نميدانند انچه نزد مبشّر يعنی نقطه رفته از که بوده العلم عند اللّه ربّ العالمين *",
   "translation": "O Hádí! Thou hast gone unto My brother and hast seen him. Set now thy face towards the court of this Wronged One, that haply the breezes of Revelation and the breaths of inspiration may assist thee and enable thee to attain thy goal. Whoever gazeth this day on My signs will distinguish truth from falsehood as the sun from shadow, and will be made cognizant of the goal. God is aware and beareth Me witness that whatever hath been mentioned was for the sake of God, that haply thou mayest be the cause of the guidance of men, and mayest deliver the peoples of the world from idle fancies and vain imaginings. Gracious God! Until now they that have turned aside and denied Me have failed to recognize Who despatched that which was delivered unto the Herald - the Primal Point! The knowledge of it is with God, the Lord of the worlds.",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "distinguish-truth-from-falsehood",
+  "alignment": [
+    {
+      "ar": "هادی",
+      "en": "Hádí"
+    },
+    {
+      "ar": "نزد",
+      "en": "unto"
+    },
+    {
+      "ar": "اخوی",
+      "en": "My brother"
+    },
+    {
+      "ar": "رفتی",
+      "en": "hast gone"
+    },
+    {
+      "ar": "ديدی",
+      "en": "hast seen"
+    },
+    {
+      "ar": "حال",
+      "en": "now"
+    },
+    {
+      "ar": "بساحت",
+      "en": "the court"
+    },
+    {
+      "ar": "مظلوم",
+      "en": "Wronged One"
+    },
+    {
+      "ar": "توجّه",
+      "en": "Set"
+    },
+    {
+      "ar": "نما",
+      "en": "thy face"
+    },
+    {
+      "ar": "شايد",
+      "en": "haply"
+    },
+    {
+      "ar": "نفحات",
+      "en": "breezes"
+    },
+    {
+      "ar": "وحی",
+      "en": "Revelation"
+    },
+    {
+      "ar": "فوحات",
+      "en": "breaths"
+    },
+    {
+      "ar": "الهام",
+      "en": "inspiration"
+    },
+    {
+      "ar": "ترا",
+      "en": "thee"
+    },
+    {
+      "ar": "تاييد",
+      "en": "assist"
+    },
+    {
+      "ar": "نمايد",
+      "en": "may"
+    },
+    {
+      "ar": "بمقصود",
+      "en": "thy goal"
+    },
+    {
+      "ar": "فائز",
+      "en": "attain"
+    },
+    {
+      "ar": "گرداند",
+      "en": "enable"
+    },
+    {
+      "ar": "هر",
+      "en": "Whoever"
+    },
+    {
+      "ar": "نفسی",
+      "en": ""
+    },
+    {
+      "ar": "اليوم",
+      "en": "this day"
+    },
+    {
+      "ar": "بمشاهده",
+      "en": "gazeth"
+    },
+    {
+      "ar": "اثار",
+      "en": "My signs"
+    },
+    {
+      "ar": "حقّ",
+      "en": "truth"
+    },
+    {
+      "ar": "را",
+      "en": ""
+    },
+    {
+      "ar": "از",
+      "en": "from"
+    },
+    {
+      "ar": "باطل",
+      "en": "falsehood"
+    },
+    {
+      "ar": "بمثابه",
+      "en": "as"
+    },
+    {
+      "ar": "شمس",
+      "en": "sun"
+    },
+    {
+      "ar": "ظلّ",
+      "en": "shadow"
+    },
+    {
+      "ar": "تميز",
+      "en": "distinguish"
+    },
+    {
+      "ar": "دهد",
+      "en": "will"
+    },
+    {
+      "ar": "اگاه",
+      "en": "cognizant"
+    },
+    {
+      "ar": "گردد",
+      "en": "made"
+    },
+    {
+      "ar": "شاهد",
+      "en": "aware"
+    },
+    {
+      "ar": "گواه",
+      "en": "beareth Me witness"
+    },
+    {
+      "ar": "که",
+      "en": "that"
+    },
+    {
+      "ar": "انچه",
+      "en": "whatever"
+    },
+    {
+      "ar": "ذکر",
+      "en": "mentioned"
+    },
+    {
+      "ar": "شده",
+      "en": "hath been"
+    },
+    {
+      "ar": "لوجه",
+      "en": "for the sake"
+    },
+    {
+      "ar": "اللّه",
+      "en": "God"
+    },
+    {
+      "ar": "بوده",
+      "en": "was"
+    },
+    {
+      "ar": "ان جناب",
+      "en": "thou"
+    },
+    {
+      "ar": "سبب",
+      "en": "cause"
+    },
+    {
+      "ar": "هدايت",
+      "en": "guidance"
+    },
+    {
+      "ar": "خلق",
+      "en": "men"
+    },
+    {
+      "ar": "شوند",
+      "en": "mayest be"
+    },
+    {
+      "ar": "احزاب",
+      "en": "peoples"
+    },
+    {
+      "ar": "عالم",
+      "en": "world"
+    },
+    {
+      "ar": "ظنون",
+      "en": "idle fancies"
+    },
+    {
+      "ar": "اوهام",
+      "en": "vain imaginings"
+    },
+    {
+      "ar": "نجات",
+      "en": "deliver"
+    },
+    {
+      "ar": "بخشند",
+      "en": ""
+    },
+    {
+      "ar": "سبحان اللّه",
+      "en": "Gracious God"
+    },
+    {
+      "ar": "الی حين",
+      "en": "Until now"
+    },
+    {
+      "ar": "معرضين",
+      "en": "turned aside"
+    },
+    {
+      "ar": "منکرين",
+      "en": "denied"
+    },
+    {
+      "ar": "نميدانند",
+      "en": "failed to recognize"
+    },
+    {
+      "ar": "مبشّر",
+      "en": "Herald"
+    },
+    {
+      "ar": "نقطه",
+      "en": "Primal Point"
+    },
+    {
+      "ar": "رفته",
+      "en": "delivered"
+    },
+    {
+      "ar": "العلم",
+      "en": "knowledge"
+    },
+    {
+      "ar": "عند",
+      "en": "with"
+    },
+    {
+      "ar": "ربّ العالمين",
+      "en": "Lord of the worlds"
+    }
+  ],
+  "terms": [
+    {
+      "term": "مظلوم",
+      "transliteration": "z-l-m",
+      "literal": "wrongedness, oppression, meekness; state of being wronged or oppressed",
+      "se_rendering": "Wronged One",
+      "note": "Typically 'afflicted' or 'meekness' across 128 occurrences. 'Wronged One' here is a unique substantival rendering addressing Bahá'u'lláh's legal persecution.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 498,
+          "snippet": "afflicted with countless tribulations"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 49,
+          "snippet": "meekness"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 116,
+          "snippet": "injury"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 3,
+          "snippet": "Wronged One"
+        },
+        {
+          "work": "gleanings",
+          "para": 221,
+          "snippet": "oppression"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 9,
+          "snippet": "Darkness"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 33,
+          "snippet": "tyranny"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 573,
+          "snippet": "oppressed"
+        }
+      ]
+    },
+    {
+      "term": "توجّه",
+      "transliteration": "w-j-h",
+      "literal": "face; countenance; direction; aspect",
+      "se_rendering": "Set thy face towards",
+      "note": "Usually 'faces' or 'set their faces' across 64 occurrences. Directional 'towards the court' emphasizes spatial reorientation toward divine presence.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 503,
+          "snippet": "their faces"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 246,
+          "snippet": "faces"
+        },
+        {
+          "work": "gleanings",
+          "para": 596,
+          "snippet": "eyes"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 162,
+          "snippet": "turned"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 306,
+          "snippet": "set their faces"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 16,
+          "snippet": "unto Mine"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 498,
+          "snippet": "his face"
+        },
+        {
+          "work": "gleanings",
+          "para": 273,
+          "snippet": "face"
+        }
+      ]
+    },
+    {
+      "term": "بمشاهده",
+      "transliteration": "sh-h-d",
+      "literal": "witnessed; observed; seen; evident; manifest",
+      "se_rendering": "gazeth",
+      "note": "Typically 'witness' or 'testify' across 74 occurrences. 'Gazeth' here privileges the seeing faculty, aligning with following phrase on signs and sight.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 607,
+          "snippet": "manifest"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 35,
+          "snippet": "evident"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 811,
+          "snippet": "I bear witness"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 836,
+          "snippet": "I testify"
+        },
+        {
+          "work": "gleanings",
+          "para": 298,
+          "snippet": "witness"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 138,
+          "snippet": "martyrdom"
+        },
+        {
+          "work": "gleanings",
+          "para": 134,
+          "snippet": "God witnesseth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 230,
+          "snippet": "God testifieth"
+        }
+      ]
+    },
+    {
+      "term": "اثار",
+      "transliteration": "ʾ-th-r",
+      "literal": "effect; trace; influence; imprint",
+      "se_rendering": "signs",
+      "note": "Usually 'effect' or 'trace' across 17 occurrences. 'Signs' here denotes divine manifestations, a semantic shift from material imprints to revelatory evidence.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 383,
+          "snippet": "reflection"
+        },
+        {
+          "work": "gleanings",
+          "para": 377,
+          "snippet": "effect"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 65,
+          "snippet": "effects"
+        },
+        {
+          "work": "gleanings",
+          "para": 666,
+          "snippet": "prefer"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 30,
+          "snippet": "affected"
+        },
+        {
+          "work": "gleanings",
+          "para": 289,
+          "snippet": "signs"
+        },
+        {
+          "work": "gleanings",
+          "para": 321,
+          "snippet": "evidences"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 42,
+          "snippet": "its wisdom and effect"
+        }
+      ]
+    },
+    {
+      "term": "سبب",
+      "transliteration": "s-b-b",
+      "literal": "cause; reason; means; instrument",
+      "se_rendering": "cause",
+      "note": "Typically 'cause' or 'means' across 22 occurrences. Maintains base meaning here but emphasizes instrumental agency in spiritual guidance.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 366,
+          "snippet": "will exalt"
+        },
+        {
+          "work": "gleanings",
+          "para": 35,
+          "snippet": "motive"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 15,
+          "snippet": "hindered"
+        },
+        {
+          "work": "gleanings",
+          "para": 511,
+          "snippet": "prerequisites"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 14,
+          "snippet": "cause"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 11,
+          "snippet": "by reason of"
+        },
+        {
+          "work": "gleanings",
+          "para": 307,
+          "snippet": "due to the hindrances"
+        },
+        {
+          "work": "gleanings",
+          "para": 222,
+          "snippet": "material means"
+        }
+      ]
+    },
+    {
+      "term": "احزاب",
+      "transliteration": "h-z-b",
+      "literal": "party; people; community",
+      "se_rendering": "peoples",
+      "note": "Typically 'people' or 'sect' across 15 occurrences. 'Peoples of the world' pluralizes and universalizes scope, suggesting comprehensive redemption.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 177,
+          "snippet": "people of God"
+        },
+        {
+          "work": "gleanings",
+          "para": 18,
+          "snippet": "divers peoples and kindreds"
+        },
+        {
+          "work": "gleanings",
+          "para": 440,
+          "snippet": "contending peoples and kindreds"
+        },
+        {
+          "work": "gleanings",
+          "para": 25,
+          "snippet": "peoples and nations"
+        },
+        {
+          "work": "gleanings",
+          "para": 212,
+          "snippet": "the factions"
+        },
+        {
+          "work": "gleanings",
+          "para": 22,
+          "snippet": "various peoples"
+        }
+      ]
+    },
+    {
+      "term": "اوهام",
+      "transliteration": "w-h-m",
+      "literal": "to imagine, suppose; fancy, idle imagination",
+      "se_rendering": "vain imaginings",
+      "note": "Consistently 'idle fancies' or 'vain imaginings' across 16 occurrences. 'Vain imaginings' parallels 'vain imaginings' in source, maintaining rhetorical parallelism.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 30,
+          "snippet": "idle fancy"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 261,
+          "snippet": "vain imaginings"
+        },
+        {
+          "work": "gleanings",
+          "para": 80,
+          "snippet": "vain imaginations"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 255,
+          "snippet": "idle imaginings"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 144,
+          "snippet": "fancy"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 12,
+          "snippet": "delusion"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 83,
+          "snippet": "doubt"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 420,
+          "snippet": "anguish"
+        }
+      ]
+    },
+    {
+      "term": "منکرين",
+      "transliteration": "n-k-r",
+      "literal": "denial; rejection; repudiation",
+      "se_rendering": "denied",
+      "note": "Typically 'denied' or 'deniers' across 19 occurrences. Present rendering preserves active denial stance consistent with eschatological rejection theme.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 236,
+          "snippet": "denials"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 149,
+          "snippet": "repudiated"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 58,
+          "snippet": "denieth"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 36,
+          "snippet": "wrong"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 752,
+          "snippet": "denied"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 34,
+          "snippet": "disowned"
+        },
+        {
+          "work": "gleanings",
+          "para": 645,
+          "snippet": "averse"
+        }
+      ]
+    }
+  ],
+  "section_index": "141",
+  "section": "141",
+  "section_para": 1
 }

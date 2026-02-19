@@ -1,10 +1,532 @@
 {
   "work": "The Hidden Words",
   "slug": "the-hidden-words",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 155,
   "source_text": "(٧٨) ﴿ ای فرزند کنيز من ﴾\nاز لسان رحمن سلسبيل معانی بنوش و از مشرق بيان سبحان اشراق انوار شمس تبيان من غير ستر و کتمان مشاهده نما * تخمهای حکمت لدنّيم را در ارض طاهر قلب بيفشان و بآب يقين آبش ده تا سنبلات علم و حکمت من سر سبز از بلده طيّبه انبات نمايد *",
   "translation": "(78) O SON OF MY HANDMAID!\nQuaff from the tongue of the merciful the stream of divine mystery, and behold from the dayspring of divine utterance the unveiled splendor of the daystar of wisdom. Sow the seeds of My divine wisdom in the pure soil of the heart, and water them with the waters of certitude, that the hyacinths of knowledge and wisdom may spring up fresh and green from the holy city of the heart.",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "hyacinths-knowledge-wisdom-heart",
+  "alignment": [
+    {
+      "ar": "ای",
+      "en": "O"
+    },
+    {
+      "ar": "فرزند",
+      "en": "SON"
+    },
+    {
+      "ar": "کنيز",
+      "en": "HANDMAID"
+    },
+    {
+      "ar": "من",
+      "en": "MY"
+    },
+    {
+      "ar": "لسان",
+      "en": "tongue"
+    },
+    {
+      "ar": "رحمن",
+      "en": "merciful"
+    },
+    {
+      "ar": "سلسبيل",
+      "en": "stream"
+    },
+    {
+      "ar": "معانی",
+      "en": "mystery"
+    },
+    {
+      "ar": "بنوش",
+      "en": "Quaff"
+    },
+    {
+      "ar": "مشرق",
+      "en": "dayspring"
+    },
+    {
+      "ar": "بيان",
+      "en": "utterance"
+    },
+    {
+      "ar": "سبحان",
+      "en": "divine"
+    },
+    {
+      "ar": "اشراق",
+      "en": "splendor"
+    },
+    {
+      "ar": "انوار",
+      "en": "unveiled"
+    },
+    {
+      "ar": "شمس",
+      "en": "daystar"
+    },
+    {
+      "ar": "تبيان",
+      "en": "wisdom"
+    },
+    {
+      "ar": "مشاهده",
+      "en": "behold"
+    },
+    {
+      "ar": "تخمهای",
+      "en": "seeds"
+    },
+    {
+      "ar": "لدنّيم",
+      "en": "My divine"
+    },
+    {
+      "ar": "ارض",
+      "en": "soil"
+    },
+    {
+      "ar": "طاهر",
+      "en": "pure"
+    },
+    {
+      "ar": "قلب",
+      "en": "heart"
+    },
+    {
+      "ar": "بيفشان",
+      "en": "Sow"
+    },
+    {
+      "ar": "بآب",
+      "en": "waters"
+    },
+    {
+      "ar": "يقين",
+      "en": "certitude"
+    },
+    {
+      "ar": "آبش",
+      "en": "water"
+    },
+    {
+      "ar": "سنبلات",
+      "en": "hyacinths"
+    },
+    {
+      "ar": "علم",
+      "en": "knowledge"
+    },
+    {
+      "ar": "من",
+      "en": "My"
+    },
+    {
+      "ar": "سر سبز",
+      "en": "fresh and green"
+    },
+    {
+      "ar": "بلده",
+      "en": "city"
+    },
+    {
+      "ar": "طيّبه",
+      "en": "holy"
+    },
+    {
+      "ar": "انبات",
+      "en": "spring up"
+    }
+  ],
+  "terms": [
+    {
+      "term": "لسان",
+      "transliteration": "l-s-n",
+      "literal": "tongue; language",
+      "se_rendering": "tongue",
+      "note": "Consistently 'tongue' across corpus. Here governs direct mystical drinking, positioning speech as vehicle for divine transmission.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 36,
+          "snippet": "with my tongue"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 745,
+          "snippet": "tongue"
+        },
+        {
+          "work": "gleanings",
+          "para": 346,
+          "snippet": "by a tongue"
+        },
+        {
+          "work": "gleanings",
+          "para": 288,
+          "snippet": "by the Tongue"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 43,
+          "snippet": "sword of your tongue"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 62,
+          "snippet": "the tongues"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 786,
+          "snippet": "tongues"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 194,
+          "snippet": "their lying tongues"
+        }
+      ]
+    },
+    {
+      "term": "رحمن",
+      "transliteration": "r-ḥ-m",
+      "literal": "merciful, compassionate; pertaining to divine mercy",
+      "se_rendering": "merciful",
+      "note": "Usually 'Divine glory' or 'merciful' (70 occ). 'Merciful' selection here emphasizes compassionate divine quality, unusual softening.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 673,
+          "snippet": "Divine glory"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 57,
+          "snippet": "Divine"
+        },
+        {
+          "work": "gleanings",
+          "para": 372,
+          "snippet": "merciful"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 220,
+          "snippet": "have mercy on them"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 546,
+          "snippet": "mercy"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 50,
+          "snippet": "the Compassionate"
+        },
+        {
+          "work": "gleanings",
+          "para": 183,
+          "snippet": "the Merciful, the Compassionate"
+        },
+        {
+          "work": "gleanings",
+          "para": 338,
+          "snippet": "the All-Forgiving, the Compassionate"
+        }
+      ]
+    },
+    {
+      "term": "مشرق",
+      "transliteration": "sh-r-q",
+      "literal": "radiance; splendor; dawn; illumination",
+      "se_rendering": "dayspring",
+      "note": "Typically 'radiance', 'revelation', or 'Ishraq' (63 occ). 'Dayspring' rendering here creates dawn-light metaphor distinct from abstractionist alternatives.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 47,
+          "snippet": "Ishraq"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 28,
+          "snippet": "radiance"
+        },
+        {
+          "work": "gleanings",
+          "para": 382,
+          "snippet": "revelation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 83,
+          "snippet": "Daystar"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 41,
+          "snippet": "dawning"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 116,
+          "snippet": "shone"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 2,
+          "snippet": "shining"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 14,
+          "snippet": "Dawning Place"
+        }
+      ]
+    },
+    {
+      "term": "بيان",
+      "transliteration": "b-y-n",
+      "literal": "to manifest; to make clear; clear, evident",
+      "se_rendering": "utterance",
+      "note": "Commonly 'The Bayán' or 'proofs' (87 occ). 'Utterance' selection here subordinates term to mystical speech-act rather than doctrinal clarity.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 223,
+          "snippet": "the Expounder, the Most Manifest"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 231,
+          "snippet": "clear verses"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 3,
+          "snippet": "proofs"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 12,
+          "snippet": "clear proofs"
+        },
+        {
+          "work": "gleanings",
+          "para": 563,
+          "snippet": "Dawning-Place of the proofs"
+        },
+        {
+          "work": "gleanings",
+          "para": 292,
+          "snippet": "the Bayán"
+        },
+        {
+          "work": "gleanings",
+          "para": 636,
+          "snippet": "utterance"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 101,
+          "snippet": "Bayán"
+        }
+      ]
+    },
+    {
+      "term": "حکمت",
+      "transliteration": "h-k-m",
+      "literal": "government; rule; governance; wisdom",
+      "se_rendering": "wisdom",
+      "note": "Usually 'rule', 'government', or 'mysteries' (69 occ). 'Wisdom' selection here isolates ethical-spiritual sense from political governance connotations.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-ahd",
+          "para": 6,
+          "snippet": "rule"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "government"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 849,
+          "snippet": "signs of Thy sovereignty"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 160,
+          "snippet": "meaning of return"
+        },
+        {
+          "work": "gleanings",
+          "para": 224,
+          "snippet": "mysteries"
+        },
+        {
+          "work": "gleanings",
+          "para": 636,
+          "snippet": "rule of the sword"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 182,
+          "snippet": "mystery of the former verse"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 129,
+          "snippet": "perspicuous verses"
+        }
+      ]
+    },
+    {
+      "term": "طاهر",
+      "transliteration": "t-h-r",
+      "literal": "to purify; to cleanse",
+      "se_rendering": "pure",
+      "note": "Usually 'purified' or place-names like 'Tihrán' (20 occ). 'Pure' adjective here intensifies soil-metaphor for receptive consciousness.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 578,
+          "snippet": "purified"
+        },
+        {
+          "work": "gleanings",
+          "para": 466,
+          "snippet": "Tihrán"
+        },
+        {
+          "work": "gleanings",
+          "para": 589,
+          "snippet": "Essence of Purity"
+        },
+        {
+          "work": "gleanings",
+          "para": 212,
+          "snippet": "most holy habitation"
+        },
+        {
+          "work": "gleanings",
+          "para": 617,
+          "snippet": "purify"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 322,
+          "snippet": "Purify me"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 652,
+          "snippet": "pure heart"
+        },
+        {
+          "work": "gleanings",
+          "para": 726,
+          "snippet": "pure and undefiled"
+        }
+      ]
+    },
+    {
+      "term": "قلب",
+      "transliteration": "q-l-b",
+      "literal": "heart; to turn; to overturn",
+      "se_rendering": "heart",
+      "note": "Typically 'hearts' or 'heart' (60 occ). 'Heart' here anchors entire horticultural metaphor as locus of spiritual cultivation.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 187,
+          "snippet": "hearts"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 432,
+          "snippet": "their hearts"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 652,
+          "snippet": "heart"
+        },
+        {
+          "work": "gleanings",
+          "para": 228,
+          "snippet": "agitation"
+        },
+        {
+          "work": "gleanings",
+          "para": 350,
+          "snippet": "cataclysms"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 777,
+          "snippet": "commotion"
+        },
+        {
+          "work": "gleanings",
+          "para": 439,
+          "snippet": "discord"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 13,
+          "snippet": "tumult"
+        }
+      ]
+    },
+    {
+      "term": "يقين",
+      "transliteration": "y-q-n",
+      "literal": "certainty; certitude; conviction",
+      "se_rendering": "certitude",
+      "note": "Consistently 'certitude' or 'with certitude' (14 occ). 'Waters of certitude' rendering transforms epistemological concept into nourishing mystical substance.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 38,
+          "snippet": "know of a certainty"
+        },
+        {
+          "work": "gleanings",
+          "para": 224,
+          "snippet": "with a certitude"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 76,
+          "snippet": "Certitude"
+        },
+        {
+          "work": "gleanings",
+          "para": 435,
+          "snippet": "with certitude"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 56,
+          "snippet": "Light of Faith"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 215,
+          "snippet": "knowledge of certitude"
+        }
+      ]
+    }
+  ],
+  "section_index": "305",
+  "section": "305",
+  "section_para": 1
 }

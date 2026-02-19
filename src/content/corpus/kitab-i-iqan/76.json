@@ -1,10 +1,609 @@
 {
   "work": "Kitab-i-Iqan",
   "slug": "kitab-i-iqan",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 76,
   "source_text": "و علم به دو قسم منقسم است:  علم  الهی و علم شيطانی.  آن از الهامات سلطان حقيقی ظاهر و اين از تخيّلات انفس ظلمانی باهر.  معلّم آن حضرت باری و معلّم اين وساوس نفسانی.  بيان آن \"اتّقوا اللّه يُعلِّمکم اللّه\" و بيان اين \"العلمُ حجابُ الاکبر\".  اثمار آن شجر، صبر و شوق و عرفان و محبّت، و اثمار اين شجر، کبر و غرور و نخوت.  و از بيانات صاحبان بيان که در معنی علم فرمودهاند هيچ رائحه اين علوم ظلمانی که ظلمت آن همه بلاد را فرا گرفته استشمام نمی شود.  اين شجر جز بغی و فحشاء ثمری نياورد و جز غلّ و بغضاء حاصلی نبخشد.  ثمرش سمّ قاتل است و ظلّش نار مهلک.  فنعم ما قال:\n\"تَمَسَّکْ بِاَذيالِ الهَوی واخلَعِ الْحَياء\n                             وَخَلِّ سَبيلَ النّاسِکينَ و إن جَلُّوا.\"",
   "translation": "Know verily that Knowledge is of two kinds: Divine and Satanic. The one welleth out from the fountain of divine inspiration; the other is but a reflection of vain and obscure thoughts. The source of the former is God Himself; the motive-force of the latter the whisperings of selfish desire. The one is guided by the principle: “Fear ye God; God will teach you;” the other is but a confirmation of the truth: “Knowledge is the most grievous veil between man and his Creator.” The former bringeth forth the fruit of patience, of longing desire, of true understanding, and love; whilst the latter can yield naught but arrogance, vainglory and conceit. From the sayings of those Masters of holy utterance, Who have expounded the meaning of true knowledge, the odour of these dark teachings, which have obscured the world, can in no wise be detected. The tree of such teachings can yield no result except iniquity and rebellion, and beareth no fruit but hatred and envy. Its fruit is deadly poison; its shadow a consuming fire. How well hath it been said: “Cling unto the robe of the Desire of thy heart, and put thou away all shame; bid the worldlywise be gone, however great their name.”",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "knowledge-divine-satanic",
+  "alignment": [
+    {
+      "ar": "علم",
+      "en": "Knowledge"
+    },
+    {
+      "ar": "دو",
+      "en": "two"
+    },
+    {
+      "ar": "قسم",
+      "en": "kinds"
+    },
+    {
+      "ar": "منقسم",
+      "en": "verily"
+    },
+    {
+      "ar": "الهی",
+      "en": "Divine"
+    },
+    {
+      "ar": "شيطانی",
+      "en": "Satanic"
+    },
+    {
+      "ar": "آن",
+      "en": "The one"
+    },
+    {
+      "ar": "الهامات",
+      "en": "inspiration"
+    },
+    {
+      "ar": "سلطان",
+      "en": "fountain"
+    },
+    {
+      "ar": "حقيقی",
+      "en": "divine"
+    },
+    {
+      "ar": "ظاهر",
+      "en": "welleth out"
+    },
+    {
+      "ar": "اين",
+      "en": "the other"
+    },
+    {
+      "ar": "تخيّلات",
+      "en": "thoughts"
+    },
+    {
+      "ar": "انفس",
+      "en": "vain"
+    },
+    {
+      "ar": "ظلمانی",
+      "en": "obscure"
+    },
+    {
+      "ar": "باهر",
+      "en": "reflection"
+    },
+    {
+      "ar": "معلّم",
+      "en": "source"
+    },
+    {
+      "ar": "حضرت",
+      "en": "God"
+    },
+    {
+      "ar": "باری",
+      "en": "Himself"
+    },
+    {
+      "ar": "وساوس",
+      "en": "whisperings"
+    },
+    {
+      "ar": "نفسانی",
+      "en": "selfish desire"
+    },
+    {
+      "ar": "بيان",
+      "en": "principle"
+    },
+    {
+      "ar": "اتّقوا",
+      "en": "Fear ye"
+    },
+    {
+      "ar": "حجابُ",
+      "en": "veil"
+    },
+    {
+      "ar": "الاکبر",
+      "en": "most grievous"
+    },
+    {
+      "ar": "اثمار",
+      "en": "fruit"
+    },
+    {
+      "ar": "شجر",
+      "en": "tree"
+    },
+    {
+      "ar": "صبر",
+      "en": "patience"
+    },
+    {
+      "ar": "شوق",
+      "en": "longing desire"
+    },
+    {
+      "ar": "عرفان",
+      "en": "true understanding"
+    },
+    {
+      "ar": "محبّت",
+      "en": "love"
+    },
+    {
+      "ar": "کبر",
+      "en": "arrogance"
+    },
+    {
+      "ar": "غرور",
+      "en": "vainglory"
+    },
+    {
+      "ar": "نخوت",
+      "en": "conceit"
+    },
+    {
+      "ar": "بيانات",
+      "en": "sayings"
+    },
+    {
+      "ar": "صاحبان",
+      "en": "Masters"
+    },
+    {
+      "ar": "معنی",
+      "en": "meaning"
+    },
+    {
+      "ar": "فرمودهاند",
+      "en": "expounded"
+    },
+    {
+      "ar": "رائحه",
+      "en": "odour"
+    },
+    {
+      "ar": "علوم",
+      "en": "teachings"
+    },
+    {
+      "ar": "ظلمت",
+      "en": "dark"
+    },
+    {
+      "ar": "بلاد",
+      "en": "world"
+    },
+    {
+      "ar": "فرا گرفته",
+      "en": "obscured"
+    },
+    {
+      "ar": "استشمام",
+      "en": "detected"
+    },
+    {
+      "ar": "بغی",
+      "en": "iniquity"
+    },
+    {
+      "ar": "فحشاء",
+      "en": "rebellion"
+    },
+    {
+      "ar": "ثمری",
+      "en": "result"
+    },
+    {
+      "ar": "غلّ",
+      "en": "hatred"
+    },
+    {
+      "ar": "بغضاء",
+      "en": "envy"
+    },
+    {
+      "ar": "حاصلی",
+      "en": "beareth"
+    },
+    {
+      "ar": "ثمرش",
+      "en": "Its fruit"
+    },
+    {
+      "ar": "سمّ",
+      "en": "poison"
+    },
+    {
+      "ar": "قاتل",
+      "en": "deadly"
+    },
+    {
+      "ar": "ظلّش",
+      "en": "its shadow"
+    },
+    {
+      "ar": "نار",
+      "en": "fire"
+    },
+    {
+      "ar": "مهلک",
+      "en": "consuming"
+    },
+    {
+      "ar": "بِاَذيالِ",
+      "en": "unto the robe"
+    },
+    {
+      "ar": "الهَوی",
+      "en": "Desire"
+    },
+    {
+      "ar": "واخلَعِ",
+      "en": "put thou away"
+    },
+    {
+      "ar": "الْحَياء",
+      "en": "shame"
+    },
+    {
+      "ar": "سَبيلَ",
+      "en": "be gone"
+    },
+    {
+      "ar": "النّاسِکينَ",
+      "en": "worldlywise"
+    }
+  ],
+  "terms": [
+    {
+      "term": "علم",
+      "transliteration": "ʿ-l-m",
+      "literal": "world; universe; the worlds",
+      "se_rendering": "Knowledge",
+      "note": "Typically 'knowledge' or 'world' across 141 occurrences. Here consistently 'Knowledge' at passage beginning, establishing epistemological framework absent in most other renderings.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 198,
+          "snippet": "world"
+        },
+        {
+          "work": "gleanings",
+          "para": 657,
+          "snippet": "all worlds"
+        },
+        {
+          "work": "gleanings",
+          "para": 182,
+          "snippet": "mankind"
+        },
+        {
+          "work": "gleanings",
+          "para": 183,
+          "snippet": "the whole world"
+        },
+        {
+          "work": "gleanings",
+          "para": 226,
+          "snippet": "all earthly defilements"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 28,
+          "snippet": "knowledge"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 42,
+          "snippet": "banner"
+        },
+        {
+          "work": "gleanings",
+          "para": 38,
+          "snippet": "understanding"
+        }
+      ]
+    },
+    {
+      "term": "الهی",
+      "transliteration": "ʾ-l-h",
+      "literal": "God; Allah",
+      "se_rendering": "Divine",
+      "note": "Standard rendering 'Divine' here; Jafar shows 'God' dominant (53 occ). Adjectival form emphasizes quality of knowledge source rather than naming the divine agent.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 294,
+          "snippet": "God"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 10,
+          "snippet": "O God, my God"
+        },
+        {
+          "work": "gleanings",
+          "para": 341,
+          "snippet": "of God"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 11,
+          "snippet": "My God"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 645,
+          "snippet": "My God, Thou Whom I adore and worship"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 658,
+          "snippet": "My God, Whom I worship and adore"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 662,
+          "snippet": "O my God, the God of bounty and mercy"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 704,
+          "snippet": "My God, my Adored One, my King, my Desire"
+        }
+      ]
+    },
+    {
+      "term": "حجاب",
+      "transliteration": "ḥ-j-b",
+      "literal": "to veil oneself, to be veiled",
+      "se_rendering": "veil",
+      "note": "Jafar shows 'veil' and 'most grievous veil' (37 occ). SE's 'most grievous veil' intensifies the obstructing power of false knowledge, a key theological point.",
+      "cross_refs": [
+        {
+          "work": "the-hidden-words",
+          "para": 33,
+          "snippet": "veil thyself"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 234,
+          "snippet": "veiling yourselves"
+        },
+        {
+          "work": "gleanings",
+          "para": 198,
+          "snippet": "veil yourselves"
+        },
+        {
+          "work": "gleanings",
+          "para": 23,
+          "snippet": "most grievous veil"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 22,
+          "snippet": "veiled"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 533,
+          "snippet": "the veil"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 150,
+          "snippet": "the veil of heedlessness"
+        },
+        {
+          "work": "gleanings",
+          "para": 138,
+          "snippet": "the veil of her face"
+        }
+      ]
+    },
+    {
+      "term": "عرفان",
+      "transliteration": "ʿ-r-f",
+      "literal": "to confess; to acknowledge; to recognize",
+      "se_rendering": "understanding",
+      "note": "Jafar shows 'understanding' among multiple renderings (82 occ). Here 'true understanding' marks divine knowledge's epistemological superiority over satanic learning.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 601,
+          "snippet": "testifieth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 729,
+          "snippet": "hath acknowledged"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 582,
+          "snippet": "have recognized"
+        },
+        {
+          "work": "gleanings",
+          "para": 568,
+          "snippet": "acknowledged"
+        },
+        {
+          "work": "gleanings",
+          "para": 295,
+          "snippet": "made objections"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 744,
+          "snippet": "understanding"
+        },
+        {
+          "work": "gleanings",
+          "para": 87,
+          "snippet": "knowledge"
+        },
+        {
+          "work": "gleanings",
+          "para": 2,
+          "snippet": "perception"
+        }
+      ]
+    },
+    {
+      "term": "محبّت",
+      "transliteration": "ḥ-b-b",
+      "literal": "love; affection",
+      "se_rendering": "love",
+      "note": "Jafar shows 'love' as primary rendering (92 occ). Here 'love' appears as fruit of divine knowledge, aligning with SE's consistent treatment of love as salvific.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 3,
+          "snippet": "beloved of the Lord"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 53,
+          "snippet": "loved ones of the Lord"
+        },
+        {
+          "work": "gleanings",
+          "para": 341,
+          "snippet": "loved ones of God"
+        },
+        {
+          "work": "gleanings",
+          "para": 689,
+          "snippet": "beloved of the one true God"
+        },
+        {
+          "work": "gleanings",
+          "para": 640,
+          "snippet": "loved ones"
+        },
+        {
+          "work": "gleanings",
+          "para": 690,
+          "snippet": "beloved of God"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 39,
+          "snippet": "His loved ones"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 10,
+          "snippet": "love for Thee"
+        }
+      ]
+    },
+    {
+      "term": "بغضاء",
+      "transliteration": "b-gh-dh",
+      "literal": "hatred; enmity; animosity",
+      "se_rendering": "hatred",
+      "note": "Standard 'hatred' (37 occ). Positioned as harvest of false knowledge-tree, completing the passage's moral taxonomy of knowledge fruits.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 5,
+          "snippet": "with great enmity"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 45,
+          "snippet": "hate"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 59,
+          "snippet": "hatred"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 18,
+          "snippet": "animosity"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 14,
+          "snippet": "enmity"
+        },
+        {
+          "work": "gleanings",
+          "para": 192,
+          "snippet": "ill-wishers"
+        },
+        {
+          "work": "gleanings",
+          "para": 464,
+          "snippet": "congregation of My ill-wishers"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 117,
+          "snippet": "every hater"
+        }
+      ]
+    },
+    {
+      "term": "نار",
+      "transliteration": "n-w-r",
+      "literal": "light; illumination",
+      "se_rendering": "fire",
+      "note": "Jafar shows 'light' dominant (78 occ); SE renders here as 'fire.' The paradox—illumination becomes consuming fire—articulates how knowledge inverts from blessing to judgment.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 3,
+          "snippet": "light"
+        },
+        {
+          "work": "gleanings",
+          "para": 230,
+          "snippet": "Orb of Light"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 114,
+          "snippet": "with the light"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 109,
+          "snippet": "Thy light"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 246,
+          "snippet": "Illumine"
+        },
+        {
+          "work": "gleanings",
+          "para": 235,
+          "snippet": "glory"
+        },
+        {
+          "work": "gleanings",
+          "para": 597,
+          "snippet": "fire"
+        },
+        {
+          "work": "gleanings",
+          "para": 458,
+          "snippet": "fire of God"
+        }
+      ]
+    }
+  ],
+  "section_index": "76",
+  "section": "76",
+  "section_para": 1
 }

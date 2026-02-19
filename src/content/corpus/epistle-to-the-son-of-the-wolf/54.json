@@ -1,10 +1,625 @@
 {
   "work": "Epistle to the Son of the Wolf",
   "slug": "epistle-to-the-son-of-the-wolf",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 54,
   "source_text": "در صحيفه بيان اين کلمه عليا مسطور و مرقوم * بگو ای دوستان جهد نمائيد شايد مصيباتيکه فی سبيل اللّه بر مظلوم و شما وارد شده بين ناس ضايع نشود بذيل عفّت تمسّک نمائيد و همچنين بحبل امانت و ديانت صلاح عالم را ملاحظه نمائيد نه هوای نفس را * يا حزب المظلوم شمائيد رعاة عالم اغنام را از ذئب نفس و هوی مقدّس داريد و بطراز تقوی اللّه مزيّن نمائيد اين است حکم محکم که از قلم قدم در اين حين جاری شده * لعمر اللّه سيف الاخلاق و الآداب احدّ من سيوف الحديد * انّ الفطرة فی هذا الحين تنادی و تقول يا قوم قد اتی اليوم و اظهرنی ربّی بنور کسفت عند اشراقه شموس البيان اتّقوا الرّحمن و لا تکونوا من الغافلين *",
   "translation": "In the Book of Utterance these exalted words have been written down and recorded: \"Say, O friends! Strive that haply the tribulations suffered by this Wronged One and by you, in the path of God, may not prove to have been in vain. Cling ye to the hem of virtue, and hold fast to the cord of trustworthiness and piety. Concern yourselves with the things that benefit mankind, and not with your corrupt and selfish desires. O ye followers of this Wronged One! Ye are the shepherds of mankind; liberate ye your flocks from the wolves of evil passions and desires, and adorn them with the ornament of the fear of God. This is the firm commandment which hath, at this moment, flowed out from the Pen of Him Who is the Ancient of Days. By the righteousness of God! The sword of a virtuous character and upright conduct is sharper than blades of steel. The voice of the true Faith calleth aloud, at this moment, and saith: O people! Verily, the Day is come, and My Lord hath made Me to shine forth with a light whose splendor hath eclipsed the suns of utterance. Fear ye the Merciful, and be not of them that have gone astray.\"",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "sword-virtuous-character-sharper",
+  "alignment": [
+    {
+      "ar": "صحيفه",
+      "en": "Book"
+    },
+    {
+      "ar": "بيان",
+      "en": "Utterance"
+    },
+    {
+      "ar": "کلمه",
+      "en": "words"
+    },
+    {
+      "ar": "عليا",
+      "en": "exalted"
+    },
+    {
+      "ar": "مسطور",
+      "en": "written down"
+    },
+    {
+      "ar": "مرقوم",
+      "en": "recorded"
+    },
+    {
+      "ar": "بگو",
+      "en": "Say"
+    },
+    {
+      "ar": "دوستان",
+      "en": "friends"
+    },
+    {
+      "ar": "جهد",
+      "en": "Strive"
+    },
+    {
+      "ar": "شايد",
+      "en": "haply"
+    },
+    {
+      "ar": "مصيبات",
+      "en": "tribulations"
+    },
+    {
+      "ar": "فی سبيل اللّه",
+      "en": "in the path of God"
+    },
+    {
+      "ar": "مظلوم",
+      "en": "Wronged One"
+    },
+    {
+      "ar": "شما",
+      "en": "you"
+    },
+    {
+      "ar": "وارد",
+      "en": "suffered"
+    },
+    {
+      "ar": "ناس",
+      "en": "mankind"
+    },
+    {
+      "ar": "ضايع",
+      "en": "in vain"
+    },
+    {
+      "ar": "نشود",
+      "en": "not prove to have been"
+    },
+    {
+      "ar": "ذيل",
+      "en": "hem"
+    },
+    {
+      "ar": "عفّت",
+      "en": "virtue"
+    },
+    {
+      "ar": "تمسّک",
+      "en": "Cling"
+    },
+    {
+      "ar": "حبل",
+      "en": "cord"
+    },
+    {
+      "ar": "امانت",
+      "en": "trustworthiness"
+    },
+    {
+      "ar": "ديانت",
+      "en": "piety"
+    },
+    {
+      "ar": "صلاح",
+      "en": "benefit"
+    },
+    {
+      "ar": "ملاحظه",
+      "en": "Concern yourselves"
+    },
+    {
+      "ar": "هوای",
+      "en": "desires"
+    },
+    {
+      "ar": "نفس",
+      "en": "selfish"
+    },
+    {
+      "ar": "حزب",
+      "en": "followers"
+    },
+    {
+      "ar": "شمائيد",
+      "en": "Ye are"
+    },
+    {
+      "ar": "رعاة",
+      "en": "shepherds"
+    },
+    {
+      "ar": "اغنام",
+      "en": "flocks"
+    },
+    {
+      "ar": "ذئب",
+      "en": "wolves"
+    },
+    {
+      "ar": "هوی",
+      "en": "passions"
+    },
+    {
+      "ar": "مقدّس",
+      "en": "liberate"
+    },
+    {
+      "ar": "طراز",
+      "en": "ornament"
+    },
+    {
+      "ar": "تقوی",
+      "en": "fear"
+    },
+    {
+      "ar": "مزيّن",
+      "en": "adorn"
+    },
+    {
+      "ar": "حکم",
+      "en": "commandment"
+    },
+    {
+      "ar": "محکم",
+      "en": "firm"
+    },
+    {
+      "ar": "قلم",
+      "en": "Pen"
+    },
+    {
+      "ar": "قدم",
+      "en": "Ancient of Days"
+    },
+    {
+      "ar": "حين",
+      "en": "moment"
+    },
+    {
+      "ar": "جاری",
+      "en": "flowed out"
+    },
+    {
+      "ar": "لعمر اللّه",
+      "en": "By the righteousness of God"
+    },
+    {
+      "ar": "سيف",
+      "en": "sword"
+    },
+    {
+      "ar": "الاخلاق",
+      "en": "virtuous character"
+    },
+    {
+      "ar": "الآداب",
+      "en": "upright conduct"
+    },
+    {
+      "ar": "احدّ",
+      "en": "sharper"
+    },
+    {
+      "ar": "سيوف",
+      "en": "blades"
+    },
+    {
+      "ar": "الحديد",
+      "en": "steel"
+    },
+    {
+      "ar": "الفطرة",
+      "en": "voice"
+    },
+    {
+      "ar": "تنادی",
+      "en": "calleth aloud"
+    },
+    {
+      "ar": "قوم",
+      "en": "people"
+    },
+    {
+      "ar": "اتی",
+      "en": "come"
+    },
+    {
+      "ar": "اليوم",
+      "en": "Day"
+    },
+    {
+      "ar": "اظهرنی",
+      "en": "made Me to shine forth"
+    },
+    {
+      "ar": "ربّی",
+      "en": "My Lord"
+    },
+    {
+      "ar": "نور",
+      "en": "light"
+    },
+    {
+      "ar": "کسفت",
+      "en": "eclipsed"
+    },
+    {
+      "ar": "اشراقه",
+      "en": "splendor"
+    },
+    {
+      "ar": "شموس",
+      "en": "suns"
+    },
+    {
+      "ar": "البيان",
+      "en": "utterance"
+    },
+    {
+      "ar": "اتّقوا",
+      "en": "Fear"
+    },
+    {
+      "ar": "الرّحمن",
+      "en": "Merciful"
+    },
+    {
+      "ar": "الغافلين",
+      "en": "gone astray"
+    }
+  ],
+  "terms": [
+    {
+      "term": "مظلوم",
+      "transliteration": "z-l-m",
+      "literal": "wrongedness, oppression, meekness; state of being wronged or oppressed",
+      "se_rendering": "this Wronged One",
+      "note": "Typically 'Wronged One' or 'afflicted' (128 occ). Here consistently 'Wronged One' for both singular and plural references — SE's preferred rendering for Bahá'u'lláh's title in this text.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 498,
+          "snippet": "afflicted with countless tribulations"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 49,
+          "snippet": "meekness"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 116,
+          "snippet": "injury"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 3,
+          "snippet": "Wronged One"
+        },
+        {
+          "work": "gleanings",
+          "para": 221,
+          "snippet": "oppression"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 9,
+          "snippet": "Darkness"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 33,
+          "snippet": "tyranny"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 573,
+          "snippet": "oppressed"
+        }
+      ]
+    },
+    {
+      "term": "امانت",
+      "transliteration": "ʾ-m-n",
+      "literal": "to believe; to have faith; to be secure",
+      "se_rendering": "trustworthiness",
+      "note": "Root typically means 'believe' or 'believed' (62 occ). Here 'trustworthiness' — a semantic pivot from faith to moral integrity, unique to this ethical context.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 585,
+          "snippet": "believed"
+        },
+        {
+          "work": "gleanings",
+          "para": 268,
+          "snippet": "believe"
+        },
+        {
+          "work": "gleanings",
+          "para": 251,
+          "snippet": "have believed"
+        },
+        {
+          "work": "gleanings",
+          "para": 260,
+          "snippet": "I truly believe"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 12,
+          "snippet": "trusted servants"
+        },
+        {
+          "work": "gleanings",
+          "para": 496,
+          "snippet": "trustworthy ones of God among His servants"
+        },
+        {
+          "work": "gleanings",
+          "para": 621,
+          "snippet": "trustees"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 25,
+          "snippet": "believers"
+        }
+      ]
+    },
+    {
+      "term": "عالم",
+      "transliteration": "ʿ-l-m",
+      "literal": "world; universe; the worlds",
+      "se_rendering": "mankind",
+      "note": "Usually 'world' or 'all worlds' (141 occ). Rendered 'mankind' here, highlighting the ethical dimension of benefiting people rather than abstract universality.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 198,
+          "snippet": "world"
+        },
+        {
+          "work": "gleanings",
+          "para": 657,
+          "snippet": "all worlds"
+        },
+        {
+          "work": "gleanings",
+          "para": 182,
+          "snippet": "mankind"
+        },
+        {
+          "work": "gleanings",
+          "para": 183,
+          "snippet": "the whole world"
+        },
+        {
+          "work": "gleanings",
+          "para": 226,
+          "snippet": "all earthly defilements"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 76,
+          "snippet": "Knowledge"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 122,
+          "snippet": "commentators"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 42,
+          "snippet": "banner"
+        }
+      ]
+    },
+    {
+      "term": "قلم",
+      "transliteration": "q-l-m",
+      "literal": "pen; writing instrument",
+      "se_rendering": "Pen",
+      "note": "Consistently 'the Pen' referring to divine authorship (25 occ). Paired with 'قدم' (Ancient of Days) to create attribution formula emphasizing God's eternal pen-instrument.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 100,
+          "snippet": "the Pen of the Most High"
+        },
+        {
+          "work": "gleanings",
+          "para": 619,
+          "snippet": "My Pen"
+        },
+        {
+          "work": "gleanings",
+          "para": 393,
+          "snippet": "Pen of the Most High"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 280,
+          "snippet": "Pen"
+        },
+        {
+          "work": "gleanings",
+          "para": 319,
+          "snippet": "pens"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 85,
+          "snippet": "standards"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 13,
+          "snippet": "ensigns"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 68,
+          "snippet": "with the pen of might"
+        }
+      ]
+    },
+    {
+      "term": "قدم",
+      "transliteration": "q-d-m",
+      "literal": "ancientness; antiquity; foot; to come forward",
+      "se_rendering": "Ancient of Days",
+      "note": "Typically 'Ancient of Days' or 'Ancient Beauty' (29 occ). Here 'Ancient of Days' alongside 'قلم' (Pen) — classical Bahá'í designation for God's creative agency.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 183,
+          "snippet": "Ancient Beauty"
+        },
+        {
+          "work": "gleanings",
+          "para": 259,
+          "snippet": "Ancient of Days"
+        },
+        {
+          "work": "gleanings",
+          "para": 595,
+          "snippet": "Ancient King"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 146,
+          "snippet": "certitude"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 127,
+          "snippet": "eternity"
+        },
+        {
+          "work": "gleanings",
+          "para": 13,
+          "snippet": "celebration of His praise and glory"
+        },
+        {
+          "work": "gleanings",
+          "para": 407,
+          "snippet": "sanctify"
+        },
+        {
+          "work": "gleanings",
+          "para": 496,
+          "snippet": "sanctified"
+        }
+      ]
+    },
+    {
+      "term": "اظهرنی",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "made Me to shine forth",
+      "note": "Typically 'Manifestation' or 'revealed' (96 occ). 'Made Me to shine forth' — dynamic verbal rendering emphasizing luminous presence rather than static manifestation.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 53,
+          "snippet": "Manifestation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 160,
+          "snippet": "Author of all Manifestations"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 136,
+          "snippet": "evident"
+        },
+        {
+          "work": "gleanings",
+          "para": 222,
+          "snippet": "material"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 196,
+          "snippet": "Manifestations of God"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 255,
+          "snippet": "Manifestations"
+        }
+      ]
+    },
+    {
+      "term": "الرحمن",
+      "transliteration": "r-ḥ-m",
+      "literal": "merciful, compassionate; pertaining to divine mercy",
+      "se_rendering": "the Merciful",
+      "note": "Usually 'Divine glory' or 'merciful' (70 occ). 'The Merciful' here — SE uses divine epithet form, establishing direct address to God's compassionate nature.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 673,
+          "snippet": "Divine glory"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 57,
+          "snippet": "Divine"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 89,
+          "snippet": "celestial melody"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 114,
+          "snippet": "spirit of mercy"
+        },
+        {
+          "work": "gleanings",
+          "para": 372,
+          "snippet": "merciful"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 546,
+          "snippet": "mercy"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 50,
+          "snippet": "the Compassionate"
+        },
+        {
+          "work": "gleanings",
+          "para": 183,
+          "snippet": "the Merciful, the Compassionate"
+        }
+      ]
+    }
+  ],
+  "section_index": "54",
+  "section": "54",
+  "section_para": 1
 }

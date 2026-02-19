@@ -1,10 +1,286 @@
 {
   "work": "Epistle to the Son of the Wolf",
   "slug": "epistle-to-the-son-of-the-wolf",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 268,
   "source_text": "* صدق رسول اللّه - صلّی اللّه تعالی عليه و سلّم *",
   "translation": "Verily, the Apostle of God - may the blessings of God, exalted be He, and His salutations be upon Him - hath spoken the truth.",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "apostle-god-spoken-truth",
+  "alignment": [
+    {
+      "ar": "صدق",
+      "en": "hath spoken the truth"
+    },
+    {
+      "ar": "رسول",
+      "en": "Apostle"
+    },
+    {
+      "ar": "اللّه",
+      "en": "of God"
+    },
+    {
+      "ar": "صلّی",
+      "en": "blessings"
+    },
+    {
+      "ar": "اللّه تعالی",
+      "en": "God, exalted be He"
+    },
+    {
+      "ar": "عليه",
+      "en": "upon Him"
+    },
+    {
+      "ar": "سلّم",
+      "en": "salutations"
+    }
+  ],
+  "terms": [
+    {
+      "term": "صدق",
+      "transliteration": "s-d-q",
+      "literal": "to confirm; to verify; to acknowledge; to testify to truth",
+      "se_rendering": "spoken the truth",
+      "note": "Root typically renders as 'confirmed' or 'truthful' across corpus. Here SE chooses 'spoken the truth'—a verbal construction emphasizing prophetic utterance rather than abstract verification.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 39,
+          "snippet": "confirmed"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 225,
+          "snippet": "acknowledge"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 226,
+          "snippet": "men of truth"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 253,
+          "snippet": "truthful"
+        },
+        {
+          "work": "gleanings",
+          "para": 461,
+          "snippet": "truth"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 28,
+          "snippet": "truthfulness"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 665,
+          "snippet": "seat of truth"
+        },
+        {
+          "work": "gleanings",
+          "para": 364,
+          "snippet": "unquestionable sincerity"
+        }
+      ]
+    },
+    {
+      "term": "رسول",
+      "transliteration": "r-s-l",
+      "literal": "to send; dispatch; transmission",
+      "se_rendering": "Apostle",
+      "note": "Standard rendering 'Apostle' appears here; root s-l-l generally yields 'dispatch' or 'Messengers' elsewhere. SE's choice anchors the passage in Islamic prophetic terminology.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 45,
+          "snippet": "Thy Messengers"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 53,
+          "snippet": "treatise on"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 98,
+          "snippet": "messages"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 198,
+          "snippet": "Messengership"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 222,
+          "snippet": "mission"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 5,
+          "snippet": "King of the Messengers"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 14,
+          "snippet": "the Messengers"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 106,
+          "snippet": "the Prophets unsent"
+        }
+      ]
+    },
+    {
+      "term": "اللّه",
+      "transliteration": "ʾ-l-h",
+      "literal": "God; Allah",
+      "se_rendering": "God",
+      "note": "Straightforward 'God' rendering, most common across 53 occurrences. No deviation from standard practice in this formulaic blessing invocation.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 294,
+          "snippet": "God"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 10,
+          "snippet": "O God, my God"
+        },
+        {
+          "work": "gleanings",
+          "para": 341,
+          "snippet": "of God"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 645,
+          "snippet": "My God, Thou Whom I adore and worship"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 658,
+          "snippet": "My God, Whom I worship and adore"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 662,
+          "snippet": "O my God, the God of bounty and mercy"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 704,
+          "snippet": "My God, my Adored One, my King, my Desire"
+        },
+        {
+          "work": "gleanings",
+          "para": 267,
+          "snippet": "O Lord"
+        }
+      ]
+    },
+    {
+      "term": "تعالی",
+      "transliteration": "ʿ-l-w",
+      "literal": "highest; most high; supreme",
+      "se_rendering": "exalted be He",
+      "note": "Root ʿ-l-w typically renders 'the Most High' or 'supreme.' Here 'exalted be He' preserves sublimity while fitting the liturgical context of salutation.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 1,
+          "snippet": "the Most High"
+        },
+        {
+          "work": "gleanings",
+          "para": 232,
+          "snippet": "supreme"
+        },
+        {
+          "work": "gleanings",
+          "para": 616,
+          "snippet": "the realms above"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 390,
+          "snippet": "the Most Exalted, the Most High"
+        },
+        {
+          "work": "gleanings",
+          "para": 393,
+          "snippet": "The Pen of the Most High"
+        },
+        {
+          "work": "gleanings",
+          "para": 697,
+          "snippet": "the Dayspring of Glory"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 1,
+          "snippet": "the Realm of Glory"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 257,
+          "snippet": "the Báb, the Lord, the most exalted"
+        }
+      ]
+    },
+    {
+      "term": "سلّم",
+      "transliteration": "s-l-m",
+      "literal": "resignation; submission; surrender; submissiveness",
+      "se_rendering": "His salutations",
+      "note": "Root s-l-m usually yields 'resignation' or 'submitted.' SE renders 'salutations' here—the only clear engagement with the s-l-m root's phonetic resonance rather than semantic field.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 291,
+          "snippet": "resignation"
+        },
+        {
+          "work": "gleanings",
+          "para": 679,
+          "snippet": "resigned"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 242,
+          "snippet": "we believe in God"
+        },
+        {
+          "work": "gleanings",
+          "para": 154,
+          "snippet": "yielded up His breath"
+        },
+        {
+          "work": "gleanings",
+          "para": 306,
+          "snippet": "asked"
+        },
+        {
+          "work": "gleanings",
+          "para": 446,
+          "snippet": "peace"
+        },
+        {
+          "work": "gleanings",
+          "para": 97,
+          "snippet": "Salmán"
+        }
+      ]
+    }
+  ],
+  "section_index": "268",
+  "section": "268",
+  "section_para": 1
 }

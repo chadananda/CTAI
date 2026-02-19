@@ -1,10 +1,564 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 645,
   "source_text": "الها معبودا مسجودا مقتدرا، شهادت ميدهم كه تو بوصف ممكنات معروف نشوى و باذكار موجودات موصوف نگردی، ادراكات عالم و عقول امم بساحت قدست على ما ينبغى راه نيابد و پى نبرد، آيا چه خطا اهل مدينهء اسماء را از افق اعلايت منع نمود و از تقرّب ببحر اعظمت محروم ساخت، يك حرف از كِتابت امّ البيان و يك كلمه از آن موجد امكان، چه ناسپاسى از عبادت ظاهر كه كلّ را از شناسائيت باز داشتی، يك قطره از درياى رحمتت نار جحيم را بيفسرد و يك جذوه از نار محبّتت عالم را بر افروزد، اى عليم اگر چه غافليم و لكن",
   "translation": "My God, Thou Whom I adore and worship, Who art Most Powerful! I testify that no description by any created thing can ever reveal Thee, and no praise which any being is able to utter can express Thee. Neither the comprehension of any one in the whole world, nor the intelligence of any of its peoples, can, as it befitteth Thee, gain admittance into the court of Thy holiness, or unravel Thy mystery. What sin hath kept the inmates of the city of Thy names so far from Thine all-glorious Horizon, and deprived them of access to Thy most great Ocean? One single letter of Thy Book is the mother of all utterances, and a word therefrom the begetter of all creation. What ingratitude have Thy servants shown forth that Thou hast withheld them, one and all, from recognizing Thee? A drop out of the ocean of Thy mercy sufficeth to quench the flames of hell, and a spark of the fire of Thy love is enough to set ablaze a whole world.",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "ocean-thy-mercy-quench-flames",
+  "alignment": [
+    {
+      "ar": "الها",
+      "en": "My God"
+    },
+    {
+      "ar": "معبودا",
+      "en": "adore"
+    },
+    {
+      "ar": "مسجودا",
+      "en": "worship"
+    },
+    {
+      "ar": "مقتدرا",
+      "en": "Most Powerful"
+    },
+    {
+      "ar": "شهادت",
+      "en": "testify"
+    },
+    {
+      "ar": "ميدهم",
+      "en": "I testify"
+    },
+    {
+      "ar": "بوصف",
+      "en": "description"
+    },
+    {
+      "ar": "ممكنات",
+      "en": "created thing"
+    },
+    {
+      "ar": "معروف",
+      "en": "reveal"
+    },
+    {
+      "ar": "نشوى",
+      "en": "can"
+    },
+    {
+      "ar": "باذكار",
+      "en": "praise"
+    },
+    {
+      "ar": "موجودات",
+      "en": "being"
+    },
+    {
+      "ar": "موصوف",
+      "en": "express"
+    },
+    {
+      "ar": "نگردی",
+      "en": "utter"
+    },
+    {
+      "ar": "ادراكات",
+      "en": "comprehension"
+    },
+    {
+      "ar": "عالم",
+      "en": "world"
+    },
+    {
+      "ar": "عقول",
+      "en": "intelligence"
+    },
+    {
+      "ar": "امم",
+      "en": "peoples"
+    },
+    {
+      "ar": "بساحت",
+      "en": "court"
+    },
+    {
+      "ar": "قدست",
+      "en": "holiness"
+    },
+    {
+      "ar": "راه نيابد",
+      "en": "gain admittance"
+    },
+    {
+      "ar": "پى نبرد",
+      "en": "unravel"
+    },
+    {
+      "ar": "چه",
+      "en": "What"
+    },
+    {
+      "ar": "خطا",
+      "en": "sin"
+    },
+    {
+      "ar": "اهل",
+      "en": "inmates"
+    },
+    {
+      "ar": "مدينهء",
+      "en": "city"
+    },
+    {
+      "ar": "اسماء",
+      "en": "names"
+    },
+    {
+      "ar": "افق",
+      "en": "Horizon"
+    },
+    {
+      "ar": "اعلايت",
+      "en": "all-glorious"
+    },
+    {
+      "ar": "منع",
+      "en": "kept"
+    },
+    {
+      "ar": "تقرّب",
+      "en": "access"
+    },
+    {
+      "ar": "ببحر",
+      "en": "Ocean"
+    },
+    {
+      "ar": "اعظمت",
+      "en": "most great"
+    },
+    {
+      "ar": "محروم",
+      "en": "deprived"
+    },
+    {
+      "ar": "يك",
+      "en": "One"
+    },
+    {
+      "ar": "حرف",
+      "en": "letter"
+    },
+    {
+      "ar": "كِتابت",
+      "en": "Thy Book"
+    },
+    {
+      "ar": "امّ",
+      "en": "mother"
+    },
+    {
+      "ar": "البيان",
+      "en": "utterances"
+    },
+    {
+      "ar": "كلمه",
+      "en": "word"
+    },
+    {
+      "ar": "موجد",
+      "en": "begetter"
+    },
+    {
+      "ar": "امكان",
+      "en": "creation"
+    },
+    {
+      "ar": "ناسپاسى",
+      "en": "ingratitude"
+    },
+    {
+      "ar": "عبادت",
+      "en": "servants"
+    },
+    {
+      "ar": "ظاهر",
+      "en": "shown forth"
+    },
+    {
+      "ar": "كلّ",
+      "en": "one and all"
+    },
+    {
+      "ar": "شناسائيت",
+      "en": "recognizing"
+    },
+    {
+      "ar": "باز داشتی",
+      "en": "withheld"
+    },
+    {
+      "ar": "قطره",
+      "en": "drop"
+    },
+    {
+      "ar": "درياى",
+      "en": "ocean"
+    },
+    {
+      "ar": "رحمتت",
+      "en": "mercy"
+    },
+    {
+      "ar": "نار",
+      "en": "flames"
+    },
+    {
+      "ar": "جحيم",
+      "en": "hell"
+    },
+    {
+      "ar": "بيفسرد",
+      "en": "quench"
+    },
+    {
+      "ar": "جذوه",
+      "en": "spark"
+    },
+    {
+      "ar": "محبّتت",
+      "en": "love"
+    },
+    {
+      "ar": "بر افروزد",
+      "en": "set ablaze"
+    }
+  ],
+  "terms": [
+    {
+      "term": "شهادت",
+      "transliteration": "sh-h-d",
+      "literal": "witnessed; observed; seen; evident; manifest",
+      "se_rendering": "I testify",
+      "note": "Typically 'manifest' or 'witness' (74 occ). Here 'I testify' combines attestation with epistemic conviction, capturing the performative dimension of bearing witness to divine transcendence.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 607,
+          "snippet": "manifest"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 35,
+          "snippet": "evident"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 6,
+          "snippet": "I testify"
+        },
+        {
+          "work": "gleanings",
+          "para": 298,
+          "snippet": "witness"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 138,
+          "snippet": "martyrdom"
+        },
+        {
+          "work": "gleanings",
+          "para": 134,
+          "snippet": "God witnesseth"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 57,
+          "snippet": "beheld"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 156,
+          "snippet": "bear witness"
+        }
+      ]
+    },
+    {
+      "term": "بوصف",
+      "transliteration": "w-s-f",
+      "literal": "to describe, characterize; description",
+      "se_rendering": "description",
+      "note": "Usually 'described' or 'praise' (11 occ). Here 'description' emphasizes the inherent impossibility of linguistic representation rather than the act of praising, focusing on the inadequacy of language itself.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 182,
+          "snippet": "Describing"
+        },
+        {
+          "work": "gleanings",
+          "para": 268,
+          "snippet": "proclaimed Thyself"
+        },
+        {
+          "work": "gleanings",
+          "para": 6,
+          "snippet": "praise"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 8,
+          "snippet": "described"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 6,
+          "snippet": "reached"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 172,
+          "snippet": "attributes"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 15,
+          "snippet": "equity"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 136,
+          "snippet": "fairness"
+        }
+      ]
+    },
+    {
+      "term": "ممكنات",
+      "transliteration": "k-w-n",
+      "literal": "to do; to make; to perform; to be",
+      "se_rendering": "created thing",
+      "note": "Root k-w-n typically yields action verbs ('to do', 'to make'); here rendered as nominal 'created thing,' emphasizing contingent being versus divine necessity.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 39,
+          "snippet": "to gather"
+        },
+        {
+          "work": "gleanings",
+          "para": 379,
+          "snippet": "observe"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 159,
+          "snippet": "earn"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 70,
+          "snippet": "said"
+        },
+        {
+          "work": "gleanings",
+          "para": 542,
+          "snippet": "that have gone on before you"
+        },
+        {
+          "work": "gleanings",
+          "para": 240,
+          "snippet": "were greater than you"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 159,
+          "snippet": "had before"
+        },
+        {
+          "work": "gleanings",
+          "para": 24,
+          "snippet": "stand guard over"
+        }
+      ]
+    },
+    {
+      "term": "البيان",
+      "transliteration": "b-y-n",
+      "literal": "to manifest; to make clear; clear, evident",
+      "se_rendering": "the mother of all utterances",
+      "note": "Normally 'the Bayán' (proper noun) or 'clear proofs' (87 occ). Here 'the mother of all utterances' interprets it as the generative principle of all articulation, a metaphorical rather than literal rendering.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 223,
+          "snippet": "the Expounder, the Most Manifest"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 231,
+          "snippet": "clear verses"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 3,
+          "snippet": "proofs"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 12,
+          "snippet": "clear proofs"
+        },
+        {
+          "work": "gleanings",
+          "para": 563,
+          "snippet": "Dawning-Place of the proofs"
+        },
+        {
+          "work": "gleanings",
+          "para": 292,
+          "snippet": "the Bayán"
+        },
+        {
+          "work": "gleanings",
+          "para": 636,
+          "snippet": "utterance"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 101,
+          "snippet": "Bayán"
+        }
+      ]
+    },
+    {
+      "term": "ظاهر",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "servants",
+      "note": "Usually 'Manifestation' or 'evident' (96 occ). Rendered as 'servants' here, likely reflecting the broader phrase context rather than the root's typical sense of appearance or manifestation.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 53,
+          "snippet": "Manifestation"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 136,
+          "snippet": "evident"
+        },
+        {
+          "work": "gleanings",
+          "para": 222,
+          "snippet": "material"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 206,
+          "snippet": "appeared"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 196,
+          "snippet": "Manifestations of God"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 32,
+          "snippet": "overwhelm the soul"
+        }
+      ]
+    },
+    {
+      "term": "قطره",
+      "transliteration": "q-ṭ-r",
+      "literal": "drop; region; country; rainfall",
+      "se_rendering": "drop",
+      "note": "Consistently 'drop' (12 occ). The rendering is straightforward, but its pairing with 'ocean of mercy' creates classical Islamic mystical imagery of containment—the infinite in the infinitesimal.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 9,
+          "snippet": "one drop"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 25,
+          "snippet": "drop"
+        },
+        {
+          "work": "gleanings",
+          "para": 261,
+          "snippet": "regions"
+        }
+      ]
+    },
+    {
+      "term": "نار",
+      "transliteration": "n-w-r",
+      "literal": "light; illumination",
+      "se_rendering": "fire",
+      "note": "Typically 'light' (78 occ primary sense), but here 'fire'—a rare rendering that exploits the semantic range of n-w-r to mean both illumination and consuming flame in eschatological imagery.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 3,
+          "snippet": "light"
+        },
+        {
+          "work": "gleanings",
+          "para": 230,
+          "snippet": "Orb of Light"
+        },
+        {
+          "work": "gleanings",
+          "para": 235,
+          "snippet": "glory"
+        },
+        {
+          "work": "gleanings",
+          "para": 597,
+          "snippet": "fire"
+        },
+        {
+          "work": "gleanings",
+          "para": 458,
+          "snippet": "fire of God"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 10,
+          "snippet": "flame of fire"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 39,
+          "snippet": "lights"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 144,
+          "snippet": "radiant"
+        }
+      ]
+    }
+  ],
+  "section_index": "CLIII.1",
+  "section": "CLIII",
+  "section_para": 1
 }

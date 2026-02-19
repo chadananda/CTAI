@@ -1,10 +1,151 @@
 {
   "work": "Will and Testament",
   "slug": "will-and-testament",
-  "author": "'Abdu'l-Baha",
+  "author": "‘Abdu’l-Bahá",
   "pair_index": 46,
   "source_text": "هو اللّه الشّاهد الکافی",
   "translation": "He is the Witness, the All-Sufficing",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "witness-all-sufficing",
+  "alignment": [
+    {
+      "ar": "هو",
+      "en": "He"
+    },
+    {
+      "ar": "اللّه",
+      "en": "is"
+    },
+    {
+      "ar": "الشّاهد",
+      "en": "Witness"
+    },
+    {
+      "ar": "الکافی",
+      "en": "All-Sufficing"
+    }
+  ],
+  "terms": [
+    {
+      "term": "الله",
+      "transliteration": "ʾ-l-h",
+      "literal": "God; Allah",
+      "se_rendering": "God",
+      "note": "Standard rendering across 53 occurrences; here the bare 'God' without possessive or devotional framing ('My God,' 'O God') reflects the declarative structure of the divine attribute statement.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 294,
+          "snippet": "God"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 144,
+          "snippet": "O God, my God"
+        },
+        {
+          "work": "gleanings",
+          "para": 341,
+          "snippet": "of God"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 11,
+          "snippet": "My God"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 645,
+          "snippet": "My God, Thou Whom I adore and worship"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 658,
+          "snippet": "My God, Whom I worship and adore"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 662,
+          "snippet": "O my God, the God of bounty and mercy"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 704,
+          "snippet": "My God, my Adored One, my King, my Desire"
+        }
+      ]
+    },
+    {
+      "term": "الشّاهد",
+      "transliteration": "sh-h-d",
+      "literal": "witnessed; observed; seen; evident; manifest",
+      "se_rendering": "the Witness",
+      "note": "Root sh-h-d typically renders as 'manifest' or 'evident' in 74 occurrences; here SE selects 'Witness,' adopting the active agent noun form to emphasize divine testimony rather than visibility.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 607,
+          "snippet": "manifest"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 35,
+          "snippet": "evident"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 811,
+          "snippet": "I bear witness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 6,
+          "snippet": "I testify"
+        },
+        {
+          "work": "gleanings",
+          "para": 298,
+          "snippet": "witness"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 138,
+          "snippet": "martyrdom"
+        },
+        {
+          "work": "gleanings",
+          "para": 134,
+          "snippet": "God witnesseth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 230,
+          "snippet": "God testifieth"
+        }
+      ]
+    },
+    {
+      "term": "الکافی",
+      "transliteration": "k-f-y",
+      "literal": "to be content; to suffice; to be satisfied",
+      "se_rendering": "the All-Sufficing",
+      "note": "Rare rendering (6 occurrences total); SE chooses 'All-Sufficing' here—the superlative adjective form—rather than verbal 'suffice,' capturing the divine attribute's completeness and self-sustaining nature.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 275,
+          "snippet": "Rawdíy-i-Káfí"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 140,
+          "snippet": "suffice"
+        }
+      ]
+    }
+  ],
+  "section_index": "3.0",
+  "section": "3",
+  "section_para": 1
 }

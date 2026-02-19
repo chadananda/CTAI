@@ -1,10 +1,473 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 267,
   "source_text": "أَمْرِكَ، وَكُلَّمَا اشْتَدَّ البَلاءُ فَوَعِزَّتِكَ زَادَ البَهآءُ فِي إِظْهارِ سَلْطَنَتِكَ وَإَبْرازِ قُدْرَتِكَ إِلى أَنْ أَدْخَلُوهُ الظَّالِمُونَ فِي سِجْنِ العَكَّا، وَجَعَلُوا أَهْلِي أُسارى فِي الزَّورآءِ، فَوَعِزَّتِكَ يا إِلهِي كُلَّما وَرَدَ عَلَيَّ بَلاءٌ فِي سَبِيلِكَ زَادَ سُرُوري وَبَهْجَتِي، فَوَنَفْسِكَ يا مالِكَ المُلُوكِ ما مَنَعَنِي المُلُوكَ عَنْ ذِكْرِكَ وَثَنائِكَ وَلَوْ اجْتَمَعَ عَلَيَّ كُلُّهُمْ كما اجْتَمَعُوا بِأَسْيافٍ شاحِذَةٍ وَرِماحٍ نافِذَةٍ لا أَتَوَقَّفُ فِي ذِكْرِكَ بَيْنَ سَمائِكَ وَأَرْضِكَ وَأَقُولُ يا مَحْبُوبِي هذا وَجْهِيْ قَدْ فَدَيْتُهُ لِوَجْهِكَ وَهذِهِ نَفْسِيْ قَدْ فَدَيْتُها لِنَفْسِكَ وَهذا دَمِي يَغْلِي فِي أَعْضائِي شَوقًا لِسَفْكِهِ فِي حُبِّكَ وَسَبِيلِكَ، وَلَوْ أَنْتَ تَرَانِي يا إِلهِي فِي مَحَلِّ",
   "translation": "And finally, I was cast by the transgressors into the prison-city of ‘Akká, and my kindred were made captives in Baghdád. The power of Thy might beareth me witness, O my God! Every trouble that hath touched me in Thy path hath added to my joy and increased my gladness. I swear by Thee, O Thou Who art the King of Kings! None of the kings of the earth hath power to hinder me from remembering Thee or from extolling Thy virtues. Were they to be leagued—as they have been leagued—against me, and to brandish their sharpest swords and most afflictive spears against me, I would not hesitate to magnify Thy name before all them that are in Thy heaven and on Thy earth. Nay rather, I would cry out and say: “This, O my Beloved, is my face which I have offered up for Thy face, and this is my spirit which I have sacrificed for Thy spirit, and this is my blood that seetheth in my veins, in its longing to be shed for love of Thee and in Thy path.”",
   "source_lang": "ar",
-  "score": 9.4
+  "score": 9.4,
+  "page_slug": "blood-seethes-love-thy-path",
+  "alignment": [
+    {
+      "ar": "أَمْرِكَ",
+      "en": "Thy path"
+    },
+    {
+      "ar": "البَلاءُ",
+      "en": "trouble"
+    },
+    {
+      "ar": "زَادَ",
+      "en": "added"
+    },
+    {
+      "ar": "البَهآءُ",
+      "en": "joy"
+    },
+    {
+      "ar": "إِظْهارِ",
+      "en": "magnify"
+    },
+    {
+      "ar": "سَلْطَنَتِكَ",
+      "en": "Thy name"
+    },
+    {
+      "ar": "قُدْرَتِكَ",
+      "en": "power"
+    },
+    {
+      "ar": "أَدْخَلُوهُ",
+      "en": "I was cast"
+    },
+    {
+      "ar": "سِجْنِ",
+      "en": "prison-city"
+    },
+    {
+      "ar": "جَعَلُوا",
+      "en": "were made"
+    },
+    {
+      "ar": "أَهْلِي",
+      "en": "my kindred"
+    },
+    {
+      "ar": "أُسارى",
+      "en": "captives"
+    },
+    {
+      "ar": "يا إِلهِي",
+      "en": "O my God"
+    },
+    {
+      "ar": "فِي سَبِيلِكَ",
+      "en": "in Thy path"
+    },
+    {
+      "ar": "زَادَ",
+      "en": "increased"
+    },
+    {
+      "ar": "سُرُوري",
+      "en": "my gladness"
+    },
+    {
+      "ar": "بَهْجَتِي",
+      "en": "my joy"
+    },
+    {
+      "ar": "فَوَنَفْسِكَ",
+      "en": "I swear by Thee"
+    },
+    {
+      "ar": "يا مالِكَ المُلُوكِ",
+      "en": "O Thou Who art the King of Kings"
+    },
+    {
+      "ar": "ما مَنَعَنِي",
+      "en": "hath power to hinder me"
+    },
+    {
+      "ar": "المُلُوكَ",
+      "en": "None of the kings"
+    },
+    {
+      "ar": "ذِكْرِكَ",
+      "en": "remembering Thee"
+    },
+    {
+      "ar": "وَثَنائِكَ",
+      "en": "extolling Thy virtues"
+    },
+    {
+      "ar": "لَوْ",
+      "en": "Were"
+    },
+    {
+      "ar": "اجْتَمَعَ",
+      "en": "to be leagued"
+    },
+    {
+      "ar": "كما اجْتَمَعُوا",
+      "en": "as they have been leagued"
+    },
+    {
+      "ar": "بِأَسْيافٍ",
+      "en": "swords"
+    },
+    {
+      "ar": "شاحِذَةٍ",
+      "en": "sharpest"
+    },
+    {
+      "ar": "وَرِماحٍ",
+      "en": "spears"
+    },
+    {
+      "ar": "نافِذَةٍ",
+      "en": "most afflictive"
+    },
+    {
+      "ar": "ذِكْرِكَ",
+      "en": "magnify Thy name"
+    },
+    {
+      "ar": "بَيْنَ",
+      "en": "before"
+    },
+    {
+      "ar": "سَمائِكَ",
+      "en": "Thy heaven"
+    },
+    {
+      "ar": "وَأَرْضِكَ",
+      "en": "on Thy earth"
+    },
+    {
+      "ar": "وَأَقُولُ",
+      "en": "I would cry out and say"
+    },
+    {
+      "ar": "يا مَحْبُوبِي",
+      "en": "O my Beloved"
+    },
+    {
+      "ar": "هذا",
+      "en": "This"
+    },
+    {
+      "ar": "وَجْهِيْ",
+      "en": "my face"
+    },
+    {
+      "ar": "قَدْ فَدَيْتُهُ",
+      "en": "I have offered up"
+    },
+    {
+      "ar": "لِوَجْهِكَ",
+      "en": "for Thy face"
+    },
+    {
+      "ar": "وَهذِهِ",
+      "en": "and this is"
+    },
+    {
+      "ar": "نَفْسِيْ",
+      "en": "my spirit"
+    },
+    {
+      "ar": "قَدْ فَدَيْتُها",
+      "en": "I have sacrificed"
+    },
+    {
+      "ar": "لِنَفْسِكَ",
+      "en": "for Thy spirit"
+    },
+    {
+      "ar": "دَمِي",
+      "en": "my blood"
+    },
+    {
+      "ar": "يَغْلِي",
+      "en": "seetheth"
+    },
+    {
+      "ar": "أَعْضائِي",
+      "en": "my veins"
+    },
+    {
+      "ar": "شَوقًا",
+      "en": "longing"
+    },
+    {
+      "ar": "لِسَفْكِهِ",
+      "en": "to be shed"
+    }
+  ],
+  "terms": [
+    {
+      "term": "البَلاءُ",
+      "transliteration": "b-l-ʾ",
+      "literal": "affliction; trial; calamity",
+      "se_rendering": "trouble",
+      "note": "Standard 'trials' or 'afflictions' across 27 occurrences; rendered as 'trouble' here—a softer, more intimate characterization within personal address.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 4,
+          "snippet": "trials"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 137,
+          "snippet": "Troubles"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 179,
+          "snippet": "tribulations"
+        },
+        {
+          "work": "gleanings",
+          "para": 660,
+          "snippet": "afflictions"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 28,
+          "snippet": "afflicted"
+        },
+        {
+          "work": "gleanings",
+          "para": 640,
+          "snippet": "subjected"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 145,
+          "snippet": "sick"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 92,
+          "snippet": "Yea"
+        }
+      ]
+    },
+    {
+      "term": "سَلْطَنَتِكَ",
+      "transliteration": "s-l-ṭ",
+      "literal": "dominion; authority; power; sovereignty; control",
+      "se_rendering": "dominion",
+      "note": "Dominant as 'sovereignty' or 'dominion' (43 occurrences); 'dominion' used here—reinforces absolute divine authority within suffering narrative.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 369,
+          "snippet": "sovereignty"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 151,
+          "snippet": "dominion"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 13,
+          "snippet": "O King"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 157,
+          "snippet": "the Sháh"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 1,
+          "snippet": "the King"
+        },
+        {
+          "work": "gleanings",
+          "para": 472,
+          "snippet": "King (Sulṭán 'Abdu'l-'Azíz)"
+        },
+        {
+          "work": "gleanings",
+          "para": 236,
+          "snippet": "the Sulṭán"
+        },
+        {
+          "work": "gleanings",
+          "para": 592,
+          "snippet": "by virtue of His sovereignty"
+        }
+      ]
+    },
+    {
+      "term": "قُدْرَتِكَ",
+      "transliteration": "q-d-r",
+      "literal": "power; might; decree; measure; worth",
+      "se_rendering": "power",
+      "note": "Usually 'power' (100 occurrences); 'power' maintained here—consistent, though competing renderings like 'decree' and 'schools' never appear in this mystical context.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 171,
+          "snippet": "a while"
+        },
+        {
+          "work": "gleanings",
+          "para": 138,
+          "snippet": "hath been decreed"
+        },
+        {
+          "work": "gleanings",
+          "para": 662,
+          "snippet": "hath decreed"
+        },
+        {
+          "work": "gleanings",
+          "para": 496,
+          "snippet": "forbearing towards"
+        },
+        {
+          "work": "gleanings",
+          "para": 111,
+          "snippet": "schools"
+        },
+        {
+          "work": "gleanings",
+          "para": 532,
+          "snippet": "can"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 4,
+          "snippet": "for a moment"
+        },
+        {
+          "work": "gleanings",
+          "para": 112,
+          "snippet": "Thy might"
+        }
+      ]
+    },
+    {
+      "term": "سُرُوري",
+      "transliteration": "s-r-r",
+      "literal": "throne; couch; seat of authority",
+      "se_rendering": "joy",
+      "note": "Root typically renders 'throne' or 'couch' (40 occurrences); uniquely rendered 'joy' here—SE's sole positive emotional rendering of this root in corpus.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 145,
+          "snippet": "couch"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 256,
+          "snippet": "throne"
+        },
+        {
+          "work": "tablet-of-carmel",
+          "para": 2,
+          "snippet": "joy"
+        },
+        {
+          "work": "gleanings",
+          "para": 576,
+          "snippet": "lamp"
+        },
+        {
+          "work": "gleanings",
+          "para": 218,
+          "snippet": "mystery"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 37,
+          "snippet": "in the gladness"
+        },
+        {
+          "work": "gleanings",
+          "para": 727,
+          "snippet": "gladness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 8,
+          "snippet": "by the mysteries"
+        }
+      ]
+    },
+    {
+      "term": "وَجْهِيْ",
+      "transliteration": "w-j-h",
+      "literal": "face; countenance; direction; aspect",
+      "se_rendering": "face",
+      "note": "Common 'faces' or 'eyes' (64 occurrences); 'face' literal here—mystical self-sacrifice metaphor requires concrete corporeal imagery rather than abstract rendering.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 77,
+          "snippet": "their faces"
+        },
+        {
+          "work": "gleanings",
+          "para": 596,
+          "snippet": "eyes"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 16,
+          "snippet": "unto Mine"
+        },
+        {
+          "work": "gleanings",
+          "para": 273,
+          "snippet": "face"
+        },
+        {
+          "work": "gleanings",
+          "para": 371,
+          "snippet": "turned"
+        },
+        {
+          "work": "gleanings",
+          "para": 275,
+          "snippet": "with white faces"
+        },
+        {
+          "work": "gleanings",
+          "para": 399,
+          "snippet": "with white faces and radiant hearts"
+        },
+        {
+          "work": "gleanings",
+          "para": 249,
+          "snippet": "for the sake of God"
+        }
+      ]
+    },
+    {
+      "term": "نَفْسِيْ",
+      "transliteration": "n-f-s",
+      "literal": "soul; self; person; essence",
+      "se_rendering": "spirit",
+      "note": "Highly variable—'Self,' 'myself,' 'entity' (43 occurrences); 'spirit' isolates here—ecclesiastical vocabulary signals sacred oblation absent from SE's other renderings.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 544,
+          "snippet": "every one"
+        }
+      ]
+    }
+  ],
+  "section_index": "LXV.4",
+  "section": "LXV",
+  "section_para": 4
 }

@@ -1,10 +1,520 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 151,
   "source_text": "قَیَافَا که اقضی القضاة بود حکم بر کفر نمودند و فتوای قتل دادند و هم‌چنین در ظهور رسول روح ما سواه فداه علمای مکّه و مدینه در سنین اوّلیّه بر اعراض و اعتراض قیام نمودند و نفوسی که ابدًا اهل علم نبودند بایمان فائز شدند قدری تفکّر فرمائید بلال حبشی که کلمه‌ئی از علم نخوانده بود بسماء ایمان و ایقان ارتقا نمود و عبدالله أُبَيّ که از علما بود بنفاق برخاست راعی غنم بنفحات آیات بمقرّ دوست پی‌برد و بمالک امم پیوست و صاحبان علوم و حکم ممنوع و محروم اینست که میفرماید: \"حتّی یصیر",
   "translation": "In like manner, when Muḥammad, the Prophet of God — may all men be a sacrifice unto Him — appeared, the learned men of Mecca and Medina arose, in the early days of His Revelation, against Him and rejected His Message, while they who were destitute of all learning recognized and embraced His Faith. Ponder awhile. Consider how Balál, the Ethiopian, unlettered though he was, ascended into the heaven of faith and certitude, whilst ‘Abdu’lláh Ubayy, a leader among the learned, maliciously strove to oppose Him. Behold, how a mere shepherd was so carried away by the ecstasy of the words of God that he was able to gain admittance into the habitation of his Best-Beloved, and was united to Him Who is the Lord of Mankind, whilst they who prided themselves on their knowledge and wisdom strayed far from His path and remained deprived of His grace. For this reason He hath written: “He that is exalted among you shall be abased, and he that is abased shall be exalted.” References to this theme are to be found in most of the heavenly Books, as well as in the sayings of the Prophets and Messengers of God.",
   "source_lang": "ar",
-  "score": 9.6
+  "score": 9.6,
+  "page_slug": "shepherd-ascended-heaven-faith",
+  "alignment": [
+    {
+      "ar": "بود",
+      "en": "was"
+    },
+    {
+      "ar": "هم‌چنین",
+      "en": "In like manner"
+    },
+    {
+      "ar": "ظهور",
+      "en": "appeared"
+    },
+    {
+      "ar": "رسول",
+      "en": "Prophet"
+    },
+    {
+      "ar": "روح",
+      "en": "Muḥammad"
+    },
+    {
+      "ar": "ما سواه",
+      "en": "all men"
+    },
+    {
+      "ar": "فداه",
+      "en": "sacrifice"
+    },
+    {
+      "ar": "علمای",
+      "en": "learned men"
+    },
+    {
+      "ar": "مکّه",
+      "en": "Mecca"
+    },
+    {
+      "ar": "مدینه",
+      "en": "Medina"
+    },
+    {
+      "ar": "سنین",
+      "en": "days"
+    },
+    {
+      "ar": "اوّلیّه",
+      "en": "early"
+    },
+    {
+      "ar": "ظهور",
+      "en": "Revelation"
+    },
+    {
+      "ar": "اعراض",
+      "en": "arose"
+    },
+    {
+      "ar": "اعتراض",
+      "en": "rejected"
+    },
+    {
+      "ar": "قیام",
+      "en": "against"
+    },
+    {
+      "ar": "نفوسی",
+      "en": "they"
+    },
+    {
+      "ar": "ابدًا",
+      "en": "destitute"
+    },
+    {
+      "ar": "اهل",
+      "en": "of"
+    },
+    {
+      "ar": "علم",
+      "en": "learning"
+    },
+    {
+      "ar": "بایمان",
+      "en": "Faith"
+    },
+    {
+      "ar": "فائز",
+      "en": "embraced"
+    },
+    {
+      "ar": "قدری",
+      "en": "awhile"
+    },
+    {
+      "ar": "تفکّر",
+      "en": "Ponder"
+    },
+    {
+      "ar": "بلال",
+      "en": "Balál"
+    },
+    {
+      "ar": "حبشی",
+      "en": "Ethiopian"
+    },
+    {
+      "ar": "کلمه‌ئی",
+      "en": "unlettered"
+    },
+    {
+      "ar": "بسماء",
+      "en": "heaven"
+    },
+    {
+      "ar": "ایمان",
+      "en": "faith"
+    },
+    {
+      "ar": "ایقان",
+      "en": "certitude"
+    },
+    {
+      "ar": "ارتقا",
+      "en": "ascended"
+    },
+    {
+      "ar": "أُبَيّ",
+      "en": "Ubayy"
+    },
+    {
+      "ar": "علما",
+      "en": "learned"
+    },
+    {
+      "ar": "بنفاق",
+      "en": "maliciously"
+    },
+    {
+      "ar": "برخاست",
+      "en": "strove"
+    },
+    {
+      "ar": "راعی",
+      "en": "shepherd"
+    },
+    {
+      "ar": "بنفحات",
+      "en": "ecstasy"
+    },
+    {
+      "ar": "آیات",
+      "en": "words"
+    },
+    {
+      "ar": "بمقرّ",
+      "en": "habitation"
+    },
+    {
+      "ar": "دوست",
+      "en": "Best-Beloved"
+    },
+    {
+      "ar": "پی‌برد",
+      "en": "gain admittance"
+    },
+    {
+      "ar": "بمالک",
+      "en": "Lord"
+    },
+    {
+      "ar": "امم",
+      "en": "Mankind"
+    },
+    {
+      "ar": "پیوست",
+      "en": "united"
+    },
+    {
+      "ar": "صاحبان",
+      "en": "they who prided themselves"
+    },
+    {
+      "ar": "علوم",
+      "en": "knowledge"
+    },
+    {
+      "ar": "حکم",
+      "en": "wisdom"
+    },
+    {
+      "ar": "ممنوع",
+      "en": "deprived"
+    },
+    {
+      "ar": "اینست",
+      "en": "For this reason"
+    },
+    {
+      "ar": "میفرماید",
+      "en": "written"
+    },
+    {
+      "ar": "حتّی",
+      "en": "that"
+    },
+    {
+      "ar": "یصیر",
+      "en": "shall be"
+    }
+  ],
+  "terms": [
+    {
+      "term": "ظهور",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "appeared",
+      "note": "Primarily 'Manifestation' across 96 occurrences; 'appeared' here employs simpler historical language for the Prophet's advent rather than metaphysical terminology.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 140,
+          "snippet": "manifestation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 160,
+          "snippet": "Author of all Manifestations"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 136,
+          "snippet": "evident"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 206,
+          "snippet": "appeared"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 196,
+          "snippet": "Manifestations of God"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 255,
+          "snippet": "Manifestations"
+        }
+      ]
+    },
+    {
+      "term": "علمای",
+      "transliteration": "ʿ-l-m",
+      "literal": "world; universe; the worlds",
+      "se_rendering": "learned men",
+      "note": "Typically rendered as 'world' or 'knowledge' across 141 occurrences; here rendered as 'learned men' — a uniquely personified rendering emphasizing human agents of learning.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 28,
+          "snippet": "knowledge"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 122,
+          "snippet": "commentators"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 42,
+          "snippet": "banner"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 19,
+          "snippet": "understanding"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 205,
+          "snippet": "ancient Knowledge"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 65,
+          "snippet": "universe"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 4,
+          "snippet": "divine"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 199,
+          "snippet": "peoples of the world"
+        }
+      ]
+    },
+    {
+      "term": "قیام",
+      "transliteration": "q-w-m",
+      "literal": "rising; standing; uprising; resurrection",
+      "se_rendering": "arose",
+      "note": "Usually 'Resurrection' or 'rise' across 109 occurrences; 'arose' here denotes temporal uprising against revelation, distinct from eschatological sense.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 152,
+          "snippet": "Day of Resurrection"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 153,
+          "snippet": "Resurrection"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 74,
+          "snippet": "rise"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "peoples"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 26,
+          "snippet": "steadfast"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 38,
+          "snippet": "steadfast in faith"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 628,
+          "snippet": "stood fast"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 198,
+          "snippet": "station"
+        }
+      ]
+    },
+    {
+      "term": "بایمان",
+      "transliteration": "ʾ-m-n",
+      "literal": "to believe; to have faith; to be secure",
+      "se_rendering": "embraced His Faith",
+      "note": "Standard renderings include 'believed' and 'faith' across 32 occurrences; 'embraced His Faith' here adds active verbal force absent from typical nominal renderings.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 431,
+          "snippet": "believed"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 2,
+          "snippet": "faith"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 198,
+          "snippet": "Trustworthiness"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 561,
+          "snippet": "hath believed"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 7,
+          "snippet": "have ye believed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 225,
+          "snippet": "believer"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 25,
+          "snippet": "believers"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 6,
+          "snippet": "trustees"
+        }
+      ]
+    },
+    {
+      "term": "بمقرّ",
+      "transliteration": "q-r-r",
+      "literal": "stability; firmness; establishment",
+      "se_rendering": "habitation",
+      "note": "Usually 'resting place' or 'established' across 21 occurrences; 'habitation' here emphasizes the spatial/relational intimacy of union with the Beloved.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 38,
+          "snippet": "steadfast in faith"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 227,
+          "snippet": "ordained"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 13,
+          "snippet": "resting place"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 17,
+          "snippet": "determine"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 57,
+          "snippet": "established"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 155,
+          "snippet": "Peruse"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 15,
+          "snippet": "chant"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 39,
+          "snippet": "is established"
+        }
+      ]
+    },
+    {
+      "term": "ممنوع",
+      "transliteration": "m-n-ʿ",
+      "literal": "forbidden; prevented; deprived",
+      "se_rendering": "deprived",
+      "note": "Typically 'forbidden' or 'deprived' across 36 occurrences; 'deprived' matches pattern but 'strayed far' precedes it, creating compound loss of both guidance and grace.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "forbidden"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 56,
+          "snippet": "hindrance"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 674,
+          "snippet": "which have hindered me"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 89,
+          "snippet": "was powerless to deter"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 628,
+          "snippet": "have failed to deter"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 193,
+          "snippet": "prevented them"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 74,
+          "snippet": "withhold"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 108,
+          "snippet": "strove to hinder"
+        }
+      ]
+    }
+  ],
+  "section_index": "XXXV.4",
+  "section": "XXXV",
+  "section_para": 4
 }

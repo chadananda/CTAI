@@ -1,10 +1,701 @@
 {
   "work": "Epistle to the Son of the Wolf",
   "slug": "epistle-to-the-son-of-the-wolf",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 5,
   "source_text": "و قل الهی الهی و مقصودی و معبودی و سيّدی و سندی و غاية املی و رجائی ترانی مقبلا اليک و متمسّکا بحبل جودک و متشبّثا بذيل عطائک و معترفا بتقديس نفسک و تنزيه ذاتک مقرّا بوحدانيّتک و فردانيّتک اشهد انّک انت الفرد الواحد الاحد الصّمد ما اتّخذت لنفسک شريکا فی الملک و لا نظيرا فی الارض قد شهدت الکائنات بما شهد به لسان عظمتک قبلها انّک انت اللّه لا اله الّا انت لم تزل کنت مقدّسا عن ذکر عبادک و متعاليا عن وصف خلقک * ای ربّ تری الجاهل قصد بحر علمک و العطشان کوثر بيانک و الذّليل خباء عزّک و الفقير کنز غنائک و السّائل مشرق حکمتک و الضّعيف مطلع قدرتک و المسکين سماء کرمک و الکليل ملکوت ذکرک",
   "translation": "\"O God, my God, and my Desire, and my Adored One, and my Master, and my Mainstay, and my utmost Hope, and my supreme Aspiration! Thou seest me turning towards Thee, holding fast unto the cord of Thy bounty, clinging to the hem of Thy generosity, acknowledging the sanctity of Thy Self and the purity of Thine Essence, and testifying to Thy unity and Thy oneness. I bear witness that Thou art the One, the Single, the Incomparable, the Ever-Abiding. Thou didst not take unto Thyself a partner in Thy dominion, nor didst Thou choose a peer for Thyself upon earth. All created things have borne witness unto that which the Tongue of Thy grandeur hath testified ere their creation. Verily Thou art God; there is none other God but Thee! From everlasting Thou wast sanctified from the mention of Thy servants, and exalted above the description of Thy creatures. Thou beholdest, O Lord, the ignorant seeking the ocean of Thy knowledge, the sore athirst the living waters of Thine utterance, the abased the tabernacle of Thy glory, the poor the treasury of Thy riches, the suppliant the dawning-place of Thy wisdom, the weak the source of Thy strength, the wretched the heaven of Thy bounty, the dumb the kingdom of Thy mention.",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "ocean-knowledge-tabernacle-glory",
+  "alignment": [
+    {
+      "ar": "قل",
+      "en": "O"
+    },
+    {
+      "ar": "الهی",
+      "en": "God"
+    },
+    {
+      "ar": "الهی",
+      "en": "my God"
+    },
+    {
+      "ar": "مقصودی",
+      "en": "my Desire"
+    },
+    {
+      "ar": "معبودی",
+      "en": "my Adored One"
+    },
+    {
+      "ar": "سيّدی",
+      "en": "my Master"
+    },
+    {
+      "ar": "سندی",
+      "en": "my Mainstay"
+    },
+    {
+      "ar": "غاية",
+      "en": "utmost"
+    },
+    {
+      "ar": "املی",
+      "en": "Hope"
+    },
+    {
+      "ar": "رجائی",
+      "en": "Aspiration"
+    },
+    {
+      "ar": "ترانی",
+      "en": "Thou seest me"
+    },
+    {
+      "ar": "مقبلا",
+      "en": "turning towards"
+    },
+    {
+      "ar": "اليک",
+      "en": "Thee"
+    },
+    {
+      "ar": "متمسّکا",
+      "en": "holding fast"
+    },
+    {
+      "ar": "بحبل",
+      "en": "unto the cord"
+    },
+    {
+      "ar": "جودک",
+      "en": "Thy bounty"
+    },
+    {
+      "ar": "متشبّثا",
+      "en": "clinging"
+    },
+    {
+      "ar": "بذيل",
+      "en": "to the hem"
+    },
+    {
+      "ar": "عطائک",
+      "en": "Thy generosity"
+    },
+    {
+      "ar": "معترفا",
+      "en": "acknowledging"
+    },
+    {
+      "ar": "بتقديس",
+      "en": "the sanctity"
+    },
+    {
+      "ar": "نفسک",
+      "en": "Thy Self"
+    },
+    {
+      "ar": "تنزيه",
+      "en": "the purity"
+    },
+    {
+      "ar": "ذاتک",
+      "en": "Thine Essence"
+    },
+    {
+      "ar": "مقرّا",
+      "en": "testifying"
+    },
+    {
+      "ar": "بوحدانيّتک",
+      "en": "Thy unity"
+    },
+    {
+      "ar": "فردانيّتک",
+      "en": "Thy oneness"
+    },
+    {
+      "ar": "اشهد",
+      "en": "I bear witness"
+    },
+    {
+      "ar": "انّک",
+      "en": "that Thou"
+    },
+    {
+      "ar": "انت",
+      "en": "art"
+    },
+    {
+      "ar": "الفرد",
+      "en": "the One"
+    },
+    {
+      "ar": "الواحد",
+      "en": "the Single"
+    },
+    {
+      "ar": "الاحد",
+      "en": "the Incomparable"
+    },
+    {
+      "ar": "الصّمد",
+      "en": "the Ever-Abiding"
+    },
+    {
+      "ar": "ما",
+      "en": "not"
+    },
+    {
+      "ar": "لنفسک",
+      "en": "unto Thyself"
+    },
+    {
+      "ar": "شريکا",
+      "en": "a partner"
+    },
+    {
+      "ar": "فی الملک",
+      "en": "in Thy dominion"
+    },
+    {
+      "ar": "نظيرا",
+      "en": "a peer"
+    },
+    {
+      "ar": "فی الارض",
+      "en": "upon earth"
+    },
+    {
+      "ar": "قد",
+      "en": "have"
+    },
+    {
+      "ar": "شهدت",
+      "en": "borne witness"
+    },
+    {
+      "ar": "الکائنات",
+      "en": "All created things"
+    },
+    {
+      "ar": "بما",
+      "en": "unto that which"
+    },
+    {
+      "ar": "شهد",
+      "en": "testified"
+    },
+    {
+      "ar": "به",
+      "en": "unto"
+    },
+    {
+      "ar": "لسان",
+      "en": "the Tongue"
+    },
+    {
+      "ar": "عظمتک",
+      "en": "Thy grandeur"
+    },
+    {
+      "ar": "قبلها",
+      "en": "ere their creation"
+    },
+    {
+      "ar": "انّک انت اللّه",
+      "en": "Thou art God"
+    },
+    {
+      "ar": "لا اله الّا انت",
+      "en": "there is none other God but Thee"
+    },
+    {
+      "ar": "لم تزل",
+      "en": "From everlasting"
+    },
+    {
+      "ar": "کنت",
+      "en": "Thou wast"
+    },
+    {
+      "ar": "مقدّسا",
+      "en": "sanctified"
+    },
+    {
+      "ar": "عن ذکر",
+      "en": "from the mention"
+    },
+    {
+      "ar": "عبادک",
+      "en": "Thy servants"
+    },
+    {
+      "ar": "متعاليا",
+      "en": "exalted"
+    },
+    {
+      "ar": "عن وصف",
+      "en": "above the description"
+    },
+    {
+      "ar": "خلقک",
+      "en": "Thy creatures"
+    },
+    {
+      "ar": "ربّ",
+      "en": "Lord"
+    },
+    {
+      "ar": "تری",
+      "en": "Thou beholdest"
+    },
+    {
+      "ar": "الجاهل",
+      "en": "the ignorant"
+    },
+    {
+      "ar": "قصد",
+      "en": "seeking"
+    },
+    {
+      "ar": "بحر",
+      "en": "the ocean"
+    },
+    {
+      "ar": "علمک",
+      "en": "Thy knowledge"
+    },
+    {
+      "ar": "العطشان",
+      "en": "the sore athirst"
+    },
+    {
+      "ar": "کوثر",
+      "en": "the living waters"
+    },
+    {
+      "ar": "بيانک",
+      "en": "Thine utterance"
+    },
+    {
+      "ar": "الذّليل",
+      "en": "the abased"
+    },
+    {
+      "ar": "خباء",
+      "en": "the tabernacle"
+    },
+    {
+      "ar": "عزّک",
+      "en": "Thy glory"
+    },
+    {
+      "ar": "الفقير",
+      "en": "the poor"
+    },
+    {
+      "ar": "کنز",
+      "en": "the treasury"
+    },
+    {
+      "ar": "غنائک",
+      "en": "Thy riches"
+    },
+    {
+      "ar": "السّائل",
+      "en": "the suppliant"
+    },
+    {
+      "ar": "مشرق",
+      "en": "the dawning-place"
+    },
+    {
+      "ar": "حکمتک",
+      "en": "Thy wisdom"
+    },
+    {
+      "ar": "الضّعيف",
+      "en": "the weak"
+    },
+    {
+      "ar": "مطلع",
+      "en": "the source"
+    },
+    {
+      "ar": "قدرتک",
+      "en": "Thy strength"
+    },
+    {
+      "ar": "المسکين",
+      "en": "the wretched"
+    },
+    {
+      "ar": "سماء",
+      "en": "the heaven"
+    },
+    {
+      "ar": "الکليل",
+      "en": "the dumb"
+    },
+    {
+      "ar": "ملکوت",
+      "en": "the kingdom"
+    },
+    {
+      "ar": "ذکرک",
+      "en": "Thy mention"
+    }
+  ],
+  "terms": [
+    {
+      "term": "عظمتک",
+      "transliteration": "ʿ-z̟-m",
+      "literal": "greatest; supreme; mightiest",
+      "se_rendering": "grandeur",
+      "note": "Standard 'Most Great' or 'greatest' (63 occ.). 'Grandeur' here—a poetic, less formal rendering emphasizing magnificence over superlative rank.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 56,
+          "snippet": "supreme"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 269,
+          "snippet": "Most Great"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 734,
+          "snippet": "Most Great Name"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 3,
+          "snippet": "greatest"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 6,
+          "snippet": "greater"
+        },
+        {
+          "work": "gleanings",
+          "para": 10,
+          "snippet": "most mighty"
+        },
+        {
+          "work": "gleanings",
+          "para": 392,
+          "snippet": "great"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 9,
+          "snippet": "mighty"
+        }
+      ]
+    },
+    {
+      "term": "علمک",
+      "transliteration": "ʿ-l-m",
+      "literal": "world; universe; the worlds",
+      "se_rendering": "ocean of Thy knowledge",
+      "note": "Usually 'world' or 'the worlds' (141 occ.). Here 'knowledge'—literal sense of ʿilm, rare in SE's corpus but contextually precise for 'ocean of knowledge.'",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 198,
+          "snippet": "world"
+        },
+        {
+          "work": "gleanings",
+          "para": 657,
+          "snippet": "all worlds"
+        },
+        {
+          "work": "gleanings",
+          "para": 182,
+          "snippet": "mankind"
+        },
+        {
+          "work": "gleanings",
+          "para": 183,
+          "snippet": "the whole world"
+        },
+        {
+          "work": "gleanings",
+          "para": 226,
+          "snippet": "all earthly defilements"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 76,
+          "snippet": "Knowledge"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 122,
+          "snippet": "commentators"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 42,
+          "snippet": "banner"
+        }
+      ]
+    },
+    {
+      "term": "بيانک",
+      "transliteration": "b-y-n",
+      "literal": "to manifest; to make clear; clear, evident",
+      "se_rendering": "living waters of Thine utterance",
+      "note": "Normally 'the Bayán' or 'clear proofs' (87 occ.). 'Living waters of Thine utterance' captures the root's manifestation sense while avoiding proper-noun literalism.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 223,
+          "snippet": "the Expounder, the Most Manifest"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 231,
+          "snippet": "clear verses"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 3,
+          "snippet": "proofs"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 12,
+          "snippet": "clear proofs"
+        },
+        {
+          "work": "gleanings",
+          "para": 563,
+          "snippet": "Dawning-Place of the proofs"
+        },
+        {
+          "work": "gleanings",
+          "para": 292,
+          "snippet": "the Bayán"
+        },
+        {
+          "work": "gleanings",
+          "para": 636,
+          "snippet": "utterance"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 101,
+          "snippet": "Bayán"
+        }
+      ]
+    },
+    {
+      "term": "عزک",
+      "transliteration": "ʿ-z-z",
+      "literal": "glory; might; honor; dignity; power; majesty",
+      "se_rendering": "glory",
+      "note": "Typically 'glory' (49 occ.). Retained as 'glory' here in 'tabernacle of Thy glory'—consistent with standard pattern, chosen for architectural metaphor fit.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 185,
+          "snippet": "glory"
+        },
+        {
+          "work": "gleanings",
+          "para": 642,
+          "snippet": "honor"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 491,
+          "snippet": "exalted"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 99,
+          "snippet": "Dear"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 38,
+          "snippet": "dearly beloved"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 37,
+          "snippet": "Gracious"
+        },
+        {
+          "work": "gleanings",
+          "para": 260,
+          "snippet": "All-Glorious"
+        },
+        {
+          "work": "gleanings",
+          "para": 660,
+          "snippet": "powerful"
+        }
+      ]
+    },
+    {
+      "term": "مشرق",
+      "transliteration": "sh-r-q",
+      "literal": "radiance; splendor; dawn; illumination",
+      "se_rendering": "dawning-place",
+      "note": "Usually 'Ishraq' or 'radiance' (63 occ.). 'Dawning-place' blends the sh-r-q root's illumination sense with the phrase's mystical context of wisdom's emergence.",
+      "cross_refs": [
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 28,
+          "snippet": "radiance"
+        },
+        {
+          "work": "gleanings",
+          "para": 382,
+          "snippet": "revelation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 83,
+          "snippet": "Daystar"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 41,
+          "snippet": "dawning"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 2,
+          "snippet": "shining"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 14,
+          "snippet": "Dawning Place"
+        },
+        {
+          "work": "gleanings",
+          "para": 126,
+          "snippet": "Dayspring"
+        },
+        {
+          "work": "gleanings",
+          "para": 605,
+          "snippet": "Manifestation"
+        }
+      ]
+    },
+    {
+      "term": "حکمتک",
+      "transliteration": "h-k-m",
+      "literal": "government; rule; governance; wisdom",
+      "se_rendering": "wisdom",
+      "note": "Conventionally 'rule' or 'government' (69 occ.). 'Wisdom' here—a philosophical rather than political reading, unique in SE's repertoire for h-k-m.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-ahd",
+          "para": 6,
+          "snippet": "rule"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "government"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 849,
+          "snippet": "signs of Thy sovereignty"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 160,
+          "snippet": "meaning of return"
+        },
+        {
+          "work": "gleanings",
+          "para": 224,
+          "snippet": "mysteries"
+        },
+        {
+          "work": "gleanings",
+          "para": 636,
+          "snippet": "rule of the sword"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 182,
+          "snippet": "mystery of the former verse"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 46,
+          "snippet": "conclusive"
+        }
+      ]
+    },
+    {
+      "term": "قدرتک",
+      "transliteration": "q-d-r",
+      "literal": "power; might; decree; measure; worth",
+      "se_rendering": "source of Thy strength",
+      "note": "Typically 'power' or 'Thy power' (100 occ.). Rendered as 'strength' here, a narrower semantic choice within the q-d-r root's scope.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 339,
+          "snippet": "Thy power"
+        },
+        {
+          "work": "gleanings",
+          "para": 138,
+          "snippet": "hath been decreed"
+        },
+        {
+          "work": "gleanings",
+          "para": 662,
+          "snippet": "hath decreed"
+        },
+        {
+          "work": "gleanings",
+          "para": 496,
+          "snippet": "forbearing towards"
+        },
+        {
+          "work": "gleanings",
+          "para": 111,
+          "snippet": "schools"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 12,
+          "snippet": "God of power"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 35,
+          "snippet": "Potent"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 282,
+          "snippet": "Almighty"
+        }
+      ]
+    }
+  ],
+  "section_index": "5",
+  "section": "5",
+  "section_para": 1
 }

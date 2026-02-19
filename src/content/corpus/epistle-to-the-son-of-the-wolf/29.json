@@ -1,10 +1,632 @@
 {
   "work": "Epistle to the Son of the Wolf",
   "slug": "epistle-to-the-son-of-the-wolf",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 29,
   "source_text": "يا شيخ انّا سمعنا انّ جنابک اعرضت عنّا و اعترضت علينا حيث امرت النّاس بسبّي و افتيت علی سفک دماء العباد * للّه درّ من قال\n\\[ طَوْعًا لِقَاضٍ أَتَی فِی حُکْمِهِ عَجَبًا             أَفْتَی بِسَفْکِ دَمِی فِی الحِلِّ وَ الحَرَمِ ]\nبراستی ميگويم انچه در سبيل الهی وارد شود محبوب جان است و مقصود روان * سمّ مهلک در سبيلش شهديست فائق و عذابش عذبيست لائق * در لوح حضرت سلطان ذکر شده و نفسه الحقّ لا اجزع من البلايا فی سبيله و لا من الرّزايا فی حبّه قد جعل اللّه البلاء غادية لهذه الدّسکرة الخضراء و ذبالة لمصباحه الّذی به اشرقت الارض و السّماء *",
   "translation": "O Shaykh! We have learned that thou hast turned away from Us, and protested against Us, in such wise that thou hast bidden the people to curse Me, and decreed that the blood of the servants of God be shed. God requite him who said: \"Willingly will I obey the judge who hath so strangely decreed that my blood be spilt at Hill and at Haram!\" Verily I say: Whatever befalleth in the path of God is the beloved of the soul and the desire of the heart. Deadly poison in His path is pure honey, and every tribulation a draught of crystal water. In the Tablet to His Majesty the Sháh it is written: \"By Him Who is the Truth! I fear no tribulation in His path, nor any affliction in My love for Him. Verily God hath made adversity as a morning dew upon His green pasture, and a wick for His lamp which lighteth earth and heaven.\"",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "deadly-poison-pure-honey",
+  "alignment": [
+    {
+      "ar": "يا",
+      "en": "O"
+    },
+    {
+      "ar": "شيخ",
+      "en": "Shaykh"
+    },
+    {
+      "ar": "انّا",
+      "en": "We"
+    },
+    {
+      "ar": "سمعنا",
+      "en": "learned"
+    },
+    {
+      "ar": "انّ",
+      "en": "that"
+    },
+    {
+      "ar": "جنابک",
+      "en": "thou"
+    },
+    {
+      "ar": "اعرضت",
+      "en": "turned away"
+    },
+    {
+      "ar": "عنّا",
+      "en": "from Us"
+    },
+    {
+      "ar": "اعترضت",
+      "en": "protested"
+    },
+    {
+      "ar": "علينا",
+      "en": "against Us"
+    },
+    {
+      "ar": "حيث",
+      "en": "in such wise that"
+    },
+    {
+      "ar": "امرت",
+      "en": "bidden"
+    },
+    {
+      "ar": "النّاس",
+      "en": "the people"
+    },
+    {
+      "ar": "بسبّي",
+      "en": "to curse Me"
+    },
+    {
+      "ar": "افتيت",
+      "en": "decreed"
+    },
+    {
+      "ar": "علی",
+      "en": ""
+    },
+    {
+      "ar": "سفک",
+      "en": "be spilt"
+    },
+    {
+      "ar": "دماء",
+      "en": "blood"
+    },
+    {
+      "ar": "العباد",
+      "en": "the servants of God"
+    },
+    {
+      "ar": "للّه",
+      "en": "God"
+    },
+    {
+      "ar": "درّ",
+      "en": "requite"
+    },
+    {
+      "ar": "من",
+      "en": "him who"
+    },
+    {
+      "ar": "قال",
+      "en": "said"
+    },
+    {
+      "ar": "طَوْعًا",
+      "en": "Willingly"
+    },
+    {
+      "ar": "لِقَاضٍ",
+      "en": "the judge"
+    },
+    {
+      "ar": "أَتَی",
+      "en": ""
+    },
+    {
+      "ar": "فِی",
+      "en": ""
+    },
+    {
+      "ar": "حُکْمِهِ",
+      "en": ""
+    },
+    {
+      "ar": "عَجَبًا",
+      "en": "strangely"
+    },
+    {
+      "ar": "بِسَفْکِ",
+      "en": ""
+    },
+    {
+      "ar": "دَمِی",
+      "en": "my blood"
+    },
+    {
+      "ar": "وَ الحَرَمِ",
+      "en": "and at Haram"
+    },
+    {
+      "ar": "براستی",
+      "en": "Verily"
+    },
+    {
+      "ar": "ميگويم",
+      "en": "I say"
+    },
+    {
+      "ar": "انچه",
+      "en": "Whatever"
+    },
+    {
+      "ar": "در",
+      "en": ""
+    },
+    {
+      "ar": "سبيل",
+      "en": "the path"
+    },
+    {
+      "ar": "الهی",
+      "en": "of God"
+    },
+    {
+      "ar": "وارد شود",
+      "en": "befalleth"
+    },
+    {
+      "ar": "محبوب",
+      "en": "the beloved"
+    },
+    {
+      "ar": "جان",
+      "en": "of the soul"
+    },
+    {
+      "ar": "است",
+      "en": "is"
+    },
+    {
+      "ar": "مقصود",
+      "en": "the desire"
+    },
+    {
+      "ar": "روان",
+      "en": "of the heart"
+    },
+    {
+      "ar": "سمّ",
+      "en": "poison"
+    },
+    {
+      "ar": "مهلک",
+      "en": "Deadly"
+    },
+    {
+      "ar": "سبيلش",
+      "en": "His path"
+    },
+    {
+      "ar": "شهديست",
+      "en": "honey"
+    },
+    {
+      "ar": "فائق",
+      "en": "pure"
+    },
+    {
+      "ar": "عذابش",
+      "en": "tribulation"
+    },
+    {
+      "ar": "عذبيست",
+      "en": "draught"
+    },
+    {
+      "ar": "لائق",
+      "en": "crystal water"
+    },
+    {
+      "ar": "در",
+      "en": ""
+    },
+    {
+      "ar": "لوح",
+      "en": "the Tablet"
+    },
+    {
+      "ar": "حضرت",
+      "en": ""
+    },
+    {
+      "ar": "سلطان",
+      "en": "His Majesty the Sháh"
+    },
+    {
+      "ar": "ذکر شده",
+      "en": "written"
+    },
+    {
+      "ar": "و نفسه",
+      "en": "By Him"
+    },
+    {
+      "ar": "الحقّ",
+      "en": "Who is the Truth"
+    },
+    {
+      "ar": "لا",
+      "en": ""
+    },
+    {
+      "ar": "اجزع",
+      "en": "fear"
+    },
+    {
+      "ar": "من",
+      "en": ""
+    },
+    {
+      "ar": "فی سبيله",
+      "en": "in His path"
+    },
+    {
+      "ar": "و لا",
+      "en": ""
+    },
+    {
+      "ar": "من الرّزايا",
+      "en": "affliction"
+    },
+    {
+      "ar": "فی حبّه",
+      "en": "in My love for Him"
+    },
+    {
+      "ar": "قد",
+      "en": ""
+    },
+    {
+      "ar": "جعل",
+      "en": "made"
+    },
+    {
+      "ar": "البلاء",
+      "en": "adversity"
+    },
+    {
+      "ar": "غادية",
+      "en": "a morning dew"
+    },
+    {
+      "ar": "لهذه",
+      "en": ""
+    },
+    {
+      "ar": "الدّسکرة",
+      "en": "pasture"
+    },
+    {
+      "ar": "الخضراء",
+      "en": "His green"
+    },
+    {
+      "ar": "ذبالة",
+      "en": "a wick"
+    },
+    {
+      "ar": "لمصباحه",
+      "en": "for His lamp"
+    },
+    {
+      "ar": "الّذی",
+      "en": "which"
+    },
+    {
+      "ar": "به",
+      "en": ""
+    },
+    {
+      "ar": "اشرقت",
+      "en": "lighteth"
+    },
+    {
+      "ar": "الارض",
+      "en": "earth"
+    },
+    {
+      "ar": "و السّماء",
+      "en": "and heaven"
+    }
+  ],
+  "terms": [
+    {
+      "term": "وارد",
+      "transliteration": "w-r-d",
+      "literal": "to enter, to come, to befall, to arrive",
+      "se_rendering": "befalleth",
+      "note": "Typically 'hath touched' or 'befallen' (36 occurrences). 'Befalleth' preserves archaic English present-tense form, marking the timeless principle rather than singular event.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 557,
+          "snippet": "will discern"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 30,
+          "snippet": "brought forth"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 204,
+          "snippet": "heaped upon"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 47,
+          "snippet": "befallen"
+        },
+        {
+          "work": "gleanings",
+          "para": 489,
+          "snippet": "hath befallen"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 49,
+          "snippet": "approaching"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 788,
+          "snippet": "waters"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 240,
+          "snippet": "gain admittance"
+        }
+      ]
+    },
+    {
+      "term": "محبوب",
+      "transliteration": "ḥ-b-b",
+      "literal": "love; affection",
+      "se_rendering": "beloved of the soul",
+      "note": "Standard 'beloved' rendering (92 occurrences typical). Here expanded to 'beloved of the soul' — emphasizing the mystical-emotional dimension via the addition of 'soul'.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 3,
+          "snippet": "beloved of the Lord"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 53,
+          "snippet": "loved ones of the Lord"
+        },
+        {
+          "work": "gleanings",
+          "para": 341,
+          "snippet": "loved ones of God"
+        },
+        {
+          "work": "gleanings",
+          "para": 689,
+          "snippet": "beloved of the one true God"
+        },
+        {
+          "work": "gleanings",
+          "para": 640,
+          "snippet": "loved ones"
+        },
+        {
+          "work": "gleanings",
+          "para": 690,
+          "snippet": "beloved of God"
+        },
+        {
+          "work": "gleanings",
+          "para": 477,
+          "snippet": "His loved ones"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 10,
+          "snippet": "love for Thee"
+        }
+      ]
+    },
+    {
+      "term": "الحقّ",
+      "transliteration": "h-q-q",
+      "literal": "truth; right; that which is true or just",
+      "se_rendering": "the Truth",
+      "note": "Usually 'the Truth' or 'the True One' (43 occurrences). 'The Truth' alone here maintains mystical abstraction while introducing the divine oath structure of the embedded tablet.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 651,
+          "snippet": "the True One"
+        },
+        {
+          "work": "gleanings",
+          "para": 85,
+          "snippet": "the Truth"
+        },
+        {
+          "work": "gleanings",
+          "para": 328,
+          "snippet": "the one true God"
+        },
+        {
+          "work": "gleanings",
+          "para": 707,
+          "snippet": "Him"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 52,
+          "snippet": "Sun of Truth"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 103,
+          "snippet": "Luminaries of Truth"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 113,
+          "snippet": "was realized"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 215,
+          "snippet": "realization"
+        }
+      ]
+    },
+    {
+      "term": "البلايا",
+      "transliteration": "b-l-ʾ",
+      "literal": "affliction; trial; calamity",
+      "se_rendering": "tribulation",
+      "note": "Usually 'trials' or 'tribulations' (27 occurrences). Singular 'tribulation' here maintains grammatical correspondence with the preceding phrase while preserving theological weight.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 249,
+          "snippet": "trials"
+        },
+        {
+          "work": "gleanings",
+          "para": 660,
+          "snippet": "afflictions"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 63,
+          "snippet": "the lands"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 28,
+          "snippet": "afflicted"
+        },
+        {
+          "work": "gleanings",
+          "para": 640,
+          "snippet": "subjected"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 145,
+          "snippet": "sick"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 92,
+          "snippet": "Yea"
+        },
+        {
+          "work": "gleanings",
+          "para": 410,
+          "snippet": "affliction"
+        }
+      ]
+    },
+    {
+      "term": "جعل",
+      "transliteration": "j-ʿ-l",
+      "literal": "to make; to cause; to render; to appoint",
+      "se_rendering": "hath made",
+      "note": "Commonly 'ordained' or 'hath ordained' (37 occurrences). 'Hath made' is more direct and concrete, suiting the agricultural metaphor of 'morning dew.'",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 12,
+          "snippet": "make them"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 212,
+          "snippet": "enable them"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 25,
+          "snippet": "hath ordained"
+        },
+        {
+          "work": "gleanings",
+          "para": 529,
+          "snippet": "ordained"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 172,
+          "snippet": "make him"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 50,
+          "snippet": "assist us to help"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 242,
+          "snippet": "set me"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 191,
+          "snippet": "Deny me not"
+        }
+      ]
+    },
+    {
+      "term": "اشرقت",
+      "transliteration": "sh-r-q",
+      "literal": "radiance; splendor; dawn; illumination",
+      "se_rendering": "lighteth",
+      "note": "Typically 'radiance,' 'revelation,' or 'Daystar' (63 occurrences). Here 'lighteth' emphasizes functional illumination via present-tense verb form, suiting the cosmological vision.",
+      "cross_refs": [
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 28,
+          "snippet": "radiance"
+        },
+        {
+          "work": "gleanings",
+          "para": 382,
+          "snippet": "revelation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 83,
+          "snippet": "Daystar"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 41,
+          "snippet": "dawning"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 2,
+          "snippet": "shining"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 14,
+          "snippet": "Dawning Place"
+        },
+        {
+          "work": "gleanings",
+          "para": 126,
+          "snippet": "Dayspring"
+        },
+        {
+          "work": "gleanings",
+          "para": 605,
+          "snippet": "Manifestation"
+        }
+      ]
+    }
+  ],
+  "section_index": "29",
+  "section": "29",
+  "section_para": 1
 }

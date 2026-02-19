@@ -1,10 +1,173 @@
 {
   "work": "Tablet of the Holy Mariner",
   "slug": "tablet-of-the-holy-mariner",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 53,
   "source_text": "الّذي تردّى برداء السّوداء ووقعت على التّراب وماتت كأنّها دعيت وأجابت من دعاها في لاهوت العماء",
   "translation": "And she fell upon the dust and gave up the spirit. It seemeth she was called and hearkened unto Him that summoned her unto the Realm on High. \nGlorified be my Lord, the All-Glorious!",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "called-and-hearkened-realm-on-high",
+  "alignment": [
+    {
+      "ar": "تردّى",
+      "en": "fell"
+    },
+    {
+      "ar": "برداء",
+      "en": "upon"
+    },
+    {
+      "ar": "السّوداء",
+      "en": "dust"
+    },
+    {
+      "ar": "وقعت",
+      "en": "fell upon"
+    },
+    {
+      "ar": "التّراب",
+      "en": "the dust"
+    },
+    {
+      "ar": "ماتت",
+      "en": "gave up the spirit"
+    },
+    {
+      "ar": "دعيت",
+      "en": "was called"
+    },
+    {
+      "ar": "أجابت",
+      "en": "hearkened"
+    },
+    {
+      "ar": "دعاها",
+      "en": "summoned her"
+    },
+    {
+      "ar": "لاهوت",
+      "en": "Realm"
+    },
+    {
+      "ar": "العماء",
+      "en": "on High"
+    }
+  ],
+  "terms": [
+    {
+      "term": "السّوداء",
+      "transliteration": "s-w-d",
+      "literal": "blackened; dark; tranquil; at peace; undisturbed",
+      "se_rendering": "[omitted in translation]",
+      "note": "Root s-w-d spans 'blackened' to 'peace' (4 occ.). SE omits this descriptor entirely, removing the color/emotional tone from the opening image.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 612,
+          "snippet": "blackened"
+        },
+        {
+          "work": "gleanings",
+          "para": 84,
+          "snippet": "shall stare up with terror"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 85,
+          "snippet": "the Black Sea"
+        },
+        {
+          "work": "gleanings",
+          "para": 110,
+          "snippet": "peace"
+        }
+      ]
+    },
+    {
+      "term": "ووقعت",
+      "transliteration": "w-q-ʿ",
+      "literal": "to fall, to occur, to happen; incident, event",
+      "se_rendering": "fell",
+      "note": "Root w-q-ʿ renders 'to fall' here; typically 'occurred' or 'took place' (13 occ.). SE's 'fell' is concrete, matching the physical descent rather than abstract event language.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 83,
+          "snippet": "The thing that must come hath come"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 118,
+          "snippet": "actually took place"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 30,
+          "snippet": "certain parts"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 265,
+          "snippet": "places"
+        },
+        {
+          "work": "gleanings",
+          "para": 111,
+          "snippet": "hath come to pass"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 236,
+          "snippet": "fallen"
+        }
+      ]
+    },
+    {
+      "term": "التّراب",
+      "transliteration": "t-r-b",
+      "literal": "dust; earth; soil",
+      "se_rendering": "the dust",
+      "note": "Root t-r-b renders consistently as 'dust' across corpus (9 occ.). SE maintains literal fidelity; dust carries eschatological weight in Islamic and Bahá'í theology.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 10,
+          "snippet": "dust"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 498,
+          "snippet": "the dust"
+        }
+      ]
+    },
+    {
+      "term": "لاهوت",
+      "transliteration": "l-h-w-t",
+      "literal": "divine nature; Godhead; divinity; theistic",
+      "se_rendering": "Realm on High",
+      "note": "Root l-h-w-t spans 'Divinity' to 'Realm on High' (6 occ.). SE's 'Realm on High' here emphasizes transcendent location over abstract divinity, possibly influenced by العماء context.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 168,
+          "snippet": "Divinity"
+        },
+        {
+          "work": "gleanings",
+          "para": 51,
+          "snippet": "unseen world"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 180,
+          "snippet": "celestial Melody"
+        }
+      ]
+    }
+  ],
+  "section_index": "54",
+  "section": "54",
+  "section_para": 1
 }

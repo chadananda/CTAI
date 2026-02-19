@@ -1,10 +1,570 @@
 {
   "work": "Will and Testament",
   "slug": "will-and-testament",
-  "author": "'Abdu'l-Baha",
+  "author": "‘Abdu’l-Bahá",
   "pair_index": 42,
   "source_text": "سبحان‌اللّه میرزا بدیع‌اللّه بعد از آنکه بخطّ خویش نقض این شخص را اعلان نمود و تحریف کتاب او را اعلان کرد چون ایمان و پیمان و متابعت عهد و میثاق را موافق اجرای هوای نفسانی خویش نیافت پشیمان شد و اظهار ندامت کرد و در سرّ خواست که اوراق مطبوع خویش را جمع نماید و با مرکز نقض سرّاً مؤانست جست و حوادث در خانه و اندرون را یومیاً باو میرساند و در این فسادهای اخیر مدخل کلّی دارد الحمد للّه امور منتظم شده بود و یاران قدری راحت شده بودند از روزیکه دوباره داخل ما شد فساد دوباره از سر گرفت و بعضی اطوار و تحریکات فسادیّۀ او در ورق مخصوص مرقوم میگردد",
   "translation": "Gracious God! After Mírzá Badí‘u’lláh had declared in his own handwriting that this man (Muḥammad-‘Alí) had broken the Covenant and had proclaimed his falsification of the Holy Text, he realized that to return to the True Faith and pay allegiance to the Covenant and Testament would in no wise promote his selfish desires. He thus repented and regretted the thing he had done and attempted privily to gather in his printed confessions, plotted darkly with the Centre of Sedition against me and informed him daily of all the happenings within my household. He hath even taken a leading part in the mischievous deeds that have of late been committed. Praise be to God, affairs recovered their former stability and the loved ones obtained partial peace. But ever since the day he entered again into our midst, he began afresh to sow the seeds of sore sedition. Some of his machinations and intrigues will be recorded in a separate leaflet.",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "covenant-breaker-sows-sedition",
+  "alignment": [
+    {
+      "ar": "سبحان‌اللّه",
+      "en": "Gracious God"
+    },
+    {
+      "ar": "بعد از",
+      "en": "After"
+    },
+    {
+      "ar": "بخطّ",
+      "en": "in his own handwriting"
+    },
+    {
+      "ar": "خویش",
+      "en": "his own"
+    },
+    {
+      "ar": "نقض",
+      "en": "broken the Covenant"
+    },
+    {
+      "ar": "این",
+      "en": "this"
+    },
+    {
+      "ar": "شخص",
+      "en": "man"
+    },
+    {
+      "ar": "اعلان",
+      "en": "declared"
+    },
+    {
+      "ar": "نمود",
+      "en": "had declared"
+    },
+    {
+      "ar": "تحریف",
+      "en": "falsification"
+    },
+    {
+      "ar": "کتاب",
+      "en": "Holy Text"
+    },
+    {
+      "ar": "اعلان کرد",
+      "en": "proclaimed"
+    },
+    {
+      "ar": "چون",
+      "en": "realized"
+    },
+    {
+      "ar": "ایمان",
+      "en": "Faith"
+    },
+    {
+      "ar": "پیمان",
+      "en": "allegiance"
+    },
+    {
+      "ar": "متابعت",
+      "en": "pay allegiance"
+    },
+    {
+      "ar": "عهد",
+      "en": "Covenant"
+    },
+    {
+      "ar": "میثاق",
+      "en": "Testament"
+    },
+    {
+      "ar": "موافق",
+      "en": "promote"
+    },
+    {
+      "ar": "هوای نفسانی",
+      "en": "selfish desires"
+    },
+    {
+      "ar": "نیافت",
+      "en": "would in no wise"
+    },
+    {
+      "ar": "پشیمان شد",
+      "en": "repented"
+    },
+    {
+      "ar": "اظهار",
+      "en": "regretted"
+    },
+    {
+      "ar": "کرد",
+      "en": "done"
+    },
+    {
+      "ar": "سرّ",
+      "en": "privily"
+    },
+    {
+      "ar": "خواست",
+      "en": "attempted"
+    },
+    {
+      "ar": "اوراق",
+      "en": "confessions"
+    },
+    {
+      "ar": "مطبوع",
+      "en": "printed"
+    },
+    {
+      "ar": "جمع نماید",
+      "en": "gather in"
+    },
+    {
+      "ar": "مرکز نقض",
+      "en": "Centre of Sedition"
+    },
+    {
+      "ar": "سرّاً",
+      "en": "darkly"
+    },
+    {
+      "ar": "مؤانست جست",
+      "en": "plotted"
+    },
+    {
+      "ar": "حوادث",
+      "en": "happenings"
+    },
+    {
+      "ar": "خانه",
+      "en": "household"
+    },
+    {
+      "ar": "یومیاً",
+      "en": "daily"
+    },
+    {
+      "ar": "میرساند",
+      "en": "informed"
+    },
+    {
+      "ar": "فسادهای",
+      "en": "mischievous deeds"
+    },
+    {
+      "ar": "اخیر",
+      "en": "of late"
+    },
+    {
+      "ar": "مدخل",
+      "en": "part"
+    },
+    {
+      "ar": "کلّی",
+      "en": "leading"
+    },
+    {
+      "ar": "دارد",
+      "en": "taken"
+    },
+    {
+      "ar": "الحمد للّه",
+      "en": "Praise be to God"
+    },
+    {
+      "ar": "امور",
+      "en": "affairs"
+    },
+    {
+      "ar": "منتظم شده بود",
+      "en": "recovered their former stability"
+    },
+    {
+      "ar": "یاران",
+      "en": "loved ones"
+    },
+    {
+      "ar": "قدری",
+      "en": "partial"
+    },
+    {
+      "ar": "راحت",
+      "en": "peace"
+    },
+    {
+      "ar": "شده بودند",
+      "en": "obtained"
+    },
+    {
+      "ar": "از روزیکه",
+      "en": "ever since the day"
+    },
+    {
+      "ar": "دوباره",
+      "en": "again"
+    },
+    {
+      "ar": "داخل",
+      "en": "entered"
+    },
+    {
+      "ar": "ما",
+      "en": "our midst"
+    },
+    {
+      "ar": "فساد",
+      "en": "sedition"
+    },
+    {
+      "ar": "از سر گرفت",
+      "en": "began afresh"
+    },
+    {
+      "ar": "بعضی",
+      "en": "Some"
+    },
+    {
+      "ar": "اطوار",
+      "en": "machinations"
+    },
+    {
+      "ar": "تحریکات",
+      "en": "intrigues"
+    },
+    {
+      "ar": "او",
+      "en": "his"
+    },
+    {
+      "ar": "ورق",
+      "en": "leaflet"
+    },
+    {
+      "ar": "مخصوص",
+      "en": "separate"
+    },
+    {
+      "ar": "مرقوم میگردد",
+      "en": "recorded"
+    }
+  ],
+  "terms": [
+    {
+      "term": "نقض",
+      "transliteration": "n-q-d",
+      "literal": "breaker; violator; one who breaks (covenant); covenant-breaker",
+      "se_rendering": "broken the Covenant",
+      "note": "Root typically yields 'Covenant-breakers' or 'breaking' across 33 occurrences. Here rendered as verb 'broken' and noun phrase 'Centre of Sedition,' showing SE's flexibility in adapting the covenant-violation theme to grammatical context.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 32,
+          "snippet": "imperfect"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 6,
+          "snippet": "broken"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 194,
+          "snippet": "breaking"
+        }
+      ]
+    },
+    {
+      "term": "تحریف",
+      "transliteration": "h-r-f",
+      "literal": "letter; character; edge",
+      "se_rendering": "falsification",
+      "note": "Standard renderings include 'falsification' and 'alteration' (32 occ). Here 'falsification of the Holy Text' maintains doctrinal precision, emphasizing the text-manipulation charge against Muḥammad-'Alí.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 46,
+          "snippet": "letters"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 92,
+          "snippet": "alteration"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 97,
+          "snippet": "perverted"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 179,
+          "snippet": "setting down"
+        },
+        {
+          "work": "gleanings",
+          "para": 609,
+          "snippet": "Letter"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 57,
+          "snippet": "word"
+        }
+      ]
+    },
+    {
+      "term": "موافق",
+      "transliteration": "w-f-q",
+      "literal": "accord, agreement, harmony; to agree, accord with",
+      "se_rendering": "promote",
+      "note": "Typically 'in concert with' or 'accord' (33 occ). Here 'promote' shifts from harmony-language to instrumental action, portraying active advancement of selfish aims rather than passive agreement.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 21,
+          "snippet": "assist me"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 547,
+          "snippet": "accord"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 56,
+          "snippet": "in concert"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 210,
+          "snippet": "Aid"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 229,
+          "snippet": "hast aided"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 251,
+          "snippet": "agree with"
+        },
+        {
+          "work": "gleanings",
+          "para": 122,
+          "snippet": "resemblance"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 276,
+          "snippet": "according to"
+        }
+      ]
+    },
+    {
+      "term": "نفسانی",
+      "transliteration": "n-f-s",
+      "literal": "self; soul; psyche",
+      "se_rendering": "selfish desires",
+      "note": "Corpus shows primarily mystical/metaphysical renderings ('his own entity in the kingdom of his self,' 43 occ). Here rendered plainly as 'selfish desires,' grounding the charge in common moral psychology rather than spiritual station.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 114,
+          "snippet": "over Mine own Self"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 789,
+          "snippet": "myself to be only nothing"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 70,
+          "snippet": "This is the station in which I have no power"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 71,
+          "snippet": "his own entity in the kingdom of his self"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 572,
+          "snippet": "Thy Self at all times"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 109,
+          "snippet": "those"
+        },
+        {
+          "work": "gleanings",
+          "para": 205,
+          "snippet": "souls"
+        },
+        {
+          "work": "gleanings",
+          "para": 297,
+          "snippet": "their powerlessness"
+        }
+      ]
+    },
+    {
+      "term": "اظهار",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "regretted",
+      "note": "Root usually 'manifestation' or 'Manifestation' (96 occ), implying divine appearance. Rendered here as 'regretted'—a stark departure, suggesting inner emotional display rather than cosmic revelation.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 53,
+          "snippet": "Manifestation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 160,
+          "snippet": "Author of all Manifestations"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 136,
+          "snippet": "evident"
+        },
+        {
+          "work": "gleanings",
+          "para": 222,
+          "snippet": "material"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 206,
+          "snippet": "appeared"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 196,
+          "snippet": "Manifestations of God"
+        }
+      ]
+    },
+    {
+      "term": "اندرون",
+      "transliteration": "d-kh-l",
+      "literal": "to enter; to admit; to bring in",
+      "se_rendering": "my household",
+      "note": "Root denotes 'entering' or 'admitting' (25 occ). Rendered as 'my household'—metonymy for inner family affairs, converting abstract entrance into intimate domestic domain.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 793,
+          "snippet": "admit them"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 361,
+          "snippet": "brought them"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 220,
+          "snippet": "entered therein"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 33,
+          "snippet": "entered"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 174,
+          "snippet": "begun"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 204,
+          "snippet": "enter"
+        },
+        {
+          "work": "gleanings",
+          "para": 58,
+          "snippet": "have entered"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 61,
+          "snippet": "Put"
+        }
+      ]
+    },
+    {
+      "term": "فسادهای",
+      "transliteration": "f-s-d",
+      "literal": "corruption; ruin; discord; mischief; decay",
+      "se_rendering": "mischievous deeds",
+      "note": "Root consistently 'mischief,' 'discord,' or 'corruption' (31 occ). 'Mischievous deeds' here personalizes corruption into specific, enumerable acts, making the accusation concrete rather than systemic.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 108,
+          "snippet": "charge of fomenting discord"
+        },
+        {
+          "work": "gleanings",
+          "para": 416,
+          "snippet": "discord"
+        },
+        {
+          "work": "gleanings",
+          "para": 179,
+          "snippet": "mischief"
+        },
+        {
+          "work": "gleanings",
+          "para": 644,
+          "snippet": "the sowers of mischief"
+        },
+        {
+          "work": "gleanings",
+          "para": 577,
+          "snippet": "of the mischief-makers"
+        },
+        {
+          "work": "gleanings",
+          "para": 454,
+          "snippet": "disorderly ones"
+        },
+        {
+          "work": "gleanings",
+          "para": 468,
+          "snippet": "of those that wrought disorders"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 155,
+          "snippet": "corruption"
+        }
+      ]
+    }
+  ],
+  "section_index": "2.11",
+  "section": "2",
+  "section_para": 11
 }

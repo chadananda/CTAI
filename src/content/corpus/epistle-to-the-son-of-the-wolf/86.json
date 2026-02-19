@@ -1,10 +1,542 @@
 {
   "work": "Epistle to the Son of the Wolf",
   "slug": "epistle-to-the-son-of-the-wolf",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 86,
   "source_text": "بما فعلت تختلف الامور فی مملکتک و يخرج الملک من کفّک جزاء عملک اذا تجد نفسک في خسران مبين و تأخذ الزّلازل کلّ القبائل هناک الّا بان تقوم علی نصرة هذا الامر و تتّبع الرّوح فی هذا السّبيل المستقيم * اعزّک غرّک لعمری انّه لا يدوم و سوف يزول الّا بان تتمسّک بهذا الحبل المتين * قد نری الذّلّة تسعی وراءک و انت من الغافلين * ينبغی لک اذا سمعت النّداء من شطر الکبرياء تدع ما عندک و تقول لبّيک يا اله من فی السّموات و الارضين *",
   "translation": "\"For what thou hast done, thy kingdom shall be thrown into confusion, and thine empire shall pass from thine hands, as a punishment for that which thou hast wrought. Then wilt thou know how thou hast plainly erred. Commotions shall seize all the people in that land, unless thou arisest to help this Cause, and followest Him Who is the Spirit of God (Jesus Christ) in this, the Straight Path. Hath thy pomp made thee proud? By My Life! It shall not endure; nay, it shall soon pass away, unless thou holdest fast by this firm Cord. We see abasement hastening after thee, whilst thou art of the heedless. It behooveth thee when thou hearest His Voice calling from the seat of glory to cast away all that thou possessest, and cry out: \\‘Here am I, O Lord of all that is in heaven and all that is on earth!'",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "kingdom-pass-firm-cord",
+  "alignment": [
+    {
+      "ar": "فعلت",
+      "en": "thou hast done"
+    },
+    {
+      "ar": "تختلف",
+      "en": "shall be thrown into confusion"
+    },
+    {
+      "ar": "الامور",
+      "en": "kingdom"
+    },
+    {
+      "ar": "مملکتک",
+      "en": "thy kingdom"
+    },
+    {
+      "ar": "يخرج",
+      "en": "shall pass"
+    },
+    {
+      "ar": "الملک",
+      "en": "empire"
+    },
+    {
+      "ar": "کفّک",
+      "en": "thine hands"
+    },
+    {
+      "ar": "جزاء",
+      "en": "punishment"
+    },
+    {
+      "ar": "عملک",
+      "en": "that which thou hast wrought"
+    },
+    {
+      "ar": "تجد",
+      "en": "wilt thou know"
+    },
+    {
+      "ar": "نفسک",
+      "en": "thou"
+    },
+    {
+      "ar": "خسران",
+      "en": "erred"
+    },
+    {
+      "ar": "مبين",
+      "en": "plainly"
+    },
+    {
+      "ar": "تأخذ",
+      "en": "shall seize"
+    },
+    {
+      "ar": "الزّلازل",
+      "en": "Commotions"
+    },
+    {
+      "ar": "القبائل",
+      "en": "all the people"
+    },
+    {
+      "ar": "هناک",
+      "en": "in that land"
+    },
+    {
+      "ar": "تقوم",
+      "en": "thou arisest"
+    },
+    {
+      "ar": "نصرة",
+      "en": "help"
+    },
+    {
+      "ar": "الامر",
+      "en": "this Cause"
+    },
+    {
+      "ar": "تتّبع",
+      "en": "followest"
+    },
+    {
+      "ar": "الرّوح",
+      "en": "the Spirit of God"
+    },
+    {
+      "ar": "السّبيل",
+      "en": "Path"
+    },
+    {
+      "ar": "المستقيم",
+      "en": "Straight"
+    },
+    {
+      "ar": "عزّک",
+      "en": "thy pomp"
+    },
+    {
+      "ar": "غرّک",
+      "en": "made thee proud"
+    },
+    {
+      "ar": "لعمری",
+      "en": "By My Life"
+    },
+    {
+      "ar": "يدوم",
+      "en": "endure"
+    },
+    {
+      "ar": "يزول",
+      "en": "pass away"
+    },
+    {
+      "ar": "تتمسّک",
+      "en": "thou holdest fast"
+    },
+    {
+      "ar": "الحبل",
+      "en": "Cord"
+    },
+    {
+      "ar": "المتين",
+      "en": "firm"
+    },
+    {
+      "ar": "نری",
+      "en": "We see"
+    },
+    {
+      "ar": "الذّلّة",
+      "en": "abasement"
+    },
+    {
+      "ar": "تسعی",
+      "en": "hastening"
+    },
+    {
+      "ar": "وراءک",
+      "en": "after thee"
+    },
+    {
+      "ar": "الغافلين",
+      "en": "the heedless"
+    },
+    {
+      "ar": "ينبغی",
+      "en": "It behooveth thee"
+    },
+    {
+      "ar": "سمعت",
+      "en": "hearest"
+    },
+    {
+      "ar": "النّداء",
+      "en": "His Voice calling"
+    },
+    {
+      "ar": "شطر",
+      "en": "the seat"
+    },
+    {
+      "ar": "الکبرياء",
+      "en": "glory"
+    },
+    {
+      "ar": "تدع",
+      "en": "cast away"
+    },
+    {
+      "ar": "عندک",
+      "en": "all that thou possessest"
+    },
+    {
+      "ar": "تقول",
+      "en": "cry out"
+    },
+    {
+      "ar": "لبّيک",
+      "en": "Here am I"
+    },
+    {
+      "ar": "اله",
+      "en": "Lord"
+    },
+    {
+      "ar": "السّموات",
+      "en": "heaven"
+    },
+    {
+      "ar": "الارضين",
+      "en": "earth"
+    }
+  ],
+  "terms": [
+    {
+      "term": "الامور",
+      "transliteration": "ʾ-m-r",
+      "literal": "command; cause; matter; affair",
+      "se_rendering": "Cause",
+      "note": "Typically 'Cause' or 'Revelation' (75 occ). 'Cause' here maintains consistency with SE's preferred rendering for this authoritative term in Bahá'í context.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "His Cause"
+        },
+        {
+          "work": "gleanings",
+          "para": 586,
+          "snippet": "His command"
+        },
+        {
+          "work": "gleanings",
+          "para": 691,
+          "snippet": "His Revelation"
+        },
+        {
+          "work": "gleanings",
+          "para": 723,
+          "snippet": "Cause"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 797,
+          "snippet": "Thy Cause"
+        },
+        {
+          "work": "gleanings",
+          "para": 8,
+          "snippet": "Revelation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 597,
+          "snippet": "service"
+        },
+        {
+          "work": "gleanings",
+          "para": 524,
+          "snippet": "your affairs"
+        }
+      ]
+    },
+    {
+      "term": "مملكتك",
+      "transliteration": "m-l-k",
+      "literal": "kingdom; dominion; realm; sovereignty",
+      "se_rendering": "kingdom",
+      "note": "Usually 'kingdom' or 'realm' (70 occ). SE renders as 'kingdom' consistently; no deviation—this term anchors the sovereignty imagery throughout.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-ahd",
+          "para": 16,
+          "snippet": "heaven"
+        },
+        {
+          "work": "gleanings",
+          "para": 394,
+          "snippet": "realm"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 71,
+          "snippet": "kingdom"
+        },
+        {
+          "work": "gleanings",
+          "para": 313,
+          "snippet": "heavenly gem"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 69,
+          "snippet": "realms"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 28,
+          "snippet": "righteous"
+        },
+        {
+          "work": "gleanings",
+          "para": 171,
+          "snippet": "by the heavenly power"
+        },
+        {
+          "work": "gleanings",
+          "para": 59,
+          "snippet": "Lord"
+        }
+      ]
+    },
+    {
+      "term": "القبائل",
+      "transliteration": "q-b-l",
+      "literal": "group; company; tribe; sort; kind",
+      "se_rendering": "people",
+      "note": "Typically 'company' or acceptance-related renderings (58 occ). 'People' here is notably plain, avoiding metaphorical complexity seen in other instances.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 698,
+          "snippet": "company"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 552,
+          "snippet": "seal of acceptance"
+        },
+        {
+          "work": "gleanings",
+          "para": 603,
+          "snippet": "if it be accepted and take effect"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 146,
+          "snippet": "breeze that bloweth from the meads of the good-pleasure of God"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 74,
+          "snippet": "tribes"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 24,
+          "snippet": "kindreds and religions"
+        },
+        {
+          "work": "gleanings",
+          "para": 235,
+          "snippet": "have come"
+        },
+        {
+          "work": "gleanings",
+          "para": 267,
+          "snippet": "acknowledged"
+        }
+      ]
+    },
+    {
+      "term": "اعزّک",
+      "transliteration": "ʿ-z-z",
+      "literal": "glory; might; honor; dignity; power; majesty",
+      "se_rendering": "pomp",
+      "note": "Typically 'glory,' 'honor,' or 'exalted' (49 occ). 'Pomp' uniquely suggests vanity and worldly pride—sharper moral judgment than neutral 'glory' would convey.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 185,
+          "snippet": "glory"
+        },
+        {
+          "work": "gleanings",
+          "para": 642,
+          "snippet": "honor"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 491,
+          "snippet": "exalted"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 99,
+          "snippet": "Dear"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 38,
+          "snippet": "dearly beloved"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 37,
+          "snippet": "Gracious"
+        },
+        {
+          "work": "gleanings",
+          "para": 260,
+          "snippet": "All-Glorious"
+        },
+        {
+          "work": "gleanings",
+          "para": 660,
+          "snippet": "powerful"
+        }
+      ]
+    },
+    {
+      "term": "لعمری",
+      "transliteration": "ʿ-m-r",
+      "literal": "life; age; duration; by the life of (oath)",
+      "se_rendering": "By My Life",
+      "note": "Typically 'By My Life' or 'I swear by God' (14 occ). 'By My Life' here invokes divine oath-formula, establishing gravity through solemn affirmation.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 504,
+          "snippet": "By the righteousness of Mine own Self"
+        },
+        {
+          "work": "gleanings",
+          "para": 414,
+          "snippet": "By My life"
+        },
+        {
+          "work": "gleanings",
+          "para": 262,
+          "snippet": "By My Self"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 850,
+          "snippet": "by Thy command"
+        },
+        {
+          "work": "gleanings",
+          "para": 562,
+          "snippet": "to revive the world, to ennoble its life"
+        },
+        {
+          "work": "gleanings",
+          "para": 482,
+          "snippet": "aggrandize"
+        }
+      ]
+    },
+    {
+      "term": "الغافلين",
+      "transliteration": "gh-f-l",
+      "literal": "heedlessness; negligence; inattention",
+      "se_rendering": "heedless",
+      "note": "Typically 'heedless' or 'negligent' (39 occ). Rendered as adjective 'heedless' here; matches primary pattern without the nominalized 'O heedless one' variant.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 132,
+          "snippet": "heedless"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 90,
+          "snippet": "Essence of Negligence"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 95,
+          "snippet": "couch of heedlessness"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 152,
+          "snippet": "Children of Negligence"
+        },
+        {
+          "work": "gleanings",
+          "para": 214,
+          "snippet": "who have been heedless"
+        },
+        {
+          "work": "gleanings",
+          "para": 413,
+          "snippet": "the heedless"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 273,
+          "snippet": "wayward"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 136,
+          "snippet": "heedless ones"
+        }
+      ]
+    },
+    {
+      "term": "النّداء",
+      "transliteration": "n-d-y",
+      "literal": "call; voice; cry; summons",
+      "se_rendering": "Voice",
+      "note": "Typically 'Voice' or 'calling' (17 occ). Capitalized 'His Voice' here emphasizes divine summons, personalizing the call beyond mere auditory phenomenon.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 239,
+          "snippet": "Voice"
+        },
+        {
+          "work": "gleanings",
+          "para": 399,
+          "snippet": "calleth"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 260,
+          "snippet": "calling"
+        },
+        {
+          "work": "gleanings",
+          "para": 182,
+          "snippet": "summoned"
+        },
+        {
+          "work": "gleanings",
+          "para": 76,
+          "snippet": "the Herald"
+        },
+        {
+          "work": "gleanings",
+          "para": 405,
+          "snippet": "Herald"
+        },
+        {
+          "work": "gleanings",
+          "para": 21,
+          "snippet": "Call"
+        }
+      ]
+    }
+  ],
+  "section_index": "86",
+  "section": "86",
+  "section_para": 1
 }

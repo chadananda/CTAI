@@ -1,10 +1,692 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 506,
   "source_text": "أن يا ملوك المسيحيّة أما سمعتم ما نطق به الرّوح بأنّي ذاهب وآت فلمّا أتى في ظلل من الغمام لم ما تقرّبتم به لتفوزوا بلقائه وتكوننّ من الفائزين، وفي مقام آخر يقول فإذا جاء روح الحقّ الآتي فهو يرشدكم وإذا جاءكم بالحقّ ما توجّهتم إليه وكنتم بلعب أنفسكم لمن اللّاعبين، وما استقبلتم إليه وما حضرتم بين يديه لتسمعوا آيات الله من لسانه وتطّلعوا بحكمة الله العزيز الحكيم، وبذلك منعت نسمات الله عن قلوبكم ونفحات الله عن فؤادكم وكنتم في وادي الشّهوات لمن المحبرين، فوالله أنتم وما عندكم ستفنى وترجعون إلى الله وتسئلون عمّا اكتسبتم في أيّامكم في مقرّ الّذي تحشر فيه الخلائق أجمعين...",
   "translation": "O kings of Christendom! Heard ye not the saying of Jesus, the Spirit of God, “I go away, and come again unto you”? Wherefore, then, did ye fail, when He did come again unto you in the clouds of heaven, to draw nigh unto Him, that ye might behold His face, and be of them that attained His Presence? In another passage He saith: “When He, the Spirit of Truth, is come, He will guide you into all truth.” And yet, behold how, when He did bring the truth, ye refused to turn your faces towards Him, and persisted in disporting yourselves with your pastimes and fancies. Ye welcomed Him not, neither did ye seek His Presence, that ye might hear the verses of God from His own mouth, and partake of the manifold wisdom of the Almighty, the All-Glorious, the All-Wise. Ye have, by reason of your failure, hindered the breath of God from being wafted over you, and have withheld from your souls the sweetness of its fragrance. Ye continue roving with delight in the valley of your corrupt desires. Ye, and all ye possess, shall pass away. Ye shall, most certainly, return to God, and shall be called to account for your doings in the presence of Him Who shall gather together the entire creation.…",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "spirit-truth-come-again",
+  "alignment": [
+    {
+      "ar": "يا",
+      "en": "O"
+    },
+    {
+      "ar": "ملوك",
+      "en": "kings"
+    },
+    {
+      "ar": "المسيحيّة",
+      "en": "Christendom"
+    },
+    {
+      "ar": "أما",
+      "en": "not"
+    },
+    {
+      "ar": "سمعتم",
+      "en": "Heard ye"
+    },
+    {
+      "ar": "ما",
+      "en": "the saying"
+    },
+    {
+      "ar": "نطق",
+      "en": "saying"
+    },
+    {
+      "ar": "الرّوح",
+      "en": "the Spirit of God"
+    },
+    {
+      "ar": "بأنّي",
+      "en": "I"
+    },
+    {
+      "ar": "ذاهب",
+      "en": "go away"
+    },
+    {
+      "ar": "وآت",
+      "en": "come again"
+    },
+    {
+      "ar": "فلمّا",
+      "en": "when"
+    },
+    {
+      "ar": "أتى",
+      "en": "did come"
+    },
+    {
+      "ar": "في",
+      "en": "in"
+    },
+    {
+      "ar": "ظلل",
+      "en": "clouds"
+    },
+    {
+      "ar": "من",
+      "en": "of"
+    },
+    {
+      "ar": "الغمام",
+      "en": "heaven"
+    },
+    {
+      "ar": "لم",
+      "en": "did ye fail"
+    },
+    {
+      "ar": "ما",
+      "en": "did"
+    },
+    {
+      "ar": "تقرّبتم",
+      "en": "draw nigh"
+    },
+    {
+      "ar": "به",
+      "en": "unto Him"
+    },
+    {
+      "ar": "لتفوزوا",
+      "en": "that ye might"
+    },
+    {
+      "ar": "بلقائه",
+      "en": "behold His face"
+    },
+    {
+      "ar": "وتكوننّ",
+      "en": "and be"
+    },
+    {
+      "ar": "الفائزين",
+      "en": "them that attained His Presence"
+    },
+    {
+      "ar": "وفي",
+      "en": "In"
+    },
+    {
+      "ar": "مقام",
+      "en": "passage"
+    },
+    {
+      "ar": "آخر",
+      "en": "another"
+    },
+    {
+      "ar": "يقول",
+      "en": "He saith"
+    },
+    {
+      "ar": "فإذا",
+      "en": "When"
+    },
+    {
+      "ar": "جاء",
+      "en": "is come"
+    },
+    {
+      "ar": "روح",
+      "en": "Spirit"
+    },
+    {
+      "ar": "الحقّ",
+      "en": "Truth"
+    },
+    {
+      "ar": "فهو",
+      "en": "He"
+    },
+    {
+      "ar": "يرشدكم",
+      "en": "will guide you"
+    },
+    {
+      "ar": "جاءكم",
+      "en": "He did bring"
+    },
+    {
+      "ar": "بالحقّ",
+      "en": "the truth"
+    },
+    {
+      "ar": "توجّهتم",
+      "en": "turn your faces"
+    },
+    {
+      "ar": "إليه",
+      "en": "towards Him"
+    },
+    {
+      "ar": "وكنتم",
+      "en": "persisted"
+    },
+    {
+      "ar": "بلعب",
+      "en": "disporting yourselves"
+    },
+    {
+      "ar": "أنفسكم",
+      "en": "yourselves"
+    },
+    {
+      "ar": "لمن",
+      "en": "with"
+    },
+    {
+      "ar": "اللّاعبين",
+      "en": "pastimes"
+    },
+    {
+      "ar": "استقبلتم",
+      "en": "welcomed"
+    },
+    {
+      "ar": "إليه",
+      "en": "Him"
+    },
+    {
+      "ar": "وما",
+      "en": "neither"
+    },
+    {
+      "ar": "حضرتم",
+      "en": "seek His Presence"
+    },
+    {
+      "ar": "بين",
+      "en": "Presence"
+    },
+    {
+      "ar": "يديه",
+      "en": "His"
+    },
+    {
+      "ar": "لتسمعوا",
+      "en": "hear"
+    },
+    {
+      "ar": "آيات",
+      "en": "verses"
+    },
+    {
+      "ar": "الله",
+      "en": "God"
+    },
+    {
+      "ar": "من",
+      "en": "from"
+    },
+    {
+      "ar": "لسانه",
+      "en": "His own mouth"
+    },
+    {
+      "ar": "وتطّلعوا",
+      "en": "partake"
+    },
+    {
+      "ar": "بحكمة",
+      "en": "wisdom"
+    },
+    {
+      "ar": "الله",
+      "en": "the Almighty"
+    },
+    {
+      "ar": "العزيز",
+      "en": "All-Glorious"
+    },
+    {
+      "ar": "الحكيم",
+      "en": "All-Wise"
+    },
+    {
+      "ar": "وبذلك",
+      "en": "by reason of your failure"
+    },
+    {
+      "ar": "منعت",
+      "en": "hindered"
+    },
+    {
+      "ar": "نسمات",
+      "en": "breath"
+    },
+    {
+      "ar": "الله",
+      "en": "of God"
+    },
+    {
+      "ar": "قلوبكم",
+      "en": "over you"
+    },
+    {
+      "ar": "ونفحات",
+      "en": "sweetness"
+    },
+    {
+      "ar": "الله",
+      "en": "its fragrance"
+    },
+    {
+      "ar": "فؤادكم",
+      "en": "your souls"
+    },
+    {
+      "ar": "وكنتم",
+      "en": "continue roving"
+    },
+    {
+      "ar": "وادي",
+      "en": "valley"
+    },
+    {
+      "ar": "الشّهوات",
+      "en": "corrupt desires"
+    },
+    {
+      "ar": "المحبرين",
+      "en": "delight"
+    },
+    {
+      "ar": "فوالله",
+      "en": "most certainly"
+    },
+    {
+      "ar": "أنتم",
+      "en": "Ye"
+    },
+    {
+      "ar": "وما",
+      "en": "all"
+    },
+    {
+      "ar": "عندكم",
+      "en": "ye possess"
+    },
+    {
+      "ar": "ستفنى",
+      "en": "shall pass away"
+    },
+    {
+      "ar": "وترجعون",
+      "en": "return"
+    },
+    {
+      "ar": "إلى",
+      "en": "to"
+    },
+    {
+      "ar": "وتسئلون",
+      "en": "called to account"
+    },
+    {
+      "ar": "عمّا",
+      "en": "for"
+    },
+    {
+      "ar": "اكتسبتم",
+      "en": "your doings"
+    },
+    {
+      "ar": "أيّامكم",
+      "en": "doings"
+    },
+    {
+      "ar": "مقرّ",
+      "en": "presence"
+    },
+    {
+      "ar": "الّذي",
+      "en": "Him Who"
+    },
+    {
+      "ar": "تحشر",
+      "en": "gather together"
+    },
+    {
+      "ar": "فيه",
+      "en": "together"
+    },
+    {
+      "ar": "الخلائق",
+      "en": "creation"
+    },
+    {
+      "ar": "أجمعين",
+      "en": "entire"
+    }
+  ],
+  "terms": [
+    {
+      "term": "نطق",
+      "transliteration": "n-t-q",
+      "literal": "to speak; to utter; to pronounce; to articulate",
+      "se_rendering": "saying",
+      "note": "Root n-t-q usually 'spoke' or 'utterance' across 22 occurrences. 'Saying' here emphasizes the recorded scriptural word, fitting SE's rhetorical method of scriptural citation.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 2,
+          "snippet": "spoke"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 719,
+          "snippet": "speaking"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 90,
+          "snippet": "utterance"
+        },
+        {
+          "work": "tablet-of-carmel",
+          "para": 5,
+          "snippet": "hath been moved to disclose"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 596,
+          "snippet": "uttered"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 626,
+          "snippet": "made me able so to reveal"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 137,
+          "snippet": "I have spoken, and still speak forth"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 9,
+          "snippet": "hath not spoken"
+        }
+      ]
+    },
+    {
+      "term": "الرّوح",
+      "transliteration": "r-w-h",
+      "literal": "to go; to depart; to rest; spirit; soul",
+      "se_rendering": "the Spirit of God",
+      "note": "Root r-w-h typically rendered 'spirit' or 'My Well-Beloved' across 34 occurrences. Here 'Spirit of God' specifies divine origin, anchoring the Christological reference.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 702,
+          "snippet": "my spirit"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 201,
+          "snippet": "the Spirit"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 121,
+          "snippet": "spiritual"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 215,
+          "snippet": "spiritually-minded"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 20,
+          "snippet": "a breath of My own Spirit"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 100,
+          "snippet": "spirit"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 22,
+          "snippet": "in a spirit"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 17,
+          "snippet": "with My spirit"
+        }
+      ]
+    },
+    {
+      "term": "بلقائه",
+      "transliteration": "l-q-y",
+      "literal": "opposite; facing; in front of; towards",
+      "se_rendering": "behold His face",
+      "note": "Root l-q-y commonly 'Presence' or 'Divine Presence' across 30 occurrences. 'Behold His face' foregrounds visual encounter, stressing the rejection of direct witnessing.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 337,
+          "snippet": "in the face of"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 605,
+          "snippet": "before"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 171,
+          "snippet": "the Divine Presence"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 149,
+          "snippet": "attainment unto the Divine Presence"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 216,
+          "snippet": "the Judgment Day"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 154,
+          "snippet": "Recite"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 805,
+          "snippet": "hath attained unto Thy presence"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 234,
+          "snippet": "that they shall ever meet Him"
+        }
+      ]
+    },
+    {
+      "term": "توجّهتم",
+      "transliteration": "w-j-h",
+      "literal": "face; countenance; direction; aspect",
+      "se_rendering": "turn your faces",
+      "note": "Root w-j-h typically 'faces' or 'turned' across 64 occurrences. 'Turn your faces towards Him' sustains the embodied directional metaphor throughout the passage.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 503,
+          "snippet": "their faces"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 246,
+          "snippet": "faces"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 162,
+          "snippet": "turned"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 306,
+          "snippet": "set their faces"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 16,
+          "snippet": "unto Mine"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 498,
+          "snippet": "his face"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 636,
+          "snippet": "towards"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 470,
+          "snippet": "fixed"
+        }
+      ]
+    },
+    {
+      "term": "ايات",
+      "transliteration": "ʾ-y-t",
+      "literal": "verse; sign; miracle; proof",
+      "se_rendering": "verses",
+      "note": "Root ʾ-y-t rendered 'verses' or 'signs' across 18 occurrences. 'Verses' privileges scriptural word-forms, aligning with SE's emphasis on auditory reception and textual authority.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 232,
+          "snippet": "His verses"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 234,
+          "snippet": "verses"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 262,
+          "snippet": "verse"
+        }
+      ]
+    },
+    {
+      "term": "نسمات",
+      "transliteration": "n-s-m",
+      "literal": "breeze; gentle wind; fragrance",
+      "se_rendering": "breath",
+      "note": "Root n-s-m consistently 'breeze' or 'gales' across 18 occurrences. 'Breath' is austere—lacking the 'sweet gales' and 'loving-kindness' elsewhere, reinforcing spiritual deprivation.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 158,
+          "snippet": "sweet gales of divine knowledge"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 105,
+          "snippet": "breeze of My loving-kindness"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 146,
+          "snippet": "breeze that bloweth from the meads of the good-pleasure"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 216,
+          "snippet": "breeze of His loving"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 140,
+          "snippet": "breeze of mercy"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 122,
+          "snippet": "breeze"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 100,
+          "snippet": "fragrances"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 768,
+          "snippet": "rustling"
+        }
+      ]
+    },
+    {
+      "term": "قلوبكم",
+      "transliteration": "q-l-b",
+      "literal": "heart; to turn; to overturn",
+      "se_rendering": "hearts",
+      "note": "Root q-l-b typically 'hearts' across 60 occurrences. Maintenance of 'hearts' here emphasizes the seat of spiritual perception that remains sealed to the address.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 187,
+          "snippet": "hearts"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 432,
+          "snippet": "their hearts"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 652,
+          "snippet": "heart"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 777,
+          "snippet": "commotion"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 13,
+          "snippet": "tumult"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 30,
+          "snippet": "thine heart"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 4,
+          "snippet": "with a pure heart"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 82,
+          "snippet": "with a sound heart"
+        }
+      ]
+    }
+  ],
+  "section_index": "CXVI.1",
+  "section": "CXVI",
+  "section_para": 1
 }

@@ -1,10 +1,398 @@
 {
   "work": "The Hidden Words",
   "slug": "the-hidden-words",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 140,
   "source_text": "(٦٣) ﴿ بگو ای اهل ارض ﴾\nبراستی بدانيد که بلای ناگهانی شما را در پی است و عقاب عظيمی از عقب * گمان مبريد که آنچه را مرتکب شديد از نظر محو شده * قسم بجمالم که در الواح زبرجدی از قلم جلی جميع اعمال شما ثبت گشته *",
   "translation": "(63) O YE PEOPLES OF THE WORLD!\nKnow, verily, that an unforeseen calamity followeth you, and grievous retribution awaiteth you. Think not that which ye have committed hath been effaced in My sight. By My beauty! All your doings hath My pen graven with open characters upon tablets of chrysolite",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "unforeseen-calamity-followeth",
+  "alignment": [
+    {
+      "ar": "بگو",
+      "en": "O"
+    },
+    {
+      "ar": "اهل",
+      "en": "PEOPLES"
+    },
+    {
+      "ar": "ارض",
+      "en": "WORLD"
+    },
+    {
+      "ar": "براستی",
+      "en": "verily"
+    },
+    {
+      "ar": "بدانيد",
+      "en": "Know"
+    },
+    {
+      "ar": "بلای",
+      "en": "calamity"
+    },
+    {
+      "ar": "ناگهانی",
+      "en": "unforeseen"
+    },
+    {
+      "ar": "شما",
+      "en": "you"
+    },
+    {
+      "ar": "پی",
+      "en": "followeth"
+    },
+    {
+      "ar": "عقاب",
+      "en": "retribution"
+    },
+    {
+      "ar": "عظيمی",
+      "en": "grievous"
+    },
+    {
+      "ar": "عقب",
+      "en": "awaiteth"
+    },
+    {
+      "ar": "گمان",
+      "en": "Think"
+    },
+    {
+      "ar": "مبريد",
+      "en": "not"
+    },
+    {
+      "ar": "آنچه",
+      "en": "that which"
+    },
+    {
+      "ar": "مرتکب",
+      "en": "committed"
+    },
+    {
+      "ar": "شديد",
+      "en": "ye have"
+    },
+    {
+      "ar": "نظر",
+      "en": "sight"
+    },
+    {
+      "ar": "محو",
+      "en": "effaced"
+    },
+    {
+      "ar": "شده",
+      "en": "hath"
+    },
+    {
+      "ar": "قسم",
+      "en": "By"
+    },
+    {
+      "ar": "بجمالم",
+      "en": "My beauty"
+    },
+    {
+      "ar": "الواح",
+      "en": "tablets"
+    },
+    {
+      "ar": "زبرجدی",
+      "en": "chrysolite"
+    },
+    {
+      "ar": "قلم",
+      "en": "pen"
+    },
+    {
+      "ar": "جلی",
+      "en": "open"
+    },
+    {
+      "ar": "جميع",
+      "en": "All"
+    },
+    {
+      "ar": "اعمال",
+      "en": "doings"
+    },
+    {
+      "ar": "ثبت",
+      "en": "graven"
+    }
+  ],
+  "terms": [
+    {
+      "term": "محو",
+      "transliteration": "m-h-w",
+      "literal": "to efface; to obliterate; to blot out; to cause to disappear",
+      "se_rendering": "effaced",
+      "note": "Standard 'effaced' or 'blotted out' maintained; reinforces dialectical tension between human forgetfulness and divine indelible memory in passage's argument.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 350,
+          "snippet": "destroyed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 248,
+          "snippet": "blot out"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 35,
+          "snippet": "fadeth"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 155,
+          "snippet": "abase"
+        }
+      ]
+    },
+    {
+      "term": "بجمالم",
+      "transliteration": "j-m-l",
+      "literal": "beauty; comeliness",
+      "se_rendering": "My beauty",
+      "note": "Typically rendered 'Beauty' or 'Ancient Beauty' across corpus; possessive form 'My beauty' here emphasizes direct divine attestation of human accountability.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 296,
+          "snippet": "Beauty"
+        },
+        {
+          "work": "gleanings",
+          "para": 183,
+          "snippet": "Ancient Beauty"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 193,
+          "snippet": "Among others"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 67,
+          "snippet": "Among"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 208,
+          "snippet": "Among the sciences"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 268,
+          "snippet": "Among them"
+        },
+        {
+          "work": "gleanings",
+          "para": 359,
+          "snippet": "Amongst"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 118,
+          "snippet": "following"
+        }
+      ]
+    },
+    {
+      "term": "الواح",
+      "transliteration": "l-w-h",
+      "literal": "tablet; panel; divine decree; revelation",
+      "se_rendering": "tablets",
+      "note": "Standard rendering 'Tablets' appears here; reinforces Bahá'í cosmology of divine record-keeping on metaphysical tablets rather than material ones.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 218,
+          "snippet": "Lawh-i-Fu'ad"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 245,
+          "snippet": "Tablets"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 66,
+          "snippet": "Tablet"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 7,
+          "snippet": "a document"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 100,
+          "snippet": "the Scriptures"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 461,
+          "snippet": "the Tablets"
+        }
+      ]
+    },
+    {
+      "term": "قلم",
+      "transliteration": "q-l-m",
+      "literal": "pen; writing instrument",
+      "se_rendering": "My pen",
+      "note": "Usually 'the Pen of the Most High' or 'the Pen of Glory'; possessive 'My pen' shifts focus to immediate divine authorship of human deeds rather than abstract cosmic principle.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 100,
+          "snippet": "the Pen of the Most High"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 68,
+          "snippet": "the Pen of Glory"
+        },
+        {
+          "work": "gleanings",
+          "para": 619,
+          "snippet": "My Pen"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 182,
+          "snippet": "the Most Sublime Pen"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 257,
+          "snippet": "the pen of the Primal Point"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 30,
+          "snippet": "thine heart"
+        },
+        {
+          "work": "gleanings",
+          "para": 393,
+          "snippet": "Pen of the Most High"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 280,
+          "snippet": "Pen"
+        }
+      ]
+    },
+    {
+      "term": "اعمال",
+      "transliteration": "ʿ-m-l",
+      "literal": "to work; to act; to do; to perform",
+      "se_rendering": "doings",
+      "note": "Typically 'actions' or 'works'; SE chose 'doings' here—more colloquial, emphasizing ordinary human conduct rather than lofty spiritual works or virtue.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 255,
+          "snippet": "workers"
+        },
+        {
+          "work": "gleanings",
+          "para": 502,
+          "snippet": "do"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 24,
+          "snippet": "Consort"
+        },
+        {
+          "work": "gleanings",
+          "para": 607,
+          "snippet": "virtues and attributes"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 782,
+          "snippet": "works"
+        },
+        {
+          "work": "gleanings",
+          "para": 646,
+          "snippet": "actions"
+        },
+        {
+          "work": "gleanings",
+          "para": 564,
+          "snippet": "deeds"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 286,
+          "snippet": "God doeth unto them as they do unto themselves"
+        }
+      ]
+    },
+    {
+      "term": "ثبت",
+      "transliteration": "th-b-t",
+      "literal": "firm; steadfast; established; fixed",
+      "se_rendering": "graven",
+      "note": "Usually 'firm' or 'steadfast'; passive participle 'graven' here transforms the root meaning into permanence through inscription, matching the tablets/pen imagery.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 5,
+          "snippet": "firm"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 13,
+          "snippet": "fast"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 9,
+          "snippet": "steadfastly"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 784,
+          "snippet": "steadfast"
+        },
+        {
+          "work": "gleanings",
+          "para": 710,
+          "snippet": "remain steadfast"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 53,
+          "snippet": "constancy"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 27,
+          "snippet": "establishment"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 195,
+          "snippet": "fully demonstrated"
+        }
+      ]
+    }
+  ],
+  "section_index": "275",
+  "section": "275",
+  "section_para": 1
 }

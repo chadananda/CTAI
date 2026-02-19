@@ -1,10 +1,612 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 622,
   "source_text": "بعضی اموال ناس را حلال دانسته و حکم کتاب را سهل شمرده علیهم دائرة السّوء و عذاب الله المقتدر القدیر قسم بآفتاب افق تقدیس که اگر جمیع عالم از ذهب و فضّه شود نفسی که فی‌الحقیقه بملکوت ایمان ارتقا جسته ابداً بآن توجّه ننماید تا چه رسد باخذ آن و این مقام بلسان عربی احلی و لغات فصحی از قبل نازل لعمر الله اگر نفسی حلاوت آن را بیابد ابداً بغیر ما اذن الله عمل ننماید و بغیر دوست ناظر نشود فنای عالم را بعین بصیرت مشاهده نماید و قلبش بعالم بقا متّصل گردد بگو ای",
   "translation": "Some have regarded it as lawful to infringe on the integrity of the substance of their neighbor, and have made light of the injunction of God as prescribed in His Book. Evil fall upon them, and the chastisement of God, the All-Powerful, the Almighty, afflict them! By Him Who shineth above the Dayspring of sanctity! If the whole earth were to be converted into silver and gold, no man who can be said to have truly ascended into the heaven of faith and certitude would deign to regard it, much less to seize and keep it. We have formerly referred to this subject in passages revealed in the Arabic tongue, in a language of exquisite beauty. God is Our witness! Whoever hath tasted the sweetness of those words will never consent to transgress the bounds which God hath fixed, neither will he turn his gaze towards anyone except his Well-Beloved. Such a man will, with his inner eye, readily recognize how altogether vain and fleeting are the things of this world, and will set his affections on things above.",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "sweetness-words-ascended-faith",
+  "alignment": [
+    {
+      "ar": "بعضی",
+      "en": "Some"
+    },
+    {
+      "ar": "اموال",
+      "en": "substance"
+    },
+    {
+      "ar": "ناس",
+      "en": "their neighbor"
+    },
+    {
+      "ar": "حلال",
+      "en": "lawful"
+    },
+    {
+      "ar": "دانسته",
+      "en": "regarded"
+    },
+    {
+      "ar": "حکم",
+      "en": "injunction"
+    },
+    {
+      "ar": "کتاب",
+      "en": "His Book"
+    },
+    {
+      "ar": "سهل",
+      "en": "light"
+    },
+    {
+      "ar": "شمرده",
+      "en": "made"
+    },
+    {
+      "ar": "علیهم",
+      "en": "upon them"
+    },
+    {
+      "ar": "دائرة السّوء",
+      "en": "Evil fall"
+    },
+    {
+      "ar": "عذاب",
+      "en": "chastisement"
+    },
+    {
+      "ar": "الله",
+      "en": "God"
+    },
+    {
+      "ar": "المقتدر",
+      "en": "the All-Powerful"
+    },
+    {
+      "ar": "القدیر",
+      "en": "the Almighty"
+    },
+    {
+      "ar": "قسم",
+      "en": "By Him"
+    },
+    {
+      "ar": "بآفتاب",
+      "en": "Who shineth"
+    },
+    {
+      "ar": "افق",
+      "en": "Dayspring"
+    },
+    {
+      "ar": "تقدیس",
+      "en": "sanctity"
+    },
+    {
+      "ar": "اگر",
+      "en": "If"
+    },
+    {
+      "ar": "جمیع",
+      "en": "the whole"
+    },
+    {
+      "ar": "عالم",
+      "en": "earth"
+    },
+    {
+      "ar": "ذهب",
+      "en": "gold"
+    },
+    {
+      "ar": "فضّه",
+      "en": "silver"
+    },
+    {
+      "ar": "شود",
+      "en": "converted"
+    },
+    {
+      "ar": "نفسی",
+      "en": "man"
+    },
+    {
+      "ar": "فی‌الحقیقه",
+      "en": "truly"
+    },
+    {
+      "ar": "بملکوت",
+      "en": "into the heaven"
+    },
+    {
+      "ar": "ایمان",
+      "en": "faith"
+    },
+    {
+      "ar": "ارتقا جسته",
+      "en": "ascended"
+    },
+    {
+      "ar": "ابداً",
+      "en": "never"
+    },
+    {
+      "ar": "بآن",
+      "en": "it"
+    },
+    {
+      "ar": "توجّه",
+      "en": "regard"
+    },
+    {
+      "ar": "ننماید",
+      "en": "deign"
+    },
+    {
+      "ar": "تا چه رسد",
+      "en": "much less"
+    },
+    {
+      "ar": "باخذ",
+      "en": "to seize"
+    },
+    {
+      "ar": "این",
+      "en": "this"
+    },
+    {
+      "ar": "مقام",
+      "en": "subject"
+    },
+    {
+      "ar": "بلسان",
+      "en": "in a language"
+    },
+    {
+      "ar": "عربی",
+      "en": "Arabic"
+    },
+    {
+      "ar": "احلی",
+      "en": "exquisite beauty"
+    },
+    {
+      "ar": "لغات",
+      "en": "passages"
+    },
+    {
+      "ar": "فصحی",
+      "en": "tongue"
+    },
+    {
+      "ar": "از قبل",
+      "en": "formerly"
+    },
+    {
+      "ar": "نازل",
+      "en": "revealed"
+    },
+    {
+      "ar": "لعمر الله",
+      "en": "God is Our witness"
+    },
+    {
+      "ar": "حلاوت",
+      "en": "sweetness"
+    },
+    {
+      "ar": "آن",
+      "en": "those words"
+    },
+    {
+      "ar": "بیابد",
+      "en": "tasted"
+    },
+    {
+      "ar": "بغیر",
+      "en": "to transgress"
+    },
+    {
+      "ar": "ما اذن الله",
+      "en": "the bounds which God hath fixed"
+    },
+    {
+      "ar": "عمل",
+      "en": "consent"
+    },
+    {
+      "ar": "دوست",
+      "en": "his Well-Beloved"
+    },
+    {
+      "ar": "ناظر",
+      "en": "turn his gaze"
+    },
+    {
+      "ar": "نشود",
+      "en": "neither"
+    },
+    {
+      "ar": "فنای",
+      "en": "vain"
+    },
+    {
+      "ar": "عالم",
+      "en": "of this world"
+    },
+    {
+      "ar": "بعین",
+      "en": "with his inner eye"
+    },
+    {
+      "ar": "بصیرت",
+      "en": "recognize"
+    },
+    {
+      "ar": "مشاهده",
+      "en": "readily"
+    },
+    {
+      "ar": "قلبش",
+      "en": "his affections"
+    },
+    {
+      "ar": "بقا",
+      "en": "things above"
+    },
+    {
+      "ar": "متّصل",
+      "en": "set"
+    },
+    {
+      "ar": "گردد",
+      "en": "will"
+    }
+  ],
+  "terms": [
+    {
+      "term": "حکم",
+      "transliteration": "h-k-m",
+      "literal": "government; rule; governance; wisdom",
+      "se_rendering": "injunction",
+      "note": "Usually 'rule' or 'government' across 69 occurrences; 'injunction' here emphasizes divine prescriptive authority over property rights.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-ahd",
+          "para": 6,
+          "snippet": "rule"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "government"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 849,
+          "snippet": "signs of Thy sovereignty"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 160,
+          "snippet": "meaning of return"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 182,
+          "snippet": "mystery of the former verse"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 129,
+          "snippet": "perspicuous verses"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 46,
+          "snippet": "conclusive"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 220,
+          "snippet": "impregnable stronghold"
+        }
+      ]
+    },
+    {
+      "term": "تقدیس",
+      "transliteration": "q-d-s",
+      "literal": "holy, sacred, sanctified",
+      "se_rendering": "sanctity",
+      "note": "Consistently 'sacred' or 'holy' across 47 occurrences; 'sanctity' here abstracts quality—metaphorical 'Dayspring' demands noun form over adjective.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 2,
+          "snippet": "Sacred"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 81,
+          "snippet": "hallowed"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 35,
+          "snippet": "spirit of holiness"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 448,
+          "snippet": "Sanctuary"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 13,
+          "snippet": "Holy Mariner"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 6,
+          "snippet": "sacred strand"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 26,
+          "snippet": "Celestial Concourse"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 189,
+          "snippet": "Most Holy"
+        }
+      ]
+    },
+    {
+      "term": "مقام",
+      "transliteration": "q-w-m",
+      "literal": "rising; standing; uprising; resurrection",
+      "se_rendering": "subject",
+      "note": "Typically 'Resurrection' or 'rising' across 109 occurrences; 'subject' here represents exceptional nominal usage distinct from eschatological meaning.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 152,
+          "snippet": "Day of Resurrection"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 153,
+          "snippet": "Resurrection"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 74,
+          "snippet": "rise"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "peoples"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 26,
+          "snippet": "steadfast"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 38,
+          "snippet": "steadfast in faith"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 628,
+          "snippet": "stood fast"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 198,
+          "snippet": "station"
+        }
+      ]
+    },
+    {
+      "term": "نازل",
+      "transliteration": "n-z-l",
+      "literal": "to descend, to be revealed",
+      "se_rendering": "revealed",
+      "note": "Consistently 'revealed' or 'sent down' across 88 occurrences; maintains theological precision for scripture's descent in this context.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 188,
+          "snippet": "revealed"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 175,
+          "snippet": "didst send down"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 835,
+          "snippet": "sent down"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 34,
+          "snippet": "Descend"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 47,
+          "snippet": "pour forth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 330,
+          "snippet": "send down"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 40,
+          "snippet": "were revealed"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 16,
+          "snippet": "hath been sent down"
+        }
+      ]
+    },
+    {
+      "term": "لعمر",
+      "transliteration": "ʿ-m-r",
+      "literal": "life; age; duration; by the life of (oath)",
+      "se_rendering": "God is Our witness",
+      "note": "Standard oath formula rendered variously; 'God is Our witness' here expands the invocation—SE captures emphatic vow structure uniquely.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 236,
+          "snippet": "I swear by God"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 59,
+          "snippet": "By My life and by your own"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 202,
+          "snippet": "that which"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 850,
+          "snippet": "by Thy command"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 71,
+          "snippet": "Imran"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 201,
+          "snippet": "your life"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 174,
+          "snippet": "edifices"
+        }
+      ]
+    },
+    {
+      "term": "بصیرت",
+      "transliteration": "b-ṣ-r",
+      "literal": "sight; insight; discernment; spiritual perception",
+      "se_rendering": "inner eye",
+      "note": "Usually 'discerning eye' or 'eye of insight' across 27 occurrences; 'inner eye' here deepens inward spiritual perception versus external witnessing.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 27,
+          "snippet": "discerning"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 278,
+          "snippet": "eye of insight"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 16,
+          "snippet": "eye of God"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 116,
+          "snippet": "discerning eye"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 77,
+          "snippet": "hearing ears, and sharp sight"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 667,
+          "snippet": "the All-Seeing"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 231,
+          "snippet": "clear"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 3,
+          "snippet": "proofs"
+        }
+      ]
+    },
+    {
+      "term": "مشاهده",
+      "transliteration": "sh-h-d",
+      "literal": "witnessed; observed; seen; evident; manifest",
+      "se_rendering": "recognize",
+      "note": "Typically 'manifest' or 'witness' across 74 occurrences; 'recognize' here shifts toward cognitive apprehension rather than passive manifestation.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 35,
+          "snippet": "evident"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 811,
+          "snippet": "I bear witness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 6,
+          "snippet": "I testify"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 138,
+          "snippet": "martyrdom"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 230,
+          "snippet": "God testifieth"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 57,
+          "snippet": "beheld"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 117,
+          "snippet": "testify"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 156,
+          "snippet": "bear witness"
+        }
+      ]
+    }
+  ],
+  "section_index": "CXXXVII.1",
+  "section": "CXXXVII",
+  "section_para": 1
 }

@@ -1,10 +1,288 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 525,
   "source_text": "أصلحوا ذات بينكم إذا لا تحتاجون بكثرة العساكر ومهمّاتهم إلاّ على قدر تحفظون به ممالككم وبلدانكم، إيّاكم أن تدعوا ما نص",
   "translation": "O rulers of the earth! Be reconciled among yourselves, that ye may need no more armaments save in a measure to safeguard your territories and dominions. Beware lest ye disregard the counsel of the All-Knowing, the Faithful.",
   "source_lang": "ar",
-  "score": 9.4
+  "score": 9.4,
+  "page_slug": "rulers-earth-reconciled-armaments",
+  "alignment": [
+    {
+      "ar": "أصلحوا",
+      "en": "Be reconciled"
+    },
+    {
+      "ar": "ذات بينكم",
+      "en": "among yourselves"
+    },
+    {
+      "ar": "إذا",
+      "en": "that"
+    },
+    {
+      "ar": "لا تحتاجون",
+      "en": "ye may need no"
+    },
+    {
+      "ar": "بكثرة",
+      "en": "more"
+    },
+    {
+      "ar": "العساكر",
+      "en": "armaments"
+    },
+    {
+      "ar": "ومهمّاتهم",
+      "en": ""
+    },
+    {
+      "ar": "إلاّ",
+      "en": "save"
+    },
+    {
+      "ar": "على قدر",
+      "en": "in a measure"
+    },
+    {
+      "ar": "تحفظون",
+      "en": "safeguard"
+    },
+    {
+      "ar": "ممالككم",
+      "en": "your territories"
+    },
+    {
+      "ar": "وبلدانكم",
+      "en": "dominions"
+    },
+    {
+      "ar": "إيّاكم",
+      "en": "Beware"
+    },
+    {
+      "ar": "أن تدعوا",
+      "en": "lest ye disregard"
+    },
+    {
+      "ar": "ما نص",
+      "en": "the counsel"
+    }
+  ],
+  "terms": [
+    {
+      "term": "العساكر",
+      "transliteration": "ʿ-s-k-r",
+      "literal": "army; forces; soldiers",
+      "se_rendering": "armaments",
+      "note": "Rare in corpus (2 occurrences). SE renders as 'armaments' rather than literal 'army' to abstract military infrastructure and emphasize policy over personnel.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 57,
+          "snippet": "forces"
+        }
+      ]
+    },
+    {
+      "term": "قدر",
+      "transliteration": "q-d-r",
+      "literal": "power; might; decree; measure; worth",
+      "se_rendering": "measure",
+      "note": "Typically 'power', 'might', or 'decree' across 100 occurrences. 'Measure' here captures the limiting, proportional sense absent in SE's usual metaphysical renderings.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 171,
+          "snippet": "a while"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 339,
+          "snippet": "Thy power"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 12,
+          "snippet": "God of power"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 35,
+          "snippet": "Potent"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 282,
+          "snippet": "Almighty"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 177,
+          "snippet": "ordain"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 4,
+          "snippet": "for a moment"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 30,
+          "snippet": "didst ordain"
+        }
+      ]
+    },
+    {
+      "term": "تحفظون",
+      "transliteration": "h-f-z",
+      "literal": "guardian; preserver; keeper",
+      "se_rendering": "safeguard",
+      "note": "Standard root yields 'Guardian', 'Shield', 'protection' across 45 occurrences. 'Safeguard' here emphasizes active defensive duty over abstract guardianship.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 3,
+          "snippet": "protection"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 44,
+          "snippet": "shield"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 55,
+          "snippet": "guard"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 22,
+          "snippet": "Guardian"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 193,
+          "snippet": "Keep"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 90,
+          "snippet": "Watch"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 102,
+          "snippet": "Preserve"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 625,
+          "snippet": "the Preserver"
+        }
+      ]
+    },
+    {
+      "term": "ممالككم",
+      "transliteration": "m-l-k",
+      "literal": "kingdom; dominion; realm; sovereignty",
+      "se_rendering": "territories and dominions",
+      "note": "Consistently 'kingdom' or 'realm' (70 occurrences). Plural 'territories and dominions' reinforces multiplicity of earthly sovereignties addressed.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-ahd",
+          "para": 16,
+          "snippet": "heaven"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 171,
+          "snippet": "kingdom"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 69,
+          "snippet": "realms"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 28,
+          "snippet": "righteous"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 167,
+          "snippet": "by the heavenly power"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 57,
+          "snippet": "Ruler"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 82,
+          "snippet": "King"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 102,
+          "snippet": "Lord of all mankind"
+        }
+      ]
+    },
+    {
+      "term": "تدعوا",
+      "transliteration": "d-ʿ-w",
+      "literal": "call, invocation, summons; to call, invite, summon",
+      "se_rendering": "disregard",
+      "note": "Root typically yields 'call', 'summon', 'supplicate' (33 occurrences). 'Disregard' inverts the sense—treating neglect of counsel as the warning, not invocation itself.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 839,
+          "snippet": "supplicated Thee"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 199,
+          "snippet": "summoned"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 537,
+          "snippet": "called upon Thy servants"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 36,
+          "snippet": "I call upon Thee"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 24,
+          "snippet": "I call thee"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 34,
+          "snippet": "I summon thee"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 226,
+          "snippet": "summon"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 48,
+          "snippet": "allowed me"
+        }
+      ]
+    }
+  ],
+  "section_index": "CXIX.4",
+  "section": "CXIX",
+  "section_para": 4
 }

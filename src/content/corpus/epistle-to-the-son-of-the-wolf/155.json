@@ -1,10 +1,690 @@
 {
   "work": "Epistle to the Son of the Wolf",
   "slug": "epistle-to-the-son-of-the-wolf",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 155,
   "source_text": "اقرأ کتاب الايقان و ما انزله الرّحمن لملک باريس و امثاله لتطّلع بما قضی من قبل و توقن بانّا ما اردنا الفساد فی الارض بعد اصلاحها * انّما نذکّر العباد خالصا لوجه اللّه من شاء فليقبل و من شاء فليعرض انّ ربّنا الرّحمن لهو الغنیّ الحميد * يا معشر الاحزاب هذا يوم لا ينفعکم شیء من الاشياء و لا اسم من الاسماء الّا بهذا الاسم الّذی جعله اللّه مظهر امره و مطلع اسمائه الحسنی لمن فی ملکوت الانشاء نعيما لمن وجد عرف الرّحمن و کان من الرّاسخين و لا يغنيکم اليوم علومکم و فنونکم و لا زخارفکم و عزّکم دعوا الکلّ وراءکم مقبلين الی الکلمة العليا الّتی بها فصّلت الزّبر و الصّحف و هذا الکتاب المبين * يا قوم ضعوا ما الّفتموه من قلم الظّنون و الاوهام تاللّه قد اشرقت شمس العلم من افق اليقين *",
   "translation": "\"Peruse thou the Kitáb-i-Íqán (Book of Certitude) and that which the All-Merciful hath sent down unto the King of Paris (Napoleon III) and to such as are like him, that thou mayest be made aware of the things that have happened in the past, and be persuaded that We have not sought to spread disorder in the land after it had been well-ordered. We exhort, wholly for the sake of God, His servants. Let him who wisheth turn unto Him, and him who wisheth turn aside. Our Lord, the Merciful, is verily the All-Sufficing, the All-Praised. O concourse of the kindreds of the earth! This is the day whereon nothing amongst all things, nor any name amongst all names, can profit you save through this Name which God hath made the Manifestation of His Cause and the Dayspring of His Most Excellent Titles unto all who are in the kingdom of creation. Blessed is that man that hath recognized the fragrance of the All-Merciful and been numbered with the steadfast. Your sciences shall not profit you in this day, nor your arts, nor your treasures, nor your glory. Cast them all behind your backs, and set your faces towards the Most Sublime Word through which the Scriptures and the Books and this lucid Tablet have been distinctly set forth. Cast away, O people, the things ye have composed with the pen of your idle fancies and vain imaginings. By God! The Day-Star of Knowledge hath shone forth above the horizon of certitude.",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "daystar-knowledge-horizon-certitude",
+  "alignment": [
+    {
+      "ar": "اقرأ",
+      "en": "Peruse thou"
+    },
+    {
+      "ar": "کتاب الايقان",
+      "en": "Kitáb-i-Íqán (Book of Certitude)"
+    },
+    {
+      "ar": "انزله",
+      "en": "sent down"
+    },
+    {
+      "ar": "الرّحمن",
+      "en": "All-Merciful"
+    },
+    {
+      "ar": "لملک",
+      "en": "unto the King"
+    },
+    {
+      "ar": "باريس",
+      "en": "Paris"
+    },
+    {
+      "ar": "امثاله",
+      "en": "such as are like him"
+    },
+    {
+      "ar": "لتطّلع",
+      "en": "that thou mayest be made aware"
+    },
+    {
+      "ar": "قضی",
+      "en": "happened"
+    },
+    {
+      "ar": "من قبل",
+      "en": "in the past"
+    },
+    {
+      "ar": "توقن",
+      "en": "be persuaded"
+    },
+    {
+      "ar": "ما اردنا",
+      "en": "have not sought"
+    },
+    {
+      "ar": "الفساد",
+      "en": "disorder"
+    },
+    {
+      "ar": "الارض",
+      "en": "the land"
+    },
+    {
+      "ar": "بعد",
+      "en": "after"
+    },
+    {
+      "ar": "اصلاحها",
+      "en": "it had been well-ordered"
+    },
+    {
+      "ar": "نذکّر",
+      "en": "exhort"
+    },
+    {
+      "ar": "العباد",
+      "en": "His servants"
+    },
+    {
+      "ar": "خالصا",
+      "en": "wholly"
+    },
+    {
+      "ar": "لوجه اللّه",
+      "en": "for the sake of God"
+    },
+    {
+      "ar": "من شاء",
+      "en": "him who wisheth"
+    },
+    {
+      "ar": "فليقبل",
+      "en": "turn unto Him"
+    },
+    {
+      "ar": "فليعرض",
+      "en": "turn aside"
+    },
+    {
+      "ar": "ربّنا",
+      "en": "Our Lord"
+    },
+    {
+      "ar": "الغنیّ",
+      "en": "All-Sufficing"
+    },
+    {
+      "ar": "الحميد",
+      "en": "All-Praised"
+    },
+    {
+      "ar": "معشر الاحزاب",
+      "en": "concourse of the kindreds"
+    },
+    {
+      "ar": "هذا يوم",
+      "en": "This is the day"
+    },
+    {
+      "ar": "لا ينفعکم",
+      "en": "can profit you"
+    },
+    {
+      "ar": "شیء",
+      "en": "nothing"
+    },
+    {
+      "ar": "من الاشياء",
+      "en": "amongst all things"
+    },
+    {
+      "ar": "اسم",
+      "en": "any name"
+    },
+    {
+      "ar": "من الاسماء",
+      "en": "amongst all names"
+    },
+    {
+      "ar": "الّا بهذا الاسم",
+      "en": "save through this Name"
+    },
+    {
+      "ar": "جعله",
+      "en": "hath made"
+    },
+    {
+      "ar": "مظهر امره",
+      "en": "Manifestation of His Cause"
+    },
+    {
+      "ar": "مطلع",
+      "en": "Dayspring"
+    },
+    {
+      "ar": "اسمائه الحسنی",
+      "en": "His Most Excellent Titles"
+    },
+    {
+      "ar": "ملکوت الانشاء",
+      "en": "kingdom of creation"
+    },
+    {
+      "ar": "نعيما",
+      "en": "Blessed"
+    },
+    {
+      "ar": "من وجد",
+      "en": "that hath recognized"
+    },
+    {
+      "ar": "عرف",
+      "en": "fragrance"
+    },
+    {
+      "ar": "الرّاسخين",
+      "en": "steadfast"
+    },
+    {
+      "ar": "لا يغنيکم",
+      "en": "shall not profit you"
+    },
+    {
+      "ar": "اليوم",
+      "en": "in this day"
+    },
+    {
+      "ar": "علومکم",
+      "en": "Your sciences"
+    },
+    {
+      "ar": "فنونکم",
+      "en": "your arts"
+    },
+    {
+      "ar": "زخارفکم",
+      "en": "your treasures"
+    },
+    {
+      "ar": "عزّکم",
+      "en": "your glory"
+    },
+    {
+      "ar": "دعوا",
+      "en": "Cast"
+    },
+    {
+      "ar": "الکلّ",
+      "en": "them all"
+    },
+    {
+      "ar": "وراءکم",
+      "en": "behind your backs"
+    },
+    {
+      "ar": "مقبلين",
+      "en": "set your faces"
+    },
+    {
+      "ar": "الکلمة العليا",
+      "en": "Most Sublime Word"
+    },
+    {
+      "ar": "بها",
+      "en": "through which"
+    },
+    {
+      "ar": "فصّلت",
+      "en": "distinctly set forth"
+    },
+    {
+      "ar": "الزّبر",
+      "en": "Scriptures"
+    },
+    {
+      "ar": "الصّحف",
+      "en": "Books"
+    },
+    {
+      "ar": "هذا الکتاب المبين",
+      "en": "this lucid Tablet"
+    },
+    {
+      "ar": "قوم",
+      "en": "people"
+    },
+    {
+      "ar": "ضعوا",
+      "en": "Cast away"
+    },
+    {
+      "ar": "الّفتموه",
+      "en": "ye have composed"
+    },
+    {
+      "ar": "من قلم",
+      "en": "with the pen"
+    },
+    {
+      "ar": "الظّنون",
+      "en": "idle fancies"
+    },
+    {
+      "ar": "الاوهام",
+      "en": "vain imaginings"
+    },
+    {
+      "ar": "تاللّه",
+      "en": "By God"
+    },
+    {
+      "ar": "اشرقت",
+      "en": "hath shone forth"
+    },
+    {
+      "ar": "شمس العلم",
+      "en": "Day-Star of Knowledge"
+    },
+    {
+      "ar": "من افق",
+      "en": "above the horizon"
+    },
+    {
+      "ar": "اليقين",
+      "en": "certitude"
+    }
+  ],
+  "terms": [
+    {
+      "term": "انزله",
+      "transliteration": "n-z-l",
+      "literal": "to descend, to be revealed",
+      "se_rendering": "sent down",
+      "note": "Standard 'sent down' matches corpus pattern. Used here for both the Kitáb-i-Íqán and the Tablet to Napoleon—emphasizing revealed scripture's divine origin.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 643,
+          "snippet": "sent down"
+        },
+        {
+          "work": "gleanings",
+          "para": 218,
+          "snippet": "revealed"
+        },
+        {
+          "work": "gleanings",
+          "para": 656,
+          "snippet": "descended"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 175,
+          "snippet": "didst send down"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 34,
+          "snippet": "Descend"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 47,
+          "snippet": "pour forth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 330,
+          "snippet": "send down"
+        },
+        {
+          "work": "gleanings",
+          "para": 604,
+          "snippet": "have been sent down"
+        }
+      ]
+    },
+    {
+      "term": "مظهر",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "Manifestation",
+      "note": "Consistent with standard rendering 'Manifestation.' In this passage, deliberately applied to the central theological claim of the Cause—God's self-disclosure through the Báb.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 53,
+          "snippet": "Manifestation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 160,
+          "snippet": "Author of all Manifestations"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 136,
+          "snippet": "evident"
+        },
+        {
+          "work": "gleanings",
+          "para": 222,
+          "snippet": "material"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 196,
+          "snippet": "Manifestations of God"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 255,
+          "snippet": "Manifestations"
+        }
+      ]
+    },
+    {
+      "term": "عرف",
+      "transliteration": "ʿ-r-f",
+      "literal": "to confess; to acknowledge; to recognize",
+      "se_rendering": "recognized",
+      "note": "Typically 'acknowledged' or 'recognized' (82 occurrences). Here 'recognized' modulates to perception of divine presence ('fragrance')—knowing becomes sensory and intimate.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 601,
+          "snippet": "testifieth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 729,
+          "snippet": "hath acknowledged"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 582,
+          "snippet": "have recognized"
+        },
+        {
+          "work": "gleanings",
+          "para": 568,
+          "snippet": "acknowledged"
+        },
+        {
+          "work": "gleanings",
+          "para": 295,
+          "snippet": "made objections"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 744,
+          "snippet": "understanding"
+        },
+        {
+          "work": "gleanings",
+          "para": 87,
+          "snippet": "knowledge"
+        },
+        {
+          "work": "gleanings",
+          "para": 2,
+          "snippet": "perception"
+        }
+      ]
+    },
+    {
+      "term": "علومکم",
+      "transliteration": "ʿ-l-m",
+      "literal": "world; universe; the worlds",
+      "se_rendering": "sciences",
+      "note": "Typically 'knowledge' or 'the worlds' across corpus. SE renders as 'sciences' here—emphasizing human intellectual achievement as futile against divine revelation.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 198,
+          "snippet": "world"
+        },
+        {
+          "work": "gleanings",
+          "para": 657,
+          "snippet": "all worlds"
+        },
+        {
+          "work": "gleanings",
+          "para": 182,
+          "snippet": "mankind"
+        },
+        {
+          "work": "gleanings",
+          "para": 183,
+          "snippet": "the whole world"
+        },
+        {
+          "work": "gleanings",
+          "para": 226,
+          "snippet": "all earthly defilements"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 76,
+          "snippet": "Knowledge"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 122,
+          "snippet": "commentators"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 42,
+          "snippet": "banner"
+        }
+      ]
+    },
+    {
+      "term": "عزّکم",
+      "transliteration": "ʿ-z-z",
+      "literal": "glory; might; honor; dignity; power; majesty",
+      "se_rendering": "glory",
+      "note": "Standard 'glory' appears 49 times. Used here for worldly might discarded before divine reality—glory becomes precisely what must be abandoned.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 185,
+          "snippet": "glory"
+        },
+        {
+          "work": "gleanings",
+          "para": 642,
+          "snippet": "honor"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 491,
+          "snippet": "exalted"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 99,
+          "snippet": "Dear"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 38,
+          "snippet": "dearly beloved"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 37,
+          "snippet": "Gracious"
+        },
+        {
+          "work": "gleanings",
+          "para": 260,
+          "snippet": "All-Glorious"
+        },
+        {
+          "work": "gleanings",
+          "para": 660,
+          "snippet": "powerful"
+        }
+      ]
+    },
+    {
+      "term": "الکلمه",
+      "transliteration": "k-l-m",
+      "literal": "words; utterances; locutions",
+      "se_rendering": "Word",
+      "note": "Rendered 'Word' rather than 'words' (plural form common in corpus). Singular here elevates abstract concept; 'the Most Sublime Word' parallels Christian Logos theology.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 6,
+          "snippet": "words"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 38,
+          "snippet": "His Word"
+        },
+        {
+          "work": "gleanings",
+          "para": 353,
+          "snippet": "the Word of God"
+        },
+        {
+          "work": "gleanings",
+          "para": 603,
+          "snippet": "a jewel"
+        },
+        {
+          "work": "gleanings",
+          "para": 441,
+          "snippet": "a word"
+        },
+        {
+          "work": "gleanings",
+          "para": 689,
+          "snippet": "the sayings"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 48,
+          "snippet": "Thy Word"
+        },
+        {
+          "work": "gleanings",
+          "para": 138,
+          "snippet": "the Word"
+        }
+      ]
+    },
+    {
+      "term": "العليا",
+      "transliteration": "ʿ-l-w",
+      "literal": "highest; most high; supreme",
+      "se_rendering": "Most Sublime",
+      "note": "Consistently 'Most Sublime' in this passage (also 'Most High' in corpus). Applied to the Word—positioning utterance itself as the supreme reality.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 1,
+          "snippet": "the Most High"
+        },
+        {
+          "work": "gleanings",
+          "para": 232,
+          "snippet": "supreme"
+        },
+        {
+          "work": "gleanings",
+          "para": 616,
+          "snippet": "the realms above"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 390,
+          "snippet": "the Most Exalted, the Most High"
+        },
+        {
+          "work": "gleanings",
+          "para": 393,
+          "snippet": "The Pen of the Most High"
+        },
+        {
+          "work": "gleanings",
+          "para": 697,
+          "snippet": "the Dayspring of Glory"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 1,
+          "snippet": "the Realm of Glory"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 257,
+          "snippet": "the Báb, the Lord, the most exalted"
+        }
+      ]
+    },
+    {
+      "term": "اشرقت",
+      "transliteration": "sh-r-q",
+      "literal": "radiance; splendor; dawn; illumination",
+      "se_rendering": "shone forth",
+      "note": "Root typically 'Daystar' or 'radiance' (63 occurrences). SE chooses 'shone forth'—a verb form that captures the dynamic illumination rather than static emanation.",
+      "cross_refs": [
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 28,
+          "snippet": "radiance"
+        },
+        {
+          "work": "gleanings",
+          "para": 382,
+          "snippet": "revelation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 83,
+          "snippet": "Daystar"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 41,
+          "snippet": "dawning"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 2,
+          "snippet": "shining"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 14,
+          "snippet": "Dawning Place"
+        },
+        {
+          "work": "gleanings",
+          "para": 126,
+          "snippet": "Dayspring"
+        },
+        {
+          "work": "gleanings",
+          "para": 605,
+          "snippet": "Manifestation"
+        }
+      ]
+    }
+  ],
+  "section_index": "155",
+  "section": "155",
+  "section_para": 1
 }

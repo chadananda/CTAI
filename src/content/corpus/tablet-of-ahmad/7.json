@@ -1,10 +1,236 @@
 {
   "work": "Tablet of Ahmad",
   "slug": "tablet-of-ahmad",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 7,
   "source_text": "قُلْ يَا قَوْمِ إِنْ تَكْفُرُوْا بِهَذِهِ ٱلْآيَاتِ فَبِأَيِّ حُجَّةٍ آمَنْتُمْ بِاللهِ مِنْ قَبْلُ هَاتُوْا بِهَا يَا مَلَأَ ٱلْكَاذِبِينَ",
   "translation": "O people, if ye deny these verses, by what proof have ye believed in God? Produce it, O assemblage of false ones.",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "deny-verses-proof-believed",
+  "alignment": [
+    {
+      "ar": "قُلْ",
+      "en": "O"
+    },
+    {
+      "ar": "يَا قَوْمِ",
+      "en": "people"
+    },
+    {
+      "ar": "إِنْ",
+      "en": "if"
+    },
+    {
+      "ar": "تَكْفُرُوْا",
+      "en": "deny"
+    },
+    {
+      "ar": "بِهَذِهِ",
+      "en": "these"
+    },
+    {
+      "ar": "ٱلْآيَاتِ",
+      "en": "verses"
+    },
+    {
+      "ar": "آمَنْتُمْ",
+      "en": "believed"
+    },
+    {
+      "ar": "بِاللهِ",
+      "en": "in God"
+    },
+    {
+      "ar": "مِنْ قَبْلُ",
+      "en": "have ye"
+    },
+    {
+      "ar": "هَاتُوْا",
+      "en": "Produce"
+    },
+    {
+      "ar": "بِهَا",
+      "en": "it"
+    },
+    {
+      "ar": "يَا مَلَأَ",
+      "en": "assemblage"
+    },
+    {
+      "ar": "ٱلْكَاذِبِينَ",
+      "en": "false ones"
+    }
+  ],
+  "terms": [
+    {
+      "term": "ٱلْآيَاتِ",
+      "transliteration": "ʾ-y-t",
+      "literal": "verse; sign; miracle; proof",
+      "se_rendering": "verses",
+      "note": "Root ʾ-y-t carries 'verses,' 'signs,' and 'miracles.' SE consistently uses 'verses' here, maintaining textual specificity rather than the broader 'signs' option appearing 18 times across the corpus.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 232,
+          "snippet": "His verses"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 234,
+          "snippet": "verses"
+        },
+        {
+          "work": "gleanings",
+          "para": 262,
+          "snippet": "the signs"
+        },
+        {
+          "work": "gleanings",
+          "para": 368,
+          "snippet": "sign"
+        },
+        {
+          "work": "gleanings",
+          "para": 417,
+          "snippet": "verse"
+        }
+      ]
+    },
+    {
+      "term": "حُجَّةٍ",
+      "transliteration": "ḥ-j-j",
+      "literal": "path, way; clear path",
+      "se_rendering": "proof",
+      "note": "Root ḥ-j-j denotes 'path' or 'clear path' but SE renders as 'proof'—one of only 10 occurrences. This contextual choice emphasizes logical argument over the spatial/protectionist connotations of 'Sanctuary' or 'veils.'",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "Sanctuary"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 2,
+          "snippet": "with proofs"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 45,
+          "snippet": "Proofs"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 533,
+          "snippet": "veil"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 674,
+          "snippet": "veils"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 262,
+          "snippet": "testimony"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 231,
+          "snippet": "argument"
+        }
+      ]
+    },
+    {
+      "term": "آمَنْتُمْ",
+      "transliteration": "ʾ-m-n",
+      "literal": "to believe; to have faith; to be secure",
+      "se_rendering": "have ye believed",
+      "note": "Root ʾ-m-n spans 'believe,' 'faith,' 'believer,' and 'have believed.' SE selects the past-tense form 'have ye believed' to parallel the conditional 'if ye deny,' creating rhetorical symmetry.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 585,
+          "snippet": "have believed"
+        },
+        {
+          "work": "gleanings",
+          "para": 268,
+          "snippet": "believe"
+        },
+        {
+          "work": "gleanings",
+          "para": 251,
+          "snippet": "believed"
+        },
+        {
+          "work": "gleanings",
+          "para": 404,
+          "snippet": "belief"
+        },
+        {
+          "work": "gleanings",
+          "para": 416,
+          "snippet": "faith"
+        },
+        {
+          "work": "gleanings",
+          "para": 671,
+          "snippet": "believer"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 198,
+          "snippet": "Trustworthiness"
+        },
+        {
+          "work": "gleanings",
+          "para": 266,
+          "snippet": "a trust"
+        }
+      ]
+    },
+    {
+      "term": "ٱلْكَاذِبِينَ",
+      "transliteration": "k-dh-b",
+      "literal": "denial; belying; falsification; rejection",
+      "se_rendering": "false ones",
+      "note": "Root k-dh-b typically rendered 'lying,' 'falsehood,' or 'lying impostor.' SE chooses 'false ones' here—a direct, adjectival form emphasizing character rather than the act of lying or the noun 'falsehood.'",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 5,
+          "snippet": "ponder"
+        },
+        {
+          "work": "gleanings",
+          "para": 729,
+          "snippet": "lying impostor"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 253,
+          "snippet": "falsehood"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 194,
+          "snippet": "lying"
+        },
+        {
+          "work": "gleanings",
+          "para": 192,
+          "snippet": "false"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 59,
+          "snippet": "lies"
+        }
+      ]
+    }
+  ],
+  "section_index": "7",
+  "section": "7",
+  "section_para": 1
 }

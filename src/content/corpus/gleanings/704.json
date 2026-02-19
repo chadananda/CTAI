@@ -1,10 +1,514 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 704,
   "source_text": "إنّ الحرّيّة تنتهي عواقبها إلى الفتنة الّتي لا تخمد نارها كذلك يخبركم المحصي العليم فاعلموا أنّ مطالع الحرّيّة ومظاهرها هي الحيوان وللإنسان ينبغي أن يكون تحت سنن تحفظه عن جهل نفسه وضرّ الماكرين إنّ الحرّيّة تُخرج الإنسان عن شئون الأدب والوقار وتجعله من الأرذلين",
   "translation": "Liberty must, in the end, lead to sedition, whose flames none can quench. Thus warneth you He Who is the Reckoner, the All-Knowing. Know ye that the embodiment of liberty and its symbol is the animal. That which beseemeth man is submission unto such restraints as will protect him from his own ignorance, and guard him against the harm of the mischief-maker. Liberty causeth man to overstep the bounds of propriety, and to infringe on the dignity of his station. It debaseth him to the level of extreme depravity and wickedness.",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "liberty-leads-sedition-flames",
+  "alignment": [
+    {
+      "ar": "الحرّيّة",
+      "en": "Liberty"
+    },
+    {
+      "ar": "تنتهي",
+      "en": "lead"
+    },
+    {
+      "ar": "عواقبها",
+      "en": "in the end"
+    },
+    {
+      "ar": "الفتنة",
+      "en": "sedition"
+    },
+    {
+      "ar": "لا",
+      "en": "none"
+    },
+    {
+      "ar": "تخمد",
+      "en": "quench"
+    },
+    {
+      "ar": "نارها",
+      "en": "flames"
+    },
+    {
+      "ar": "يخبركم",
+      "en": "warneth you"
+    },
+    {
+      "ar": "المحصي",
+      "en": "Reckoner"
+    },
+    {
+      "ar": "العليم",
+      "en": "All-Knowing"
+    },
+    {
+      "ar": "فاعلموا",
+      "en": "Know ye"
+    },
+    {
+      "ar": "مطالع",
+      "en": "embodiment"
+    },
+    {
+      "ar": "الحرّيّة",
+      "en": "liberty"
+    },
+    {
+      "ar": "مظاهرها",
+      "en": "symbol"
+    },
+    {
+      "ar": "الحيوان",
+      "en": "animal"
+    },
+    {
+      "ar": "وللإنسان",
+      "en": "man"
+    },
+    {
+      "ar": "ينبغي",
+      "en": "beseemeth"
+    },
+    {
+      "ar": "أن يكون",
+      "en": "is"
+    },
+    {
+      "ar": "تحت",
+      "en": "unto"
+    },
+    {
+      "ar": "سنن",
+      "en": "restraints"
+    },
+    {
+      "ar": "تحفظه",
+      "en": "protect him"
+    },
+    {
+      "ar": "جهل",
+      "en": "ignorance"
+    },
+    {
+      "ar": "نفسه",
+      "en": "his own"
+    },
+    {
+      "ar": "ضرّ",
+      "en": "harm"
+    },
+    {
+      "ar": "الماكرين",
+      "en": "mischief-maker"
+    },
+    {
+      "ar": "تُخرج",
+      "en": "overstep"
+    },
+    {
+      "ar": "شئون",
+      "en": "bounds"
+    },
+    {
+      "ar": "الأدب",
+      "en": "propriety"
+    },
+    {
+      "ar": "الوقار",
+      "en": "dignity"
+    },
+    {
+      "ar": "وتجعله",
+      "en": "debaseth him"
+    },
+    {
+      "ar": "الأرذلين",
+      "en": "extreme depravity"
+    }
+  ],
+  "terms": [
+    {
+      "term": "تنتهي",
+      "transliteration": "n-h-y",
+      "literal": "end, limit, utmost, extreme; final",
+      "se_rendering": "must, in the end, lead",
+      "note": "Root n-h-y typically renders as 'utmost', 'forbidden', 'forbid'. Here 'lead' captures the sense of final consequence; SE extends meaning beyond lexical boundary.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 138,
+          "snippet": "shameful circumstances"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 57,
+          "snippet": "greatest care"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 28,
+          "snippet": "utmost"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 205,
+          "snippet": "forbid"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 52,
+          "snippet": "with the utmost"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 45,
+          "snippet": "forbidden"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 65,
+          "snippet": "forbidden what is wrong"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 68,
+          "snippet": "Lote-Tree beyond which there is no passing"
+        }
+      ]
+    },
+    {
+      "term": "الفتنة",
+      "transliteration": "f-t-n",
+      "literal": "trial; tribulation; temptation; sedition; discord; strife",
+      "se_rendering": "sedition",
+      "note": "One of 8 occurrences in corpus with 'sedition' rendering; standard SE choice across contexts denoting social disorder and spiritual trial.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 162,
+          "snippet": "sedition"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 60,
+          "snippet": "convulsion"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 32,
+          "snippet": "the forces of mischief"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 777,
+          "snippet": "trial"
+        }
+      ]
+    },
+    {
+      "term": "نارها",
+      "transliteration": "n-w-r",
+      "literal": "light; illumination",
+      "se_rendering": "flames",
+      "note": "N-w-r root typically 'light', 'Orb of Light', 'illumine'. Metaphorical 'flames' inverts semantic field—fire as destructive rather than illuminative.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 3,
+          "snippet": "light"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 114,
+          "snippet": "with the light"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 109,
+          "snippet": "Thy light"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 246,
+          "snippet": "Illumine"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 180,
+          "snippet": "fire"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 10,
+          "snippet": "flame of fire"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 39,
+          "snippet": "lights"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 312,
+          "snippet": "splendors"
+        }
+      ]
+    },
+    {
+      "term": "مطالع",
+      "transliteration": "t-l-ʿ",
+      "literal": "rising; appearance; countenance; manifestation",
+      "se_rendering": "embodiment",
+      "note": "T-l-ʿ root spans 'Manifestations', 'countenances', 'sources'. 'Embodiment' here is singular nominalization; loses plural manifestation sense of original.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 47,
+          "snippet": "lives"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 856,
+          "snippet": "countenances"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "sources of command"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 16,
+          "snippet": "embodiments"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 21,
+          "snippet": "daysprings"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 24,
+          "snippet": "exponents"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 276,
+          "snippet": "Revealer"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 26,
+          "snippet": "Dayspring"
+        }
+      ]
+    },
+    {
+      "term": "ومظاهرها",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "symbol",
+      "note": "Z-h-r root standard as 'manifestation'. SE renders dual form 'symbol'—concrete object rather than metaphysical appearance.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 140,
+          "snippet": "manifestation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 160,
+          "snippet": "Author of all Manifestations"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 136,
+          "snippet": "evident"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 206,
+          "snippet": "appeared"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 196,
+          "snippet": "Manifestations of God"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 255,
+          "snippet": "Manifestations"
+        }
+      ]
+    },
+    {
+      "term": "تحفظه",
+      "transliteration": "h-f-z",
+      "literal": "guardian; preserver; keeper",
+      "se_rendering": "protect",
+      "note": "H-f-z root typically 'Guardian', 'shield', 'protection'. Active verb 'protect' maintains sense; standard rendering preserving protective connotation.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 3,
+          "snippet": "protection"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 44,
+          "snippet": "shield"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 55,
+          "snippet": "guard"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 22,
+          "snippet": "Guardian"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 193,
+          "snippet": "Keep"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 90,
+          "snippet": "Watch"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 102,
+          "snippet": "Preserve"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 625,
+          "snippet": "the Preserver"
+        }
+      ]
+    },
+    {
+      "term": "جهل",
+      "transliteration": "j-h-l",
+      "literal": "ignorant; foolish; the ignorant ones",
+      "se_rendering": "ignorance",
+      "note": "J-h-l root standard as 'ignorance', 'ignorant ones'. SE's 'ignorance' here abstractifies person-oriented noun; philosophical rather than sociological emphasis.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 28,
+          "snippet": "ignorant ones"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 36,
+          "snippet": "foolish"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 99,
+          "snippet": "FOOLISH, YET HAVE A NAME TO BE WISE"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 201,
+          "snippet": "ignorant"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 7,
+          "snippet": "ignorance"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 5,
+          "snippet": "the ignorant"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 237,
+          "snippet": "fanaticism"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 85,
+          "snippet": "empty thyself of all learning"
+        }
+      ]
+    },
+    {
+      "term": "وتجعله",
+      "transliteration": "j-ʿ-l",
+      "literal": "to make; to cause; to render; to appoint",
+      "se_rendering": "debaseth",
+      "note": "J-ʿ-l root spans causative verbs. 'Debaseth' is transitive perfective choice; SE elevates to biblical register beyond simple 'make' construction.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 12,
+          "snippet": "make them"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 212,
+          "snippet": "enable them"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 25,
+          "snippet": "hath ordained"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 19,
+          "snippet": "ordained"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 172,
+          "snippet": "make him"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 50,
+          "snippet": "assist us to help"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 242,
+          "snippet": "set me"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 191,
+          "snippet": "Deny me not"
+        }
+      ]
+    }
+  ],
+  "section_index": "CLIX.2",
+  "section": "CLIX",
+  "section_para": 2
 }

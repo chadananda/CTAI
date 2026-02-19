@@ -1,10 +1,467 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 79,
   "source_text": "لسُّلُوكَ فِيْ مَنَاهِجِ رِضَائِكَ وَالوُرُودِ فِيْ شاطئِ بَحْرِ أَحَدِيَّتِكَ، أَيْ رَبِّ لا أَجِدُ دُونَكَ مِنْ كَرِيمٍ لأتَوَجَّهَ إِلَيْهِ وَلا سِواكَ مِنْ رَحِيمٍ لأسْتَرْحِمَ مِنْهُ، أَسْئَلُكَ بِأَنْ لا تَطْرُدَنِيْ عَنْ بابِ فَضْلِكَ وَلا تَمْنَعَنِي عَنْ سَحابِ جُودِكَ وَكَرَمِكَ، أَيْ رَبِّ قَدِّرْ لِي ما قَدَّرْتَهُ لأوْلِيائِكَ ثُمَّ اكْتُبْ لِي ما كَتَبْتَهُ لأصْفِيائِكَ، لَمْ يَزَلْ كانَ طَرْفِيْ ناظِرًا إِلى أُفُقِ عِنايَتِكَ وَعَيْنِي مُتَوَجِّهَةً إِلى شَطْرِ أَلْطافِكَ، فَافْعَلْ بِي ما أَنْتَ أَهْلُهُ لا إِلهَ إِلاَّ أنْتَ المُقْتَدِرُ العَزِيزُ المُسْتَعانُ.",
   "translation": "There is no one, O my Lord, who can deal bountifully with me to whom I can turn my face, and none who can have compassion on me that I may crave his mercy. Cast me not out, I implore Thee, of the presence of Thy grace, neither do Thou withhold from me the outpourings of Thy generosity and bounty. Ordain for me, O my Lord, what Thou hast ordained for them that love Thee, and write down for me what Thou hast written down for Thy chosen ones. My gaze hath, at all times, been fixed on the horizon of Thy gracious providence, and mine eyes bent upon the court of Thy tender mercies. Do with me as beseemeth Thee. No God is there but Thee, the God of power, the God of glory, Whose help is implored by all men.",
   "source_lang": "ar",
-  "score": 9.7
+  "score": 9.7,
+  "page_slug": "gaze-fixed-horizon-gracious-providence",
+  "alignment": [
+    {
+      "ar": "رِضَائِكَ",
+      "en": "love Thee"
+    },
+    {
+      "ar": "الوُرُودِ",
+      "en": "bent upon"
+    },
+    {
+      "ar": "شاطئِ",
+      "en": "court"
+    },
+    {
+      "ar": "أَجِدُ",
+      "en": "there"
+    },
+    {
+      "ar": "دُونَكَ",
+      "en": "of the presence of Thy grace"
+    },
+    {
+      "ar": "كَرِيمٍ",
+      "en": "deal bountifully"
+    },
+    {
+      "ar": "إِلَيْهِ",
+      "en": "to whom"
+    },
+    {
+      "ar": "سِواكَ",
+      "en": "none"
+    },
+    {
+      "ar": "رَحِيمٍ",
+      "en": "compassion"
+    },
+    {
+      "ar": "لأسْتَرْحِمَ",
+      "en": "crave his mercy"
+    },
+    {
+      "ar": "مِنْهُ",
+      "en": "on me"
+    },
+    {
+      "ar": "أَسْئَلُكَ",
+      "en": "I implore Thee"
+    },
+    {
+      "ar": "تَطْرُدَنِيْ",
+      "en": "Cast me not out"
+    },
+    {
+      "ar": "بابِ",
+      "en": "presence"
+    },
+    {
+      "ar": "فَضْلِكَ",
+      "en": "grace"
+    },
+    {
+      "ar": "تَمْنَعَنِي",
+      "en": "withhold from me"
+    },
+    {
+      "ar": "سَحابِ",
+      "en": "outpourings"
+    },
+    {
+      "ar": "جُودِكَ",
+      "en": "generosity"
+    },
+    {
+      "ar": "كَرَمِكَ",
+      "en": "bounty"
+    },
+    {
+      "ar": "ما",
+      "en": "what"
+    },
+    {
+      "ar": "لأوْلِيائِكَ",
+      "en": "them that love Thee"
+    },
+    {
+      "ar": "اكْتُبْ",
+      "en": "write down"
+    },
+    {
+      "ar": "كَتَبْتَهُ",
+      "en": "written down"
+    },
+    {
+      "ar": "لأصْفِيائِكَ",
+      "en": "Thy chosen ones"
+    },
+    {
+      "ar": "لَمْ يَزَلْ",
+      "en": "at all times"
+    },
+    {
+      "ar": "كانَ",
+      "en": "hath"
+    },
+    {
+      "ar": "طَرْفِيْ",
+      "en": "My gaze"
+    },
+    {
+      "ar": "ناظِرًا",
+      "en": "been fixed"
+    },
+    {
+      "ar": "أُفُقِ",
+      "en": "horizon"
+    },
+    {
+      "ar": "عِنايَتِكَ",
+      "en": "Thy gracious providence"
+    },
+    {
+      "ar": "عَيْنِي",
+      "en": "mine eyes"
+    },
+    {
+      "ar": "أَلْطافِكَ",
+      "en": "tender mercies"
+    },
+    {
+      "ar": "فَافْعَلْ",
+      "en": "Do"
+    },
+    {
+      "ar": "بِي",
+      "en": "with me"
+    },
+    {
+      "ar": "أَنْتَ",
+      "en": "Thee"
+    },
+    {
+      "ar": "أَهْلُهُ",
+      "en": "beseemeth"
+    },
+    {
+      "ar": "إِلهَ",
+      "en": "God"
+    },
+    {
+      "ar": "المُقْتَدِرُ",
+      "en": "power"
+    },
+    {
+      "ar": "العَزِيزُ",
+      "en": "glory"
+    },
+    {
+      "ar": "المُسْتَعانُ",
+      "en": "help is implored"
+    }
+  ],
+  "terms": [
+    {
+      "term": "رِضَائِكَ",
+      "transliteration": "r-d-y",
+      "literal": "good-pleasure, consent, satisfaction",
+      "se_rendering": "Thy pleasure",
+      "note": "Standard 'Thy pleasure' or 'good-pleasure' rendering; appears consistently across 30 occurrences with minor variants. This passage maintains SE's primary idiom without deviation.",
+      "cross_refs": [
+        {
+          "work": "the-hidden-words",
+          "para": 46,
+          "snippet": "content"
+        },
+        {
+          "work": "gleanings",
+          "para": 165,
+          "snippet": "consent"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 28,
+          "snippet": "is pleased with"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 41,
+          "snippet": "pleasure"
+        },
+        {
+          "work": "gleanings",
+          "para": 564,
+          "snippet": "goodly deeds"
+        },
+        {
+          "work": "gleanings",
+          "para": 598,
+          "snippet": "praiseworthy"
+        },
+        {
+          "work": "gleanings",
+          "para": 625,
+          "snippet": "approved"
+        },
+        {
+          "work": "gleanings",
+          "para": 58,
+          "snippet": "Ridván"
+        }
+      ]
+    },
+    {
+      "term": "فَضْلِكَ",
+      "transliteration": "f-d-l",
+      "literal": "grace; bounty; generosity; excellence",
+      "se_rendering": "Thy grace",
+      "note": "Grace' is SE's dominant rendering across 36 occurrences; occasionally 'bounty' or 'favor' appear. Here 'Thy grace' maintains the most frequent choice, emphasizing unmerited divine gift.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 50,
+          "snippet": "the Gracious, the All-Bountiful"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 115,
+          "snippet": "the All-Bounteous"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 259,
+          "snippet": "merits"
+        },
+        {
+          "work": "gleanings",
+          "para": 10,
+          "snippet": "most excellent favors"
+        },
+        {
+          "work": "gleanings",
+          "para": 60,
+          "snippet": "grace"
+        },
+        {
+          "work": "gleanings",
+          "para": 234,
+          "snippet": "His gracious favor"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "graciously"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 92,
+          "snippet": "realms"
+        }
+      ]
+    },
+    {
+      "term": "عِنايَتِكَ",
+      "transliteration": "ʿ-n",
+      "literal": "from; about; concerning; away from",
+      "se_rendering": "Thy gracious providence",
+      "note": "Root ع-ن typically yields 'from' or 'about'; SE renders 'Thy gracious providence' here—a substantial elaboration beyond the root's minimal concordance data (12 occ.), suggesting contextual amplification.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 611,
+          "snippet": "from the veil"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 29,
+          "snippet": "from Us"
+        },
+        {
+          "work": "gleanings",
+          "para": 399,
+          "snippet": "My loving-kindness"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 32,
+          "snippet": "grace"
+        },
+        {
+          "work": "gleanings",
+          "para": 467,
+          "snippet": "about them"
+        },
+        {
+          "work": "gleanings",
+          "para": 579,
+          "snippet": "from whom"
+        },
+        {
+          "work": "gleanings",
+          "para": 479,
+          "snippet": "from"
+        }
+      ]
+    },
+    {
+      "term": "أَلْطافِكَ",
+      "transliteration": "l-t-f",
+      "literal": "kindness; grace; gentleness; benevolence",
+      "se_rendering": "Thy tender mercies",
+      "note": "Typically 'grace,' 'bounties,' or 'divine favor' across 21 occurrences. SE selects 'Thy tender mercies' here—a rare, emotionally intimate rendering not documented in the concordance sample.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 27,
+          "snippet": "bounties"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 10,
+          "snippet": "overflowing"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 162,
+          "snippet": "grace"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 160,
+          "snippet": "divine favor"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 23,
+          "snippet": "goodly gift"
+        },
+        {
+          "work": "gleanings",
+          "para": 100,
+          "snippet": "discriminating"
+        },
+        {
+          "work": "gleanings",
+          "para": 327,
+          "snippet": "divine Subtlety"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 25,
+          "snippet": "crystal pure"
+        }
+      ]
+    },
+    {
+      "term": "أَهْلُهُ",
+      "transliteration": "ʾ-h-l",
+      "literal": "people; inhabitants; family; kin; worthy; deserving",
+      "se_rendering": "beseemeth Thee",
+      "note": "Root ا-ه-ل commonly means 'people' or 'worthy' (19 occ.); SE chooses 'beseemeth Thee' (fitting/appropriate), an interpretive rather than literal rendering. Elevates the phrase toward propriety language.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 338,
+          "snippet": "people"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 19,
+          "snippet": "O people of Bahá"
+        },
+        {
+          "work": "gleanings",
+          "para": 277,
+          "snippet": "O peoples of the world"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 237,
+          "snippet": "people of the Qur'án"
+        },
+        {
+          "work": "gleanings",
+          "para": 34,
+          "snippet": "high and low"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 130,
+          "snippet": "all the people, whether high or low"
+        },
+        {
+          "work": "gleanings",
+          "para": 580,
+          "snippet": "to such as have set their affection upon them"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 94,
+          "snippet": "its people"
+        }
+      ]
+    },
+    {
+      "term": "العَزِيزُ",
+      "transliteration": "ʿ-z-z",
+      "literal": "glory; might; honor; dignity; power; majesty",
+      "se_rendering": "the God of glory",
+      "note": "Typically 'glory,' 'honor,' or 'might' across 49 occurrences; here rendered 'the God of glory.' SE maintains 'glory' but frames it theologically as divine attribute rather than abstract quality, emphasizing majesty over abstract might.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 185,
+          "snippet": "glory"
+        },
+        {
+          "work": "gleanings",
+          "para": 642,
+          "snippet": "honor"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 99,
+          "snippet": "Dear"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 38,
+          "snippet": "dearly beloved"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 37,
+          "snippet": "Gracious"
+        },
+        {
+          "work": "gleanings",
+          "para": 260,
+          "snippet": "All-Glorious"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 162,
+          "snippet": "Mighty"
+        },
+        {
+          "work": "gleanings",
+          "para": 660,
+          "snippet": "powerful"
+        }
+      ]
+    }
+  ],
+  "section_index": "XXV.3",
+  "section": "XXV",
+  "section_para": 3
 }

@@ -1,10 +1,303 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 289,
   "source_text": "لنِّدآءَ وَأَجَابَكَ مِنْ غَيْرِ أَنْ يَتَوَقَّفَ فِي أَقَلِّ مِنْ آنٍ، وَمِنْهُمْ مَنْ أَعْرَضَ وَاتَّبَعَ هَويهُ، أَسْئَلُكَ يا إِلهِي بِاسْمِكَ الأَعْظَمِ بِأَنْ تَجْتَذِبَ الأُمَمَ بِالكَلِمَةِ الَّتِيْ جَعَلْتَها سُلْطانَ الكلِماتِ فِي أَيَّامِكَ وَبِها ظَهَر",
   "translation": "As soon as He revealed Himself, as bidden by Thee, and called Thy servants to turn in the direction of Thy gifts, and to set their faces towards the horizon of Thy knowledge, the signs of dissension appeared amongst them. Some responded to Thy call and, without the least hesitation, obeyed Thy summons. Others turned their backs to Thee, and followed the desires of a corrupt inclination.",
   "source_lang": "ar",
-  "score": 9.9
+  "score": 9.9,
+  "page_slug": "responded-without-hesitation-obeyed",
+  "alignment": [
+    {
+      "ar": "أَجَابَكَ",
+      "en": "responded"
+    },
+    {
+      "ar": "آنٍ",
+      "en": "least"
+    },
+    {
+      "ar": "أَعْرَضَ",
+      "en": "turned their backs"
+    },
+    {
+      "ar": "هَويهُ",
+      "en": "desires"
+    }
+  ],
+  "terms": [
+    {
+      "term": "أَعْرَضَ",
+      "transliteration": "ʿ-r-d",
+      "literal": "to turn away; to avert; to abstain; heedless",
+      "se_rendering": "turned their backs",
+      "note": "SE selects 'turned their backs' from seven documented renderings including 'turned away' and 'disbelievers'. This choice emphasizes deliberate rejection over passive indifference.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 136,
+          "snippet": "turned away"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 168,
+          "snippet": "turned aside"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 230,
+          "snippet": "disbelievers"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 89,
+          "snippet": "objections"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 29,
+          "snippet": "hast turned away"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 14,
+          "snippet": "turns away"
+        },
+        {
+          "work": "gleanings",
+          "para": 108,
+          "snippet": "rejection"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 24,
+          "snippet": "hath made thee turn away"
+        }
+      ]
+    },
+    {
+      "term": "هَويهُ",
+      "transliteration": "h-w-y",
+      "literal": "desire; vain desire; inclination; passion",
+      "se_rendering": "desires of a corrupt inclination",
+      "note": "Rendered 'desires of a corrupt inclination'; Jafar shows only 4 total occurrences across corpus with 'passion' and 'vain desire' as typical forms. The expansive phrasing here is SE's sole occurrence of this compound construction.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 12,
+          "snippet": "passion"
+        },
+        {
+          "work": "gleanings",
+          "para": 226,
+          "snippet": "vain desire"
+        },
+        {
+          "work": "gleanings",
+          "para": 405,
+          "snippet": "desire"
+        }
+      ]
+    },
+    {
+      "term": "الأَعْظَمِ",
+      "transliteration": "ʿ-z̟-m",
+      "literal": "greatest; supreme; mightiest",
+      "se_rendering": "greatest",
+      "note": "SE typically renders as 'Most Great' (63 occurrences), but 'greatest' here maintains grammatical agreement with the feminine noun 'اسم' (name) in superlative form.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 56,
+          "snippet": "supreme"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 3,
+          "snippet": "greatest"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 6,
+          "snippet": "greater"
+        },
+        {
+          "work": "gleanings",
+          "para": 10,
+          "snippet": "most mighty"
+        },
+        {
+          "work": "gleanings",
+          "para": 409,
+          "snippet": "most great"
+        },
+        {
+          "work": "gleanings",
+          "para": 392,
+          "snippet": "great"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 9,
+          "snippet": "mighty"
+        },
+        {
+          "work": "gleanings",
+          "para": 169,
+          "snippet": "vast"
+        }
+      ]
+    },
+    {
+      "term": "سُلْطانَ",
+      "transliteration": "s-l-ṭ",
+      "literal": "dominion; authority; power; sovereignty; control",
+      "se_rendering": "sovereign",
+      "note": "Rendered 'sovereign' in this passage; Jafar data shows SE more commonly uses 'dominion' (43 occurrences) or 'Sovereignty'. The verbal form here stresses the Word's active supremacy over all utterances.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 369,
+          "snippet": "sovereignty"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 151,
+          "snippet": "dominion"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 13,
+          "snippet": "O King"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 157,
+          "snippet": "the Sháh"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 1,
+          "snippet": "the King"
+        },
+        {
+          "work": "gleanings",
+          "para": 472,
+          "snippet": "King (Sulṭán 'Abdu'l-'Azíz)"
+        },
+        {
+          "work": "gleanings",
+          "para": 236,
+          "snippet": "the Sulṭán"
+        },
+        {
+          "work": "gleanings",
+          "para": 592,
+          "snippet": "by virtue of His sovereignty"
+        }
+      ]
+    },
+    {
+      "term": "أَيَّامِكَ",
+      "transliteration": "y-w-m",
+      "literal": "day; age; period; era",
+      "se_rendering": "Thy days",
+      "note": "SE renders 'Thy days' here; Jafar data (44 occurrences) shows SE frequently renders this as 'This Day' or 'this Day' with capital D, suggesting eschatological significance. The plural possessive form here is unusual.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 18,
+          "snippet": "this Day"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 176,
+          "snippet": "In this day"
+        },
+        {
+          "work": "gleanings",
+          "para": 341,
+          "snippet": "This is the Day"
+        },
+        {
+          "work": "gleanings",
+          "para": 37,
+          "snippet": "days of Moses"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 14,
+          "snippet": "In these days"
+        },
+        {
+          "work": "gleanings",
+          "para": 261,
+          "snippet": "Days passed"
+        },
+        {
+          "work": "gleanings",
+          "para": 211,
+          "snippet": "the days"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 130,
+          "snippet": "today"
+        }
+      ]
+    },
+    {
+      "term": "ظَهَر",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "appeared",
+      "note": "Rendered 'appeared' in context of manifestation. SE's 96 documented uses of ظ-ه-ر primarily render as 'Manifestation' or 'manifestation', making 'appeared' a simpler verbal form suited to narrative context.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 53,
+          "snippet": "Manifestation"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 136,
+          "snippet": "evident"
+        },
+        {
+          "work": "gleanings",
+          "para": 222,
+          "snippet": "material"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 206,
+          "snippet": "appeared"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 196,
+          "snippet": "Manifestations of God"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 32,
+          "snippet": "overwhelm the soul"
+        }
+      ]
+    }
+  ],
+  "section_index": "LXIX.3",
+  "section": "LXIX",
+  "section_para": 3
 }

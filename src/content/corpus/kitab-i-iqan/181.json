@@ -1,10 +1,616 @@
 {
   "work": "Kitab-i-Iqan",
   "slug": "kitab-i-iqan",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 181,
   "source_text": "بسيار تعجّب است که اين قوم در بعضی از مراتب که مطابق ميل و هوای ايشان است متمسّک به آيه منزله در فرقان و احاديث اولی الايقان می شوند و از بعضی که مغاير هوای ايشان است بالمرّه اعراض می نمايند.\"اَفَتُؤمِنُونَ بِبَعضِ الِکتَاب و تَکفُرُونَ بِبَعْضٍ.  \"   ما لَکُم کيف تَحکُمُونَ ما لا تَشعُرُونَ؟ مثل آنکه در کتاب مبين، ربّ العالمين بعد از ذکر ختميّت فی قوله تعالی:  \"وَ لَکِنْ رَسُولَ اللّهِ وَ خَاتَمَ النّبيّينَ\"،  جميع ناس را به لقای خود وعده فرموده.  چنانچه آيات مدلّه بر لقای آن مليک بقا در کتاب مذکور است و بعضی از قبل ذکر شده.  و خدای واحد شاهد مقال است که هيچ امری اعظم از لقا و اصرح از آن در فرقان ذکر نيافته.  فَهَنيئاً لِمَن فازَ بِهِ فی يَومٍ اَعْرَضَ عَنهُ اَکثَرُ النّاسِ کَما اَنتُم تَشهَدُونَ.",
   "translation": "How strange! These people with one hand cling to those verses of the Qur’án and those traditions of the people of certitude which they have found to accord with their inclinations and interests, and with the other reject those which are contrary to their selfish desires. “Believe ye then part of the Book, and deny part?” How could ye judge that which ye understand not? Even as the Lord of being hath in His unerring Book, after speaking of the “Seal” in His exalted utterance: “Muhammad is the Apostle of God and the Seal of the Prophets,” hath revealed unto all people the promise of “attainment unto the divine Presence.” To this attainment to the presence of the immortal King testify the verses of the Book, some of which We have already mentioned. The one true God is My witness! Nothing more exalted or more explicit than “attainment unto the divine Presence” hath been revealed in the Qur’án. Well is it with him that hath attained thereunto, in the day wherein most of the people, even as ye witness, have turned away therefrom.",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "attainment-divine-presence",
+  "alignment": [
+    {
+      "ar": "بسيار",
+      "en": "How"
+    },
+    {
+      "ar": "تعجّب",
+      "en": "strange"
+    },
+    {
+      "ar": "اين",
+      "en": "These"
+    },
+    {
+      "ar": "قوم",
+      "en": "people"
+    },
+    {
+      "ar": "در بعضی",
+      "en": "part"
+    },
+    {
+      "ar": "مراتب",
+      "en": "verses"
+    },
+    {
+      "ar": "که",
+      "en": "which"
+    },
+    {
+      "ar": "مطابق",
+      "en": "accord"
+    },
+    {
+      "ar": "ميل",
+      "en": "inclinations"
+    },
+    {
+      "ar": "هوای",
+      "en": "interests"
+    },
+    {
+      "ar": "ايشان",
+      "en": "their"
+    },
+    {
+      "ar": "متمسّک",
+      "en": "cling"
+    },
+    {
+      "ar": "منزله",
+      "en": "revealed"
+    },
+    {
+      "ar": "احاديث",
+      "en": "traditions"
+    },
+    {
+      "ar": "اولی الايقان",
+      "en": "people of certitude"
+    },
+    {
+      "ar": "می شوند",
+      "en": "have found"
+    },
+    {
+      "ar": "بعضی",
+      "en": "those"
+    },
+    {
+      "ar": "مغاير",
+      "en": "contrary"
+    },
+    {
+      "ar": "هوای ايشان",
+      "en": "selfish desires"
+    },
+    {
+      "ar": "بالمرّه",
+      "en": "deny"
+    },
+    {
+      "ar": "اعراض می نمايند",
+      "en": "reject"
+    },
+    {
+      "ar": "اَفَتُؤمِنُونَ بِبَعضِ الِکتَاب و تَکفُرُونَ بِبَعْضٍ",
+      "en": "Believe ye then part of the Book, and deny part"
+    },
+    {
+      "ar": "ما لَکُم کيف تَحکُمُونَ ما لا تَشعُرُونَ",
+      "en": "How could ye judge that which ye understand not"
+    },
+    {
+      "ar": "مثل آنکه",
+      "en": "Even as"
+    },
+    {
+      "ar": "کتاب مبين",
+      "en": "unerring Book"
+    },
+    {
+      "ar": "ربّ العالمين",
+      "en": "Lord of being"
+    },
+    {
+      "ar": "بعد از",
+      "en": "after"
+    },
+    {
+      "ar": "ذکر",
+      "en": "speaking"
+    },
+    {
+      "ar": "ختميّت",
+      "en": "Seal"
+    },
+    {
+      "ar": "فی قوله تعالی",
+      "en": "in His exalted utterance"
+    },
+    {
+      "ar": "وَ لَکِنْ رَسُولَ اللّهِ وَ خَاتَمَ النّبيّينَ",
+      "en": "Muhammad is the Apostle of God and the Seal of the Prophets"
+    },
+    {
+      "ar": "جميع",
+      "en": "all"
+    },
+    {
+      "ar": "لقای",
+      "en": "attainment"
+    },
+    {
+      "ar": "خود",
+      "en": "divine Presence"
+    },
+    {
+      "ar": "وعده فرموده",
+      "en": "promise"
+    },
+    {
+      "ar": "چنانچه",
+      "en": "To this"
+    },
+    {
+      "ar": "مدلّه",
+      "en": "testify"
+    },
+    {
+      "ar": "آن مليک بقا",
+      "en": "presence of the immortal King"
+    },
+    {
+      "ar": "کتاب مذکور",
+      "en": "Book"
+    },
+    {
+      "ar": "و بعضی",
+      "en": "some"
+    },
+    {
+      "ar": "از قبل",
+      "en": "already"
+    },
+    {
+      "ar": "ذکر شده",
+      "en": "mentioned"
+    },
+    {
+      "ar": "خدای واحد",
+      "en": "one true God"
+    },
+    {
+      "ar": "شاهد",
+      "en": "witness"
+    },
+    {
+      "ar": "مقال",
+      "en": "My witness"
+    },
+    {
+      "ar": "هيچ",
+      "en": "Nothing"
+    },
+    {
+      "ar": "اعظم",
+      "en": "more exalted"
+    },
+    {
+      "ar": "اصرح",
+      "en": "more explicit"
+    },
+    {
+      "ar": "لقا",
+      "en": "attainment unto the divine Presence"
+    },
+    {
+      "ar": "فَهَنيئاً لِمَن فازَ بِهِ",
+      "en": "Well is it with him that hath attained thereunto"
+    },
+    {
+      "ar": "فی يَومٍ",
+      "en": "in the day"
+    },
+    {
+      "ar": "اَعْرَضَ عَنهُ",
+      "en": "turned away"
+    },
+    {
+      "ar": "اَکثَرُ النّاسِ",
+      "en": "most of the people"
+    },
+    {
+      "ar": "کَما اَنتُم تَشهَدُونَ",
+      "en": "even as ye witness"
+    }
+  ],
+  "terms": [
+    {
+      "term": "متمسّک",
+      "transliteration": "m-s-k",
+      "literal": "musk; to seize; grip",
+      "se_rendering": "cling",
+      "note": "Root typically rendered 'holding fast' or 'cleaving' (23 occ); 'cling' here conveys simultaneity of acceptance and rejection more dynamically.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 5,
+          "snippet": "holding fast unto"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 64,
+          "snippet": "holding fast"
+        },
+        {
+          "work": "gleanings",
+          "para": 224,
+          "snippet": "clinging"
+        },
+        {
+          "work": "gleanings",
+          "para": 396,
+          "snippet": "cleave"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 9,
+          "snippet": "clung"
+        },
+        {
+          "work": "gleanings",
+          "para": 367,
+          "snippet": "take ye counsel"
+        },
+        {
+          "work": "gleanings",
+          "para": 720,
+          "snippet": "cleaveth"
+        },
+        {
+          "work": "gleanings",
+          "para": 719,
+          "snippet": "Hold ye fast"
+        }
+      ]
+    },
+    {
+      "term": "اعراض",
+      "transliteration": "ʿ-r-d",
+      "literal": "to turn away; to avert; to abstain; heedless",
+      "se_rendering": "turned away",
+      "note": "Consistent with primary rendering 'turned away' (47 occ); maintains Qur'ánic echo of heedlessness and rejection established in passage.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 136,
+          "snippet": "turned away"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 168,
+          "snippet": "turned aside"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 230,
+          "snippet": "disbelievers"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 505,
+          "snippet": "turned their backs"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 431,
+          "snippet": "have turned back"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 29,
+          "snippet": "hast turned away"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 104,
+          "snippet": "are turned back"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 14,
+          "snippet": "turns away"
+        }
+      ]
+    },
+    {
+      "term": "خاتم",
+      "transliteration": "kh-t-m",
+      "literal": "to seal; to conclude; to end; seal",
+      "se_rendering": "Seal",
+      "note": "Standard 'Seal' rendering (21 occ); appears in direct Qur'ánic quotation, maintaining fidelity to Islamic theological terminology essential to argument.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 31,
+          "snippet": "seal"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 552,
+          "snippet": "affixed Thy seal"
+        },
+        {
+          "work": "gleanings",
+          "para": 695,
+          "snippet": "sealed"
+        },
+        {
+          "work": "gleanings",
+          "para": 114,
+          "snippet": "finality of the Seal"
+        },
+        {
+          "work": "gleanings",
+          "para": 321,
+          "snippet": "Seal of the Prophets"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 226,
+          "snippet": "as a ring"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 701,
+          "snippet": "choose"
+        }
+      ]
+    },
+    {
+      "term": "لقای",
+      "transliteration": "l-q-y",
+      "literal": "opposite; facing; in front of; towards",
+      "se_rendering": "attainment unto the divine Presence",
+      "note": "Rendered here as full compound 'attainment unto the divine Presence'—SE's most elevated rendering (30 occ). Becomes passage's central theological pivot.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 337,
+          "snippet": "in the face of"
+        },
+        {
+          "work": "gleanings",
+          "para": 375,
+          "snippet": "before"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 171,
+          "snippet": "the Divine Presence"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 216,
+          "snippet": "the Judgment Day"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 154,
+          "snippet": "Recite"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 805,
+          "snippet": "hath attained unto Thy presence"
+        },
+        {
+          "work": "gleanings",
+          "para": 31,
+          "snippet": "hath attained unto His Presence"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 665,
+          "snippet": "behold the countenance"
+        }
+      ]
+    },
+    {
+      "term": "مدلّه",
+      "transliteration": "d-l-l",
+      "literal": "to argue; to demonstrate; proof",
+      "se_rendering": "testify",
+      "note": "Rendered 'testify' here; root means 'to argue/demonstrate' (20 occ). Choice elevates textual evidence to active witness rather than mere logical proof.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 53,
+          "snippet": "evidence"
+        },
+        {
+          "work": "gleanings",
+          "para": 196,
+          "snippet": "testimony"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 215,
+          "snippet": "proof"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 83,
+          "snippet": "seek to establish"
+        },
+        {
+          "work": "gleanings",
+          "para": 317,
+          "snippet": "sign"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 225,
+          "snippet": "in His Testimonies"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 252,
+          "snippet": "Testimonies"
+        }
+      ]
+    },
+    {
+      "term": "ملیک",
+      "transliteration": "m-l-k",
+      "literal": "kingdom; dominion; realm; sovereignty",
+      "se_rendering": "King",
+      "note": "Rendered 'King' here; typically 'kingdom' or 'realm' (70 occ). Personalization of divine attribute intensifies intimacy of laqá—encounter with living Monarch.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-ahd",
+          "para": 16,
+          "snippet": "heaven"
+        },
+        {
+          "work": "gleanings",
+          "para": 394,
+          "snippet": "realm"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 171,
+          "snippet": "kingdom"
+        },
+        {
+          "work": "gleanings",
+          "para": 313,
+          "snippet": "heavenly gem"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 28,
+          "snippet": "righteous"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 167,
+          "snippet": "by the heavenly power"
+        },
+        {
+          "work": "gleanings",
+          "para": 59,
+          "snippet": "Lord"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 57,
+          "snippet": "Ruler"
+        }
+      ]
+    },
+    {
+      "term": "امری",
+      "transliteration": "ʾ-m-r",
+      "literal": "command; cause; matter; affair",
+      "se_rendering": "matter",
+      "note": "Appears as 'matter' here rather than 'Cause' or 'Revelation' (75 occ); generic rendering emphasizes universality of what cannot be judged without understanding.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "His Cause"
+        },
+        {
+          "work": "gleanings",
+          "para": 586,
+          "snippet": "His command"
+        },
+        {
+          "work": "gleanings",
+          "para": 691,
+          "snippet": "His Revelation"
+        },
+        {
+          "work": "gleanings",
+          "para": 723,
+          "snippet": "Cause"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 797,
+          "snippet": "Thy Cause"
+        },
+        {
+          "work": "gleanings",
+          "para": 8,
+          "snippet": "Revelation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 597,
+          "snippet": "service"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 167,
+          "snippet": "things"
+        }
+      ]
+    },
+    {
+      "term": "اعظم",
+      "transliteration": "ʿ-z̟-m",
+      "literal": "greatest; supreme; mightiest",
+      "se_rendering": "exalted",
+      "note": "Rendered 'exalted' here; typically 'Most Great' or 'greatest' (63 occ). Adjectival form differs from proper-name usage, qualifying divine utterance directly.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 56,
+          "snippet": "supreme"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 269,
+          "snippet": "Most Great"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 734,
+          "snippet": "Most Great Name"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 3,
+          "snippet": "greatest"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 6,
+          "snippet": "greater"
+        },
+        {
+          "work": "gleanings",
+          "para": 10,
+          "snippet": "most mighty"
+        },
+        {
+          "work": "gleanings",
+          "para": 392,
+          "snippet": "great"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 9,
+          "snippet": "mighty"
+        }
+      ]
+    }
+  ],
+  "section_index": "181",
+  "section": "181",
+  "section_para": 1
 }

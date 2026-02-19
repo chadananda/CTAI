@@ -1,10 +1,436 @@
 {
   "work": "Epistle to the Son of the Wolf",
   "slug": "epistle-to-the-son-of-the-wolf",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 2,
   "source_text": "الحمد للّه الباقی بلا فناء و الدّائم بلا زوال و القائم بلا انتقال المهيمن بسلطانه و الظّاهر بآياته و الباطن باسراره الّذی بامره ارتفعت راية الکلمة العليا فی ناسوت الانشاء و نصب علم يفعل ما يشاء بين الوری * هو الّذی اظهر امره لهداية خلقه و انزل آياته اظهارا لحجّته و برهانه و زيّن ديباج کتاب الانسان بالبيان بقوله ﴿الرَّحْمَنُ عَلَّمَ القُرانَ خَلَقَ الإِنْسَانَ عَلَّمَهُ البَيَانَ﴾ لا اله الّا هو الفرد الواحد المقتدر العزيز المنّان *",
   "translation": "Praise be to God, the Eternal that perisheth not, the Everlasting that declineth not, the Self-Subsisting that altereth not. He it is Who is transcendent in His sovereignty, Who is manifest through His signs, and is hidden through His mysteries. He it is at Whose bidding the standard of the Most Exalted Word hath been lifted up in the world of creation, and the banner of \"He doeth whatsoever He willeth\" raised amidst all peoples. He it is Who hath revealed His Cause for the guidance of His creatures, and sent down His verses to demonstrate His Proof and His Testimony, and embellished the preface of the Book of Man with the ornament of utterance through His saying: \"The God of Mercy hath taught the Qur’án, hath created man, and taught him articulate speech.\" No God is there but Him, the One, the Peerless, the Powerful, the Mighty, the Beneficent.",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "eternal-everlasting-self-subsisting",
+  "alignment": [
+    {
+      "ar": "الحمد",
+      "en": "Praise"
+    },
+    {
+      "ar": "للّه",
+      "en": "God"
+    },
+    {
+      "ar": "الباقی",
+      "en": "Eternal"
+    },
+    {
+      "ar": "فناء",
+      "en": "perisheth"
+    },
+    {
+      "ar": "الدّائم",
+      "en": "Everlasting"
+    },
+    {
+      "ar": "زوال",
+      "en": "declineth"
+    },
+    {
+      "ar": "القائم",
+      "en": "Self-Subsisting"
+    },
+    {
+      "ar": "انتقال",
+      "en": "altereth"
+    },
+    {
+      "ar": "المهيمن",
+      "en": "transcendent"
+    },
+    {
+      "ar": "بسلطانه",
+      "en": "in His sovereignty"
+    },
+    {
+      "ar": "الظّاهر",
+      "en": "manifest"
+    },
+    {
+      "ar": "بآياته",
+      "en": "through His signs"
+    },
+    {
+      "ar": "الباطن",
+      "en": "hidden"
+    },
+    {
+      "ar": "باسراره",
+      "en": "through His mysteries"
+    },
+    {
+      "ar": "الّذی",
+      "en": "He it is Who"
+    },
+    {
+      "ar": "بامره",
+      "en": "at Whose bidding"
+    },
+    {
+      "ar": "ارتفعت",
+      "en": "lifted up"
+    },
+    {
+      "ar": "راية",
+      "en": "standard"
+    },
+    {
+      "ar": "الکلمة",
+      "en": "Word"
+    },
+    {
+      "ar": "العليا",
+      "en": "Most Exalted"
+    },
+    {
+      "ar": "ناسوت",
+      "en": "world"
+    },
+    {
+      "ar": "الانشاء",
+      "en": "creation"
+    },
+    {
+      "ar": "نصب",
+      "en": "raised"
+    },
+    {
+      "ar": "علم",
+      "en": "banner"
+    },
+    {
+      "ar": "يفعل ما يشاء",
+      "en": "He doeth whatsoever He willeth"
+    },
+    {
+      "ar": "الوری",
+      "en": "all peoples"
+    },
+    {
+      "ar": "اظهر",
+      "en": "revealed"
+    },
+    {
+      "ar": "امره",
+      "en": "His Cause"
+    },
+    {
+      "ar": "لهداية",
+      "en": "for the guidance"
+    },
+    {
+      "ar": "خلقه",
+      "en": "His creatures"
+    },
+    {
+      "ar": "انزل",
+      "en": "sent down"
+    },
+    {
+      "ar": "آياته",
+      "en": "His verses"
+    },
+    {
+      "ar": "اظهارا",
+      "en": "to demonstrate"
+    },
+    {
+      "ar": "لحجّته",
+      "en": "His Proof"
+    },
+    {
+      "ar": "برهانه",
+      "en": "His Testimony"
+    },
+    {
+      "ar": "زيّن",
+      "en": "embellished"
+    },
+    {
+      "ar": "ديباج",
+      "en": "preface"
+    },
+    {
+      "ar": "کتاب",
+      "en": "Book"
+    },
+    {
+      "ar": "الانسان",
+      "en": "Man"
+    },
+    {
+      "ar": "بالبيان",
+      "en": "ornament of utterance"
+    },
+    {
+      "ar": "بقوله",
+      "en": "through His saying"
+    },
+    {
+      "ar": "خَلَقَ",
+      "en": "hath created"
+    },
+    {
+      "ar": "الإِنْسَانَ",
+      "en": "man"
+    },
+    {
+      "ar": "البَيَانَ",
+      "en": "articulate speech"
+    },
+    {
+      "ar": "لا اله الّا هو",
+      "en": "No God is there but Him"
+    },
+    {
+      "ar": "الفرد",
+      "en": "One"
+    },
+    {
+      "ar": "الواحد",
+      "en": "Peerless"
+    },
+    {
+      "ar": "المقتدر",
+      "en": "Powerful"
+    },
+    {
+      "ar": "العزيز",
+      "en": "Mighty"
+    },
+    {
+      "ar": "المنّان",
+      "en": "Beneficent"
+    }
+  ],
+  "terms": [
+    {
+      "term": "الباقی",
+      "transliteration": "b-q-y",
+      "literal": "remaining; everlasting; eternal; immortal",
+      "se_rendering": "the Eternal",
+      "note": "Standard rendering as 'Eternal' or 'everlasting.' Here 'the Eternal' opens the triad of divine attributes in uncommon juxtaposition with the Qur'anic epithet structure.",
+      "cross_refs": [
+        {
+          "work": "the-hidden-words",
+          "para": 88,
+          "snippet": "everlasting beauty"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 98,
+          "snippet": "everlasting candle"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 117,
+          "snippet": "immortal sovereignty"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 110,
+          "snippet": "everlasting torch of divine guidance"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 56,
+          "snippet": "refrain"
+        },
+        {
+          "work": "gleanings",
+          "para": 148,
+          "snippet": "everlasting"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 259,
+          "snippet": "O thou Remnant of God"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 798,
+          "snippet": "eternity"
+        }
+      ]
+    },
+    {
+      "term": "الدّائم",
+      "transliteration": "d-w-m",
+      "literal": "always; continually; perpetually; constantly",
+      "se_rendering": "the Everlasting",
+      "note": "Typically 'everlasting' or 'continually.' SE chooses 'the Everlasting' here, paralleling 'the Eternal' to form a rhetorical pair of subsistence attributes rather than action attributes.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 22,
+          "snippet": "continually"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 23,
+          "snippet": "everlasting"
+        }
+      ]
+    },
+    {
+      "term": "القائم",
+      "transliteration": "q-w-m",
+      "literal": "rising; standing; uprising; resurrection",
+      "se_rendering": "the Self-Subsisting",
+      "note": "Root q-w-m produces 'Day of Resurrection,' 'arise,' 'rise' in 109 occurrences. Here rendered 'the Self-Subsisting'—a rare metaphysical rather than eschatological reading, emphasizing divine immutability.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 152,
+          "snippet": "Day of Resurrection"
+        },
+        {
+          "work": "gleanings",
+          "para": 437,
+          "snippet": "arise"
+        },
+        {
+          "work": "gleanings",
+          "para": 513,
+          "snippet": "dedicateth"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 153,
+          "snippet": "Resurrection"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "peoples"
+        },
+        {
+          "work": "gleanings",
+          "para": 693,
+          "snippet": "commandments"
+        },
+        {
+          "work": "gleanings",
+          "para": 628,
+          "snippet": "My commandments"
+        },
+        {
+          "work": "gleanings",
+          "para": 518,
+          "snippet": "steadfast"
+        }
+      ]
+    },
+    {
+      "term": "انتقال",
+      "transliteration": "n-q-l",
+      "literal": "removal; transition; displacement; migration; transfer; change",
+      "se_rendering": "altereth not",
+      "note": "Appears only twice in corpus. SE renders 'altereth not' here versus 'vengeance' elsewhere—the passive negation conveys philosophical immutability rather than active divine judgment.",
+      "cross_refs": [
+        {
+          "work": "fire-tablet",
+          "para": 10,
+          "snippet": "vengeance"
+        }
+      ]
+    },
+    {
+      "term": "ناسوت",
+      "transliteration": "n-s-w",
+      "literal": "human nature; humanity; the physical or material realm; corporeality",
+      "se_rendering": "the world of creation",
+      "note": "Only two occurrences; rendered 'the world below' elsewhere. Here 'world of creation' emphasizes cosmological scope over ontological hierarchy, framing creation as unified realm rather than degraded level.",
+      "cross_refs": [
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 22,
+          "snippet": "the world below"
+        },
+        {
+          "work": "gleanings",
+          "para": 166,
+          "snippet": "unstrung"
+        }
+      ]
+    },
+    {
+      "term": "ديباج",
+      "transliteration": "d-y-b-j",
+      "literal": "brocade; silk; preamble; adornment",
+      "se_rendering": "the preface",
+      "note": "Rare term (two occurrences) meaning brocade or preamble. SE chooses 'preface' over 'ornaments,' shifting from aesthetic decoration to textual framing—the opening of human capacity through divine utterance.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 571,
+          "snippet": "ornaments"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 358,
+          "snippet": "preamble"
+        }
+      ]
+    },
+    {
+      "term": "المنّان",
+      "transliteration": "m-n-n",
+      "literal": "to grant, bestow favor; grace, bounty, kindness",
+      "se_rendering": "the Beneficent",
+      "note": "Usually 'grace' or 'bounty' across 17 occurrences. Here 'the Beneficent' transforms a verbal root (to grant) into a divine name, echoing Qur'anic epithet structure and final position in the doxology.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 27,
+          "snippet": "hath graciously favoured"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 793,
+          "snippet": "expectant"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 29,
+          "snippet": "beyond which there is no passing"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 576,
+          "snippet": "the Beneficent"
+        },
+        {
+          "work": "gleanings",
+          "para": 165,
+          "snippet": "Mine"
+        },
+        {
+          "work": "gleanings",
+          "para": 621,
+          "snippet": "trustworthiness"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 555,
+          "snippet": "confidence"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 657,
+          "snippet": "the Bestower"
+        }
+      ]
+    }
+  ],
+  "section_index": "2",
+  "section": "2",
+  "section_para": 1
 }

@@ -1,10 +1,451 @@
 {
   "work": "The Hidden Words",
   "slug": "the-hidden-words",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 103,
   "source_text": "(٢٨) ﴿ ای جوهر هوی ﴾\nبسا سحرگاهان که از مشرق لا مکان بمکان تو آمدم و ترا در بستر راحت بغير خود مشغول يافتم و چون برق روحانی بغمام عزّ سلطانی رجوع نمودم و در مکامن قرب خود نزد جنود قدس اظهار نداشتم *",
   "translation": ". (28) O ESSENCE OF DESIRE!\nAt many a dawn have I turned from the realms of the Placeless unto thine abode, and found thee on the bed of ease busied with others than Myself. Thereupon, even as the flash of the spirit, I returned to the realms of celestial glory and breathed it not in My retreats above unto the hosts of holiness.",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "essence-desire-bed-ease",
+  "alignment": [
+    {
+      "ar": "جوهر",
+      "en": "ESSENCE"
+    },
+    {
+      "ar": "هوی",
+      "en": "DESIRE"
+    },
+    {
+      "ar": "بسا",
+      "en": "many"
+    },
+    {
+      "ar": "سحرگاهان",
+      "en": "dawn"
+    },
+    {
+      "ar": "مشرق",
+      "en": "realms"
+    },
+    {
+      "ar": "لا مکان",
+      "en": "Placeless"
+    },
+    {
+      "ar": "مکان",
+      "en": "abode"
+    },
+    {
+      "ar": "آمدم",
+      "en": "turned"
+    },
+    {
+      "ar": "بستر",
+      "en": "bed"
+    },
+    {
+      "ar": "راحت",
+      "en": "ease"
+    },
+    {
+      "ar": "بغير",
+      "en": "others than"
+    },
+    {
+      "ar": "خود",
+      "en": "Myself"
+    },
+    {
+      "ar": "مشغول",
+      "en": "busied"
+    },
+    {
+      "ar": "يافتم",
+      "en": "found"
+    },
+    {
+      "ar": "برق",
+      "en": "flash"
+    },
+    {
+      "ar": "روحانی",
+      "en": "spirit"
+    },
+    {
+      "ar": "عزّ",
+      "en": "celestial"
+    },
+    {
+      "ar": "سلطانی",
+      "en": "glory"
+    },
+    {
+      "ar": "رجوع نمودم",
+      "en": "returned"
+    },
+    {
+      "ar": "مکامن",
+      "en": "retreats"
+    },
+    {
+      "ar": "قرب",
+      "en": "above"
+    },
+    {
+      "ar": "جنود",
+      "en": "hosts"
+    },
+    {
+      "ar": "قدس",
+      "en": "holiness"
+    },
+    {
+      "ar": "اظهار نداشتم",
+      "en": "breathed it not"
+    }
+  ],
+  "terms": [
+    {
+      "term": "جوهر",
+      "transliteration": "j-w-h-r",
+      "literal": "jewel; essence; gem; substance",
+      "se_rendering": "ESSENCE",
+      "note": "Root typically renders as 'gem', 'essence', 'jewel' across corpus. Here 'ESSENCE' chosen for vocative intensity, matching philosophical gravity of address.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 313,
+          "snippet": "gem"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 2,
+          "snippet": "essence"
+        },
+        {
+          "work": "gleanings",
+          "para": 599,
+          "snippet": "gems"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 22,
+          "snippet": "jewel"
+        }
+      ]
+    },
+    {
+      "term": "سحرگاهان",
+      "transliteration": "s-h-r",
+      "literal": "dawn, daybreak; morning hour",
+      "se_rendering": "dawn",
+      "note": "Only two corpus occurrences; both render 'dawn'. Consistent choice emphasizing liminal temporal threshold where divine encounter occurs.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 627,
+          "snippet": "in the hours of dawn"
+        }
+      ]
+    },
+    {
+      "term": "مشرق",
+      "transliteration": "sh-r-q",
+      "literal": "radiance; splendor; dawn; illumination",
+      "se_rendering": "realms",
+      "note": "Usually 'Ishraq', 'radiance', 'revelation', 'Daystar' (63 occurrences). 'Realms' here uniquely abstracts the spatial dimension, softening luminous connotation.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 47,
+          "snippet": "Ishraq"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 28,
+          "snippet": "radiance"
+        },
+        {
+          "work": "gleanings",
+          "para": 382,
+          "snippet": "revelation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 83,
+          "snippet": "Daystar"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 41,
+          "snippet": "dawning"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 116,
+          "snippet": "shone"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 2,
+          "snippet": "shining"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 14,
+          "snippet": "Dawning Place"
+        }
+      ]
+    },
+    {
+      "term": "راحت",
+      "transliteration": "r-w-h",
+      "literal": "rest; ease; comfort; tranquility",
+      "se_rendering": "ease",
+      "note": "Consistently 'ease', 'peace', 'rest', 'comfort' across 24 occurrences. 'Ease' maintained here, preserving ironic contrast between divine visitation and human languor.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 417,
+          "snippet": "peace"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 26,
+          "snippet": "ease"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 380,
+          "snippet": "rest"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 426,
+          "snippet": "comfort"
+        },
+        {
+          "work": "gleanings",
+          "para": 10,
+          "snippet": "at rest"
+        },
+        {
+          "work": "gleanings",
+          "para": 712,
+          "snippet": "the wind"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 161,
+          "snippet": "different winds"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 22,
+          "snippet": "fellowship"
+        }
+      ]
+    },
+    {
+      "term": "روحانی",
+      "transliteration": "r-w-h",
+      "literal": "to go; to depart; to rest; spirit; soul",
+      "se_rendering": "spirit",
+      "note": "Highly variable (34 occurrences): 'spirit', 'spiritual', 'My Well-Beloved'. 'Spirit' here adopts abstract noun form; comparison to flash requires incorporeal substance.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 164,
+          "snippet": "My Well-Beloved"
+        },
+        {
+          "work": "gleanings",
+          "para": 246,
+          "snippet": "My"
+        },
+        {
+          "work": "gleanings",
+          "para": 367,
+          "snippet": "spirit"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 702,
+          "snippet": "my spirit"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 201,
+          "snippet": "the Spirit"
+        },
+        {
+          "work": "gleanings",
+          "para": 548,
+          "snippet": "spiritual"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 215,
+          "snippet": "spiritually-minded"
+        },
+        {
+          "work": "gleanings",
+          "para": 337,
+          "snippet": "human souls"
+        }
+      ]
+    },
+    {
+      "term": "سلطانی",
+      "transliteration": "s-l-ṭ",
+      "literal": "dominion; authority; power; sovereignty; control",
+      "se_rendering": "glory",
+      "note": "Standard rendering 'sovereignty', 'dominion', 'power' (43 occurrences). 'Glory' here uniquely substitutes, aligning sovereignty with aesthetic radiance rather than authority.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 369,
+          "snippet": "sovereignty"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 1,
+          "snippet": "Thy sovereignty"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 184,
+          "snippet": "by Thy sovereignty"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 416,
+          "snippet": "Lord"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 13,
+          "snippet": "O King"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 242,
+          "snippet": "king"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 157,
+          "snippet": "the Sháh"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 1,
+          "snippet": "the King"
+        }
+      ]
+    },
+    {
+      "term": "قرب",
+      "transliteration": "q-r-b",
+      "literal": "place of sacrifice; altar",
+      "se_rendering": "retreats",
+      "note": "Typically 'unto the place of sacrifice', 'draw near', 'drawn nigh' (44 occurrences). 'Retreats' here inverts proximity semantics—place of nearness becomes sanctuary of withdrawal.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 3,
+          "snippet": "unto the place of sacrifice"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 35,
+          "snippet": "my kindred"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 101,
+          "snippet": "draw near unto"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 430,
+          "snippet": "drawn nigh"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 98,
+          "snippet": "drawing near"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 245,
+          "snippet": "draweth near"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 163,
+          "snippet": "at hand"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 9,
+          "snippet": "well-nigh"
+        }
+      ]
+    },
+    {
+      "term": "اظهار",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "breathed it not",
+      "note": "Root typically 'manifestation', 'appearance', 'to manifest', 'revealed' (96 occurrences). 'Breathed it not' here is oblique negation, obscuring manifestation through intimate bodily metaphor.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 53,
+          "snippet": "Manifestation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 160,
+          "snippet": "Author of all Manifestations"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 136,
+          "snippet": "evident"
+        },
+        {
+          "work": "gleanings",
+          "para": 222,
+          "snippet": "material"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 206,
+          "snippet": "appeared"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 196,
+          "snippet": "Manifestations of God"
+        }
+      ]
+    }
+  ],
+  "section_index": "203",
+  "section": "203",
+  "section_para": 1
 }

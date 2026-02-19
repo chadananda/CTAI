@@ -1,10 +1,601 @@
 {
   "work": "The Hidden Words",
   "slug": "the-hidden-words",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 104,
   "source_text": "(٢٩) ﴿ ای پسر جود ﴾\nدر باديه های عدم بودی و ترا بمدد تراب امر در عالم ملک ظاهر نمودم و جميع ذرّات ممکنات و حقائق کائنات را بر تربيت تو گماشتم چنانچه قبل از خروج از بطن امّ دو چشمه شير منير برای تو مقرّر داشتم و چشمها برای حفظ تو گماشتم و حبّ ترا در قلوب القا نمودم و بصرف جود ترا در ظلّ رحمتم پروردم و از جوهر فضل و رحمت ترا حفظ فرمودم * و مقصود از جميع اين مراتب آن بود که بجبروت باقی ما درآئی و قابل بخششهای غيبی ما شوی * و تو غافل چون بثمر آمدی از تمامی نعيمم غفلت نمودی و بگمان باطل خود پرداختی بقسمی که بالمرّه فراموش نمودی و از باب دوست بايوان دشمن مقرّ يافتی و مسکن نمودی*",
   "translation": "(29) O SON OF BOUNTY!\nOut of the wastes of nothingness, with the clay of My command I made thee to appear, and have ordained for thy training every atom in existence and the essence of all created things. Thus, ere thou didst issue from thy mother’s womb, I destined for thee two founts of gleaming milk, eyes to watch over thee, and hearts to love thee. Out of My loving-kindness, ’neath the shade of My mercy I nurtured thee, and guarded thee by the essence of My grace and favor. And My purpose in all this was that thou mightest attain My everlasting dominion and become worthy of My invisible bestowals. And yet heedless thou didst remain, and when fully grown, thou didst neglect all My bounties and occupied thyself with thine idle imaginings, in such wise that thou didst become wholly forgetful, and, turning away from the portals of the Friend didst abide within the courts of My enemy.",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "heedless-neglect-bounties",
+  "alignment": [
+    {
+      "ar": "پسر",
+      "en": "SON"
+    },
+    {
+      "ar": "جود",
+      "en": "BOUNTY"
+    },
+    {
+      "ar": "باديه",
+      "en": "wastes"
+    },
+    {
+      "ar": "عدم",
+      "en": "nothingness"
+    },
+    {
+      "ar": "بودی",
+      "en": "Out of"
+    },
+    {
+      "ar": "تراب",
+      "en": "clay"
+    },
+    {
+      "ar": "امر",
+      "en": "command"
+    },
+    {
+      "ar": "عالم",
+      "en": "existence"
+    },
+    {
+      "ar": "ظاهر",
+      "en": "appear"
+    },
+    {
+      "ar": "نمودم",
+      "en": "made"
+    },
+    {
+      "ar": "جميع",
+      "en": "every"
+    },
+    {
+      "ar": "ذرّات",
+      "en": "atom"
+    },
+    {
+      "ar": "حقائق",
+      "en": "essence"
+    },
+    {
+      "ar": "کائنات",
+      "en": "all created things"
+    },
+    {
+      "ar": "تربيت",
+      "en": "training"
+    },
+    {
+      "ar": "گماشتم",
+      "en": "ordained"
+    },
+    {
+      "ar": "قبل",
+      "en": "ere"
+    },
+    {
+      "ar": "خروج",
+      "en": "issue"
+    },
+    {
+      "ar": "بطن",
+      "en": "womb"
+    },
+    {
+      "ar": "دو",
+      "en": "two"
+    },
+    {
+      "ar": "چشمه",
+      "en": "founts"
+    },
+    {
+      "ar": "شير",
+      "en": "milk"
+    },
+    {
+      "ar": "منير",
+      "en": "gleaming"
+    },
+    {
+      "ar": "مقرّر",
+      "en": "destined"
+    },
+    {
+      "ar": "چشمها",
+      "en": "eyes"
+    },
+    {
+      "ar": "حفظ",
+      "en": "watch over"
+    },
+    {
+      "ar": "حبّ",
+      "en": "love"
+    },
+    {
+      "ar": "قلوب",
+      "en": "hearts"
+    },
+    {
+      "ar": "جود",
+      "en": "loving-kindness"
+    },
+    {
+      "ar": "ظلّ",
+      "en": "shade"
+    },
+    {
+      "ar": "رحمتم",
+      "en": "mercy"
+    },
+    {
+      "ar": "پروردم",
+      "en": "nurtured"
+    },
+    {
+      "ar": "فضل",
+      "en": "grace"
+    },
+    {
+      "ar": "رحمت",
+      "en": "favor"
+    },
+    {
+      "ar": "حفظ",
+      "en": "guarded"
+    },
+    {
+      "ar": "مقصود",
+      "en": "purpose"
+    },
+    {
+      "ar": "مراتب",
+      "en": "all this"
+    },
+    {
+      "ar": "جبروت",
+      "en": "dominion"
+    },
+    {
+      "ar": "باقی",
+      "en": "everlasting"
+    },
+    {
+      "ar": "درآئی",
+      "en": "attain"
+    },
+    {
+      "ar": "قابل",
+      "en": "worthy"
+    },
+    {
+      "ar": "بخششهای",
+      "en": "bestowals"
+    },
+    {
+      "ar": "غيبی",
+      "en": "invisible"
+    },
+    {
+      "ar": "شوی",
+      "en": "become"
+    },
+    {
+      "ar": "غافل",
+      "en": "heedless"
+    },
+    {
+      "ar": "بثمر",
+      "en": "fully grown"
+    },
+    {
+      "ar": "تمامی",
+      "en": "all"
+    },
+    {
+      "ar": "نعيمم",
+      "en": "bounties"
+    },
+    {
+      "ar": "غفلت",
+      "en": "neglect"
+    },
+    {
+      "ar": "گمان",
+      "en": "imaginings"
+    },
+    {
+      "ar": "باطل",
+      "en": "idle"
+    },
+    {
+      "ar": "پرداختی",
+      "en": "occupied"
+    },
+    {
+      "ar": "بقسمی",
+      "en": "in such wise"
+    },
+    {
+      "ar": "بالمرّه",
+      "en": "wholly"
+    },
+    {
+      "ar": "فراموش",
+      "en": "forgetful"
+    },
+    {
+      "ar": "باب",
+      "en": "portals"
+    },
+    {
+      "ar": "دوست",
+      "en": "Friend"
+    },
+    {
+      "ar": "بايوان",
+      "en": "courts"
+    },
+    {
+      "ar": "دشمن",
+      "en": "enemy"
+    },
+    {
+      "ar": "مقرّر",
+      "en": "abide"
+    }
+  ],
+  "terms": [
+    {
+      "term": "امر",
+      "transliteration": "ʾ-m-r",
+      "literal": "command; cause; matter; affair",
+      "se_rendering": "My command",
+      "note": "Typically 'His Cause' or 'His Revelation' (75 occurrences). Here rendered as 'My command' — a direct divine imperative distinct from the more theologically loaded Cause terminology.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "His Cause"
+        },
+        {
+          "work": "gleanings",
+          "para": 586,
+          "snippet": "His command"
+        },
+        {
+          "work": "gleanings",
+          "para": 691,
+          "snippet": "His Revelation"
+        },
+        {
+          "work": "gleanings",
+          "para": 723,
+          "snippet": "Cause"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 797,
+          "snippet": "Thy Cause"
+        },
+        {
+          "work": "gleanings",
+          "para": 8,
+          "snippet": "Revelation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 597,
+          "snippet": "service"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 167,
+          "snippet": "things"
+        }
+      ]
+    },
+    {
+      "term": "ملک",
+      "transliteration": "m-l-k",
+      "literal": "kingdom; dominion; realm; sovereignty",
+      "se_rendering": "My kingdom",
+      "note": "Standard rendering 'kingdom' or 'realm' across 70 occurrences. 'My kingdom' here emphasizes possession, structuring creation as divine property rather than abstract sovereignty.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-ahd",
+          "para": 16,
+          "snippet": "heaven"
+        },
+        {
+          "work": "gleanings",
+          "para": 394,
+          "snippet": "realm"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 171,
+          "snippet": "kingdom"
+        },
+        {
+          "work": "gleanings",
+          "para": 313,
+          "snippet": "heavenly gem"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 69,
+          "snippet": "realms"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 28,
+          "snippet": "righteous"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 167,
+          "snippet": "by the heavenly power"
+        },
+        {
+          "work": "gleanings",
+          "para": 59,
+          "snippet": "Lord"
+        }
+      ]
+    },
+    {
+      "term": "ظاهر",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "to appear",
+      "note": "Predominantly 'Manifestation' (96 occurrences). Here 'to appear' as verb form — functional rather than ontological, describing the act of emergence rather than the station of the Manifestation.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 53,
+          "snippet": "Manifestation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 160,
+          "snippet": "Author of all Manifestations"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 136,
+          "snippet": "evident"
+        },
+        {
+          "work": "gleanings",
+          "para": 222,
+          "snippet": "material"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 206,
+          "snippet": "appeared"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 196,
+          "snippet": "Manifestations of God"
+        }
+      ]
+    },
+    {
+      "term": "رحمت",
+      "transliteration": "r-ḥ-m",
+      "literal": "merciful, compassionate; pertaining to divine mercy",
+      "se_rendering": "My mercy",
+      "note": "Typically 'merciful' or 'spirit of mercy' (70 occurrences). 'My mercy' here personalizes the attribute, making it an active shelter rather than an abstract quality.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 673,
+          "snippet": "Divine glory"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 57,
+          "snippet": "Divine"
+        },
+        {
+          "work": "gleanings",
+          "para": 372,
+          "snippet": "merciful"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 220,
+          "snippet": "have mercy on them"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 546,
+          "snippet": "mercy"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 50,
+          "snippet": "the Compassionate"
+        },
+        {
+          "work": "gleanings",
+          "para": 183,
+          "snippet": "the Merciful, the Compassionate"
+        },
+        {
+          "work": "gleanings",
+          "para": 338,
+          "snippet": "the All-Forgiving, the Compassionate"
+        }
+      ]
+    },
+    {
+      "term": "باقی",
+      "transliteration": "b-q-y",
+      "literal": "remaining; everlasting; eternal; immortal",
+      "se_rendering": "My everlasting dominion",
+      "note": "Regularly 'everlasting' or 'eternal' (32 occurrences). 'My everlasting dominion' compounds the term, linking permanence to divine kingdom rather than standing alone.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 2,
+          "snippet": "the Eternal"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 56,
+          "snippet": "refrain"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 246,
+          "snippet": "everlasting"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 259,
+          "snippet": "O thou Remnant of God"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 798,
+          "snippet": "eternity"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 10,
+          "snippet": "eternal"
+        },
+        {
+          "work": "gleanings",
+          "para": 614,
+          "snippet": "vapor"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 158,
+          "snippet": "last trace"
+        }
+      ]
+    },
+    {
+      "term": "قابل",
+      "transliteration": "q-b-l",
+      "literal": "group; company; tribe; sort; kind",
+      "se_rendering": "worthy",
+      "note": "Usually 'company' or 'seal of acceptance' (58 occurrences). 'Worthy' here means fit recipient — semantic shift toward moral readiness rather than ontological grouping.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 698,
+          "snippet": "company"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 552,
+          "snippet": "seal of acceptance"
+        },
+        {
+          "work": "gleanings",
+          "para": 603,
+          "snippet": "if it be accepted and take effect"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 146,
+          "snippet": "breeze that bloweth from the meads of the good-pleasure of God"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 25,
+          "snippet": "not a drop is acceptable"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 71,
+          "snippet": "hearkened unto and accepted"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 74,
+          "snippet": "tribes"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 24,
+          "snippet": "kindreds and religions"
+        }
+      ]
+    },
+    {
+      "term": "غافل",
+      "transliteration": "gh-f-l",
+      "literal": "heedlessness; negligence; inattention",
+      "se_rendering": "heedless",
+      "note": "Consistently 'heedless' (39 occurrences). Here maintains core meaning but begins a sustained critique of spiritual neglect — the term anchors the passage's moral turning point.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 158,
+          "snippet": "O heedless one"
+        },
+        {
+          "work": "gleanings",
+          "para": 132,
+          "snippet": "heedless"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 134,
+          "snippet": "thou who hast gone astray"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 156,
+          "snippet": "thou who art gone astray"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 6,
+          "snippet": "my heedlessness"
+        },
+        {
+          "work": "gleanings",
+          "para": 214,
+          "snippet": "who have been heedless"
+        },
+        {
+          "work": "gleanings",
+          "para": 413,
+          "snippet": "the heedless"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 273,
+          "snippet": "wayward"
+        }
+      ]
+    }
+  ],
+  "section_index": "205",
+  "section": "205",
+  "section_para": 1
 }

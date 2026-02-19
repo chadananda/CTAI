@@ -1,10 +1,441 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 367,
   "source_text": "روح و ریحان بمشورت تمسّک نمائید و باصلاح عالم و انتشار امر مالک قدم عمر گرانمایه را مصروف دارید انّه یأمر الکلّ بالمعروف و ینهی عن کلّ ما یضیع به مقام الانسان...",
   "translation": "With the utmost friendliness and in a spirit of perfect fellowship take ye counsel together, and dedicate the precious days of your lives to the betterment of the world and the promotion of the Cause of Him Who is the Ancient and Sovereign Lord of all. He, verily, enjoineth upon all men what is right, and forbiddeth whatsoever degradeth their station.",
   "source_lang": "ar",
-  "score": 9.9
+  "score": 9.9,
+  "page_slug": "betterment-world-promotion-cause",
+  "alignment": [
+    {
+      "ar": "روح",
+      "en": "spirit"
+    },
+    {
+      "ar": "ریحان",
+      "en": "friendliness"
+    },
+    {
+      "ar": "بمشورت",
+      "en": "counsel"
+    },
+    {
+      "ar": "تمسّک",
+      "en": "take"
+    },
+    {
+      "ar": "باصلاح",
+      "en": "betterment"
+    },
+    {
+      "ar": "عالم",
+      "en": "world"
+    },
+    {
+      "ar": "انتشار",
+      "en": "promotion"
+    },
+    {
+      "ar": "امر",
+      "en": "Cause"
+    },
+    {
+      "ar": "مالک",
+      "en": "Lord"
+    },
+    {
+      "ar": "قدم",
+      "en": "Ancient"
+    },
+    {
+      "ar": "عمر",
+      "en": "days"
+    },
+    {
+      "ar": "گرانمایه",
+      "en": "precious"
+    },
+    {
+      "ar": "مصروف",
+      "en": "dedicate"
+    },
+    {
+      "ar": "یأمر",
+      "en": "enjoineth"
+    },
+    {
+      "ar": "الکلّ",
+      "en": "all"
+    },
+    {
+      "ar": "بالمعروف",
+      "en": "what is right"
+    },
+    {
+      "ar": "ینهی",
+      "en": "forbiddeth"
+    },
+    {
+      "ar": "یضیع",
+      "en": "degradeth"
+    },
+    {
+      "ar": "مقام",
+      "en": "station"
+    },
+    {
+      "ar": "الانسان",
+      "en": "men"
+    }
+  ],
+  "terms": [
+    {
+      "term": "روح",
+      "transliteration": "r-w-h",
+      "literal": "to go; to depart; to rest; spirit; soul",
+      "se_rendering": "spirit",
+      "note": "Typically 'spirit' or 'spiritual' (34 occurrences); here rendered as 'spirit' within 'spirit of perfect fellowship,' maintaining core semantic value.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 702,
+          "snippet": "my spirit"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 201,
+          "snippet": "the Spirit"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 121,
+          "snippet": "spiritual"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 215,
+          "snippet": "spiritually-minded"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 20,
+          "snippet": "a breath of My own Spirit"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 100,
+          "snippet": "spirit"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 22,
+          "snippet": "in a spirit"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 17,
+          "snippet": "with My spirit"
+        }
+      ]
+    },
+    {
+      "term": "ریحان",
+      "transliteration": "r-w-h",
+      "literal": "rest; ease; comfort; tranquility",
+      "se_rendering": "friendliness",
+      "note": "Root means 'rest, ease, comfort, tranquility' — SE renders as 'friendliness' here, a unique interpersonal reading not among the 24 documented occurrences ('ease', 'peace', 'rest', 'comfort').",
+      "cross_refs": [
+        {
+          "work": "the-hidden-words",
+          "para": 115,
+          "snippet": "ease"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 78,
+          "snippet": "rest"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 9,
+          "snippet": "peace"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 426,
+          "snippet": "comfort"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 98,
+          "snippet": "Mortal blasts"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 161,
+          "snippet": "different winds"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 22,
+          "snippet": "fellowship"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 211,
+          "snippet": "fragrance"
+        }
+      ]
+    },
+    {
+      "term": "تمسّک",
+      "transliteration": "m-s-k",
+      "literal": "musk; to seize; grip",
+      "se_rendering": "take ye counsel",
+      "note": "Root means 'to seize, grip, musk' — SE renders as 'take ye counsel,' translating the imperative sense of holding/grasping advice, departing from typical 'holding fast unto' (23 occ).",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 188,
+          "snippet": "musk"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 5,
+          "snippet": "holding fast unto"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 64,
+          "snippet": "holding fast"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 9,
+          "snippet": "clung"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 161,
+          "snippet": "cleave unto"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 37,
+          "snippet": "cling unto"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 25,
+          "snippet": "clung to"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 518,
+          "snippet": "cleaving fast"
+        }
+      ]
+    },
+    {
+      "term": "باصلاح",
+      "transliteration": "s-l-h",
+      "literal": "peace; reconciliation",
+      "se_rendering": "betterment",
+      "note": "Typically 'peace' or 'well-being' (24 occ); rendered 'betterment' here, emphasizing social amelioration over internal reconciliation.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "peace"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 16,
+          "snippet": "well-being"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 155,
+          "snippet": "after its restoration"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 56,
+          "snippet": "the Most Great Peace"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 64,
+          "snippet": "betterment"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 105,
+          "snippet": "profiteth mankind"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 109,
+          "snippet": "World Reformer"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 10,
+          "snippet": "holy person"
+        }
+      ]
+    },
+    {
+      "term": "قدم",
+      "transliteration": "q-d-m",
+      "literal": "ancientness; antiquity; foot; to come forward",
+      "se_rendering": "Ancient",
+      "note": "Root means 'ancientness, antiquity, foot' — rendered 'Ancient' within 'Ancient and Sovereign Lord,' aligning with 'Ancient Beauty' pattern (29 occ) but applied to divine attributes.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 146,
+          "snippet": "certitude"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 127,
+          "snippet": "eternity"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 116,
+          "snippet": "by Thine Ancient Beauty"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 2,
+          "snippet": "the ancient sea"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 263,
+          "snippet": "rose"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 670,
+          "snippet": "feet"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 749,
+          "snippet": "their feet"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 1,
+          "snippet": "the Most Ancient"
+        }
+      ]
+    },
+    {
+      "term": "بالمعروف",
+      "transliteration": "ʿ-r-f",
+      "literal": "to confess; to acknowledge; to recognize",
+      "se_rendering": "what is right",
+      "note": "Root means 'to confess, acknowledge, recognize' — rendered 'what is right,' a normative ethical reading distinct from typical 'testifieth' or 'acknowledged' (82 occ).",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 601,
+          "snippet": "testifieth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 729,
+          "snippet": "hath acknowledged"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 582,
+          "snippet": "have recognized"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 228,
+          "snippet": "acknowledged"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 744,
+          "snippet": "understanding"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 5,
+          "snippet": "acknowledging"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 4,
+          "snippet": "fragrance of His garment"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 114,
+          "snippet": "Thy knowledge"
+        }
+      ]
+    },
+    {
+      "term": "مقام",
+      "transliteration": "q-w-m",
+      "literal": "rising; standing; uprising; resurrection",
+      "se_rendering": "station",
+      "note": "Root means 'rising, standing, uprising, resurrection' — rendered 'station' here, designating human dignity/rank rather than eschatological 'Day of Resurrection' (109 occ).",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 152,
+          "snippet": "Day of Resurrection"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 153,
+          "snippet": "Resurrection"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 74,
+          "snippet": "rise"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "peoples"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 26,
+          "snippet": "steadfast"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 38,
+          "snippet": "steadfast in faith"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 628,
+          "snippet": "stood fast"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 198,
+          "snippet": "station"
+        }
+      ]
+    }
+  ],
+  "section_index": "XCII.3",
+  "section": "XCII",
+  "section_para": 3
 }

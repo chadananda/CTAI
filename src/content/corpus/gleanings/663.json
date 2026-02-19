@@ -1,10 +1,387 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 663,
   "source_text": "ر في الدّنیا وفَنائها لا تختار لنفسک إلّا نصرة أمر ربّک ولا یمنعک عن ذکره من علی الأرض أجمعین أن استقم ع",
   "translation": "Wert thou to consider this world, and realize how fleeting are the things that pertain unto it, thou wouldst choose to tread no path except the path of service to the Cause of thy Lord. None would have the power to deter thee from celebrating His praise, though all men should arise to oppose thee.",
   "source_lang": "ar",
-  "score": 8.7
+  "score": 8.7,
+  "page_slug": "path-service-cause-lord",
+  "alignment": [
+    {
+      "ar": "الدّنیا",
+      "en": "this world"
+    },
+    {
+      "ar": "وفَنائها",
+      "en": "how fleeting"
+    },
+    {
+      "ar": "لا",
+      "en": "None"
+    },
+    {
+      "ar": "تختار",
+      "en": "wouldst choose"
+    },
+    {
+      "ar": "لنفسک",
+      "en": "thou"
+    },
+    {
+      "ar": "إلّا",
+      "en": "except"
+    },
+    {
+      "ar": "نصرة",
+      "en": "service"
+    },
+    {
+      "ar": "أمر",
+      "en": "Cause"
+    },
+    {
+      "ar": "ربّک",
+      "en": "thy Lord"
+    },
+    {
+      "ar": "یمنعک",
+      "en": "deter thee"
+    },
+    {
+      "ar": "ذکره",
+      "en": "His praise"
+    },
+    {
+      "ar": "الأرض",
+      "en": "men"
+    },
+    {
+      "ar": "أجمعین",
+      "en": "all"
+    },
+    {
+      "ar": "استقم",
+      "en": "arise"
+    }
+  ],
+  "terms": [
+    {
+      "term": "الدّنیا",
+      "transliteration": "d-n-y",
+      "literal": "this world; earthly life; temporal realm",
+      "se_rendering": "this world",
+      "note": "Typically 'world' or 'this world' (15 occurrences). Here rendered with contextual expansion as 'this world' within a full clause about fleeting things.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 249,
+          "snippet": "this world"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 38,
+          "snippet": "know"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 244,
+          "snippet": "knowest"
+        }
+      ]
+    },
+    {
+      "term": "وفَنائها",
+      "transliteration": "f-n-y",
+      "literal": "annihilation; perishing; extinction; cessation; the threshold",
+      "se_rendering": "fleeting",
+      "note": "Root f-n-y usually 'perisheth', 'annihilation', or 'expire' (12 occ). Here rendered as 'fleeting'—a departure into temporal rather than ontological language, softening the existential tone.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 2,
+          "snippet": "perisheth not"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 719,
+          "snippet": "annihilation"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 29,
+          "snippet": "mortal graves"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 24,
+          "snippet": "perisheth"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 70,
+          "snippet": "dieth to himself"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 194,
+          "snippet": "complete annihilation"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 84,
+          "snippet": "mortal"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 151,
+          "snippet": "fleeting"
+        }
+      ]
+    },
+    {
+      "term": "نصرة",
+      "transliteration": "n-s-r",
+      "literal": "aid, help, succor, victory, support",
+      "se_rendering": "service",
+      "note": "Root n-s-r typically 'aid', 'assist', or 'triumph' (39 occ). Rendered as 'service' here, emphasizing active devotion over supernatural support—a humanizing interpretive choice.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 212,
+          "snippet": "assist Thee"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 180,
+          "snippet": "extended Our aid"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 490,
+          "snippet": "potency of Thy might"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 6,
+          "snippet": "aid"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 35,
+          "snippet": "We shall render Thee victorious"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 47,
+          "snippet": "helper"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 17,
+          "snippet": "Nazarene"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 47,
+          "snippet": "champions"
+        }
+      ]
+    },
+    {
+      "term": "أمر",
+      "transliteration": "ʾ-m-r",
+      "literal": "command; cause; matter; affair",
+      "se_rendering": "Cause",
+      "note": "Root ʾ-m-r most frequent as 'Cause' or 'command' (75 occ). 'Cause of thy Lord' here privileges ideological/spiritual mission over divine imperative.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "His Cause"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 797,
+          "snippet": "Thy Cause"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 597,
+          "snippet": "service"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 167,
+          "snippet": "things"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "commanded"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 236,
+          "snippet": "commissioned"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 785,
+          "snippet": "Thy Revelation"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 38,
+          "snippet": "for the protection of the Cause"
+        }
+      ]
+    },
+    {
+      "term": "ربّک",
+      "transliteration": "r-b-b",
+      "literal": "divine; of God; lordly",
+      "se_rendering": "thy Lord",
+      "note": "Root r-b-b typically 'Lord', 'Holy', or 'divine' (31 occ). 'Thy Lord' here maintains the relational possessive pronoun, grounding divinity in personal covenant.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 2,
+          "snippet": "Holy"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 45,
+          "snippet": "Lord"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 69,
+          "snippet": "lordship"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 201,
+          "snippet": "My Lord's"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 162,
+          "snippet": "Divine might"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 16,
+          "snippet": "divine knowledge"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 205,
+          "snippet": "divine wisdom"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 102,
+          "snippet": "thy Lord, the Lord of all mankind"
+        }
+      ]
+    },
+    {
+      "term": "ذکره",
+      "transliteration": "dh-k-r",
+      "literal": "remembrance; mention; memory",
+      "se_rendering": "celebrating His praise",
+      "note": "Root dh-k-r usually 'remembrance' or 'mention' (57 occ). Rendered as 'celebrating His praise'—an expansion that adds emotive warmth and liturgical resonance absent from the root's semantic field.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 54,
+          "snippet": "mention"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 117,
+          "snippet": "Time and again have I declared"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 39,
+          "snippet": "deliberate"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 274,
+          "snippet": "aforementioned"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 112,
+          "snippet": "recorded"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 34,
+          "snippet": "confined in that"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 4,
+          "snippet": "mentioned"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 6,
+          "snippet": "to remember Thee"
+        }
+      ]
+    },
+    {
+      "term": "الأرض",
+      "transliteration": "ʾ-r-d",
+      "literal": "earth; land; ground; country",
+      "se_rendering": "all men",
+      "note": "Root ʾ-r-d usually 'earth', 'land', or 'soil' (26 occ). Rendered as 'all men' here through paraphrase—SE dissolves literal geography into collective human opposition.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 111,
+          "snippet": "Lord of Lords"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 575,
+          "snippet": "the earth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 489,
+          "snippet": "face of the earth"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 57,
+          "snippet": "land"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 53,
+          "snippet": "lands"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 743,
+          "snippet": "Thy earth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 43,
+          "snippet": "earth"
+        }
+      ]
+    }
+  ],
+  "section_index": "CXLIV.2",
+  "section": "CXLIV",
+  "section_para": 2
 }

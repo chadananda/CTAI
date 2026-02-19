@@ -1,10 +1,491 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 842,
   "source_text": "ُبْحانَكَ سُبْحانَكَ يا مَحْبُوبِي مِنْ أَنْ تُعْرَفَ بِأَعْلى عِرْفانِ المَوْجُوداتِ، سُبْحَانَكَ سُبْحَانَكَ مِنْ أَنْ تُوصَفَ بِأَبْهى وَصْفِ المُمْكِناتِ، لأَنَّ مُنْتَهى عِرْفانِ العِبادِ فِي مُنْتَهى ذُرْوَةِ الْقُصْوى لَنْ يَقْدِرَ أَنْ يَصْعَدَ عَنْ حَدِّ الإِنْشآءِ، وَلَنْ يُمْكِنَ أَنْ يَتَعارَجَ عَنْ شَأْنِ الإِمْكانِ وَبِما قُدِّرَ لَهُ مِنْ شُئُونِ القَضآءِ، فَكَيْفَ يَقْدِرُ ما خُلِقَ بِمَشِيَّةِ الإِمْكانِيَّةِ فِي رُتْبَةِ الإِمْكانِ أَنْ يَصْعَدَ إِلى هَوآءِ قُدْسِ عِرْفانِكَ أَوْ يَصِلَ إِلى مَقَرِّ عِزِّ اقْتِدارِكَ، سُبْحَانَكَ سُبْحَانَكَ مِنْ أَنْ يَطِيْرَ الفانِيْ إِلى عَرْشِ بَقائِكَ أَوْ يَصِلَ الفَقِيرُ إِلى",
   "translation": "Exalted, immeasurably exalted art Thou, O my Beloved, above the strivings of any of Thy creatures, however learned, to know Thee; exalted, immensely exalted art Thou above every human attempt, no matter how searching, to describe Thee! For the highest thought of men, however deep their contemplation, can never hope to outsoar the limitations imposed upon Thy creation, nor ascend beyond the state of the contingent world, nor break the bounds irrevocably set for it by Thee. How can, then, a thing that hath been created by Thy will that overruleth the whole of creation, a thing that is itself a part of the contingent world, have the power to soar into the holy atmosphere of Thy knowledge, or reach unto the seat of Thy transcendent power?",
   "source_lang": "ar",
-  "score": 9.4
+  "score": 9.4,
+  "page_slug": "highest-thought-men-never-outsoar",
+  "alignment": [
+    {
+      "ar": "سُبْحانَكَ",
+      "en": "Exalted"
+    },
+    {
+      "ar": "سُبْحانَكَ",
+      "en": "immeasurably exalted"
+    },
+    {
+      "ar": "مَحْبُوبِي",
+      "en": "my Beloved"
+    },
+    {
+      "ar": "تُعْرَفَ",
+      "en": "to know"
+    },
+    {
+      "ar": "أَعْلى",
+      "en": "however learned"
+    },
+    {
+      "ar": "عِرْفانِ",
+      "en": "Thee"
+    },
+    {
+      "ar": "المَوْجُوداتِ",
+      "en": "any of Thy creatures"
+    },
+    {
+      "ar": "سُبْحَانَكَ",
+      "en": "exalted"
+    },
+    {
+      "ar": "سُبْحَانَكَ",
+      "en": "immensely exalted"
+    },
+    {
+      "ar": "تُوصَفَ",
+      "en": "to describe"
+    },
+    {
+      "ar": "وَصْفِ",
+      "en": "human attempt"
+    },
+    {
+      "ar": "مُنْتَهى",
+      "en": "highest"
+    },
+    {
+      "ar": "عِرْفانِ",
+      "en": "thought"
+    },
+    {
+      "ar": "العِبادِ",
+      "en": "of men"
+    },
+    {
+      "ar": "مُنْتَهى",
+      "en": "deep"
+    },
+    {
+      "ar": "ذُرْوَةِ",
+      "en": "contemplation"
+    },
+    {
+      "ar": "الْقُصْوى",
+      "en": "their"
+    },
+    {
+      "ar": "يَقْدِرَ",
+      "en": "can never hope"
+    },
+    {
+      "ar": "يَصْعَدَ",
+      "en": "to outsoar"
+    },
+    {
+      "ar": "الإِنْشآءِ",
+      "en": "imposed upon Thy creation"
+    },
+    {
+      "ar": "يُمْكِنَ",
+      "en": "can"
+    },
+    {
+      "ar": "يَتَعارَجَ",
+      "en": "ascend"
+    },
+    {
+      "ar": "شَأْنِ",
+      "en": "the state"
+    },
+    {
+      "ar": "الإِمْكانِ",
+      "en": "of the contingent world"
+    },
+    {
+      "ar": "شُئُونِ",
+      "en": "bounds"
+    },
+    {
+      "ar": "القَضآءِ",
+      "en": "irrevocably"
+    },
+    {
+      "ar": "كَيْفَ",
+      "en": "How"
+    },
+    {
+      "ar": "يَقْدِرُ",
+      "en": "have the power"
+    },
+    {
+      "ar": "خُلِقَ",
+      "en": "that hath been created"
+    },
+    {
+      "ar": "رُتْبَةِ",
+      "en": "a part"
+    },
+    {
+      "ar": "يَصْعَدَ",
+      "en": "to soar"
+    },
+    {
+      "ar": "هَوآءِ",
+      "en": "atmosphere"
+    },
+    {
+      "ar": "قُدْسِ",
+      "en": "holy"
+    },
+    {
+      "ar": "عِرْفانِكَ",
+      "en": "of Thy knowledge"
+    },
+    {
+      "ar": "يَصِلَ",
+      "en": "reach"
+    },
+    {
+      "ar": "اقْتِدارِكَ",
+      "en": "of Thy transcendent power"
+    },
+    {
+      "ar": "الفانِيْ",
+      "en": "a thing"
+    },
+    {
+      "ar": "عَرْشِ",
+      "en": "into"
+    },
+    {
+      "ar": "بَقائِكَ",
+      "en": "Thy"
+    },
+    {
+      "ar": "الفَقِيرُ",
+      "en": "that"
+    }
+  ],
+  "terms": [
+    {
+      "term": "محْبُوبِي",
+      "transliteration": "ḥ-b-b",
+      "literal": "love; affection",
+      "se_rendering": "my Beloved",
+      "note": "Uniquely rendered as 'my Beloved' (direct address) rather than standard 'beloved of the Lord' or 'loved ones' patterns; establishes intimate theological tone.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 3,
+          "snippet": "beloved of the Lord"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 53,
+          "snippet": "loved ones of the Lord"
+        },
+        {
+          "work": "gleanings",
+          "para": 341,
+          "snippet": "loved ones of God"
+        },
+        {
+          "work": "gleanings",
+          "para": 689,
+          "snippet": "beloved of the one true God"
+        },
+        {
+          "work": "gleanings",
+          "para": 640,
+          "snippet": "loved ones"
+        },
+        {
+          "work": "gleanings",
+          "para": 690,
+          "snippet": "beloved of God"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 39,
+          "snippet": "His loved ones"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 10,
+          "snippet": "love for Thee"
+        }
+      ]
+    },
+    {
+      "term": "عِرْفانِ",
+      "transliteration": "ʿ-r-f",
+      "literal": "to confess; to acknowledge; to recognize",
+      "se_rendering": "strivings; thought; knowledge",
+      "note": "Rendered variously as 'strivings', 'thought', and 'knowledge' in different clause positions; SE captures the epistemological limitation across all occurrences.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 135,
+          "snippet": "hath acknowledged"
+        },
+        {
+          "work": "gleanings",
+          "para": 568,
+          "snippet": "acknowledged"
+        },
+        {
+          "work": "gleanings",
+          "para": 295,
+          "snippet": "made objections"
+        },
+        {
+          "work": "gleanings",
+          "para": 87,
+          "snippet": "knowledge"
+        },
+        {
+          "work": "gleanings",
+          "para": 2,
+          "snippet": "perception"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 5,
+          "snippet": "acknowledging"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 4,
+          "snippet": "fragrance of His garment"
+        },
+        {
+          "work": "gleanings",
+          "para": 214,
+          "snippet": "acknowledge"
+        }
+      ]
+    },
+    {
+      "term": "الإِنْشآءِ",
+      "transliteration": "n-sh-ʾ",
+      "literal": "creation; bringing into existence; establishment",
+      "se_rendering": "Thy creation",
+      "note": "Translated as 'Thy creation' here; corpus data shows this root typically renders as abstract 'creation' or 'kingdoms of creation'—SE specifies the divine origin.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 630,
+          "snippet": "creation"
+        },
+        {
+          "work": "gleanings",
+          "para": 384,
+          "snippet": "God grant"
+        },
+        {
+          "work": "gleanings",
+          "para": 439,
+          "snippet": "Please God"
+        }
+      ]
+    },
+    {
+      "term": "الإِمْكانِ",
+      "transliteration": "m-k-n",
+      "literal": "establishment; confirmation; empowerment; firm settlement",
+      "se_rendering": "the contingent world",
+      "note": "Rendered as 'the contingent world' (technical philosophical term); corpus predominantly shows 'all created things' or 'all creation'—rare philosophical precision.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 595,
+          "snippet": "establishment"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 82,
+          "snippet": "all created things"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 30,
+          "snippet": "the hands of all created things"
+        },
+        {
+          "work": "gleanings",
+          "para": 568,
+          "snippet": "pervaded all created things"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 39,
+          "snippet": "therein"
+        },
+        {
+          "work": "gleanings",
+          "para": 446,
+          "snippet": "all creation"
+        },
+        {
+          "work": "gleanings",
+          "para": 529,
+          "snippet": "can in no wise be"
+        }
+      ]
+    },
+    {
+      "term": "قُدْسِ",
+      "transliteration": "q-d-s",
+      "literal": "holy, sacred, sanctified",
+      "se_rendering": "holy",
+      "note": "Rendered as 'holy' modifying 'atmosphere'; corpus shows 'Sacred', 'hallowed', 'Sanctuary'—here SE adapts adjectival form for metaphorical context.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 2,
+          "snippet": "Sacred"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 81,
+          "snippet": "hallowed"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 35,
+          "snippet": "spirit of holiness"
+        },
+        {
+          "work": "gleanings",
+          "para": 585,
+          "snippet": "holy Paradise"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 13,
+          "snippet": "Holy Mariner"
+        },
+        {
+          "work": "gleanings",
+          "para": 584,
+          "snippet": "Holy Veil"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 6,
+          "snippet": "sacred strand"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 26,
+          "snippet": "Celestial Concourse"
+        }
+      ]
+    },
+    {
+      "term": "مَقَرِّ",
+      "transliteration": "q-r-r",
+      "literal": "stability; firmness; establishment",
+      "se_rendering": "seat",
+      "note": "Rendered as 'seat' (locus of divine authority); corpus shows 'resting place', 'ordained', 'established'—SE's choice emphasizes spatial/architectural metaphor of transcendence.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 227,
+          "snippet": "ordained"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 13,
+          "snippet": "resting place"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 17,
+          "snippet": "determine"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 57,
+          "snippet": "established"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 155,
+          "snippet": "Peruse"
+        },
+        {
+          "work": "gleanings",
+          "para": 157,
+          "snippet": "acknowledged"
+        },
+        {
+          "work": "gleanings",
+          "para": 618,
+          "snippet": "Intone"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 15,
+          "snippet": "chant"
+        }
+      ]
+    },
+    {
+      "term": "الفانِيْ",
+      "transliteration": "f-n-y",
+      "literal": "annihilation; perishing; extinction; cessation; the threshold",
+      "se_rendering": "a thing that hath been created",
+      "note": "Rendered as participial phrase 'a thing that hath been created' rather than typical noun forms like 'annihilation' or 'perisheth'; grammatically transformed for theological argument.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 2,
+          "snippet": "perisheth not"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 29,
+          "snippet": "mortal graves"
+        },
+        {
+          "work": "gleanings",
+          "para": 50,
+          "snippet": "expire"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 24,
+          "snippet": "perisheth"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 70,
+          "snippet": "dieth to himself"
+        },
+        {
+          "work": "gleanings",
+          "para": 104,
+          "snippet": "absolute servitude, utter destitution"
+        },
+        {
+          "work": "gleanings",
+          "para": 394,
+          "snippet": "annihilation"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 194,
+          "snippet": "complete annihilation"
+        }
+      ]
+    }
+  ],
+  "section_index": "CLXXXIV.6",
+  "section": "CLXXXIV",
+  "section_para": 6
 }

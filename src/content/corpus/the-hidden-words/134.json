@@ -1,10 +1,368 @@
 {
   "work": "The Hidden Words",
   "slug": "the-hidden-words",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 134,
   "source_text": "(٥٧) ﴿ زينهار ای پسر خاک ﴾\nبا اشرار الفت مگير و مؤانست مجو که مجالست اشرار نور جان را بنار حسبان تبديل نمايد *",
   "translation": "(57) O SON OF DUST! Beware!\nWalk not with the ungodly and seek not fellowship with him, for such companionship turneth the radiance of the heart into infernal fire",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "radiance-heart-infernal-fire",
+  "alignment": [
+    {
+      "ar": "زينهار",
+      "en": "Beware"
+    },
+    {
+      "ar": "ای",
+      "en": "O"
+    },
+    {
+      "ar": "پسر",
+      "en": "SON"
+    },
+    {
+      "ar": "خاک",
+      "en": "DUST"
+    },
+    {
+      "ar": "با",
+      "en": "with"
+    },
+    {
+      "ar": "اشرار",
+      "en": "the ungodly"
+    },
+    {
+      "ar": "الفت",
+      "en": "fellowship"
+    },
+    {
+      "ar": "مگير",
+      "en": "Walk not"
+    },
+    {
+      "ar": "مؤانست",
+      "en": "companionship"
+    },
+    {
+      "ar": "مجو",
+      "en": "seek not"
+    },
+    {
+      "ar": "مجالست",
+      "en": "such companionship"
+    },
+    {
+      "ar": "نور",
+      "en": "radiance"
+    },
+    {
+      "ar": "جان",
+      "en": "the heart"
+    },
+    {
+      "ar": "بنار",
+      "en": "fire"
+    },
+    {
+      "ar": "حسبان",
+      "en": "infernal"
+    },
+    {
+      "ar": "تبديل نمايد",
+      "en": "turneth"
+    }
+  ],
+  "terms": [
+    {
+      "term": "زینهار",
+      "transliteration": "z-n-r",
+      "literal": "beware; take heed; warning",
+      "se_rendering": "Beware",
+      "note": "Single occurrence in concordance. SE's sole rendering captures the imperative warning tone essential to this exhortation.",
+      "cross_refs": []
+    },
+    {
+      "term": "اشرار",
+      "transliteration": "sh-r-r",
+      "literal": "evil; harm; wickedness",
+      "se_rendering": "the ungodly",
+      "note": "Among 10 occurrences across corpus rendered variously as 'evil', 'the wicked', 'Lights', 'East'. Here 'the ungodly' emphasizes moral/spiritual separation rather than abstract wickedness.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 270,
+          "snippet": "Divine Law"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 160,
+          "snippet": "Lights"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 268,
+          "snippet": "East"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 36,
+          "snippet": "evil"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 40,
+          "snippet": "the wicked"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 255,
+          "snippet": "father of evils"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 12,
+          "snippet": "evils of self"
+        }
+      ]
+    },
+    {
+      "term": "الفت",
+      "transliteration": "ʾ-l-f",
+      "literal": "word; expression; utterance",
+      "se_rendering": "fellowship",
+      "note": "Root typically means 'word' or 'utterance' (5 occurrences), but SE renders 'fellowship' here—a major semantic pivot toward relational connotation rather than linguistic.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 355,
+          "snippet": "words"
+        },
+        {
+          "work": "gleanings",
+          "para": 436,
+          "snippet": "unity"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 65,
+          "snippet": "fellowship"
+        }
+      ]
+    },
+    {
+      "term": "نور",
+      "transliteration": "n-w-r",
+      "literal": "light; illumination",
+      "se_rendering": "radiance",
+      "note": "Standard 'light' rendering (78 occurrences), but rendered 'radiance' here—a more poetic, interior quality suitable to 'the heart' as seat of illumination.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 3,
+          "snippet": "light"
+        },
+        {
+          "work": "gleanings",
+          "para": 230,
+          "snippet": "Orb of Light"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 114,
+          "snippet": "with the light"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 109,
+          "snippet": "Thy light"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 246,
+          "snippet": "Illumine"
+        },
+        {
+          "work": "gleanings",
+          "para": 235,
+          "snippet": "glory"
+        },
+        {
+          "work": "gleanings",
+          "para": 597,
+          "snippet": "fire"
+        },
+        {
+          "work": "gleanings",
+          "para": 458,
+          "snippet": "fire of God"
+        }
+      ]
+    },
+    {
+      "term": "جان",
+      "transliteration": "j-y-n",
+      "literal": "soul; life; spirit",
+      "se_rendering": "heart",
+      "note": "Typically 'soul' or 'life' (12 occurrences). 'Heart' here is distinctly metonymic, privileging the emotional/spiritual center over soul's transcendent connotation.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 141,
+          "snippet": "soul"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 11,
+          "snippet": "life"
+        },
+        {
+          "work": "gleanings",
+          "para": 177,
+          "snippet": "hearts"
+        },
+        {
+          "work": "gleanings",
+          "para": 332,
+          "snippet": "soul-stirring"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 121,
+          "snippet": "lives"
+        }
+      ]
+    },
+    {
+      "term": "بنار",
+      "transliteration": "n-ā-r",
+      "literal": "fire; blaze; flame",
+      "se_rendering": "fire",
+      "note": "Standard 'fire' rendering across 10 occurrences. Unmodified here, serving the warning's climactic image of spiritual transformation through corruption.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 700,
+          "snippet": "with the fire"
+        },
+        {
+          "work": "gleanings",
+          "para": 109,
+          "snippet": "into fire"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 14,
+          "snippet": "by the fire"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 19,
+          "snippet": "is a fire"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 250,
+          "snippet": "fire"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 53,
+          "snippet": "fiery"
+        }
+      ]
+    },
+    {
+      "term": "حسبان",
+      "transliteration": "h-s-b",
+      "literal": "according to; in accordance with; as regards",
+      "se_rendering": "infernal",
+      "note": "Root denotes 'according to' or 'in accordance with' (8 occurrences). SE renders 'infernal'—an interpretive leap converting prepositional logic into qualitative judgment.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 136,
+          "snippet": "literally"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 36,
+          "snippet": "in pursuance of the order"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 88,
+          "snippet": "apparently"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 36,
+          "snippet": "are reckoned"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 37,
+          "snippet": "infernal fire"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 262,
+          "snippet": "for the sake of"
+        }
+      ]
+    },
+    {
+      "term": "تبدیل",
+      "transliteration": "b-d-l",
+      "literal": "in place of; instead of; to change; to alter (preposition or verb stem)",
+      "se_rendering": "turneth into",
+      "note": "Root means 'to change/alter' (17 occurrences). 'Turneth into' captures the active, causal transformation implied by companionship with the ungodly.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 19,
+          "snippet": "darkness hath been turned into light"
+        },
+        {
+          "work": "gleanings",
+          "para": 614,
+          "snippet": "for having repaid with ingratitude the favours of God"
+        },
+        {
+          "work": "gleanings",
+          "para": 221,
+          "snippet": "hath transformed the dungeon into a paradise"
+        },
+        {
+          "work": "gleanings",
+          "para": 687,
+          "snippet": "heart and soul and tongue"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 48,
+          "snippet": "changing"
+        },
+        {
+          "work": "gleanings",
+          "para": 44,
+          "snippet": "changes"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 50,
+          "snippet": "changed"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 92,
+          "snippet": "alteration"
+        }
+      ]
+    }
+  ],
+  "section_index": "263",
+  "section": "263",
+  "section_para": 1
 }

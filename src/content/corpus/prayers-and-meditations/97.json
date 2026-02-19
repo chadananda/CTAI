@@ -1,10 +1,557 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 97,
   "source_text": "ى ما أَمَرْتَهُمْ بِهِ فِيْ أَيَّامِكَ الَّذِيْ بِهِ يَظْهَرُ تَقْدِيسُ أَمْرِكَ بَيْنَ عِبادِكَ وَتَنْتَظِمُ أُمُورُ خَلْقِكَ وَمَمْلَكَتِكَ، أَشْهَدُ يا إِلهِي هذا يَومٌ فِيهِ تَمَّتْ حُجَّتُكَ وَظَهَرَتْ بَيِّناتُكَ وَنُزِّلَتْ آياتُكَ وَلاحَتْ آثارُكَ وَأَنارَ وَجْهُكَ وَكَمُلَ بُرْهانُكَ وَأَحاطَتْ قُدْرَتُكَ وَسَبَقَتْ رَحْمَتُكَ وَأَشْرَقَتْ شَمْسُ فَضْلِكَ عَلَى شَأْنٍ أَظْهَرْتَ مَظْهَرَ نَفْسِكَ وَمَخْزَنَ عِلْمِكَ وَمَطْلَعَ عَظَمَتِكَ وَاقْتِدارِكَ الَّذِيْ أَخَذْتَ عَهْدَهُ عَمَّا خُلِقَ فِيْ مَلَكُوتِ السَّمواتِ وَالأَرْضِ وَجَبَرُوتِ الأَمْرِ وَالخَلْقِ وَأَقَمْتَهُ عَلَى مَقامٍ ما مَنَعَهُ ظُلْمُ الظَّالِمِينَ عَنْ إِظْهارِ سَلْطَنَتِكَ وَلا سَطْوَةُ الغافِلِينَ عَنْ إِبْرازِ قُدْرَتِكَ وَإِعْلآءِ أَمْرِكَ بِحَيْثُ بَلَّغَ المُلُوكَ",
   "translation": "I testify, O my God, that this is the Day whereon Thy testimony hath been fulfilled, and Thy clear tokens have been manifested, and Thine utterances have been revealed, and Thy signs have been demonstrated, and the radiance of Thy countenance hath been diffused, and Thy proof hath been perfected, and Thine ascendancy hath been established, and Thy mercy hath overflowed, and the Daystar of Thy grace hath shone forth with such brilliance that Thou didst manifest Him Who is the Revealer of Thyself and the Treasury of Thy wisdom and the Dawning-Place of Thy majesty and power. Thou didst establish His covenant with every one who hath been created in the kingdoms of earth and heaven and in the realms of revelation and of creation. Thou didst raise Him up to such heights that the wrongs inflicted by the oppressors have been powerless to deter Him from revealing Thy sovereignty, and the ascendancy of the wayward hath failed to prevent Him from demonstrating Thy power and from exalting Thy Cause.",
   "source_lang": "ar",
-  "score": 9.5
+  "score": 9.5,
+  "page_slug": "daystar-grace-shone-forth",
+  "alignment": [
+    {
+      "ar": "يَظْهَرُ",
+      "en": "shone forth"
+    },
+    {
+      "ar": "أَمْرِكَ",
+      "en": "Thy Cause"
+    },
+    {
+      "ar": "خَلْقِكَ",
+      "en": "creation"
+    },
+    {
+      "ar": "أَشْهَدُ",
+      "en": "I testify"
+    },
+    {
+      "ar": "إِلهِي",
+      "en": "my God"
+    },
+    {
+      "ar": "يَومٌ",
+      "en": "the Day"
+    },
+    {
+      "ar": "ظَهَرَتْ",
+      "en": "have been manifested"
+    },
+    {
+      "ar": "آياتُكَ",
+      "en": "Thine utterances"
+    },
+    {
+      "ar": "لاحَتْ",
+      "en": "have been demonstrated"
+    },
+    {
+      "ar": "آثارُكَ",
+      "en": "Thy signs"
+    },
+    {
+      "ar": "أَنارَ",
+      "en": "hath been diffused"
+    },
+    {
+      "ar": "وَجْهُكَ",
+      "en": "the radiance of Thy countenance"
+    },
+    {
+      "ar": "كَمُلَ",
+      "en": "hath been perfected"
+    },
+    {
+      "ar": "بُرْهانُكَ",
+      "en": "Thy proof"
+    },
+    {
+      "ar": "أَحاطَتْ",
+      "en": "hath been established"
+    },
+    {
+      "ar": "قُدْرَتُكَ",
+      "en": "Thine ascendancy"
+    },
+    {
+      "ar": "سَبَقَتْ",
+      "en": "hath overflowed"
+    },
+    {
+      "ar": "رَحْمَتُكَ",
+      "en": "Thy mercy"
+    },
+    {
+      "ar": "أَشْرَقَتْ",
+      "en": "hath shone forth"
+    },
+    {
+      "ar": "شَمْسُ",
+      "en": "the Daystar"
+    },
+    {
+      "ar": "فَضْلِكَ",
+      "en": "Thy grace"
+    },
+    {
+      "ar": "شَأْنٍ",
+      "en": "such brilliance"
+    },
+    {
+      "ar": "أَظْهَرْتَ",
+      "en": "Thou didst manifest"
+    },
+    {
+      "ar": "مَظْهَرَ",
+      "en": "the Revealer"
+    },
+    {
+      "ar": "نَفْسِكَ",
+      "en": "of Thyself"
+    },
+    {
+      "ar": "مَخْزَنَ",
+      "en": "the Treasury"
+    },
+    {
+      "ar": "عِلْمِكَ",
+      "en": "Thy wisdom"
+    },
+    {
+      "ar": "مَطْلَعَ",
+      "en": "the Dawning-Place"
+    },
+    {
+      "ar": "عَظَمَتِكَ",
+      "en": "Thy majesty"
+    },
+    {
+      "ar": "اقْتِدارِكَ",
+      "en": "power"
+    },
+    {
+      "ar": "أَخَذْتَ",
+      "en": "Thou didst establish"
+    },
+    {
+      "ar": "عَهْدَهُ",
+      "en": "His covenant"
+    },
+    {
+      "ar": "خُلِقَ",
+      "en": "hath been created"
+    },
+    {
+      "ar": "مَلَكُوتِ",
+      "en": "the kingdoms"
+    },
+    {
+      "ar": "الأَرْضِ",
+      "en": "earth"
+    },
+    {
+      "ar": "جَبَرُوتِ",
+      "en": "the realms"
+    },
+    {
+      "ar": "الأَمْرِ",
+      "en": "revelation"
+    },
+    {
+      "ar": "الخَلْقِ",
+      "en": "of creation"
+    },
+    {
+      "ar": "أَقَمْتَهُ",
+      "en": "Thou didst raise Him up"
+    },
+    {
+      "ar": "مَقامٍ",
+      "en": "to such heights"
+    },
+    {
+      "ar": "مَنَعَهُ",
+      "en": "powerless to deter Him"
+    },
+    {
+      "ar": "ظُلْمُ",
+      "en": "the wrongs inflicted"
+    },
+    {
+      "ar": "إِظْهارِ",
+      "en": "from revealing"
+    },
+    {
+      "ar": "سَلْطَنَتِكَ",
+      "en": "Thy sovereignty"
+    },
+    {
+      "ar": "سَطْوَةُ",
+      "en": "the ascendancy"
+    },
+    {
+      "ar": "الغافِلِينَ",
+      "en": "of the wayward"
+    },
+    {
+      "ar": "إِبْرازِ",
+      "en": "from demonstrating"
+    },
+    {
+      "ar": "قُدْرَتِكَ",
+      "en": "Thy power"
+    },
+    {
+      "ar": "إِعْلآءِ",
+      "en": "from exalting"
+    }
+  ],
+  "terms": [
+    {
+      "term": "يَظْهَرُ",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "is revealed",
+      "note": "Root ظ-ه-ر appears 96 times, typically 'Manifestation' or 'manifestation.' Here 'is revealed' chooses the verbal aspect, linking manifestation to the disclosure act.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 53,
+          "snippet": "Manifestation"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 136,
+          "snippet": "evident"
+        },
+        {
+          "work": "gleanings",
+          "para": 222,
+          "snippet": "material"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 206,
+          "snippet": "appeared"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 196,
+          "snippet": "Manifestations of God"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 32,
+          "snippet": "overwhelm the soul"
+        }
+      ]
+    },
+    {
+      "term": "تَقْدِيسُ",
+      "transliteration": "q-d-s",
+      "literal": "holy, sacred, sanctified",
+      "se_rendering": "sanctification",
+      "note": "Usually 'sacred' or 'holy' (47 occ.). Rendered as 'sanctification' here—a nominalized form emphasizing the process of divine sanctification rather than the state.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 2,
+          "snippet": "Sacred"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 81,
+          "snippet": "hallowed"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 35,
+          "snippet": "spirit of holiness"
+        },
+        {
+          "work": "gleanings",
+          "para": 585,
+          "snippet": "holy Paradise"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 13,
+          "snippet": "Holy Mariner"
+        },
+        {
+          "work": "gleanings",
+          "para": 584,
+          "snippet": "Holy Veil"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 6,
+          "snippet": "sacred strand"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 26,
+          "snippet": "Celestial Concourse"
+        }
+      ]
+    },
+    {
+      "term": "أَشْهَدُ",
+      "transliteration": "sh-h-d",
+      "literal": "witnessed; observed; seen; evident; manifest",
+      "se_rendering": "I testify",
+      "note": "Typically 'I testify' or 'I bear witness' across 74 occurrences. Here both meanings converge, but testify emphasizes eschatological affirmation rather than mere witnessing.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 607,
+          "snippet": "manifest"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 35,
+          "snippet": "evident"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 6,
+          "snippet": "I testify"
+        },
+        {
+          "work": "gleanings",
+          "para": 298,
+          "snippet": "witness"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 138,
+          "snippet": "martyrdom"
+        },
+        {
+          "work": "gleanings",
+          "para": 134,
+          "snippet": "God witnesseth"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 57,
+          "snippet": "beheld"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 156,
+          "snippet": "bear witness"
+        }
+      ]
+    },
+    {
+      "term": "بَيِّناتُكَ",
+      "transliteration": "b-y-n",
+      "literal": "to manifest; to make clear; clear, evident",
+      "se_rendering": "clear tokens",
+      "note": "Typically 'clear proofs' or 'proofs' (87 occ.). 'Clear tokens' here prefers tokens—emphasizing signs and marks over logical demonstration.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 223,
+          "snippet": "the Expounder, the Most Manifest"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 231,
+          "snippet": "clear verses"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 3,
+          "snippet": "proofs"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 12,
+          "snippet": "clear proofs"
+        },
+        {
+          "work": "gleanings",
+          "para": 563,
+          "snippet": "Dawning-Place of the proofs"
+        },
+        {
+          "work": "gleanings",
+          "para": 292,
+          "snippet": "the Bayán"
+        },
+        {
+          "work": "gleanings",
+          "para": 636,
+          "snippet": "utterance"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 101,
+          "snippet": "Bayán"
+        }
+      ]
+    },
+    {
+      "term": "فَضْلِكَ",
+      "transliteration": "f-d-l",
+      "literal": "grace; bounty; generosity; excellence",
+      "se_rendering": "grace",
+      "note": "Typically 'grace' or 'His gracious favor' (36 occ.). Here 'grace' appears within the Daystar metaphor, linking divine bounty to luminous revelation.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 50,
+          "snippet": "the Gracious, the All-Bountiful"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 115,
+          "snippet": "the All-Bounteous"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 259,
+          "snippet": "merits"
+        },
+        {
+          "work": "gleanings",
+          "para": 10,
+          "snippet": "most excellent favors"
+        },
+        {
+          "work": "gleanings",
+          "para": 60,
+          "snippet": "grace"
+        },
+        {
+          "work": "gleanings",
+          "para": 234,
+          "snippet": "His gracious favor"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "graciously"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 92,
+          "snippet": "realms"
+        }
+      ]
+    },
+    {
+      "term": "ظُلْمُ",
+      "transliteration": "z-l-m",
+      "literal": "wrongedness, oppression, meekness; state of being wronged or oppressed",
+      "se_rendering": "wrongs",
+      "note": "Usually 'wronged,' 'afflicted,' or 'Wronged One' (128 occ.). Here 'wrongs'—a noun form denoting injustices themselves rather than states of oppression.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 498,
+          "snippet": "afflicted with countless tribulations"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 49,
+          "snippet": "meekness"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 116,
+          "snippet": "injury"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 36,
+          "snippet": "Wronged One"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 253,
+          "snippet": "wronged"
+        },
+        {
+          "work": "gleanings",
+          "para": 221,
+          "snippet": "oppression"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 9,
+          "snippet": "Darkness"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 33,
+          "snippet": "tyranny"
+        }
+      ]
+    },
+    {
+      "term": "سَلْطَنَتِكَ",
+      "transliteration": "s-l-ṭ",
+      "literal": "dominion; authority; power; sovereignty; control",
+      "se_rendering": "Thy sovereignty",
+      "note": "Consistent rendering 'sovereignty' (43 occ.). This passage maintains that usage, but pairs it with 'revealing'—stressing sovereignty as demonstrable power.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 369,
+          "snippet": "sovereignty"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 151,
+          "snippet": "dominion"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 13,
+          "snippet": "O King"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 157,
+          "snippet": "the Sháh"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 1,
+          "snippet": "the King"
+        },
+        {
+          "work": "gleanings",
+          "para": 472,
+          "snippet": "King (Sulṭán 'Abdu'l-'Azíz)"
+        },
+        {
+          "work": "gleanings",
+          "para": 236,
+          "snippet": "the Sulṭán"
+        },
+        {
+          "work": "gleanings",
+          "para": 592,
+          "snippet": "by virtue of His sovereignty"
+        }
+      ]
+    }
+  ],
+  "section_index": "XXXI.2",
+  "section": "XXXI",
+  "section_para": 2
 }

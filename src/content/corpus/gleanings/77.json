@@ -1,10 +1,369 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 77,
   "source_text": "الرّحمن أَلَا إنّهم من الفآئزين قد رجّت الأرض ومرّت الجبال ونرى الملئكة مردفين أخذ السّكر أكثر العباد نرى في وجوههم آثار القهر كذلك حشرنا المجرمين يهرعون إلى الطّاغوت قل لا عاصِم اليوم من أمر اللّه هذا يوم عظيم نريهم الّذين أضلّاهم ينظرون إليهما ولا يشعرون قد سكرت أبصارهم وهم قوم عمون حجّتهم مفتريات أنفسهم وإنّها داحضة عند اللّه المهيمن القيّوم قد نزغ الشّيطان في صدورهم وهم اليوم في عذاب غير مردود يسرعون إلى",
   "translation": "The earth hath been shaken, and the mountains have passed away, and the angels have appeared, rank on rank, before Us. Most of the people are bewildered in their drunkenness and wear on their faces the evidences of anger. Thus have We gathered together the workers of iniquity. We see them rushing on towards their idol. Say: None shall be secure this Day from the decree of God. This indeed is a grievous Day. We point out to them those that led them astray. They see them, and yet recognize them not. Their eyes are drunken; they are indeed a blind people. Their proofs are the calumnies they uttered; condemned are their calumnies by God, the Help in Peril, the Self-Subsisting. The Evil One hath stirred up mischief in their hearts, and they are afflicted with a torment that none can avert. They hasten to the wicked, bearing the register of the workers of iniquity. Such are their doings.",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "earth-shaken-mountains-passed",
+  "alignment": [
+    {
+      "ar": "الرّحمن",
+      "en": ""
+    },
+    {
+      "ar": "إنّهم",
+      "en": ""
+    },
+    {
+      "ar": "الفآئزين",
+      "en": ""
+    },
+    {
+      "ar": "رجّت",
+      "en": "shaken"
+    },
+    {
+      "ar": "الأرض",
+      "en": "The earth"
+    },
+    {
+      "ar": "مرّت",
+      "en": "passed away"
+    },
+    {
+      "ar": "الجبال",
+      "en": "the mountains"
+    },
+    {
+      "ar": "نرى",
+      "en": "We see"
+    },
+    {
+      "ar": "الملئكة",
+      "en": "the angels"
+    },
+    {
+      "ar": "مردفين",
+      "en": "rank on rank"
+    },
+    {
+      "ar": "أخذ",
+      "en": ""
+    },
+    {
+      "ar": "السّكر",
+      "en": "drunkenness"
+    },
+    {
+      "ar": "أكثر",
+      "en": "Most"
+    },
+    {
+      "ar": "العباد",
+      "en": "the people"
+    },
+    {
+      "ar": "وجوههم",
+      "en": "their faces"
+    },
+    {
+      "ar": "آثار",
+      "en": "the evidences"
+    },
+    {
+      "ar": "القهر",
+      "en": "anger"
+    },
+    {
+      "ar": "كذلك",
+      "en": "Thus"
+    },
+    {
+      "ar": "حشرنا",
+      "en": "gathered together"
+    },
+    {
+      "ar": "المجرمين",
+      "en": "the workers of iniquity"
+    },
+    {
+      "ar": "يهرعون",
+      "en": "rushing"
+    },
+    {
+      "ar": "الطّاغوت",
+      "en": "their idol"
+    },
+    {
+      "ar": "قل",
+      "en": "Say"
+    },
+    {
+      "ar": "عاصِم",
+      "en": "secure"
+    },
+    {
+      "ar": "اليوم",
+      "en": "this Day"
+    },
+    {
+      "ar": "أمر",
+      "en": "decree"
+    },
+    {
+      "ar": "اللّه",
+      "en": "God"
+    },
+    {
+      "ar": "هذا",
+      "en": "This"
+    },
+    {
+      "ar": "يوم",
+      "en": "Day"
+    },
+    {
+      "ar": "عظيم",
+      "en": "grievous"
+    },
+    {
+      "ar": "نريهم",
+      "en": "We point out"
+    },
+    {
+      "ar": "الّذين",
+      "en": "those"
+    },
+    {
+      "ar": "أضلّاهم",
+      "en": "led them astray"
+    },
+    {
+      "ar": "ينظرون",
+      "en": "see"
+    },
+    {
+      "ar": "إليهما",
+      "en": "them"
+    },
+    {
+      "ar": "يشعرون",
+      "en": "recognize"
+    },
+    {
+      "ar": "سكرت",
+      "en": "drunken"
+    },
+    {
+      "ar": "أبصارهم",
+      "en": "Their eyes"
+    },
+    {
+      "ar": "قوم",
+      "en": "people"
+    },
+    {
+      "ar": "عمون",
+      "en": "blind"
+    },
+    {
+      "ar": "حجّتهم",
+      "en": "Their proofs"
+    },
+    {
+      "ar": "مفتريات",
+      "en": "the calumnies"
+    },
+    {
+      "ar": "أنفسهم",
+      "en": "they uttered"
+    },
+    {
+      "ar": "إنّها",
+      "en": ""
+    },
+    {
+      "ar": "داحضة",
+      "en": "condemned"
+    },
+    {
+      "ar": "عند",
+      "en": "by"
+    },
+    {
+      "ar": "المهيمن",
+      "en": "the Help in Peril"
+    },
+    {
+      "ar": "القيّوم",
+      "en": "the Self-Subsisting"
+    },
+    {
+      "ar": "نزغ",
+      "en": "stirred up"
+    },
+    {
+      "ar": "الشّيطان",
+      "en": "The Evil One"
+    },
+    {
+      "ar": "صدورهم",
+      "en": "their hearts"
+    },
+    {
+      "ar": "اليوم",
+      "en": ""
+    },
+    {
+      "ar": "عذاب",
+      "en": "a torment"
+    },
+    {
+      "ar": "غير",
+      "en": ""
+    },
+    {
+      "ar": "مردود",
+      "en": "none can avert"
+    },
+    {
+      "ar": "يسرعون",
+      "en": "hasten"
+    }
+  ],
+  "terms": [
+    {
+      "term": "حجّتهم",
+      "transliteration": "ḥ-j-j",
+      "literal": "path, way; clear path",
+      "se_rendering": "proofs",
+      "note": "Root ḥ-j-j renders variously as 'Sanctuary', 'Proofs', 'veil'. Here simply 'proofs'—SE identifies false arguments rather than invoking protective or barrier meanings.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "Sanctuary"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 2,
+          "snippet": "with proofs"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 45,
+          "snippet": "Proofs"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 7,
+          "snippet": "proof"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 533,
+          "snippet": "veil"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 674,
+          "snippet": "veils"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 262,
+          "snippet": "testimony"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 231,
+          "snippet": "argument"
+        }
+      ]
+    },
+    {
+      "term": "صدورهم",
+      "transliteration": "s-d-r",
+      "literal": "to issue, emanate, proceed; issued, emanating",
+      "se_rendering": "hearts",
+      "note": "Root s-d-r typically 'revealed', 'Source', 'Origin'. Here 'hearts'—SE uses anatomical-emotional sense rather than the metaphysical emanation meanings common elsewhere.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 257,
+          "snippet": "revealed"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 516,
+          "snippet": "their breasts"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 25,
+          "snippet": "source"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 513,
+          "snippet": "Origin"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 32,
+          "snippet": "the heart"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 214,
+          "snippet": "sores of all them"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 10,
+          "snippet": "breasts"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 525,
+          "snippet": "hearts"
+        }
+      ]
+    },
+    {
+      "term": "مردود",
+      "transliteration": "r-d-d",
+      "literal": "rejected; repudiated",
+      "se_rendering": "avert",
+      "note": "Root r-d-d usually 'rejected', 'refuting', with 'robe', 'garment', 'vesture' as outlier renderings. Here 'avert'—a unique dynamic sense suggesting turning away or prevention, not rejection.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 63,
+          "snippet": "rejected"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 230,
+          "snippet": "refuting"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 128,
+          "snippet": "robe"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 65,
+          "snippet": "garment"
+        }
+      ]
+    }
+  ],
+  "section_index": "XVII.3",
+  "section": "XVII",
+  "section_para": 3
 }

@@ -1,10 +1,447 @@
 {
   "work": "Kitab-i-Iqan",
   "slug": "kitab-i-iqan",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 100,
   "source_text": "ای سائل محبّ، اگر در هوای روح  روحانی طائری حقّ را ظاهر فوق کلّ شیء بينی به قسمی که جز او را نيابی.  \"کانَ اللّهُ و لَم يَکُن مَعَهُ من شَيْءٍ.\" و اين مقام مقدّس از آن است که به دليلی مدلّل شود و يا آنکه به برهانی باهر آيد.  و اگر در فضای قدس حقيقت سائری کلّ  اشياء به معروفيّت او معروف اند و او بنفسه معروف بوده و خواهد بود.  و اگر در ارض دليل ساکنی کفايت کن به آنچه خود فرموده:  \"اَوَلَمْ يَکفِهِم اَنَّا اَنزَلنَا عَليکَ الکِتَابَ.\"  اين است حجّتی که خود قرار فرموده و اعظم از اين حجّت نبوده و نيست:  \"دَليلُهُ آياتُهُ و وُجُودُهُ إثباتُهُ.\"",
   "translation": "O affectionate seeker! Shouldst thou soar in the holy realm of the spirit, thou wouldst recognize God manifest and exalted above all things, in such wise that thine eyes would behold none else but Him. “God was alone; there was none else besides Him.” So lofty is this station that no testimony can bear it witness, neither evidence do justice to its truth. Wert thou to explore the sacred domain of truth, thou wilt find that all things are known only by the light of His recognition, that He hath ever been, and will continue for ever to be, known through Himself. And if thou dwellest in the land of testimony, content thyself with that which He, Himself, hath revealed: “Is it not enough for them that We have sent down unto Thee the Book?” This is the testimony which He, Himself, hath ordained; greater proof than this there is none, nor ever will be: “This proof is His Word; His own Self, the testimony of His truth.”",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "manifest-exalted-above-all-things",
+  "alignment": [
+    {
+      "ar": "سائل",
+      "en": "seeker"
+    },
+    {
+      "ar": "محبّ",
+      "en": "affectionate"
+    },
+    {
+      "ar": "در",
+      "en": "in"
+    },
+    {
+      "ar": "هوای",
+      "en": "realm"
+    },
+    {
+      "ar": "روح",
+      "en": "spirit"
+    },
+    {
+      "ar": "روحانی",
+      "en": "holy"
+    },
+    {
+      "ar": "طائری",
+      "en": "soar"
+    },
+    {
+      "ar": "حقّ",
+      "en": "God"
+    },
+    {
+      "ar": "ظاهر",
+      "en": "manifest"
+    },
+    {
+      "ar": "فوق",
+      "en": "above"
+    },
+    {
+      "ar": "کلّ",
+      "en": "all"
+    },
+    {
+      "ar": "شیء",
+      "en": "things"
+    },
+    {
+      "ar": "بينی",
+      "en": "behold"
+    },
+    {
+      "ar": "به قسمی که",
+      "en": "in such wise that"
+    },
+    {
+      "ar": "جز",
+      "en": "none else"
+    },
+    {
+      "ar": "او",
+      "en": "Him"
+    },
+    {
+      "ar": "نيابی",
+      "en": "but"
+    },
+    {
+      "ar": "کانَ",
+      "en": "was"
+    },
+    {
+      "ar": "لَم يَکُن",
+      "en": "there was none"
+    },
+    {
+      "ar": "مَعَهُ",
+      "en": "besides"
+    },
+    {
+      "ar": "من شَيْءٍ",
+      "en": "else"
+    },
+    {
+      "ar": "مقام",
+      "en": "station"
+    },
+    {
+      "ar": "مقدّس",
+      "en": "lofty"
+    },
+    {
+      "ar": "دليلی",
+      "en": "testimony"
+    },
+    {
+      "ar": "مدلّل",
+      "en": "witness"
+    },
+    {
+      "ar": "برهانی",
+      "en": "evidence"
+    },
+    {
+      "ar": "باهر",
+      "en": "justice"
+    },
+    {
+      "ar": "فضای",
+      "en": "domain"
+    },
+    {
+      "ar": "قدس",
+      "en": "sacred"
+    },
+    {
+      "ar": "حقيقت",
+      "en": "truth"
+    },
+    {
+      "ar": "سائری",
+      "en": "explore"
+    },
+    {
+      "ar": "اشياء",
+      "en": "all things"
+    },
+    {
+      "ar": "معروفيّت",
+      "en": "light of His recognition"
+    },
+    {
+      "ar": "معروف",
+      "en": "known"
+    },
+    {
+      "ar": "بنفسه",
+      "en": "through Himself"
+    },
+    {
+      "ar": "ارض",
+      "en": "land"
+    },
+    {
+      "ar": "ساکنی",
+      "en": "dwellest"
+    },
+    {
+      "ar": "کفايت کن",
+      "en": "content thyself"
+    },
+    {
+      "ar": "فرموده",
+      "en": "revealed"
+    },
+    {
+      "ar": "اَوَلَمْ يَکفِهِم",
+      "en": "Is it not enough for them"
+    },
+    {
+      "ar": "اَنزَلنَا",
+      "en": "sent down"
+    },
+    {
+      "ar": "عَليکَ",
+      "en": "unto Thee"
+    },
+    {
+      "ar": "الکِتَابَ",
+      "en": "the Book"
+    },
+    {
+      "ar": "قرار",
+      "en": "ordained"
+    },
+    {
+      "ar": "اعظم",
+      "en": "greater proof"
+    },
+    {
+      "ar": "نبوده",
+      "en": "none"
+    },
+    {
+      "ar": "نيست",
+      "en": "nor ever will be"
+    },
+    {
+      "ar": "دَليلُهُ",
+      "en": "proof"
+    },
+    {
+      "ar": "آياتُهُ",
+      "en": "His Word"
+    },
+    {
+      "ar": "وُجُودُهُ",
+      "en": "His own Self"
+    },
+    {
+      "ar": "إثباتُهُ",
+      "en": "testimony of His truth"
+    }
+  ],
+  "terms": [
+    {
+      "term": "ظاهر",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "manifest",
+      "note": "Typically 'Manifestation' across 96 occurrences; here rendered 'manifest' as adjective, preserving root sense of appearance/revelation while emphasizing God's visible radiance.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 53,
+          "snippet": "Manifestation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 160,
+          "snippet": "Author of all Manifestations"
+        },
+        {
+          "work": "gleanings",
+          "para": 222,
+          "snippet": "material"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 206,
+          "snippet": "appeared"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 255,
+          "snippet": "Manifestations"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 791,
+          "snippet": "tokens of Thy handiwork"
+        }
+      ]
+    },
+    {
+      "term": "برهانی",
+      "transliteration": "b-r-h-n",
+      "literal": "proof, evidence, demonstration, argument",
+      "se_rendering": "evidence",
+      "note": "Standard rendering 'proof' or 'proofs' across 14 occurrences; here 'evidence' to parallel 'testimony,' creating rhetorical pair (testimony/evidence) though source uses distinct roots.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 510,
+          "snippet": "His proof"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 133,
+          "snippet": "proof"
+        },
+        {
+          "work": "gleanings",
+          "para": 140,
+          "snippet": "nakedness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 69,
+          "snippet": "be fully persuaded"
+        },
+        {
+          "work": "gleanings",
+          "para": 105,
+          "snippet": "repeatedly demonstrated"
+        }
+      ]
+    },
+    {
+      "term": "حقيقت",
+      "transliteration": "h-q-q",
+      "literal": "truth; right; that which is true or just",
+      "se_rendering": "truth",
+      "note": "Root ḥ-q-q standardly yields 'the True One' or 'the Truth'; here 'truth' (lower case) refers to objective reality as knowable domain, a descriptive rather than nominative usage.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 651,
+          "snippet": "the True One"
+        },
+        {
+          "work": "gleanings",
+          "para": 85,
+          "snippet": "the Truth"
+        },
+        {
+          "work": "gleanings",
+          "para": 328,
+          "snippet": "the one true God"
+        },
+        {
+          "work": "gleanings",
+          "para": 707,
+          "snippet": "Him"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 52,
+          "snippet": "Sun of Truth"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 9,
+          "snippet": "evident"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "betrayal of truth"
+        },
+        {
+          "work": "gleanings",
+          "para": 100,
+          "snippet": "clear"
+        }
+      ]
+    },
+    {
+      "term": "معروفيّت",
+      "transliteration": "ʿ-r-f",
+      "literal": "to confess; to acknowledge; to recognize",
+      "se_rendering": "recognition",
+      "note": "Drawn from root ʿ-r-f typically 'testifieth' or 'acknowledged'; here rendered 'recognition'—noun form emphasizing epistemic illumination rather than testimony or confession.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 601,
+          "snippet": "testifieth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 729,
+          "snippet": "hath acknowledged"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 582,
+          "snippet": "have recognized"
+        },
+        {
+          "work": "gleanings",
+          "para": 568,
+          "snippet": "acknowledged"
+        },
+        {
+          "work": "gleanings",
+          "para": 295,
+          "snippet": "made objections"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 744,
+          "snippet": "understanding"
+        },
+        {
+          "work": "gleanings",
+          "para": 87,
+          "snippet": "knowledge"
+        },
+        {
+          "work": "gleanings",
+          "para": 2,
+          "snippet": "perception"
+        }
+      ]
+    },
+    {
+      "term": "حجّتی",
+      "transliteration": "ḥ-j-j",
+      "literal": "path, way; clear path",
+      "se_rendering": "testimony",
+      "note": "Root ḥ-j-j typically yields 'Sanctuary' or 'Proofs'; rendered 'testimony' here, then 'proof' in the final line—SE's deliberate oscillation between witness and logical demonstration.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "Sanctuary"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 2,
+          "snippet": "with proofs"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 45,
+          "snippet": "Proofs"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 7,
+          "snippet": "proof"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 533,
+          "snippet": "veil"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 674,
+          "snippet": "veils"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 97,
+          "snippet": "testimony"
+        }
+      ]
+    }
+  ],
+  "section_index": "100",
+  "section": "100",
+  "section_para": 1
 }

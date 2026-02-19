@@ -1,10 +1,297 @@
 {
   "work": "Tablet of the Holy Mariner",
   "slug": "tablet-of-the-holy-mariner",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 46,
   "source_text": "وما وجدت منهم ما أرادت وهذا من قصص العجباء فسبحان ربّي الأبهى",
   "translation": "She found not in them that which she did desire, and this, verily, is but one of His wondrous tales. \nGlorified be my Lord, the All-Glorious!",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "found-not-wondrous-tales",
+  "alignment": [
+    {
+      "ar": "وجدت",
+      "en": "found"
+    },
+    {
+      "ar": "منهم",
+      "en": "in them"
+    },
+    {
+      "ar": "ما",
+      "en": "that which"
+    },
+    {
+      "ar": "أرادت",
+      "en": "she did desire"
+    },
+    {
+      "ar": "هذا",
+      "en": "this"
+    },
+    {
+      "ar": "قصص",
+      "en": "tales"
+    },
+    {
+      "ar": "العجباء",
+      "en": "wondrous"
+    },
+    {
+      "ar": "سبحان",
+      "en": "Glorified"
+    },
+    {
+      "ar": "ربّي",
+      "en": "my Lord"
+    },
+    {
+      "ar": "الأبهى",
+      "en": "All-Glorious"
+    }
+  ],
+  "terms": [
+    {
+      "term": "وجدت",
+      "transliteration": "w-j-d",
+      "literal": "to find; to discover; to obtain",
+      "se_rendering": "found",
+      "note": "Standard rendering 'found' from 67 occurrences. Maintains literal sense of discovery or discovery-failure in this narrative context.",
+      "cross_refs": [
+        {
+          "work": "the-hidden-words",
+          "para": 91,
+          "snippet": "adorned"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 27,
+          "snippet": "found"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 215,
+          "snippet": "mentioned"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 69,
+          "snippet": "aware"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 783,
+          "snippet": "point of creation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 832,
+          "snippet": "being"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 214,
+          "snippet": "is led"
+        },
+        {
+          "work": "gleanings",
+          "para": 436,
+          "snippet": "The Great Being"
+        }
+      ]
+    },
+    {
+      "term": "أرادت",
+      "transliteration": "r-y-d",
+      "literal": "to will; to intend; to wish",
+      "se_rendering": "desire",
+      "note": "Rendered 'desire' here; Jafar shows SE typically prefers 'will', 'Desire of the worlds', or 'hath sought'. Personal desire-form is rare.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 78,
+          "snippet": "what I have willed"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 32,
+          "snippet": "Desire of the worlds"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 634,
+          "snippet": "will"
+        },
+        {
+          "work": "gleanings",
+          "para": 246,
+          "snippet": "My heart's desire"
+        },
+        {
+          "work": "gleanings",
+          "para": 706,
+          "snippet": "the will of God"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 506,
+          "snippet": "hath sought"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 654,
+          "snippet": "Thy purpose"
+        },
+        {
+          "work": "gleanings",
+          "para": 298,
+          "snippet": "were I to"
+        }
+      ]
+    },
+    {
+      "term": "العجباء",
+      "transliteration": "ʿ-j-b",
+      "literal": "wonder; amazement; marvelous; strange",
+      "se_rendering": "wondrous tales",
+      "note": "Only 2 total occurrences in corpus, both rendered 'wondrous tales'. Plural feminine form suggests multiplicity of divine manifestations.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 163,
+          "snippet": "wondrous"
+        }
+      ]
+    },
+    {
+      "term": "فسبحان",
+      "transliteration": "s-b-ḥ",
+      "literal": "glorified; the All-Praised; exalted",
+      "se_rendering": "Glorified be",
+      "note": "Rendered as verbal phrase 'Glorified be' rather than noun form 'All-Praised'; SE favors imperative/doxological expressions in invocatory contexts.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 211,
+          "snippet": "the All-Praised"
+        },
+        {
+          "work": "gleanings",
+          "para": 212,
+          "snippet": "the Breath of the All-Glorious"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 13,
+          "snippet": "the breezes of the All-Glorious"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 42,
+          "snippet": "Gracious God"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 90,
+          "snippet": "Great God"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 62,
+          "snippet": "Glorified art Thou"
+        },
+        {
+          "work": "gleanings",
+          "para": 112,
+          "snippet": "Glory be to Thee"
+        },
+        {
+          "work": "gleanings",
+          "para": 1,
+          "snippet": "Lauded and glorified art Thou"
+        }
+      ]
+    },
+    {
+      "term": "ربّي",
+      "transliteration": "r-b-b",
+      "literal": "divine; of God; lordly",
+      "se_rendering": "my Lord",
+      "note": "Rendered 'my Lord' with possessive; standard among 31 occurrences. Intimate first-person address intensifies the glorification utterance.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 2,
+          "snippet": "Holy"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 45,
+          "snippet": "Lord"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 69,
+          "snippet": "lordship"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 201,
+          "snippet": "My Lord's"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 162,
+          "snippet": "Divine might"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 16,
+          "snippet": "divine knowledge"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 205,
+          "snippet": "divine wisdom"
+        },
+        {
+          "work": "gleanings",
+          "para": 684,
+          "snippet": "Divine glory"
+        }
+      ]
+    },
+    {
+      "term": "الأبهى",
+      "transliteration": "b-h-y",
+      "literal": "splendor; glory; magnificence; Bahá (Proper Name in Bahá'í texts)",
+      "se_rendering": "the All-Glorious",
+      "note": "Rendered 'All-Glorious' rather than proper name 'Bahá' or 'Abhá'; SE reserves proper form for specific theological contexts, preferring attribute here.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 280,
+          "snippet": "Bahá"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 59,
+          "snippet": "Glory"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 51,
+          "snippet": "Abhá"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 271,
+          "snippet": "All-Glorious"
+        }
+      ]
+    }
+  ],
+  "section_index": "47",
+  "section": "47",
+  "section_para": 1
 }

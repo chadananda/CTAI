@@ -1,10 +1,534 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 322,
   "source_text": "ثابت و محقّق و اینکه از افلاک سؤال نمودید اوّلاً باید معلوم شود که مقصود از ذکر افلاک و سماء که در کتب قبل و بعد مذکور چیست و هم‌چنین ربط و اثر آن بعالم ظاهر بچه نحو جمیع عقول و افئده در این مقام متحیّر و مبهوت ما اطّلع بها الّا الله وحده حکما که عمر دنیا را بچندین هزار سال تعبیر نموده‌اند در این مدّت سیّارات را احصا ننموده‌اند چه مقدار اختلاف در اقوال قبل و بعد ظاهر و م",
   "translation": "Thou hast, moreover, asked Me concerning the nature of the celestial spheres. To comprehend their nature, it would be necessary to inquire into the meaning of the allusions that have been made in the Books of old to the celestial spheres and the heavens, and to discover the character of their relationship to this physical world, and the influence which they exert upon it. Every heart is filled with wonder at so bewildering a theme, and every mind is perplexed by its mystery. God, alone, can fathom its import. The learned men, that have fixed at several thousand years the life of this earth, have failed, throughout the long period of their observation, to consider either the number or the age of the other planets. Consider, moreover, the manifold divergencies that have resulted from the theories propounded by these men. Know thou that every fixed star hath its own planets, and every planet its own creatures, whose number no man can compute.",
   "source_lang": "ar",
-  "score": 9.5
+  "score": 9.5,
+  "page_slug": "every-fixed-star-hath-planets",
+  "alignment": [
+    {
+      "ar": "ثابت",
+      "en": "fixed"
+    },
+    {
+      "ar": "محقّق",
+      "en": "hath"
+    },
+    {
+      "ar": "افلاک",
+      "en": "celestial spheres"
+    },
+    {
+      "ar": "سؤال",
+      "en": "asked"
+    },
+    {
+      "ar": "باید",
+      "en": "would be necessary"
+    },
+    {
+      "ar": "معلوم",
+      "en": "comprehend"
+    },
+    {
+      "ar": "مقصود",
+      "en": "meaning"
+    },
+    {
+      "ar": "ذکر",
+      "en": "allusions"
+    },
+    {
+      "ar": "افلاک",
+      "en": "spheres"
+    },
+    {
+      "ar": "سماء",
+      "en": "heavens"
+    },
+    {
+      "ar": "کتب",
+      "en": "Books"
+    },
+    {
+      "ar": "قبل",
+      "en": "old"
+    },
+    {
+      "ar": "مذکور",
+      "en": "made"
+    },
+    {
+      "ar": "چیست",
+      "en": "nature"
+    },
+    {
+      "ar": "هم‌چنین",
+      "en": "moreover"
+    },
+    {
+      "ar": "ربط",
+      "en": "relationship"
+    },
+    {
+      "ar": "اثر",
+      "en": "influence"
+    },
+    {
+      "ar": "عالم",
+      "en": "world"
+    },
+    {
+      "ar": "ظاهر",
+      "en": "physical"
+    },
+    {
+      "ar": "بچه",
+      "en": "character"
+    },
+    {
+      "ar": "جمیع",
+      "en": "Every"
+    },
+    {
+      "ar": "عقول",
+      "en": "mind"
+    },
+    {
+      "ar": "افئده",
+      "en": "heart"
+    },
+    {
+      "ar": "مقام",
+      "en": "theme"
+    },
+    {
+      "ar": "متحیّر",
+      "en": "perplexed"
+    },
+    {
+      "ar": "مبهوت",
+      "en": "wonder"
+    },
+    {
+      "ar": "اطّلع",
+      "en": "fathom"
+    },
+    {
+      "ar": "الله",
+      "en": "God"
+    },
+    {
+      "ar": "وحده",
+      "en": "alone"
+    },
+    {
+      "ar": "حکما",
+      "en": "learned men"
+    },
+    {
+      "ar": "عمر",
+      "en": "life"
+    },
+    {
+      "ar": "دنیا",
+      "en": "earth"
+    },
+    {
+      "ar": "را",
+      "en": "this"
+    },
+    {
+      "ar": "بچندین",
+      "en": "several"
+    },
+    {
+      "ar": "هزار",
+      "en": "thousand"
+    },
+    {
+      "ar": "سال",
+      "en": "years"
+    },
+    {
+      "ar": "نموده‌اند",
+      "en": "have"
+    },
+    {
+      "ar": "مدّت",
+      "en": "period"
+    },
+    {
+      "ar": "سیّارات",
+      "en": "planets"
+    },
+    {
+      "ar": "احصا",
+      "en": "number"
+    },
+    {
+      "ar": "ننموده‌اند",
+      "en": "failed"
+    },
+    {
+      "ar": "چه",
+      "en": "Consider"
+    },
+    {
+      "ar": "مقدار",
+      "en": "manifold"
+    },
+    {
+      "ar": "اختلاف",
+      "en": "divergencies"
+    },
+    {
+      "ar": "اقوال",
+      "en": "theories"
+    },
+    {
+      "ar": "قبل",
+      "en": "propounded"
+    },
+    {
+      "ar": "ظاهر",
+      "en": "resulted"
+    }
+  ],
+  "terms": [
+    {
+      "term": "معلوم",
+      "transliteration": "ʿ-l-m",
+      "literal": "world; universe; the worlds",
+      "se_rendering": "comprehend",
+      "note": "Root spans 'world/knowledge/mankind' (141 occurrences); 'comprehend' here emphasizes epistemological capacity—narrow cognitive focus versus expansive cosmological reference.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 28,
+          "snippet": "knowledge"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 122,
+          "snippet": "commentators"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 42,
+          "snippet": "banner"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 19,
+          "snippet": "understanding"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 205,
+          "snippet": "ancient Knowledge"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 65,
+          "snippet": "universe"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 4,
+          "snippet": "divine"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 199,
+          "snippet": "peoples of the world"
+        }
+      ]
+    },
+    {
+      "term": "مقصود",
+      "transliteration": "q-s-d",
+      "literal": "intention; purpose; aim; goal; to seek; to direct oneself",
+      "se_rendering": "meaning",
+      "note": "Root typically 'purpose/goal/seek' (32 occurrences); 'meaning' here privileges hermeneutical intent over teleological purpose in this exegetical passage.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 204,
+          "snippet": "Seek"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 64,
+          "snippet": "aim"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 43,
+          "snippet": "purpose"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 444,
+          "snippet": "goal"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 47,
+          "snippet": "my heart's Desire"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 5,
+          "snippet": "my Desire"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 11,
+          "snippet": "the Goal of my desire"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 804,
+          "snippet": "the Desired One"
+        }
+      ]
+    },
+    {
+      "term": "ظاهر",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "physical",
+      "note": "Root typically yields 'Manifestation' (96 occurrences), but rendered 'physical' here—SE grounds celestial inquiry in material realm rather than mystical manifestation.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 140,
+          "snippet": "manifestation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 160,
+          "snippet": "Author of all Manifestations"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 136,
+          "snippet": "evident"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 206,
+          "snippet": "appeared"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 196,
+          "snippet": "Manifestations of God"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 255,
+          "snippet": "Manifestations"
+        }
+      ]
+    },
+    {
+      "term": "مقام",
+      "transliteration": "q-w-m",
+      "literal": "rising; standing; uprising; resurrection",
+      "se_rendering": "theme",
+      "note": "Root means 'rising/uprising/Resurrection' (109 occurrences), but 'theme' here—SE abandons eschatological resonance for philosophical abstraction in this cosmological context.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 152,
+          "snippet": "Day of Resurrection"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 153,
+          "snippet": "Resurrection"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 74,
+          "snippet": "rise"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "peoples"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 26,
+          "snippet": "steadfast"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 38,
+          "snippet": "steadfast in faith"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 628,
+          "snippet": "stood fast"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 198,
+          "snippet": "station"
+        }
+      ]
+    },
+    {
+      "term": "حکما",
+      "transliteration": "h-k-m",
+      "literal": "government; rule; governance; wisdom",
+      "se_rendering": "mysteries",
+      "note": "Root predominantly 'rule' or 'government' (69 occurrences), but 'mysteries' here—SE shifts from political/sovereign language to epistemological unknowability specific to cosmology.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-ahd",
+          "para": 6,
+          "snippet": "rule"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "government"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 849,
+          "snippet": "signs of Thy sovereignty"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 160,
+          "snippet": "meaning of return"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 182,
+          "snippet": "mystery of the former verse"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 129,
+          "snippet": "perspicuous verses"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 46,
+          "snippet": "conclusive"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 220,
+          "snippet": "impregnable stronghold"
+        }
+      ]
+    },
+    {
+      "term": "سیارات",
+      "transliteration": "s-t-r",
+      "literal": "to veil; to conceal; to cover; veil; covering",
+      "se_rendering": "planets",
+      "note": "Root means 'to veil/conceal' (22 occurrences), yet rendered 'planets'—SE provides astronomical denotation rather than veiling metaphor, contradicting root semantics entirely.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 8,
+          "snippet": "concealed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 17,
+          "snippet": "hidden"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 35,
+          "snippet": "star"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 46,
+          "snippet": "tabernacle"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 45,
+          "snippet": "Concealer"
+        }
+      ]
+    },
+    {
+      "term": "اختلاف",
+      "transliteration": "kh-l-f",
+      "literal": "opposing; contrary; conflicting",
+      "se_rendering": "divergencies",
+      "note": "Root consistently 'opposing/contrary' (37 occurrences); 'divergencies' preserves semantic field while allowing scientific disagreement rather than theological opposition.",
+      "cross_refs": [
+        {
+          "work": "the-hidden-words",
+          "para": 107,
+          "snippet": "contrary"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 220,
+          "snippet": "adversaries"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 57,
+          "snippet": "contrary to"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 17,
+          "snippet": "whoso opposeth him"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 192,
+          "snippet": "difference"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 13,
+          "snippet": "contention"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 89,
+          "snippet": "differences"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 18,
+          "snippet": "divers communions"
+        }
+      ]
+    }
+  ],
+  "section_index": "LXXXII.10",
+  "section": "LXXXII",
+  "section_para": 10
 }

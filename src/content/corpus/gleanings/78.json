@@ -1,10 +1,606 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 78,
   "source_text": "الأشرار بكتاب الفجّار كذلك يعملون قل طويت السّماء والأرض في قبضته والمجرمون أُخذوا بناصيتهم ولا يفقهون يشربون الصَّدِيْد ولا يعرفون قل قد أتت الصَّيْحَة وخرج النّاس من الأجداث وهم قيام ينظرون ومنهم مسرع إلى شطر الرّحمن ومنهم مكبّ على وجهه في النّار ومنهم متحيّرون قد نزّلت الآيات وهم عنها معرضون وأتى البرهان وهم عنه غافلون إذا رأَوا وجه الرّحمن سيئَتْ وجوههم وهم يلعبون يهطعون إلى النّار ويحسبون أنّها نور فتعالى اللّه عمّا يظنّون قل لو تفرحون أو تتميّزون من الغيظ قد شقّت السّماء وأتى اللّه بسلطان مبين تنطق الأشيآء",
   "translation": "Say: The heavens have been folded together, and the earth is held within His grasp, and the corrupt doers have been held by their forelock, and still they understand not. They drink of the tainted water, and know it not. Say: The shout hath been raised, and the people have come forth from their graves, and arising, are gazing around them. Some have made haste to attain the court of the God of Mercy, others have fallen down on their faces in the fire of Hell, while still others are lost in bewilderment. The verses of God have been revealed, and yet they have turned away from them. His proof hath been manifested, and yet they are unaware of it. And when they behold the face of the All-Merciful, their own faces are saddened, while they are disporting themselves. They hasten forward to Hell Fire, and mistake it for light. Far from God be what they fondly imagine! Say: Whether ye rejoice or whether ye burst for fury, the heavens are cleft asunder, and God hath come down, invested with radiant sovereignty. All created things are heard exclaiming: “The Kingdom is God’s, the Almighty, the All-Knowing, the All-Wise.”",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "heavens-folded-earth-grasp",
+  "alignment": [
+    {
+      "ar": "الأشرار",
+      "en": "the corrupt doers"
+    },
+    {
+      "ar": "بكتاب",
+      "en": ""
+    },
+    {
+      "ar": "الفجّار",
+      "en": ""
+    },
+    {
+      "ar": "كذلك",
+      "en": ""
+    },
+    {
+      "ar": "يعملون",
+      "en": ""
+    },
+    {
+      "ar": "قل",
+      "en": "Say"
+    },
+    {
+      "ar": "طويت",
+      "en": "have been folded together"
+    },
+    {
+      "ar": "السّماء",
+      "en": "The heavens"
+    },
+    {
+      "ar": "والأرض",
+      "en": "and the earth"
+    },
+    {
+      "ar": "في قبضته",
+      "en": "within His grasp"
+    },
+    {
+      "ar": "والمجرمون",
+      "en": ""
+    },
+    {
+      "ar": "أُخذوا",
+      "en": "have been held"
+    },
+    {
+      "ar": "بناصيتهم",
+      "en": "by their forelock"
+    },
+    {
+      "ar": "ولا",
+      "en": ""
+    },
+    {
+      "ar": "يفقهون",
+      "en": "they understand not"
+    },
+    {
+      "ar": "يشربون",
+      "en": "They drink"
+    },
+    {
+      "ar": "ولا",
+      "en": ""
+    },
+    {
+      "ar": "يعرفون",
+      "en": "know it not"
+    },
+    {
+      "ar": "قد",
+      "en": ""
+    },
+    {
+      "ar": "أتت",
+      "en": "hath been raised"
+    },
+    {
+      "ar": "وخرج",
+      "en": "have come forth"
+    },
+    {
+      "ar": "النّاس",
+      "en": "the people"
+    },
+    {
+      "ar": "من",
+      "en": ""
+    },
+    {
+      "ar": "الأجداث",
+      "en": "their graves"
+    },
+    {
+      "ar": "وهم",
+      "en": ""
+    },
+    {
+      "ar": "قيام",
+      "en": "arising"
+    },
+    {
+      "ar": "ينظرون",
+      "en": "gazing around them"
+    },
+    {
+      "ar": "ومنهم",
+      "en": "Some"
+    },
+    {
+      "ar": "مسرع",
+      "en": "have made haste"
+    },
+    {
+      "ar": "إلى",
+      "en": ""
+    },
+    {
+      "ar": "شطر",
+      "en": "the court"
+    },
+    {
+      "ar": "الرّحمن",
+      "en": "the God of Mercy"
+    },
+    {
+      "ar": "ومنهم",
+      "en": "others"
+    },
+    {
+      "ar": "مكبّ",
+      "en": "have fallen down"
+    },
+    {
+      "ar": "على",
+      "en": ""
+    },
+    {
+      "ar": "وجهه",
+      "en": "their faces"
+    },
+    {
+      "ar": "في",
+      "en": ""
+    },
+    {
+      "ar": "النّار",
+      "en": "the fire of Hell"
+    },
+    {
+      "ar": "ومنهم",
+      "en": "still others"
+    },
+    {
+      "ar": "متحيّرون",
+      "en": "lost in bewilderment"
+    },
+    {
+      "ar": "قد",
+      "en": ""
+    },
+    {
+      "ar": "نزّلت",
+      "en": "have been revealed"
+    },
+    {
+      "ar": "الآيات",
+      "en": "The verses of God"
+    },
+    {
+      "ar": "وهم",
+      "en": "they"
+    },
+    {
+      "ar": "عنها",
+      "en": ""
+    },
+    {
+      "ar": "معرضون",
+      "en": "have turned away from them"
+    },
+    {
+      "ar": "وأتى",
+      "en": "hath been manifested"
+    },
+    {
+      "ar": "البرهان",
+      "en": "His proof"
+    },
+    {
+      "ar": "عنه",
+      "en": ""
+    },
+    {
+      "ar": "غافلون",
+      "en": "are unaware of it"
+    },
+    {
+      "ar": "إذا",
+      "en": "when"
+    },
+    {
+      "ar": "رأَوا",
+      "en": "they behold"
+    },
+    {
+      "ar": "وجه",
+      "en": "the face"
+    },
+    {
+      "ar": "الرّحمن",
+      "en": "the All-Merciful"
+    },
+    {
+      "ar": "سيئَتْ",
+      "en": "are saddened"
+    },
+    {
+      "ar": "وجوههم",
+      "en": "their own faces"
+    },
+    {
+      "ar": "يلعبون",
+      "en": "are disporting themselves"
+    },
+    {
+      "ar": "يهطعون",
+      "en": "They hasten forward"
+    },
+    {
+      "ar": "إلى",
+      "en": ""
+    },
+    {
+      "ar": "النّار",
+      "en": "Hell Fire"
+    },
+    {
+      "ar": "ويحسبون",
+      "en": "and mistake it"
+    },
+    {
+      "ar": "أنّها",
+      "en": ""
+    },
+    {
+      "ar": "نور",
+      "en": "light"
+    },
+    {
+      "ar": "فتعالى",
+      "en": "Far from"
+    },
+    {
+      "ar": "اللّه",
+      "en": "God"
+    },
+    {
+      "ar": "عمّا",
+      "en": ""
+    },
+    {
+      "ar": "يظنّون",
+      "en": "what they fondly imagine"
+    },
+    {
+      "ar": "لو",
+      "en": "Whether"
+    },
+    {
+      "ar": "تفرحون",
+      "en": "ye rejoice"
+    },
+    {
+      "ar": "أو",
+      "en": "or whether"
+    },
+    {
+      "ar": "تتميّزون",
+      "en": "ye burst"
+    },
+    {
+      "ar": "من",
+      "en": ""
+    },
+    {
+      "ar": "الغيظ",
+      "en": "for fury"
+    },
+    {
+      "ar": "قد",
+      "en": ""
+    },
+    {
+      "ar": "شقّت",
+      "en": "are cleft asunder"
+    },
+    {
+      "ar": "السّماء",
+      "en": "the heavens"
+    },
+    {
+      "ar": "وأتى",
+      "en": "hath come down"
+    },
+    {
+      "ar": "بسلطان",
+      "en": "sovereignty"
+    },
+    {
+      "ar": "مبين",
+      "en": "radiant"
+    },
+    {
+      "ar": "تنطق",
+      "en": "are heard exclaiming"
+    },
+    {
+      "ar": "الأشيآء",
+      "en": "All created things"
+    }
+  ],
+  "terms": [
+    {
+      "term": "قبضته",
+      "transliteration": "q-b-ḍ",
+      "literal": "grasp; grip; control; seize",
+      "se_rendering": "His grasp",
+      "note": "Consistently 'grasp' or 'handful' across 11 occurrences; here 'His grasp' maintains the intimate theological image of divine control over creation.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 51,
+          "snippet": "His handful"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 242,
+          "snippet": "my grasp"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 304,
+          "snippet": "grasp of Whose might"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 11,
+          "snippet": "grasp of Thine omnipotence"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 161,
+          "snippet": "in the grasp"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 251,
+          "snippet": "acceptable"
+        }
+      ]
+    },
+    {
+      "term": "النّار",
+      "transliteration": "n-w-r",
+      "literal": "light; illumination",
+      "se_rendering": "Hell Fire",
+      "note": "Root n-w-r literally means 'light' (78 occurrences), yet rendered 'Hell Fire' by context; SE's lexical choice subordinates root meaning to theological reference.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 3,
+          "snippet": "light"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 114,
+          "snippet": "with the light"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 109,
+          "snippet": "Thy light"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 246,
+          "snippet": "Illumine"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 180,
+          "snippet": "fire"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 10,
+          "snippet": "flame of fire"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 39,
+          "snippet": "lights"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 312,
+          "snippet": "splendors"
+        }
+      ]
+    },
+    {
+      "term": "نزّلت",
+      "transliteration": "n-z-l",
+      "literal": "to descend, to be revealed",
+      "se_rendering": "have been revealed",
+      "note": "Among 88 occurrences, 'revealed' dominates; 'have been revealed' maintains passive divine action, aligning with standard rendering pattern throughout SE's corpus.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 188,
+          "snippet": "revealed"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 175,
+          "snippet": "didst send down"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 835,
+          "snippet": "sent down"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 34,
+          "snippet": "Descend"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 47,
+          "snippet": "pour forth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 330,
+          "snippet": "send down"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 40,
+          "snippet": "were revealed"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 16,
+          "snippet": "hath been sent down"
+        }
+      ]
+    },
+    {
+      "term": "معرضون",
+      "transliteration": "ʿ-r-d",
+      "literal": "to turn away; to avert; to abstain; heedless",
+      "se_rendering": "have turned away",
+      "note": "Standard 'turned away' across 47 occurrences; here placed in context of divine verses, establishing the spiritual blindness motif without deviation.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 136,
+          "snippet": "turned away"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 168,
+          "snippet": "turned aside"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 230,
+          "snippet": "disbelievers"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 505,
+          "snippet": "turned their backs"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 89,
+          "snippet": "objections"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 431,
+          "snippet": "have turned back"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 29,
+          "snippet": "hast turned away"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 104,
+          "snippet": "are turned back"
+        }
+      ]
+    },
+    {
+      "term": "البرهان",
+      "transliteration": "b-r-h-n",
+      "literal": "proof, evidence, demonstration, argument",
+      "se_rendering": "His proof",
+      "note": "Among 14 occurrences typically 'proofs' or 'proof'; 'His proof' here specifies divine origin, maintaining singular tangible demonstration of truth.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 218,
+          "snippet": "proofs"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 133,
+          "snippet": "proof"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 69,
+          "snippet": "be fully persuaded"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 73,
+          "snippet": "become clear and manifest"
+        }
+      ]
+    },
+    {
+      "term": "بسلطان",
+      "transliteration": "s-l-ṭ",
+      "literal": "dominion; authority; power; sovereignty; control",
+      "se_rendering": "invested with radiant sovereignty",
+      "note": "Among 43 occurrences rendered variously as 'sovereignty' and 'dominion'; 'invested with radiant sovereignty' expands minimal source into luminous majesty, SE's most elaborate rendering.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 118,
+          "snippet": "sovereignty"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 151,
+          "snippet": "dominion"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 1,
+          "snippet": "Thy sovereignty"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 184,
+          "snippet": "by Thy sovereignty"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 416,
+          "snippet": "Lord"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 13,
+          "snippet": "O King"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 242,
+          "snippet": "king"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 157,
+          "snippet": "the Sháh"
+        }
+      ]
+    }
+  ],
+  "section_index": "XVII.4",
+  "section": "XVII",
+  "section_para": 4
 }

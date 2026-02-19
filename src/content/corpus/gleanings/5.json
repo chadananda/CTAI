@@ -1,10 +1,456 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 5,
   "source_text": "توصف بوصفٍ أو تثنّى بثنآءٍ وكلّما أمرت به عبادك من بدايع ذكرك وجواهر ثنائك هذا من فضلك عليهم ليصعدن بذلك إلى مقرّ الّذي خلق في كينونيّاتهم من عرفان أنفسهم وإنّك لم تزل كنت",
   "translation": "Far, far from Thy glory be what mortal man can affirm of Thee, or attribute unto Thee, or the praise with which he can glorify Thee! Whatever duty Thou hast prescribed unto Thy servants of extolling to the utmost Thy majesty and glory is but a token of Thy grace unto them, that they may be enabled to ascend unto the station conferred upon their own inmost being, the station of the knowledge of their own selves.",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "knowledge-of-own-selves",
+  "alignment": [
+    {
+      "ar": "توصف",
+      "en": "can affirm"
+    },
+    {
+      "ar": "بوصفٍ",
+      "en": "what"
+    },
+    {
+      "ar": "تثنّى",
+      "en": "attribute"
+    },
+    {
+      "ar": "بثنآءٍ",
+      "en": "attribute unto Thee"
+    },
+    {
+      "ar": "أمرت",
+      "en": "prescribed"
+    },
+    {
+      "ar": "عبادك",
+      "en": "Thy servants"
+    },
+    {
+      "ar": "بدايع",
+      "en": "extolling to the utmost"
+    },
+    {
+      "ar": "ذكرك",
+      "en": "Thy majesty"
+    },
+    {
+      "ar": "جواهر",
+      "en": "glory"
+    },
+    {
+      "ar": "ثنائك",
+      "en": "praise"
+    },
+    {
+      "ar": "فضلك",
+      "en": "Thy grace"
+    },
+    {
+      "ar": "عليهم",
+      "en": "unto them"
+    },
+    {
+      "ar": "ليصعدن",
+      "en": "may be enabled to ascend"
+    },
+    {
+      "ar": "مقرّ",
+      "en": "station"
+    },
+    {
+      "ar": "خلق",
+      "en": "conferred"
+    },
+    {
+      "ar": "كينونيّاتهم",
+      "en": "their own inmost being"
+    },
+    {
+      "ar": "عرفان",
+      "en": "knowledge"
+    },
+    {
+      "ar": "أنفسهم",
+      "en": "their own selves"
+    },
+    {
+      "ar": "لم تزل كنت",
+      "en": "Far, far from Thy glory"
+    }
+  ],
+  "terms": [
+    {
+      "term": "بوصف",
+      "transliteration": "w-s-f",
+      "literal": "to describe, characterize; description",
+      "se_rendering": "what mortal man can affirm",
+      "note": "Root meaning 'describe, characterize.' SE renders as 'what mortal man can affirm'—cognitive apprehension rather than mere description, unique framing.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 182,
+          "snippet": "Describing"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 237,
+          "snippet": "praise upon"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 315,
+          "snippet": "describe Thy glory"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 8,
+          "snippet": "described"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 6,
+          "snippet": "reached"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 172,
+          "snippet": "attributes"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 15,
+          "snippet": "equity"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 136,
+          "snippet": "fairness"
+        }
+      ]
+    },
+    {
+      "term": "أمرت",
+      "transliteration": "ʾ-m-r",
+      "literal": "command; cause; matter; affair",
+      "se_rendering": "duty Thou hast prescribed",
+      "note": "Typically 'His Cause,' 'His command,' 'Revelation' (75 occ). Here rendered 'duty Thou hast prescribed'—emphasizing the moral obligation incumbent on servants rather than divine agency.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "His Cause"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 797,
+          "snippet": "Thy Cause"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 597,
+          "snippet": "service"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 167,
+          "snippet": "things"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "commanded"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 236,
+          "snippet": "commissioned"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 785,
+          "snippet": "Thy Revelation"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 38,
+          "snippet": "for the protection of the Cause"
+        }
+      ]
+    },
+    {
+      "term": "ذكرك",
+      "transliteration": "dh-k-r",
+      "literal": "remembrance; mention; memory",
+      "se_rendering": "extolling to the utmost Thy majesty",
+      "note": "Normally 'remembrance,' 'mention' (57 occ). Here 'extolling to the utmost Thy majesty'—shifts from passive recollection to active, intensive praise and exaltation.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 54,
+          "snippet": "mention"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 117,
+          "snippet": "Time and again have I declared"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 39,
+          "snippet": "deliberate"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 274,
+          "snippet": "aforementioned"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 112,
+          "snippet": "recorded"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 34,
+          "snippet": "confined in that"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 4,
+          "snippet": "mentioned"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 6,
+          "snippet": "to remember Thee"
+        }
+      ]
+    },
+    {
+      "term": "وجواهر",
+      "transliteration": "j-w-h-r",
+      "literal": "jewel; essence; gem; substance",
+      "se_rendering": "glory",
+      "note": "Root 'jewel; essence; gem' (10 occ). SE renders as 'glory' here—abstract spiritual radiance rather than concrete or material essence, aligning with majesty theme.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 2,
+          "snippet": "essence"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 22,
+          "snippet": "jewel"
+        }
+      ]
+    },
+    {
+      "term": "مقرّ",
+      "transliteration": "q-r-r",
+      "literal": "stability; firmness; establishment",
+      "se_rendering": "station conferred",
+      "note": "Root 'stability; firmness; establishment' (21 occ). 'Station conferred' is rare; typically 'resting place,' 'ordained,' 'established.' Emphasizes ontological rank bestowed, not mere residence.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 38,
+          "snippet": "steadfast in faith"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 227,
+          "snippet": "ordained"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 13,
+          "snippet": "resting place"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 17,
+          "snippet": "determine"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 57,
+          "snippet": "established"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 155,
+          "snippet": "Peruse"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 15,
+          "snippet": "chant"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 39,
+          "snippet": "is established"
+        }
+      ]
+    },
+    {
+      "term": "خلق",
+      "transliteration": "kh-l-q",
+      "literal": "character; moral traits; disposition; conduct",
+      "se_rendering": "conferred upon",
+      "note": "Root traditionally 'character; moral traits' (49 occ) or 'created her,' 'His creatures.' Here 'conferred upon'—denotes divine bestowal of inmost being, not merely character formation.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 28,
+          "snippet": "character"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 50,
+          "snippet": "spiritual characteristics"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 195,
+          "snippet": "virtues"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 54,
+          "snippet": "created her"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 231,
+          "snippet": "His creatures"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 139,
+          "snippet": "His creation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 343,
+          "snippet": "Thy creatures"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 40,
+          "snippet": "wert created"
+        }
+      ]
+    },
+    {
+      "term": "عرفان",
+      "transliteration": "ʿ-r-f",
+      "literal": "to confess; to acknowledge; to recognize",
+      "se_rendering": "knowledge",
+      "note": "Normally 'understanding,' 'acknowledged,' 'recognized' (82 occ). 'Knowledge' here is contemplative, mystical self-awareness—deeper than intellectual recognition.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 601,
+          "snippet": "testifieth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 729,
+          "snippet": "hath acknowledged"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 582,
+          "snippet": "have recognized"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 228,
+          "snippet": "acknowledged"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 744,
+          "snippet": "understanding"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 5,
+          "snippet": "acknowledging"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 4,
+          "snippet": "fragrance of His garment"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 114,
+          "snippet": "Thy knowledge"
+        }
+      ]
+    },
+    {
+      "term": "أنفسهم",
+      "transliteration": "n-f-s",
+      "literal": "self; soul; psyche",
+      "se_rendering": "their own selves",
+      "note": "Root 'self; soul; psyche' (43 occ). 'Their own selves' reflects direct reflexivity; SE's typical renderings show high variability and abstraction, but here grounds in personal identity.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 114,
+          "snippet": "over Mine own Self"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 789,
+          "snippet": "myself to be only nothing"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 70,
+          "snippet": "This is the station in which I have no power"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 71,
+          "snippet": "his own entity in the kingdom of his self"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 572,
+          "snippet": "Thy Self at all times"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 109,
+          "snippet": "those"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 125,
+          "snippet": "sense of their own powerlessness"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 179,
+          "snippet": "abstained from all that is abhorrent unto Thee"
+        }
+      ]
+    }
+  ],
+  "section_index": "I.5",
+  "section": "I",
+  "section_para": 5
 }

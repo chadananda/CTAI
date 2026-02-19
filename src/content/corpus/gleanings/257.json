@@ -1,10 +1,527 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 257,
   "source_text": "وكذلك قصصنا لكم من قصص الحقّ والقیناكم ما قضی الله من قبل لعلّ تتوبون الیه في انفسكم وترجعون الیه وتكوننّ من الرّاجعین وتتنبّهون في افعالكم وتستیقظون عن نومكم وغفلتكم وتداركوا ما فات عنكم وتكوننّ من المحسنین فمن شآء فلیقبل قولی ومن شآء فلیعرض وما علیّ الّا بأن اذكركم فیما فرّطتم في امر الله لعلّ تكوننّ من المتذكرین اذاً فاسمعوا قولی ثمّ ارجعوا الی الله وتوبوا الیه لیرحمكم الله بفضله ویغفر خطایاكم ویعفو جریراتكم وانّه سبقت رحمته غضبه واحاط فضله كلّ من دخل في قمص الوجود من الأوّلین والآخرین...",
   "translation": "Thus have We recounted unto you the tales of the one true God, and sent down unto you the things He had preordained, that haply ye may ask forgiveness of Him, may return unto Him, may truly repent, may realize your misdeeds, may shake off your slumber, may be roused from your heedlessness, may atone for the things that have escaped you, and be of them that do good. Let him who will, acknowledge the truth of My words; and as to him that willeth not, let him turn aside. My sole duty is to remind you of your failure in duty towards the Cause of God, if perchance ye may be of them that heed My warning. Wherefore, hearken ye unto My speech, and return ye to God and repent, that He, through His grace, may have mercy upon you, may wash away your sins, and forgive your trespasses. The greatness of His mercy surpasseth the fury of His wrath, and His grace encompasseth all who have been called into being and been clothed with the robe of life, be they of the past or of the future.",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "mercy-surpasseth-wrath",
+  "alignment": [
+    {
+      "ar": "كذلك",
+      "en": "Thus"
+    },
+    {
+      "ar": "قصصنا",
+      "en": "recounted"
+    },
+    {
+      "ar": "لكم",
+      "en": "unto you"
+    },
+    {
+      "ar": "قصص",
+      "en": "tales"
+    },
+    {
+      "ar": "الحقّ",
+      "en": "one true God"
+    },
+    {
+      "ar": "القیناكم",
+      "en": "sent down unto you"
+    },
+    {
+      "ar": "ما",
+      "en": "things"
+    },
+    {
+      "ar": "قضی",
+      "en": "preordained"
+    },
+    {
+      "ar": "الله",
+      "en": "He"
+    },
+    {
+      "ar": "من قبل",
+      "en": "had"
+    },
+    {
+      "ar": "لعلّ",
+      "en": "haply"
+    },
+    {
+      "ar": "تتوبون",
+      "en": "ask forgiveness"
+    },
+    {
+      "ar": "الیه",
+      "en": "of Him"
+    },
+    {
+      "ar": "ترجعون",
+      "en": "return"
+    },
+    {
+      "ar": "تكوننّ",
+      "en": "be"
+    },
+    {
+      "ar": "الرّاجعین",
+      "en": "repent"
+    },
+    {
+      "ar": "تتنبّهون",
+      "en": "realize"
+    },
+    {
+      "ar": "افعالكم",
+      "en": "misdeeds"
+    },
+    {
+      "ar": "تستیقظون",
+      "en": "roused"
+    },
+    {
+      "ar": "نومكم",
+      "en": "slumber"
+    },
+    {
+      "ar": "غفلتكم",
+      "en": "heedlessness"
+    },
+    {
+      "ar": "تداركوا",
+      "en": "atone"
+    },
+    {
+      "ar": "فات",
+      "en": "escaped"
+    },
+    {
+      "ar": "عنكم",
+      "en": "you"
+    },
+    {
+      "ar": "المحسنین",
+      "en": "do good"
+    },
+    {
+      "ar": "من شآء",
+      "en": "him who will"
+    },
+    {
+      "ar": "فلیقبل",
+      "en": "acknowledge"
+    },
+    {
+      "ar": "قولی",
+      "en": "My words"
+    },
+    {
+      "ar": "فلیعرض",
+      "en": "turn aside"
+    },
+    {
+      "ar": "ما علیّ",
+      "en": "My sole duty"
+    },
+    {
+      "ar": "الّا",
+      "en": "is"
+    },
+    {
+      "ar": "اذكركم",
+      "en": "remind you"
+    },
+    {
+      "ar": "فیما",
+      "en": "of"
+    },
+    {
+      "ar": "فرّطتم",
+      "en": "failure in duty"
+    },
+    {
+      "ar": "امر الله",
+      "en": "Cause of God"
+    },
+    {
+      "ar": "المتذكرین",
+      "en": "heed My warning"
+    },
+    {
+      "ar": "اذاً",
+      "en": "Wherefore"
+    },
+    {
+      "ar": "فاسمعوا",
+      "en": "hearken"
+    },
+    {
+      "ar": "ثمّ",
+      "en": "and"
+    },
+    {
+      "ar": "لیرحمكم",
+      "en": "have mercy upon you"
+    },
+    {
+      "ar": "بفضله",
+      "en": "through His grace"
+    },
+    {
+      "ar": "ویغفر",
+      "en": "wash away"
+    },
+    {
+      "ar": "خطایاكم",
+      "en": "sins"
+    },
+    {
+      "ar": "ویعفو",
+      "en": "forgive"
+    },
+    {
+      "ar": "جریراتكم",
+      "en": "trespasses"
+    },
+    {
+      "ar": "سبقت",
+      "en": "surpasseth"
+    },
+    {
+      "ar": "رحمته",
+      "en": "His mercy"
+    },
+    {
+      "ar": "غضبه",
+      "en": "His wrath"
+    },
+    {
+      "ar": "احاط",
+      "en": "encompasseth"
+    },
+    {
+      "ar": "فضله",
+      "en": "grace"
+    },
+    {
+      "ar": "كلّ",
+      "en": "all"
+    },
+    {
+      "ar": "دخل",
+      "en": "called into being"
+    },
+    {
+      "ar": "قمص الوجود",
+      "en": "robe of life"
+    },
+    {
+      "ar": "الأوّلین",
+      "en": "past"
+    },
+    {
+      "ar": "الآخرین",
+      "en": "future"
+    }
+  ],
+  "terms": [
+    {
+      "term": "الحق",
+      "transliteration": "h-q-q",
+      "literal": "truth; right; that which is true or just",
+      "se_rendering": "the one true God",
+      "note": "Typically 'the Truth' or 'the True One' (43 occ.); rendered 'the one true God,' amplifying the monotheistic declaration with explicit theological force.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 238,
+          "snippet": "the True One"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 52,
+          "snippet": "Sun of Truth"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 103,
+          "snippet": "Luminaries of Truth"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 113,
+          "snippet": "was realized"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 215,
+          "snippet": "realization"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 9,
+          "snippet": "evident"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "betrayal of truth"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 195,
+          "snippet": "incontrovertible"
+        }
+      ]
+    },
+    {
+      "term": "نومكم",
+      "transliteration": "n-w-m",
+      "literal": "to sleep; to slumber",
+      "se_rendering": "your slumber",
+      "note": "Typically 'sleep' or 'slumber' (17 occ.); rendered 'your slumber,' paired with 'heedlessness' in a parallelism depicting spiritual dormancy and negligence.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 699,
+          "snippet": "sleepeth not"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 564,
+          "snippet": "sleep"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 259,
+          "snippet": "Qayyúmu'l-Asmá"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 121,
+          "snippet": "name"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 24,
+          "snippet": "the people"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 217,
+          "snippet": "all men"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 211,
+          "snippet": "hath been named"
+        }
+      ]
+    },
+    {
+      "term": "قولی",
+      "transliteration": "q-w-l",
+      "literal": "speech; utterance; saying; word",
+      "se_rendering": "My words",
+      "note": "Usually 'His words' or 'his speech' (69 occ.); here 'My words' in first-person divine address, maintaining the speaker's prophetic authority.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 66,
+          "snippet": "His words"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 207,
+          "snippet": "He saith"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 261,
+          "snippet": "said"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 263,
+          "snippet": "hath said"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 236,
+          "snippet": "protested saying"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 231,
+          "snippet": "say"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 224,
+          "snippet": "replied"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 88,
+          "snippet": "they said"
+        }
+      ]
+    },
+    {
+      "term": "بفضله",
+      "transliteration": "f-d-l",
+      "literal": "grace; bounty; generosity; excellence",
+      "se_rendering": "His grace",
+      "note": "Commonly 'grace' or 'gracious favor' (36 occ.); here 'His grace,' maintaining adjectival force while stressing divine generosity as instrument of mercy.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 50,
+          "snippet": "the Gracious, the All-Bountiful"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 115,
+          "snippet": "the All-Bounteous"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 259,
+          "snippet": "merits"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "graciously"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 92,
+          "snippet": "realms"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 278,
+          "snippet": "realm"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 782,
+          "snippet": "through Thy grace"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 709,
+          "snippet": "by Thy grace"
+        }
+      ]
+    },
+    {
+      "term": "رحمته",
+      "transliteration": "r-ḥ-m",
+      "literal": "merciful, compassionate; pertaining to divine mercy",
+      "se_rendering": "have mercy upon you",
+      "note": "Typically rendered 'Divine glory' or 'spirit of mercy' across 70 occurrences; here rendered as dynamic action 'have mercy upon you,' focusing on God's merciful intervention.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 57,
+          "snippet": "Divine"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 89,
+          "snippet": "celestial melody"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 114,
+          "snippet": "spirit of mercy"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 220,
+          "snippet": "have mercy on them"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 546,
+          "snippet": "mercy"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 50,
+          "snippet": "the Compassionate"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 793,
+          "snippet": "have mercy upon them"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 47,
+          "snippet": "Thy mercy"
+        }
+      ]
+    },
+    {
+      "term": "الوجود",
+      "transliteration": "w-j-d",
+      "literal": "to find; to discover; to obtain",
+      "se_rendering": "being",
+      "note": "Range includes 'point of creation' and 'being' (67 occ.); here simply 'being,' part of the metaphorical phrase 'clothed with the robe of life' describing creation.",
+      "cross_refs": [
+        {
+          "work": "the-hidden-words",
+          "para": 91,
+          "snippet": "adorned"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 27,
+          "snippet": "found"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 215,
+          "snippet": "mentioned"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 69,
+          "snippet": "aware"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 783,
+          "snippet": "point of creation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 832,
+          "snippet": "being"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 214,
+          "snippet": "is led"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 291,
+          "snippet": "all created things"
+        }
+      ]
+    }
+  ],
+  "section_index": "LXVI.13",
+  "section": "LXVI",
+  "section_para": 13
 }

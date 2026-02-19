@@ -1,10 +1,386 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 400,
   "source_text": "َقُونَ فِي دُمُوعِهِمْ، وَلَوْلا دُمُوعُهُمْ لَتُحْرِقُهُمْ نارُ قُلُوبِهِمْ وَحَرَارَةُ نُفُوسِهِمْ، كَأَنَّهُمْ مَلائِكَةُ الَّتِيْ خَلَقْتَهُمْ مِنَ النَّارِ وَالثَّلْجِ، أَتَرَى يا إِلهِي بِأَنْ تَمْنَعَهُمْ بَعْدَ هذا الاشْتِياقِ عَنْ لِقائِكَ أَوْ تَطْرُدَهُمْ بَعْدَ هذا الاشْتِعالِ عَنْ بابِ رَحْمَتِكَ يا إِلهِي يَكادُ أَنْ يَنْقَطِعَ الرَّجاءُ عَنْ قُلُوبِ الأَصْْفِيآءِ أَيْنَ نَسَائِمُ فَضْلِكَ، قَدْ أَحَاطَتْهُمْ الأَعْدآءُ مِنْ كُلِّ الأَطْرافِ",
   "translation": "Thou hast Thyself, O my God, protected them, by Thy sovereign might, from both extremities. But for the burning of their souls and the sighing of their hearts, they would be drowned in the midst of their tears, and but for the flood of their tears they would be burnt up by the fire of their hearts and the heat of their souls. Methinks, they are like the angels which Thou hast created of snow and of fire. Wilt Thou, despite such vehement longing, O my God, debar them from Thy presence, or drive them away, notwithstanding such fervor, from the door of Thy mercy? All hope is ready to be extinguished in the hearts of Thy chosen ones, O my God! Where are the breezes of Thy grace? They are hemmed in on all sides by their enemies; where are the ensigns of Thy triumph which Thou didst promise in Thy Tablets?",
   "source_lang": "ar",
-  "score": 9.1
+  "score": 9.1,
+  "page_slug": "angels-created-snow-fire",
+  "alignment": [
+    {
+      "ar": "دُمُوعِهِمْ",
+      "en": "their tears"
+    },
+    {
+      "ar": "وَلَوْلا",
+      "en": "but for"
+    },
+    {
+      "ar": "دُمُوعُهُمْ",
+      "en": "the flood of their tears"
+    },
+    {
+      "ar": "لَتُحْرِقُهُمْ",
+      "en": "they would be burnt up"
+    },
+    {
+      "ar": "نارُ",
+      "en": "fire"
+    },
+    {
+      "ar": "قُلُوبِهِمْ",
+      "en": "their hearts"
+    },
+    {
+      "ar": "حَرَارَةُ",
+      "en": "heat"
+    },
+    {
+      "ar": "نُفُوسِهِمْ",
+      "en": "their souls"
+    },
+    {
+      "ar": "مَلائِكَةُ",
+      "en": "angels"
+    },
+    {
+      "ar": "خَلَقْتَهُمْ",
+      "en": "hast created"
+    },
+    {
+      "ar": "أَتَرَى",
+      "en": "Wilt Thou"
+    },
+    {
+      "ar": "إِلهِي",
+      "en": "my God"
+    },
+    {
+      "ar": "تَمْنَعَهُمْ",
+      "en": "debar them"
+    },
+    {
+      "ar": "بَعْدَ",
+      "en": "despite"
+    },
+    {
+      "ar": "هذا",
+      "en": "such"
+    },
+    {
+      "ar": "الاشْتِياقِ",
+      "en": "vehement longing"
+    },
+    {
+      "ar": "لِقائِكَ",
+      "en": "Thy presence"
+    },
+    {
+      "ar": "تَطْرُدَهُمْ",
+      "en": "drive them away"
+    },
+    {
+      "ar": "الاشْتِعالِ",
+      "en": "fervor"
+    },
+    {
+      "ar": "بابِ",
+      "en": "door"
+    },
+    {
+      "ar": "رَحْمَتِكَ",
+      "en": "Thy mercy"
+    },
+    {
+      "ar": "يَكادُ",
+      "en": "ready"
+    },
+    {
+      "ar": "يَنْقَطِعَ",
+      "en": "to be extinguished"
+    },
+    {
+      "ar": "قُلُوبِ",
+      "en": "hearts"
+    },
+    {
+      "ar": "الأَصْْفِيآءِ",
+      "en": "Thy chosen ones"
+    },
+    {
+      "ar": "أَيْنَ",
+      "en": "Where are"
+    },
+    {
+      "ar": "نَسَائِمُ",
+      "en": "breezes"
+    },
+    {
+      "ar": "فَضْلِكَ",
+      "en": "Thy grace"
+    },
+    {
+      "ar": "أَحَاطَتْهُمْ",
+      "en": "hemmed in"
+    },
+    {
+      "ar": "الأَعْدآءُ",
+      "en": "their enemies"
+    },
+    {
+      "ar": "الأَطْرافِ",
+      "en": "sides"
+    }
+  ],
+  "terms": [
+    {
+      "term": "نُفُوسِهِمْ",
+      "transliteration": "n-f-s",
+      "literal": "self; soul; psyche",
+      "se_rendering": "their souls",
+      "note": "Root n-f-s shows highly varied renderings across corpus (43 occurrences) from 'Self' to abstract philosophical concepts. Here simplified to 'souls' — straightforward, sacrificing SE's typical mystical abstraction.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 114,
+          "snippet": "over Mine own Self"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 70,
+          "snippet": "This is the station in which I have no power"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 71,
+          "snippet": "his own entity in the kingdom of his self"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 109,
+          "snippet": "those"
+        },
+        {
+          "work": "gleanings",
+          "para": 205,
+          "snippet": "souls"
+        },
+        {
+          "work": "gleanings",
+          "para": 297,
+          "snippet": "their powerlessness"
+        },
+        {
+          "work": "gleanings",
+          "para": 225,
+          "snippet": "such of My followers"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 12,
+          "snippet": "self and passion"
+        }
+      ]
+    },
+    {
+      "term": "مَلائِكَةُ",
+      "transliteration": "m-l-k",
+      "literal": "kingdom; dominion; realm; sovereignty",
+      "se_rendering": "angels",
+      "note": "Root m-l-k typically renders as 'kingdom,' 'realm,' 'sovereignty' (70 occurrences). Here 'angels' — exceptional semantic deviation revealing SE's reliance on context over etymological consistency.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-ahd",
+          "para": 16,
+          "snippet": "heaven"
+        },
+        {
+          "work": "gleanings",
+          "para": 394,
+          "snippet": "realm"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 171,
+          "snippet": "kingdom"
+        },
+        {
+          "work": "gleanings",
+          "para": 313,
+          "snippet": "heavenly gem"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 69,
+          "snippet": "realms"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 28,
+          "snippet": "righteous"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 167,
+          "snippet": "by the heavenly power"
+        },
+        {
+          "work": "gleanings",
+          "para": 59,
+          "snippet": "Lord"
+        }
+      ]
+    },
+    {
+      "term": "خَلَقْتَهُمْ",
+      "transliteration": "kh-l-q",
+      "literal": "character; moral traits; disposition; conduct",
+      "se_rendering": "hast created",
+      "note": "Root kh-l-q denotes 'character,' 'virtues,' 'spiritual characteristics' (49 occurrences). Here 'hast created' — physical creation rather than moral disposition, shifting from ethical to ontological meaning.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 28,
+          "snippet": "character"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 50,
+          "snippet": "spiritual characteristics"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 195,
+          "snippet": "virtues"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 54,
+          "snippet": "created her"
+        },
+        {
+          "work": "gleanings",
+          "para": 451,
+          "snippet": "His Apostle"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 2,
+          "snippet": "His creation"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 40,
+          "snippet": "wert created"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 23,
+          "snippet": "created thee"
+        }
+      ]
+    },
+    {
+      "term": "الاشْتِياقِ",
+      "transliteration": "sh-t-y",
+      "literal": "peace; reconciliation; amity",
+      "se_rendering": "vehement longing",
+      "note": "Root sh-t-y appears only twice in corpus with renderings 'harmony' and 'longing.' Here 'vehement longing' — SE augments intensity with 'vehement,' elevating spiritual yearning above mere peaceful reconciliation.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "harmony"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 19,
+          "snippet": "longing"
+        }
+      ]
+    },
+    {
+      "term": "رَحْمَتِكَ",
+      "transliteration": "r-ḥ-m",
+      "literal": "merciful, compassionate; pertaining to divine mercy",
+      "se_rendering": "Thy mercy",
+      "note": "Root r-ḥ-m shows diverse renderings (70 occurrences) including 'Divine glory,' 'spirit of mercy,' 'merciful.' Here simple 'Thy mercy' — SE opts for literal clarity over mystical elaboration in this supplicatory context.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 673,
+          "snippet": "Divine glory"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 57,
+          "snippet": "Divine"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 89,
+          "snippet": "celestial melody"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 114,
+          "snippet": "spirit of mercy"
+        },
+        {
+          "work": "gleanings",
+          "para": 372,
+          "snippet": "merciful"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 220,
+          "snippet": "have mercy on them"
+        },
+        {
+          "work": "gleanings",
+          "para": 12,
+          "snippet": "mercy"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 50,
+          "snippet": "the Compassionate"
+        }
+      ]
+    },
+    {
+      "term": "الأَصْفِيآءِ",
+      "transliteration": "ṣ-f-y",
+      "literal": "pure one; chosen one; selected one; elite",
+      "se_rendering": "Thy chosen ones",
+      "note": "Root ṣ-f-y renders consistently as 'chosen ones' or 'holy Messengers' (13 occurrences). Here 'Thy chosen ones' — maintains standard rendering, emphasizing divine selection of the spiritually elite.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 45,
+          "snippet": "Thy Holy Ones"
+        },
+        {
+          "work": "gleanings",
+          "para": 94,
+          "snippet": "holy and chosen Messengers"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 133,
+          "snippet": "chosen Ones"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 110,
+          "snippet": "holy, and chosen Messengers"
+        }
+      ]
+    }
+  ],
+  "section_index": "XCIV.2",
+  "section": "XCIV",
+  "section_para": 2
 }

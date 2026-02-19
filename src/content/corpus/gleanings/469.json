@@ -1,10 +1,506 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 469,
   "source_text": "ولم يكن هذا الذّكر منّي إليك لتكشف عنّي ضرّي أو توسّط لي عند أحد لا فوربّ العالمين، ولكن فصّلنا لك الأمور لعلّ تتنبّه في فعلك ولا ترد على أحد مثل ما ورّدت علينا وتكون من التّائبين إلى الله الّذي خلقك وكلّ شيء وتكون على بصيرة من بعد وهذا خير لك عمّا عندك وعن سفارتك في هذه الأيّام القليل،",
   "translation": "It is not Our purpose in addressing to thee these words to lighten the burden of Our woe, or to induce thee to intercede for Us with anyone. No, by Him Who is the Lord of all worlds! We have set forth the whole matter before thee, that perchance thou might realize what thou hast done, might desist from inflicting on others the hurt thou hast inflicted on Us, and might be of them that have truly repented to God, Who created thee and created all things, and might act with discernment in the future. Better is this for thee than all thou dost possess, than thy ministry whose days are numbered.",
   "source_lang": "ar",
-  "score": 9.9
+  "score": 9.9,
+  "page_slug": "desist-inflicting-hurt-repented",
+  "alignment": [
+    {
+      "ar": "لم يكن",
+      "en": "is not"
+    },
+    {
+      "ar": "هذا",
+      "en": "these"
+    },
+    {
+      "ar": "الذّكر",
+      "en": "words"
+    },
+    {
+      "ar": "منّي",
+      "en": "Our"
+    },
+    {
+      "ar": "إليك",
+      "en": "to thee"
+    },
+    {
+      "ar": "لتكشف",
+      "en": "to lighten"
+    },
+    {
+      "ar": "ضرّي",
+      "en": "burden of Our woe"
+    },
+    {
+      "ar": "توسّط",
+      "en": "to intercede"
+    },
+    {
+      "ar": "لي",
+      "en": "for Us"
+    },
+    {
+      "ar": "عند",
+      "en": "with"
+    },
+    {
+      "ar": "أحد",
+      "en": "anyone"
+    },
+    {
+      "ar": "لا",
+      "en": "No"
+    },
+    {
+      "ar": "فوربّ",
+      "en": "by Him Who is the Lord"
+    },
+    {
+      "ar": "العالمين",
+      "en": "of all worlds"
+    },
+    {
+      "ar": "ولكن",
+      "en": "We"
+    },
+    {
+      "ar": "فصّلنا",
+      "en": "have set forth"
+    },
+    {
+      "ar": "لك",
+      "en": "before thee"
+    },
+    {
+      "ar": "الأمور",
+      "en": "the whole matter"
+    },
+    {
+      "ar": "لعلّ",
+      "en": "that perchance"
+    },
+    {
+      "ar": "تتنبّه",
+      "en": "thou might realize"
+    },
+    {
+      "ar": "في",
+      "en": "in"
+    },
+    {
+      "ar": "فعلك",
+      "en": "what thou hast done"
+    },
+    {
+      "ar": "ولا",
+      "en": "and"
+    },
+    {
+      "ar": "ترد",
+      "en": "might desist from inflicting"
+    },
+    {
+      "ar": "على",
+      "en": "on"
+    },
+    {
+      "ar": "أحد",
+      "en": "others"
+    },
+    {
+      "ar": "مثل",
+      "en": "the hurt"
+    },
+    {
+      "ar": "ما",
+      "en": "thou hast"
+    },
+    {
+      "ar": "ورّدت",
+      "en": "inflicted"
+    },
+    {
+      "ar": "علينا",
+      "en": "on Us"
+    },
+    {
+      "ar": "وتكون",
+      "en": "and might be"
+    },
+    {
+      "ar": "من",
+      "en": "of"
+    },
+    {
+      "ar": "التّائبين",
+      "en": "them that have truly repented"
+    },
+    {
+      "ar": "إلى الله",
+      "en": "to God"
+    },
+    {
+      "ar": "الّذي",
+      "en": "Who"
+    },
+    {
+      "ar": "خلقك",
+      "en": "created thee"
+    },
+    {
+      "ar": "وكلّ",
+      "en": "and created all"
+    },
+    {
+      "ar": "شيء",
+      "en": "things"
+    },
+    {
+      "ar": "وتكون",
+      "en": "and might act"
+    },
+    {
+      "ar": "بصيرة",
+      "en": "discernment"
+    },
+    {
+      "ar": "من بعد",
+      "en": "in the future"
+    },
+    {
+      "ar": "وهذا",
+      "en": "this"
+    },
+    {
+      "ar": "خير",
+      "en": "Better"
+    },
+    {
+      "ar": "لك",
+      "en": "for thee"
+    },
+    {
+      "ar": "عمّا",
+      "en": "than all"
+    },
+    {
+      "ar": "عندك",
+      "en": "thou dost possess"
+    },
+    {
+      "ar": "وعن",
+      "en": "than"
+    },
+    {
+      "ar": "سفارتك",
+      "en": "thy ministry"
+    },
+    {
+      "ar": "الأيّام",
+      "en": "days"
+    },
+    {
+      "ar": "القليل",
+      "en": "are numbered"
+    }
+  ],
+  "terms": [
+    {
+      "term": "الذّكر",
+      "transliteration": "dh-k-r",
+      "literal": "remembrance; mention; memory",
+      "se_rendering": "words",
+      "note": "Typically 'remembrance' or 'mention' (57 occurrences). Here 'words' — SE shifts to concrete speech act rather than abstract commemoration, aligning with the epistolary context.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 54,
+          "snippet": "mention"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 117,
+          "snippet": "Time and again have I declared"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 39,
+          "snippet": "deliberate"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 274,
+          "snippet": "aforementioned"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 112,
+          "snippet": "recorded"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 34,
+          "snippet": "confined in that"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 4,
+          "snippet": "mentioned"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 6,
+          "snippet": "to remember Thee"
+        }
+      ]
+    },
+    {
+      "term": "ضرّي",
+      "transliteration": "d-r-r",
+      "literal": "harm; damage; injury; detriment",
+      "se_rendering": "the burden of Our woe",
+      "note": "Usually 'harm' or 'adversity' (9 occurrences). Here 'the burden of Our woe' — SE elevates emotional resonance with poetic, compound phrasing emphasizing suffering's weight.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 35,
+          "snippet": "my troubles"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 62,
+          "snippet": "harm"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 9,
+          "snippet": "can harm"
+        }
+      ]
+    },
+    {
+      "term": "فصّلنا",
+      "transliteration": "f-s-l",
+      "literal": "detail; distinction; differentiation; to detail; to separate",
+      "se_rendering": "set forth",
+      "note": "Typically 'expounded' or involves 'distinction' (18 occurrences). Here 'set forth' — SE employs simpler English verb emphasizing presentation over theological discrimination.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 11,
+          "snippet": "hath been severed"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 615,
+          "snippet": "divided between"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 73,
+          "snippet": "discriminating Word"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 194,
+          "snippet": "station of distinction"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 254,
+          "snippet": "separated and distinguished"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 227,
+          "snippet": "distinguished"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 81,
+          "snippet": "one step away"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 179,
+          "snippet": "interval"
+        }
+      ]
+    },
+    {
+      "term": "الأمور",
+      "transliteration": "ʾ-m-r",
+      "literal": "command; cause; matter; affair",
+      "se_rendering": "the whole matter",
+      "note": "Usually 'His Cause' or 'His Revelation' (75 occurrences). Here 'the whole matter' — SE renders neutrally as circumstantial exposition rather than divine imperative.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "His Cause"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 797,
+          "snippet": "Thy Cause"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 597,
+          "snippet": "service"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 167,
+          "snippet": "things"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "commanded"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 236,
+          "snippet": "commissioned"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 785,
+          "snippet": "Thy Revelation"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 38,
+          "snippet": "for the protection of the Cause"
+        }
+      ]
+    },
+    {
+      "term": "التّائبين",
+      "transliteration": "s-d-q",
+      "literal": "to confirm; to verify; to acknowledge; to testify to truth",
+      "se_rendering": "them that have truly repented",
+      "note": "Jafar data lists root ص-د-ق (truth/confirmation). Here rendered 'them that have truly repented' — SE deviates entirely, using ethical repentance rather than truthfulness root.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 225,
+          "snippet": "acknowledge"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 226,
+          "snippet": "men of truth"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 253,
+          "snippet": "truthful"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 134,
+          "snippet": "the truthful"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 28,
+          "snippet": "truthfulness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 143,
+          "snippet": "fidelity"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 10,
+          "snippet": "truth"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 268,
+          "snippet": "spoken the truth"
+        }
+      ]
+    },
+    {
+      "term": "بصيرة",
+      "transliteration": "b-ṣ-r",
+      "literal": "sight; insight; discernment; spiritual perception",
+      "se_rendering": "discernment",
+      "note": "Usually 'discerning' or 'eye of insight' (27 occurrences). Here 'discernment' — SE shifts from visual metaphor to abstract spiritual faculty, favoring noun form.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 27,
+          "snippet": "discerning"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 278,
+          "snippet": "eye of insight"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 16,
+          "snippet": "eye of God"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 116,
+          "snippet": "discerning eye"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 77,
+          "snippet": "hearing ears, and sharp sight"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 667,
+          "snippet": "the All-Seeing"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 231,
+          "snippet": "clear"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 3,
+          "snippet": "proofs"
+        }
+      ]
+    },
+    {
+      "term": "سفارتك",
+      "transliteration": "s-f-r",
+      "literal": "embassy, envoy, intercession",
+      "se_rendering": "thy ministry",
+      "note": "Typically 'Embassy' when referring to institutional role (5 occurrences). Here 'thy ministry' — SE opts for ecclesiastical term emphasizing personal spiritual office over diplomatic function.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 181,
+          "snippet": "Embassy"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 183,
+          "snippet": "Embassy in Constantinople"
+        }
+      ]
+    }
+  ],
+  "section_index": "CXIII.22",
+  "section": "CXIII",
+  "section_para": 22
 }

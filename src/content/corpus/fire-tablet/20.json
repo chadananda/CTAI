@@ -1,10 +1,155 @@
 {
   "work": "Fire Tablet",
   "slug": "fire-tablet",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 20,
   "source_text": "قَدْ أَحَاطَتْ وَسَاوِسُ الشَّيْطَانِ مَنْ فِي الإِمْكَانِ أَيْنَ شِهَابُ نَارِكَ يَا نُوْرَ العَالَمِينَ *",
   "translation": "The whisperings of Satan have been breathed to every creature: Where is the meteor of Thy fire, O Light of the worlds?",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "meteor-of-thy-fire",
+  "alignment": [
+    {
+      "ar": "أَحَاطَتْ",
+      "en": "breathed"
+    },
+    {
+      "ar": "وَسَاوِسُ",
+      "en": "whisperings"
+    },
+    {
+      "ar": "مَنْ",
+      "en": "creature"
+    },
+    {
+      "ar": "الإِمْكَانِ",
+      "en": "every"
+    },
+    {
+      "ar": "أَيْنَ",
+      "en": "Where"
+    },
+    {
+      "ar": "شِهَابُ",
+      "en": "meteor"
+    },
+    {
+      "ar": "نَارِكَ",
+      "en": "Thy fire"
+    },
+    {
+      "ar": "نُوْرَ",
+      "en": "Light"
+    },
+    {
+      "ar": "العَالَمِينَ",
+      "en": "the worlds"
+    }
+  ],
+  "terms": [
+    {
+      "term": "أَحَاطَتْ",
+      "transliteration": "h-w-t",
+      "literal": "to encompass; to surround; to encircle",
+      "se_rendering": "have been breathed to",
+      "note": "Root ح-و-ط typically rendered 'have encompassed' or 'hath encompassed' across corpus. 'Have been breathed to' is unique deviation, suggesting SE interpreted causative sense of passive voice to convey whispered transmission.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 647,
+          "snippet": "have encompassed"
+        },
+        {
+          "work": "gleanings",
+          "para": 649,
+          "snippet": "hath encompassed"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 144,
+          "snippet": "had surrounded"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 197,
+          "snippet": "hath pervaded"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 291,
+          "snippet": "embraced"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 570,
+          "snippet": "have everywhere been compassed with"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 378,
+          "snippet": "when exposed to"
+        },
+        {
+          "work": "gleanings",
+          "para": 373,
+          "snippet": "all-encompassing knowledge"
+        }
+      ]
+    },
+    {
+      "term": "وَسَاوِسُ",
+      "transliteration": "w-s-w",
+      "literal": "whisper; whispering; temptation",
+      "se_rendering": "whisperings",
+      "note": "Root و-س-و appears zero times elsewhere in Jafar corpus—this is its sole occurrence. SE's 'whisperings' captures the temptation/suggestion sense; no comparative rendering data available.",
+      "cross_refs": []
+    },
+    {
+      "term": "الإِمْكَانِ",
+      "transliteration": "m-k-n",
+      "literal": "establishment; confirmation; empowerment; firm settlement",
+      "se_rendering": "every creature",
+      "note": "Root م-ك-ن rendered 'all created things' or 'all creation' in typical contexts. Here 'every creature' is more intimate singular rendering, emphasizing individual souls rather than collective creation.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 595,
+          "snippet": "establishment"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 82,
+          "snippet": "all created things"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 30,
+          "snippet": "the hands of all created things"
+        },
+        {
+          "work": "gleanings",
+          "para": 568,
+          "snippet": "pervaded all created things"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 39,
+          "snippet": "therein"
+        },
+        {
+          "work": "gleanings",
+          "para": 446,
+          "snippet": "all creation"
+        },
+        {
+          "work": "gleanings",
+          "para": 529,
+          "snippet": "can in no wise be"
+        }
+      ]
+    }
+  ],
+  "section_index": "21",
+  "section": "21",
+  "section_para": 1
 }

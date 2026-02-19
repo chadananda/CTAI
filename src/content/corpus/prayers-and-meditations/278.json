@@ -1,10 +1,464 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 278,
   "source_text": "َّ بِأَرْياحِ مَشِيَّتِكَ وَما تَفَوَّهْتُ إِلاَّ بِإِذْنِكَ وَإِلْهامِكَ، لَكَ الحَمْدُ يا مَحْبُوبَ قُلُوبِ العارِفِينَ وَمَقْصُودَ أَفْئِدَةِ المُخْلِصِينَ بِما جَعَلْتَنِي هَدَفَ البَلايا فِي حُبِّكَ وَمَرْجِعَ القَضايا فِي سَبِيلِكَ، فَوَعِزَّتِكَ إِنِّي لا أَجْزَعُ عَمَّا وَرَدَ عَلَيَّ فِي حُبِّكَ، وَفِي أَوَّلِ الْيَوْمِ الَّذِي عَرَّفْتَنِي نَفْسَكَ قَبِلْتُ كُلَّ البَلايا لِنَفْسِي، وَفِي كُلِّ حِينٍ يُنادِيكَ رَأْسِي وَيَقُولُ أَيْ رَبِّ أُحِبُّ أَنْ أَرْتَفِعَ عَلَى القَناةِ فِي سَبِيلِكَ، وَدَمِي يَقُولُ يا إِلهِي فَاجْعَلِ الأَرْضَ مُحْمَرَّةً بِي فِي حُبِّكَ وَرِضائِكَ، وَأَنْتَ تَعْلَمُ بِأَنِّي ما حَفَظْتُ نَفْسِي مِنَ البَلايا وَفِي كُلِّ حِينٍ كُنْتُ مُنْتَظِرًا لِما قَضَيْتَهُ فِي لَوْحِ قَضائِكَ، إِذًا فَانْظُرْنِي يا إِلهِي فَرِيدًا بَيْنَ",
   "translation": "Praise be to Thee, O Thou Who art the Well-Beloved of all that have known Thee, and the Desire of the hearts of such as are devoted to Thee, inasmuch as Thou hast made me a target for the ills that I suffer in my love for Thee, and the object of the assaults launched against me in Thy path. Thy glory beareth me witness! I can, on no account, feel impatient of the adversities that I have borne in my love for Thee. From the very day Thou didst reveal Thyself unto me, I have accepted for myself every manner of tribulation. Every moment of my life my head crieth out to Thee and saith: “Would, O my Lord, that I could be raised on the spear-point in Thy path!” while my blood entreateth Thee saying: “Dye the earth with me, O my God, for the sake of Thy love and Thy pleasure!” Thou knowest that I have, at no time, sought to guard my body against any affliction, nay rather I have continually anticipated the things Thou didst ordain for me in the Tablet of Thy decree.",
   "source_lang": "ar",
-  "score": 9.7
+  "score": 9.7,
+  "page_slug": "target-ills-love-path",
+  "alignment": [
+    {
+      "ar": "بِأَرْياحِ",
+      "en": "beareth me witness"
+    },
+    {
+      "ar": "الحَمْدُ",
+      "en": "Praise"
+    },
+    {
+      "ar": "مَحْبُوبَ",
+      "en": "Well-Beloved"
+    },
+    {
+      "ar": "قُلُوبِ",
+      "en": "hearts"
+    },
+    {
+      "ar": "العارِفِينَ",
+      "en": "all that have known Thee"
+    },
+    {
+      "ar": "مَقْصُودَ",
+      "en": "Desire"
+    },
+    {
+      "ar": "المُخْلِصِينَ",
+      "en": "such as are devoted to Thee"
+    },
+    {
+      "ar": "جَعَلْتَنِي",
+      "en": "Thou hast made me"
+    },
+    {
+      "ar": "هَدَفَ",
+      "en": "target"
+    },
+    {
+      "ar": "البَلايا",
+      "en": "ills"
+    },
+    {
+      "ar": "مَرْجِعَ",
+      "en": "object"
+    },
+    {
+      "ar": "القَضايا",
+      "en": "assaults"
+    },
+    {
+      "ar": "سَبِيلِكَ",
+      "en": "Thy path"
+    },
+    {
+      "ar": "أَجْزَعُ",
+      "en": "feel impatient"
+    },
+    {
+      "ar": "وَرَدَ",
+      "en": "borne"
+    },
+    {
+      "ar": "الْيَوْمِ",
+      "en": "day"
+    },
+    {
+      "ar": "نَفْسَكَ",
+      "en": "Thyself"
+    },
+    {
+      "ar": "قَبِلْتُ",
+      "en": "I have accepted"
+    },
+    {
+      "ar": "لِنَفْسِي",
+      "en": "for myself"
+    },
+    {
+      "ar": "حِينٍ",
+      "en": "moment"
+    },
+    {
+      "ar": "يُنادِيكَ",
+      "en": "crieth out to Thee"
+    },
+    {
+      "ar": "رَأْسِي",
+      "en": "my head"
+    },
+    {
+      "ar": "يَقُولُ",
+      "en": "saith"
+    },
+    {
+      "ar": "أَرْتَفِعَ",
+      "en": "be raised"
+    },
+    {
+      "ar": "القَناةِ",
+      "en": "spear-point"
+    },
+    {
+      "ar": "دَمِي",
+      "en": "my blood"
+    },
+    {
+      "ar": "إِلهِي",
+      "en": "my God"
+    },
+    {
+      "ar": "اجْعَلِ",
+      "en": "Dye"
+    },
+    {
+      "ar": "الأَرْضَ",
+      "en": "the earth"
+    },
+    {
+      "ar": "رِضائِكَ",
+      "en": "Thy pleasure"
+    },
+    {
+      "ar": "تَعْلَمُ",
+      "en": "knowest"
+    },
+    {
+      "ar": "حَفَظْتُ",
+      "en": "sought to guard"
+    },
+    {
+      "ar": "نَفْسِي",
+      "en": "my body"
+    },
+    {
+      "ar": "مُنْتَظِرًا",
+      "en": "anticipated"
+    },
+    {
+      "ar": "قَضَيْتَهُ",
+      "en": "didst ordain"
+    },
+    {
+      "ar": "لَوْحِ",
+      "en": "Tablet"
+    },
+    {
+      "ar": "قَضائِكَ",
+      "en": "Thy decree"
+    },
+    {
+      "ar": "انْظُرْنِي",
+      "en": "me"
+    }
+  ],
+  "terms": [
+    {
+      "term": "مَحْبُوبَ",
+      "transliteration": "ḥ-b-b",
+      "literal": "love; affection",
+      "se_rendering": "Well-Beloved",
+      "note": "Typically 'beloved' across 92 occurrences. 'Well-Beloved' here introduces formality and superlative tone absent from base root rendering, elevating the address.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 3,
+          "snippet": "beloved of the Lord"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 53,
+          "snippet": "loved ones of the Lord"
+        },
+        {
+          "work": "gleanings",
+          "para": 341,
+          "snippet": "loved ones of God"
+        },
+        {
+          "work": "gleanings",
+          "para": 689,
+          "snippet": "beloved of the one true God"
+        },
+        {
+          "work": "gleanings",
+          "para": 640,
+          "snippet": "loved ones"
+        },
+        {
+          "work": "gleanings",
+          "para": 690,
+          "snippet": "beloved of God"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 39,
+          "snippet": "His loved ones"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 10,
+          "snippet": "love for Thee"
+        }
+      ]
+    },
+    {
+      "term": "البَلايا",
+      "transliteration": "b-l-ʾ",
+      "literal": "affliction; trial; calamity",
+      "se_rendering": "ills, tribulation, afflictions",
+      "note": "Root renders as 'trials, tribulations, afflictions' across 27 occurrences. Passage uses 'ills, tribulation, afflictions' interchangeably—SE varies terminology for rhetorical effect within single passage.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 4,
+          "snippet": "trials"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 137,
+          "snippet": "Troubles"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 179,
+          "snippet": "tribulations"
+        },
+        {
+          "work": "gleanings",
+          "para": 660,
+          "snippet": "afflictions"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 28,
+          "snippet": "afflicted"
+        },
+        {
+          "work": "gleanings",
+          "para": 640,
+          "snippet": "subjected"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 145,
+          "snippet": "sick"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 92,
+          "snippet": "Yea"
+        }
+      ]
+    },
+    {
+      "term": "سَبِيلِكَ",
+      "transliteration": "s-b-l",
+      "literal": "path; way; road; cause; means",
+      "se_rendering": "path, Thy path",
+      "note": "Standard rendering 'path, Thy path, Thy ways' across 18 occurrences. Consistent use here maintains Qur'anic resonance of spiritual journey and devotional surrender.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 26,
+          "snippet": "Thy ways"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 144,
+          "snippet": "Thy path"
+        },
+        {
+          "work": "gleanings",
+          "para": 17,
+          "snippet": "path"
+        },
+        {
+          "work": "gleanings",
+          "para": 97,
+          "snippet": "door"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 18,
+          "snippet": "manifold systems of religious belief"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 124,
+          "snippet": "the way of God"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 13,
+          "snippet": "the path of God"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 12,
+          "snippet": "the paths of delusion"
+        }
+      ]
+    },
+    {
+      "term": "الْيَوْمِ",
+      "transliteration": "y-w-m",
+      "literal": "day; age; period; era",
+      "se_rendering": "day",
+      "note": "Root means 'day, age, period' (44 occurrences). 'very day' here adds temporal emphasis—SE's modifier intensifies the moment of divine self-revelation narratively.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 18,
+          "snippet": "this Day"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 176,
+          "snippet": "In this day"
+        },
+        {
+          "work": "gleanings",
+          "para": 341,
+          "snippet": "This is the Day"
+        },
+        {
+          "work": "gleanings",
+          "para": 37,
+          "snippet": "days of Moses"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 14,
+          "snippet": "In these days"
+        },
+        {
+          "work": "gleanings",
+          "para": 261,
+          "snippet": "Days passed"
+        },
+        {
+          "work": "gleanings",
+          "para": 211,
+          "snippet": "the days"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 130,
+          "snippet": "today"
+        }
+      ]
+    },
+    {
+      "term": "مُنْتَظِرًا",
+      "transliteration": "n-dh-r",
+      "literal": "sight; view; spectacle; appearance",
+      "se_rendering": "anticipated",
+      "note": "Root covers 'anticipating, expectant, awaiting' (48 occurrences). 'anticipated' shifts from passive waiting to active expectation—aligns with speaker's willful acceptance rather than mere passivity.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 351,
+          "snippet": "towards the Most Great Revelation"
+        },
+        {
+          "work": "gleanings",
+          "para": 150,
+          "snippet": "anticipating"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 5,
+          "snippet": "peer"
+        },
+        {
+          "work": "gleanings",
+          "para": 201,
+          "snippet": "counterpart"
+        },
+        {
+          "work": "gleanings",
+          "para": 385,
+          "snippet": "comparison"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 2,
+          "snippet": "unique"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 17,
+          "snippet": "the eyes"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 107,
+          "snippet": "Consider"
+        }
+      ]
+    },
+    {
+      "term": "فَرِيدًا",
+      "transliteration": "f-r-d",
+      "literal": "unique; singular; incomparable",
+      "se_rendering": "one",
+      "note": "Root means 'unique, singular, incomparable' (23 occurrences). 'one' here is stark reductionist rendering—SE simplifies to emphasize existential isolation in suffering path.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 2,
+          "snippet": "wondrous"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 249,
+          "snippet": "unique"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 49,
+          "snippet": "alone"
+        },
+        {
+          "work": "gleanings",
+          "para": 384,
+          "snippet": "oneness"
+        },
+        {
+          "work": "gleanings",
+          "para": 386,
+          "snippet": "His singleness"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 47,
+          "snippet": "Thy oneness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 5,
+          "snippet": "Thy unity and Thy oneness"
+        },
+        {
+          "work": "gleanings",
+          "para": 2,
+          "snippet": "uniqueness"
+        }
+      ]
+    }
+  ],
+  "section_index": "LXVI.7",
+  "section": "LXVI",
+  "section_para": 7
 }

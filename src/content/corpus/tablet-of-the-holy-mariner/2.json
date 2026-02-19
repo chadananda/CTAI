@@ -1,10 +1,373 @@
 {
   "work": "Tablet of the Holy Mariner",
   "slug": "tablet-of-the-holy-mariner",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 2,
   "source_text": "ثمّ أمسكه على بحر القِدَم ببديع من الأسماء فسبحان ربّي الأبهى",
   "translation": "Launch it upon the ancient sea, in His Name, the Most Wondrous, Glorified be my Lord, the All-Glorious!",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "ancient-sea-wondrous-name",
+  "alignment": [
+    {
+      "ar": "أمسكه",
+      "en": "Launch it"
+    },
+    {
+      "ar": "بحر",
+      "en": "sea"
+    },
+    {
+      "ar": "القِدَم",
+      "en": "ancient"
+    },
+    {
+      "ar": "ببديع",
+      "en": "the Most Wondrous"
+    },
+    {
+      "ar": "الأسماء",
+      "en": "His Name"
+    },
+    {
+      "ar": "فسبحان",
+      "en": "Glorified"
+    },
+    {
+      "ar": "ربّي",
+      "en": "my Lord"
+    },
+    {
+      "ar": "الأبهى",
+      "en": "the All-Glorious"
+    }
+  ],
+  "terms": [
+    {
+      "term": "بحر",
+      "transliteration": "b-ḥ-r",
+      "literal": "sea; ocean",
+      "se_rendering": "sea",
+      "note": "Typically 'ocean' or 'oceans' (18 occurrences); 'sea' here is less common but semantically equivalent, possibly chosen for metrical balance with 'ancient'.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 2,
+          "snippet": "two Seas"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 32,
+          "snippet": "ocean"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 769,
+          "snippet": "oceans"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 119,
+          "snippet": "seas"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 353,
+          "snippet": "ocean of Thy wrath"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 32,
+          "snippet": "sea of grace"
+        },
+        {
+          "work": "gleanings",
+          "para": 12,
+          "snippet": "Ocean of God's mercy"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 666,
+          "snippet": "unto the ocean"
+        }
+      ]
+    },
+    {
+      "term": "القِدَم",
+      "transliteration": "q-d-m",
+      "literal": "ancientness; antiquity; foot; to come forward",
+      "se_rendering": "ancient",
+      "note": "Usually rendered as 'Ancient Beauty', 'Ancient of Days', or 'Ancient King' when denoting divine attributes; 'ancient' as bare adjective is a structural deviation that emphasizes temporal primacy.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 183,
+          "snippet": "Ancient Beauty"
+        },
+        {
+          "work": "gleanings",
+          "para": 259,
+          "snippet": "Ancient of Days"
+        },
+        {
+          "work": "gleanings",
+          "para": 595,
+          "snippet": "Ancient King"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 146,
+          "snippet": "certitude"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 127,
+          "snippet": "eternity"
+        },
+        {
+          "work": "gleanings",
+          "para": 13,
+          "snippet": "celebration of His praise and glory"
+        },
+        {
+          "work": "gleanings",
+          "para": 407,
+          "snippet": "sanctify"
+        },
+        {
+          "work": "gleanings",
+          "para": 496,
+          "snippet": "sanctified"
+        }
+      ]
+    },
+    {
+      "term": "ببديع",
+      "transliteration": "b-d-ʿ",
+      "literal": "to create; most wondrous; excel",
+      "se_rendering": "Most Wondrous",
+      "note": "Consistently 'most wondrous' across corpus; SE maintains this rendering, treating بديع as superlative descriptor rather than proper noun (Badí'u'lláh) or abstract concept.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 2,
+          "snippet": "most wondrous"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 65,
+          "snippet": "creation"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 6,
+          "snippet": "Badí'u'lláh"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 9,
+          "snippet": "horizon of creation"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 191,
+          "snippet": "the eye of the universe"
+        },
+        {
+          "work": "gleanings",
+          "para": 205,
+          "snippet": "wondrous"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 4,
+          "snippet": "Mighty, the Wondrous"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 315,
+          "snippet": "kingdoms of creation"
+        }
+      ]
+    },
+    {
+      "term": "الاسماء",
+      "transliteration": "s-m-y",
+      "literal": "to name, to nominate, to designate, to appoint",
+      "se_rendering": "Name",
+      "note": "Typically plural 'names' or 'Titles' (Jafar shows 'Names', 'of His names'); singular 'Name' here suggests SE reads the construct phrase ببديع من الأسماء as a unified divine attribute, not enumerated names.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 20,
+          "snippet": "nominated and appointed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 3,
+          "snippet": "names"
+        },
+        {
+          "work": "gleanings",
+          "para": 374,
+          "snippet": "of His names"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 103,
+          "snippet": "thy name"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 91,
+          "snippet": "My name"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 35,
+          "snippet": "by Thy name"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 107,
+          "snippet": "in the Most Great Name"
+        },
+        {
+          "work": "gleanings",
+          "para": 112,
+          "snippet": "by the Name"
+        }
+      ]
+    },
+    {
+      "term": "فسبحان",
+      "transliteration": "s-b-ḥ",
+      "literal": "glorified; the All-Praised; exalted",
+      "se_rendering": "Glorified",
+      "note": "Core rendering 'Glorified' is consistent with Jafar data; 'Glorified art Thou' and 'Glorified be' are SE's primary English structures for this root's liturgical function.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 211,
+          "snippet": "the All-Praised"
+        },
+        {
+          "work": "gleanings",
+          "para": 212,
+          "snippet": "the Breath of the All-Glorious"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 13,
+          "snippet": "the breezes of the All-Glorious"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 42,
+          "snippet": "Gracious God"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 90,
+          "snippet": "Great God"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 62,
+          "snippet": "Glorified art Thou"
+        },
+        {
+          "work": "gleanings",
+          "para": 112,
+          "snippet": "Glory be to Thee"
+        },
+        {
+          "work": "gleanings",
+          "para": 1,
+          "snippet": "Lauded and glorified art Thou"
+        }
+      ]
+    },
+    {
+      "term": "ربّي",
+      "transliteration": "r-b-b",
+      "literal": "divine; of God; lordly",
+      "se_rendering": "my Lord",
+      "note": "Standard 'my Lord' matches dominant pattern in Jafar; maintains possessive intimacy while invoking lordship—no deviation from typical rendering.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 2,
+          "snippet": "Holy"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 45,
+          "snippet": "Lord"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 69,
+          "snippet": "lordship"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 201,
+          "snippet": "My Lord's"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 162,
+          "snippet": "Divine might"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 16,
+          "snippet": "divine knowledge"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 205,
+          "snippet": "divine wisdom"
+        },
+        {
+          "work": "gleanings",
+          "para": 684,
+          "snippet": "Divine glory"
+        }
+      ]
+    },
+    {
+      "term": "الابهی",
+      "transliteration": "b-h-y",
+      "literal": "splendor; glory; magnificence; Bahá (Proper Name in Bahá'í texts)",
+      "se_rendering": "All-Glorious",
+      "note": "Rendered 'All-Glorious' here; Jafar shows SE prefers 'Bahá' as proper noun and 'Glory/glory' as attribute; 'All-Glorious' represents superlative intensification of the glory-sense, rare in corpus.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 280,
+          "snippet": "Bahá"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 59,
+          "snippet": "Glory"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 51,
+          "snippet": "Abhá"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 271,
+          "snippet": "All-Glorious"
+        }
+      ]
+    }
+  ],
+  "section_index": "3",
+  "section": "3",
+  "section_para": 1
 }

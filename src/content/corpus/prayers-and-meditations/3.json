@@ -1,10 +1,315 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 3,
   "source_text": "أَسْئَلُكَ يا إِلهِي بِهِمْ وَبِالزَّفَراتِ الَّتِيْ تَخْرُجُ مِنْ قُلُوبِهِمْ فِيْ فِراقِكَ، بِأَنْ تَحْفَظَهُمْ مِنْ شَرِّ أَعْدائِكَ، وَتَرْزُقَهُمْ ما قَدَّرْتَه لأَوْلِيائِكَ الَّذِينَ لا خَوْفٌ عَلَيْهِمْ وَلا هُمْ يَحْزَنُونَ.",
   "translation": "I beseech Thee, O my God, by them and by the sighs which their hearts utter in their separation from Thee, to keep them safe from the mischief of Thine adversaries, and to nourish their souls with what Thou hast ordained for Thy loved ones on whom shall come no fear and who shall not be put to grief.",
   "source_lang": "ar",
-  "score": 9.3
+  "score": 9.3,
+  "page_slug": "sighs-hearts-separation-loved-ones",
+  "alignment": [
+    {
+      "ar": "أَسْئَلُكَ",
+      "en": "I beseech Thee"
+    },
+    {
+      "ar": "إِلهِي",
+      "en": "my God"
+    },
+    {
+      "ar": "بِهِمْ",
+      "en": "by them"
+    },
+    {
+      "ar": "تَخْرُجُ",
+      "en": "utter"
+    },
+    {
+      "ar": "قُلُوبِهِمْ",
+      "en": "their hearts"
+    },
+    {
+      "ar": "فِراقِكَ",
+      "en": "their separation from Thee"
+    },
+    {
+      "ar": "تَحْفَظَهُمْ",
+      "en": "to keep them safe"
+    },
+    {
+      "ar": "أَعْدائِكَ",
+      "en": "Thine adversaries"
+    },
+    {
+      "ar": "تَرْزُقَهُمْ",
+      "en": "to nourish their souls"
+    },
+    {
+      "ar": "أَوْلِيائِكَ",
+      "en": "Thy loved ones"
+    },
+    {
+      "ar": "خَوْفٌ",
+      "en": "fear"
+    },
+    {
+      "ar": "عَلَيْهِمْ",
+      "en": "on whom"
+    },
+    {
+      "ar": "يَحْزَنُونَ",
+      "en": "be put to grief"
+    }
+  ],
+  "terms": [
+    {
+      "term": "قُلُوبِهِمْ",
+      "transliteration": "q-l-b",
+      "literal": "heart; to turn; to overturn",
+      "se_rendering": "their hearts",
+      "note": "Consistently 'their hearts' across 60 occurrences; here emphasizes the inward emotional dimension of separation and longing.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 187,
+          "snippet": "hearts"
+        },
+        {
+          "work": "gleanings",
+          "para": 668,
+          "snippet": "heart"
+        },
+        {
+          "work": "gleanings",
+          "para": 228,
+          "snippet": "agitation"
+        },
+        {
+          "work": "gleanings",
+          "para": 350,
+          "snippet": "cataclysms"
+        },
+        {
+          "work": "gleanings",
+          "para": 439,
+          "snippet": "discord"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 13,
+          "snippet": "tumult"
+        },
+        {
+          "work": "gleanings",
+          "para": 3,
+          "snippet": "with hearts"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 30,
+          "snippet": "thine heart"
+        }
+      ]
+    },
+    {
+      "term": "فِراقِكَ",
+      "transliteration": "f-r-q",
+      "literal": "faction; sect; group; company",
+      "se_rendering": "separation",
+      "note": "Root typically means 'faction, sect, division' (28 occ), but rendered as 'separation' — captures the relational rupture rather than doctrinal divisions.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 6,
+          "snippet": "sect"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 20,
+          "snippet": "the cause of division"
+        },
+        {
+          "work": "gleanings",
+          "para": 175,
+          "snippet": "hatred causes division"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 1,
+          "snippet": "separation"
+        },
+        {
+          "work": "gleanings",
+          "para": 258,
+          "snippet": "devised"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 32,
+          "snippet": "that separate"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 217,
+          "snippet": "scattered"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 36,
+          "snippet": "cannot distinguish"
+        }
+      ]
+    },
+    {
+      "term": "تَحْفَظَهُمْ",
+      "transliteration": "h-f-z",
+      "literal": "guardian; preserver; keeper",
+      "se_rendering": "keep them safe",
+      "note": "Related root h-f-z renders as 'keep them safe' here; contrasts with alternative forms 'Shield' or 'Guardian' found in concordance (45 occ).",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 3,
+          "snippet": "protection"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 44,
+          "snippet": "shield"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 55,
+          "snippet": "guard"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 22,
+          "snippet": "Guardian"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 90,
+          "snippet": "Watch"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 45,
+          "snippet": "keep"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 30,
+          "snippet": "been preserved"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 165,
+          "snippet": "protected"
+        }
+      ]
+    },
+    {
+      "term": "أَعْدائِكَ",
+      "transliteration": "ʿ-d-w",
+      "literal": "hostility, aggression, enmity, transgression",
+      "se_rendering": "Thine adversaries",
+      "note": "Root rendering usually 'Thine enemies' or 'enemies of the Covenant' (34 occ); 'adversaries' here denotes active opposition rather than mere enmity.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 4,
+          "snippet": "hostility"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 53,
+          "snippet": "enemies of the Covenant"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 110,
+          "snippet": "his enemy"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 33,
+          "snippet": "Thy foes"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 35,
+          "snippet": "amongst mine enemies"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 100,
+          "snippet": "his enemies"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 52,
+          "snippet": "enemies"
+        },
+        {
+          "work": "gleanings",
+          "para": 184,
+          "snippet": "Mine enemies"
+        }
+      ]
+    },
+    {
+      "term": "قَدَّرْتَه",
+      "transliteration": "q-d-r",
+      "literal": "power; might; decree; measure; worth",
+      "se_rendering": "hath ordained",
+      "note": "Root q-d-r spans 'decree, measure, power' (100 occ); 'ordained' here combines predetermination with divine authority—a measured choice.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 171,
+          "snippet": "a while"
+        },
+        {
+          "work": "gleanings",
+          "para": 138,
+          "snippet": "hath been decreed"
+        },
+        {
+          "work": "gleanings",
+          "para": 662,
+          "snippet": "hath decreed"
+        },
+        {
+          "work": "gleanings",
+          "para": 496,
+          "snippet": "forbearing towards"
+        },
+        {
+          "work": "gleanings",
+          "para": 111,
+          "snippet": "schools"
+        },
+        {
+          "work": "gleanings",
+          "para": 532,
+          "snippet": "can"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 4,
+          "snippet": "for a moment"
+        },
+        {
+          "work": "gleanings",
+          "para": 112,
+          "snippet": "Thy might"
+        }
+      ]
+    }
+  ],
+  "section_index": "I.3",
+  "section": "I",
+  "section_para": 3
 }

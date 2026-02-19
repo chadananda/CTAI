@@ -1,10 +1,513 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 250,
   "source_text": "سُبْحَانَكَ اللَّهُمَّ يا إِلهِي تَشْهَدُ بِأَنَّ مَشِيَّتَكَ غَلَبَتِ الأَشْياءَ كُلَّها وَسَبَقَتْ رَحْمَتُكَ مَنْ فِي الأَرْضِ وَالسَّماءِ، فَلَمَّا أَرَدْتَ إِظْهارَ سَلْطَنَتِكَ وَإِعْلاءَ كَلِمَتِكَ وَإِبْرازَ جُودِكَ وَرَحْمَتِكَ بَعَثْتَ عَبْدًا مِنْ عِبادِكَ وَاصْطَفَيْتَه بَيْنَ بَرِيَّتِكَ وَاخْتَرْتَهُ لِنَفْسِكَ وَأَلْبَسْتَهُ خِلَعَ هِدايَتِكَ وَأَغْمَسْتَهُ فِي بُحُورِ عَظَمَتِكَ وَكِبْريائِكَ وَطَهَّرْتَهُ عَنْ كُلِّ ما لا يَنْبَغِي لِعَظَمَتِكَ وَاقْتِدارِكَ، ثُمَّ أَمَرْتَهُ بِالنِّدآءِ بَيْنَ الأَرْضِ وَالسَّمآءِ لِيَدْعُوَ الكُلَّ إِلى مَظْهَرِ ذاتِكَ وَمَطْلَعِ آياتِكَ، فَلَمَّا قَامَ عَ",
   "translation": "Lauded be Thy name, O Lord my God! Thou dost witness that Thy will hath prevailed over all created things, and Thy mercy hath surpassed all who are in heaven and on earth. And when Thou didst purpose to unveil Thy sovereignty, and to glorify Thy word, and to reveal Thy bounteousness and mercy, Thou didst raise up one of Thy servants, and didst choose Him above all Thy creatures, and didst single Him out for Thy purpose, and didst clothe Him with the robe of Thy guidance, and didst immerse Him beneath the seas of Thy majesty and grandeur, and didst sanctify Him from all that beseemeth not the greatness of Thy glory and the power of Thy might, and didst bid Him to cry out before all that are in heaven and on earth, and summon the multitudes to the Manifestation of Thy Self and the Revealer of Thy signs.",
   "source_lang": "ar",
-  "score": 9.7
+  "score": 9.7,
+  "page_slug": "raise-up-servant-chosen",
+  "alignment": [
+    {
+      "ar": "سُبْحَانَكَ",
+      "en": "Lauded be Thy name"
+    },
+    {
+      "ar": "إِلهِي",
+      "en": "my God"
+    },
+    {
+      "ar": "تَشْهَدُ",
+      "en": "dost witness"
+    },
+    {
+      "ar": "غَلَبَتِ",
+      "en": "hath prevailed over"
+    },
+    {
+      "ar": "الأَشْياءَ",
+      "en": "created things"
+    },
+    {
+      "ar": "سَبَقَتْ",
+      "en": "hath surpassed"
+    },
+    {
+      "ar": "رَحْمَتُكَ",
+      "en": "Thy mercy"
+    },
+    {
+      "ar": "الأَرْضِ",
+      "en": "earth"
+    },
+    {
+      "ar": "أَرَدْتَ",
+      "en": "didst purpose"
+    },
+    {
+      "ar": "إِظْهارَ",
+      "en": "to unveil"
+    },
+    {
+      "ar": "سَلْطَنَتِكَ",
+      "en": "Thy sovereignty"
+    },
+    {
+      "ar": "إِعْلاءَ",
+      "en": "to glorify"
+    },
+    {
+      "ar": "كَلِمَتِكَ",
+      "en": "Thy word"
+    },
+    {
+      "ar": "إِبْرازَ",
+      "en": "to reveal"
+    },
+    {
+      "ar": "جُودِكَ",
+      "en": "Thy bounteousness"
+    },
+    {
+      "ar": "رَحْمَتِكَ",
+      "en": "mercy"
+    },
+    {
+      "ar": "بَعَثْتَ",
+      "en": "didst raise up"
+    },
+    {
+      "ar": "عَبْدًا",
+      "en": "one"
+    },
+    {
+      "ar": "عِبادِكَ",
+      "en": "Thy servants"
+    },
+    {
+      "ar": "اصْطَفَيْتَه",
+      "en": "didst choose Him"
+    },
+    {
+      "ar": "اخْتَرْتَهُ",
+      "en": "didst single Him out"
+    },
+    {
+      "ar": "لِنَفْسِكَ",
+      "en": "for Thy purpose"
+    },
+    {
+      "ar": "أَلْبَسْتَهُ",
+      "en": "didst clothe Him"
+    },
+    {
+      "ar": "خِلَعَ",
+      "en": "the robe"
+    },
+    {
+      "ar": "هِدايَتِكَ",
+      "en": "of Thy guidance"
+    },
+    {
+      "ar": "أَغْمَسْتَهُ",
+      "en": "didst immerse Him"
+    },
+    {
+      "ar": "بُحُورِ",
+      "en": "the seas"
+    },
+    {
+      "ar": "عَظَمَتِكَ",
+      "en": "Thy majesty"
+    },
+    {
+      "ar": "كِبْريائِكَ",
+      "en": "grandeur"
+    },
+    {
+      "ar": "يَنْبَغِي",
+      "en": "beseemeth"
+    },
+    {
+      "ar": "لِعَظَمَتِكَ",
+      "en": "the greatness of Thy glory"
+    },
+    {
+      "ar": "اقْتِدارِكَ",
+      "en": "the power of Thy might"
+    },
+    {
+      "ar": "أَمَرْتَهُ",
+      "en": "didst bid Him"
+    },
+    {
+      "ar": "لِيَدْعُوَ",
+      "en": "summon"
+    },
+    {
+      "ar": "مَظْهَرِ",
+      "en": "the Manifestation"
+    },
+    {
+      "ar": "ذاتِكَ",
+      "en": "of Thy Self"
+    },
+    {
+      "ar": "مَطْلَعِ",
+      "en": "the Revealer"
+    },
+    {
+      "ar": "آياتِكَ",
+      "en": "of Thy signs"
+    }
+  ],
+  "terms": [
+    {
+      "term": "مَشِيَّتَكَ",
+      "transliteration": "sh-y-ʾ",
+      "literal": "thing; something",
+      "se_rendering": "Thy will",
+      "note": "Root sh-y-ʾ typically renders 'nothingness' or 'thing.' Here SE translates as 'will'—a theologically deliberate choice emphasizing divine volition over existential categories.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 708,
+          "snippet": "nothingness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 37,
+          "snippet": "something"
+        },
+        {
+          "work": "gleanings",
+          "para": 368,
+          "snippet": "thing"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 15,
+          "snippet": "earthly things"
+        },
+        {
+          "work": "gleanings",
+          "para": 153,
+          "snippet": "transitory things"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 35,
+          "snippet": "all things"
+        },
+        {
+          "work": "gleanings",
+          "para": 161,
+          "snippet": "created things"
+        },
+        {
+          "work": "gleanings",
+          "para": 154,
+          "snippet": "creation"
+        }
+      ]
+    },
+    {
+      "term": "رَحْمَتِكَ",
+      "transliteration": "r-ḥ-m",
+      "literal": "merciful, compassionate; pertaining to divine mercy",
+      "se_rendering": "Thy mercy",
+      "note": "Usually rendered 'Divine glory' or 'spirit of mercy' across 70 occurrences. Here consistently 'mercy'—SE privileges compassion semantics in this invocational context.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 673,
+          "snippet": "Divine glory"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 57,
+          "snippet": "Divine"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 89,
+          "snippet": "celestial melody"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 114,
+          "snippet": "spirit of mercy"
+        },
+        {
+          "work": "gleanings",
+          "para": 372,
+          "snippet": "merciful"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 220,
+          "snippet": "have mercy on them"
+        },
+        {
+          "work": "gleanings",
+          "para": 12,
+          "snippet": "mercy"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 50,
+          "snippet": "the Compassionate"
+        }
+      ]
+    },
+    {
+      "term": "إِظْهارَ",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "unveil",
+      "note": "Standard Manifestation-family term (96 occurrences). SE renders 'unveil' here rather than 'manifestation,' stressing the act of disclosure over the ontological state.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 53,
+          "snippet": "Manifestation"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 136,
+          "snippet": "evident"
+        },
+        {
+          "work": "gleanings",
+          "para": 222,
+          "snippet": "material"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 206,
+          "snippet": "appeared"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 196,
+          "snippet": "Manifestations of God"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 32,
+          "snippet": "overwhelm the soul"
+        }
+      ]
+    },
+    {
+      "term": "سَلْطَنَتِكَ",
+      "transliteration": "s-l-ṭ",
+      "literal": "dominion; authority; power; sovereignty; control",
+      "se_rendering": "Thy sovereignty",
+      "note": "Typically 'sovereignty' (43 occ.). SE maintains consistency, though the term encompasses dominion and authority; 'sovereignty' emphasizes transcendent rule.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 369,
+          "snippet": "sovereignty"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 151,
+          "snippet": "dominion"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 13,
+          "snippet": "O King"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 157,
+          "snippet": "the Sháh"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 1,
+          "snippet": "the King"
+        },
+        {
+          "work": "gleanings",
+          "para": 472,
+          "snippet": "King (Sulṭán 'Abdu'l-'Azíz)"
+        },
+        {
+          "work": "gleanings",
+          "para": 236,
+          "snippet": "the Sulṭán"
+        },
+        {
+          "work": "gleanings",
+          "para": 592,
+          "snippet": "by virtue of His sovereignty"
+        }
+      ]
+    },
+    {
+      "term": "عَبْدًا",
+      "transliteration": "ʿ-b-d",
+      "literal": "servant; slave; worshipper",
+      "se_rendering": "one of Thy servants",
+      "note": "Root ʿ-b-d rendered 'servant' (68 occ.). SE uses singular indefinite 'one of Thy servants' rather than proper name—preserves theological generality in addressing the Manifestation.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 686,
+          "snippet": "servants"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 27,
+          "snippet": "'Abdu'l‑Bahá"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 260,
+          "snippet": "'Abdu'l-'Azíz"
+        },
+        {
+          "work": "gleanings",
+          "para": 67,
+          "snippet": "servant"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 10,
+          "snippet": "this wronged servant of Thine"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 47,
+          "snippet": "this servant of Thine"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 50,
+          "snippet": "the servants"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 12,
+          "snippet": "Thy trusted servants"
+        }
+      ]
+    },
+    {
+      "term": "عَظَمَتِكَ",
+      "transliteration": "ʿ-z̟-m",
+      "literal": "greatest; supreme; mightiest",
+      "se_rendering": "the greatness of Thy glory",
+      "note": "Root ʿ-z̟-m (63 occ.) usually 'Most Great' or 'supreme.' Here 'greatness' paired with 'glory'—SE doubles the attribute to intensify divine transcendence.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 56,
+          "snippet": "supreme"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 3,
+          "snippet": "greatest"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 6,
+          "snippet": "greater"
+        },
+        {
+          "work": "gleanings",
+          "para": 10,
+          "snippet": "most mighty"
+        },
+        {
+          "work": "gleanings",
+          "para": 409,
+          "snippet": "most great"
+        },
+        {
+          "work": "gleanings",
+          "para": 392,
+          "snippet": "great"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 9,
+          "snippet": "mighty"
+        },
+        {
+          "work": "gleanings",
+          "para": 169,
+          "snippet": "vast"
+        }
+      ]
+    },
+    {
+      "term": "وَاقْتِدارِكَ",
+      "transliteration": "q-d-r",
+      "literal": "power; might; decree; measure; worth",
+      "se_rendering": "the power of Thy might",
+      "note": "Root q-d-r renders variously (100 occ.) as 'power,' 'might,' 'decree.' SE chooses 'power' in tandem with 'might'—emphasizing active divine capability rather than ontological decree.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 171,
+          "snippet": "a while"
+        },
+        {
+          "work": "gleanings",
+          "para": 138,
+          "snippet": "hath been decreed"
+        },
+        {
+          "work": "gleanings",
+          "para": 662,
+          "snippet": "hath decreed"
+        },
+        {
+          "work": "gleanings",
+          "para": 496,
+          "snippet": "forbearing towards"
+        },
+        {
+          "work": "gleanings",
+          "para": 111,
+          "snippet": "schools"
+        },
+        {
+          "work": "gleanings",
+          "para": 532,
+          "snippet": "can"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 4,
+          "snippet": "for a moment"
+        },
+        {
+          "work": "gleanings",
+          "para": 112,
+          "snippet": "Thy might"
+        }
+      ]
+    }
+  ],
+  "section_index": "LXI.1",
+  "section": "LXI",
+  "section_para": 1
 }

@@ -1,10 +1,648 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 725,
   "source_text": "این اراضی مقدّسه در جمیع کتب الهی موصوف و مذکور و اکثر انبیا و مرسلین از این اراضی ظاهر شده‌اند اینست آن بیدائی که جمیع رسل به لبّیک اللّهمّ لبّیک ناطق بودند و وعدهٴ ظهور الله در این اراضی بوده اینست وادی قضا و ارض بیضا و بقعهٴ نورا در کتب قبل جمیع آنچه الیوم ظاهر مذکور است ولکن اهل آن در جمیع کتب الهی غیر مقبول بشأنی که در بعضی از مقامات باولاد افاعی ذکر شده‌اند و حال این مظلوم ما بین اولاد افاعی بأعلی النّدآء ندا مینماید و کل را بغایة قصوی و ذروهٴ علیا و أُفق أعلی می خواند طوبی لمن سمع ما نطق به اللّسان فی ملکوت البیان و ویل لکلّ غافل بعید...",
   "translation": "This Holy Land hath been mentioned and extolled in all the sacred Scriptures. In it have appeared the Prophets of God and His chosen Ones. This is the wilderness in which all the Messengers of God have wandered, from which their cry, “Here am I, here am I, O my God” was raised. This is the promised Land in which He Who is the Revelation of God was destined to be made manifest. This is the Vale of God’s unsearchable decree, the snow-white Spot, the Land of unfading splendor. Whatever hath come to pass in this Day hath been foretold in the Scriptures of old. These same Scriptures, however, unanimously condemn the people that inhabit this land. They have, at one time, been stigmatized as the “generation of vipers.” Behold how this wronged One is now, whilst surrounded by a “generation of vipers,” calling aloud and summoning all men to Him Who is the world’s Ultimate Desire, the Summit and Dayspring of Glory. Happy is the man that hath hearkened to the voice of Him Who is the Lord of the Kingdom of Utterance, and woe betide the heedless, they that have strayed far from His truth.",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "vale-gods-unsearchable-decree",
+  "alignment": [
+    {
+      "ar": "این",
+      "en": "This"
+    },
+    {
+      "ar": "اراضی",
+      "en": "Land"
+    },
+    {
+      "ar": "مقدّسه",
+      "en": "Holy"
+    },
+    {
+      "ar": "در",
+      "en": "in"
+    },
+    {
+      "ar": "جمیع",
+      "en": "all"
+    },
+    {
+      "ar": "کتب",
+      "en": "Scriptures"
+    },
+    {
+      "ar": "الهی",
+      "en": "sacred"
+    },
+    {
+      "ar": "موصوف",
+      "en": "extolled"
+    },
+    {
+      "ar": "مذکور",
+      "en": "mentioned"
+    },
+    {
+      "ar": "اکثر",
+      "en": "the"
+    },
+    {
+      "ar": "انبیا",
+      "en": "Prophets"
+    },
+    {
+      "ar": "مرسلین",
+      "en": "chosen Ones"
+    },
+    {
+      "ar": "از",
+      "en": "from"
+    },
+    {
+      "ar": "این",
+      "en": "In it"
+    },
+    {
+      "ar": "اراضی",
+      "en": "this"
+    },
+    {
+      "ar": "ظاهر",
+      "en": "appeared"
+    },
+    {
+      "ar": "شده‌اند",
+      "en": "have"
+    },
+    {
+      "ar": "اینست",
+      "en": "This is"
+    },
+    {
+      "ar": "بیدائی",
+      "en": "wilderness"
+    },
+    {
+      "ar": "که",
+      "en": "in which"
+    },
+    {
+      "ar": "رسل",
+      "en": "Messengers"
+    },
+    {
+      "ar": "به",
+      "en": "to"
+    },
+    {
+      "ar": "لبّیک اللّهمّ لبّیک",
+      "en": "Here am I, here am I, O my God"
+    },
+    {
+      "ar": "ناطق",
+      "en": "cry"
+    },
+    {
+      "ar": "بودند",
+      "en": "was raised"
+    },
+    {
+      "ar": "وعدهٴ",
+      "en": "promised"
+    },
+    {
+      "ar": "ظهور",
+      "en": "Revelation"
+    },
+    {
+      "ar": "الله",
+      "en": "God"
+    },
+    {
+      "ar": "این",
+      "en": "which"
+    },
+    {
+      "ar": "بوده",
+      "en": "was destined"
+    },
+    {
+      "ar": "وادی",
+      "en": "Vale"
+    },
+    {
+      "ar": "قضا",
+      "en": "decree"
+    },
+    {
+      "ar": "ارض",
+      "en": "Spot"
+    },
+    {
+      "ar": "بیضا",
+      "en": "snow-white"
+    },
+    {
+      "ar": "نورا",
+      "en": "splendor"
+    },
+    {
+      "ar": "قبل",
+      "en": "old"
+    },
+    {
+      "ar": "جمیع",
+      "en": "Whatever"
+    },
+    {
+      "ar": "آنچه",
+      "en": "hath"
+    },
+    {
+      "ar": "الیوم",
+      "en": "Day"
+    },
+    {
+      "ar": "ظاهر",
+      "en": "come to pass"
+    },
+    {
+      "ar": "مذکور",
+      "en": "foretold"
+    },
+    {
+      "ar": "ولکن",
+      "en": "however"
+    },
+    {
+      "ar": "اهل",
+      "en": "people"
+    },
+    {
+      "ar": "آن",
+      "en": "that"
+    },
+    {
+      "ar": "جمیع",
+      "en": "These"
+    },
+    {
+      "ar": "الهی",
+      "en": "same"
+    },
+    {
+      "ar": "غیر مقبول",
+      "en": "condemn"
+    },
+    {
+      "ar": "بشأنی",
+      "en": "unanimously"
+    },
+    {
+      "ar": "در",
+      "en": "at"
+    },
+    {
+      "ar": "بعضی",
+      "en": "one time"
+    },
+    {
+      "ar": "از",
+      "en": "of"
+    },
+    {
+      "ar": "مقامات",
+      "en": "been"
+    },
+    {
+      "ar": "باولاد",
+      "en": "generation"
+    },
+    {
+      "ar": "افاعی",
+      "en": "vipers"
+    },
+    {
+      "ar": "ذکر",
+      "en": "stigmatized"
+    },
+    {
+      "ar": "حال",
+      "en": "now"
+    },
+    {
+      "ar": "مظلوم",
+      "en": "wronged One"
+    },
+    {
+      "ar": "ما بین",
+      "en": "surrounded by"
+    },
+    {
+      "ar": "بأعلی النّدآء",
+      "en": "calling aloud"
+    },
+    {
+      "ar": "ندا",
+      "en": "summoning"
+    },
+    {
+      "ar": "مینماید",
+      "en": "is"
+    },
+    {
+      "ar": "کل",
+      "en": "all men"
+    },
+    {
+      "ar": "بغایة",
+      "en": "Ultimate"
+    },
+    {
+      "ar": "قصوی",
+      "en": "Desire"
+    },
+    {
+      "ar": "ذروهٴ",
+      "en": "Summit"
+    },
+    {
+      "ar": "علیا",
+      "en": "Glory"
+    },
+    {
+      "ar": "أُفق",
+      "en": "Dayspring"
+    },
+    {
+      "ar": "طوبی",
+      "en": "Happy"
+    },
+    {
+      "ar": "لمن",
+      "en": "is the man that"
+    },
+    {
+      "ar": "سمع",
+      "en": "hearkened"
+    },
+    {
+      "ar": "نطق",
+      "en": "voice"
+    },
+    {
+      "ar": "اللّسان",
+      "en": "Him"
+    },
+    {
+      "ar": "ملکوت",
+      "en": "Kingdom"
+    },
+    {
+      "ar": "البیان",
+      "en": "Utterance"
+    },
+    {
+      "ar": "ویل",
+      "en": "woe"
+    },
+    {
+      "ar": "لکلّ",
+      "en": "betide"
+    },
+    {
+      "ar": "غافل",
+      "en": "heedless"
+    },
+    {
+      "ar": "بعید",
+      "en": "strayed far"
+    }
+  ],
+  "terms": [
+    {
+      "term": "ظاهر",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "appeared",
+      "note": "Usually 'Manifestation' or 'manifestation' (96 occ). Here 'appeared' strips the term to bare occurrence, diminishing theological weight in favor of historical narrative.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 140,
+          "snippet": "manifestation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 160,
+          "snippet": "Author of all Manifestations"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 136,
+          "snippet": "evident"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 206,
+          "snippet": "appeared"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 196,
+          "snippet": "Manifestations of God"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 255,
+          "snippet": "Manifestations"
+        }
+      ]
+    },
+    {
+      "term": "نورا",
+      "transliteration": "n-w-r",
+      "literal": "light; illumination",
+      "se_rendering": "unfading splendor",
+      "note": "Standardly 'Light' or 'Orb of Light' (78 occ). 'Unfading splendor' here expands the metaphorical register—SE transforms luminous simplicity into durational glory, adding temporal permanence.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 3,
+          "snippet": "light"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 114,
+          "snippet": "with the light"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 109,
+          "snippet": "Thy light"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 246,
+          "snippet": "Illumine"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 180,
+          "snippet": "fire"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 10,
+          "snippet": "flame of fire"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 39,
+          "snippet": "lights"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 312,
+          "snippet": "splendors"
+        }
+      ]
+    },
+    {
+      "term": "مقامات",
+      "transliteration": "q-w-m",
+      "literal": "rising; standing; uprising; resurrection",
+      "se_rendering": "Scriptures",
+      "note": "Root typically yields 'Resurrection' or 'arise' (109 occ). 'Scriptures' here reflects semantic drift—SE translates the sense of 'positions' or 'stations' rather than the root's primary resurrection sense.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 152,
+          "snippet": "Day of Resurrection"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 153,
+          "snippet": "Resurrection"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 74,
+          "snippet": "rise"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "peoples"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 26,
+          "snippet": "steadfast"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 38,
+          "snippet": "steadfast in faith"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 628,
+          "snippet": "stood fast"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 198,
+          "snippet": "station"
+        }
+      ]
+    },
+    {
+      "term": "مظلوم",
+      "transliteration": "z-l-m",
+      "literal": "wrongedness, oppression, meekness; state of being wronged or oppressed",
+      "se_rendering": "wronged One",
+      "note": "Typically 'afflicted' or 'wronged' (128 occ). SE renders as 'wronged One' here—capitalizing to signify the specific personage, intensifying the pathos of paradox.",
+      "cross_refs": [
+        {
+          "work": "fire-tablet",
+          "para": 49,
+          "snippet": "meekness"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 116,
+          "snippet": "injury"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 36,
+          "snippet": "Wronged One"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 253,
+          "snippet": "wronged"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 9,
+          "snippet": "Darkness"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 33,
+          "snippet": "tyranny"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 573,
+          "snippet": "oppressed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 181,
+          "snippet": "wronged ones"
+        }
+      ]
+    },
+    {
+      "term": "النداء",
+      "transliteration": "n-d-y",
+      "literal": "call; voice; cry; summons",
+      "se_rendering": "calling aloud",
+      "note": "Typically 'voice' or 'Voice' (17 occ). 'Calling aloud' here verbalizes the noun, converting static utterance into dynamic summoning—emphasizing active invocation over mere auditory presence.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 81,
+          "snippet": "Voice"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 260,
+          "snippet": "calling"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 149,
+          "snippet": "a hearkener to the call of the needy"
+        }
+      ]
+    },
+    {
+      "term": "ملکوت",
+      "transliteration": "m-l-k",
+      "literal": "kingdom; dominion; realm; sovereignty",
+      "se_rendering": "Kingdom",
+      "note": "Usually 'kingdom' or 'Kingdom' (70 occ). 'Kingdom of Utterance' here compounds the term with its predicate, creating neologistic theology absent from other passages.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-ahd",
+          "para": 16,
+          "snippet": "heaven"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 171,
+          "snippet": "kingdom"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 69,
+          "snippet": "realms"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 28,
+          "snippet": "righteous"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 167,
+          "snippet": "by the heavenly power"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 57,
+          "snippet": "Ruler"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 82,
+          "snippet": "King"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 102,
+          "snippet": "Lord of all mankind"
+        }
+      ]
+    },
+    {
+      "term": "البیان",
+      "transliteration": "b-y-n",
+      "literal": "to manifest; to make clear; clear, evident",
+      "se_rendering": "Kingdom of Utterance",
+      "note": "Normally rendered as 'the Bayán' or 'clear proofs' (87 occ). 'Kingdom of Utterance' here employs paraphrase, capturing the mystical resonance of divine speech-realm absent from standard renderings.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 231,
+          "snippet": "clear verses"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 3,
+          "snippet": "proofs"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 12,
+          "snippet": "clear proofs"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 101,
+          "snippet": "Bayán"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 84,
+          "snippet": "palpable smoke"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 120,
+          "snippet": "evil"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 178,
+          "snippet": "evident error"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 189,
+          "snippet": "meaning"
+        }
+      ]
+    }
+  ],
+  "section_index": "CLXIV.7",
+  "section": "CLXIV",
+  "section_para": 7
 }

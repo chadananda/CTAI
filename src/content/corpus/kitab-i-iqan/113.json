@@ -1,10 +1,584 @@
 {
   "work": "Kitab-i-Iqan",
   "slug": "kitab-i-iqan",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 113,
   "source_text": "باری، راجع به مطلب می شويم که سؤال از آن شده بود که سلطنت قائم با آنکه در احاديث مأثوره از انجم مضيئه وارد شده با وجود اين اثری از سلطنت ظاهر نشد بلکه خلاف آن تحقّق يافت.  چنانچه اصحاب و اوليای او در دست ناس مبتلا و محصور بوده و هستند و در نهايت ذلّت و عجز در ملک ظاهرند.  بلی،  سلطنتی که در کتب در حقّ قائم مذکور است حقٌ وَ لا رَيبَ فيه و ليکن آن نه آن سلطنت و حکومتی است که هر نفسی  ادراک نمايد.  و ديگر آنکه جميع انبيای قبل که بشارت دادهاند مردم را به ظهور بعد، همه آن مظاهر قبل ذکر سلطنت ظهور بعد را نموده چنانچه در کتب قبل مسطور است و آن تخصيص به قائم ندارد و در حقّ جميع آن مظاهر قبل و بعد حکم سلطنت و جميع صفات و اسماء ثابت و محقّق است زيرا که مظاهر صفات غيبيّه و مطالع اسرار الهيّه اند چنانچه مذکورشد.",
   "translation": "And now, to resume Our argument concerning the question: Why is it that the sovereignty of the Qá’im, affirmed in the text of recorded traditions, and handed down by the shining stars of the Muhammadan Dispensation, hath not in the least been made manifest? Nay, the contrary hath come to pass. Have not His disciples and companions been afflicted of men? Are they not still the victims of the fierce opposition of their enemies? Are they not today leading the life of abased and impotent mortals? Yea, the sovereignty attributed to the Qá’im and spoken of in the scriptures, is a reality, the truth of which none can doubt. This sovereignty, however, is not the sovereignty which the minds of men have falsely imagined. Moreover, the Prophets of old, each and every one, whenever announcing to the people of their day the advent of the coming Revelation, have invariably and specifically referred to that sovereignty with which the promised Manifestation must needs be invested. This is attested by the records of the scriptures of the past. This sovereignty hath not been solely and exclusively attributed to the Qá’im. Nay rather, the attribute of sovereignty and all other names and attributes of God have been and will ever be vouchsafed unto all the Manifestations of God, before and after Him, inasmuch as these Manifestations, as it hath already been explained, are the Embodiments of the attributes of God, the Invisible, and the Revealers of the divine mysteries.",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "sovereignty-not-dominion-minds-imagined",
+  "alignment": [
+    {
+      "ar": "باری",
+      "en": "to resume"
+    },
+    {
+      "ar": "راجع به",
+      "en": "concerning"
+    },
+    {
+      "ar": "مطلب",
+      "en": "argument"
+    },
+    {
+      "ar": "می شويم",
+      "en": ""
+    },
+    {
+      "ar": "سؤال",
+      "en": "question"
+    },
+    {
+      "ar": "بود",
+      "en": ""
+    },
+    {
+      "ar": "سلطنت",
+      "en": "sovereignty"
+    },
+    {
+      "ar": "با آنکه",
+      "en": ""
+    },
+    {
+      "ar": "در احاديث مأثوره",
+      "en": "in the text of recorded traditions"
+    },
+    {
+      "ar": "انجم مضيئه",
+      "en": "shining stars"
+    },
+    {
+      "ar": "وارد شده",
+      "en": "handed down"
+    },
+    {
+      "ar": "با وجود اين",
+      "en": ""
+    },
+    {
+      "ar": "اثری",
+      "en": ""
+    },
+    {
+      "ar": "ظاهر نشد",
+      "en": "not in the least been made manifest"
+    },
+    {
+      "ar": "بلکه",
+      "en": "Nay"
+    },
+    {
+      "ar": "خلاف",
+      "en": "contrary"
+    },
+    {
+      "ar": "تحقّق يافت",
+      "en": "come to pass"
+    },
+    {
+      "ar": "چنانچه",
+      "en": ""
+    },
+    {
+      "ar": "اصحاب",
+      "en": "disciples"
+    },
+    {
+      "ar": "اوليای",
+      "en": "companions"
+    },
+    {
+      "ar": "او",
+      "en": "His"
+    },
+    {
+      "ar": "در دست",
+      "en": ""
+    },
+    {
+      "ar": "ناس",
+      "en": "men"
+    },
+    {
+      "ar": "مبتلا",
+      "en": "afflicted"
+    },
+    {
+      "ar": "محصور",
+      "en": ""
+    },
+    {
+      "ar": "بوده و هستند",
+      "en": ""
+    },
+    {
+      "ar": "در نهايت",
+      "en": ""
+    },
+    {
+      "ar": "ذلّت",
+      "en": "abased"
+    },
+    {
+      "ar": "عجز",
+      "en": "impotent"
+    },
+    {
+      "ar": "ملک",
+      "en": ""
+    },
+    {
+      "ar": "ظاهرند",
+      "en": ""
+    },
+    {
+      "ar": "بلی",
+      "en": "Yea"
+    },
+    {
+      "ar": "کتب",
+      "en": "scriptures"
+    },
+    {
+      "ar": "در حقّ",
+      "en": "attributed to"
+    },
+    {
+      "ar": "مذکور است",
+      "en": "spoken of"
+    },
+    {
+      "ar": "حقٌ",
+      "en": "reality"
+    },
+    {
+      "ar": "وَ لا رَيبَ فيه",
+      "en": "the truth of which none can doubt"
+    },
+    {
+      "ar": "و ليکن",
+      "en": "however"
+    },
+    {
+      "ar": "آن نه",
+      "en": "not"
+    },
+    {
+      "ar": "حکومتی",
+      "en": ""
+    },
+    {
+      "ar": "است که",
+      "en": ""
+    },
+    {
+      "ar": "هر نفسی",
+      "en": ""
+    },
+    {
+      "ar": "ادراک نمايد",
+      "en": "the minds of men have falsely imagined"
+    },
+    {
+      "ar": "و ديگر آنکه",
+      "en": "Moreover"
+    },
+    {
+      "ar": "جميع",
+      "en": "each and every one"
+    },
+    {
+      "ar": "انبيای قبل",
+      "en": "Prophets of old"
+    },
+    {
+      "ar": "بشارت دادهاند",
+      "en": "announcing"
+    },
+    {
+      "ar": "مردم",
+      "en": "people"
+    },
+    {
+      "ar": "به ظهور بعد",
+      "en": "advent of the coming Revelation"
+    },
+    {
+      "ar": "همه",
+      "en": ""
+    },
+    {
+      "ar": "آن مظاهر قبل",
+      "en": ""
+    },
+    {
+      "ar": "ذکر",
+      "en": "referred"
+    },
+    {
+      "ar": "سلطنت ظهور بعد",
+      "en": "sovereignty with which the promised Manifestation"
+    },
+    {
+      "ar": "را نموده",
+      "en": ""
+    },
+    {
+      "ar": "مسطور است",
+      "en": "attested by the records"
+    },
+    {
+      "ar": "تخصيص",
+      "en": "solely and exclusively attributed"
+    },
+    {
+      "ar": "ندارد",
+      "en": ""
+    },
+    {
+      "ar": "صفات",
+      "en": "attribute"
+    },
+    {
+      "ar": "اسماء",
+      "en": "names"
+    },
+    {
+      "ar": "ثابت",
+      "en": "vouchsafed"
+    },
+    {
+      "ar": "محقّق است",
+      "en": ""
+    },
+    {
+      "ar": "زيرا که",
+      "en": "inasmuch as"
+    },
+    {
+      "ar": "مظاهر",
+      "en": "Manifestations"
+    },
+    {
+      "ar": "صفات غيبيّه",
+      "en": "attributes of God, the Invisible"
+    },
+    {
+      "ar": "مطالع",
+      "en": "Revealers"
+    },
+    {
+      "ar": "اسرار الهيّه",
+      "en": "divine mysteries"
+    },
+    {
+      "ar": "اند",
+      "en": ""
+    },
+    {
+      "ar": "مذکورشد",
+      "en": "already been explained"
+    }
+  ],
+  "terms": [
+    {
+      "term": "سلطنت",
+      "transliteration": "s-l-ṭ",
+      "literal": "dominion; authority; power; sovereignty; control",
+      "se_rendering": "sovereignty",
+      "note": "Typically 'sovereignty' (43 occurrences across corpus). SE uses it consistently here to denote non-material spiritual authority rather than earthly political dominion.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 369,
+          "snippet": "sovereignty"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 151,
+          "snippet": "dominion"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 1,
+          "snippet": "Thy sovereignty"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 184,
+          "snippet": "by Thy sovereignty"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 416,
+          "snippet": "Lord"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 13,
+          "snippet": "O King"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 242,
+          "snippet": "king"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 157,
+          "snippet": "the Sháh"
+        }
+      ]
+    },
+    {
+      "term": "ظاهر",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "manifest",
+      "note": "Root typically renders as 'Manifestation' or 'manifestation' (96 occurrences). Here 'manifest' as verb reflects the theological argument about appearance versus hidden reality of sovereignty.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 53,
+          "snippet": "Manifestation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 160,
+          "snippet": "Author of all Manifestations"
+        },
+        {
+          "work": "gleanings",
+          "para": 222,
+          "snippet": "material"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 206,
+          "snippet": "appeared"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 255,
+          "snippet": "Manifestations"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 791,
+          "snippet": "tokens of Thy handiwork"
+        }
+      ]
+    },
+    {
+      "term": "تحقّق",
+      "transliteration": "h-q-q",
+      "literal": "truth; right; that which is true or just",
+      "se_rendering": "come to pass",
+      "note": "Typically 'the Truth' or 'the True One' (43 occurrences). Here SE renders 'come to pass' to reflect the Persian sense of materialization/realization of contrary outcome.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 651,
+          "snippet": "the True One"
+        },
+        {
+          "work": "gleanings",
+          "para": 85,
+          "snippet": "the Truth"
+        },
+        {
+          "work": "gleanings",
+          "para": 328,
+          "snippet": "the one true God"
+        },
+        {
+          "work": "gleanings",
+          "para": 707,
+          "snippet": "Him"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 52,
+          "snippet": "Sun of Truth"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 9,
+          "snippet": "evident"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "betrayal of truth"
+        },
+        {
+          "work": "gleanings",
+          "para": 100,
+          "snippet": "clear"
+        }
+      ]
+    },
+    {
+      "term": "مذکور",
+      "transliteration": "dh-k-r",
+      "literal": "remembrance; mention; memory",
+      "se_rendering": "spoken of",
+      "note": "Usually 'mentioned' or 'remembrance' (57 occurrences). Here 'spoken of' better captures the idea of prophetic utterance and scriptural record rather than mere mention.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 597,
+          "snippet": "remembrance"
+        },
+        {
+          "work": "gleanings",
+          "para": 237,
+          "snippet": "Then it was recalled"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 117,
+          "snippet": "Time and again have I declared"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 39,
+          "snippet": "deliberate"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 112,
+          "snippet": "recorded"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 34,
+          "snippet": "confined in that"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 4,
+          "snippet": "mentioned"
+        },
+        {
+          "work": "gleanings",
+          "para": 721,
+          "snippet": "remembered"
+        }
+      ]
+    },
+    {
+      "term": "حکومتی",
+      "transliteration": "h-k-m",
+      "literal": "government; rule; governance; wisdom",
+      "se_rendering": "sovereignty",
+      "note": "Usually 'rule' or 'government' (69 occurrences). SE pairs it with 'sovereignty' to clarify distinction—governance by mind/intellect versus transcendent spiritual authority.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-ahd",
+          "para": 6,
+          "snippet": "rule"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "government"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 849,
+          "snippet": "signs of Thy sovereignty"
+        },
+        {
+          "work": "gleanings",
+          "para": 224,
+          "snippet": "mysteries"
+        },
+        {
+          "work": "gleanings",
+          "para": 636,
+          "snippet": "rule of the sword"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 129,
+          "snippet": "perspicuous verses"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 157,
+          "snippet": "justice"
+        },
+        {
+          "work": "gleanings",
+          "para": 139,
+          "snippet": "the face of wisdom"
+        }
+      ]
+    },
+    {
+      "term": "اسماء",
+      "transliteration": "s-m-y",
+      "literal": "to name, to nominate, to designate, to appoint",
+      "se_rendering": "names and attributes",
+      "note": "Renders as 'names' and 'attributes' (20 occurrences). SE's phrasing 'names and attributes of God' reflects Quranic theological language about divine Names and their manifestation through Prophets.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 20,
+          "snippet": "nominated and appointed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 3,
+          "snippet": "names"
+        },
+        {
+          "work": "gleanings",
+          "para": 374,
+          "snippet": "of His names"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 103,
+          "snippet": "thy name"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 91,
+          "snippet": "My name"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 35,
+          "snippet": "by Thy name"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 107,
+          "snippet": "in the Most Great Name"
+        },
+        {
+          "work": "gleanings",
+          "para": 112,
+          "snippet": "by the Name"
+        }
+      ]
+    }
+  ],
+  "section_index": "113",
+  "section": "113",
+  "section_para": 1
 }

@@ -1,10 +1,670 @@
 {
   "work": "Kitab-i-Iqan",
   "slug": "kitab-i-iqan",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 75,
   "source_text": "و لفظ سماء در بيانات شموس معانی بر مراتب کثيره اطلاق می شود.                                                                                           مثلاً سماء امر و سماء مشيّت و سماء اراده و سماء عرفان و سماء ايقان و سماء تبيان و سماء ظهور و سماء بطون و امثال آن.  و در هر مقام از لفظ سماء معنيی اراده می فرمايد که غير از واقفين اسرار احديّه و شاربين کؤوس ازليّه احدی ادراک ننمايد.  مثلاً می فرمايد:  \"وَ فِی السَّماءِ رِزقُکُم وَ مَا تُوعَدُونَ\"   و حال آنکه رزق از ارض انبات می نمايد و همچنين:  \"الاَسماءُ تُنزَلُ مِنَ السَّماء، \" با اينکه از لسان عباد اسماء ظاهر می شود.  اگر قدری مرآت قلب را از غبار غرض پاک و لطيف فرمائی جميع تلويحات کلمات کلمه جامعه ربوبيّه را در هر ظهوری ادراک می نمائی و بر اسرار علم واقف می شوی.  و لکن تا حجبات علميّه را که مصطلح بين عباد است به نار انقطاع نسوزانی به صبح نورانی علم حقيقی فائز نگردی.",
   "translation": "In the utterances of the divine Luminaries the term “heaven” hath been applied to many and divers things; such as the “heaven of Command,” the “heaven of Will,” the “heaven of the divine Purpose,” the “heaven of divine Knowledge,” the “heaven of Certitude,” the “heaven of Utterance,” the “heaven of Revelation,” the “heaven of Concealment,” and the like. In every instance, He hath given the term “heaven” a special meaning, the significance of which is revealed to none save those that have been initiated into the divine mysteries, and have drunk from the chalice of immortal life. For example, He saith: “The heaven hath sustenance for you, and it containeth that which you are promised;” whereas it is the earth that yieldeth such sustenance. Likewise, it hath been said: “The names come down from heaven;” whereas they proceed out of the mouth of men. Wert thou to cleanse the mirror of thy heart from the dust of malice, thou wouldst apprehend the meaning of the symbolic terms revealed by the all-embracing Word of God made manifest in every Dispensation, and wouldst discover the mysteries of divine knowledge. Not, however, until thou consumest with the flame of utter detachment those veils of idle learning, that are current amongst men, canst thou behold the resplendent morn of true knowledge.",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "mirror-heart-divine-knowledge",
+  "alignment": [
+    {
+      "ar": "لفظ",
+      "en": "term"
+    },
+    {
+      "ar": "سماء",
+      "en": "heaven"
+    },
+    {
+      "ar": "بيانات",
+      "en": "utterances"
+    },
+    {
+      "ar": "شموس",
+      "en": "Luminaries"
+    },
+    {
+      "ar": "معانی",
+      "en": "divine"
+    },
+    {
+      "ar": "مراتب",
+      "en": "many"
+    },
+    {
+      "ar": "کثيره",
+      "en": "divers things"
+    },
+    {
+      "ar": "اطلاق می شود",
+      "en": "hath been applied"
+    },
+    {
+      "ar": "مثلاً",
+      "en": "such as"
+    },
+    {
+      "ar": "امر",
+      "en": "Command"
+    },
+    {
+      "ar": "مشيّت",
+      "en": "Will"
+    },
+    {
+      "ar": "اراده",
+      "en": "divine Purpose"
+    },
+    {
+      "ar": "عرفان",
+      "en": "divine Knowledge"
+    },
+    {
+      "ar": "ايقان",
+      "en": "Certitude"
+    },
+    {
+      "ar": "تبيان",
+      "en": "Utterance"
+    },
+    {
+      "ar": "ظهور",
+      "en": "Revelation"
+    },
+    {
+      "ar": "بطون",
+      "en": "Concealment"
+    },
+    {
+      "ar": "امثال",
+      "en": "the like"
+    },
+    {
+      "ar": "مقام",
+      "en": "instance"
+    },
+    {
+      "ar": "معنيی",
+      "en": "meaning"
+    },
+    {
+      "ar": "اراده می فرمايد",
+      "en": "hath given"
+    },
+    {
+      "ar": "غير از",
+      "en": "none save"
+    },
+    {
+      "ar": "واقفين",
+      "en": "initiated"
+    },
+    {
+      "ar": "اسرار",
+      "en": "mysteries"
+    },
+    {
+      "ar": "شاربين",
+      "en": "drunk"
+    },
+    {
+      "ar": "کؤوس",
+      "en": "chalice"
+    },
+    {
+      "ar": "ازليّه",
+      "en": "immortal life"
+    },
+    {
+      "ar": "احدی",
+      "en": "none"
+    },
+    {
+      "ar": "ادراک ننمايد",
+      "en": "revealed"
+    },
+    {
+      "ar": "می فرمايد",
+      "en": "He saith"
+    },
+    {
+      "ar": "حال آنکه",
+      "en": "whereas"
+    },
+    {
+      "ar": "رزق",
+      "en": "sustenance"
+    },
+    {
+      "ar": "ارض",
+      "en": "earth"
+    },
+    {
+      "ar": "انبات می نمايد",
+      "en": "yieldeth"
+    },
+    {
+      "ar": "همچنين",
+      "en": "Likewise"
+    },
+    {
+      "ar": "لسان",
+      "en": "mouth"
+    },
+    {
+      "ar": "عباد",
+      "en": "men"
+    },
+    {
+      "ar": "اسماء",
+      "en": "names"
+    },
+    {
+      "ar": "ظاهر می شود",
+      "en": "proceed out"
+    },
+    {
+      "ar": "قدری",
+      "en": "thou"
+    },
+    {
+      "ar": "مرآت",
+      "en": "mirror"
+    },
+    {
+      "ar": "قلب",
+      "en": "heart"
+    },
+    {
+      "ar": "غبار",
+      "en": "dust"
+    },
+    {
+      "ar": "غرض",
+      "en": "malice"
+    },
+    {
+      "ar": "پاک",
+      "en": "cleanse"
+    },
+    {
+      "ar": "لطيف فرمائی",
+      "en": "Wert thou"
+    },
+    {
+      "ar": "تلويحات",
+      "en": "symbolic terms"
+    },
+    {
+      "ar": "کلمات",
+      "en": "terms"
+    },
+    {
+      "ar": "کلمه جامعه",
+      "en": "all-embracing Word"
+    },
+    {
+      "ar": "ربوبيّه",
+      "en": "God"
+    },
+    {
+      "ar": "ظهوری",
+      "en": "Dispensation"
+    },
+    {
+      "ar": "ادراک می نمائی",
+      "en": "apprehend"
+    },
+    {
+      "ar": "علم",
+      "en": "knowledge"
+    },
+    {
+      "ar": "واقف می شوی",
+      "en": "discover"
+    },
+    {
+      "ar": "لکن",
+      "en": "Not, however"
+    },
+    {
+      "ar": "حجبات",
+      "en": "veils"
+    },
+    {
+      "ar": "علميّه",
+      "en": "learning"
+    },
+    {
+      "ar": "مصطلح",
+      "en": "current"
+    },
+    {
+      "ar": "نار",
+      "en": "flame"
+    },
+    {
+      "ar": "انقطاع",
+      "en": "detachment"
+    },
+    {
+      "ar": "نسوزانی",
+      "en": "consumest"
+    },
+    {
+      "ar": "صبح",
+      "en": "morn"
+    },
+    {
+      "ar": "نورانی",
+      "en": "resplendent"
+    },
+    {
+      "ar": "حقيقی",
+      "en": "true"
+    },
+    {
+      "ar": "فائز نگردی",
+      "en": "canst thou behold"
+    }
+  ],
+  "terms": [
+    {
+      "term": "سماء",
+      "transliteration": "s-m-w",
+      "literal": "heaven; sky",
+      "se_rendering": "heaven",
+      "note": "Consistently rendered 'heaven' across all nine instances. SE maintains the metaphorical sky-terminology throughout the passage to preserve the Qur'anic allusions.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 591,
+          "snippet": "heaven"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 594,
+          "snippet": "the heavens"
+        },
+        {
+          "work": "gleanings",
+          "para": 78,
+          "snippet": "heavens"
+        },
+        {
+          "work": "gleanings",
+          "para": 212,
+          "snippet": "breath"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 53,
+          "snippet": "heavenly Grace"
+        },
+        {
+          "work": "gleanings",
+          "para": 417,
+          "snippet": "heavenly Book"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 123,
+          "snippet": "the grace of God and the mercy of his Lord"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 397,
+          "snippet": "the kingdoms of earth and heaven"
+        }
+      ]
+    },
+    {
+      "term": "ظهور",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "Manifestation",
+      "note": "Rendered 'Manifestation' and 'manifest.' Aligns with primary pattern; the dual occurrence emphasizes cyclical divine appearance across dispensations.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 53,
+          "snippet": "Manifestation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 160,
+          "snippet": "Author of all Manifestations"
+        },
+        {
+          "work": "gleanings",
+          "para": 222,
+          "snippet": "material"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 206,
+          "snippet": "appeared"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 255,
+          "snippet": "Manifestations"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 791,
+          "snippet": "tokens of Thy handiwork"
+        }
+      ]
+    },
+    {
+      "term": "اسرار",
+      "transliteration": "s-r-r",
+      "literal": "throne; couch; seat of authority",
+      "se_rendering": "mysteries",
+      "note": "Rendered 'mysteries' (plural) here. Jafar data shows dominant 'mystery' singular or 'Secret,' but plural form with initiatory context demands 'mysteries' for initiated understanding.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 185,
+          "snippet": "lamp"
+        },
+        {
+          "work": "tablet-of-carmel",
+          "para": 2,
+          "snippet": "joy"
+        },
+        {
+          "work": "gleanings",
+          "para": 218,
+          "snippet": "mystery"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 831,
+          "snippet": "Secret"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 37,
+          "snippet": "in the gladness"
+        },
+        {
+          "work": "gleanings",
+          "para": 727,
+          "snippet": "gladness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 8,
+          "snippet": "by the mysteries"
+        },
+        {
+          "work": "gleanings",
+          "para": 318,
+          "snippet": "mysteries"
+        }
+      ]
+    },
+    {
+      "term": "ربوبيّه",
+      "transliteration": "r-b-b",
+      "literal": "divine; of God; lordly",
+      "se_rendering": "divine",
+      "note": "Rendered 'divine' as adjective. Data shows 'lordship,' 'Lord,' 'Holy'—but the compound phrase demands the adjective form 'divine' for grammatical coherence with 'Word of God.'",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 2,
+          "snippet": "Holy"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 69,
+          "snippet": "lordship"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 162,
+          "snippet": "Divine might"
+        },
+        {
+          "work": "gleanings",
+          "para": 684,
+          "snippet": "Divine glory"
+        },
+        {
+          "work": "gleanings",
+          "para": 127,
+          "snippet": "heavenly"
+        },
+        {
+          "work": "gleanings",
+          "para": 327,
+          "snippet": "divine"
+        },
+        {
+          "work": "gleanings",
+          "para": 432,
+          "snippet": "your Lord, the All-Merciful"
+        },
+        {
+          "work": "gleanings",
+          "para": 616,
+          "snippet": "thy Lord"
+        }
+      ]
+    },
+    {
+      "term": "علم",
+      "transliteration": "ʿ-l-m",
+      "literal": "world; universe; the worlds",
+      "se_rendering": "knowledge",
+      "note": "Rendered 'knowledge' twice here, departing from dominant patterns of 'world' and 'universe' across 141 occurrences. Context of \"divine knowledge\" necessitates the epistemological reading.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 198,
+          "snippet": "world"
+        },
+        {
+          "work": "gleanings",
+          "para": 657,
+          "snippet": "all worlds"
+        },
+        {
+          "work": "gleanings",
+          "para": 182,
+          "snippet": "mankind"
+        },
+        {
+          "work": "gleanings",
+          "para": 183,
+          "snippet": "the whole world"
+        },
+        {
+          "work": "gleanings",
+          "para": 226,
+          "snippet": "all earthly defilements"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 28,
+          "snippet": "knowledge"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 42,
+          "snippet": "banner"
+        },
+        {
+          "work": "gleanings",
+          "para": 38,
+          "snippet": "understanding"
+        }
+      ]
+    },
+    {
+      "term": "حجبات",
+      "transliteration": "h-w-l",
+      "literal": "states; conditions; circumstances; situations; affairs",
+      "se_rendering": "veils",
+      "note": "Rendered 'veils.' Jafar data shows 'circumstances,' 'conditions,' 'state'—but context of obscuring 'idle learning' demands the metaphorical 'veils' over literal readings.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 65,
+          "snippet": "circumstances"
+        },
+        {
+          "work": "gleanings",
+          "para": 724,
+          "snippet": "conduct"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 50,
+          "snippet": "all conditions"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 572,
+          "snippet": "all times and under all conditions"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 30,
+          "snippet": "in its state"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 108,
+          "snippet": "stood"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 858,
+          "snippet": "come in between"
+        },
+        {
+          "work": "gleanings",
+          "para": 309,
+          "snippet": "screening"
+        }
+      ]
+    },
+    {
+      "term": "نار",
+      "transliteration": "n-w-r",
+      "literal": "light; illumination",
+      "se_rendering": "flame",
+      "note": "Rendered 'flame' rather than 'light,' the Jafar data's dominant pattern across 78 occurrences. Destructive 'flame of utter detachment' metaphor requires heat/consumption semantics absent in 'light.'",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 3,
+          "snippet": "light"
+        },
+        {
+          "work": "gleanings",
+          "para": 230,
+          "snippet": "Orb of Light"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 114,
+          "snippet": "with the light"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 109,
+          "snippet": "Thy light"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 246,
+          "snippet": "Illumine"
+        },
+        {
+          "work": "gleanings",
+          "para": 235,
+          "snippet": "glory"
+        },
+        {
+          "work": "gleanings",
+          "para": 597,
+          "snippet": "fire"
+        },
+        {
+          "work": "gleanings",
+          "para": 458,
+          "snippet": "fire of God"
+        }
+      ]
+    },
+    {
+      "term": "انقطاع",
+      "transliteration": "q-t-ʿ",
+      "literal": "to be severed; to be cut off; to detach oneself; to abstain",
+      "se_rendering": "detachment",
+      "note": "Rendered 'detachment' (gerund). Typically 'detached' or 'sundered' as past participles. Here the infinitival sense captures the active process of spiritual severance required.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 413,
+          "snippet": "detached themselves"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 427,
+          "snippet": "sundered"
+        },
+        {
+          "work": "gleanings",
+          "para": 662,
+          "snippet": "detacheth himself"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 488,
+          "snippet": "have cut themselves off"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 11,
+          "snippet": "decisive"
+        },
+        {
+          "work": "gleanings",
+          "para": 310,
+          "snippet": "cut into pieces"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 16,
+          "snippet": "detachment"
+        },
+        {
+          "work": "gleanings",
+          "para": 255,
+          "snippet": "detached"
+        }
+      ]
+    }
+  ],
+  "section_index": "75",
+  "section": "75",
+  "section_para": 1
 }

@@ -1,10 +1,906 @@
 {
   "work": "Epistle to the Son of the Wolf",
   "slug": "epistle-to-the-son-of-the-wolf",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 8,
   "source_text": "اسالک فی هذا الحين باسرار کتابک و ما کان مکنونا فی علمک و باللّئالئ المستورة فی اصداف عمان رحمتک ان تجعلني من الّذين ذکرتهم فی کتابک و وصفتهم فی الواحک * هل قدّرت لی يا الهی بعد هذا الحزن من سرور و بعد هذا القبض من بسط و بعد هذا العسر من يسر فآه آه قد جعلت المنابر لذکرک و ارتفاع کلمتک و اظهار امرک و انّی ارتقيت اليها لاعلاء نقض عهدک و القيت علی العباد ما ناح به اهل سرادق عظمتک و سکّان مدائن علمک * کم من اوقات انزلت فيها مائدة بيانک من سماء عطائک و انّی کفرت بها و کم من احيان دعوتنی فيها الی فرات رحمتک و انّی اعرضت عنه بما اتّبعت النّفس و الهوی * و عزّتک لم ادر من ایّ ذنب استغفرک و اتوب اليک و من ايّ ظلم ارجع الی بساط جودک و ساحة کرمک قد بلغت جريراتی و خطيئاتی مقاما عجز المحصون عن احصائها و المحرّرون عن تحريرها * اسألک يا مبدّل الظّلمة بالنّور و مظهر الاسرار فی الطّور ايّدنی فی کلّ الاحوال علی التّوکّل عليک و تفويض الامور اليک * ثمّ اجعلني يا الهی راضيا بما رقم من قلم قضائک و يراعة تقديرک انّک انت المقتدر علی ما تشاء و فی قبضتک زمام من فی السّموات و الارضين لا اله الّا انت العليم الحکيم *",
   "translation": "\"I beseech Thee, this very moment, by the mysteries of Thy Book, and by the things hid in Thy knowledge, and by the pearls that lie concealed within the shells of the ocean of Thy mercy, to reckon me among such as Thou didst mention in Thy Book and describe in Thy Tablets. Hast Thou decreed for me, O my God, any joy after this tribulation, or any relief to succeed this affliction, or any ease to follow this trouble? Alas, alas! Thou hast ordained that every pulpit be set apart for Thy mention, and for the glorification of Thy Word, and the revelation of Thy Cause, but I have ascended it to proclaim the violation of Thy Covenant, and have spoken unto Thy servants such words as have caused the dwellers of the Tabernacles of Thy majesty and the denizens of the Cities of Thy wisdom to lament. How often hast Thou sent down the food of Thine utterance out of the heaven of Thy bounty, and I denied it; and how numerous the occasions on which Thou hast summoned me to the soft flowing waters of Thy mercy, and I have chosen to turn away therefrom, by reason of my having followed my own wish and desire! By Thy glory! I know not for which sin to beg Thy forgiveness and implore Thy pardon, nor from which of mine iniquities to turn aside unto the Court of Thy bounteousness and the Sanctuary of Thy favor. Such are my sins and trespasses that no man can number them, nor pen describe them. I implore Thee, O Thou that turnest darkness into light, and revealest Thy mysteries on the Sinai of Thy Revelation, to aid me, at all times, to put my trust in Thee, and to commit mine affairs unto Thy care. Make me, then, O my God, content with that which the finger of Thy decree hath traced, and the pen of Thy ordinance hath written. Potent art Thou to do what pleaseth Thee, and in Thy grasp are the reins of all that are in heaven and on earth. No God is there but Thee, the All-knowing, the All-Wise.\"",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "darkness-into-light-mysteries-revelation",
+  "alignment": [
+    {
+      "ar": "اسالک",
+      "en": "I beseech Thee"
+    },
+    {
+      "ar": "هذا",
+      "en": "this"
+    },
+    {
+      "ar": "الحين",
+      "en": "very moment"
+    },
+    {
+      "ar": "باسرار",
+      "en": "by the mysteries"
+    },
+    {
+      "ar": "کتابک",
+      "en": "Thy Book"
+    },
+    {
+      "ar": "ما کان مکنونا",
+      "en": "the things hid"
+    },
+    {
+      "ar": "علمک",
+      "en": "Thy knowledge"
+    },
+    {
+      "ar": "باللّئالئ",
+      "en": "by the pearls"
+    },
+    {
+      "ar": "المستورة",
+      "en": "lie concealed"
+    },
+    {
+      "ar": "اصداف",
+      "en": "shells"
+    },
+    {
+      "ar": "عمان",
+      "en": "ocean"
+    },
+    {
+      "ar": "رحمتک",
+      "en": "Thy mercy"
+    },
+    {
+      "ar": "تجعلني",
+      "en": "to reckon me"
+    },
+    {
+      "ar": "الّذين",
+      "en": "such as"
+    },
+    {
+      "ar": "ذکرتهم",
+      "en": "Thou didst mention"
+    },
+    {
+      "ar": "وصفتهم",
+      "en": "describe"
+    },
+    {
+      "ar": "الواحک",
+      "en": "Thy Tablets"
+    },
+    {
+      "ar": "هل قدّرت",
+      "en": "Hast Thou decreed"
+    },
+    {
+      "ar": "لی",
+      "en": "for me"
+    },
+    {
+      "ar": "يا الهی",
+      "en": "O my God"
+    },
+    {
+      "ar": "بعد",
+      "en": "after"
+    },
+    {
+      "ar": "هذا الحزن",
+      "en": "this tribulation"
+    },
+    {
+      "ar": "من سرور",
+      "en": "any joy"
+    },
+    {
+      "ar": "بعد",
+      "en": "to succeed"
+    },
+    {
+      "ar": "هذا القبض",
+      "en": "this affliction"
+    },
+    {
+      "ar": "من بسط",
+      "en": "any relief"
+    },
+    {
+      "ar": "بعد",
+      "en": "to follow"
+    },
+    {
+      "ar": "هذا العسر",
+      "en": "this trouble"
+    },
+    {
+      "ar": "من يسر",
+      "en": "any ease"
+    },
+    {
+      "ar": "آه آه",
+      "en": "Alas, alas"
+    },
+    {
+      "ar": "قد جعلت",
+      "en": "Thou hast ordained"
+    },
+    {
+      "ar": "المنابر",
+      "en": "every pulpit"
+    },
+    {
+      "ar": "لذکرک",
+      "en": "for Thy mention"
+    },
+    {
+      "ar": "ارتفاع",
+      "en": "the glorification"
+    },
+    {
+      "ar": "کلمتک",
+      "en": "Thy Word"
+    },
+    {
+      "ar": "اظهار",
+      "en": "the revelation"
+    },
+    {
+      "ar": "امرک",
+      "en": "Thy Cause"
+    },
+    {
+      "ar": "انّی",
+      "en": "I"
+    },
+    {
+      "ar": "ارتقيت",
+      "en": "have ascended"
+    },
+    {
+      "ar": "اليها",
+      "en": "it"
+    },
+    {
+      "ar": "لاعلاء",
+      "en": "to proclaim"
+    },
+    {
+      "ar": "نقض",
+      "en": "the violation"
+    },
+    {
+      "ar": "عهدک",
+      "en": "Thy Covenant"
+    },
+    {
+      "ar": "القيت",
+      "en": "have spoken"
+    },
+    {
+      "ar": "علی",
+      "en": "unto"
+    },
+    {
+      "ar": "العباد",
+      "en": "Thy servants"
+    },
+    {
+      "ar": "ما ناح",
+      "en": "such words as have caused"
+    },
+    {
+      "ar": "اهل",
+      "en": "the dwellers"
+    },
+    {
+      "ar": "سرادق",
+      "en": "the Tabernacles"
+    },
+    {
+      "ar": "عظمتک",
+      "en": "Thy majesty"
+    },
+    {
+      "ar": "سکّان",
+      "en": "the denizens"
+    },
+    {
+      "ar": "مدائن",
+      "en": "the Cities"
+    },
+    {
+      "ar": "علمک",
+      "en": "Thy wisdom"
+    },
+    {
+      "ar": "کم من اوقات",
+      "en": "How often"
+    },
+    {
+      "ar": "انزلت",
+      "en": "hast Thou sent down"
+    },
+    {
+      "ar": "فيها",
+      "en": ""
+    },
+    {
+      "ar": "مائدة",
+      "en": "the food"
+    },
+    {
+      "ar": "بيانک",
+      "en": "Thine utterance"
+    },
+    {
+      "ar": "من سماء",
+      "en": "out of the heaven"
+    },
+    {
+      "ar": "عطائک",
+      "en": "Thy bounty"
+    },
+    {
+      "ar": "انّی کفرت",
+      "en": "I denied"
+    },
+    {
+      "ar": "کم من احيان",
+      "en": "how numerous the occasions"
+    },
+    {
+      "ar": "دعوتنی",
+      "en": "Thou hast summoned me"
+    },
+    {
+      "ar": "فيها",
+      "en": ""
+    },
+    {
+      "ar": "الی",
+      "en": "to"
+    },
+    {
+      "ar": "فرات",
+      "en": "the soft flowing waters"
+    },
+    {
+      "ar": "انّی اعرضت",
+      "en": "I have chosen to turn away"
+    },
+    {
+      "ar": "عنه",
+      "en": "therefrom"
+    },
+    {
+      "ar": "بما اتّبعت",
+      "en": "by reason of my having followed"
+    },
+    {
+      "ar": "النّفس",
+      "en": "my own wish"
+    },
+    {
+      "ar": "الهوی",
+      "en": "desire"
+    },
+    {
+      "ar": "و عزّتک",
+      "en": "By Thy glory"
+    },
+    {
+      "ar": "لم ادر",
+      "en": "I know not"
+    },
+    {
+      "ar": "من ایّ ذنب",
+      "en": "for which sin"
+    },
+    {
+      "ar": "استغفرک",
+      "en": "to beg Thy forgiveness"
+    },
+    {
+      "ar": "اتوب",
+      "en": "implore Thy pardon"
+    },
+    {
+      "ar": "اليک",
+      "en": ""
+    },
+    {
+      "ar": "من ايّ ظلم",
+      "en": "from which of mine iniquities"
+    },
+    {
+      "ar": "ارجع",
+      "en": "to turn aside"
+    },
+    {
+      "ar": "بساط",
+      "en": "the Court"
+    },
+    {
+      "ar": "جودک",
+      "en": "Thy bounteousness"
+    },
+    {
+      "ar": "ساحة",
+      "en": "the Sanctuary"
+    },
+    {
+      "ar": "کرمک",
+      "en": "Thy favor"
+    },
+    {
+      "ar": "قد بلغت",
+      "en": "Such are"
+    },
+    {
+      "ar": "جريراتی",
+      "en": "my sins"
+    },
+    {
+      "ar": "خطيئاتی",
+      "en": "trespasses"
+    },
+    {
+      "ar": "مقاما",
+      "en": ""
+    },
+    {
+      "ar": "عجز",
+      "en": "no man can"
+    },
+    {
+      "ar": "المحصون",
+      "en": ""
+    },
+    {
+      "ar": "عن احصائها",
+      "en": "number them"
+    },
+    {
+      "ar": "المحرّرون",
+      "en": "pen"
+    },
+    {
+      "ar": "عن تحريرها",
+      "en": "describe them"
+    },
+    {
+      "ar": "اسألک",
+      "en": "I implore Thee"
+    },
+    {
+      "ar": "يا",
+      "en": "O"
+    },
+    {
+      "ar": "مبدّل",
+      "en": "that turnest"
+    },
+    {
+      "ar": "الظّلمة",
+      "en": "darkness"
+    },
+    {
+      "ar": "بالنّور",
+      "en": "into light"
+    },
+    {
+      "ar": "مظهر",
+      "en": "revealest"
+    },
+    {
+      "ar": "الاسرار",
+      "en": "Thy mysteries"
+    },
+    {
+      "ar": "فی الطّور",
+      "en": "on the Sinai of Thy Revelation"
+    },
+    {
+      "ar": "ايّدنی",
+      "en": "to aid me"
+    },
+    {
+      "ar": "فی کلّ الاحوال",
+      "en": "at all times"
+    },
+    {
+      "ar": "علی التّوکّل",
+      "en": "to put my trust"
+    },
+    {
+      "ar": "عليک",
+      "en": "in Thee"
+    },
+    {
+      "ar": "تفويض",
+      "en": "to commit"
+    },
+    {
+      "ar": "الامور",
+      "en": "mine affairs"
+    },
+    {
+      "ar": "اليک",
+      "en": "unto Thy care"
+    },
+    {
+      "ar": "ثمّ اجعلني",
+      "en": "Make me, then"
+    },
+    {
+      "ar": "راضيا",
+      "en": "content"
+    },
+    {
+      "ar": "بما",
+      "en": "with that which"
+    },
+    {
+      "ar": "رقم",
+      "en": "hath traced"
+    },
+    {
+      "ar": "من قلم",
+      "en": "the finger"
+    },
+    {
+      "ar": "قضائک",
+      "en": "of Thy decree"
+    },
+    {
+      "ar": "يراعة",
+      "en": "the pen"
+    },
+    {
+      "ar": "تقديرک",
+      "en": "of Thy ordinance"
+    },
+    {
+      "ar": "انّک انت المقتدر",
+      "en": "Potent art Thou"
+    },
+    {
+      "ar": "علی ما تشاء",
+      "en": "to do what pleaseth Thee"
+    },
+    {
+      "ar": "فی قبضتک",
+      "en": "in Thy grasp"
+    },
+    {
+      "ar": "زمام",
+      "en": "the reins"
+    },
+    {
+      "ar": "من فی السّموات",
+      "en": "all that are in heaven"
+    },
+    {
+      "ar": "الارضين",
+      "en": "on earth"
+    },
+    {
+      "ar": "لا اله الّا انت",
+      "en": "No God is there but Thee"
+    },
+    {
+      "ar": "العليم",
+      "en": "the All-knowing"
+    },
+    {
+      "ar": "الحکيم",
+      "en": "the All-Wise"
+    }
+  ],
+  "terms": [
+    {
+      "term": "باسرار",
+      "transliteration": "s-r-r",
+      "literal": "throne; couch; seat of authority",
+      "se_rendering": "mysteries",
+      "note": "Root typically renders 'throne' or 'mystery/secret' across 40 occurrences. Here rendered as 'mysteries'—SE selects the mystical sense over the concrete seat-of-authority meaning.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 145,
+          "snippet": "couch"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 256,
+          "snippet": "throne"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 185,
+          "snippet": "lamp"
+        },
+        {
+          "work": "tablet-of-carmel",
+          "para": 2,
+          "snippet": "joy"
+        },
+        {
+          "work": "gleanings",
+          "para": 218,
+          "snippet": "mystery"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 831,
+          "snippet": "Secret"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 37,
+          "snippet": "in the gladness"
+        },
+        {
+          "work": "gleanings",
+          "para": 727,
+          "snippet": "gladness"
+        }
+      ]
+    },
+    {
+      "term": "اظهار",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "revelation",
+      "note": "Predominantly 'Manifestation' or 'manifestation' across 96 occurrences. Here 'revelation' shifts toward disclosure of truth rather than the figure of the Manifestation itself.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 53,
+          "snippet": "Manifestation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 160,
+          "snippet": "Author of all Manifestations"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 136,
+          "snippet": "evident"
+        },
+        {
+          "work": "gleanings",
+          "para": 222,
+          "snippet": "material"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 196,
+          "snippet": "Manifestations of God"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 255,
+          "snippet": "Manifestations"
+        }
+      ]
+    },
+    {
+      "term": "امرک",
+      "transliteration": "ʾ-m-r",
+      "literal": "command; cause; matter; affair",
+      "se_rendering": "Cause",
+      "note": "Consistently 'His Cause' or 'Revelation' across 75 occurrences. Here 'Cause' maintains the Bahá'í technical sense of the divine manifestation and its proclamation.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "His Cause"
+        },
+        {
+          "work": "gleanings",
+          "para": 586,
+          "snippet": "His command"
+        },
+        {
+          "work": "gleanings",
+          "para": 691,
+          "snippet": "His Revelation"
+        },
+        {
+          "work": "gleanings",
+          "para": 723,
+          "snippet": "Cause"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 797,
+          "snippet": "Thy Cause"
+        },
+        {
+          "work": "gleanings",
+          "para": 8,
+          "snippet": "Revelation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 597,
+          "snippet": "service"
+        },
+        {
+          "work": "gleanings",
+          "para": 524,
+          "snippet": "your affairs"
+        }
+      ]
+    },
+    {
+      "term": "بيانک",
+      "transliteration": "b-y-n",
+      "literal": "to manifest; to make clear; clear, evident",
+      "se_rendering": "utterance",
+      "note": "Root typically renders 'the Bayán' or 'clear proofs' across 87 occurrences. Here rendered as 'utterance'—a broader sense emphasizing divine speech rather than the specific Bábi scripture.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 223,
+          "snippet": "the Expounder, the Most Manifest"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 231,
+          "snippet": "clear verses"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 3,
+          "snippet": "proofs"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 12,
+          "snippet": "clear proofs"
+        },
+        {
+          "work": "gleanings",
+          "para": 563,
+          "snippet": "Dawning-Place of the proofs"
+        },
+        {
+          "work": "gleanings",
+          "para": 292,
+          "snippet": "the Bayán"
+        },
+        {
+          "work": "gleanings",
+          "para": 636,
+          "snippet": "utterance"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 101,
+          "snippet": "Bayán"
+        }
+      ]
+    },
+    {
+      "term": "اعرضت",
+      "transliteration": "ʿ-r-d",
+      "literal": "to turn away; to avert; to abstain; heedless",
+      "se_rendering": "turn away",
+      "note": "Usually 'turned away' or 'turned aside' across 47 occurrences. 'Turn away' here preserves the reflexive sense of deliberate spiritual rejection.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 182,
+          "snippet": "turned away"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 505,
+          "snippet": "turned their backs"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 89,
+          "snippet": "objections"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 431,
+          "snippet": "have turned back"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 104,
+          "snippet": "are turned back"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 14,
+          "snippet": "turns away"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 487,
+          "snippet": "turned back"
+        },
+        {
+          "work": "gleanings",
+          "para": 108,
+          "snippet": "rejection"
+        }
+      ]
+    },
+    {
+      "term": "النّفس",
+      "transliteration": "n-f-s",
+      "literal": "self; soul; psyche",
+      "se_rendering": "own wish and desire",
+      "note": "Highly variable (43 occurrences show 'myself,' 'self,' 'entity'). Here rendered obliquely as 'own wish and desire'—SE avoids 'self' to capture the nafs as passion rather than identity.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 789,
+          "snippet": "myself to be only nothing"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 71,
+          "snippet": "his own entity in the kingdom of his self"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 572,
+          "snippet": "Thy Self at all times"
+        },
+        {
+          "work": "gleanings",
+          "para": 205,
+          "snippet": "souls"
+        },
+        {
+          "work": "gleanings",
+          "para": 297,
+          "snippet": "their powerlessness"
+        },
+        {
+          "work": "gleanings",
+          "para": 225,
+          "snippet": "such of My followers"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 125,
+          "snippet": "sense of their own powerlessness"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 179,
+          "snippet": "abstained from all that is abhorrent unto Thee"
+        }
+      ]
+    },
+    {
+      "term": "ظلم",
+      "transliteration": "z-l-m",
+      "literal": "wrongedness, oppression, meekness; state of being wronged or oppressed",
+      "se_rendering": "iniquities",
+      "note": "Standard rendering 'wronged' or 'afflicted' across 128 occurrences. Here 'iniquities' emphasizes the speaker's moral transgression rather than victimhood or oppression.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 498,
+          "snippet": "afflicted with countless tribulations"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 49,
+          "snippet": "meekness"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 116,
+          "snippet": "injury"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 3,
+          "snippet": "Wronged One"
+        },
+        {
+          "work": "gleanings",
+          "para": 221,
+          "snippet": "oppression"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 9,
+          "snippet": "Darkness"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 33,
+          "snippet": "tyranny"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 573,
+          "snippet": "oppressed"
+        }
+      ]
+    },
+    {
+      "term": "الحکيم",
+      "transliteration": "h-k-m",
+      "literal": "government; rule; governance; wisdom",
+      "se_rendering": "All-Wise",
+      "note": "Typically 'rule,' 'government,' or 'mysteries' across 69 occurrences. Here 'All-Wise' renders the divine attribute directly—a rare abstraction of the root's meaning toward wisdom proper.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-ahd",
+          "para": 6,
+          "snippet": "rule"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "government"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 849,
+          "snippet": "signs of Thy sovereignty"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 160,
+          "snippet": "meaning of return"
+        },
+        {
+          "work": "gleanings",
+          "para": 224,
+          "snippet": "mysteries"
+        },
+        {
+          "work": "gleanings",
+          "para": 636,
+          "snippet": "rule of the sword"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 182,
+          "snippet": "mystery of the former verse"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 46,
+          "snippet": "conclusive"
+        }
+      ]
+    }
+  ],
+  "section_index": "8",
+  "section": "8",
+  "section_para": 1
 }

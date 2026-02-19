@@ -1,10 +1,593 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 439,
   "source_text": "انشآءالله از همّت اولیا و حکمای ارض اهل عالم به ما ینفعهم آگاه شوند غفلت تا کی اعتساف تا کی انقلاب و اختلاف تا کی، این خادم فانی متحیّر است جمیع صاحب بصر و سمعند ولکن از دیدن و شنیدن محروم مشاهده می شوند حب این عبد به آنجناب خادم را بر آن داشت که به این اوراق مشغول شود و الا فی الحقیقه اریاح یأس از جمیع جهات در عبور و مرور است و انقلابات و اختلافات عالم یوماً فیوماً در تزاید است آثار هرج و مرج مشاهده میشود چه که اسبابی که حال موجود است بنظر موافق نمیآید از حقّ جلّ جلاله میطلبم که اهل ارض را آگاه نماید و عاقبت را بخیر منتهی فرماید و بآنچه سزاوار است مؤیّد دارد...",
   "translation": "However much men of understanding may favorably regard them, they will, if carried to excess, exercise a pernicious influence upon men.… Please God, the peoples of the world may be led, as the result of the high endeavors exerted by their rulers and the wise and learned amongst men, to recognize their best interests. How long will humanity persist in its waywardness? How long will injustice continue? How long is chaos and confusion to reign amongst men? How long will discord agitate the face of society?… The winds of despair are, alas, blowing from every direction, and the strife that divideth and afflicteth the human race is daily increasing. The signs of impending convulsions and chaos can now be discerned, inasmuch as the prevailing order appeareth to be lamentably defective. I beseech God, exalted be His glory, that He may graciously awaken the peoples of the earth, may grant that the end of their conduct may be profitable unto them, and aid them to accomplish that which beseemeth their station.",
   "source_lang": "ar",
-  "score": 9.9
+  "score": 9.9,
+  "page_slug": "winds-of-despair-blowing-every-direction",
+  "alignment": [
+    {
+      "ar": "انشآءالله",
+      "en": "Please God"
+    },
+    {
+      "ar": "همّت",
+      "en": "high endeavors"
+    },
+    {
+      "ar": "اولیا",
+      "en": "rulers"
+    },
+    {
+      "ar": "حکمای",
+      "en": "wise and learned"
+    },
+    {
+      "ar": "ارض",
+      "en": "earth"
+    },
+    {
+      "ar": "اهل",
+      "en": "peoples"
+    },
+    {
+      "ar": "عالم",
+      "en": "world"
+    },
+    {
+      "ar": "ینفعهم",
+      "en": "their best interests"
+    },
+    {
+      "ar": "آگاه",
+      "en": "recognize"
+    },
+    {
+      "ar": "غفلت",
+      "en": "waywardness"
+    },
+    {
+      "ar": "تا کی",
+      "en": "How long"
+    },
+    {
+      "ar": "اعتساف",
+      "en": "injustice"
+    },
+    {
+      "ar": "انقلاب",
+      "en": "convulsions"
+    },
+    {
+      "ar": "اختلاف",
+      "en": "confusion"
+    },
+    {
+      "ar": "خادم",
+      "en": "God"
+    },
+    {
+      "ar": "فانی",
+      "en": "exalted be His glory"
+    },
+    {
+      "ar": "متحیّر",
+      "en": "I beseech"
+    },
+    {
+      "ar": "جمیع",
+      "en": "human race"
+    },
+    {
+      "ar": "صاحب",
+      "en": "humanity"
+    },
+    {
+      "ar": "بصر",
+      "en": "discerned"
+    },
+    {
+      "ar": "سمع",
+      "en": "awaken"
+    },
+    {
+      "ar": "محروم",
+      "en": "afflicteth"
+    },
+    {
+      "ar": "مشاهده",
+      "en": "now"
+    },
+    {
+      "ar": "حب",
+      "en": "may graciously"
+    },
+    {
+      "ar": "عبد",
+      "en": "may grant"
+    },
+    {
+      "ar": "آنجناب",
+      "en": "their conduct"
+    },
+    {
+      "ar": "اوراق",
+      "en": "station"
+    },
+    {
+      "ar": "الحقیقه",
+      "en": "inasmuch"
+    },
+    {
+      "ar": "اریاح",
+      "en": "winds"
+    },
+    {
+      "ar": "یأس",
+      "en": "despair"
+    },
+    {
+      "ar": "عبور",
+      "en": "blowing"
+    },
+    {
+      "ar": "مرور",
+      "en": "from every direction"
+    },
+    {
+      "ar": "انقلابات",
+      "en": "strife"
+    },
+    {
+      "ar": "اختلافات",
+      "en": "divideth"
+    },
+    {
+      "ar": "یوماً فیوماً",
+      "en": "daily"
+    },
+    {
+      "ar": "تزاید",
+      "en": "increasing"
+    },
+    {
+      "ar": "آثار",
+      "en": "signs"
+    },
+    {
+      "ar": "هرج و مرج",
+      "en": "chaos"
+    },
+    {
+      "ar": "اسبابی",
+      "en": "order"
+    },
+    {
+      "ar": "موجود",
+      "en": "prevailing"
+    },
+    {
+      "ar": "موافق",
+      "en": "defective"
+    },
+    {
+      "ar": "عاقبت",
+      "en": "end"
+    },
+    {
+      "ar": "بخیر",
+      "en": "profitable"
+    },
+    {
+      "ar": "منتهی",
+      "en": "unto them"
+    },
+    {
+      "ar": "فرماید",
+      "en": "grant"
+    },
+    {
+      "ar": "سزاوار",
+      "en": "beseemeth"
+    },
+    {
+      "ar": "مؤیّد",
+      "en": "aid"
+    }
+  ],
+  "terms": [
+    {
+      "term": "انقلاب",
+      "transliteration": "q-l-b",
+      "literal": "heart; to turn; to overturn",
+      "se_rendering": "convulsions",
+      "note": "Primarily 'hearts', 'agitation', 'cataclysms' across 60 uses. This instance uses 'convulsions'—amplifying the seismic social upheaval sense beyond typical heart/agitation renderings.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 187,
+          "snippet": "hearts"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 432,
+          "snippet": "their hearts"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 652,
+          "snippet": "heart"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 777,
+          "snippet": "commotion"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 13,
+          "snippet": "tumult"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 30,
+          "snippet": "thine heart"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 4,
+          "snippet": "with a pure heart"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 82,
+          "snippet": "with a sound heart"
+        }
+      ]
+    },
+    {
+      "term": "اختلاف",
+      "transliteration": "kh-l-f",
+      "literal": "opposing; contrary; conflicting",
+      "se_rendering": "discord",
+      "note": "Usually 'in conflict with', 'contrary', 'adversaries' (37 occ). Here 'discord'—a softer, more social-harmony-focused term than adversarial alternatives.",
+      "cross_refs": [
+        {
+          "work": "the-hidden-words",
+          "para": 107,
+          "snippet": "contrary"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 220,
+          "snippet": "adversaries"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 57,
+          "snippet": "contrary to"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 17,
+          "snippet": "whoso opposeth him"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 192,
+          "snippet": "difference"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 13,
+          "snippet": "contention"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 89,
+          "snippet": "differences"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 18,
+          "snippet": "divers communions"
+        }
+      ]
+    },
+    {
+      "term": "بصر",
+      "transliteration": "b-ṣ-r",
+      "literal": "sight; insight; discernment; spiritual perception",
+      "se_rendering": "discernment",
+      "note": "Commonly 'discerning', 'eye of insight', 'eye of God', 'discerning eye' (27 occ). 'Discernment' here remains within typical range, emphasizing inner spiritual perception.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 27,
+          "snippet": "discerning"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 278,
+          "snippet": "eye of insight"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 16,
+          "snippet": "eye of God"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 116,
+          "snippet": "discerning eye"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 77,
+          "snippet": "hearing ears, and sharp sight"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 667,
+          "snippet": "the All-Seeing"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 231,
+          "snippet": "clear"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 3,
+          "snippet": "proofs"
+        }
+      ]
+    },
+    {
+      "term": "محروم",
+      "transliteration": "h-r-m",
+      "literal": "sanctity, inviolability, dignity, honor, respect",
+      "se_rendering": "debarred",
+      "note": "Typically 'thy sanctity', 'thy right', 'debarred', 'depriveth himself' (25 occ). This 'debarred' emphasizes exclusion from perception, aligning with the mystical privation theme.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 191,
+          "snippet": "Deny me not"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 293,
+          "snippet": "withhold not from me"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 76,
+          "snippet": "debarred"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 23,
+          "snippet": "depriveth himself"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 785,
+          "snippet": "Thy Cause"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 484,
+          "snippet": "suffer not yourselves to be kept back"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 93,
+          "snippet": "withhold not from the poor"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 506,
+          "snippet": "Withhold not from her"
+        }
+      ]
+    },
+    {
+      "term": "مشاهده",
+      "transliteration": "sh-h-d",
+      "literal": "witnessed; observed; seen; evident; manifest",
+      "se_rendering": "discerned",
+      "note": "Rendered as 'manifest', 'evident', 'I bear witness', 'witness', 'martyrdom' (74 occ). Here 'discerned'—emphasizing active human perception rather than divine manifestation.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 35,
+          "snippet": "evident"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 811,
+          "snippet": "I bear witness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 6,
+          "snippet": "I testify"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 138,
+          "snippet": "martyrdom"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 230,
+          "snippet": "God testifieth"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 57,
+          "snippet": "beheld"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 117,
+          "snippet": "testify"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 156,
+          "snippet": "bear witness"
+        }
+      ]
+    },
+    {
+      "term": "اریاح",
+      "transliteration": "r-w-h",
+      "literal": "rest; ease; comfort; tranquility",
+      "se_rendering": "winds",
+      "note": "Typically 'rest', 'ease', 'peace', or 'comfort' (24 occurrences). Here rendered 'winds'—a stark departure employing metaphorical inversion, despair replacing tranquility.",
+      "cross_refs": [
+        {
+          "work": "the-hidden-words",
+          "para": 115,
+          "snippet": "ease"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 78,
+          "snippet": "rest"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 9,
+          "snippet": "peace"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 426,
+          "snippet": "comfort"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 98,
+          "snippet": "Mortal blasts"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 161,
+          "snippet": "different winds"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 22,
+          "snippet": "fellowship"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 211,
+          "snippet": "fragrance"
+        }
+      ]
+    },
+    {
+      "term": "آثار",
+      "transliteration": "ʾ-th-r",
+      "literal": "effect; trace; influence; imprint",
+      "se_rendering": "signs",
+      "note": "Standard renderings: 'trace', 'reflection', 'effect', 'effects' (17 occ). Here 'signs'—interpretive shift toward prophetic/eschatological reading of social upheaval.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 158,
+          "snippet": "trace"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 65,
+          "snippet": "effects"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 30,
+          "snippet": "affected"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 243,
+          "snippet": "writings"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 71,
+          "snippet": "signs"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 160,
+          "snippet": "the signs"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 42,
+          "snippet": "its wisdom and effect"
+        }
+      ]
+    },
+    {
+      "term": "موافق",
+      "transliteration": "w-f-q",
+      "literal": "accord, agreement, harmony; to agree, accord with",
+      "se_rendering": "defective",
+      "note": "Usually 'in concert with', 'accord', 'assist' (33 occ). Here 'defective'—uniquely negative, inverting the root's harmonious connotations to describe systemic failure.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 7,
+          "snippet": "in concert with"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 10,
+          "snippet": "assist me"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 547,
+          "snippet": "accord"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 19,
+          "snippet": "by the agreement"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 56,
+          "snippet": "in concert"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 26,
+          "snippet": "Assist"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 210,
+          "snippet": "Aid"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 229,
+          "snippet": "hast aided"
+        }
+      ]
+    }
+  ],
+  "section_index": "CX.4",
+  "section": "CX",
+  "section_para": 4
 }

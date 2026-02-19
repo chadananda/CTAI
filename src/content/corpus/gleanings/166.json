@@ -1,10 +1,357 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 166,
   "source_text": "نوبت جواب باین عبد رسید لوح تمام شد و مطلب ناگفته و در ناسفته ماند",
   "translation": "I was preparing to make reply, when lo, the Tablet was suddenly ended, leaving My theme unfinished, and the pearl of Mine utterance unstrung.",
   "source_lang": "ar",
-  "score": 9.9
+  "score": 9.9,
+  "page_slug": "tablet-suddenly-ended-utterance",
+  "alignment": [
+    {
+      "ar": "نوبت",
+      "en": "preparing"
+    },
+    {
+      "ar": "جواب",
+      "en": "reply"
+    },
+    {
+      "ar": "باین عبد",
+      "en": "I"
+    },
+    {
+      "ar": "رسید",
+      "en": "was"
+    },
+    {
+      "ar": "لوح",
+      "en": "Tablet"
+    },
+    {
+      "ar": "تمام شد",
+      "en": "ended"
+    },
+    {
+      "ar": "مطلب",
+      "en": "theme"
+    },
+    {
+      "ar": "ناگفته",
+      "en": "unfinished"
+    },
+    {
+      "ar": "در ناسفته",
+      "en": "pearl of Mine utterance unstrung"
+    }
+  ],
+  "terms": [
+    {
+      "term": "جواب",
+      "transliteration": "j-w-b",
+      "literal": "answer, reply, response",
+      "se_rendering": "reply",
+      "note": "Limited corpus (4 occurrences), equally divided between 'reply' and 'answer'. Here 'reply' emphasizes responsive intentionality over mere factual response.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 193,
+          "snippet": "answer"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 200,
+          "snippet": "reply"
+        }
+      ]
+    },
+    {
+      "term": "عبد",
+      "transliteration": "ʿ-b-d",
+      "literal": "servant; slave; worshipper",
+      "se_rendering": "My",
+      "note": "Commonly 'servant', 'Thy servant', or the proper name ''Abdu'l-Bahá' across 68 occurrences. Here rendered as possessive 'My' in 'My theme'—a pronominal substitution departing entirely from the typical servant/worshipper semantic range.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 279,
+          "snippet": "Thy servants"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 431,
+          "snippet": "servants"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 27,
+          "snippet": "'Abdu'l‑Bahá"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 204,
+          "snippet": "Thy servant"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 260,
+          "snippet": "'Abdu'l-'Azíz"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 663,
+          "snippet": "servant"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 10,
+          "snippet": "this wronged servant of Thine"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 47,
+          "snippet": "this servant of Thine"
+        }
+      ]
+    },
+    {
+      "term": "رسید",
+      "transliteration": "r-s-d",
+      "literal": "to arrive; to reach; to attain; to come",
+      "se_rendering": "was preparing to make reply",
+      "note": "Typically 'reached', 'attained', 'came' across 20 occurrences. Here rendered as 'was preparing to make reply'—a complex interpretive rendering that transforms a perfective arrival into prospective readiness.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 184,
+          "snippet": "hath been inflicted"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 12,
+          "snippet": "came"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 64,
+          "snippet": "reached"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 41,
+          "snippet": "transgression is more grievous than"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 11,
+          "snippet": "attaineth"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 28,
+          "snippet": "are"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 187,
+          "snippet": "obtain"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 88,
+          "snippet": "never understood"
+        }
+      ]
+    },
+    {
+      "term": "لوح",
+      "transliteration": "l-w-h",
+      "literal": "tablet; panel; divine decree; revelation",
+      "se_rendering": "Tablet",
+      "note": "Commonly 'Tablets', 'Tablet', 'a document' across 16 occurrences. Here 'Tablet' with capital T maintains SE's consistent reverent capitalization for divine revelation.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 218,
+          "snippet": "Lawh-i-Fu'ad"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 245,
+          "snippet": "Tablets"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 112,
+          "snippet": "Tablet"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 7,
+          "snippet": "a document"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 100,
+          "snippet": "the Scriptures"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 461,
+          "snippet": "the Tablets"
+        }
+      ]
+    },
+    {
+      "term": "تمام",
+      "transliteration": "t-m-m",
+      "literal": "most complete; to complete; perfect; fullness",
+      "se_rendering": "was suddenly ended",
+      "note": "Usually 'expiration', 'declared conclusively', 'complete' across 25 occurrences. 'Was suddenly ended' here emphasizes abruptness and incompleteness rather than perfection or finality.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 45,
+          "snippet": "declared conclusively"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 106,
+          "snippet": "mightiest instrument"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 12,
+          "snippet": "Shield"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 2,
+          "snippet": "hath been hoisted"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 3,
+          "snippet": "hath shone forth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 690,
+          "snippet": "all"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 122,
+          "snippet": "exterminated"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 200,
+          "snippet": "with full"
+        }
+      ]
+    },
+    {
+      "term": "مطلب",
+      "transliteration": "t-l-b",
+      "literal": "seeker, one who seeks; those who seek",
+      "se_rendering": "My theme",
+      "note": "Typically 'seekers', 'those who seek', 'seeketh' across 20 occurrences. Here rendered as 'theme'—a nominal abstraction inverting the root's agent-oriented sense.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 667,
+          "snippet": "We beg of Thee"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 665,
+          "snippet": "we still seek"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 53,
+          "snippet": "we beg"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 659,
+          "snippet": "we beseech Thee"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 705,
+          "snippet": "I beseech"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 60,
+          "snippet": "ask"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 65,
+          "snippet": "besought"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 153,
+          "snippet": "Entreat"
+        }
+      ]
+    },
+    {
+      "term": "ماند",
+      "transliteration": "m-n-d",
+      "literal": "to remain; to stay; to be left",
+      "se_rendering": "unstrung",
+      "note": "Usually 'remain', 'have remained veiled' across 20 occurrences. Here 'unstrung' conveys severance and disruption rather than static remaining or abeyance.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 135,
+          "snippet": "reject"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 38,
+          "snippet": "hope"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 178,
+          "snippet": "have remained veiled"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 91,
+          "snippet": "remain bereft"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 76,
+          "snippet": "have strayed far"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 199,
+          "snippet": "leaveth no one any ground"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 148,
+          "snippet": "I find not any"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 22,
+          "snippet": "be deprived"
+        }
+      ]
+    }
+  ],
+  "section_index": "XL.3",
+  "section": "XL",
+  "section_para": 3
 }

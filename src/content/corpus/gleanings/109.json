@@ -1,10 +1,678 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 109,
   "source_text": "خليل زمان را بفتوای علمای عصر بنار انداختند و کليم را بکذب و افترا نسبت دادند در روح تفکّر نما مع آنکه بکمال رأفت و شفقت ظاهر شد بشأنی بر ضد آن جوهر وجود و مالک غيب و شهود قيام نمودند که مقرّ سکون از برای خود نيافت در هر يوم بشطری توجّه فرمود و در محلّی ساکن شد در خاتم انبياء روح ما سواه فداه نظر نما که بعد از القای کلمه مبارکه توحيد از علمای اصنام و يهود بر آن سلطان وجود چه وارد شد لعمری ينوح القلم و يصيح الأشياء بما ورد عليه من الّذين نقضوا ميثاق اللّه و عهده و أنکروا برهانه و جادلوا بآياته کذلک نقصّ لک ما قضی من قبل لتکون من العارفين مظلوميّت ا",
   "translation": "Behold how the people, as a result of the verdict pronounced by the divines of His age, have cast Abraham, the Friend of God, into fire; how Moses, He Who held converse with the Almighty, was denounced as liar and slanderer. Reflect how Jesus, the Spirit of God, was, notwithstanding His extreme meekness and perfect tender-heartedness, treated by His enemies. So fierce was the opposition which He, the Essence of Being and Lord of the visible and invisible, had to face, that He had nowhere to lay His head. He wandered continually from place to place, deprived of a permanent abode. Ponder that which befell Muḥammad, the Seal of the Prophets, may the life of all else be a sacrifice unto Him. How severe the afflictions which the leaders of the Jewish people and of the idol-worshipers caused to rain upon Him, Who is the sovereign Lord of all, in consequence of His proclamation of the unity of God and of the truth of His Message! By the righteousness of My Cause! My Pen groaneth, and all created things weep with a great weeping, as a result of the woes He suffered at the hands of them that have broken the Covenant of God, violated His Testament, rejected His proofs, and disputed His signs. Thus recount We unto thee the tale of that which happened in days past, haply thou mayest comprehend.",
   "source_lang": "ar",
-  "score": 9.4
+  "score": 9.4,
+  "page_slug": "pen-groaneth-all-created-things-weep",
+  "alignment": [
+    {
+      "ar": "خليل",
+      "en": "Abraham"
+    },
+    {
+      "ar": "زمان",
+      "en": "Friend of God"
+    },
+    {
+      "ar": "بفتوای",
+      "en": "verdict"
+    },
+    {
+      "ar": "علمای",
+      "en": "divines"
+    },
+    {
+      "ar": "عصر",
+      "en": "age"
+    },
+    {
+      "ar": "بنار",
+      "en": "fire"
+    },
+    {
+      "ar": "انداختند",
+      "en": "cast"
+    },
+    {
+      "ar": "کليم",
+      "en": "Moses"
+    },
+    {
+      "ar": "بکذب",
+      "en": "liar"
+    },
+    {
+      "ar": "افترا",
+      "en": "slanderer"
+    },
+    {
+      "ar": "نسبت دادند",
+      "en": "denounced"
+    },
+    {
+      "ar": "روح",
+      "en": "Spirit"
+    },
+    {
+      "ar": "تفکّر",
+      "en": "Reflect"
+    },
+    {
+      "ar": "نما",
+      "en": "Ponder"
+    },
+    {
+      "ar": "بکمال",
+      "en": "perfect"
+    },
+    {
+      "ar": "رأفت",
+      "en": "meekness"
+    },
+    {
+      "ar": "شفقت",
+      "en": "tender-heartedness"
+    },
+    {
+      "ar": "ظاهر شد",
+      "en": "treated"
+    },
+    {
+      "ar": "بشأنی",
+      "en": "So fierce"
+    },
+    {
+      "ar": "ضد",
+      "en": "opposition"
+    },
+    {
+      "ar": "جوهر",
+      "en": "Essence"
+    },
+    {
+      "ar": "وجود",
+      "en": "Being"
+    },
+    {
+      "ar": "مالک",
+      "en": "Lord"
+    },
+    {
+      "ar": "غيب",
+      "en": "invisible"
+    },
+    {
+      "ar": "شهود",
+      "en": "visible"
+    },
+    {
+      "ar": "قيام نمودند",
+      "en": "face"
+    },
+    {
+      "ar": "مقرّ",
+      "en": "abode"
+    },
+    {
+      "ar": "سکون",
+      "en": "permanent"
+    },
+    {
+      "ar": "نيافت",
+      "en": "deprived"
+    },
+    {
+      "ar": "يوم",
+      "en": "place to place"
+    },
+    {
+      "ar": "بشطری",
+      "en": "continually"
+    },
+    {
+      "ar": "توجّه",
+      "en": "wandered"
+    },
+    {
+      "ar": "محلّی",
+      "en": "place"
+    },
+    {
+      "ar": "ساکن",
+      "en": "lay His head"
+    },
+    {
+      "ar": "خاتم",
+      "en": "Seal"
+    },
+    {
+      "ar": "انبياء",
+      "en": "Prophets"
+    },
+    {
+      "ar": "روح ما سواه فداه",
+      "en": "may the life of all else be a sacrifice unto Him"
+    },
+    {
+      "ar": "القای",
+      "en": "proclamation"
+    },
+    {
+      "ar": "کلمه",
+      "en": "Message"
+    },
+    {
+      "ar": "مبارکه",
+      "en": "truth"
+    },
+    {
+      "ar": "توحيد",
+      "en": "unity of God"
+    },
+    {
+      "ar": "علمای",
+      "en": "leaders"
+    },
+    {
+      "ar": "اصنام",
+      "en": "idol-worshipers"
+    },
+    {
+      "ar": "يهود",
+      "en": "Jewish people"
+    },
+    {
+      "ar": "سلطان",
+      "en": "sovereign Lord"
+    },
+    {
+      "ar": "وارد شد",
+      "en": "befell"
+    },
+    {
+      "ar": "لعمری",
+      "en": "By the righteousness"
+    },
+    {
+      "ar": "ينوح",
+      "en": "groaneth"
+    },
+    {
+      "ar": "القلم",
+      "en": "Pen"
+    },
+    {
+      "ar": "يصيح",
+      "en": "weep"
+    },
+    {
+      "ar": "الأشياء",
+      "en": "created things"
+    },
+    {
+      "ar": "ورد",
+      "en": "woes"
+    },
+    {
+      "ar": "نقضوا",
+      "en": "broken"
+    },
+    {
+      "ar": "ميثاق",
+      "en": "Covenant"
+    },
+    {
+      "ar": "اللّه",
+      "en": "God"
+    },
+    {
+      "ar": "عهده",
+      "en": "Testament"
+    },
+    {
+      "ar": "أنکروا",
+      "en": "rejected"
+    },
+    {
+      "ar": "برهانه",
+      "en": "proofs"
+    },
+    {
+      "ar": "جادلوا",
+      "en": "disputed"
+    },
+    {
+      "ar": "بآياته",
+      "en": "signs"
+    },
+    {
+      "ar": "کذلک",
+      "en": "Thus"
+    },
+    {
+      "ar": "نقصّ",
+      "en": "recount"
+    },
+    {
+      "ar": "لک",
+      "en": "unto thee"
+    },
+    {
+      "ar": "ما قضی",
+      "en": "that which happened"
+    },
+    {
+      "ar": "من قبل",
+      "en": "in days past"
+    },
+    {
+      "ar": "لتکون",
+      "en": "thou mayest"
+    },
+    {
+      "ar": "من العارفين",
+      "en": "comprehend"
+    }
+  ],
+  "terms": [
+    {
+      "term": "علمای",
+      "transliteration": "ʿ-l-m",
+      "literal": "world; universe; the worlds",
+      "se_rendering": "divines",
+      "note": "Root typically rendered as 'world' or 'knowledge' across 141 occurrences. Here 'divines' reflects a contextual sense of 'learned ones' rather than cosmological meaning.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 28,
+          "snippet": "knowledge"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 122,
+          "snippet": "commentators"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 42,
+          "snippet": "banner"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 19,
+          "snippet": "understanding"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 205,
+          "snippet": "ancient Knowledge"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 65,
+          "snippet": "universe"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 4,
+          "snippet": "divine"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 199,
+          "snippet": "peoples of the world"
+        }
+      ]
+    },
+    {
+      "term": "ظاهر",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "treated",
+      "note": "Typically 'Manifestation' or 'manifestation' across 96 occurrences. Here 'treated' — unusual verb choice subordinating manifestation concept to the action of enemies' conduct.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 140,
+          "snippet": "manifestation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 160,
+          "snippet": "Author of all Manifestations"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 136,
+          "snippet": "evident"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 206,
+          "snippet": "appeared"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 196,
+          "snippet": "Manifestations of God"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 255,
+          "snippet": "Manifestations"
+        }
+      ]
+    },
+    {
+      "term": "توحيد",
+      "transliteration": "w-h-d",
+      "literal": "Divine unity; monotheism; belief in the oneness of God",
+      "se_rendering": "unity",
+      "note": "Consistently rendered as 'unity' or 'Divine unity' across 56 occurrences. Here 'unity of God' preserves standard phrasing while emphasizing monotheistic proclamation as cause of opposition.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 69,
+          "snippet": "Tawhid"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 167,
+          "snippet": "one"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 682,
+          "snippet": "once"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 49,
+          "snippet": "alone"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 647,
+          "snippet": "Thy unity"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 285,
+          "snippet": "Thy oneness"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 249,
+          "snippet": "unique"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 1,
+          "snippet": "the One"
+        }
+      ]
+    },
+    {
+      "term": "وارد",
+      "transliteration": "w-r-d",
+      "literal": "to enter, to come, to befall, to arrive",
+      "se_rendering": "befell",
+      "note": "Typically 'befell' or 'came' across 36 occurrences. Here 'caused to rain upon' (paraphrastic expansion) intensifies the affliction, conveying unrelenting cascade rather than single occurrence.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 126,
+          "snippet": "hath touched"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 61,
+          "snippet": "befallen"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 113,
+          "snippet": "came"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 183,
+          "snippet": "befell"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 30,
+          "snippet": "brought forth"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 204,
+          "snippet": "heaped upon"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 49,
+          "snippet": "approaching"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 788,
+          "snippet": "waters"
+        }
+      ]
+    },
+    {
+      "term": "القلم",
+      "transliteration": "q-l-m",
+      "literal": "pen; writing instrument",
+      "se_rendering": "My Pen",
+      "note": "Usually 'the Pen of the Most High' or 'My Pen' across 25 occurrences. Here 'My Pen' identifies the speaker with the divine writing instrument, emphasizing Bahá'u'lláh's utterance.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 100,
+          "snippet": "the Pen of the Most High"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 68,
+          "snippet": "the Pen of Glory"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 182,
+          "snippet": "the Most Sublime Pen"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 257,
+          "snippet": "the pen of the Primal Point"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 30,
+          "snippet": "thine heart"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 280,
+          "snippet": "Pen"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 159,
+          "snippet": "My Supreme Pen"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 85,
+          "snippet": "standards"
+        }
+      ]
+    },
+    {
+      "term": "نقضوا",
+      "transliteration": "n-q-d",
+      "literal": "breaker; violator; one who breaks (covenant); covenant-breaker",
+      "se_rendering": "broken",
+      "note": "Consistently 'Covenant-breakers' or 'broken' across 33 occurrences. Here 'broken' appears as verb predicate, denoting active violation rather than status of breakers.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "rebellious"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 40,
+          "snippet": "Covenant-breakers"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 32,
+          "snippet": "imperfect"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 6,
+          "snippet": "breaking"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 5,
+          "snippet": "broken"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 11,
+          "snippet": "Sedition"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 41,
+          "snippet": "breach"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 7,
+          "snippet": "he that hath broken the Covenant"
+        }
+      ]
+    },
+    {
+      "term": "العارفين",
+      "transliteration": "ʿ-r-f",
+      "literal": "to confess; to acknowledge; to recognize",
+      "se_rendering": "comprehend",
+      "note": "Usually rendered as 'testifieth' or 'acknowledged' across 82 occurrences. Here 'comprehend' shifts from recognition/acknowledgment toward intellectual understanding and spiritual discernment.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 601,
+          "snippet": "testifieth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 729,
+          "snippet": "hath acknowledged"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 582,
+          "snippet": "have recognized"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 228,
+          "snippet": "acknowledged"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 744,
+          "snippet": "understanding"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 5,
+          "snippet": "acknowledging"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 4,
+          "snippet": "fragrance of His garment"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 114,
+          "snippet": "Thy knowledge"
+        }
+      ]
+    },
+    {
+      "term": "مظلوميّت",
+      "transliteration": "z-l-m",
+      "literal": "wrongedness, oppression, meekness; state of being wronged or oppressed",
+      "se_rendering": "afflictions",
+      "note": "Usually 'wronged' or 'Wronged One' across 128 occurrences. Rendered here as 'afflictions' — a shift from oppression-status to suffering-experienced, aligning with narrative of Jesus's mistreatment.",
+      "cross_refs": [
+        {
+          "work": "fire-tablet",
+          "para": 49,
+          "snippet": "meekness"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 116,
+          "snippet": "injury"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 36,
+          "snippet": "Wronged One"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 253,
+          "snippet": "wronged"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 9,
+          "snippet": "Darkness"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 33,
+          "snippet": "tyranny"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 573,
+          "snippet": "oppressed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 181,
+          "snippet": "wronged ones"
+        }
+      ]
+    }
+  ],
+  "section_index": "XXIII.2",
+  "section": "XXIII",
+  "section_para": 2
 }

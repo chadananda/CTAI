@@ -1,10 +1,485 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 527,
   "source_text": "(لوح الملكة فيكتوريا) يا أصحاب المجالس في هناك وديار أخرى تدبّروا وتكلّموا فيما يُصلح به العالم وحاله\nیا أصحاب المجلس في هناک ودیار أُخری، تدبّروا وتکلّموا فیما یصلح به العالم وحاله لو أنتم من المتوسّمین فانظروا العالم کهیکل إنسان إنّه خلق صحیحاً کاملاً فاعترته الأمراض بالأسباب المختلفة المتغایرة وما طابت نفسه في یوم بل اشتدّ مرضه بما وقع تحت تصرّف أطبّآء غیر حاذقة الّذین رکبوا مطیّة الهوی وکانوا من الهائمین وإن طاب عضو من أعضائه في عصر من الأعصار بطبیب حاذق بقیت أعضآء",
   "translation": "O ye the elected representatives of the people in every land! Take ye counsel together, and let your concern be only for that which profiteth mankind, and bettereth the condition thereof, if ye be of them that scan heedfully. Regard the world as the human body which, though at its creation whole and perfect, hath been afflicted, through various causes, with grave disorders and maladies. Not for one day did it gain ease, nay its sickness waxed more severe, as it fell under the treatment of ignorant physicians, who gave full rein to their personal desires, and have erred grievously. And if, at one time, through the care of an able physician, a member of that body was healed, the rest remained afflicted as before. Thus informeth you the All-Knowing, the All-Wise.",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "world-as-human-body",
+  "alignment": [
+    {
+      "ar": "أصحاب",
+      "en": "elected representatives"
+    },
+    {
+      "ar": "المجالس",
+      "en": "the people"
+    },
+    {
+      "ar": "هناك",
+      "en": "every land"
+    },
+    {
+      "ar": "تدبّروا",
+      "en": "Take ye counsel together"
+    },
+    {
+      "ar": "تكلّموا",
+      "en": "let your concern be"
+    },
+    {
+      "ar": "يُصلح",
+      "en": "profiteth"
+    },
+    {
+      "ar": "العالم",
+      "en": "mankind"
+    },
+    {
+      "ar": "وحاله",
+      "en": "bettereth the condition thereof"
+    },
+    {
+      "ar": "المتوسّمین",
+      "en": "them that scan heedfully"
+    },
+    {
+      "ar": "انظروا",
+      "en": "Regard"
+    },
+    {
+      "ar": "کهیکل",
+      "en": "as the human body"
+    },
+    {
+      "ar": "إنسان",
+      "en": "human body"
+    },
+    {
+      "ar": "خلق",
+      "en": "at its creation"
+    },
+    {
+      "ar": "صحیحاً",
+      "en": "whole"
+    },
+    {
+      "ar": "کاملاً",
+      "en": "perfect"
+    },
+    {
+      "ar": "فاعترته",
+      "en": "hath been afflicted"
+    },
+    {
+      "ar": "الأمراض",
+      "en": "disorders and maladies"
+    },
+    {
+      "ar": "بالأسباب",
+      "en": "through various causes"
+    },
+    {
+      "ar": "المختلفة",
+      "en": "various"
+    },
+    {
+      "ar": "المتغایرة",
+      "en": "various causes"
+    },
+    {
+      "ar": "طابت",
+      "en": "gain ease"
+    },
+    {
+      "ar": "نفسه",
+      "en": "it"
+    },
+    {
+      "ar": "یوم",
+      "en": "one day"
+    },
+    {
+      "ar": "اشتدّ",
+      "en": "waxed more severe"
+    },
+    {
+      "ar": "مرضه",
+      "en": "its sickness"
+    },
+    {
+      "ar": "وقع",
+      "en": "fell"
+    },
+    {
+      "ar": "تصرّف",
+      "en": "under the treatment"
+    },
+    {
+      "ar": "أطبّآء",
+      "en": "physicians"
+    },
+    {
+      "ar": "حاذقة",
+      "en": "ignorant"
+    },
+    {
+      "ar": "رکبوا",
+      "en": "gave full rein"
+    },
+    {
+      "ar": "الهوی",
+      "en": "their personal desires"
+    },
+    {
+      "ar": "کانوا",
+      "en": "have erred"
+    },
+    {
+      "ar": "الهائمین",
+      "en": "erred grievously"
+    },
+    {
+      "ar": "طاب",
+      "en": "was healed"
+    },
+    {
+      "ar": "عضو",
+      "en": "a member"
+    },
+    {
+      "ar": "أعضائه",
+      "en": "that body"
+    },
+    {
+      "ar": "عصر",
+      "en": "one time"
+    },
+    {
+      "ar": "طبیب",
+      "en": "an able physician"
+    },
+    {
+      "ar": "حاذق",
+      "en": "able"
+    },
+    {
+      "ar": "بقیت",
+      "en": "remained"
+    },
+    {
+      "ar": "أعضآء",
+      "en": "the rest"
+    }
+  ],
+  "terms": [
+    {
+      "term": "يصلح",
+      "transliteration": "s-l-h",
+      "literal": "peace; reconciliation",
+      "se_rendering": "profiteth",
+      "note": "Standard rendering 'peace' or 'well-being' (24 occurrences). Here 'profiteth' emphasizes material benefit and utility rather than spiritual reconciliation.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "peace"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 16,
+          "snippet": "well-being"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 155,
+          "snippet": "after its restoration"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 56,
+          "snippet": "the Most Great Peace"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 64,
+          "snippet": "betterment"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 105,
+          "snippet": "profiteth mankind"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 109,
+          "snippet": "World Reformer"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 10,
+          "snippet": "holy person"
+        }
+      ]
+    },
+    {
+      "term": "كهيكل",
+      "transliteration": "h-k-l",
+      "literal": "temple; structure; form; body",
+      "se_rendering": "the human body",
+      "note": "Usually 'Temple' or 'Súratu'l-Haykal' (20 occurrences), reflecting Bahá'í sacred symbolism. 'Human body' here is literal anatomical reference, abandoning theological resonance.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "Temple"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 96,
+          "snippet": "Súratu'l-Haykal"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 10,
+          "snippet": "person"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 154,
+          "snippet": "Being"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 28,
+          "snippet": "body"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 196,
+          "snippet": "temples"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 82,
+          "snippet": "thy temple"
+        }
+      ]
+    },
+    {
+      "term": "خلق",
+      "transliteration": "kh-l-q",
+      "literal": "character; moral traits; disposition; conduct",
+      "se_rendering": "creation",
+      "note": "Root typically renders as 'character' or 'virtues' (49 occurrences), but here 'creation' reflects the physical/cosmological sense, shifting from moral to ontological meaning.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 28,
+          "snippet": "character"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 50,
+          "snippet": "spiritual characteristics"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 195,
+          "snippet": "virtues"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 54,
+          "snippet": "created her"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 231,
+          "snippet": "His creatures"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 139,
+          "snippet": "His creation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 343,
+          "snippet": "Thy creatures"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 40,
+          "snippet": "wert created"
+        }
+      ]
+    },
+    {
+      "term": "طابت",
+      "transliteration": "t-y-b",
+      "literal": "good; pure; sweet; fragrant; virtuous",
+      "se_rendering": "gain ease",
+      "note": "Typically 'goodly' or 'pure and sweet' (8 occurrences). 'Gain ease' is rare—prioritizing comfort over virtue-connotation usual in SE's corpus.",
+      "cross_refs": [
+        {
+          "work": "the-hidden-words",
+          "para": 146,
+          "snippet": "pure and goodly"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 50,
+          "snippet": "goodly"
+        }
+      ]
+    },
+    {
+      "term": "اشتدّ",
+      "transliteration": "sh-d-d",
+      "literal": "strong; severe; intense; violent",
+      "se_rendering": "waxed more severe",
+      "note": "Usually 'very great' or 'most severe' across 35 occurrences. 'Waxed more severe' employs archaic English syntax to convey progressive intensification specific to illness metaphor.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 38,
+          "snippet": "very great"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 5,
+          "snippet": "great"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 30,
+          "snippet": "most turbulent"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 141,
+          "snippet": "uttered"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 53,
+          "snippet": "arose"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 175,
+          "snippet": "apprehended"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 55,
+          "snippet": "sent down"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 25,
+          "snippet": "clung"
+        }
+      ]
+    },
+    {
+      "term": "رکبوا",
+      "transliteration": "r-k-b",
+      "literal": "to ride; to commit; to undertake",
+      "se_rendering": "gave full rein to",
+      "note": "Ordinarily 'rose up against' or 'transgressed' (17 occurrences). 'Gave full rein to' emphasizes yielding/indulgence rather than active rebellion or violation.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 92,
+          "snippet": "commit"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 107,
+          "snippet": "rose up against Him"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 466,
+          "snippet": "transgressed"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 274,
+          "snippet": "committed"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 118,
+          "snippet": "entered"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 89,
+          "snippet": "mounted"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 98,
+          "snippet": "riding"
+        }
+      ]
+    },
+    {
+      "term": "بقیت",
+      "transliteration": "b-q-y",
+      "literal": "remaining; everlasting; eternal; immortal",
+      "se_rendering": "remained afflicted",
+      "note": "Root means 'everlasting; eternal' (32 occurrences), but here 'remained' strips transcendent meaning for literal persistence of ailment, contextually temporal not metaphysical.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 2,
+          "snippet": "the Eternal"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 88,
+          "snippet": "everlasting beauty"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 98,
+          "snippet": "everlasting candle"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 117,
+          "snippet": "immortal sovereignty"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 110,
+          "snippet": "everlasting torch of divine guidance"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 56,
+          "snippet": "refrain"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 246,
+          "snippet": "everlasting"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 259,
+          "snippet": "O thou Remnant of God"
+        }
+      ]
+    }
+  ],
+  "section_index": "CXX.1",
+  "section": "CXX",
+  "section_para": 1
 }

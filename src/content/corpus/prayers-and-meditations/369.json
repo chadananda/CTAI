@@ -1,10 +1,510 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 369,
   "source_text": "َّ لِمَسِّ البَلايا فِي سَبِيلِكَ، اَسْئَلُكَ يا مَنْ بِنِدائِكَ طارَتْ أَفْئِدَةُ المُقَرَّبِينَ بِأَنْ تُنَزِّلَ عَلَى أَحِبَّتِكَ ما يَجْعَلُهُمْ غَنِيًّا عَمَّا سِواكَ، ثُمَّ اسْتَقِمْهُمْ عَلَى شَأْنٍ يَقُومُنَّ عَلَى أَمْرِكَ وَيُنادِينَّكَ بَيْنَ سَمائِكَ وَأَرْضِكَ بِحَيْثُ لا يَمْنَعُهُمْ ظُلْمُ الفَراعِنَةِ مِنْ عِبادِكَ إِنَّكَ أَنْتَ",
   "translation": "I implore Thee, O Thou by Whose summons the hearts of all them who were nigh unto Thee have soared into the atmosphere of Thy presence, to send down upon Thy loved ones what will enable them to dispense with all else except Thee. Endue them, then, with such constancy that they will arise to proclaim Thy Cause, and will call on Thy name, before all that are in Thy heaven and on Thy earth, in such wise that the Pharaonic cruelties inflicted by the oppressors among Thy servants will not succeed in keeping them back from Thee.",
   "source_lang": "ar",
-  "score": 9.6
+  "score": 9.6,
+  "page_slug": "pharaonic-cruelties-oppressors",
+  "alignment": [
+    {
+      "ar": "البَلايا",
+      "en": "cruelties"
+    },
+    {
+      "ar": "فِي سَبِيلِكَ",
+      "en": ""
+    },
+    {
+      "ar": "اَسْئَلُكَ",
+      "en": "I implore Thee"
+    },
+    {
+      "ar": "يا",
+      "en": "O"
+    },
+    {
+      "ar": "مَنْ",
+      "en": "Thou"
+    },
+    {
+      "ar": "بِنِدائِكَ",
+      "en": "by Whose summons"
+    },
+    {
+      "ar": "طارَتْ",
+      "en": "have soared"
+    },
+    {
+      "ar": "أَفْئِدَةُ",
+      "en": "the hearts"
+    },
+    {
+      "ar": "بِأَنْ",
+      "en": ""
+    },
+    {
+      "ar": "عَلَى",
+      "en": "upon"
+    },
+    {
+      "ar": "ما",
+      "en": "what"
+    },
+    {
+      "ar": "يَجْعَلُهُمْ",
+      "en": "will enable them"
+    },
+    {
+      "ar": "سِواكَ",
+      "en": "except Thee"
+    },
+    {
+      "ar": "اسْتَقِمْهُمْ",
+      "en": "Endue them"
+    },
+    {
+      "ar": "عَلَى شَأْنٍ",
+      "en": "with such constancy"
+    },
+    {
+      "ar": "عَلَى أَمْرِكَ",
+      "en": "to proclaim Thy Cause"
+    },
+    {
+      "ar": "بَيْنَ",
+      "en": ""
+    },
+    {
+      "ar": "سَمائِكَ",
+      "en": "in Thy heaven"
+    },
+    {
+      "ar": "وَأَرْضِكَ",
+      "en": "and on Thy earth"
+    },
+    {
+      "ar": "بِحَيْثُ",
+      "en": "in such wise"
+    },
+    {
+      "ar": "لا يَمْنَعُهُمْ",
+      "en": "will not succeed in keeping them back"
+    },
+    {
+      "ar": "ظُلْمُ",
+      "en": "inflicted"
+    },
+    {
+      "ar": "الفَراعِنَةِ",
+      "en": "the Pharaonic"
+    },
+    {
+      "ar": "مِنْ عِبادِكَ",
+      "en": "by the oppressors among Thy servants"
+    },
+    {
+      "ar": "أَنْتَ",
+      "en": ""
+    }
+  ],
+  "terms": [
+    {
+      "term": "البَلايا",
+      "transliteration": "b-l-ʾ",
+      "literal": "affliction; trial; calamity",
+      "se_rendering": "afflictions",
+      "note": "Standard rendering 'afflictions' (27 occ). Here directly parallels 'trials' and 'tribulations' in concordance; choice maintains spiritual weight while echoing earlier phrases.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 4,
+          "snippet": "trials"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 137,
+          "snippet": "Troubles"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 179,
+          "snippet": "tribulations"
+        },
+        {
+          "work": "gleanings",
+          "para": 660,
+          "snippet": "afflictions"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 28,
+          "snippet": "afflicted"
+        },
+        {
+          "work": "gleanings",
+          "para": 640,
+          "snippet": "subjected"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 145,
+          "snippet": "sick"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 92,
+          "snippet": "Yea"
+        }
+      ]
+    },
+    {
+      "term": "طارَتْ",
+      "transliteration": "h-r-k",
+      "literal": "movement; motion; trembling",
+      "se_rendering": "have soared",
+      "note": "Rendered 'have soared' though root typically yields 'trembling' or 'movement' (21 occ). Aeronautical metaphor unique to this passage; elevates spiritual rapture over kinetic description.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 10,
+          "snippet": "trembling"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 42,
+          "snippet": "falsification"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 43,
+          "snippet": "alert and active"
+        },
+        {
+          "work": "gleanings",
+          "para": 655,
+          "snippet": "that movest me"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 96,
+          "snippet": "MOVING FORM OF DUST"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 13,
+          "snippet": "the breezes of the All-Glorious"
+        },
+        {
+          "work": "gleanings",
+          "para": 159,
+          "snippet": "agitate"
+        },
+        {
+          "work": "gleanings",
+          "para": 324,
+          "snippet": "motion and stillness"
+        }
+      ]
+    },
+    {
+      "term": "المُقَرَّبِينَ",
+      "transliteration": "q-r-b",
+      "literal": "place of sacrifice; altar",
+      "se_rendering": "them who were nigh unto Thee",
+      "note": "Rendered 'them who were nigh unto Thee' rather than 'place of sacrifice' or 'draw near' (44 occ). SE opts for relational intimacy over cultic terminology here.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 3,
+          "snippet": "unto the place of sacrifice"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 35,
+          "snippet": "my kindred"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 159,
+          "snippet": "their kindred"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 163,
+          "snippet": "at hand"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 9,
+          "snippet": "well-nigh"
+        },
+        {
+          "work": "gleanings",
+          "para": 191,
+          "snippet": "near"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 199,
+          "snippet": "draw them nigh unto God"
+        },
+        {
+          "work": "gleanings",
+          "para": 266,
+          "snippet": "draw them nearer unto Thee"
+        }
+      ]
+    },
+    {
+      "term": "تُنَزِّلَ",
+      "transliteration": "n-z-l",
+      "literal": "to descend, to be revealed",
+      "se_rendering": "send down",
+      "note": "Consistently 'send down' across 88 occurrences. This passage exemplifies SE's theological vocabulary for divine bestowal rather than natural descent.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 643,
+          "snippet": "sent down"
+        },
+        {
+          "work": "gleanings",
+          "para": 218,
+          "snippet": "revealed"
+        },
+        {
+          "work": "gleanings",
+          "para": 656,
+          "snippet": "descended"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 34,
+          "snippet": "Descend"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 40,
+          "snippet": "were revealed"
+        },
+        {
+          "work": "gleanings",
+          "para": 604,
+          "snippet": "have been sent down"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 16,
+          "snippet": "hath been sent down"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 171,
+          "snippet": "which have been sent down"
+        }
+      ]
+    },
+    {
+      "term": "غَنِيًّا",
+      "transliteration": "gh-n-y",
+      "literal": "to be independent of; to be in no need of; to dispense with",
+      "se_rendering": "dispense with all else except Thee",
+      "note": "Rendered 'dispense with all else except Thee' rather than 'Self-Sufficing' or 'treasure' (20 occ). SE expands verb into relational phrase emphasizing devotional independence from materiality.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 27,
+          "snippet": "in no need of"
+        },
+        {
+          "work": "gleanings",
+          "para": 685,
+          "snippet": "rid yourselves of attachment"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 77,
+          "snippet": "treasure"
+        },
+        {
+          "work": "gleanings",
+          "para": 711,
+          "snippet": "the All-Possessing"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 155,
+          "snippet": "Self-Sufficing"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 115,
+          "snippet": "the All-Bounteous"
+        },
+        {
+          "work": "gleanings",
+          "para": 179,
+          "snippet": "the Self-Subsisting"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 143,
+          "snippet": "the Rich"
+        }
+      ]
+    },
+    {
+      "term": "أَمْرِكَ",
+      "transliteration": "ʾ-m-r",
+      "literal": "command; cause; matter; affair",
+      "se_rendering": "Thy Cause",
+      "note": "Rendered 'Thy Cause' rather than 'command' or 'Revelation' (75 occ). SE privileges Bahá'í terminology—capitalizing 'Cause' elevates institutional significance.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "His Cause"
+        },
+        {
+          "work": "gleanings",
+          "para": 586,
+          "snippet": "His command"
+        },
+        {
+          "work": "gleanings",
+          "para": 691,
+          "snippet": "His Revelation"
+        },
+        {
+          "work": "gleanings",
+          "para": 723,
+          "snippet": "Cause"
+        },
+        {
+          "work": "gleanings",
+          "para": 8,
+          "snippet": "Revelation"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 167,
+          "snippet": "things"
+        },
+        {
+          "work": "gleanings",
+          "para": 524,
+          "snippet": "your affairs"
+        },
+        {
+          "work": "gleanings",
+          "para": 495,
+          "snippet": "affairs"
+        }
+      ]
+    },
+    {
+      "term": "ظُلْمُ",
+      "transliteration": "z-l-m",
+      "literal": "wrongedness, oppression, meekness; state of being wronged or oppressed",
+      "se_rendering": "Pharaonic cruelties",
+      "note": "Rendered 'Pharaonic cruelties' rather than typical 'oppression' or 'wrongedness' (128 occ). Unique historical framing—SE converts abstract root into concrete historical allusion.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 498,
+          "snippet": "afflicted with countless tribulations"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 49,
+          "snippet": "meekness"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 116,
+          "snippet": "injury"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 36,
+          "snippet": "Wronged One"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 253,
+          "snippet": "wronged"
+        },
+        {
+          "work": "gleanings",
+          "para": 221,
+          "snippet": "oppression"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 9,
+          "snippet": "Darkness"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 33,
+          "snippet": "tyranny"
+        }
+      ]
+    },
+    {
+      "term": "عِبادِكَ",
+      "transliteration": "ʿ-b-d",
+      "literal": "servant; slave; worshipper",
+      "se_rendering": "Thy servants",
+      "note": "Standard 'Thy servants' (68 occ). Maintains conventional hierarchical servant-lord relationship fundamental to Islamic prayer register SE preserves.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 686,
+          "snippet": "servants"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 27,
+          "snippet": "'Abdu'l‑Bahá"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 260,
+          "snippet": "'Abdu'l-'Azíz"
+        },
+        {
+          "work": "gleanings",
+          "para": 67,
+          "snippet": "servant"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 10,
+          "snippet": "this wronged servant of Thine"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 47,
+          "snippet": "this servant of Thine"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 50,
+          "snippet": "the servants"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 12,
+          "snippet": "Thy trusted servants"
+        }
+      ]
+    }
+  ],
+  "section_index": "LXXXVI.3",
+  "section": "LXXXVI",
+  "section_para": 3
 }

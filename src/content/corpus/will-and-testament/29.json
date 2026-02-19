@@ -1,10 +1,235 @@
 {
   "work": "Will and Testament",
   "slug": "will-and-testament",
-  "author": "'Abdu'l-Baha",
+  "author": "‘Abdu’l-Bahá",
   "pair_index": 29,
   "source_text": "هذه نصیحة منّی و فرض علیکم من عند اللّه فطوبی للعاملین ع ع",
   "translation": "This is my counsel and the commandment of God unto you. Well is it with them that act accordingly.",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "commandment-act-accordingly",
+  "alignment": [
+    {
+      "ar": "هذه",
+      "en": "This"
+    },
+    {
+      "ar": "نصیحة",
+      "en": "counsel"
+    },
+    {
+      "ar": "منّی",
+      "en": "my"
+    },
+    {
+      "ar": "فرض",
+      "en": "commandment"
+    },
+    {
+      "ar": "علیکم",
+      "en": "unto you"
+    },
+    {
+      "ar": "اللّه",
+      "en": "God"
+    },
+    {
+      "ar": "فطوبی",
+      "en": "Well is it"
+    },
+    {
+      "ar": "للعاملین",
+      "en": "them that act"
+    }
+  ],
+  "terms": [
+    {
+      "term": "نصیحه",
+      "transliteration": "n-s-h",
+      "literal": "counsel; advice; admonition",
+      "se_rendering": "counsel",
+      "note": "Typically rendered 'counsels' or 'exhortations' (28 occurrences across corpus). Singular 'counsel' here preserves the directive force of direct address.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-ahd",
+          "para": 16,
+          "snippet": "counsels"
+        },
+        {
+          "work": "gleanings",
+          "para": 595,
+          "snippet": "exhortations"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 187,
+          "snippet": "admonished"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 11,
+          "snippet": "exhortation"
+        },
+        {
+          "work": "gleanings",
+          "para": 714,
+          "snippet": "counseleth"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 4,
+          "snippet": "counselleth"
+        },
+        {
+          "work": "gleanings",
+          "para": 522,
+          "snippet": "counsel"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 149,
+          "snippet": "an admonisher to the rich"
+        }
+      ]
+    },
+    {
+      "term": "منی",
+      "transliteration": "m-n-y",
+      "literal": "from me; mine; by me",
+      "se_rendering": "my",
+      "note": "Possessive 'my' is straightforward. Jafar data shows SE's rare mystical renderings ('illuminated', 'resplendent') never appear with this root in direct speech contexts.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 653,
+          "snippet": "My"
+        },
+        {
+          "work": "gleanings",
+          "para": 91,
+          "snippet": "illuminated"
+        },
+        {
+          "work": "gleanings",
+          "para": 684,
+          "snippet": "resplendent"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 72,
+          "snippet": "most exalted"
+        }
+      ]
+    },
+    {
+      "term": "فرض",
+      "transliteration": "f-r-d",
+      "literal": "obligatory; incumbent; imposed; prescribed; fixed",
+      "se_rendering": "commandment",
+      "note": "Root denotes obligation/prescription. SE chooses 'commandment' here rather than 'incumbent' or 'prescribed'—elevating juridical status to divine decree.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 409,
+          "snippet": "prescribed"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 358,
+          "snippet": "didst enjoin"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 5,
+          "snippet": "have been enjoined"
+        }
+      ]
+    },
+    {
+      "term": "فطوبی",
+      "transliteration": "t-w-b",
+      "literal": "happiness; blessedness; felicity",
+      "se_rendering": "Well is it with them",
+      "note": "Root t-w-b denotes felicity/blessedness. SE selects 'Well is it with them' (12-occurrence rendering) emphasizing relational blessing rather than absolute happiness, matching the conditional clause structure.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 125,
+          "snippet": "Happy"
+        },
+        {
+          "work": "gleanings",
+          "para": 157,
+          "snippet": "Blessed"
+        },
+        {
+          "work": "gleanings",
+          "para": 639,
+          "snippet": "Great is the blessedness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 130,
+          "snippet": "Great is thy blessedness"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 805,
+          "snippet": "Great, therefore, is the blessedness"
+        }
+      ]
+    },
+    {
+      "term": "للعاملین",
+      "transliteration": "ʿ-m-l",
+      "literal": "to work; to act; to do; to perform",
+      "se_rendering": "them that act accordingly",
+      "note": "Typically 'workers' or 'works' across 44 occurrences. Paraphrased as 'them that act accordingly' to clarify the agent and behavioral condition rather than abstract deed.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 255,
+          "snippet": "workers"
+        },
+        {
+          "work": "gleanings",
+          "para": 502,
+          "snippet": "do"
+        },
+        {
+          "work": "gleanings",
+          "para": 607,
+          "snippet": "virtues and attributes"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 782,
+          "snippet": "works"
+        },
+        {
+          "work": "gleanings",
+          "para": 646,
+          "snippet": "actions"
+        },
+        {
+          "work": "gleanings",
+          "para": 564,
+          "snippet": "deeds"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 286,
+          "snippet": "God doeth unto them as they do unto themselves"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 94,
+          "snippet": "knew that they did so"
+        }
+      ]
+    }
+  ],
+  "section_index": "1.29",
+  "section": "1",
+  "section_para": 29
 }

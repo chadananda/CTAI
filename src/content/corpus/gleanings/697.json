@@ -1,10 +1,513 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 697,
   "source_text": "وجه حقّ از افق اعلی باهل بها توجه نموده میفرماید در جمیع احوال بآنچه سبب آسایش خلق است مشغول باشید همّت را در تربیت اهل عالم مصروف دارید که شاید نفاق و اختلاف از مابین امم باسم اعظم محو شود و کل اهل یک بساط و یک مدینه مشاهده شوند قلب را منوّر دارید و از خار و خاشاک ضغینه و بغضا مطهّر نمائید کل اهل یک عالمید و از یک کلمه خلق شده‌اید نیکوست حال نفسی که بمحبّت تمام با عموم انام معاشرت نماید",
   "translation": "He Who is the Eternal Truth hath, from the Dayspring of Glory, directed His eyes towards the people of Bahá, and is addressing them in these words: “Address yourselves to the promotion of the well-being and tranquillity of the children of men. Bend your minds and wills to the education of the peoples and kindreds of the earth, that haply the dissensions that divide it may, through the power of the Most Great Name, be blotted out from its face, and all mankind become the upholders of one Order, and the inhabitants of one City. Illumine and hallow your hearts; let them not be profaned by the thorns of hate or the thistles of malice. Ye dwell in one world, and have been created through the operation of one Will. Blessed is he who mingleth with all men in a spirit of utmost kindliness and love.”",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "illumine-hearts-one-city",
+  "alignment": [
+    {
+      "ar": "وجه",
+      "en": "He Who"
+    },
+    {
+      "ar": "حقّ",
+      "en": "the Eternal Truth"
+    },
+    {
+      "ar": "افق",
+      "en": "Dayspring"
+    },
+    {
+      "ar": "اعلی",
+      "en": "Glory"
+    },
+    {
+      "ar": "اهل",
+      "en": "the people"
+    },
+    {
+      "ar": "بها",
+      "en": "Bahá"
+    },
+    {
+      "ar": "توجه",
+      "en": "directed His eyes"
+    },
+    {
+      "ar": "میفرماید",
+      "en": "is addressing them"
+    },
+    {
+      "ar": "جمیع",
+      "en": "all"
+    },
+    {
+      "ar": "احوال",
+      "en": "in these words"
+    },
+    {
+      "ar": "آسایش",
+      "en": "the well-being and tranquillity"
+    },
+    {
+      "ar": "خلق",
+      "en": "the children of men"
+    },
+    {
+      "ar": "مشغول",
+      "en": "Address yourselves"
+    },
+    {
+      "ar": "باشید",
+      "en": "promotion"
+    },
+    {
+      "ar": "همّت",
+      "en": "minds and wills"
+    },
+    {
+      "ar": "تربیت",
+      "en": "the education"
+    },
+    {
+      "ar": "اهل عالم",
+      "en": "the peoples and kindreds of the earth"
+    },
+    {
+      "ar": "مصروف",
+      "en": "Bend"
+    },
+    {
+      "ar": "دارید",
+      "en": "your"
+    },
+    {
+      "ar": "نفاق",
+      "en": "dissensions"
+    },
+    {
+      "ar": "اختلاف",
+      "en": "divide"
+    },
+    {
+      "ar": "مابین",
+      "en": "from"
+    },
+    {
+      "ar": "امم",
+      "en": "it"
+    },
+    {
+      "ar": "اسم اعظم",
+      "en": "the Most Great Name"
+    },
+    {
+      "ar": "محو",
+      "en": "blotted out"
+    },
+    {
+      "ar": "کل",
+      "en": "all mankind"
+    },
+    {
+      "ar": "یک بساط",
+      "en": "one Order"
+    },
+    {
+      "ar": "یک مدینه",
+      "en": "one City"
+    },
+    {
+      "ar": "مشاهده",
+      "en": "the inhabitants"
+    },
+    {
+      "ar": "شوند",
+      "en": "become"
+    },
+    {
+      "ar": "قلب",
+      "en": "your hearts"
+    },
+    {
+      "ar": "منوّر",
+      "en": "Illumine"
+    },
+    {
+      "ar": "دارید",
+      "en": "hallow"
+    },
+    {
+      "ar": "خار و خاشاک",
+      "en": "the thorns"
+    },
+    {
+      "ar": "ضغینه",
+      "en": "hate"
+    },
+    {
+      "ar": "بغضا",
+      "en": "the thistles of malice"
+    },
+    {
+      "ar": "مطهّر",
+      "en": "profaned"
+    },
+    {
+      "ar": "نمائید",
+      "en": "let them not be"
+    },
+    {
+      "ar": "یک عالم",
+      "en": "one world"
+    },
+    {
+      "ar": "یک کلمه",
+      "en": "one Will"
+    },
+    {
+      "ar": "خلق شده‌اید",
+      "en": "have been created"
+    },
+    {
+      "ar": "نیکوست",
+      "en": "Blessed"
+    },
+    {
+      "ar": "نفسی",
+      "en": "he"
+    },
+    {
+      "ar": "محبّت",
+      "en": "love"
+    },
+    {
+      "ar": "تمام",
+      "en": "utmost"
+    },
+    {
+      "ar": "انام",
+      "en": "men"
+    },
+    {
+      "ar": "معاشرت",
+      "en": "mingleth"
+    },
+    {
+      "ar": "نماید",
+      "en": "in a spirit of"
+    }
+  ],
+  "terms": [
+    {
+      "term": "نفاق",
+      "transliteration": "n-f-q",
+      "literal": "hypocrisy; sedition; discord; betrayal",
+      "se_rendering": "dissensions",
+      "note": "Typically 'discord,' 'sedition,' or 'hypocrisy' across 14 occurrences. SE renders here as 'dissensions'—emphasizing internal division over theological betrayal.",
+      "cross_refs": [
+        {
+          "work": "fire-tablet",
+          "para": 34,
+          "snippet": "sedition"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 386,
+          "snippet": "discord"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 36,
+          "snippet": "their craft"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 149,
+          "snippet": "generous"
+        }
+      ]
+    },
+    {
+      "term": "اعظم",
+      "transliteration": "ʿ-z̟-m",
+      "literal": "greatest; supreme; mightiest",
+      "se_rendering": "Most Great",
+      "note": "Consistently 'Most Great' across 63 occurrences. This rendering maintains SE's established pattern for superlative theological language in the Bahá'í texts.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 269,
+          "snippet": "Most Great"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 734,
+          "snippet": "Most Great Name"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 3,
+          "snippet": "greatest"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 6,
+          "snippet": "greater"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 209,
+          "snippet": "Great"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 9,
+          "snippet": "mighty"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 262,
+          "snippet": "glorious"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 88,
+          "snippet": "the Most Great"
+        }
+      ]
+    },
+    {
+      "term": "مشاهده",
+      "transliteration": "sh-h-d",
+      "literal": "witnessed; observed; seen; evident; manifest",
+      "se_rendering": "become",
+      "note": "Root ش-ه-د normally renders as 'manifest,' 'witness,' or 'testify.' Here rendered as 'become'—a notable deviation suggesting SE interpreted this as visional manifestation rather than testimony.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 35,
+          "snippet": "evident"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 811,
+          "snippet": "I bear witness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 6,
+          "snippet": "I testify"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 138,
+          "snippet": "martyrdom"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 230,
+          "snippet": "God testifieth"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 57,
+          "snippet": "beheld"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 117,
+          "snippet": "testify"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 156,
+          "snippet": "bear witness"
+        }
+      ]
+    },
+    {
+      "term": "قلب",
+      "transliteration": "q-l-b",
+      "literal": "heart; to turn; to overturn",
+      "se_rendering": "hearts",
+      "note": "Standard 'hearts' among 60 occurrences. This rendering preserves the organ-of-consciousness metaphor central to Bahá'í spiritual anthropology.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 187,
+          "snippet": "hearts"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 432,
+          "snippet": "their hearts"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 652,
+          "snippet": "heart"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 777,
+          "snippet": "commotion"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 13,
+          "snippet": "tumult"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 30,
+          "snippet": "thine heart"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 4,
+          "snippet": "with a pure heart"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 82,
+          "snippet": "with a sound heart"
+        }
+      ]
+    },
+    {
+      "term": "منوّر",
+      "transliteration": "n-w-r",
+      "literal": "light; illumination",
+      "se_rendering": "Illumine",
+      "note": "Root ن-و-ر typically renders as 'light' or 'Light' (78 occurrences). 'Illumine' here is a verb form, representing the imperative mood uniquely in SE's corpus for this root.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 3,
+          "snippet": "light"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 114,
+          "snippet": "with the light"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 109,
+          "snippet": "Thy light"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 246,
+          "snippet": "Illumine"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 180,
+          "snippet": "fire"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 10,
+          "snippet": "flame of fire"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 39,
+          "snippet": "lights"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 312,
+          "snippet": "splendors"
+        }
+      ]
+    },
+    {
+      "term": "بغضا",
+      "transliteration": "b-gh-dh",
+      "literal": "hatred; enmity; animosity",
+      "se_rendering": "hate",
+      "note": "Standard rendering among 37 occurrences as 'hate,' 'hatred,' or 'animosity.' This usage aligns with SE's typical collocation of hatred with spiritual defilement.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 5,
+          "snippet": "with great enmity"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 45,
+          "snippet": "hate"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 59,
+          "snippet": "hatred"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 18,
+          "snippet": "animosity"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 14,
+          "snippet": "enmity"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 117,
+          "snippet": "every hater"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 54,
+          "snippet": "hatred and enmity"
+        }
+      ]
+    },
+    {
+      "term": "معاشرت",
+      "transliteration": "ʿ-sh-r",
+      "literal": "association; companionship; social interaction",
+      "se_rendering": "mingleth",
+      "note": "Root ع-ش-ر renders across 18 occurrences primarily as 'Consort' or 'association.' 'Mingleth' here captures the intimate social dimension more dynamically than SE's usual renderings.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 22,
+          "snippet": "Consort"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 145,
+          "snippet": "companionship"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 62,
+          "snippet": "not associated with Me"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 219,
+          "snippet": "O concourse of the fair-minded"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 150,
+          "snippet": "company of His trusted ones"
+        }
+      ]
+    }
+  ],
+  "section_index": "CLVI.1",
+  "section": "CLVI",
+  "section_para": 1
 }

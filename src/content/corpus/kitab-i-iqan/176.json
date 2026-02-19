@@ -1,10 +1,561 @@
 {
   "work": "Kitab-i-Iqan",
   "slug": "kitab-i-iqan",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 176,
   "source_text": "با اينکه همه انبياء و اصفياء و اولياء من عنداللّه امر فرمودند که به چشم و گوش خود بشنوند و ملاحظه نمايند مع ذلک معتنی به نصح انبياء نگشته تابع علمای خود بوده و خواهند بود.  و اگر مسکينی و يا فقيری که عاری از لباس اهل علم باشد بگويد:  \"يَا قَومِ اتَّبِعُوا المُرسَلِينَ\"  ، جواب گويند که اين همه علماء و فضلاء با اين رياست ظاهره و البسه مقطّعه لطيفه نفهميدهاند و  حقّ را از باطل ادراک ننمودهاند و تو و امثال تو ادراک نموده ايد و نهايت تعجّب می نمايند از چنين قولی.  با اينکه امم سلف اکثر و اعظم و اکبرند و اگر کثرت و لباس علم سبب و علّت علم و صدق باشد البتّه امم سابقه اولی واسبق اند.",
   "translation": "Notwithstanding the divinely-inspired admonitions of all the Prophets, the Saints, and Chosen ones of God, enjoining the people to see with their own eyes and hear with their own ears, they have disdainfully rejected their counsels and have blindly followed, and will continue to follow, the leaders of their Faith. Should a poor and obscure person, destitute of the attire of men of learning, address them saying: “Follow ye, O people! the Messengers of God,” they would, greatly surprised at such a statement, reply: “What! Meanest thou that all these divines, all these exponents of learning, with all their authority, their pomp and pageantry, have erred, and failed to distinguish truth from falsehood? Dost thou, and people like thyself, pretend to have comprehended that which they have not understood?” If numbers and excellence of apparel be regarded as the criterions of learning and truth, the peoples of a bygone age, whom those of today have never surpassed in numbers, magnificence and power, should certainly be accounted a superior and worthier people.",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "blind-followers-reject-counsel",
+  "alignment": [
+    {
+      "ar": "اينکه",
+      "en": "Notwithstanding"
+    },
+    {
+      "ar": "همه",
+      "en": "all"
+    },
+    {
+      "ar": "انبياء",
+      "en": "Prophets"
+    },
+    {
+      "ar": "اصفياء",
+      "en": "Saints"
+    },
+    {
+      "ar": "اولياء",
+      "en": "Chosen ones"
+    },
+    {
+      "ar": "من عنداللّه",
+      "en": "of God"
+    },
+    {
+      "ar": "امر فرمودند",
+      "en": "admonitions"
+    },
+    {
+      "ar": "چشم",
+      "en": "eyes"
+    },
+    {
+      "ar": "گوش",
+      "en": "ears"
+    },
+    {
+      "ar": "خود",
+      "en": "their own"
+    },
+    {
+      "ar": "بشنوند",
+      "en": "hear"
+    },
+    {
+      "ar": "ملاحظه نمايند",
+      "en": "see"
+    },
+    {
+      "ar": "مع ذلک",
+      "en": "they"
+    },
+    {
+      "ar": "معتنی",
+      "en": "rejected"
+    },
+    {
+      "ar": "نصح",
+      "en": "counsels"
+    },
+    {
+      "ar": "نگشته",
+      "en": "disdainfully"
+    },
+    {
+      "ar": "تابع",
+      "en": "followed"
+    },
+    {
+      "ar": "علمای",
+      "en": "leaders"
+    },
+    {
+      "ar": "خواهند بود",
+      "en": "will continue to follow"
+    },
+    {
+      "ar": "مسکينی",
+      "en": "poor"
+    },
+    {
+      "ar": "فقيری",
+      "en": "obscure person"
+    },
+    {
+      "ar": "عاری",
+      "en": "destitute"
+    },
+    {
+      "ar": "لباس",
+      "en": "attire"
+    },
+    {
+      "ar": "اهل علم",
+      "en": "men of learning"
+    },
+    {
+      "ar": "بگويد",
+      "en": "address"
+    },
+    {
+      "ar": "يَا قَومِ",
+      "en": "O people"
+    },
+    {
+      "ar": "المُرسَلِينَ",
+      "en": "Messengers of God"
+    },
+    {
+      "ar": "جواب گويند",
+      "en": "reply"
+    },
+    {
+      "ar": "علماء",
+      "en": "divines"
+    },
+    {
+      "ar": "فضلاء",
+      "en": "exponents of learning"
+    },
+    {
+      "ar": "رياست",
+      "en": "authority"
+    },
+    {
+      "ar": "ظاهره",
+      "en": "pomp"
+    },
+    {
+      "ar": "البسه مقطّعه لطيفه",
+      "en": "pageantry"
+    },
+    {
+      "ar": "نفهميدهاند",
+      "en": "have not understood"
+    },
+    {
+      "ar": "حقّ",
+      "en": "truth"
+    },
+    {
+      "ar": "باطل",
+      "en": "falsehood"
+    },
+    {
+      "ar": "ادراک ننمودهاند",
+      "en": "failed to distinguish"
+    },
+    {
+      "ar": "امثال",
+      "en": "like"
+    },
+    {
+      "ar": "ادراک نموده ايد",
+      "en": "have comprehended"
+    },
+    {
+      "ar": "نهايت",
+      "en": "greatly"
+    },
+    {
+      "ar": "تعجّب",
+      "en": "surprised"
+    },
+    {
+      "ar": "چنين قولی",
+      "en": "such a statement"
+    },
+    {
+      "ar": "امم سلف",
+      "en": "peoples of a bygone age"
+    },
+    {
+      "ar": "اکثر",
+      "en": "numbers"
+    },
+    {
+      "ar": "اعظم",
+      "en": "magnificence"
+    },
+    {
+      "ar": "اکبر",
+      "en": "power"
+    },
+    {
+      "ar": "علم",
+      "en": "learning"
+    },
+    {
+      "ar": "سبب",
+      "en": "criterions"
+    },
+    {
+      "ar": "اولی",
+      "en": "superior"
+    },
+    {
+      "ar": "اسبق",
+      "en": "worthier"
+    }
+  ],
+  "terms": [
+    {
+      "term": "نصح",
+      "transliteration": "n-s-h",
+      "literal": "counsel; advice; admonition",
+      "se_rendering": "counsels",
+      "note": "Standard rendering 'counsels' aligns with Jafar pattern; SE here emphasizes divine guidance explicitly rejected by the masses.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-ahd",
+          "para": 16,
+          "snippet": "counsels"
+        },
+        {
+          "work": "gleanings",
+          "para": 595,
+          "snippet": "exhortations"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 56,
+          "snippet": "counsel"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 187,
+          "snippet": "admonished"
+        },
+        {
+          "work": "gleanings",
+          "para": 714,
+          "snippet": "counseleth"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 4,
+          "snippet": "counselleth"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 149,
+          "snippet": "an admonisher to the rich"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 182,
+          "snippet": "sincere adviser"
+        }
+      ]
+    },
+    {
+      "term": "تابع",
+      "transliteration": "t-b-ʿ",
+      "literal": "to follow; to obey; to pursue",
+      "se_rendering": "followed",
+      "note": "Root meaning 'to follow' rendered 'followed' here, contrasting divinely-inspired counsel with blind adherence to human authority.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 784,
+          "snippet": "followed"
+        },
+        {
+          "work": "gleanings",
+          "para": 519,
+          "snippet": "Follow"
+        },
+        {
+          "work": "gleanings",
+          "para": 706,
+          "snippet": "submission unto"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 26,
+          "snippet": "to follow the light"
+        },
+        {
+          "work": "gleanings",
+          "para": 605,
+          "snippet": "obedience to"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 42,
+          "snippet": "obedience"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 49,
+          "snippet": "The darts of affliction have compassed me round"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 16,
+          "snippet": "Successive afflictions"
+        }
+      ]
+    },
+    {
+      "term": "علمای",
+      "transliteration": "ʿ-l-m",
+      "literal": "world; universe; the worlds",
+      "se_rendering": "leaders of their Faith",
+      "note": "Typically 'world' or 'knowledge' (141 occurrences); here rendered 'leaders of their Faith,' treating root as designating learned authority-holders rather than abstract knowledge.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 198,
+          "snippet": "world"
+        },
+        {
+          "work": "gleanings",
+          "para": 657,
+          "snippet": "all worlds"
+        },
+        {
+          "work": "gleanings",
+          "para": 182,
+          "snippet": "mankind"
+        },
+        {
+          "work": "gleanings",
+          "para": 183,
+          "snippet": "the whole world"
+        },
+        {
+          "work": "gleanings",
+          "para": 226,
+          "snippet": "all earthly defilements"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 28,
+          "snippet": "knowledge"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 42,
+          "snippet": "banner"
+        },
+        {
+          "work": "gleanings",
+          "para": 38,
+          "snippet": "understanding"
+        }
+      ]
+    },
+    {
+      "term": "مقطّعه",
+      "transliteration": "q-t-ʿ",
+      "literal": "to be severed; to be cut off; to detach oneself; to abstain",
+      "se_rendering": "pageantry",
+      "note": "Typically 'detached' or 'sundered' (33 occurrences); uniquely rendered 'pageantry' as descriptive noun, implying severed connection between outward pomp and inner truth.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 413,
+          "snippet": "detached themselves"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 427,
+          "snippet": "sundered"
+        },
+        {
+          "work": "gleanings",
+          "para": 662,
+          "snippet": "detacheth himself"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 488,
+          "snippet": "have cut themselves off"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 11,
+          "snippet": "decisive"
+        },
+        {
+          "work": "gleanings",
+          "para": 310,
+          "snippet": "cut into pieces"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 16,
+          "snippet": "detachment"
+        },
+        {
+          "work": "gleanings",
+          "para": 255,
+          "snippet": "detached"
+        }
+      ]
+    },
+    {
+      "term": "ننمودهاند",
+      "transliteration": "n-m-w",
+      "literal": "to show, display, exhibit; to grow, develop",
+      "se_rendering": "failed to distinguish",
+      "note": "Usually 'share' or 'inspire' (33 occurrences); here 'failed to distinguish,' emphasizing cognitive inability despite external credentials and learning.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 22,
+          "snippet": "share"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 24,
+          "snippet": "consort"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 126,
+          "snippet": "borne"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 101,
+          "snippet": "inspire"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 31,
+          "snippet": "withhold not"
+        },
+        {
+          "work": "gleanings",
+          "para": 333,
+          "snippet": "extinguish"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 14,
+          "snippet": "be made"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 46,
+          "snippet": "deprive not"
+        }
+      ]
+    },
+    {
+      "term": "امم",
+      "transliteration": "ʾ-m-m",
+      "literal": "people; nation; community; female servant; handmaiden",
+      "se_rendering": "peoples",
+      "note": "Standard 'peoples' maintains Jafar pattern (16 occurrences); comparison of ancient versus modern peoples emphasizes temporal argument about learning and authority.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 682,
+          "snippet": "handmaiden"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "peoples"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 777,
+          "snippet": "the peoples"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 127,
+          "snippet": "of nations"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 25,
+          "snippet": "And now, concerning"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 28,
+          "snippet": "Those divines, however, who"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 322,
+          "snippet": "handmaidens"
+        },
+        {
+          "work": "gleanings",
+          "para": 265,
+          "snippet": "The decree that is impending, however"
+        }
+      ]
+    },
+    {
+      "term": "صدق",
+      "transliteration": "s-d-q",
+      "literal": "to confirm; to verify; to acknowledge; to testify to truth",
+      "se_rendering": "truth",
+      "note": "Root pattern covers 'confirmed,' 'truthful,' 'truth' (25 occurrences); 'truth' as abstract criterion appears consistent with philosophical emphasis here.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 39,
+          "snippet": "confirmed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 134,
+          "snippet": "the truthful"
+        },
+        {
+          "work": "gleanings",
+          "para": 461,
+          "snippet": "truth"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 28,
+          "snippet": "truthfulness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 143,
+          "snippet": "fidelity"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 268,
+          "snippet": "spoken the truth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 665,
+          "snippet": "seat of truth"
+        },
+        {
+          "work": "gleanings",
+          "para": 364,
+          "snippet": "unquestionable sincerity"
+        }
+      ]
+    }
+  ],
+  "section_index": "176",
+  "section": "176",
+  "section_para": 1
 }

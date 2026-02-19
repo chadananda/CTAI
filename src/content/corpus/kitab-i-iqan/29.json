@@ -1,10 +1,425 @@
 {
   "work": "Kitab-i-Iqan",
   "slug": "kitab-i-iqan",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 29,
   "source_text": "حال کدام ضيق و تنگی است که ازيد از مراتب مذکوره باشد که اگر نفسی طلب حقّی و يا معرفتی بخواهد  نمايد نمی داند نزد کدام رود و از که جويا شود، از غايت اينکه رأی ها مختلف و سبيل ها متعدّد شده.  و اين تنگی و ضيق از شرايط هر ظهور است که تا واقع نشود ظهور شمس حقيقت نشود زيرا که صبح ظهور هدايت بعد از ليل ضلالت طالع می شود.  اين است که در روايات و احاديث جميع اين مضامين هست که کُفر عالم را فرو می گيرد و ظلمت احاطه می نمايد و امثال اينها چنانچه مذکور شد.  و اين عبد بواسطه شهرت اين احاديث و اختصار ديگر متعرّض ذکر عبارات حديث نشده ام.",
   "translation": "What “oppression” is greater than that which hath been recounted? What “oppression” is more grievous than that a soul seeking the truth, and wishing to attain unto the knowledge of God, should know not where to go for it and from whom to seek it? For opinions have sorely differed, and the ways unto the attainment of God have multiplied. This “oppression” is the essential feature of every Revelation. Unless it cometh to pass, the Sun of Truth will not be made manifest. For the break of the morn of divine guidance must needs follow the darkness of the night of error. For this reason, in all chronicles and traditions reference hath been made unto these things, namely that iniquity shall cover the surface of the earth and darkness shall envelop mankind. As the traditions referred to are well known, and as the purpose of this servant is to be brief, He will refrain from quoting the text of these traditions.",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "sun-of-truth-manifestation",
+  "alignment": [
+    {
+      "ar": "حال",
+      "en": "What"
+    },
+    {
+      "ar": "ضيق",
+      "en": "oppression"
+    },
+    {
+      "ar": "است",
+      "en": "is"
+    },
+    {
+      "ar": "ازيد",
+      "en": "greater"
+    },
+    {
+      "ar": "مراتب",
+      "en": "recounted"
+    },
+    {
+      "ar": "که",
+      "en": "than"
+    },
+    {
+      "ar": "اگر",
+      "en": "that"
+    },
+    {
+      "ar": "نفسی",
+      "en": "soul"
+    },
+    {
+      "ar": "طلب",
+      "en": "seeking"
+    },
+    {
+      "ar": "حقّی",
+      "en": "the truth"
+    },
+    {
+      "ar": "معرفتی",
+      "en": "the knowledge"
+    },
+    {
+      "ar": "بخواهد",
+      "en": "wishing"
+    },
+    {
+      "ar": "نمايد",
+      "en": "attain"
+    },
+    {
+      "ar": "نمی داند",
+      "en": "should know not"
+    },
+    {
+      "ar": "نزد",
+      "en": "where"
+    },
+    {
+      "ar": "رود",
+      "en": "to go"
+    },
+    {
+      "ar": "از",
+      "en": "from"
+    },
+    {
+      "ar": "که",
+      "en": "whom"
+    },
+    {
+      "ar": "جويا",
+      "en": "to seek"
+    },
+    {
+      "ar": "غايت",
+      "en": "For"
+    },
+    {
+      "ar": "رأی ها",
+      "en": "opinions"
+    },
+    {
+      "ar": "مختلف",
+      "en": "differed"
+    },
+    {
+      "ar": "سبيل ها",
+      "en": "the ways"
+    },
+    {
+      "ar": "متعدّد",
+      "en": "multiplied"
+    },
+    {
+      "ar": "اين",
+      "en": "This"
+    },
+    {
+      "ar": "شرايط",
+      "en": "feature"
+    },
+    {
+      "ar": "هر",
+      "en": "every"
+    },
+    {
+      "ar": "ظهور",
+      "en": "Revelation"
+    },
+    {
+      "ar": "که",
+      "en": "Unless"
+    },
+    {
+      "ar": "واقع",
+      "en": "cometh to pass"
+    },
+    {
+      "ar": "نشود",
+      "en": "will not"
+    },
+    {
+      "ar": "ظهور",
+      "en": "be made manifest"
+    },
+    {
+      "ar": "شمس",
+      "en": "the Sun"
+    },
+    {
+      "ar": "حقيقت",
+      "en": "of Truth"
+    },
+    {
+      "ar": "صبح",
+      "en": "the morn"
+    },
+    {
+      "ar": "ظهور",
+      "en": "manifest"
+    },
+    {
+      "ar": "هدايت",
+      "en": "divine guidance"
+    },
+    {
+      "ar": "بعد",
+      "en": "follow"
+    },
+    {
+      "ar": "ليل",
+      "en": "the night"
+    },
+    {
+      "ar": "ضلالت",
+      "en": "of error"
+    },
+    {
+      "ar": "طالع",
+      "en": "break"
+    },
+    {
+      "ar": "می شود",
+      "en": "must needs follow"
+    },
+    {
+      "ar": "اين است",
+      "en": "For this reason"
+    },
+    {
+      "ar": "روايات",
+      "en": "traditions"
+    },
+    {
+      "ar": "جميع",
+      "en": "all"
+    },
+    {
+      "ar": "اين",
+      "en": "these"
+    },
+    {
+      "ar": "مضامين",
+      "en": "these things"
+    },
+    {
+      "ar": "هست",
+      "en": "hath been made"
+    },
+    {
+      "ar": "کُفر",
+      "en": "iniquity"
+    },
+    {
+      "ar": "عالم",
+      "en": "the earth"
+    },
+    {
+      "ar": "را",
+      "en": "the surface"
+    },
+    {
+      "ar": "فرو می گيرد",
+      "en": "shall cover"
+    },
+    {
+      "ar": "ظلمت",
+      "en": "darkness"
+    },
+    {
+      "ar": "احاطه",
+      "en": "envelop"
+    },
+    {
+      "ar": "می نمايد",
+      "en": "shall envelop"
+    },
+    {
+      "ar": "چنانچه",
+      "en": "As"
+    },
+    {
+      "ar": "مذکور",
+      "en": "referred"
+    },
+    {
+      "ar": "اين",
+      "en": "this"
+    },
+    {
+      "ar": "عبد",
+      "en": "servant"
+    },
+    {
+      "ar": "شهرت",
+      "en": "well known"
+    },
+    {
+      "ar": "اختصار",
+      "en": "to be brief"
+    },
+    {
+      "ar": "ديگر",
+      "en": "refrain"
+    },
+    {
+      "ar": "متعرّض",
+      "en": "quoting"
+    },
+    {
+      "ar": "عبارات",
+      "en": "the text"
+    },
+    {
+      "ar": "نشده ام",
+      "en": "will refrain"
+    }
+  ],
+  "terms": [
+    {
+      "term": "ظهور",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "Revelation; Sun of Truth will not be made manifest",
+      "note": "Oscillates between 'Revelation' and 'made manifest' within single passage, capturing the dual sense of both event and process central to Bahá'í theology.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 53,
+          "snippet": "Manifestation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 160,
+          "snippet": "Author of all Manifestations"
+        },
+        {
+          "work": "gleanings",
+          "para": 222,
+          "snippet": "material"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 206,
+          "snippet": "appeared"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 255,
+          "snippet": "Manifestations"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 791,
+          "snippet": "tokens of Thy handiwork"
+        }
+      ]
+    },
+    {
+      "term": "عالم",
+      "transliteration": "ʿ-l-m",
+      "literal": "world; universe; the worlds",
+      "se_rendering": "surface of the earth; mankind",
+      "note": "Rendered as both 'surface of the earth' and 'mankind' in adjacent clauses—SE differentiates spatial and human dimensions of the same root across one paragraph.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 198,
+          "snippet": "world"
+        },
+        {
+          "work": "gleanings",
+          "para": 657,
+          "snippet": "all worlds"
+        },
+        {
+          "work": "gleanings",
+          "para": 182,
+          "snippet": "mankind"
+        },
+        {
+          "work": "gleanings",
+          "para": 183,
+          "snippet": "the whole world"
+        },
+        {
+          "work": "gleanings",
+          "para": 226,
+          "snippet": "all earthly defilements"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 28,
+          "snippet": "knowledge"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 42,
+          "snippet": "banner"
+        },
+        {
+          "work": "gleanings",
+          "para": 38,
+          "snippet": "understanding"
+        }
+      ]
+    },
+    {
+      "term": "ظلمت",
+      "transliteration": "z-l-m",
+      "literal": "wrongedness, oppression, meekness; state of being wronged or oppressed",
+      "se_rendering": "darkness",
+      "note": "Typically 'Wronged One' (128 occ.), rendered here as 'darkness' to preserve cosmological metaphor. SE prioritizes contextual symbolic coherence over habitual lexical choice.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 498,
+          "snippet": "afflicted with countless tribulations"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 49,
+          "snippet": "meekness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 36,
+          "snippet": "Wronged One"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 253,
+          "snippet": "wronged"
+        },
+        {
+          "work": "gleanings",
+          "para": 221,
+          "snippet": "oppression"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 9,
+          "snippet": "Darkness"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 33,
+          "snippet": "tyranny"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 573,
+          "snippet": "oppressed"
+        }
+      ]
+    }
+  ],
+  "section_index": "29",
+  "section": "29",
+  "section_para": 1
 }

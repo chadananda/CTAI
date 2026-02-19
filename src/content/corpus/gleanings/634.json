@@ -1,10 +1,419 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 634,
   "source_text": "لک بما سافرت من الله إلی الله ودخلت بقعة البقآء مقرّ الّذي کان عن ذکر العالمین منزوها واهتزّک أریاح القدس في حبّ مولاک وطهّرک مآء العرفان عن دنس کلّ مشرک مردودًا وبلغت إلی رضوان الذّکر في هذا الذّکر الّذي کان علی هیکل الإنسان مشهودًا إِذًا فاشکر الله",
   "translation": "His glory be with thee, inasmuch as thou hast journeyed from God unto God, and entered within the borders of the Court of unfading splendor — the Spot which mortal man can never describe. Therein hath the breeze of holiness, laden with the love of thy Lord, stirred thy spirit within thee, and the waters of understanding have washed from thee the stains of remoteness and ungodliness. Thou hast gained admittance into the Paradise of God’s Remembrance, through thy recognition of Him Who is the Embodiment of that Remembrance amongst men.",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "journey-from-god-unto-god",
+  "alignment": [
+    {
+      "ar": "سافرت",
+      "en": "journeyed"
+    },
+    {
+      "ar": "الله",
+      "en": "God"
+    },
+    {
+      "ar": "دخلت",
+      "en": "entered"
+    },
+    {
+      "ar": "بقعة",
+      "en": "Spot"
+    },
+    {
+      "ar": "البقآء",
+      "en": "unfading splendor"
+    },
+    {
+      "ar": "مقرّ",
+      "en": "Court"
+    },
+    {
+      "ar": "ذکر",
+      "en": "describe"
+    },
+    {
+      "ar": "العالمین",
+      "en": "mortal man"
+    },
+    {
+      "ar": "منزوها",
+      "en": "never"
+    },
+    {
+      "ar": "اهتزّک",
+      "en": "stirred"
+    },
+    {
+      "ar": "أریاح",
+      "en": "breeze"
+    },
+    {
+      "ar": "القدس",
+      "en": "holiness"
+    },
+    {
+      "ar": "حبّ",
+      "en": "love"
+    },
+    {
+      "ar": "مولاک",
+      "en": "thy Lord"
+    },
+    {
+      "ar": "طهّرک",
+      "en": "washed"
+    },
+    {
+      "ar": "مآء",
+      "en": "waters"
+    },
+    {
+      "ar": "العرفان",
+      "en": "understanding"
+    },
+    {
+      "ar": "دنس",
+      "en": "stains"
+    },
+    {
+      "ar": "مشرک",
+      "en": "ungodliness"
+    },
+    {
+      "ar": "مردودًا",
+      "en": "remoteness"
+    },
+    {
+      "ar": "بلغت",
+      "en": "gained admittance"
+    },
+    {
+      "ar": "رضوان",
+      "en": "Paradise"
+    },
+    {
+      "ar": "الذّکر",
+      "en": "Remembrance"
+    },
+    {
+      "ar": "هیکل",
+      "en": "Embodiment"
+    },
+    {
+      "ar": "الإنسان",
+      "en": "amongst men"
+    },
+    {
+      "ar": "مشهودًا",
+      "en": "recognition"
+    },
+    {
+      "ar": "اشکر",
+      "en": "glory"
+    },
+    {
+      "ar": "الله",
+      "en": "thee"
+    }
+  ],
+  "terms": [
+    {
+      "term": "البقآء",
+      "transliteration": "b-q-y",
+      "literal": "remaining; everlasting; eternal; immortal",
+      "se_rendering": "unfading splendor",
+      "note": "Root b-q-y typically renders as 'eternal,' 'everlasting,' or 'immortal' across 32 occurrences. 'Unfading splendor' is uniquely poetic here, shifting from temporal to aesthetic language.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 2,
+          "snippet": "the Eternal"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 88,
+          "snippet": "everlasting beauty"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 98,
+          "snippet": "everlasting candle"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 117,
+          "snippet": "immortal sovereignty"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 110,
+          "snippet": "everlasting torch of divine guidance"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 56,
+          "snippet": "refrain"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 246,
+          "snippet": "everlasting"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 259,
+          "snippet": "O thou Remnant of God"
+        }
+      ]
+    },
+    {
+      "term": "أریاح",
+      "transliteration": "r-w-h",
+      "literal": "rest; ease; comfort; tranquility",
+      "se_rendering": "breeze",
+      "note": "Root r-w-h renders variously as 'ease,' 'peace,' 'rest,' 'comfort.' SE selects 'breeze' uniquely here, the only meteorological rendering in 24 occurrences, creating vivid sensory imagery.",
+      "cross_refs": [
+        {
+          "work": "the-hidden-words",
+          "para": 115,
+          "snippet": "ease"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 78,
+          "snippet": "rest"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 9,
+          "snippet": "peace"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 426,
+          "snippet": "comfort"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 98,
+          "snippet": "Mortal blasts"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 161,
+          "snippet": "different winds"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 22,
+          "snippet": "fellowship"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 211,
+          "snippet": "fragrance"
+        }
+      ]
+    },
+    {
+      "term": "العرفان",
+      "transliteration": "ʿ-r-f",
+      "literal": "to confess; to acknowledge; to recognize",
+      "se_rendering": "understanding",
+      "note": "Root ʿ-r-f typically renders as 'recognize,' 'acknowledge,' or 'testify.' 'Understanding' appears once here—SE chooses epistemic over relational semantics, emphasizing gnosis.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 601,
+          "snippet": "testifieth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 729,
+          "snippet": "hath acknowledged"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 582,
+          "snippet": "have recognized"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 228,
+          "snippet": "acknowledged"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 744,
+          "snippet": "understanding"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 5,
+          "snippet": "acknowledging"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 4,
+          "snippet": "fragrance of His garment"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 114,
+          "snippet": "Thy knowledge"
+        }
+      ]
+    },
+    {
+      "term": "رضوان",
+      "transliteration": "r-d-y",
+      "literal": "good-pleasure, consent, satisfaction",
+      "se_rendering": "Paradise",
+      "note": "Root r-d-y typically renders as 'pleasure,' 'good-pleasure,' 'consent,' or 'content.' SE chooses 'Paradise' here—a substantive noun replacing the abstract, transforming pleasure into place.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 621,
+          "snippet": "Thy pleasure"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 410,
+          "snippet": "Thy good-pleasure"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 46,
+          "snippet": "content"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 28,
+          "snippet": "is pleased with"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 41,
+          "snippet": "pleasure"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 109,
+          "snippet": "paradise"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 10,
+          "snippet": "Ridván"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 263,
+          "snippet": "Sadrih of the Ridván"
+        }
+      ]
+    },
+    {
+      "term": "هیکل",
+      "transliteration": "h-k-l",
+      "literal": "temple; structure; form; body",
+      "se_rendering": "Embodiment",
+      "note": "Root h-k-l renders as 'Temple,' 'person,' 'form,' or 'Being' across 20 occurrences. SE uses 'Embodiment' here—merging structural and incarnational meanings uniquely.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "Temple"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 96,
+          "snippet": "Súratu'l-Haykal"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 10,
+          "snippet": "person"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 154,
+          "snippet": "Being"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 28,
+          "snippet": "body"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 196,
+          "snippet": "temples"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 82,
+          "snippet": "thy temple"
+        }
+      ]
+    },
+    {
+      "term": "مشهودًا",
+      "transliteration": "sh-h-d",
+      "literal": "witnessed; observed; seen; evident; manifest",
+      "se_rendering": "Embodiment",
+      "note": "Root sh-h-d typically renders as 'manifest,' 'evident,' 'testify,' or 'witness' across 74 occurrences. SE renders as part of 'Embodiment'—abstracting witnessed reality into incarnational theology.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 35,
+          "snippet": "evident"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 811,
+          "snippet": "I bear witness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 6,
+          "snippet": "I testify"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 138,
+          "snippet": "martyrdom"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 230,
+          "snippet": "God testifieth"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 57,
+          "snippet": "beheld"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 117,
+          "snippet": "testify"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 156,
+          "snippet": "bear witness"
+        }
+      ]
+    }
+  ],
+  "section_index": "CXXXIX.3",
+  "section": "CXXXIX",
+  "section_para": 3
 }

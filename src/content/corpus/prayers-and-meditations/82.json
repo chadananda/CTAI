@@ -1,10 +1,79 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 82,
   "source_text": "لَكَ يا مالِكَ كُلِّ المُلُوكِ.",
   "translation": "Glorified be Thy name, O Thou Who art the King of all Kings!",
   "source_lang": "ar",
-  "score": 9
+  "score": 9,
+  "page_slug": "king-of-all-kings",
+  "alignment": [
+    {
+      "ar": "لَكَ",
+      "en": "Thy"
+    },
+    {
+      "ar": "مالِكَ",
+      "en": "King"
+    },
+    {
+      "ar": "المُلُوكِ",
+      "en": "Kings"
+    }
+  ],
+  "terms": [
+    {
+      "term": "مالِكَ",
+      "transliteration": "m-l-k",
+      "literal": "kingdom; dominion; realm; sovereignty",
+      "se_rendering": "King",
+      "note": "Root m-l-k typically rendered 'kingdom' or 'realm' across corpus; here SE selects 'King' as the noun agent, emphasizing divine personhood over abstract sovereignty.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-ahd",
+          "para": 16,
+          "snippet": "heaven"
+        },
+        {
+          "work": "gleanings",
+          "para": 394,
+          "snippet": "realm"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 171,
+          "snippet": "kingdom"
+        },
+        {
+          "work": "gleanings",
+          "para": 313,
+          "snippet": "heavenly gem"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 69,
+          "snippet": "realms"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 28,
+          "snippet": "righteous"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 167,
+          "snippet": "by the heavenly power"
+        },
+        {
+          "work": "gleanings",
+          "para": 59,
+          "snippet": "Lord"
+        }
+      ]
+    }
+  ],
+  "section_index": "XXVI.3",
+  "section": "XXVI",
+  "section_para": 3
 }

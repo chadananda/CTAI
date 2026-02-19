@@ -1,10 +1,510 @@
 {
   "work": "Kitab-i-Iqan",
   "slug": "kitab-i-iqan",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 124,
   "source_text": "سبحان اللّه، چقدر آن قوم از سبل حقّ دور بودند.  با اينکه قيامت به قيام آن حضرت قائم بود و علامات و انوار او همه ارض را احاطه نموده بود مع ذلک سخريّه می نمودند و معتکف بودند به تماثيلی که علمای عصر به افکار عاطل باطل جستهاند و از شمس عنايت ربّانيّه وامطار رحمت سبحانيّه غافل گشتهاند.  بلی، جُعَل از روائح قدس ازل محروم است و خفّاش از تجلّی آفتاب جهانتاب درگريز.",
   "translation": "Gracious God! How far have that people strayed from the way of God! Although the Day of Resurrection was ushered in through the Revelation of Muhammad, although His light and tokens had encompassed the earth and all that is therein, yet that people derided Him, gave themselves up to those idols which the divines of that age, in their vain and idle fancy, had conceived, and deprived themselves of the light of heavenly grace and of the showers of divine mercy. Yea, the abject beetle can never scent the fragrance of holiness, and the bat of darkness can never face the splendour of the sun.",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "beetle-bat-fragrance-holiness",
+  "alignment": [
+    {
+      "ar": "سبحان اللّه",
+      "en": "Gracious God"
+    },
+    {
+      "ar": "چقدر",
+      "en": "How far"
+    },
+    {
+      "ar": "قوم",
+      "en": "people"
+    },
+    {
+      "ar": "از",
+      "en": "from"
+    },
+    {
+      "ar": "سبل",
+      "en": "way"
+    },
+    {
+      "ar": "حقّ",
+      "en": "God"
+    },
+    {
+      "ar": "دور",
+      "en": "strayed"
+    },
+    {
+      "ar": "بودند",
+      "en": "have"
+    },
+    {
+      "ar": "قيامت",
+      "en": "Day of Resurrection"
+    },
+    {
+      "ar": "قيام",
+      "en": "ushered in"
+    },
+    {
+      "ar": "حضرت",
+      "en": "Revelation"
+    },
+    {
+      "ar": "قائم",
+      "en": "Muhammad"
+    },
+    {
+      "ar": "علامات",
+      "en": "tokens"
+    },
+    {
+      "ar": "انوار",
+      "en": "light"
+    },
+    {
+      "ar": "او",
+      "en": "His"
+    },
+    {
+      "ar": "همه",
+      "en": "all"
+    },
+    {
+      "ar": "ارض",
+      "en": "earth"
+    },
+    {
+      "ar": "احاطه",
+      "en": "encompassed"
+    },
+    {
+      "ar": "نموده بود",
+      "en": "had"
+    },
+    {
+      "ar": "مع ذلک",
+      "en": "yet"
+    },
+    {
+      "ar": "سخريّه",
+      "en": "derided"
+    },
+    {
+      "ar": "معتکف",
+      "en": "gave themselves up"
+    },
+    {
+      "ar": "بودند",
+      "en": "gave"
+    },
+    {
+      "ar": "تماثيلی",
+      "en": "idols"
+    },
+    {
+      "ar": "علمای",
+      "en": "divines"
+    },
+    {
+      "ar": "عصر",
+      "en": "that age"
+    },
+    {
+      "ar": "افکار",
+      "en": "fancy"
+    },
+    {
+      "ar": "عاطل",
+      "en": "vain"
+    },
+    {
+      "ar": "باطل",
+      "en": "idle"
+    },
+    {
+      "ar": "جستهاند",
+      "en": "conceived"
+    },
+    {
+      "ar": "عنايت",
+      "en": "grace"
+    },
+    {
+      "ar": "ربّانيّه",
+      "en": "heavenly"
+    },
+    {
+      "ar": "امطار",
+      "en": "showers"
+    },
+    {
+      "ar": "رحمت",
+      "en": "mercy"
+    },
+    {
+      "ar": "سبحانيّه",
+      "en": "divine"
+    },
+    {
+      "ar": "غافل",
+      "en": "deprived"
+    },
+    {
+      "ar": "گشتهاند",
+      "en": "deprived themselves"
+    },
+    {
+      "ar": "بلی",
+      "en": "Yea"
+    },
+    {
+      "ar": "جُعَل",
+      "en": "beetle"
+    },
+    {
+      "ar": "روائح",
+      "en": "fragrance"
+    },
+    {
+      "ar": "قدس",
+      "en": "holiness"
+    },
+    {
+      "ar": "محروم",
+      "en": "never scent"
+    },
+    {
+      "ar": "خفّاش",
+      "en": "bat"
+    },
+    {
+      "ar": "تجلّی",
+      "en": "splendour"
+    },
+    {
+      "ar": "آفتاب",
+      "en": "sun"
+    },
+    {
+      "ar": "درگريز",
+      "en": "never face"
+    }
+  ],
+  "terms": [
+    {
+      "term": "حضرت",
+      "transliteration": "h-d-r",
+      "literal": "presence; majesty; His/Your Excellency",
+      "se_rendering": "Muhammad",
+      "note": "Highly variable root (23 occurrences) with diverse referents; here resolves contextually to 'Muhammad'—SE disambiguates through narrative context rather than explicit antecedent.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 145,
+          "snippet": "Saint Paul"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 231,
+          "snippet": "John"
+        },
+        {
+          "work": "gleanings",
+          "para": 436,
+          "snippet": "The Great Being"
+        },
+        {
+          "work": "gleanings",
+          "para": 715,
+          "snippet": "The All-Merciful"
+        },
+        {
+          "work": "gleanings",
+          "para": 271,
+          "snippet": "her"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 125,
+          "snippet": "he that was chosen to be slain"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 136,
+          "snippet": "Presence"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 52,
+          "snippet": "manifestations of authority and the sources of power"
+        }
+      ]
+    },
+    {
+      "term": "علامات",
+      "transliteration": "ʿ-l-m",
+      "literal": "world; universe; the worlds",
+      "se_rendering": "tokens",
+      "note": "Root typically renders as 'world' or 'knowledge' across 141 occurrences; here uniquely 'tokens'—a concrete, material rendering emphasizing objective signs of divine truth.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 198,
+          "snippet": "world"
+        },
+        {
+          "work": "gleanings",
+          "para": 657,
+          "snippet": "all worlds"
+        },
+        {
+          "work": "gleanings",
+          "para": 182,
+          "snippet": "mankind"
+        },
+        {
+          "work": "gleanings",
+          "para": 183,
+          "snippet": "the whole world"
+        },
+        {
+          "work": "gleanings",
+          "para": 226,
+          "snippet": "all earthly defilements"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 28,
+          "snippet": "knowledge"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 42,
+          "snippet": "banner"
+        },
+        {
+          "work": "gleanings",
+          "para": 38,
+          "snippet": "understanding"
+        }
+      ]
+    },
+    {
+      "term": "انوار",
+      "transliteration": "n-w-ʿ",
+      "literal": "type; kind; species",
+      "se_rendering": "light",
+      "note": "Root ن-و-ع typically means 'type' or 'kind'; here rendered 'light' via metonymy, aligning with Qur'anic light symbolism rather than lexical precision.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 4,
+          "snippet": "all manner of"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 27,
+          "snippet": "light"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 647,
+          "snippet": "splendors"
+        },
+        {
+          "work": "gleanings",
+          "para": 674,
+          "snippet": "sing ye"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 25,
+          "snippet": "mankind"
+        },
+        {
+          "work": "gleanings",
+          "para": 144,
+          "snippet": "such"
+        },
+        {
+          "work": "gleanings",
+          "para": 515,
+          "snippet": "by the lights"
+        }
+      ]
+    },
+    {
+      "term": "رحمت",
+      "transliteration": "r-ḥ-m",
+      "literal": "merciful, compassionate; pertaining to divine mercy",
+      "se_rendering": "divine mercy",
+      "note": "Usually 'Divine glory' or 'spirit of mercy' across 70 occurrences; here 'divine mercy' emphasizes compassion withdrawn from the heedless, accentuating moral consequence.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 673,
+          "snippet": "Divine glory"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 57,
+          "snippet": "Divine"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 89,
+          "snippet": "celestial melody"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 114,
+          "snippet": "spirit of mercy"
+        },
+        {
+          "work": "gleanings",
+          "para": 372,
+          "snippet": "merciful"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 220,
+          "snippet": "have mercy on them"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 546,
+          "snippet": "mercy"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 50,
+          "snippet": "the Compassionate"
+        }
+      ]
+    },
+    {
+      "term": "روائح",
+      "transliteration": "r-w-y",
+      "literal": "narration; tradition; fragrance",
+      "se_rendering": "fragrance",
+      "note": "Typically 'fragrance' or 'tradition'; here 'fragrance' sustains the olfactory metaphor of beetle's inability to perceive spiritual reality—a poetic necessity over lexical range.",
+      "cross_refs": [
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 40,
+          "snippet": "fragrance"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 37,
+          "snippet": "stench"
+        },
+        {
+          "work": "gleanings",
+          "para": 341,
+          "snippet": "traditions"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 71,
+          "snippet": "fragrances"
+        }
+      ]
+    },
+    {
+      "term": "قدس",
+      "transliteration": "q-d-s",
+      "literal": "holy, sacred, sanctified",
+      "se_rendering": "holiness",
+      "note": "Consistently 'sacred' or 'holiness' across 47 occurrences; 'fragrance of holiness' employs sensory metaphor to intensify spiritual deprivation in the final mystical image.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 2,
+          "snippet": "Sacred"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 81,
+          "snippet": "hallowed"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 35,
+          "snippet": "spirit of holiness"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 448,
+          "snippet": "Sanctuary"
+        },
+        {
+          "work": "gleanings",
+          "para": 585,
+          "snippet": "holy Paradise"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 13,
+          "snippet": "Holy Mariner"
+        },
+        {
+          "work": "gleanings",
+          "para": 584,
+          "snippet": "Holy Veil"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 6,
+          "snippet": "sacred strand"
+        }
+      ]
+    },
+    {
+      "term": "تجلی",
+      "transliteration": "j-l-ī",
+      "literal": "effulgence; manifestation; revelation",
+      "se_rendering": "splendour",
+      "note": "Usually 'Tajallí' (untranslated technical term) or 'effulgence'; here 'splendour' renders it as accessible English for the bat's inability to face divine manifestation.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 48,
+          "snippet": "In the third Tajallí"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 71,
+          "snippet": "effulgent glory"
+        },
+        {
+          "work": "gleanings",
+          "para": 687,
+          "snippet": "unfading light"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 12,
+          "snippet": "splendorous light"
+        },
+        {
+          "work": "gleanings",
+          "para": 379,
+          "snippet": "revelation of God"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 203,
+          "snippet": "with the effulgence"
+        }
+      ]
+    }
+  ],
+  "section_index": "124",
+  "section": "124",
+  "section_para": 1
 }

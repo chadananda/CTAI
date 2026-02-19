@@ -1,10 +1,615 @@
 {
   "work": "Will and Testament",
   "slug": "will-and-testament",
-  "author": "'Abdu'l-Baha",
+  "author": "‘Abdu’l-Bahá",
   "pair_index": 24,
   "source_text": "پس ای یاران مهربان با جمیع ملل و طوائف و ادیان بکمال راستی و درستی و وفاپرستی و مهربانی و خیرخواهی و دوستی معامله نمائید تا جهان هستی سرمست جام فیض بهائی گردد و نادانی و دشمنی و بغض و کین از روی زمین زائل شود ظلمت بیگانگی از جمیع شعوب و قبائل بانوار یگانگی مبدّل گردد اگر طوائف و ملل سائره جفا کنند شما وفا نمائید ظلم کنند عدل بنمائید اجتناب کنند اجتذاب کنید دشمنی بنمایند دوستی بفرمائید زهر بدهند شهد ببخشید زخم بزنند مرهم بنهید هذا صفة المخلصین و سمة الصّادقین",
   "translation": "Wherefore, O my loving friends! Consort with all the peoples, kindreds and religions of the world with the utmost truthfulness, uprightness, faithfulness, kindliness, goodwill and friendliness, that all the world of being may be filled with the holy ecstasy of the grace of Bahá, that ignorance, enmity, hate and rancour may vanish from the world and the darkness of estrangement amidst the peoples and kindreds of the world may give way to the Light of Unity. Should other peoples and nations be unfaithful to you, show your fidelity unto them; should they be unjust toward you, show justice towards them; should they keep aloof from you, attract them to yourselves; should they show their enmity, be friendly towards them; should they poison your lives, sweeten their souls; should they inflict a wound upon you, be a salve to their sores. Such are the attributes of the sincere! Such are the attributes of the truthful!",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "consort-all-peoples-unity",
+  "alignment": [
+    {
+      "ar": "پس",
+      "en": "Wherefore"
+    },
+    {
+      "ar": "ای",
+      "en": "O"
+    },
+    {
+      "ar": "یاران",
+      "en": "friends"
+    },
+    {
+      "ar": "مهربان",
+      "en": "loving"
+    },
+    {
+      "ar": "با",
+      "en": "with"
+    },
+    {
+      "ar": "جمیع",
+      "en": "all"
+    },
+    {
+      "ar": "ملل",
+      "en": "peoples"
+    },
+    {
+      "ar": "طوائف",
+      "en": "kindreds"
+    },
+    {
+      "ar": "ادیان",
+      "en": "religions"
+    },
+    {
+      "ar": "بکمال",
+      "en": "the utmost"
+    },
+    {
+      "ar": "راستی",
+      "en": "truthfulness"
+    },
+    {
+      "ar": "درستی",
+      "en": "uprightness"
+    },
+    {
+      "ar": "وفاپرستی",
+      "en": "faithfulness"
+    },
+    {
+      "ar": "مهربانی",
+      "en": "kindliness"
+    },
+    {
+      "ar": "خیرخواهی",
+      "en": "goodwill"
+    },
+    {
+      "ar": "دوستی",
+      "en": "friendliness"
+    },
+    {
+      "ar": "معامله نمائید",
+      "en": "Consort"
+    },
+    {
+      "ar": "تا",
+      "en": "that"
+    },
+    {
+      "ar": "جهان",
+      "en": "world"
+    },
+    {
+      "ar": "هستی",
+      "en": "being"
+    },
+    {
+      "ar": "سرمست",
+      "en": "filled"
+    },
+    {
+      "ar": "جام",
+      "en": "ecstasy"
+    },
+    {
+      "ar": "فیض",
+      "en": "grace"
+    },
+    {
+      "ar": "بهائی",
+      "en": "Bahá"
+    },
+    {
+      "ar": "گردد",
+      "en": "may be"
+    },
+    {
+      "ar": "نادانی",
+      "en": "ignorance"
+    },
+    {
+      "ar": "دشمنی",
+      "en": "enmity"
+    },
+    {
+      "ar": "بغض",
+      "en": "hate"
+    },
+    {
+      "ar": "کین",
+      "en": "rancour"
+    },
+    {
+      "ar": "از",
+      "en": "from"
+    },
+    {
+      "ar": "روی",
+      "en": "the"
+    },
+    {
+      "ar": "زائل شود",
+      "en": "vanish"
+    },
+    {
+      "ar": "ظلمت",
+      "en": "darkness"
+    },
+    {
+      "ar": "بیگانگی",
+      "en": "estrangement"
+    },
+    {
+      "ar": "بانوار",
+      "en": "Light"
+    },
+    {
+      "ar": "یگانگی",
+      "en": "Unity"
+    },
+    {
+      "ar": "مبدّل",
+      "en": "give way"
+    },
+    {
+      "ar": "اگر",
+      "en": "Should"
+    },
+    {
+      "ar": "سائره",
+      "en": "other"
+    },
+    {
+      "ar": "جفا کنند",
+      "en": "be unfaithful"
+    },
+    {
+      "ar": "شما",
+      "en": "you"
+    },
+    {
+      "ar": "وفا نمائید",
+      "en": "show your fidelity"
+    },
+    {
+      "ar": "ظلم کنند",
+      "en": "be unjust"
+    },
+    {
+      "ar": "عدل",
+      "en": "justice"
+    },
+    {
+      "ar": "بنمائید",
+      "en": "show"
+    },
+    {
+      "ar": "اجتناب کنند",
+      "en": "keep aloof"
+    },
+    {
+      "ar": "اجتذاب کنید",
+      "en": "attract them"
+    },
+    {
+      "ar": "بفرمائید",
+      "en": "be friendly"
+    },
+    {
+      "ar": "زهر",
+      "en": "poison"
+    },
+    {
+      "ar": "بدهند",
+      "en": "should they"
+    },
+    {
+      "ar": "شهد",
+      "en": "sweeten"
+    },
+    {
+      "ar": "ببخشید",
+      "en": "their souls"
+    },
+    {
+      "ar": "زخم",
+      "en": "wound"
+    },
+    {
+      "ar": "بزنند",
+      "en": "inflict"
+    },
+    {
+      "ar": "مرهم",
+      "en": "salve"
+    },
+    {
+      "ar": "بنهید",
+      "en": "be a"
+    },
+    {
+      "ar": "هذا",
+      "en": "Such"
+    },
+    {
+      "ar": "صفة",
+      "en": "attributes"
+    },
+    {
+      "ar": "المخلصین",
+      "en": "the sincere"
+    },
+    {
+      "ar": "الصّادقین",
+      "en": "the truthful"
+    }
+  ],
+  "terms": [
+    {
+      "term": "معامله",
+      "transliteration": "ʿ-m-l",
+      "literal": "to work; to act; to do; to perform",
+      "se_rendering": "Consort",
+      "note": "Typically 'works', 'actions', or 'workers' (44 occ). 'Consort' here—a unique relational rendering emphasizing engagement over abstract conduct.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 255,
+          "snippet": "workers"
+        },
+        {
+          "work": "gleanings",
+          "para": 502,
+          "snippet": "do"
+        },
+        {
+          "work": "gleanings",
+          "para": 607,
+          "snippet": "virtues and attributes"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 782,
+          "snippet": "works"
+        },
+        {
+          "work": "gleanings",
+          "para": 646,
+          "snippet": "actions"
+        },
+        {
+          "work": "gleanings",
+          "para": 564,
+          "snippet": "deeds"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 286,
+          "snippet": "God doeth unto them as they do unto themselves"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 94,
+          "snippet": "knew that they did so"
+        }
+      ]
+    },
+    {
+      "term": "فیض",
+      "transliteration": "f-y-d",
+      "literal": "flood; abundance; overflow; emanation; grace",
+      "se_rendering": "grace",
+      "note": "Standard 'grace' or 'emanation' across 13 occurrences. Appears here in compound 'grace of Bahá', maintaining its core sense of divine overflow.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 10,
+          "snippet": "mighty grace"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 135,
+          "snippet": "grace of the Holy Spirit"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 154,
+          "snippet": "grace of the Divine Presence"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 160,
+          "snippet": "the All-Bountiful, the All-Generous"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 31,
+          "snippet": "bounties"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 88,
+          "snippet": "sacred bounties"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 169,
+          "snippet": "the True Bountiful"
+        }
+      ]
+    },
+    {
+      "term": "ظلمت",
+      "transliteration": "z-l-m",
+      "literal": "wrongedness, oppression, meekness; state of being wronged or oppressed",
+      "se_rendering": "darkness",
+      "note": "Usually 'wrongedness', 'oppression', or 'afflicted' (128 occ). 'Darkness' here uses the metaphorical sense—estrangement as spiritual obscuration rather than injustice.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 498,
+          "snippet": "afflicted with countless tribulations"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 49,
+          "snippet": "meekness"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 116,
+          "snippet": "injury"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 36,
+          "snippet": "Wronged One"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 253,
+          "snippet": "wronged"
+        },
+        {
+          "work": "gleanings",
+          "para": 221,
+          "snippet": "oppression"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 9,
+          "snippet": "Darkness"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 33,
+          "snippet": "tyranny"
+        }
+      ]
+    },
+    {
+      "term": "بانوار",
+      "transliteration": "n-w-r",
+      "literal": "light; illumination",
+      "se_rendering": "Light",
+      "note": "Consistently 'light' across 78 occurrences. 'Light of Unity' here preserves the standard metaphor of illumination vs. darkness.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 3,
+          "snippet": "light"
+        },
+        {
+          "work": "gleanings",
+          "para": 230,
+          "snippet": "Orb of Light"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 114,
+          "snippet": "with the light"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 109,
+          "snippet": "Thy light"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 246,
+          "snippet": "Illumine"
+        },
+        {
+          "work": "gleanings",
+          "para": 235,
+          "snippet": "glory"
+        },
+        {
+          "work": "gleanings",
+          "para": 597,
+          "snippet": "fire"
+        },
+        {
+          "work": "gleanings",
+          "para": 458,
+          "snippet": "fire of God"
+        }
+      ]
+    },
+    {
+      "term": "وفا",
+      "transliteration": "w-f-y",
+      "literal": "faithfulness; loyalty; fulfillment; fidelity",
+      "se_rendering": "fidelity",
+      "note": "Regularly 'faithfulness' or 'fidelity' (15 occ). 'Fidelity' here matches the most common pattern, emphasizing steadfast loyalty as the response to infidelity.",
+      "cross_refs": [
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 39,
+          "snippet": "faithfulness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 24,
+          "snippet": "ye that are foolish"
+        }
+      ]
+    },
+    {
+      "term": "عدل",
+      "transliteration": "ʿ-d-l",
+      "literal": "justice; equity",
+      "se_rendering": "justice",
+      "note": "Standard 'justice' or 'equity' across 29 occurrences. Rendered as 'justice' here—a direct, unswerving correspondence in this exhortatory context.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 16,
+          "snippet": "Justice"
+        },
+        {
+          "work": "gleanings",
+          "para": 174,
+          "snippet": "just"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 145,
+          "snippet": "Who dealest equitably"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 15,
+          "snippet": "equity"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 7,
+          "snippet": "Thy justice"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 128,
+          "snippet": "with equity and justice"
+        },
+        {
+          "work": "gleanings",
+          "para": 21,
+          "snippet": "with justice and equity"
+        },
+        {
+          "work": "gleanings",
+          "para": 538,
+          "snippet": "as numerous as"
+        }
+      ]
+    },
+    {
+      "term": "شهد",
+      "transliteration": "sh-h-d",
+      "literal": "witnessed; observed; seen; evident; manifest",
+      "se_rendering": "sweeten",
+      "note": "Predominantly 'witness', 'manifest', 'testify' (74 occ). 'Sweeten' is a unique semantic shift—SE reads the root's sense of 'sweetness' rather than witnessing.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 607,
+          "snippet": "manifest"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 35,
+          "snippet": "evident"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 811,
+          "snippet": "I bear witness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 6,
+          "snippet": "I testify"
+        },
+        {
+          "work": "gleanings",
+          "para": 298,
+          "snippet": "witness"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 138,
+          "snippet": "martyrdom"
+        },
+        {
+          "work": "gleanings",
+          "para": 134,
+          "snippet": "God witnesseth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 230,
+          "snippet": "God testifieth"
+        }
+      ]
+    },
+    {
+      "term": "المخلصین",
+      "transliteration": "kh-l-s",
+      "literal": "sincere; devoted; pure one",
+      "se_rendering": "the sincere",
+      "note": "Typically 'the sincere' or 'devoted' (20 occ). 'The sincere' here aligns with most frequent rendering, contrasting purity of intention with outward deception.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 187,
+          "snippet": "devoted"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 1,
+          "snippet": "the sincere"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 421,
+          "snippet": "reserved"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 15,
+          "snippet": "wholly devoted"
+        },
+        {
+          "work": "gleanings",
+          "para": 233,
+          "snippet": "the sincere lovers of God"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 72,
+          "snippet": "pure"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 781,
+          "snippet": "purely"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 21,
+          "snippet": "wholly"
+        }
+      ]
+    }
+  ],
+  "section_index": "1.24",
+  "section": "1",
+  "section_para": 24
 }

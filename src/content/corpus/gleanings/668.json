@@ -1,10 +1,606 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 668,
   "source_text": "باشد قلب عالم از کلمهٴ الهیّه مشتعل است حیف است باین نار مشتعل نشوید انشآءالله امیدواریم که لیلهٴ مبارکه را لیلة الاتّحادیّه قرار دهید و کل با یکدیگر متّحد شوید و بطراز اخلاق حسنهٴ ممدوحه مزیّن گردید و همّتان این باشد که نفسی را از غرقاب فنا بشریعهٴ بقا هدایت نمائید و در میانهٴ عباد بقسمی رفتار کنید که آثار حقّ از شما ظاهر شود چه که شمائید اوّل وجود و اوّل عابدین و اوّل ساجدین و اوّل طائفین فوالّذی انطقنی بما اراد که اسماء شما در ملکوت اعلی مشهورتر است از ذکر شما در نزد شما گمان مکنید این سخن وهم است یا لیت انتم ترون ما یری ربّکم الرّحمن من علوّ شأنکم و عظمة قدرکم و سموّ مقامکم نسأل الله أن لا تمنعکم أنفسکم و أهوائکم عمّا قدّر لکم...",
   "translation": "The Word of God hath set the heart of the world afire; how regrettable if ye fail to be enkindled with its flame! Please God, ye will regard this blessed night as the night of unity, will knit your souls together, and resolve to adorn yourselves with the ornament of a goodly and praiseworthy character. Let your principal concern be to rescue the fallen from the slough of impending extinction, and to help him embrace the ancient Faith of God. Your behavior towards your neighbor should be such as to manifest clearly the signs of the one true God, for ye are the first among men to be recreated by His Spirit, the first to adore and bow the knee before Him, the first to circle round His throne of glory. I swear by Him Who hath caused Me to reveal whatever hath pleased Him! Ye are better known to the inmates of the Kingdom on high than ye are known to your own selves. Think ye these words to be vain and empty? Would that ye had the power to perceive the things your Lord, the All-Merciful, doth see — things that attest the excellence of your rank, that bear witness to the greatness of your worth, that proclaim the sublimity of your station! God grant that your desires and unmortified passions may not hinder you from that which hath been ordained for you.",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "word-god-set-heart-afire",
+  "alignment": [
+    {
+      "ar": "قلب",
+      "en": "heart"
+    },
+    {
+      "ar": "عالم",
+      "en": "world"
+    },
+    {
+      "ar": "کلمهٴ الهیّه",
+      "en": "Word of God"
+    },
+    {
+      "ar": "مشتعل",
+      "en": "afire"
+    },
+    {
+      "ar": "حیف",
+      "en": "regrettable"
+    },
+    {
+      "ar": "نار",
+      "en": "flame"
+    },
+    {
+      "ar": "مشتعل نشوید",
+      "en": "fail to be enkindled"
+    },
+    {
+      "ar": "انشآءالله",
+      "en": "Please God"
+    },
+    {
+      "ar": "امیدواریم",
+      "en": "ye will"
+    },
+    {
+      "ar": "لیلهٴ مبارکه",
+      "en": "blessed night"
+    },
+    {
+      "ar": "لیلة الاتّحادیّه",
+      "en": "night of unity"
+    },
+    {
+      "ar": "متّحد",
+      "en": "knit"
+    },
+    {
+      "ar": "طراز",
+      "en": "ornament"
+    },
+    {
+      "ar": "اخلاق حسنهٴ ممدوحه",
+      "en": "goodly and praiseworthy character"
+    },
+    {
+      "ar": "مزیّن",
+      "en": "adorn"
+    },
+    {
+      "ar": "همّتان",
+      "en": "principal concern"
+    },
+    {
+      "ar": "نفسی",
+      "en": "him"
+    },
+    {
+      "ar": "غرقاب فنا",
+      "en": "slough of impending extinction"
+    },
+    {
+      "ar": "شریعهٴ بقا",
+      "en": "ancient Faith of God"
+    },
+    {
+      "ar": "هدایت",
+      "en": "rescue"
+    },
+    {
+      "ar": "عباد",
+      "en": "neighbor"
+    },
+    {
+      "ar": "رفتار",
+      "en": "behavior"
+    },
+    {
+      "ar": "آثار",
+      "en": "signs"
+    },
+    {
+      "ar": "حقّ",
+      "en": "one true God"
+    },
+    {
+      "ar": "ظاهر",
+      "en": "manifest"
+    },
+    {
+      "ar": "اوّل وجود",
+      "en": "first among men to be recreated"
+    },
+    {
+      "ar": "اوّل عابدین",
+      "en": "first to adore"
+    },
+    {
+      "ar": "اوّل ساجدین",
+      "en": "bow the knee"
+    },
+    {
+      "ar": "اوّل طائفین",
+      "en": "first to circle round His throne"
+    },
+    {
+      "ar": "فوالّذی انطقنی بما اراد",
+      "en": "I swear by Him Who hath caused Me to reveal whatever hath pleased Him"
+    },
+    {
+      "ar": "اسماء",
+      "en": "Ye"
+    },
+    {
+      "ar": "ملکوت اعلی",
+      "en": "Kingdom on high"
+    },
+    {
+      "ar": "مشهورتر",
+      "en": "better known"
+    },
+    {
+      "ar": "ذکر",
+      "en": "known"
+    },
+    {
+      "ar": "گمان",
+      "en": "Think"
+    },
+    {
+      "ar": "سخن",
+      "en": "words"
+    },
+    {
+      "ar": "وهم",
+      "en": "vain and empty"
+    },
+    {
+      "ar": "لیت",
+      "en": "Would that"
+    },
+    {
+      "ar": "ترون",
+      "en": "perceive"
+    },
+    {
+      "ar": "یری",
+      "en": "see"
+    },
+    {
+      "ar": "ربّکم الرّحمن",
+      "en": "your Lord, the All-Merciful"
+    },
+    {
+      "ar": "علوّ شأنکم",
+      "en": "excellence of your rank"
+    },
+    {
+      "ar": "عظمة قدرکم",
+      "en": "greatness of your worth"
+    },
+    {
+      "ar": "سموّ مقامکم",
+      "en": "sublimity of your station"
+    },
+    {
+      "ar": "نسأل الله",
+      "en": "God grant"
+    },
+    {
+      "ar": "أنفسکم",
+      "en": "desires"
+    },
+    {
+      "ar": "أهوائکم",
+      "en": "unmortified passions"
+    },
+    {
+      "ar": "تمنعکم",
+      "en": "hinder"
+    },
+    {
+      "ar": "قدّر",
+      "en": "ordained"
+    }
+  ],
+  "terms": [
+    {
+      "term": "قلب",
+      "transliteration": "q-l-b",
+      "literal": "heart; to turn; to overturn",
+      "se_rendering": "heart",
+      "note": "Standard rendering as 'heart' (60 occurrences). Metaphorically central to spiritual receptivity here, paralleling Qur'anic usage.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 187,
+          "snippet": "hearts"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 432,
+          "snippet": "their hearts"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 652,
+          "snippet": "heart"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 777,
+          "snippet": "commotion"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 13,
+          "snippet": "tumult"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 30,
+          "snippet": "thine heart"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 4,
+          "snippet": "with a pure heart"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 82,
+          "snippet": "with a sound heart"
+        }
+      ]
+    },
+    {
+      "term": "نار",
+      "transliteration": "n-w-r",
+      "literal": "light; illumination",
+      "se_rendering": "flame",
+      "note": "Rendered 'flame' here rather than typical 'light' (78 occurrences). Emphasizes active enkindlement over passive illumination—a more dynamic, transformative force.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 3,
+          "snippet": "light"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 114,
+          "snippet": "with the light"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 109,
+          "snippet": "Thy light"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 246,
+          "snippet": "Illumine"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 180,
+          "snippet": "fire"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 10,
+          "snippet": "flame of fire"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 39,
+          "snippet": "lights"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 312,
+          "snippet": "splendors"
+        }
+      ]
+    },
+    {
+      "term": "اخلاق",
+      "transliteration": "kh-l-q",
+      "literal": "character; moral traits; disposition; conduct",
+      "se_rendering": "character",
+      "note": "Rendered 'character' in alignment with typical pattern (49 occurrences). The phrase 'goodly and praiseworthy character' reflects Arabic 'aḥsan al-akhlāq'.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 28,
+          "snippet": "character"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 50,
+          "snippet": "spiritual characteristics"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 195,
+          "snippet": "virtues"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 54,
+          "snippet": "created her"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 231,
+          "snippet": "His creatures"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 139,
+          "snippet": "His creation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 343,
+          "snippet": "Thy creatures"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 40,
+          "snippet": "wert created"
+        }
+      ]
+    },
+    {
+      "term": "ظاهر",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "manifest",
+      "note": "Rendered 'manifest' here rather than 'Manifestation' (96 occurrences). Captures the verbal force: signs becoming visible, not the noun form referencing the Báb or Bahá'u'lláh.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 140,
+          "snippet": "manifestation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 160,
+          "snippet": "Author of all Manifestations"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 136,
+          "snippet": "evident"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 206,
+          "snippet": "appeared"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 196,
+          "snippet": "Manifestations of God"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 255,
+          "snippet": "Manifestations"
+        }
+      ]
+    },
+    {
+      "term": "اسماء",
+      "transliteration": "s-m-y",
+      "literal": "to name, to nominate, to designate, to appoint",
+      "se_rendering": "better known",
+      "note": "Embedded in 'better known' rather than isolated 'names' (20 occurrences). SE transforms nominal plurality into relational prominence—their names are known, not themselves.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 20,
+          "snippet": "nominated and appointed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 3,
+          "snippet": "names"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 103,
+          "snippet": "thy name"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 91,
+          "snippet": "My name"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 35,
+          "snippet": "by Thy name"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 107,
+          "snippet": "in the Most Great Name"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 99,
+          "snippet": "the One so named"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 622,
+          "snippet": "through Whose names"
+        }
+      ]
+    },
+    {
+      "term": "ملکوت",
+      "transliteration": "m-l-k",
+      "literal": "kingdom; dominion; realm; sovereignty",
+      "se_rendering": "Kingdom",
+      "note": "Rendered 'Kingdom' (capitalized) rather than 'heaven' or 'realm' (70 occurrences). Maintains Bahá'í theological specificity of malakút as the intermediate spiritual realm.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-ahd",
+          "para": 16,
+          "snippet": "heaven"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 171,
+          "snippet": "kingdom"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 69,
+          "snippet": "realms"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 28,
+          "snippet": "righteous"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 167,
+          "snippet": "by the heavenly power"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 57,
+          "snippet": "Ruler"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 82,
+          "snippet": "King"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 102,
+          "snippet": "Lord of all mankind"
+        }
+      ]
+    },
+    {
+      "term": "قدرکم",
+      "transliteration": "q-d-r",
+      "literal": "power; might; decree; measure; worth",
+      "se_rendering": "worth",
+      "note": "Rendered 'worth' here; corpus shows 'power', 'might', 'hath decreed' (100 occurrences). This passage uniquely applies the term to divine valuation of human spiritual station.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 171,
+          "snippet": "a while"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 339,
+          "snippet": "Thy power"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 12,
+          "snippet": "God of power"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 35,
+          "snippet": "Potent"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 282,
+          "snippet": "Almighty"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 177,
+          "snippet": "ordain"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 4,
+          "snippet": "for a moment"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 30,
+          "snippet": "didst ordain"
+        }
+      ]
+    },
+    {
+      "term": "مقامکم",
+      "transliteration": "q-w-m",
+      "literal": "rising; standing; uprising; resurrection",
+      "se_rendering": "station",
+      "note": "Rendered 'station' maintaining common pattern (109 occurrences for q-w-m root). Denotes exalted spiritual rank and position in divine order.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 152,
+          "snippet": "Day of Resurrection"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 153,
+          "snippet": "Resurrection"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 74,
+          "snippet": "rise"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "peoples"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 26,
+          "snippet": "steadfast"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 38,
+          "snippet": "steadfast in faith"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 628,
+          "snippet": "stood fast"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 198,
+          "snippet": "station"
+        }
+      ]
+    }
+  ],
+  "section_index": "CXLVII.2",
+  "section": "CXLVII",
+  "section_para": 2
 }

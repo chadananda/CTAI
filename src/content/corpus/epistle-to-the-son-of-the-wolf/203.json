@@ -1,10 +1,698 @@
 {
   "work": "Epistle to the Son of the Wolf",
   "slug": "epistle-to-the-son-of-the-wolf",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 203,
   "source_text": "ان شاء اللّه ايران مزيّن گردد و فائز شود بانچه که الی حين از ان محروم بوده * قل يا سلطان همّت فرما تا جميع اهل عالم بتجلّيات انوار نيّر عدل ان حضرت منوّر گردند * اين مظلوم جز بامانت و صدق و صفا و امور نافعه بامری ناظر نبوده و نيست * او را از خائنين مشمريد * سبحانک يا الهی و سيّدی و سندی ايّد حضرة السّلطان علی اجراء اوامرک و احکامک و اظهار عدلک بين عبادک * انّک انت الفضّال الفيّاض المقتدر القدير * قد اتی امر اللّه بالفضل طوبی للعاملين و طوبی للعارفين و طوبی لمن تمسّک بالحقّ منقطعا عمّن فی السّموات و الارضين *",
   "translation": "God willing, Persia may be adorned with, and attain unto, that whereof she hath thus far been deprived. Say: \"O Sháh! Exert thyself so that all the peoples of the world may be illumined with the effulgent splendors of the sun of thy justice. The eyes of this Wronged One are turned towards naught save trustworthiness, truthfulness, purity, and all that profiteth men.\" Regard Him not as a traitor. Glorified art Thou, O my God, and my Master, and my Mainstay! Aid Thou His Majesty the Sháh to execute Thy laws and Thy commandments, and show forth Thy justice among Thy servants. Thou art, verily, the All-Bounteous, the Lord of grace abounding, the Almighty, the All-Powerful. The Cause of God hath come as a token of His grace. Happy are they who act; happy are they who understand; happy the man that hath clung unto the truth, detached from all that is in the heavens and all that is on earth.",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "suns-justice-illumine-peoples",
+  "alignment": [
+    {
+      "ar": "ان شاء اللّه",
+      "en": "God willing"
+    },
+    {
+      "ar": "ايران",
+      "en": "Persia"
+    },
+    {
+      "ar": "مزيّن",
+      "en": "adorned"
+    },
+    {
+      "ar": "گردد",
+      "en": "may be"
+    },
+    {
+      "ar": "فائز",
+      "en": "attain"
+    },
+    {
+      "ar": "شود",
+      "en": "may"
+    },
+    {
+      "ar": "بانچه",
+      "en": "that whereof"
+    },
+    {
+      "ar": "که",
+      "en": "that"
+    },
+    {
+      "ar": "الی حين",
+      "en": "thus far"
+    },
+    {
+      "ar": "محروم",
+      "en": "deprived"
+    },
+    {
+      "ar": "بوده",
+      "en": "been"
+    },
+    {
+      "ar": "قل",
+      "en": "Say"
+    },
+    {
+      "ar": "يا",
+      "en": "O"
+    },
+    {
+      "ar": "سلطان",
+      "en": "Sháh"
+    },
+    {
+      "ar": "همّت فرما",
+      "en": "Exert thyself"
+    },
+    {
+      "ar": "جميع",
+      "en": "all"
+    },
+    {
+      "ar": "اهل",
+      "en": "the peoples"
+    },
+    {
+      "ar": "عالم",
+      "en": "the world"
+    },
+    {
+      "ar": "بتجلّيات",
+      "en": "with the effulgent splendors"
+    },
+    {
+      "ar": "انوار",
+      "en": "splendors"
+    },
+    {
+      "ar": "نيّر",
+      "en": "the sun"
+    },
+    {
+      "ar": "عدل",
+      "en": "justice"
+    },
+    {
+      "ar": "ان حضرت",
+      "en": "thy"
+    },
+    {
+      "ar": "منوّر",
+      "en": "illumined"
+    },
+    {
+      "ar": "اين",
+      "en": "this"
+    },
+    {
+      "ar": "مظلوم",
+      "en": "Wronged One"
+    },
+    {
+      "ar": "جز",
+      "en": "naught save"
+    },
+    {
+      "ar": "بامانت",
+      "en": "trustworthiness"
+    },
+    {
+      "ar": "صدق",
+      "en": "truthfulness"
+    },
+    {
+      "ar": "صفا",
+      "en": "purity"
+    },
+    {
+      "ar": "امور",
+      "en": "all that"
+    },
+    {
+      "ar": "نافعه",
+      "en": "profiteth"
+    },
+    {
+      "ar": "بامری",
+      "en": "men"
+    },
+    {
+      "ar": "ناظر",
+      "en": "turned towards"
+    },
+    {
+      "ar": "نبوده",
+      "en": "are"
+    },
+    {
+      "ar": "نيست",
+      "en": "turned"
+    },
+    {
+      "ar": "او",
+      "en": "Him"
+    },
+    {
+      "ar": "خائنين",
+      "en": "traitor"
+    },
+    {
+      "ar": "مشمريد",
+      "en": "Regard"
+    },
+    {
+      "ar": "سبحانک",
+      "en": "Glorified art Thou"
+    },
+    {
+      "ar": "يا الهی",
+      "en": "O my God"
+    },
+    {
+      "ar": "سيّدی",
+      "en": "my Master"
+    },
+    {
+      "ar": "سندی",
+      "en": "my Mainstay"
+    },
+    {
+      "ar": "ايّد",
+      "en": "Aid"
+    },
+    {
+      "ar": "حضرة السّلطان",
+      "en": "His Majesty the Sháh"
+    },
+    {
+      "ar": "علی",
+      "en": "to"
+    },
+    {
+      "ar": "اجراء",
+      "en": "execute"
+    },
+    {
+      "ar": "اوامرک",
+      "en": "Thy commandments"
+    },
+    {
+      "ar": "احکامک",
+      "en": "Thy laws"
+    },
+    {
+      "ar": "اظهار",
+      "en": "show forth"
+    },
+    {
+      "ar": "عدلک",
+      "en": "Thy justice"
+    },
+    {
+      "ar": "بين",
+      "en": "among"
+    },
+    {
+      "ar": "عبادک",
+      "en": "Thy servants"
+    },
+    {
+      "ar": "انّک",
+      "en": "Thou art"
+    },
+    {
+      "ar": "انت",
+      "en": "Thou"
+    },
+    {
+      "ar": "الفضّال",
+      "en": "the All-Bounteous"
+    },
+    {
+      "ar": "الفيّاض",
+      "en": "the Lord of grace abounding"
+    },
+    {
+      "ar": "المقتدر",
+      "en": "the Almighty"
+    },
+    {
+      "ar": "القدير",
+      "en": "the All-Powerful"
+    },
+    {
+      "ar": "قد اتی",
+      "en": "hath come"
+    },
+    {
+      "ar": "امر اللّه",
+      "en": "The Cause of God"
+    },
+    {
+      "ar": "بالفضل",
+      "en": "as a token of His grace"
+    },
+    {
+      "ar": "طوبی",
+      "en": "Happy"
+    },
+    {
+      "ar": "للعاملين",
+      "en": "they who act"
+    },
+    {
+      "ar": "للعارفين",
+      "en": "they who understand"
+    },
+    {
+      "ar": "لمن",
+      "en": "the man that"
+    },
+    {
+      "ar": "تمسّک",
+      "en": "hath clung"
+    },
+    {
+      "ar": "بالحقّ",
+      "en": "unto the truth"
+    },
+    {
+      "ar": "منقطعا",
+      "en": "detached"
+    },
+    {
+      "ar": "عمّن",
+      "en": "from all that"
+    },
+    {
+      "ar": "فی السّموات",
+      "en": "in the heavens"
+    },
+    {
+      "ar": "الارضين",
+      "en": "on earth"
+    }
+  ],
+  "terms": [
+    {
+      "term": "عدل",
+      "transliteration": "ʿ-d-l",
+      "literal": "justice; equity",
+      "se_rendering": "justice",
+      "note": "Consistent as 'justice' across 29 occ; SE maintains this here, yet emphasizes it thrice (sun of thy justice, Thy justice)—amplifying rectitude as central imperative.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 25,
+          "snippet": "Justice"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "just"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 145,
+          "snippet": "Who dealest equitably"
+        },
+        {
+          "work": "gleanings",
+          "para": 21,
+          "snippet": "with justice and equity"
+        },
+        {
+          "work": "gleanings",
+          "para": 538,
+          "snippet": "as numerous as"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 79,
+          "snippet": "disputeth"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 24,
+          "snippet": "Consort"
+        },
+        {
+          "work": "gleanings",
+          "para": 189,
+          "snippet": "the Just"
+        }
+      ]
+    },
+    {
+      "term": "مظلوم",
+      "transliteration": "z-l-m",
+      "literal": "wrongedness, oppression, meekness; state of being wronged or oppressed",
+      "se_rendering": "Wronged One",
+      "note": "Usually 'afflicted' or 'oppressed' (128 occ). SE renders 'Wronged One' here—singular, abstract—elevating the term to a quasi-title for Bahá'u'lláh.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 498,
+          "snippet": "afflicted with countless tribulations"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 49,
+          "snippet": "meekness"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 116,
+          "snippet": "injury"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 3,
+          "snippet": "Wronged One"
+        },
+        {
+          "work": "gleanings",
+          "para": 221,
+          "snippet": "oppression"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 9,
+          "snippet": "Darkness"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 33,
+          "snippet": "tyranny"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 573,
+          "snippet": "oppressed"
+        }
+      ]
+    },
+    {
+      "term": "بامانت",
+      "transliteration": "ʾ-m-r",
+      "literal": "command; cause; matter; affair",
+      "se_rendering": "trustworthiness",
+      "note": "Root ا-م-ر typically 'Cause' or 'command' (75 occ). Here 'trustworthiness' follows preposition ب, rendering the construct as ethical virtue rather than theological principle.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "His Cause"
+        },
+        {
+          "work": "gleanings",
+          "para": 586,
+          "snippet": "His command"
+        },
+        {
+          "work": "gleanings",
+          "para": 691,
+          "snippet": "His Revelation"
+        },
+        {
+          "work": "gleanings",
+          "para": 723,
+          "snippet": "Cause"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 797,
+          "snippet": "Thy Cause"
+        },
+        {
+          "work": "gleanings",
+          "para": 8,
+          "snippet": "Revelation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 597,
+          "snippet": "service"
+        },
+        {
+          "work": "gleanings",
+          "para": 524,
+          "snippet": "your affairs"
+        }
+      ]
+    },
+    {
+      "term": "احکامک",
+      "transliteration": "h-k-m",
+      "literal": "government; rule; governance; wisdom",
+      "se_rendering": "commandments",
+      "note": "Typically 'rule' or 'government' (69 occ), but SE renders 'commandments'—narrowing to legislative/religious injunction, aligning with obedience motif in the address to the Sháh.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-ahd",
+          "para": 6,
+          "snippet": "rule"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "government"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 849,
+          "snippet": "signs of Thy sovereignty"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 160,
+          "snippet": "meaning of return"
+        },
+        {
+          "work": "gleanings",
+          "para": 224,
+          "snippet": "mysteries"
+        },
+        {
+          "work": "gleanings",
+          "para": 636,
+          "snippet": "rule of the sword"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 182,
+          "snippet": "mystery of the former verse"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 46,
+          "snippet": "conclusive"
+        }
+      ]
+    },
+    {
+      "term": "اظهار",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "show forth",
+      "note": "Predominantly 'manifestation' (96 occ), but SE chooses 'show forth'—a verb phrase emphasizing divine action rather than ontological status, suiting the exhortatory context.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 53,
+          "snippet": "Manifestation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 160,
+          "snippet": "Author of all Manifestations"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 136,
+          "snippet": "evident"
+        },
+        {
+          "work": "gleanings",
+          "para": 222,
+          "snippet": "material"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 196,
+          "snippet": "Manifestations of God"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 255,
+          "snippet": "Manifestations"
+        }
+      ]
+    },
+    {
+      "term": "الفضّال",
+      "transliteration": "f-d-l",
+      "literal": "grace; bounty; generosity; excellence",
+      "se_rendering": "the All-Bounteous",
+      "note": "Usually 'grace' or 'merits' (36 occ), but SE chooses 'the All-Bounteous'—a superlative divine epithet elevating grace to absolute generosity, reinforcing divine praise.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 50,
+          "snippet": "the Gracious, the All-Bountiful"
+        },
+        {
+          "work": "gleanings",
+          "para": 10,
+          "snippet": "most excellent favors"
+        },
+        {
+          "work": "gleanings",
+          "para": 60,
+          "snippet": "grace"
+        },
+        {
+          "work": "gleanings",
+          "para": 234,
+          "snippet": "His gracious favor"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "graciously"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 92,
+          "snippet": "realms"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 278,
+          "snippet": "realm"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 782,
+          "snippet": "through Thy grace"
+        }
+      ]
+    },
+    {
+      "term": "المقتدر",
+      "transliteration": "q-d-r",
+      "literal": "power; might; decree; measure; worth",
+      "se_rendering": "the Almighty",
+      "note": "Typically 'power' or 'hath decreed' (100 occ), but SE renders 'the Almighty'—an attributive divine name not the core semantic range, fitting the liturgical crescendo.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 339,
+          "snippet": "Thy power"
+        },
+        {
+          "work": "gleanings",
+          "para": 138,
+          "snippet": "hath been decreed"
+        },
+        {
+          "work": "gleanings",
+          "para": 662,
+          "snippet": "hath decreed"
+        },
+        {
+          "work": "gleanings",
+          "para": 496,
+          "snippet": "forbearing towards"
+        },
+        {
+          "work": "gleanings",
+          "para": 111,
+          "snippet": "schools"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 12,
+          "snippet": "God of power"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 35,
+          "snippet": "Potent"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 282,
+          "snippet": "Almighty"
+        }
+      ]
+    },
+    {
+      "term": "منقطعا",
+      "transliteration": "q-t-ʿ",
+      "literal": "to be severed; to be cut off; to detach oneself; to abstain",
+      "se_rendering": "detached",
+      "note": "Standard forms are 'detached' or 'severed' (33 occ). SE uses 'detached'—preserving mystical detachment semantics crucial to Sufi piety tradition underlying the passage.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 413,
+          "snippet": "detached themselves"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 427,
+          "snippet": "sundered"
+        },
+        {
+          "work": "gleanings",
+          "para": 662,
+          "snippet": "detacheth himself"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 488,
+          "snippet": "have cut themselves off"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 11,
+          "snippet": "decisive"
+        },
+        {
+          "work": "gleanings",
+          "para": 310,
+          "snippet": "cut into pieces"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 16,
+          "snippet": "detachment"
+        },
+        {
+          "work": "gleanings",
+          "para": 255,
+          "snippet": "detached"
+        }
+      ]
+    }
+  ],
+  "section_index": "203",
+  "section": "203",
+  "section_para": 1
 }

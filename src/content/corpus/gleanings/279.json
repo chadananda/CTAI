@@ -1,10 +1,814 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 279,
   "source_text": "قل لا تفرحوا بما ملكتموه في العشيّ وفي الإشراق يملكه غيركم كذلك يخبركم العليم الخبير قل هل رأيتم لما عندكم من قرار أو وفآء لا ونفسي الرّحمن لو أنتم من المنصفين تمرّ أيّام حيو'تكم كما تمرّ الأرياح ويطوى بساط عزّكم كما طوي بساط الأوّلين تفكّروا يا قوم أين أيّامكم الماضية وأين أعصاركم الخالية طوبى لأيّام مضت بذكر الله ولأوقات صرفت في ذكره الحكيم لعمري لا تبقى عزّة الأعزّآء ولا زخارف الأغنيآء ولا شوكة الأشقيآء سيفنى الكلّ بكلمة من عنده إنّه لهو المقتدر العزيز القدير لا ينفع النّاس ما عندهم من الأثاث وما ينفعهم غفلوا عنه سوف ينتبهون ولا يجدون ما فات عنهم في أيّام ربّهم العزيز الحميد لو يعرفون ينفقون ما عندهم لتذكر أسمآئهم لدى العرش ألا إنّهم من الميّتين...",
   "translation": "Say: Rejoice not in the things ye possess; tonight they are yours, tomorrow others will possess them. Thus warneth you He Who is the All-Knowing, the All-Informed. Say: Can ye claim that what ye own is lasting or secure? Nay! By Myself, the All-Merciful. The days of your life flee away as a breath of wind, and all your pomp and glory shall be folded up as were the pomp and glory of those gone before you. Reflect, O people! What hath become of your bygone days, your lost centuries? Happy the days that have been consecrated to the remembrance of God, and blessed the hours which have been spent in praise of Him Who is the All-Wise. By My life! Neither the pomp of the mighty, nor the wealth of the rich, nor even the ascendancy of the ungodly will endure. All will perish, at a word from Him. He, verily, is the All-Powerful, the All-Compelling, the Almighty. What advantage is there in the earthly things which men possess? That which shall profit them, they have utterly neglected. Erelong, they will awake from their slumber, and find themselves unable to obtain that which hath escaped them in the days of their Lord, the Almighty, the All-Praised. Did they but know it, they would renounce their all, that their names may be mentioned before His throne. They, verily, are accounted among the dead.",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "pomp-glory-folded-up",
+  "alignment": [
+    {
+      "ar": "قل",
+      "en": "Say"
+    },
+    {
+      "ar": "لا",
+      "en": "not"
+    },
+    {
+      "ar": "تفرحوا",
+      "en": "Rejoice"
+    },
+    {
+      "ar": "بما",
+      "en": "in the things"
+    },
+    {
+      "ar": "ملكتموه",
+      "en": "ye possess"
+    },
+    {
+      "ar": "العشيّ",
+      "en": "tonight"
+    },
+    {
+      "ar": "الإشراق",
+      "en": "tomorrow"
+    },
+    {
+      "ar": "يملكه",
+      "en": "will possess"
+    },
+    {
+      "ar": "غيركم",
+      "en": "others"
+    },
+    {
+      "ar": "كذلك",
+      "en": "Thus"
+    },
+    {
+      "ar": "يخبركم",
+      "en": "warneth you"
+    },
+    {
+      "ar": "العليم",
+      "en": "All-Knowing"
+    },
+    {
+      "ar": "الخبير",
+      "en": "All-Informed"
+    },
+    {
+      "ar": "هل",
+      "en": "Can"
+    },
+    {
+      "ar": "رأيتم",
+      "en": "ye claim"
+    },
+    {
+      "ar": "لما",
+      "en": "that what"
+    },
+    {
+      "ar": "عندكم",
+      "en": "ye own"
+    },
+    {
+      "ar": "قرار",
+      "en": "lasting"
+    },
+    {
+      "ar": "وفآء",
+      "en": "secure"
+    },
+    {
+      "ar": "لا",
+      "en": "Nay"
+    },
+    {
+      "ar": "نفسي",
+      "en": "Myself"
+    },
+    {
+      "ar": "الرّحمن",
+      "en": "All-Merciful"
+    },
+    {
+      "ar": "أنتم",
+      "en": "ye"
+    },
+    {
+      "ar": "المنصفين",
+      "en": "claim"
+    },
+    {
+      "ar": "تمرّ",
+      "en": "flee away"
+    },
+    {
+      "ar": "أيّام",
+      "en": "days"
+    },
+    {
+      "ar": "حيو'تكم",
+      "en": "your life"
+    },
+    {
+      "ar": "كما",
+      "en": "as"
+    },
+    {
+      "ar": "تمرّ",
+      "en": "breath"
+    },
+    {
+      "ar": "الأرياح",
+      "en": "wind"
+    },
+    {
+      "ar": "يطوى",
+      "en": "shall be folded up"
+    },
+    {
+      "ar": "بساط",
+      "en": "pomp and glory"
+    },
+    {
+      "ar": "عزّكم",
+      "en": "your"
+    },
+    {
+      "ar": "طوي",
+      "en": "were the pomp and glory"
+    },
+    {
+      "ar": "الأوّلين",
+      "en": "those gone before you"
+    },
+    {
+      "ar": "تفكّروا",
+      "en": "Reflect"
+    },
+    {
+      "ar": "قوم",
+      "en": "people"
+    },
+    {
+      "ar": "أين",
+      "en": "What hath become of"
+    },
+    {
+      "ar": "الماضية",
+      "en": "bygone days"
+    },
+    {
+      "ar": "أعصاركم",
+      "en": "centuries"
+    },
+    {
+      "ar": "الخالية",
+      "en": "lost"
+    },
+    {
+      "ar": "طوبى",
+      "en": "Happy"
+    },
+    {
+      "ar": "لأيّام",
+      "en": "the days"
+    },
+    {
+      "ar": "مضت",
+      "en": "have been"
+    },
+    {
+      "ar": "بذكر",
+      "en": "consecrated to the remembrance"
+    },
+    {
+      "ar": "الله",
+      "en": "God"
+    },
+    {
+      "ar": "لأوقات",
+      "en": "the hours"
+    },
+    {
+      "ar": "صرفت",
+      "en": "have been spent"
+    },
+    {
+      "ar": "ذكره",
+      "en": "praise of Him"
+    },
+    {
+      "ar": "الحكيم",
+      "en": "All-Wise"
+    },
+    {
+      "ar": "لعمري",
+      "en": "By My life"
+    },
+    {
+      "ar": "لا",
+      "en": "Neither"
+    },
+    {
+      "ar": "تبقى",
+      "en": "endure"
+    },
+    {
+      "ar": "عزّة",
+      "en": "pomp"
+    },
+    {
+      "ar": "الأعزّآء",
+      "en": "mighty"
+    },
+    {
+      "ar": "زخارف",
+      "en": "wealth"
+    },
+    {
+      "ar": "الأغنيآء",
+      "en": "rich"
+    },
+    {
+      "ar": "شوكة",
+      "en": "ascendancy"
+    },
+    {
+      "ar": "الأشقيآء",
+      "en": "ungodly"
+    },
+    {
+      "ar": "سيفنى",
+      "en": "will perish"
+    },
+    {
+      "ar": "الكلّ",
+      "en": "All"
+    },
+    {
+      "ar": "بكلمة",
+      "en": "at a word"
+    },
+    {
+      "ar": "من",
+      "en": "from"
+    },
+    {
+      "ar": "عنده",
+      "en": "Him"
+    },
+    {
+      "ar": "إنّه",
+      "en": "He"
+    },
+    {
+      "ar": "لهو",
+      "en": "verily"
+    },
+    {
+      "ar": "المقتدر",
+      "en": "All-Powerful"
+    },
+    {
+      "ar": "العزيز",
+      "en": "All-Compelling"
+    },
+    {
+      "ar": "القدير",
+      "en": "Almighty"
+    },
+    {
+      "ar": "لا",
+      "en": "What"
+    },
+    {
+      "ar": "ينفع",
+      "en": "advantage"
+    },
+    {
+      "ar": "النّاس",
+      "en": "men"
+    },
+    {
+      "ar": "ما",
+      "en": "which"
+    },
+    {
+      "ar": "عندهم",
+      "en": "possess"
+    },
+    {
+      "ar": "الأثاث",
+      "en": "earthly things"
+    },
+    {
+      "ar": "ما",
+      "en": "That which"
+    },
+    {
+      "ar": "ينفعهم",
+      "en": "shall profit them"
+    },
+    {
+      "ar": "غفلوا",
+      "en": "neglected"
+    },
+    {
+      "ar": "عنه",
+      "en": "utterly"
+    },
+    {
+      "ar": "سوف",
+      "en": "Erelong"
+    },
+    {
+      "ar": "ينتبهون",
+      "en": "they will awake"
+    },
+    {
+      "ar": "ولا",
+      "en": "unable"
+    },
+    {
+      "ar": "يجدون",
+      "en": "find themselves"
+    },
+    {
+      "ar": "ما",
+      "en": "that which"
+    },
+    {
+      "ar": "فات",
+      "en": "hath escaped them"
+    },
+    {
+      "ar": "عنهم",
+      "en": "them"
+    },
+    {
+      "ar": "في",
+      "en": "in"
+    },
+    {
+      "ar": "ربّهم",
+      "en": "their Lord"
+    },
+    {
+      "ar": "الحميد",
+      "en": "All-Praised"
+    },
+    {
+      "ar": "لو",
+      "en": "Did"
+    },
+    {
+      "ar": "يعرفون",
+      "en": "they but know it"
+    },
+    {
+      "ar": "ينفقون",
+      "en": "they would renounce"
+    },
+    {
+      "ar": "ما",
+      "en": "their"
+    },
+    {
+      "ar": "عندهم",
+      "en": "all"
+    },
+    {
+      "ar": "لتذكر",
+      "en": "may be mentioned"
+    },
+    {
+      "ar": "أسمآئهم",
+      "en": "their names"
+    },
+    {
+      "ar": "لدى",
+      "en": "before"
+    },
+    {
+      "ar": "العرش",
+      "en": "His throne"
+    },
+    {
+      "ar": "إنّهم",
+      "en": "They"
+    },
+    {
+      "ar": "من",
+      "en": "among"
+    },
+    {
+      "ar": "الميّتين",
+      "en": "dead"
+    }
+  ],
+  "terms": [
+    {
+      "term": "الاشراق",
+      "transliteration": "sh-r-q",
+      "literal": "radiance; splendor; dawn; illumination",
+      "se_rendering": "tomorrow",
+      "note": "Jafar's 63 occurrences render variously ('radiance', 'revelation', 'Daystar', 'dawning'). Here SE translates 'tomorrow' for temporal context—a purely denotative choice, abandoning the luminous connotations typical of this root.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 47,
+          "snippet": "Ishraq"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 28,
+          "snippet": "radiance"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 83,
+          "snippet": "Daystar"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 41,
+          "snippet": "dawning"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 116,
+          "snippet": "shone"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 2,
+          "snippet": "shining"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 14,
+          "snippet": "Dawning Place"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 186,
+          "snippet": "dayspring"
+        }
+      ]
+    },
+    {
+      "term": "العليم",
+      "transliteration": "ʿ-l-m",
+      "literal": "world; universe; the worlds",
+      "se_rendering": "the All-Knowing",
+      "note": "Jafar shows 141 occurrences mostly as 'world' or 'knowledge'; here SE renders 'All-Knowing' as an epithet, aligning with the All-Informed pairing rather than semantic field patterns.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 28,
+          "snippet": "knowledge"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 122,
+          "snippet": "commentators"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 42,
+          "snippet": "banner"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 19,
+          "snippet": "understanding"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 205,
+          "snippet": "ancient Knowledge"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 65,
+          "snippet": "universe"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 4,
+          "snippet": "divine"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 199,
+          "snippet": "peoples of the world"
+        }
+      ]
+    },
+    {
+      "term": "قرار",
+      "transliteration": "q-r-r",
+      "literal": "stability; firmness; establishment",
+      "se_rendering": "lasting",
+      "note": "Jafar's 21 occurrences show 'steadfast in faith', 'ordained', 'resting place'. SE's 'lasting' here is adjectival rather than nominal, suggesting stability-as-quality over stability-as-establishment.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 38,
+          "snippet": "steadfast in faith"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 227,
+          "snippet": "ordained"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 13,
+          "snippet": "resting place"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 17,
+          "snippet": "determine"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 57,
+          "snippet": "established"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 155,
+          "snippet": "Peruse"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 15,
+          "snippet": "chant"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 39,
+          "snippet": "is established"
+        }
+      ]
+    },
+    {
+      "term": "بذکر",
+      "transliteration": "dh-k-r",
+      "literal": "remembrance; mention; memory",
+      "se_rendering": "remembrance",
+      "note": "Jafar shows 57 occurrences of dhikr primarily as 'remembrance' and 'mention'. SE's 'consecrated to the remembrance' and 'spent in praise' splits the single Arabic root across two English concepts—a bifurcation rare in SE's output.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 54,
+          "snippet": "mention"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 117,
+          "snippet": "Time and again have I declared"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 39,
+          "snippet": "deliberate"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 274,
+          "snippet": "aforementioned"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 112,
+          "snippet": "recorded"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 34,
+          "snippet": "confined in that"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 4,
+          "snippet": "mentioned"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 6,
+          "snippet": "to remember Thee"
+        }
+      ]
+    },
+    {
+      "term": "الحکیم",
+      "transliteration": "h-k-m",
+      "literal": "government; rule; governance; wisdom",
+      "se_rendering": "the All-Wise",
+      "note": "Jafar's 69 occurrences show 'rule', 'government', 'mysteries'. SE renders here as 'All-Wise', a wisdom epithet distinct from governance renderings, suggesting SE reads this passage as theodicean rather than political.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-ahd",
+          "para": 6,
+          "snippet": "rule"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "government"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 849,
+          "snippet": "signs of Thy sovereignty"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 160,
+          "snippet": "meaning of return"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 182,
+          "snippet": "mystery of the former verse"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 129,
+          "snippet": "perspicuous verses"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 46,
+          "snippet": "conclusive"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 220,
+          "snippet": "impregnable stronghold"
+        }
+      ]
+    },
+    {
+      "term": "المقتدر",
+      "transliteration": "q-d-r",
+      "literal": "power; might; decree; measure; worth",
+      "se_rendering": "the All-Powerful",
+      "note": "Root q-d-r spans 100 occurrences with diverse renderings ('power', 'decree', 'forbearing'). Here SE isolates 'All-Powerful'—a decisive focus on capacitive might rather than creative decree.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 171,
+          "snippet": "a while"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 339,
+          "snippet": "Thy power"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 12,
+          "snippet": "God of power"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 35,
+          "snippet": "Potent"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 282,
+          "snippet": "Almighty"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 177,
+          "snippet": "ordain"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 4,
+          "snippet": "for a moment"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 30,
+          "snippet": "didst ordain"
+        }
+      ]
+    },
+    {
+      "term": "ینفع",
+      "transliteration": "n-f-ʿ",
+      "literal": "benefits; profits; advantages",
+      "se_rendering": "profit",
+      "note": "Jafar's 26 occurrences render 'profit', 'benefit', 'advance'. SE uses 'profit' twice in close succession ('What advantage... shall profit them'), a rhetorical repetition emphasizing economic futility.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 27,
+          "snippet": "advance"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 157,
+          "snippet": "profit"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 48,
+          "snippet": "benefit"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 84,
+          "snippet": "will profit"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 55,
+          "snippet": "profit thee"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 150,
+          "snippet": "hath life been of use nor benefit to Me"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 199,
+          "snippet": "hath not benefited"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 201,
+          "snippet": "profitable unto man"
+        }
+      ]
+    },
+    {
+      "term": "یعرفون",
+      "transliteration": "ʿ-r-f",
+      "literal": "to confess; to acknowledge; to recognize",
+      "se_rendering": "know",
+      "note": "Jafar's 82 occurrences favor 'acknowledge', 'recognize', 'testify'. SE's 'Did they but know it' is conditional-epistemic rather than confessional, pivoting the root from recognition-of-truth to mere factual awareness.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 601,
+          "snippet": "testifieth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 729,
+          "snippet": "hath acknowledged"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 582,
+          "snippet": "have recognized"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 228,
+          "snippet": "acknowledged"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 744,
+          "snippet": "understanding"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 5,
+          "snippet": "acknowledging"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 4,
+          "snippet": "fragrance of His garment"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 114,
+          "snippet": "Thy knowledge"
+        }
+      ]
+    }
+  ],
+  "section_index": "LXXI.3",
+  "section": "LXXI",
+  "section_para": 3
 }

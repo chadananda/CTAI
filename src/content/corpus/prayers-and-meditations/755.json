@@ -1,10 +1,423 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 755,
   "source_text": "كُلَّ كِتابٍ مِنْها مُبَشِّرًا بِظُهُوريْ وَناطِقًا بِاسْمي وَشاهِدًا لِنَفْسِي وَمُنَادِيًا بِأَمْرِيْ وَذِكْرِيْ وَطُلوعي وَإِشْراقي، وَمَعَ إِعْلانِكَ يا إِلهِي وَبَيانِكَ يا مَحْبُوبِي سَمِعْتَ وَرَأَيْتَ ما قالُوا فِي حَقِّيْ وَارْتَكبُوا فِي أَيَّامِيْ، أَيْ رَبِّ أَشْهَدُ فِي مَوْقِفِي هذا رَغْمًا لِمَنْ أَعْرَضَ عَنْكَ أَنَّكَ أَنْتَ اللَّهُ لا إِلهَ إِلاَّ أَنْتَ، وَهذا يَوْمُكَ الَّذِي تَزَيَّنَ بِذِكْرِهِ صَحَائِفُكَ وَكُتُبُكَ وَأَلْواحُكَ",
   "translation": "I swear by Thy glory, O Thou Who beholdest me from Thine all-glorious horizon, and hearest the voice of the Lote-Tree beyond which there is no passing! Should any one consider Thy Books which Thou didst name the Bayán, and ponder in his heart what hath been revealed therein, he would discover that each of these Books announceth my Revelation, and declareth my Name, and testifieth to my Self, and proclaimeth my Cause, and my Praise, and my Rising, and the radiance of my Glory. And yet, notwithstanding Thy proclamation, O my God, and in spite of the words Thou didst utter, O my Beloved, Thou hast seen and heard their calumnies against me, and their evil doings in my days.",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "each-book-announceth-revelation",
+  "alignment": [
+    {
+      "ar": "كِتابٍ",
+      "en": "Books"
+    },
+    {
+      "ar": "مِنْها",
+      "en": "of these"
+    },
+    {
+      "ar": "بِظُهُوريْ",
+      "en": "my Revelation"
+    },
+    {
+      "ar": "وَناطِقًا",
+      "en": "declareth"
+    },
+    {
+      "ar": "بِاسْمي",
+      "en": "my Name"
+    },
+    {
+      "ar": "وَشاهِدًا",
+      "en": "testifieth"
+    },
+    {
+      "ar": "لِنَفْسِي",
+      "en": "my Self"
+    },
+    {
+      "ar": "وَمُنَادِيًا",
+      "en": "proclaimeth"
+    },
+    {
+      "ar": "بِأَمْرِيْ",
+      "en": "my Cause"
+    },
+    {
+      "ar": "وَذِكْرِيْ",
+      "en": "my Praise"
+    },
+    {
+      "ar": "وَطُلوعي",
+      "en": "my Rising"
+    },
+    {
+      "ar": "وَإِشْراقي",
+      "en": "the radiance of my Glory"
+    },
+    {
+      "ar": "وَمَعَ",
+      "en": "And yet, notwithstanding"
+    },
+    {
+      "ar": "إِعْلانِكَ",
+      "en": "Thy proclamation"
+    },
+    {
+      "ar": "يا إِلهِي",
+      "en": "O my God"
+    },
+    {
+      "ar": "وَبَيانِكَ",
+      "en": "the words Thou didst utter"
+    },
+    {
+      "ar": "يا مَحْبُوبِي",
+      "en": "O my Beloved"
+    },
+    {
+      "ar": "سَمِعْتَ",
+      "en": "heard"
+    },
+    {
+      "ar": "وَرَأَيْتَ",
+      "en": "seen"
+    },
+    {
+      "ar": "ما",
+      "en": "what"
+    },
+    {
+      "ar": "قالُوا",
+      "en": "calumnies"
+    },
+    {
+      "ar": "وَارْتَكبُوا",
+      "en": "evil doings"
+    },
+    {
+      "ar": "أَشْهَدُ",
+      "en": "swear"
+    },
+    {
+      "ar": "فِي مَوْقِفِي هذا",
+      "en": "me"
+    },
+    {
+      "ar": "رَغْمًا",
+      "en": "notwithstanding"
+    },
+    {
+      "ar": "لِمَنْ",
+      "en": "any one"
+    },
+    {
+      "ar": "أَعْرَضَ",
+      "en": "passing"
+    },
+    {
+      "ar": "عَنْكَ",
+      "en": "which there is no"
+    },
+    {
+      "ar": "أَنْتَ",
+      "en": "Who"
+    },
+    {
+      "ar": "وَهذا",
+      "en": "And"
+    },
+    {
+      "ar": "يَوْمُكَ",
+      "en": "Thy"
+    },
+    {
+      "ar": "بِذِكْرِهِ",
+      "en": "Thou didst"
+    },
+    {
+      "ar": "وَكُتُبُكَ",
+      "en": "Bayán"
+    },
+    {
+      "ar": "وَأَلْواحُكَ",
+      "en": "ponder"
+    }
+  ],
+  "terms": [
+    {
+      "term": "بِظُهُوريْ",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "my Revelation",
+      "note": "Root ظ-ه-ر typically rendered 'Manifestation' (96 occurrences). SE chose 'Revelation' here—less ontological, more soteriological—fitting the announcements of the speaker's advent.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 53,
+          "snippet": "Manifestation"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 136,
+          "snippet": "evident"
+        },
+        {
+          "work": "gleanings",
+          "para": 222,
+          "snippet": "material"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 206,
+          "snippet": "appeared"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 196,
+          "snippet": "Manifestations of God"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 32,
+          "snippet": "overwhelm the soul"
+        }
+      ]
+    },
+    {
+      "term": "وَناطِقًا",
+      "transliteration": "n-t-q",
+      "literal": "to speak; to utter; to pronounce; to articulate",
+      "se_rendering": "declareth",
+      "note": "Root ن-ط-ق means 'speak/utter' (22 occurrences). SE used 'declareth,' an archaic formal verb matching the liturgical tone of parallel verbs 'announceth' and 'testifieth.'",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 2,
+          "snippet": "spoke"
+        },
+        {
+          "work": "gleanings",
+          "para": 324,
+          "snippet": "rational faculty"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 90,
+          "snippet": "utterance"
+        },
+        {
+          "work": "gleanings",
+          "para": 616,
+          "snippet": "hath spoken"
+        },
+        {
+          "work": "tablet-of-carmel",
+          "para": 5,
+          "snippet": "hath been moved to disclose"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 137,
+          "snippet": "I have spoken, and still speak forth"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 9,
+          "snippet": "hath not spoken"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 13,
+          "snippet": "commanded me to make proclamation"
+        }
+      ]
+    },
+    {
+      "term": "وَشاهِدًا",
+      "transliteration": "sh-h-d",
+      "literal": "witnessed; observed; seen; evident; manifest",
+      "se_rendering": "testifieth",
+      "note": "Root ش-ه-د typically 'manifest/evident' (74 occurrences). 'Testifieth' activates the witness sense—legal, testimonial—aligned with shahāda connotations absent in 'manifest' renderings.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 607,
+          "snippet": "manifest"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 35,
+          "snippet": "evident"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 6,
+          "snippet": "I testify"
+        },
+        {
+          "work": "gleanings",
+          "para": 298,
+          "snippet": "witness"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 138,
+          "snippet": "martyrdom"
+        },
+        {
+          "work": "gleanings",
+          "para": 134,
+          "snippet": "God witnesseth"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 57,
+          "snippet": "beheld"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 156,
+          "snippet": "bear witness"
+        }
+      ]
+    },
+    {
+      "term": "وَمُنَادِيًا",
+      "transliteration": "n-d-ʾ",
+      "literal": "call; voice; proclamation",
+      "se_rendering": "proclaimeth",
+      "note": "Root ن-د-ا means 'call/proclaim' (5 occurrences). 'Proclaimeth' echoes the announcements motif; rarer than other parallel verbs, heightening its rhetorical force in this climactic list.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 655,
+          "snippet": "proclaiming"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 24,
+          "snippet": "ignorance"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 183,
+          "snippet": "folly and perversity"
+        }
+      ]
+    },
+    {
+      "term": "وَإِشْراقي",
+      "transliteration": "sh-r-q",
+      "literal": "radiance; splendor; dawn; illumination",
+      "se_rendering": "the radiance of my Glory",
+      "note": "Root ش-ر-ق typically 'radiance/illumination' (63 occurrences). SE rendered 'the radiance of my Glory'—compound possessive structure unusual for this root, emphasizing luminous splendor.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 47,
+          "snippet": "Ishraq"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 28,
+          "snippet": "radiance"
+        },
+        {
+          "work": "gleanings",
+          "para": 382,
+          "snippet": "revelation"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 41,
+          "snippet": "dawning"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 116,
+          "snippet": "shone"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 2,
+          "snippet": "shining"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 14,
+          "snippet": "Dawning Place"
+        },
+        {
+          "work": "gleanings",
+          "para": 126,
+          "snippet": "Dayspring"
+        }
+      ]
+    },
+    {
+      "term": "حَقِّيْ",
+      "transliteration": "h-q-q",
+      "literal": "truth; right; that which is true or just",
+      "se_rendering": "against me",
+      "note": "Root ح-ق-ق means 'truth/right' (43 occurrences). 'Against me' reduces the abstract 'Truth/True One' sense; idiomatic English for slander, softening metaphysical overtones.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 651,
+          "snippet": "the True One"
+        },
+        {
+          "work": "gleanings",
+          "para": 85,
+          "snippet": "the Truth"
+        },
+        {
+          "work": "gleanings",
+          "para": 328,
+          "snippet": "the one true God"
+        },
+        {
+          "work": "gleanings",
+          "para": 707,
+          "snippet": "Him"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 52,
+          "snippet": "Sun of Truth"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 103,
+          "snippet": "Luminaries of Truth"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 113,
+          "snippet": "was realized"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 215,
+          "snippet": "realization"
+        }
+      ]
+    }
+  ],
+  "section_index": "CLXXVI.45",
+  "section": "CLXXVI",
+  "section_para": 45
 }

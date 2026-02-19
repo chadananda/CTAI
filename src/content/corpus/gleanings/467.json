@@ -1,10 +1,722 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 467,
   "source_text": "وكنّا فيه إحدى عشر سنين إلى أن جاء سفيركم الّذي لن يحبّ القلم أن يجري على اسمه وكان أن يشرب الخمر ويرتكب البغي والفحشاء وفسد في نفسه وأفسد العراق ويشهد بذلك أكثر أهل الزّوراء لو تسئل عنهم وتكون من السّائلين، وكان أن يأخذ أموال النّاس بالباطل وترك كلّ ما أمره الله به وارتكب كلّ ما نهاه عنه إلى أن قام علينا بما اتّبع نفسه وهواه وسلك منهج الظّالمين، وكتب إليك ما كتب في حقّنا وأنت قبلت منه واتّبعت هواه من دون بيّنة ولا برهان مبين، وما تبيّنت وما تفحّصت وما تجسّست ليظهر لك الصّدق عن الكذب والحقّ عن الباطل وتكون على بصيرة منيرة فاسئل عنه عن السّفراء الّذين كانوا في العراق وعن ورائهم عن والي البلدة ومشيرها ليحصحص لك الحقّ",
   "translation": "For eleven years We dwelt in that land, until the Minister representing thy government arrived, whose name Our pen is loath to mention, who was given to wine, who followed his lusts, and committed wickedness, and was corrupt and corrupted ‘Iráq. To this will bear witness most of the inhabitants of Bag̱hdád, wert thou to inquire of them, and be of such as seek the truth. He it was who wrongfully seized the substance of his fellowmen, who forsook all the commandments of God, and perpetrated whatever God had forbidden. Eventually, he, following his desires, rose up against Us, and walked in the ways of the unjust. He accused Us, in his letter to thee, and thou didst believe him and followed in his way, without seeking any proof or trustworthy evidence from him. Thou didst ask for no explanation, nor didst thou attempt either to investigate or ascertain the matter, that the truth might be distinguished from falsehood in thy sight, and that thou mightest be clear in thy discernment. Find out for thyself the sort of man he was by asking those Ministers who were, at that time, in ‘Iráq, as well as the Governor of the City (Bag̱hdád) and its high Counselor, that the truth may be revealed to thee, and that thou mayest be of the well-informed.",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "minister-corrupt-iraq-truth",
+  "alignment": [
+    {
+      "ar": "كنّا",
+      "en": "We dwelt"
+    },
+    {
+      "ar": "فيه",
+      "en": "in that land"
+    },
+    {
+      "ar": "سنين",
+      "en": "years"
+    },
+    {
+      "ar": "إلى أن",
+      "en": "until"
+    },
+    {
+      "ar": "جاء",
+      "en": "arrived"
+    },
+    {
+      "ar": "سفيركم",
+      "en": "the Minister representing thy government"
+    },
+    {
+      "ar": "الّذي",
+      "en": "whose"
+    },
+    {
+      "ar": "لن",
+      "en": "is loath to"
+    },
+    {
+      "ar": "القلم",
+      "en": "Our pen"
+    },
+    {
+      "ar": "اسمه",
+      "en": "name"
+    },
+    {
+      "ar": "كان أن يشرب",
+      "en": "who was given to"
+    },
+    {
+      "ar": "الخمر",
+      "en": "wine"
+    },
+    {
+      "ar": "يرتكب",
+      "en": "committed"
+    },
+    {
+      "ar": "البغي",
+      "en": "wickedness"
+    },
+    {
+      "ar": "فسد",
+      "en": "was corrupt"
+    },
+    {
+      "ar": "نفسه",
+      "en": "corrupt"
+    },
+    {
+      "ar": "أفسد",
+      "en": "corrupted"
+    },
+    {
+      "ar": "يشهد",
+      "en": "will bear witness"
+    },
+    {
+      "ar": "بذلك",
+      "en": "To this"
+    },
+    {
+      "ar": "أكثر",
+      "en": "most"
+    },
+    {
+      "ar": "أهل",
+      "en": "the inhabitants"
+    },
+    {
+      "ar": "الزّوراء",
+      "en": "Bag̱hdád"
+    },
+    {
+      "ar": "لو",
+      "en": "wert"
+    },
+    {
+      "ar": "تسئل",
+      "en": "thou to inquire"
+    },
+    {
+      "ar": "عنهم",
+      "en": "of them"
+    },
+    {
+      "ar": "تكون",
+      "en": "and be"
+    },
+    {
+      "ar": "السّائلين",
+      "en": "such as seek the truth"
+    },
+    {
+      "ar": "كان أن يأخذ",
+      "en": "He it was who wrongfully seized"
+    },
+    {
+      "ar": "أموال",
+      "en": "the substance"
+    },
+    {
+      "ar": "النّاس",
+      "en": "of his fellowmen"
+    },
+    {
+      "ar": "بالباطل",
+      "en": "wrongfully"
+    },
+    {
+      "ar": "ترك",
+      "en": "forsook"
+    },
+    {
+      "ar": "كلّ",
+      "en": "all"
+    },
+    {
+      "ar": "ما",
+      "en": "whatever"
+    },
+    {
+      "ar": "أمره",
+      "en": "the commandments"
+    },
+    {
+      "ar": "الله",
+      "en": "of God"
+    },
+    {
+      "ar": "ارتكب",
+      "en": "perpetrated"
+    },
+    {
+      "ar": "نهاه",
+      "en": "had forbidden"
+    },
+    {
+      "ar": "قام",
+      "en": "rose up"
+    },
+    {
+      "ar": "علينا",
+      "en": "against Us"
+    },
+    {
+      "ar": "اتّبع",
+      "en": "following"
+    },
+    {
+      "ar": "نفسه",
+      "en": "his desires"
+    },
+    {
+      "ar": "سلك",
+      "en": "walked"
+    },
+    {
+      "ar": "منهج",
+      "en": "in the ways"
+    },
+    {
+      "ar": "الظّالمين",
+      "en": "the unjust"
+    },
+    {
+      "ar": "كتب",
+      "en": "He accused"
+    },
+    {
+      "ar": "إليك",
+      "en": "to thee"
+    },
+    {
+      "ar": "حقّنا",
+      "en": "Us"
+    },
+    {
+      "ar": "أنت",
+      "en": "thou"
+    },
+    {
+      "ar": "قبلت",
+      "en": "didst believe"
+    },
+    {
+      "ar": "منه",
+      "en": "him"
+    },
+    {
+      "ar": "اتّبعت",
+      "en": "followed"
+    },
+    {
+      "ar": "هواه",
+      "en": "in his way"
+    },
+    {
+      "ar": "من دون",
+      "en": "without"
+    },
+    {
+      "ar": "بيّنة",
+      "en": "proof"
+    },
+    {
+      "ar": "برهان",
+      "en": "evidence"
+    },
+    {
+      "ar": "مبين",
+      "en": "trustworthy"
+    },
+    {
+      "ar": "ما تبيّنت",
+      "en": "Thou didst ask for no explanation"
+    },
+    {
+      "ar": "ما تفحّصت",
+      "en": "nor didst thou attempt either to investigate"
+    },
+    {
+      "ar": "ما تجسّست",
+      "en": "or ascertain"
+    },
+    {
+      "ar": "ليظهر",
+      "en": "that the truth might be distinguished"
+    },
+    {
+      "ar": "لك",
+      "en": "in thy sight"
+    },
+    {
+      "ar": "الصّدق",
+      "en": "the truth"
+    },
+    {
+      "ar": "الكذب",
+      "en": "falsehood"
+    },
+    {
+      "ar": "تكون",
+      "en": "that thou mightest be"
+    },
+    {
+      "ar": "على",
+      "en": "in"
+    },
+    {
+      "ar": "بصيرة",
+      "en": "thy discernment"
+    },
+    {
+      "ar": "منيرة",
+      "en": "clear"
+    },
+    {
+      "ar": "فاسئل",
+      "en": "Find out"
+    },
+    {
+      "ar": "عنه",
+      "en": "the sort of man he was"
+    },
+    {
+      "ar": "السّفراء",
+      "en": "those Ministers"
+    },
+    {
+      "ar": "الّذين",
+      "en": "who"
+    },
+    {
+      "ar": "كانوا",
+      "en": "were"
+    },
+    {
+      "ar": "ورائهم",
+      "en": "as well as"
+    },
+    {
+      "ar": "والي",
+      "en": "the Governor"
+    },
+    {
+      "ar": "البلدة",
+      "en": "of the City"
+    },
+    {
+      "ar": "مشيرها",
+      "en": "its high Counselor"
+    },
+    {
+      "ar": "ليحصحص",
+      "en": "that the truth may be revealed"
+    }
+  ],
+  "terms": [
+    {
+      "term": "يحبّ",
+      "transliteration": "ḥ-b-b",
+      "literal": "love; affection",
+      "se_rendering": "is loath to mention",
+      "note": "Root typically renders as 'beloved', 'loved ones', 'loved ones of God'. Here rendered 'is loath to mention'—a negated affection expressing unwillingness rather than affection itself.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 3,
+          "snippet": "beloved of the Lord"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 53,
+          "snippet": "loved ones of the Lord"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 39,
+          "snippet": "His loved ones"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 10,
+          "snippet": "love for Thee"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 12,
+          "snippet": "love"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 26,
+          "snippet": "Thy loved ones"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 475,
+          "snippet": "Thy dear ones"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 47,
+          "snippet": "my Beloved"
+        }
+      ]
+    },
+    {
+      "term": "القلم",
+      "transliteration": "q-l-m",
+      "literal": "pen; writing instrument",
+      "se_rendering": "Our pen",
+      "note": "Typically 'the Pen of the Most High', 'the Pen of Glory', 'My Pen'. Here rendered 'Our pen'—a more personal, less cosmologically grand designation.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 100,
+          "snippet": "the Pen of the Most High"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 68,
+          "snippet": "the Pen of Glory"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 182,
+          "snippet": "the Most Sublime Pen"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 257,
+          "snippet": "the pen of the Primal Point"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 30,
+          "snippet": "thine heart"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 280,
+          "snippet": "Pen"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 159,
+          "snippet": "My Supreme Pen"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 85,
+          "snippet": "standards"
+        }
+      ]
+    },
+    {
+      "term": "وفسد",
+      "transliteration": "f-s-d",
+      "literal": "corruption; ruin; discord; mischief; decay",
+      "se_rendering": "corrupt and corrupted",
+      "note": "Usually 'discord', 'mischief', 'sowers of mischief'. Here rendered 'corrupt and corrupted'—SE adopts the root's moral sense with doubled verbal form emphasizing both personal and societal corruption.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 108,
+          "snippet": "charge of fomenting discord"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 162,
+          "snippet": "mischief"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "utter slander"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 155,
+          "snippet": "corruption"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 196,
+          "snippet": "discord"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 109,
+          "snippet": "fomenter of discord"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 180,
+          "snippet": "stirrers of sedition"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 44,
+          "snippet": "Spread not disorder"
+        }
+      ]
+    },
+    {
+      "term": "الظّالمين",
+      "transliteration": "z-l-m",
+      "literal": "wrongedness, oppression, meekness; state of being wronged or oppressed",
+      "se_rendering": "the unjust",
+      "note": "Concordance primarily shows 'Wronged One', 'afflicted', 'wronged', 'meekness'. Here rendered 'the unjust'—SE deviates to render the active agent rather than victim of oppression.",
+      "cross_refs": [
+        {
+          "work": "fire-tablet",
+          "para": 49,
+          "snippet": "meekness"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 116,
+          "snippet": "injury"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 36,
+          "snippet": "Wronged One"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 253,
+          "snippet": "wronged"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 9,
+          "snippet": "Darkness"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 33,
+          "snippet": "tyranny"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 573,
+          "snippet": "oppressed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 181,
+          "snippet": "wronged ones"
+        }
+      ]
+    },
+    {
+      "term": "حقّنا",
+      "transliteration": "h-q-q",
+      "literal": "truth; right; that which is true or just",
+      "se_rendering": "Us",
+      "note": "Typically 'the True One', 'the Truth', 'the one true God', 'Sun of Truth'. Here rendered 'Us'—SE personalizes the absolute through a pronoun, making rights claims particular rather than cosmic.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 238,
+          "snippet": "the True One"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 52,
+          "snippet": "Sun of Truth"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 103,
+          "snippet": "Luminaries of Truth"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 113,
+          "snippet": "was realized"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 215,
+          "snippet": "realization"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 9,
+          "snippet": "evident"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "betrayal of truth"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 195,
+          "snippet": "incontrovertible"
+        }
+      ]
+    },
+    {
+      "term": "ليظهر",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "might be distinguished",
+      "note": "Typically 'Manifestation', 'manifestation', 'evident', 'revealed'. Here rendered 'might be distinguished'—SE chooses discernment rather than divine manifestation, subordinating cosmic to epistemological meaning.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 140,
+          "snippet": "manifestation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 160,
+          "snippet": "Author of all Manifestations"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 136,
+          "snippet": "evident"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 206,
+          "snippet": "appeared"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 196,
+          "snippet": "Manifestations of God"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 255,
+          "snippet": "Manifestations"
+        }
+      ]
+    },
+    {
+      "term": "الصّدق",
+      "transliteration": "s-d-q",
+      "literal": "to confirm; to verify; to acknowledge; to testify to truth",
+      "se_rendering": "truth",
+      "note": "Usually 'truthful', 'men of truth', 'truth', 'confirmed'. Here 'truth'—the basic rendering, but paired antithetically with falsehood to denote discriminatory knowledge rather than witness.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 225,
+          "snippet": "acknowledge"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 226,
+          "snippet": "men of truth"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 253,
+          "snippet": "truthful"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 134,
+          "snippet": "the truthful"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 28,
+          "snippet": "truthfulness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 143,
+          "snippet": "fidelity"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 10,
+          "snippet": "truth"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 268,
+          "snippet": "spoken the truth"
+        }
+      ]
+    },
+    {
+      "term": "بصيره",
+      "transliteration": "b-ṣ-r",
+      "literal": "sight; insight; discernment; spiritual perception",
+      "se_rendering": "discernment",
+      "note": "Typically 'discerning', 'eye of insight', 'eye of God', 'discerning eye'. Here 'discernment'—SE renders the noun as abstract capacity rather than metaphorical sight or divine perception.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 27,
+          "snippet": "discerning"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 278,
+          "snippet": "eye of insight"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 16,
+          "snippet": "eye of God"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 116,
+          "snippet": "discerning eye"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 77,
+          "snippet": "hearing ears, and sharp sight"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 667,
+          "snippet": "the All-Seeing"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 231,
+          "snippet": "clear"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 3,
+          "snippet": "proofs"
+        }
+      ]
+    }
+  ],
+  "section_index": "CXIII.20",
+  "section": "CXIII",
+  "section_para": 20
 }

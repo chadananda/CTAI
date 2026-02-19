@@ -1,10 +1,58 @@
 {
   "work": "Will and Testament",
   "slug": "will-and-testament",
-  "author": "'Abdu'l-Baha",
+  "author": "‘Abdu’l-Bahá",
   "pair_index": 59,
   "source_text": "و علیکم البهآء الأبهی",
   "translation": "The Glory of Glories rest upon you!",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "glory-of-glories-rest-upon-you",
+  "alignment": [
+    {
+      "ar": "البهآء",
+      "en": "Glory"
+    },
+    {
+      "ar": "الأبهی",
+      "en": "Glories"
+    }
+  ],
+  "terms": [
+    {
+      "term": "علیکم",
+      "transliteration": "ʿ-l-y",
+      "literal": "upon you; on; over",
+      "se_rendering": "upon you",
+      "note": "Standard rendering 'upon you' (2 occurrences in Jafar); no deviation. Functions as the verb's prepositional object in the blessing formula.",
+      "cross_refs": []
+    },
+    {
+      "term": "البهآء",
+      "transliteration": "b-h-y",
+      "literal": "splendor; glory; magnificence; Bahá (Proper Name in Bahá'í texts)",
+      "se_rendering": "Glory of Glories",
+      "note": "Root b-h-y rendered as 'Glory' in singular form; here construed as first element of dual construct 'Glory of Glories,' elevating the phrase beyond simple 'glory' or 'splendor.'",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 280,
+          "snippet": "Bahá"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 51,
+          "snippet": "Abhá"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 271,
+          "snippet": "All-Glorious"
+        }
+      ]
+    }
+  ],
+  "section_index": "3.13",
+  "section": "3",
+  "section_para": 13
 }

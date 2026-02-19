@@ -1,10 +1,668 @@
 {
   "work": "Epistle to the Son of the Wolf",
   "slug": "epistle-to-the-son-of-the-wolf",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 226,
   "source_text": "و همچنين ميفرمايد [ لا تحتجبنّ عن اللّه بعد ظهوره فانّ کلّ ما رفع البيان کخاتم فی يدی و انّی انا خاتم فی يدی من يظهره اللّه جلّ ذکره يقلّب کيف يشاء لما يشاء بما يشاء انّه لهو المهيمن المتعال ] و همچنين ميفرمايد [ فانّه لو يجعل ما علی الارض نبيّا ليکوننّ انبياء عند اللّه ] و همچنين ميفرمايد [ و اذا يوم ظهور من يظهره اللّه کلّ من علی الارض عنده سواء فمن يجعله نبيّا کان نبيّا من اوّل الّذی لا اوّل له الی آخر الّذي لا آخر له لانّ ذلک ممّا قد جعله اللّه و من يجعله وليّا فذلک ما کان وليّا فی کلّ العوالم فانّ ذلک ممّا قد جعله اللّه لانّ مشيّة اللّه لن يظهر الّا بمشيّته و ارادة اللّه لم يظهر الّا بارادته و انّه لهو القاهر المقتدر المنيع ] انتهی *",
   "translation": "And likewise, He saith: \"Suffer not yourselves to be shut out as by a veil from God after He hath revealed Himself. For all that hath been exalted in the Bayán is but as a ring upon My hand, and I Myself am, verily, but a ring upon the hand of Him Whom God shall make manifest - glorified be His mention! He turneth it as He pleaseth, for whatsoever He pleaseth, and through whatsoever He pleaseth. He, verily, is the Help in Peril, the Most High.\" And likewise, He saith: \"Were He to make of every one on earth a Prophet, all would, in very truth, be accounted as Prophets in the sight of God.\" And likewise, He saith: \"In the day of the revelation of Him Whom God shall make manifest all that dwell on earth will be equal in His estimation. Whomsoever He ordaineth as a Prophet, he, verily, hath been a Prophet from the beginning that hath no beginning, and will thus remain until the end that hath no end, inasmuch as this is an act of God. And whosoever is made a Viceregent by Him, shall be a Viceregent in all the worlds, for this is an act of God. For the will of God can in no wise be revealed except through His will, nor His wish be manifested save through His wish. He, verily, is the All-Conquering, the All-Powerful, the All-Highest.\"",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "ring-upon-hand-god",
+  "alignment": [
+    {
+      "ar": "همچنين",
+      "en": "likewise"
+    },
+    {
+      "ar": "ميفرمايد",
+      "en": "He saith"
+    },
+    {
+      "ar": "لا تحتجبنّ",
+      "en": "Suffer not yourselves to be shut out"
+    },
+    {
+      "ar": "عن",
+      "en": "from"
+    },
+    {
+      "ar": "اللّه",
+      "en": "God"
+    },
+    {
+      "ar": "بعد",
+      "en": "after"
+    },
+    {
+      "ar": "ظهوره",
+      "en": "He hath revealed Himself"
+    },
+    {
+      "ar": "فانّ",
+      "en": "For"
+    },
+    {
+      "ar": "کلّ",
+      "en": "all"
+    },
+    {
+      "ar": "ما",
+      "en": "that"
+    },
+    {
+      "ar": "رفع",
+      "en": "hath been exalted"
+    },
+    {
+      "ar": "البيان",
+      "en": "the Bayán"
+    },
+    {
+      "ar": "کخاتم",
+      "en": "as a ring"
+    },
+    {
+      "ar": "فی",
+      "en": "upon"
+    },
+    {
+      "ar": "يدی",
+      "en": "My hand"
+    },
+    {
+      "ar": "و انّی",
+      "en": "and I"
+    },
+    {
+      "ar": "انا",
+      "en": "Myself"
+    },
+    {
+      "ar": "خاتم",
+      "en": "a ring"
+    },
+    {
+      "ar": "يدی",
+      "en": "the hand"
+    },
+    {
+      "ar": "من يظهره اللّه",
+      "en": "Him Whom God shall make manifest"
+    },
+    {
+      "ar": "جلّ",
+      "en": "glorified"
+    },
+    {
+      "ar": "ذکره",
+      "en": "His mention"
+    },
+    {
+      "ar": "يقلّب",
+      "en": "He turneth"
+    },
+    {
+      "ar": "کيف",
+      "en": "as"
+    },
+    {
+      "ar": "يشاء",
+      "en": "He pleaseth"
+    },
+    {
+      "ar": "لما",
+      "en": "for whatsoever"
+    },
+    {
+      "ar": "بما",
+      "en": "through whatsoever"
+    },
+    {
+      "ar": "انّه",
+      "en": "He"
+    },
+    {
+      "ar": "لهو",
+      "en": "verily"
+    },
+    {
+      "ar": "المهيمن",
+      "en": "the Help in Peril"
+    },
+    {
+      "ar": "المتعال",
+      "en": "the Most High"
+    },
+    {
+      "ar": "فانّه",
+      "en": "Were"
+    },
+    {
+      "ar": "يجعل",
+      "en": "to make"
+    },
+    {
+      "ar": "ما",
+      "en": "every one"
+    },
+    {
+      "ar": "علی",
+      "en": "on"
+    },
+    {
+      "ar": "الارض",
+      "en": "earth"
+    },
+    {
+      "ar": "نبيّا",
+      "en": "a Prophet"
+    },
+    {
+      "ar": "ليکوننّ",
+      "en": "would"
+    },
+    {
+      "ar": "انبياء",
+      "en": "Prophets"
+    },
+    {
+      "ar": "عند",
+      "en": "in the sight of"
+    },
+    {
+      "ar": "و اذا",
+      "en": "In"
+    },
+    {
+      "ar": "يوم",
+      "en": "the day"
+    },
+    {
+      "ar": "ظهور",
+      "en": "the revelation"
+    },
+    {
+      "ar": "عنده",
+      "en": "in His estimation"
+    },
+    {
+      "ar": "سواء",
+      "en": "equal"
+    },
+    {
+      "ar": "فمن",
+      "en": "Whomsoever"
+    },
+    {
+      "ar": "يجعله",
+      "en": "He ordaineth"
+    },
+    {
+      "ar": "کان",
+      "en": "hath been"
+    },
+    {
+      "ar": "اوّل",
+      "en": "the beginning"
+    },
+    {
+      "ar": "لا اوّل له",
+      "en": "hath no beginning"
+    },
+    {
+      "ar": "الی",
+      "en": "until"
+    },
+    {
+      "ar": "آخر",
+      "en": "the end"
+    },
+    {
+      "ar": "لا آخر له",
+      "en": "hath no end"
+    },
+    {
+      "ar": "لانّ",
+      "en": "inasmuch as"
+    },
+    {
+      "ar": "ذلک",
+      "en": "this"
+    },
+    {
+      "ar": "ممّا",
+      "en": "an"
+    },
+    {
+      "ar": "قد",
+      "en": ""
+    },
+    {
+      "ar": "جعله",
+      "en": "act"
+    },
+    {
+      "ar": "اللّه",
+      "en": "of God"
+    },
+    {
+      "ar": "و من",
+      "en": "And whosoever"
+    },
+    {
+      "ar": "يجعله",
+      "en": "is made"
+    },
+    {
+      "ar": "وليّا",
+      "en": "a Viceregent"
+    },
+    {
+      "ar": "فذلک",
+      "en": "he"
+    },
+    {
+      "ar": "ما",
+      "en": ""
+    },
+    {
+      "ar": "کان",
+      "en": "shall be"
+    },
+    {
+      "ar": "فی",
+      "en": "in"
+    },
+    {
+      "ar": "العوالم",
+      "en": "the worlds"
+    },
+    {
+      "ar": "فانّ",
+      "en": "for"
+    },
+    {
+      "ar": "قد",
+      "en": ""
+    },
+    {
+      "ar": "مشيّة",
+      "en": "the will"
+    },
+    {
+      "ar": "لن",
+      "en": "can in no wise"
+    },
+    {
+      "ar": "يظهر",
+      "en": "be revealed"
+    },
+    {
+      "ar": "الّا",
+      "en": "except"
+    },
+    {
+      "ar": "بمشيّته",
+      "en": "through His will"
+    },
+    {
+      "ar": "و ارادة",
+      "en": "nor His wish"
+    },
+    {
+      "ar": "اللّه",
+      "en": ""
+    },
+    {
+      "ar": "لم",
+      "en": ""
+    },
+    {
+      "ar": "يظهر",
+      "en": "be manifested"
+    },
+    {
+      "ar": "الّا",
+      "en": "save"
+    },
+    {
+      "ar": "بارادته",
+      "en": "through His wish"
+    },
+    {
+      "ar": "القاهر",
+      "en": "the All-Conquering"
+    },
+    {
+      "ar": "المقتدر",
+      "en": "the All-Powerful"
+    },
+    {
+      "ar": "المنيع",
+      "en": "the All-Highest"
+    }
+  ],
+  "terms": [
+    {
+      "term": "تحتجبنّ",
+      "transliteration": "ḥ-j-b",
+      "literal": "to veil oneself, to be veiled",
+      "se_rendering": "shut out as by a veil",
+      "note": "Root consistently rendered 'veil' or 'veiled' (37 occ.). SE expands to 'shut out as by a veil'—a periphrastic rendering capturing the imperative sense and emotional force of the original command.",
+      "cross_refs": [
+        {
+          "work": "the-hidden-words",
+          "para": 33,
+          "snippet": "veil thyself"
+        },
+        {
+          "work": "gleanings",
+          "para": 198,
+          "snippet": "veil yourselves"
+        },
+        {
+          "work": "gleanings",
+          "para": 23,
+          "snippet": "most grievous veil"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 22,
+          "snippet": "veiled"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 533,
+          "snippet": "the veil"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 150,
+          "snippet": "the veil of heedlessness"
+        },
+        {
+          "work": "gleanings",
+          "para": 138,
+          "snippet": "the veil of her face"
+        },
+        {
+          "work": "gleanings",
+          "para": 401,
+          "snippet": "ye have allowed your learning to shut you out"
+        }
+      ]
+    },
+    {
+      "term": "ظهوره",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "revealed Himself",
+      "note": "Standard rendering is 'Manifestation' or 'manifestation' (96 occ.). Here SE uses 'revealed Himself' in first instance, then 'revelation' later—verbal forms more natural to English narrative flow while retaining theological reference.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 53,
+          "snippet": "Manifestation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 160,
+          "snippet": "Author of all Manifestations"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 136,
+          "snippet": "evident"
+        },
+        {
+          "work": "gleanings",
+          "para": 222,
+          "snippet": "material"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 196,
+          "snippet": "Manifestations of God"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 255,
+          "snippet": "Manifestations"
+        }
+      ]
+    },
+    {
+      "term": "البيان",
+      "transliteration": "b-y-n",
+      "literal": "to manifest; to make clear; clear, evident",
+      "se_rendering": "the Bayán",
+      "note": "This proper noun—the Báb's scripture—remains transliterated as 'the Bayán' throughout SE's corpus (87 occ.). SE preserves the term untranslated to maintain doctrinal precision and textual identity.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 223,
+          "snippet": "the Expounder, the Most Manifest"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 231,
+          "snippet": "clear verses"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 3,
+          "snippet": "proofs"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 12,
+          "snippet": "clear proofs"
+        },
+        {
+          "work": "gleanings",
+          "para": 563,
+          "snippet": "Dawning-Place of the proofs"
+        },
+        {
+          "work": "gleanings",
+          "para": 292,
+          "snippet": "the Bayán"
+        },
+        {
+          "work": "gleanings",
+          "para": 636,
+          "snippet": "utterance"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 101,
+          "snippet": "Bayán"
+        }
+      ]
+    },
+    {
+      "term": "يدی",
+      "transliteration": "y-d",
+      "literal": "hand; power; strength; (plural) hands; agents; helpers",
+      "se_rendering": "hand",
+      "note": "Usually 'hands' or 'Hands' as agents/helpers (13 occ.). Singular 'hand' here maintains the concrete metaphor of divine manipulation while preserving the possessive relationship established by 'My hand' and 'His hand'.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 19,
+          "snippet": "Hands"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 95,
+          "snippet": "with their own hands"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 244,
+          "snippet": "with their hands"
+        }
+      ]
+    },
+    {
+      "term": "يقلّب",
+      "transliteration": "q-l-b",
+      "literal": "heart; to turn; to overturn",
+      "se_rendering": "turneth",
+      "note": "Root typically rendered 'hearts' or 'cataclysms' (60 occ.). SE chooses 'turneth' to preserve the mechanical/kinetic sense of the ring being rotated in the divine grasp, aligning with the passage's extended metaphor.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 547,
+          "snippet": "hearts"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 432,
+          "snippet": "their hearts"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 652,
+          "snippet": "heart"
+        },
+        {
+          "work": "gleanings",
+          "para": 228,
+          "snippet": "agitation"
+        },
+        {
+          "work": "gleanings",
+          "para": 350,
+          "snippet": "cataclysms"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 777,
+          "snippet": "commotion"
+        },
+        {
+          "work": "gleanings",
+          "para": 439,
+          "snippet": "discord"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 13,
+          "snippet": "tumult"
+        }
+      ]
+    },
+    {
+      "term": "المتعال",
+      "transliteration": "ʿ-l-w",
+      "literal": "highest; most high; supreme",
+      "se_rendering": "the Most High",
+      "note": "Typically 'the Most High' or 'the Most Exalted' (74 occ.). Consistent here as 'the Most High'—SE's most frequent choice, emphasizing divine transcendence and supremacy in the closing divine epithets.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 1,
+          "snippet": "the Most High"
+        },
+        {
+          "work": "gleanings",
+          "para": 232,
+          "snippet": "supreme"
+        },
+        {
+          "work": "gleanings",
+          "para": 616,
+          "snippet": "the realms above"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 390,
+          "snippet": "the Most Exalted, the Most High"
+        },
+        {
+          "work": "gleanings",
+          "para": 393,
+          "snippet": "The Pen of the Most High"
+        },
+        {
+          "work": "gleanings",
+          "para": 697,
+          "snippet": "the Dayspring of Glory"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 1,
+          "snippet": "the Realm of Glory"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 257,
+          "snippet": "the Báb, the Lord, the most exalted"
+        }
+      ]
+    },
+    {
+      "term": "العوالم",
+      "transliteration": "ʿ-l-m",
+      "literal": "world; universe; the worlds",
+      "se_rendering": "all the worlds",
+      "note": "Usually 'world' or 'worlds' (141 occ.). Rendered 'all the worlds' to indicate totality and permanence—emphasizing that the Viceregent's station extends across all planes of existence, not merely the material realm.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 198,
+          "snippet": "world"
+        },
+        {
+          "work": "gleanings",
+          "para": 657,
+          "snippet": "all worlds"
+        },
+        {
+          "work": "gleanings",
+          "para": 182,
+          "snippet": "mankind"
+        },
+        {
+          "work": "gleanings",
+          "para": 183,
+          "snippet": "the whole world"
+        },
+        {
+          "work": "gleanings",
+          "para": 226,
+          "snippet": "all earthly defilements"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 76,
+          "snippet": "Knowledge"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 122,
+          "snippet": "commentators"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 42,
+          "snippet": "banner"
+        }
+      ]
+    }
+  ],
+  "section_index": "226",
+  "section": "226",
+  "section_para": 1
 }

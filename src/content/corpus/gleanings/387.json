@@ -1,10 +1,527 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 387,
   "source_text": "وإنّه لم یزل ولا یزال کان متوحّدًا في ذاته ومتفرّدا في صفاته وواحدًا في أفعاله وإنّ الشّبیه وصف خلقه والشّریک نعت عباده سبحان نفسه من أن یوصف بوصف خلقه وإنّه کان وحده في علوّ الارتفاع وسموّ الامتناع ولن یطرأ إلی هوآء قدس عرفانه أطیار أفئدة العالمین مجموعًا وإنّه قد خلق الممکنات وذرأ الموجودات بکلمة أمره وما خلق بکلمة الّتي ظهرت من قلم الّذي حرّکه أنامل إرادته کیف یکون شریکًا أو دلیلاً علیه سبحانه من أن یشار بإشارة أحد أو یعرف بعرفان نفس وما دونه فقرآء لدی بابه وعجزآء عند ظهور عزّه وأرقّآء في ملکه وإنّه کان عن العالمین غنیًّا",
   "translation": "He, in truth, hath, throughout eternity, been one in His Essence, one in His attributes, one in His works. Any and every comparison is applicable only to His creatures, and all conceptions of association are conceptions that belong solely to those that serve Him. Immeasurably exalted is His Essence above the descriptions of His creatures. He, alone, occupieth the Seat of transcendent majesty, of supreme and inaccessible glory. The birds of men’s hearts, however high they soar, can never hope to attain the heights of His unknowable Essence. It is He Who hath called into being the whole of creation, Who hath caused every created thing to spring forth at His behest. Shall, then, the thing that was born by virtue of the word which His Pen hath revealed, and which the finger of His Will hath directed, be regarded as partner with Him, or an embodiment of His Self? Far be it from His glory that human pen or tongue should hint at His mystery, or that human heart conceive His Essence. All else besides Him stand poor and desolate at His door, all are powerless before the greatness of His might, all are but slaves in His Kingdom. He is rich enough to dispense with all creatures.",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "transcendent-majesty-unknowable-essence",
+  "alignment": [
+    {
+      "ar": "إنّه",
+      "en": "He"
+    },
+    {
+      "ar": "لم یزل",
+      "en": "throughout eternity"
+    },
+    {
+      "ar": "کان",
+      "en": "hath"
+    },
+    {
+      "ar": "متوحّدًا",
+      "en": "one"
+    },
+    {
+      "ar": "في ذاته",
+      "en": "in His Essence"
+    },
+    {
+      "ar": "في صفاته",
+      "en": "in His attributes"
+    },
+    {
+      "ar": "في أفعاله",
+      "en": "in His works"
+    },
+    {
+      "ar": "الشّبیه",
+      "en": "comparison"
+    },
+    {
+      "ar": "وصف",
+      "en": "applicable"
+    },
+    {
+      "ar": "خلقه",
+      "en": "His creatures"
+    },
+    {
+      "ar": "الشّریک",
+      "en": "association"
+    },
+    {
+      "ar": "نعت",
+      "en": "conceptions"
+    },
+    {
+      "ar": "عباده",
+      "en": "those that serve Him"
+    },
+    {
+      "ar": "سبحان",
+      "en": "Immeasurably exalted"
+    },
+    {
+      "ar": "نفسه",
+      "en": "His Essence"
+    },
+    {
+      "ar": "من أن یوصف",
+      "en": "above the descriptions"
+    },
+    {
+      "ar": "بوصف خلقه",
+      "en": "of His creatures"
+    },
+    {
+      "ar": "کان وحده",
+      "en": "He, alone"
+    },
+    {
+      "ar": "في علوّ الارتفاع",
+      "en": "the Seat of transcendent majesty"
+    },
+    {
+      "ar": "وسموّ الامتناع",
+      "en": "supreme and inaccessible glory"
+    },
+    {
+      "ar": "لن یطرأ",
+      "en": "can never hope to attain"
+    },
+    {
+      "ar": "إلی هوآء",
+      "en": "the heights"
+    },
+    {
+      "ar": "قدس عرفانه",
+      "en": "His unknowable Essence"
+    },
+    {
+      "ar": "أطیار",
+      "en": "The birds"
+    },
+    {
+      "ar": "أفئدة",
+      "en": "hearts"
+    },
+    {
+      "ar": "مجموعًا",
+      "en": "however high they soar"
+    },
+    {
+      "ar": "خلق",
+      "en": "hath called into being"
+    },
+    {
+      "ar": "الممکنات",
+      "en": "the whole of creation"
+    },
+    {
+      "ar": "وذرأ",
+      "en": "hath caused"
+    },
+    {
+      "ar": "الموجودات",
+      "en": "every created thing to spring forth"
+    },
+    {
+      "ar": "بکلمة أمره",
+      "en": "at His behest"
+    },
+    {
+      "ar": "ما خلق",
+      "en": "the thing that was born"
+    },
+    {
+      "ar": "بکلمة",
+      "en": "by virtue of the word"
+    },
+    {
+      "ar": "الّتي ظهرت",
+      "en": "hath revealed"
+    },
+    {
+      "ar": "من قلم",
+      "en": "which His Pen"
+    },
+    {
+      "ar": "الّذي حرّکه",
+      "en": "hath directed"
+    },
+    {
+      "ar": "أنامل إرادته",
+      "en": "the finger of His Will"
+    },
+    {
+      "ar": "کیف یکون",
+      "en": "Shall"
+    },
+    {
+      "ar": "شریکًا",
+      "en": "partner with Him"
+    },
+    {
+      "ar": "أو دلیلاً",
+      "en": "or an embodiment"
+    },
+    {
+      "ar": "علیه",
+      "en": "of His Self"
+    },
+    {
+      "ar": "سبحانه",
+      "en": "Far be it from His glory"
+    },
+    {
+      "ar": "من أن یشار",
+      "en": "should hint"
+    },
+    {
+      "ar": "بإشارة أحد",
+      "en": "human pen or tongue"
+    },
+    {
+      "ar": "أو یعرف",
+      "en": "at His mystery"
+    },
+    {
+      "ar": "بعرفان نفس",
+      "en": "human heart conceive His Essence"
+    },
+    {
+      "ar": "وما دونه",
+      "en": "All else besides Him"
+    },
+    {
+      "ar": "فقرآء",
+      "en": "stand poor and desolate"
+    },
+    {
+      "ar": "لدی بابه",
+      "en": "at His door"
+    },
+    {
+      "ar": "وعجزآء",
+      "en": "powerless"
+    },
+    {
+      "ar": "عند ظهور عزّه",
+      "en": "before the greatness of His might"
+    },
+    {
+      "ar": "وأرقّآء",
+      "en": "slaves"
+    },
+    {
+      "ar": "في ملکه",
+      "en": "in His Kingdom"
+    },
+    {
+      "ar": "کان",
+      "en": "is"
+    },
+    {
+      "ar": "عن العالمین",
+      "en": "with all creatures"
+    }
+  ],
+  "terms": [
+    {
+      "term": "الشّبیه",
+      "transliteration": "sh-b-h",
+      "literal": "doubt; uncertainty; suspicion; resemblance; semblance",
+      "se_rendering": "comparison",
+      "note": "Typically 'doubt' or 'doubts' in 30 occurrences. Here rendered 'comparison' — contextually semantic shift from epistemological uncertainty to ontological resemblance.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "doubtfulness"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 12,
+          "snippet": "doubt"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 387,
+          "snippet": "calumnies"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 311,
+          "snippet": "doubts"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 35,
+          "snippet": "night"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 126,
+          "snippet": "equal"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 170,
+          "snippet": "confounded"
+        }
+      ]
+    },
+    {
+      "term": "الممکنات",
+      "transliteration": "k-w-n",
+      "literal": "to do; to make; to perform; to be",
+      "se_rendering": "creation",
+      "note": "Root w-j-d typically 'adorned' or 'found' (67 occ). Here rendered 'creation' via idiomatic compression—SE glosses the philosophical term for contingent beings.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 39,
+          "snippet": "to gather"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 159,
+          "snippet": "earn"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 70,
+          "snippet": "said"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 159,
+          "snippet": "had before"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 242,
+          "snippet": "plead"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 118,
+          "snippet": "is abashed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 250,
+          "snippet": "converteth"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 56,
+          "snippet": "refrain"
+        }
+      ]
+    },
+    {
+      "term": "قلم",
+      "transliteration": "q-l-m",
+      "literal": "pen; writing instrument",
+      "se_rendering": "His Pen",
+      "note": "Consistently 'Pen' across 25 occurrences in mystical contexts. Here maintains Baháʼí technical term; unremarkable but theologically central to creation metaphysics.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 100,
+          "snippet": "the Pen of the Most High"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 68,
+          "snippet": "the Pen of Glory"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 182,
+          "snippet": "the Most Sublime Pen"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 257,
+          "snippet": "the pen of the Primal Point"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 30,
+          "snippet": "thine heart"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 280,
+          "snippet": "Pen"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 159,
+          "snippet": "My Supreme Pen"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 85,
+          "snippet": "standards"
+        }
+      ]
+    },
+    {
+      "term": "دلیلاً",
+      "transliteration": "d-l-l",
+      "literal": "to argue; to demonstrate; proof",
+      "se_rendering": "embodiment",
+      "note": "Root d-l-l typically 'testify' or 'bear witness' (20 occ). Rendered 'embodiment'—sharp deviation suggesting proof-of-identity rather than evidential testimony.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 122,
+          "snippet": "sought to demonstrate"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 53,
+          "snippet": "evidence"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 107,
+          "snippet": "bear direct reference"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 149,
+          "snippet": "testify"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 270,
+          "snippet": "foreshadow"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 129,
+          "snippet": "bear witness"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 100,
+          "snippet": "proof"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 83,
+          "snippet": "seek to establish"
+        }
+      ]
+    },
+    {
+      "term": "عزّه",
+      "transliteration": "ʿ-z-z",
+      "literal": "glory; might; honor; dignity; power; majesty",
+      "se_rendering": "His might",
+      "note": "Usually 'glory' (49 occ). Here 'might'—a martial register emphasizing overwhelming power rather than transcendent radiance; context-driven choice.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 245,
+          "snippet": "glory"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 491,
+          "snippet": "exalted"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 99,
+          "snippet": "Dear"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 38,
+          "snippet": "dearly beloved"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 37,
+          "snippet": "Gracious"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 162,
+          "snippet": "Mighty"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 789,
+          "snippet": "Thy glory"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 158,
+          "snippet": "on thy glory"
+        }
+      ]
+    },
+    {
+      "term": "غنیًّا",
+      "transliteration": "gh-n-y",
+      "literal": "to be independent of; to be in no need of; to dispense with",
+      "se_rendering": "rich enough to dispense with",
+      "note": "Typically 'Self-Sufficing' or 'in no need of' (20 occ). Here 'rich enough to dispense with'—an extended paraphrase that adds economic metaphor absent in root.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 27,
+          "snippet": "in no need of"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 660,
+          "snippet": "the All-Possessing"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 77,
+          "snippet": "treasure"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 155,
+          "snippet": "Self-Sufficing"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 115,
+          "snippet": "the All-Bounteous"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 143,
+          "snippet": "the Rich"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 128,
+          "snippet": "riches"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 56,
+          "snippet": "sufficiency"
+        }
+      ]
+    }
+  ],
+  "section_index": "XCIV.3",
+  "section": "XCIV",
+  "section_para": 3
 }

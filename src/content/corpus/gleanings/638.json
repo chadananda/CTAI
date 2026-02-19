@@ -1,10 +1,515 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 638,
   "source_text": "موا أنفسکم من خلع الحلم والعدل لیهبّ من شطر قلوبکم علی الممکنات روایح قدس محبوبًا قل إیّاکم یا ملأ البهآء لا تکونوا بمثل الّذین یقولون ما لا یفعلونه في أنفسهم أن اجهدوا بأن یظهر منکم علی الأرض آثار الله وأوامره ثمّ اهدوا النّاس بأفعالکم لأنّ في الأقوال یشارکون أکثر العباد من کلّ وضیع وشریفًا ولکنّ الأعمال یمتازکم عن دونکم ویظهر أنوارکم علی من علی الأرض فطوبی لمن یسمع نصحي ویتّبع ما أمر به من لدن علیم حکیما.",
   "translation": "That which beseemeth you is the love of God, and the love of Him Who is the Manifestation of His Essence, and the observance of whatsoever He chooseth to prescribe unto you, did ye but know it.\nSay: Let truthfulness and courtesy be your adorning. Suffer not yourselves to be deprived of the robe of forbearance and justice, that the sweet savors of holiness may be wafted from your hearts upon all created things. Say: Beware, O people of Bahá, lest ye walk in the ways of them whose words differ from their deeds. Strive that ye may be enabled to manifest to the peoples of the earth the signs of God, and to mirror forth His commandments. Let your acts be a guide unto all mankind, for the professions of most men, be they high or low, differ from their conduct. It is through your deeds that ye can distinguish yourselves from others. Through them the brightness of your light can be shed upon the whole earth. Happy is the man that heedeth My counsel, and keepeth the precepts prescribed by Him Who is the All-Knowing, the All-Wise.",
   "source_lang": "ar",
-  "score": 9.3
+  "score": 9.3,
+  "page_slug": "deeds-distinguish-from-others",
+  "alignment": [
+    {
+      "ar": "أنفسکم",
+      "en": "yourselves"
+    },
+    {
+      "ar": "خلع",
+      "en": "deprived"
+    },
+    {
+      "ar": "الحلم",
+      "en": "forbearance"
+    },
+    {
+      "ar": "العدل",
+      "en": "justice"
+    },
+    {
+      "ar": "لیهبّ",
+      "en": "may be wafted"
+    },
+    {
+      "ar": "شطر",
+      "en": "from"
+    },
+    {
+      "ar": "قلوبکم",
+      "en": "your hearts"
+    },
+    {
+      "ar": "الممکنات",
+      "en": "all created things"
+    },
+    {
+      "ar": "روایح",
+      "en": "savors"
+    },
+    {
+      "ar": "قدس",
+      "en": "holiness"
+    },
+    {
+      "ar": "قل",
+      "en": "Say"
+    },
+    {
+      "ar": "إیّاکم",
+      "en": "Beware"
+    },
+    {
+      "ar": "ملأ البهآء",
+      "en": "people of Bahá"
+    },
+    {
+      "ar": "تکونوا",
+      "en": "ye walk"
+    },
+    {
+      "ar": "بمثل",
+      "en": "in the ways"
+    },
+    {
+      "ar": "الّذین",
+      "en": "them"
+    },
+    {
+      "ar": "یقولون",
+      "en": "words"
+    },
+    {
+      "ar": "لا یفعلونه",
+      "en": "differ from their deeds"
+    },
+    {
+      "ar": "اجهدوا",
+      "en": "Strive"
+    },
+    {
+      "ar": "یظهر",
+      "en": "manifest"
+    },
+    {
+      "ar": "منکم",
+      "en": "ye"
+    },
+    {
+      "ar": "الأرض",
+      "en": "earth"
+    },
+    {
+      "ar": "آثار",
+      "en": "signs"
+    },
+    {
+      "ar": "الله",
+      "en": "God"
+    },
+    {
+      "ar": "أوامره",
+      "en": "His commandments"
+    },
+    {
+      "ar": "اهدوا",
+      "en": "guide"
+    },
+    {
+      "ar": "النّاس",
+      "en": "mankind"
+    },
+    {
+      "ar": "بأفعالکم",
+      "en": "your acts"
+    },
+    {
+      "ar": "الأقوال",
+      "en": "professions"
+    },
+    {
+      "ar": "یشارکون",
+      "en": "differ from their conduct"
+    },
+    {
+      "ar": "أکثر",
+      "en": "most"
+    },
+    {
+      "ar": "العباد",
+      "en": "men"
+    },
+    {
+      "ar": "وضیع",
+      "en": "low"
+    },
+    {
+      "ar": "شریفًا",
+      "en": "high"
+    },
+    {
+      "ar": "الأعمال",
+      "en": "deeds"
+    },
+    {
+      "ar": "یمتازکم",
+      "en": "distinguish yourselves"
+    },
+    {
+      "ar": "دونکم",
+      "en": "others"
+    },
+    {
+      "ar": "یظهر",
+      "en": "shed"
+    },
+    {
+      "ar": "أنوارکم",
+      "en": "brightness of your light"
+    },
+    {
+      "ar": "فطوبی",
+      "en": "Happy"
+    },
+    {
+      "ar": "یسمع",
+      "en": "heedeth"
+    },
+    {
+      "ar": "نصحي",
+      "en": "My counsel"
+    },
+    {
+      "ar": "یتّبع",
+      "en": "keepeth"
+    },
+    {
+      "ar": "أمر",
+      "en": "precepts prescribed"
+    },
+    {
+      "ar": "علیم",
+      "en": "All-Knowing"
+    },
+    {
+      "ar": "حکیما",
+      "en": "All-Wise"
+    }
+  ],
+  "terms": [
+    {
+      "term": "قلوبکم",
+      "transliteration": "q-l-b",
+      "literal": "heart; to turn; to overturn",
+      "se_rendering": "hearts",
+      "note": "Root generates 'hearts', 'agitation', 'cataclysms' across 60 occurrences. Here 'hearts' serves the spiritual locus from which holiness emanates, a consistent and transparent rendering that grounds the passage's interiority-to-exteriority movement.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 187,
+          "snippet": "hearts"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 432,
+          "snippet": "their hearts"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 652,
+          "snippet": "heart"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 777,
+          "snippet": "commotion"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 13,
+          "snippet": "tumult"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 30,
+          "snippet": "thine heart"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 4,
+          "snippet": "with a pure heart"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 82,
+          "snippet": "with a sound heart"
+        }
+      ]
+    },
+    {
+      "term": "یظهر",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "manifest",
+      "note": "Standard rendering 'Manifestation' or 'manifest' across 96 occurrences. Here consistently 'manifest' (verb) and 'be shed' (for brightness), maintaining SE's pattern of temporal action rather than ontological status.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 140,
+          "snippet": "manifestation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 160,
+          "snippet": "Author of all Manifestations"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 136,
+          "snippet": "evident"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 206,
+          "snippet": "appeared"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 196,
+          "snippet": "Manifestations of God"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 255,
+          "snippet": "Manifestations"
+        }
+      ]
+    },
+    {
+      "term": "آثار",
+      "transliteration": "ʾ-th-r",
+      "literal": "effect; trace; influence; imprint",
+      "se_rendering": "signs",
+      "note": "Renders variably as 'trace', 'reflection', 'effect', 'effects' across 17 occurrences. Here 'signs' (of God) represents a theological interpretation—traces of divine presence—rather than mere physical marks or impressions.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 158,
+          "snippet": "trace"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 65,
+          "snippet": "effects"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 30,
+          "snippet": "affected"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 243,
+          "snippet": "writings"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 71,
+          "snippet": "signs"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 160,
+          "snippet": "the signs"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 42,
+          "snippet": "its wisdom and effect"
+        }
+      ]
+    },
+    {
+      "term": "الأقوال",
+      "transliteration": "q-w-m",
+      "literal": "rising; standing; uprising; resurrection",
+      "se_rendering": "professions",
+      "note": "Root denotes 'rising/standing' with 109 occurrences rendered as 'Resurrection', 'arise', 'peoples'. Here 'professions' is unique—SE interprets the plural noun form as speech-acts rather than metaphysical rising, fitting the word-versus-deed contrast.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 152,
+          "snippet": "Day of Resurrection"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 153,
+          "snippet": "Resurrection"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 74,
+          "snippet": "rise"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "peoples"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 26,
+          "snippet": "steadfast"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 38,
+          "snippet": "steadfast in faith"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 628,
+          "snippet": "stood fast"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 198,
+          "snippet": "station"
+        }
+      ]
+    },
+    {
+      "term": "الأعمال",
+      "transliteration": "ʿ-m-l",
+      "literal": "to work; to act; to do; to perform",
+      "se_rendering": "deeds",
+      "note": "Typically rendered 'works' or 'actions' across 44 occurrences. Here 'deeds' emphasizes the performative distinction from mere speech, directly supporting the passage's core argument about action versus profession.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 24,
+          "snippet": "Consort"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 782,
+          "snippet": "works"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 286,
+          "snippet": "God doeth unto them as they do unto themselves"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 94,
+          "snippet": "knew that they did so"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 144,
+          "snippet": "done"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 19,
+          "snippet": "Fane"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 34,
+          "snippet": "deed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 86,
+          "snippet": "wrought"
+        }
+      ]
+    },
+    {
+      "term": "أنوارکم",
+      "transliteration": "n-w-ʿ",
+      "literal": "type; kind; species",
+      "se_rendering": "brightness of your light",
+      "note": "Root typically yields 'light', 'splendors', or 'all manner of' across 11 occurrences. Here 'brightness of your light' compounds the concept, amplifying the illuminative metaphor central to the passage's exhortation.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 4,
+          "snippet": "all manner of"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 27,
+          "snippet": "light"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 647,
+          "snippet": "splendors"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 25,
+          "snippet": "mankind"
+        }
+      ]
+    },
+    {
+      "term": "نصحی",
+      "transliteration": "n-s-h",
+      "literal": "counsel; advice; admonition",
+      "se_rendering": "counsel",
+      "note": "Consistently 'counsel', 'counsels', or 'exhortation' across 28 occurrences. Here 'counsel' appears as substantive advice from the divine speaker, aligning with SE's conventional rendering pattern.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-ahd",
+          "para": 16,
+          "snippet": "counsels"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 56,
+          "snippet": "counsel"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 187,
+          "snippet": "admonished"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 11,
+          "snippet": "exhortation"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 4,
+          "snippet": "counselleth"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 149,
+          "snippet": "an admonisher to the rich"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 182,
+          "snippet": "sincere adviser"
+        }
+      ]
+    }
+  ],
+  "section_index": "CXXXIX.7",
+  "section": "CXXXIX",
+  "section_para": 7
 }

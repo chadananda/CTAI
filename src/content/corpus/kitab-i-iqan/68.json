@@ -1,10 +1,649 @@
 {
   "work": "Kitab-i-Iqan",
   "slug": "kitab-i-iqan",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 68,
   "source_text": "و بعد از او حکايت کليم اللّه بود که کَهَنَه آن زمان فرعون را خبر دادند که کوکبی در سماء  طالع شده که دالّ است بر انعقاد نطفه ای که هلاک تو و قوم تو بر دست اوست.  و همچنين عالمی پيدا شد که شب ها بنی اسرائيل را بشارت و تسلّی می فرمود و اطمينان می داد چنانچه در کتب مسطور است.  و اگر تفصيل اين امور ذکر شود اين رساله کتابی می شود.  و ديگر آنکه دوست ندارم حکايات واقعه قبل را ذکر نمايم.  و خدا شاهد حال است که اين بيان هم که می شود نيست مگر از کمال حبّ به آن جناب که شايد جمعی فقرای ارض بر شاطی غنا وارد شوند و يا گروهی از جاهلان بر بحر علم وارد گردند و يا تشنگان معرفت بر سلسبيل حکمت واصل آيند.  و إلاّ اين عبد اشتغال به اين مقالات را ذنبی عظيم می دانم و عصيانی کبير می شمرم.",
   "translation": "After Him came Moses, He Who held converse with God. The soothsayers of His time warned Pharaoh in these terms: “A star hath risen in the heaven, and lo! it foreshadoweth the conception of a Child Who holdeth your fate and the fate of your people in His hand.” In like manner, there appeared a sage who, in the darkness of the night, brought tidings of joy unto the people of Israel, imparting consolation to their souls, and assurance to their hearts. To this testify the records of the sacred books. Were the details to be mentioned, this epistle would swell into a book. Moreover, it is not Our wish to relate the stories of the days that are past. God is Our witness that what We even now mention is due solely to Our tender affection for thee, that haply the poor of the earth may attain the shores of the sea of wealth, the ignorant be led unto the ocean of divine knowledge, and they that thirst for understanding partake of the Salsabíl of divine wisdom. Otherwise, this servant regardeth the consideration of such records a grave mistake and a grievous transgression.",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "poor-earth-shores-sea-wealth",
+  "alignment": [
+    {
+      "ar": "بعد",
+      "en": "After"
+    },
+    {
+      "ar": "حکايت",
+      "en": "came"
+    },
+    {
+      "ar": "کليم اللّه",
+      "en": "Moses, He Who held converse with God"
+    },
+    {
+      "ar": "کَهَنَه",
+      "en": "soothsayers"
+    },
+    {
+      "ar": "آن زمان",
+      "en": "of His time"
+    },
+    {
+      "ar": "فرعون",
+      "en": "Pharaoh"
+    },
+    {
+      "ar": "خبر دادند",
+      "en": "warned"
+    },
+    {
+      "ar": "کوکبی",
+      "en": "A star"
+    },
+    {
+      "ar": "سماء",
+      "en": "heaven"
+    },
+    {
+      "ar": "طالع شده",
+      "en": "hath risen"
+    },
+    {
+      "ar": "دالّ",
+      "en": "foreshadoweth"
+    },
+    {
+      "ar": "انعقاد",
+      "en": "conception"
+    },
+    {
+      "ar": "نطفه",
+      "en": "Child"
+    },
+    {
+      "ar": "هلاک",
+      "en": "fate"
+    },
+    {
+      "ar": "تو",
+      "en": "your"
+    },
+    {
+      "ar": "قوم",
+      "en": "people"
+    },
+    {
+      "ar": "دست",
+      "en": "hand"
+    },
+    {
+      "ar": "همچنين",
+      "en": "In like manner"
+    },
+    {
+      "ar": "عالمی",
+      "en": "sage"
+    },
+    {
+      "ar": "پيدا شد",
+      "en": "appeared"
+    },
+    {
+      "ar": "شب ها",
+      "en": "darkness of the night"
+    },
+    {
+      "ar": "بنی اسرائيل",
+      "en": "people of Israel"
+    },
+    {
+      "ar": "بشارت",
+      "en": "tidings of joy"
+    },
+    {
+      "ar": "تسلّی",
+      "en": "consolation"
+    },
+    {
+      "ar": "اطمينان",
+      "en": "assurance"
+    },
+    {
+      "ar": "کتب",
+      "en": "sacred books"
+    },
+    {
+      "ar": "مسطور",
+      "en": "records"
+    },
+    {
+      "ar": "تفصيل",
+      "en": "details"
+    },
+    {
+      "ar": "اين امور",
+      "en": "to be mentioned"
+    },
+    {
+      "ar": "ذکر شود",
+      "en": "be mentioned"
+    },
+    {
+      "ar": "رساله",
+      "en": "epistle"
+    },
+    {
+      "ar": "کتابی",
+      "en": "book"
+    },
+    {
+      "ar": "دوست ندارم",
+      "en": "not Our wish"
+    },
+    {
+      "ar": "حکايات",
+      "en": "stories"
+    },
+    {
+      "ar": "واقعه",
+      "en": "days"
+    },
+    {
+      "ar": "قبل",
+      "en": "past"
+    },
+    {
+      "ar": "خدا",
+      "en": "God"
+    },
+    {
+      "ar": "شاهد",
+      "en": "witness"
+    },
+    {
+      "ar": "بيان",
+      "en": "mention"
+    },
+    {
+      "ar": "نيست مگر",
+      "en": "solely"
+    },
+    {
+      "ar": "کمال",
+      "en": "tender"
+    },
+    {
+      "ar": "حبّ",
+      "en": "affection"
+    },
+    {
+      "ar": "آن جناب",
+      "en": "thee"
+    },
+    {
+      "ar": "شايد",
+      "en": "haply"
+    },
+    {
+      "ar": "فقرای",
+      "en": "poor"
+    },
+    {
+      "ar": "ارض",
+      "en": "earth"
+    },
+    {
+      "ar": "شاطی",
+      "en": "shores"
+    },
+    {
+      "ar": "غنا",
+      "en": "wealth"
+    },
+    {
+      "ar": "وارد شوند",
+      "en": "attain"
+    },
+    {
+      "ar": "جاهلان",
+      "en": "ignorant"
+    },
+    {
+      "ar": "بحر علم",
+      "en": "ocean of divine knowledge"
+    },
+    {
+      "ar": "تشنگان",
+      "en": "thirst"
+    },
+    {
+      "ar": "معرفت",
+      "en": "understanding"
+    },
+    {
+      "ar": "سلسبيل",
+      "en": "Salsabíl"
+    },
+    {
+      "ar": "حکمت",
+      "en": "wisdom"
+    },
+    {
+      "ar": "واصل آيند",
+      "en": "partake"
+    },
+    {
+      "ar": "إلاّ",
+      "en": "Otherwise"
+    },
+    {
+      "ar": "عبد",
+      "en": "servant"
+    },
+    {
+      "ar": "اشتغال",
+      "en": "consideration"
+    },
+    {
+      "ar": "ذنبی عظيم",
+      "en": "grave mistake"
+    },
+    {
+      "ar": "عصيانی کبير",
+      "en": "grievous transgression"
+    }
+  ],
+  "terms": [
+    {
+      "term": "عالمی",
+      "transliteration": "ʿ-l-m",
+      "literal": "world; universe; the worlds",
+      "se_rendering": "sage",
+      "note": "Typically 'world' or 'mankind' across 141 occurrences. Rendered 'sage' here—a personified human agent, unique contextual specialization for the biblical figure guiding Israel.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 198,
+          "snippet": "world"
+        },
+        {
+          "work": "gleanings",
+          "para": 657,
+          "snippet": "all worlds"
+        },
+        {
+          "work": "gleanings",
+          "para": 182,
+          "snippet": "mankind"
+        },
+        {
+          "work": "gleanings",
+          "para": 183,
+          "snippet": "the whole world"
+        },
+        {
+          "work": "gleanings",
+          "para": 226,
+          "snippet": "all earthly defilements"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 28,
+          "snippet": "knowledge"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 42,
+          "snippet": "banner"
+        },
+        {
+          "work": "gleanings",
+          "para": 38,
+          "snippet": "understanding"
+        }
+      ]
+    },
+    {
+      "term": "امور",
+      "transliteration": "ʾ-m-r",
+      "literal": "command; cause; matter; affair",
+      "se_rendering": "details",
+      "note": "Usually 'His Cause' or 'His Revelation' (75 occ.). 'Details' here is the most mundane rendering—SE deliberately deflates theological weight to justify epistle's brevity.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "His Cause"
+        },
+        {
+          "work": "gleanings",
+          "para": 586,
+          "snippet": "His command"
+        },
+        {
+          "work": "gleanings",
+          "para": 691,
+          "snippet": "His Revelation"
+        },
+        {
+          "work": "gleanings",
+          "para": 723,
+          "snippet": "Cause"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 797,
+          "snippet": "Thy Cause"
+        },
+        {
+          "work": "gleanings",
+          "para": 8,
+          "snippet": "Revelation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 597,
+          "snippet": "service"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 167,
+          "snippet": "things"
+        }
+      ]
+    },
+    {
+      "term": "شاهد",
+      "transliteration": "sh-h-d",
+      "literal": "witnessed; observed; seen; evident; manifest",
+      "se_rendering": "witness",
+      "note": "Standard across 74 occurrences: 'witness,' 'I testify,' 'manifest.' 'Witness' here maintains core sense but as external testimony of truth, not divine self-manifestation.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 607,
+          "snippet": "manifest"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 811,
+          "snippet": "I bear witness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 6,
+          "snippet": "I testify"
+        },
+        {
+          "work": "gleanings",
+          "para": 298,
+          "snippet": "witness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 253,
+          "snippet": "martyrdom"
+        },
+        {
+          "work": "gleanings",
+          "para": 134,
+          "snippet": "God witnesseth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 230,
+          "snippet": "God testifieth"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 57,
+          "snippet": "beheld"
+        }
+      ]
+    },
+    {
+      "term": "بيان",
+      "transliteration": "b-y-n",
+      "literal": "to manifest; to make clear; clear, evident",
+      "se_rendering": "mention",
+      "note": "Usually 'the Expounder' or 'the Bayán' when substantive. 'Mention' here treats it as verbal noun—SE's most quotidian rendering for this crucial root.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 223,
+          "snippet": "the Expounder, the Most Manifest"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 3,
+          "snippet": "proofs"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 12,
+          "snippet": "clear proofs"
+        },
+        {
+          "work": "gleanings",
+          "para": 563,
+          "snippet": "Dawning-Place of the proofs"
+        },
+        {
+          "work": "gleanings",
+          "para": 292,
+          "snippet": "the Bayán"
+        },
+        {
+          "work": "gleanings",
+          "para": 636,
+          "snippet": "utterance"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 120,
+          "snippet": "evil"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 178,
+          "snippet": "evident error"
+        }
+      ]
+    },
+    {
+      "term": "معرفت",
+      "transliteration": "ʿ-r-f",
+      "literal": "to confess; to acknowledge; to recognize",
+      "se_rendering": "understanding",
+      "note": "Typically 'testifieth' or 'acknowledged' (82 occ.). 'Understanding' here emphasizes intellectual apprehension rather than witness-bearing—a rare semantic pivot toward epistemological nuance.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 601,
+          "snippet": "testifieth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 729,
+          "snippet": "hath acknowledged"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 582,
+          "snippet": "have recognized"
+        },
+        {
+          "work": "gleanings",
+          "para": 568,
+          "snippet": "acknowledged"
+        },
+        {
+          "work": "gleanings",
+          "para": 295,
+          "snippet": "made objections"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 744,
+          "snippet": "understanding"
+        },
+        {
+          "work": "gleanings",
+          "para": 87,
+          "snippet": "knowledge"
+        },
+        {
+          "work": "gleanings",
+          "para": 2,
+          "snippet": "perception"
+        }
+      ]
+    },
+    {
+      "term": "حکمت",
+      "transliteration": "h-k-m",
+      "literal": "government; rule; governance; wisdom",
+      "se_rendering": "wisdom",
+      "note": "Typically 'government' or 'rule' (69 occ.). 'Wisdom' here—a rare humanizing rendering that emphasizes contemplative knowledge over cosmic governance.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-ahd",
+          "para": 6,
+          "snippet": "rule"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "government"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 849,
+          "snippet": "signs of Thy sovereignty"
+        },
+        {
+          "work": "gleanings",
+          "para": 224,
+          "snippet": "mysteries"
+        },
+        {
+          "work": "gleanings",
+          "para": 636,
+          "snippet": "rule of the sword"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 129,
+          "snippet": "perspicuous verses"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 157,
+          "snippet": "justice"
+        },
+        {
+          "work": "gleanings",
+          "para": 139,
+          "snippet": "the face of wisdom"
+        }
+      ]
+    },
+    {
+      "term": "عبد",
+      "transliteration": "ʿ-b-d",
+      "literal": "servant; slave; worshipper",
+      "se_rendering": "servant",
+      "note": "Standard 'servant' or ''Abdu'l-Bahá' (68 occ.). 'Servant' here self-referential of Bahá'u'lláh himself—conventional usage maintaining rhetorical humility.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 279,
+          "snippet": "Thy servants"
+        },
+        {
+          "work": "gleanings",
+          "para": 686,
+          "snippet": "servants"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 27,
+          "snippet": "'Abdu'l‑Bahá"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 204,
+          "snippet": "Thy servant"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 260,
+          "snippet": "'Abdu'l-'Azíz"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 663,
+          "snippet": "servant"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 10,
+          "snippet": "this wronged servant of Thine"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 47,
+          "snippet": "this servant of Thine"
+        }
+      ]
+    },
+    {
+      "term": "عصيانی",
+      "transliteration": "ʿ-ṣ-y",
+      "literal": "disobey; transgress; rebel",
+      "se_rendering": "transgression",
+      "note": "Usually 'disobedience' or 'rebellion' (24 occ.). 'Transgression' here intensifies moral culpability—SE's gravest available rendering for this act of speech.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 169,
+          "snippet": "the most guilty among them that have transgressed"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 96,
+          "snippet": "rebellion"
+        },
+        {
+          "work": "gleanings",
+          "para": 656,
+          "snippet": "evil doings"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 58,
+          "snippet": "obeyeth him not"
+        },
+        {
+          "work": "gleanings",
+          "para": 136,
+          "snippet": "disobedience"
+        },
+        {
+          "work": "gleanings",
+          "para": 651,
+          "snippet": "sin"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 32,
+          "snippet": "unversed"
+        }
+      ]
+    }
+  ],
+  "section_index": "68",
+  "section": "68",
+  "section_para": 1
 }

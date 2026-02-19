@@ -1,10 +1,106 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 478,
   "source_text": "عَلاَّمُ الغُيُوبِ، فَاغْفِرْ لِي وَلأَحِبَّتِي، ثُمَّ ارْزُقْهُمْ خَيْرَ الدُّنْيا وَالآخِرَةِ",
   "translation": "Forgive me, then, my sins and the sins of them that love me, and supply them with the good of this world and of the next.",
   "source_lang": "ar",
-  "score": 9.8
+  "score": 9.8,
+  "page_slug": "forgive-sins-good-world-hereafter",
+  "alignment": [
+    {
+      "ar": "فَاغْفِرْ",
+      "en": "Forgive"
+    },
+    {
+      "ar": "لِي",
+      "en": "me"
+    },
+    {
+      "ar": "ارْزُقْهُمْ",
+      "en": "supply them"
+    },
+    {
+      "ar": "خَيْرَ",
+      "en": "good"
+    },
+    {
+      "ar": "وَالآخِرَةِ",
+      "en": "the next"
+    }
+  ],
+  "terms": [
+    {
+      "term": "خَيْرَ",
+      "transliteration": "kh-y-r",
+      "literal": "good; goodness; benefit; better; best",
+      "se_rendering": "good",
+      "note": "Consistently 'good' here; aligns with primary SE rendering across 5 occurrences in Jafar data, avoiding 'goodness' or 'better' variants.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 535,
+          "snippet": "better"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 25,
+          "snippet": "good"
+        },
+        {
+          "work": "gleanings",
+          "para": 666,
+          "snippet": "goodness"
+        }
+      ]
+    },
+    {
+      "term": "الدُّنْيا",
+      "transliteration": "d-n-y",
+      "literal": "this world; earthly life; temporal realm",
+      "se_rendering": "this world",
+      "note": "Rendered 'this world' — standard among SE's 15 occurrences; avoids alternatives like 'earthly things' or 'this life' present in corpus.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 248,
+          "snippet": "this life"
+        },
+        {
+          "work": "gleanings",
+          "para": 661,
+          "snippet": "world"
+        },
+        {
+          "work": "gleanings",
+          "para": 663,
+          "snippet": "this world"
+        },
+        {
+          "work": "gleanings",
+          "para": 699,
+          "snippet": "earthly things"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 38,
+          "snippet": "know"
+        },
+        {
+          "work": "gleanings",
+          "para": 715,
+          "snippet": "described"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 244,
+          "snippet": "knowest"
+        }
+      ]
+    }
+  ],
+  "section_index": "CX.7",
+  "section": "CX",
+  "section_para": 7
 }

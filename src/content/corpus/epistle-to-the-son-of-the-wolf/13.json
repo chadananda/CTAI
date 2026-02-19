@@ -1,10 +1,694 @@
 {
   "work": "Epistle to the Son of the Wolf",
   "slug": "epistle-to-the-son-of-the-wolf",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 13,
   "source_text": "يا سلطان انّی کنت کاحد من العباد و راقدا علی المهاد مرّت عليّ نسائم السّبحان و علّمنی علم ما کان ليس هذا من عندی بل من لدن عزيز عليم * و امرنی بالنّداء بين الارض و السّماء بذلک ورد عَلَیَّ ما ذرفت به دموع العارفين * ما قرأت ما عند النّاس من العلوم و ما دخلت المدارس فاسأل المدينة الّتی کنت فيها لتوقن بانّی لست من الکاذبين * هذه ورقة حرّکتها ارياح مشيّة ربّک العزيز الحميد هل لها استقرار عند هبوب ارياح عاصفات لا و مالک الاسماء و الصّفات بل تحرّکها کيف تريد * ليس للعدم وجود تلقاء القدم قد جاء امره المبرم و انطقنی بذکره بين العالمين * انّی لم اکن الّا کالميّت تلقاء امره قلّبتنی يد ارادة ربّک الرّحمن الرّحيم *",
   "translation": "\"O King! I was but a man like others, asleep upon My couch, when lo, the breezes of the All-Glorious were wafted over Me, and taught Me the knowledge of all that hath been. This thing is not from Me, but from One Who is Almighty and All-Knowing. And He bade Me lift up My voice between earth and heaven, and for this there befell Me what hath caused the tears of every man of understanding to flow. The learning current amongst men I studied not; their schools I entered not. Ask of the city wherein I dwelt, that thou mayest be well assured that I am not of them who speak falsely. This is but a leaf which the winds of the will of thy Lord, the Almighty, the All-Praised, have stirred. Can it be still when the tempestuous winds are blowing? Nay, by Him Who is the Lord of all Names and Attributes! They move it as they list. The evanescent is as nothing before Him Who is the Ever-Abiding. His all-compelling summons hath reached Me, and caused Me to speak His praise amidst all people. I was indeed as one dead when His behest was uttered. The hand of the will of thy Lord, the Compassionate, the Merciful, transformed Me.\"",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "hand-of-will-transformed-me",
+  "alignment": [
+    {
+      "ar": "سلطان",
+      "en": "King"
+    },
+    {
+      "ar": "انّی",
+      "en": "I"
+    },
+    {
+      "ar": "کنت",
+      "en": "was"
+    },
+    {
+      "ar": "کاحد",
+      "en": "like others"
+    },
+    {
+      "ar": "العباد",
+      "en": "a man"
+    },
+    {
+      "ar": "راقدا",
+      "en": "asleep"
+    },
+    {
+      "ar": "المهاد",
+      "en": "My couch"
+    },
+    {
+      "ar": "مرّت",
+      "en": "were wafted"
+    },
+    {
+      "ar": "عليّ",
+      "en": "over Me"
+    },
+    {
+      "ar": "نسائم",
+      "en": "breezes"
+    },
+    {
+      "ar": "السّبحان",
+      "en": "All-Glorious"
+    },
+    {
+      "ar": "علّمنی",
+      "en": "taught Me"
+    },
+    {
+      "ar": "علم",
+      "en": "knowledge"
+    },
+    {
+      "ar": "ما کان",
+      "en": "all that hath been"
+    },
+    {
+      "ar": "ليس",
+      "en": "is not"
+    },
+    {
+      "ar": "هذا",
+      "en": "This thing"
+    },
+    {
+      "ar": "من عندی",
+      "en": "from Me"
+    },
+    {
+      "ar": "من لدن",
+      "en": "from"
+    },
+    {
+      "ar": "عزيز",
+      "en": "Almighty"
+    },
+    {
+      "ar": "عليم",
+      "en": "All-Knowing"
+    },
+    {
+      "ar": "امرنی",
+      "en": "bade Me"
+    },
+    {
+      "ar": "بالنّداء",
+      "en": "lift up My voice"
+    },
+    {
+      "ar": "الارض",
+      "en": "earth"
+    },
+    {
+      "ar": "السّماء",
+      "en": "heaven"
+    },
+    {
+      "ar": "بذلک",
+      "en": "for this"
+    },
+    {
+      "ar": "ورد",
+      "en": "befell"
+    },
+    {
+      "ar": "ما ذرفت",
+      "en": "what hath caused"
+    },
+    {
+      "ar": "دموع",
+      "en": "tears"
+    },
+    {
+      "ar": "العارفين",
+      "en": "every man of understanding"
+    },
+    {
+      "ar": "ما قرأت",
+      "en": "studied not"
+    },
+    {
+      "ar": "ما عند النّاس",
+      "en": "current amongst men"
+    },
+    {
+      "ar": "العلوم",
+      "en": "learning"
+    },
+    {
+      "ar": "ما دخلت",
+      "en": "entered not"
+    },
+    {
+      "ar": "المدارس",
+      "en": "schools"
+    },
+    {
+      "ar": "فاسأل",
+      "en": "Ask"
+    },
+    {
+      "ar": "المدينة",
+      "en": "the city"
+    },
+    {
+      "ar": "الّتی",
+      "en": "wherein"
+    },
+    {
+      "ar": "کنت",
+      "en": "dwelt"
+    },
+    {
+      "ar": "لتوقن",
+      "en": "that thou mayest be well assured"
+    },
+    {
+      "ar": "بانّی",
+      "en": "that I"
+    },
+    {
+      "ar": "لست",
+      "en": "am not"
+    },
+    {
+      "ar": "الکاذبين",
+      "en": "them who speak falsely"
+    },
+    {
+      "ar": "ورقة",
+      "en": "leaf"
+    },
+    {
+      "ar": "حرّکتها",
+      "en": "have stirred"
+    },
+    {
+      "ar": "ارياح",
+      "en": "winds"
+    },
+    {
+      "ar": "مشيّة",
+      "en": "will"
+    },
+    {
+      "ar": "ربّک",
+      "en": "thy Lord"
+    },
+    {
+      "ar": "الحميد",
+      "en": "All-Praised"
+    },
+    {
+      "ar": "هل لها استقرار",
+      "en": "Can it be still"
+    },
+    {
+      "ar": "هبوب",
+      "en": "are blowing"
+    },
+    {
+      "ar": "ارياح عاصفات",
+      "en": "tempestuous winds"
+    },
+    {
+      "ar": "لا",
+      "en": "Nay"
+    },
+    {
+      "ar": "و مالک",
+      "en": "by Him Who is the Lord"
+    },
+    {
+      "ar": "الاسماء",
+      "en": "Names"
+    },
+    {
+      "ar": "الصّفات",
+      "en": "Attributes"
+    },
+    {
+      "ar": "تحرّکها",
+      "en": "move it"
+    },
+    {
+      "ar": "وجود",
+      "en": "nothing"
+    },
+    {
+      "ar": "القدم",
+      "en": "Ever-Abiding"
+    },
+    {
+      "ar": "جاء",
+      "en": "reached"
+    },
+    {
+      "ar": "امره",
+      "en": "summons"
+    },
+    {
+      "ar": "المبرم",
+      "en": "all-compelling"
+    },
+    {
+      "ar": "انطقنی",
+      "en": "caused Me to speak"
+    },
+    {
+      "ar": "بذکره",
+      "en": "His praise"
+    },
+    {
+      "ar": "العالمين",
+      "en": "all people"
+    },
+    {
+      "ar": "انّی لم اکن",
+      "en": "I was"
+    },
+    {
+      "ar": "کالميّت",
+      "en": "as one dead"
+    },
+    {
+      "ar": "امره",
+      "en": "His behest"
+    },
+    {
+      "ar": "قلّبتنی",
+      "en": "transformed Me"
+    },
+    {
+      "ar": "يد",
+      "en": "hand"
+    },
+    {
+      "ar": "الرّحمن",
+      "en": "Compassionate"
+    },
+    {
+      "ar": "الرّحيم",
+      "en": "Merciful"
+    }
+  ],
+  "terms": [
+    {
+      "term": "السّبحان",
+      "transliteration": "s-b-ḥ",
+      "literal": "glorified; the All-Praised; exalted",
+      "se_rendering": "the All-Glorious",
+      "note": "Typically 'the All-Praised' or 'glorified' across 23 occurrences. Here 'the All-Glorious' captures divine majesty with heightened luminosity appropriate to the revelatory moment.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 211,
+          "snippet": "the All-Praised"
+        },
+        {
+          "work": "gleanings",
+          "para": 212,
+          "snippet": "the Breath of the All-Glorious"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 42,
+          "snippet": "Gracious God"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 90,
+          "snippet": "Great God"
+        },
+        {
+          "work": "gleanings",
+          "para": 112,
+          "snippet": "Glory be to Thee"
+        },
+        {
+          "work": "gleanings",
+          "para": 1,
+          "snippet": "Lauded and glorified art Thou"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 15,
+          "snippet": "veil of vain imaginings"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 14,
+          "snippet": "veiled by evil suggestions"
+        }
+      ]
+    },
+    {
+      "term": "علّمنی",
+      "transliteration": "ʿ-l-m",
+      "literal": "world; universe; the worlds",
+      "se_rendering": "taught Me the knowledge",
+      "note": "Root ع-ل-م renders as 'knowledge' 141 times. Here 'taught Me the knowledge' emphasizes pedagogical transmission rather than abstract understanding—experiential immediacy.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 198,
+          "snippet": "world"
+        },
+        {
+          "work": "gleanings",
+          "para": 657,
+          "snippet": "all worlds"
+        },
+        {
+          "work": "gleanings",
+          "para": 182,
+          "snippet": "mankind"
+        },
+        {
+          "work": "gleanings",
+          "para": 183,
+          "snippet": "the whole world"
+        },
+        {
+          "work": "gleanings",
+          "para": 226,
+          "snippet": "all earthly defilements"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 76,
+          "snippet": "Knowledge"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 122,
+          "snippet": "commentators"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 42,
+          "snippet": "banner"
+        }
+      ]
+    },
+    {
+      "term": "امرنی",
+      "transliteration": "ʾ-m-r",
+      "literal": "command; cause; matter; affair",
+      "se_rendering": "bade Me",
+      "note": "Typically 'His Cause,' 'His command,' 'His Revelation' across 75 occurrences. Here simply 'bade Me'—a more intimate, direct rendering of divine imperative without eschatological weight.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "His Cause"
+        },
+        {
+          "work": "gleanings",
+          "para": 586,
+          "snippet": "His command"
+        },
+        {
+          "work": "gleanings",
+          "para": 691,
+          "snippet": "His Revelation"
+        },
+        {
+          "work": "gleanings",
+          "para": 723,
+          "snippet": "Cause"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 797,
+          "snippet": "Thy Cause"
+        },
+        {
+          "work": "gleanings",
+          "para": 8,
+          "snippet": "Revelation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 597,
+          "snippet": "service"
+        },
+        {
+          "work": "gleanings",
+          "para": 524,
+          "snippet": "your affairs"
+        }
+      ]
+    },
+    {
+      "term": "العارفين",
+      "transliteration": "ʿ-r-f",
+      "literal": "to confess; to acknowledge; to recognize",
+      "se_rendering": "every man of understanding",
+      "note": "Usually 'understanding' or cognates of recognition across 82 occurrences. 'Man of understanding' (singular with universal scope) elevates the knowing one to archetypal status rather than plural community.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 601,
+          "snippet": "testifieth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 729,
+          "snippet": "hath acknowledged"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 582,
+          "snippet": "have recognized"
+        },
+        {
+          "work": "gleanings",
+          "para": 568,
+          "snippet": "acknowledged"
+        },
+        {
+          "work": "gleanings",
+          "para": 295,
+          "snippet": "made objections"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 744,
+          "snippet": "understanding"
+        },
+        {
+          "work": "gleanings",
+          "para": 87,
+          "snippet": "knowledge"
+        },
+        {
+          "work": "gleanings",
+          "para": 2,
+          "snippet": "perception"
+        }
+      ]
+    },
+    {
+      "term": "ورقة",
+      "transliteration": "w-r-q",
+      "literal": "leaf, page, sheet, parchment, document",
+      "se_rendering": "leaf",
+      "note": "Commonly 'leaf' or 'leaves' across 28 occurrences. This literal 'leaf' creates extended metaphor of natural volatility contrasting with divine will—SE preserves the botanical humility.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 30,
+          "snippet": "written paper"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 2,
+          "snippet": "Nightingale"
+        },
+        {
+          "work": "gleanings",
+          "para": 494,
+          "snippet": "snow-white Scroll"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 38,
+          "snippet": "lines"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 751,
+          "snippet": "leaf"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 34,
+          "snippet": "leaves"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 34,
+          "snippet": "scrolls"
+        },
+        {
+          "work": "gleanings",
+          "para": 56,
+          "snippet": "foliage"
+        }
+      ]
+    },
+    {
+      "term": "مالک",
+      "transliteration": "m-l-k",
+      "literal": "kingdom; dominion; realm; sovereignty",
+      "se_rendering": "Lord",
+      "note": "Typically 'kingdom,' 'realm,' or 'dominion' across 70 occurrences. Here 'Lord' (via apposition with divine names)—a functional rather than spatial rendering reflecting Qur'anic ism-structure.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-ahd",
+          "para": 16,
+          "snippet": "heaven"
+        },
+        {
+          "work": "gleanings",
+          "para": 394,
+          "snippet": "realm"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 71,
+          "snippet": "kingdom"
+        },
+        {
+          "work": "gleanings",
+          "para": 313,
+          "snippet": "heavenly gem"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 69,
+          "snippet": "realms"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 28,
+          "snippet": "righteous"
+        },
+        {
+          "work": "gleanings",
+          "para": 171,
+          "snippet": "by the heavenly power"
+        },
+        {
+          "work": "gleanings",
+          "para": 59,
+          "snippet": "Lord"
+        }
+      ]
+    },
+    {
+      "term": "القدم",
+      "transliteration": "q-d-m",
+      "literal": "ancientness; antiquity; foot; to come forward",
+      "se_rendering": "Ever-Abiding",
+      "note": "Typically 'Ancient of Days,' 'Ancient Beauty,' or 'eternity' across 29 occurrences. Here 'Ever-Abiding'—phenomenological rather than temporal, emphasizing perpetual presence over primordial antiquity.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 183,
+          "snippet": "Ancient Beauty"
+        },
+        {
+          "work": "gleanings",
+          "para": 259,
+          "snippet": "Ancient of Days"
+        },
+        {
+          "work": "gleanings",
+          "para": 595,
+          "snippet": "Ancient King"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 146,
+          "snippet": "certitude"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 127,
+          "snippet": "eternity"
+        },
+        {
+          "work": "gleanings",
+          "para": 13,
+          "snippet": "celebration of His praise and glory"
+        },
+        {
+          "work": "gleanings",
+          "para": 407,
+          "snippet": "sanctify"
+        },
+        {
+          "work": "gleanings",
+          "para": 496,
+          "snippet": "sanctified"
+        }
+      ]
+    },
+    {
+      "term": "الرّحمن",
+      "transliteration": "r-ḥ-m",
+      "literal": "merciful, compassionate; pertaining to divine mercy",
+      "se_rendering": "the Compassionate",
+      "note": "Usually 'merciful,' 'Divine,' or 'spirit of mercy' across 70 occurrences. Final 'the Compassionate' maintains attribute form; paired with 'Merciful' (الرّحيم) creates balanced feminine-masculine divine mercy dyad.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 673,
+          "snippet": "Divine glory"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 57,
+          "snippet": "Divine"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 89,
+          "snippet": "celestial melody"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 114,
+          "snippet": "spirit of mercy"
+        },
+        {
+          "work": "gleanings",
+          "para": 372,
+          "snippet": "merciful"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 546,
+          "snippet": "mercy"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 50,
+          "snippet": "the Compassionate"
+        },
+        {
+          "work": "gleanings",
+          "para": 183,
+          "snippet": "the Merciful, the Compassionate"
+        }
+      ]
+    }
+  ],
+  "section_index": "13",
+  "section": "13",
+  "section_para": 1
 }

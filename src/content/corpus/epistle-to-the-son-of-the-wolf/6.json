@@ -1,10 +1,610 @@
 {
   "work": "Epistle to the Son of the Wolf",
   "slug": "epistle-to-the-son-of-the-wolf",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 6,
   "source_text": "* اشهد يا الهی و سلطانی بانّک خلقتنی لذکرک و ثنائک و نصرة امرک و انّی نصرت اعداءک الّذين نقضوا عهدک و نبذوا کتابک و کفروا بک و بآياتک آه آه من غفلتی و خجلتی و خطيئتی و جريرتی الّتی منعتنی عن الورود فی طمطام بحر احديّتک و قمقام يمّ رحمتک فآه آه ثمّ آه آه من سوء حالی و کبر عصيانی قد اظهرتنی يا الهی لاعلاء کلمتک و اظهار امرک و لکن غفلتی منعتنی و احاطت بی بحيث قمت علی محو آثارک و سفک دماء اوليائک و مطالع آياتک و مشارق وحيک و مخازن اسرارک *",
   "translation": "\"I testify, O my God, and my King, that Thou hast created me to remember Thee, to glorify Thee, and to aid Thy Cause. And yet, I have aided Thine enemies, who have broken Thy Covenant, who have cast away Thy Book, disbelieved in Thee, and repudiated Thy signs. Alas, alas, for my waywardness, and my shame, and my sinfulness, and my wrong-doing that have withheld me from the depths of the ocean of Thy unity and from fathoming the sea of Thy mercy. Wherefore, alas, alas! and again alas, alas! for my wretchedness and the grievousness of my transgressions! Thou didst call me into being, O my God, to exalt Thy Word, and to manifest Thy Cause. My heedlessness, however, hath deterred me and compassed me about, in such wise that I have arisen to blot out Thy signs, and to shed the blood of Thy loved ones, and of the dawning-places of Thy signs, and of the daysprings of Thy revelation, and of the repositories of Thy mysteries.",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "blot-out-thy-signs-blood-loved-ones",
+  "alignment": [
+    {
+      "ar": "اشهد",
+      "en": "I testify"
+    },
+    {
+      "ar": "الهی",
+      "en": "my God"
+    },
+    {
+      "ar": "سلطانی",
+      "en": "my King"
+    },
+    {
+      "ar": "بانّک",
+      "en": "that Thou"
+    },
+    {
+      "ar": "خلقتنی",
+      "en": "hast created me"
+    },
+    {
+      "ar": "لذکرک",
+      "en": "to remember Thee"
+    },
+    {
+      "ar": "ثنائک",
+      "en": "to glorify Thee"
+    },
+    {
+      "ar": "نصرة",
+      "en": "to aid"
+    },
+    {
+      "ar": "امرک",
+      "en": "Thy Cause"
+    },
+    {
+      "ar": "نصرت",
+      "en": "have aided"
+    },
+    {
+      "ar": "اعداءک",
+      "en": "Thine enemies"
+    },
+    {
+      "ar": "الّذين",
+      "en": "who"
+    },
+    {
+      "ar": "نقضوا",
+      "en": "have broken"
+    },
+    {
+      "ar": "عهدک",
+      "en": "Thy Covenant"
+    },
+    {
+      "ar": "نبذوا",
+      "en": "have cast away"
+    },
+    {
+      "ar": "کتابک",
+      "en": "Thy Book"
+    },
+    {
+      "ar": "کفروا",
+      "en": "disbelieved"
+    },
+    {
+      "ar": "بآياتک",
+      "en": "Thy signs"
+    },
+    {
+      "ar": "آه",
+      "en": "Alas"
+    },
+    {
+      "ar": "غفلتی",
+      "en": "my waywardness"
+    },
+    {
+      "ar": "خجلتی",
+      "en": "my shame"
+    },
+    {
+      "ar": "خطيئتی",
+      "en": "my sinfulness"
+    },
+    {
+      "ar": "جريرتی",
+      "en": "my wrong-doing"
+    },
+    {
+      "ar": "منعتنی",
+      "en": "have withheld me"
+    },
+    {
+      "ar": "الورود",
+      "en": "the depths"
+    },
+    {
+      "ar": "طمطام",
+      "en": "the ocean"
+    },
+    {
+      "ar": "بحر",
+      "en": "ocean"
+    },
+    {
+      "ar": "احديّتک",
+      "en": "Thy unity"
+    },
+    {
+      "ar": "قمقام",
+      "en": "fathoming"
+    },
+    {
+      "ar": "يمّ",
+      "en": "the sea"
+    },
+    {
+      "ar": "رحمتک",
+      "en": "Thy mercy"
+    },
+    {
+      "ar": "سوء",
+      "en": "wretchedness"
+    },
+    {
+      "ar": "کبر",
+      "en": "grievousness"
+    },
+    {
+      "ar": "عصيانی",
+      "en": "my transgressions"
+    },
+    {
+      "ar": "اظهرتنی",
+      "en": "didst call me into being"
+    },
+    {
+      "ar": "لاعلاء",
+      "en": "to exalt"
+    },
+    {
+      "ar": "کلمتک",
+      "en": "Thy Word"
+    },
+    {
+      "ar": "اظهار",
+      "en": "to manifest"
+    },
+    {
+      "ar": "غفلتی",
+      "en": "My heedlessness"
+    },
+    {
+      "ar": "احاطت",
+      "en": "compassed me about"
+    },
+    {
+      "ar": "قمت",
+      "en": "have arisen"
+    },
+    {
+      "ar": "محو",
+      "en": "to blot out"
+    },
+    {
+      "ar": "سفک",
+      "en": "to shed"
+    },
+    {
+      "ar": "دماء",
+      "en": "the blood"
+    },
+    {
+      "ar": "اوليائک",
+      "en": "Thy loved ones"
+    },
+    {
+      "ar": "مطالع",
+      "en": "the dawning-places"
+    },
+    {
+      "ar": "مشارق",
+      "en": "the daysprings"
+    },
+    {
+      "ar": "وحيک",
+      "en": "Thy revelation"
+    },
+    {
+      "ar": "مخازن",
+      "en": "the repositories"
+    },
+    {
+      "ar": "اسرارک",
+      "en": "Thy mysteries"
+    }
+  ],
+  "terms": [
+    {
+      "term": "اشهد",
+      "transliteration": "sh-h-d",
+      "literal": "witnessed; observed; seen; evident; manifest",
+      "se_rendering": "I testify",
+      "note": "Typically 'I bear witness' or 'I testify' across 74 occurrences. Here SE chooses 'I testify'—the more personal, direct invocation suitable to penitential address.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 607,
+          "snippet": "manifest"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 35,
+          "snippet": "evident"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 811,
+          "snippet": "I bear witness"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 836,
+          "snippet": "I testify"
+        },
+        {
+          "work": "gleanings",
+          "para": 298,
+          "snippet": "witness"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 138,
+          "snippet": "martyrdom"
+        },
+        {
+          "work": "gleanings",
+          "para": 134,
+          "snippet": "God witnesseth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 230,
+          "snippet": "God testifieth"
+        }
+      ]
+    },
+    {
+      "term": "نصرة",
+      "transliteration": "n-s-r",
+      "literal": "aid, help, succor, victory, support",
+      "se_rendering": "aid",
+      "note": "Consistently 'aid' or 'assist' across 39 occurrences. This passage employs 'aid' twice (once as verb, once as noun)—straightforward alignment with primary semantic range.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 212,
+          "snippet": "assist Thee"
+        },
+        {
+          "work": "gleanings",
+          "para": 419,
+          "snippet": "triumph of this"
+        },
+        {
+          "work": "gleanings",
+          "para": 564,
+          "snippet": "Help ye"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 490,
+          "snippet": "potency of Thy might"
+        },
+        {
+          "work": "gleanings",
+          "para": 428,
+          "snippet": "aid"
+        },
+        {
+          "work": "gleanings",
+          "para": 699,
+          "snippet": "triumph"
+        },
+        {
+          "work": "gleanings",
+          "para": 663,
+          "snippet": "service"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 17,
+          "snippet": "Nazarene"
+        }
+      ]
+    },
+    {
+      "term": "اعداءک",
+      "transliteration": "ʿ-d-w",
+      "literal": "hostility, aggression, enmity, transgression",
+      "se_rendering": "Thine enemies",
+      "note": "Standard 'Thine enemies' or 'enemies of the Covenant' across 34 occurrences. Here 'Thine enemies'—the possessive form emphasizing direct relationship to God.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 4,
+          "snippet": "hostility"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 309,
+          "snippet": "Thine enemies"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 53,
+          "snippet": "enemies of the Covenant"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 33,
+          "snippet": "Thy foes"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 188,
+          "snippet": "His enemies"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 35,
+          "snippet": "amongst mine enemies"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 52,
+          "snippet": "enemies"
+        },
+        {
+          "work": "gleanings",
+          "para": 184,
+          "snippet": "Mine enemies"
+        }
+      ]
+    },
+    {
+      "term": "غفلتی",
+      "transliteration": "gh-f-l",
+      "literal": "heedlessness; negligence; inattention",
+      "se_rendering": "my heedlessness",
+      "note": "Usually 'heedlessness' or 'heedless' across 39 occurrences. 'My heedlessness' objectifies negligence as a named enemy—personalizing the vice.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 132,
+          "snippet": "heedless"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 90,
+          "snippet": "Essence of Negligence"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 95,
+          "snippet": "couch of heedlessness"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 152,
+          "snippet": "Children of Negligence"
+        },
+        {
+          "work": "gleanings",
+          "para": 214,
+          "snippet": "who have been heedless"
+        },
+        {
+          "work": "gleanings",
+          "para": 413,
+          "snippet": "the heedless"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 273,
+          "snippet": "wayward"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 136,
+          "snippet": "heedless ones"
+        }
+      ]
+    },
+    {
+      "term": "اظهرتنی",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "call me into being",
+      "note": "Primarily 'manifest' or 'manifestation' across 96 occurrences. SE renders 'call me into being'—a rare paraphrase suggesting divine summoning rather than mere display.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 53,
+          "snippet": "Manifestation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 160,
+          "snippet": "Author of all Manifestations"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 136,
+          "snippet": "evident"
+        },
+        {
+          "work": "gleanings",
+          "para": 222,
+          "snippet": "material"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 196,
+          "snippet": "Manifestations of God"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 255,
+          "snippet": "Manifestations"
+        }
+      ]
+    },
+    {
+      "term": "قمت",
+      "transliteration": "q-w-m",
+      "literal": "rising; standing; uprising; resurrection",
+      "se_rendering": "arisen",
+      "note": "Typically 'arise', 'rise', or 'Resurrection' across 109 occurrences. Here 'arisen'—the past participle capturing the speaker's culpable uprising against God's will.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 152,
+          "snippet": "Day of Resurrection"
+        },
+        {
+          "work": "gleanings",
+          "para": 437,
+          "snippet": "arise"
+        },
+        {
+          "work": "gleanings",
+          "para": 513,
+          "snippet": "dedicateth"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 153,
+          "snippet": "Resurrection"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "peoples"
+        },
+        {
+          "work": "gleanings",
+          "para": 693,
+          "snippet": "commandments"
+        },
+        {
+          "work": "gleanings",
+          "para": 628,
+          "snippet": "My commandments"
+        },
+        {
+          "work": "gleanings",
+          "para": 518,
+          "snippet": "steadfast"
+        }
+      ]
+    },
+    {
+      "term": "مشارق",
+      "transliteration": "sh-r-q",
+      "literal": "radiance; splendor; dawn; illumination",
+      "se_rendering": "daysprings",
+      "note": "Standard 'dawning' or 'radiance' across 63 occurrences. 'Daysprings' is poetic, archaic—intensifying the luminous metaphor of revelation's manifestations.",
+      "cross_refs": [
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 28,
+          "snippet": "radiance"
+        },
+        {
+          "work": "gleanings",
+          "para": 382,
+          "snippet": "revelation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 83,
+          "snippet": "Daystar"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 41,
+          "snippet": "dawning"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 2,
+          "snippet": "shining"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 14,
+          "snippet": "Dawning Place"
+        },
+        {
+          "work": "gleanings",
+          "para": 126,
+          "snippet": "Dayspring"
+        },
+        {
+          "work": "gleanings",
+          "para": 605,
+          "snippet": "Manifestation"
+        }
+      ]
+    },
+    {
+      "term": "اسرارک",
+      "transliteration": "s-r-r",
+      "literal": "throne; couch; seat of authority",
+      "se_rendering": "repositories",
+      "note": "Usually 'throne' or 'mystery' across 40 occurrences. 'Repositories' is unique—transforming mysteries from abstract states into vessels, emphasizing custodianship.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 145,
+          "snippet": "couch"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 256,
+          "snippet": "throne"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 185,
+          "snippet": "lamp"
+        },
+        {
+          "work": "tablet-of-carmel",
+          "para": 2,
+          "snippet": "joy"
+        },
+        {
+          "work": "gleanings",
+          "para": 218,
+          "snippet": "mystery"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 831,
+          "snippet": "Secret"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 37,
+          "snippet": "in the gladness"
+        },
+        {
+          "work": "gleanings",
+          "para": 727,
+          "snippet": "gladness"
+        }
+      ]
+    }
+  ],
+  "section_index": "6",
+  "section": "6",
+  "section_para": 1
 }

@@ -1,10 +1,649 @@
 {
   "work": "Kitab-i-Iqan",
   "slug": "kitab-i-iqan",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 13,
   "source_text": "حال قدری در اين امورات تأمّل فرمائيد که چه سبب اين گونه اختلافات بوده که هر ظهور حقّی که در امکان  از افق لامکان ظاهر می شد اين گونه فساد و اغتشاش و ظلم و انقلاب در اطراف عالم ظاهر و هويدا می گشت؟ با اينکه جميع انبياء در حين ظهور خود مردم را بشارت می دادند به نبيّ بعد و علامتی از برای ظهور  بعد ذکر می فرمودند چنانچه در همه کتب مسطور است.  با وجود طلب و انتظار ناس به مظاهر قدسيّه و ذکر علامات در کتب، چرا بايد اين گونه امور در عالم رو دهد که جميع انبياء  و اصفياء را در هر عهد و عصر اين گونه ظلم و جبر و تعدّی  نمايند؟ چنانچه می فرمايد:  \"اَفَکُلَّما جَاءَکُم رَسُولٌ بِمَا لا تَهوی اَنفُسُکُم استَکبَرتُم فَفَريقاً کذّبتُم وفَريقاً تَقتُلُونَ.\"  می فرمايد هر زمان و عهد که آمد به سوی شما رسولی از جانب پروردگار به غير هوای نفس شما، تکبّر نموديد و موقن نشديد و گروهی از آن انبياء را تکذيب نموديد و گروهی را می کشتيد.",
   "translation": "And now, ponder upon these things. What could have caused such contention and conflict? Why is it that the advent of every true Manifestation of God hath been accompanied by such strife and tumult, by such tyranny and upheaval? This notwithstanding the fact that all the Prophets of God, whenever made manifest unto the peoples of the world, have invariably foretold the coming of yet another Prophet after them, and have established such signs as would herald the advent of the future Dispensation. To this the records of all sacred books bear witness. Why then is it that despite the expectation of men in their quest of the Manifestations of Holiness, and in spite of the signs recorded in the sacred books, such acts of violence, of oppression and cruelty, should have been perpetrated in every age and cycle against all the Prophets and chosen Ones of God? Even as He hath revealed: “As oft as an Apostle cometh unto you with that which your souls desire not, ye swell with pride, accusing some of being impostors and slaying others.”",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "advent-manifestation-strife-tumult",
+  "alignment": [
+    {
+      "ar": "حال",
+      "en": "And now"
+    },
+    {
+      "ar": "قدری",
+      "en": "upon"
+    },
+    {
+      "ar": "تأمّل",
+      "en": "ponder"
+    },
+    {
+      "ar": "چه",
+      "en": "What"
+    },
+    {
+      "ar": "سبب",
+      "en": "caused"
+    },
+    {
+      "ar": "اين گونه",
+      "en": "such"
+    },
+    {
+      "ar": "اختلافات",
+      "en": "contention and conflict"
+    },
+    {
+      "ar": "بوده",
+      "en": "have been"
+    },
+    {
+      "ar": "هر",
+      "en": "every"
+    },
+    {
+      "ar": "ظهور",
+      "en": "advent"
+    },
+    {
+      "ar": "حقّی",
+      "en": "true"
+    },
+    {
+      "ar": "امکان",
+      "en": "Manifestation"
+    },
+    {
+      "ar": "لامکان",
+      "en": "God"
+    },
+    {
+      "ar": "ظاهر",
+      "en": "made manifest"
+    },
+    {
+      "ar": "می شد",
+      "en": "hath been"
+    },
+    {
+      "ar": "فساد",
+      "en": "strife"
+    },
+    {
+      "ar": "اغتشاش",
+      "en": "tumult"
+    },
+    {
+      "ar": "ظلم",
+      "en": "tyranny"
+    },
+    {
+      "ar": "انقلاب",
+      "en": "upheaval"
+    },
+    {
+      "ar": "اطراف",
+      "en": "accompanied"
+    },
+    {
+      "ar": "عالم",
+      "en": "world"
+    },
+    {
+      "ar": "با اينکه",
+      "en": "notwithstanding the fact that"
+    },
+    {
+      "ar": "جميع",
+      "en": "all"
+    },
+    {
+      "ar": "انبياء",
+      "en": "Prophets"
+    },
+    {
+      "ar": "در حين",
+      "en": "whenever"
+    },
+    {
+      "ar": "خود",
+      "en": "them"
+    },
+    {
+      "ar": "مردم",
+      "en": "peoples"
+    },
+    {
+      "ar": "بشارت",
+      "en": "foretold"
+    },
+    {
+      "ar": "می دادند",
+      "en": "have invariably foretold"
+    },
+    {
+      "ar": "نبيّ",
+      "en": "Prophet"
+    },
+    {
+      "ar": "بعد",
+      "en": "after"
+    },
+    {
+      "ar": "علامتی",
+      "en": "signs"
+    },
+    {
+      "ar": "برای",
+      "en": "herald"
+    },
+    {
+      "ar": "ذکر",
+      "en": "established"
+    },
+    {
+      "ar": "می فرمودند",
+      "en": "have established"
+    },
+    {
+      "ar": "چنانچه",
+      "en": "Even as"
+    },
+    {
+      "ar": "کتب",
+      "en": "sacred books"
+    },
+    {
+      "ar": "مسطور",
+      "en": "recorded"
+    },
+    {
+      "ar": "است",
+      "en": "bear witness"
+    },
+    {
+      "ar": "با وجود",
+      "en": "despite"
+    },
+    {
+      "ar": "طلب",
+      "en": "quest"
+    },
+    {
+      "ar": "انتظار",
+      "en": "expectation"
+    },
+    {
+      "ar": "ناس",
+      "en": "men"
+    },
+    {
+      "ar": "مظاهر",
+      "en": "Manifestations"
+    },
+    {
+      "ar": "قدسيّه",
+      "en": "Holiness"
+    },
+    {
+      "ar": "چرا",
+      "en": "Why"
+    },
+    {
+      "ar": "بايد",
+      "en": "should"
+    },
+    {
+      "ar": "امور",
+      "en": "acts"
+    },
+    {
+      "ar": "رو دهد",
+      "en": "perpetrated"
+    },
+    {
+      "ar": "اصفياء",
+      "en": "chosen Ones"
+    },
+    {
+      "ar": "عهد",
+      "en": "age"
+    },
+    {
+      "ar": "عصر",
+      "en": "cycle"
+    },
+    {
+      "ar": "جبر",
+      "en": "oppression"
+    },
+    {
+      "ar": "تعدّی",
+      "en": "cruelty"
+    },
+    {
+      "ar": "جَاءَکُم",
+      "en": "cometh unto you"
+    },
+    {
+      "ar": "رَسُولٌ",
+      "en": "Apostle"
+    },
+    {
+      "ar": "بِمَا",
+      "en": "with that which"
+    },
+    {
+      "ar": "لا تَهوی",
+      "en": "desire not"
+    },
+    {
+      "ar": "اَنفُسُکُم",
+      "en": "your souls"
+    },
+    {
+      "ar": "استَکبَرتُم",
+      "en": "swell with pride"
+    },
+    {
+      "ar": "فَفَريقاً",
+      "en": "some"
+    },
+    {
+      "ar": "کذّبتُم",
+      "en": "accusing"
+    },
+    {
+      "ar": "وفَريقاً",
+      "en": "others"
+    },
+    {
+      "ar": "تَقتُلُونَ",
+      "en": "slaying"
+    },
+    {
+      "ar": "آمد",
+      "en": "cometh"
+    },
+    {
+      "ar": "جانب",
+      "en": "unto"
+    },
+    {
+      "ar": "هوای",
+      "en": "desire"
+    },
+    {
+      "ar": "نفس",
+      "en": "souls"
+    },
+    {
+      "ar": "شما",
+      "en": "you"
+    },
+    {
+      "ar": "تکبّر",
+      "en": "pride"
+    },
+    {
+      "ar": "نموديد",
+      "en": "swell"
+    },
+    {
+      "ar": "تکذيب",
+      "en": "impostors"
+    }
+  ],
+  "terms": [
+    {
+      "term": "قدری",
+      "transliteration": "q-d-r",
+      "literal": "power; might; decree; measure; worth",
+      "se_rendering": "now",
+      "note": "Root q-d-r typically renders as 'power' or 'Thy power,' but SE uses 'now' here, departing from the concordance pattern to capture the rhetorical temporal sense of قدری (a while/moment).",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 171,
+          "snippet": "a while"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 339,
+          "snippet": "Thy power"
+        },
+        {
+          "work": "gleanings",
+          "para": 138,
+          "snippet": "hath been decreed"
+        },
+        {
+          "work": "gleanings",
+          "para": 662,
+          "snippet": "hath decreed"
+        },
+        {
+          "work": "gleanings",
+          "para": 496,
+          "snippet": "forbearing towards"
+        },
+        {
+          "work": "gleanings",
+          "para": 111,
+          "snippet": "schools"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 12,
+          "snippet": "God of power"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 35,
+          "snippet": "Potent"
+        }
+      ]
+    },
+    {
+      "term": "اختلافات",
+      "transliteration": "kh-l-f",
+      "literal": "opposing; contrary; conflicting",
+      "se_rendering": "contention and conflict",
+      "note": "Root kh-l-f typically renders 'contrary' or 'adversaries,' but SE renders 'contention and conflict' here, choosing a dynamic noun phrase capturing social upheaval rather than logical opposition.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 189,
+          "snippet": "in conflict with"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 107,
+          "snippet": "contrary"
+        },
+        {
+          "work": "gleanings",
+          "para": 495,
+          "snippet": "counter to"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 17,
+          "snippet": "whoso opposeth him"
+        },
+        {
+          "work": "gleanings",
+          "para": 468,
+          "snippet": "opposed"
+        },
+        {
+          "work": "gleanings",
+          "para": 462,
+          "snippet": "thou hast violated"
+        },
+        {
+          "work": "gleanings",
+          "para": 242,
+          "snippet": "conflict"
+        },
+        {
+          "work": "gleanings",
+          "para": 103,
+          "snippet": "differences"
+        }
+      ]
+    },
+    {
+      "term": "ظهور",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "advent",
+      "note": "Consistently 'Manifestation' or 'advent' across 96 occurrences. SE applies 'advent' here to emphasize the historical recurrence of prophetic arrivals rather than abstract manifestation.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 53,
+          "snippet": "Manifestation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 160,
+          "snippet": "Author of all Manifestations"
+        },
+        {
+          "work": "gleanings",
+          "para": 222,
+          "snippet": "material"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 206,
+          "snippet": "appeared"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 255,
+          "snippet": "Manifestations"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 791,
+          "snippet": "tokens of Thy handiwork"
+        }
+      ]
+    },
+    {
+      "term": "فساد",
+      "transliteration": "f-s-d",
+      "literal": "corruption; ruin; discord; mischief; decay",
+      "se_rendering": "strife and tumult",
+      "note": "Usually 'discord' or 'mischief' (31 occ), but SE renders 'strife and tumult' here—a more dramatic escalation appropriate to the passage's rhetorical intensity about violence and turmoil.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 108,
+          "snippet": "charge of fomenting discord"
+        },
+        {
+          "work": "gleanings",
+          "para": 416,
+          "snippet": "discord"
+        },
+        {
+          "work": "gleanings",
+          "para": 179,
+          "snippet": "mischief"
+        },
+        {
+          "work": "gleanings",
+          "para": 644,
+          "snippet": "the sowers of mischief"
+        },
+        {
+          "work": "gleanings",
+          "para": 577,
+          "snippet": "of the mischief-makers"
+        },
+        {
+          "work": "gleanings",
+          "para": 454,
+          "snippet": "disorderly ones"
+        },
+        {
+          "work": "gleanings",
+          "para": 468,
+          "snippet": "of those that wrought disorders"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "utter slander"
+        }
+      ]
+    },
+    {
+      "term": "ظلم",
+      "transliteration": "z-l-m",
+      "literal": "wrongedness, oppression, meekness; state of being wronged or oppressed",
+      "se_rendering": "tyranny",
+      "note": "Typically 'wronged' or 'afflicted' across 128 occurrences, but SE renders 'tyranny' here, shifting from the passive state of being wronged to active oppression, matching the passage's focus on perpetrators of violence.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 498,
+          "snippet": "afflicted with countless tribulations"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 49,
+          "snippet": "meekness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 36,
+          "snippet": "Wronged One"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 253,
+          "snippet": "wronged"
+        },
+        {
+          "work": "gleanings",
+          "para": 221,
+          "snippet": "oppression"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 9,
+          "snippet": "Darkness"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 33,
+          "snippet": "tyranny"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 573,
+          "snippet": "oppressed"
+        }
+      ]
+    },
+    {
+      "term": "انقلاب",
+      "transliteration": "q-l-b",
+      "literal": "heart; to turn; to overturn",
+      "se_rendering": "upheaval",
+      "note": "Root q-l-b usually renders 'hearts' or 'cataclysms,' but SE renders 'upheaval' here—a political/social term capturing revolution rather than cosmic or spiritual turning.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 187,
+          "snippet": "hearts"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 432,
+          "snippet": "their hearts"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 652,
+          "snippet": "heart"
+        },
+        {
+          "work": "gleanings",
+          "para": 228,
+          "snippet": "agitation"
+        },
+        {
+          "work": "gleanings",
+          "para": 350,
+          "snippet": "cataclysms"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 777,
+          "snippet": "commotion"
+        },
+        {
+          "work": "gleanings",
+          "para": 439,
+          "snippet": "discord"
+        },
+        {
+          "work": "gleanings",
+          "para": 3,
+          "snippet": "with hearts"
+        }
+      ]
+    },
+    {
+      "term": "انفسکم",
+      "transliteration": "n-f-s",
+      "literal": "self; soul; psyche",
+      "se_rendering": "your souls",
+      "note": "",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 114,
+          "snippet": "over Mine own Self"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 789,
+          "snippet": "myself to be only nothing"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 70,
+          "snippet": "This is the station in which I have no power"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 71,
+          "snippet": "his own entity in the kingdom of his self"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 572,
+          "snippet": "Thy Self at all times"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 109,
+          "snippet": "those"
+        },
+        {
+          "work": "gleanings",
+          "para": 205,
+          "snippet": "souls"
+        },
+        {
+          "work": "gleanings",
+          "para": 297,
+          "snippet": "their powerlessness"
+        }
+      ]
+    }
+  ],
+  "section_index": "13",
+  "section": "13",
+  "section_para": 1
 }

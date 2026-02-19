@@ -1,10 +1,393 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 119,
   "source_text": "سُبْحانَكَ اللَّهُمَّ يا إِلهِي أَسْئَلُكَ بِاسْمِكَ الَّذِيْ بِهِ خُلِقَتِ الإِصْباحُ وَأُرْسِلَتِ الأَرْياحُ وَمُوِّجَتِ البِحارُ وَزُيِّنَتِ الأَشْجارُ بِالأَثْمارِ وَالأَرْضُ بِالأَنْهارِ بِأَنْ تَنْصُرَ أَحِبَّائَكَ بِجُنُودِ الغَيْبِ وَالشَّهادَةِ، ثُمَّ أَغْلِبْهُمْ عَلَى الَّذِينَ بَغَوْا فِيْ أَرْضِكَ وَهَتَكُوا حُرْمَتَكَ وَكَفَرُوا بِآياتِكَ وَنَقَضُوا مِيثاقَكَ وَنَبَذُوا أَحْكامَكَ وَقامُوا بِالمُحارَبَةِ إِلى أَنْ جَعَلُوا أُسارَى أَهْلَكَ وَحَبَسُوا مَظْهَرَ ذاتِكَ وَمَطْلَعَ كيْنُونَتِكَ فِيْ أَخْرَبِ البِلادِ، أَيْ رَبِّ أَنْتَ القَوِيُّ",
   "translation": "I give praise to Thee, O Lord my God! I entreat Thee by Thy Name through which Thou didst cause the dawn to appear, and the winds to blow, and the seas to surge, and the trees to bring forth their fruits, and the earth to be beautified with its rivers, that Thou wilt aid all them that are dear to Thee with both Thy visible and invisible hosts. Render them, moreover, victorious over all those who have so rebelled in Thy land, and dishonored Thy name, and disbelieved in Thy signs, and broken Thy Covenant, and cast behind their backs Thy laws, and have to such an extent risen up against Thee, that they carried into captivity Thy kindred, and flung the Manifestation of Thy Self into prison, and immured Him Who is the Dayspring of Thine Essence in the most desolate of cities.",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "manifestation-dayspring-prison",
+  "alignment": [
+    {
+      "ar": "سُبْحانَكَ",
+      "en": "I give praise to Thee"
+    },
+    {
+      "ar": "إِلهِي",
+      "en": "my God"
+    },
+    {
+      "ar": "أَسْئَلُكَ",
+      "en": "I entreat Thee"
+    },
+    {
+      "ar": "بِاسْمِكَ",
+      "en": "by Thy Name"
+    },
+    {
+      "ar": "خُلِقَتِ",
+      "en": "didst cause"
+    },
+    {
+      "ar": "الإِصْباحُ",
+      "en": "the dawn to appear"
+    },
+    {
+      "ar": "أُرْسِلَتِ",
+      "en": "to blow"
+    },
+    {
+      "ar": "الأَرْياحُ",
+      "en": "the winds"
+    },
+    {
+      "ar": "البِحارُ",
+      "en": "the seas"
+    },
+    {
+      "ar": "الأَشْجارُ",
+      "en": "the trees"
+    },
+    {
+      "ar": "بِالأَثْمارِ",
+      "en": "their fruits"
+    },
+    {
+      "ar": "الأَرْضُ",
+      "en": "the earth"
+    },
+    {
+      "ar": "بِالأَنْهارِ",
+      "en": "with its rivers"
+    },
+    {
+      "ar": "تَنْصُرَ",
+      "en": "wilt aid"
+    },
+    {
+      "ar": "بِجُنُودِ",
+      "en": "with"
+    },
+    {
+      "ar": "الغَيْبِ",
+      "en": "invisible hosts"
+    },
+    {
+      "ar": "أَغْلِبْهُمْ",
+      "en": "Render them"
+    },
+    {
+      "ar": "عَلَى",
+      "en": "victorious over"
+    },
+    {
+      "ar": "بَغَوْا",
+      "en": "rebelled"
+    },
+    {
+      "ar": "أَرْضِكَ",
+      "en": "Thy land"
+    },
+    {
+      "ar": "هَتَكُوا",
+      "en": "dishonored"
+    },
+    {
+      "ar": "حُرْمَتَكَ",
+      "en": "Thy name"
+    },
+    {
+      "ar": "كَفَرُوا",
+      "en": "disbelieved"
+    },
+    {
+      "ar": "بِآياتِكَ",
+      "en": "in Thy signs"
+    },
+    {
+      "ar": "نَقَضُوا",
+      "en": "broken"
+    },
+    {
+      "ar": "مِيثاقَكَ",
+      "en": "Thy Covenant"
+    },
+    {
+      "ar": "نَبَذُوا",
+      "en": "cast behind their backs"
+    },
+    {
+      "ar": "أَحْكامَكَ",
+      "en": "Thy laws"
+    },
+    {
+      "ar": "قامُوا",
+      "en": "risen up"
+    },
+    {
+      "ar": "بِالمُحارَبَةِ",
+      "en": "against Thee"
+    },
+    {
+      "ar": "جَعَلُوا",
+      "en": "carried"
+    },
+    {
+      "ar": "أُسارَى",
+      "en": "into captivity"
+    },
+    {
+      "ar": "أَهْلَكَ",
+      "en": "Thy kindred"
+    },
+    {
+      "ar": "حَبَسُوا",
+      "en": "flung"
+    },
+    {
+      "ar": "مَظْهَرَ",
+      "en": "the Manifestation"
+    },
+    {
+      "ar": "ذاتِكَ",
+      "en": "of Thy Self"
+    },
+    {
+      "ar": "مَطْلَعَ",
+      "en": "the Dayspring"
+    },
+    {
+      "ar": "كيْنُونَتِكَ",
+      "en": "of Thine Essence"
+    },
+    {
+      "ar": "أَخْرَبِ",
+      "en": "the most desolate"
+    },
+    {
+      "ar": "البِلادِ",
+      "en": "of cities"
+    }
+  ],
+  "terms": [
+    {
+      "term": "أَحِبَّائَكَ",
+      "transliteration": "ḥ-b-b",
+      "literal": "love; affection",
+      "se_rendering": "them that are dear to Thee",
+      "note": "Standard rendering 'loved ones' across 92 occurrences. SE here uses 'them that are dear to Thee'—a more elaborate circumlocution emphasizing relational intimacy rather than simple affection.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 3,
+          "snippet": "beloved of the Lord"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 53,
+          "snippet": "loved ones of the Lord"
+        },
+        {
+          "work": "gleanings",
+          "para": 341,
+          "snippet": "loved ones of God"
+        },
+        {
+          "work": "gleanings",
+          "para": 689,
+          "snippet": "beloved of the one true God"
+        },
+        {
+          "work": "gleanings",
+          "para": 640,
+          "snippet": "loved ones"
+        },
+        {
+          "work": "gleanings",
+          "para": 690,
+          "snippet": "beloved of God"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 39,
+          "snippet": "His loved ones"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 10,
+          "snippet": "love for Thee"
+        }
+      ]
+    },
+    {
+      "term": "حُرْمَتَكَ",
+      "transliteration": "h-r-m",
+      "literal": "sanctity, inviolability, dignity, honor, respect",
+      "se_rendering": "Thy name",
+      "note": "Root typically yields 'sanctity' or 'thy right' across 25 occurrences. SE renders here as 'Thy name'—a compression that reinterprets inviolability as name/honor, sacrificing semantic precision for rhetorical flow.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 216,
+          "snippet": "thy sanctity"
+        },
+        {
+          "work": "gleanings",
+          "para": 215,
+          "snippet": "thy right"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 76,
+          "snippet": "debarred"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 23,
+          "snippet": "depriveth himself"
+        },
+        {
+          "work": "gleanings",
+          "para": 507,
+          "snippet": "violated our honor"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 93,
+          "snippet": "withhold not from the poor"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 157,
+          "snippet": "those deprived"
+        },
+        {
+          "work": "gleanings",
+          "para": 412,
+          "snippet": "deprived"
+        }
+      ]
+    },
+    {
+      "term": "مِيثاقَكَ",
+      "transliteration": "w-th-q",
+      "literal": "covenant; testament; bond",
+      "se_rendering": "Thy Covenant",
+      "note": "Standard 'Covenant' across 14 occurrences. No variation; central theological term denoting the binding agreement between God and humanity that enemies have violated.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "Covenant"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 54,
+          "snippet": "Testament"
+        }
+      ]
+    },
+    {
+      "term": "أَحْكامَكَ",
+      "transliteration": "h-k-m",
+      "literal": "government; rule; governance; wisdom",
+      "se_rendering": "Thy laws",
+      "note": "Root usually 'rule,' 'government,' or 'laws' across 69 occurrences. Here rendered as 'Thy laws,' selecting the legal-normative sense appropriate to the covenant-breach context.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-ahd",
+          "para": 6,
+          "snippet": "rule"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "government"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 160,
+          "snippet": "meaning of return"
+        },
+        {
+          "work": "gleanings",
+          "para": 224,
+          "snippet": "mysteries"
+        },
+        {
+          "work": "gleanings",
+          "para": 636,
+          "snippet": "rule of the sword"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 182,
+          "snippet": "mystery of the former verse"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 129,
+          "snippet": "perspicuous verses"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 46,
+          "snippet": "conclusive"
+        }
+      ]
+    },
+    {
+      "term": "مَظْهَرَ",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "Manifestation",
+      "note": "Typically 'manifestation' or 'Manifestation' across 96 occurrences. Here rendered as 'Manifestation' to denote the divine figure imprisoned, consistent with core usage patterns.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 53,
+          "snippet": "Manifestation"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 136,
+          "snippet": "evident"
+        },
+        {
+          "work": "gleanings",
+          "para": 222,
+          "snippet": "material"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 206,
+          "snippet": "appeared"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 196,
+          "snippet": "Manifestations of God"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 32,
+          "snippet": "overwhelm the soul"
+        }
+      ]
+    }
+  ],
+  "section_index": "XXXV.1",
+  "section": "XXXV",
+  "section_para": 1
 }

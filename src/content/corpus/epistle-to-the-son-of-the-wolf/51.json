@@ -1,10 +1,538 @@
 {
   "work": "Epistle to the Son of the Wolf",
   "slug": "epistle-to-the-son-of-the-wolf",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 51,
   "source_text": "کلمه اولی که در ورق اوّل فردوس از قلم ابهی مذکور و مسطور اين است * براستی ميگويم حفظ مبين و حصن متين از برای عموم اهل عالم خشية اللّه بوده اوست سبب اکبر از برای حفظ بشر و علّت کبری از برای صيانت وری * بلی در وجود ايتی موجود و ان انسانرا از انچه شايسته و لايق نيست منع مينمايد و حراست ميفرمايد و نام انرا حيا گذارده‌اند و لکن اين فقره محدود است بمعدودی کلّ دارای اين مقام نبوده و نيستند * بايد سلاطين ايّام و علمای انام به دين تمسّک نمايند چه که اوست علّت ظهور خشية اللّه فيما سواه *",
   "translation": "The first word which the Abhá Pen hath revealed and inscribed on the first leaf of Paradise is this: \"Verily I say: The fear of God hath ever been a sure defence and a safe stronghold for all the peoples of the world. It is the chief cause of the protection of mankind, and the supreme instrument for its preservation. Indeed, there existeth in man a faculty which deterreth him from, and guardeth him against, whatever is unworthy and unseemly, and which is known as his sense of shame. This, however, is confined to but a few; all have not possessed, and do not possess, it. It is incumbent upon the kings and the spiritual leaders of the world to lay fast hold on religion, inasmuch as through it the fear of God is instilled in all else but Him.\"",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "fear-of-god-sure-defence",
+  "alignment": [
+    {
+      "ar": "کلمه",
+      "en": "word"
+    },
+    {
+      "ar": "اولی",
+      "en": "first"
+    },
+    {
+      "ar": "ورق",
+      "en": "leaf"
+    },
+    {
+      "ar": "فردوس",
+      "en": "Paradise"
+    },
+    {
+      "ar": "قلم",
+      "en": "Pen"
+    },
+    {
+      "ar": "ابهی",
+      "en": "Abhá"
+    },
+    {
+      "ar": "مذکور",
+      "en": "revealed"
+    },
+    {
+      "ar": "مسطور",
+      "en": "inscribed"
+    },
+    {
+      "ar": "است",
+      "en": "is"
+    },
+    {
+      "ar": "براستی",
+      "en": "Verily"
+    },
+    {
+      "ar": "ميگويم",
+      "en": "I say"
+    },
+    {
+      "ar": "حفظ",
+      "en": "protection"
+    },
+    {
+      "ar": "مبين",
+      "en": "sure"
+    },
+    {
+      "ar": "حصن",
+      "en": "stronghold"
+    },
+    {
+      "ar": "متين",
+      "en": "safe"
+    },
+    {
+      "ar": "عموم",
+      "en": "all"
+    },
+    {
+      "ar": "اهل",
+      "en": "peoples"
+    },
+    {
+      "ar": "عالم",
+      "en": "world"
+    },
+    {
+      "ar": "خشية اللّه",
+      "en": "fear of God"
+    },
+    {
+      "ar": "بوده",
+      "en": "hath ever been"
+    },
+    {
+      "ar": "سبب",
+      "en": "cause"
+    },
+    {
+      "ar": "اکبر",
+      "en": "chief"
+    },
+    {
+      "ar": "بشر",
+      "en": "mankind"
+    },
+    {
+      "ar": "علّت",
+      "en": "instrument"
+    },
+    {
+      "ar": "کبری",
+      "en": "supreme"
+    },
+    {
+      "ar": "صيانت",
+      "en": "preservation"
+    },
+    {
+      "ar": "وری",
+      "en": "its"
+    },
+    {
+      "ar": "بلی",
+      "en": "Indeed"
+    },
+    {
+      "ar": "وجود",
+      "en": "existeth"
+    },
+    {
+      "ar": "ايتی",
+      "en": "faculty"
+    },
+    {
+      "ar": "موجود",
+      "en": "there"
+    },
+    {
+      "ar": "انسان",
+      "en": "man"
+    },
+    {
+      "ar": "انچه",
+      "en": "whatever"
+    },
+    {
+      "ar": "شايسته",
+      "en": "unworthy"
+    },
+    {
+      "ar": "لايق",
+      "en": "unseemly"
+    },
+    {
+      "ar": "منع",
+      "en": "deterreth"
+    },
+    {
+      "ar": "مينمايد",
+      "en": "him from"
+    },
+    {
+      "ar": "حراست",
+      "en": "guardeth"
+    },
+    {
+      "ar": "ميفرمايد",
+      "en": "him against"
+    },
+    {
+      "ar": "نام",
+      "en": "known"
+    },
+    {
+      "ar": "حيا",
+      "en": "sense of shame"
+    },
+    {
+      "ar": "و لکن",
+      "en": "however"
+    },
+    {
+      "ar": "فقره",
+      "en": "This"
+    },
+    {
+      "ar": "محدود",
+      "en": "confined"
+    },
+    {
+      "ar": "معدودی",
+      "en": "but a few"
+    },
+    {
+      "ar": "دارای",
+      "en": "possessed"
+    },
+    {
+      "ar": "مقام",
+      "en": "it"
+    },
+    {
+      "ar": "نبوده",
+      "en": "have not"
+    },
+    {
+      "ar": "نيستند",
+      "en": "do not possess"
+    },
+    {
+      "ar": "بايد",
+      "en": "It is incumbent"
+    },
+    {
+      "ar": "سلاطين",
+      "en": "kings"
+    },
+    {
+      "ar": "ايّام",
+      "en": "the"
+    },
+    {
+      "ar": "علمای",
+      "en": "spiritual leaders"
+    },
+    {
+      "ar": "دين",
+      "en": "religion"
+    },
+    {
+      "ar": "تمسّک",
+      "en": "lay fast hold"
+    },
+    {
+      "ar": "نمايند",
+      "en": "upon"
+    },
+    {
+      "ar": "اوست",
+      "en": "through it"
+    },
+    {
+      "ar": "ظهور",
+      "en": "instilled"
+    },
+    {
+      "ar": "فيما سواه",
+      "en": "all else but Him"
+    }
+  ],
+  "terms": [
+    {
+      "term": "حفظ",
+      "transliteration": "h-f-z",
+      "literal": "guardian; preserver; keeper",
+      "se_rendering": "defence and protection",
+      "note": "Typically 'protection,' 'Guardian,' or 'shield' across 45 occurrences. Here paired with 'defence' to open the passage, establishing dual protective concepts via hendiadys rather than single term.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 3,
+          "snippet": "protection"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 44,
+          "snippet": "shield"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 55,
+          "snippet": "guard"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 22,
+          "snippet": "Guardian"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 193,
+          "snippet": "Keep"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 102,
+          "snippet": "Preserve"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 625,
+          "snippet": "the Preserver"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 30,
+          "snippet": "been preserved"
+        }
+      ]
+    },
+    {
+      "term": "حصن",
+      "transliteration": "h-s-n",
+      "literal": "fortress, stronghold, fortified place",
+      "se_rendering": "stronghold",
+      "note": "Usually 'stronghold,' 'fortress,' or 'impregnable' across 18 occurrences. Rendered as 'stronghold' here in complementary parallelism with حفظ, maintaining architectural metaphor of fortification.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 183,
+          "snippet": "Stronghold"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 573,
+          "snippet": "fortress-town"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 12,
+          "snippet": "impregnable"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 793,
+          "snippet": "stronghold of Thy protection"
+        },
+        {
+          "work": "gleanings",
+          "para": 323,
+          "snippet": "reckoning"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 92,
+          "snippet": "chaste"
+        }
+      ]
+    },
+    {
+      "term": "وجود",
+      "transliteration": "w-j-d",
+      "literal": "to find; to discover; to obtain",
+      "se_rendering": "man",
+      "note": "Typically 'being,' 'found,' or 'adorned' across 67 occurrences. Here 'man' or 'a faculty which existeth in man,' rendering the abstract philosophical term into concrete human capacity—unique anthropological focus.",
+      "cross_refs": [
+        {
+          "work": "the-hidden-words",
+          "para": 91,
+          "snippet": "adorned"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 215,
+          "snippet": "mentioned"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 105,
+          "snippet": "found"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 69,
+          "snippet": "aware"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 783,
+          "snippet": "point of creation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 832,
+          "snippet": "being"
+        },
+        {
+          "work": "gleanings",
+          "para": 436,
+          "snippet": "The Great Being"
+        },
+        {
+          "work": "gleanings",
+          "para": 4,
+          "snippet": "created things"
+        }
+      ]
+    },
+    {
+      "term": "سلاطین",
+      "transliteration": "s-l-ṭ",
+      "literal": "dominion; authority; power; sovereignty; control",
+      "se_rendering": "kings",
+      "note": "Typically 'sovereignty,' 'dominion,' or 'Lord' across 43 occurrences. Here 'kings,' the concrete human plural agent—SE retains political meaning rather than abstracting to divine sovereignty or authority principle.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 369,
+          "snippet": "sovereignty"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 151,
+          "snippet": "dominion"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 1,
+          "snippet": "Thy sovereignty"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 184,
+          "snippet": "by Thy sovereignty"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 416,
+          "snippet": "Lord"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 242,
+          "snippet": "king"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 1,
+          "snippet": "the King"
+        },
+        {
+          "work": "gleanings",
+          "para": 472,
+          "snippet": "King (Sulṭán 'Abdu'l-'Azíz)"
+        }
+      ]
+    },
+    {
+      "term": "دین",
+      "transliteration": "d-y-n",
+      "literal": "religion; faith; creed",
+      "se_rendering": "religion",
+      "note": "Typically 'Faith,' 'His Cause,' 'Religion,' or 'Revelation' across 45 occurrences. Here simply 'religion,' emphasizing communal institutional practice over mystical unveiling or divine agency.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "His Cause"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 3,
+          "snippet": "Faith"
+        },
+        {
+          "work": "gleanings",
+          "para": 436,
+          "snippet": "Religion"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 26,
+          "snippet": "Thy Faith"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 221,
+          "snippet": "Revelation"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 5,
+          "snippet": "Faith of God"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 143,
+          "snippet": "and the like"
+        },
+        {
+          "work": "gleanings",
+          "para": 14,
+          "snippet": "without"
+        }
+      ]
+    },
+    {
+      "term": "ظهور",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "instilled",
+      "note": "Typically 'Manifestation,' 'manifestation,' or 'revealed' across 96 occurrences. Here 'instilled,' a psychological verb—unique rendering emphasizing internalization of fear rather than external theophanic display.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 53,
+          "snippet": "Manifestation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 160,
+          "snippet": "Author of all Manifestations"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 136,
+          "snippet": "evident"
+        },
+        {
+          "work": "gleanings",
+          "para": 222,
+          "snippet": "material"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 196,
+          "snippet": "Manifestations of God"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 255,
+          "snippet": "Manifestations"
+        }
+      ]
+    }
+  ],
+  "section_index": "51",
+  "section": "51",
+  "section_para": 1
 }

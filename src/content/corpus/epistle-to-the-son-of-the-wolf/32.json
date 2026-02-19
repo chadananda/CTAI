@@ -1,10 +1,612 @@
 {
   "work": "Epistle to the Son of the Wolf",
   "slug": "epistle-to-the-son-of-the-wolf",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 32,
   "source_text": "يا شيخ امروز روز علوم و فنون ظاهره نبوده و نيست چه که ملاحظه شد نفسی که بيک کلمه از ان علوم اگاه نه بر کرسيّ عقيان در صدر مجلس عرفان مستوی و صاحب علوم و دارای فنون محروم * مقصود از اين علوم علومی است که از لفظ ابتدا شود و بلفظ منتهی گردد و لکن علوميکه اثر و ثمر از ان ظاهر و سبب راحت و اسايش عباد است عند اللّه مقبول بوده و هست * لو تسمع ندائی تدع ما عندک و تتوجّه الی مقام ماج فيه بحر الحکمة و البيان و هاج عرف عناية ربّک الرّحمن *",
   "translation": "This Day, O Shaykh, hath never been, nor is it now, the Day whereon man-made arts and sciences can be regarded as a true standard for men, since it hath been recognized that He Who was wholly unversed in any of them hath ascended the throne of purest gold, and occupied the seat of honor in the council of knowledge, whilst the acknowledged exponent and repository of these arts and sciences remained utterly deprived. By \"arts and sciences\" is meant those which begin with words and end with words. Such arts and sciences, however, as are productive of good results, and bring forth their fruit, and are conducive to the well-being and tranquility of men have been, and will remain, acceptable before God. Wert thou to give ear to My voice, thou wouldst cast away all thy possessions, and wouldst set thy face towards the Spot wherein the ocean of wisdom and of utterance hath surged, and the sweet savors of the loving-kindness of thy Lord, the Compassionate, have wafted.",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "throne-purest-gold-knowledge",
+  "alignment": [
+    {
+      "ar": "يا",
+      "en": "O"
+    },
+    {
+      "ar": "شيخ",
+      "en": "Shaykh"
+    },
+    {
+      "ar": "امروز",
+      "en": "This Day"
+    },
+    {
+      "ar": "روز",
+      "en": "Day"
+    },
+    {
+      "ar": "علوم",
+      "en": "arts and sciences"
+    },
+    {
+      "ar": "فنون",
+      "en": "sciences"
+    },
+    {
+      "ar": "ظاهره",
+      "en": "man-made"
+    },
+    {
+      "ar": "نبوده",
+      "en": "never been"
+    },
+    {
+      "ar": "نيست",
+      "en": "nor is it"
+    },
+    {
+      "ar": "ملاحظه شد",
+      "en": "it hath been recognized"
+    },
+    {
+      "ar": "نفسی",
+      "en": "He"
+    },
+    {
+      "ar": "بيک کلمه",
+      "en": "wholly"
+    },
+    {
+      "ar": "ان",
+      "en": "them"
+    },
+    {
+      "ar": "علوم",
+      "en": "any of them"
+    },
+    {
+      "ar": "اگاه",
+      "en": "unversed"
+    },
+    {
+      "ar": "کرسيّ",
+      "en": "throne"
+    },
+    {
+      "ar": "عقيان",
+      "en": "purest gold"
+    },
+    {
+      "ar": "صدر",
+      "en": "seat"
+    },
+    {
+      "ar": "مجلس",
+      "en": "council"
+    },
+    {
+      "ar": "عرفان",
+      "en": "knowledge"
+    },
+    {
+      "ar": "مستوی",
+      "en": "occupied"
+    },
+    {
+      "ar": "صاحب علوم",
+      "en": "exponent"
+    },
+    {
+      "ar": "دارای فنون",
+      "en": "repository"
+    },
+    {
+      "ar": "محروم",
+      "en": "deprived"
+    },
+    {
+      "ar": "مقصود",
+      "en": "meant"
+    },
+    {
+      "ar": "علومی",
+      "en": "those"
+    },
+    {
+      "ar": "لفظ",
+      "en": "words"
+    },
+    {
+      "ar": "ابتدا",
+      "en": "begin"
+    },
+    {
+      "ar": "بلفظ",
+      "en": "with words"
+    },
+    {
+      "ar": "منتهی",
+      "en": "end"
+    },
+    {
+      "ar": "لکن",
+      "en": "however"
+    },
+    {
+      "ar": "علوميکه",
+      "en": "Such arts and sciences"
+    },
+    {
+      "ar": "اثر",
+      "en": "results"
+    },
+    {
+      "ar": "ثمر",
+      "en": "fruit"
+    },
+    {
+      "ar": "ظاهر",
+      "en": "productive"
+    },
+    {
+      "ar": "سبب",
+      "en": "conducive"
+    },
+    {
+      "ar": "راحت",
+      "en": "well-being"
+    },
+    {
+      "ar": "اسايش",
+      "en": "tranquility"
+    },
+    {
+      "ar": "عباد",
+      "en": "men"
+    },
+    {
+      "ar": "عند اللّه",
+      "en": "before God"
+    },
+    {
+      "ar": "مقبول",
+      "en": "acceptable"
+    },
+    {
+      "ar": "بوده",
+      "en": "have been"
+    },
+    {
+      "ar": "هست",
+      "en": "will remain"
+    },
+    {
+      "ar": "تسمع",
+      "en": "give ear"
+    },
+    {
+      "ar": "ندائی",
+      "en": "My voice"
+    },
+    {
+      "ar": "تدع",
+      "en": "cast away"
+    },
+    {
+      "ar": "ما عندک",
+      "en": "thy possessions"
+    },
+    {
+      "ar": "تتوجّه",
+      "en": "set thy face"
+    },
+    {
+      "ar": "مقام",
+      "en": "Spot"
+    },
+    {
+      "ar": "ماج",
+      "en": "surged"
+    },
+    {
+      "ar": "بحر",
+      "en": "ocean"
+    },
+    {
+      "ar": "الحکمة",
+      "en": "wisdom"
+    },
+    {
+      "ar": "البيان",
+      "en": "utterance"
+    },
+    {
+      "ar": "هاج",
+      "en": "wafted"
+    },
+    {
+      "ar": "عرف",
+      "en": "sweet savors"
+    },
+    {
+      "ar": "عناية",
+      "en": "loving-kindness"
+    },
+    {
+      "ar": "ربّک",
+      "en": "thy Lord"
+    },
+    {
+      "ar": "الرّحمن",
+      "en": "Compassionate"
+    }
+  ],
+  "terms": [
+    {
+      "term": "علوم",
+      "transliteration": "ʿ-l-m",
+      "literal": "world; universe; the worlds",
+      "se_rendering": "arts and sciences",
+      "note": "Root ʿ-l-m typically renders as 'knowledge' or 'world' across 141 occurrences. Here rendered 'arts and sciences' twice — a specialized epistemic distinction tailored to the passage's critique of man-made learning.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 198,
+          "snippet": "world"
+        },
+        {
+          "work": "gleanings",
+          "para": 657,
+          "snippet": "all worlds"
+        },
+        {
+          "work": "gleanings",
+          "para": 182,
+          "snippet": "mankind"
+        },
+        {
+          "work": "gleanings",
+          "para": 183,
+          "snippet": "the whole world"
+        },
+        {
+          "work": "gleanings",
+          "para": 226,
+          "snippet": "all earthly defilements"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 76,
+          "snippet": "Knowledge"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 122,
+          "snippet": "commentators"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 42,
+          "snippet": "banner"
+        }
+      ]
+    },
+    {
+      "term": "ظاهره",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "regarded",
+      "note": "Ordinarily 'Manifestation' or 'manifestation' (96 occ). Here 'regarded' — SE opts for a verb form emphasizing subjective perception rather than theological referent, softening the claim's absoluteness.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 53,
+          "snippet": "Manifestation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 160,
+          "snippet": "Author of all Manifestations"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 136,
+          "snippet": "evident"
+        },
+        {
+          "work": "gleanings",
+          "para": 222,
+          "snippet": "material"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 196,
+          "snippet": "Manifestations of God"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 255,
+          "snippet": "Manifestations"
+        }
+      ]
+    },
+    {
+      "term": "عقيان",
+      "transliteration": "ʿ-ṣ-y",
+      "literal": "disobey; transgress; rebel",
+      "se_rendering": "purest gold",
+      "note": "Root ʿ-ṣ-y means 'disobey/transgress' (24 occ). Here 'purest gold' — a radical departure; possibly a scribal variant or SE's emendation, introducing material/luminous imagery absent from root meaning.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 169,
+          "snippet": "the most guilty among them that have transgressed"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 96,
+          "snippet": "rebellion"
+        },
+        {
+          "work": "gleanings",
+          "para": 656,
+          "snippet": "evil doings"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 187,
+          "snippet": "iniquity"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 58,
+          "snippet": "obeyeth him not"
+        },
+        {
+          "work": "gleanings",
+          "para": 136,
+          "snippet": "disobedience"
+        },
+        {
+          "work": "gleanings",
+          "para": 651,
+          "snippet": "sin"
+        }
+      ]
+    },
+    {
+      "term": "عرفان",
+      "transliteration": "ʿ-r-f",
+      "literal": "to confess; to acknowledge; to recognize",
+      "se_rendering": "knowledge",
+      "note": "Root ʿ-r-f usually 'acknowledged' or 'recognized' (82 occ). Rendered 'knowledge' here — a semantic pivot toward gnosis/wisdom rather than mere acknowledgment, elevating the council's epistemic status.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 601,
+          "snippet": "testifieth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 729,
+          "snippet": "hath acknowledged"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 582,
+          "snippet": "have recognized"
+        },
+        {
+          "work": "gleanings",
+          "para": 568,
+          "snippet": "acknowledged"
+        },
+        {
+          "work": "gleanings",
+          "para": 295,
+          "snippet": "made objections"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 744,
+          "snippet": "understanding"
+        },
+        {
+          "work": "gleanings",
+          "para": 87,
+          "snippet": "knowledge"
+        },
+        {
+          "work": "gleanings",
+          "para": 2,
+          "snippet": "perception"
+        }
+      ]
+    },
+    {
+      "term": "محروم",
+      "transliteration": "h-r-m",
+      "literal": "sanctity, inviolability, dignity, honor, respect",
+      "se_rendering": "deprived",
+      "note": "Root ḥ-r-m typically 'sanctity' or 'right' (25 occ). Rendered 'deprived' — focuses on loss/negation, amplifying the scholar's spiritual deprivation through knowledge-lack despite material learning.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 216,
+          "snippet": "thy sanctity"
+        },
+        {
+          "work": "gleanings",
+          "para": 215,
+          "snippet": "thy right"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 191,
+          "snippet": "Deny me not"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 293,
+          "snippet": "withhold not from me"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 23,
+          "snippet": "depriveth himself"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 785,
+          "snippet": "Thy Cause"
+        },
+        {
+          "work": "gleanings",
+          "para": 507,
+          "snippet": "violated our honor"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 484,
+          "snippet": "suffer not yourselves to be kept back"
+        }
+      ]
+    },
+    {
+      "term": "ثمر",
+      "transliteration": "th-m-r",
+      "literal": "fruit; the fruit",
+      "se_rendering": "fruit",
+      "note": "Root th-m-r consistently 'fruit' (21 occ). Rendered identically 'fruit' here — a direct metaphorical alignment with the passage's utility-based epistemology, unambiguous and literal.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 57,
+          "snippet": "fruit given forth by"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 678,
+          "snippet": "fruits"
+        },
+        {
+          "work": "gleanings",
+          "para": 263,
+          "snippet": "fruit"
+        }
+      ]
+    },
+    {
+      "term": "الحکمه",
+      "transliteration": "h-k-m",
+      "literal": "government; rule; governance; wisdom",
+      "se_rendering": "wisdom",
+      "note": "Root ḥ-k-m standardly 'government' or 'rule' (69 occ). Rendered 'wisdom' here — a rare deviation toward philosophical meaning, suggesting divine epistemic authority rather than governance.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-ahd",
+          "para": 6,
+          "snippet": "rule"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "government"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 849,
+          "snippet": "signs of Thy sovereignty"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 160,
+          "snippet": "meaning of return"
+        },
+        {
+          "work": "gleanings",
+          "para": 224,
+          "snippet": "mysteries"
+        },
+        {
+          "work": "gleanings",
+          "para": 636,
+          "snippet": "rule of the sword"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 182,
+          "snippet": "mystery of the former verse"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 46,
+          "snippet": "conclusive"
+        }
+      ]
+    },
+    {
+      "term": "البيان",
+      "transliteration": "b-y-n",
+      "literal": "to manifest; to make clear; clear, evident",
+      "se_rendering": "utterance",
+      "note": "Typically 'the Bayán' or 'proofs' (87 occ). Here 'utterance' — a unique choice emphasizing divine speech-act over doctrinal clarity, aligning with 'wisdom' in poetic parallel structure.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 223,
+          "snippet": "the Expounder, the Most Manifest"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 231,
+          "snippet": "clear verses"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 3,
+          "snippet": "proofs"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 12,
+          "snippet": "clear proofs"
+        },
+        {
+          "work": "gleanings",
+          "para": 563,
+          "snippet": "Dawning-Place of the proofs"
+        },
+        {
+          "work": "gleanings",
+          "para": 292,
+          "snippet": "the Bayán"
+        },
+        {
+          "work": "gleanings",
+          "para": 636,
+          "snippet": "utterance"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 101,
+          "snippet": "Bayán"
+        }
+      ]
+    }
+  ],
+  "section_index": "32",
+  "section": "32",
+  "section_para": 1
 }

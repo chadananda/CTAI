@@ -1,10 +1,414 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 218,
   "source_text": "... أذکر ما نزل في أرض السّرّ في السّنة الأولی لعبدنا المهدي وأخبرناه به فیما یرد علی البیت من بعد لئلّا یحزنه ما ورد من قبل من الّذي اعتدی وسرق عند ربّك علم السّموات و الأرضین",
   "translation": "Call thou to mind that which hath been revealed unto Mihdí, Our servant, in the first year of Our banishment to the Land of Mystery (Adrianople). Unto him have We predicted that which must befall Our House (Bag̱hdád House), in the days to come, lest he grieve over the acts of robbery and violence already perpetrated against it. Verily, the Lord, thy God, knoweth all that is in the heavens and all that is on the earth.",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "mihdí-first-year-banishment",
+  "alignment": [
+    {
+      "ar": "أذکر",
+      "en": "Call thou to mind"
+    },
+    {
+      "ar": "نزل",
+      "en": "revealed"
+    },
+    {
+      "ar": "أرض",
+      "en": "Land"
+    },
+    {
+      "ar": "السّرّ",
+      "en": "Mystery"
+    },
+    {
+      "ar": "السّنة",
+      "en": "year"
+    },
+    {
+      "ar": "الأولی",
+      "en": "first"
+    },
+    {
+      "ar": "عبدنا",
+      "en": "Our servant"
+    },
+    {
+      "ar": "المهدي",
+      "en": "Mihdí"
+    },
+    {
+      "ar": "أخبرناه",
+      "en": "predicted"
+    },
+    {
+      "ar": "یرد",
+      "en": "befall"
+    },
+    {
+      "ar": "البیت",
+      "en": "House"
+    },
+    {
+      "ar": "من بعد",
+      "en": "in the days to come"
+    },
+    {
+      "ar": "لئلّا",
+      "en": "lest"
+    },
+    {
+      "ar": "یحزنه",
+      "en": "grieve"
+    },
+    {
+      "ar": "ورد",
+      "en": "perpetrated"
+    },
+    {
+      "ar": "من قبل",
+      "en": "already"
+    },
+    {
+      "ar": "اعتدی",
+      "en": "violence"
+    },
+    {
+      "ar": "سرق",
+      "en": "robbery"
+    },
+    {
+      "ar": "ربّك",
+      "en": "thy God"
+    },
+    {
+      "ar": "علم",
+      "en": "knoweth"
+    },
+    {
+      "ar": "السّموات",
+      "en": "heavens"
+    },
+    {
+      "ar": "الأرضین",
+      "en": "earth"
+    }
+  ],
+  "terms": [
+    {
+      "term": "نزل",
+      "transliteration": "n-z-l",
+      "literal": "to descend, to be revealed",
+      "se_rendering": "revealed",
+      "note": "Standard rendering 'revealed' aligns with corpus pattern (88 occurrences). Applies revelation semantics consistently here to divine communication with Mihdí.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 188,
+          "snippet": "revealed"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 175,
+          "snippet": "didst send down"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 835,
+          "snippet": "sent down"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 34,
+          "snippet": "Descend"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 47,
+          "snippet": "pour forth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 330,
+          "snippet": "send down"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 40,
+          "snippet": "were revealed"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 16,
+          "snippet": "hath been sent down"
+        }
+      ]
+    },
+    {
+      "term": "السّرّ",
+      "transliteration": "s-r-r",
+      "literal": "throne; couch; seat of authority",
+      "se_rendering": "Land of Mystery",
+      "note": "Root typically renders as 'throne', 'couch', 'Secret' (40 occurrences). 'Land of Mystery' is unique compound—SE interprets سرّ as mystical concealment rather than seat of authority.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 145,
+          "snippet": "couch"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 256,
+          "snippet": "throne"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 185,
+          "snippet": "lamp"
+        },
+        {
+          "work": "tablet-of-carmel",
+          "para": 2,
+          "snippet": "joy"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 831,
+          "snippet": "Secret"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 37,
+          "snippet": "in the gladness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 8,
+          "snippet": "by the mysteries"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 18,
+          "snippet": "mysteries"
+        }
+      ]
+    },
+    {
+      "term": "السّنة",
+      "transliteration": "s-n-n",
+      "literal": "arrow; pointed weapon; spear-point; edge",
+      "se_rendering": "year",
+      "note": "Root typically rendered 'year', 'years', 'thousand years' (10 occurrences). Singular 'year' signals chronological specificity—the exile's opening year, not generic temporal span.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 49,
+          "snippet": "arrows of distress"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 185,
+          "snippet": "years"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 117,
+          "snippet": "score years"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 63,
+          "snippet": "the spear of enmity"
+        }
+      ]
+    },
+    {
+      "term": "لعبدنا",
+      "transliteration": "ʿ-b-d",
+      "literal": "servant; slave; worshipper",
+      "se_rendering": "Our servant",
+      "note": "Common form 'servant' or 'Thy servant' (68 occurrences). Possessive 'Our servant' maintains intimacy; identifies addressee as Mihdí without naming him explicitly.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 279,
+          "snippet": "Thy servants"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 431,
+          "snippet": "servants"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 27,
+          "snippet": "'Abdu'l‑Bahá"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 204,
+          "snippet": "Thy servant"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 260,
+          "snippet": "'Abdu'l-'Azíz"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 663,
+          "snippet": "servant"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 10,
+          "snippet": "this wronged servant of Thine"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 47,
+          "snippet": "this servant of Thine"
+        }
+      ]
+    },
+    {
+      "term": "البیت",
+      "transliteration": "b-y-t",
+      "literal": "house; household; family; verse",
+      "se_rendering": "Our House",
+      "note": "Usually 'House of Justice', 'House of God', or 'house' (18 occurrences). Capitalized 'Our House' designates Bahá'u'lláh's Baghdad residence as sacred seat, distinct from institutional readings.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 25,
+          "snippet": "House of Justice"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 17,
+          "snippet": "Universal House of Justice"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 127,
+          "snippet": "house"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 38,
+          "snippet": "to write these lines"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 19,
+          "snippet": "by unanimity"
+        }
+      ]
+    },
+    {
+      "term": "یحزنه",
+      "transliteration": "h-z-n",
+      "literal": "sorrow; grief; sadness; anguish",
+      "se_rendering": "grieve",
+      "note": "Typical range: 'sorrow', 'grieve', 'Sorrow not' (23 occurrences). Simple verb form 'grieve' suits protective context—God shields Mihdí from grief rather than commanding emotional restraint.",
+      "cross_refs": [
+        {
+          "work": "fire-tablet",
+          "para": 12,
+          "snippet": "Sorrows"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 57,
+          "snippet": "sorrow"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 35,
+          "snippet": "Grieve Thou not"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 36,
+          "snippet": "Sorrow not"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 54,
+          "snippet": "be not sad"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 11,
+          "snippet": "affliction"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 16,
+          "snippet": "his sadness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 217,
+          "snippet": "Let nothing grieve thee"
+        }
+      ]
+    },
+    {
+      "term": "علم",
+      "transliteration": "ʿ-l-m",
+      "literal": "world; universe; the worlds",
+      "se_rendering": "knoweth",
+      "note": "Corpus splits between 'knowledge' and 'world/worlds' (141 occurrences). 'Knoweth' here employs divine omniscience sense, emphasizing God's comprehensive awareness rather than created realms.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 28,
+          "snippet": "knowledge"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 122,
+          "snippet": "commentators"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 42,
+          "snippet": "banner"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 19,
+          "snippet": "understanding"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 205,
+          "snippet": "ancient Knowledge"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 65,
+          "snippet": "universe"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 4,
+          "snippet": "divine"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 199,
+          "snippet": "peoples of the world"
+        }
+      ]
+    }
+  ],
+  "section_index": "LVIII.1",
+  "section": "LVIII",
+  "section_para": 1
 }

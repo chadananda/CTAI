@@ -1,10 +1,599 @@
 {
   "work": "Kitab-i-Iqan",
   "slug": "kitab-i-iqan",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 156,
   "source_text": "ای دوست من، اگر قدری در سماوات معانی فرقان طيران فرمائی و در ارض معرفت الهی که در آن مبسوط گشته تفرّج نمائی بسيار از ابواب علوم بر وجه آن جناب مفتوح شود و خواهيد يقين نمود بر اينکه جميع اين امور که اليوم اين عباد را منع می نمايد از ورود در شاطی بحر ازلی بعينها در ظهور نقطه فرقان هم مردم آن عصر را منع نموده از اقرار به آن شمس و اذعان به آن.  و همچنين بر اسرار رجعت و بعثت مطّلع شوی و به اعلی غُرف يقين و اطمينان مقرّ يابی.",
   "translation": "O my friend, were the bird of thy mind to explore the heavens of the Revelation of the Qur’án, were it to contemplate the realm of divine knowledge unfolded therein, thou wouldst assuredly find unnumbered doors of knowledge set open before thee. Thou wouldst certainly recognize that all these things which have in this day hindered this people from attaining the shores of the ocean of eternal grace, the same things in the Muhammadan Dispensation prevented the people of that age from recognizing that divine Luminary, and from testifying to His truth. Thou wilt also apprehend the mysteries of “return” and “revelation,” and wilt securely abide within the loftiest chambers of certitude and assurance.",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "bird-mind-explore-heavens",
+  "alignment": [
+    {
+      "ar": "ای",
+      "en": "O"
+    },
+    {
+      "ar": "دوست",
+      "en": "friend"
+    },
+    {
+      "ar": "من",
+      "en": "my"
+    },
+    {
+      "ar": "قدری",
+      "en": "were"
+    },
+    {
+      "ar": "سماوات",
+      "en": "heavens"
+    },
+    {
+      "ar": "معانی",
+      "en": "Revelation"
+    },
+    {
+      "ar": "طيران",
+      "en": "explore"
+    },
+    {
+      "ar": "فرمائی",
+      "en": "the bird of thy mind"
+    },
+    {
+      "ar": "ارض",
+      "en": "realm"
+    },
+    {
+      "ar": "معرفت",
+      "en": "knowledge"
+    },
+    {
+      "ar": "الهی",
+      "en": "divine"
+    },
+    {
+      "ar": "مبسوط",
+      "en": "unfolded"
+    },
+    {
+      "ar": "تفرّج",
+      "en": "contemplate"
+    },
+    {
+      "ar": "نمائی",
+      "en": "it to contemplate"
+    },
+    {
+      "ar": "بسيار",
+      "en": "unnumbered"
+    },
+    {
+      "ar": "ابواب",
+      "en": "doors"
+    },
+    {
+      "ar": "وجه",
+      "en": "before"
+    },
+    {
+      "ar": "آن جناب",
+      "en": "thee"
+    },
+    {
+      "ar": "مفتوح",
+      "en": "set open"
+    },
+    {
+      "ar": "شود",
+      "en": "wouldst"
+    },
+    {
+      "ar": "يقين",
+      "en": "assuredly"
+    },
+    {
+      "ar": "نمود",
+      "en": "find"
+    },
+    {
+      "ar": "جميع",
+      "en": "all"
+    },
+    {
+      "ar": "اين امور",
+      "en": "these things"
+    },
+    {
+      "ar": "اليوم",
+      "en": "this day"
+    },
+    {
+      "ar": "اين عباد",
+      "en": "this people"
+    },
+    {
+      "ar": "منع",
+      "en": "hindered"
+    },
+    {
+      "ar": "ورود",
+      "en": "attaining"
+    },
+    {
+      "ar": "شاطی",
+      "en": "shores"
+    },
+    {
+      "ar": "بحر",
+      "en": "ocean"
+    },
+    {
+      "ar": "ازلی",
+      "en": "eternal grace"
+    },
+    {
+      "ar": "بعينها",
+      "en": "the same things"
+    },
+    {
+      "ar": "ظهور",
+      "en": "Dispensation"
+    },
+    {
+      "ar": "نقطه فرقان",
+      "en": "Muhammadan"
+    },
+    {
+      "ar": "مردم",
+      "en": "people"
+    },
+    {
+      "ar": "آن عصر",
+      "en": "that age"
+    },
+    {
+      "ar": "اقرار",
+      "en": "recognizing"
+    },
+    {
+      "ar": "شمس",
+      "en": "Luminary"
+    },
+    {
+      "ar": "اذعان",
+      "en": "testifying"
+    },
+    {
+      "ar": "همچنين",
+      "en": "also"
+    },
+    {
+      "ar": "اسرار",
+      "en": "mysteries"
+    },
+    {
+      "ar": "رجعت",
+      "en": "return"
+    },
+    {
+      "ar": "بعثت",
+      "en": "revelation"
+    },
+    {
+      "ar": "مطّلع",
+      "en": "apprehend"
+    },
+    {
+      "ar": "شوی",
+      "en": "wilt"
+    },
+    {
+      "ar": "اعلی",
+      "en": "loftiest"
+    },
+    {
+      "ar": "غُرف",
+      "en": "chambers"
+    },
+    {
+      "ar": "يقين",
+      "en": "certitude"
+    },
+    {
+      "ar": "اطمينان",
+      "en": "assurance"
+    },
+    {
+      "ar": "مقرّ",
+      "en": "abide"
+    },
+    {
+      "ar": "يابی",
+      "en": "securely"
+    }
+  ],
+  "terms": [
+    {
+      "term": "معانی",
+      "transliteration": "ʿ-n-d",
+      "literal": "obstinacy; opposition; enmity",
+      "se_rendering": "heavens",
+      "note": "Jafar lists 'truths' as primary rendering but SE renders here as 'heavens'—a spatial rather than semantic translation, unique to this passage.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 13,
+          "snippet": "from Me"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 66,
+          "snippet": "from God"
+        },
+        {
+          "work": "gleanings",
+          "para": 278,
+          "snippet": "they possess"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 53,
+          "snippet": "the things they possess"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 71,
+          "snippet": "with what they possess"
+        },
+        {
+          "work": "gleanings",
+          "para": 535,
+          "snippet": "ye possess"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 91,
+          "snippet": "possessest"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 190,
+          "snippet": "pertaineth unto Him"
+        }
+      ]
+    },
+    {
+      "term": "فرقان",
+      "transliteration": "f-r-d",
+      "literal": "unique; singular; incomparable",
+      "se_rendering": "Revelation",
+      "note": "Root means 'unique; singular; incomparable' (23 occ.) but SE here translates as 'Revelation'—contextually interpreting the term as the Qur'anic revelation itself rather than its attribute.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 2,
+          "snippet": "wondrous"
+        },
+        {
+          "work": "gleanings",
+          "para": 545,
+          "snippet": "unique"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 49,
+          "snippet": "alone"
+        },
+        {
+          "work": "gleanings",
+          "para": 384,
+          "snippet": "oneness"
+        },
+        {
+          "work": "gleanings",
+          "para": 386,
+          "snippet": "His singleness"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 658,
+          "snippet": "Thy oneness"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 153,
+          "snippet": "Thy singleness"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 56,
+          "snippet": "court of Thy glory"
+        }
+      ]
+    },
+    {
+      "term": "طيران",
+      "transliteration": "t-y-r",
+      "literal": "bird; birds; flying creature",
+      "se_rendering": "bird",
+      "note": "Typically 'bird' or 'soared' (15 occ.). Here rendered as 'bird' in metaphorical sense of mind's flight, consistent with poetic imagery.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 13,
+          "snippet": "bird"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 39,
+          "snippet": "soared"
+        },
+        {
+          "work": "gleanings",
+          "para": 63,
+          "snippet": "have soared"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 156,
+          "snippet": "soar"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 205,
+          "snippet": "Birds"
+        }
+      ]
+    },
+    {
+      "term": "امور",
+      "transliteration": "ʾ-m-r",
+      "literal": "command; cause; matter; affair",
+      "se_rendering": "things",
+      "note": "Usually 'His Cause' or 'His command' (75 occ.). Here simply 'things'—a rare neutral rendering that depersonalizes the theological subject matter.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "His Cause"
+        },
+        {
+          "work": "gleanings",
+          "para": 586,
+          "snippet": "His command"
+        },
+        {
+          "work": "gleanings",
+          "para": 691,
+          "snippet": "His Revelation"
+        },
+        {
+          "work": "gleanings",
+          "para": 723,
+          "snippet": "Cause"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 797,
+          "snippet": "Thy Cause"
+        },
+        {
+          "work": "gleanings",
+          "para": 8,
+          "snippet": "Revelation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 597,
+          "snippet": "service"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 167,
+          "snippet": "things"
+        }
+      ]
+    },
+    {
+      "term": "بعينها",
+      "transliteration": "ʿ-y-n",
+      "literal": "eye; fountain; spring; essence",
+      "se_rendering": "same things",
+      "note": "Jafar shows 'with Thine eye' as primary (25 occ.). Here SE renders as 'same things'—omitting the ocular/essence dimension entirely, favoring referential identity.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 33,
+          "snippet": "with Thine eye"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 12,
+          "snippet": "with the watchful eye of Thy loving-kindness"
+        },
+        {
+          "work": "gleanings",
+          "para": 167,
+          "snippet": "with your eyes"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 243,
+          "snippet": "appointed certain ones"
+        },
+        {
+          "work": "gleanings",
+          "para": 598,
+          "snippet": "helpers"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 14,
+          "snippet": "waters of detachment"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 32,
+          "snippet": "my Aider"
+        },
+        {
+          "work": "gleanings",
+          "para": 124,
+          "snippet": "covenants"
+        }
+      ]
+    },
+    {
+      "term": "ظهور",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "Dispensation",
+      "note": "Standard rendering 'Manifestation' or 'manifestation' (96 occ.) but here SE uses 'Dispensation'—a temporal-historical term absent from Jafar data, reflecting the comparative context.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 53,
+          "snippet": "Manifestation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 160,
+          "snippet": "Author of all Manifestations"
+        },
+        {
+          "work": "gleanings",
+          "para": 222,
+          "snippet": "material"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 206,
+          "snippet": "appeared"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 255,
+          "snippet": "Manifestations"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 791,
+          "snippet": "tokens of Thy handiwork"
+        }
+      ]
+    },
+    {
+      "term": "اسرار",
+      "transliteration": "s-r-r",
+      "literal": "throne; couch; seat of authority",
+      "se_rendering": "mysteries",
+      "note": "Root means 'throne; couch; seat of authority' (40 occ.) but SE renders 'mysteries' here—a metaphorical interpretation unique among the data.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 185,
+          "snippet": "lamp"
+        },
+        {
+          "work": "tablet-of-carmel",
+          "para": 2,
+          "snippet": "joy"
+        },
+        {
+          "work": "gleanings",
+          "para": 218,
+          "snippet": "mystery"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 831,
+          "snippet": "Secret"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 37,
+          "snippet": "in the gladness"
+        },
+        {
+          "work": "gleanings",
+          "para": 727,
+          "snippet": "gladness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 8,
+          "snippet": "by the mysteries"
+        },
+        {
+          "work": "gleanings",
+          "para": 318,
+          "snippet": "mysteries"
+        }
+      ]
+    },
+    {
+      "term": "اعلی",
+      "transliteration": "ʿ-l-w",
+      "literal": "highest; most high; supreme",
+      "se_rendering": "loftiest",
+      "note": "Typically 'Most High' or 'supreme' (74 occ.) but here 'loftiest'—superlative adjective modifying 'chambers' rather than divine attribute form.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 148,
+          "snippet": "the Most Sublime Pen"
+        },
+        {
+          "work": "gleanings",
+          "para": 232,
+          "snippet": "supreme"
+        },
+        {
+          "work": "gleanings",
+          "para": 616,
+          "snippet": "the realms above"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 390,
+          "snippet": "the Most Exalted, the Most High"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 68,
+          "snippet": "the Pen of Glory"
+        },
+        {
+          "work": "gleanings",
+          "para": 393,
+          "snippet": "The Pen of the Most High"
+        },
+        {
+          "work": "gleanings",
+          "para": 697,
+          "snippet": "the Dayspring of Glory"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 1,
+          "snippet": "the Realm of Glory"
+        }
+      ]
+    }
+  ],
+  "section_index": "156",
+  "section": "156",
+  "section_para": 1
 }

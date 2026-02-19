@@ -1,10 +1,361 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 646,
   "source_text": "حکیم إنّا نراکم في أعمالکم إذا وجدنا منها الرّائحة المقدّسة الطّیّبة نصلّي علیکم وبذلک ینطق لسان أهل الفردوس بذکرکم وثنائکم",
   "translation": "We verily behold your actions. If We perceive from them the sweet smelling savor of purity and holiness, We will most certainly bless you. Then will the tongues of the inmates of Paradise utter your praise and magnify your names amidst them who have drawn nigh unto God.",
   "source_lang": "ar",
-  "score": 9.9
+  "score": 9.9,
+  "page_slug": "sweet-smelling-savor-purity",
+  "alignment": [
+    {
+      "ar": "حکیم",
+      "en": "We"
+    },
+    {
+      "ar": "نراکم",
+      "en": "behold"
+    },
+    {
+      "ar": "أعمالکم",
+      "en": "your actions"
+    },
+    {
+      "ar": "وجدنا",
+      "en": "perceive"
+    },
+    {
+      "ar": "منها",
+      "en": "from them"
+    },
+    {
+      "ar": "الرّائحة",
+      "en": "savor"
+    },
+    {
+      "ar": "المقدّسة",
+      "en": "holiness"
+    },
+    {
+      "ar": "الطّیّبة",
+      "en": "sweet smelling"
+    },
+    {
+      "ar": "نصلّي",
+      "en": "bless"
+    },
+    {
+      "ar": "علیکم",
+      "en": "you"
+    },
+    {
+      "ar": "ینطق",
+      "en": "utter"
+    },
+    {
+      "ar": "لسان",
+      "en": "tongues"
+    },
+    {
+      "ar": "أهل الفردوس",
+      "en": "inmates of Paradise"
+    },
+    {
+      "ar": "بذکرکم",
+      "en": "your praise"
+    },
+    {
+      "ar": "وثنائکم",
+      "en": "magnify your names"
+    }
+  ],
+  "terms": [
+    {
+      "term": "وجدنا",
+      "transliteration": "w-j-d",
+      "literal": "to find; to discover; to obtain",
+      "se_rendering": "perceive",
+      "note": "Root w-j-d yields 'found,' 'adorned,' 'aware' across corpus. SE's 'perceive' emphasizes divine knowledge-act rather than discovery—subtle shift toward contemplative rather than acquisitive semantics.",
+      "cross_refs": [
+        {
+          "work": "the-hidden-words",
+          "para": 91,
+          "snippet": "adorned"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 27,
+          "snippet": "found"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 215,
+          "snippet": "mentioned"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 69,
+          "snippet": "aware"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 783,
+          "snippet": "point of creation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 832,
+          "snippet": "being"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 214,
+          "snippet": "is led"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 291,
+          "snippet": "all created things"
+        }
+      ]
+    },
+    {
+      "term": "الرّائحة",
+      "transliteration": "r-y-h",
+      "literal": "banner; standard; flag; sign",
+      "se_rendering": "savor",
+      "note": "Root r-y-h typically renders as 'Standard' or 'fragrance.' Here 'savor' creates olfactory metaphor absent from root's primary semantic field—SE's unique lexical choice for mystical perception.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 268,
+          "snippet": "Standard"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 211,
+          "snippet": "fragrance"
+        }
+      ]
+    },
+    {
+      "term": "المقدّسة",
+      "transliteration": "q-d-s",
+      "literal": "holy, sacred, sanctified",
+      "se_rendering": "holiness",
+      "note": "Standard renderings are 'Sacred' or 'hallowed.' Here paired with 'purity' to form compound 'purity and holiness'—SE expands single Arabic term into English doublet for theological emphasis.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 2,
+          "snippet": "Sacred"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 81,
+          "snippet": "hallowed"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 35,
+          "snippet": "spirit of holiness"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 448,
+          "snippet": "Sanctuary"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 13,
+          "snippet": "Holy Mariner"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 6,
+          "snippet": "sacred strand"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 26,
+          "snippet": "Celestial Concourse"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 189,
+          "snippet": "Most Holy"
+        }
+      ]
+    },
+    {
+      "term": "الطّیّبة",
+      "transliteration": "t-y-b",
+      "literal": "good; pure; sweet; fragrant; virtuous",
+      "se_rendering": "purity",
+      "note": "Root t-y-b spans 'goodly,' 'pure,' and 'sweet smelling savor.' SE renders here as 'purity,' absorbing fragrance metaphor into abstract virtue—contrasts with literal 'sweet smelling savor' rendering elsewhere.",
+      "cross_refs": [
+        {
+          "work": "the-hidden-words",
+          "para": 146,
+          "snippet": "pure and goodly"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 50,
+          "snippet": "goodly"
+        }
+      ]
+    },
+    {
+      "term": "ینطق",
+      "transliteration": "n-t-q",
+      "literal": "to speak; to utter; to pronounce; to articulate",
+      "se_rendering": "utter",
+      "note": "Root n-t-q renders as 'spoke,' 'speaking,' 'utterance' typically. Here 'utter' maintains vocative force while 'tongues of Paradise' emphasizes celestial witness—SE preserves oral dimension.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 2,
+          "snippet": "spoke"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 719,
+          "snippet": "speaking"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 90,
+          "snippet": "utterance"
+        },
+        {
+          "work": "tablet-of-carmel",
+          "para": 5,
+          "snippet": "hath been moved to disclose"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 596,
+          "snippet": "uttered"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 626,
+          "snippet": "made me able so to reveal"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 137,
+          "snippet": "I have spoken, and still speak forth"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 9,
+          "snippet": "hath not spoken"
+        }
+      ]
+    },
+    {
+      "term": "الفردوس",
+      "transliteration": "f-r-d",
+      "literal": "unique; singular; incomparable",
+      "se_rendering": "Paradise",
+      "note": "Root f-r-d normally renders 'unique,' 'alone,' 'oneness.' SE renders as 'Paradise' here—complete semantic pivot from singularity to eschatological place, suggesting Greek loanword etymology.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 2,
+          "snippet": "wondrous"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 249,
+          "snippet": "unique"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 49,
+          "snippet": "alone"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 658,
+          "snippet": "Thy oneness"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 153,
+          "snippet": "Thy singleness"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 56,
+          "snippet": "court of Thy glory"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 89,
+          "snippet": "oneness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 5,
+          "snippet": "Thy unity and Thy oneness"
+        }
+      ]
+    },
+    {
+      "term": "بذکرکم",
+      "transliteration": "dh-k-r",
+      "literal": "remembrance; mention; memory",
+      "se_rendering": "praise",
+      "note": "Root dh-k-r standard range: 'remembrance,' 'mention,' 'deliberate.' SE renders as 'praise' here—integrates with following 'magnify your names,' shifting from memory-act to laudatory speech-act.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 54,
+          "snippet": "mention"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 117,
+          "snippet": "Time and again have I declared"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 39,
+          "snippet": "deliberate"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 274,
+          "snippet": "aforementioned"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 112,
+          "snippet": "recorded"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 34,
+          "snippet": "confined in that"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 4,
+          "snippet": "mentioned"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 6,
+          "snippet": "to remember Thee"
+        }
+      ]
+    }
+  ],
+  "section_index": "CXLI.4",
+  "section": "CXLI",
+  "section_para": 4
 }

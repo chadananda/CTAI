@@ -1,10 +1,647 @@
 {
   "work": "Epistle to the Son of the Wolf",
   "slug": "epistle-to-the-son-of-the-wolf",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 101,
   "source_text": "و همچنين بعضی از آيات لوح حضرت ملکه ايّدها اللّه تبارک و تعالی ذکر ميشود * مقصود انکه شايد نفحات وحی ان جناب را اخذ نمايد و لوجه اللّه بر خدمت امر قيام کنند و انچه از الواح حضرات ملوک وفّقهم اللّه نرسيده برسانند * اين امر عظيم است اين خدمت عظيم * در ان ارض علمای اعلام بسيارند از جمله حضرات سادات که در بزرگی و شان معروفند با ايشان مشورت نمائيد و انچه از قلم اعلی جاری شده بنمائيد شايد بر اصلاح عالم و تهذيب نفوس امم مؤيّد شوند و ضغينه و بغضای مکنونه مخزونه در افئده را بکوثر نصائح الهی ساکن نمايند * اين توفيق را از حقّ ميطلبيم و ليس هذا عليه بعزيز *",
   "translation": "Likewise, We mention some verses from the Tablet of Her Majesty, the Queen (Queen Victoria) - may God, exalted and glorified be He, assist her. Our purpose is that haply the breezes of Revelation may envelop thee, and cause thee to arise, wholly for the sake of God, and serve His Cause, and that thou mayest transmit any of the Tablets of the kings which might have remained undelivered. This mission is a great mission, and this service a great service. In those regions distinguished divines are numerous, among whom are those Siyyids who are renowned for their eminence and distinction. Confer with them, and show them what hath flowed out of the Pen of Glory, that haply they may be graciously aided to better the condition of the world, and improve the character of peoples of different nations, and may, through the living waters of God's counsels, quench the hatred and the animosity which lie hid and smolder in the hearts of men. We pray God that thou mayest be assisted therein. And this, verily, would not be hard for Him.",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "breezes-revelation-envelop-thee",
+  "alignment": [
+    {
+      "ar": "همچنين",
+      "en": "Likewise"
+    },
+    {
+      "ar": "بعضی",
+      "en": "some"
+    },
+    {
+      "ar": "آيات",
+      "en": "verses"
+    },
+    {
+      "ar": "لوح",
+      "en": "Tablet"
+    },
+    {
+      "ar": "حضرت",
+      "en": "Her"
+    },
+    {
+      "ar": "ملکه",
+      "en": "Majesty, the Queen"
+    },
+    {
+      "ar": "ايّدها",
+      "en": "assist her"
+    },
+    {
+      "ar": "اللّه",
+      "en": "God"
+    },
+    {
+      "ar": "تبارک",
+      "en": "exalted"
+    },
+    {
+      "ar": "تعالی",
+      "en": "glorified"
+    },
+    {
+      "ar": "ذکر",
+      "en": "mention"
+    },
+    {
+      "ar": "ميشود",
+      "en": "We mention"
+    },
+    {
+      "ar": "مقصود",
+      "en": "purpose"
+    },
+    {
+      "ar": "شايد",
+      "en": "haply"
+    },
+    {
+      "ar": "نفحات",
+      "en": "breezes"
+    },
+    {
+      "ar": "وحی",
+      "en": "Revelation"
+    },
+    {
+      "ar": "ان",
+      "en": "thee"
+    },
+    {
+      "ar": "اخذ",
+      "en": "envelop"
+    },
+    {
+      "ar": "نمايد",
+      "en": "may"
+    },
+    {
+      "ar": "لوجه",
+      "en": "for the sake"
+    },
+    {
+      "ar": "اللّه",
+      "en": "of God"
+    },
+    {
+      "ar": "خدمت",
+      "en": "serve"
+    },
+    {
+      "ar": "امر",
+      "en": "Cause"
+    },
+    {
+      "ar": "قيام",
+      "en": "arise"
+    },
+    {
+      "ar": "کنند",
+      "en": "cause"
+    },
+    {
+      "ar": "انچه",
+      "en": "any"
+    },
+    {
+      "ar": "الواح",
+      "en": "Tablets"
+    },
+    {
+      "ar": "حضرات",
+      "en": "the"
+    },
+    {
+      "ar": "ملوک",
+      "en": "kings"
+    },
+    {
+      "ar": "وفّقهم",
+      "en": "the kings"
+    },
+    {
+      "ar": "نرسيده",
+      "en": "remained undelivered"
+    },
+    {
+      "ar": "برسانند",
+      "en": "transmit"
+    },
+    {
+      "ar": "اين",
+      "en": "This"
+    },
+    {
+      "ar": "امر",
+      "en": "mission"
+    },
+    {
+      "ar": "عظيم",
+      "en": "great"
+    },
+    {
+      "ar": "است",
+      "en": "is"
+    },
+    {
+      "ar": "خدمت",
+      "en": "service"
+    },
+    {
+      "ar": "ارض",
+      "en": "regions"
+    },
+    {
+      "ar": "علمای",
+      "en": "divines"
+    },
+    {
+      "ar": "اعلام",
+      "en": "distinguished"
+    },
+    {
+      "ar": "بسيارند",
+      "en": "numerous"
+    },
+    {
+      "ar": "جمله",
+      "en": "among"
+    },
+    {
+      "ar": "سادات",
+      "en": "Siyyids"
+    },
+    {
+      "ar": "بزرگی",
+      "en": "eminence"
+    },
+    {
+      "ar": "شان",
+      "en": "distinction"
+    },
+    {
+      "ar": "معروفند",
+      "en": "renowned"
+    },
+    {
+      "ar": "ايشان",
+      "en": "them"
+    },
+    {
+      "ar": "مشورت",
+      "en": "Confer"
+    },
+    {
+      "ar": "قلم",
+      "en": "Pen"
+    },
+    {
+      "ar": "اعلی",
+      "en": "Glory"
+    },
+    {
+      "ar": "جاری",
+      "en": "flowed"
+    },
+    {
+      "ar": "بنمائيد",
+      "en": "show"
+    },
+    {
+      "ar": "اصلاح",
+      "en": "better"
+    },
+    {
+      "ar": "عالم",
+      "en": "condition of the world"
+    },
+    {
+      "ar": "تهذيب",
+      "en": "improve"
+    },
+    {
+      "ar": "نفوس",
+      "en": "character"
+    },
+    {
+      "ar": "امم",
+      "en": "peoples of different nations"
+    },
+    {
+      "ar": "مؤيّد",
+      "en": "aided"
+    },
+    {
+      "ar": "شوند",
+      "en": "may be"
+    },
+    {
+      "ar": "ضغينه",
+      "en": "animosity"
+    },
+    {
+      "ar": "بغضای",
+      "en": "hatred"
+    },
+    {
+      "ar": "مکنونه",
+      "en": "hid"
+    },
+    {
+      "ar": "مخزونه",
+      "en": "smolder"
+    },
+    {
+      "ar": "افئده",
+      "en": "hearts"
+    },
+    {
+      "ar": "کوثر",
+      "en": "waters"
+    },
+    {
+      "ar": "نصائح",
+      "en": "counsels"
+    },
+    {
+      "ar": "الهی",
+      "en": "God's"
+    },
+    {
+      "ar": "ساکن",
+      "en": "quench"
+    },
+    {
+      "ar": "توفيق",
+      "en": "assisted"
+    },
+    {
+      "ar": "ميطلبيم",
+      "en": "pray"
+    },
+    {
+      "ar": "ليس",
+      "en": "not"
+    },
+    {
+      "ar": "هذا",
+      "en": "this"
+    },
+    {
+      "ar": "عليه",
+      "en": "for Him"
+    },
+    {
+      "ar": "بعزيز",
+      "en": "hard"
+    }
+  ],
+  "terms": [
+    {
+      "term": "امر",
+      "transliteration": "ʾ-m-r",
+      "literal": "command; cause; matter; affair",
+      "se_rendering": "His Cause",
+      "note": "Typically rendered 'Cause' or 'command' across 75 occurrences. Here 'His Cause' preserves the sacred institutional sense central to Bahá'í doctrine.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "His Cause"
+        },
+        {
+          "work": "gleanings",
+          "para": 586,
+          "snippet": "His command"
+        },
+        {
+          "work": "gleanings",
+          "para": 691,
+          "snippet": "His Revelation"
+        },
+        {
+          "work": "gleanings",
+          "para": 723,
+          "snippet": "Cause"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 797,
+          "snippet": "Thy Cause"
+        },
+        {
+          "work": "gleanings",
+          "para": 8,
+          "snippet": "Revelation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 597,
+          "snippet": "service"
+        },
+        {
+          "work": "gleanings",
+          "para": 524,
+          "snippet": "your affairs"
+        }
+      ]
+    },
+    {
+      "term": "قيام",
+      "transliteration": "q-w-m",
+      "literal": "rising; standing; uprising; resurrection",
+      "se_rendering": "arise",
+      "note": "Usually 'arise' or 'Resurrection' (109 occ). Here 'arise' captures active spiritual response rather than eschatological sense, fitting the exhortatory context.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 152,
+          "snippet": "Day of Resurrection"
+        },
+        {
+          "work": "gleanings",
+          "para": 437,
+          "snippet": "arise"
+        },
+        {
+          "work": "gleanings",
+          "para": 513,
+          "snippet": "dedicateth"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 153,
+          "snippet": "Resurrection"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "peoples"
+        },
+        {
+          "work": "gleanings",
+          "para": 693,
+          "snippet": "commandments"
+        },
+        {
+          "work": "gleanings",
+          "para": 628,
+          "snippet": "My commandments"
+        },
+        {
+          "work": "gleanings",
+          "para": 518,
+          "snippet": "steadfast"
+        }
+      ]
+    },
+    {
+      "term": "عظيم",
+      "transliteration": "sh-d-d",
+      "literal": "strong; severe; intense; violent",
+      "se_rendering": "great",
+      "note": "Root ش-د-د usually renders as 'great' or 'severe' (35 occ). Applied here twice to mission and service, reinforcing their sacred magnitude.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 38,
+          "snippet": "very great"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 5,
+          "snippet": "great"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 30,
+          "snippet": "most turbulent"
+        },
+        {
+          "work": "gleanings",
+          "para": 94,
+          "snippet": "more intense manifestation"
+        },
+        {
+          "work": "gleanings",
+          "para": 256,
+          "snippet": "most severe in punishment"
+        },
+        {
+          "work": "gleanings",
+          "para": 248,
+          "snippet": "reached manhood"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 141,
+          "snippet": "uttered"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 53,
+          "snippet": "arose"
+        }
+      ]
+    },
+    {
+      "term": "علمای",
+      "transliteration": "ʿ-l-m",
+      "literal": "world; universe; the worlds",
+      "se_rendering": "divines",
+      "note": "'divines' here; Jafar lists 'world', 'mankind', 'knowledge' among 141 renderings. This passage uses 'divines' to denote learned religious scholars, a specialized application.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 198,
+          "snippet": "world"
+        },
+        {
+          "work": "gleanings",
+          "para": 657,
+          "snippet": "all worlds"
+        },
+        {
+          "work": "gleanings",
+          "para": 182,
+          "snippet": "mankind"
+        },
+        {
+          "work": "gleanings",
+          "para": 183,
+          "snippet": "the whole world"
+        },
+        {
+          "work": "gleanings",
+          "para": 226,
+          "snippet": "all earthly defilements"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 76,
+          "snippet": "Knowledge"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 122,
+          "snippet": "commentators"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 42,
+          "snippet": "banner"
+        }
+      ]
+    },
+    {
+      "term": "قلم",
+      "transliteration": "q-l-m",
+      "literal": "pen; writing instrument",
+      "se_rendering": "the Pen of Glory",
+      "note": "'The Pen of Glory' here; typically 'the Pen of the Most High' or 'the Most Sublime Pen' (25 occ). This specific epithet emphasizes divine majesty of revealed words.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 100,
+          "snippet": "the Pen of the Most High"
+        },
+        {
+          "work": "gleanings",
+          "para": 619,
+          "snippet": "My Pen"
+        },
+        {
+          "work": "gleanings",
+          "para": 393,
+          "snippet": "Pen of the Most High"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 280,
+          "snippet": "Pen"
+        },
+        {
+          "work": "gleanings",
+          "para": 319,
+          "snippet": "pens"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 85,
+          "snippet": "standards"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 13,
+          "snippet": "ensigns"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 68,
+          "snippet": "with the pen of might"
+        }
+      ]
+    },
+    {
+      "term": "بغضای",
+      "transliteration": "b-gh-dh",
+      "literal": "hatred; enmity; animosity",
+      "se_rendering": "hatred and the animosity",
+      "note": "'hatred and the animosity' maintains parallel structure from Persian; typically singular renderings like 'enmity' or 'hatred' (37 occ). Doubled form captures the conceptual intensity.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 5,
+          "snippet": "with great enmity"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 45,
+          "snippet": "hate"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 47,
+          "snippet": "hatred"
+        },
+        {
+          "work": "gleanings",
+          "para": 192,
+          "snippet": "ill-wishers"
+        },
+        {
+          "work": "gleanings",
+          "para": 464,
+          "snippet": "congregation of My ill-wishers"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 54,
+          "snippet": "hatred and enmity"
+        }
+      ]
+    },
+    {
+      "term": "نصائح",
+      "transliteration": "n-s-h",
+      "literal": "counsel; advice; admonition",
+      "se_rendering": "counsels",
+      "note": "'counsels' (divine); standard rendering across 28 occurrences. 'Living waters' metaphor from preceding clause colors reception of these divine admonitions.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-ahd",
+          "para": 16,
+          "snippet": "counsels"
+        },
+        {
+          "work": "gleanings",
+          "para": 595,
+          "snippet": "exhortations"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 56,
+          "snippet": "counsel"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 11,
+          "snippet": "exhortation"
+        },
+        {
+          "work": "gleanings",
+          "para": 714,
+          "snippet": "counseleth"
+        },
+        {
+          "work": "gleanings",
+          "para": 594,
+          "snippet": "an admonisher to the rich"
+        },
+        {
+          "work": "gleanings",
+          "para": 206,
+          "snippet": "the Counselor, the Compassionate, the All-Knowing"
+        },
+        {
+          "work": "gleanings",
+          "para": 441,
+          "snippet": "true counselor"
+        }
+      ]
+    }
+  ],
+  "section_index": "101",
+  "section": "101",
+  "section_para": 1
 }

@@ -1,10 +1,593 @@
 {
   "work": "Kitab-i-Iqan",
   "slug": "kitab-i-iqan",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 276,
   "source_text": "اين است حکم و امر اصحاب آن حضرت که از قبل بيان فرمودهاند.  و حال ملاحظه فرمائيد که زوراء موافق اين روايت ارض ری است.  و اين اصحاب را در آن مکان به بدترين عذاب بقتل رساندند و جميع اين وجودات قدسی را عجم شهيد نموده چنانچه در حديث مذکور است و شنيدهاند و بر همه عالم واضح و مبرهن است.  حال چرا اين خراطين ارض در اين احاديث که جميع آن به مثل شمس در وسط سماء ظاهر شد تفکّر نمی نمايند و اقبال به حقّ نمی جويند و به بعضی احاديث که معنی آن را ادراک ننمودهاند  از ظهور حقّ و جمال اللّه اعراض جستهاند و به سقر مقرّ گزيدهاند؟ نيست اين امور مگر از اعراض فقهای عصر و علمای عهد.  اين است که صادق بن محمّد می فرمايد:  \"فُقَهاءُ ذلِکَ الزَّمانِ شَرُّ فُقَهاءِ تَحْتَ ظِلِّ السَّماءِ مِنهُم خَرَجَتِ الفِتْنَةُ و إلَيهم تَعُودُ.\"",
   "translation": "Such is the condition and fate of His companions which in former days hath been foretold. And now observe how, according to this tradition, Zawrá is no other but the land of Rayy. In that place His companions have been with great suffering put to death, and all these holy beings have suffered martyrdom at the hand of the Persians, as recorded in the tradition. This thou hast heard, and unto it all testify. Wherefore, then, do not these grovelling, worm-like men pause to meditate upon these traditions, all of which are manifest as the sun in its noon-tide glory? For what reason do they refuse to embrace the Truth, and allow certain traditions, the significance of which they have failed to grasp, to withhold them from the recognition of the Revelation of God and His Beauty, and to cause them to dwell in the infernal abyss? Such things are to be attributed to naught but the faithlessness of the divines and doctors of the age. Of these, Sádiq, son of Muhammad, hath said: “The religious doctors of that age shall be the most wicked of the divines beneath the shadow of heaven. Out of them hath mischief proceeded, and unto them it shall return.”",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "worm-like-men-refuse-truth",
+  "alignment": [
+    {
+      "ar": "اين است",
+      "en": "Such is"
+    },
+    {
+      "ar": "حکم",
+      "en": "condition"
+    },
+    {
+      "ar": "امر",
+      "en": "fate"
+    },
+    {
+      "ar": "اصحاب",
+      "en": "His companions"
+    },
+    {
+      "ar": "آن حضرت",
+      "en": "His"
+    },
+    {
+      "ar": "از قبل",
+      "en": "in former days"
+    },
+    {
+      "ar": "بيان فرمودهاند",
+      "en": "hath been foretold"
+    },
+    {
+      "ar": "حال",
+      "en": "now"
+    },
+    {
+      "ar": "ملاحظه فرمائيد",
+      "en": "observe"
+    },
+    {
+      "ar": "زوراء",
+      "en": "Zawrá"
+    },
+    {
+      "ar": "موافق",
+      "en": "according to"
+    },
+    {
+      "ar": "اين روايت",
+      "en": "this tradition"
+    },
+    {
+      "ar": "ارض",
+      "en": "land"
+    },
+    {
+      "ar": "ری",
+      "en": "Rayy"
+    },
+    {
+      "ar": "اصحاب",
+      "en": "companions"
+    },
+    {
+      "ar": "آن مکان",
+      "en": "that place"
+    },
+    {
+      "ar": "بدترين",
+      "en": "great"
+    },
+    {
+      "ar": "عذاب",
+      "en": "suffering"
+    },
+    {
+      "ar": "بقتل رساندند",
+      "en": "put to death"
+    },
+    {
+      "ar": "جميع",
+      "en": "all"
+    },
+    {
+      "ar": "وجودات قدسی",
+      "en": "holy beings"
+    },
+    {
+      "ar": "عجم",
+      "en": "Persians"
+    },
+    {
+      "ar": "شهيد نموده",
+      "en": "suffered martyrdom"
+    },
+    {
+      "ar": "چنانچه",
+      "en": "as"
+    },
+    {
+      "ar": "حديث مذکور",
+      "en": "tradition"
+    },
+    {
+      "ar": "شنيدهاند",
+      "en": "heard"
+    },
+    {
+      "ar": "واضح",
+      "en": "testify"
+    },
+    {
+      "ar": "خراطين ارض",
+      "en": "grovelling, worm-like men"
+    },
+    {
+      "ar": "احاديث",
+      "en": "traditions"
+    },
+    {
+      "ar": "جميع آن",
+      "en": "all of which"
+    },
+    {
+      "ar": "مثل شمس در وسط سماء",
+      "en": "as the sun in its noon-tide glory"
+    },
+    {
+      "ar": "ظاهر شد",
+      "en": "manifest"
+    },
+    {
+      "ar": "تفکّر نمی نمايند",
+      "en": "pause to meditate"
+    },
+    {
+      "ar": "اقبال",
+      "en": "embrace"
+    },
+    {
+      "ar": "حقّ",
+      "en": "Truth"
+    },
+    {
+      "ar": "نمی جويند",
+      "en": "refuse"
+    },
+    {
+      "ar": "بعضی احاديث",
+      "en": "certain traditions"
+    },
+    {
+      "ar": "معنی آن",
+      "en": "significance of which"
+    },
+    {
+      "ar": "ادراک ننمودهاند",
+      "en": "failed to grasp"
+    },
+    {
+      "ar": "از ظهور",
+      "en": "from the recognition of the Revelation"
+    },
+    {
+      "ar": "حقّ",
+      "en": "God"
+    },
+    {
+      "ar": "جمال اللّه",
+      "en": "Beauty"
+    },
+    {
+      "ar": "اعراض جستهاند",
+      "en": "withhold them"
+    },
+    {
+      "ar": "سقر",
+      "en": "infernal abyss"
+    },
+    {
+      "ar": "مقرّ گزيدهاند",
+      "en": "cause them to dwell"
+    },
+    {
+      "ar": "نيست",
+      "en": "are to be attributed to naught but"
+    },
+    {
+      "ar": "اين امور",
+      "en": "Such things"
+    },
+    {
+      "ar": "اعراض",
+      "en": "faithlessness"
+    },
+    {
+      "ar": "فقهای عصر",
+      "en": "divines"
+    },
+    {
+      "ar": "علمای عهد",
+      "en": "doctors of the age"
+    },
+    {
+      "ar": "صادق بن محمّد",
+      "en": "Sádiq, son of Muhammad"
+    },
+    {
+      "ar": "می فرمايد",
+      "en": "hath said"
+    },
+    {
+      "ar": "فُقَهاءُ",
+      "en": "doctors"
+    },
+    {
+      "ar": "مِنهُم",
+      "en": "Out of them"
+    },
+    {
+      "ar": "خَرَجَتِ",
+      "en": "hath"
+    },
+    {
+      "ar": "الفِتْنَةُ",
+      "en": "mischief"
+    },
+    {
+      "ar": "إلَيهم",
+      "en": "unto them"
+    },
+    {
+      "ar": "تَعُودُ",
+      "en": "it shall return"
+    }
+  ],
+  "terms": [
+    {
+      "term": "حکم",
+      "transliteration": "h-k-m",
+      "literal": "government; rule; governance; wisdom",
+      "se_rendering": "condition and fate",
+      "note": "Typically 'rule', 'government', or 'mysteries' (69 occ). Here 'condition and fate' captures the predictive, deterministic sense of divine decree over human outcomes.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-ahd",
+          "para": 6,
+          "snippet": "rule"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "government"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 849,
+          "snippet": "signs of Thy sovereignty"
+        },
+        {
+          "work": "gleanings",
+          "para": 224,
+          "snippet": "mysteries"
+        },
+        {
+          "work": "gleanings",
+          "para": 636,
+          "snippet": "rule of the sword"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 129,
+          "snippet": "perspicuous verses"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 157,
+          "snippet": "justice"
+        },
+        {
+          "work": "gleanings",
+          "para": 139,
+          "snippet": "the face of wisdom"
+        }
+      ]
+    },
+    {
+      "term": "امر",
+      "transliteration": "ʾ-m-r",
+      "literal": "command; cause; matter; affair",
+      "se_rendering": "fate",
+      "note": "Usually 'Cause', 'command', or 'Revelation' (75 occ). 'Fate' here emphasizes the predetermined nature of the companions' suffering, diverging from SE's typical focus on divine agency.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "His Cause"
+        },
+        {
+          "work": "gleanings",
+          "para": 586,
+          "snippet": "His command"
+        },
+        {
+          "work": "gleanings",
+          "para": 691,
+          "snippet": "His Revelation"
+        },
+        {
+          "work": "gleanings",
+          "para": 723,
+          "snippet": "Cause"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 797,
+          "snippet": "Thy Cause"
+        },
+        {
+          "work": "gleanings",
+          "para": 8,
+          "snippet": "Revelation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 597,
+          "snippet": "service"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 167,
+          "snippet": "things"
+        }
+      ]
+    },
+    {
+      "term": "وجودات",
+      "transliteration": "w-j-d",
+      "literal": "to find; to discover; to obtain",
+      "se_rendering": "beings",
+      "note": "Generally 'being' or 'found' (67 occ). 'Holy beings' personalizes the abstract root, underscoring the martyrs' sanctity rather than mere existence or discovery.",
+      "cross_refs": [
+        {
+          "work": "the-hidden-words",
+          "para": 91,
+          "snippet": "adorned"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 27,
+          "snippet": "found"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 783,
+          "snippet": "point of creation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 832,
+          "snippet": "being"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 214,
+          "snippet": "is led"
+        },
+        {
+          "work": "gleanings",
+          "para": 436,
+          "snippet": "The Great Being"
+        },
+        {
+          "work": "gleanings",
+          "para": 4,
+          "snippet": "created things"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 291,
+          "snippet": "all created things"
+        }
+      ]
+    },
+    {
+      "term": "ظاهر",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "manifest",
+      "note": "Standardly 'Manifestation' or 'evident' (96 occ). 'Manifest' here applies to the clarity of traditions themselves, not divine Revelation — a rare application to scriptural evidence.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 53,
+          "snippet": "Manifestation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 160,
+          "snippet": "Author of all Manifestations"
+        },
+        {
+          "work": "gleanings",
+          "para": 222,
+          "snippet": "material"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 206,
+          "snippet": "appeared"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 255,
+          "snippet": "Manifestations"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 791,
+          "snippet": "tokens of Thy handiwork"
+        }
+      ]
+    },
+    {
+      "term": "جمال",
+      "transliteration": "j-m-l",
+      "literal": "beauty; comeliness",
+      "se_rendering": "Beauty",
+      "note": "Regularly 'Beauty' or 'Ancient Beauty' (38 occ). Maintains capitalization here, treating divine Beauty as a proper theological term parallel to 'Revelation of God'.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 296,
+          "snippet": "Beauty"
+        },
+        {
+          "work": "gleanings",
+          "para": 183,
+          "snippet": "Ancient Beauty"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 193,
+          "snippet": "Among others"
+        },
+        {
+          "work": "gleanings",
+          "para": 359,
+          "snippet": "Amongst"
+        },
+        {
+          "work": "gleanings",
+          "para": 649,
+          "snippet": "by the beauty"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 88,
+          "snippet": "for a beauty"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 116,
+          "snippet": "by Thine Ancient Beauty"
+        },
+        {
+          "work": "gleanings",
+          "para": 165,
+          "snippet": "By My Beauty"
+        }
+      ]
+    },
+    {
+      "term": "اعراض",
+      "transliteration": "ʿ-r-d",
+      "literal": "to turn away; to avert; to abstain; heedless",
+      "se_rendering": "faithlessness",
+      "note": "Commonly 'turned away', 'turned aside', 'disbelievers' (47 occ). 'Faithlessness' renders the noun form as ethical failure, uniquely moral rather than spatial or volitional.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 136,
+          "snippet": "turned away"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 168,
+          "snippet": "turned aside"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 230,
+          "snippet": "disbelievers"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 505,
+          "snippet": "turned their backs"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 431,
+          "snippet": "have turned back"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 29,
+          "snippet": "hast turned away"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 104,
+          "snippet": "are turned back"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 14,
+          "snippet": "turns away"
+        }
+      ]
+    },
+    {
+      "term": "خرجت",
+      "transliteration": "kh-r-j",
+      "literal": "bringing out, taking out, expulsion, extraction",
+      "se_rendering": "proceeded",
+      "note": "Typically 'went forth', 'came out', 'expulsion' (38 occ). 'Proceeded' abstracts the spatial/extraction sense, rendering the hadith's causal claim about mischief's origin in the doctors.",
+      "cross_refs": [
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 25,
+          "snippet": "the maid of heaven looked out"
+        },
+        {
+          "work": "gleanings",
+          "para": 588,
+          "snippet": "Step out of Thy holy chamber"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 43,
+          "snippet": "Unsheathe the sword of your tongue"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 84,
+          "snippet": "Come ye out of them by My leave"
+        },
+        {
+          "work": "gleanings",
+          "para": 243,
+          "snippet": "Our expulsion"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 36,
+          "snippet": "went forth"
+        },
+        {
+          "work": "gleanings",
+          "para": 308,
+          "snippet": "concealed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 127,
+          "snippet": "foreign"
+        }
+      ]
+    }
+  ],
+  "section_index": "276",
+  "section": "276",
+  "section_para": 1
 }

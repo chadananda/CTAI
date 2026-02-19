@@ -1,10 +1,90 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 689,
   "source_text": "إِنَّا كُلٌّ لِلَّهِ صابِرُونَ",
   "translation": "We all, verily, yield thanks unto God.",
   "source_lang": "ar",
-  "score": 9.9
+  "score": 9.9,
+  "page_slug": "yield-thanks-unto-god",
+  "alignment": [
+    {
+      "ar": "صابِرُونَ",
+      "en": "yield thanks"
+    }
+  ],
+  "terms": [
+    {
+      "term": "لِلَّهِ",
+      "transliteration": "l-l-h",
+      "literal": "to God; for God; God's",
+      "se_rendering": "unto God",
+      "note": "Standard renderings are 'to God' or 'God's.' Here SE uses 'unto God'—an archaic preposition choice emphasizing devotional directness rather than possession or simple attribution.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 2,
+          "snippet": "to God"
+        },
+        {
+          "work": "gleanings",
+          "para": 79,
+          "snippet": "God's"
+        }
+      ]
+    },
+    {
+      "term": "صابِرُونَ",
+      "transliteration": "s-b-r",
+      "literal": "patience; forbearance; endurance; to be patient",
+      "se_rendering": "yield thanks",
+      "note": "Root s-b-r typically renders as 'patient' or 'forbearance' (32 occurrences in corpus). Here rendered 'yield thanks'—a radical semantic shift suggesting SE prioritized contextual gratitude over etymological patience.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 48,
+          "snippet": "forbearance"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 40,
+          "snippet": "Patience of the worlds"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 49,
+          "snippet": "patience"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 39,
+          "snippet": "Thy patience"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 251,
+          "snippet": "their steadfastness"
+        },
+        {
+          "work": "gleanings",
+          "para": 620,
+          "snippet": "be patient"
+        },
+        {
+          "work": "gleanings",
+          "para": 408,
+          "snippet": "steadfast"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 61,
+          "snippet": "endured patiently"
+        }
+      ]
+    }
+  ],
+  "section_index": "CLXVII.8",
+  "section": "CLXVII",
+  "section_para": 8
 }

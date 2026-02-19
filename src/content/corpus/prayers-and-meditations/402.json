@@ -1,10 +1,483 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 402,
   "source_text": "لإِظْهارِ أَمْرِكَ وَارْتِقائِهِمْ إِلى جَبَرُوتِ البَقآءِ فِي جِوارِكَ وَلَكنْ أَنْتَ تَعْلَمُ بِأَنَّ بَيْنَهُمْ ضُعَفآءُ يَجْزَعُونَ مِنَ البَلايا، أَسْئَلُكَ يا إِلهِي بِأَنْ تُوَفِّقَهُمْ عَلَى الاصْطِبارِ فِي حُبِّكَ ثُمَّ أَشْهِدْهُمْ ما قَدَّرْتَ لَهُمْ خَلْفَ سُرادِقِ عِصْمَتِكَ لِيُسْرِعُنَّ إِلى القَضآءِ فِي سَبِيلِكَ وَيَسْتَبِقُنَّ البَلآءَ فِي حُبِّكَ، أَوْ فَأَظْهِرْ رايَاتِ نُصْرَتِكَ ثُمَّ اجْعَلْهُمْ مُقْتَدِرًا عَلَى أَعْدائِكَ لِيَظْهَرَ سُلْطانُكَ عَلَى مَنْ فِي مَمْلَكَتِكَ وَاقْتِدارُكَ بَيْنَ خَلْقِكَ، إِنَّكَ أَنْتَ المُقْتَدِرُ عَلَى ما تَشآءُ لا إِلهَ إِلاَّ أَنْتَ العَلِيمُ الحَكِيمُ، أَنْ أَثْبِتْ",
   "translation": "Help them through Thy strengthening grace, I beseech Thee, O my God, to suffer patiently in their love for Thee, and unveil to their eyes what Thou hast decreed for them behind the Tabernacle of Thine unfailing protection, so that they may rush forward to meet what is preordained for them in Thy path, and may vie in hasting after tribulation in their love towards Thee. And if not, do Thou, then, reveal the standards of Thine ascendancy, and make them to be victorious over Thine adversaries, that Thy sovereignty may be manifested unto all the dwellers of Thy realm, and the power of Thy might demonstrated amidst Thy creatures. Powerful art Thou to do what Thou willest. No God is there but Thee, the Omniscient, the All-Wise.",
   "source_lang": "ar",
-  "score": 9.2
+  "score": 9.2,
+  "page_slug": "rush-forward-meet-preordained",
+  "alignment": [
+    {
+      "ar": "لإِظْهارِ",
+      "en": "reveal"
+    },
+    {
+      "ar": "أَمْرِكَ",
+      "en": "Thy"
+    },
+    {
+      "ar": "ارْتِقائِهِمْ",
+      "en": "ascendancy"
+    },
+    {
+      "ar": "جَبَرُوتِ",
+      "en": "standards"
+    },
+    {
+      "ar": "البَقآءِ",
+      "en": "unfailing"
+    },
+    {
+      "ar": "جِوارِكَ",
+      "en": "protection"
+    },
+    {
+      "ar": "يَجْزَعُونَ",
+      "en": "suffer"
+    },
+    {
+      "ar": "البَلايا",
+      "en": "tribulation"
+    },
+    {
+      "ar": "أَسْئَلُكَ",
+      "en": "beseech Thee"
+    },
+    {
+      "ar": "إِلهِي",
+      "en": "my God"
+    },
+    {
+      "ar": "عَلَى",
+      "en": "to"
+    },
+    {
+      "ar": "الاصْطِبارِ",
+      "en": "patiently"
+    },
+    {
+      "ar": "أَشْهِدْهُمْ",
+      "en": "unveil to their eyes"
+    },
+    {
+      "ar": "لَهُمْ",
+      "en": "for them"
+    },
+    {
+      "ar": "خَلْفَ",
+      "en": "behind"
+    },
+    {
+      "ar": "سُرادِقِ",
+      "en": "Tabernacle"
+    },
+    {
+      "ar": "عِصْمَتِكَ",
+      "en": "Thine"
+    },
+    {
+      "ar": "القَضآءِ",
+      "en": "preordained"
+    },
+    {
+      "ar": "سَبِيلِكَ",
+      "en": "Thy path"
+    },
+    {
+      "ar": "البَلآءَ",
+      "en": "after"
+    },
+    {
+      "ar": "فَأَظْهِرْ",
+      "en": "do Thou, then, reveal"
+    },
+    {
+      "ar": "رايَاتِ",
+      "en": "the standards"
+    },
+    {
+      "ar": "اجْعَلْهُمْ",
+      "en": "make them"
+    },
+    {
+      "ar": "مُقْتَدِرًا",
+      "en": "victorious"
+    },
+    {
+      "ar": "أَعْدائِكَ",
+      "en": "Thine adversaries"
+    },
+    {
+      "ar": "لِيَظْهَرَ",
+      "en": "may be manifested"
+    },
+    {
+      "ar": "سُلْطانُكَ",
+      "en": "Thy sovereignty"
+    },
+    {
+      "ar": "عَلَى",
+      "en": "unto"
+    },
+    {
+      "ar": "مَنْ",
+      "en": "all"
+    },
+    {
+      "ar": "مَمْلَكَتِكَ",
+      "en": "Thy realm"
+    },
+    {
+      "ar": "اقْتِدارُكَ",
+      "en": "the power of Thy might"
+    },
+    {
+      "ar": "بَيْنَ",
+      "en": "amidst"
+    },
+    {
+      "ar": "خَلْقِكَ",
+      "en": "Thy creatures"
+    },
+    {
+      "ar": "أَنْتَ",
+      "en": "Thou"
+    },
+    {
+      "ar": "المُقْتَدِرُ",
+      "en": "Powerful"
+    },
+    {
+      "ar": "تَشآءُ",
+      "en": "willest"
+    },
+    {
+      "ar": "العَلِيمُ",
+      "en": "the Omniscient"
+    },
+    {
+      "ar": "الحَكِيمُ",
+      "en": "the All-Wise"
+    }
+  ],
+  "terms": [
+    {
+      "term": "جَبَرُوتِ",
+      "transliteration": "j-b-r",
+      "literal": "compelled; forced; constrained",
+      "se_rendering": "the realm of immortality",
+      "note": "Root typically rendered 'compelled' or 'omnipotence.' Here rendered 'realm of immortality'—a metaphysical elevation rather than force-based meaning, unique among 19 occurrences.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "exhorted"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 38,
+          "snippet": "constrained"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 53,
+          "snippet": "Divine Strength"
+        },
+        {
+          "work": "gleanings",
+          "para": 584,
+          "snippet": "the sovereign power of the Cause"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 1,
+          "snippet": "glory"
+        },
+        {
+          "work": "gleanings",
+          "para": 3,
+          "snippet": "realm"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 5,
+          "snippet": "dominion"
+        }
+      ]
+    },
+    {
+      "term": "الاصْطِبارِ",
+      "transliteration": "s-b-r",
+      "literal": "patience; forbearance; endurance; to be patient",
+      "se_rendering": "patiently",
+      "note": "Typically 'patience' or 'forbearance.' SE's 'suffer patiently' combines verb+adverb, intensifying the active endurance theme across 32 occurrences.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 48,
+          "snippet": "forbearance"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 40,
+          "snippet": "Patience of the worlds"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 49,
+          "snippet": "patience"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 39,
+          "snippet": "Thy patience"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 251,
+          "snippet": "their steadfastness"
+        },
+        {
+          "work": "gleanings",
+          "para": 620,
+          "snippet": "be patient"
+        },
+        {
+          "work": "gleanings",
+          "para": 408,
+          "snippet": "steadfast"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 61,
+          "snippet": "endured patiently"
+        }
+      ]
+    },
+    {
+      "term": "سُرادِقِ",
+      "transliteration": "s-r-d-q",
+      "literal": "pavilion; tabernacle; canopy; tent",
+      "se_rendering": "the Tabernacle",
+      "note": "Consistently 'Tabernacle' or 'pavilion' across 10 occurrences. SE's choice of 'Tabernacle' here invokes Qur'anic sacred tent imagery, elevating the metaphor of divine protection.",
+      "cross_refs": [
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 21,
+          "snippet": "pavilion"
+        },
+        {
+          "work": "gleanings",
+          "para": 584,
+          "snippet": "Veil"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 36,
+          "snippet": "Tabernacle"
+        }
+      ]
+    },
+    {
+      "term": "القَضآءِ",
+      "transliteration": "q-d-y",
+      "literal": "requirement; exigency; what demands or calls for",
+      "se_rendering": "what is preordained",
+      "note": "Typically 'decree' or 'mysteries.' Here 'what is preordained'—a future-oriented reading emphasizing divine will's predetermined character across 18 occurrences.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 228,
+          "snippet": "would not be meet and seemly"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 29,
+          "snippet": "gales of destiny"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 106,
+          "snippet": "according to"
+        },
+        {
+          "work": "gleanings",
+          "para": 163,
+          "snippet": "Thy judgments"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 29,
+          "snippet": "for a judge"
+        },
+        {
+          "work": "gleanings",
+          "para": 226,
+          "snippet": "when the time set for this Revelation was fulfilled"
+        },
+        {
+          "work": "gleanings",
+          "para": 494,
+          "snippet": "hath been ordained"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 85,
+          "snippet": "the decision made"
+        }
+      ]
+    },
+    {
+      "term": "رايَاتِ",
+      "transliteration": "r-ʾ-y",
+      "literal": "to see; to perceive; to look",
+      "se_rendering": "the standards",
+      "note": "Root ر-ء-ي normally means 'to see/perceive' with visual renderings dominating 31 occurrences. 'Standards' here is metaphorical—banners of victory, a symbolic departure.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 157,
+          "snippet": "scornfully"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 23,
+          "snippet": "from"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 233,
+          "snippet": "by"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 33,
+          "snippet": "seest them"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 70,
+          "snippet": "we have seen"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 198,
+          "snippet": "we beheld"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 23,
+          "snippet": "Thou seest Me"
+        },
+        {
+          "work": "gleanings",
+          "para": 247,
+          "snippet": "didst behold"
+        }
+      ]
+    },
+    {
+      "term": "أَعْدائِكَ",
+      "transliteration": "ʿ-d-w",
+      "literal": "hostility, aggression, enmity, transgression",
+      "se_rendering": "Thine adversaries",
+      "note": "Root ع-د-و regularly rendered 'enemies' or 'foes.' SE chooses 'adversaries' here—a more formal, collective term emphasizing opposition rather than personal enmity.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 4,
+          "snippet": "hostility"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 53,
+          "snippet": "enemies of the Covenant"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 110,
+          "snippet": "his enemy"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 33,
+          "snippet": "Thy foes"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 35,
+          "snippet": "amongst mine enemies"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 100,
+          "snippet": "his enemies"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 52,
+          "snippet": "enemies"
+        },
+        {
+          "work": "gleanings",
+          "para": 184,
+          "snippet": "Mine enemies"
+        }
+      ]
+    },
+    {
+      "term": "سُلْطانُكَ",
+      "transliteration": "s-l-ṭ",
+      "literal": "dominion; authority; power; sovereignty; control",
+      "se_rendering": "Thy sovereignty",
+      "note": "Standard rendering 'sovereignty' or 'dominion' across 43 occurrences. Here 'sovereignty' maintains consistency, though paired with 'manifested' to emphasize public visibility.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 369,
+          "snippet": "sovereignty"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 151,
+          "snippet": "dominion"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 13,
+          "snippet": "O King"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 157,
+          "snippet": "the Sháh"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 1,
+          "snippet": "the King"
+        },
+        {
+          "work": "gleanings",
+          "para": 472,
+          "snippet": "King (Sulṭán 'Abdu'l-'Azíz)"
+        },
+        {
+          "work": "gleanings",
+          "para": 236,
+          "snippet": "the Sulṭán"
+        },
+        {
+          "work": "gleanings",
+          "para": 592,
+          "snippet": "by virtue of His sovereignty"
+        }
+      ]
+    }
+  ],
+  "section_index": "XCIV.4",
+  "section": "XCIV",
+  "section_para": 4
 }

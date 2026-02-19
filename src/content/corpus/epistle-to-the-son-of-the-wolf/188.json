@@ -1,10 +1,496 @@
 {
   "work": "Epistle to the Son of the Wolf",
   "slug": "epistle-to-the-son-of-the-wolf",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 188,
   "source_text": "در اکثری از الواح اين نصيحت کبری از سماء رحمت سابقه نازل قلنا يا معشر الامراء و العلماء اسمعوا النّداء من افق عکّاء انّه يرشدکم و يقرّبکم و يهديکم الی مقام جعله اللّه مطلع الوحی و مشرق الانوار * يا اهل العالم قد اتی الاسم الاعظم من لدن مالک القدم و بشّر العباد بهذا الظّهور الّذی کان مکنونا فی العلم و مخزونا فی کنز العصمة و مرقوما من القلم الاعلی فی صحف اللّه ربّ الارباب * يا اهل الشّين أنسيتم عنايتی و رحمتی الّتی سبقت الاشياء من لدی اللّه مالک الرّقاب ؟",
   "translation": "In most of Our Tablets this most weighty exhortation hath been sent down from the heaven of His all-encompassing mercy. We said: \"O concourse of rulers and divines! Incline your ears unto the Voice calling from the horizon of ‘Akká. Verily, it aideth you to proceed aright, and draweth you nigh unto Him, and directeth your steps towards the station which God hath made the dayspring of His Revelation and the Dawning-Place of His splendors. O peoples of the world! He Who is the Most Great Name is come, on the part of the Ancient King, and hath announced unto men this Revelation which lay hid in His knowledge, and was preserved in the treasury of His protection, and was written down by the Most Sublime Pen in the Books of God, the Lord of Lords. O people of Shin (Shíráz)! Have ye forgotten My loving-kindness and My mercy that have surpassed all created things, and which proceeded from God Who layeth low the necks of men?\"",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "most-great-name-proclaimed",
+  "alignment": [
+    {
+      "ar": "اکثری",
+      "en": "most"
+    },
+    {
+      "ar": "الواح",
+      "en": "Tablets"
+    },
+    {
+      "ar": "نصيحت",
+      "en": "exhortation"
+    },
+    {
+      "ar": "کبری",
+      "en": "most weighty"
+    },
+    {
+      "ar": "سماء",
+      "en": "heaven"
+    },
+    {
+      "ar": "رحمت",
+      "en": "mercy"
+    },
+    {
+      "ar": "سابقه",
+      "en": "all-encompassing"
+    },
+    {
+      "ar": "نازل",
+      "en": "sent down"
+    },
+    {
+      "ar": "قلنا",
+      "en": "We said"
+    },
+    {
+      "ar": "معشر",
+      "en": "concourse"
+    },
+    {
+      "ar": "الامراء",
+      "en": "rulers"
+    },
+    {
+      "ar": "العلماء",
+      "en": "divines"
+    },
+    {
+      "ar": "اسمعوا",
+      "en": "Incline your ears"
+    },
+    {
+      "ar": "النّداء",
+      "en": "Voice calling"
+    },
+    {
+      "ar": "افق",
+      "en": "horizon"
+    },
+    {
+      "ar": "يرشدکم",
+      "en": "aideth you to proceed aright"
+    },
+    {
+      "ar": "يقرّبکم",
+      "en": "draweth you nigh"
+    },
+    {
+      "ar": "يهديکم",
+      "en": "directeth your steps"
+    },
+    {
+      "ar": "مقام",
+      "en": "station"
+    },
+    {
+      "ar": "جعله",
+      "en": "hath made"
+    },
+    {
+      "ar": "اللّه",
+      "en": "God"
+    },
+    {
+      "ar": "مطلع",
+      "en": "dayspring"
+    },
+    {
+      "ar": "الوحی",
+      "en": "Revelation"
+    },
+    {
+      "ar": "مشرق",
+      "en": "Dawning-Place"
+    },
+    {
+      "ar": "الانوار",
+      "en": "splendors"
+    },
+    {
+      "ar": "اهل العالم",
+      "en": "peoples of the world"
+    },
+    {
+      "ar": "اتی",
+      "en": "is come"
+    },
+    {
+      "ar": "الاسم الاعظم",
+      "en": "Most Great Name"
+    },
+    {
+      "ar": "مالک القدم",
+      "en": "Ancient King"
+    },
+    {
+      "ar": "بشّر",
+      "en": "announced"
+    },
+    {
+      "ar": "العباد",
+      "en": "men"
+    },
+    {
+      "ar": "مکنونا",
+      "en": "lay hid"
+    },
+    {
+      "ar": "العلم",
+      "en": "knowledge"
+    },
+    {
+      "ar": "مخزونا",
+      "en": "preserved"
+    },
+    {
+      "ar": "کنز",
+      "en": "treasury"
+    },
+    {
+      "ar": "العصمة",
+      "en": "protection"
+    },
+    {
+      "ar": "مرقوما",
+      "en": "written down"
+    },
+    {
+      "ar": "القلم الاعلی",
+      "en": "Most Sublime Pen"
+    },
+    {
+      "ar": "صحف",
+      "en": "Books"
+    },
+    {
+      "ar": "ربّ الارباب",
+      "en": "Lord of Lords"
+    },
+    {
+      "ar": "اهل الشّين",
+      "en": "people of Shin"
+    },
+    {
+      "ar": "أنسيتم",
+      "en": "Have ye forgotten"
+    },
+    {
+      "ar": "عنايتی",
+      "en": "loving-kindness"
+    },
+    {
+      "ar": "سبقت",
+      "en": "have surpassed"
+    },
+    {
+      "ar": "الاشياء",
+      "en": "all created things"
+    },
+    {
+      "ar": "مالک الرّقاب",
+      "en": "layeth low the necks"
+    }
+  ],
+  "terms": [
+    {
+      "term": "رحمت",
+      "transliteration": "r-ḥ-m",
+      "literal": "merciful, compassionate; pertaining to divine mercy",
+      "se_rendering": "mercy",
+      "note": "Rendered 'mercy' — standard rendering (70 occ.), though often 'Divine glory' or 'celestial melody.' Here emphasizes God's tender compassion preceding creation in eternity.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 673,
+          "snippet": "Divine glory"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 57,
+          "snippet": "Divine"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 89,
+          "snippet": "celestial melody"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 114,
+          "snippet": "spirit of mercy"
+        },
+        {
+          "work": "gleanings",
+          "para": 372,
+          "snippet": "merciful"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 546,
+          "snippet": "mercy"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 50,
+          "snippet": "the Compassionate"
+        },
+        {
+          "work": "gleanings",
+          "para": 183,
+          "snippet": "the Merciful, the Compassionate"
+        }
+      ]
+    },
+    {
+      "term": "نازل",
+      "transliteration": "n-z-l",
+      "literal": "to descend, to be revealed",
+      "se_rendering": "sent down",
+      "note": "Rendered 'sent down' — primary rendering pattern (88 occ.). Reinforces descent of mercy from heaven, a favored metaphor in SE's translation style.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 643,
+          "snippet": "sent down"
+        },
+        {
+          "work": "gleanings",
+          "para": 218,
+          "snippet": "revealed"
+        },
+        {
+          "work": "gleanings",
+          "para": 656,
+          "snippet": "descended"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 175,
+          "snippet": "didst send down"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 34,
+          "snippet": "Descend"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 47,
+          "snippet": "pour forth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 330,
+          "snippet": "send down"
+        },
+        {
+          "work": "gleanings",
+          "para": 604,
+          "snippet": "have been sent down"
+        }
+      ]
+    },
+    {
+      "term": "مقام",
+      "transliteration": "q-w-m",
+      "literal": "rising; standing; uprising; resurrection",
+      "se_rendering": "station",
+      "note": "Rendered 'station' — unique choice among its 109 occurrences typically rendered as 'Day of Resurrection' or 'arise.' Here denotes a spiritual locus appointed by God.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 152,
+          "snippet": "Day of Resurrection"
+        },
+        {
+          "work": "gleanings",
+          "para": 437,
+          "snippet": "arise"
+        },
+        {
+          "work": "gleanings",
+          "para": 513,
+          "snippet": "dedicateth"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 153,
+          "snippet": "Resurrection"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "peoples"
+        },
+        {
+          "work": "gleanings",
+          "para": 693,
+          "snippet": "commandments"
+        },
+        {
+          "work": "gleanings",
+          "para": 628,
+          "snippet": "My commandments"
+        },
+        {
+          "work": "gleanings",
+          "para": 518,
+          "snippet": "steadfast"
+        }
+      ]
+    },
+    {
+      "term": "مطلع",
+      "transliteration": "t-l-ʿ",
+      "literal": "rising; appearance; countenance; manifestation",
+      "se_rendering": "dayspring",
+      "note": "Rendered 'dayspring' — creative rendering (32 occ. with varied forms like 'Manifestations,' 'countenances'). Combines root sense of rising with light imagery for revelatory appearance.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 47,
+          "snippet": "lives"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 856,
+          "snippet": "countenances"
+        },
+        {
+          "work": "gleanings",
+          "para": 35,
+          "snippet": "Revealers of the beauty"
+        },
+        {
+          "work": "gleanings",
+          "para": 364,
+          "snippet": "Manifestations"
+        },
+        {
+          "work": "gleanings",
+          "para": 221,
+          "snippet": "instigators"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "sources of command"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 16,
+          "snippet": "embodiments"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 21,
+          "snippet": "daysprings"
+        }
+      ]
+    },
+    {
+      "term": "الظّهور",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "Revelation",
+      "note": "Rendered 'Revelation' rather than standard 'Manifestation' (96 occ.). SE employs 'Revelation' to stress unveiling of divine knowledge rather than appearance/manifestation.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 53,
+          "snippet": "Manifestation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 160,
+          "snippet": "Author of all Manifestations"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 136,
+          "snippet": "evident"
+        },
+        {
+          "work": "gleanings",
+          "para": 222,
+          "snippet": "material"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 196,
+          "snippet": "Manifestations of God"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 255,
+          "snippet": "Manifestations"
+        }
+      ]
+    },
+    {
+      "term": "الاعلی",
+      "transliteration": "ʿ-l-w",
+      "literal": "highest; most high; supreme",
+      "se_rendering": "Most Sublime Pen",
+      "note": "Rendered 'Most Sublime Pen' — applied specifically to the Divine Pen (74 occ. forms). SE restricts 'Sublime' to this instrument, linking transcendence to creative agency.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 1,
+          "snippet": "the Most High"
+        },
+        {
+          "work": "gleanings",
+          "para": 232,
+          "snippet": "supreme"
+        },
+        {
+          "work": "gleanings",
+          "para": 616,
+          "snippet": "the realms above"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 390,
+          "snippet": "the Most Exalted, the Most High"
+        },
+        {
+          "work": "gleanings",
+          "para": 393,
+          "snippet": "The Pen of the Most High"
+        },
+        {
+          "work": "gleanings",
+          "para": 697,
+          "snippet": "the Dayspring of Glory"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 1,
+          "snippet": "the Realm of Glory"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 257,
+          "snippet": "the Báb, the Lord, the most exalted"
+        }
+      ]
+    }
+  ],
+  "section_index": "188",
+  "section": "188",
+  "section_para": 1
 }

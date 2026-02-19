@@ -1,10 +1,478 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 621,
   "source_text": "ًا لظهور تجلّياته إِذًا قَدِّسُوها عن دونها لِيَرْ تَسِم عليها ما خلقت لها وإنّ هذا لفضل عظيم قل يا قوم زيّنوا لسانكم بالصّدق ونفوسكم بالأمانة إيّاكم يا قوم لا تخانوا في شيء وكونوا أمناء الله بين بريّته وكونوا من المحسنين إنّ الّذين يرتكبون البغي والفحشاء أولئك ضَلَّ سعيهم وكانوا من الخاسرين أن اجهدوا يا قوم بأن يكون عيونكم ناظرة إلى شطر رحمة الله وقلوبكم مُتَذَكِّرًا ببدايع ذكره ونفوسكم مطمئنّة بمواهبه وفضله وأرجلكم ماشِيَة على سُبُل رضائه وهذا وصيّتي عليكم إن أنتم من العاملين.",
   "translation": "Unlock, O people, the gates of the hearts of men with the keys of the remembrance of Him Who is the Remembrance of God and the Source of wisdom amongst you. He hath chosen out of the whole world the hearts of His servants, and made them each a seat for the revelation of His glory. Wherefore, sanctify them from every defilement, that the things for which they were created may be engraven upon them. This indeed is a token of God’s bountiful favor.\nBeautify your tongues, O people, with truthfulness, and adorn your souls with the ornament of honesty. Beware, O people, that ye deal not treacherously with anyone. Be ye the trustees of God amongst His creatures, and the emblems of His generosity amidst His people. They that follow their lusts and corrupt inclinations, have erred and dissipated their efforts. They, indeed, are of the lost. Strive, O people, that your eyes may be directed towards the mercy of God, that your hearts may be attuned to His wondrous remembrance, that your souls may rest confidently upon His grace and bounty, that your feet may tread the path of His good-pleasure. Such are the counsels which I bequeath unto you. Would that ye might follow My counsels!",
   "source_lang": "ar",
-  "score": 9.2
+  "score": 9.2,
+  "page_slug": "hearts-revelation-divine-glory",
+  "alignment": [
+    {
+      "ar": "لظهور",
+      "en": "for the revelation"
+    },
+    {
+      "ar": "تجلّياته",
+      "en": "His glory"
+    },
+    {
+      "ar": "عن",
+      "en": "from"
+    },
+    {
+      "ar": "دونها",
+      "en": "every defilement"
+    },
+    {
+      "ar": "تَسِم",
+      "en": "engraven"
+    },
+    {
+      "ar": "عليها",
+      "en": "upon them"
+    },
+    {
+      "ar": "ما",
+      "en": "the things"
+    },
+    {
+      "ar": "خلقت",
+      "en": "were created"
+    },
+    {
+      "ar": "لها",
+      "en": "for which they"
+    },
+    {
+      "ar": "هذا",
+      "en": "This"
+    },
+    {
+      "ar": "لفضل",
+      "en": "favor"
+    },
+    {
+      "ar": "عظيم",
+      "en": "bountiful"
+    },
+    {
+      "ar": "قل",
+      "en": ""
+    },
+    {
+      "ar": "يا قوم",
+      "en": "O people"
+    },
+    {
+      "ar": "زيّنوا",
+      "en": "Beautify"
+    },
+    {
+      "ar": "لسانكم",
+      "en": "your tongues"
+    },
+    {
+      "ar": "بالصّدق",
+      "en": "with truthfulness"
+    },
+    {
+      "ar": "ونفوسكم",
+      "en": "your souls"
+    },
+    {
+      "ar": "بالأمانة",
+      "en": "with the ornament of honesty"
+    },
+    {
+      "ar": "إيّاكم",
+      "en": "Beware"
+    },
+    {
+      "ar": "لا تخانوا",
+      "en": "ye deal not treacherously"
+    },
+    {
+      "ar": "في شيء",
+      "en": "with anyone"
+    },
+    {
+      "ar": "كونوا",
+      "en": "Be ye"
+    },
+    {
+      "ar": "أمناء",
+      "en": "the trustees"
+    },
+    {
+      "ar": "الله",
+      "en": "God"
+    },
+    {
+      "ar": "بين",
+      "en": "amongst"
+    },
+    {
+      "ar": "بريّته",
+      "en": "His creatures"
+    },
+    {
+      "ar": "من المحسنين",
+      "en": "the emblems of His generosity"
+    },
+    {
+      "ar": "إنّ",
+      "en": ""
+    },
+    {
+      "ar": "الّذين",
+      "en": "They that"
+    },
+    {
+      "ar": "يرتكبون",
+      "en": "follow"
+    },
+    {
+      "ar": "البغي",
+      "en": "their lusts"
+    },
+    {
+      "ar": "والفحشاء",
+      "en": "and corrupt inclinations"
+    },
+    {
+      "ar": "أولئك",
+      "en": "They"
+    },
+    {
+      "ar": "سعيهم",
+      "en": "their efforts"
+    },
+    {
+      "ar": "وكانوا",
+      "en": "are"
+    },
+    {
+      "ar": "من الخاسرين",
+      "en": "of the lost"
+    },
+    {
+      "ar": "اجهدوا",
+      "en": "Strive"
+    },
+    {
+      "ar": "بأن",
+      "en": "that"
+    },
+    {
+      "ar": "يكون",
+      "en": "may be"
+    },
+    {
+      "ar": "عيونكم",
+      "en": "your eyes"
+    },
+    {
+      "ar": "ناظرة",
+      "en": "directed"
+    },
+    {
+      "ar": "إلى",
+      "en": "towards"
+    },
+    {
+      "ar": "شطر",
+      "en": ""
+    },
+    {
+      "ar": "رحمة",
+      "en": "the mercy"
+    },
+    {
+      "ar": "وقلوبكم",
+      "en": "your hearts"
+    },
+    {
+      "ar": "ببدايع",
+      "en": "wondrous"
+    },
+    {
+      "ar": "مطمئنّة",
+      "en": "rest confidently"
+    },
+    {
+      "ar": "بمواهبه",
+      "en": "His grace"
+    },
+    {
+      "ar": "وفضله",
+      "en": "and bounty"
+    },
+    {
+      "ar": "وأرجلكم",
+      "en": "your feet"
+    },
+    {
+      "ar": "ماشِيَة",
+      "en": "tread"
+    },
+    {
+      "ar": "على",
+      "en": ""
+    },
+    {
+      "ar": "سُبُل",
+      "en": "the path"
+    },
+    {
+      "ar": "رضائه",
+      "en": "His good-pleasure"
+    },
+    {
+      "ar": "وصيّتي",
+      "en": "the counsels"
+    },
+    {
+      "ar": "عليكم",
+      "en": "unto you"
+    },
+    {
+      "ar": "إن",
+      "en": ""
+    },
+    {
+      "ar": "أنتم",
+      "en": "ye"
+    },
+    {
+      "ar": "من العاملين",
+      "en": "follow My counsels"
+    }
+  ],
+  "terms": [
+    {
+      "term": "خلقت",
+      "transliteration": "kh-l-q",
+      "literal": "character; moral traits; disposition; conduct",
+      "se_rendering": "they were created",
+      "note": "Root خ-ل-ق spans 'character,' 'virtues,' 'created her,' 'creatures' (49 occ). This passive construction 'they were created' emphasizes purposive design over moral disposition.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 28,
+          "snippet": "character"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 50,
+          "snippet": "spiritual characteristics"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 195,
+          "snippet": "virtues"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 54,
+          "snippet": "created her"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 231,
+          "snippet": "His creatures"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 139,
+          "snippet": "His creation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 343,
+          "snippet": "Thy creatures"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 40,
+          "snippet": "wert created"
+        }
+      ]
+    },
+    {
+      "term": "زيّنوا",
+      "transliteration": "z-y-n",
+      "literal": "to adorn; ornament; beauty",
+      "se_rendering": "Beautify",
+      "note": "Root ز-ي-ن renders 'adorned' or 'adorn' (29 occ). 'Beautify' here carries performative intensity—an imperative of aesthetic cultivation rather than static ornamentation.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 15,
+          "snippet": "Attire"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 203,
+          "snippet": "adorned"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 102,
+          "snippet": "adorn"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 199,
+          "snippet": "doth but add unto their loss"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 134,
+          "snippet": "Beware"
+        }
+      ]
+    },
+    {
+      "term": "رحمة",
+      "transliteration": "r-ḥ-m",
+      "literal": "merciful, compassionate; pertaining to divine mercy",
+      "se_rendering": "mercy",
+      "note": "Root ر-ح-م shows 'Divine glory,' 'spirit of mercy,' 'merciful' (70 occ). 'Mercy' here is the most direct compassional rendering, abandoning SE's frequent 'Divine glory' substitution.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 57,
+          "snippet": "Divine"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 89,
+          "snippet": "celestial melody"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 114,
+          "snippet": "spirit of mercy"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 220,
+          "snippet": "have mercy on them"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 546,
+          "snippet": "mercy"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 50,
+          "snippet": "the Compassionate"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 793,
+          "snippet": "have mercy upon them"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 47,
+          "snippet": "Thy mercy"
+        }
+      ]
+    },
+    {
+      "term": "ذكره",
+      "transliteration": "dh-k-r",
+      "literal": "remembrance; mention; memory",
+      "se_rendering": "remembrance",
+      "note": "Root ذ-ك-ر consistently 'remembrance' (57 occ). 'Wondrous remembrance' maintains semantic fidelity while SE's modifier 'wondrous' (بدايع) intensifies numinous resonance.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 54,
+          "snippet": "mention"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 117,
+          "snippet": "Time and again have I declared"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 39,
+          "snippet": "deliberate"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 274,
+          "snippet": "aforementioned"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 112,
+          "snippet": "recorded"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 34,
+          "snippet": "confined in that"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 4,
+          "snippet": "mentioned"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 6,
+          "snippet": "to remember Thee"
+        }
+      ]
+    },
+    {
+      "term": "مطمئنّة",
+      "transliteration": "t-m-n",
+      "literal": "to be at peace; to be reassured; to settle down",
+      "se_rendering": "rest confidently",
+      "note": "Root ط-م-ن spans 'assurance,' 'confidence,' 'confident' (14 occ). 'Rest confidently' converts passive peace into active repose—SE's most dynamic rendering in this corpus form.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 39,
+          "snippet": "assurance"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 128,
+          "snippet": "confident"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 152,
+          "snippet": "confidence"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 266,
+          "snippet": "spirit of faith"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 177,
+          "snippet": "sanctified souls"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 164,
+          "snippet": "their perturbation"
+        }
+      ]
+    }
+  ],
+  "section_index": "CXXXVI.5",
+  "section": "CXXXVI",
+  "section_para": 5
 }

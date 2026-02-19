@@ -1,10 +1,556 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 827,
   "source_text": "يَا مَنْ فِي فِرَاقِكَ ذَابَتِ الْقُلُوْبُ وَالْأَكْبَادُ وَبِنَارِ حُبِّكَ اشْتَعَلَ مَنْ فِي الْبِلَادِ، أَسْأَلُكَ بَاسْمِكَ الَّذِي بِهِ سَخَّرْتَ الآفَاقَ بِأَنْ لَا تَمْنَعَنِي عَمَّا عِنْدَكَ يَا مَالِكَ الْرِّقَابِ. أَيْ رَبِّ تَرَى الْغَرِيْبَ سَرُعَ إِلَى وَطَنِهِ الْأَعْلَى ظِلِّ قِبَابِ عَظمَتِكَ وَجِوَارِ رَحْمَتِكَ وَالْعَاصِي قَصَدَ بَحْرَ غُفْرَانِكَ وَالذَّلِيْلَ بِسَاطَ عِزِّكَ وَالْفَقِيرَ أُفُقَ غَنَائِكَ. لَكَ الْأَمْرُ فِيْمَا تَشَاءُ. أَشْهَدُ أَنَّكَ أَنْتَ الْمَحْمُودُ في فِعْلِكَ وَالْمُطَاعُ فِي حُكْمِكَ وَالْمُخْتَارُ في أَمْرِك.\nيَا إِلَهِي تَرَى رُوْحِي مُهْتَزًّا فِي جَوَارِحِي وَأَرْكَانِي شَوْقًا لِعِبَادَتِكَ وَشَغَفًا لِذِكْرِكَ وَثَنَائِكَ وَيَشْهَدُ",
   "translation": "O Thou in separation from Whom hearts and souls have melted, and by the fire of Whose love the whole world hath been set aflame! I implore Thee by Thy Name through which Thou hast subdued the whole creation, not to withhold from me that which is with Thee, O Thou Who rulest over all men! Thou seest, O my Lord, this stranger hastening to his most exalted home beneath the canopy of Thy majesty and within the precincts of Thy mercy; and this transgressor seeking the ocean of Thy forgiveness; and this lowly one the court of Thy glory; and this poor creature the orient of Thy wealth. Thine is the authority to command whatsoever Thou willest. I bear witness that Thou art to be praised in Thy doings, and to be obeyed in Thy behests, and to remain unconstrained in Thy bidding.",
   "source_lang": "ar",
-  "score": 9.4
+  "score": 9.4,
+  "page_slug": "stranger-hastening-exalted-home",
+  "alignment": [
+    {
+      "ar": "يَا مَنْ",
+      "en": "O Thou"
+    },
+    {
+      "ar": "فِرَاقِكَ",
+      "en": "separation from Whom"
+    },
+    {
+      "ar": "ذَابَتِ",
+      "en": "melted"
+    },
+    {
+      "ar": "الْقُلُوْبُ",
+      "en": "hearts"
+    },
+    {
+      "ar": "الْأَكْبَادُ",
+      "en": "souls"
+    },
+    {
+      "ar": "بِنَارِ",
+      "en": "by the fire"
+    },
+    {
+      "ar": "اشْتَعَلَ",
+      "en": "been set aflame"
+    },
+    {
+      "ar": "الْبِلَادِ",
+      "en": "the whole world"
+    },
+    {
+      "ar": "أَسْأَلُكَ",
+      "en": "I implore Thee"
+    },
+    {
+      "ar": "بَاسْمِكَ",
+      "en": "by Thy Name"
+    },
+    {
+      "ar": "الآفَاقَ",
+      "en": "the whole creation"
+    },
+    {
+      "ar": "لَا تَمْنَعَنِي",
+      "en": "not to withhold from me"
+    },
+    {
+      "ar": "عِنْدَكَ",
+      "en": "with Thee"
+    },
+    {
+      "ar": "تَرَى",
+      "en": "seest"
+    },
+    {
+      "ar": "الْغَرِيْبَ",
+      "en": "this stranger"
+    },
+    {
+      "ar": "سَرُعَ",
+      "en": "hastening"
+    },
+    {
+      "ar": "وَطَنِهِ الْأَعْلَى",
+      "en": "his most exalted home"
+    },
+    {
+      "ar": "قِبَابِ",
+      "en": "the canopy"
+    },
+    {
+      "ar": "عَظمَتِكَ",
+      "en": "of Thy majesty"
+    },
+    {
+      "ar": "جِوَارِ",
+      "en": "the precincts"
+    },
+    {
+      "ar": "رَحْمَتِكَ",
+      "en": "of Thy mercy"
+    },
+    {
+      "ar": "الْعَاصِي",
+      "en": "this transgressor"
+    },
+    {
+      "ar": "قَصَدَ",
+      "en": "seeking"
+    },
+    {
+      "ar": "بَحْرَ",
+      "en": "the ocean"
+    },
+    {
+      "ar": "غُفْرَانِكَ",
+      "en": "of Thy forgiveness"
+    },
+    {
+      "ar": "بِسَاطَ",
+      "en": "the court"
+    },
+    {
+      "ar": "الْفَقِيرَ",
+      "en": "this poor creature"
+    },
+    {
+      "ar": "أُفُقَ",
+      "en": "the orient"
+    },
+    {
+      "ar": "غَنَائِكَ",
+      "en": "of Thy wealth"
+    },
+    {
+      "ar": "لَكَ",
+      "en": "Thine"
+    },
+    {
+      "ar": "الْأَمْرُ",
+      "en": "the authority"
+    },
+    {
+      "ar": "تَشَاءُ",
+      "en": "willest"
+    },
+    {
+      "ar": "أَشْهَدُ",
+      "en": "I bear witness"
+    },
+    {
+      "ar": "الْمَحْمُودُ",
+      "en": "to be praised"
+    },
+    {
+      "ar": "فِعْلِكَ",
+      "en": "in Thy doings"
+    },
+    {
+      "ar": "الْمُطَاعُ",
+      "en": "to be obeyed"
+    },
+    {
+      "ar": "حُكْمِكَ",
+      "en": "in Thy behests"
+    },
+    {
+      "ar": "الْمُخْتَارُ",
+      "en": "to remain unconstrained"
+    },
+    {
+      "ar": "أَمْرِك",
+      "en": "in Thy bidding"
+    }
+  ],
+  "terms": [
+    {
+      "term": "فِرَاقِكَ",
+      "transliteration": "f-r-q",
+      "literal": "faction; sect; group; company",
+      "se_rendering": "separation",
+      "note": "Root typically rendered as 'separation' or 'sect' across 28 occurrences. SE chooses 'separation' here—singular, intimate—rather than theological/divisive senses, emphasizing spiritual estrangement.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 6,
+          "snippet": "sect"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 20,
+          "snippet": "the cause of division"
+        },
+        {
+          "work": "gleanings",
+          "para": 175,
+          "snippet": "hatred causes division"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 1,
+          "snippet": "separation"
+        },
+        {
+          "work": "gleanings",
+          "para": 258,
+          "snippet": "devised"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 32,
+          "snippet": "that separate"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 217,
+          "snippet": "scattered"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 36,
+          "snippet": "cannot distinguish"
+        }
+      ]
+    },
+    {
+      "term": "حُبِّكَ",
+      "transliteration": "ḥ-b-b",
+      "literal": "love; affection",
+      "se_rendering": "love",
+      "note": "Consistently 'love' across 92 corpus occurrences. SE maintains standard rendering; the fire metaphor elevates emotional intensity beyond mere affection to cosmic combustion.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 3,
+          "snippet": "beloved of the Lord"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 53,
+          "snippet": "loved ones of the Lord"
+        },
+        {
+          "work": "gleanings",
+          "para": 341,
+          "snippet": "loved ones of God"
+        },
+        {
+          "work": "gleanings",
+          "para": 689,
+          "snippet": "beloved of the one true God"
+        },
+        {
+          "work": "gleanings",
+          "para": 640,
+          "snippet": "loved ones"
+        },
+        {
+          "work": "gleanings",
+          "para": 690,
+          "snippet": "beloved of God"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 39,
+          "snippet": "His loved ones"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 10,
+          "snippet": "love for Thee"
+        }
+      ]
+    },
+    {
+      "term": "الْأَعْلَى",
+      "transliteration": "ʿ-l-w",
+      "literal": "highest; most high; supreme",
+      "se_rendering": "most exalted",
+      "note": "Root yields 'the Most High', 'supreme', 'the realms above' across 74 occurrences. SE renders 'most exalted home'—possessive and personal, not abstract divine epithet.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 1,
+          "snippet": "the Most High"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 148,
+          "snippet": "the Most Sublime Pen"
+        },
+        {
+          "work": "gleanings",
+          "para": 232,
+          "snippet": "supreme"
+        },
+        {
+          "work": "gleanings",
+          "para": 616,
+          "snippet": "the realms above"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 68,
+          "snippet": "the Pen of Glory"
+        },
+        {
+          "work": "gleanings",
+          "para": 393,
+          "snippet": "The Pen of the Most High"
+        },
+        {
+          "work": "gleanings",
+          "para": 697,
+          "snippet": "the Dayspring of Glory"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 1,
+          "snippet": "the Realm of Glory"
+        }
+      ]
+    },
+    {
+      "term": "عَظمَتِكَ",
+      "transliteration": "ʿ-z̟-m",
+      "literal": "greatest; supreme; mightiest",
+      "se_rendering": "majesty",
+      "note": "Root yields 'supreme', 'Most Great', 'greatest' across 63 occurrences. Here 'majesty' is relatively rare choice, evoking courtly reverence and architectural grandeur rather than abstract supremacy.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 56,
+          "snippet": "supreme"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 3,
+          "snippet": "greatest"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 6,
+          "snippet": "greater"
+        },
+        {
+          "work": "gleanings",
+          "para": 10,
+          "snippet": "most mighty"
+        },
+        {
+          "work": "gleanings",
+          "para": 409,
+          "snippet": "most great"
+        },
+        {
+          "work": "gleanings",
+          "para": 392,
+          "snippet": "great"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 9,
+          "snippet": "mighty"
+        },
+        {
+          "work": "gleanings",
+          "para": 169,
+          "snippet": "vast"
+        }
+      ]
+    },
+    {
+      "term": "عِزِّكَ",
+      "transliteration": "ʿ-z-z",
+      "literal": "glory; might; honor; dignity; power; majesty",
+      "se_rendering": "glory",
+      "note": "Root predominantly 'glory' across 49 occurrences. SE maintains 'glory' here but contextualizes it as restorative seat ('court of Thy glory')—spatial rather than abstract.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 185,
+          "snippet": "glory"
+        },
+        {
+          "work": "gleanings",
+          "para": 642,
+          "snippet": "honor"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 99,
+          "snippet": "Dear"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 38,
+          "snippet": "dearly beloved"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 37,
+          "snippet": "Gracious"
+        },
+        {
+          "work": "gleanings",
+          "para": 260,
+          "snippet": "All-Glorious"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 162,
+          "snippet": "Mighty"
+        },
+        {
+          "work": "gleanings",
+          "para": 660,
+          "snippet": "powerful"
+        }
+      ]
+    },
+    {
+      "term": "الْأَمْرُ",
+      "transliteration": "ʾ-m-m",
+      "literal": "mother; to lead; to head; matter; affair",
+      "se_rendering": "authority to command",
+      "note": "Root typically 'His Cause', 'His command', 'Revelation' across 75 occurrences. SE renders 'authority to command'—administrative power rather than theological Cause or revealed principle.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 7,
+          "snippet": "beginning"
+        },
+        {
+          "work": "gleanings",
+          "para": 584,
+          "snippet": "Cause"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 13,
+          "snippet": "peoples"
+        },
+        {
+          "work": "gleanings",
+          "para": 47,
+          "snippet": "nations"
+        },
+        {
+          "work": "gleanings",
+          "para": 596,
+          "snippet": "before"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 178,
+          "snippet": "Imams"
+        }
+      ]
+    },
+    {
+      "term": "أَشْهَدُ",
+      "transliteration": "sh-h-d",
+      "literal": "witnessed; observed; seen; evident; manifest",
+      "se_rendering": "I bear witness",
+      "note": "Root yields 'I bear witness', 'I testify', 'manifest' across 74 occurrences. SE uses 'I bear witness'—performative testimony rather than 'evident' or 'observed', activating the speaker's agency.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 607,
+          "snippet": "manifest"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 35,
+          "snippet": "evident"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 6,
+          "snippet": "I testify"
+        },
+        {
+          "work": "gleanings",
+          "para": 298,
+          "snippet": "witness"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 138,
+          "snippet": "martyrdom"
+        },
+        {
+          "work": "gleanings",
+          "para": 134,
+          "snippet": "God witnesseth"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 57,
+          "snippet": "beheld"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 156,
+          "snippet": "bear witness"
+        }
+      ]
+    },
+    {
+      "term": "حُكْمِكَ",
+      "transliteration": "h-k-m",
+      "literal": "government; rule; governance; wisdom",
+      "se_rendering": "behests",
+      "note": "Root rendered 'rule', 'government', 'mysteries' across 69 occurrences. Here 'behests' (archaic plural of behest) is exceptional—emphasizing divine will as binding utterance rather than governance.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-ahd",
+          "para": 6,
+          "snippet": "rule"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "government"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 160,
+          "snippet": "meaning of return"
+        },
+        {
+          "work": "gleanings",
+          "para": 224,
+          "snippet": "mysteries"
+        },
+        {
+          "work": "gleanings",
+          "para": 636,
+          "snippet": "rule of the sword"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 182,
+          "snippet": "mystery of the former verse"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 129,
+          "snippet": "perspicuous verses"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 46,
+          "snippet": "conclusive"
+        }
+      ]
+    }
+  ],
+  "section_index": "CLXXXIII.6",
+  "section": "CLXXXIII",
+  "section_para": 6
 }

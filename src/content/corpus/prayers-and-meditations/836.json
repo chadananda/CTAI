@@ -1,10 +1,359 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 836,
   "source_text": "أَشْهَدُ يَا إِلَهِي بِمَا شَهِدَ بِهِ أَصْفِيَاؤُكَ وَاَعْتَرِفُ بِمَا اعْتَرَفَ بِهِ أَهْلُ الْفِرْدَوْسِ الْأَعْلَى وَالْجَنَّةِ الْعُلْيَا وَالَّذِينَ طَافُواْ عَرْشَكَ الْعَظِيمَ. اَلْمُلْكُ وَالْمَلَكُوْتُ لَكَ يَا إِلَهَ الْعَالَمِينَ.",
   "translation": "I testify, O my God, to that whereunto Thy chosen Ones have testified, and acknowledge that which the inmates of the all-highest Paradise and those who have circled round Thy mighty Throne have acknowledged. The kingdoms of earth and heaven are Thine, O Lord of the worlds!",
   "source_lang": "ar",
-  "score": 9.4
+  "score": 9.4,
+  "page_slug": "kingdoms-earth-heaven-thine",
+  "alignment": [
+    {
+      "ar": "أَشْهَدُ",
+      "en": "testify"
+    },
+    {
+      "ar": "إِلَهِي",
+      "en": "my God"
+    },
+    {
+      "ar": "شَهِدَ",
+      "en": "testified"
+    },
+    {
+      "ar": "أَصْفِيَاؤُكَ",
+      "en": "Thy chosen Ones"
+    },
+    {
+      "ar": "اَعْتَرِفُ",
+      "en": "acknowledge"
+    },
+    {
+      "ar": "اعْتَرَفَ",
+      "en": "acknowledged"
+    },
+    {
+      "ar": "أَهْلُ",
+      "en": "inmates"
+    },
+    {
+      "ar": "الْفِرْدَوْسِ الْأَعْلَى",
+      "en": "all-highest Paradise"
+    },
+    {
+      "ar": "طَافُواْ",
+      "en": "circled round"
+    },
+    {
+      "ar": "عَرْشَكَ",
+      "en": "Thy mighty Throne"
+    },
+    {
+      "ar": "الْعَظِيمَ",
+      "en": "mighty"
+    },
+    {
+      "ar": "الْمَلَكُوْتُ",
+      "en": "earth and heaven"
+    },
+    {
+      "ar": "إِلَهَ الْعَالَمِينَ",
+      "en": "Lord of the worlds"
+    }
+  ],
+  "terms": [
+    {
+      "term": "أَشْهَدُ",
+      "transliteration": "sh-h-d",
+      "literal": "witnessed; observed; seen; evident; manifest",
+      "se_rendering": "I testify",
+      "note": "SE typically renders as 'I bear witness' or 'manifest' across 74 occurrences. Here 'I testify' creates a solemn legal tone distinct from witness language.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 607,
+          "snippet": "manifest"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 35,
+          "snippet": "evident"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 6,
+          "snippet": "I testify"
+        },
+        {
+          "work": "gleanings",
+          "para": 298,
+          "snippet": "witness"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 138,
+          "snippet": "martyrdom"
+        },
+        {
+          "work": "gleanings",
+          "para": 134,
+          "snippet": "God witnesseth"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 57,
+          "snippet": "beheld"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 156,
+          "snippet": "bear witness"
+        }
+      ]
+    },
+    {
+      "term": "الْفِرْدَوْسِ",
+      "transliteration": "f-r-d",
+      "literal": "unique; singular; incomparable",
+      "se_rendering": "Paradise",
+      "note": "Rare term (23 occ.) typically rendered 'the Unique' or 'alone'. Here 'Paradise' aligns with Islamic theological usage and SE's occasional 'wondrous' rendering for emphasis on transcendence.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 2,
+          "snippet": "wondrous"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 249,
+          "snippet": "unique"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 49,
+          "snippet": "alone"
+        },
+        {
+          "work": "gleanings",
+          "para": 384,
+          "snippet": "oneness"
+        },
+        {
+          "work": "gleanings",
+          "para": 386,
+          "snippet": "His singleness"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 47,
+          "snippet": "Thy oneness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 5,
+          "snippet": "Thy unity and Thy oneness"
+        },
+        {
+          "work": "gleanings",
+          "para": 2,
+          "snippet": "uniqueness"
+        }
+      ]
+    },
+    {
+      "term": "الْأَعْلَى",
+      "transliteration": "ʿ-l-w",
+      "literal": "highest; most high; supreme",
+      "se_rendering": "all-highest",
+      "note": "Usually 'the Most High' or 'Most Exalted' across 74 occurrences. 'All-highest' compounds the superlative, intensifying the hierarchical distinction between realms.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 1,
+          "snippet": "the Most High"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 148,
+          "snippet": "the Most Sublime Pen"
+        },
+        {
+          "work": "gleanings",
+          "para": 232,
+          "snippet": "supreme"
+        },
+        {
+          "work": "gleanings",
+          "para": 616,
+          "snippet": "the realms above"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 68,
+          "snippet": "the Pen of Glory"
+        },
+        {
+          "work": "gleanings",
+          "para": 393,
+          "snippet": "The Pen of the Most High"
+        },
+        {
+          "work": "gleanings",
+          "para": 697,
+          "snippet": "the Dayspring of Glory"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 1,
+          "snippet": "the Realm of Glory"
+        }
+      ]
+    },
+    {
+      "term": "عَرْشَكَ",
+      "transliteration": "ʿ-r-sh",
+      "literal": "of the Throne; companion of the Throne",
+      "se_rendering": "Throne",
+      "note": "Corpus alternates 'the Throne' (14 occ.) and mystical renderings like 'court of My presence'. Here 'Thy mighty Throne' maintains consistency with parallel construction and eschatological significance.",
+      "cross_refs": [
+        {
+          "work": "the-hidden-words",
+          "para": 120,
+          "snippet": "MY THRONE"
+        },
+        {
+          "work": "gleanings",
+          "para": 11,
+          "snippet": "Our sight"
+        },
+        {
+          "work": "gleanings",
+          "para": 539,
+          "snippet": "the Throne"
+        },
+        {
+          "work": "gleanings",
+          "para": 210,
+          "snippet": "the court of My presence"
+        },
+        {
+          "work": "gleanings",
+          "para": 82,
+          "snippet": "Our throne"
+        },
+        {
+          "work": "gleanings",
+          "para": 51,
+          "snippet": "throne"
+        },
+        {
+          "work": "gleanings",
+          "para": 31,
+          "snippet": "His Throne"
+        }
+      ]
+    },
+    {
+      "term": "الْعَظِيمَ",
+      "transliteration": "ʿ-z̟-m",
+      "literal": "greatest; supreme; mightiest",
+      "se_rendering": "mighty",
+      "note": "Standard rendering 'Most Great' across 63 occurrences. 'Mighty' here emphasizes power rather than magnitude, matching the martial imagery of the Throne.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 56,
+          "snippet": "supreme"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 3,
+          "snippet": "greatest"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 6,
+          "snippet": "greater"
+        },
+        {
+          "work": "gleanings",
+          "para": 10,
+          "snippet": "most mighty"
+        },
+        {
+          "work": "gleanings",
+          "para": 409,
+          "snippet": "most great"
+        },
+        {
+          "work": "gleanings",
+          "para": 392,
+          "snippet": "great"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 9,
+          "snippet": "mighty"
+        },
+        {
+          "work": "gleanings",
+          "para": 169,
+          "snippet": "vast"
+        }
+      ]
+    },
+    {
+      "term": "الْمُلْكُ",
+      "transliteration": "m-l-k",
+      "literal": "kingdom; dominion; realm; sovereignty",
+      "se_rendering": "kingdoms",
+      "note": "Corpus shows 'kingdom' or 'realm' most frequent. Plural 'kingdoms' here renders the dual construct الملك والملكوت (earthly and heavenly dominions), a specifically Bahá'í cosmological pairing.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-ahd",
+          "para": 16,
+          "snippet": "heaven"
+        },
+        {
+          "work": "gleanings",
+          "para": 394,
+          "snippet": "realm"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 171,
+          "snippet": "kingdom"
+        },
+        {
+          "work": "gleanings",
+          "para": 313,
+          "snippet": "heavenly gem"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 69,
+          "snippet": "realms"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 28,
+          "snippet": "righteous"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 167,
+          "snippet": "by the heavenly power"
+        },
+        {
+          "work": "gleanings",
+          "para": 59,
+          "snippet": "Lord"
+        }
+      ]
+    }
+  ],
+  "section_index": "CLXXXIII.15",
+  "section": "CLXXXIII",
+  "section_para": 15
 }

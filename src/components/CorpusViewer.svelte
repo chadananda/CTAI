@@ -19,37 +19,46 @@
 
   // ── InteractiveText logic ──
 
+  // Build segments by finding phrases at their exact positions in the text.
+  // No trimming — preserves original spacing and punctuation attachment.
   function buildSegments(text, alignmentArr, field) {
     if (!alignmentArr?.length) return [{ text, idx: -1 }];
-    const segments = [];
-    let remaining = text;
+    // Find all phrases and their positions in the full text
+    const found = [];
     for (let i = 0; i < alignmentArr.length; i++) {
       const phrase = alignmentArr[i][field];
       if (!phrase) continue;
-      const pos = remaining.indexOf(phrase);
+      const pos = text.indexOf(phrase);
       if (pos === -1) continue;
-      if (pos > 0) {
-        const before = remaining.slice(0, pos).trim();
-        if (before) segments.push({ text: before, idx: -1 });
-      }
-      segments.push({ text: phrase, idx: i });
-      remaining = remaining.slice(pos + phrase.length);
+      found.push({ pos, len: phrase.length, text: phrase, idx: i });
     }
-    const tail = remaining.trim();
-    if (tail) segments.push({ text: tail, idx: -1 });
-    if (segments.length === 0) return [{ text, idx: -1 }];
+    if (found.length === 0) return [{ text, idx: -1 }];
+    // Sort by position, remove overlaps (keep earlier match)
+    found.sort((a, b) => a.pos - b.pos);
+    const clean = [found[0]];
+    for (let i = 1; i < found.length; i++) {
+      const prev = clean[clean.length - 1];
+      if (found[i].pos >= prev.pos + prev.len) clean.push(found[i]);
+    }
+    // Build segments covering the full text — no trimming
+    const segments = [];
+    let cursor = 0;
+    for (const f of clean) {
+      if (f.pos > cursor) {
+        segments.push({ text: text.slice(cursor, f.pos), idx: -1 });
+      }
+      segments.push({ text: f.text, idx: f.idx });
+      cursor = f.pos + f.len;
+    }
+    if (cursor < text.length) {
+      segments.push({ text: text.slice(cursor), idx: -1 });
+    }
     return segments;
   }
 
   function phraseClass(idx) {
     if (activeIdx === idx) return 'cursor-pointer rounded transition-colors duration-150 bg-gold-500/20 text-gold-200';
     return 'cursor-pointer rounded transition-colors duration-150 text-ink-200';
-  }
-
-  function needsSpaceAfter(segments, i) {
-    if (i >= segments.length - 1) return false;
-    const next = segments[i + 1].text;
-    return !/^[,.\-;:!?\)\]»'"\u060C\u061B\u061F]/.test(next);
   }
 
   const sourceSegments = $derived(hasAlignment ? buildSegments(source_text, alignment, 'ar') : []);
@@ -122,7 +131,6 @@
           {:else}
             <span class="text-ink-400">{seg.text}</span>
           {/if}
-          {#if needsSpaceAfter(sourceSegments, i)}{' '}{/if}
         {/each}
       </div>
     </div>
@@ -143,7 +151,6 @@
           {:else}
             <span class="text-ink-400">{seg.text}</span>
           {/if}
-          {#if needsSpaceAfter(transSegments, i)}{' '}{/if}
         {/each}
       </div>
     </div>

@@ -1,10 +1,585 @@
 {
   "work": "Kitab-i-Iqan",
   "slug": "kitab-i-iqan",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 221,
   "source_text": "چنانچه جميع ما يحتاج آن امّت از احکام دين و شريعت سيّد المرسلين در آن رضوان مبين موجود و معيّن گشته.  و آن است حجّت باقيه برای اهلش بعد از نقطه فرقان زيرا مسلّم است حکم آن و محقّق الوقوع است امر آن.  و جميع مأمور به اتّباع آن بودهاند تا ظهور بديع در سنه ستّين.  و آن است که طالبان را به رضوان وصال می رساند و مجاهدان و مهاجران را به سرادق قرب فائز فرمايد.  دليلی است محکم و حجّتی است اعظم.  و غير آن را  از روايات و کتب و احاديث اين فخر نه زيرا حديث و صاحبان حديث، وجود وقولشان به حکم کتاب ثابت و محقّق شده.  و ديگر آنکه در احاديث اختلاف بسيار است و شبهه بی شمار.",
   "translation": "All the things that people required in connection with the Revelation of Muhammad and His laws were to be found revealed and manifest in that Ridván of resplendent glory. That Book constitutes an abiding testimony to its people after Muhammad, inasmuch as its decrees are indisputable, and its promise unfailing. All have been enjoined to follow the precepts of that Book until “the year sixty” —the year of the advent of God’s wondrous Manifestation. That Book is the Book which unfailingly leadeth the seeker unto the Ridván of the divine Presence, and causeth him that hath forsaken his country and is treading the seeker’s path to enter the Tabernacle of everlasting reunion. Its guidance can never err, its testimony no other testimony can excel. All other traditions, all other books and records, are bereft of such distinction, inasmuch as both the traditions and they that have spoken them are confirmed and proven solely by the text of that Book. Moreover, the traditions themselves grievously differ, and their obscurities are manifold.",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "book-unfailingly-leadeth-seeker",
+  "alignment": [
+    {
+      "ar": "جميع",
+      "en": "All"
+    },
+    {
+      "ar": "ما",
+      "en": "the things that"
+    },
+    {
+      "ar": "يحتاج",
+      "en": "required"
+    },
+    {
+      "ar": "آن",
+      "en": "that"
+    },
+    {
+      "ar": "امّت",
+      "en": "people"
+    },
+    {
+      "ar": "احکام",
+      "en": "laws"
+    },
+    {
+      "ar": "دين",
+      "en": "Revelation"
+    },
+    {
+      "ar": "شريعت",
+      "en": "His laws"
+    },
+    {
+      "ar": "سيّد المرسلين",
+      "en": "Muhammad"
+    },
+    {
+      "ar": "رضوان",
+      "en": "Ridván"
+    },
+    {
+      "ar": "مبين",
+      "en": "resplendent glory"
+    },
+    {
+      "ar": "موجود",
+      "en": "to be found revealed"
+    },
+    {
+      "ar": "معيّن",
+      "en": "manifest"
+    },
+    {
+      "ar": "گشته",
+      "en": "were"
+    },
+    {
+      "ar": "حجّت",
+      "en": "testimony"
+    },
+    {
+      "ar": "باقيه",
+      "en": "abiding"
+    },
+    {
+      "ar": "اهلش",
+      "en": "its people"
+    },
+    {
+      "ar": "بعد",
+      "en": "after"
+    },
+    {
+      "ar": "مسلّم",
+      "en": "indisputable"
+    },
+    {
+      "ar": "حکم",
+      "en": "decrees"
+    },
+    {
+      "ar": "محقّق الوقوع",
+      "en": "unfailing"
+    },
+    {
+      "ar": "امر",
+      "en": "promise"
+    },
+    {
+      "ar": "مأمور",
+      "en": "enjoined"
+    },
+    {
+      "ar": "اتّباع",
+      "en": "follow"
+    },
+    {
+      "ar": "بودهاند",
+      "en": "have been"
+    },
+    {
+      "ar": "ظهور",
+      "en": "advent"
+    },
+    {
+      "ar": "بديع",
+      "en": "wondrous Manifestation"
+    },
+    {
+      "ar": "سنه ستّين",
+      "en": "the year sixty"
+    },
+    {
+      "ar": "طالبان",
+      "en": "the seeker"
+    },
+    {
+      "ar": "وصال",
+      "en": "the divine Presence"
+    },
+    {
+      "ar": "می رساند",
+      "en": "leadeth"
+    },
+    {
+      "ar": "مجاهدان",
+      "en": "him that hath forsaken his country"
+    },
+    {
+      "ar": "سرادق",
+      "en": "Tabernacle"
+    },
+    {
+      "ar": "قرب",
+      "en": "everlasting reunion"
+    },
+    {
+      "ar": "فائز",
+      "en": "enter"
+    },
+    {
+      "ar": "فرمايد",
+      "en": "causeth"
+    },
+    {
+      "ar": "دليلی",
+      "en": "guidance"
+    },
+    {
+      "ar": "محکم",
+      "en": "never err"
+    },
+    {
+      "ar": "اعظم",
+      "en": "no other testimony can excel"
+    },
+    {
+      "ar": "غير",
+      "en": "All other"
+    },
+    {
+      "ar": "روايات",
+      "en": "traditions"
+    },
+    {
+      "ar": "کتب",
+      "en": "books"
+    },
+    {
+      "ar": "احاديث",
+      "en": "records"
+    },
+    {
+      "ar": "فخر",
+      "en": "distinction"
+    },
+    {
+      "ar": "نه",
+      "en": "bereft"
+    },
+    {
+      "ar": "حديث",
+      "en": "the traditions"
+    },
+    {
+      "ar": "صاحبان حديث",
+      "en": "they that have spoken them"
+    },
+    {
+      "ar": "وجود",
+      "en": "confirmed"
+    },
+    {
+      "ar": "قولشان",
+      "en": "proven"
+    },
+    {
+      "ar": "کتاب",
+      "en": "Book"
+    },
+    {
+      "ar": "شده",
+      "en": "solely"
+    },
+    {
+      "ar": "ديگر",
+      "en": "Moreover"
+    },
+    {
+      "ar": "اختلاف",
+      "en": "differ"
+    },
+    {
+      "ar": "بسيار",
+      "en": "grievously"
+    },
+    {
+      "ar": "شبهه",
+      "en": "obscurities"
+    },
+    {
+      "ar": "بی شمار",
+      "en": "manifold"
+    }
+  ],
+  "terms": [
+    {
+      "term": "احکام",
+      "transliteration": "h-k-m",
+      "literal": "government; rule; governance; wisdom",
+      "se_rendering": "things",
+      "note": "Usually 'rule', 'government', or 'mysteries' (69 occurrences). Here rendered 'things'—exceptionally vague, possibly to emphasize universal applicability over juridical specificity.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-ahd",
+          "para": 6,
+          "snippet": "rule"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "government"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 849,
+          "snippet": "signs of Thy sovereignty"
+        },
+        {
+          "work": "gleanings",
+          "para": 224,
+          "snippet": "mysteries"
+        },
+        {
+          "work": "gleanings",
+          "para": 636,
+          "snippet": "rule of the sword"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 129,
+          "snippet": "perspicuous verses"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 157,
+          "snippet": "justice"
+        },
+        {
+          "work": "gleanings",
+          "para": 139,
+          "snippet": "the face of wisdom"
+        }
+      ]
+    },
+    {
+      "term": "رضوان",
+      "transliteration": "r-d-y",
+      "literal": "good-pleasure, consent, satisfaction",
+      "se_rendering": "Ridván",
+      "note": "Typically 'pleasure' or 'good-pleasure' (30 occurrences). Here SE uses the Arabic term 'Ridván' untranslated—a unique choice signaling eschatological significance in Islamic-Bahá'í context.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 621,
+          "snippet": "Thy pleasure"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 410,
+          "snippet": "Thy good-pleasure"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 46,
+          "snippet": "content"
+        },
+        {
+          "work": "gleanings",
+          "para": 165,
+          "snippet": "consent"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 28,
+          "snippet": "is pleased with"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 41,
+          "snippet": "pleasure"
+        },
+        {
+          "work": "gleanings",
+          "para": 564,
+          "snippet": "goodly deeds"
+        },
+        {
+          "work": "gleanings",
+          "para": 598,
+          "snippet": "praiseworthy"
+        }
+      ]
+    },
+    {
+      "term": "محقّق",
+      "transliteration": "h-q-q",
+      "literal": "truth; right; that which is true or just",
+      "se_rendering": "confirmed",
+      "note": "Typically names divine attributes: 'the True One', 'the Truth' (43 occurrences). Here 'confirmed'—passive participle usage strips metaphysical resonance for epistemic certainty.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 651,
+          "snippet": "the True One"
+        },
+        {
+          "work": "gleanings",
+          "para": 85,
+          "snippet": "the Truth"
+        },
+        {
+          "work": "gleanings",
+          "para": 328,
+          "snippet": "the one true God"
+        },
+        {
+          "work": "gleanings",
+          "para": 707,
+          "snippet": "Him"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 52,
+          "snippet": "Sun of Truth"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 9,
+          "snippet": "evident"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "betrayal of truth"
+        },
+        {
+          "work": "gleanings",
+          "para": 100,
+          "snippet": "clear"
+        }
+      ]
+    },
+    {
+      "term": "ظهور",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "advent",
+      "note": "Predominant rendering 'manifestation' (96 occurrences). Here 'advent'—temporal-sequential emphasis replaces ontological revelation, underscoring historical periodization.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 53,
+          "snippet": "Manifestation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 160,
+          "snippet": "Author of all Manifestations"
+        },
+        {
+          "work": "gleanings",
+          "para": 222,
+          "snippet": "material"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 206,
+          "snippet": "appeared"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 255,
+          "snippet": "Manifestations"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 791,
+          "snippet": "tokens of Thy handiwork"
+        }
+      ]
+    },
+    {
+      "term": "بديع",
+      "transliteration": "b-d-ʿ",
+      "literal": "to create; most wondrous; excel",
+      "se_rendering": "wondrous Manifestation",
+      "note": "Usually 'most wondrous' or 'creation' (21 occurrences). Here 'wondrous Manifestation'—combines cardinal term with eschatological noun, echoing ظهور's dual semantic field.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 2,
+          "snippet": "most wondrous"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 65,
+          "snippet": "creation"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 6,
+          "snippet": "Badí'u'lláh"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 191,
+          "snippet": "the eye of the universe"
+        },
+        {
+          "work": "gleanings",
+          "para": 205,
+          "snippet": "wondrous"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 4,
+          "snippet": "Mighty, the Wondrous"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 315,
+          "snippet": "kingdoms of creation"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 202,
+          "snippet": "new"
+        }
+      ]
+    },
+    {
+      "term": "قرب",
+      "transliteration": "q-r-b",
+      "literal": "place of sacrifice; altar",
+      "se_rendering": "Tabernacle",
+      "note": "Standard rendering 'place of sacrifice' or 'draw near' (44 occurrences). Here 'Tabernacle'—a biblicized translation unique to this passage, invoking Israelite sanctuary imagery.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 3,
+          "snippet": "unto the place of sacrifice"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 35,
+          "snippet": "my kindred"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 159,
+          "snippet": "their kindred"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 101,
+          "snippet": "draw near unto"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 430,
+          "snippet": "drawn nigh"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 98,
+          "snippet": "drawing near"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 245,
+          "snippet": "draweth near"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 163,
+          "snippet": "at hand"
+        }
+      ]
+    },
+    {
+      "term": "اعظم",
+      "transliteration": "ʿ-z̟-m",
+      "literal": "greatest; supreme; mightiest",
+      "se_rendering": "excel",
+      "note": "Typically 'Most Great', 'supreme', 'greatest' (63 occurrences). Here 'excel'—a verbal choice departing from SE's nominal preference, shifting emphasis from divine attribute to comparative excellence.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 56,
+          "snippet": "supreme"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 269,
+          "snippet": "Most Great"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 734,
+          "snippet": "Most Great Name"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 3,
+          "snippet": "greatest"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 6,
+          "snippet": "greater"
+        },
+        {
+          "work": "gleanings",
+          "para": 10,
+          "snippet": "most mighty"
+        },
+        {
+          "work": "gleanings",
+          "para": 392,
+          "snippet": "great"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 9,
+          "snippet": "mighty"
+        }
+      ]
+    }
+  ],
+  "section_index": "221",
+  "section": "221",
+  "section_para": 1
 }

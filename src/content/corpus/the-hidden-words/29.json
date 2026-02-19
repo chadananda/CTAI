@@ -1,10 +1,168 @@
 {
   "work": "The Hidden Words",
   "slug": "the-hidden-words",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 29,
   "source_text": "(٢٨) ﴿ يَا ابْنَ الرُّوحِ ﴾\nأَيْقِنْ بِأَنَّ الَّذي يَأْمُرُ النَّاسَ بِالْعَدْلِ وَيَرْتَكِبُ الْفَحْشَاءَ فِي نَفْسِهِ، إِنَّهُ لَيْسَ مِنِّي وَلَوْ كَانَ عَلَى اسْمِي.",
   "translation": "(28) O SON OF SPIRIT!\nKnow thou of a truth: He that biddeth men be just and himself committeth iniquity is not of Me, even though he bear My name.",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "biddeth-men-be-just",
+  "alignment": [
+    {
+      "ar": "ابْنَ",
+      "en": "SON"
+    },
+    {
+      "ar": "أَيْقِنْ",
+      "en": "Know"
+    },
+    {
+      "ar": "يَأْمُرُ",
+      "en": "biddeth"
+    },
+    {
+      "ar": "بِالْعَدْلِ",
+      "en": "be just"
+    },
+    {
+      "ar": "يَرْتَكِبُ",
+      "en": "committeth"
+    },
+    {
+      "ar": "الْفَحْشَاءَ",
+      "en": "iniquity"
+    },
+    {
+      "ar": "فِي نَفْسِهِ",
+      "en": "himself"
+    },
+    {
+      "ar": "لَيْسَ",
+      "en": "is not"
+    },
+    {
+      "ar": "وَلَوْ",
+      "en": "even though"
+    },
+    {
+      "ar": "كَانَ",
+      "en": "he bear"
+    },
+    {
+      "ar": "اسْمِي",
+      "en": "My name"
+    }
+  ],
+  "terms": [
+    {
+      "term": "بِالْعَدْلِ",
+      "transliteration": "ʿ-d-l",
+      "literal": "justice; equity",
+      "se_rendering": "be just",
+      "note": "Root ع-د-ل typically 'justice' or 'equity' (29 occurrences). Here SE chooses 'just' as adjective, matching the verb 'be' rather than nominalizing the virtue.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 16,
+          "snippet": "Justice"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "just"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 145,
+          "snippet": "Who dealest equitably"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 15,
+          "snippet": "equity"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 7,
+          "snippet": "Thy justice"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 128,
+          "snippet": "with equity and justice"
+        },
+        {
+          "work": "gleanings",
+          "para": 21,
+          "snippet": "with justice and equity"
+        },
+        {
+          "work": "gleanings",
+          "para": 538,
+          "snippet": "as numerous as"
+        }
+      ]
+    },
+    {
+      "term": "الْفَحْشَاءَ",
+      "transliteration": "f-h-sh",
+      "literal": "indecency; wickedness; iniquity; obscenity",
+      "se_rendering": "iniquity",
+      "note": "Root ف-ح-ش appears only 4 times; rendered 'cruelties', 'wickedness', or 'iniquity'. SE's 'iniquity' here emphasizes moral transgression over sensory offensiveness.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 185,
+          "snippet": "cruelties"
+        },
+        {
+          "work": "gleanings",
+          "para": 572,
+          "snippet": "wickedness"
+        }
+      ]
+    },
+    {
+      "term": "نَفْسِهِ",
+      "transliteration": "n-f-s",
+      "literal": "soul; self; person; essence",
+      "se_rendering": "himself",
+      "note": "Root ن-f-s typically 'every one' or 'His life' (2 occurrences). SE renders 'himself' to stress personal accountability and the reflexive nature of hypocrisy.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 544,
+          "snippet": "every one"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 189,
+          "snippet": "His life"
+        }
+      ]
+    },
+    {
+      "term": "اسْمِي",
+      "transliteration": "s-m",
+      "literal": "name; title; designation",
+      "se_rendering": "My name",
+      "note": "Root س-م typically 'incline' or 'Thy most excellent Titles'. SE's 'My name' here invokes nominal authority and false representation—bearing the divine name while acting contrary to it.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 249,
+          "snippet": "incline"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 615,
+          "snippet": "Thy most excellent Titles"
+        }
+      ]
+    }
+  ],
+  "section_index": "57",
+  "section": "57",
+  "section_para": 1
 }

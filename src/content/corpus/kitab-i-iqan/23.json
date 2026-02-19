@@ -1,10 +1,745 @@
 {
   "work": "Kitab-i-Iqan",
   "slug": "kitab-i-iqan",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 23,
   "source_text": "حيف است که انسان از اين عطيّه لطيفه خود را منع نمايد و از اين نعمت باقيه و حيات دائمه خود را  محروم سازد.   پس قدر اين مائده معنوی را دانسته که بلکه از الطاف بديعه آن شمس حقيقی اجسادهای مرده حيات تازه يابند و ارواح پژمرده به روح بی اندازه فائز شوند.  ای برادر من، جهدی بايد تا ايّام باقی است از اکواب باقی چشيم.  هميشه نسيم جان از مصر جانان نوزد و هميشه نهرهای تبيان در جريان نه و مدام ابواب رضوان مفتوح نماند.  آيد وقتی که عندليبان جنان از گلستان قدسی به آشيان های الهی پرواز نمايند، ديگر نه نغمه بلبل شنوی و نه جمال گل بينی.  پس تا حمامه ازلی در شور و تغنّی است و بهار الهی در جلوه و تزيين غنيمت شمرده گوش قلب را از سروش او بی بهره مکن.  اين  است نصيحت اين عبد آن جناب و احبّای خدا را.  فَمَن شَاءَ  فَلْيُقْبِلْ و مَن شَاءَ فَليُعْرِض.  إنَّ اللّهَ کانَ غَنيّاً عَنهُ و عَمّا  يُشاهَدُ  وَ   يُرَی.",
   "translation": "O the pity! that man should deprive himself of this goodly gift, this imperishable bounty, this everlasting life. It behooveth him to prize this food that cometh from heaven, that perchance, through the wondrous favours of the Sun of Truth, the dead may be brought to life, and withered souls be quickened by the infinite Spirit. Make haste, O my brother, that while there is yet time our lips may taste of the immortal draught, for the breeze of life, now blowing from the city of the Well-Beloved, cannot last, and the streaming river of holy utterance must needs be stilled, and the portals of the Ridván cannot for ever remain open. The day will surely come when the Nightingale of Paradise will have winged its flight away from its earthly abode unto its heavenly nest. Then will its melody be heard no more, and the beauty of the rose cease to shine. Seize the time, therefore, ere the glory of the divine springtime hath spent itself, and the Bird of Eternity ceased to warble its melody, that thy inner hearing may not be deprived of hearkening unto its call. This is My counsel unto thee and unto the beloved of God. Whosoever wisheth, let him turn thereunto; whosoever wisheth, let him turn away. God, verily, is independent of him and of that which he may see and witness.",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "nightingale-paradise-winged-flight",
+  "alignment": [
+    {
+      "ar": "حيف",
+      "en": "pity"
+    },
+    {
+      "ar": "است",
+      "en": "is"
+    },
+    {
+      "ar": "انسان",
+      "en": "man"
+    },
+    {
+      "ar": "از",
+      "en": "of"
+    },
+    {
+      "ar": "اين",
+      "en": "this"
+    },
+    {
+      "ar": "عطيّه",
+      "en": "gift"
+    },
+    {
+      "ar": "لطيفه",
+      "en": "goodly"
+    },
+    {
+      "ar": "خود",
+      "en": "himself"
+    },
+    {
+      "ar": "را",
+      "en": "should"
+    },
+    {
+      "ar": "منع",
+      "en": "deprive"
+    },
+    {
+      "ar": "نعمت",
+      "en": "bounty"
+    },
+    {
+      "ar": "باقيه",
+      "en": "imperishable"
+    },
+    {
+      "ar": "حيات",
+      "en": "life"
+    },
+    {
+      "ar": "دائمه",
+      "en": "everlasting"
+    },
+    {
+      "ar": "پس",
+      "en": "It"
+    },
+    {
+      "ar": "قدر",
+      "en": "prize"
+    },
+    {
+      "ar": "مائده",
+      "en": "food"
+    },
+    {
+      "ar": "معنوی",
+      "en": "heaven"
+    },
+    {
+      "ar": "دانسته",
+      "en": "behooveth"
+    },
+    {
+      "ar": "بلکه",
+      "en": "that perchance"
+    },
+    {
+      "ar": "الطاف",
+      "en": "favours"
+    },
+    {
+      "ar": "بديعه",
+      "en": "wondrous"
+    },
+    {
+      "ar": "شمس",
+      "en": "Sun"
+    },
+    {
+      "ar": "حقيقی",
+      "en": "Truth"
+    },
+    {
+      "ar": "اجسادهای",
+      "en": "dead"
+    },
+    {
+      "ar": "يابند",
+      "en": "brought to life"
+    },
+    {
+      "ar": "ارواح",
+      "en": "souls"
+    },
+    {
+      "ar": "پژمرده",
+      "en": "withered"
+    },
+    {
+      "ar": "روح",
+      "en": "Spirit"
+    },
+    {
+      "ar": "بی اندازه",
+      "en": "infinite"
+    },
+    {
+      "ar": "فائز",
+      "en": "quickened"
+    },
+    {
+      "ar": "شوند",
+      "en": "be"
+    },
+    {
+      "ar": "ای",
+      "en": "O"
+    },
+    {
+      "ar": "برادر",
+      "en": "brother"
+    },
+    {
+      "ar": "من",
+      "en": "my"
+    },
+    {
+      "ar": "جهدی",
+      "en": "Make haste"
+    },
+    {
+      "ar": "تا",
+      "en": "while"
+    },
+    {
+      "ar": "ايّام",
+      "en": "time"
+    },
+    {
+      "ar": "باقی",
+      "en": "yet"
+    },
+    {
+      "ar": "اکواب",
+      "en": "draught"
+    },
+    {
+      "ar": "چشيم",
+      "en": "taste"
+    },
+    {
+      "ar": "هميشه",
+      "en": "cannot for ever"
+    },
+    {
+      "ar": "نسيم",
+      "en": "breeze"
+    },
+    {
+      "ar": "مصر",
+      "en": "city"
+    },
+    {
+      "ar": "جانان",
+      "en": "Well-Beloved"
+    },
+    {
+      "ar": "نوزد",
+      "en": "blowing"
+    },
+    {
+      "ar": "نهرهای",
+      "en": "river"
+    },
+    {
+      "ar": "تبيان",
+      "en": "utterance"
+    },
+    {
+      "ar": "جريان",
+      "en": "streaming"
+    },
+    {
+      "ar": "نه",
+      "en": "cannot"
+    },
+    {
+      "ar": "مدام",
+      "en": "for ever"
+    },
+    {
+      "ar": "ابواب",
+      "en": "portals"
+    },
+    {
+      "ar": "رضوان",
+      "en": "Ridván"
+    },
+    {
+      "ar": "مفتوح",
+      "en": "open"
+    },
+    {
+      "ar": "نماند",
+      "en": "remain"
+    },
+    {
+      "ar": "آيد",
+      "en": "come"
+    },
+    {
+      "ar": "وقتی",
+      "en": "day"
+    },
+    {
+      "ar": "عندليبان",
+      "en": "Nightingale"
+    },
+    {
+      "ar": "جنان",
+      "en": "Paradise"
+    },
+    {
+      "ar": "گلستان",
+      "en": "earthly abode"
+    },
+    {
+      "ar": "قدسی",
+      "en": "earthly"
+    },
+    {
+      "ar": "آشيان",
+      "en": "nest"
+    },
+    {
+      "ar": "الهی",
+      "en": "heavenly"
+    },
+    {
+      "ar": "پرواز",
+      "en": "flight"
+    },
+    {
+      "ar": "نمايند",
+      "en": "winged"
+    },
+    {
+      "ar": "ديگر",
+      "en": "Then"
+    },
+    {
+      "ar": "نغمه",
+      "en": "melody"
+    },
+    {
+      "ar": "شنوی",
+      "en": "heard"
+    },
+    {
+      "ar": "جمال",
+      "en": "beauty"
+    },
+    {
+      "ar": "گل",
+      "en": "rose"
+    },
+    {
+      "ar": "بينی",
+      "en": "shine"
+    },
+    {
+      "ar": "شور",
+      "en": "springtime"
+    },
+    {
+      "ar": "تغنّی",
+      "en": "warble"
+    },
+    {
+      "ar": "جلوه",
+      "en": "glory"
+    },
+    {
+      "ar": "تزيين",
+      "en": "divine"
+    },
+    {
+      "ar": "غنيمت",
+      "en": "Seize"
+    },
+    {
+      "ar": "گوش",
+      "en": "hearing"
+    },
+    {
+      "ar": "قلب",
+      "en": "inner"
+    },
+    {
+      "ar": "سروش",
+      "en": "call"
+    },
+    {
+      "ar": "او",
+      "en": "its"
+    },
+    {
+      "ar": "بی بهره",
+      "en": "deprived"
+    },
+    {
+      "ar": "مکن",
+      "en": "not be deprived"
+    },
+    {
+      "ar": "نصيحت",
+      "en": "counsel"
+    },
+    {
+      "ar": "عبد",
+      "en": "My"
+    },
+    {
+      "ar": "آن",
+      "en": "thee"
+    },
+    {
+      "ar": "احبّای",
+      "en": "beloved"
+    },
+    {
+      "ar": "خدا",
+      "en": "God"
+    },
+    {
+      "ar": "فَمَن",
+      "en": "Whosoever"
+    },
+    {
+      "ar": "شَاءَ",
+      "en": "wisheth"
+    },
+    {
+      "ar": "فَلْيُقْبِلْ",
+      "en": "let him turn thereunto"
+    },
+    {
+      "ar": "فَليُعْرِض",
+      "en": "let him turn away"
+    },
+    {
+      "ar": "غَنيّاً",
+      "en": "independent"
+    },
+    {
+      "ar": "عَنهُ",
+      "en": "of him"
+    },
+    {
+      "ar": "عَمّا",
+      "en": "of that which"
+    },
+    {
+      "ar": "يُشاهَدُ",
+      "en": "see"
+    },
+    {
+      "ar": "يُرَی",
+      "en": "witness"
+    }
+  ],
+  "terms": [
+    {
+      "term": "لطيفه",
+      "transliteration": "l-t-f",
+      "literal": "kindness; grace; gentleness; benevolence",
+      "se_rendering": "goodly gift",
+      "note": "SE renders 'grace' and 'bounties' across 21 occurrences; 'goodly gift' here emphasizes the gift's nobility and appeal, diverging from grace-centered renderings.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 27,
+          "snippet": "bounties"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 10,
+          "snippet": "overflowing"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 162,
+          "snippet": "grace"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 160,
+          "snippet": "divine favor"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 168,
+          "snippet": "under the wings of Thy grace and favours"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 99,
+          "snippet": "and favours"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 793,
+          "snippet": "with the wonders of Thy mercy"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 162,
+          "snippet": "Thy gifts"
+        }
+      ]
+    },
+    {
+      "term": "حقيقی",
+      "transliteration": "h-q-q",
+      "literal": "truth; right; that which is true or just",
+      "se_rendering": "Sun of Truth",
+      "note": "Typically 'the Truth' or 'the True One' (43 occurrences); 'Sun of Truth' metaphorically preserves the solar imagery from the Persian while maintaining divine connotation.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 651,
+          "snippet": "the True One"
+        },
+        {
+          "work": "gleanings",
+          "para": 85,
+          "snippet": "the Truth"
+        },
+        {
+          "work": "gleanings",
+          "para": 328,
+          "snippet": "the one true God"
+        },
+        {
+          "work": "gleanings",
+          "para": 707,
+          "snippet": "Him"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 52,
+          "snippet": "Sun of Truth"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 9,
+          "snippet": "evident"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "betrayal of truth"
+        },
+        {
+          "work": "gleanings",
+          "para": 100,
+          "snippet": "clear"
+        }
+      ]
+    },
+    {
+      "term": "تبيان",
+      "transliteration": "b-y-n",
+      "literal": "to manifest; to make clear; clear, evident",
+      "se_rendering": "holy utterance",
+      "note": "Usually 'the Bayán' or 'proofs' (87 occurrences); 'holy utterance' here abandons the proper noun/Bayá'í reference for a generic spiritual meaning.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 223,
+          "snippet": "the Expounder, the Most Manifest"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 3,
+          "snippet": "proofs"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 12,
+          "snippet": "clear proofs"
+        },
+        {
+          "work": "gleanings",
+          "para": 563,
+          "snippet": "Dawning-Place of the proofs"
+        },
+        {
+          "work": "gleanings",
+          "para": 292,
+          "snippet": "the Bayán"
+        },
+        {
+          "work": "gleanings",
+          "para": 636,
+          "snippet": "utterance"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 120,
+          "snippet": "evil"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 178,
+          "snippet": "evident error"
+        }
+      ]
+    },
+    {
+      "term": "رضوان",
+      "transliteration": "r-d-y",
+      "literal": "good-pleasure, consent, satisfaction",
+      "se_rendering": "Ridván",
+      "note": "Consistently 'Ridván' or 'pleasure' (30 occurrences); SE preserves the proper noun reference to Islamic paradise, maintaining doctrinal precision.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 621,
+          "snippet": "Thy pleasure"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 410,
+          "snippet": "Thy good-pleasure"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 46,
+          "snippet": "content"
+        },
+        {
+          "work": "gleanings",
+          "para": 165,
+          "snippet": "consent"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 28,
+          "snippet": "is pleased with"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 41,
+          "snippet": "pleasure"
+        },
+        {
+          "work": "gleanings",
+          "para": 564,
+          "snippet": "goodly deeds"
+        },
+        {
+          "work": "gleanings",
+          "para": 598,
+          "snippet": "praiseworthy"
+        }
+      ]
+    },
+    {
+      "term": "قدسی",
+      "transliteration": "q-d-s",
+      "literal": "holy, sacred, sanctified",
+      "se_rendering": "celestial",
+      "note": "Predominantly 'sacred' or 'holy' (47 occurrences); SE renders the garden as 'celestial' rather than explicitly 'sacred,' softening the noun to an adjective.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 2,
+          "snippet": "Sacred"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 81,
+          "snippet": "hallowed"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 35,
+          "snippet": "spirit of holiness"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 448,
+          "snippet": "Sanctuary"
+        },
+        {
+          "work": "gleanings",
+          "para": 585,
+          "snippet": "holy Paradise"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 13,
+          "snippet": "Holy Mariner"
+        },
+        {
+          "work": "gleanings",
+          "para": 584,
+          "snippet": "Holy Veil"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 6,
+          "snippet": "sacred strand"
+        }
+      ]
+    },
+    {
+      "term": "نصيحت",
+      "transliteration": "n-s-h",
+      "literal": "counsel; advice; admonition",
+      "se_rendering": "counsel",
+      "note": "Typically 'exhortations' or 'counsel' (28 occurrences); singular 'counsel' here reinforces the passage's advisory tone without pluralizing the guidance.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-ahd",
+          "para": 16,
+          "snippet": "counsels"
+        },
+        {
+          "work": "gleanings",
+          "para": 595,
+          "snippet": "exhortations"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 56,
+          "snippet": "counsel"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 187,
+          "snippet": "admonished"
+        },
+        {
+          "work": "gleanings",
+          "para": 714,
+          "snippet": "counseleth"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 4,
+          "snippet": "counselleth"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 149,
+          "snippet": "an admonisher to the rich"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 182,
+          "snippet": "sincere adviser"
+        }
+      ]
+    },
+    {
+      "term": "احبّای",
+      "transliteration": "ḥ-b-b",
+      "literal": "love; affection",
+      "se_rendering": "beloved of God",
+      "note": "Usually 'loved ones' or 'beloved of the Lord' (92 occurrences); 'beloved of God' here makes the divine reference explicit rather than possessive.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 3,
+          "snippet": "beloved of the Lord"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 53,
+          "snippet": "loved ones of the Lord"
+        },
+        {
+          "work": "gleanings",
+          "para": 341,
+          "snippet": "loved ones of God"
+        },
+        {
+          "work": "gleanings",
+          "para": 689,
+          "snippet": "beloved of the one true God"
+        },
+        {
+          "work": "gleanings",
+          "para": 640,
+          "snippet": "loved ones"
+        },
+        {
+          "work": "gleanings",
+          "para": 690,
+          "snippet": "beloved of God"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 39,
+          "snippet": "His loved ones"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 10,
+          "snippet": "love for Thee"
+        }
+      ]
+    }
+  ],
+  "section_index": "23",
+  "section": "23",
+  "section_para": 1
 }

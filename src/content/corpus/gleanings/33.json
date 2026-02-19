@@ -1,10 +1,223 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 33,
   "source_text": "أن ارتقبوا يا قوم أيّام العدل وإنّها قد أتت بالحقّ إيّاکم أن تحتجبوا منها وتکوننّ من الغافلين ...",
   "translation": "Bestir yourselves, O people, in anticipation of the days of Divine justice, for the promised hour is now come. Beware lest ye fail to apprehend its import and be accounted among the erring.",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "divine-justice-promised-hour",
+  "alignment": [
+    {
+      "ar": "ارتقبوا",
+      "en": "anticipation"
+    },
+    {
+      "ar": "قوم",
+      "en": "people"
+    },
+    {
+      "ar": "أيّام",
+      "en": "days"
+    },
+    {
+      "ar": "العدل",
+      "en": "Divine justice"
+    },
+    {
+      "ar": "أتت",
+      "en": "is now come"
+    },
+    {
+      "ar": "بالحقّ",
+      "en": "promised hour"
+    },
+    {
+      "ar": "إيّاکم",
+      "en": "Beware lest"
+    },
+    {
+      "ar": "تحتجبوا",
+      "en": "fail"
+    },
+    {
+      "ar": "منها",
+      "en": "its import"
+    },
+    {
+      "ar": "تکوننّ",
+      "en": "be accounted"
+    },
+    {
+      "ar": "الغافلين",
+      "en": "erring"
+    }
+  ],
+  "terms": [
+    {
+      "term": "بالحقّ",
+      "transliteration": "h-q-q",
+      "literal": "truth; right; that which is true or just",
+      "se_rendering": "with truth",
+      "note": "Root ḥ-q-q renders variously as 'the Truth', 'Sun of Truth', 'the True One' across 43 occurrences. Here SE renders simply 'truth' — the most literal and least theologically particularized option.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 238,
+          "snippet": "the True One"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 52,
+          "snippet": "Sun of Truth"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 103,
+          "snippet": "Luminaries of Truth"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 113,
+          "snippet": "was realized"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 215,
+          "snippet": "realization"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 9,
+          "snippet": "evident"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "betrayal of truth"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 195,
+          "snippet": "incontrovertible"
+        }
+      ]
+    },
+    {
+      "term": "إيّاکم",
+      "transliteration": "ʾ-y-k",
+      "literal": "beware (imperative); you",
+      "se_rendering": "Beware",
+      "note": "Root ʾ-y-k consistently renders as 'Beware' across all 7 Jafar occurrences. Standard and expected in this imperatival context.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 151,
+          "snippet": "Beware"
+        }
+      ]
+    },
+    {
+      "term": "تحتجبوا",
+      "transliteration": "ḥ-j-b",
+      "literal": "to veil oneself, to be veiled",
+      "se_rendering": "fail to apprehend",
+      "note": "Root ḥ-j-b typically yields 'veil', 'veiled', 'veiling' (37 occurrences). SE renders 'fail to apprehend' — a radical semantic departure converting literal veiling into cognitive blindness.",
+      "cross_refs": [
+        {
+          "work": "the-hidden-words",
+          "para": 33,
+          "snippet": "veil thyself"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 234,
+          "snippet": "veiling yourselves"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 22,
+          "snippet": "veiled"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 533,
+          "snippet": "the veil"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 150,
+          "snippet": "the veil of heedlessness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 175,
+          "snippet": "veiled from"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 214,
+          "snippet": "deprived"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 858,
+          "snippet": "which come in between us"
+        }
+      ]
+    },
+    {
+      "term": "الغافلین",
+      "transliteration": "gh-f-l",
+      "literal": "heedlessness; negligence; inattention",
+      "se_rendering": "the erring",
+      "note": "Root gh-f-l standard renderings include 'heedless', 'heedlessness', 'O heedless one'. SE here renders 'erring' — shifting focus from negligence to active mistake rather than passive oversight.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 158,
+          "snippet": "O heedless one"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 134,
+          "snippet": "thou who hast gone astray"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 156,
+          "snippet": "thou who art gone astray"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 178,
+          "snippet": "heedless"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 6,
+          "snippet": "my heedlessness"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 90,
+          "snippet": "Essence of Negligence"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 95,
+          "snippet": "couch of heedlessness"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 152,
+          "snippet": "Children of Negligence"
+        }
+      ]
+    }
+  ],
+  "section_index": "XII.1",
+  "section": "XII",
+  "section_para": 1
 }

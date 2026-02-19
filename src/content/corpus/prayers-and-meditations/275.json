@@ -1,10 +1,109 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 275,
   "source_text": "ِأَنْ تُطَهِّرَ قُلُوبَهُمْ مِنَ الإِشاراتِ وَتُقَرِّبَهُمْ إِلى",
   "translation": "I entreat Thee, therefore, O my God, by Thy name by which Thou hast separated between truth and denial, to purify their hearts of all evil suggestions, and to enable them to draw nigh unto Him Who is the Dayspring of Thy names and Thine attributes.",
   "source_lang": "ar",
-  "score": 2.7
+  "score": 2.7,
+  "page_slug": "purify-hearts-dayspring-names",
+  "alignment": [
+    {
+      "ar": "قُلُوبَهُمْ",
+      "en": "their hearts"
+    },
+    {
+      "ar": "الإِشاراتِ",
+      "en": "evil suggestions"
+    }
+  ],
+  "terms": [
+    {
+      "term": "قُلُوبَهُمْ",
+      "transliteration": "q-l-b",
+      "literal": "heart; to turn; to overturn",
+      "se_rendering": "their hearts",
+      "note": "Standard rendering as 'hearts' here. Root q-l-b typically renders as 'hearts' (majority usage), though corpus shows 'agitation' and 'cataclysms' in other contexts—literal sense preserved here.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 187,
+          "snippet": "hearts"
+        },
+        {
+          "work": "gleanings",
+          "para": 668,
+          "snippet": "heart"
+        },
+        {
+          "work": "gleanings",
+          "para": 228,
+          "snippet": "agitation"
+        },
+        {
+          "work": "gleanings",
+          "para": 350,
+          "snippet": "cataclysms"
+        },
+        {
+          "work": "gleanings",
+          "para": 439,
+          "snippet": "discord"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 13,
+          "snippet": "tumult"
+        },
+        {
+          "work": "gleanings",
+          "para": 3,
+          "snippet": "with hearts"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 30,
+          "snippet": "thine heart"
+        }
+      ]
+    },
+    {
+      "term": "الإِشاراتِ",
+      "transliteration": "sh-r-ḥ",
+      "literal": "explanation; commentary; to explain; to open",
+      "se_rendering": "evil suggestions",
+      "note": "Root sh-r-ḥ typically means 'explanation' or 'to explain,' but rendered as 'evil suggestions' here. Corpus shows 'allusions' and 'conditions' elsewhere—SE interprets contextually as psychological/spiritual impediments.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 10,
+          "snippet": "dilated"
+        },
+        {
+          "work": "gleanings",
+          "para": 116,
+          "snippet": "by a breath"
+        },
+        {
+          "work": "gleanings",
+          "para": 158,
+          "snippet": "allusions"
+        },
+        {
+          "work": "gleanings",
+          "para": 554,
+          "snippet": "conditions"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 14,
+          "snippet": "suggestions"
+        }
+      ]
+    }
+  ],
+  "section_index": "LXVI.4",
+  "section": "LXVI",
+  "section_para": 4
 }

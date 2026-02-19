@@ -1,10 +1,623 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 195,
   "source_text": "قل یا قوم لا تمنعوا أنفسكم عن فضل الله ورحمته ومن یمنع وإنّه علی خسران عظیم قل یا قوم أتعبدون التّراب وتدعون ربّكم العزیز الوهّاب اتّقوا الله ولا تكوننّ من الخاسرین قل قد ظهر كتاب الله علی هیكل الغلام فتبارك الله أحسن المبدعین أنتم یا ملأ الأرض لا تهربوا عنه أن أسرعوا إلیه وكونوا من الرّاجعین توبوا یا قوم عمّا قد فرّطتم في جنب الله وما أسرفتم في أمره ولا تكوننّ من الجاهلین هو الّذي خلقكم ورزقكم بأمره وعرّفكم نفسه العزیز العليّ العلیم وأظهر لكم كنوز العرفان وعرّجكم إلی سمآء الإیقان في أمره المحكم العزیز الرّفیع إیّاكم أن لا تمنعوا فضل الله علی أنفسكم ولا تبطلوا أعمالكم ولا تنكروه في هذا الظّهور الأظهر الأمنع المشرق المنیر فأنصفوا في أمر الله بارئكم ثمّ انظروا إلی ما نزل عن جهة العرش وتفكّروا فیه بقلوب طاهر سلیم إذًا یظهر لكم الأمر كظهور الشّمس في وسط السّمآء وتكوننّ من الموقنین",
   "translation": "What, O people! Do ye worship the dust, and turn away from your Lord, the Gracious, the All-Bountiful? Fear ye God, and be not of those who perish. Say: The Book of God hath been sent down in the form of this Youth. Hallowed, therefore, be God, the most excellent of makers! Take ye good heed, O peoples of the world, lest ye flee from His face. Nay, make haste to attain His presence, and be of them that have returned unto Him. Pray to be forgiven, O people, for having failed in your duty towards God, and for having trespassed against His Cause, and be not of the foolish. He it is Who hath created you; He it is Who hath nourished your souls through His Cause, and enabled you to recognize Him Who is the Almighty, the Most Exalted, the All-Knowing. He it is Who hath unveiled to your eyes the treasures of His knowledge, and caused you to ascend unto the heaven of certitude — the certitude of His resistless, His irrefutable, and most exalted Faith. Beware that ye do not deprive yourselves of the grace of God, that ye do not bring to naught your works, and do not repudiate the truth of this most manifest, this lofty, this shining, and glorious Revelation. Judge ye fairly the Cause of God, your Creator, and behold that which hath been sent down from the Throne on high, and meditate thereon with innocent and sanctified hearts. Then will the truth of this Cause appear unto you as manifest as the sun in its noontide glory. Then will ye be of them that have believed in Him.\nSay: The first and foremost testimony establishing His truth is His own Self.",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "book-god-youth-manifest",
+  "alignment": [
+    {
+      "ar": "قل",
+      "en": "Say"
+    },
+    {
+      "ar": "یا قوم",
+      "en": "O people"
+    },
+    {
+      "ar": "لا تمنعوا",
+      "en": "Do ye"
+    },
+    {
+      "ar": "أنفسكم",
+      "en": "yourselves"
+    },
+    {
+      "ar": "عن",
+      "en": "from"
+    },
+    {
+      "ar": "فضل",
+      "en": "grace"
+    },
+    {
+      "ar": "الله",
+      "en": "God"
+    },
+    {
+      "ar": "ورحمته",
+      "en": ""
+    },
+    {
+      "ar": "ومن یمنع",
+      "en": ""
+    },
+    {
+      "ar": "وإنّه",
+      "en": ""
+    },
+    {
+      "ar": "علی",
+      "en": ""
+    },
+    {
+      "ar": "خسران",
+      "en": ""
+    },
+    {
+      "ar": "عظیم",
+      "en": ""
+    },
+    {
+      "ar": "أتعبدون",
+      "en": "Do ye worship"
+    },
+    {
+      "ar": "التّراب",
+      "en": "the dust"
+    },
+    {
+      "ar": "وتدعون",
+      "en": "turn away from"
+    },
+    {
+      "ar": "ربّكم",
+      "en": "your Lord"
+    },
+    {
+      "ar": "العزیز",
+      "en": "the Gracious"
+    },
+    {
+      "ar": "الوهّاب",
+      "en": "the All-Bountiful"
+    },
+    {
+      "ar": "اتّقوا",
+      "en": "Fear ye"
+    },
+    {
+      "ar": "ولا تكوننّ",
+      "en": "be not"
+    },
+    {
+      "ar": "من الخاسرین",
+      "en": "of those who perish"
+    },
+    {
+      "ar": "قد ظهر",
+      "en": "hath been sent down"
+    },
+    {
+      "ar": "كتاب الله",
+      "en": "The Book of God"
+    },
+    {
+      "ar": "علی هیكل الغلام",
+      "en": "in the form of this Youth"
+    },
+    {
+      "ar": "فتبارك",
+      "en": "Hallowed"
+    },
+    {
+      "ar": "أحسن المبدعین",
+      "en": "the most excellent of makers"
+    },
+    {
+      "ar": "أنتم",
+      "en": "ye"
+    },
+    {
+      "ar": "یا ملأ الأرض",
+      "en": "O peoples of the world"
+    },
+    {
+      "ar": "لا تهربوا",
+      "en": "lest ye flee"
+    },
+    {
+      "ar": "عنه",
+      "en": "from His face"
+    },
+    {
+      "ar": "أن أسرعوا",
+      "en": "make haste"
+    },
+    {
+      "ar": "إلیه",
+      "en": "to attain His presence"
+    },
+    {
+      "ar": "وكونوا",
+      "en": "be"
+    },
+    {
+      "ar": "من الرّاجعین",
+      "en": "of them that have returned unto Him"
+    },
+    {
+      "ar": "توبوا",
+      "en": "Pray to be forgiven"
+    },
+    {
+      "ar": "عمّا",
+      "en": "for having"
+    },
+    {
+      "ar": "قد فرّطتم",
+      "en": "failed"
+    },
+    {
+      "ar": "في جنب الله",
+      "en": "in your duty towards God"
+    },
+    {
+      "ar": "وما أسرفتم",
+      "en": "having trespassed"
+    },
+    {
+      "ar": "في أمره",
+      "en": "against His Cause"
+    },
+    {
+      "ar": "من الجاهلین",
+      "en": "of the foolish"
+    },
+    {
+      "ar": "هو الّذي",
+      "en": "He it is Who"
+    },
+    {
+      "ar": "خلقكم",
+      "en": "hath created you"
+    },
+    {
+      "ar": "ورزقكم",
+      "en": "hath nourished"
+    },
+    {
+      "ar": "بأمره",
+      "en": "through His Cause"
+    },
+    {
+      "ar": "وعرّفكم",
+      "en": "enabled you to recognize"
+    },
+    {
+      "ar": "نفسه",
+      "en": "Him"
+    },
+    {
+      "ar": "العزیز",
+      "en": "the Almighty"
+    },
+    {
+      "ar": "العليّ",
+      "en": "the Most Exalted"
+    },
+    {
+      "ar": "العلیم",
+      "en": "the All-Knowing"
+    },
+    {
+      "ar": "وأظهر",
+      "en": "hath unveiled"
+    },
+    {
+      "ar": "كنوز",
+      "en": "the treasures"
+    },
+    {
+      "ar": "العرفان",
+      "en": "His knowledge"
+    },
+    {
+      "ar": "وعرّجكم",
+      "en": "caused you to ascend"
+    },
+    {
+      "ar": "إلی سمآء",
+      "en": "unto the heaven"
+    },
+    {
+      "ar": "الإیقان",
+      "en": "of certitude"
+    },
+    {
+      "ar": "في أمره",
+      "en": ""
+    },
+    {
+      "ar": "المحكم",
+      "en": "His resistless"
+    },
+    {
+      "ar": "الرّفیع",
+      "en": "His irrefutable"
+    },
+    {
+      "ar": "إیّاكم",
+      "en": "Beware"
+    },
+    {
+      "ar": "أن لا تمنعوا",
+      "en": "that ye do not deprive"
+    },
+    {
+      "ar": "فضل الله",
+      "en": "the grace of God"
+    },
+    {
+      "ar": "ولا تبطلوا",
+      "en": "do not bring to naught"
+    },
+    {
+      "ar": "أعمالكم",
+      "en": "your works"
+    },
+    {
+      "ar": "ولا تنكروه",
+      "en": "do not repudiate"
+    },
+    {
+      "ar": "في هذا الظّهور",
+      "en": "this"
+    },
+    {
+      "ar": "الأظهر",
+      "en": "most manifest"
+    },
+    {
+      "ar": "الأمنع",
+      "en": "this lofty"
+    },
+    {
+      "ar": "المشرق",
+      "en": "this shining"
+    },
+    {
+      "ar": "المنیر",
+      "en": "glorious Revelation"
+    },
+    {
+      "ar": "فأنصفوا",
+      "en": "Judge ye fairly"
+    },
+    {
+      "ar": "في أمر الله",
+      "en": "the Cause of God"
+    },
+    {
+      "ar": "بارئكم",
+      "en": "your Creator"
+    },
+    {
+      "ar": "ثمّ انظروا",
+      "en": "behold"
+    },
+    {
+      "ar": "إلی ما نزل",
+      "en": "that which hath been sent down"
+    },
+    {
+      "ar": "عن جهة العرش",
+      "en": "from the Throne on high"
+    },
+    {
+      "ar": "وتفكّروا",
+      "en": "meditate"
+    },
+    {
+      "ar": "فیه",
+      "en": "thereon"
+    },
+    {
+      "ar": "بقلوب",
+      "en": "with"
+    },
+    {
+      "ar": "طاهر",
+      "en": "innocent"
+    },
+    {
+      "ar": "سلیم",
+      "en": "sanctified hearts"
+    },
+    {
+      "ar": "إذًا یظهر",
+      "en": "Then will"
+    },
+    {
+      "ar": "لكم",
+      "en": "unto you"
+    },
+    {
+      "ar": "الأمر",
+      "en": "the truth of this Cause"
+    },
+    {
+      "ar": "كظهور",
+      "en": "appear"
+    },
+    {
+      "ar": "الشّمس",
+      "en": "as the sun"
+    },
+    {
+      "ar": "في وسط السّمآء",
+      "en": "in its noontide glory"
+    },
+    {
+      "ar": "وتكوننّ",
+      "en": "Then will ye be"
+    },
+    {
+      "ar": "من الموقنین",
+      "en": "of them that have believed"
+    }
+  ],
+  "terms": [
+    {
+      "term": "فضل",
+      "transliteration": "f-d-l",
+      "literal": "grace; bounty; generosity; excellence",
+      "se_rendering": "grace",
+      "note": "Typically 'grace' or 'bounty' (36 occ). 'Gracious, the All-Bountiful' at opening signals SE's rhetorical choice to soften the warning through divine mercy language.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 50,
+          "snippet": "the Gracious, the All-Bountiful"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 115,
+          "snippet": "the All-Bounteous"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 259,
+          "snippet": "merits"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "graciously"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 92,
+          "snippet": "realms"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 278,
+          "snippet": "realm"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 782,
+          "snippet": "through Thy grace"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 709,
+          "snippet": "by Thy grace"
+        }
+      ]
+    },
+    {
+      "term": "العزیز",
+      "transliteration": "ʿ-z-z",
+      "literal": "glory; might; honor; dignity; power; majesty",
+      "se_rendering": "Almighty",
+      "note": "Predominantly 'glory' or 'might' (49 occ). Here SE uses 'Almighty' — a theological elevation marking divine sovereignty over creation itself.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 245,
+          "snippet": "glory"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 491,
+          "snippet": "exalted"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 99,
+          "snippet": "Dear"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 38,
+          "snippet": "dearly beloved"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 37,
+          "snippet": "Gracious"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 162,
+          "snippet": "Mighty"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 789,
+          "snippet": "Thy glory"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 158,
+          "snippet": "on thy glory"
+        }
+      ]
+    },
+    {
+      "term": "ظهر",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "sent down",
+      "note": "Typically 'Manifestation' or 'manifestation' (96 occ). Here 'sent down' emphasizes revelation as descent from throne, not merely appearance — unique theological framing.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 140,
+          "snippet": "manifestation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 160,
+          "snippet": "Author of all Manifestations"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 136,
+          "snippet": "evident"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 206,
+          "snippet": "appeared"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 196,
+          "snippet": "Manifestations of God"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 255,
+          "snippet": "Manifestations"
+        }
+      ]
+    },
+    {
+      "term": "أمره",
+      "transliteration": "ʾ-m-r",
+      "literal": "command; cause; matter; affair",
+      "se_rendering": "Cause",
+      "note": "Usually 'His Cause' or 'His Revelation' (75 occ). Rendered 'Cause' throughout here, maintaining consistency with Bahá'í usage but note the dual meaning: command and mission.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "His Cause"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 797,
+          "snippet": "Thy Cause"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 597,
+          "snippet": "service"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 167,
+          "snippet": "things"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "commanded"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 236,
+          "snippet": "commissioned"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 785,
+          "snippet": "Thy Revelation"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 38,
+          "snippet": "for the protection of the Cause"
+        }
+      ]
+    },
+    {
+      "term": "بقلوب",
+      "transliteration": "q-l-b",
+      "literal": "heart; to turn; to overturn",
+      "se_rendering": "hearts",
+      "note": "Consistently 'hearts' (60 occ). 'Innocent and sanctified hearts' emphasizes purity of inner instrument — critical for direct perception of truth in Bahá'í epistemology.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 187,
+          "snippet": "hearts"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 432,
+          "snippet": "their hearts"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 652,
+          "snippet": "heart"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 777,
+          "snippet": "commotion"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 13,
+          "snippet": "tumult"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 30,
+          "snippet": "thine heart"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 4,
+          "snippet": "with a pure heart"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 82,
+          "snippet": "with a sound heart"
+        }
+      ]
+    }
+  ],
+  "section_index": "LII.2",
+  "section": "LII",
+  "section_para": 2
 }

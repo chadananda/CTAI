@@ -1,10 +1,619 @@
 {
   "work": "Kitab-i-Iqan",
   "slug": "kitab-i-iqan",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 78,
   "source_text": "باری، از مطلب  دور مانديم اگر چه همه ذکر مطلب است و ليکن قسم به خدا آنچه می خواهم اختصار نمايم و به اقلّ کفايت کنم می بينم زمام قلم از دست رفته و با وجود اين چقدر از لئالی بی شمار که ناسفته در صدف قلب مانده و چه مقدار حوريّات معانی که در غرف های حکمت مستور گشته که احدی مسّ آنها ننموده، \"لَم يَطمِثهُنَّ إنسٌ قَبْلَهُمْ و لا جانٌّ. \"  با همه اين بيانات گويا حرفی از مقصود ذکر نشد و رمزی از مطلوب مذکور نيامد، تا کی محرمی يافت شود و احرام حرم دوست بندد و به کعبه مقصود واصل گردد و بی گوش و لسان اسرار بيان بشنود و بيابد.",
   "translation": "We have digressed from the purpose of Our argument, although whatsoever is mentioned serveth only to confirm Our purpose. By God! however great Our desire to be brief, yet We feel We cannot restrain Our pen. Notwithstanding all that We have mentioned, how innumerable are the pearls which have remained unpierced in the shell of Our heart! How many the húrís of inner meaning that are as yet concealed within the chambers of divine wisdom! None hath yet approached them;—húrís, “whom no man nor spirit hath touched before.” Notwithstanding all that hath been said, it seemeth as if not one letter of Our purpose hath been uttered, nor a single sign divulged concerning Our object. When will a faithful seeker be found who will don the garb of pilgrimage, attain the Ka’bih of the heart’s desire, and, without ear or tongue, discover the mysteries of divine utterance?",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "pearls-unpierced-shell-heart",
+  "alignment": [
+    {
+      "ar": "باری",
+      "en": "We have digressed"
+    },
+    {
+      "ar": "مطلب",
+      "en": "purpose"
+    },
+    {
+      "ar": "دور",
+      "en": "digressed"
+    },
+    {
+      "ar": "مانديم",
+      "en": "from"
+    },
+    {
+      "ar": "اگر چه",
+      "en": "although"
+    },
+    {
+      "ar": "همه",
+      "en": "whatsoever"
+    },
+    {
+      "ar": "ذکر",
+      "en": "mentioned"
+    },
+    {
+      "ar": "مطلب",
+      "en": "Our purpose"
+    },
+    {
+      "ar": "قسم به خدا",
+      "en": "By God"
+    },
+    {
+      "ar": "آنچه",
+      "en": "however"
+    },
+    {
+      "ar": "می خواهم",
+      "en": "desire"
+    },
+    {
+      "ar": "اختصار",
+      "en": "brief"
+    },
+    {
+      "ar": "نمايم",
+      "en": "to be"
+    },
+    {
+      "ar": "اقلّ",
+      "en": "restrain"
+    },
+    {
+      "ar": "می بينم",
+      "en": "We feel"
+    },
+    {
+      "ar": "زمام",
+      "en": "cannot"
+    },
+    {
+      "ar": "قلم",
+      "en": "pen"
+    },
+    {
+      "ar": "با وجود اين",
+      "en": "Notwithstanding"
+    },
+    {
+      "ar": "چقدر",
+      "en": "how"
+    },
+    {
+      "ar": "لئالی",
+      "en": "pearls"
+    },
+    {
+      "ar": "بی شمار",
+      "en": "innumerable"
+    },
+    {
+      "ar": "ناسفته",
+      "en": "unpierced"
+    },
+    {
+      "ar": "صدف",
+      "en": "shell"
+    },
+    {
+      "ar": "قلب",
+      "en": "heart"
+    },
+    {
+      "ar": "مانده",
+      "en": "remained"
+    },
+    {
+      "ar": "چه مقدار",
+      "en": "How many"
+    },
+    {
+      "ar": "حوريّات",
+      "en": "húrís"
+    },
+    {
+      "ar": "معانی",
+      "en": "inner meaning"
+    },
+    {
+      "ar": "غرف های",
+      "en": "chambers"
+    },
+    {
+      "ar": "حکمت",
+      "en": "divine wisdom"
+    },
+    {
+      "ar": "مستور",
+      "en": "concealed"
+    },
+    {
+      "ar": "گشته",
+      "en": "within"
+    },
+    {
+      "ar": "احدی",
+      "en": "None"
+    },
+    {
+      "ar": "مسّ",
+      "en": "approached"
+    },
+    {
+      "ar": "آنها",
+      "en": "them"
+    },
+    {
+      "ar": "ننموده",
+      "en": "hath yet"
+    },
+    {
+      "ar": "با همه اين",
+      "en": "Notwithstanding all that"
+    },
+    {
+      "ar": "بيانات",
+      "en": "hath been said"
+    },
+    {
+      "ar": "گويا",
+      "en": "seemeth"
+    },
+    {
+      "ar": "حرفی",
+      "en": "one letter"
+    },
+    {
+      "ar": "ذکر نشد",
+      "en": "hath been uttered"
+    },
+    {
+      "ar": "رمزی",
+      "en": "a single sign"
+    },
+    {
+      "ar": "مطلوب",
+      "en": "Our object"
+    },
+    {
+      "ar": "مذکور نيامد",
+      "en": "divulged"
+    },
+    {
+      "ar": "تا کی",
+      "en": "When"
+    },
+    {
+      "ar": "محرمی",
+      "en": "a faithful seeker"
+    },
+    {
+      "ar": "يافت شود",
+      "en": "be found"
+    },
+    {
+      "ar": "احرام",
+      "en": "garb"
+    },
+    {
+      "ar": "حرم",
+      "en": "pilgrimage"
+    },
+    {
+      "ar": "دوست",
+      "en": "the"
+    },
+    {
+      "ar": "بندد",
+      "en": "don"
+    },
+    {
+      "ar": "واصل گردد",
+      "en": "attain"
+    },
+    {
+      "ar": "بی گوش و لسان",
+      "en": "without ear or tongue"
+    },
+    {
+      "ar": "اسرار",
+      "en": "mysteries"
+    },
+    {
+      "ar": "بيان",
+      "en": "divine utterance"
+    },
+    {
+      "ar": "بشنود",
+      "en": "discover"
+    }
+  ],
+  "terms": [
+    {
+      "term": "قلم",
+      "transliteration": "q-l-m",
+      "literal": "pen; writing instrument",
+      "se_rendering": "pen",
+      "note": "Almost exclusively renders as 'the Pen of the Most High' or proper titles (25 occ). Here bare 'Our pen' — dramatically demoted from cosmic symbol to restrained human instrument.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 100,
+          "snippet": "the Pen of the Most High"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 68,
+          "snippet": "the Pen of Glory"
+        },
+        {
+          "work": "gleanings",
+          "para": 619,
+          "snippet": "My Pen"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 182,
+          "snippet": "the Most Sublime Pen"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 257,
+          "snippet": "the pen of the Primal Point"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 30,
+          "snippet": "thine heart"
+        },
+        {
+          "work": "gleanings",
+          "para": 393,
+          "snippet": "Pen of the Most High"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 159,
+          "snippet": "My Supreme Pen"
+        }
+      ]
+    },
+    {
+      "term": "لئالی",
+      "transliteration": "l-y-l",
+      "literal": "night; darkness",
+      "se_rendering": "pearls",
+      "note": "Normally 'night' or 'night-season' (14 occ). Here uniquely 'pearls' — metaphorical extension revealing SE's interpretive latitude in rendering poetic imagery.",
+      "cross_refs": [
+        {
+          "work": "the-hidden-words",
+          "para": 144,
+          "snippet": "gloom of night"
+        },
+        {
+          "work": "gleanings",
+          "para": 668,
+          "snippet": "night"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 116,
+          "snippet": "night-season"
+        },
+        {
+          "work": "gleanings",
+          "para": 686,
+          "snippet": "pearls"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 200,
+          "snippet": "day and night"
+        }
+      ]
+    },
+    {
+      "term": "حکمت",
+      "transliteration": "h-k-m",
+      "literal": "government; rule; governance; wisdom",
+      "se_rendering": "divine wisdom",
+      "note": "Standard renderings span 'rule,' 'government,' 'mysteries' across 69 occurrences. 'Divine wisdom' here combines mystical sense with SE's preferred reverent phrasing.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-ahd",
+          "para": 6,
+          "snippet": "rule"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "government"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 849,
+          "snippet": "signs of Thy sovereignty"
+        },
+        {
+          "work": "gleanings",
+          "para": 224,
+          "snippet": "mysteries"
+        },
+        {
+          "work": "gleanings",
+          "para": 636,
+          "snippet": "rule of the sword"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 129,
+          "snippet": "perspicuous verses"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 157,
+          "snippet": "justice"
+        },
+        {
+          "work": "gleanings",
+          "para": 139,
+          "snippet": "the face of wisdom"
+        }
+      ]
+    },
+    {
+      "term": "مستور",
+      "transliteration": "s-t-r",
+      "literal": "to veil; to conceal; to cover; veil; covering",
+      "se_rendering": "concealed",
+      "note": "Standard forms are 'concealed,' 'hidden,' 'wrapt within the veil' (22 occ). 'Concealed' here maintains passive form, preserving mystery's protective quality.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 216,
+          "snippet": "the veil of thy sanctity"
+        },
+        {
+          "work": "gleanings",
+          "para": 683,
+          "snippet": "concealment and revelation"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 8,
+          "snippet": "concealed"
+        },
+        {
+          "work": "gleanings",
+          "para": 586,
+          "snippet": "wrapt within the veil"
+        },
+        {
+          "work": "gleanings",
+          "para": 19,
+          "snippet": "hidden"
+        },
+        {
+          "work": "gleanings",
+          "para": 56,
+          "snippet": "was hidden"
+        },
+        {
+          "work": "gleanings",
+          "para": 434,
+          "snippet": "unrevealed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 24,
+          "snippet": "star"
+        }
+      ]
+    },
+    {
+      "term": "بيانات",
+      "transliteration": "b-y-n",
+      "literal": "to manifest; to make clear; clear, evident",
+      "se_rendering": "said",
+      "note": "Root b-y-n favors 'clear proofs,' 'clear verses,' 'the Bayán' (87 occ). 'Said' here is remarkably plain, deflating the discourse before its paradox.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 223,
+          "snippet": "the Expounder, the Most Manifest"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 3,
+          "snippet": "proofs"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 12,
+          "snippet": "clear proofs"
+        },
+        {
+          "work": "gleanings",
+          "para": 563,
+          "snippet": "Dawning-Place of the proofs"
+        },
+        {
+          "work": "gleanings",
+          "para": 292,
+          "snippet": "the Bayán"
+        },
+        {
+          "work": "gleanings",
+          "para": 636,
+          "snippet": "utterance"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 120,
+          "snippet": "evil"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 178,
+          "snippet": "evident error"
+        }
+      ]
+    },
+    {
+      "term": "حرفی",
+      "transliteration": "h-r-f",
+      "literal": "letter; character; edge",
+      "se_rendering": "letter",
+      "note": "Typically 'letters,' 'falsifying,' or 'alteration' (32 occ). 'Letter' here maintains literal sense while emphasizing the unspeakable nature of divine reality.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 46,
+          "snippet": "letters"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 5,
+          "snippet": "passed out"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 6,
+          "snippet": "falsifying"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 41,
+          "snippet": "falsification"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 11,
+          "snippet": "his boundless transgression"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 179,
+          "snippet": "setting down"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 38,
+          "snippet": "write"
+        },
+        {
+          "work": "gleanings",
+          "para": 609,
+          "snippet": "Letter"
+        }
+      ]
+    },
+    {
+      "term": "مقصود",
+      "transliteration": "q-s-d",
+      "literal": "intention; purpose; aim; goal; to seek; to direct oneself",
+      "se_rendering": "purpose",
+      "note": "Root meaning 'intention; purpose; aim' rendered variously as 'Seek,' 'goal,' 'purpose' (32 occ). Consistent 'purpose' here emphasizes Author's ineffable divine intention.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 204,
+          "snippet": "Seek"
+        },
+        {
+          "work": "gleanings",
+          "para": 602,
+          "snippet": "goal"
+        },
+        {
+          "work": "gleanings",
+          "para": 672,
+          "snippet": "direct"
+        },
+        {
+          "work": "gleanings",
+          "para": 683,
+          "snippet": "hasten to embrace"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 64,
+          "snippet": "aim"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 43,
+          "snippet": "purpose"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 47,
+          "snippet": "my heart's Desire"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 5,
+          "snippet": "my Desire"
+        }
+      ]
+    },
+    {
+      "term": "اسرار",
+      "transliteration": "s-r-r",
+      "literal": "throne; couch; seat of authority",
+      "se_rendering": "mysteries",
+      "note": "Root s-r-r primarily yields 'throne,' 'couch,' 'secret' (40 occ). 'Mysteries' here privileges mystical sense over governance metaphors typical in political passages.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 185,
+          "snippet": "lamp"
+        },
+        {
+          "work": "tablet-of-carmel",
+          "para": 2,
+          "snippet": "joy"
+        },
+        {
+          "work": "gleanings",
+          "para": 218,
+          "snippet": "mystery"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 831,
+          "snippet": "Secret"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 37,
+          "snippet": "in the gladness"
+        },
+        {
+          "work": "gleanings",
+          "para": 727,
+          "snippet": "gladness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 8,
+          "snippet": "by the mysteries"
+        },
+        {
+          "work": "gleanings",
+          "para": 318,
+          "snippet": "mysteries"
+        }
+      ]
+    }
+  ],
+  "section_index": "78",
+  "section": "78",
+  "section_para": 1
 }

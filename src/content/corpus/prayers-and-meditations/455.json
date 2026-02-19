@@ -1,10 +1,360 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 455,
   "source_text": "عَمَّا قَدَّرْتَةُ لأصْفِيَائِكَ، وَيا إِلهِي إِنِّي حَبَّةٌ قَدْ زَرَعْتَهَا فِي أَرْضِ حُبِّكَ وَأَنْبَتْتَها بِيَدِ إِحْسَانِكَ، إِذًا تَطْلُبُ بِكيْنُونَتِهَا مَاءَ رَحْمَتِكَ وَكَوْثَرَ فَضْلِكَ، فَأَنْزِلْ عَلَيْهَا مِنْ سَمَاءِ عنَايَتِكَ ما يُرَبِّيهَا فِي ظِلِّكَ وَجِوارِكَ، وَإِنَّكَ أَنْتَ ساقِي قُلُوبِ العارِفِينَ مَاءَ الكَوْثَرِ وَالتَّسْنِيمِ وَالحَمْدُ",
   "translation": "I am, O my God, but a tiny seed which Thou hast sown in the soil of Thy love, and caused to spring forth by the hand of Thy bounty. This seed craveth, therefore, in its inmost being, for the waters of Thy mercy and the living fountain of Thy grace. Send down upon it, from the heaven of Thy loving-kindness, that which will enable it to flourish beneath Thy shadow and within the borders of Thy court. Thou art He Who watereth the hearts of all that have recognized Thee from Thy plenteous stream and the fountain of Thy living waters.",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "seed-sown-soil-love",
+  "alignment": [
+    {
+      "ar": "إِلهِي",
+      "en": "my God"
+    },
+    {
+      "ar": "زَرَعْتَهَا",
+      "en": "sown"
+    },
+    {
+      "ar": "أَرْضِ",
+      "en": "soil"
+    },
+    {
+      "ar": "أَنْبَتْتَها",
+      "en": "caused to spring forth"
+    },
+    {
+      "ar": "بِيَدِ",
+      "en": "by the hand"
+    },
+    {
+      "ar": "إِحْسَانِكَ",
+      "en": "Thy bounty"
+    },
+    {
+      "ar": "تَطْلُبُ",
+      "en": "craveth"
+    },
+    {
+      "ar": "بِكيْنُونَتِهَا",
+      "en": "in its inmost being"
+    },
+    {
+      "ar": "مَاءَ",
+      "en": "waters"
+    },
+    {
+      "ar": "رَحْمَتِكَ",
+      "en": "Thy mercy"
+    },
+    {
+      "ar": "كَوْثَرَ",
+      "en": "fountain"
+    },
+    {
+      "ar": "فَضْلِكَ",
+      "en": "Thy grace"
+    },
+    {
+      "ar": "أَنْزِلْ",
+      "en": "Send down"
+    },
+    {
+      "ar": "عَلَيْهَا",
+      "en": "upon it"
+    },
+    {
+      "ar": "سَمَاءِ",
+      "en": "heaven"
+    },
+    {
+      "ar": "عنَايَتِكَ",
+      "en": "Thy loving-kindness"
+    },
+    {
+      "ar": "جِوارِكَ",
+      "en": "borders of Thy court"
+    },
+    {
+      "ar": "أَنْتَ",
+      "en": "He"
+    },
+    {
+      "ar": "ساقِي",
+      "en": "watereth"
+    },
+    {
+      "ar": "قُلُوبِ",
+      "en": "hearts"
+    },
+    {
+      "ar": "العارِفِينَ",
+      "en": "all that have recognized Thee"
+    },
+    {
+      "ar": "الكَوْثَرِ",
+      "en": "plenteous stream"
+    }
+  ],
+  "terms": [
+    {
+      "term": "حَبَّةٌ",
+      "transliteration": "ḥ-b-b",
+      "literal": "love; affection",
+      "se_rendering": "tiny seed",
+      "note": "Hapax in corpus; SE renders abstractly as 'tiny seed' rather than literal 'grain,' establishing the seed metaphor that sustains the entire prayer's botanical imagery.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 3,
+          "snippet": "beloved of the Lord"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 53,
+          "snippet": "loved ones of the Lord"
+        },
+        {
+          "work": "gleanings",
+          "para": 341,
+          "snippet": "loved ones of God"
+        },
+        {
+          "work": "gleanings",
+          "para": 689,
+          "snippet": "beloved of the one true God"
+        },
+        {
+          "work": "gleanings",
+          "para": 640,
+          "snippet": "loved ones"
+        },
+        {
+          "work": "gleanings",
+          "para": 690,
+          "snippet": "beloved of God"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 39,
+          "snippet": "His loved ones"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 10,
+          "snippet": "love for Thee"
+        }
+      ]
+    },
+    {
+      "term": "أَرْضِ",
+      "transliteration": "ʾ-r-d",
+      "literal": "earth; land; ground; country",
+      "se_rendering": "soil",
+      "note": "Typically 'land' or 'earth' (26 occurrences); here 'soil' privileges the agricultural metaphor, subordinating territorial meaning to spiritual cultivation.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 76,
+          "snippet": "The earth"
+        },
+        {
+          "work": "gleanings",
+          "para": 203,
+          "snippet": "Land of Ṭá (Ṭihrán)"
+        },
+        {
+          "work": "gleanings",
+          "para": 207,
+          "snippet": "Land of Ṭá"
+        },
+        {
+          "work": "gleanings",
+          "para": 234,
+          "snippet": "land"
+        },
+        {
+          "work": "gleanings",
+          "para": 679,
+          "snippet": "soil"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 111,
+          "snippet": "Lord of Lords"
+        },
+        {
+          "work": "gleanings",
+          "para": 725,
+          "snippet": "Holy Land"
+        },
+        {
+          "work": "gleanings",
+          "para": 713,
+          "snippet": "lands"
+        }
+      ]
+    },
+    {
+      "term": "بِيَدِ",
+      "transliteration": "b-y-d",
+      "literal": "it is necessary; it behooves; one must",
+      "se_rendering": "by the hand of",
+      "note": "Rare rendering 'by the hand of' (5 occ); SE employs literal agency phrasing rather than idiomatic abstraction, foregrounding divine intentionality in the seed's growth.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 351,
+          "snippet": "Please God thou wilt turn"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 28,
+          "snippet": "It is incumbent upon you to be"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 77,
+          "snippet": "must needs therefore be cleansed"
+        },
+        {
+          "work": "gleanings",
+          "para": 636,
+          "snippet": "by the hand of"
+        },
+        {
+          "work": "gleanings",
+          "para": 686,
+          "snippet": "with the hand of"
+        }
+      ]
+    },
+    {
+      "term": "رَحْمَتِكَ",
+      "transliteration": "r-ḥ-m",
+      "literal": "merciful, compassionate; pertaining to divine mercy",
+      "se_rendering": "Thy mercy",
+      "note": "Standard 'mercy' here despite Jafar's 70 occurrences listing 'Divine glory' and 'spirit of mercy'; SE maintains consistency with the emotional resonance the context requires.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 673,
+          "snippet": "Divine glory"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 57,
+          "snippet": "Divine"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 89,
+          "snippet": "celestial melody"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 114,
+          "snippet": "spirit of mercy"
+        },
+        {
+          "work": "gleanings",
+          "para": 372,
+          "snippet": "merciful"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 220,
+          "snippet": "have mercy on them"
+        },
+        {
+          "work": "gleanings",
+          "para": 12,
+          "snippet": "mercy"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 50,
+          "snippet": "the Compassionate"
+        }
+      ]
+    },
+    {
+      "term": "ظِلِّكَ",
+      "transliteration": "dh-l-l",
+      "literal": "to take shelter; to dwell in shadow",
+      "se_rendering": "Thy shadow",
+      "note": "Standard 'shadow' among limited 8 occurrences; SE avoids alternatives like 'clouds' or 'shelter,' maintaining the shade metaphor's continuity with agricultural protection.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 67,
+          "snippet": "His shadow"
+        },
+        {
+          "work": "gleanings",
+          "para": 87,
+          "snippet": "clouds"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 104,
+          "snippet": "thy shadow"
+        }
+      ]
+    },
+    {
+      "term": "العارِفِينَ",
+      "transliteration": "ʿ-r-f",
+      "literal": "to confess; to acknowledge; to recognize",
+      "se_rendering": "all that have recognized Thee",
+      "note": "Rendered 'all that have recognized Thee' rather than typical 'acknowledged' or 'testifieth'; SE employs personal recognition language befitting hearts as subjects of divine watering.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 135,
+          "snippet": "hath acknowledged"
+        },
+        {
+          "work": "gleanings",
+          "para": 568,
+          "snippet": "acknowledged"
+        },
+        {
+          "work": "gleanings",
+          "para": 295,
+          "snippet": "made objections"
+        },
+        {
+          "work": "gleanings",
+          "para": 87,
+          "snippet": "knowledge"
+        },
+        {
+          "work": "gleanings",
+          "para": 2,
+          "snippet": "perception"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 5,
+          "snippet": "acknowledging"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 4,
+          "snippet": "fragrance of His garment"
+        },
+        {
+          "work": "gleanings",
+          "para": 214,
+          "snippet": "acknowledge"
+        }
+      ]
+    }
+  ],
+  "section_index": "CVI.3",
+  "section": "CVI",
+  "section_para": 3
 }

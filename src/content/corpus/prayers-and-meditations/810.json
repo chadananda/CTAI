@@ -1,10 +1,154 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 810,
   "source_text": "تُقرأ مرّة كل أربع وعشرين ساعة، حين الزوال:",
   "translation": "To be recited once in twenty-four hours, at noon",
   "source_lang": "ar",
-  "score": 9.9
+  "score": 9.9,
+  "page_slug": "recited-once-twenty-four-hours-noon",
+  "alignment": [
+    {
+      "ar": "تُقرأ",
+      "en": "To be recited"
+    },
+    {
+      "ar": "مرّة",
+      "en": "once"
+    },
+    {
+      "ar": "كل",
+      "en": "in"
+    },
+    {
+      "ar": "أربع",
+      "en": "twenty-four"
+    },
+    {
+      "ar": "ساعة",
+      "en": "hours"
+    },
+    {
+      "ar": "الزوال",
+      "en": "noon"
+    }
+  ],
+  "terms": [
+    {
+      "term": "مرّة",
+      "transliteration": "m-r-r",
+      "literal": "to pass; to pass by; to go",
+      "se_rendering": "once",
+      "note": "Root m-r-r typically means 'to pass/go' with diverse renderings ('mirror', 'station and mission'). Here rendered 'once' — a frequency marker distinct from motion semantics.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 548,
+          "snippet": "mirror"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 192,
+          "snippet": "station and mission"
+        },
+        {
+          "work": "gleanings",
+          "para": 712,
+          "snippet": "bloweth upon"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 64,
+          "snippet": "were being wafted"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 682,
+          "snippet": "once"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 55,
+          "snippet": "one time"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 181,
+          "snippet": "entirely"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 204,
+          "snippet": "passeth"
+        }
+      ]
+    },
+    {
+      "term": "ساعة",
+      "transliteration": "s-w-ʿ",
+      "literal": "hour; moment",
+      "se_rendering": "hours",
+      "note": "Appears 3 times in corpus rendered as 'the Hour' or 'hour'. Here 'hours' (plural) — SE uses indefinite plural for duration measurement rather than eschatological 'Hour'.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 425,
+          "snippet": "the Hour"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 88,
+          "snippet": "hour"
+        }
+      ]
+    },
+    {
+      "term": "الزوال",
+      "transliteration": "z-w-l",
+      "literal": "to pass away; to vanish; to disappear; to cease",
+      "se_rendering": "noon",
+      "note": "Root z-w-l typically rendered 'cease', 'pass away', 'perisheth' (metaphysical meanings). Here 'noon' — SE selects temporal/astronomical sense, the only concrete time marker in 19 occurrences.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 306,
+          "snippet": "cease"
+        },
+        {
+          "work": "gleanings",
+          "para": 555,
+          "snippet": "pass away"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 2,
+          "snippet": "declineth not"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 113,
+          "snippet": "perisheth"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 158,
+          "snippet": "fade away"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 266,
+          "snippet": "eventide"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 62,
+          "snippet": "imperishable"
+        }
+      ]
+    }
+  ],
+  "section_index": "CLXXXI.1",
+  "section": "CLXXXI",
+  "section_para": 1
 }

@@ -1,10 +1,484 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 241,
   "source_text": "وَسَيِّدِيْ وَمالِكِي وَسُلْطانِي حِينَئِذٍ لَمَّا اعْتَرَفْتُ بِعَجْزِي وَعَجْزِ المُمْكِناتِ وَأَقْرَرْتُ بِفَقْرِي وَفَقْرِ المَوْجُوداتِ أُنادِيكَ بِلِسانِي وَأَلْسُنِ كُلِّ مَنْ فِي الأَرَضِينَ وَالسَّمَواتِ وَأَدْعُوكَ بِقَلْبِي وَقُلُوبِ كُلِّ مَنْ دَخَلَ فِي ظِلِّ الأَسْمآءِ وَالصِّفاتِ بِأَنْ لا تُغْلِقَ عَلَى وُجُوهِنا أَبْوابَ فَضْلِكَ وَإِفْضالِكَ وَلا تَقْطَعَ عَنْ أَرْواحِنا نَسَماتِ جُودِكَ وَأَلْطافِكَ وَلا تَشْتَغِلَ قُلوبُنا بِغَيْرِكَ وَلا أَفْئِدَتُنا بِذِكْرِ سِواكَ، فَوَعِزَّتِكَ يا إِلهِي لَوْ",
   "translation": "Praise be to Thee, O Lord, my God, my Master, my Possessor, my King. Now that I have confessed unto Thee my powerlessness and the powerlessness of all created things, and have acknowledged my poverty and the poverty of the entire creation, I call unto Thee with my tongue and the tongues of all that are in heaven and on earth, and beseech Thee with my heart and the hearts of all that have entered beneath the shadow of Thy names and Thine attributes, not to shut us from the doors of Thy loving-kindness and grace, nor to suffer the breeze of Thy bountiful care and favor to cease from being wafted over our souls, nor to permit that our hearts be occupied with any one except Thee, or our minds to be busied with any remembrance save remembrance of Thy Self.",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "doors-loving-kindness-grace",
+  "alignment": [
+    {
+      "ar": "مالِكِي",
+      "en": "my Possessor"
+    },
+    {
+      "ar": "سُلْطانِي",
+      "en": "my King"
+    },
+    {
+      "ar": "حِينَئِذٍ",
+      "en": "Now"
+    },
+    {
+      "ar": "اعْتَرَفْتُ",
+      "en": "I have confessed"
+    },
+    {
+      "ar": "بِعَجْزِي",
+      "en": "my powerlessness"
+    },
+    {
+      "ar": "عَجْزِ",
+      "en": "powerlessness"
+    },
+    {
+      "ar": "المُمْكِناتِ",
+      "en": "all created things"
+    },
+    {
+      "ar": "أَقْرَرْتُ",
+      "en": "acknowledged"
+    },
+    {
+      "ar": "بِفَقْرِي",
+      "en": "my poverty"
+    },
+    {
+      "ar": "فَقْرِ",
+      "en": "poverty"
+    },
+    {
+      "ar": "المَوْجُوداتِ",
+      "en": "the entire creation"
+    },
+    {
+      "ar": "أُنادِيكَ",
+      "en": "I call unto Thee"
+    },
+    {
+      "ar": "بِلِسانِي",
+      "en": "with my tongue"
+    },
+    {
+      "ar": "أَلْسُنِ",
+      "en": "the tongues"
+    },
+    {
+      "ar": "الأَرَضِينَ",
+      "en": "earth"
+    },
+    {
+      "ar": "أَدْعُوكَ",
+      "en": "beseech Thee"
+    },
+    {
+      "ar": "بِقَلْبِي",
+      "en": "with my heart"
+    },
+    {
+      "ar": "قُلُوبِ",
+      "en": "the hearts"
+    },
+    {
+      "ar": "دَخَلَ",
+      "en": "have entered"
+    },
+    {
+      "ar": "الأَسْمآءِ",
+      "en": "Thy names"
+    },
+    {
+      "ar": "لا تُغْلِقَ",
+      "en": "not to shut"
+    },
+    {
+      "ar": "وُجُوهِنا",
+      "en": "us"
+    },
+    {
+      "ar": "أَبْوابَ",
+      "en": "the doors"
+    },
+    {
+      "ar": "فَضْلِكَ",
+      "en": "Thy loving-kindness"
+    },
+    {
+      "ar": "إِفْضالِكَ",
+      "en": "grace"
+    },
+    {
+      "ar": "لا تَقْطَعَ",
+      "en": "nor to suffer"
+    },
+    {
+      "ar": "أَرْواحِنا",
+      "en": "our souls"
+    },
+    {
+      "ar": "نَسَماتِ",
+      "en": "the breeze"
+    },
+    {
+      "ar": "جُودِكَ",
+      "en": "Thy bountiful care"
+    },
+    {
+      "ar": "أَلْطافِكَ",
+      "en": "favor"
+    },
+    {
+      "ar": "لا تَشْتَغِلَ",
+      "en": "nor to permit that"
+    },
+    {
+      "ar": "قُلوبُنا",
+      "en": "our hearts"
+    },
+    {
+      "ar": "بِغَيْرِكَ",
+      "en": "with any one except Thee"
+    },
+    {
+      "ar": "أَفْئِدَتُنا",
+      "en": "our minds"
+    },
+    {
+      "ar": "بِذِكْرِ",
+      "en": "any remembrance"
+    },
+    {
+      "ar": "سِواكَ",
+      "en": "save remembrance of Thy Self"
+    },
+    {
+      "ar": "إِلهِي",
+      "en": ""
+    }
+  ],
+  "terms": [
+    {
+      "term": "اعْتَرَفْتُ",
+      "transliteration": "ʿ-r-f",
+      "literal": "to confess; to acknowledge; to recognize",
+      "se_rendering": "have confessed",
+      "note": "Typically 'acknowledged' or 'testifieth' (82 occ.); here rendered 'confessed' alongside parallel 'acknowledged,' marking emotional intensity of admission before God.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 135,
+          "snippet": "hath acknowledged"
+        },
+        {
+          "work": "gleanings",
+          "para": 568,
+          "snippet": "acknowledged"
+        },
+        {
+          "work": "gleanings",
+          "para": 295,
+          "snippet": "made objections"
+        },
+        {
+          "work": "gleanings",
+          "para": 87,
+          "snippet": "knowledge"
+        },
+        {
+          "work": "gleanings",
+          "para": 2,
+          "snippet": "perception"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 5,
+          "snippet": "acknowledging"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 4,
+          "snippet": "fragrance of His garment"
+        },
+        {
+          "work": "gleanings",
+          "para": 214,
+          "snippet": "acknowledge"
+        }
+      ]
+    },
+    {
+      "term": "الممْكِناتِ",
+      "transliteration": "k-w-n",
+      "literal": "to do; to make; to perform; to be",
+      "se_rendering": "all created things",
+      "note": "Usually 'beings' or 'created things' (57 occ.); rendered here as 'all created things' to contrast with 'entire creation,' emphasizing the totality of contingent existence.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 39,
+          "snippet": "to gather"
+        },
+        {
+          "work": "gleanings",
+          "para": 379,
+          "snippet": "observe"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 159,
+          "snippet": "earn"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 70,
+          "snippet": "said"
+        },
+        {
+          "work": "gleanings",
+          "para": 542,
+          "snippet": "that have gone on before you"
+        },
+        {
+          "work": "gleanings",
+          "para": 240,
+          "snippet": "were greater than you"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 159,
+          "snippet": "had before"
+        },
+        {
+          "work": "gleanings",
+          "para": 24,
+          "snippet": "stand guard over"
+        }
+      ]
+    },
+    {
+      "term": "الأَسْمآءِ",
+      "transliteration": "s-m-y",
+      "literal": "to name, to nominate, to designate, to appoint",
+      "se_rendering": "Thy names",
+      "note": "Standard 'names' (20 occ.); rendered 'Thy names' in mystical context of shadow-dwelling, aligning with theophanic reading of divine attributes.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 20,
+          "snippet": "nominated and appointed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 3,
+          "snippet": "names"
+        },
+        {
+          "work": "gleanings",
+          "para": 374,
+          "snippet": "of His names"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 103,
+          "snippet": "thy name"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 91,
+          "snippet": "My name"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 35,
+          "snippet": "by Thy name"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 107,
+          "snippet": "in the Most Great Name"
+        },
+        {
+          "work": "gleanings",
+          "para": 112,
+          "snippet": "by the Name"
+        }
+      ]
+    },
+    {
+      "term": "وُجُوهِنا",
+      "transliteration": "w-j-h",
+      "literal": "face; countenance; direction; aspect",
+      "se_rendering": "us",
+      "note": "Standard 'faces' (64 occ.); here rendered implicitly through 'us,' showing SE's flexibility in rendering when face-to-face address would be redundant in English.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 77,
+          "snippet": "their faces"
+        },
+        {
+          "work": "gleanings",
+          "para": 596,
+          "snippet": "eyes"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 16,
+          "snippet": "unto Mine"
+        },
+        {
+          "work": "gleanings",
+          "para": 273,
+          "snippet": "face"
+        },
+        {
+          "work": "gleanings",
+          "para": 371,
+          "snippet": "turned"
+        },
+        {
+          "work": "gleanings",
+          "para": 275,
+          "snippet": "with white faces"
+        },
+        {
+          "work": "gleanings",
+          "para": 399,
+          "snippet": "with white faces and radiant hearts"
+        },
+        {
+          "work": "gleanings",
+          "para": 249,
+          "snippet": "for the sake of God"
+        }
+      ]
+    },
+    {
+      "term": "نَسَماتِ",
+      "transliteration": "n-s-m",
+      "literal": "breeze; gentle wind; fragrance",
+      "se_rendering": "the breeze",
+      "note": "Typically 'breeze' with divine qualifier (18 occ.); here simply 'the breeze' within metaphor of grace, trusting context rather than explicit epithets.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 158,
+          "snippet": "sweet gales of divine knowledge"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 105,
+          "snippet": "breeze of My loving-kindness"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 146,
+          "snippet": "breeze that bloweth from the meads of the good-pleasure"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 216,
+          "snippet": "breeze of His loving"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 140,
+          "snippet": "breeze of mercy"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 122,
+          "snippet": "breeze"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 197,
+          "snippet": "breeze of God"
+        },
+        {
+          "work": "gleanings",
+          "para": 182,
+          "snippet": "Breathings of the Divine Spirit"
+        }
+      ]
+    },
+    {
+      "term": "جُودِكَ",
+      "transliteration": "j-w-d",
+      "literal": "generosity; bounty; liberality",
+      "se_rendering": "Thy bountiful care",
+      "note": "Typically 'generosity' or 'bounty' (10 occ.); rendered 'Thy bountiful care' to merge abstraction with concrete pastoral metaphor of wafted breezes.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 5,
+          "snippet": "bounty"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 34,
+          "snippet": "downpour"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 243,
+          "snippet": "Javád"
+        }
+      ]
+    },
+    {
+      "term": "بِغَيْرِكَ",
+      "transliteration": "gh-y-r",
+      "literal": "without; besides; other than; except",
+      "se_rendering": "with any one except Thee",
+      "note": "Usually 'other than' or 'changes' (13 occ.); rendered 'with any one except Thee' to preserve dual negatives and direct prohibition from the Arabic construction.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 44,
+          "snippet": "changes"
+        },
+        {
+          "work": "gleanings",
+          "para": 125,
+          "snippet": "change"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 105,
+          "snippet": "varying"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 180,
+          "snippet": "untoward incident"
+        },
+        {
+          "work": "gleanings",
+          "para": 650,
+          "snippet": "counter to"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 61,
+          "snippet": "contrary"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 143,
+          "snippet": "contrary to"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 26,
+          "snippet": "busied with others than"
+        }
+      ]
+    }
+  ],
+  "section_index": "LVIII.10",
+  "section": "LVIII",
+  "section_para": 10
 }

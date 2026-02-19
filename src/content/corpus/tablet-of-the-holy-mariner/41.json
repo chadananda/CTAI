@@ -1,10 +1,216 @@
 {
   "work": "Tablet of the Holy Mariner",
   "slug": "tablet-of-the-holy-mariner",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 41,
   "source_text": "إذا أشرقت حورية القرب عن أفق الغرفات كإشراق وجه الغلام عن أفق الرّداء \nفسبحان ربّي الأبهى",
   "translation": "Thereupon the countenance of the favored damsel beamed above the celestial chambers even as the light that shineth from the face of the Youth above His mortal temple;\n Glorified be my Lord, the All-Glorious!",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "countenance-beamed-celestial-chambers",
+  "alignment": [
+    {
+      "ar": "إذا",
+      "en": "Thereupon"
+    },
+    {
+      "ar": "أشرقت",
+      "en": "beamed"
+    },
+    {
+      "ar": "حورية",
+      "en": "damsel"
+    },
+    {
+      "ar": "القرب",
+      "en": "favored"
+    },
+    {
+      "ar": "أفق",
+      "en": "above"
+    },
+    {
+      "ar": "الغرفات",
+      "en": "celestial chambers"
+    },
+    {
+      "ar": "كإشراق",
+      "en": "even as the light that shineth"
+    },
+    {
+      "ar": "وجه",
+      "en": "face"
+    },
+    {
+      "ar": "الغلام",
+      "en": "Youth"
+    },
+    {
+      "ar": "الرّداء",
+      "en": "mortal temple"
+    },
+    {
+      "ar": "فسبحان",
+      "en": "Glorified"
+    },
+    {
+      "ar": "ربّي",
+      "en": "my Lord"
+    },
+    {
+      "ar": "الأبهى",
+      "en": "All-Glorious"
+    }
+  ],
+  "terms": [
+    {
+      "term": "أشرقت",
+      "transliteration": "sh-r-q",
+      "literal": "radiance; splendor; dawn; illumination",
+      "se_rendering": "beamed",
+      "note": "Root sh-r-q typically yields 'Daystar', 'radiance', 'revelation'. SE chooses 'beamed' here — softer, more intimate luminescence suited to the feminine countenance.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 47,
+          "snippet": "Ishraq"
+        },
+        {
+          "work": "gleanings",
+          "para": 382,
+          "snippet": "revelation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 83,
+          "snippet": "Daystar"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 41,
+          "snippet": "dawning"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 116,
+          "snippet": "shone"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 2,
+          "snippet": "shining"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 14,
+          "snippet": "Dawning Place"
+        },
+        {
+          "work": "gleanings",
+          "para": 126,
+          "snippet": "Dayspring"
+        }
+      ]
+    },
+    {
+      "term": "الغلام",
+      "transliteration": "gh-l-m",
+      "literal": "youth; boy; servant; the Youth (Bahá'u'lláh)",
+      "se_rendering": "the Youth",
+      "note": "Consistently 'Youth' or 'the Youth' (Bahá'u'lláh reference) across 7 occurrences. This usage maintains the proper name function, identifying the Youth as Bahá'u'lláh.",
+      "cross_refs": [
+        {
+          "work": "fire-tablet",
+          "para": 36,
+          "snippet": "Youth"
+        },
+        {
+          "work": "gleanings",
+          "para": 190,
+          "snippet": "this Youth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 483,
+          "snippet": "the Youth"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 103,
+          "snippet": "slaves"
+        },
+        {
+          "work": "gleanings",
+          "para": 537,
+          "snippet": "Youths"
+        }
+      ]
+    },
+    {
+      "term": "الرداء",
+      "transliteration": "r-d-d",
+      "literal": "rejected; repudiated",
+      "se_rendering": "mortal temple",
+      "note": "Root r-d-d normally means 'rejected' or 'repudiated'. SE renders as 'mortal temple' here — a radical recontextualization mapping the term to embodied existence rather than rejection.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 63,
+          "snippet": "rejected"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 230,
+          "snippet": "refuting"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 128,
+          "snippet": "robe"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 65,
+          "snippet": "garment"
+        },
+        {
+          "work": "gleanings",
+          "para": 717,
+          "snippet": "vesture"
+        }
+      ]
+    },
+    {
+      "term": "الأبهى",
+      "transliteration": "b-h-y",
+      "literal": "splendor; glory; magnificence; Bahá (Proper Name in Bahá'í texts)",
+      "se_rendering": "the All-Glorious",
+      "note": "Root b-h-y yields 'Glory', 'Abhá', or 'Bahá' across corpus. 'All-Glorious' here emphasizes superlative magnificence over the proper name Bahá used in other contexts.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 280,
+          "snippet": "Bahá"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 59,
+          "snippet": "Glory"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 51,
+          "snippet": "Abhá"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 271,
+          "snippet": "All-Glorious"
+        }
+      ]
+    }
+  ],
+  "section_index": "42",
+  "section": "42",
+  "section_para": 1
 }

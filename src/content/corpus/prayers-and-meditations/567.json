@@ -1,10 +1,351 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 567,
   "source_text": "كَ، ثُمَّ انْصُرْ بِها أَحِبَّتَكَ الَّذِينَ ما مُنِعُوا عَنْ أُفُقِ وَحْيِكَ بَعْدَ الَّذِيْ وَرَدَ عَلَيْهِمْ فِي سَبِيلِكَ ما ناحَ بِهِ سُكَّانُ مَلَكُوتِ أَمْرِكَ، أَيْ رَبِّ",
   "translation": "Put forth, therefore, out of the bosom of Thy glory, O my Lord, the hand of Thine omnipotence, and through it assist Thou Thy loved ones who, though sore-tried in Thy path with such trials as have caused the inmates of the kingdom of Thy Cause to groan, were not deterred from turning towards the horizon of Thy Revelation.",
   "source_lang": "ar",
-  "score": 8.9
+  "score": 8.9,
+  "page_slug": "assist-loved-ones-trials",
+  "alignment": [
+    {
+      "ar": "انْصُرْ",
+      "en": "assist"
+    },
+    {
+      "ar": "ما مُنِعُوا",
+      "en": "were not deterred"
+    },
+    {
+      "ar": "أُفُقِ",
+      "en": "horizon"
+    },
+    {
+      "ar": "وَحْيِكَ",
+      "en": "Thy Revelation"
+    },
+    {
+      "ar": "بَعْدَ",
+      "en": "though"
+    },
+    {
+      "ar": "وَرَدَ عَلَيْهِمْ",
+      "en": "sore-tried"
+    },
+    {
+      "ar": "سَبِيلِكَ",
+      "en": "Thy path"
+    },
+    {
+      "ar": "ما ناحَ",
+      "en": "trials"
+    },
+    {
+      "ar": "مَلَكُوتِ",
+      "en": "kingdom"
+    },
+    {
+      "ar": "أَمْرِكَ",
+      "en": "Thy Cause"
+    }
+  ],
+  "terms": [
+    {
+      "term": "مُنِعُوا",
+      "transliteration": "m-n-ʿ",
+      "literal": "forbidden; prevented; deprived",
+      "se_rendering": "were not deterred",
+      "note": "Root m-n-ʿ typically renders as 'forbidden' or 'deprived' (36 occ). 'Deterred' is interpretive, capturing the sense of prevention from spiritual turning rather than literal prohibition.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "forbidden"
+        },
+        {
+          "work": "gleanings",
+          "para": 641,
+          "snippet": "deprived"
+        },
+        {
+          "work": "gleanings",
+          "para": 181,
+          "snippet": "be not deprived"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 56,
+          "snippet": "hindrance"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 89,
+          "snippet": "was powerless to deter"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 193,
+          "snippet": "prevented them"
+        },
+        {
+          "work": "gleanings",
+          "para": 314,
+          "snippet": "refused to allow"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 46,
+          "snippet": "deprive not yourselves"
+        }
+      ]
+    },
+    {
+      "term": "أُفُقِ",
+      "transliteration": "f-q",
+      "literal": "horizon; sphere; realm; quarter",
+      "se_rendering": "horizon",
+      "note": "Rare term with only three corpus occurrences. 'Horizon' here denotes both spatial and spiritual boundary—the turning-place toward divine manifestation.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-ahd",
+          "para": 1,
+          "snippet": "Realm of Glory"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 41,
+          "snippet": "horizon"
+        }
+      ]
+    },
+    {
+      "term": "وَحْيِكَ",
+      "transliteration": "w-ḥ-y",
+      "literal": "revelation; inspiration; divine communication",
+      "se_rendering": "Thy Revelation",
+      "note": "Standard 'Revelation' among seven renderings (7 occ). Capitalized form anchors divine communication as foundational horizon, emphasizing unveiling of truth.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 73,
+          "snippet": "Divine Revelation"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 170,
+          "snippet": "Revelation"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 101,
+          "snippet": "breezes of Revelation"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 196,
+          "snippet": "Revelations"
+        }
+      ]
+    },
+    {
+      "term": "وَرَدَ",
+      "transliteration": "w-r-d",
+      "literal": "to enter, to come, to befall, to arrive",
+      "se_rendering": "sore-tried",
+      "note": "Usually 'befallen' or 'hath touched' (36 occ). 'Sore-tried' here becomes the dominant predicate, absorbing the root's meaning of trials arriving upon them with intense trials.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 126,
+          "snippet": "hath touched"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 61,
+          "snippet": "befallen"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 113,
+          "snippet": "came"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 183,
+          "snippet": "befell"
+        },
+        {
+          "work": "gleanings",
+          "para": 557,
+          "snippet": "will discern"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 30,
+          "snippet": "brought forth"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 204,
+          "snippet": "heaped upon"
+        },
+        {
+          "work": "gleanings",
+          "para": 489,
+          "snippet": "hath befallen"
+        }
+      ]
+    },
+    {
+      "term": "سَبِيلِكَ",
+      "transliteration": "s-b-l",
+      "literal": "path; way; road; cause; means",
+      "se_rendering": "Thy path",
+      "note": "Standard rendering 'Thy path' aligns with frequent pattern (18 occ). Maintains the metaphor of spiritual journey in covenant context without deviation.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 26,
+          "snippet": "Thy ways"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 144,
+          "snippet": "Thy path"
+        },
+        {
+          "work": "gleanings",
+          "para": 17,
+          "snippet": "path"
+        },
+        {
+          "work": "gleanings",
+          "para": 97,
+          "snippet": "door"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 18,
+          "snippet": "manifold systems of religious belief"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 124,
+          "snippet": "the way of God"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 13,
+          "snippet": "the path of God"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 12,
+          "snippet": "the paths of delusion"
+        }
+      ]
+    },
+    {
+      "term": "ناحَ",
+      "transliteration": "n-w-h",
+      "literal": "to wail; to lament; lamentation",
+      "se_rendering": "groan",
+      "note": "Root n-w-h typically 'groaned' or 'lamented' (17 occ). 'Groan' here matches corpus frequency but the causal structure ('caused to groan') emphasizes participatory suffering of heavenly witnesses.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 7,
+          "snippet": "exhorted"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 118,
+          "snippet": "groaned"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 116,
+          "snippet": "lament and bewail"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 239,
+          "snippet": "lamented"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 159,
+          "snippet": "to groan"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 87,
+          "snippet": "have wailed"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 74,
+          "snippet": "mourn"
+        },
+        {
+          "work": "gleanings",
+          "para": 339,
+          "snippet": "bemoan"
+        }
+      ]
+    },
+    {
+      "term": "مَلَكُوتِ",
+      "transliteration": "m-l-k",
+      "literal": "kingdom; dominion; realm; sovereignty",
+      "se_rendering": "kingdom",
+      "note": "Consistently 'kingdom' throughout (70 occ). SE's choice of 'kingdom' over 'realm' or 'heaven' stresses sovereignty of the divine order rather than ethereal transcendence.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-ahd",
+          "para": 16,
+          "snippet": "heaven"
+        },
+        {
+          "work": "gleanings",
+          "para": 394,
+          "snippet": "realm"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 171,
+          "snippet": "kingdom"
+        },
+        {
+          "work": "gleanings",
+          "para": 313,
+          "snippet": "heavenly gem"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 69,
+          "snippet": "realms"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 28,
+          "snippet": "righteous"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 167,
+          "snippet": "by the heavenly power"
+        },
+        {
+          "work": "gleanings",
+          "para": 59,
+          "snippet": "Lord"
+        }
+      ]
+    }
+  ],
+  "section_index": "CXXIX.2",
+  "section": "CXXIX",
+  "section_para": 2
 }

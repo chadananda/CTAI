@@ -1,10 +1,584 @@
 {
   "work": "Epistle to the Son of the Wolf",
   "slug": "epistle-to-the-son-of-the-wolf",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 126,
   "source_text": "يا شيخ وارد شد بر اين مظلوم انچه که شبه و مثل نداشته و کلّ را بکمال تسليم و رضا لاجل تهذيب نفوس و ارتفاع کلمة اللّه حمل نموديم * در ايّاميکه در سجن ارض ميم بوديم ما را يک يوم بدست علما دادند ديگر معلومست که چه وارد شد * و اگر وقتی ان جناب در انبار حضرت سلطان وارد شوند از نائب و رئيس ان محلّ بطلبند که ان دو زنجير را که يکی بقره کهر و يکی بسلاسل معروفست بنمايند * قسم بنيّر عدل که چهار شهر اين مظلوم در يکی از اين دو معذّب و مغلول * و حزنی ما يعقوبُ بثّ أَقَلُّهُ * و کلّ بلا ايّوب بعض بليّتی",
   "translation": "O Shaykh! That which hath touched this Wronged One is beyond compare or equal. We have borne it all with the utmost willingness and resignation, so that the souls of men may be edified, and the Word of God be exalted. While confined in the prison of the Land of Mim (Mázindarán) We were one day delivered into the hands of the divines. Thou canst well imagine what befell Us. Shouldst thou at sometime happen to visit the dungeon of His Majesty the Sháh, ask the director and chief jailer to show thee those two chains, one of which is known as Qara-Guhar, and the other as Salasil. I swear by the Day-Star of Justice that for four months this Wronged One was tormented and chained by one or the other of them. \"My grief exceedeth all the woes to which Jacob gave vent, and all the afflictions of Job are but a part of My sorrows!\"",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "wronged-one-chains-qara-guhar",
+  "alignment": [
+    {
+      "ar": "شيخ",
+      "en": "Shaykh"
+    },
+    {
+      "ar": "وارد شد",
+      "en": "hath touched"
+    },
+    {
+      "ar": "مظلوم",
+      "en": "Wronged One"
+    },
+    {
+      "ar": "انچه",
+      "en": "That which"
+    },
+    {
+      "ar": "شبه",
+      "en": "compare"
+    },
+    {
+      "ar": "مثل",
+      "en": "equal"
+    },
+    {
+      "ar": "نداشته",
+      "en": "beyond"
+    },
+    {
+      "ar": "کلّ",
+      "en": "it all"
+    },
+    {
+      "ar": "بکمال",
+      "en": "the utmost"
+    },
+    {
+      "ar": "تسليم",
+      "en": "willingness"
+    },
+    {
+      "ar": "رضا",
+      "en": "resignation"
+    },
+    {
+      "ar": "لاجل",
+      "en": "so that"
+    },
+    {
+      "ar": "تهذيب",
+      "en": "edified"
+    },
+    {
+      "ar": "نفوس",
+      "en": "souls of men"
+    },
+    {
+      "ar": "ارتفاع",
+      "en": "exalted"
+    },
+    {
+      "ar": "کلمة",
+      "en": "Word"
+    },
+    {
+      "ar": "اللّه",
+      "en": "God"
+    },
+    {
+      "ar": "حمل نموديم",
+      "en": "have borne"
+    },
+    {
+      "ar": "ايّاميکه",
+      "en": "While"
+    },
+    {
+      "ar": "سجن",
+      "en": "prison"
+    },
+    {
+      "ar": "ارض ميم",
+      "en": "Land of Mim"
+    },
+    {
+      "ar": "يک يوم",
+      "en": "one day"
+    },
+    {
+      "ar": "بدست",
+      "en": "into the hands"
+    },
+    {
+      "ar": "علما",
+      "en": "divines"
+    },
+    {
+      "ar": "دادند",
+      "en": "delivered"
+    },
+    {
+      "ar": "معلومست",
+      "en": "canst well imagine"
+    },
+    {
+      "ar": "چه",
+      "en": "what"
+    },
+    {
+      "ar": "وارد شد",
+      "en": "befell"
+    },
+    {
+      "ar": "وقتی",
+      "en": "at sometime"
+    },
+    {
+      "ar": "ان جناب",
+      "en": "thou"
+    },
+    {
+      "ar": "انبار",
+      "en": "dungeon"
+    },
+    {
+      "ar": "حضرت سلطان",
+      "en": "His Majesty the Sháh"
+    },
+    {
+      "ar": "وارد شوند",
+      "en": "visit"
+    },
+    {
+      "ar": "نائب",
+      "en": "director"
+    },
+    {
+      "ar": "رئيس",
+      "en": "chief jailer"
+    },
+    {
+      "ar": "بطلبند",
+      "en": "ask"
+    },
+    {
+      "ar": "ان دو زنجير",
+      "en": "those two chains"
+    },
+    {
+      "ar": "يکی",
+      "en": "one of which"
+    },
+    {
+      "ar": "بقره کهر",
+      "en": "Qara-Guhar"
+    },
+    {
+      "ar": "ديگر",
+      "en": "the other"
+    },
+    {
+      "ar": "بسلاسل",
+      "en": "Salasil"
+    },
+    {
+      "ar": "معروفست",
+      "en": "known"
+    },
+    {
+      "ar": "بنمايند",
+      "en": "show"
+    },
+    {
+      "ar": "قسم",
+      "en": "swear"
+    },
+    {
+      "ar": "بنيّر",
+      "en": "Day-Star"
+    },
+    {
+      "ar": "عدل",
+      "en": "Justice"
+    },
+    {
+      "ar": "چهار شهر",
+      "en": "four months"
+    },
+    {
+      "ar": "اين مظلوم",
+      "en": "this Wronged One"
+    },
+    {
+      "ar": "معذّب",
+      "en": "tormented"
+    },
+    {
+      "ar": "مغلول",
+      "en": "chained"
+    },
+    {
+      "ar": "حزنی",
+      "en": "My grief"
+    },
+    {
+      "ar": "يعقوبُ",
+      "en": "Jacob"
+    },
+    {
+      "ar": "بثّ",
+      "en": "woes"
+    },
+    {
+      "ar": "بلا",
+      "en": "afflictions"
+    },
+    {
+      "ar": "ايّوب",
+      "en": "Job"
+    },
+    {
+      "ar": "بعض",
+      "en": "part"
+    },
+    {
+      "ar": "بليّتی",
+      "en": "My sorrows"
+    }
+  ],
+  "terms": [
+    {
+      "term": "وارد",
+      "transliteration": "w-r-d",
+      "literal": "to enter, to come, to befall, to arrive",
+      "se_rendering": "hath touched; befell",
+      "note": "Predominantly 'befallen' or 'came' (36 occurrences). 'Hath touched' in opening phrase is uniquely intimate and physical, conveying visceral impact rather than mere occurrence.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 557,
+          "snippet": "will discern"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 30,
+          "snippet": "brought forth"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 204,
+          "snippet": "heaped upon"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 47,
+          "snippet": "befallen"
+        },
+        {
+          "work": "gleanings",
+          "para": 489,
+          "snippet": "hath befallen"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 49,
+          "snippet": "approaching"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 788,
+          "snippet": "waters"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 240,
+          "snippet": "gain admittance"
+        }
+      ]
+    },
+    {
+      "term": "مظلوم",
+      "transliteration": "z-l-m",
+      "literal": "wrongedness, oppression, meekness; state of being wronged or oppressed",
+      "se_rendering": "Wronged One",
+      "note": "Typically rendered 'afflicted', 'wronged', or 'meekness' across 128 occurrences. 'Wronged One' here capitalizes the term as a quasi-title, elevating the sufferer to a specific, dignified station.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 498,
+          "snippet": "afflicted with countless tribulations"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 49,
+          "snippet": "meekness"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 116,
+          "snippet": "injury"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 3,
+          "snippet": "Wronged One"
+        },
+        {
+          "work": "gleanings",
+          "para": 221,
+          "snippet": "oppression"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 9,
+          "snippet": "Darkness"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 33,
+          "snippet": "tyranny"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 573,
+          "snippet": "oppressed"
+        }
+      ]
+    },
+    {
+      "term": "سجن",
+      "transliteration": "s-j-n",
+      "literal": "prison, imprisonment; to imprison",
+      "se_rendering": "prison",
+      "note": "Consistently 'prison' or 'imprisonment' across 21 occurrences. Here rendered 'prison of the Land of Mim,' maintaining standard denotation while specificity marks the Mázindarán imprisonment.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 448,
+          "snippet": "My imprisonment"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 91,
+          "snippet": "prison"
+        },
+        {
+          "work": "gleanings",
+          "para": 184,
+          "snippet": "imprisonment"
+        },
+        {
+          "work": "gleanings",
+          "para": 225,
+          "snippet": "captivity"
+        },
+        {
+          "work": "gleanings",
+          "para": 410,
+          "snippet": "prisoner"
+        },
+        {
+          "work": "gleanings",
+          "para": 659,
+          "snippet": "imprisoned"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 573,
+          "snippet": "shut up in the fortress-town"
+        }
+      ]
+    },
+    {
+      "term": "علما",
+      "transliteration": "ʿ-l-m",
+      "literal": "world; universe; the worlds",
+      "se_rendering": "divines",
+      "note": "Root meaning 'world' or 'knowledge,' typically rendered 'world', 'mankind', or 'knowledge.' Here 'divines' (religious scholars) shifts entirely to a human institutional meaning—SE's only such rendering in corpus.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 198,
+          "snippet": "world"
+        },
+        {
+          "work": "gleanings",
+          "para": 657,
+          "snippet": "all worlds"
+        },
+        {
+          "work": "gleanings",
+          "para": 182,
+          "snippet": "mankind"
+        },
+        {
+          "work": "gleanings",
+          "para": 183,
+          "snippet": "the whole world"
+        },
+        {
+          "work": "gleanings",
+          "para": 226,
+          "snippet": "all earthly defilements"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 76,
+          "snippet": "Knowledge"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 122,
+          "snippet": "commentators"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 42,
+          "snippet": "banner"
+        }
+      ]
+    },
+    {
+      "term": "قسم",
+      "transliteration": "f-d-y",
+      "literal": "to sacrifice; to ransom; to redeem",
+      "se_rendering": "swear by",
+      "note": "Root ف-د-ي means 'to sacrifice/ransom,' but here rendered 'swear by'—a completely distinct semantic field. This represents SE's unique lexical choice for oath-swearing, not the typical 'sacrifice' rendering.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 808,
+          "snippet": "sacrifice"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 257,
+          "snippet": "sacrifice unto Him"
+        },
+        {
+          "work": "gleanings",
+          "para": 151,
+          "snippet": "be a sacrifice unto"
+        },
+        {
+          "work": "gleanings",
+          "para": 29,
+          "snippet": "a sacrifice"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 17,
+          "snippet": "whose soul be glorified"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 270,
+          "snippet": "to renew"
+        },
+        {
+          "work": "gleanings",
+          "para": 269,
+          "snippet": "laid down his life"
+        },
+        {
+          "work": "gleanings",
+          "para": 567,
+          "snippet": "offered up Mine own Self and My kindred"
+        }
+      ]
+    },
+    {
+      "term": "عدل",
+      "transliteration": "ʿ-d-l",
+      "literal": "justice; equity",
+      "se_rendering": "Justice",
+      "note": "Typically 'justice', 'Justice', or 'equity' (29 occurrences). 'Day-Star of Justice' personifies and elevates the abstract noun into a celestial symbol—SE's distinctive theological poetics rather than plain legal terminology.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 25,
+          "snippet": "Justice"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "just"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 145,
+          "snippet": "Who dealest equitably"
+        },
+        {
+          "work": "gleanings",
+          "para": 21,
+          "snippet": "with justice and equity"
+        },
+        {
+          "work": "gleanings",
+          "para": 538,
+          "snippet": "as numerous as"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 79,
+          "snippet": "disputeth"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 24,
+          "snippet": "Consort"
+        },
+        {
+          "work": "gleanings",
+          "para": 189,
+          "snippet": "the Just"
+        }
+      ]
+    },
+    {
+      "term": "حزنی",
+      "transliteration": "h-z-n",
+      "literal": "sorrow; grief; sadness; anguish",
+      "se_rendering": "grief",
+      "note": "Standard renderings are 'sorrow', 'grief', 'Sorrows' across 23 occurrences. 'Grief' here maintains convention while the Quranic echo that follows ('My grief exceedeth...Jacob') elevates the theological weight.",
+      "cross_refs": [
+        {
+          "work": "fire-tablet",
+          "para": 12,
+          "snippet": "Sorrows"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 57,
+          "snippet": "sorrow"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 36,
+          "snippet": "Sorrow not"
+        },
+        {
+          "work": "gleanings",
+          "para": 207,
+          "snippet": "Let nothing grieve thee"
+        },
+        {
+          "work": "gleanings",
+          "para": 216,
+          "snippet": "Grieve not"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 54,
+          "snippet": "be not sad"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 11,
+          "snippet": "affliction"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 16,
+          "snippet": "his sadness"
+        }
+      ]
+    }
+  ],
+  "section_index": "126",
+  "section": "126",
+  "section_para": 1
 }

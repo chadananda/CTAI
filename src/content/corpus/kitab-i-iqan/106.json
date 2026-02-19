@@ -1,10 +1,623 @@
 {
   "work": "Kitab-i-Iqan",
   "slug": "kitab-i-iqan",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 106,
   "source_text": "و چون ابواب عرفان ذات ازل بر وجه ممکنات مسدود شد لهذا به اقتضای رحمت  واسعه \"سَبَقَتْ رَحمَتُهُ کُلَّ شَیءٍ \" و وَسِعَتْ رَحمَتی کُلّ   شَيْءٍ \" جواهر قدس نورانی را از عوالم روحانی به هياکل عزّ  انسانی در ميان خلق ظاهر فرمود تا حکايت نمايند از آن ذات ازليّه و ساذج قدميّه.  و اين مرايای قدسيّه و مطالع هويّه بتمامهم از آن شمس وجود و جوهر مقصود حکايت می نمايند،  مثلاً علم ايشان از علم او و قدرت ايشان از قدرت او وسلطنت ايشان از سلطنت او و جمال ايشان از جمال او و ظهور ايشان از ظهور او.  و ايشانند مخازن علوم ربّانی و مواقع حکمت صمدانی و مظاهر فيض نا متناهی و مطالع شمس لايزالی چنانچه می فرمايد:  \"لا فَرقَ بَينَکَ و بَينَهُم إلّا بانَّهُم عِبادُکَ وَ خَلقُکَ.\" و اين است مقام \"اَنَا هو و هو اَنَا\" که در حديث مذکور است.",
   "translation": "The door of the knowledge of the Ancient of Days being thus closed in the face of all beings, the Source of infinite grace, according to His saying: “His grace hath transcended all things; My grace hath encompassed them all” hath caused those luminous Gems of Holiness to appear out of the realm of the spirit, in the noble form of the human temple, and be made manifest unto all men, that they may impart unto the world the mysteries of the unchangeable Being, and tell of the subtleties of His imperishable Essence. These sanctified Mirrors, these Day-springs of ancient glory are one and all the Exponents on earth of Him Who is the central Orb of the universe, its Essence and ultimate Purpose. From Him proceed their knowledge and power; from Him is derived their sovereignty. The beauty of their countenance is but a reflection of His image, and their revelation a sign of His deathless glory. They are the Treasuries of divine knowledge, and the Repositories of celestial wisdom. Through them is transmitted a grace that is infinite, and by them is revealed the light that can never fade. Even as He hath said: “There is no distinction whatsoever between Thee and them; except that they are Thy servants, and are created of Thee.” This is the significance of the tradition: “I am He, Himself, and He is I, myself.”",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "luminous-gems-holiness-manifestation",
+  "alignment": [
+    {
+      "ar": "چون",
+      "en": "thus"
+    },
+    {
+      "ar": "ابواب",
+      "en": "door"
+    },
+    {
+      "ar": "عرفان",
+      "en": "knowledge"
+    },
+    {
+      "ar": "ذات",
+      "en": "Being"
+    },
+    {
+      "ar": "ازل",
+      "en": "Ancient of Days"
+    },
+    {
+      "ar": "بر",
+      "en": "in"
+    },
+    {
+      "ar": "وجه",
+      "en": "face"
+    },
+    {
+      "ar": "ممکنات",
+      "en": "all beings"
+    },
+    {
+      "ar": "مسدود",
+      "en": "closed"
+    },
+    {
+      "ar": "شد",
+      "en": "being"
+    },
+    {
+      "ar": "لهذا",
+      "en": "according to"
+    },
+    {
+      "ar": "رحمت",
+      "en": "grace"
+    },
+    {
+      "ar": "واسعه",
+      "en": "infinite"
+    },
+    {
+      "ar": "سَبَقَتْ",
+      "en": "transcended"
+    },
+    {
+      "ar": "رَحمَتُهُ",
+      "en": "His grace"
+    },
+    {
+      "ar": "شَیءٍ",
+      "en": "things"
+    },
+    {
+      "ar": "وَسِعَتْ",
+      "en": "encompassed"
+    },
+    {
+      "ar": "رَحمَتی",
+      "en": "My grace"
+    },
+    {
+      "ar": "کُلّ",
+      "en": "them all"
+    },
+    {
+      "ar": "جواهر",
+      "en": "Gems"
+    },
+    {
+      "ar": "قدس",
+      "en": "Holiness"
+    },
+    {
+      "ar": "نورانی",
+      "en": "luminous"
+    },
+    {
+      "ar": "را",
+      "en": "those"
+    },
+    {
+      "ar": "از",
+      "en": "out of"
+    },
+    {
+      "ar": "عوالم",
+      "en": "realm"
+    },
+    {
+      "ar": "روحانی",
+      "en": "spirit"
+    },
+    {
+      "ar": "هياکل",
+      "en": "temple"
+    },
+    {
+      "ar": "عزّ",
+      "en": "noble"
+    },
+    {
+      "ar": "انسانی",
+      "en": "human"
+    },
+    {
+      "ar": "در ميان",
+      "en": "unto"
+    },
+    {
+      "ar": "خلق",
+      "en": "all men"
+    },
+    {
+      "ar": "ظاهر",
+      "en": "appear"
+    },
+    {
+      "ar": "فرمود",
+      "en": "caused"
+    },
+    {
+      "ar": "تا",
+      "en": "that"
+    },
+    {
+      "ar": "حکايت نمايند",
+      "en": "impart"
+    },
+    {
+      "ar": "از",
+      "en": "of"
+    },
+    {
+      "ar": "آن",
+      "en": "the"
+    },
+    {
+      "ar": "ذات ازليّه",
+      "en": "unchangeable Being"
+    },
+    {
+      "ar": "و",
+      "en": "and"
+    },
+    {
+      "ar": "ساذج",
+      "en": "subtleties"
+    },
+    {
+      "ar": "قدميّه",
+      "en": "His imperishable Essence"
+    },
+    {
+      "ar": "اين",
+      "en": "These"
+    },
+    {
+      "ar": "مرايای",
+      "en": "Mirrors"
+    },
+    {
+      "ar": "قدسيّه",
+      "en": "sanctified"
+    },
+    {
+      "ar": "و",
+      "en": "these"
+    },
+    {
+      "ar": "مطالع",
+      "en": "Day-springs"
+    },
+    {
+      "ar": "هويّه",
+      "en": "ancient glory"
+    },
+    {
+      "ar": "بتمامهم",
+      "en": "one and all"
+    },
+    {
+      "ar": "آن",
+      "en": "Him"
+    },
+    {
+      "ar": "شمس",
+      "en": "Orb"
+    },
+    {
+      "ar": "وجود",
+      "en": "universe"
+    },
+    {
+      "ar": "جوهر",
+      "en": "Essence"
+    },
+    {
+      "ar": "مقصود",
+      "en": "ultimate Purpose"
+    },
+    {
+      "ar": "حکايت می نمايند",
+      "en": "Exponents"
+    },
+    {
+      "ar": "مثلاً",
+      "en": "From Him"
+    },
+    {
+      "ar": "ايشان",
+      "en": "their"
+    },
+    {
+      "ar": "از",
+      "en": "from"
+    },
+    {
+      "ar": "قدرت",
+      "en": "power"
+    },
+    {
+      "ar": "سلطنت",
+      "en": "sovereignty"
+    },
+    {
+      "ar": "از",
+      "en": "is derived"
+    },
+    {
+      "ar": "سلطنت او",
+      "en": "His"
+    },
+    {
+      "ar": "جمال",
+      "en": "beauty"
+    },
+    {
+      "ar": "جمال او",
+      "en": "His image"
+    },
+    {
+      "ar": "ظهور",
+      "en": "revelation"
+    },
+    {
+      "ar": "ظهور او",
+      "en": "His deathless glory"
+    },
+    {
+      "ar": "ايشانند",
+      "en": "They are"
+    },
+    {
+      "ar": "مخازن",
+      "en": "Treasuries"
+    },
+    {
+      "ar": "ربّانی",
+      "en": "divine"
+    },
+    {
+      "ar": "مواقع",
+      "en": "Repositories"
+    },
+    {
+      "ar": "حکمت",
+      "en": "wisdom"
+    },
+    {
+      "ar": "صمدانی",
+      "en": "celestial"
+    },
+    {
+      "ar": "مظاهر",
+      "en": "Through them"
+    },
+    {
+      "ar": "مطالع",
+      "en": "by them"
+    },
+    {
+      "ar": "شمس",
+      "en": "light"
+    },
+    {
+      "ar": "لايزالی",
+      "en": "never fade"
+    },
+    {
+      "ar": "چنانچه",
+      "en": "Even as"
+    },
+    {
+      "ar": "می فرمايد",
+      "en": "He hath said"
+    },
+    {
+      "ar": "لا",
+      "en": "no"
+    },
+    {
+      "ar": "فَرقَ",
+      "en": "distinction"
+    },
+    {
+      "ar": "بَينَکَ",
+      "en": "between Thee"
+    },
+    {
+      "ar": "بَينَهُم",
+      "en": "them"
+    },
+    {
+      "ar": "إلّا",
+      "en": "except"
+    },
+    {
+      "ar": "عِبادُکَ",
+      "en": "Thy servants"
+    },
+    {
+      "ar": "خَلقُکَ",
+      "en": "created of Thee"
+    },
+    {
+      "ar": "اين",
+      "en": "This"
+    },
+    {
+      "ar": "است",
+      "en": "is"
+    },
+    {
+      "ar": "مقام",
+      "en": "significance"
+    },
+    {
+      "ar": "اَنَا",
+      "en": "I"
+    },
+    {
+      "ar": "هو",
+      "en": "He"
+    },
+    {
+      "ar": "حديث",
+      "en": "tradition"
+    }
+  ],
+  "terms": [
+    {
+      "term": "عرفان",
+      "transliteration": "ʿ-r-f",
+      "literal": "to confess; to acknowledge; to recognize",
+      "se_rendering": "knowledge",
+      "note": "Primarily 'testifieth' or 'acknowledged' across 82 occurrences. 'Knowledge' here shifts to epistemological register, marking the inaccessibility of divine essence through ordinary cognition.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 601,
+          "snippet": "testifieth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 729,
+          "snippet": "hath acknowledged"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 582,
+          "snippet": "have recognized"
+        },
+        {
+          "work": "gleanings",
+          "para": 568,
+          "snippet": "acknowledged"
+        },
+        {
+          "work": "gleanings",
+          "para": 295,
+          "snippet": "made objections"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 744,
+          "snippet": "understanding"
+        },
+        {
+          "work": "gleanings",
+          "para": 87,
+          "snippet": "knowledge"
+        },
+        {
+          "work": "gleanings",
+          "para": 2,
+          "snippet": "perception"
+        }
+      ]
+    },
+    {
+      "term": "رحمت",
+      "transliteration": "r-ḥ-m",
+      "literal": "merciful, compassionate; pertaining to divine mercy",
+      "se_rendering": "grace",
+      "note": "Usually 'Divine glory' or 'merciful' across 70 occurrences. 'Grace' and 'infinite grace' here adopt theological terminology closer to Christian salvific discourse, distancing from Qur'anic divine attributes.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 673,
+          "snippet": "Divine glory"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 57,
+          "snippet": "Divine"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 89,
+          "snippet": "celestial melody"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 114,
+          "snippet": "spirit of mercy"
+        },
+        {
+          "work": "gleanings",
+          "para": 372,
+          "snippet": "merciful"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 220,
+          "snippet": "have mercy on them"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 546,
+          "snippet": "mercy"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 50,
+          "snippet": "the Compassionate"
+        }
+      ]
+    },
+    {
+      "term": "نورانی",
+      "transliteration": "n-w-r",
+      "literal": "light; illumination",
+      "se_rendering": "luminous",
+      "note": "Consistently 'light' across 78 occurrences. 'Luminous' preserves the root while adding adjective quality, emphasizing the Manifestations' radiant nature rather than abstract luminosity.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 3,
+          "snippet": "light"
+        },
+        {
+          "work": "gleanings",
+          "para": 230,
+          "snippet": "Orb of Light"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 114,
+          "snippet": "with the light"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 109,
+          "snippet": "Thy light"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 246,
+          "snippet": "Illumine"
+        },
+        {
+          "work": "gleanings",
+          "para": 235,
+          "snippet": "glory"
+        },
+        {
+          "work": "gleanings",
+          "para": 597,
+          "snippet": "fire"
+        },
+        {
+          "work": "gleanings",
+          "para": 458,
+          "snippet": "fire of God"
+        }
+      ]
+    },
+    {
+      "term": "مطالع",
+      "transliteration": "t-l-ʿ",
+      "literal": "rising; appearance; countenance; manifestation",
+      "se_rendering": "Day-springs",
+      "note": "Range from 'Manifestations' to 'sources of command' across 32 occurrences. 'Day-springs' uniquely employs astronomical metaphor with temporal resonance, unique poetic rendering in this passage.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 856,
+          "snippet": "countenances"
+        },
+        {
+          "work": "gleanings",
+          "para": 35,
+          "snippet": "Revealers of the beauty"
+        },
+        {
+          "work": "gleanings",
+          "para": 364,
+          "snippet": "Manifestations"
+        },
+        {
+          "work": "gleanings",
+          "para": 221,
+          "snippet": "instigators"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "sources of command"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 16,
+          "snippet": "embodiments"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 21,
+          "snippet": "daysprings"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 24,
+          "snippet": "exponents"
+        }
+      ]
+    },
+    {
+      "term": "مقام",
+      "transliteration": "q-w-m",
+      "literal": "rising; standing; uprising; resurrection",
+      "se_rendering": "significance",
+      "note": "Typically 'Day of Resurrection' or 'arise' across 109 occurrences. 'Significance' here denotes ontological status rather than eschatological event, marking a distinctly different semantic deployment.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 437,
+          "snippet": "arise"
+        },
+        {
+          "work": "gleanings",
+          "para": 513,
+          "snippet": "dedicateth"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 74,
+          "snippet": "rise"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "peoples"
+        },
+        {
+          "work": "gleanings",
+          "para": 693,
+          "snippet": "commandments"
+        },
+        {
+          "work": "gleanings",
+          "para": 628,
+          "snippet": "My commandments"
+        },
+        {
+          "work": "gleanings",
+          "para": 518,
+          "snippet": "steadfast"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 38,
+          "snippet": "steadfast in faith"
+        }
+      ]
+    }
+  ],
+  "section_index": "106",
+  "section": "106",
+  "section_para": 1
 }

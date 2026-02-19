@@ -1,10 +1,564 @@
 {
   "work": "Kitab-i-Iqan",
   "slug": "kitab-i-iqan",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 117,
   "source_text": "و حال امروز  مشاهده نما که چقدر از سلاطين به اسم آن حضرت تعظيم می نمايند و چقدر از بلاد و اهل آن که در ظلّ او ساکن اند و به نسبت به آن حضرت افتخار دارند، چنانچه بر منابر وگلدسته ها اين اسم مبارک را به کمال تعظيم و تکريم ذکر می نمايند.  و سلاطينی هم که در ظلّ آن حضرت داخل نشدهاند و قميص کفر را تجديد ننمودهاند ايشان هم به بزرگی و عظمت آن شمس عنايت مقرّ و معترف اند.  اين است سلطنت ظاهره که مشاهده می کنی.  و اين لابدّ است از برای جميع انبياء که يا در حيات و يا بعد از عروج ايشان به موطن حقيقی ظاهر و ثابت می شود چنانچه اليوم ملاحظه می گردد. و ليکن آن سلطنت که مقصود است لم يزل و لايزال طائف حول ايشان است و هميشه با ايشان است و آنی انفکاک نيابد و آن سلطنت باطنيّه است که احاطه نموده کلّ من فی السّموات و الارض را.",
   "translation": "Consider, how great is the change today! Behold, how many are the Sovereigns who bow the knee before His name! How numerous the nations and kingdoms who have sought the shelter of His shadow, who bear allegiance to His Faith, and pride themselves therein! From the pulpit-top there ascendeth today the words of praise which, in utter lowliness, glorify His blessed name; and from the heights of minarets there resoundeth the call that summoneth the concourse of His people to adore Him. Even those Kings of the earth who have refused to embrace His Faith and to put off the garment of unbelief, none the less confess and acknowledge the greatness and overpowering majesty of that Day-star of loving kindness. Such is His earthly sovereignty, the evidences of which thou dost on every side behold. This sovereignty must needs be revealed and established either in the lifetime of every Manifestation of God or after His ascension unto His true habitation in the realms above. What thou dost witness today is but a confirmation of this truth. That spiritual ascendency, however, which is primarily intended, resideth within, and revolveth around Them from eternity even unto eternity. It can never for a moment be divorced from Them. Its dominion hath encompassed all that is in heaven and on earth.",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "earthly-sovereignty-spiritual-ascendency",
+  "alignment": [
+    {
+      "ar": "حال",
+      "en": "today"
+    },
+    {
+      "ar": "مشاهده",
+      "en": "Consider"
+    },
+    {
+      "ar": "چقدر",
+      "en": "how great"
+    },
+    {
+      "ar": "سلاطين",
+      "en": "Sovereigns"
+    },
+    {
+      "ar": "اسم",
+      "en": "name"
+    },
+    {
+      "ar": "آن حضرت",
+      "en": "His"
+    },
+    {
+      "ar": "تعظيم",
+      "en": "bow the knee"
+    },
+    {
+      "ar": "می نمايند",
+      "en": "bow"
+    },
+    {
+      "ar": "بلاد",
+      "en": "nations and kingdoms"
+    },
+    {
+      "ar": "اهل",
+      "en": "nations"
+    },
+    {
+      "ar": "ظلّ",
+      "en": "shadow"
+    },
+    {
+      "ar": "ساکن",
+      "en": "shelter"
+    },
+    {
+      "ar": "نسبت",
+      "en": "allegiance"
+    },
+    {
+      "ar": "افتخار",
+      "en": "pride"
+    },
+    {
+      "ar": "منابر",
+      "en": "pulpit-top"
+    },
+    {
+      "ar": "گلدسته ها",
+      "en": "minarets"
+    },
+    {
+      "ar": "اسم مبارک",
+      "en": "blessed name"
+    },
+    {
+      "ar": "کمال",
+      "en": "utter lowliness"
+    },
+    {
+      "ar": "تکريم",
+      "en": "glorify"
+    },
+    {
+      "ar": "ذکر",
+      "en": "praise"
+    },
+    {
+      "ar": "سلاطينی",
+      "en": "those Kings"
+    },
+    {
+      "ar": "داخل",
+      "en": "embrace"
+    },
+    {
+      "ar": "قميص",
+      "en": "garment"
+    },
+    {
+      "ar": "کفر",
+      "en": "unbelief"
+    },
+    {
+      "ar": "تجديد",
+      "en": "put off"
+    },
+    {
+      "ar": "بزرگی",
+      "en": "greatness"
+    },
+    {
+      "ar": "عظمت",
+      "en": "overpowering majesty"
+    },
+    {
+      "ar": "شمس عنايت",
+      "en": "Day-star of loving kindness"
+    },
+    {
+      "ar": "مقرّ",
+      "en": "confess"
+    },
+    {
+      "ar": "معترف",
+      "en": "acknowledge"
+    },
+    {
+      "ar": "سلطنت ظاهره",
+      "en": "earthly sovereignty"
+    },
+    {
+      "ar": "می کنی",
+      "en": "dost"
+    },
+    {
+      "ar": "لابدّ",
+      "en": "must needs"
+    },
+    {
+      "ar": "جميع",
+      "en": "every"
+    },
+    {
+      "ar": "انبياء",
+      "en": "Manifestation of God"
+    },
+    {
+      "ar": "حيات",
+      "en": "lifetime"
+    },
+    {
+      "ar": "عروج",
+      "en": "ascension"
+    },
+    {
+      "ar": "موطن حقيقی",
+      "en": "true habitation"
+    },
+    {
+      "ar": "ظاهر",
+      "en": "revealed"
+    },
+    {
+      "ar": "ثابت",
+      "en": "established"
+    },
+    {
+      "ar": "ملاحظه",
+      "en": "witness"
+    },
+    {
+      "ar": "سلطنت",
+      "en": "sovereignty"
+    },
+    {
+      "ar": "مقصود",
+      "en": "primarily intended"
+    },
+    {
+      "ar": "لم يزل",
+      "en": "from eternity"
+    },
+    {
+      "ar": "لايزال",
+      "en": "even unto eternity"
+    },
+    {
+      "ar": "طائف",
+      "en": "revolveth around"
+    },
+    {
+      "ar": "هميشه",
+      "en": "never"
+    },
+    {
+      "ar": "انفکاک",
+      "en": "divorced"
+    },
+    {
+      "ar": "سلطنت باطنيّه",
+      "en": "spiritual ascendency"
+    },
+    {
+      "ar": "احاطه",
+      "en": "encompassed"
+    },
+    {
+      "ar": "السّموات",
+      "en": "heaven"
+    },
+    {
+      "ar": "الارض",
+      "en": "earth"
+    }
+  ],
+  "terms": [
+    {
+      "term": "مشاهده",
+      "transliteration": "sh-h-d",
+      "literal": "witnessed; observed; seen; evident; manifest",
+      "se_rendering": "behold",
+      "note": "Usually 'manifest', 'evident', 'witness' (74 occ.). 'Behold' here carries imperative force — transforms observation into spiritual summons to the reader.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 607,
+          "snippet": "manifest"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 811,
+          "snippet": "I bear witness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 6,
+          "snippet": "I testify"
+        },
+        {
+          "work": "gleanings",
+          "para": 298,
+          "snippet": "witness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 253,
+          "snippet": "martyrdom"
+        },
+        {
+          "work": "gleanings",
+          "para": 134,
+          "snippet": "God witnesseth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 230,
+          "snippet": "God testifieth"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 57,
+          "snippet": "beheld"
+        }
+      ]
+    },
+    {
+      "term": "عظمت",
+      "transliteration": "ʿ-z̟-m",
+      "literal": "greatest; supreme; mightiest",
+      "se_rendering": "greatness and overpowering majesty",
+      "note": "Typical renderings: 'supreme', 'Most Great', 'greatest' (63 occ.). 'Greatness and overpowering majesty' unpacks root with paired abstractions, maximizing reverential weight.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 56,
+          "snippet": "supreme"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 269,
+          "snippet": "Most Great"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 734,
+          "snippet": "Most Great Name"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 3,
+          "snippet": "greatest"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 6,
+          "snippet": "greater"
+        },
+        {
+          "work": "gleanings",
+          "para": 10,
+          "snippet": "most mighty"
+        },
+        {
+          "work": "gleanings",
+          "para": 392,
+          "snippet": "great"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 9,
+          "snippet": "mighty"
+        }
+      ]
+    },
+    {
+      "term": "معترف",
+      "transliteration": "ʿ-r-f",
+      "literal": "to confess; to acknowledge; to recognize",
+      "se_rendering": "confess and acknowledge",
+      "note": "Standard patterns: 'testifieth', 'acknowledged', 'recognized' (82 occ.). 'Confess and acknowledge' compounds verbs for rhetorical force, amplifying admission of majesty.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 601,
+          "snippet": "testifieth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 729,
+          "snippet": "hath acknowledged"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 582,
+          "snippet": "have recognized"
+        },
+        {
+          "work": "gleanings",
+          "para": 568,
+          "snippet": "acknowledged"
+        },
+        {
+          "work": "gleanings",
+          "para": 295,
+          "snippet": "made objections"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 744,
+          "snippet": "understanding"
+        },
+        {
+          "work": "gleanings",
+          "para": 87,
+          "snippet": "knowledge"
+        },
+        {
+          "work": "gleanings",
+          "para": 2,
+          "snippet": "perception"
+        }
+      ]
+    },
+    {
+      "term": "ظاهره",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "earthly",
+      "note": "Root typically renders as 'Manifestation' (96 occ.) across corpus. 'Earthly' here emphasizes material sovereignty contrasted with spiritual dominion later in passage.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 53,
+          "snippet": "Manifestation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 160,
+          "snippet": "Author of all Manifestations"
+        },
+        {
+          "work": "gleanings",
+          "para": 222,
+          "snippet": "material"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 206,
+          "snippet": "appeared"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 255,
+          "snippet": "Manifestations"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 791,
+          "snippet": "tokens of Thy handiwork"
+        }
+      ]
+    },
+    {
+      "term": "حقيقی",
+      "transliteration": "h-q-q",
+      "literal": "truth; right; that which is true or just",
+      "se_rendering": "true",
+      "note": "Root patterns: 'the True One', 'the Truth', 'Sun of Truth' (43 occ.). 'True habitation' renders as simple adjective, grounding metaphysical concept in place.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 651,
+          "snippet": "the True One"
+        },
+        {
+          "work": "gleanings",
+          "para": 85,
+          "snippet": "the Truth"
+        },
+        {
+          "work": "gleanings",
+          "para": 328,
+          "snippet": "the one true God"
+        },
+        {
+          "work": "gleanings",
+          "para": 707,
+          "snippet": "Him"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 52,
+          "snippet": "Sun of Truth"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 9,
+          "snippet": "evident"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "betrayal of truth"
+        },
+        {
+          "work": "gleanings",
+          "para": 100,
+          "snippet": "clear"
+        }
+      ]
+    },
+    {
+      "term": "مقصود",
+      "transliteration": "q-s-d",
+      "literal": "intention; purpose; aim; goal; to seek; to direct oneself",
+      "se_rendering": "intended",
+      "note": "Typically 'Seek', 'goal', 'purpose' (32 occ.). 'Primarily intended' isolates theological intent, distinguishing true spiritual sovereignty from apparent earthly power.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 204,
+          "snippet": "Seek"
+        },
+        {
+          "work": "gleanings",
+          "para": 602,
+          "snippet": "goal"
+        },
+        {
+          "work": "gleanings",
+          "para": 672,
+          "snippet": "direct"
+        },
+        {
+          "work": "gleanings",
+          "para": 683,
+          "snippet": "hasten to embrace"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 64,
+          "snippet": "aim"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 43,
+          "snippet": "purpose"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 47,
+          "snippet": "my heart's Desire"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 5,
+          "snippet": "my Desire"
+        }
+      ]
+    },
+    {
+      "term": "باطنيّه",
+      "transliteration": "b-ṭ-n",
+      "literal": "inner; hidden; inward; esoteric",
+      "se_rendering": "spiritual",
+      "note": "Unique appearance in corpus — no concordance data provided. SE renders as 'spiritual', establishing metaphysical interior realm contrasting visible sovereignty.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 602,
+          "snippet": "Concealment"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 23,
+          "snippet": "inwardly"
+        },
+        {
+          "work": "gleanings",
+          "para": 362,
+          "snippet": "inner life"
+        },
+        {
+          "work": "gleanings",
+          "para": 405,
+          "snippet": "smirched and mired"
+        },
+        {
+          "work": "gleanings",
+          "para": 493,
+          "snippet": "be"
+        },
+        {
+          "work": "gleanings",
+          "para": 248,
+          "snippet": "wombs"
+        },
+        {
+          "work": "gleanings",
+          "para": 521,
+          "snippet": "bosom"
+        }
+      ]
+    }
+  ],
+  "section_index": "117",
+  "section": "117",
+  "section_para": 1
 }

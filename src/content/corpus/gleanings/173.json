@@ -1,10 +1,504 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 173,
   "source_text": "ش اخلاق یا اهل بها بتقوی تمسّک نمائید هذا ما حکم به المظلوم و اختاره المختار ای دوستان سزاوار آنکه در این بهار جانفزا از باران نیسان یزدانی تازه و خرّم شوید خورشید بزرگی پرتو افکنده و ابر بخشش سایه گسترده بابهره کسی که خود را بی‌بهره نساخت و دوست را در این جامه بشناخت بگو اهریمنان در کمین‌گاهان ایستاده‌اند آگاه باشید و بروشنائی نام بینا از تیرگیها خود را آزاد نمائید عالم‌بین باشید نه خودبین اهریمنان نفوسی هستند که حائل و مانعند مابین عباد و ارتفاع و ارتقاء مقاماتشان",
   "translation": "O friends! It behooveth you to refresh and revive your souls through the gracious favors which in this Divine, this soul-stirring Springtime are being showered upon you. The Daystar of His great glory hath shed its radiance upon you, and the clouds of His limitless grace have overshadowed you. How high the reward of him that hath not deprived himself of so great a bounty, nor failed to recognize the beauty of his Best-Beloved in this, His new attire. Watch over yourselves, for the Evil One is lying in wait, ready to entrap you. Gird yourselves against his wicked devices, and, led by the light of the name of the All-Seeing God, make your escape from the darkness that surroundeth you. Let your vision be world-embracing, rather than confined to your own self. The Evil One is he that hindereth the rise and obstructeth the spiritual progress of the children of men.",
   "source_lang": "ar",
-  "score": 9.3
+  "score": 9.3,
+  "page_slug": "evil-one-lying-in-wait",
+  "alignment": [
+    {
+      "ar": "اخلاق",
+      "en": "friends"
+    },
+    {
+      "ar": "اهل",
+      "en": "O"
+    },
+    {
+      "ar": "بتقوی",
+      "en": "Watch over yourselves"
+    },
+    {
+      "ar": "تمسّک",
+      "en": "Gird yourselves"
+    },
+    {
+      "ar": "نمائید",
+      "en": "make your escape"
+    },
+    {
+      "ar": "حکم",
+      "en": "behooveth"
+    },
+    {
+      "ar": "المظلوم",
+      "en": "Best-Beloved"
+    },
+    {
+      "ar": "اختاره",
+      "en": "beauty"
+    },
+    {
+      "ar": "المختار",
+      "en": "His"
+    },
+    {
+      "ar": "بهار",
+      "en": "Springtime"
+    },
+    {
+      "ar": "جانفزا",
+      "en": "soul-stirring"
+    },
+    {
+      "ar": "باران",
+      "en": "gracious favors"
+    },
+    {
+      "ar": "نیسان",
+      "en": "showered"
+    },
+    {
+      "ar": "یزدانی",
+      "en": "Divine"
+    },
+    {
+      "ar": "تازه",
+      "en": "refresh"
+    },
+    {
+      "ar": "خرّم",
+      "en": "revive"
+    },
+    {
+      "ar": "خورشید",
+      "en": "Daystar"
+    },
+    {
+      "ar": "بزرگی",
+      "en": "great glory"
+    },
+    {
+      "ar": "پرتو",
+      "en": "radiance"
+    },
+    {
+      "ar": "افکنده",
+      "en": "shed"
+    },
+    {
+      "ar": "ابر",
+      "en": "clouds"
+    },
+    {
+      "ar": "بخشش",
+      "en": "grace"
+    },
+    {
+      "ar": "سایه",
+      "en": "overshadowed"
+    },
+    {
+      "ar": "بابهره",
+      "en": "bounty"
+    },
+    {
+      "ar": "کسی",
+      "en": "him"
+    },
+    {
+      "ar": "بی‌بهره",
+      "en": "deprived"
+    },
+    {
+      "ar": "نساخت",
+      "en": "not deprived"
+    },
+    {
+      "ar": "جامه",
+      "en": "attire"
+    },
+    {
+      "ar": "بشناخت",
+      "en": "recognize"
+    },
+    {
+      "ar": "بگو",
+      "en": "Watch"
+    },
+    {
+      "ar": "اهریمنان",
+      "en": "Evil One"
+    },
+    {
+      "ar": "کمین‌گاهان",
+      "en": "lying in wait"
+    },
+    {
+      "ar": "بروشنائی",
+      "en": "light"
+    },
+    {
+      "ar": "نام",
+      "en": "name"
+    },
+    {
+      "ar": "بینا",
+      "en": "All-Seeing God"
+    },
+    {
+      "ar": "تیرگیها",
+      "en": "darkness"
+    },
+    {
+      "ar": "آزاد",
+      "en": "escape"
+    },
+    {
+      "ar": "نمائید",
+      "en": "make"
+    },
+    {
+      "ar": "عالم‌بین",
+      "en": "world-embracing"
+    },
+    {
+      "ar": "باشید",
+      "en": "Let"
+    },
+    {
+      "ar": "خودبین",
+      "en": "confined to your own self"
+    },
+    {
+      "ar": "نفوسی",
+      "en": "he"
+    },
+    {
+      "ar": "هستند",
+      "en": "is"
+    },
+    {
+      "ar": "حائل",
+      "en": "hindereth"
+    },
+    {
+      "ar": "مانعند",
+      "en": "obstructeth"
+    },
+    {
+      "ar": "عباد",
+      "en": "children of men"
+    },
+    {
+      "ar": "ارتفاع",
+      "en": "rise"
+    },
+    {
+      "ar": "ارتقاء",
+      "en": "spiritual progress"
+    }
+  ],
+  "terms": [
+    {
+      "term": "اخلاق",
+      "transliteration": "kh-l-q",
+      "literal": "character; moral traits; disposition; conduct",
+      "se_rendering": "gracious favors",
+      "note": "Standard rendering is 'character' or 'virtues' (49 occurrences); SE chooses 'gracious favors' here, shifting from moral qualities to divine beneficence.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 28,
+          "snippet": "character"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 50,
+          "snippet": "spiritual characteristics"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 195,
+          "snippet": "virtues"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 54,
+          "snippet": "created her"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 231,
+          "snippet": "His creatures"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 139,
+          "snippet": "His creation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 343,
+          "snippet": "Thy creatures"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 40,
+          "snippet": "wert created"
+        }
+      ]
+    },
+    {
+      "term": "حکم",
+      "transliteration": "h-k-m",
+      "literal": "government; rule; governance; wisdom",
+      "se_rendering": "hath shed",
+      "note": "Usually 'rule,' 'government,' or 'wisdom' across 69 occurrences; rendered here as a verb 'hath shed,' absorbing the meaning into the predicate rather than as a noun.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-ahd",
+          "para": 6,
+          "snippet": "rule"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "government"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 849,
+          "snippet": "signs of Thy sovereignty"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 160,
+          "snippet": "meaning of return"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 182,
+          "snippet": "mystery of the former verse"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 129,
+          "snippet": "perspicuous verses"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 46,
+          "snippet": "conclusive"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 220,
+          "snippet": "impregnable stronghold"
+        }
+      ]
+    },
+    {
+      "term": "المظلوم",
+      "transliteration": "z-l-m",
+      "literal": "wrongedness, oppression, meekness; state of being wronged or oppressed",
+      "se_rendering": "His great glory",
+      "note": "Typically 'wronged' or 'afflicted' (128 occurrences); here rendered obliquely through 'His great glory'—SE interprets the Wronged One metaphorically rather than literally.",
+      "cross_refs": [
+        {
+          "work": "fire-tablet",
+          "para": 49,
+          "snippet": "meekness"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 116,
+          "snippet": "injury"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 36,
+          "snippet": "Wronged One"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 253,
+          "snippet": "wronged"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 9,
+          "snippet": "Darkness"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 33,
+          "snippet": "tyranny"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 573,
+          "snippet": "oppressed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 181,
+          "snippet": "wronged ones"
+        }
+      ]
+    },
+    {
+      "term": "بینا",
+      "transliteration": "b-ṣ-r",
+      "literal": "sight; insight; discernment; spiritual perception",
+      "se_rendering": "All-Seeing",
+      "note": "Typically 'discerning' or 'eye of insight' (27 occurrences); 'All-Seeing' emphasizes divine omniscience rather than human spiritual perception.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 27,
+          "snippet": "discerning"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 278,
+          "snippet": "eye of insight"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 16,
+          "snippet": "eye of God"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 116,
+          "snippet": "discerning eye"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 77,
+          "snippet": "hearing ears, and sharp sight"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 667,
+          "snippet": "the All-Seeing"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 231,
+          "snippet": "clear"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 3,
+          "snippet": "proofs"
+        }
+      ]
+    },
+    {
+      "term": "نفوسی",
+      "transliteration": "n-f-s",
+      "literal": "self; soul; psyche",
+      "se_rendering": "Evil One",
+      "note": "Usually rendered as 'self,' 'soul,' or 'entity' (43 occurrences); personified here as 'Evil One,' conflating psychological egoism with cosmic adversarial force.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 114,
+          "snippet": "over Mine own Self"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 789,
+          "snippet": "myself to be only nothing"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 70,
+          "snippet": "This is the station in which I have no power"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 71,
+          "snippet": "his own entity in the kingdom of his self"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 572,
+          "snippet": "Thy Self at all times"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 109,
+          "snippet": "those"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 125,
+          "snippet": "sense of their own powerlessness"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 179,
+          "snippet": "abstained from all that is abhorrent unto Thee"
+        }
+      ]
+    },
+    {
+      "term": "ارتفاع",
+      "transliteration": "r-f-ʿ",
+      "literal": "to be raised, elevated, exalted, lifted up",
+      "se_rendering": "rise",
+      "note": "Standard renderings are 'exalted,' 'elevated,' or 'sublimity' (45 occurrences); here simply 'rise,' emphasizing progressive movement over transcendent elevation.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 52,
+          "snippet": "elevated heavens"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 11,
+          "snippet": "was hoisted"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 15,
+          "snippet": "exalted"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 227,
+          "snippet": "exaltation"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 210,
+          "snippet": "lift up"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 4,
+          "snippet": "are uplifted"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 285,
+          "snippet": "uplifted"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 43,
+          "snippet": "have We abolished"
+        }
+      ]
+    }
+  ],
+  "section_index": "XLIII.5",
+  "section": "XLIII",
+  "section_para": 5
 }

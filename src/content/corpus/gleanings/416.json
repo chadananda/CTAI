@@ -1,10 +1,364 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 416,
   "source_text": "سداد شرط ایمان است نه اختلاف و فساد بلّغ ما امرت به من لدن صادق امین انّما البهآء علیک یا ایّها الذّاکر باسمی و النّاظر الی شطری و النّاطق بثنآء ربّک الجمیل",
   "translation": "Proclaim unto men what He, Who speaketh the truth and is the Bearer of the Trust of God, hath bidden thee observe. My glory be with thee, O thou that callest upon My name, whose eyes are directed towards My court, and whose tongue uttereth the praise of thy Lord, the Beneficent.",
   "source_lang": "ar",
-  "score": 9.2
+  "score": 9.2,
+  "page_slug": "glory-calleth-upon-my-name",
+  "alignment": [
+    {
+      "ar": "سداد",
+      "en": "the truth"
+    },
+    {
+      "ar": "شرط",
+      "en": "Bearer of the Trust"
+    },
+    {
+      "ar": "ایمان",
+      "en": "God"
+    },
+    {
+      "ar": "اختلاف",
+      "en": ""
+    },
+    {
+      "ar": "فساد",
+      "en": ""
+    },
+    {
+      "ar": "بلّغ",
+      "en": "Proclaim"
+    },
+    {
+      "ar": "امرت",
+      "en": "bidden"
+    },
+    {
+      "ar": "صادق",
+      "en": "speaketh the truth"
+    },
+    {
+      "ar": "البهآء",
+      "en": "My glory"
+    },
+    {
+      "ar": "علیک",
+      "en": "with thee"
+    },
+    {
+      "ar": "الذّاکر",
+      "en": "callest"
+    },
+    {
+      "ar": "باسمی",
+      "en": "My name"
+    },
+    {
+      "ar": "النّاظر",
+      "en": "eyes are directed"
+    },
+    {
+      "ar": "شطری",
+      "en": "My court"
+    },
+    {
+      "ar": "النّاطق",
+      "en": "tongue uttereth"
+    },
+    {
+      "ar": "بثنآء",
+      "en": "the praise"
+    },
+    {
+      "ar": "ربّک",
+      "en": "thy Lord"
+    },
+    {
+      "ar": "الجمیل",
+      "en": "the Beneficent"
+    }
+  ],
+  "terms": [
+    {
+      "term": "امرت",
+      "transliteration": "ʾ-m-r",
+      "literal": "command; cause; matter; affair",
+      "se_rendering": "what hath been commanded",
+      "note": "Usually 'His Cause', 'Revelation', or 'His command' (75 occ). 'What hath been commanded' preserves imperative force while obscuring the cosmic Cause-referent common in Bahá'í theology.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "His Cause"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 797,
+          "snippet": "Thy Cause"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 597,
+          "snippet": "service"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 167,
+          "snippet": "things"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "commanded"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 236,
+          "snippet": "commissioned"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 785,
+          "snippet": "Thy Revelation"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 38,
+          "snippet": "for the protection of the Cause"
+        }
+      ]
+    },
+    {
+      "term": "صادق",
+      "transliteration": "s-d-q",
+      "literal": "to confirm; to verify; to acknowledge; to testify to truth",
+      "se_rendering": "speaketh the truth",
+      "note": "Commonly 'truthful', 'men of truth', 'confirmed' (25 occ). 'Speaketh the truth' reframes as active speech rather than inherent quality or verification.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 225,
+          "snippet": "acknowledge"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 226,
+          "snippet": "men of truth"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 253,
+          "snippet": "truthful"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 134,
+          "snippet": "the truthful"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 28,
+          "snippet": "truthfulness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 143,
+          "snippet": "fidelity"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 10,
+          "snippet": "truth"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 268,
+          "snippet": "spoken the truth"
+        }
+      ]
+    },
+    {
+      "term": "امین",
+      "transliteration": "ʾ-m-n",
+      "literal": "to believe; to have faith; to be secure",
+      "se_rendering": "Bearer of the Trust of God",
+      "note": "Standard renderings are 'trusted servants', 'believed', 'have believed' (62 occ). 'Bearer of the Trust of God' stands unique—SE elevates to titular epithet rather than faith-quality.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 431,
+          "snippet": "have believed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 108,
+          "snippet": "sent Moses with Our signs"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 12,
+          "snippet": "trusted servants"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 93,
+          "snippet": "trustworthy"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 25,
+          "snippet": "believers"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 229,
+          "snippet": "believer"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 131,
+          "snippet": "trust"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 28,
+          "snippet": "trustworthiness"
+        }
+      ]
+    },
+    {
+      "term": "البهآء",
+      "transliteration": "b-h-y",
+      "literal": "splendor; glory; magnificence; Bahá (Proper Name in Bahá'í texts)",
+      "se_rendering": "My glory",
+      "note": "Typically rendered 'Bahá', 'Glory', or 'All-Glorious' (17 occ). Here 'My glory' emphasizes possessive attachment rather than proper name or abstract magnificence.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 280,
+          "snippet": "Bahá"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 59,
+          "snippet": "Glory"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 51,
+          "snippet": "Abhá"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 271,
+          "snippet": "All-Glorious"
+        }
+      ]
+    },
+    {
+      "term": "الناظر",
+      "transliteration": "n-dh-r",
+      "literal": "sight; view; spectacle; appearance",
+      "se_rendering": "whose eyes are directed towards",
+      "note": "Typical range: 'expectant', 'anticipating', 'towards the Most Great Revelation' (48 occ). 'Whose eyes are directed towards' downgrades eschatological expectancy to mere visual direction.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 793,
+          "snippet": "expectantly awaited"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 371,
+          "snippet": "expectant"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 5,
+          "snippet": "peer"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 2,
+          "snippet": "unique"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 17,
+          "snippet": "the eyes"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 16,
+          "snippet": "eyes"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 107,
+          "snippet": "Consider"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 67,
+          "snippet": "Look"
+        }
+      ]
+    },
+    {
+      "term": "الجمیل",
+      "transliteration": "j-m-l",
+      "literal": "beauty; comeliness",
+      "se_rendering": "the Beneficent",
+      "note": "Pattern: 'Beauty', 'Ancient Beauty', 'beauty' (38 occ). 'The Beneficent' deviates sharply—introducing beneficence/grace over aesthetic or ontological Beauty.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 11,
+          "snippet": "beauty"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 193,
+          "snippet": "Among others"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 67,
+          "snippet": "Among"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 208,
+          "snippet": "Among the sciences"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 268,
+          "snippet": "Among them"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 118,
+          "snippet": "following"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 246,
+          "snippet": "Amongst"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 88,
+          "snippet": "for a beauty"
+        }
+      ]
+    }
+  ],
+  "section_index": "C.12",
+  "section": "C",
+  "section_para": 12
 }

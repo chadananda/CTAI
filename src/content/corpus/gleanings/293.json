@@ -1,10 +1,586 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 293,
   "source_text": "مر الله ربّکم وربّ آبائکم الأوّلین ویا قوم لا تنظروا إلی ما عندکم فانظروا بما نزّل من عند الله وإنّه خیر لکم عن کلّ شيء إن أنتم من العارفین ویا قوم فارجعوا البصر إلی ما عندکم من حجّة الله وبرهانه وما نزّل یومئذ لیظهر لکم الحقّ بآیات واضح مبین ویا قوم لا تتّبعوا خطوات الشّیطان أن اتّبعوا ملّة الرّحمن وکونوا من المؤمنین هل بعد ظهور الله ینفع أحدًا شيء لا فونفسي المقتدر العلیم الحکیم کلّما زاد في النّصح زادوا في البغضآء إلی أن قتلوه بالظّلم أَلَا لعنة",
   "translation": "“God,” said He, “is My witness, O people! I am come to you with a Revelation from the Lord, your God, the Lord of your fathers of old. Look not, O people, at the things ye possess. Look rather at the things God hath sent down unto you. This, surely, will be better for you than the whole of creation, could ye but perceive it. Repeat the gaze, O people, and consider the testimony of God and His proof which are in your possession, and compare them unto the Revelation sent down unto you in this Day, that the truth, the infallible truth, may be indubitably manifested unto you. Follow not, O people, the steps of the Evil One; follow ye the Faith of the All-Merciful, and be ye of them that truly believe. What would it profit man, if he were to fail to recognize the Revelation of God? Nothing whatever. To this Mine own Self, the Omnipotent, the Omniscient, the All-Wise, will testify.”",
   "source_lang": "ar",
-  "score": 9.7
+  "score": 9.7,
+  "page_slug": "revelation-god-testimony-truth",
+  "alignment": [
+    {
+      "ar": "مر",
+      "en": "witness"
+    },
+    {
+      "ar": "الله",
+      "en": "God"
+    },
+    {
+      "ar": "ربّکم",
+      "en": "your God"
+    },
+    {
+      "ar": "ربّ",
+      "en": "the Lord"
+    },
+    {
+      "ar": "آبائکم",
+      "en": "your fathers"
+    },
+    {
+      "ar": "الأوّلین",
+      "en": "of old"
+    },
+    {
+      "ar": "قوم",
+      "en": "people"
+    },
+    {
+      "ar": "لا تنظروا",
+      "en": "Look not"
+    },
+    {
+      "ar": "ما عندکم",
+      "en": "the things ye possess"
+    },
+    {
+      "ar": "فانظروا",
+      "en": "Look rather"
+    },
+    {
+      "ar": "نزّل",
+      "en": "sent down"
+    },
+    {
+      "ar": "عند الله",
+      "en": "God hath"
+    },
+    {
+      "ar": "خیر",
+      "en": "better"
+    },
+    {
+      "ar": "لکم",
+      "en": "for you"
+    },
+    {
+      "ar": "کلّ شيء",
+      "en": "the whole of creation"
+    },
+    {
+      "ar": "العارفین",
+      "en": "perceive"
+    },
+    {
+      "ar": "فارجعوا البصر",
+      "en": "Repeat the gaze"
+    },
+    {
+      "ar": "حجّة الله",
+      "en": "testimony of God"
+    },
+    {
+      "ar": "برهانه",
+      "en": "His proof"
+    },
+    {
+      "ar": "في",
+      "en": "in your possession"
+    },
+    {
+      "ar": "یومئذ",
+      "en": "in this Day"
+    },
+    {
+      "ar": "لیظهر",
+      "en": "may be indubitably manifested"
+    },
+    {
+      "ar": "الحقّ",
+      "en": "the truth"
+    },
+    {
+      "ar": "واضح مبین",
+      "en": "the infallible truth"
+    },
+    {
+      "ar": "لا تتّبعوا",
+      "en": "Follow not"
+    },
+    {
+      "ar": "خطوات",
+      "en": "the steps"
+    },
+    {
+      "ar": "الشّیطان",
+      "en": "the Evil One"
+    },
+    {
+      "ar": "اتّبعوا",
+      "en": "follow ye"
+    },
+    {
+      "ar": "ملّة",
+      "en": "the Faith"
+    },
+    {
+      "ar": "الرّحمن",
+      "en": "the All-Merciful"
+    },
+    {
+      "ar": "کونوا",
+      "en": "be ye"
+    },
+    {
+      "ar": "المؤمنین",
+      "en": "them that truly believe"
+    },
+    {
+      "ar": "بعد ظهور الله",
+      "en": "the Revelation of God"
+    },
+    {
+      "ar": "ینفع",
+      "en": "profit"
+    },
+    {
+      "ar": "أحدًا",
+      "en": "man"
+    },
+    {
+      "ar": "شيء",
+      "en": "Nothing whatever"
+    },
+    {
+      "ar": "نفسي",
+      "en": "Mine own Self"
+    },
+    {
+      "ar": "المقتدر",
+      "en": "the Omnipotent"
+    },
+    {
+      "ar": "العلیم",
+      "en": "the Omniscient"
+    },
+    {
+      "ar": "الحکیم",
+      "en": "the All-Wise"
+    },
+    {
+      "ar": "کلّما زاد",
+      "en": "testify"
+    },
+    {
+      "ar": "النّصح",
+      "en": "To this"
+    },
+    {
+      "ar": "زادوا",
+      "en": "will"
+    },
+    {
+      "ar": "البغضآء",
+      "en": "fail to recognize"
+    }
+  ],
+  "terms": [
+    {
+      "term": "نزّل",
+      "transliteration": "n-z-l",
+      "literal": "to descend, to be revealed",
+      "se_rendering": "sent down",
+      "note": "Consistently 'sent down' or 'revealed' across 88 occurrences. SE maintains this rendering here, emphasizing divine descent of revelation.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 188,
+          "snippet": "revealed"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 175,
+          "snippet": "didst send down"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 835,
+          "snippet": "sent down"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 34,
+          "snippet": "Descend"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 47,
+          "snippet": "pour forth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 330,
+          "snippet": "send down"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 40,
+          "snippet": "were revealed"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 16,
+          "snippet": "hath been sent down"
+        }
+      ]
+    },
+    {
+      "term": "العارفین",
+      "transliteration": "ʿ-r-f",
+      "literal": "to confess; to acknowledge; to recognize",
+      "se_rendering": "perceive",
+      "note": "Root typically renders as 'recognize' or 'acknowledge' across 82 occurrences. Here 'perceive it' captures recognition through spiritual understanding rather than intellectual acknowledgment.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 601,
+          "snippet": "testifieth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 729,
+          "snippet": "hath acknowledged"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 582,
+          "snippet": "have recognized"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 228,
+          "snippet": "acknowledged"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 744,
+          "snippet": "understanding"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 5,
+          "snippet": "acknowledging"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 4,
+          "snippet": "fragrance of His garment"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 114,
+          "snippet": "Thy knowledge"
+        }
+      ]
+    },
+    {
+      "term": "البصر",
+      "transliteration": "b-ṣ-r",
+      "literal": "sight; insight; discernment; spiritual perception",
+      "se_rendering": "gaze",
+      "note": "Usually 'sight' or 'eye of insight' across 27 occurrences. Here 'gaze' is unique, suggesting sustained contemplative vision rather than instantaneous perception.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 27,
+          "snippet": "discerning"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 278,
+          "snippet": "eye of insight"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 16,
+          "snippet": "eye of God"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 116,
+          "snippet": "discerning eye"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 77,
+          "snippet": "hearing ears, and sharp sight"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 667,
+          "snippet": "the All-Seeing"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 231,
+          "snippet": "clear"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 3,
+          "snippet": "proofs"
+        }
+      ]
+    },
+    {
+      "term": "لیظهر",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "manifested",
+      "note": "Standard rendering 'manifested' appears across 96 occurrences. SE's choice here aligns with manifestation theology central to Bahá'í doctrine of revelation.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 140,
+          "snippet": "manifestation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 160,
+          "snippet": "Author of all Manifestations"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 136,
+          "snippet": "evident"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 206,
+          "snippet": "appeared"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 196,
+          "snippet": "Manifestations of God"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 255,
+          "snippet": "Manifestations"
+        }
+      ]
+    },
+    {
+      "term": "الرّحمن",
+      "transliteration": "r-ḥ-m",
+      "literal": "merciful, compassionate; pertaining to divine mercy",
+      "se_rendering": "All-Merciful",
+      "note": "Typically 'merciful' or 'Divine' across 70 occurrences. 'All-Merciful' is SE's established rendering for this divine attribute, emphasizing comprehensive divine compassion.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 57,
+          "snippet": "Divine"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 89,
+          "snippet": "celestial melody"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 114,
+          "snippet": "spirit of mercy"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 220,
+          "snippet": "have mercy on them"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 546,
+          "snippet": "mercy"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 50,
+          "snippet": "the Compassionate"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 793,
+          "snippet": "have mercy upon them"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 47,
+          "snippet": "Thy mercy"
+        }
+      ]
+    },
+    {
+      "term": "المؤمنین",
+      "transliteration": "ʾ-m-n",
+      "literal": "to believe; to have faith; to be secure",
+      "se_rendering": "truly believe",
+      "note": "Standard 'believers' or 'believe' across 32 occurrences. SE's 'truly believe' adds qualifier 'truly,' stressing authenticity of faith beyond nominal adherence.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 431,
+          "snippet": "believed"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 2,
+          "snippet": "faith"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 198,
+          "snippet": "Trustworthiness"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 561,
+          "snippet": "hath believed"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 7,
+          "snippet": "have ye believed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 225,
+          "snippet": "believer"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 25,
+          "snippet": "believers"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 6,
+          "snippet": "trustees"
+        }
+      ]
+    },
+    {
+      "term": "ینفع",
+      "transliteration": "n-f-ʿ",
+      "literal": "benefits; profits; advantages",
+      "se_rendering": "profit",
+      "note": "Consistently 'profit' or 'benefit' across 26 occurrences. SE's interrogative form ('would it profit') rhetorically emphasizes recognition's absolute necessity.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 27,
+          "snippet": "advance"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 157,
+          "snippet": "profit"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 48,
+          "snippet": "benefit"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 84,
+          "snippet": "will profit"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 55,
+          "snippet": "profit thee"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 150,
+          "snippet": "hath life been of use nor benefit to Me"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 199,
+          "snippet": "hath not benefited"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 201,
+          "snippet": "profitable unto man"
+        }
+      ]
+    },
+    {
+      "term": "بالظّلم",
+      "transliteration": "z-l-m",
+      "literal": "wrongedness, oppression, meekness; state of being wronged or oppressed",
+      "se_rendering": "wrongdoing",
+      "note": "Root renders as 'wronged' or 'afflicted' across 128 occurrences. Here 'wrongdoing' uniquely shifts from victim's experience to perpetrator's action, intensifying the injustice.",
+      "cross_refs": [
+        {
+          "work": "fire-tablet",
+          "para": 49,
+          "snippet": "meekness"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 116,
+          "snippet": "injury"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 36,
+          "snippet": "Wronged One"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 253,
+          "snippet": "wronged"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 9,
+          "snippet": "Darkness"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 33,
+          "snippet": "tyranny"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 573,
+          "snippet": "oppressed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 181,
+          "snippet": "wronged ones"
+        }
+      ]
+    }
+  ],
+  "section_index": "LXXVI.4",
+  "section": "LXXVI",
+  "section_para": 4
 }

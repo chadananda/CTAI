@@ -1,10 +1,238 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 593,
   "source_text": "أَنْتَ مَوْلَى الوَرى وَمالِكُ الآخِرَةِ وَالأُولى لا إِلهَ إِلاَّ أَنْتَ العَلِيمُ الحَكِيْمُ.",
   "translation": "Thou, truly, art the Lord of all mankind, and the Possessor of this world and of the next. No God is there save Thee, the All-Knowing, the All-Wise.",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "lord-of-all-mankind",
+  "alignment": [
+    {
+      "ar": "أَنْتَ",
+      "en": "Thou"
+    },
+    {
+      "ar": "مَوْلَى",
+      "en": "Lord"
+    },
+    {
+      "ar": "الوَرى",
+      "en": "all mankind"
+    },
+    {
+      "ar": "مالِكُ",
+      "en": "Possessor"
+    },
+    {
+      "ar": "الآخِرَةِ",
+      "en": "the next"
+    },
+    {
+      "ar": "الأُولى",
+      "en": "this world"
+    },
+    {
+      "ar": "لا",
+      "en": "No"
+    },
+    {
+      "ar": "إِلهَ",
+      "en": "God"
+    },
+    {
+      "ar": "أَنْتَ",
+      "en": "Thee"
+    },
+    {
+      "ar": "العَلِيمُ",
+      "en": "All-Knowing"
+    },
+    {
+      "ar": "الحَكِيْمُ",
+      "en": "All-Wise"
+    }
+  ],
+  "terms": [
+    {
+      "term": "الوَرى",
+      "transliteration": "w-r-y",
+      "literal": "mankind; people; human beings",
+      "se_rendering": "all mankind",
+      "note": "Consistently 'mankind' or 'all mankind' across 7 occurrences; this rendering maintains the primary sense of human beings as subjects of divine dominion.",
+      "cross_refs": [
+        {
+          "work": "tablet-of-carmel",
+          "para": 5,
+          "snippet": "all mankind"
+        },
+        {
+          "work": "gleanings",
+          "para": 73,
+          "snippet": "Lord of all people"
+        },
+        {
+          "work": "gleanings",
+          "para": 504,
+          "snippet": "forsaken all things"
+        },
+        {
+          "work": "gleanings",
+          "para": 473,
+          "snippet": "behind"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 134,
+          "snippet": "behind thee"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 157,
+          "snippet": "behind their backs"
+        }
+      ]
+    },
+    {
+      "term": "الآخِرَةِ",
+      "transliteration": "ʾ-kh-r",
+      "literal": "the hereafter, the next life, the world to come",
+      "se_rendering": "the next",
+      "note": "Root ʾ-kh-r typically 'heaven' or 'the next'; SE chooses 'the next' here for temporal clarity about eschatological possession alongside present world.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 70,
+          "snippet": "heaven"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 174,
+          "snippet": "At length"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 237,
+          "snippet": "until in the"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 105,
+          "snippet": "other"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 138,
+          "snippet": "once again"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 266,
+          "snippet": "shall follow"
+        }
+      ]
+    },
+    {
+      "term": "العَلِيمُ",
+      "transliteration": "ʿ-l-m",
+      "literal": "world; universe; the worlds",
+      "se_rendering": "the All-Knowing",
+      "note": "Root ʿ-l-m predominantly 'world' or 'knowledge' across 141 occurrences; 'All-Knowing' here reflects divine attribute interpretation rather than cosmological sense.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 198,
+          "snippet": "world"
+        },
+        {
+          "work": "gleanings",
+          "para": 657,
+          "snippet": "all worlds"
+        },
+        {
+          "work": "gleanings",
+          "para": 182,
+          "snippet": "mankind"
+        },
+        {
+          "work": "gleanings",
+          "para": 183,
+          "snippet": "the whole world"
+        },
+        {
+          "work": "gleanings",
+          "para": 226,
+          "snippet": "all earthly defilements"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 28,
+          "snippet": "knowledge"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 122,
+          "snippet": "commentators"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 42,
+          "snippet": "banner"
+        }
+      ]
+    },
+    {
+      "term": "الحَكِيْمُ",
+      "transliteration": "h-k-m",
+      "literal": "government; rule; governance; wisdom",
+      "se_rendering": "the All-Wise",
+      "note": "Root h-k-m yields 'rule', 'government', 'sovereignty' typically; 'All-Wise' here transforms governance concept into wisdom attribute, departing from political renderings in corpus.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-ahd",
+          "para": 6,
+          "snippet": "rule"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "government"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 160,
+          "snippet": "meaning of return"
+        },
+        {
+          "work": "gleanings",
+          "para": 224,
+          "snippet": "mysteries"
+        },
+        {
+          "work": "gleanings",
+          "para": 636,
+          "snippet": "rule of the sword"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 182,
+          "snippet": "mystery of the former verse"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 129,
+          "snippet": "perspicuous verses"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 46,
+          "snippet": "conclusive"
+        }
+      ]
+    }
+  ],
+  "section_index": "CXXXVII.3",
+  "section": "CXXXVII",
+  "section_para": 3
 }

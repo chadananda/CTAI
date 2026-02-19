@@ -1,10 +1,45 @@
 {
   "work": "Will and Testament",
   "slug": "will-and-testament",
-  "author": "'Abdu'l-Baha",
+  "author": "‘Abdu’l-Bahá",
   "pair_index": 31,
   "source_text": "هواللّه",
   "translation": "He is God",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "he-is-god",
+  "alignment": [
+    {
+      "ar": "هو",
+      "en": "He"
+    },
+    {
+      "ar": "اللّه",
+      "en": "God"
+    }
+  ],
+  "terms": [
+    {
+      "term": "هواللّه",
+      "transliteration": "h-w",
+      "literal": "He; He is",
+      "se_rendering": "He is God",
+      "note": "Compound form combining pronoun + deity. SE renders as complete statement 'He is God' rather than segmented alternatives like 'Through them' or 'with them' documented in corpus.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 39,
+          "snippet": "Through them"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 640,
+          "snippet": "with them"
+        }
+      ]
+    }
+  ],
+  "section_index": "2.0",
+  "section": "2",
+  "section_para": 1
 }

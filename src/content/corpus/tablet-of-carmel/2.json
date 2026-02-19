@@ -1,10 +1,523 @@
 {
   "work": "Tablet of Carmel",
   "slug": "tablet-of-carmel",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 2,
   "source_text": "اِذاً اخذها اهْتِزاز السُّرُور وَ نادَت باعْلی النِّداء نفسْی لإقبالِکَ الفِداء وَ لعنايتکَ الفِداء وَ لِتَوجُّهِکَ الفِداء قَدْ اَهْلکنی يا مَطْلَع الحَيوة فراقکَ وَ احْرقنی هجرک لکَ الحَمد بما اَسمَعتَنی ندائکَ وَ شرّفتَنی بِقُدُومکَ وَ احيَيتنی مِنْ نفحات اَيّامکَ وَ صَرير قلمکَ الَّذی جَعَلْتَه صوراً بينَ عبادِک فَلمّا جاء امرک المُبرم نَفَخْتَ فيه اِذاً قامتِ القيمة الکُبری وَ ظَهَرت الاسْرار المکنُونة فی خزائن مالِک الأَشيآء",
   "translation": "Seized with transports of joy, and raising high her voice, she thus exclaimed: ‘May my life be a sacrifice to Thee, inasmuch as Thou hast fixed Thy gaze upon me, hast bestowed upon me Thy bounty, and hast directed towards me Thy steps. Separation from Thee, O Thou Source of everlasting life, hath well nigh consumed me, and my remoteness from Thy presence hath burned away my soul. All praise be to Thee for having enabled me to hearken to Thy call, for having honoured me with Thy footsteps, and for having quickened my soul through the vitalizing fragrance of Thy Day and the shrilling voice of Thy Pen, a voice Thou didst ordain as Thy trumpet-call amidst Thy people. And when the hour at which Thy resistless Faith was to be made manifest did strike, Thou didst breathe a breath of Thy spirit into Thy Pen, and lo, the entire creation shook to its very foundations, unveiling to mankind such mysteries as lay hidden within the treasuries of Him Who is the Possessor of all created things.’",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "source-everlasting-life-mysteries",
+  "alignment": [
+    {
+      "ar": "اِذاً",
+      "en": "and lo"
+    },
+    {
+      "ar": "اخذها",
+      "en": "Seized"
+    },
+    {
+      "ar": "اهْتِزاز",
+      "en": "transports"
+    },
+    {
+      "ar": "نادَت",
+      "en": "exclaimed"
+    },
+    {
+      "ar": "باعْلی",
+      "en": "high"
+    },
+    {
+      "ar": "نفسْی",
+      "en": "my life"
+    },
+    {
+      "ar": "لإقبالِکَ",
+      "en": "Thou hast fixed Thy gaze upon me"
+    },
+    {
+      "ar": "الفِداء",
+      "en": "sacrifice"
+    },
+    {
+      "ar": "قَدْ",
+      "en": "hath"
+    },
+    {
+      "ar": "اَهْلکنی",
+      "en": "consumed me"
+    },
+    {
+      "ar": "مَطْلَع",
+      "en": "Source"
+    },
+    {
+      "ar": "الحَيوة",
+      "en": "everlasting life"
+    },
+    {
+      "ar": "فراقکَ",
+      "en": "Separation from Thee"
+    },
+    {
+      "ar": "احْرقنی",
+      "en": "burned away"
+    },
+    {
+      "ar": "هجرک",
+      "en": "my remoteness from Thy presence"
+    },
+    {
+      "ar": "الحَمد",
+      "en": "praise"
+    },
+    {
+      "ar": "اَسمَعتَنی",
+      "en": "enabled me to hearken"
+    },
+    {
+      "ar": "ندائکَ",
+      "en": "Thy call"
+    },
+    {
+      "ar": "شرّفتَنی",
+      "en": "honoured me"
+    },
+    {
+      "ar": "بِقُدُومکَ",
+      "en": "with Thy footsteps"
+    },
+    {
+      "ar": "احيَيتنی",
+      "en": "quickened my soul"
+    },
+    {
+      "ar": "نفحات",
+      "en": "fragrance"
+    },
+    {
+      "ar": "اَيّامکَ",
+      "en": "Thy Day"
+    },
+    {
+      "ar": "صَرير",
+      "en": "shrilling voice"
+    },
+    {
+      "ar": "قلمکَ",
+      "en": "Thy Pen"
+    },
+    {
+      "ar": "جَعَلْتَه",
+      "en": "didst ordain"
+    },
+    {
+      "ar": "صوراً",
+      "en": "trumpet-call"
+    },
+    {
+      "ar": "عبادِک",
+      "en": "Thy people"
+    },
+    {
+      "ar": "فَلمّا",
+      "en": "And when"
+    },
+    {
+      "ar": "جاء",
+      "en": "did strike"
+    },
+    {
+      "ar": "امرک",
+      "en": "Thy resistless Faith"
+    },
+    {
+      "ar": "المُبرم",
+      "en": "the hour"
+    },
+    {
+      "ar": "نَفَخْتَ",
+      "en": "didst breathe a breath"
+    },
+    {
+      "ar": "فيه",
+      "en": "into"
+    },
+    {
+      "ar": "قامتِ",
+      "en": "shook"
+    },
+    {
+      "ar": "القيمة",
+      "en": "creation"
+    },
+    {
+      "ar": "الکُبری",
+      "en": "entire"
+    },
+    {
+      "ar": "ظَهَرت",
+      "en": "unveiling"
+    },
+    {
+      "ar": "الاسْرار",
+      "en": "mysteries"
+    },
+    {
+      "ar": "المکنُونة",
+      "en": "hidden"
+    },
+    {
+      "ar": "خزائن",
+      "en": "treasuries"
+    },
+    {
+      "ar": "مالِک",
+      "en": "Possessor"
+    },
+    {
+      "ar": "الأَشيآء",
+      "en": "all created things"
+    }
+  ],
+  "terms": [
+    {
+      "term": "اهْتِزاز",
+      "transliteration": "h-z-z",
+      "literal": "to shake, quiver, vibrate, tremble with emotion",
+      "se_rendering": "transports of joy",
+      "note": "Typically 'shaken' or 'vibration' in 14 occurrences. Here SE renders as 'transports of joy,' capturing emotional trembling rather than physical movement — a uniquely affective interpretation.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 29,
+          "snippet": "transports of joy"
+        },
+        {
+          "work": "gleanings",
+          "para": 282,
+          "snippet": "the tremor of the Word"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 29,
+          "snippet": "All beings were shaken"
+        },
+        {
+          "work": "gleanings",
+          "para": 652,
+          "snippet": "the Tree of My care trembled"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 215,
+          "snippet": "disturbed"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 827,
+          "snippet": "set aflame"
+        }
+      ]
+    },
+    {
+      "term": "السُّرُور",
+      "transliteration": "s-r-r",
+      "literal": "throne; couch; seat of authority",
+      "se_rendering": "joy",
+      "note": "Polysemous root appearing as 'throne,' 'mystery,' 'Secret,' 'lamp,' and 'joy' (40 occ). SE selects 'joy' here, the only emotional rendering — a contextual choice emphasizing the speaker's exultation.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 145,
+          "snippet": "couch"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 256,
+          "snippet": "throne"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 185,
+          "snippet": "lamp"
+        },
+        {
+          "work": "gleanings",
+          "para": 218,
+          "snippet": "mystery"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 831,
+          "snippet": "Secret"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 37,
+          "snippet": "in the gladness"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 12,
+          "snippet": "joy"
+        },
+        {
+          "work": "gleanings",
+          "para": 727,
+          "snippet": "gladness"
+        }
+      ]
+    },
+    {
+      "term": "الفِداء",
+      "transliteration": "f-d-y",
+      "literal": "to sacrifice; to ransom; to redeem",
+      "se_rendering": "sacrifice",
+      "note": "Consistently 'sacrifice' across 22 occurrences. Repeated thrice in the opening invocation (lil-iqbālik, li-ʿināyatik, li-tawajjuhik) — SE preserves lexical density by maintaining singular form throughout.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 808,
+          "snippet": "sacrifice"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 257,
+          "snippet": "sacrifice unto Him"
+        },
+        {
+          "work": "gleanings",
+          "para": 151,
+          "snippet": "be a sacrifice unto"
+        },
+        {
+          "work": "gleanings",
+          "para": 29,
+          "snippet": "a sacrifice"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 17,
+          "snippet": "whose soul be glorified"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 74,
+          "snippet": "may the life of all be a sacrifice unto Him"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 270,
+          "snippet": "to renew"
+        },
+        {
+          "work": "gleanings",
+          "para": 269,
+          "snippet": "laid down his life"
+        }
+      ]
+    },
+    {
+      "term": "مَطْلَع",
+      "transliteration": "t-l-ʿ",
+      "literal": "rising; appearance; countenance; manifestation",
+      "se_rendering": "Source",
+      "note": "Usually 'Manifestations,' 'countenances,' or 'Revealers' (32 occ). Here rendered 'Source,' marking the only instance as a title expressing cosmic origin — a unique titular application.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 47,
+          "snippet": "lives"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 856,
+          "snippet": "countenances"
+        },
+        {
+          "work": "gleanings",
+          "para": 35,
+          "snippet": "Revealers of the beauty"
+        },
+        {
+          "work": "gleanings",
+          "para": 364,
+          "snippet": "Manifestations"
+        },
+        {
+          "work": "gleanings",
+          "para": 221,
+          "snippet": "instigators"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "sources of command"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 16,
+          "snippet": "embodiments"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 21,
+          "snippet": "daysprings"
+        }
+      ]
+    },
+    {
+      "term": "قلمکَ",
+      "transliteration": "q-l-m",
+      "literal": "pen; writing instrument",
+      "se_rendering": "Pen",
+      "note": "Standard rendering as 'Pen' or 'the Pen of Glory' (25 occ). SE's 'trumpet-call' for the Pen's effect is a synesthetic metaphor not elsewhere in corpus — auditory rather than graphological.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 100,
+          "snippet": "the Pen of the Most High"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 68,
+          "snippet": "the Pen of Glory"
+        },
+        {
+          "work": "gleanings",
+          "para": 619,
+          "snippet": "My Pen"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 182,
+          "snippet": "the Most Sublime Pen"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 257,
+          "snippet": "the pen of the Primal Point"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 30,
+          "snippet": "thine heart"
+        },
+        {
+          "work": "gleanings",
+          "para": 393,
+          "snippet": "Pen of the Most High"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 280,
+          "snippet": "Pen"
+        }
+      ]
+    },
+    {
+      "term": "امرک",
+      "transliteration": "ʾ-m-r",
+      "literal": "command; cause; matter; affair",
+      "se_rendering": "Faith",
+      "note": "Typically 'Cause,' 'Revelation,' or 'His command' (75 occ). SE renders 'resistless Faith' here — conflating command with faith-principle, a unique theological compression.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "His Cause"
+        },
+        {
+          "work": "gleanings",
+          "para": 586,
+          "snippet": "His command"
+        },
+        {
+          "work": "gleanings",
+          "para": 691,
+          "snippet": "His Revelation"
+        },
+        {
+          "work": "gleanings",
+          "para": 723,
+          "snippet": "Cause"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 797,
+          "snippet": "Thy Cause"
+        },
+        {
+          "work": "gleanings",
+          "para": 8,
+          "snippet": "Revelation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 597,
+          "snippet": "service"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 167,
+          "snippet": "things"
+        }
+      ]
+    },
+    {
+      "term": "خزائن",
+      "transliteration": "kh-z-n",
+      "literal": "to store, to treasure; storehouse, depository, treasury",
+      "se_rendering": "treasuries",
+      "note": "Consistently 'treasuries,' 'repositories,' 'depositories' (19 occ). SE maintains standard rendering; its paired genitive construct with māliku emphasizes cosmic storehouse — the only instance specifying divine sovereignty over treasures.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 199,
+          "snippet": "depositories"
+        },
+        {
+          "work": "gleanings",
+          "para": 93,
+          "snippet": "repositories"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 58,
+          "snippet": "treasuries"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 1,
+          "snippet": "treasury"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 204,
+          "snippet": "custodians of the treasures"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 131,
+          "snippet": "hidden Treasure"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 742,
+          "snippet": "hidden in the treasuries"
+        },
+        {
+          "work": "gleanings",
+          "para": 630,
+          "snippet": "treasured"
+        }
+      ]
+    }
+  ],
+  "section_index": "2",
+  "section": "2",
+  "section_para": 1
 }

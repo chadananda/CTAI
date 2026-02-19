@@ -1,10 +1,646 @@
 {
   "work": "Epistle to the Son of the Wolf",
   "slug": "epistle-to-the-son-of-the-wolf",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 105,
   "source_text": "* يا اصحاب المجالس هناک و فی ديار اخری تدبّروا و تکلّموا فيما يصلح به العالم و حاله لو کنتم من المتوسّمين * انظروا العالم کهيکل انسان انّه خلق صحيحا کاملا اعترته الامراض بالاسباب المختلفة المتغايرة و ما طابت نفسه يوما بل اشتدّ مرضه بما وقع تحت تصرّف المتطبّبين الّذين رکبوا مطيّة الهوی و کانوا من الهائمين الّا من شاء اللّه ربّ العالمين * و ان طاب عضو من اعضائه فی عصر من الاعصار بطبيب حاذق بقيت اعضاءٌ اخری فيما کان * کذلک ينبئکم العليم الخبير * و اليوم نراه تحت ايادي الّذين اخذهم سکر خمر الغرور بحيث لا يعرفون خير انفسهم فکيف هذا الامر الاوعر الخطير",
   "translation": "\"O ye members of Assemblies in that land and in other countries! Take ye counsel together, and let your concern be only for that which profiteth mankind and bettereth the condition thereof; if ye be of them that scan heedfully. Regard the world as the human body which, though at its creation whole and perfect, hath been afflicted, through various causes, with grave disorders and maladies. Not for one day did it gain ease, nay, its sickness waxed more severe, as it fell under the treatment of ignorant physicians, who gave full rein to their personal desires, and have erred grievously. And if at one time, through the care of an able physician, a member of that body was healed, the rest remained afflicted as before. Thus informeth you the All-Knowing, the All-Wise. We behold it, in this day, at the mercy of rulers, so drunk with pride that they cannot discern clearly their own best advantage, much less recognize a Revelation so bewildering and challenging as this.\"",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "world-afflicted-grave-disorders",
+  "alignment": [
+    {
+      "ar": "اصحاب",
+      "en": "members"
+    },
+    {
+      "ar": "المجالس",
+      "en": "Assemblies"
+    },
+    {
+      "ar": "هناک",
+      "en": "that land"
+    },
+    {
+      "ar": "ديار",
+      "en": "countries"
+    },
+    {
+      "ar": "اخری",
+      "en": "other"
+    },
+    {
+      "ar": "تدبّروا",
+      "en": "Take ye counsel together"
+    },
+    {
+      "ar": "تکلّموا",
+      "en": "let your concern be"
+    },
+    {
+      "ar": "يصلح",
+      "en": "profiteth"
+    },
+    {
+      "ar": "العالم",
+      "en": "mankind"
+    },
+    {
+      "ar": "حاله",
+      "en": "condition"
+    },
+    {
+      "ar": "المتوسّمين",
+      "en": "them that scan heedfully"
+    },
+    {
+      "ar": "انظروا",
+      "en": "Regard"
+    },
+    {
+      "ar": "العالم",
+      "en": "the world"
+    },
+    {
+      "ar": "کهيکل",
+      "en": "as the human body"
+    },
+    {
+      "ar": "انسان",
+      "en": "human"
+    },
+    {
+      "ar": "خلق",
+      "en": "creation"
+    },
+    {
+      "ar": "صحيحا",
+      "en": "whole"
+    },
+    {
+      "ar": "کاملا",
+      "en": "perfect"
+    },
+    {
+      "ar": "اعترته",
+      "en": "afflicted"
+    },
+    {
+      "ar": "الامراض",
+      "en": "disorders and maladies"
+    },
+    {
+      "ar": "بالاسباب",
+      "en": "through various causes"
+    },
+    {
+      "ar": "المختلفة",
+      "en": "various"
+    },
+    {
+      "ar": "المتغايرة",
+      "en": "causes"
+    },
+    {
+      "ar": "طابت",
+      "en": "gain ease"
+    },
+    {
+      "ar": "نفسه",
+      "en": "it"
+    },
+    {
+      "ar": "يوما",
+      "en": "one day"
+    },
+    {
+      "ar": "اشتدّ",
+      "en": "waxed more severe"
+    },
+    {
+      "ar": "مرضه",
+      "en": "sickness"
+    },
+    {
+      "ar": "وقع",
+      "en": "fell"
+    },
+    {
+      "ar": "تحت",
+      "en": "under"
+    },
+    {
+      "ar": "تصرّف",
+      "en": "treatment"
+    },
+    {
+      "ar": "المتطبّبين",
+      "en": "physicians"
+    },
+    {
+      "ar": "رکبوا",
+      "en": "gave full rein"
+    },
+    {
+      "ar": "مطيّة",
+      "en": "rein"
+    },
+    {
+      "ar": "الهوی",
+      "en": "personal desires"
+    },
+    {
+      "ar": "الهائمين",
+      "en": "erred grievously"
+    },
+    {
+      "ar": "شاء",
+      "en": "care"
+    },
+    {
+      "ar": "اللّه",
+      "en": "physician"
+    },
+    {
+      "ar": "ربّ",
+      "en": "All-Knowing"
+    },
+    {
+      "ar": "العالمين",
+      "en": "All-Wise"
+    },
+    {
+      "ar": "طاب",
+      "en": "healed"
+    },
+    {
+      "ar": "عضو",
+      "en": "member"
+    },
+    {
+      "ar": "اعضائه",
+      "en": "that body"
+    },
+    {
+      "ar": "عصر",
+      "en": "one time"
+    },
+    {
+      "ar": "الاعصار",
+      "en": "time"
+    },
+    {
+      "ar": "حاذق",
+      "en": "able"
+    },
+    {
+      "ar": "بقيت",
+      "en": "remained"
+    },
+    {
+      "ar": "اعضاءٌ",
+      "en": "the rest"
+    },
+    {
+      "ar": "ينبئکم",
+      "en": "informeth you"
+    },
+    {
+      "ar": "اليوم",
+      "en": "this day"
+    },
+    {
+      "ar": "نراه",
+      "en": "behold it"
+    },
+    {
+      "ar": "تحت",
+      "en": "at the mercy of"
+    },
+    {
+      "ar": "ايادي",
+      "en": "mercy"
+    },
+    {
+      "ar": "الّذين",
+      "en": "rulers"
+    },
+    {
+      "ar": "اخذهم",
+      "en": "so drunk"
+    },
+    {
+      "ar": "سکر",
+      "en": "drunk"
+    },
+    {
+      "ar": "الغرور",
+      "en": "pride"
+    },
+    {
+      "ar": "لا يعرفون",
+      "en": "cannot discern"
+    },
+    {
+      "ar": "خير",
+      "en": "best advantage"
+    },
+    {
+      "ar": "انفسهم",
+      "en": "their own"
+    },
+    {
+      "ar": "هذا",
+      "en": "this"
+    },
+    {
+      "ar": "الامر",
+      "en": "Revelation"
+    },
+    {
+      "ar": "الاوعر",
+      "en": "bewildering"
+    },
+    {
+      "ar": "الخطير",
+      "en": "challenging"
+    }
+  ],
+  "terms": [
+    {
+      "term": "العالم",
+      "transliteration": "ʿ-l-m",
+      "literal": "world; universe; the worlds",
+      "se_rendering": "world; mankind",
+      "note": "Typically 'world' (141 occurrences); rendered 'mankind' once here mid-passage, then reverts to 'world'—dual semantic coverage reflecting philosophical scope.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 198,
+          "snippet": "world"
+        },
+        {
+          "work": "gleanings",
+          "para": 657,
+          "snippet": "all worlds"
+        },
+        {
+          "work": "gleanings",
+          "para": 182,
+          "snippet": "mankind"
+        },
+        {
+          "work": "gleanings",
+          "para": 183,
+          "snippet": "the whole world"
+        },
+        {
+          "work": "gleanings",
+          "para": 226,
+          "snippet": "all earthly defilements"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 76,
+          "snippet": "Knowledge"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 122,
+          "snippet": "commentators"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 42,
+          "snippet": "banner"
+        }
+      ]
+    },
+    {
+      "term": "کهيکل",
+      "transliteration": "h-k-l",
+      "literal": "temple; structure; form; body",
+      "se_rendering": "human body",
+      "note": "Rare term (20 occurrences), usually 'Temple' or 'Súratu'l-Haykal'. Here 'human body' is unique structural metaphor for corrupted society—only instance as literal anatomy.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "Temple"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 10,
+          "snippet": "person"
+        },
+        {
+          "work": "gleanings",
+          "para": 168,
+          "snippet": "beauty of the immortal Being"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 154,
+          "snippet": "Being"
+        },
+        {
+          "work": "gleanings",
+          "para": 326,
+          "snippet": "human temple"
+        },
+        {
+          "work": "gleanings",
+          "para": 101,
+          "snippet": "individuality"
+        }
+      ]
+    },
+    {
+      "term": "خلق",
+      "transliteration": "kh-l-q",
+      "literal": "character; moral traits; disposition; conduct",
+      "se_rendering": "creation",
+      "note": "Typically 'character' or 'virtues' (49 occurrences). 'Creation' here denotes initial ontological state, not moral disposition—singularly cosmological usage.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 21,
+          "snippet": "character"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 54,
+          "snippet": "created her"
+        },
+        {
+          "work": "gleanings",
+          "para": 451,
+          "snippet": "His Apostle"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 231,
+          "snippet": "His creatures"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 139,
+          "snippet": "His creation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 343,
+          "snippet": "Thy creatures"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 40,
+          "snippet": "wert created"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 23,
+          "snippet": "created thee"
+        }
+      ]
+    },
+    {
+      "term": "المختلفة",
+      "transliteration": "kh-l-f",
+      "literal": "opposing; contrary; conflicting",
+      "se_rendering": "various",
+      "note": "Usually 'contrary' or 'conflicting' (37 occurrences). 'Various' here softens philosophical opposition into empirical multiplicity of disease causes.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 189,
+          "snippet": "in conflict with"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 107,
+          "snippet": "contrary"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 220,
+          "snippet": "adversaries"
+        },
+        {
+          "work": "gleanings",
+          "para": 495,
+          "snippet": "counter to"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 57,
+          "snippet": "contrary to"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 17,
+          "snippet": "whoso opposeth him"
+        },
+        {
+          "work": "gleanings",
+          "para": 468,
+          "snippet": "opposed"
+        },
+        {
+          "work": "gleanings",
+          "para": 462,
+          "snippet": "thou hast violated"
+        }
+      ]
+    },
+    {
+      "term": "اشتدّ",
+      "transliteration": "sh-d-d",
+      "literal": "strong; severe; intense; violent",
+      "se_rendering": "waxed more severe",
+      "note": "Typically 'great' or 'intense' (35 occurrences). 'Waxed more severe' imports temporal progression and gradation absent from other renderings—uniquely dynamic framing.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 38,
+          "snippet": "very great"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 5,
+          "snippet": "great"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 30,
+          "snippet": "most turbulent"
+        },
+        {
+          "work": "gleanings",
+          "para": 94,
+          "snippet": "more intense manifestation"
+        },
+        {
+          "work": "gleanings",
+          "para": 256,
+          "snippet": "most severe in punishment"
+        },
+        {
+          "work": "gleanings",
+          "para": 248,
+          "snippet": "reached manhood"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 141,
+          "snippet": "uttered"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 53,
+          "snippet": "arose"
+        }
+      ]
+    },
+    {
+      "term": "رکبوا",
+      "transliteration": "r-k-b",
+      "literal": "to ride; to commit; to undertake",
+      "se_rendering": "gave full rein to",
+      "note": "Usually 'commit' or 'followeth' (17 occurrences). 'Gave full rein to' is idiomatic English, intensifying the metaphor of mounted riding—no other instance uses this colloquial expansion.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 495,
+          "snippet": "to act in any manner"
+        },
+        {
+          "work": "gleanings",
+          "para": 227,
+          "snippet": "followeth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 466,
+          "snippet": "transgressed"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 274,
+          "snippet": "committed"
+        },
+        {
+          "work": "gleanings",
+          "para": 452,
+          "snippet": "wrought"
+        },
+        {
+          "work": "gleanings",
+          "para": 644,
+          "snippet": "commit"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 118,
+          "snippet": "entered"
+        }
+      ]
+    },
+    {
+      "term": "يعرفون",
+      "transliteration": "ʿ-r-f",
+      "literal": "to confess; to acknowledge; to recognize",
+      "se_rendering": "discern",
+      "note": "Typically 'recognize' or 'acknowledge' (82 occurrences). 'Discern clearly' adds adverbial precision absent from standard binary acknowledgment vocabulary.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 601,
+          "snippet": "testifieth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 729,
+          "snippet": "hath acknowledged"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 582,
+          "snippet": "have recognized"
+        },
+        {
+          "work": "gleanings",
+          "para": 568,
+          "snippet": "acknowledged"
+        },
+        {
+          "work": "gleanings",
+          "para": 295,
+          "snippet": "made objections"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 744,
+          "snippet": "understanding"
+        },
+        {
+          "work": "gleanings",
+          "para": 87,
+          "snippet": "knowledge"
+        },
+        {
+          "work": "gleanings",
+          "para": 2,
+          "snippet": "perception"
+        }
+      ]
+    },
+    {
+      "term": "الامر",
+      "transliteration": "ʾ-m-m",
+      "literal": "mother; to lead; to head; matter; affair",
+      "se_rendering": "Revelation",
+      "note": "Usually 'command' or 'Cause' (18 occurrences). 'Revelation' here emphasizes theological disclosure over administrative authority—semantic shift to eschatological register.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 257,
+          "snippet": "command"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 393,
+          "snippet": "Cause"
+        },
+        {
+          "work": "gleanings",
+          "para": 7,
+          "snippet": "beginning"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 13,
+          "snippet": "peoples"
+        },
+        {
+          "work": "gleanings",
+          "para": 47,
+          "snippet": "nations"
+        },
+        {
+          "work": "gleanings",
+          "para": 596,
+          "snippet": "before"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 155,
+          "snippet": "Imams"
+        }
+      ]
+    }
+  ],
+  "section_index": "105",
+  "section": "105",
+  "section_para": 1
 }

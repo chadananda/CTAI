@@ -1,10 +1,721 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 685,
   "source_text": "ای بندگان اگر از بدايع جود و فضلم که در نفس شما وديعه گذارده‌ام مطّلع شويد البتّه از جميع جهات منقطع شده بمعرفت نفس خود که نفس معرفت من است پی بريد و از دون من خود را مستغنی بينيد و طمطام عنايت و قمقام مکرمتم را در خود بچشم ظاهر و باطن چون شمس مُشرقه از اسم ابهئيّه ظاهر و مشهود بينيد اين مقام امنع اقدس را بمشتهيات ظنون و هوی و افکيّات وهم و عمی ضايع مگذاريد مَثَل شما مِثل طيری است که باجنحه منيعه در کمال روح و ريحان در هواهای خوش سبحان با نهايت اطمينان طيران نمايد و بعد بگمان دانه بآب و گل ارض ميل نمايد و بحرص تمام خود را بآب و تراب بيالايد و بعد که اراده صعود نمايد خود را عاجز و مقهور مشاهده نمايد چه که اجنحه آلوده بآب و گل قادر بر طيران نبوده و نخواهد بود در اين وقت آن طاير سماء عاليه خود را ساکن ارض فانيه بيند حال ای عباد پرهای خود را بطين غفلت و ظنون و تراب غلّ و بغضا ميالائيد تا از طيران در آسمانهای قدس عرفان محروم و ممنوع نمانيد",
   "translation": "O My servants! Could ye apprehend with what wonders of My munificence and bounty I have willed to entrust your souls, ye would, of a truth, rid yourselves of attachment to all created things, and would gain a true knowledge of your own selves — a knowledge which is the same as the comprehension of Mine own Being. Ye would find yourselves independent of all else but Me, and would perceive, with your inner and outer eye, and as manifest as the revelation of My effulgent Name, the seas of My loving-kindness and bounty moving within you. Suffer not your idle fancies, your evil passions, your insincerity and blindness of heart to dim the luster, or stain the sanctity, of so lofty a station. Ye are even as the bird which soareth, with the full force of its mighty wings and with complete and joyous confidence, through the immensity of the heavens, until, impelled to satisfy its hunger, it turneth longingly to the water and clay of the earth below it, and, having been entrapped in the mesh of its desire, findeth itself impotent to resume its flight to the realms whence it came. Powerless to shake off the burden weighing on its sullied wings, that bird, hitherto an inmate of the heavens, is now forced to seek a dwelling-place upon the dust. Wherefore, O My servants, defile not your wings with the clay of waywardness and vain desires, and suffer them not to be stained with the dust of envy and hate, that ye may not be hindered from soaring in the heavens of My divine knowledge.",
   "source_lang": "ar",
-  "score": 9.5
+  "score": 9.5,
+  "page_slug": "bird-sullied-wings-heavens",
+  "alignment": [
+    {
+      "ar": "بندگان",
+      "en": "My servants"
+    },
+    {
+      "ar": "بدايع",
+      "en": "wonders"
+    },
+    {
+      "ar": "جود",
+      "en": "munificence"
+    },
+    {
+      "ar": "فضلم",
+      "en": "bounty"
+    },
+    {
+      "ar": "نفس",
+      "en": "souls"
+    },
+    {
+      "ar": "شما",
+      "en": "your"
+    },
+    {
+      "ar": "وديعه",
+      "en": "entrust"
+    },
+    {
+      "ar": "گذارده‌ام",
+      "en": "willed"
+    },
+    {
+      "ar": "مطّلع",
+      "en": "apprehend"
+    },
+    {
+      "ar": "شويد",
+      "en": "Could ye"
+    },
+    {
+      "ar": "البتّه",
+      "en": "of a truth"
+    },
+    {
+      "ar": "جميع",
+      "en": "all"
+    },
+    {
+      "ar": "جهات",
+      "en": "created things"
+    },
+    {
+      "ar": "منقطع",
+      "en": "rid yourselves of attachment"
+    },
+    {
+      "ar": "شده",
+      "en": "would"
+    },
+    {
+      "ar": "معرفت",
+      "en": "knowledge"
+    },
+    {
+      "ar": "نفس خود",
+      "en": "your own selves"
+    },
+    {
+      "ar": "نفس معرفت من",
+      "en": "the comprehension of Mine own Being"
+    },
+    {
+      "ar": "پی بريد",
+      "en": "gain"
+    },
+    {
+      "ar": "دون",
+      "en": "all else"
+    },
+    {
+      "ar": "من",
+      "en": "Me"
+    },
+    {
+      "ar": "مستغنی",
+      "en": "independent"
+    },
+    {
+      "ar": "بينيد",
+      "en": "find"
+    },
+    {
+      "ar": "طمطام",
+      "en": "seas"
+    },
+    {
+      "ar": "عنايت",
+      "en": "loving-kindness"
+    },
+    {
+      "ar": "خود",
+      "en": "within you"
+    },
+    {
+      "ar": "چشم",
+      "en": "eye"
+    },
+    {
+      "ar": "ظاهر",
+      "en": "outer"
+    },
+    {
+      "ar": "باطن",
+      "en": "inner"
+    },
+    {
+      "ar": "چون",
+      "en": "as"
+    },
+    {
+      "ar": "شمس",
+      "en": "revelation"
+    },
+    {
+      "ar": "مُشرقه",
+      "en": "effulgent"
+    },
+    {
+      "ar": "اسم",
+      "en": "Name"
+    },
+    {
+      "ar": "ابهئيّه",
+      "en": "My"
+    },
+    {
+      "ar": "مشهود",
+      "en": "manifest"
+    },
+    {
+      "ar": "مقام",
+      "en": "station"
+    },
+    {
+      "ar": "امنع",
+      "en": "lofty"
+    },
+    {
+      "ar": "اقدس",
+      "en": "sanctity"
+    },
+    {
+      "ar": "مشتهيات",
+      "en": "idle fancies"
+    },
+    {
+      "ar": "ظنون",
+      "en": "insincerity"
+    },
+    {
+      "ar": "هوی",
+      "en": "evil passions"
+    },
+    {
+      "ar": "افکيّات",
+      "en": "heart"
+    },
+    {
+      "ar": "وهم",
+      "en": "blindness"
+    },
+    {
+      "ar": "ضايع",
+      "en": "dim the luster, or stain"
+    },
+    {
+      "ar": "مگذاريد",
+      "en": "Suffer not"
+    },
+    {
+      "ar": "مَثَل",
+      "en": "even"
+    },
+    {
+      "ar": "طيری",
+      "en": "the bird"
+    },
+    {
+      "ar": "اجنحه",
+      "en": "wings"
+    },
+    {
+      "ar": "منيعه",
+      "en": "mighty"
+    },
+    {
+      "ar": "کمال",
+      "en": "complete"
+    },
+    {
+      "ar": "روح",
+      "en": "joyous"
+    },
+    {
+      "ar": "ريحان",
+      "en": "confidence"
+    },
+    {
+      "ar": "هواهای",
+      "en": "the heavens"
+    },
+    {
+      "ar": "خوش",
+      "en": "immensity"
+    },
+    {
+      "ar": "سبحان",
+      "en": "heavens"
+    },
+    {
+      "ar": "نهايت",
+      "en": "full"
+    },
+    {
+      "ar": "طيران",
+      "en": "soareth"
+    },
+    {
+      "ar": "بعد",
+      "en": "until"
+    },
+    {
+      "ar": "گمان",
+      "en": "impelled"
+    },
+    {
+      "ar": "دانه",
+      "en": "hunger"
+    },
+    {
+      "ar": "آب",
+      "en": "water"
+    },
+    {
+      "ar": "گل",
+      "en": "clay"
+    },
+    {
+      "ar": "ارض",
+      "en": "the earth"
+    },
+    {
+      "ar": "ميل",
+      "en": "turneth longingly"
+    },
+    {
+      "ar": "حرص",
+      "en": "desire"
+    },
+    {
+      "ar": "تراب",
+      "en": "dust"
+    },
+    {
+      "ar": "بيالايد",
+      "en": "entrapped"
+    },
+    {
+      "ar": "صعود",
+      "en": "resume its flight"
+    },
+    {
+      "ar": "عاجز",
+      "en": "impotent"
+    },
+    {
+      "ar": "مقهور",
+      "en": "Powerless"
+    },
+    {
+      "ar": "مشاهده",
+      "en": "findeth"
+    },
+    {
+      "ar": "چه که",
+      "en": "hitherto"
+    },
+    {
+      "ar": "آلوده",
+      "en": "sullied"
+    },
+    {
+      "ar": "نبوده",
+      "en": "to shake off"
+    },
+    {
+      "ar": "وقت",
+      "en": "now"
+    },
+    {
+      "ar": "طاير",
+      "en": "bird"
+    },
+    {
+      "ar": "عاليه",
+      "en": "inmate"
+    },
+    {
+      "ar": "ساکن",
+      "en": "dwelling-place"
+    },
+    {
+      "ar": "فانيه",
+      "en": "the dust"
+    },
+    {
+      "ar": "بيند",
+      "en": "forced"
+    },
+    {
+      "ar": "حال",
+      "en": "Wherefore"
+    },
+    {
+      "ar": "پرهای",
+      "en": "your wings"
+    },
+    {
+      "ar": "طين",
+      "en": "the clay"
+    },
+    {
+      "ar": "غفلت",
+      "en": "waywardness"
+    },
+    {
+      "ar": "غلّ",
+      "en": "envy"
+    },
+    {
+      "ar": "بغضا",
+      "en": "hate"
+    },
+    {
+      "ar": "ميالائيد",
+      "en": "defile"
+    },
+    {
+      "ar": "محروم",
+      "en": "hindered"
+    },
+    {
+      "ar": "نمانيد",
+      "en": "that ye may not"
+    },
+    {
+      "ar": "قدس",
+      "en": "divine"
+    }
+  ],
+  "terms": [
+    {
+      "term": "منقطع",
+      "transliteration": "q-t-ʿ",
+      "literal": "to be severed; to be cut off; to detach oneself; to abstain",
+      "se_rendering": "rid yourselves of attachment",
+      "note": "Typically 'detached' or 'cut off' across 33 occurrences. Here 'rid yourselves of attachment' — a more direct volitional framing suited to imperative context.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 413,
+          "snippet": "detached themselves"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 427,
+          "snippet": "sundered"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 488,
+          "snippet": "have cut themselves off"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 11,
+          "snippet": "decisive"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 16,
+          "snippet": "detachment"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 276,
+          "snippet": "severed"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 340,
+          "snippet": "them that have rid themselves of all attachment"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 218,
+          "snippet": "renounced"
+        }
+      ]
+    },
+    {
+      "term": "مستغنی",
+      "transliteration": "gh-n-y",
+      "literal": "to be independent of; to be in no need of; to dispense with",
+      "se_rendering": "independent of all else but Me",
+      "note": "Generally 'independent of' or 'in no need of' (20 occ). This rendering preserves the self-sufficiency sense while emphasizing detachment from creation.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 27,
+          "snippet": "in no need of"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 660,
+          "snippet": "the All-Possessing"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 77,
+          "snippet": "treasure"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 155,
+          "snippet": "Self-Sufficing"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 115,
+          "snippet": "the All-Bounteous"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 143,
+          "snippet": "the Rich"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 128,
+          "snippet": "riches"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 56,
+          "snippet": "sufficiency"
+        }
+      ]
+    },
+    {
+      "term": "مقام",
+      "transliteration": "q-w-m",
+      "literal": "rising; standing; uprising; resurrection",
+      "se_rendering": "station",
+      "note": "Root q-w-m usually 'Resurrection' or 'rising' (109 occ). 'Station' here denotes a spiritual rank or degree, a notable lexical choice for ontological standing.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 152,
+          "snippet": "Day of Resurrection"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 153,
+          "snippet": "Resurrection"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 74,
+          "snippet": "rise"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "peoples"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 26,
+          "snippet": "steadfast"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 38,
+          "snippet": "steadfast in faith"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 628,
+          "snippet": "stood fast"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 198,
+          "snippet": "station"
+        }
+      ]
+    },
+    {
+      "term": "قادر",
+      "transliteration": "q-d-r",
+      "literal": "power; might; decree; measure; worth",
+      "se_rendering": "Powerless",
+      "note": "Root q-d-r predominantly 'power' or 'decree' (100 occ). Rendered negatively as 'Powerless' — SE inverts the semantic field to emphasize human incapacity without divine aid.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 171,
+          "snippet": "a while"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 339,
+          "snippet": "Thy power"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 12,
+          "snippet": "God of power"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 35,
+          "snippet": "Potent"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 282,
+          "snippet": "Almighty"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 177,
+          "snippet": "ordain"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 4,
+          "snippet": "for a moment"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 30,
+          "snippet": "didst ordain"
+        }
+      ]
+    },
+    {
+      "term": "غفلت",
+      "transliteration": "gh-f-l",
+      "literal": "heedlessness; negligence; inattention",
+      "se_rendering": "waywardness",
+      "note": "Standard 'heedlessness' or 'negligence' (39 occ). SE's 'waywardness' adds moral dimension beyond inattention alone, intensifying spiritual consequences.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 158,
+          "snippet": "O heedless one"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 134,
+          "snippet": "thou who hast gone astray"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 156,
+          "snippet": "thou who art gone astray"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 178,
+          "snippet": "heedless"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 6,
+          "snippet": "my heedlessness"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 90,
+          "snippet": "Essence of Negligence"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 95,
+          "snippet": "couch of heedlessness"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 152,
+          "snippet": "Children of Negligence"
+        }
+      ]
+    },
+    {
+      "term": "محروم",
+      "transliteration": "h-r-m",
+      "literal": "sanctity, inviolability, dignity, honor, respect",
+      "se_rendering": "hindered",
+      "note": "Root ḥ-r-m fundamentally 'sanctity' or 'inviolability' (25 occ). Here 'hindered' — SE extrapolates from deprivation sense to motion-blocking, contextually necessitated.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 191,
+          "snippet": "Deny me not"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 293,
+          "snippet": "withhold not from me"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 76,
+          "snippet": "debarred"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 23,
+          "snippet": "depriveth himself"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 785,
+          "snippet": "Thy Cause"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 484,
+          "snippet": "suffer not yourselves to be kept back"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 93,
+          "snippet": "withhold not from the poor"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 506,
+          "snippet": "Withhold not from her"
+        }
+      ]
+    },
+    {
+      "term": "ممنوع",
+      "transliteration": "m-n-ʿ",
+      "literal": "forbidden; prevented; deprived",
+      "se_rendering": "hindered",
+      "note": "Root m-n-ʿ primarily 'forbidden' (36 occ). Rendered 'hindered' to parallel محروم and maintain the bird's flight metaphor throughout passage.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "forbidden"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 56,
+          "snippet": "hindrance"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 674,
+          "snippet": "which have hindered me"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 89,
+          "snippet": "was powerless to deter"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 628,
+          "snippet": "have failed to deter"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 193,
+          "snippet": "prevented them"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 74,
+          "snippet": "withhold"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 108,
+          "snippet": "strove to hinder"
+        }
+      ]
+    }
+  ],
+  "section_index": "CLIII.6",
+  "section": "CLIII",
+  "section_para": 6
 }

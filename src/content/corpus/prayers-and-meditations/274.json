@@ -1,10 +1,346 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 274,
   "source_text": "قَرابَتِي بَعْدَ الَّذِيْ أَنْتَ تَعْلَمُ بِأَنِّي أَحْبَبْتُهُمْ وَاخْتَرْتُ لَهُمْ ما اخْتَرْتُ لِنَفْسِيْ، وَلَمَّا وَجَدُونِي فِي السِّجْنِ ارْتَكبُوا فِي حَقِّي ما لا ارْتَكبَ أَحَدٌ فِي أَرْضِكَ، إِذًا أَسْئَلُكَ يا إِلهِي بِاسْمِكَ الَّذِيْ بِهِ فَصَّلْتَ بَيْنَ النَّفْيِ وَالإِثْباتِ ب",
   "translation": "I was, moreover, opposed by mine own kindred, although, as Thou knowest, they were dear to me and I had desired for them that which I had desired for mine own self. These are the ones who, when learning that I had been cast into prison, perpetrated against me what no man else on earth had perpetrated.",
   "source_lang": "ar",
-  "score": 9
+  "score": 9,
+  "page_slug": "kindred-perpetrated-against-me",
+  "alignment": [
+    {
+      "ar": "قَرابَتِي",
+      "en": "mine own kindred"
+    },
+    {
+      "ar": "بَعْدَ",
+      "en": "although"
+    },
+    {
+      "ar": "تَعْلَمُ",
+      "en": "knowest"
+    },
+    {
+      "ar": "أَحْبَبْتُهُمْ",
+      "en": "they were dear to me"
+    },
+    {
+      "ar": "اخْتَرْتُ",
+      "en": "desired"
+    },
+    {
+      "ar": "لَهُمْ",
+      "en": "for them"
+    },
+    {
+      "ar": "لِنَفْسِيْ",
+      "en": "for mine own self"
+    },
+    {
+      "ar": "وَجَدُونِي",
+      "en": "learning that I"
+    },
+    {
+      "ar": "ارْتَكبُوا",
+      "en": "perpetrated"
+    },
+    {
+      "ar": "أَحَدٌ",
+      "en": "no man else"
+    },
+    {
+      "ar": "أَرْضِكَ",
+      "en": "on earth"
+    }
+  ],
+  "terms": [
+    {
+      "term": "تَعْلَمُ",
+      "transliteration": "ʿ-l-m",
+      "literal": "world; universe; the worlds",
+      "se_rendering": "knowest",
+      "note": "Root typically renders as 'world' (141 occurrences) or 'knowledge'; here SE renders as 'knowest,' interpreting ʿilm as epistemic capacity rather than cosmological scope.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 198,
+          "snippet": "world"
+        },
+        {
+          "work": "gleanings",
+          "para": 657,
+          "snippet": "all worlds"
+        },
+        {
+          "work": "gleanings",
+          "para": 182,
+          "snippet": "mankind"
+        },
+        {
+          "work": "gleanings",
+          "para": 183,
+          "snippet": "the whole world"
+        },
+        {
+          "work": "gleanings",
+          "para": 226,
+          "snippet": "all earthly defilements"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 28,
+          "snippet": "knowledge"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 122,
+          "snippet": "commentators"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 42,
+          "snippet": "banner"
+        }
+      ]
+    },
+    {
+      "term": "لِنَفْسِيْ",
+      "transliteration": "n-f-s",
+      "literal": "self; soul; psyche",
+      "se_rendering": "mine own self",
+      "note": "Root n-f-s normally spans mystical stations ('This is the station...') and reflexive pronouns. Here SE uses 'mine own self,' the most straightforward reflexive rendering, emphasizing concrete equity of desire.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 114,
+          "snippet": "over Mine own Self"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 70,
+          "snippet": "This is the station in which I have no power"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 71,
+          "snippet": "his own entity in the kingdom of his self"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 109,
+          "snippet": "those"
+        },
+        {
+          "work": "gleanings",
+          "para": 205,
+          "snippet": "souls"
+        },
+        {
+          "work": "gleanings",
+          "para": 297,
+          "snippet": "their powerlessness"
+        },
+        {
+          "work": "gleanings",
+          "para": 225,
+          "snippet": "such of My followers"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 12,
+          "snippet": "self and passion"
+        }
+      ]
+    },
+    {
+      "term": "السِّجْنِ",
+      "transliteration": "s-j-n",
+      "literal": "prison, imprisonment; to imprison",
+      "se_rendering": "prison",
+      "note": "Consistent with standard renderings of s-j-n root (prison, imprisonment, captivity). SE's 'prison' choice preserves the institutional confinement without metaphorical elaboration.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 448,
+          "snippet": "My imprisonment"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 36,
+          "snippet": "prison"
+        },
+        {
+          "work": "gleanings",
+          "para": 184,
+          "snippet": "imprisonment"
+        },
+        {
+          "work": "gleanings",
+          "para": 225,
+          "snippet": "captivity"
+        },
+        {
+          "work": "gleanings",
+          "para": 410,
+          "snippet": "prisoner"
+        },
+        {
+          "work": "gleanings",
+          "para": 659,
+          "snippet": "imprisoned"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 100,
+          "snippet": "My prison"
+        }
+      ]
+    },
+    {
+      "term": "ارْتَكبُوا",
+      "transliteration": "r-k-b",
+      "literal": "to ride; to commit; to undertake",
+      "se_rendering": "perpetrated",
+      "note": "Root r-k-b ranges from 'to act' to 'rose up against' (17 occ). SE selects 'perpetrated,' a legal term that frames the kindred's actions as crimes rather than mere transgressions.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 495,
+          "snippet": "to act in any manner"
+        },
+        {
+          "work": "gleanings",
+          "para": 227,
+          "snippet": "followeth"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 92,
+          "snippet": "commit"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 107,
+          "snippet": "rose up against Him"
+        },
+        {
+          "work": "gleanings",
+          "para": 452,
+          "snippet": "wrought"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 89,
+          "snippet": "mounted"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 98,
+          "snippet": "riding"
+        }
+      ]
+    },
+    {
+      "term": "حَقِّي",
+      "transliteration": "h-q-q",
+      "literal": "truth; right; that which is true or just",
+      "se_rendering": "me",
+      "note": "Root h-q-q typically yields 'the Truth,' 'the True One,' or 'Sun of Truth' (43 occ). Here SE renders as personal pronoun 'me,' subordinating the metaphysical resonance to direct relational betrayal.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 651,
+          "snippet": "the True One"
+        },
+        {
+          "work": "gleanings",
+          "para": 85,
+          "snippet": "the Truth"
+        },
+        {
+          "work": "gleanings",
+          "para": 328,
+          "snippet": "the one true God"
+        },
+        {
+          "work": "gleanings",
+          "para": 707,
+          "snippet": "Him"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 52,
+          "snippet": "Sun of Truth"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 103,
+          "snippet": "Luminaries of Truth"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 113,
+          "snippet": "was realized"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 215,
+          "snippet": "realization"
+        }
+      ]
+    },
+    {
+      "term": "أَرْضِكَ",
+      "transliteration": "ʾ-r-d",
+      "literal": "earth; land; ground; country",
+      "se_rendering": "earth",
+      "note": "Root ʾ-r-d renders variously as 'earth,' 'land,' or anomalously 'Lord of Lords' (26 occ). Here SE uses 'earth,' the most literal geographical sense, grounding the comparison in terrestrial rather than divine registers.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 76,
+          "snippet": "The earth"
+        },
+        {
+          "work": "gleanings",
+          "para": 203,
+          "snippet": "Land of Ṭá (Ṭihrán)"
+        },
+        {
+          "work": "gleanings",
+          "para": 207,
+          "snippet": "Land of Ṭá"
+        },
+        {
+          "work": "gleanings",
+          "para": 234,
+          "snippet": "land"
+        },
+        {
+          "work": "gleanings",
+          "para": 679,
+          "snippet": "soil"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 111,
+          "snippet": "Lord of Lords"
+        },
+        {
+          "work": "gleanings",
+          "para": 725,
+          "snippet": "Holy Land"
+        },
+        {
+          "work": "gleanings",
+          "para": 713,
+          "snippet": "lands"
+        }
+      ]
+    }
+  ],
+  "section_index": "LXVI.3",
+  "section": "LXVI",
+  "section_para": 3
 }

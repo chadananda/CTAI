@@ -1,10 +1,455 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 140,
   "source_text": "لِيُقْبِلُوا إِلَيْكَ عِنْدَ ظُهُورِ مَظْهَرِ أَسْمَائِكَ وَصِفاتِكَ، أَيْ رَبِّ فَانْظُرْ هذا الفَقِيرَ بِلَحَظاتِ أَعْيُنِ غَنَائِكَ وَنَوِّرْ قَلْبَهُ بِنُورِ مَعْرِفَتِكَ لِيَعْرِفَ حَقائِقَ اللاَّهُوتِ وَأَسْرارَ الجَبَرُوتِ وَظُهُوراتِ المَلَكُوتِ وَشُئُوناتِ النَّاسُوتِ تِلْقاءَ ظُهُورِ مَظْهَرِ نَفْسِكَ، ثُمَّ اجْعَلْهُ يا إِلهِي مُقْبِلاً إِلى أُفُقِ عِنايَتِكَ وَمُسْتَقِيمًا عَلَى حُبِّكَ وَناطِقًا بِذِكْرِكَ وَمُتَمَسِّكًا بِحَبْلِ حُبِّكَ وَمُتَشَبِّثًا بِذَيْلِ كَرَمِكَ وَمُنادِيًا بِاسْمِكَ بَيْنَ خَلْقِكَ وَمُثْنِيًا بِثَنائِكَ فِيْ دِيارِكَ عَلَى شَأْنٍ لا تَمْنَعُهُ الأَحْجابُ عَنِ اسْمِكَ الوَهَّابِ وَلا تَحْجُبُهُ السُّبُحَاتُ عَنِ التَّوَجُّهِ",
   "translation": "Cast upon this poor and desolate creature, O my Lord, the glance of Thy wealth, and flood his heart with the beams of Thy knowledge, that he may apprehend the verities of the unseen world, and discover the mysteries of Thy heavenly realm, and perceive the signs and tokens of Thy kingdom, and behold the manifold revelations of this earthly life all set forth before the face of Him Who is the Revealer of Thine own Self. Direct, then, his eyes, O my God, towards the horizon of Thy loving-kindness, and make steadfast his heart in its attachment to Thee, and unloose his tongue to praise Thee, and make him able to hold fast the cord of Thy love, and to cling to the hem of Thy bounteousness, and to proclaim Thy name amidst Thy creatures, and to recount Thy virtues throughout Thy realm, in such wise that no obstacle will deter him from turning to Thy name, the All-Bountiful, and no veil shut him out from Thee, in Whose hand is the dominion of utterance and the kingdom of all names and attributes!",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "glance-of-thy-wealth-flood-heart",
+  "alignment": [
+    {
+      "ar": "لِيُقْبِلُوا",
+      "en": "turning"
+    },
+    {
+      "ar": "إِلَيْكَ",
+      "en": "to"
+    },
+    {
+      "ar": "عِنْدَ",
+      "en": "before"
+    },
+    {
+      "ar": "ظُهُورِ",
+      "en": "the face of"
+    },
+    {
+      "ar": "مَظْهَرِ",
+      "en": "the Revealer"
+    },
+    {
+      "ar": "أَسْمَائِكَ",
+      "en": "all names"
+    },
+    {
+      "ar": "وَصِفاتِكَ",
+      "en": "and attributes"
+    },
+    {
+      "ar": "فَانْظُرْ",
+      "en": "Cast"
+    },
+    {
+      "ar": "هذا",
+      "en": "this"
+    },
+    {
+      "ar": "الفَقِيرَ",
+      "en": "poor"
+    },
+    {
+      "ar": "بِلَحَظاتِ",
+      "en": "the glance"
+    },
+    {
+      "ar": "أَعْيُنِ",
+      "en": "of"
+    },
+    {
+      "ar": "غَنَائِكَ",
+      "en": "Thy wealth"
+    },
+    {
+      "ar": "قَلْبَهُ",
+      "en": "his heart"
+    },
+    {
+      "ar": "بِنُورِ",
+      "en": "the beams"
+    },
+    {
+      "ar": "مَعْرِفَتِكَ",
+      "en": "Thy knowledge"
+    },
+    {
+      "ar": "لِيَعْرِفَ",
+      "en": "apprehend"
+    },
+    {
+      "ar": "حَقائِقَ",
+      "en": "the verities"
+    },
+    {
+      "ar": "وَأَسْرارَ",
+      "en": "the mysteries"
+    },
+    {
+      "ar": "الجَبَرُوتِ",
+      "en": "Thy heavenly realm"
+    },
+    {
+      "ar": "وَظُهُوراتِ",
+      "en": "the signs and tokens"
+    },
+    {
+      "ar": "المَلَكُوتِ",
+      "en": "Thy kingdom"
+    },
+    {
+      "ar": "وَشُئُوناتِ",
+      "en": "the manifold revelations"
+    },
+    {
+      "ar": "تِلْقاءَ",
+      "en": "set forth"
+    },
+    {
+      "ar": "نَفْسِكَ",
+      "en": "Thine own Self"
+    },
+    {
+      "ar": "اجْعَلْهُ",
+      "en": "Direct"
+    },
+    {
+      "ar": "إِلهِي",
+      "en": "my God"
+    },
+    {
+      "ar": "مُقْبِلاً",
+      "en": "his eyes"
+    },
+    {
+      "ar": "إِلى",
+      "en": "towards"
+    },
+    {
+      "ar": "أُفُقِ",
+      "en": "the horizon"
+    },
+    {
+      "ar": "عِنايَتِكَ",
+      "en": "Thy loving-kindness"
+    },
+    {
+      "ar": "وَمُسْتَقِيمًا",
+      "en": "make steadfast"
+    },
+    {
+      "ar": "عَلَى",
+      "en": "in"
+    },
+    {
+      "ar": "وَناطِقًا",
+      "en": "unloose his tongue"
+    },
+    {
+      "ar": "بِذِكْرِكَ",
+      "en": "to praise Thee"
+    },
+    {
+      "ar": "بِحَبْلِ",
+      "en": "the cord"
+    },
+    {
+      "ar": "بِذَيْلِ",
+      "en": "to the hem"
+    },
+    {
+      "ar": "كَرَمِكَ",
+      "en": "Thy bounteousness"
+    },
+    {
+      "ar": "وَمُنادِيًا",
+      "en": "to proclaim"
+    },
+    {
+      "ar": "بِاسْمِكَ",
+      "en": "Thy name"
+    },
+    {
+      "ar": "بَيْنَ",
+      "en": "amidst"
+    },
+    {
+      "ar": "خَلْقِكَ",
+      "en": "Thy creatures"
+    },
+    {
+      "ar": "وَمُثْنِيًا",
+      "en": "to recount"
+    },
+    {
+      "ar": "بِثَنائِكَ",
+      "en": "Thy virtues"
+    },
+    {
+      "ar": "فِيْ",
+      "en": "throughout"
+    },
+    {
+      "ar": "دِيارِكَ",
+      "en": "Thy realm"
+    },
+    {
+      "ar": "شَأْنٍ",
+      "en": "such wise"
+    },
+    {
+      "ar": "لا",
+      "en": "no"
+    },
+    {
+      "ar": "تَمْنَعُهُ",
+      "en": "will deter him"
+    },
+    {
+      "ar": "الأَحْجابُ",
+      "en": "obstacle"
+    },
+    {
+      "ar": "عَنِ",
+      "en": "from"
+    },
+    {
+      "ar": "وَلا",
+      "en": "and no"
+    },
+    {
+      "ar": "تَحْجُبُهُ",
+      "en": "shut him out"
+    }
+  ],
+  "terms": [
+    {
+      "term": "غَنَائِكَ",
+      "transliteration": "gh-n-y",
+      "literal": "to be independent of; to be in no need of; to dispense with",
+      "se_rendering": "wealth",
+      "note": "Root gh-n-y usually means 'Self-Sufficing' or 'in no need of' (20 occurrences). SE renders as 'wealth' here — a rare material metaphor for divine sufficiency, making the bestowal of grace visually concrete.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 27,
+          "snippet": "in no need of"
+        },
+        {
+          "work": "gleanings",
+          "para": 685,
+          "snippet": "rid yourselves of attachment"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 77,
+          "snippet": "treasure"
+        },
+        {
+          "work": "gleanings",
+          "para": 711,
+          "snippet": "the All-Possessing"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 155,
+          "snippet": "Self-Sufficing"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 115,
+          "snippet": "the All-Bounteous"
+        },
+        {
+          "work": "gleanings",
+          "para": 179,
+          "snippet": "the Self-Subsisting"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 143,
+          "snippet": "the Rich"
+        }
+      ]
+    },
+    {
+      "term": "حَقائِقَ",
+      "transliteration": "h-q-q",
+      "literal": "truth; right; that which is true or just",
+      "se_rendering": "verities",
+      "note": "Root h-q-q typically 'the True One' or 'Truth' (43 occurrences). SE uses 'verities' here — an archaic plural form suggesting multiple layers of reality rather than singular transcendent Truth.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 651,
+          "snippet": "the True One"
+        },
+        {
+          "work": "gleanings",
+          "para": 85,
+          "snippet": "the Truth"
+        },
+        {
+          "work": "gleanings",
+          "para": 328,
+          "snippet": "the one true God"
+        },
+        {
+          "work": "gleanings",
+          "para": 707,
+          "snippet": "Him"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 52,
+          "snippet": "Sun of Truth"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 103,
+          "snippet": "Luminaries of Truth"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 113,
+          "snippet": "was realized"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 215,
+          "snippet": "realization"
+        }
+      ]
+    },
+    {
+      "term": "كَرَمِكَ",
+      "transliteration": "k-r-m",
+      "literal": "Carmel (Mount Carmel); vineyard, fruitful field",
+      "se_rendering": "bounteousness",
+      "note": "Root k-r-m primarily 'Carmel' or 'the All-Bountiful' (21 occurrences). 'Bounteousness' here abstracts the substantive into a quality, subtly shifting from place/person to attribute of generous grace.",
+      "cross_refs": [
+        {
+          "work": "tablet-of-carmel",
+          "para": 4,
+          "snippet": "O Carmel"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 211,
+          "snippet": "Carmel"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 50,
+          "snippet": "the All-Bountiful"
+        },
+        {
+          "work": "gleanings",
+          "para": 234,
+          "snippet": "of immense bounteous grace"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 26,
+          "snippet": "the Gracious"
+        },
+        {
+          "work": "gleanings",
+          "para": 608,
+          "snippet": "the All-Forgiving, the Gracious"
+        },
+        {
+          "work": "gleanings",
+          "para": 642,
+          "snippet": "the Mighty, the Generous"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 144,
+          "snippet": "generosity"
+        }
+      ]
+    },
+    {
+      "term": "الوَهَّابِ",
+      "transliteration": "w-h-b",
+      "literal": "gift; grant; bestowal",
+      "se_rendering": "All-Bountiful",
+      "note": "Root w-h-b usually 'the Bestower' or 'gift' (26 occurrences). 'All-Bountiful' here emphasizes inexhaustible generosity; adds 'All-' prefix for superlative force absent in typical renderings.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 56,
+          "snippet": "gift"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 98,
+          "snippet": "the Bestower"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 15,
+          "snippet": "Possessor of all gifts"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 243,
+          "snippet": "Vahhab"
+        }
+      ]
+    },
+    {
+      "term": "السُّبُحَاتُ",
+      "transliteration": "s-b-ḥ",
+      "literal": "glorified; the All-Praised; exalted",
+      "se_rendering": "veil",
+      "note": "Root s-b-ḥ standardly 'the All-Praised' or 'the Breath of the All-Glorious' (23 occurrences). 'Veil' here is a striking semantic inversion — treating the Arabic plural noun as barrier to proximity rather than divine glorification.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 211,
+          "snippet": "the All-Praised"
+        },
+        {
+          "work": "gleanings",
+          "para": 212,
+          "snippet": "the Breath of the All-Glorious"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 13,
+          "snippet": "the breezes of the All-Glorious"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 42,
+          "snippet": "Gracious God"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 90,
+          "snippet": "Great God"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 62,
+          "snippet": "Glorified art Thou"
+        },
+        {
+          "work": "gleanings",
+          "para": 112,
+          "snippet": "Glory be to Thee"
+        },
+        {
+          "work": "gleanings",
+          "para": 1,
+          "snippet": "Lauded and glorified art Thou"
+        }
+      ]
+    }
+  ],
+  "section_index": "XXXVIII.10",
+  "section": "XXXVIII",
+  "section_para": 10
 }

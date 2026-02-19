@@ -1,10 +1,136 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 569,
   "source_text": "عَلَى ما تَشاءُ وَإِنَّكَ أَنْتَ العَزِيزُ المُسْتَعانُ.",
   "translation": "Potent art Thou to do Thy pleasure. Thou truly art the All-Glorious, to whom all cry for help.",
   "source_lang": "ar",
-  "score": 9.3
+  "score": 9.3,
+  "page_slug": "potent-to-do-pleasure",
+  "alignment": [
+    {
+      "ar": "عَلَى",
+      "en": "art Thou"
+    },
+    {
+      "ar": "تَشاءُ",
+      "en": "Thy pleasure"
+    },
+    {
+      "ar": "أَنْتَ",
+      "en": "art"
+    },
+    {
+      "ar": "العَزِيزُ",
+      "en": "All-Glorious"
+    },
+    {
+      "ar": "المُسْتَعانُ",
+      "en": "to whom all cry for help"
+    }
+  ],
+  "terms": [
+    {
+      "term": "تشاء",
+      "transliteration": "sh-y-ʾ",
+      "literal": "thing; something",
+      "se_rendering": "pleasure",
+      "note": "Root sh-y-ʾ typically renders as 'thing' or 'something' across corpus. Here SE renders as 'pleasure,' subordinating the lexical sense to convey divine volition and will.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 708,
+          "snippet": "nothingness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 37,
+          "snippet": "something"
+        },
+        {
+          "work": "gleanings",
+          "para": 368,
+          "snippet": "thing"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 15,
+          "snippet": "earthly things"
+        },
+        {
+          "work": "gleanings",
+          "para": 153,
+          "snippet": "transitory things"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 35,
+          "snippet": "all things"
+        },
+        {
+          "work": "gleanings",
+          "para": 161,
+          "snippet": "created things"
+        },
+        {
+          "work": "gleanings",
+          "para": 154,
+          "snippet": "creation"
+        }
+      ]
+    },
+    {
+      "term": "العزيز",
+      "transliteration": "ʿ-z-z",
+      "literal": "glory; might; honor; dignity; power; majesty",
+      "se_rendering": "All-Glorious",
+      "note": "Most frequent rendering is 'glory' (49 occurrences). 'All-Glorious' here combines majesty with comprehensiveness, emphasizing totality over isolated attribute.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 185,
+          "snippet": "glory"
+        },
+        {
+          "work": "gleanings",
+          "para": 642,
+          "snippet": "honor"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 99,
+          "snippet": "Dear"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 38,
+          "snippet": "dearly beloved"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 37,
+          "snippet": "Gracious"
+        },
+        {
+          "work": "gleanings",
+          "para": 260,
+          "snippet": "All-Glorious"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 162,
+          "snippet": "Mighty"
+        },
+        {
+          "work": "gleanings",
+          "para": 660,
+          "snippet": "powerful"
+        }
+      ]
+    }
+  ],
+  "section_index": "CXXIX.4",
+  "section": "CXXIX",
+  "section_para": 4
 }

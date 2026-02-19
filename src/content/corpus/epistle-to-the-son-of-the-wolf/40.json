@@ -1,10 +1,613 @@
 {
   "work": "Epistle to the Son of the Wolf",
   "slug": "epistle-to-the-son-of-the-wolf",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 40,
   "source_text": "و در مقام ديگر اين کلمات نازل * انّا نأمر عباد اللّه و اماءه بالعصمة و التّقوی ليقومنّ من رقد الهوی و يتوجّهنّ الی اللّه فاطر الارض و السّماء کذلک امرنا العباد حين ما اشرق نيّر الافاق من جهة العراق *  طوبی لمن تمسّک بهما و عرف شأنهما و ويل لمن انکر مقامهما* ليس ضرّی سجنی و بلائی و ما ورد عَلَیَّ من طغاة العباد بل عمل الّذين ينسبون انفسهم الی نفسی و يرتکبون ما ينوح به قلبی و قلمی * انّ الّذين يفسدون فی الارض و يتصرّفون فی اموال النّاس و يدخلون البيوت من غير اذن صاحبها انّی بریءٌ منهم الّا ان يتوبوا و يرجعوا الی اللّه الغفور الرّحيم *",
   "translation": "And in another connection these words were revealed: \"We enjoin the servants of God and His handmaidens to be pure and to fear God, that they may shake off the slumber of their corrupt desires, and turn toward God, the Maker of the heavens and of the earth. Thus have We commanded the faithful when the Day-Star of the world shone forth from the horizon of ‘Iráq. My imprisonment doeth Me no harm, neither the tribulations I suffer, nor the things that have befallen Me at the hands of My oppressors. That which harmeth Me is the conduct of those who, though they bear My name, yet commit that which maketh My heart and My pen to lament. They that spread disorder in the land, and lay hands on the property of others, and enter a house without leave of its owner, We, verily, are clear of them, unless they repent and return unto God, the Ever-Forgiving, the Most Merciful.\"",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "imprisonment-doeth-no-harm",
+  "alignment": [
+    {
+      "ar": "مقام",
+      "en": "connection"
+    },
+    {
+      "ar": "ديگر",
+      "en": "another"
+    },
+    {
+      "ar": "اين",
+      "en": "these"
+    },
+    {
+      "ar": "کلمات",
+      "en": "words"
+    },
+    {
+      "ar": "نازل",
+      "en": "revealed"
+    },
+    {
+      "ar": "نأمر",
+      "en": "enjoin"
+    },
+    {
+      "ar": "عباد",
+      "en": "servants"
+    },
+    {
+      "ar": "اللّه",
+      "en": "God"
+    },
+    {
+      "ar": "اماءه",
+      "en": "handmaidens"
+    },
+    {
+      "ar": "بالعصمة",
+      "en": "to be pure"
+    },
+    {
+      "ar": "التّقوی",
+      "en": "to fear God"
+    },
+    {
+      "ar": "ليقومنّ",
+      "en": "shake off"
+    },
+    {
+      "ar": "رقد",
+      "en": "slumber"
+    },
+    {
+      "ar": "الهوی",
+      "en": "corrupt desires"
+    },
+    {
+      "ar": "يتوجّهنّ",
+      "en": "turn toward"
+    },
+    {
+      "ar": "فاطر",
+      "en": "Maker"
+    },
+    {
+      "ar": "الارض",
+      "en": "earth"
+    },
+    {
+      "ar": "السّماء",
+      "en": "heavens"
+    },
+    {
+      "ar": "امرنا",
+      "en": "commanded"
+    },
+    {
+      "ar": "العباد",
+      "en": "faithful"
+    },
+    {
+      "ar": "اشرق",
+      "en": "shone forth"
+    },
+    {
+      "ar": "نيّر",
+      "en": "Day-Star"
+    },
+    {
+      "ar": "الافاق",
+      "en": "world"
+    },
+    {
+      "ar": "جهة",
+      "en": "horizon"
+    },
+    {
+      "ar": "ضرّی",
+      "en": "harmeth Me"
+    },
+    {
+      "ar": "سجنی",
+      "en": "imprisonment"
+    },
+    {
+      "ar": "بلائی",
+      "en": "tribulations"
+    },
+    {
+      "ar": "ورد",
+      "en": "befallen"
+    },
+    {
+      "ar": "طغاة",
+      "en": "oppressors"
+    },
+    {
+      "ar": "عمل",
+      "en": "conduct"
+    },
+    {
+      "ar": "ينسبون",
+      "en": "bear"
+    },
+    {
+      "ar": "انفسهم",
+      "en": "My name"
+    },
+    {
+      "ar": "نفسی",
+      "en": "name"
+    },
+    {
+      "ar": "يرتکبون",
+      "en": "commit"
+    },
+    {
+      "ar": "ينوح",
+      "en": "lament"
+    },
+    {
+      "ar": "قلبی",
+      "en": "heart"
+    },
+    {
+      "ar": "قلمی",
+      "en": "pen"
+    },
+    {
+      "ar": "يفسدون",
+      "en": "spread disorder"
+    },
+    {
+      "ar": "الارض",
+      "en": "land"
+    },
+    {
+      "ar": "يتصرّفون",
+      "en": "lay hands"
+    },
+    {
+      "ar": "اموال",
+      "en": "property"
+    },
+    {
+      "ar": "النّاس",
+      "en": "others"
+    },
+    {
+      "ar": "يدخلون",
+      "en": "enter"
+    },
+    {
+      "ar": "البيوت",
+      "en": "house"
+    },
+    {
+      "ar": "اذن",
+      "en": "leave"
+    },
+    {
+      "ar": "صاحبها",
+      "en": "owner"
+    },
+    {
+      "ar": "بریءٌ",
+      "en": "clear"
+    },
+    {
+      "ar": "منهم",
+      "en": "them"
+    },
+    {
+      "ar": "يتوبوا",
+      "en": "repent"
+    },
+    {
+      "ar": "يرجعوا",
+      "en": "return"
+    },
+    {
+      "ar": "الغفور",
+      "en": "Ever-Forgiving"
+    },
+    {
+      "ar": "الرّحيم",
+      "en": "Most Merciful"
+    }
+  ],
+  "terms": [
+    {
+      "term": "مقام",
+      "transliteration": "q-w-m",
+      "literal": "rising; standing; uprising; resurrection",
+      "se_rendering": "connection",
+      "note": "Root typically denotes 'Resurrection' or 'rising' (109 occ). Here rendered 'connection' — a unique contextual choice referring to the occasion of revelation, not eschatological station.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 152,
+          "snippet": "Day of Resurrection"
+        },
+        {
+          "work": "gleanings",
+          "para": 437,
+          "snippet": "arise"
+        },
+        {
+          "work": "gleanings",
+          "para": 513,
+          "snippet": "dedicateth"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 153,
+          "snippet": "Resurrection"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "peoples"
+        },
+        {
+          "work": "gleanings",
+          "para": 693,
+          "snippet": "commandments"
+        },
+        {
+          "work": "gleanings",
+          "para": 628,
+          "snippet": "My commandments"
+        },
+        {
+          "work": "gleanings",
+          "para": 518,
+          "snippet": "steadfast"
+        }
+      ]
+    },
+    {
+      "term": "نازل",
+      "transliteration": "n-z-l",
+      "literal": "to descend, to be revealed",
+      "se_rendering": "revealed",
+      "note": "Standard rendering 'revealed' (88 occ). Here SE uses 'were revealed' maintaining the passive sense consistent with Qur'anic idiom of divine discourse descent.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 643,
+          "snippet": "sent down"
+        },
+        {
+          "work": "gleanings",
+          "para": 218,
+          "snippet": "revealed"
+        },
+        {
+          "work": "gleanings",
+          "para": 656,
+          "snippet": "descended"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 175,
+          "snippet": "didst send down"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 34,
+          "snippet": "Descend"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 47,
+          "snippet": "pour forth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 330,
+          "snippet": "send down"
+        },
+        {
+          "work": "gleanings",
+          "para": 604,
+          "snippet": "have been sent down"
+        }
+      ]
+    },
+    {
+      "term": "تمسّک",
+      "transliteration": "m-s-k",
+      "literal": "musk; to seize; grip",
+      "se_rendering": "holding fast unto",
+      "note": "Root denotes 'musk' or 'holding fast unto' (23 occ). SE uses 'holding fast unto' — the idiomatic grip-metaphor — establishing the spiritual virtue opposed to the corruption enumerated in the passage's latter half.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 188,
+          "snippet": "musk"
+        },
+        {
+          "work": "gleanings",
+          "para": 224,
+          "snippet": "clinging"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 768,
+          "snippet": "holding fast"
+        },
+        {
+          "work": "gleanings",
+          "para": 396,
+          "snippet": "cleave"
+        },
+        {
+          "work": "gleanings",
+          "para": 367,
+          "snippet": "take ye counsel"
+        },
+        {
+          "work": "gleanings",
+          "para": 720,
+          "snippet": "cleaveth"
+        },
+        {
+          "work": "gleanings",
+          "para": 719,
+          "snippet": "Hold ye fast"
+        },
+        {
+          "work": "gleanings",
+          "para": 606,
+          "snippet": "steadfastness"
+        }
+      ]
+    },
+    {
+      "term": "عرف",
+      "transliteration": "ʿ-r-f",
+      "literal": "to confess; to acknowledge; to recognize",
+      "se_rendering": "recognized",
+      "note": "Usually 'acknowledged' or 'recognized' (82 occ). SE renders 'recognized' here, maintaining the epistemic sense of spiritual recognition of the two divine stations.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 601,
+          "snippet": "testifieth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 729,
+          "snippet": "hath acknowledged"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 582,
+          "snippet": "have recognized"
+        },
+        {
+          "work": "gleanings",
+          "para": 568,
+          "snippet": "acknowledged"
+        },
+        {
+          "work": "gleanings",
+          "para": 295,
+          "snippet": "made objections"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 744,
+          "snippet": "understanding"
+        },
+        {
+          "work": "gleanings",
+          "para": 87,
+          "snippet": "knowledge"
+        },
+        {
+          "work": "gleanings",
+          "para": 2,
+          "snippet": "perception"
+        }
+      ]
+    },
+    {
+      "term": "سجنی",
+      "transliteration": "s-j-n",
+      "literal": "prison, imprisonment; to imprison",
+      "se_rendering": "imprisonment",
+      "note": "Standard 'imprisonment' (21 occ). SE preserves the personal possessive 'My imprisonment,' emphasizing Bahá'u'lláh's own experiential suffering as the subject.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 448,
+          "snippet": "My imprisonment"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 91,
+          "snippet": "prison"
+        },
+        {
+          "work": "gleanings",
+          "para": 184,
+          "snippet": "imprisonment"
+        },
+        {
+          "work": "gleanings",
+          "para": 225,
+          "snippet": "captivity"
+        },
+        {
+          "work": "gleanings",
+          "para": 410,
+          "snippet": "prisoner"
+        },
+        {
+          "work": "gleanings",
+          "para": 659,
+          "snippet": "imprisoned"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 573,
+          "snippet": "shut up in the fortress-town"
+        }
+      ]
+    },
+    {
+      "term": "انفسهم",
+      "transliteration": "n-f-s",
+      "literal": "self; soul; psyche",
+      "se_rendering": "My name",
+      "note": "Root meanings include 'Self' and 'soul' (43 occ), but rarely translated 'My name.' SE renders 'My name' idiomatically to convey claiming association with Bahá'u'lláh while acting contrary to His values.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 789,
+          "snippet": "myself to be only nothing"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 71,
+          "snippet": "his own entity in the kingdom of his self"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 572,
+          "snippet": "Thy Self at all times"
+        },
+        {
+          "work": "gleanings",
+          "para": 205,
+          "snippet": "souls"
+        },
+        {
+          "work": "gleanings",
+          "para": 297,
+          "snippet": "their powerlessness"
+        },
+        {
+          "work": "gleanings",
+          "para": 225,
+          "snippet": "such of My followers"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 125,
+          "snippet": "sense of their own powerlessness"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 179,
+          "snippet": "abstained from all that is abhorrent unto Thee"
+        }
+      ]
+    },
+    {
+      "term": "قلمی",
+      "transliteration": "q-l-m",
+      "literal": "pen; writing instrument",
+      "se_rendering": "My pen",
+      "note": "Typically 'the Pen of the Most High' or 'My Pen' (25 occ). Here 'My pen' in coordinate parallel with 'My heart,' creating symmetry between inner emotion and utterance.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 100,
+          "snippet": "the Pen of the Most High"
+        },
+        {
+          "work": "gleanings",
+          "para": 619,
+          "snippet": "My Pen"
+        },
+        {
+          "work": "gleanings",
+          "para": 393,
+          "snippet": "Pen of the Most High"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 280,
+          "snippet": "Pen"
+        },
+        {
+          "work": "gleanings",
+          "para": 319,
+          "snippet": "pens"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 85,
+          "snippet": "standards"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 13,
+          "snippet": "ensigns"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 68,
+          "snippet": "with the pen of might"
+        }
+      ]
+    },
+    {
+      "term": "الغفور",
+      "transliteration": "gh-f-r",
+      "literal": "to forgive; forgiveness",
+      "se_rendering": "the Ever-Forgiving",
+      "note": "Consistently 'the Ever-Forgiving' or 'forgive' (21 occ). SE's 'the Ever-Forgiving' here maintains the divine epithet form, paired with 'the Most Merciful' in classical Arabic doxological closure.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 13,
+          "snippet": "wronged"
+        },
+        {
+          "work": "gleanings",
+          "para": 217,
+          "snippet": "forgive"
+        },
+        {
+          "work": "gleanings",
+          "para": 652,
+          "snippet": "forgiveness"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 787,
+          "snippet": "Thy forgiveness"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 416,
+          "snippet": "the Ever-Forgiving"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 533,
+          "snippet": "the Forgiving"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 477,
+          "snippet": "Forgive me"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 451,
+          "snippet": "Ever-Forgiving"
+        }
+      ]
+    }
+  ],
+  "section_index": "40",
+  "section": "40",
+  "section_para": 1
 }

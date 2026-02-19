@@ -1,10 +1,538 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 84,
   "source_text": "دِكَ وَأَحاطَتْ أَهْلَ مَمْلَكَتِكَ، يا إِلهِي لَمَّا أَظْهَرْتَ فَضْلَكَ لا تَمْنَعْ عِبادَكَ عَنِ التَّوَجُّهِ إِلَيْهِ، لا تَنْظُرْ يا إِلهِي إِلى مَقاماتِهِمْ وَشُئُوناتِهِمْ وَأَعْمالِهِمْ فَانْظُرْ إِلى عَظَمَتِكَ وَمَواهِبِكَ وَقُدْرَتِكَ وَأَلْطافِكَ، وَعِزَّتِكَ لَوْ تَنْظُرُ بِعَيْنِ العَدْلِ كُلٌّ يَسْتَحِقُّونَ غَضَبَكَ وَسِياطَ قَهْرِكَ، خُذْ يا إِلهِي أَيادِيَ الخَلْقِ بِأَيادِي فَضْلِكَ ثُمَّ عَرِّفْهُمْ ما هُوَ خَيْرٌ لَهُمْ عَمَّا خُلِقَ فِيْ مَلَكُوتِ الإِنْشاءِ، نَشْهَدُ يا إِلهِي بِأَنَّكَ أَنْتَ اللّهُ لا إِلهَ إِلاَّ",
   "translation": "Since Thou hast revealed Thy grace, O my God, deter not Thy servants from directing their eyes towards it. Consider not, O my God, their estate, and their concerns and their works. Consider the greatness of Thy glory, and the plenteousness of Thy gifts, and the power of Thy might, and the excellence of Thy favors. I swear by Thy glory! Wert Thou to look upon them with the eye of justice, all would deserve Thy wrath and the rod of Thine anger. Hold Thou Thy creatures, O my God, with the hands of Thy grace, and make Thou known unto them what is best for them of all the things that have been created in the kingdom of Thine invention.",
   "source_lang": "ar",
-  "score": 9.5
+  "score": 9.5,
+  "page_slug": "hold-thy-creatures-hands-grace",
+  "alignment": [
+    {
+      "ar": "أَحاطَتْ",
+      "en": ""
+    },
+    {
+      "ar": "أَهْلَ",
+      "en": ""
+    },
+    {
+      "ar": "مَمْلَكَتِكَ",
+      "en": ""
+    },
+    {
+      "ar": "إِلهِي",
+      "en": "my God"
+    },
+    {
+      "ar": "أَظْهَرْتَ",
+      "en": "revealed"
+    },
+    {
+      "ar": "فَضْلَكَ",
+      "en": "Thy grace"
+    },
+    {
+      "ar": "لا",
+      "en": "not"
+    },
+    {
+      "ar": "تَمْنَعْ",
+      "en": "deter"
+    },
+    {
+      "ar": "عِبادَكَ",
+      "en": "Thy servants"
+    },
+    {
+      "ar": "إِلَيْهِ",
+      "en": "towards it"
+    },
+    {
+      "ar": "تَنْظُرْ",
+      "en": "Consider"
+    },
+    {
+      "ar": "إِلهِي",
+      "en": "O my God"
+    },
+    {
+      "ar": "مَقاماتِهِمْ",
+      "en": "their estate"
+    },
+    {
+      "ar": "شُئُوناتِهِمْ",
+      "en": "their concerns"
+    },
+    {
+      "ar": "أَعْمالِهِمْ",
+      "en": "their works"
+    },
+    {
+      "ar": "عَظَمَتِكَ",
+      "en": "the greatness of Thy glory"
+    },
+    {
+      "ar": "مَواهِبِكَ",
+      "en": "the plenteousness of Thy gifts"
+    },
+    {
+      "ar": "قُدْرَتِكَ",
+      "en": "the power of Thy might"
+    },
+    {
+      "ar": "أَلْطافِكَ",
+      "en": "the excellence of Thy favors"
+    },
+    {
+      "ar": "لَوْ",
+      "en": "Wert"
+    },
+    {
+      "ar": "تَنْظُرُ",
+      "en": "to look"
+    },
+    {
+      "ar": "بِعَيْنِ",
+      "en": "with the eye"
+    },
+    {
+      "ar": "العَدْلِ",
+      "en": "justice"
+    },
+    {
+      "ar": "غَضَبَكَ",
+      "en": "Thy wrath"
+    },
+    {
+      "ar": "سِياطَ",
+      "en": "the rod"
+    },
+    {
+      "ar": "قَهْرِكَ",
+      "en": "Thine anger"
+    },
+    {
+      "ar": "خُذْ",
+      "en": "Hold"
+    },
+    {
+      "ar": "أَيادِيَ",
+      "en": "the hands"
+    },
+    {
+      "ar": "الخَلْقِ",
+      "en": "Thy creatures"
+    },
+    {
+      "ar": "بِأَيادِي",
+      "en": "hands"
+    },
+    {
+      "ar": "ما",
+      "en": "what"
+    },
+    {
+      "ar": "هُوَ",
+      "en": ""
+    },
+    {
+      "ar": "خَيْرٌ",
+      "en": "best"
+    },
+    {
+      "ar": "لَهُمْ",
+      "en": "for them"
+    },
+    {
+      "ar": "خُلِقَ",
+      "en": "have been created"
+    },
+    {
+      "ar": "مَلَكُوتِ",
+      "en": "the kingdom"
+    },
+    {
+      "ar": "الإِنْشاءِ",
+      "en": "Thine invention"
+    }
+  ],
+  "terms": [
+    {
+      "term": "أَظْهَرْتَ",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "revealed",
+      "note": "Root z-h-r renders predominantly as 'Manifestation' or 'manifestation' (96 occ.). Here 'revealed' is exceptional—a more immediate, intimate rendering than the metaphysical weight of 'Manifestation' typically carries.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 53,
+          "snippet": "Manifestation"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 136,
+          "snippet": "evident"
+        },
+        {
+          "work": "gleanings",
+          "para": 222,
+          "snippet": "material"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 206,
+          "snippet": "appeared"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 196,
+          "snippet": "Manifestations of God"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 32,
+          "snippet": "overwhelm the soul"
+        }
+      ]
+    },
+    {
+      "term": "فَضْلَكَ",
+      "transliteration": "f-d-l",
+      "literal": "grace; bounty; generosity; excellence",
+      "se_rendering": "Thy grace",
+      "note": "Among 36 occurrences, renders as 'grace,' 'bounty,' or 'merits.' 'Thy grace' here emphasizes unmerited favor in a supplicatory context, aligning with the prayer's theme of divine benevolence.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 50,
+          "snippet": "the Gracious, the All-Bountiful"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 115,
+          "snippet": "the All-Bounteous"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 259,
+          "snippet": "merits"
+        },
+        {
+          "work": "gleanings",
+          "para": 10,
+          "snippet": "most excellent favors"
+        },
+        {
+          "work": "gleanings",
+          "para": 60,
+          "snippet": "grace"
+        },
+        {
+          "work": "gleanings",
+          "para": 234,
+          "snippet": "His gracious favor"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "graciously"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 92,
+          "snippet": "realms"
+        }
+      ]
+    },
+    {
+      "term": "عِبادَكَ",
+      "transliteration": "ʿ-b-d",
+      "literal": "servant; slave; worshipper",
+      "se_rendering": "Thy servants",
+      "note": "Consistently 'servants' or 'Thy servants' across 68 occurrences. This instance stabilizes the relationship between humanity and deity within an intercessory prayer structure.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 686,
+          "snippet": "servants"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 27,
+          "snippet": "'Abdu'l‑Bahá"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 260,
+          "snippet": "'Abdu'l-'Azíz"
+        },
+        {
+          "work": "gleanings",
+          "para": 67,
+          "snippet": "servant"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 10,
+          "snippet": "this wronged servant of Thine"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 47,
+          "snippet": "this servant of Thine"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 50,
+          "snippet": "the servants"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 12,
+          "snippet": "Thy trusted servants"
+        }
+      ]
+    },
+    {
+      "term": "التَّوَجُّهِ",
+      "transliteration": "w-j-h",
+      "literal": "face; countenance; direction; aspect",
+      "se_rendering": "directing their eyes towards it",
+      "note": "Root w-j-h typically renders 'faces' or 'turned' (64 occ.). 'Directing their eyes towards it' is an expanded, sensory interpretation—SE transforms abstract directedness into embodied, visual devotion.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 77,
+          "snippet": "their faces"
+        },
+        {
+          "work": "gleanings",
+          "para": 596,
+          "snippet": "eyes"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 16,
+          "snippet": "unto Mine"
+        },
+        {
+          "work": "gleanings",
+          "para": 273,
+          "snippet": "face"
+        },
+        {
+          "work": "gleanings",
+          "para": 371,
+          "snippet": "turned"
+        },
+        {
+          "work": "gleanings",
+          "para": 275,
+          "snippet": "with white faces"
+        },
+        {
+          "work": "gleanings",
+          "para": 399,
+          "snippet": "with white faces and radiant hearts"
+        },
+        {
+          "work": "gleanings",
+          "para": 249,
+          "snippet": "for the sake of God"
+        }
+      ]
+    },
+    {
+      "term": "عَظَمَتِكَ",
+      "transliteration": "ʿ-z̟-m",
+      "literal": "greatest; supreme; mightiest",
+      "se_rendering": "the greatness of Thy glory",
+      "note": "Root ʿ-z-m renders 'greatest,' 'Most Great,' or 'supreme' (63 occ.). 'Greatness of Thy glory' pairs majesty with luminosity, intensifying the transcendental force beyond simple superlatives.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 56,
+          "snippet": "supreme"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 3,
+          "snippet": "greatest"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 6,
+          "snippet": "greater"
+        },
+        {
+          "work": "gleanings",
+          "para": 10,
+          "snippet": "most mighty"
+        },
+        {
+          "work": "gleanings",
+          "para": 409,
+          "snippet": "most great"
+        },
+        {
+          "work": "gleanings",
+          "para": 392,
+          "snippet": "great"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 9,
+          "snippet": "mighty"
+        },
+        {
+          "work": "gleanings",
+          "para": 169,
+          "snippet": "vast"
+        }
+      ]
+    },
+    {
+      "term": "أَيادِيَ",
+      "transliteration": "y-d",
+      "literal": "hand; power; strength; (plural) hands; agents; helpers",
+      "se_rendering": "hands",
+      "note": "Root y-d renders 'hands,' 'Hands' (agents/emissaries), or 'power' (13 occ.). 'Hands' here is literal and corporeal—SE preserves the Qur'anic idiom of divine power as tangible agency and protective grasp.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 19,
+          "snippet": "Hands"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 174,
+          "snippet": "with the hands"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 95,
+          "snippet": "with their own hands"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 244,
+          "snippet": "with their hands"
+        }
+      ]
+    },
+    {
+      "term": "عَرِّفْهُمْ",
+      "transliteration": "ʿ-r-f",
+      "literal": "to confess; to acknowledge; to recognize",
+      "se_rendering": "make Thou known unto them",
+      "note": "Root ʿ-r-f typically renders 'acknowledged,' 'recognized,' or 'testifieth' (82 occ.). 'Make known unto them' shifts from passive recognition to active divine instruction, emphasizing vocational clarity.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 135,
+          "snippet": "hath acknowledged"
+        },
+        {
+          "work": "gleanings",
+          "para": 568,
+          "snippet": "acknowledged"
+        },
+        {
+          "work": "gleanings",
+          "para": 295,
+          "snippet": "made objections"
+        },
+        {
+          "work": "gleanings",
+          "para": 87,
+          "snippet": "knowledge"
+        },
+        {
+          "work": "gleanings",
+          "para": 2,
+          "snippet": "perception"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 5,
+          "snippet": "acknowledging"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 4,
+          "snippet": "fragrance of His garment"
+        },
+        {
+          "work": "gleanings",
+          "para": 214,
+          "snippet": "acknowledge"
+        }
+      ]
+    },
+    {
+      "term": "نَشْهَدُ",
+      "transliteration": "sh-h-d",
+      "literal": "witnessed; observed; seen; evident; manifest",
+      "se_rendering": "We testify",
+      "note": "Root sh-h-d renders 'witness,' 'testify,' or 'evident' (74 occ.). 'We testify' elevates congregational attestation—SE personalizes the witnessing act as communal testimony rather than abstract manifestation.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 607,
+          "snippet": "manifest"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 35,
+          "snippet": "evident"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 6,
+          "snippet": "I testify"
+        },
+        {
+          "work": "gleanings",
+          "para": 298,
+          "snippet": "witness"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 138,
+          "snippet": "martyrdom"
+        },
+        {
+          "work": "gleanings",
+          "para": 134,
+          "snippet": "God witnesseth"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 57,
+          "snippet": "beheld"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 156,
+          "snippet": "bear witness"
+        }
+      ]
+    }
+  ],
+  "section_index": "XXVII.2",
+  "section": "XXVII",
+  "section_para": 2
 }

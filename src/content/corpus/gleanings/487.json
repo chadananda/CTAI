@@ -1,10 +1,394 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 487,
   "source_text": "يا أيّها الملك فوالله ما أريد أن أشكو منهم في حضرتك إنّما أشكو بثّي وحزني إلى الله الّذي خلقنا وإيّاهم وكان علينا وعليهم لشاهد ووكيل بل أريد",
   "translation": "I swear by God, O King! It is not My wish to make My plaint to thee against them that persecute Me. I only plead My grief and My sorrow to God, Who hath created Me and them, Who well knoweth our state and Who watcheth over all things. My wish is to warn them of the consequences of their actions, if perchance they might desist from treating others as they have treated Me, and be of them that heed My warning.",
   "source_lang": "ar",
-  "score": 8.4
+  "score": 8.4,
+  "page_slug": "plead-grief-sorrow-god",
+  "alignment": [
+    {
+      "ar": "يا",
+      "en": "O"
+    },
+    {
+      "ar": "الملك",
+      "en": "King"
+    },
+    {
+      "ar": "فوالله",
+      "en": "I swear by God"
+    },
+    {
+      "ar": "ما",
+      "en": "not"
+    },
+    {
+      "ar": "أريد",
+      "en": "My wish"
+    },
+    {
+      "ar": "أن",
+      "en": "to"
+    },
+    {
+      "ar": "أشكو",
+      "en": "make My plaint"
+    },
+    {
+      "ar": "منهم",
+      "en": "against them"
+    },
+    {
+      "ar": "حضرتك",
+      "en": "thee"
+    },
+    {
+      "ar": "إنّما",
+      "en": "only"
+    },
+    {
+      "ar": "أشكو",
+      "en": "plead"
+    },
+    {
+      "ar": "بثّي",
+      "en": "My grief"
+    },
+    {
+      "ar": "وحزني",
+      "en": "My sorrow"
+    },
+    {
+      "ar": "الله",
+      "en": "God"
+    },
+    {
+      "ar": "الّذي",
+      "en": "Who"
+    },
+    {
+      "ar": "خلقنا",
+      "en": "hath created Me"
+    },
+    {
+      "ar": "وإيّاهم",
+      "en": "and them"
+    },
+    {
+      "ar": "علينا",
+      "en": "our"
+    },
+    {
+      "ar": "وعليهم",
+      "en": "all things"
+    },
+    {
+      "ar": "لشاهد",
+      "en": "knoweth"
+    },
+    {
+      "ar": "ووكيل",
+      "en": "watcheth over"
+    },
+    {
+      "ar": "أريد",
+      "en": "is"
+    }
+  ],
+  "terms": [
+    {
+      "term": "الملک",
+      "transliteration": "m-l-k",
+      "literal": "kingdom; dominion; realm; sovereignty",
+      "se_rendering": "King",
+      "note": "Standard renderings include 'kingdom,' 'realm,' 'Kingdom' (70 occ). 'King' here applies the root to a human ruler rather than divine or celestial sovereignty—a rare directness in SE's typically metaphysical register.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-ahd",
+          "para": 16,
+          "snippet": "heaven"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 171,
+          "snippet": "kingdom"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 69,
+          "snippet": "realms"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 28,
+          "snippet": "righteous"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 167,
+          "snippet": "by the heavenly power"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 57,
+          "snippet": "Ruler"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 82,
+          "snippet": "King"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 102,
+          "snippet": "Lord of all mankind"
+        }
+      ]
+    },
+    {
+      "term": "ارید",
+      "transliteration": "r-y-d",
+      "literal": "to will; to intend; to wish",
+      "se_rendering": "wish",
+      "note": "Typically 'will,' 'desire,' 'willed' across 12 occurrences. 'wish' here softens the sense—less absolute intention, more personal desire—fitting the petition's supplicatory tone.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 78,
+          "snippet": "what I have willed"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 32,
+          "snippet": "Desire of the worlds"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 634,
+          "snippet": "will"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 506,
+          "snippet": "hath sought"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 654,
+          "snippet": "Thy purpose"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 46,
+          "snippet": "did desire"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 123,
+          "snippet": "Put away"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 789,
+          "snippet": "attempt"
+        }
+      ]
+    },
+    {
+      "term": "حضرتک",
+      "transliteration": "h-d-r",
+      "literal": "presence; majesty; His/Your Excellency",
+      "se_rendering": "thee",
+      "note": "Root h-d-r shows 23 vastly divergent renderings ('Saint Paul,' 'John,' 'The Great Being'). Here 'thee' is contextually straightforward, yet the root's extreme variability underscores SE's interpretive flexibility.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 145,
+          "snippet": "Saint Paul"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 231,
+          "snippet": "John"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 125,
+          "snippet": "he that was chosen to be slain"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 136,
+          "snippet": "Presence"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 52,
+          "snippet": "manifestations of authority and the sources of power"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 122,
+          "snippet": "weapons"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 101,
+          "snippet": "Her Majesty, the Queen"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 33,
+          "snippet": "His Majesty the Sháh"
+        }
+      ]
+    },
+    {
+      "term": "وحزنی",
+      "transliteration": "h-z-n",
+      "literal": "sorrow; grief; sadness; anguish",
+      "se_rendering": "My sorrow",
+      "note": "Standard renderings include 'sorrow,' 'sorrows,' 'Sorrow not' (23 occ). 'My sorrow' here maintains conventional usage, anchoring the speaker's emotional state rather than prescribing emotional response.",
+      "cross_refs": [
+        {
+          "work": "fire-tablet",
+          "para": 12,
+          "snippet": "Sorrows"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 57,
+          "snippet": "sorrow"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 35,
+          "snippet": "Grieve Thou not"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 36,
+          "snippet": "Sorrow not"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 54,
+          "snippet": "be not sad"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 11,
+          "snippet": "affliction"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 16,
+          "snippet": "his sadness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 217,
+          "snippet": "Let nothing grieve thee"
+        }
+      ]
+    },
+    {
+      "term": "خلقنا",
+      "transliteration": "kh-r-q",
+      "literal": "miracle; extraordinary occurrence; to tear; to breach",
+      "se_rendering": "created",
+      "note": "Attested only once in corpus as 'miracles' (root kh-r-q). Here rendered 'created'—likely a transcription or lemmatization variant; the sense clearly demands creation, not breach or miracle.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 59,
+          "snippet": "miracles"
+        }
+      ]
+    },
+    {
+      "term": "علینا",
+      "transliteration": "ʿ-l-y",
+      "literal": "exalted; highest; supreme; most high",
+      "se_rendering": "our",
+      "note": "Root ʿ-l-y primarily renders 'exalted,' 'sublime,' 'Most Sublime' (11 occ). Here 'our' is possessive-prepositional—a structural rather than qualitative rendering, departing from SE's typical elevation semantics.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 225,
+          "snippet": "sublime"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 54,
+          "snippet": "exalted"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 205,
+          "snippet": "Most Sublime"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 161,
+          "snippet": "sublime words"
+        }
+      ]
+    },
+    {
+      "term": "لشاهد",
+      "transliteration": "sh-h-d",
+      "literal": "witnessed; observed; seen; evident; manifest",
+      "se_rendering": "watcheth",
+      "note": "Root sh-h-d typically renders as 'witness,' 'testify,' 'manifest' (74 occ). Here rendered as 'watcheth' — a functional rather than testimonial sense, emphasizing divine observation over attestation.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 35,
+          "snippet": "evident"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 811,
+          "snippet": "I bear witness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 6,
+          "snippet": "I testify"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 138,
+          "snippet": "martyrdom"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 230,
+          "snippet": "God testifieth"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 57,
+          "snippet": "beheld"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 117,
+          "snippet": "testify"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 156,
+          "snippet": "bear witness"
+        }
+      ]
+    }
+  ],
+  "section_index": "CXIV.16",
+  "section": "CXIV",
+  "section_para": 16
 }

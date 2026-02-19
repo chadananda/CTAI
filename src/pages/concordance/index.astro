@@ -25,7 +25,7 @@ if (db) {
   const statsEn = await queryFirst(db, 'SELECT COUNT(DISTINCT LOWER(TRIM(en))) as c FROM occurrences');
   totalRenderings = statsEn?.c || 0;
 
-  const statsWorks = await queryFirst(db, `SELECT COUNT(DISTINCT SUBSTR(pair_id, 1, INSTR(pair_id, '§') - 2)) as c FROM occurrences`);
+  const statsWorks = await queryFirst(db, `SELECT COUNT(DISTINCT TRIM(SUBSTR(ref, 1, INSTR(ref, '§') - 1))) as c FROM occurrences WHERE ref LIKE '%§%'`);
   workCount = statsWorks?.c || 11;
 
   // Top English entries by root diversity (most roots mapped to one English phrase)
@@ -148,8 +148,8 @@ Astro.response.headers.set('Cache-Control', 'public, max-age=86400, s-maxage=604
         {topEntriesByRoots.map(e => (
           <a
             href={`/concordance/english/${slugify(e.display)}/`}
-            class="group block p-3 rounded-lg bg-ink-800/40 border border-ink-700/30
-                   hover:border-gold-400/30 hover:bg-ink-800/60 transition-all"
+            class="group block p-3 rounded-lg bg-ink-800/60 border border-ink-700/50
+                   hover:border-gold-400/30 hover:bg-ink-800/80 transition-all"
           >
             <span class="text-ink-200 group-hover:text-gold-400 transition-colors font-medium text-sm">
               {e.display}
@@ -175,7 +175,7 @@ Astro.response.headers.set('Cache-Control', 'public, max-age=86400, s-maxage=604
           <a
             href={`#letter-${letter}`}
             class="w-9 h-9 flex items-center justify-center rounded-md
-                   bg-ink-800/40 border border-ink-700/30
+                   bg-ink-800/60 border border-ink-700/50
                    text-ink-300 hover:text-gold-400 hover:border-gold-400/30
                    text-sm font-mono transition-all"
             title={`${count} entries`}
@@ -202,8 +202,8 @@ Astro.response.headers.set('Cache-Control', 'public, max-age=86400, s-maxage=604
           <a
             href={`/concordance/root/${r.slug}/`}
             class="group flex items-center gap-3 p-2.5 rounded-lg
-                   bg-ink-800/30 border border-ink-700/20
-                   hover:border-gold-400/30 hover:bg-ink-800/50 transition-all"
+                   bg-ink-800/50 border border-ink-700/40
+                   hover:border-gold-400/30 hover:bg-ink-800/70 transition-all"
           >
             <span class="text-lg font-arabic text-ink-200" dir="rtl" lang="ar">{r.root}</span>
             <span class="flex-1 min-w-0">

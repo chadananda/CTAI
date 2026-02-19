@@ -1,10 +1,331 @@
 {
   "work": "Tablet of the Holy Mariner",
   "slug": "tablet-of-the-holy-mariner",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 50,
   "source_text": "تاللّه ما وجدت من هؤلاء المدّعين من نسمات الوفاء فسبحان ربّي الأبهى",
   "translation": "\"By the Lord! I found not from these idle claimants the breeze of Faithfulness! Glorified be my Lord, the All-Glorious!",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "breeze-faithfulness-claimants",
+  "alignment": [
+    {
+      "ar": "تاللّه",
+      "en": "By the Lord"
+    },
+    {
+      "ar": "ما",
+      "en": "not"
+    },
+    {
+      "ar": "وجدت",
+      "en": "found"
+    },
+    {
+      "ar": "هؤلاء",
+      "en": "these"
+    },
+    {
+      "ar": "المدّعين",
+      "en": "idle claimants"
+    },
+    {
+      "ar": "نسمات",
+      "en": "breeze"
+    },
+    {
+      "ar": "الوفاء",
+      "en": "Faithfulness"
+    },
+    {
+      "ar": "سبحان",
+      "en": "Glorified"
+    },
+    {
+      "ar": "ربّي",
+      "en": "my Lord"
+    },
+    {
+      "ar": "الأبهى",
+      "en": "All-Glorious"
+    }
+  ],
+  "terms": [
+    {
+      "term": "تالله",
+      "transliteration": "t-ʾ-l-l-h",
+      "literal": "by God (oath formula)",
+      "se_rendering": "By the Lord!",
+      "note": "Oath formula with limited corpus instances (5 occ.). SE renders here as 'By the Lord!' maintaining imperative dignity; other renderings invoke 'righteousness' or 'witness'—this choice preserves direct address.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 137,
+          "snippet": "By God! Troubles have failed to unnerve Me"
+        },
+        {
+          "work": "gleanings",
+          "para": 24,
+          "snippet": "By the righteousness of God"
+        },
+        {
+          "work": "gleanings",
+          "para": 189,
+          "snippet": "God is my witness"
+        },
+        {
+          "work": "gleanings",
+          "para": 298,
+          "snippet": "By the righteousness of the Almighty"
+        }
+      ]
+    },
+    {
+      "term": "وجدت",
+      "transliteration": "w-j-d",
+      "literal": "to find; to discover; to obtain",
+      "se_rendering": "found",
+      "note": "Root w-j-d yields 67 variants including 'being,' 'adorned,' and 'mentioned.' 'Found' here is most literal, emphasizing empirical absence of faithfulness among claimants rather than ontological nuances.",
+      "cross_refs": [
+        {
+          "work": "the-hidden-words",
+          "para": 91,
+          "snippet": "adorned"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 27,
+          "snippet": "found"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 215,
+          "snippet": "mentioned"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 69,
+          "snippet": "aware"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 783,
+          "snippet": "point of creation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 832,
+          "snippet": "being"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 214,
+          "snippet": "is led"
+        },
+        {
+          "work": "gleanings",
+          "para": 436,
+          "snippet": "The Great Being"
+        }
+      ]
+    },
+    {
+      "term": "نسمات",
+      "transliteration": "n-s-m",
+      "literal": "breeze; gentle wind; fragrance",
+      "se_rendering": "breeze",
+      "note": "Typically 'breeze' with spiritual modifiers ('sweet gales,' 'loving-kindness'). Standalone 'breeze' here is rare—SE opts for simplicity, letting 'Faithfulness' carry the spiritual weight rather than adjectival elaboration.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 158,
+          "snippet": "sweet gales of divine knowledge"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 105,
+          "snippet": "breeze of My loving-kindness"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 146,
+          "snippet": "breeze that bloweth from the meads of the good-pleasure"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 216,
+          "snippet": "breeze of His loving"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 140,
+          "snippet": "breeze of mercy"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 122,
+          "snippet": "breeze"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 100,
+          "snippet": "fragrances"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 768,
+          "snippet": "rustling"
+        }
+      ]
+    },
+    {
+      "term": "الوفاء",
+      "transliteration": "w-f-y",
+      "literal": "faithfulness; loyalty; fulfillment; fidelity",
+      "se_rendering": "Faithfulness",
+      "note": "Consistently 'faithfulness' (15 occ.) with occasional 'fidelity.' Capitalization as 'Faithfulness' here elevates the virtue to quasi-proper abstraction, contrasting with the mere 'claimants' who lack it.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 10,
+          "snippet": "faithfulness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 24,
+          "snippet": "ye that are foolish"
+        }
+      ]
+    },
+    {
+      "term": "فسبحان",
+      "transliteration": "s-b-ḥ",
+      "literal": "glorified; the All-Praised; exalted",
+      "se_rendering": "Glorified be",
+      "note": "Root s-b-ḥ yields 23 renderings from 'All-Praised' to 'Gracious God' to exclamatory 'Glorified art Thou.' SE's 'Glorified be' is rare—a participial exaltation that pivots from the preceding negation.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 211,
+          "snippet": "the All-Praised"
+        },
+        {
+          "work": "gleanings",
+          "para": 212,
+          "snippet": "the Breath of the All-Glorious"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 13,
+          "snippet": "the breezes of the All-Glorious"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 42,
+          "snippet": "Gracious God"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 90,
+          "snippet": "Great God"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 62,
+          "snippet": "Glorified art Thou"
+        },
+        {
+          "work": "gleanings",
+          "para": 112,
+          "snippet": "Glory be to Thee"
+        },
+        {
+          "work": "gleanings",
+          "para": 1,
+          "snippet": "Lauded and glorified art Thou"
+        }
+      ]
+    },
+    {
+      "term": "ربّي",
+      "transliteration": "r-b-b",
+      "literal": "divine; of God; lordly",
+      "se_rendering": "my Lord",
+      "note": "Standard 'Lord' or 'My Lord' across 31 occurrences with occasional 'Divine might.' 'My Lord' here personalizes after the sweeping condemnation, restoring intimate covenant language.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 2,
+          "snippet": "Holy"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 45,
+          "snippet": "Lord"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 69,
+          "snippet": "lordship"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 201,
+          "snippet": "My Lord's"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 162,
+          "snippet": "Divine might"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 16,
+          "snippet": "divine knowledge"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 205,
+          "snippet": "divine wisdom"
+        },
+        {
+          "work": "gleanings",
+          "para": 684,
+          "snippet": "Divine glory"
+        }
+      ]
+    },
+    {
+      "term": "الابهی",
+      "transliteration": "b-h-y",
+      "literal": "splendor; glory; magnificence; Bahá (Proper Name in Bahá'í texts)",
+      "se_rendering": "the All-Glorious",
+      "note": "Root b-h-y yields 17 variants including the proper name 'Bahá,' 'Abhá,' and 'All-Glorious.' 'All-Glorious' here—capitalized and compound—echoes the Bahá'í divine epithets while avoiding the proper noun, maintaining lyric address.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 280,
+          "snippet": "Bahá"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 59,
+          "snippet": "Glory"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 51,
+          "snippet": "Abhá"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 271,
+          "snippet": "All-Glorious"
+        }
+      ]
+    }
+  ],
+  "section_index": "51",
+  "section": "51",
+  "section_para": 1
 }

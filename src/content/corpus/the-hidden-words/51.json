@@ -1,10 +1,323 @@
 {
   "work": "The Hidden Words",
   "slug": "the-hidden-words",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 51,
   "source_text": "(٥٠) ﴿ يَا ابْنَ الإِنْسَانِ ﴾\nإِنْ لَا يُصيبُكَ البَلاءُ فِي سَبِيْلِي كَيْفَ تَسْلُكُ سُبُلَ الرَّاضِينَ فِي رِضائِي، وَإِنْ لَا تَمَسُّكَ المَشَقَّةُ شَوْقًا لِلِقائِي كَيْفَ يُصِيبُكَ النُّورُ حُبّاً لِجَمالِي.",
   "translation": "(50) O SON OF MAN!\nIf adversity befall thee not in My path, how canst thou walk in the ways of them that are content with My pleasure? If trials afflict thee not in thy longing to meet Me, how wilt thou attain the light in thy love for My beauty?",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "adversity-path-beauty-light",
+  "alignment": [
+    {
+      "ar": "يَا",
+      "en": "O"
+    },
+    {
+      "ar": "ابْنَ",
+      "en": "SON"
+    },
+    {
+      "ar": "الإِنْسَانِ",
+      "en": "MAN"
+    },
+    {
+      "ar": "يُصيبُكَ",
+      "en": "befall thee"
+    },
+    {
+      "ar": "البَلاءُ",
+      "en": "adversity"
+    },
+    {
+      "ar": "سَبِيْلِي",
+      "en": "My path"
+    },
+    {
+      "ar": "كَيْفَ",
+      "en": "how"
+    },
+    {
+      "ar": "تَسْلُكُ",
+      "en": "walk"
+    },
+    {
+      "ar": "سُبُلَ",
+      "en": "ways"
+    },
+    {
+      "ar": "رِضائِي",
+      "en": "My pleasure"
+    },
+    {
+      "ar": "شَوْقًا",
+      "en": "longing"
+    },
+    {
+      "ar": "لِلِقائِي",
+      "en": "to meet Me"
+    },
+    {
+      "ar": "يُصِيبُكَ",
+      "en": "attain"
+    },
+    {
+      "ar": "حُبّاً",
+      "en": "love"
+    },
+    {
+      "ar": "لِجَمالِي",
+      "en": "for My beauty"
+    }
+  ],
+  "terms": [
+    {
+      "term": "البَلاءُ",
+      "transliteration": "b-l-ʾ",
+      "literal": "affliction; trial; calamity",
+      "se_rendering": "adversity",
+      "note": "Typically 'trials' or 'tribulations' (27 occurrences total). Here rendered 'adversity' in opening clause, then 'trials' in parallel structure—SE uses both forms within single passage for rhetorical balance.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 249,
+          "snippet": "trials"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 137,
+          "snippet": "Troubles"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 179,
+          "snippet": "tribulations"
+        },
+        {
+          "work": "gleanings",
+          "para": 660,
+          "snippet": "afflictions"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 63,
+          "snippet": "the lands"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 28,
+          "snippet": "afflicted"
+        },
+        {
+          "work": "gleanings",
+          "para": 640,
+          "snippet": "subjected"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 145,
+          "snippet": "sick"
+        }
+      ]
+    },
+    {
+      "term": "تَمَسُّكَ",
+      "transliteration": "m-s-k",
+      "literal": "musk; to seize; grip",
+      "se_rendering": "afflict",
+      "note": "Root primarily renders 'holding fast unto' or 'clinging' (23 occurrences). Unique rendering 'afflict' here transforms the root's grip/seize meaning into passive suffering—a striking semantic shift.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 188,
+          "snippet": "musk"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 5,
+          "snippet": "holding fast unto"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 64,
+          "snippet": "holding fast"
+        },
+        {
+          "work": "gleanings",
+          "para": 224,
+          "snippet": "clinging"
+        },
+        {
+          "work": "gleanings",
+          "para": 396,
+          "snippet": "cleave"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 9,
+          "snippet": "clung"
+        },
+        {
+          "work": "gleanings",
+          "para": 367,
+          "snippet": "take ye counsel"
+        },
+        {
+          "work": "gleanings",
+          "para": 720,
+          "snippet": "cleaveth"
+        }
+      ]
+    },
+    {
+      "term": "شَوْقًا",
+      "transliteration": "sh-w-q",
+      "literal": "to encourage; to incite; yearning; enthusiasm",
+      "se_rendering": "longing",
+      "note": "Rare term (10 occurrences). SE's preferred 'longing' choice here; concordance shows 'promulgation' and 'veiled' appear elsewhere, making 'longing' the spiritual correspondence.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 14,
+          "snippet": "promulgation"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 57,
+          "snippet": "veiled"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 57,
+          "snippet": "Shoghi Effendi"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 48,
+          "snippet": "longing"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 359,
+          "snippet": "in their longing"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 133,
+          "snippet": "in longing"
+        },
+        {
+          "work": "gleanings",
+          "para": 38,
+          "snippet": "fire of longing"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 399,
+          "snippet": "fire of their longing"
+        }
+      ]
+    },
+    {
+      "term": "النُّورُ",
+      "transliteration": "n-w-r",
+      "literal": "light; illumination",
+      "se_rendering": "light",
+      "note": "Consistently 'light' across 78 occurrences; occasionally 'Orb of Light' or 'Thy light' when context demands capitalization. Standard rendering maintained here.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 3,
+          "snippet": "light"
+        },
+        {
+          "work": "gleanings",
+          "para": 230,
+          "snippet": "Orb of Light"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 114,
+          "snippet": "with the light"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 109,
+          "snippet": "Thy light"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 246,
+          "snippet": "Illumine"
+        },
+        {
+          "work": "gleanings",
+          "para": 235,
+          "snippet": "glory"
+        },
+        {
+          "work": "gleanings",
+          "para": 597,
+          "snippet": "fire"
+        },
+        {
+          "work": "gleanings",
+          "para": 458,
+          "snippet": "fire of God"
+        }
+      ]
+    },
+    {
+      "term": "حُبّاً",
+      "transliteration": "ḥ-b-b",
+      "literal": "love; affection",
+      "se_rendering": "love",
+      "note": "Root typically 'loved ones of the Lord' or 'beloved' (92 occurrences). SE renders as abstract noun 'love' here rather than relational 'beloved'—focuses on emotion over relationship.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 3,
+          "snippet": "beloved of the Lord"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 53,
+          "snippet": "loved ones of the Lord"
+        },
+        {
+          "work": "gleanings",
+          "para": 341,
+          "snippet": "loved ones of God"
+        },
+        {
+          "work": "gleanings",
+          "para": 689,
+          "snippet": "beloved of the one true God"
+        },
+        {
+          "work": "gleanings",
+          "para": 640,
+          "snippet": "loved ones"
+        },
+        {
+          "work": "gleanings",
+          "para": 690,
+          "snippet": "beloved of God"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 39,
+          "snippet": "His loved ones"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 10,
+          "snippet": "love for Thee"
+        }
+      ]
+    }
+  ],
+  "section_index": "101",
+  "section": "101",
+  "section_para": 1
 }

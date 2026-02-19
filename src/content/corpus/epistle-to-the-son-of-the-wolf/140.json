@@ -1,10 +1,644 @@
 {
   "work": "Epistle to the Son of the Wolf",
   "slug": "epistle-to-the-son-of-the-wolf",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 140,
   "source_text": "حال در ميرزا هادی دولت ابادی و صاد اصفهانی در ارض طا تفکّر لازم * اوّل بمجرّد انکه شنيد او را بابی گفته‌اند اضطراب اخذش نمود بشانيکه وقار و سکون مفقود گشت بر منابر ارتقا جست و نطق نمود بکلماتيکه سزاوار نبود * لازال گلپارهای عالم محض حبّ رياست عمل نموده‌اند انچه را که سبب و علّت گمراهی عباد گشته ان جناب جميع را مثل ان نفوس ندانند * استقامت و ثبوت و رسوخ و اطمينان و تمکين و وقار شهدای اين ظهور ذکر شد تا ان جناب اگاه شوند * و مقصود از انچه بيان شد از الواح ملوک و غيره انکه ان جناب بيقين مبين بدانند که اين مظلوم امر اللّه را ستر ننمود و بانچه مامور بود امام وجوه عالم بافصح بيان ذکر نمود و القا فرمود * و لکن امثال ان نفوس ضعيفه مثل هادی و غيره امر اللّه را تبديل نمودند و نظر بزندگانی دو روزه دنيا عمل کردند و گفتند انچه را که عين عدل گريست و قلم اعلی نوحه نمود مع انکه از اصل امر بی خبر بوده و هستند و اين مظلوم لوجه اللّه اظهار نمود",
   "translation": "It behooveth thee now to reflect upon the state of Mírzá Hádí Dawlat-Abadi and of Sad-i-Iṣfahání (Sadru'l-'Ulama), who reside in the Land of Ta (Ṭihrán). No sooner had the former heard that he had been called a Bábí than he became so perturbed that his poise and dignity forsook him. He ascended the pulpits and spoke words which ill befitted him. From time immemorial the clay clods of the world have, wholly by reason of their love of leadership, perpetrated such acts as have caused men to err. Thou must not, however, imagine that all the faithful are such as these two. We have described unto thee the constancy, the firmness, the steadfastness, the certitude, the imperturbability and the dignity of the martyrs of this Revelation, that thou mayest be well-informed. My purpose in citing the passages from the Tablets to the kings and others hath been that thou mayest know of a certainty that this Wronged One hath not concealed the Cause of God, but hath proclaimed and delivered, in the most eloquent language, before the face of the world, the things He had been commissioned to set forth. Certain faint-hearted ones, however, such as Hádí and others, have tampered with the Cause of God and have, in their concern for this fleeting life, said and done that which caused the eye of justice to weep and the Pen of Glory to groan, notwithstanding their ignorance of the essentials of this Cause; whereas this Wronged One hath revealed it for the sake of God.",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "wronged-one-tampered-cause",
+  "alignment": [
+    {
+      "ar": "حال",
+      "en": "now"
+    },
+    {
+      "ar": "در",
+      "en": "upon"
+    },
+    {
+      "ar": "ميرزا هادی دولت ابادی",
+      "en": "Mírzá Hádí Dawlat-Abadi"
+    },
+    {
+      "ar": "صاد اصفهانی",
+      "en": "Sad-i-Iṣfahání"
+    },
+    {
+      "ar": "ارض",
+      "en": "Land"
+    },
+    {
+      "ar": "طا",
+      "en": "Ta"
+    },
+    {
+      "ar": "تفکّر",
+      "en": "reflect"
+    },
+    {
+      "ar": "لازم",
+      "en": "behooveth"
+    },
+    {
+      "ar": "اوّل",
+      "en": "former"
+    },
+    {
+      "ar": "بمجرّد",
+      "en": "No sooner"
+    },
+    {
+      "ar": "شنيد",
+      "en": "heard"
+    },
+    {
+      "ar": "بابی",
+      "en": "Bábí"
+    },
+    {
+      "ar": "گفته‌اند",
+      "en": "called"
+    },
+    {
+      "ar": "اضطراب",
+      "en": "perturbed"
+    },
+    {
+      "ar": "اخذش",
+      "en": "became"
+    },
+    {
+      "ar": "وقار",
+      "en": "poise"
+    },
+    {
+      "ar": "سکون",
+      "en": "dignity"
+    },
+    {
+      "ar": "مفقود",
+      "en": "forsook"
+    },
+    {
+      "ar": "منابر",
+      "en": "pulpits"
+    },
+    {
+      "ar": "ارتقا",
+      "en": "ascended"
+    },
+    {
+      "ar": "نطق",
+      "en": "spoke"
+    },
+    {
+      "ar": "کلماتيکه",
+      "en": "words"
+    },
+    {
+      "ar": "سزاوار نبود",
+      "en": "ill befitted"
+    },
+    {
+      "ar": "لازال",
+      "en": "From time immemorial"
+    },
+    {
+      "ar": "گلپارهای",
+      "en": "clay clods"
+    },
+    {
+      "ar": "عالم",
+      "en": "world"
+    },
+    {
+      "ar": "محض",
+      "en": "wholly"
+    },
+    {
+      "ar": "حبّ",
+      "en": "love"
+    },
+    {
+      "ar": "رياست",
+      "en": "leadership"
+    },
+    {
+      "ar": "عمل نموده‌اند",
+      "en": "perpetrated"
+    },
+    {
+      "ar": "سبب",
+      "en": "caused"
+    },
+    {
+      "ar": "گمراهی",
+      "en": "err"
+    },
+    {
+      "ar": "عباد",
+      "en": "men"
+    },
+    {
+      "ar": "ان جناب",
+      "en": "thou"
+    },
+    {
+      "ar": "جميع",
+      "en": "all"
+    },
+    {
+      "ar": "مثل",
+      "en": "such"
+    },
+    {
+      "ar": "ان نفوس",
+      "en": "these two"
+    },
+    {
+      "ar": "ندانند",
+      "en": "not"
+    },
+    {
+      "ar": "استقامت",
+      "en": "constancy"
+    },
+    {
+      "ar": "ثبوت",
+      "en": "firmness"
+    },
+    {
+      "ar": "رسوخ",
+      "en": "steadfastness"
+    },
+    {
+      "ar": "اطمينان",
+      "en": "certitude"
+    },
+    {
+      "ar": "تمکين",
+      "en": "imperturbability"
+    },
+    {
+      "ar": "شهدای",
+      "en": "martyrs"
+    },
+    {
+      "ar": "ظهور",
+      "en": "Revelation"
+    },
+    {
+      "ar": "ذکر شد",
+      "en": "described"
+    },
+    {
+      "ar": "اگاه",
+      "en": "well-informed"
+    },
+    {
+      "ar": "مقصود",
+      "en": "purpose"
+    },
+    {
+      "ar": "الواح",
+      "en": "Tablets"
+    },
+    {
+      "ar": "ملوک",
+      "en": "kings"
+    },
+    {
+      "ar": "غيره",
+      "en": "others"
+    },
+    {
+      "ar": "يقين",
+      "en": "certainty"
+    },
+    {
+      "ar": "مبين",
+      "en": "know"
+    },
+    {
+      "ar": "مظلوم",
+      "en": "Wronged One"
+    },
+    {
+      "ar": "امر اللّه",
+      "en": "Cause of God"
+    },
+    {
+      "ar": "ستر",
+      "en": "concealed"
+    },
+    {
+      "ar": "مامور",
+      "en": "commissioned"
+    },
+    {
+      "ar": "امام",
+      "en": "before"
+    },
+    {
+      "ar": "وجوه",
+      "en": "face"
+    },
+    {
+      "ar": "افصح",
+      "en": "most eloquent"
+    },
+    {
+      "ar": "بيان",
+      "en": "language"
+    },
+    {
+      "ar": "القا",
+      "en": "delivered"
+    },
+    {
+      "ar": "لکن",
+      "en": "however"
+    },
+    {
+      "ar": "امثال",
+      "en": "such as"
+    },
+    {
+      "ar": "نفوس",
+      "en": "ones"
+    },
+    {
+      "ar": "ضعيفه",
+      "en": "faint-hearted"
+    },
+    {
+      "ar": "هادی",
+      "en": "Hádí"
+    },
+    {
+      "ar": "تبديل",
+      "en": "tampered"
+    },
+    {
+      "ar": "نظر",
+      "en": "concern"
+    },
+    {
+      "ar": "زندگانی",
+      "en": "life"
+    },
+    {
+      "ar": "دو روزه",
+      "en": "fleeting"
+    },
+    {
+      "ar": "دنيا",
+      "en": "this"
+    },
+    {
+      "ar": "گفتند",
+      "en": "said"
+    },
+    {
+      "ar": "عين",
+      "en": "eye"
+    },
+    {
+      "ar": "عدل",
+      "en": "justice"
+    },
+    {
+      "ar": "گريست",
+      "en": "weep"
+    },
+    {
+      "ar": "قلم اعلی",
+      "en": "Pen of Glory"
+    },
+    {
+      "ar": "نوحه",
+      "en": "groan"
+    },
+    {
+      "ar": "اصل",
+      "en": "essentials"
+    },
+    {
+      "ar": "امر",
+      "en": "Cause"
+    },
+    {
+      "ar": "بی خبر",
+      "en": "ignorance"
+    },
+    {
+      "ar": "لوجه اللّه",
+      "en": "for the sake of God"
+    },
+    {
+      "ar": "اظهار",
+      "en": "revealed"
+    }
+  ],
+  "terms": [
+    {
+      "term": "عالم",
+      "transliteration": "ʿ-l-m",
+      "literal": "world; universe; the worlds",
+      "se_rendering": "world",
+      "note": "Consistently 'world', 'all worlds', 'mankind' across 141 occurrences. Here 'world' in dual contexts: 'clay clods of the world' and 'before the face of the world'—both denoting terrestrial domain.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 198,
+          "snippet": "world"
+        },
+        {
+          "work": "gleanings",
+          "para": 657,
+          "snippet": "all worlds"
+        },
+        {
+          "work": "gleanings",
+          "para": 182,
+          "snippet": "mankind"
+        },
+        {
+          "work": "gleanings",
+          "para": 183,
+          "snippet": "the whole world"
+        },
+        {
+          "work": "gleanings",
+          "para": 226,
+          "snippet": "all earthly defilements"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 76,
+          "snippet": "Knowledge"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 122,
+          "snippet": "commentators"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 42,
+          "snippet": "banner"
+        }
+      ]
+    },
+    {
+      "term": "نفوس",
+      "transliteration": "n-f-s",
+      "literal": "self; soul; psyche",
+      "se_rendering": "ones",
+      "note": "Complex root (43 occ) typically rendered as 'Self', 'myself', reflexive pronouns. 'Ones' here depersonalizes as collective noun, emphasizing their typicality rather than individual essence or station.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 789,
+          "snippet": "myself to be only nothing"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 71,
+          "snippet": "his own entity in the kingdom of his self"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 572,
+          "snippet": "Thy Self at all times"
+        },
+        {
+          "work": "gleanings",
+          "para": 205,
+          "snippet": "souls"
+        },
+        {
+          "work": "gleanings",
+          "para": 297,
+          "snippet": "their powerlessness"
+        },
+        {
+          "work": "gleanings",
+          "para": 225,
+          "snippet": "such of My followers"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 125,
+          "snippet": "sense of their own powerlessness"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 179,
+          "snippet": "abstained from all that is abhorrent unto Thee"
+        }
+      ]
+    },
+    {
+      "term": "شهدای",
+      "transliteration": "sh-h-d",
+      "literal": "witnessed; observed; seen; evident; manifest",
+      "se_rendering": "martyrs",
+      "note": "Root meanings span 'manifest', 'evident', 'witness', 'martyrdom' (74 occ). 'Martyrs' here combines witnessed suffering with theophanic standing—those who embodied constancy and firmness.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 607,
+          "snippet": "manifest"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 35,
+          "snippet": "evident"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 811,
+          "snippet": "I bear witness"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 836,
+          "snippet": "I testify"
+        },
+        {
+          "work": "gleanings",
+          "para": 298,
+          "snippet": "witness"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 138,
+          "snippet": "martyrdom"
+        },
+        {
+          "work": "gleanings",
+          "para": 134,
+          "snippet": "God witnesseth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 230,
+          "snippet": "God testifieth"
+        }
+      ]
+    },
+    {
+      "term": "ظهور",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "Revelation",
+      "note": "Standard renderings include 'Manifestation', 'evident', 'revealed' across 96 occurrences. 'Revelation' here privileges the eschatological sense over transcendent appearance, emphasizing the disclosed divine action.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 53,
+          "snippet": "Manifestation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 160,
+          "snippet": "Author of all Manifestations"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 136,
+          "snippet": "evident"
+        },
+        {
+          "work": "gleanings",
+          "para": 222,
+          "snippet": "material"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 196,
+          "snippet": "Manifestations of God"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 255,
+          "snippet": "Manifestations"
+        }
+      ]
+    },
+    {
+      "term": "بيان",
+      "transliteration": "b-y-n",
+      "literal": "to manifest; to make clear; clear, evident",
+      "se_rendering": "proclaimed and delivered",
+      "note": "Root typically yields 'clear verses', 'proofs', 'the Bayán' (87 occ). Rendered here as verb 'proclaimed and delivered'—the process of manifestation rather than the product, uniquely active.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 223,
+          "snippet": "the Expounder, the Most Manifest"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 231,
+          "snippet": "clear verses"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 3,
+          "snippet": "proofs"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 12,
+          "snippet": "clear proofs"
+        },
+        {
+          "work": "gleanings",
+          "para": 563,
+          "snippet": "Dawning-Place of the proofs"
+        },
+        {
+          "work": "gleanings",
+          "para": 292,
+          "snippet": "the Bayán"
+        },
+        {
+          "work": "gleanings",
+          "para": 636,
+          "snippet": "utterance"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 101,
+          "snippet": "Bayán"
+        }
+      ]
+    },
+    {
+      "term": "مظلوم",
+      "transliteration": "z-l-m",
+      "literal": "wrongedness, oppression, meekness; state of being wronged or oppressed",
+      "se_rendering": "Wronged One",
+      "note": "Typically 'afflicted', 'meekness', or 'wronged' across 128 occurrences. 'Wronged One' here emphasizes victimhood status as direct self-reference, capitalizing the epithet as a sacred title.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 498,
+          "snippet": "afflicted with countless tribulations"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 49,
+          "snippet": "meekness"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 116,
+          "snippet": "injury"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 3,
+          "snippet": "Wronged One"
+        },
+        {
+          "work": "gleanings",
+          "para": 221,
+          "snippet": "oppression"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 9,
+          "snippet": "Darkness"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 33,
+          "snippet": "tyranny"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 573,
+          "snippet": "oppressed"
+        }
+      ]
+    }
+  ],
+  "section_index": "140",
+  "section": "140",
+  "section_para": 1
 }

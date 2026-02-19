@@ -1,10 +1,588 @@
 {
   "work": "Epistle to the Son of the Wolf",
   "slug": "epistle-to-the-son-of-the-wolf",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 100,
   "source_text": "( الی أن قلنا ) اسمع ندائی مرّة اخری من شطر سجنی ليخبرک بما ورد علی جمالی من مظاهر جلالی و تعرف صبری بعد قدرتی و اصطباری بعد اقتداری * و عمری لو تعرف ما نزّل من قلمی و تطّلع علی خزائن امری و لالئ اسراری فی بحور اسمائی و اواعی کلماتی لتفدی بنفسک فی سبيل اللّه شوقا الی ملکوته العزيز المنيع * اعلم جسمی تحت سيوف الاعداء و جسدی فی بلاء لا يحصی و لکنّ الرّوح فی بشارة لا يعادلها فرح العالمين *",
   "translation": "And further We have said: \"Again I say: Hearken unto My voice that calleth from My prison, that it may acquaint thee with the things that have befallen My Beauty, at the hands of them that are the manifestations of My glory, and that thou mayest perceive how great hath been My patience, notwithstanding My might, and how immense My forbearance, notwithstanding My power. By My life! Couldst thou but know the things sent down by My Pen, and discover the treasures of My Cause, and the pearls of My mysteries which lie hid in the seas of My names and in the goblets of My words, thou wouldst for longing after His glorious and sublime Kingdom, lay down thy life in the path of God. Know thou that though My body be beneath the swords of My foes, and My limbs be beset with incalculable afflictions, yet My spirit is filled with a gladness with which all the joys of the earth can never compare.\"",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "spirit-filled-gladness-prison",
+  "alignment": [
+    {
+      "ar": "اسمع",
+      "en": "Hearken"
+    },
+    {
+      "ar": "ندائی",
+      "en": "My voice"
+    },
+    {
+      "ar": "مرّة اخری",
+      "en": "Again"
+    },
+    {
+      "ar": "شطر",
+      "en": "from"
+    },
+    {
+      "ar": "سجنی",
+      "en": "My prison"
+    },
+    {
+      "ar": "ليخبرک",
+      "en": "that it may acquaint thee"
+    },
+    {
+      "ar": "ورد",
+      "en": "befallen"
+    },
+    {
+      "ar": "جمالی",
+      "en": "My Beauty"
+    },
+    {
+      "ar": "مظاهر",
+      "en": "manifestations"
+    },
+    {
+      "ar": "جلالی",
+      "en": "My glory"
+    },
+    {
+      "ar": "تعرف",
+      "en": "perceive"
+    },
+    {
+      "ar": "صبری",
+      "en": "My patience"
+    },
+    {
+      "ar": "قدرتی",
+      "en": "My might"
+    },
+    {
+      "ar": "اصطباری",
+      "en": "My forbearance"
+    },
+    {
+      "ar": "اقتداری",
+      "en": "My power"
+    },
+    {
+      "ar": "عمری",
+      "en": "My life"
+    },
+    {
+      "ar": "نزّل",
+      "en": "sent down"
+    },
+    {
+      "ar": "قلمی",
+      "en": "My Pen"
+    },
+    {
+      "ar": "تطّلع",
+      "en": "discover"
+    },
+    {
+      "ar": "خزائن",
+      "en": "treasures"
+    },
+    {
+      "ar": "امری",
+      "en": "My Cause"
+    },
+    {
+      "ar": "لالئ",
+      "en": "pearls"
+    },
+    {
+      "ar": "اسراری",
+      "en": "My mysteries"
+    },
+    {
+      "ar": "بحور",
+      "en": "seas"
+    },
+    {
+      "ar": "اسمائی",
+      "en": "My names"
+    },
+    {
+      "ar": "اواعی",
+      "en": "goblets"
+    },
+    {
+      "ar": "کلماتی",
+      "en": "My words"
+    },
+    {
+      "ar": "لتفدی",
+      "en": "lay down"
+    },
+    {
+      "ar": "بنفسک",
+      "en": "thy life"
+    },
+    {
+      "ar": "سبيل",
+      "en": "path"
+    },
+    {
+      "ar": "اللّه",
+      "en": "God"
+    },
+    {
+      "ar": "شوقا",
+      "en": "longing"
+    },
+    {
+      "ar": "ملکوته",
+      "en": "Kingdom"
+    },
+    {
+      "ar": "العزيز",
+      "en": "glorious"
+    },
+    {
+      "ar": "المنيع",
+      "en": "sublime"
+    },
+    {
+      "ar": "اعلم",
+      "en": "Know"
+    },
+    {
+      "ar": "جسمی",
+      "en": "My body"
+    },
+    {
+      "ar": "سيوف",
+      "en": "swords"
+    },
+    {
+      "ar": "الاعداء",
+      "en": "My foes"
+    },
+    {
+      "ar": "جسدی",
+      "en": "My limbs"
+    },
+    {
+      "ar": "بلاء",
+      "en": "afflictions"
+    },
+    {
+      "ar": "لا يحصی",
+      "en": "incalculable"
+    },
+    {
+      "ar": "الرّوح",
+      "en": "My spirit"
+    },
+    {
+      "ar": "بشارة",
+      "en": "gladness"
+    },
+    {
+      "ar": "لا يعادلها",
+      "en": "can never compare"
+    },
+    {
+      "ar": "فرح",
+      "en": "joys"
+    },
+    {
+      "ar": "العالمين",
+      "en": "the earth"
+    }
+  ],
+  "terms": [
+    {
+      "term": "ندائی",
+      "transliteration": "n-d-y",
+      "literal": "call; voice; cry; summons",
+      "se_rendering": "voice",
+      "note": "Typically 'call' or 'Voice' across 17 occurrences. 'voice' here is lowercase, rendering the divine call as intimate utterance rather than cosmic proclamation.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 239,
+          "snippet": "Voice"
+        },
+        {
+          "work": "gleanings",
+          "para": 399,
+          "snippet": "calleth"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 260,
+          "snippet": "calling"
+        },
+        {
+          "work": "gleanings",
+          "para": 182,
+          "snippet": "summoned"
+        },
+        {
+          "work": "gleanings",
+          "para": 76,
+          "snippet": "the Herald"
+        },
+        {
+          "work": "gleanings",
+          "para": 405,
+          "snippet": "Herald"
+        },
+        {
+          "work": "gleanings",
+          "para": 21,
+          "snippet": "Call"
+        }
+      ]
+    },
+    {
+      "term": "سجنی",
+      "transliteration": "s-j-n",
+      "literal": "prison, imprisonment; to imprison",
+      "se_rendering": "prison",
+      "note": "Consistently 'prison' or 'imprisonment' across 21 occurrences. Maintains literal meaning; Bahá'u'lláh speaks from his physical confinement in the prison-city of Akká.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 448,
+          "snippet": "My imprisonment"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 91,
+          "snippet": "prison"
+        },
+        {
+          "work": "gleanings",
+          "para": 184,
+          "snippet": "imprisonment"
+        },
+        {
+          "work": "gleanings",
+          "para": 225,
+          "snippet": "captivity"
+        },
+        {
+          "work": "gleanings",
+          "para": 410,
+          "snippet": "prisoner"
+        },
+        {
+          "work": "gleanings",
+          "para": 659,
+          "snippet": "imprisoned"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 573,
+          "snippet": "shut up in the fortress-town"
+        }
+      ]
+    },
+    {
+      "term": "جمالی",
+      "transliteration": "j-m-l",
+      "literal": "beauty; comeliness",
+      "se_rendering": "Beauty",
+      "note": "Usually 'Beauty' (capitalized) referring to Bahá'u'lláh himself across 38 occurrences. Capitalization here marks it as a proper designator of his station.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 296,
+          "snippet": "Beauty"
+        },
+        {
+          "work": "gleanings",
+          "para": 183,
+          "snippet": "Ancient Beauty"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 67,
+          "snippet": "Among"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 208,
+          "snippet": "Among the sciences"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 268,
+          "snippet": "Among them"
+        },
+        {
+          "work": "gleanings",
+          "para": 359,
+          "snippet": "Amongst"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 118,
+          "snippet": "following"
+        },
+        {
+          "work": "gleanings",
+          "para": 649,
+          "snippet": "by the beauty"
+        }
+      ]
+    },
+    {
+      "term": "مظاهر",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "manifestations",
+      "note": "Typically 'Manifestation' (singular, capitalized) across 96 occurrences. Plural 'manifestations' here redirects from Bahá'u'lláh as sole Manifestation to oppressors as bearers of divine reflected glory.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 53,
+          "snippet": "Manifestation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 160,
+          "snippet": "Author of all Manifestations"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 136,
+          "snippet": "evident"
+        },
+        {
+          "work": "gleanings",
+          "para": 222,
+          "snippet": "material"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 196,
+          "snippet": "Manifestations of God"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 255,
+          "snippet": "Manifestations"
+        }
+      ]
+    },
+    {
+      "term": "صبری",
+      "transliteration": "s-b-r",
+      "literal": "patience; forbearance; endurance; to be patient",
+      "se_rendering": "patience",
+      "note": "Consistently 'patience' or 'forbearance' across 32 occurrences. Both terms appear here ('patience...forbearance'), doubling the emphasis on endurance as spiritual virtue transcending circumstances.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 48,
+          "snippet": "forbearance"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 40,
+          "snippet": "Patience of the worlds"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 49,
+          "snippet": "patience"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 39,
+          "snippet": "Thy patience"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 251,
+          "snippet": "their steadfastness"
+        },
+        {
+          "work": "gleanings",
+          "para": 620,
+          "snippet": "be patient"
+        },
+        {
+          "work": "gleanings",
+          "para": 408,
+          "snippet": "steadfast"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 689,
+          "snippet": "patient"
+        }
+      ]
+    },
+    {
+      "term": "قدرتی",
+      "transliteration": "q-d-r",
+      "literal": "power; might; decree; measure; worth",
+      "se_rendering": "might",
+      "note": "Usually rendered 'power' across 100 occurrences. 'might' here paired with 'forbearance' creates paradox of restraint despite divine capacity—emphasizes choice to endure.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 339,
+          "snippet": "Thy power"
+        },
+        {
+          "work": "gleanings",
+          "para": 138,
+          "snippet": "hath been decreed"
+        },
+        {
+          "work": "gleanings",
+          "para": 662,
+          "snippet": "hath decreed"
+        },
+        {
+          "work": "gleanings",
+          "para": 496,
+          "snippet": "forbearing towards"
+        },
+        {
+          "work": "gleanings",
+          "para": 111,
+          "snippet": "schools"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 12,
+          "snippet": "God of power"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 35,
+          "snippet": "Potent"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 282,
+          "snippet": "Almighty"
+        }
+      ]
+    },
+    {
+      "term": "نزّل",
+      "transliteration": "n-z-l",
+      "literal": "to descend, to be revealed",
+      "se_rendering": "sent down",
+      "note": "Standard 'sent down' or 'revealed' across 88 occurrences. 'sent down' preserves Quranic resonance of divine revelation descending from celestial source through the Pen.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 643,
+          "snippet": "sent down"
+        },
+        {
+          "work": "gleanings",
+          "para": 218,
+          "snippet": "revealed"
+        },
+        {
+          "work": "gleanings",
+          "para": 656,
+          "snippet": "descended"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 175,
+          "snippet": "didst send down"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 34,
+          "snippet": "Descend"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 47,
+          "snippet": "pour forth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 330,
+          "snippet": "send down"
+        },
+        {
+          "work": "gleanings",
+          "para": 604,
+          "snippet": "have been sent down"
+        }
+      ]
+    },
+    {
+      "term": "ملکوته",
+      "transliteration": "m-l-k",
+      "literal": "kingdom; dominion; realm; sovereignty",
+      "se_rendering": "Kingdom",
+      "note": "Usually 'Kingdom' or 'Realm' across 70 occurrences. 'Kingdom' here (capitalized) denotes not territorial dominion but transcendent spiritual sovereignty that inspires willing self-sacrifice.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-ahd",
+          "para": 16,
+          "snippet": "heaven"
+        },
+        {
+          "work": "gleanings",
+          "para": 394,
+          "snippet": "realm"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 71,
+          "snippet": "kingdom"
+        },
+        {
+          "work": "gleanings",
+          "para": 313,
+          "snippet": "heavenly gem"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 69,
+          "snippet": "realms"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 28,
+          "snippet": "righteous"
+        },
+        {
+          "work": "gleanings",
+          "para": 171,
+          "snippet": "by the heavenly power"
+        },
+        {
+          "work": "gleanings",
+          "para": 59,
+          "snippet": "Lord"
+        }
+      ]
+    }
+  ],
+  "section_index": "100",
+  "section": "100",
+  "section_para": 1
 }

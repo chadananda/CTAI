@@ -1,10 +1,385 @@
 {
   "work": "Fire Tablet",
   "slug": "fire-tablet",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 7,
   "source_text": "قَدْ أَخَذَتِ البُرُوْدَةُ كُلَّ البَرِيَّةِ أَيْنَ حَرَارَةُ مَحَبَّتِكَ يَا نَارَ العَالَمِيْنَ *",
   "translation": "Coldness hath gripped all mankind: Where is the warmth of Thy love, O Fire of the worlds?",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "fire-of-the-worlds",
+  "alignment": [
+    {
+      "ar": "أَخَذَتِ",
+      "en": "hath gripped"
+    },
+    {
+      "ar": "البُرُوْدَةُ",
+      "en": "Coldness"
+    },
+    {
+      "ar": "أَيْنَ",
+      "en": "Where"
+    },
+    {
+      "ar": "حَرَارَةُ",
+      "en": "warmth"
+    },
+    {
+      "ar": "نَارَ",
+      "en": "Fire"
+    },
+    {
+      "ar": "العَالَمِيْنَ",
+      "en": "the worlds"
+    }
+  ],
+  "terms": [
+    {
+      "term": "اخذت",
+      "transliteration": "ʾ-kh-dh",
+      "literal": "to take; to seize; to affect",
+      "se_rendering": "hath gripped",
+      "note": "Among 27 occurrences spanning juridical and figurative senses, 'hath gripped' captures the affective 'to seize' meaning; contrasts with 'laid hold on' and 'requite' variants elsewhere.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "nor idle talk"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 36,
+          "snippet": "not to requite them"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 230,
+          "snippet": "turneth them to ridicule"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 63,
+          "snippet": "laid hold on them"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 5,
+          "snippet": "am so carried away by"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 778,
+          "snippet": "comprehend"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 122,
+          "snippet": "carried away"
+        },
+        {
+          "work": "gleanings",
+          "para": 241,
+          "snippet": "cast behind"
+        }
+      ]
+    },
+    {
+      "term": "البُرُوْدَةُ",
+      "transliteration": "b-r-d",
+      "literal": "brother",
+      "se_rendering": "Coldness",
+      "note": "Root b-r-d typically renders as 'brother' (22 occ). 'Coldness' is exceptional—a metaphorical extension SE employs to convey spiritual desolation, not literal kinship.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 40,
+          "snippet": "brother"
+        },
+        {
+          "work": "gleanings",
+          "para": 550,
+          "snippet": "my brother"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 144,
+          "snippet": "breaketh"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 86,
+          "snippet": "open"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 142,
+          "snippet": "forbearance"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 189,
+          "snippet": "obtain"
+        },
+        {
+          "work": "gleanings",
+          "para": 191,
+          "snippet": "shake off"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 81,
+          "snippet": "Take"
+        }
+      ]
+    },
+    {
+      "term": "البَرِيَّةِ",
+      "transliteration": "b-r-y",
+      "literal": "high; exalted; upper",
+      "se_rendering": "mankind",
+      "note": "Root b-r-y primarily means 'high' or 'exalted' (8 occ) with renderings like 'brought forth' and 'creation.' 'Mankind' here represents SE's broadest sense extension, treating it as 'created beings.'",
+      "cross_refs": [
+        {
+          "work": "the-hidden-words",
+          "para": 92,
+          "snippet": "highest"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 10,
+          "snippet": "forth came"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 30,
+          "snippet": "brought forth to the light"
+        },
+        {
+          "work": "gleanings",
+          "para": 686,
+          "snippet": "I have brought forth and revealed"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 149,
+          "snippet": "come forth"
+        },
+        {
+          "work": "gleanings",
+          "para": 214,
+          "snippet": "creation"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 213,
+          "snippet": "wilderness"
+        },
+        {
+          "work": "gleanings",
+          "para": 378,
+          "snippet": "Creator"
+        }
+      ]
+    },
+    {
+      "term": "حَرَارَةُ",
+      "transliteration": "h-r-r",
+      "literal": "to set free; to write down; to compose",
+      "se_rendering": "warmth",
+      "note": "Root h-r-r typically renders as 'to write' or 'set free' (12 occ). 'Warmth' is rare—SE employs the latent sense 'heat' only here, creating emotional counterpoint to 'coldness.'",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 179,
+          "snippet": "in setting down"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 38,
+          "snippet": "to write"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 135,
+          "snippet": "the righteous"
+        },
+        {
+          "work": "gleanings",
+          "para": 395,
+          "snippet": "letters"
+        },
+        {
+          "work": "gleanings",
+          "para": 197,
+          "snippet": "heat"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 80,
+          "snippet": "the heat"
+        },
+        {
+          "work": "gleanings",
+          "para": 345,
+          "snippet": "the art of writing"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 192,
+          "snippet": "setting down"
+        }
+      ]
+    },
+    {
+      "term": "محبتک",
+      "transliteration": "ḥ-b-b",
+      "literal": "love; affection",
+      "se_rendering": "love",
+      "note": "Predominantly 'beloved of the Lord' or 'loved ones' (92 occ). Direct 'love' is sparse—this renders محبّة as abstract divine attribute rather than SEʼs customary relational noun form.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 3,
+          "snippet": "beloved of the Lord"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 53,
+          "snippet": "loved ones of the Lord"
+        },
+        {
+          "work": "gleanings",
+          "para": 341,
+          "snippet": "loved ones of God"
+        },
+        {
+          "work": "gleanings",
+          "para": 689,
+          "snippet": "beloved of the one true God"
+        },
+        {
+          "work": "gleanings",
+          "para": 640,
+          "snippet": "loved ones"
+        },
+        {
+          "work": "gleanings",
+          "para": 690,
+          "snippet": "beloved of God"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 39,
+          "snippet": "His loved ones"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 10,
+          "snippet": "love for Thee"
+        }
+      ]
+    },
+    {
+      "term": "نار",
+      "transliteration": "n-w-r",
+      "literal": "light; illumination",
+      "se_rendering": "Fire",
+      "note": "Consistently 'light' or 'Light' across 78 occurrences. 'Fire' here uniquely preserves the Arabic's literal sense while functioning metaphorically, intensifying the devotional address.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 3,
+          "snippet": "light"
+        },
+        {
+          "work": "gleanings",
+          "para": 230,
+          "snippet": "Orb of Light"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 114,
+          "snippet": "with the light"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 109,
+          "snippet": "Thy light"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 246,
+          "snippet": "Illumine"
+        },
+        {
+          "work": "gleanings",
+          "para": 235,
+          "snippet": "glory"
+        },
+        {
+          "work": "gleanings",
+          "para": 597,
+          "snippet": "fire"
+        },
+        {
+          "work": "gleanings",
+          "para": 458,
+          "snippet": "fire of God"
+        }
+      ]
+    },
+    {
+      "term": "العالمین",
+      "transliteration": "ʿ-l-m",
+      "literal": "world; universe; the worlds",
+      "se_rendering": "the worlds",
+      "note": "Ranges across 'world,' 'mankind,' 'all worlds' (141 occ). 'The worlds' preserves the dual/plural form and cosmological scope, distinguishing this from the anthropocentric 'mankind' four words prior.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 198,
+          "snippet": "world"
+        },
+        {
+          "work": "gleanings",
+          "para": 657,
+          "snippet": "all worlds"
+        },
+        {
+          "work": "gleanings",
+          "para": 182,
+          "snippet": "mankind"
+        },
+        {
+          "work": "gleanings",
+          "para": 183,
+          "snippet": "the whole world"
+        },
+        {
+          "work": "gleanings",
+          "para": 226,
+          "snippet": "all earthly defilements"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 28,
+          "snippet": "knowledge"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 122,
+          "snippet": "commentators"
+        },
+        {
+          "work": "gleanings",
+          "para": 38,
+          "snippet": "understanding"
+        }
+      ]
+    }
+  ],
+  "section_index": "8",
+  "section": "8",
+  "section_para": 1
 }

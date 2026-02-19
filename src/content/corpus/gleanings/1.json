@@ -1,10 +1,451 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 1,
   "source_text": "سبحانك اللّهم يا إلهي كيف أذكرك بعد الّذي أيقنت بأنّ ألسن العارفين كلّت عن ذكرك وثنائك ومنعت طيور أفئدة المشتاقين عن الصّعود إلى سمآءِ عزّك وعرفانك ل",
   "translation": "Lauded and glorified art Thou, O Lord, my God! How can I make mention of Thee, assured as I am that no tongue, however deep its wisdom, can befittingly magnify Thy name, nor can the bird of the human heart, however great its longing, ever hope to ascend into the heaven of Thy majesty and knowledge.",
   "source_lang": "ar",
-  "score": 9.3
+  "score": 9.3,
+  "page_slug": "bird-human-heart-heaven-majesty",
+  "alignment": [
+    {
+      "ar": "سبحانك",
+      "en": "Lauded and glorified art Thou"
+    },
+    {
+      "ar": "اللّهم",
+      "en": "O Lord"
+    },
+    {
+      "ar": "إلهي",
+      "en": "my God"
+    },
+    {
+      "ar": "كيف",
+      "en": "How"
+    },
+    {
+      "ar": "أذكرك",
+      "en": "make mention of Thee"
+    },
+    {
+      "ar": "أيقنت",
+      "en": "assured"
+    },
+    {
+      "ar": "ألسن",
+      "en": "tongue"
+    },
+    {
+      "ar": "العارفين",
+      "en": "wisdom"
+    },
+    {
+      "ar": "كلّت",
+      "en": "can befittingly magnify"
+    },
+    {
+      "ar": "ذكرك",
+      "en": "Thy name"
+    },
+    {
+      "ar": "ثنائك",
+      "en": "magnify"
+    },
+    {
+      "ar": "منعت",
+      "en": "ever hope"
+    },
+    {
+      "ar": "طيور",
+      "en": "bird"
+    },
+    {
+      "ar": "أفئدة",
+      "en": "heart"
+    },
+    {
+      "ar": "المشتاقين",
+      "en": "longing"
+    },
+    {
+      "ar": "الصّعود",
+      "en": "ascend"
+    },
+    {
+      "ar": "سمآءِ",
+      "en": "heaven"
+    },
+    {
+      "ar": "عزّك",
+      "en": "Thy majesty"
+    },
+    {
+      "ar": "عرفانك",
+      "en": "knowledge"
+    }
+  ],
+  "terms": [
+    {
+      "term": "سبحانك",
+      "transliteration": "s-b-ḥ",
+      "literal": "glorified; the All-Praised; exalted",
+      "se_rendering": "Lauded and glorified art Thou",
+      "note": "Typically rendered 'Glorified art Thou' or 'All-Praised.' SE employs dual 'Lauded and glorified'—a rare compounding that amplifies devotional intensity beyond singular glorification formulas.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 13,
+          "snippet": "the breezes of the All-Glorious"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 42,
+          "snippet": "Gracious God"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 90,
+          "snippet": "Great God"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 62,
+          "snippet": "Glorified art Thou"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 15,
+          "snippet": "veil of vain imaginings"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 14,
+          "snippet": "veiled by evil suggestions"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 175,
+          "snippet": "veils of glory"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 254,
+          "snippet": "Lauded and glorified art Thou"
+        }
+      ]
+    },
+    {
+      "term": "ألسن",
+      "transliteration": "l-s-n",
+      "literal": "tongue; language",
+      "se_rendering": "tongue",
+      "note": "Standard 'tongue' rendering. Here it anchors the paradox: human speech itself (not mere ignorance) proves inadequate to praise the Divine.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 36,
+          "snippet": "with my tongue"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 745,
+          "snippet": "tongue"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 43,
+          "snippet": "sword of your tongue"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 62,
+          "snippet": "the tongues"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 786,
+          "snippet": "tongues"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 101,
+          "snippet": "in word"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 194,
+          "snippet": "their lying tongues"
+        }
+      ]
+    },
+    {
+      "term": "العارفین",
+      "transliteration": "ʿ-r-f",
+      "literal": "to confess; to acknowledge; to recognize",
+      "se_rendering": "no tongue, however deep its wisdom",
+      "note": "Root means 'those who recognize/acknowledge' but SE renders the phrase as 'no tongue, however deep its wisdom'—substituting epistemic recognition with oratorical limitation, shifting from knowers to speakers.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 601,
+          "snippet": "testifieth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 729,
+          "snippet": "hath acknowledged"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 582,
+          "snippet": "have recognized"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 228,
+          "snippet": "acknowledged"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 744,
+          "snippet": "understanding"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 5,
+          "snippet": "acknowledging"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 4,
+          "snippet": "fragrance of His garment"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 114,
+          "snippet": "Thy knowledge"
+        }
+      ]
+    },
+    {
+      "term": "ومنعت",
+      "transliteration": "m-n-ʿ",
+      "literal": "forbidden; prevented; deprived",
+      "se_rendering": "can",
+      "note": "Normally 'prevented' or 'deprived.' SE omits this verb entirely in translation, absorbing its semantic weight into 'nor can'—a condensation that obscures the Arabic's explicit barrier imagery.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "forbidden"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 56,
+          "snippet": "hindrance"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 674,
+          "snippet": "which have hindered me"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 89,
+          "snippet": "was powerless to deter"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 628,
+          "snippet": "have failed to deter"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 193,
+          "snippet": "prevented them"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 74,
+          "snippet": "withhold"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 108,
+          "snippet": "strove to hinder"
+        }
+      ]
+    },
+    {
+      "term": "طيور",
+      "transliteration": "t-y-r",
+      "literal": "bird; birds; flying creature",
+      "se_rendering": "bird",
+      "note": "Typically 'bird' or 'soared.' SE uses singular 'bird' metaphorically for the heart's aspiration—preserving the zoomorphic imagery while softening the plural's collective force.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 13,
+          "snippet": "bird"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 39,
+          "snippet": "soared"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 156,
+          "snippet": "soar"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 156,
+          "snippet": "explore"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 205,
+          "snippet": "Birds"
+        }
+      ]
+    },
+    {
+      "term": "الصّعود",
+      "transliteration": "s-ʿ-d",
+      "literal": "ascent; ascension; rising; elevation",
+      "se_rendering": "ascend",
+      "note": "Usually 'ascend' or 'ascension.' Here SE renders 'ascend' to complete the vertical metaphor initiated by 'heaven'—maintaining mystical topography rather than alternative senses like 'death' or 'passing.'",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 240,
+          "snippet": "ascend"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 18,
+          "snippet": "his passing"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 187,
+          "snippet": "are raised"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 210,
+          "snippet": "Get thee up"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 749,
+          "snippet": "raise them"
+        }
+      ]
+    },
+    {
+      "term": "سمآء",
+      "transliteration": "s-m-w",
+      "literal": "heaven; sky",
+      "se_rendering": "heaven",
+      "note": "Standard 'heaven.' SE opts for singular definiteness ('the heaven') to intensify the singular destination of the heart's flight, rather than plural 'heavens.'",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 594,
+          "snippet": "the heavens"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 52,
+          "snippet": "heaven"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 53,
+          "snippet": "heavenly Grace"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 177,
+          "snippet": "heavenly Books"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 98,
+          "snippet": "heavenly Gospel"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 123,
+          "snippet": "the grace of God and the mercy of his Lord"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 397,
+          "snippet": "the kingdoms of earth and heaven"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 534,
+          "snippet": "earth and heaven"
+        }
+      ]
+    },
+    {
+      "term": "عزّك",
+      "transliteration": "ʿ-z-z",
+      "literal": "glory; might; honor; dignity; power; majesty",
+      "se_rendering": "majesty",
+      "note": "Typically 'glory' or 'honor' (49 occurrences). SE chooses 'majesty'—a more sovereign, transcendent rendering that elevates divine dignity beyond abstract splendor toward regal sublimity.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 245,
+          "snippet": "glory"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 491,
+          "snippet": "exalted"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 99,
+          "snippet": "Dear"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 38,
+          "snippet": "dearly beloved"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 37,
+          "snippet": "Gracious"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 162,
+          "snippet": "Mighty"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 789,
+          "snippet": "Thy glory"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 158,
+          "snippet": "on thy glory"
+        }
+      ]
+    }
+  ],
+  "section_index": "I.1",
+  "section": "I",
+  "section_para": 1
 }

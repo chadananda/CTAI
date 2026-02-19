@@ -1,10 +1,660 @@
 {
   "work": "Epistle to the Son of the Wolf",
   "slug": "epistle-to-the-son-of-the-wolf",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 30,
   "source_text": "اقبل بقلبک الی شطر کعبة اللّه المهيمن القيّوم * ثمّ ارفع يديک باستقامة ترتفع بها ايادی الممکنات الی سماء فضل اللّه ربّ العالمين * ثمّ وجّه اليه بتوجّه تتوجّه به الکائنات الی افقه المشرق المنير * و قل ای ربّ ترانی مقبلا الی سماء جودک و بحر عطائک و معرضا عن دونک * اسألک بتجلّيات نيّر ظهورک فی الطّور و باشراقات شمس فضلک من افق اسمک الغفور ان تغفر لی و ارحمني ثمّ اکتب لی من قلمک الاعلی ما يرفعنی باسمک فی ناسوت الانشاء * ای ربّ وفّقنی علی التّوجّه اليک و اصغاء نداء اوليائک الّذين ما اضعفتهم قوّة العالم و ما منعتهم سطوة الامم اقبلوا و قالوا اللّه ربّنا و ربّ من فی السّموات و الارضين *",
   "translation": "Set thine heart towards Him Who is the Kaaba of God, the Help in Peril, the Self-Subsisting, and raise thou thine hands with such firm conviction as shall cause the hands of all created things to be lifted up towards the heaven of the grace of God, the Lord of all worlds. Turn, then, thy face towards Him in such wise that the faces of all beings will turn in the direction of His shining and luminous Horizon, and say: \"Thou seest me, O my Lord, with my face turned towards the heaven of Thy bounty and the ocean of Thy favor, withdrawn from all else beside Thee. I ask of Thee, by the splendors of the Sun of Thy revelation on Sinai, and the effulgences of the Orb of Thy grace which shineth from the horizon of Thy Name, the Ever-Forgiving, to grant me Thy pardon and to have mercy upon me. Write down, then, for me with Thy pen of glory that which will exalt me through Thy Name in the world of creation. Aid me, O my Lord, to set myself towards Thee, and to hearken unto the voice of Thy loved ones, whom the powers of the earth have failed to weaken, and the dominion of the nations has been powerless to withhold from Thee, and who, advancing towards Thee, have said: \\‘God is our Lord, the Lord of all who are in heaven and all who are on earth!'\"",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "heaven-bounty-ocean-favor",
+  "alignment": [
+    {
+      "ar": "اقبل",
+      "en": "Set"
+    },
+    {
+      "ar": "بقلبک",
+      "en": "thine heart"
+    },
+    {
+      "ar": "الی",
+      "en": "towards"
+    },
+    {
+      "ar": "کعبة",
+      "en": "Kaaba"
+    },
+    {
+      "ar": "اللّه",
+      "en": "God"
+    },
+    {
+      "ar": "المهيمن",
+      "en": "Help in Peril"
+    },
+    {
+      "ar": "القيّوم",
+      "en": "Self-Subsisting"
+    },
+    {
+      "ar": "ثمّ",
+      "en": "then"
+    },
+    {
+      "ar": "ارفع",
+      "en": "raise"
+    },
+    {
+      "ar": "يديک",
+      "en": "thine hands"
+    },
+    {
+      "ar": "باستقامة",
+      "en": "with such firm conviction"
+    },
+    {
+      "ar": "ترتفع",
+      "en": "be lifted up"
+    },
+    {
+      "ar": "بها",
+      "en": "shall cause"
+    },
+    {
+      "ar": "ايادی",
+      "en": "hands"
+    },
+    {
+      "ar": "الممکنات",
+      "en": "all created things"
+    },
+    {
+      "ar": "سماء",
+      "en": "heaven"
+    },
+    {
+      "ar": "فضل",
+      "en": "grace"
+    },
+    {
+      "ar": "ربّ",
+      "en": "Lord"
+    },
+    {
+      "ar": "العالمين",
+      "en": "all worlds"
+    },
+    {
+      "ar": "وجّه",
+      "en": "Turn"
+    },
+    {
+      "ar": "اليه",
+      "en": "towards Him"
+    },
+    {
+      "ar": "بتوجّه",
+      "en": "in such wise"
+    },
+    {
+      "ar": "تتوجّه",
+      "en": "will turn"
+    },
+    {
+      "ar": "به",
+      "en": "that"
+    },
+    {
+      "ar": "الکائنات",
+      "en": "all beings"
+    },
+    {
+      "ar": "الی",
+      "en": "in the direction"
+    },
+    {
+      "ar": "افقه",
+      "en": "Horizon"
+    },
+    {
+      "ar": "المشرق",
+      "en": "shining"
+    },
+    {
+      "ar": "المنير",
+      "en": "luminous"
+    },
+    {
+      "ar": "قل",
+      "en": "say"
+    },
+    {
+      "ar": "ای",
+      "en": "O"
+    },
+    {
+      "ar": "ربّ",
+      "en": "my Lord"
+    },
+    {
+      "ar": "ترانی",
+      "en": "Thou seest me"
+    },
+    {
+      "ar": "مقبلا",
+      "en": "turned"
+    },
+    {
+      "ar": "جودک",
+      "en": "Thy bounty"
+    },
+    {
+      "ar": "بحر",
+      "en": "ocean"
+    },
+    {
+      "ar": "عطائک",
+      "en": "Thy favor"
+    },
+    {
+      "ar": "معرضا",
+      "en": "withdrawn"
+    },
+    {
+      "ar": "عن",
+      "en": "from"
+    },
+    {
+      "ar": "دونک",
+      "en": "all else beside Thee"
+    },
+    {
+      "ar": "اسألک",
+      "en": "I ask of Thee"
+    },
+    {
+      "ar": "بتجلّيات",
+      "en": "by the splendors"
+    },
+    {
+      "ar": "نيّر",
+      "en": "Sun"
+    },
+    {
+      "ar": "ظهورک",
+      "en": "Thy revelation"
+    },
+    {
+      "ar": "فی",
+      "en": "on"
+    },
+    {
+      "ar": "الطّور",
+      "en": "Sinai"
+    },
+    {
+      "ar": "باشراقات",
+      "en": "effulgences"
+    },
+    {
+      "ar": "شمس",
+      "en": "Orb"
+    },
+    {
+      "ar": "فضلک",
+      "en": "Thy grace"
+    },
+    {
+      "ar": "افق",
+      "en": "horizon"
+    },
+    {
+      "ar": "اسمک",
+      "en": "Thy Name"
+    },
+    {
+      "ar": "الغفور",
+      "en": "Ever-Forgiving"
+    },
+    {
+      "ar": "ان",
+      "en": "to"
+    },
+    {
+      "ar": "تغفر",
+      "en": "grant me Thy pardon"
+    },
+    {
+      "ar": "لی",
+      "en": "me"
+    },
+    {
+      "ar": "ارحمني",
+      "en": "have mercy upon me"
+    },
+    {
+      "ar": "اکتب",
+      "en": "Write down"
+    },
+    {
+      "ar": "لی",
+      "en": "for me"
+    },
+    {
+      "ar": "من",
+      "en": "with"
+    },
+    {
+      "ar": "قلمک",
+      "en": "Thy pen"
+    },
+    {
+      "ar": "الاعلی",
+      "en": "glory"
+    },
+    {
+      "ar": "ما",
+      "en": "that which"
+    },
+    {
+      "ar": "يرفعنی",
+      "en": "will exalt me"
+    },
+    {
+      "ar": "باسمک",
+      "en": "through Thy Name"
+    },
+    {
+      "ar": "فی",
+      "en": "in"
+    },
+    {
+      "ar": "ناسوت",
+      "en": "world"
+    },
+    {
+      "ar": "الانشاء",
+      "en": "creation"
+    },
+    {
+      "ar": "وفّقنی",
+      "en": "Aid me"
+    },
+    {
+      "ar": "التّوجّه",
+      "en": "set myself"
+    },
+    {
+      "ar": "اليک",
+      "en": "towards Thee"
+    },
+    {
+      "ar": "اصغاء",
+      "en": "hearken"
+    },
+    {
+      "ar": "نداء",
+      "en": "voice"
+    },
+    {
+      "ar": "اوليائک",
+      "en": "Thy loved ones"
+    },
+    {
+      "ar": "الّذين",
+      "en": "whom"
+    },
+    {
+      "ar": "ما",
+      "en": "have"
+    },
+    {
+      "ar": "اضعفتهم",
+      "en": "failed to weaken"
+    },
+    {
+      "ar": "قوّة",
+      "en": "powers"
+    },
+    {
+      "ar": "العالم",
+      "en": "earth"
+    },
+    {
+      "ar": "ما",
+      "en": "has been"
+    },
+    {
+      "ar": "منعتهم",
+      "en": "powerless to withhold"
+    },
+    {
+      "ar": "سطوة",
+      "en": "dominion"
+    },
+    {
+      "ar": "الامم",
+      "en": "nations"
+    },
+    {
+      "ar": "اقبلوا",
+      "en": "advancing"
+    },
+    {
+      "ar": "قالوا",
+      "en": "said"
+    },
+    {
+      "ar": "ربّنا",
+      "en": "our Lord"
+    },
+    {
+      "ar": "من",
+      "en": "of all who"
+    },
+    {
+      "ar": "الارضين",
+      "en": "on earth"
+    }
+  ],
+  "terms": [
+    {
+      "term": "معرضا",
+      "transliteration": "ʿ-r-d",
+      "literal": "to turn away; to avert; to abstain; heedless",
+      "se_rendering": "withdrawn",
+      "note": "Typically 'turned away', 'turned aside', 'turned their backs' across 47 occurrences, denoting culpable aversion. 'Withdrawn' here preserves negation but softens moral judgment, framing retreat as spiritual ascesis rather than rejection.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 182,
+          "snippet": "turned away"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 505,
+          "snippet": "turned their backs"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 89,
+          "snippet": "objections"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 431,
+          "snippet": "have turned back"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 104,
+          "snippet": "are turned back"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 14,
+          "snippet": "turns away"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 487,
+          "snippet": "turned back"
+        },
+        {
+          "work": "gleanings",
+          "para": 108,
+          "snippet": "rejection"
+        }
+      ]
+    },
+    {
+      "term": "ظهورک",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "revelation",
+      "note": "Typically 'Manifestation' or 'manifestation' across 96 occurrences. Here rendered as 'revelation' to emphasize the theophanic disclosure on Sinai, aligning with prophetic rather than existential dimensions.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 53,
+          "snippet": "Manifestation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 160,
+          "snippet": "Author of all Manifestations"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 136,
+          "snippet": "evident"
+        },
+        {
+          "work": "gleanings",
+          "para": 222,
+          "snippet": "material"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 196,
+          "snippet": "Manifestations of God"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 255,
+          "snippet": "Manifestations"
+        }
+      ]
+    },
+    {
+      "term": "قلمک",
+      "transliteration": "q-l-m",
+      "literal": "pen; writing instrument",
+      "se_rendering": "pen of glory",
+      "note": "Usually 'the Pen of the Most High', 'the Most Sublime Pen', or direct 'Pen' forms across 25 occurrences. Unique rendering as 'pen of glory' imports superlative via glory-attribute rather than explicit rank designation.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 100,
+          "snippet": "the Pen of the Most High"
+        },
+        {
+          "work": "gleanings",
+          "para": 619,
+          "snippet": "My Pen"
+        },
+        {
+          "work": "gleanings",
+          "para": 393,
+          "snippet": "Pen of the Most High"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 280,
+          "snippet": "Pen"
+        },
+        {
+          "work": "gleanings",
+          "para": 319,
+          "snippet": "pens"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 85,
+          "snippet": "standards"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 13,
+          "snippet": "ensigns"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 68,
+          "snippet": "with the pen of might"
+        }
+      ]
+    },
+    {
+      "term": "الاعلی",
+      "transliteration": "ʿ-l-w",
+      "literal": "highest; most high; supreme",
+      "se_rendering": "glory",
+      "note": "Predominantly 'the Most High' or 'the Most Sublime Pen' across 74 occurrences. SE renders here as 'glory' only, stripping superlative force to emphasize instrumental writing power rather than ontological transcendence.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 1,
+          "snippet": "the Most High"
+        },
+        {
+          "work": "gleanings",
+          "para": 232,
+          "snippet": "supreme"
+        },
+        {
+          "work": "gleanings",
+          "para": 616,
+          "snippet": "the realms above"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 390,
+          "snippet": "the Most Exalted, the Most High"
+        },
+        {
+          "work": "gleanings",
+          "para": 393,
+          "snippet": "The Pen of the Most High"
+        },
+        {
+          "work": "gleanings",
+          "para": 697,
+          "snippet": "the Dayspring of Glory"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 1,
+          "snippet": "the Realm of Glory"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 257,
+          "snippet": "the Báb, the Lord, the most exalted"
+        }
+      ]
+    },
+    {
+      "term": "وفّقنی",
+      "transliteration": "w-f-q",
+      "literal": "accord, agreement, harmony; to agree, accord with",
+      "se_rendering": "Aid me",
+      "note": "Standard renderings across 33 occurrences are 'in concert with', 'accord', 'by the agreement'. SE's 'Aid me' converts abstract harmony-language into direct imperative assistance, emphasizing divine action over metaphysical alignment.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 7,
+          "snippet": "in concert with"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 10,
+          "snippet": "assist me"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 547,
+          "snippet": "accord"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 19,
+          "snippet": "by the agreement"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 26,
+          "snippet": "Assist"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 210,
+          "snippet": "Aid"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 229,
+          "snippet": "hast aided"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 251,
+          "snippet": "agree with"
+        }
+      ]
+    },
+    {
+      "term": "اوليائک",
+      "transliteration": "w-l-y",
+      "literal": "guardian; protector; friend; ally",
+      "se_rendering": "loved ones",
+      "note": "Typically 'Guardian', 'Imams', 'Chosen ones', or 'Thy Saints' across 47 occurrences. 'Loved ones' here softens hierarchical or institutional resonance, privileging affectionate proximity over formal spiritual station.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 17,
+          "snippet": "Guardian"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 49,
+          "snippet": "arrows of distress have rained"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 6,
+          "snippet": "loved ones"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 176,
+          "snippet": "Chosen ones"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 45,
+          "snippet": "Thy Saints"
+        },
+        {
+          "work": "gleanings",
+          "para": 95,
+          "snippet": "chosen Ones of God"
+        },
+        {
+          "work": "gleanings",
+          "para": 716,
+          "snippet": "His loved ones"
+        },
+        {
+          "work": "tablet-of-carmel",
+          "para": 5,
+          "snippet": "Lord of all mankind"
+        }
+      ]
+    }
+  ],
+  "section_index": "30",
+  "section": "30",
+  "section_para": 1
 }

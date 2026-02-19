@@ -1,10 +1,645 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 111,
   "source_text": "واقع گشته از قبل بکمال تصريح خبر داده و مع آنکه از اهل علم نبوده و بمدارس نرفته و مباحث نديده فنون و علوم ربّانيّه بمثابه غيث هاطل ما بين عباد نازل و جاری شده چگونه بر اعراض و اعتراض قيام نمودند اکثر ايّام در دست اعداء مبتلا و در آخر بظلم مبين در اين سجن عظيم ساکن انشاء اللّه ببصر حديد و قلب منير در آنچه از قبل و بعد ظاهر شده نظر نمائی و تفکّر کنی تا آگاه شوی بر آنچه اليوم اکثر خلق از آن غافلند انشاء اللّه از نفحات ايّام الهی محروم نمانی و از فيوضات نامتناهيه ممنوع نشوی از عنايت حق از بحر اعظم که اليوم باسم مالک قدم در عالم ظاهر است بياشامی و بر امر اللّه مثل جبل ثابت و راسخ و",
   "translation": "Consider this wronged One. Though the clearest proofs attest the truth of His Cause; though the prophecies He, in an unmistakable language, hath made have been fulfilled; though, in spite of His not being accounted among the learned, His being unschooled and inexperienced in the disputations current among the divines, He hath rained upon men the showers of His manifold and Divinely inspired knowledge; yet, behold how this generation hath rejected His authority, and rebelled against Him! He hath, during the greater part of His life, been sore-tried in the clutches of His enemies. His sufferings have now reached their culmination in this afflictive Prison, into which His oppressors have so unjustly thrown Him. God grant that, with a penetrating vision and radiant heart, thou mayest observe the things that have come to pass and are now happening, and, pondering them in thine heart, mayest recognize that which most men have, in this Day, failed to perceive. Please God, He may enable thee to inhale the sweet fragrance of His Day, to partake of the limitless effusions of His grace, to quaff thy fill, through His gracious favor, from the most great Ocean that surgeth in this Day in the name of the Ancient King, and to remain firm and immovable as the mountain in His Cause.",
   "source_lang": "ar",
-  "score": 9.7
+  "score": 9.7,
+  "page_slug": "penetrating-vision-radiant-heart",
+  "alignment": [
+    {
+      "ar": "واقع گشته",
+      "en": "have been fulfilled"
+    },
+    {
+      "ar": "از قبل",
+      "en": "the prophecies"
+    },
+    {
+      "ar": "بکمال",
+      "en": "the clearest"
+    },
+    {
+      "ar": "تصريح",
+      "en": "unmistakable"
+    },
+    {
+      "ar": "خبر داده",
+      "en": "hath made"
+    },
+    {
+      "ar": "مع",
+      "en": "Though"
+    },
+    {
+      "ar": "آنکه",
+      "en": "in spite of"
+    },
+    {
+      "ar": "از اهل علم",
+      "en": "among the learned"
+    },
+    {
+      "ar": "نبوده",
+      "en": "not being accounted"
+    },
+    {
+      "ar": "بمدارس",
+      "en": "unschooled"
+    },
+    {
+      "ar": "مباحث",
+      "en": "disputations"
+    },
+    {
+      "ar": "نديده",
+      "en": "inexperienced"
+    },
+    {
+      "ar": "فنون و علوم",
+      "en": "knowledge"
+    },
+    {
+      "ar": "ربّانيّه",
+      "en": "Divinely inspired"
+    },
+    {
+      "ar": "بمثابه",
+      "en": "the showers"
+    },
+    {
+      "ar": "غيث",
+      "en": "showers"
+    },
+    {
+      "ar": "هاطل",
+      "en": "rained"
+    },
+    {
+      "ar": "ما بين",
+      "en": "upon"
+    },
+    {
+      "ar": "عباد",
+      "en": "men"
+    },
+    {
+      "ar": "چگونه",
+      "en": "yet, behold how"
+    },
+    {
+      "ar": "بر",
+      "en": "against"
+    },
+    {
+      "ar": "اعراض",
+      "en": "rejected"
+    },
+    {
+      "ar": "اعتراض",
+      "en": "rebelled"
+    },
+    {
+      "ar": "اکثر",
+      "en": "the greater part"
+    },
+    {
+      "ar": "ايّام",
+      "en": "His life"
+    },
+    {
+      "ar": "در دست",
+      "en": "in the clutches"
+    },
+    {
+      "ar": "اعداء",
+      "en": "His enemies"
+    },
+    {
+      "ar": "مبتلا",
+      "en": "sore-tried"
+    },
+    {
+      "ar": "در آخر",
+      "en": "now"
+    },
+    {
+      "ar": "بظلم",
+      "en": "unjustly"
+    },
+    {
+      "ar": "در",
+      "en": "into"
+    },
+    {
+      "ar": "اين",
+      "en": "this"
+    },
+    {
+      "ar": "سجن",
+      "en": "Prison"
+    },
+    {
+      "ar": "عظيم",
+      "en": "afflictive"
+    },
+    {
+      "ar": "ساکن",
+      "en": "thrown"
+    },
+    {
+      "ar": "انشاء اللّه",
+      "en": "God grant"
+    },
+    {
+      "ar": "ببصر",
+      "en": "vision"
+    },
+    {
+      "ar": "حديد",
+      "en": "penetrating"
+    },
+    {
+      "ar": "قلب",
+      "en": "heart"
+    },
+    {
+      "ar": "منير",
+      "en": "radiant"
+    },
+    {
+      "ar": "در آنچه",
+      "en": "the things that"
+    },
+    {
+      "ar": "از قبل و بعد",
+      "en": "have come to pass and are now happening"
+    },
+    {
+      "ar": "ظاهر شده",
+      "en": "happening"
+    },
+    {
+      "ar": "نظر نمائی",
+      "en": "observe"
+    },
+    {
+      "ar": "تفکّر کنی",
+      "en": "pondering"
+    },
+    {
+      "ar": "تا",
+      "en": "that"
+    },
+    {
+      "ar": "آگاه شوی",
+      "en": "mayest recognize"
+    },
+    {
+      "ar": "بر آنچه",
+      "en": "that which"
+    },
+    {
+      "ar": "اليوم",
+      "en": "in this Day"
+    },
+    {
+      "ar": "اکثر خلق",
+      "en": "most men"
+    },
+    {
+      "ar": "از آن",
+      "en": "to perceive"
+    },
+    {
+      "ar": "غافلند",
+      "en": "failed to perceive"
+    },
+    {
+      "ar": "انشاء اللّه",
+      "en": "Please God"
+    },
+    {
+      "ar": "از نفحات",
+      "en": "the sweet fragrance"
+    },
+    {
+      "ar": "ايّام الهی",
+      "en": "His Day"
+    },
+    {
+      "ar": "محروم نمانی",
+      "en": "may enable thee to inhale"
+    },
+    {
+      "ar": "از فيوضات",
+      "en": "the limitless effusions"
+    },
+    {
+      "ar": "نامتناهيه",
+      "en": "limitless"
+    },
+    {
+      "ar": "ممنوع نشوی",
+      "en": "to partake"
+    },
+    {
+      "ar": "از عنايت",
+      "en": "His gracious favor"
+    },
+    {
+      "ar": "حق",
+      "en": "His"
+    },
+    {
+      "ar": "از بحر اعظم",
+      "en": "the most great Ocean"
+    },
+    {
+      "ar": "باسم",
+      "en": "in the name of"
+    },
+    {
+      "ar": "مالک قدم",
+      "en": "the Ancient King"
+    },
+    {
+      "ar": "در عالم",
+      "en": "surgeth"
+    },
+    {
+      "ar": "بياشامی",
+      "en": "to quaff thy fill"
+    },
+    {
+      "ar": "بر امر اللّه",
+      "en": "in His Cause"
+    },
+    {
+      "ar": "مثل",
+      "en": "as"
+    },
+    {
+      "ar": "جبل",
+      "en": "the mountain"
+    },
+    {
+      "ar": "ثابت",
+      "en": "firm"
+    },
+    {
+      "ar": "راسخ",
+      "en": "immovable"
+    }
+  ],
+  "terms": [
+    {
+      "term": "اعراض",
+      "transliteration": "ʿ-r-d",
+      "literal": "to turn away; to avert; to abstain; heedless",
+      "se_rendering": "rejected His authority",
+      "note": "Root ع-ر-ض typically means 'turned away' or 'turned aside' (47 occ). Here 'rejected His authority, and rebelled' captures active rebellion rather than passive aversion.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 136,
+          "snippet": "turned away"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 168,
+          "snippet": "turned aside"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 230,
+          "snippet": "disbelievers"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 505,
+          "snippet": "turned their backs"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 89,
+          "snippet": "objections"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 431,
+          "snippet": "have turned back"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 29,
+          "snippet": "hast turned away"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 104,
+          "snippet": "are turned back"
+        }
+      ]
+    },
+    {
+      "term": "بظلم",
+      "transliteration": "z-l-m",
+      "literal": "wrongedness, oppression, meekness; state of being wronged or oppressed",
+      "se_rendering": "afflictive",
+      "note": "Root ظ-ل-م usually 'Wronged One' or 'wronged' (128 occ). Singular 'afflictive' applied to Prison itself, shifting focus from the sufferer to the place of suffering.",
+      "cross_refs": [
+        {
+          "work": "fire-tablet",
+          "para": 49,
+          "snippet": "meekness"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 116,
+          "snippet": "injury"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 36,
+          "snippet": "Wronged One"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 253,
+          "snippet": "wronged"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 9,
+          "snippet": "Darkness"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 33,
+          "snippet": "tyranny"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 573,
+          "snippet": "oppressed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 181,
+          "snippet": "wronged ones"
+        }
+      ]
+    },
+    {
+      "term": "قلب",
+      "transliteration": "q-l-b",
+      "literal": "heart; to turn; to overturn",
+      "se_rendering": "heart",
+      "note": "Standard rendering 'heart' (60 occ). Paired with 'penetrating vision' to denote dual faculties of perception—inner wisdom and outer sight.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 187,
+          "snippet": "hearts"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 432,
+          "snippet": "their hearts"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 652,
+          "snippet": "heart"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 777,
+          "snippet": "commotion"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 13,
+          "snippet": "tumult"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 30,
+          "snippet": "thine heart"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 4,
+          "snippet": "with a pure heart"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 82,
+          "snippet": "with a sound heart"
+        }
+      ]
+    },
+    {
+      "term": "ظاهر",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "material; evident; revealed",
+      "note": "Typically 'Manifestation' or 'manifestation' (96 occ). Here split into dual occurrence: 'are now happening' and 'in the name of the Ancient King'—preserving the sense of ongoing divine revelation in material appearance.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 140,
+          "snippet": "manifestation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 160,
+          "snippet": "Author of all Manifestations"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 136,
+          "snippet": "evident"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 206,
+          "snippet": "appeared"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 196,
+          "snippet": "Manifestations of God"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 255,
+          "snippet": "Manifestations"
+        }
+      ]
+    },
+    {
+      "term": "ممنوع",
+      "transliteration": "m-n-ʿ",
+      "literal": "forbidden; prevented; deprived",
+      "se_rendering": "deprived",
+      "note": "Root م-ن-ع most often 'forbidden' or 'deprived' (36 occ). Rendered as positive complement 'be not deprived'—inverting prohibition into bestowal of grace.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "forbidden"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 56,
+          "snippet": "hindrance"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 674,
+          "snippet": "which have hindered me"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 89,
+          "snippet": "was powerless to deter"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 628,
+          "snippet": "have failed to deter"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 193,
+          "snippet": "prevented them"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 74,
+          "snippet": "withhold"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 108,
+          "snippet": "strove to hinder"
+        }
+      ]
+    },
+    {
+      "term": "اعظم",
+      "transliteration": "ʿ-z̟-m",
+      "literal": "greatest; supreme; mightiest",
+      "se_rendering": "most great",
+      "note": "Consistently 'Most Great' or 'greatest' (63 occ). Here 'most great Ocean' maintains the superlative but applies it to metaphorical waters of grace rather than names or revelations.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 269,
+          "snippet": "Most Great"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 734,
+          "snippet": "Most Great Name"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 3,
+          "snippet": "greatest"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 6,
+          "snippet": "greater"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 209,
+          "snippet": "Great"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 9,
+          "snippet": "mighty"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 262,
+          "snippet": "glorious"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 88,
+          "snippet": "the Most Great"
+        }
+      ]
+    },
+    {
+      "term": "ثابت",
+      "transliteration": "th-b-t",
+      "literal": "firm; steadfast; established; fixed",
+      "se_rendering": "firm and immovable",
+      "note": "Consistently 'firm' or 'steadfast' (37 occ). 'Firm and immovable as the mountain' adds concrete simile absent in root definition, enriching the English through metaphor.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 5,
+          "snippet": "firm"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 13,
+          "snippet": "fast"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 9,
+          "snippet": "steadfastly"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 784,
+          "snippet": "steadfast"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 53,
+          "snippet": "constancy"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 27,
+          "snippet": "establishment"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 195,
+          "snippet": "fully demonstrated"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 66,
+          "snippet": "established"
+        }
+      ]
+    }
+  ],
+  "section_index": "XXIII.4",
+  "section": "XXIII",
+  "section_para": 4
 }

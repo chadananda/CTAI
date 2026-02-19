@@ -1,10 +1,136 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 205,
   "source_text": "إِنَّكَ أَنْتَ مَولَى العالَمِينَ وَإِلهَ مَنْ فِي السَّمواتِ وَالأَرَضِينَ.",
   "translation": "Thou, in very truth, art the Lord of the worlds, and the God of all that are in heaven and all that are on earth.",
   "source_lang": "ar",
-  "score": 9.9
+  "score": 9.9,
+  "page_slug": "lord-of-the-worlds",
+  "alignment": [
+    {
+      "ar": "أَنْتَ",
+      "en": "in very truth"
+    },
+    {
+      "ar": "مَولَى",
+      "en": "Lord"
+    },
+    {
+      "ar": "العالَمِينَ",
+      "en": "the worlds"
+    },
+    {
+      "ar": "إِلهَ",
+      "en": "God"
+    },
+    {
+      "ar": "الأَرَضِينَ",
+      "en": "earth"
+    }
+  ],
+  "terms": [
+    {
+      "term": "العالَمِينَ",
+      "transliteration": "ʿ-l-m",
+      "literal": "world; universe; the worlds",
+      "se_rendering": "the worlds",
+      "note": "Standard rendering across 141 occurrences. Plural 'worlds' maintains cosmological breadth characteristic of SE's theological vocabulary.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 198,
+          "snippet": "world"
+        },
+        {
+          "work": "gleanings",
+          "para": 657,
+          "snippet": "all worlds"
+        },
+        {
+          "work": "gleanings",
+          "para": 182,
+          "snippet": "mankind"
+        },
+        {
+          "work": "gleanings",
+          "para": 183,
+          "snippet": "the whole world"
+        },
+        {
+          "work": "gleanings",
+          "para": 226,
+          "snippet": "all earthly defilements"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 28,
+          "snippet": "knowledge"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 122,
+          "snippet": "commentators"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 42,
+          "snippet": "banner"
+        }
+      ]
+    },
+    {
+      "term": "السَّمواتِ",
+      "transliteration": "s-m-w",
+      "literal": "heaven; sky",
+      "se_rendering": "heaven",
+      "note": "Standard singular 'heaven' from corpus of 39 occurrences. SE maintains vertical cosmology separating heavenly and earthly realms.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 591,
+          "snippet": "heaven"
+        },
+        {
+          "work": "gleanings",
+          "para": 78,
+          "snippet": "heavens"
+        },
+        {
+          "work": "gleanings",
+          "para": 212,
+          "snippet": "breath"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 53,
+          "snippet": "heavenly Grace"
+        },
+        {
+          "work": "gleanings",
+          "para": 417,
+          "snippet": "heavenly Book"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 177,
+          "snippet": "heavenly Books"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 98,
+          "snippet": "heavenly Gospel"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 123,
+          "snippet": "the grace of God and the mercy of his Lord"
+        }
+      ]
+    }
+  ],
+  "section_index": "LII.3",
+  "section": "LII",
+  "section_para": 3
 }

@@ -1,10 +1,408 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 129,
   "source_text": "نَفَحاتِ قَمِيصِكَ فِيْ أَيَّامِكَ وَلا مِنْ فَوْحاتِ وَحْيِكَ عِنْدَ ظُهُورِ أَنْوارِ وَجْهِكَ، إِنَّكَ أَنْتَ المُقْتَدِرُ عَلَى ما تَشَاءُ لا مانِعَ لِمَشِيَّتِكَ وَلا رَادَّ لِما أَرَدْتَهُ بِقُدْرَتِكَ لا إِلهَ",
   "translation": "Deny me not, O my Lord, the fragrances of Thy raiment in Thy days, and deprive me not of the breathings of Thy Revelation at the appearance of the splendors of the light of Thy face. Powerful art Thou to do what pleaseth Thee. Naught can resist Thy will, nor frustrate what Thou hast purposed by Thy power.",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "fragrances-raiment-splendors-face",
+  "alignment": [
+    {
+      "ar": "نَفَحاتِ",
+      "en": "fragrances"
+    },
+    {
+      "ar": "قَمِيصِكَ",
+      "en": "Thy raiment"
+    },
+    {
+      "ar": "فَوْحاتِ",
+      "en": "breathings"
+    },
+    {
+      "ar": "وَحْيِكَ",
+      "en": "Thy Revelation"
+    },
+    {
+      "ar": "ظُهُورِ",
+      "en": "appearance"
+    },
+    {
+      "ar": "أَنْوارِ",
+      "en": "splendors"
+    },
+    {
+      "ar": "وَجْهِكَ",
+      "en": "light of Thy face"
+    },
+    {
+      "ar": "المُقْتَدِرُ",
+      "en": "Powerful"
+    },
+    {
+      "ar": "تَشَاءُ",
+      "en": "pleaseth Thee"
+    },
+    {
+      "ar": "مانِعَ",
+      "en": "resist"
+    },
+    {
+      "ar": "أَرَدْتَهُ",
+      "en": "purposed"
+    },
+    {
+      "ar": "بِقُدْرَتِكَ",
+      "en": "by Thy power"
+    }
+  ],
+  "terms": [
+    {
+      "term": "نَفَحاتِ",
+      "transliteration": "n-f-h",
+      "literal": "breeze; fragrance; whiff; breath; emanation",
+      "se_rendering": "fragrances",
+      "note": "Root n-f-h typically rendered 'fragrances,' 'breezes,' or 'breaths.' SE chooses 'fragrances' here, aligning with most frequent rendering and creating olfactory imagery.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 73,
+          "snippet": "breezes"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 216,
+          "snippet": "breaths"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 21,
+          "snippet": "Fragrances"
+        },
+        {
+          "work": "gleanings",
+          "para": 116,
+          "snippet": "breath"
+        },
+        {
+          "work": "gleanings",
+          "para": 187,
+          "snippet": "sweet smelling savors"
+        }
+      ]
+    },
+    {
+      "term": "قَمِيصِكَ",
+      "transliteration": "q-m-s",
+      "literal": "garment; shirt; tunic",
+      "se_rendering": "raiment",
+      "note": "Only 4 occurrences corpus-wide. SE renders 'raiment' here instead of 'garment'—archaic plural form elevates the theological register.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 10,
+          "snippet": "my garment"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 4,
+          "snippet": "garment"
+        },
+        {
+          "work": "gleanings",
+          "para": 187,
+          "snippet": "their garment"
+        }
+      ]
+    },
+    {
+      "term": "أَيَّامِكَ",
+      "transliteration": "y-w-m",
+      "literal": "day; age; period; era",
+      "se_rendering": "days",
+      "note": "Root y-w-m permits 'day,' 'age,' 'period,' or 'era.' SE renders 'days' (plural possessive), emphasizing temporal immediacy rather than eschatological age.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 18,
+          "snippet": "this Day"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 176,
+          "snippet": "In this day"
+        },
+        {
+          "work": "gleanings",
+          "para": 341,
+          "snippet": "This is the Day"
+        },
+        {
+          "work": "gleanings",
+          "para": 37,
+          "snippet": "days of Moses"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 14,
+          "snippet": "In these days"
+        },
+        {
+          "work": "gleanings",
+          "para": 261,
+          "snippet": "Days passed"
+        },
+        {
+          "work": "gleanings",
+          "para": 211,
+          "snippet": "the days"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 130,
+          "snippet": "today"
+        }
+      ]
+    },
+    {
+      "term": "ظُهُورِ",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "appearance",
+      "note": "Root z-h-r typically 'Manifestation' or 'manifestation'; SE renders 'appearance' here, a rarer variant (96 occurrences) suggesting phenomenological rather than theological manifestation.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 53,
+          "snippet": "Manifestation"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 136,
+          "snippet": "evident"
+        },
+        {
+          "work": "gleanings",
+          "para": 222,
+          "snippet": "material"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 206,
+          "snippet": "appeared"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 196,
+          "snippet": "Manifestations of God"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 32,
+          "snippet": "overwhelm the soul"
+        }
+      ]
+    },
+    {
+      "term": "أَنْوارِ",
+      "transliteration": "n-w-ʿ",
+      "literal": "type; kind; species",
+      "se_rendering": "splendors",
+      "note": "Root n-w-ʿ lexically means 'types' or 'kinds,' yet SE renders 'splendors'—a metaphorical leap found in only 11 corpus occurrences, treating anwar as light-radiance rather than categories.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 4,
+          "snippet": "all manner of"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 27,
+          "snippet": "light"
+        },
+        {
+          "work": "gleanings",
+          "para": 674,
+          "snippet": "sing ye"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 25,
+          "snippet": "mankind"
+        },
+        {
+          "work": "gleanings",
+          "para": 144,
+          "snippet": "such"
+        },
+        {
+          "work": "gleanings",
+          "para": 515,
+          "snippet": "by the lights"
+        }
+      ]
+    },
+    {
+      "term": "وَجْهِكَ",
+      "transliteration": "w-j-h",
+      "literal": "face; countenance; direction; aspect",
+      "se_rendering": "face",
+      "note": "Root w-j-h permits 'face,' 'countenance,' 'direction,' or 'aspect.' SE's 'face' choice here is literal and direct, prioritizing intimate theophany over abstract direction.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 77,
+          "snippet": "their faces"
+        },
+        {
+          "work": "gleanings",
+          "para": 596,
+          "snippet": "eyes"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 16,
+          "snippet": "unto Mine"
+        },
+        {
+          "work": "gleanings",
+          "para": 273,
+          "snippet": "face"
+        },
+        {
+          "work": "gleanings",
+          "para": 371,
+          "snippet": "turned"
+        },
+        {
+          "work": "gleanings",
+          "para": 275,
+          "snippet": "with white faces"
+        },
+        {
+          "work": "gleanings",
+          "para": 399,
+          "snippet": "with white faces and radiant hearts"
+        },
+        {
+          "work": "gleanings",
+          "para": 249,
+          "snippet": "for the sake of God"
+        }
+      ]
+    },
+    {
+      "term": "المُقْتَدِرُ",
+      "transliteration": "q-d-r",
+      "literal": "power; might; decree; measure; worth",
+      "se_rendering": "Powerful",
+      "note": "Root q-d-r renders variously: 'power,' 'might,' 'decree,' 'measure.' SE renders active participle 'Powerful' rather than 'The All-Powerful' or 'Omnipotent'—emphasizing volitional capacity.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 171,
+          "snippet": "a while"
+        },
+        {
+          "work": "gleanings",
+          "para": 138,
+          "snippet": "hath been decreed"
+        },
+        {
+          "work": "gleanings",
+          "para": 662,
+          "snippet": "hath decreed"
+        },
+        {
+          "work": "gleanings",
+          "para": 496,
+          "snippet": "forbearing towards"
+        },
+        {
+          "work": "gleanings",
+          "para": 111,
+          "snippet": "schools"
+        },
+        {
+          "work": "gleanings",
+          "para": 532,
+          "snippet": "can"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 4,
+          "snippet": "for a moment"
+        },
+        {
+          "work": "gleanings",
+          "para": 112,
+          "snippet": "Thy might"
+        }
+      ]
+    },
+    {
+      "term": "مانِعَ",
+      "transliteration": "m-n-ʿ",
+      "literal": "forbidden; prevented; deprived",
+      "se_rendering": "resist",
+      "note": "Root m-n-ʿ typically 'forbidden,' 'deprived,' or 'hindrance.' SE renders 'resist' here—a dynamic, oppositional rendering rather than the static 'prevented' or 'forbidden.'",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "forbidden"
+        },
+        {
+          "work": "gleanings",
+          "para": 641,
+          "snippet": "deprived"
+        },
+        {
+          "work": "gleanings",
+          "para": 181,
+          "snippet": "be not deprived"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 56,
+          "snippet": "hindrance"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 89,
+          "snippet": "was powerless to deter"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 193,
+          "snippet": "prevented them"
+        },
+        {
+          "work": "gleanings",
+          "para": 314,
+          "snippet": "refused to allow"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 46,
+          "snippet": "deprive not yourselves"
+        }
+      ]
+    }
+  ],
+  "section_index": "XXXVII.3",
+  "section": "XXXVII",
+  "section_para": 3
 }

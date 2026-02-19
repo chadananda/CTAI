@@ -1,10 +1,576 @@
 {
   "work": "Epistle to the Son of the Wolf",
   "slug": "epistle-to-the-son-of-the-wolf",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 76,
   "source_text": "* لعمر اللّه اوهام عباد را از افق ايقان محروم نموده و ظنون از رحيق مختوم منع کرده * براستی ميگويم و لوجه اللّه ميگويم اين عبد و اين مظلوم شرم دارد خود را بهستی و وجود نسبت دهد تا چه رسد بمقامات فوق ان * انسان بصير هر هنگام بر ارض مشی مينمايد خود را خجل مشاهده ميکند چه که بيقين مبين ميداند که علّت نعمت و ثروت و عزّت و علوّ و سموّ و اقتدار او باذن اللّه ارضی است که تحت جميع اقدام عالم است * و نفسيکه باين مقام اگاه شد البتّه از نخوت و کبر و غرور مقدّس و مبرّاست انچه گفته شد من عند اللّه بوده انّه شهد و يشهد و هو العليم الخبير*",
   "translation": "By the righteousness of God! Idle fancies have debarred men from the Horizon of Certitude, and vain imaginings withheld them from the Choice Sealed Wine. In truth I say, and for the sake of God I declare: This Servant, this Wronged One, is abashed to claim for Himself any existence whatever, how much more those exalted grades of being! Every man of discernment, while walking upon the earth, feeleth indeed abashed, inasmuch as he is fully aware that the thing which is the source of his prosperity, his wealth, his might, his exaltation, his advancement and power is, as ordained by God, the very earth which is trodden beneath the feet of all men. There can be no doubt that whoever is cognizant of this truth, is cleansed and sanctified from all pride, arrogance, and vainglory. Whatever hath been said hath come from God. Unto this, He, verily, hath borne, and beareth now, witness, and He, in truth, is the All-Knowing, the All-Informed.",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "idle-fancies-horizon-certitude",
+  "alignment": [
+    {
+      "ar": "لعمر",
+      "en": "By the righteousness"
+    },
+    {
+      "ar": "اللّه",
+      "en": "of God"
+    },
+    {
+      "ar": "اوهام",
+      "en": "Idle fancies"
+    },
+    {
+      "ar": "عباد",
+      "en": "men"
+    },
+    {
+      "ar": "افق",
+      "en": "Horizon"
+    },
+    {
+      "ar": "ايقان",
+      "en": "Certitude"
+    },
+    {
+      "ar": "محروم",
+      "en": "debarred"
+    },
+    {
+      "ar": "ظنون",
+      "en": "vain imaginings"
+    },
+    {
+      "ar": "رحيق",
+      "en": "Wine"
+    },
+    {
+      "ar": "مختوم",
+      "en": "Sealed"
+    },
+    {
+      "ar": "منع",
+      "en": "withheld"
+    },
+    {
+      "ar": "براستی",
+      "en": "In truth"
+    },
+    {
+      "ar": "ميگويم",
+      "en": "I say"
+    },
+    {
+      "ar": "لوجه",
+      "en": "for the sake"
+    },
+    {
+      "ar": "اللّه",
+      "en": "God"
+    },
+    {
+      "ar": "عبد",
+      "en": "Servant"
+    },
+    {
+      "ar": "مظلوم",
+      "en": "Wronged One"
+    },
+    {
+      "ar": "شرم",
+      "en": "abashed"
+    },
+    {
+      "ar": "هستی",
+      "en": "existence"
+    },
+    {
+      "ar": "نسبت",
+      "en": "claim"
+    },
+    {
+      "ar": "مقامات",
+      "en": "grades"
+    },
+    {
+      "ar": "فوق",
+      "en": "exalted"
+    },
+    {
+      "ar": "انسان",
+      "en": "man"
+    },
+    {
+      "ar": "بصير",
+      "en": "discernment"
+    },
+    {
+      "ar": "ارض",
+      "en": "earth"
+    },
+    {
+      "ar": "مشی",
+      "en": "walking"
+    },
+    {
+      "ar": "مشاهده",
+      "en": "feeleth"
+    },
+    {
+      "ar": "بيقين",
+      "en": "aware"
+    },
+    {
+      "ar": "مبين",
+      "en": "fully"
+    },
+    {
+      "ar": "علّت",
+      "en": "source"
+    },
+    {
+      "ar": "نعمت",
+      "en": "prosperity"
+    },
+    {
+      "ar": "ثروت",
+      "en": "wealth"
+    },
+    {
+      "ar": "عزّت",
+      "en": "might"
+    },
+    {
+      "ar": "علوّ",
+      "en": "exaltation"
+    },
+    {
+      "ar": "سموّ",
+      "en": "advancement"
+    },
+    {
+      "ar": "اقتدار",
+      "en": "power"
+    },
+    {
+      "ar": "باذن",
+      "en": "ordained"
+    },
+    {
+      "ar": "تحت",
+      "en": "beneath"
+    },
+    {
+      "ar": "اقدام",
+      "en": "feet"
+    },
+    {
+      "ar": "عالم",
+      "en": "all men"
+    },
+    {
+      "ar": "نفسيکه",
+      "en": "whoever"
+    },
+    {
+      "ar": "مقام",
+      "en": "truth"
+    },
+    {
+      "ar": "اگاه",
+      "en": "cognizant"
+    },
+    {
+      "ar": "نخوت",
+      "en": "pride"
+    },
+    {
+      "ar": "کبر",
+      "en": "arrogance"
+    },
+    {
+      "ar": "غرور",
+      "en": "vainglory"
+    },
+    {
+      "ar": "مقدّس",
+      "en": "cleansed"
+    },
+    {
+      "ar": "مبرّا",
+      "en": "sanctified"
+    },
+    {
+      "ar": "انچه",
+      "en": "Whatever"
+    },
+    {
+      "ar": "گفته",
+      "en": "said"
+    },
+    {
+      "ar": "من عند",
+      "en": "from"
+    },
+    {
+      "ar": "شهد",
+      "en": "borne"
+    },
+    {
+      "ar": "يشهد",
+      "en": "beareth"
+    },
+    {
+      "ar": "العليم",
+      "en": "All-Knowing"
+    },
+    {
+      "ar": "الخبير",
+      "en": "All-Informed"
+    }
+  ],
+  "terms": [
+    {
+      "term": "مختوم",
+      "transliteration": "kh-t-m",
+      "literal": "to seal; to conclude; to end; seal",
+      "se_rendering": "Sealed",
+      "note": "Root means 'seal'; typically renders as 'Seal of the Prophets' or abstract 'seal.' Here 'Sealed Wine' preserves mystical imagery while qualifying divine bounty as preserved, exclusive.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 552,
+          "snippet": "affixed Thy seal"
+        },
+        {
+          "work": "gleanings",
+          "para": 695,
+          "snippet": "sealed"
+        },
+        {
+          "work": "gleanings",
+          "para": 114,
+          "snippet": "finality of the Seal"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 178,
+          "snippet": "Seal of the Prophets"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 188,
+          "snippet": "seal"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 287,
+          "snippet": "We conclude"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 701,
+          "snippet": "choose"
+        }
+      ]
+    },
+    {
+      "term": "مظلوم",
+      "transliteration": "z-l-m",
+      "literal": "wrongedness, oppression, meekness; state of being wronged or oppressed",
+      "se_rendering": "Wronged One",
+      "note": "Typically 'wronged' or 'afflicted.' Here 'Wronged One' maintains titular force while denoting Bahá'u'lláh's station as victim of injustice, core to His self-presentation.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 498,
+          "snippet": "afflicted with countless tribulations"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 49,
+          "snippet": "meekness"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 116,
+          "snippet": "injury"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 3,
+          "snippet": "Wronged One"
+        },
+        {
+          "work": "gleanings",
+          "para": 221,
+          "snippet": "oppression"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 9,
+          "snippet": "Darkness"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 33,
+          "snippet": "tyranny"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 573,
+          "snippet": "oppressed"
+        }
+      ]
+    },
+    {
+      "term": "بصیر",
+      "transliteration": "b-ṣ-r",
+      "literal": "sight; insight; discernment; spiritual perception",
+      "se_rendering": "discernment",
+      "note": "Normally 'discerning eye' or 'the All-Seeing.' Here 'discernment' (noun) shifts from ocular/divine epithet to human intellectual capacity, emphasizing cognition.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 27,
+          "snippet": "discerning"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 278,
+          "snippet": "eye of insight"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 16,
+          "snippet": "eye of God"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 116,
+          "snippet": "discerning eye"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 667,
+          "snippet": "the All-Seeing"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 231,
+          "snippet": "clear"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 3,
+          "snippet": "proofs"
+        },
+        {
+          "work": "gleanings",
+          "para": 75,
+          "snippet": "eyes"
+        }
+      ]
+    },
+    {
+      "term": "ارض",
+      "transliteration": "ʾ-r-d",
+      "literal": "earth; land; ground; country",
+      "se_rendering": "earth",
+      "note": "Consistently 'earth' or 'land.' This passage's repeated emphasis on 'earth trodden beneath feet' amplifies paradoxical humility—prosperity springs from what is universally despised.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 76,
+          "snippet": "The earth"
+        },
+        {
+          "work": "gleanings",
+          "para": 203,
+          "snippet": "Land of Ṭá (Ṭihrán)"
+        },
+        {
+          "work": "gleanings",
+          "para": 207,
+          "snippet": "Land of Ṭá"
+        },
+        {
+          "work": "gleanings",
+          "para": 234,
+          "snippet": "land"
+        },
+        {
+          "work": "gleanings",
+          "para": 679,
+          "snippet": "soil"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 489,
+          "snippet": "face of the earth"
+        },
+        {
+          "work": "gleanings",
+          "para": 725,
+          "snippet": "Holy Land"
+        },
+        {
+          "work": "gleanings",
+          "para": 713,
+          "snippet": "lands"
+        }
+      ]
+    },
+    {
+      "term": "مشاهده",
+      "transliteration": "sh-h-d",
+      "literal": "witnessed; observed; seen; evident; manifest",
+      "se_rendering": "abashed",
+      "note": "Root 'shahid' means witness/testimony; here 'abashed' inverts the sense—not witnessing but feeling shame, a self-aware perception paradoxically grounded in earthly reality.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 607,
+          "snippet": "manifest"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 35,
+          "snippet": "evident"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 811,
+          "snippet": "I bear witness"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 836,
+          "snippet": "I testify"
+        },
+        {
+          "work": "gleanings",
+          "para": 298,
+          "snippet": "witness"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 138,
+          "snippet": "martyrdom"
+        },
+        {
+          "work": "gleanings",
+          "para": 134,
+          "snippet": "God witnesseth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 230,
+          "snippet": "God testifieth"
+        }
+      ]
+    },
+    {
+      "term": "علو",
+      "transliteration": "ʿ-l-w",
+      "literal": "highest; most high; supreme",
+      "se_rendering": "exaltation",
+      "note": "Usually 'the Most High' or 'supreme' (epithets). Here 'exaltation' (abstract noun) places advancement among human attributes, not divine titles—subordinating all glory to earth.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 1,
+          "snippet": "the Most High"
+        },
+        {
+          "work": "gleanings",
+          "para": 232,
+          "snippet": "supreme"
+        },
+        {
+          "work": "gleanings",
+          "para": 616,
+          "snippet": "the realms above"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 390,
+          "snippet": "the Most Exalted, the Most High"
+        },
+        {
+          "work": "gleanings",
+          "para": 393,
+          "snippet": "The Pen of the Most High"
+        },
+        {
+          "work": "gleanings",
+          "para": 697,
+          "snippet": "the Dayspring of Glory"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 1,
+          "snippet": "the Realm of Glory"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 257,
+          "snippet": "the Báb, the Lord, the most exalted"
+        }
+      ]
+    },
+    {
+      "term": "اقتدار",
+      "transliteration": "q-d-r",
+      "literal": "power; might; decree; measure; worth",
+      "se_rendering": "power",
+      "note": "Typically 'power' or 'Thy power'; here rendered identically. Crucially paired with 'earth' as source, inverting expected ontological hierarchy where might derives from lowliness.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 339,
+          "snippet": "Thy power"
+        },
+        {
+          "work": "gleanings",
+          "para": 138,
+          "snippet": "hath been decreed"
+        },
+        {
+          "work": "gleanings",
+          "para": 662,
+          "snippet": "hath decreed"
+        },
+        {
+          "work": "gleanings",
+          "para": 496,
+          "snippet": "forbearing towards"
+        },
+        {
+          "work": "gleanings",
+          "para": 111,
+          "snippet": "schools"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 12,
+          "snippet": "God of power"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 35,
+          "snippet": "Potent"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 282,
+          "snippet": "Almighty"
+        }
+      ]
+    }
+  ],
+  "section_index": "76",
+  "section": "76",
+  "section_para": 1
 }

@@ -1,10 +1,389 @@
 {
   "work": "Tablet of Ahmad",
   "slug": "tablet-of-ahmad",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 4,
   "source_text": "أَنْ يَا أَحْمَدُ فَٱشْهَدْ بِأَنَّهُ هُوَ اللهُ لَا إِلَهَ إِلَّا هُوَ ٱلْسُّلْطَانُ ٱلْمُهَيمِنُ ٱلْعَزِيزُ ٱلْقَدِيرُ وَٱلَّذِي أَرْسَلَهُ بِٱسْمِ عَلِيٍّ هُوَ حَقٌّ مِنْ عِنْد اللهِ وَإِنَّا كُلٌّ بِأَمْرِهِ لَمِنَ ٱلْعَامِلِينَ",
   "translation": "O Ahmad! Bear thou witness that verily He is God and there is no God but Him, the King, the Protector, the Incomparable, the Omnipotent. And that the One Whom He hath sent forth by the name of Ali [1] was the true One from God, to Whose commands we are all conforming.",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "king-protector-incomparable-omnipotent",
+  "alignment": [
+    {
+      "ar": "أَحْمَدُ",
+      "en": "Ahmad"
+    },
+    {
+      "ar": "فَٱشْهَدْ",
+      "en": "Bear thou witness"
+    },
+    {
+      "ar": "هُوَ",
+      "en": "is"
+    },
+    {
+      "ar": "اللهُ",
+      "en": "God"
+    },
+    {
+      "ar": "ٱلْمُهَيمِنُ",
+      "en": "the Protector"
+    },
+    {
+      "ar": "ٱلْعَزِيزُ",
+      "en": "the Incomparable"
+    },
+    {
+      "ar": "ٱلْقَدِيرُ",
+      "en": "the Omnipotent"
+    },
+    {
+      "ar": "أَرْسَلَهُ",
+      "en": "He hath sent forth"
+    },
+    {
+      "ar": "بِٱسْمِ",
+      "en": "by the name of"
+    },
+    {
+      "ar": "مِنْ عِنْد اللهِ",
+      "en": "from God"
+    },
+    {
+      "ar": "بِأَمْرِهِ",
+      "en": "to Whose commands"
+    },
+    {
+      "ar": "ٱلْعَامِلِينَ",
+      "en": "conforming"
+    }
+  ],
+  "terms": [
+    {
+      "term": "فاشهد",
+      "transliteration": "sh-h-d",
+      "literal": "witnessed; observed; seen; evident; manifest",
+      "se_rendering": "Bear thou witness",
+      "note": "Typically 'I bear witness' or 'I testify' (74 occ). Imperative 'Bear thou witness' creates direct exhortation rather than personal attestation—a performative shift.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 607,
+          "snippet": "manifest"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 35,
+          "snippet": "evident"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 811,
+          "snippet": "I bear witness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 6,
+          "snippet": "I testify"
+        },
+        {
+          "work": "gleanings",
+          "para": 298,
+          "snippet": "witness"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 138,
+          "snippet": "martyrdom"
+        },
+        {
+          "work": "gleanings",
+          "para": 134,
+          "snippet": "God witnesseth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 230,
+          "snippet": "God testifieth"
+        }
+      ]
+    },
+    {
+      "term": "السلطان",
+      "transliteration": "s-l-ṭ",
+      "literal": "dominion; authority; power; sovereignty; control",
+      "se_rendering": "the King",
+      "note": "Typically 'sovereignty' or 'dominion' (43 occ). 'The King' here personalizes sovereignty into a title, aligning with theological epithet usage rather than abstract power.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 369,
+          "snippet": "sovereignty"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 151,
+          "snippet": "dominion"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 1,
+          "snippet": "Thy sovereignty"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 184,
+          "snippet": "by Thy sovereignty"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 416,
+          "snippet": "Lord"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 13,
+          "snippet": "O King"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 242,
+          "snippet": "king"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 157,
+          "snippet": "the Sháh"
+        }
+      ]
+    },
+    {
+      "term": "المهيمن",
+      "transliteration": "h-y-m",
+      "literal": "the Protector; the Overseer; the Guardian",
+      "se_rendering": "the Protector",
+      "note": "Rare term with only 4 occurrences across corpus. SE renders consistently as 'the Protector'—this is the stable rendering; no deviation noted.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 37,
+          "snippet": "the Help in Peril"
+        },
+        {
+          "work": "gleanings",
+          "para": 180,
+          "snippet": "the Protector"
+        },
+        {
+          "work": "gleanings",
+          "para": 300,
+          "snippet": "the Guardian"
+        },
+        {
+          "work": "gleanings",
+          "para": 610,
+          "snippet": "the Supreme Protector"
+        }
+      ]
+    },
+    {
+      "term": "العزيز",
+      "transliteration": "ʿ-z-z",
+      "literal": "glory; might; honor; dignity; power; majesty",
+      "se_rendering": "the Incomparable",
+      "note": "Typically 'glory' or 'honor' (49 occ). 'The Incomparable' emphasizes uniqueness and transcendence over attributes of majesty; a striking interpretive choice.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 185,
+          "snippet": "glory"
+        },
+        {
+          "work": "gleanings",
+          "para": 642,
+          "snippet": "honor"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 491,
+          "snippet": "exalted"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 99,
+          "snippet": "Dear"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 38,
+          "snippet": "dearly beloved"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 37,
+          "snippet": "Gracious"
+        },
+        {
+          "work": "gleanings",
+          "para": 260,
+          "snippet": "All-Glorious"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 162,
+          "snippet": "Mighty"
+        }
+      ]
+    },
+    {
+      "term": "القدير",
+      "transliteration": "q-d-r",
+      "literal": "power; might; decree; measure; worth",
+      "se_rendering": "the Omnipotent",
+      "note": "Typically 'Thy power' or 'Omnipotent' (100 occ). 'The Omnipotent' here as abstract divine title; consistent with power-attribute readings though rare as standalone epithet.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 171,
+          "snippet": "a while"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 339,
+          "snippet": "Thy power"
+        },
+        {
+          "work": "gleanings",
+          "para": 138,
+          "snippet": "hath been decreed"
+        },
+        {
+          "work": "gleanings",
+          "para": 662,
+          "snippet": "hath decreed"
+        },
+        {
+          "work": "gleanings",
+          "para": 496,
+          "snippet": "forbearing towards"
+        },
+        {
+          "work": "gleanings",
+          "para": 111,
+          "snippet": "schools"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 12,
+          "snippet": "God of power"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 35,
+          "snippet": "Potent"
+        }
+      ]
+    },
+    {
+      "term": "أرسله",
+      "transliteration": "r-s-l",
+      "literal": "to send; dispatch; transmission",
+      "se_rendering": "hath sent forth",
+      "note": "Typically 'Thy Messengers' or 'dispatch' (31 occ). 'Hath sent forth' maintains missionary language while respecting singular object; standard rendering pattern.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 95,
+          "snippet": "dispatch"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 202,
+          "snippet": "communicate"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 45,
+          "snippet": "Thy Messengers"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 53,
+          "snippet": "treatise on"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 98,
+          "snippet": "messages"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 145,
+          "snippet": "Epistle"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 198,
+          "snippet": "Messengership"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 222,
+          "snippet": "mission"
+        }
+      ]
+    },
+    {
+      "term": "بأمره",
+      "transliteration": "ʾ-m-r",
+      "literal": "command; cause; matter; affair",
+      "se_rendering": "commands",
+      "note": "Typically 'His Cause' or 'His Revelation' (75 occ). 'Commands' here renders اَمْر as direct imperative—narrower than typical theological 'Cause' semantic range.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "His Cause"
+        },
+        {
+          "work": "gleanings",
+          "para": 586,
+          "snippet": "His command"
+        },
+        {
+          "work": "gleanings",
+          "para": 691,
+          "snippet": "His Revelation"
+        },
+        {
+          "work": "gleanings",
+          "para": 723,
+          "snippet": "Cause"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 797,
+          "snippet": "Thy Cause"
+        },
+        {
+          "work": "gleanings",
+          "para": 8,
+          "snippet": "Revelation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 597,
+          "snippet": "service"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 167,
+          "snippet": "things"
+        }
+      ]
+    }
+  ],
+  "section_index": "4",
+  "section": "4",
+  "section_para": 1
 }

@@ -1,10 +1,226 @@
 {
   "work": "Fire Tablet",
   "slug": "fire-tablet",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 24,
   "source_text": "قَدْ غَشَّتِ الظُّنُونُ وَالأَوْهَامُ أَكْثَرَ الأَنَامِ أَيْنَ مَطَالِعُ إِيْقَانِكَ يَا سَكِيْنَةَ العَالَمِينَ *",
   "translation": "Most of the people are enwrapped in fancy and idle imaginings: Where are the exponents of Thy certitude, O Assurance of the worlds?",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "assurance-of-the-worlds",
+  "alignment": [
+    {
+      "ar": "الأَوْهَامُ",
+      "en": "idle imaginings"
+    },
+    {
+      "ar": "أَكْثَرَ",
+      "en": "Most"
+    },
+    {
+      "ar": "الأَنَامِ",
+      "en": "the people"
+    },
+    {
+      "ar": "أَيْنَ",
+      "en": "Where"
+    },
+    {
+      "ar": "مَطَالِعُ",
+      "en": "exponents"
+    },
+    {
+      "ar": "إِيْقَانِكَ",
+      "en": "Thy certitude"
+    },
+    {
+      "ar": "سَكِيْنَةَ العَالَمِينَ",
+      "en": "Assurance of the worlds"
+    }
+  ],
+  "terms": [
+    {
+      "term": "غَشَّتِ",
+      "transliteration": "gh-sh-sh",
+      "literal": "confused, turbid, troubled, obscured",
+      "se_rendering": "enwrapped",
+      "note": "Root غ-ش-ش typically rendered 'confused' across corpus. SE employs 'enwrapped' here—a more active, encompassing metaphor suggesting envelopment rather than mere muddiness.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 17,
+          "snippet": "confused"
+        }
+      ]
+    },
+    {
+      "term": "الظُّنُونُ",
+      "transliteration": "ʿ-l-w",
+      "literal": "highest; most high; supreme",
+      "se_rendering": "fancy",
+      "note": "Concordance indicates root ع-ل-و usually renders as 'the Most High' or 'supreme' (74 occ). Here 'fancy' diverges radically, suggesting SE read ظ-ن-ن (conjecture/suspicion) or deliberately chose figurative sense.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 1,
+          "snippet": "the Most High"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 148,
+          "snippet": "the Most Sublime Pen"
+        },
+        {
+          "work": "gleanings",
+          "para": 232,
+          "snippet": "supreme"
+        },
+        {
+          "work": "gleanings",
+          "para": 616,
+          "snippet": "the realms above"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 390,
+          "snippet": "the Most Exalted, the Most High"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 68,
+          "snippet": "the Pen of Glory"
+        },
+        {
+          "work": "gleanings",
+          "para": 393,
+          "snippet": "The Pen of the Most High"
+        },
+        {
+          "work": "gleanings",
+          "para": 697,
+          "snippet": "the Dayspring of Glory"
+        }
+      ]
+    },
+    {
+      "term": "مَطَالِعُ",
+      "transliteration": "t-l-ʿ",
+      "literal": "rising; appearance; countenance; manifestation",
+      "se_rendering": "exponents",
+      "note": "Root t-l-ʿ typically renders as 'Manifestations' or 'countenances' (32 occ). 'Exponents' is rare, suggesting SE interpreted this as bearers or representatives of certitude rather than literal appearances.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 47,
+          "snippet": "lives"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 856,
+          "snippet": "countenances"
+        },
+        {
+          "work": "gleanings",
+          "para": 35,
+          "snippet": "Revealers of the beauty"
+        },
+        {
+          "work": "gleanings",
+          "para": 364,
+          "snippet": "Manifestations"
+        },
+        {
+          "work": "gleanings",
+          "para": 221,
+          "snippet": "instigators"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "sources of command"
+        },
+        {
+          "work": "gleanings",
+          "para": 61,
+          "snippet": "Dayspring"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 276,
+          "snippet": "Revealer"
+        }
+      ]
+    },
+    {
+      "term": "إِيْقَانِكَ",
+      "transliteration": "y-q-n",
+      "literal": "certitude; conviction; certainty; faith",
+      "se_rendering": "certitude",
+      "note": "Only 3 occurrences in corpus, both rendered 'Faith' or 'certitude'. SE selects 'certitude' here, emphasizing intellectual conviction over faith's emotional dimensions.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 56,
+          "snippet": "Faith"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 116,
+          "snippet": "certitude"
+        }
+      ]
+    },
+    {
+      "term": "العَالَمِينَ",
+      "transliteration": "ʿ-l-m",
+      "literal": "world; universe; the worlds",
+      "se_rendering": "the worlds",
+      "note": "Root ع-ل-م spans 141 occurrences with diverse renderings. 'The worlds' (plural) here rather than 'mankind' emphasizes cosmic scope—the Assurance sustains all realms, not merely human domains.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 198,
+          "snippet": "world"
+        },
+        {
+          "work": "gleanings",
+          "para": 657,
+          "snippet": "all worlds"
+        },
+        {
+          "work": "gleanings",
+          "para": 182,
+          "snippet": "mankind"
+        },
+        {
+          "work": "gleanings",
+          "para": 183,
+          "snippet": "the whole world"
+        },
+        {
+          "work": "gleanings",
+          "para": 226,
+          "snippet": "all earthly defilements"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 28,
+          "snippet": "knowledge"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 122,
+          "snippet": "commentators"
+        },
+        {
+          "work": "gleanings",
+          "para": 38,
+          "snippet": "understanding"
+        }
+      ]
+    }
+  ],
+  "section_index": "25",
+  "section": "25",
+  "section_para": 1
 }

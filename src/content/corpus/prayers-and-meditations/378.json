@@ -1,10 +1,378 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 378,
   "source_text": "يا إِلهِي بِأَنَّ المِصْبَاحَ إِذا أَحَاطَتْهُ الأَرْياحُ يَطْفَأُ فِي نَفْسِهِ، لَمْ أَدْرِ يا مَحْبُوبَ العالَمِينَ بِأَيِّ قُدْرَةٍ حَفِظْتَهُ فِي سِنِينٍ مَعْدُوداتٍ مِنْ أَرياحِ الَّتِيْ تَمُرُّ فِي كُلِّ الأَحْيانِ مِنْ شَطْرِ مَظاهِرِ الطُّغْيَانِ، فَوَعِزَّتِكَ يا إِلهِ",
   "translation": "I, likewise, recognize, O my God, that every lamp, when exposed to the fury of the winds, must cease from burning. As to Thy Lamp, however, O Beloved of the worlds, I cannot think what power except Thy power could have kept it safe for so many years from the tempests that have continually been directed upon it by the rebellious among Thy creatures.",
   "source_lang": "ar",
-  "score": 9.7
+  "score": 9.7,
+  "page_slug": "lamp-preserved-tempests",
+  "alignment": [
+    {
+      "ar": "إِلهِي",
+      "en": "my God"
+    },
+    {
+      "ar": "المِصْبَاحَ",
+      "en": "lamp"
+    },
+    {
+      "ar": "أَحَاطَتْهُ",
+      "en": "exposed"
+    },
+    {
+      "ar": "الأَرْياحُ",
+      "en": "the fury of the winds"
+    },
+    {
+      "ar": "يَطْفَأُ",
+      "en": "cease from burning"
+    },
+    {
+      "ar": "مَحْبُوبَ العالَمِينَ",
+      "en": "Beloved of the worlds"
+    },
+    {
+      "ar": "قُدْرَةٍ",
+      "en": "power"
+    },
+    {
+      "ar": "حَفِظْتَهُ",
+      "en": "kept it safe"
+    },
+    {
+      "ar": "سِنِينٍ مَعْدُوداتٍ",
+      "en": "so many years"
+    },
+    {
+      "ar": "أَرياحِ",
+      "en": "tempests"
+    },
+    {
+      "ar": "الأَحْيانِ",
+      "en": "continually"
+    },
+    {
+      "ar": "إِلهِ",
+      "en": ""
+    }
+  ],
+  "terms": [
+    {
+      "term": "المِصْبَاحُ",
+      "transliteration": "s-b-h",
+      "literal": "morning, dawn; daybreak",
+      "se_rendering": "every lamp",
+      "note": "Typically 'Thy Light' or 'dawning light' (18 occ). 'Every lamp' here is rare—SE shifts from divine luminosity to physical lamp metaphor, grounding the passage in tangible imagery.",
+      "cross_refs": [
+        {
+          "work": "fire-tablet",
+          "para": 22,
+          "snippet": "dawning light"
+        },
+        {
+          "work": "gleanings",
+          "para": 211,
+          "snippet": "morning"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 185,
+          "snippet": "break of day"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 20,
+          "snippet": "lamp"
+        },
+        {
+          "work": "gleanings",
+          "para": 48,
+          "snippet": "lamp of guidance"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 144,
+          "snippet": "dawn"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 2,
+          "snippet": "morn"
+        }
+      ]
+    },
+    {
+      "term": "أَحاطَتْهُ",
+      "transliteration": "h-w-t",
+      "literal": "to encompass; to surround; to encircle",
+      "se_rendering": "exposed to",
+      "note": "Root ح-و-ط regularly rendered 'have encompassed' or 'hath enveloped'. 'Exposed to' departs sharply, choosing active vulnerability over spatial encirclement, intensifying the danger motif.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 649,
+          "snippet": "hath encompassed"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 144,
+          "snippet": "had surrounded"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 197,
+          "snippet": "hath pervaded"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 9,
+          "snippet": "hath enveloped"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 20,
+          "snippet": "have been breathed to"
+        },
+        {
+          "work": "gleanings",
+          "para": 373,
+          "snippet": "all-encompassing knowledge"
+        },
+        {
+          "work": "gleanings",
+          "para": 381,
+          "snippet": "encompassing all things"
+        }
+      ]
+    },
+    {
+      "term": "الأَرْياحُ",
+      "transliteration": "r-y-h",
+      "literal": "wind; breeze; spirit",
+      "se_rendering": "the fury of the winds",
+      "note": "Root ر-ي-ح typically 'wind', 'ease', 'peace' (24 occ). 'The fury of the winds' grafts emotional intensity ('fury') onto meteorological image, escalating from natural phenomenon to hostile assault.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 132,
+          "snippet": "winds of hatred"
+        }
+      ]
+    },
+    {
+      "term": "مَحْبُوبَ",
+      "transliteration": "ḥ-b-b",
+      "literal": "love; affection",
+      "se_rendering": "Beloved",
+      "note": "Consistently 'beloved' across 92 occurrences. Direct vocative address 'O Beloved' strengthens intimacy; SE avoids the genitive 'beloved of the Lord' form, creating immediate appellative force.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 3,
+          "snippet": "beloved of the Lord"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 53,
+          "snippet": "loved ones of the Lord"
+        },
+        {
+          "work": "gleanings",
+          "para": 341,
+          "snippet": "loved ones of God"
+        },
+        {
+          "work": "gleanings",
+          "para": 689,
+          "snippet": "beloved of the one true God"
+        },
+        {
+          "work": "gleanings",
+          "para": 640,
+          "snippet": "loved ones"
+        },
+        {
+          "work": "gleanings",
+          "para": 690,
+          "snippet": "beloved of God"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 39,
+          "snippet": "His loved ones"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 10,
+          "snippet": "love for Thee"
+        }
+      ]
+    },
+    {
+      "term": "قُدْرَةٍ",
+      "transliteration": "q-d-r",
+      "literal": "power; might; decree; measure; worth",
+      "se_rendering": "Thy power",
+      "note": "Usually 'Thy power' (100 occ) but spans 'hath decreed' and 'forbearing towards'. Here SE locks on 'power' to answer the rhetorical question directly, emphasizing divine capability rather than decree.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 171,
+          "snippet": "a while"
+        },
+        {
+          "work": "gleanings",
+          "para": 138,
+          "snippet": "hath been decreed"
+        },
+        {
+          "work": "gleanings",
+          "para": 662,
+          "snippet": "hath decreed"
+        },
+        {
+          "work": "gleanings",
+          "para": 496,
+          "snippet": "forbearing towards"
+        },
+        {
+          "work": "gleanings",
+          "para": 111,
+          "snippet": "schools"
+        },
+        {
+          "work": "gleanings",
+          "para": 532,
+          "snippet": "can"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 4,
+          "snippet": "for a moment"
+        },
+        {
+          "work": "gleanings",
+          "para": 112,
+          "snippet": "Thy might"
+        }
+      ]
+    },
+    {
+      "term": "حَفِظْتَهُ",
+      "transliteration": "h-f-z",
+      "literal": "guardian; preserver; keeper",
+      "se_rendering": "kept it safe",
+      "note": "Standard 'guard' or 'Guardian' (45 occ). 'Kept safe' softens the protective force, introducing human vulnerability and divine mercy rather than watchful authority.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 3,
+          "snippet": "protection"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 44,
+          "snippet": "shield"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 55,
+          "snippet": "guard"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 22,
+          "snippet": "Guardian"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 90,
+          "snippet": "Watch"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 45,
+          "snippet": "keep"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 30,
+          "snippet": "been preserved"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 165,
+          "snippet": "protected"
+        }
+      ]
+    },
+    {
+      "term": "مَظاهِرِ",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "rebellious",
+      "note": "Usually 'Manifestation' or 'manifestation' (96 occ). Here rendered within 'rebellious among Thy creatures'—SE transmutes appearance/form into agency and willful opposition, reading مظاهر as agents rather than phenomena.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 53,
+          "snippet": "Manifestation"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 136,
+          "snippet": "evident"
+        },
+        {
+          "work": "gleanings",
+          "para": 222,
+          "snippet": "material"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 206,
+          "snippet": "appeared"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 196,
+          "snippet": "Manifestations of God"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 32,
+          "snippet": "overwhelm the soul"
+        }
+      ]
+    },
+    {
+      "term": "الطُّغْيانِ",
+      "transliteration": "t-gh-y",
+      "literal": "rebellion; transgression; tyranny; insolence",
+      "se_rendering": "rebellion",
+      "note": "Sole occurrence in corpus (1 occ). 'Rebellion' is the single attested rendering; no variants. SE's choice anchors spiritual resistance in explicit defiance rather than abstraction.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 4,
+          "snippet": "rebellion"
+        }
+      ]
+    }
+  ],
+  "section_index": "LXXXIX.2",
+  "section": "LXXXIX",
+  "section_para": 2
 }

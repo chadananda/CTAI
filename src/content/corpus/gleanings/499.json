@@ -1,10 +1,446 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 499,
   "source_text": "انّ البلآء لا یمنع قلم القدم انّه یتحرّک باذن الله مصوّر الرّمم حال مع این شغل اعظم لایق آنست که جمیع احبّا کمر خدمت محکم کنند و بنصرت امر الله توجّه نمایند نه آنکه بارتکاب امور شنیعه مشغول شوند اگر قدری در افعال و اعمال ظاهرهٴ حقّ مشاهده نمائی لتخرّ بوجهک علی التّراب و تقول یا ربّ الأرباب اشهد انّک انت مولی الوجود و مربّی الغیب و الشّهود و اشهد انّ قدرتک احاطت الکائنات لا تخوّفک جنود من علی الأرض و لا تمنعک سطوة من علیها و اشهد انّک ما اردت الّا حیاة",
   "translation": "Considering this most mighty enterprise, it beseemeth them that love Him to gird up the loins of their endeavor, and to fix their thoughts on whatever will ensure the victory of the cause of God, rather than commit vile and contemptible deeds. Wert thou to consider, for but a little while, the outward works and doings of Him Who is the Eternal Truth, thou wouldst fall down upon the ground, and exclaim: O Thou Who art the Lord of Lords! I testify that Thou art the Lord of all creation, and the Educator of all beings, visible and invisible. I bear witness that Thy power hath encompassed the entire universe, and that the hosts of the earth can never dismay Thee, nor can the dominion of all peoples and nations deter Thee from executing Thy purpose. I confess that Thou hast no desire except the regeneration of the whole world, and the establishment of the unity of its peoples, and the salvation of all them that dwell therein.",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "lord-of-lords-testimony",
+  "alignment": [
+    {
+      "ar": "لا یمنع",
+      "en": "can never dismay"
+    },
+    {
+      "ar": "القدم",
+      "en": "Eternal"
+    },
+    {
+      "ar": "الله",
+      "en": "God"
+    },
+    {
+      "ar": "مع این شغل اعظم",
+      "en": "Considering this most mighty enterprise"
+    },
+    {
+      "ar": "لایق",
+      "en": "beseemeth"
+    },
+    {
+      "ar": "جمیع",
+      "en": "all"
+    },
+    {
+      "ar": "احبّا",
+      "en": "them that love Him"
+    },
+    {
+      "ar": "کمر خدمت",
+      "en": "the loins of their endeavor"
+    },
+    {
+      "ar": "محکم کنند",
+      "en": "gird up"
+    },
+    {
+      "ar": "بنصرت",
+      "en": "victory"
+    },
+    {
+      "ar": "امر الله",
+      "en": "the cause of God"
+    },
+    {
+      "ar": "نه آنکه",
+      "en": "rather than"
+    },
+    {
+      "ar": "بارتکاب",
+      "en": "commit"
+    },
+    {
+      "ar": "امور",
+      "en": "deeds"
+    },
+    {
+      "ar": "شنیعه",
+      "en": "vile and contemptible"
+    },
+    {
+      "ar": "اگر",
+      "en": "Wert thou"
+    },
+    {
+      "ar": "قدری",
+      "en": "but a little while"
+    },
+    {
+      "ar": "در",
+      "en": "consider"
+    },
+    {
+      "ar": "افعال",
+      "en": "works"
+    },
+    {
+      "ar": "اعمال",
+      "en": "doings"
+    },
+    {
+      "ar": "ظاهرهٴ",
+      "en": "outward"
+    },
+    {
+      "ar": "حقّ",
+      "en": "Eternal Truth"
+    },
+    {
+      "ar": "لتخرّ",
+      "en": "wouldst fall down"
+    },
+    {
+      "ar": "بوجهک",
+      "en": "upon"
+    },
+    {
+      "ar": "علی التّراب",
+      "en": "upon the ground"
+    },
+    {
+      "ar": "تقول",
+      "en": "exclaim"
+    },
+    {
+      "ar": "یا ربّ الأرباب",
+      "en": "O Thou Who art the Lord of Lords"
+    },
+    {
+      "ar": "اشهد",
+      "en": "I testify"
+    },
+    {
+      "ar": "انّک",
+      "en": "that Thou"
+    },
+    {
+      "ar": "انت",
+      "en": "art"
+    },
+    {
+      "ar": "مولی",
+      "en": "Lord"
+    },
+    {
+      "ar": "الوجود",
+      "en": "all creation"
+    },
+    {
+      "ar": "مربّی",
+      "en": "Educator"
+    },
+    {
+      "ar": "الغیب",
+      "en": "invisible"
+    },
+    {
+      "ar": "الشّهود",
+      "en": "visible"
+    },
+    {
+      "ar": "قدرتک",
+      "en": "Thy power"
+    },
+    {
+      "ar": "احاطت",
+      "en": "hath encompassed"
+    },
+    {
+      "ar": "الکائنات",
+      "en": "the entire universe"
+    },
+    {
+      "ar": "لا تخوّفک",
+      "en": "can never dismay Thee"
+    },
+    {
+      "ar": "جنود",
+      "en": "the hosts"
+    },
+    {
+      "ar": "من علی الأرض",
+      "en": "of the earth"
+    },
+    {
+      "ar": "لا تمنعک",
+      "en": "deter Thee"
+    },
+    {
+      "ar": "سطوة",
+      "en": "the dominion"
+    },
+    {
+      "ar": "من علیها",
+      "en": "of all peoples"
+    },
+    {
+      "ar": "ما اردت",
+      "en": "hast no desire"
+    },
+    {
+      "ar": "الّا",
+      "en": "except"
+    },
+    {
+      "ar": "حیاة",
+      "en": "the regeneration"
+    }
+  ],
+  "terms": [
+    {
+      "term": "البلآء",
+      "transliteration": "b-l-ʾ",
+      "literal": "affliction; trial; calamity",
+      "se_rendering": "afflictions",
+      "note": "Consistently rendered 'trials', 'tribulations', or 'afflictions' (27 occurrences); 'afflictions' here is standard usage in negative construction 'prevent not'.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 249,
+          "snippet": "trials"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 137,
+          "snippet": "Troubles"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 179,
+          "snippet": "tribulations"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 63,
+          "snippet": "the lands"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 28,
+          "snippet": "afflicted"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 145,
+          "snippet": "sick"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 92,
+          "snippet": "Yea"
+        }
+      ]
+    },
+    {
+      "term": "اعظم",
+      "transliteration": "ʿ-z̟-m",
+      "literal": "greatest; supreme; mightiest",
+      "se_rendering": "most mighty",
+      "note": "Regularly 'greatest' or 'Most Great' across 63 occurrences; 'most mighty' here shifts emphasis from metaphysical greatness to active power in enterprise context.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 269,
+          "snippet": "Most Great"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 734,
+          "snippet": "Most Great Name"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 3,
+          "snippet": "greatest"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 6,
+          "snippet": "greater"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 209,
+          "snippet": "Great"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 9,
+          "snippet": "mighty"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 262,
+          "snippet": "glorious"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 88,
+          "snippet": "the Most Great"
+        }
+      ]
+    },
+    {
+      "term": "احبّا",
+      "transliteration": "ḥ-b-b",
+      "literal": "love; affection",
+      "se_rendering": "them that love Him",
+      "note": "Standard renderings are 'loved ones' or 'beloved of the Lord' (92 occ); 'them that love Him' inverts the direction, making the humans active lovers rather than passive recipients of divine love.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 3,
+          "snippet": "beloved of the Lord"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 53,
+          "snippet": "loved ones of the Lord"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 39,
+          "snippet": "His loved ones"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 10,
+          "snippet": "love for Thee"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 12,
+          "snippet": "love"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 26,
+          "snippet": "Thy loved ones"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 475,
+          "snippet": "Thy dear ones"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 47,
+          "snippet": "my Beloved"
+        }
+      ]
+    },
+    {
+      "term": "مشاهده",
+      "transliteration": "sh-h-d",
+      "literal": "witnessed; observed; seen; evident; manifest",
+      "se_rendering": "consider",
+      "note": "Root yields 'manifest', 'evident', 'I bear witness', 'I testify' (74 occ); 'consider' here is atypical, softening the verb to intellectual contemplation rather than spiritual witnessing or testimony.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 35,
+          "snippet": "evident"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 811,
+          "snippet": "I bear witness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 6,
+          "snippet": "I testify"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 138,
+          "snippet": "martyrdom"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 230,
+          "snippet": "God testifieth"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 57,
+          "snippet": "beheld"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 117,
+          "snippet": "testify"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 156,
+          "snippet": "bear witness"
+        }
+      ]
+    },
+    {
+      "term": "احاطت",
+      "transliteration": "h-w-t",
+      "literal": "to encompass; to surround; to encircle",
+      "se_rendering": "hath encompassed",
+      "note": "Consistently 'hath encompassed' or 'have encompassed' (11 occ); usage here maintains standard rendering in perfect continuous aspect showing all-pervading divine reach.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 647,
+          "snippet": "have encompassed"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 144,
+          "snippet": "had surrounded"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 197,
+          "snippet": "hath pervaded"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 9,
+          "snippet": "hath enveloped"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 20,
+          "snippet": "have been breathed to"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 291,
+          "snippet": "embraced"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 570,
+          "snippet": "have everywhere been compassed with"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 378,
+          "snippet": "when exposed to"
+        }
+      ]
+    }
+  ],
+  "section_index": "CXV.7",
+  "section": "CXV",
+  "section_para": 7
 }

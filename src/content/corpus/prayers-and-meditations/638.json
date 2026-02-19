@@ -1,10 +1,359 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 638,
   "source_text": "سُبْحانَكَ يا إِلهِي تَعْلَمُ بَلائِي وَما وَرَدَ عَلَيَّ مِنَ الَّذِيْنَ طافُوا حَولِي مِنَ العِبادِ الَّذِيْنَ كَفَرُوا بِآياتِكَ الكُبْرى وَأَعْرَضُوا عَنْ طَلْعَتِكَ النَّوْرآءِ، وَعِزَّ",
   "translation": "Glorified art Thou, O my Lord! Thou beholdest my tribulations and all that hath befallen me at the hands of such of Thy servants as keep company with me, who have disbelieved in Thy most resplendent signs, and turned back from Thy most effulgent Beauty. I swear by Thy glory! Such are the troubles that vex me, that no pen in the entire creation can either reckon or describe them.",
   "source_lang": "ar",
-  "score": 8.3
+  "score": 8.3,
+  "page_slug": "tribulations-effulgent-beauty",
+  "alignment": [
+    {
+      "ar": "سُبْحانَكَ",
+      "en": "Glorified art Thou"
+    },
+    {
+      "ar": "إِلهِي",
+      "en": "my Lord"
+    },
+    {
+      "ar": "تَعْلَمُ",
+      "en": "beholdest"
+    },
+    {
+      "ar": "بَلائِي",
+      "en": "my tribulations"
+    },
+    {
+      "ar": "وَرَدَ",
+      "en": "befallen"
+    },
+    {
+      "ar": "طافُوا",
+      "en": "keep company"
+    },
+    {
+      "ar": "حَولِي",
+      "en": "with me"
+    },
+    {
+      "ar": "العِبادِ",
+      "en": "Thy servants"
+    },
+    {
+      "ar": "كَفَرُوا",
+      "en": "disbelieved"
+    },
+    {
+      "ar": "بِآياتِكَ",
+      "en": "in Thy"
+    },
+    {
+      "ar": "الكُبْرى",
+      "en": "most resplendent signs"
+    },
+    {
+      "ar": "أَعْرَضُوا",
+      "en": "turned back"
+    },
+    {
+      "ar": "طَلْعَتِكَ",
+      "en": "Beauty"
+    }
+  ],
+  "terms": [
+    {
+      "term": "بَلائِي",
+      "transliteration": "b-l-ā",
+      "literal": "trial; affliction; tribulation; testing",
+      "se_rendering": "tribulations",
+      "note": "Standard rendering 'tribulation' among 28 occurrences. SE maintains consistency between 'tribulations' and 'troubles' in immediate context.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 6,
+          "snippet": "indignities heaped upon"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 283,
+          "snippet": "afflictions"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 35,
+          "snippet": "in my woes"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 4,
+          "snippet": "trials"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 89,
+          "snippet": "tribulations"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 137,
+          "snippet": "Troubles"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 25,
+          "snippet": "tribulation"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 49,
+          "snippet": "cup of woe"
+        }
+      ]
+    },
+    {
+      "term": "وَرَدَ",
+      "transliteration": "w-r-d",
+      "literal": "to enter, to come, to befall, to arrive",
+      "se_rendering": "hath befallen",
+      "note": "Typical form 'befallen' across 36 occurrences. Perfect alignment with root meaning w-r-d denoting entry or arrival of calamity.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 126,
+          "snippet": "hath touched"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 61,
+          "snippet": "befallen"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 113,
+          "snippet": "came"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 183,
+          "snippet": "befell"
+        },
+        {
+          "work": "gleanings",
+          "para": 557,
+          "snippet": "will discern"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 30,
+          "snippet": "brought forth"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 204,
+          "snippet": "heaped upon"
+        },
+        {
+          "work": "gleanings",
+          "para": 489,
+          "snippet": "hath befallen"
+        }
+      ]
+    },
+    {
+      "term": "العِبادِ",
+      "transliteration": "ʿ-b-d",
+      "literal": "servant; slave; worshipper",
+      "se_rendering": "Thy servants",
+      "note": "Consistently 'servants' across 68 occurrences. Unambiguous application with possessive 'Thy' emphasizing divine relationship.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 686,
+          "snippet": "servants"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 27,
+          "snippet": "'Abdu'l‑Bahá"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 260,
+          "snippet": "'Abdu'l-'Azíz"
+        },
+        {
+          "work": "gleanings",
+          "para": 67,
+          "snippet": "servant"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 10,
+          "snippet": "this wronged servant of Thine"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 47,
+          "snippet": "this servant of Thine"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 50,
+          "snippet": "the servants"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 12,
+          "snippet": "Thy trusted servants"
+        }
+      ]
+    },
+    {
+      "term": "كَفَرُوا",
+      "transliteration": "k-f-r",
+      "literal": "to disbelieve, reject; unbelief, ingratitude",
+      "se_rendering": "disbelieved",
+      "note": "Root k-f-r rendered 'disbelieved' — classical form among 9 occurrences. Maintains theological precision of active rejection rather than mere heedlessness.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 234,
+          "snippet": "believe not"
+        },
+        {
+          "work": "gleanings",
+          "para": 658,
+          "snippet": "repudiated"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 187,
+          "snippet": "misbelief"
+        },
+        {
+          "work": "gleanings",
+          "para": 647,
+          "snippet": "have repudiated"
+        },
+        {
+          "work": "gleanings",
+          "para": 531,
+          "snippet": "have rejected"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 34,
+          "snippet": "yellowed"
+        },
+        {
+          "work": "gleanings",
+          "para": 593,
+          "snippet": "disbelieved"
+        }
+      ]
+    },
+    {
+      "term": "النَّوْرآءِ",
+      "transliteration": "n-w-r",
+      "literal": "light; illumination",
+      "se_rendering": "most effulgent Beauty",
+      "note": "Root n-w-r typically 'light' or 'Orb of Light' across 78 occurrences. Here 'effulgent Beauty' applies luminous metaphor to divine manifestation rather than literal illumination.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 3,
+          "snippet": "light"
+        },
+        {
+          "work": "gleanings",
+          "para": 230,
+          "snippet": "Orb of Light"
+        },
+        {
+          "work": "gleanings",
+          "para": 235,
+          "snippet": "glory"
+        },
+        {
+          "work": "gleanings",
+          "para": 597,
+          "snippet": "fire"
+        },
+        {
+          "work": "gleanings",
+          "para": 458,
+          "snippet": "fire of God"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 10,
+          "snippet": "flame of fire"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 39,
+          "snippet": "lights"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 144,
+          "snippet": "radiant"
+        }
+      ]
+    },
+    {
+      "term": "وَعِزَّ",
+      "transliteration": "ʿ-z-z",
+      "literal": "glory; might; honor; dignity; power; majesty",
+      "se_rendering": "glory",
+      "note": "Standard 'glory' among 49 occurrences. Appears in oath formula 'I swear by Thy glory' — emphatic rhetorical position heightening speaker's urgency.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 185,
+          "snippet": "glory"
+        },
+        {
+          "work": "gleanings",
+          "para": 642,
+          "snippet": "honor"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 99,
+          "snippet": "Dear"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 38,
+          "snippet": "dearly beloved"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 37,
+          "snippet": "Gracious"
+        },
+        {
+          "work": "gleanings",
+          "para": 260,
+          "snippet": "All-Glorious"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 162,
+          "snippet": "Mighty"
+        },
+        {
+          "work": "gleanings",
+          "para": 660,
+          "snippet": "powerful"
+        }
+      ]
+    }
+  ],
+  "section_index": "CLI.1",
+  "section": "CLI",
+  "section_para": 1
 }

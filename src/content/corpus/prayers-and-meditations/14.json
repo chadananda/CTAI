@@ -1,10 +1,256 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 14,
   "source_text": "َصْفِيائِكَ فِيْ فِراقِكَ، وَاحْتَرَقَتْ أَكْبادُ أَحِبَّائِكَ بِنارِ الاشْتِياقِ فِيْ أَيَّامِكَ، أَسْئَلُكَ يا فاطِرَ السَّماءِ وَمالِكَ الأَسْماءِ بِنَفْسِكَ الأَبْهى وَذِكْرِكَ العَلِيِّ الأَعْلى بِأَنْ تُنَزِّلَ عَلَى أَحِبَّتِكَ ما يُقَرِّبُهُمْ إِلَيْكَ وَيُسْمِعُهُمْ آياتِكَ، أَيْ رَبِّ فَاخْرُقْ",
   "translation": "The hearts of Thy chosen ones, O my Lord, have melted because of their separation from Thee, and the souls of Thy loved ones are burnt up by the fire of their yearning after Thee in Thy days. I implore Thee, O Thou Maker of the heavens and Lord of all names, by Thy most effulgent Self and Thy most exalted and all-glorious Remembrance, to send down upon Thy loved ones that which will draw them nearer unto Thee, and enable them to hearken unto Thine utterances.",
   "source_lang": "ar",
-  "score": 9.6
+  "score": 9.6,
+  "page_slug": "hearts-melted-separation",
+  "alignment": [
+    {
+      "ar": "َصْفِيائِكَ",
+      "en": "Thy chosen ones"
+    },
+    {
+      "ar": "فِراقِكَ",
+      "en": "separation from Thee"
+    },
+    {
+      "ar": "احْتَرَقَتْ",
+      "en": "burnt up"
+    },
+    {
+      "ar": "أَكْبادُ",
+      "en": "souls"
+    },
+    {
+      "ar": "بِنارِ",
+      "en": "by the fire"
+    },
+    {
+      "ar": "الاشْتِياقِ",
+      "en": "yearning"
+    },
+    {
+      "ar": "أَسْئَلُكَ",
+      "en": "I implore Thee"
+    },
+    {
+      "ar": "فاطِرَ",
+      "en": "Maker"
+    },
+    {
+      "ar": "مالِكَ",
+      "en": "Lord"
+    },
+    {
+      "ar": "الأَسْماءِ",
+      "en": "all names"
+    },
+    {
+      "ar": "بِنَفْسِكَ",
+      "en": "by Thy"
+    },
+    {
+      "ar": "الأَبْهى",
+      "en": "most effulgent Self"
+    },
+    {
+      "ar": "وَذِكْرِكَ",
+      "en": "Remembrance"
+    },
+    {
+      "ar": "الأَعْلى",
+      "en": "all-glorious"
+    },
+    {
+      "ar": "إِلَيْكَ",
+      "en": "unto Thee"
+    },
+    {
+      "ar": "يُسْمِعُهُمْ",
+      "en": "enable them to hearken"
+    },
+    {
+      "ar": "آياتِكَ",
+      "en": "Thine utterances"
+    }
+  ],
+  "terms": [
+    {
+      "term": "فراقك",
+      "transliteration": "f-r-q",
+      "literal": "faction; sect; group; company",
+      "se_rendering": "separation",
+      "note": "Root f-r-q typically means 'sect' or 'division' (28 occurrences); SE renders 'separation' here, selecting the existential/mystical sense over doctrinal meanings.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 6,
+          "snippet": "sect"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 20,
+          "snippet": "the cause of division"
+        },
+        {
+          "work": "gleanings",
+          "para": 175,
+          "snippet": "hatred causes division"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 1,
+          "snippet": "separation"
+        },
+        {
+          "work": "gleanings",
+          "para": 258,
+          "snippet": "devised"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 32,
+          "snippet": "that separate"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 217,
+          "snippet": "scattered"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 36,
+          "snippet": "cannot distinguish"
+        }
+      ]
+    },
+    {
+      "term": "أكباد",
+      "transliteration": "k-b-d",
+      "literal": "liver; soul; essence",
+      "se_rendering": "souls",
+      "note": "Rare term (5 occurrences) rendering 'souls', 'hearts', or 'servants'; SE chooses 'souls' here rather than 'hearts', creating semantic distinction from earlier 'hearts' (قلوب) for rhetorical intensity.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 7,
+          "snippet": "souls"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 118,
+          "snippet": "hearts"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 186,
+          "snippet": "Thy servants"
+        }
+      ]
+    },
+    {
+      "term": "الاشتياق",
+      "transliteration": "sh-t-y",
+      "literal": "peace; reconciliation; amity",
+      "se_rendering": "yearning",
+      "note": "Root sh-t-y typically renders 'harmony' or 'longing'; SE chooses 'yearning after Thee' here—a more passionate, spiritual longing specific to mystical separation.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "harmony"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 19,
+          "snippet": "longing"
+        }
+      ]
+    },
+    {
+      "term": "الأبهى",
+      "transliteration": "b-h-y",
+      "literal": "splendor; glory; magnificence; Bahá (Proper Name in Bahá'í texts)",
+      "se_rendering": "effulgent",
+      "note": "Appears only 17 times in corpus with renderings including 'Bahá', 'Glory', 'All-Glorious'; SE selects 'effulgent' here, emphasizing radiance and splendor over the proper name Bahá.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 89,
+          "snippet": "Bahá"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 59,
+          "snippet": "Glory"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 51,
+          "snippet": "Abhá"
+        },
+        {
+          "work": "gleanings",
+          "para": 645,
+          "snippet": "All-Glorious"
+        }
+      ]
+    },
+    {
+      "term": "تنزل",
+      "transliteration": "n-z-l",
+      "literal": "to descend, to be revealed",
+      "se_rendering": "send down",
+      "note": "Standard rendering 'sent down' or 'revealed' across 88 occurrences; SE maintains 'send down' here, preserving the vocative prayer context and divine descent imagery.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 643,
+          "snippet": "sent down"
+        },
+        {
+          "work": "gleanings",
+          "para": 218,
+          "snippet": "revealed"
+        },
+        {
+          "work": "gleanings",
+          "para": 656,
+          "snippet": "descended"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 34,
+          "snippet": "Descend"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 40,
+          "snippet": "were revealed"
+        },
+        {
+          "work": "gleanings",
+          "para": 604,
+          "snippet": "have been sent down"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 16,
+          "snippet": "hath been sent down"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 171,
+          "snippet": "which have been sent down"
+        }
+      ]
+    }
+  ],
+  "section_index": "V.2",
+  "section": "V",
+  "section_para": 2
 }

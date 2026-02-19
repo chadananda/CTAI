@@ -1,10 +1,744 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 463,
   "source_text": "ي محضر الله وتسئلون عمّا اكتسبتم بأيديكم وتجزون بها فبئس مثوى الظّالمين، فوالله لو تطّلع بما فعلت لتبكي على نفسك وتفرّ إلى الله وتضجّ في أيّامك إلى أن يغفر الله لك وإنّه لجوّاد كريم، ولكن أنت لن توفّق بذلك لما اشتغلت بذاتك ونفسك وجسمك إلى زخارف الدّنيا إلى أن يفارق الرّوح عنك إذا تعرف ما ألقيناك وتجد أعمالك في كتاب الّذي ما ترك فيه ذرّة من أعمال الخلائق أجمعين، إذا فاستنصح بنصحي ثمّ اسمع قولي بسمع فؤادك ولا تغفل عن كلماتي ولا تكن من المعرضين، ولا تفتخر بما أوتيت فانظر إلى ما نزّل في كتاب الله المهيمن العزيز، فلمّا نسوا عمّا ذكّروا به فتحنا عليهم أبواب كلّ شيء كما فتح عليك وعلى أمثالك أبواب الدّنيا وزخرفها، إذا فانتظر ما نزّل في آخر هذه الآية المباركة وهذا وعد غير مكذوب من مقتدر حكيم، ولم أدر بأيّ صراط أنتم تقيمون وعليه تمشون",
   "translation": "By God! Wert thou to realize what thou hast done, thou wouldst surely weep sore over thyself, and wouldst flee for refuge to God, and wouldst pine away and mourn all the days of thy life, till God will have forgiven thee, for He, verily, is the Most Generous, the All-Bountiful. Thou wilt, however, persist, till the hour of thy death, in thy heedlessness, inasmuch as thou hast, with all thine heart, thy soul and inmost being, busied thyself with the vanities of the world. Thou shalt, after thy departure, discover what We have revealed unto thee, and shalt find all thy doings recorded in the Book wherein the works of all them that dwell on earth, be they greater or less than the weight of an atom, are noted down. Heed, therefore, My counsel, and hearken thou, with the hearing of thine heart, unto My speech, and be not careless of My words, nor be of them that reject My truth. Glory not in the things that have been given thee. Set before thine eyes what hath been revealed in the Book of God, the Help in Peril, the All-Glorious: “And when they had forgotten their warnings, We set open to them the gates of all things,” even as We did set open to thee and to thy like the gates of this earth and the ornaments thereof. Wait thou, therefore, for what hath been promised in the latter part of this holy verse, for this is a promise from Him Who is the Almighty, the All-Wise — a promise that will not prove untrue.",
   "source_lang": "ar",
-  "score": 9.8
+  "score": 9.8,
+  "page_slug": "weep-over-thyself-flee-to-god",
+  "alignment": [
+    {
+      "ar": "محضر",
+      "en": "before"
+    },
+    {
+      "ar": "الله",
+      "en": "God"
+    },
+    {
+      "ar": "اكتسبتم",
+      "en": "done"
+    },
+    {
+      "ar": "فوالله",
+      "en": "By God"
+    },
+    {
+      "ar": "لو",
+      "en": "Wert"
+    },
+    {
+      "ar": "تطّلع",
+      "en": "to realize"
+    },
+    {
+      "ar": "بما",
+      "en": "what"
+    },
+    {
+      "ar": "فعلت",
+      "en": "thou hast done"
+    },
+    {
+      "ar": "لتبكي",
+      "en": "thou wouldst surely weep"
+    },
+    {
+      "ar": "على",
+      "en": "over"
+    },
+    {
+      "ar": "نفسك",
+      "en": "thyself"
+    },
+    {
+      "ar": "وتفرّ",
+      "en": "wouldst flee for refuge"
+    },
+    {
+      "ar": "إلى",
+      "en": "to"
+    },
+    {
+      "ar": "وتضجّ",
+      "en": "wouldst pine away and mourn"
+    },
+    {
+      "ar": "في",
+      "en": "all"
+    },
+    {
+      "ar": "أيّامك",
+      "en": "the days of thy life"
+    },
+    {
+      "ar": "إلى",
+      "en": "till"
+    },
+    {
+      "ar": "أن",
+      "en": "will have"
+    },
+    {
+      "ar": "يغفر",
+      "en": "forgiven"
+    },
+    {
+      "ar": "لك",
+      "en": "thee"
+    },
+    {
+      "ar": "وإنّه",
+      "en": "for He, verily"
+    },
+    {
+      "ar": "لجوّاد",
+      "en": "the Most Generous"
+    },
+    {
+      "ar": "كريم",
+      "en": "the All-Bountiful"
+    },
+    {
+      "ar": "ولكن",
+      "en": "however"
+    },
+    {
+      "ar": "أنت",
+      "en": "Thou"
+    },
+    {
+      "ar": "لن",
+      "en": "wilt"
+    },
+    {
+      "ar": "توفّق",
+      "en": "persist"
+    },
+    {
+      "ar": "بذلك",
+      "en": "in thy heedlessness"
+    },
+    {
+      "ar": "لما",
+      "en": "inasmuch as"
+    },
+    {
+      "ar": "اشتغلت",
+      "en": "busied thyself"
+    },
+    {
+      "ar": "بذاتك",
+      "en": "with all thine heart"
+    },
+    {
+      "ar": "ونفسك",
+      "en": "thy soul"
+    },
+    {
+      "ar": "وجسمك",
+      "en": "inmost being"
+    },
+    {
+      "ar": "إلى",
+      "en": "with"
+    },
+    {
+      "ar": "زخارف",
+      "en": "the vanities"
+    },
+    {
+      "ar": "الدّنيا",
+      "en": "of the world"
+    },
+    {
+      "ar": "أن",
+      "en": "the hour"
+    },
+    {
+      "ar": "يفارق",
+      "en": "of thy death"
+    },
+    {
+      "ar": "الرّوح",
+      "en": "departure"
+    },
+    {
+      "ar": "عنك",
+      "en": "after thy"
+    },
+    {
+      "ar": "إذا",
+      "en": "shalt"
+    },
+    {
+      "ar": "تعرف",
+      "en": "discover"
+    },
+    {
+      "ar": "ألقيناك",
+      "en": "We have revealed unto thee"
+    },
+    {
+      "ar": "وتجد",
+      "en": "and shalt find"
+    },
+    {
+      "ar": "أعمالك",
+      "en": "all thy doings"
+    },
+    {
+      "ar": "في",
+      "en": "in"
+    },
+    {
+      "ar": "كتاب",
+      "en": "the Book"
+    },
+    {
+      "ar": "الّذي",
+      "en": "wherein"
+    },
+    {
+      "ar": "ما",
+      "en": "the works"
+    },
+    {
+      "ar": "ترك",
+      "en": "are noted down"
+    },
+    {
+      "ar": "ذرّة",
+      "en": "the weight of an atom"
+    },
+    {
+      "ar": "من",
+      "en": "of"
+    },
+    {
+      "ar": "أعمال",
+      "en": "them that dwell on earth"
+    },
+    {
+      "ar": "أجمعين",
+      "en": "recorded"
+    },
+    {
+      "ar": "إذا",
+      "en": "therefore"
+    },
+    {
+      "ar": "فاستنصح",
+      "en": "Heed"
+    },
+    {
+      "ar": "بنصحي",
+      "en": "My counsel"
+    },
+    {
+      "ar": "ثمّ",
+      "en": "and"
+    },
+    {
+      "ar": "اسمع",
+      "en": "hearken"
+    },
+    {
+      "ar": "قولي",
+      "en": "My speech"
+    },
+    {
+      "ar": "بسمع",
+      "en": "with the hearing"
+    },
+    {
+      "ar": "فؤادك",
+      "en": "of thine heart"
+    },
+    {
+      "ar": "ولا",
+      "en": "be not"
+    },
+    {
+      "ar": "تغفل",
+      "en": "careless"
+    },
+    {
+      "ar": "كلماتي",
+      "en": "My words"
+    },
+    {
+      "ar": "ولا",
+      "en": "nor"
+    },
+    {
+      "ar": "تكن",
+      "en": "be"
+    },
+    {
+      "ar": "من",
+      "en": "of them that"
+    },
+    {
+      "ar": "المعرضين",
+      "en": "reject My truth"
+    },
+    {
+      "ar": "ولا",
+      "en": "not"
+    },
+    {
+      "ar": "تفتخر",
+      "en": "Glory"
+    },
+    {
+      "ar": "بما",
+      "en": "in the things that"
+    },
+    {
+      "ar": "أوتيت",
+      "en": "have been given thee"
+    },
+    {
+      "ar": "فانظر",
+      "en": "Set before thine eyes"
+    },
+    {
+      "ar": "ما",
+      "en": "hath been"
+    },
+    {
+      "ar": "نزّل",
+      "en": "revealed"
+    },
+    {
+      "ar": "كتاب",
+      "en": "the Book of"
+    },
+    {
+      "ar": "المهيمن",
+      "en": "the Help in Peril"
+    },
+    {
+      "ar": "العزيز",
+      "en": "the All-Glorious"
+    },
+    {
+      "ar": "فلمّا",
+      "en": "And when"
+    },
+    {
+      "ar": "نسوا",
+      "en": "they had forgotten"
+    },
+    {
+      "ar": "عمّا",
+      "en": "their"
+    },
+    {
+      "ar": "ذكّروا",
+      "en": "warnings"
+    },
+    {
+      "ar": "فتحنا",
+      "en": "We set open"
+    },
+    {
+      "ar": "عليهم",
+      "en": "to them"
+    },
+    {
+      "ar": "أبواب",
+      "en": "the gates"
+    },
+    {
+      "ar": "كلّ",
+      "en": "of all"
+    },
+    {
+      "ar": "شيء",
+      "en": "things"
+    },
+    {
+      "ar": "كما",
+      "en": "even as"
+    },
+    {
+      "ar": "فتح",
+      "en": "We did set open"
+    },
+    {
+      "ar": "عليك",
+      "en": "to thee"
+    },
+    {
+      "ar": "وعلى",
+      "en": "and to"
+    },
+    {
+      "ar": "أمثالك",
+      "en": "thy like"
+    },
+    {
+      "ar": "الدّنيا",
+      "en": "of this earth"
+    },
+    {
+      "ar": "وزخرفها",
+      "en": "and the ornaments thereof"
+    },
+    {
+      "ar": "فانتظر",
+      "en": "Wait thou"
+    },
+    {
+      "ar": "ما",
+      "en": "for what"
+    },
+    {
+      "ar": "نزّل",
+      "en": "hath been promised"
+    },
+    {
+      "ar": "آخر",
+      "en": "the latter part"
+    },
+    {
+      "ar": "هذه",
+      "en": "of this"
+    },
+    {
+      "ar": "الآية",
+      "en": "verse"
+    },
+    {
+      "ar": "المباركة",
+      "en": "holy"
+    },
+    {
+      "ar": "وهذا",
+      "en": "for this is"
+    },
+    {
+      "ar": "وعد",
+      "en": "a promise"
+    },
+    {
+      "ar": "مكذوب",
+      "en": "prove untrue"
+    },
+    {
+      "ar": "من",
+      "en": "from Him Who is"
+    },
+    {
+      "ar": "مقتدر",
+      "en": "the Almighty"
+    },
+    {
+      "ar": "حكيم",
+      "en": "the All-Wise"
+    }
+  ],
+  "terms": [
+    {
+      "term": "الظّالمین",
+      "transliteration": "z-l-m",
+      "literal": "wrongedness, oppression, meekness; state of being wronged or oppressed",
+      "se_rendering": "Wronged One",
+      "note": "Typically rendered 'wronged' or 'afflicted' across 128 occurrences; SE's implicit interpretation here treats those who oppress themselves through heedlessness as wronged by their own acts, creating ethical irony.",
+      "cross_refs": [
+        {
+          "work": "fire-tablet",
+          "para": 49,
+          "snippet": "meekness"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 116,
+          "snippet": "injury"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 36,
+          "snippet": "Wronged One"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 253,
+          "snippet": "wronged"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 9,
+          "snippet": "Darkness"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 33,
+          "snippet": "tyranny"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 573,
+          "snippet": "oppressed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 181,
+          "snippet": "wronged ones"
+        }
+      ]
+    },
+    {
+      "term": "الروح",
+      "transliteration": "r-w-h",
+      "literal": "to go; to depart; to rest; spirit; soul",
+      "se_rendering": "thy death",
+      "note": "Usually 'spirit' or 'My Well-Beloved' (34 occ.); SE renders 'yafariqu'r-ruh' as 'the hour of thy death,' marking unique temporal interpretation emphasizing mortality over spiritual essence.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 702,
+          "snippet": "my spirit"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 201,
+          "snippet": "the Spirit"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 121,
+          "snippet": "spiritual"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 215,
+          "snippet": "spiritually-minded"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 20,
+          "snippet": "a breath of My own Spirit"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 100,
+          "snippet": "spirit"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 22,
+          "snippet": "in a spirit"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 17,
+          "snippet": "with My spirit"
+        }
+      ]
+    },
+    {
+      "term": "المعرضین",
+      "transliteration": "ʿ-r-d",
+      "literal": "to turn away; to avert; to abstain; heedless",
+      "se_rendering": "reject My truth",
+      "note": "Usually 'turned away' or 'turned aside' (47 occ.); SE's 'reject My truth' intensifies theological import, transforming physical aversion into epistemic refusal and doctrinal opposition.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 136,
+          "snippet": "turned away"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 168,
+          "snippet": "turned aside"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 230,
+          "snippet": "disbelievers"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 505,
+          "snippet": "turned their backs"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 89,
+          "snippet": "objections"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 431,
+          "snippet": "have turned back"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 29,
+          "snippet": "hast turned away"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 104,
+          "snippet": "are turned back"
+        }
+      ]
+    },
+    {
+      "term": "نزّل",
+      "transliteration": "n-z-l",
+      "literal": "to descend, to be revealed",
+      "se_rendering": "revealed",
+      "note": "Consistently 'revealed' or 'sent down' (88 occ.); stable rendering maintained here across three instances, reinforcing divine authority of scriptural unveiling without variation.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 188,
+          "snippet": "revealed"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 175,
+          "snippet": "didst send down"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 835,
+          "snippet": "sent down"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 34,
+          "snippet": "Descend"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 47,
+          "snippet": "pour forth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 330,
+          "snippet": "send down"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 40,
+          "snippet": "were revealed"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 16,
+          "snippet": "hath been sent down"
+        }
+      ]
+    },
+    {
+      "term": "العزیز",
+      "transliteration": "ʿ-z-z",
+      "literal": "glory; might; honor; dignity; power; majesty",
+      "se_rendering": "the All-Glorious",
+      "note": "Primarily 'glory' or 'might' (49 occ.); SE selects 'the All-Glorious' here from richer semantic range, amplifying divine majesty in book-epithetic context rather than abstract power.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 245,
+          "snippet": "glory"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 491,
+          "snippet": "exalted"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 99,
+          "snippet": "Dear"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 38,
+          "snippet": "dearly beloved"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 37,
+          "snippet": "Gracious"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 162,
+          "snippet": "Mighty"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 789,
+          "snippet": "Thy glory"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 158,
+          "snippet": "on thy glory"
+        }
+      ]
+    },
+    {
+      "term": "مقتدر",
+      "transliteration": "q-d-r",
+      "literal": "power; might; decree; measure; worth",
+      "se_rendering": "the Almighty",
+      "note": "Typically 'power,' 'hath decreed,' or 'forbearing' (100 occ.); SE employs 'the Almighty' here, emphasizing omnipotence rather than decree or measure, aligning with divine sovereignty theme.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 171,
+          "snippet": "a while"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 339,
+          "snippet": "Thy power"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 12,
+          "snippet": "God of power"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 35,
+          "snippet": "Potent"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 282,
+          "snippet": "Almighty"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 177,
+          "snippet": "ordain"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 4,
+          "snippet": "for a moment"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 30,
+          "snippet": "didst ordain"
+        }
+      ]
+    }
+  ],
+  "section_index": "CXIII.16",
+  "section": "CXIII",
+  "section_para": 16
 }

@@ -1,10 +1,243 @@
 {
   "work": "The Hidden Words",
   "slug": "the-hidden-words",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 114,
   "source_text": "(٣٨) ﴿ ای پسر روح ﴾\nقفس بشکن و چون همای عشق بهوای قدس پرواز کن و از نَفْس بگذر و با نَفَس رحمانی در فضای قدس ربّانی بيارام *",
   "translation": "(38) O SON OF SPIRIT!\nBurst thy cage asunder, and even as the phoenix of love soar into the firmament of holiness. Renounce thyself and, filled with the spirit of mercy, abide in the realm of celestial sanctity.",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "burst-cage-phoenix-love",
+  "alignment": [
+    {
+      "ar": "پسر",
+      "en": "SON"
+    },
+    {
+      "ar": "روح",
+      "en": "SPIRIT"
+    },
+    {
+      "ar": "قفس",
+      "en": "cage"
+    },
+    {
+      "ar": "بشکن",
+      "en": "Burst"
+    },
+    {
+      "ar": "همای",
+      "en": "phoenix"
+    },
+    {
+      "ar": "عشق",
+      "en": "love"
+    },
+    {
+      "ar": "بهوای",
+      "en": "into the firmament"
+    },
+    {
+      "ar": "قدس",
+      "en": "holiness"
+    },
+    {
+      "ar": "پرواز کن",
+      "en": "soar"
+    },
+    {
+      "ar": "نَفْس",
+      "en": "thyself"
+    },
+    {
+      "ar": "بگذر",
+      "en": "Renounce"
+    },
+    {
+      "ar": "نَفَس",
+      "en": "spirit"
+    },
+    {
+      "ar": "رحمانی",
+      "en": "mercy"
+    },
+    {
+      "ar": "فضای",
+      "en": "realm"
+    },
+    {
+      "ar": "قدس ربّانی",
+      "en": "celestial sanctity"
+    },
+    {
+      "ar": "بيارام",
+      "en": "abide"
+    }
+  ],
+  "terms": [
+    {
+      "term": "نَفْس",
+      "transliteration": "n-f-s",
+      "literal": "soul; self; person; essence",
+      "se_rendering": "thyself",
+      "note": "Appears twice in corpus (minimal data). Here rendered 'thyself' emphasizing ego-renunciation; typically 'every one' or 'His life'.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 544,
+          "snippet": "every one"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 189,
+          "snippet": "His life"
+        }
+      ]
+    },
+    {
+      "term": "رحمانی",
+      "transliteration": "r-ḥ-m",
+      "literal": "merciful, compassionate; pertaining to divine mercy",
+      "se_rendering": "spirit of mercy",
+      "note": "Among 70 occurrences, typically 'merciful' or 'Divine glory'; 'spirit of mercy' here personalizes the attribute as an animating force.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 673,
+          "snippet": "Divine glory"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 57,
+          "snippet": "Divine"
+        },
+        {
+          "work": "gleanings",
+          "para": 372,
+          "snippet": "merciful"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 220,
+          "snippet": "have mercy on them"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 546,
+          "snippet": "mercy"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 50,
+          "snippet": "the Compassionate"
+        },
+        {
+          "work": "gleanings",
+          "para": 183,
+          "snippet": "the Merciful, the Compassionate"
+        },
+        {
+          "work": "gleanings",
+          "para": 338,
+          "snippet": "the All-Forgiving, the Compassionate"
+        }
+      ]
+    },
+    {
+      "term": "فضای",
+      "transliteration": "f-d-l",
+      "literal": "grace; bounty; generosity; excellence",
+      "se_rendering": "realm",
+      "note": "Root ف-ض-ل usually rendered 'grace' or 'bounty'; 'realm' here privileges spatial over virtue-based meaning.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 50,
+          "snippet": "the Gracious, the All-Bountiful"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 115,
+          "snippet": "the All-Bounteous"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 259,
+          "snippet": "merits"
+        },
+        {
+          "work": "gleanings",
+          "para": 10,
+          "snippet": "most excellent favors"
+        },
+        {
+          "work": "gleanings",
+          "para": 60,
+          "snippet": "grace"
+        },
+        {
+          "work": "gleanings",
+          "para": 234,
+          "snippet": "His gracious favor"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "graciously"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 278,
+          "snippet": "realm"
+        }
+      ]
+    },
+    {
+      "term": "ربّانی",
+      "transliteration": "r-b-w",
+      "literal": "education; upbringing; training; cultivation",
+      "se_rendering": "celestial",
+      "note": "Root ر-ب-و means training/cultivation; typically 'education' or 'Divine'; 'celestial' here adopts quality-adjective rather than pedagogical rendering.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 540,
+          "snippet": "education"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 21,
+          "snippet": "to edify"
+        },
+        {
+          "work": "gleanings",
+          "para": 381,
+          "snippet": "Educator"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 278,
+          "snippet": "enlightened"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 162,
+          "snippet": "Divine"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 16,
+          "snippet": "divine knowledge"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 205,
+          "snippet": "divine wisdom"
+        }
+      ]
+    }
+  ],
+  "section_index": "224",
+  "section": "224",
+  "section_para": 1
 }

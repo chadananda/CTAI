@@ -1,10 +1,118 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 7,
   "source_text": "وَإِنَّكَ أَنْتَ المُعْطِ الغَفُورُ الرَّحِيْمُ.",
   "translation": "Thou art the Great Giver, the Ever-Forgiving, the Most Compassionate.",
   "source_lang": "ar",
-  "score": 9.8
+  "score": 9.8,
+  "page_slug": "great-giver-forgiving-compassionate",
+  "alignment": [
+    {
+      "ar": "أَنْتَ",
+      "en": "art"
+    },
+    {
+      "ar": "المُعْطِ",
+      "en": "the Great Giver"
+    },
+    {
+      "ar": "الغَفُورُ",
+      "en": "the Ever-Forgiving"
+    }
+  ],
+  "terms": [
+    {
+      "term": "الغَفُورُ",
+      "transliteration": "gh-f-r",
+      "literal": "to forgive; forgiveness",
+      "se_rendering": "the Ever-Forgiving",
+      "note": "Root gh-f-r typically rendered 'forgiveness' or 'forgive' in concordance. Here SE selects 'the Ever-Forgiving' — one of 21 occurrences, choosing the superlative divine epithet form.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 13,
+          "snippet": "wronged"
+        },
+        {
+          "work": "gleanings",
+          "para": 217,
+          "snippet": "forgive"
+        },
+        {
+          "work": "gleanings",
+          "para": 652,
+          "snippet": "forgiveness"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 35,
+          "snippet": "Thy forgiveness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 192,
+          "snippet": "pardon"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 682,
+          "snippet": "forgivest"
+        }
+      ]
+    },
+    {
+      "term": "الرَّحِيْمُ",
+      "transliteration": "r-ḥ-m",
+      "literal": "merciful, compassionate; pertaining to divine mercy",
+      "se_rendering": "the Most Compassionate",
+      "note": "Root r-ḥ-m shows 70 occurrences with varied renderings: 'merciful,' 'spirit of mercy,' 'celestial melody.' Here rendered 'the Most Compassionate' — aligning with merciful/compassionate class but selecting the superlative adjective form.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 673,
+          "snippet": "Divine glory"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 57,
+          "snippet": "Divine"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 89,
+          "snippet": "celestial melody"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 114,
+          "snippet": "spirit of mercy"
+        },
+        {
+          "work": "gleanings",
+          "para": 372,
+          "snippet": "merciful"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 220,
+          "snippet": "have mercy on them"
+        },
+        {
+          "work": "gleanings",
+          "para": 12,
+          "snippet": "mercy"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 50,
+          "snippet": "the Compassionate"
+        }
+      ]
+    }
+  ],
+  "section_index": "II.4",
+  "section": "II",
+  "section_para": 4
 }

@@ -1,10 +1,483 @@
 {
   "work": "Epistle to the Son of the Wolf",
   "slug": "epistle-to-the-son-of-the-wolf",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 119,
   "source_text": "و قبل از ايشان جناب کاظم و من معه و در آخر حضرت اشرف کلّ شربت شهادت را بکمال شوق و اشتياق نوشيدند و برفيق اعلی شتافتند * و همچنين در عهد سردار عزيز خان جناب عارف باللّه ميرزا مصطفی و من معه را اخذ نمودند و برفيق اعلی و افق ابهی فرستادند * باری در هر بلدی اثار ظلم ظاهر و مشهود ظلميکه شبه و مثل نداشته مع ذلک نفسی بر دفاع قيام ننمود * در حضرت بديع که حامل لوح حضرت سلطان بوده تفکّر نما که چگونه جان داد * ان فارس مضمار انقطاع اکليل ثمين حيات را نثار دوست يکتا نمود *",
   "translation": "Before them one named Káẓim and they who were with him, and after them, his honor Ashraf, all quaffed the draught of martyrdom with the utmost fervor and longing, and hastened unto the Supreme Companion. In like manner, at the time of Sardár ‘Azíz Khán, that godly man, Mírzá Mustafa, and his fellow-martyrs, were arrested, and despatched unto the Supreme Friend in the All-Glorious Horizon. Briefly, in every city the evidences of a tyranny, beyond like or equal, were unmistakably clear and manifest, and yet none arose in self-defence! Call thou to mind his honor Badi, who was the bearer of the Tablet to His Majesty the Sháh, and reflect how he laid down his life. That knight, who spurred on his charger in the arena of renunciation, threw down the precious crown of life for the sake of Him Who is the Incomparable Friend.",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "badi-precious-crown-life",
+  "alignment": [
+    {
+      "ar": "قبل",
+      "en": "Before"
+    },
+    {
+      "ar": "ايشان",
+      "en": "them"
+    },
+    {
+      "ar": "جناب",
+      "en": "one named"
+    },
+    {
+      "ar": "کاظم",
+      "en": "Káẓim"
+    },
+    {
+      "ar": "معه",
+      "en": "with him"
+    },
+    {
+      "ar": "آخر",
+      "en": "after"
+    },
+    {
+      "ar": "حضرت",
+      "en": "his honor"
+    },
+    {
+      "ar": "اشرف",
+      "en": "Ashraf"
+    },
+    {
+      "ar": "کلّ",
+      "en": "all"
+    },
+    {
+      "ar": "شربت",
+      "en": "draught"
+    },
+    {
+      "ar": "شهادت",
+      "en": "martyrdom"
+    },
+    {
+      "ar": "بکمال",
+      "en": "the utmost"
+    },
+    {
+      "ar": "شوق",
+      "en": "fervor"
+    },
+    {
+      "ar": "اشتياق",
+      "en": "longing"
+    },
+    {
+      "ar": "نوشيدند",
+      "en": "quaffed"
+    },
+    {
+      "ar": "برفيق اعلی",
+      "en": "Supreme Companion"
+    },
+    {
+      "ar": "شتافتند",
+      "en": "hastened"
+    },
+    {
+      "ar": "همچنين",
+      "en": "In like manner"
+    },
+    {
+      "ar": "عهد",
+      "en": "time"
+    },
+    {
+      "ar": "سردار",
+      "en": "Sardár"
+    },
+    {
+      "ar": "عارف باللّه",
+      "en": "godly man"
+    },
+    {
+      "ar": "ميرزا مصطفی",
+      "en": "Mírzá Mustafa"
+    },
+    {
+      "ar": "من معه",
+      "en": "his fellow-martyrs"
+    },
+    {
+      "ar": "اخذ نمودند",
+      "en": "were arrested"
+    },
+    {
+      "ar": "افق ابهی",
+      "en": "All-Glorious Horizon"
+    },
+    {
+      "ar": "فرستادند",
+      "en": "despatched"
+    },
+    {
+      "ar": "باری",
+      "en": "Briefly"
+    },
+    {
+      "ar": "هر",
+      "en": "every"
+    },
+    {
+      "ar": "بلدی",
+      "en": "city"
+    },
+    {
+      "ar": "اثار",
+      "en": "evidences"
+    },
+    {
+      "ar": "ظلم",
+      "en": "tyranny"
+    },
+    {
+      "ar": "ظاهر",
+      "en": "clear"
+    },
+    {
+      "ar": "مشهود",
+      "en": "manifest"
+    },
+    {
+      "ar": "شبه",
+      "en": "like"
+    },
+    {
+      "ar": "مثل",
+      "en": "equal"
+    },
+    {
+      "ar": "نداشته",
+      "en": "beyond"
+    },
+    {
+      "ar": "مع ذلک",
+      "en": "yet"
+    },
+    {
+      "ar": "نفسی",
+      "en": "none"
+    },
+    {
+      "ar": "دفاع",
+      "en": "self-defence"
+    },
+    {
+      "ar": "قيام ننمود",
+      "en": "arose"
+    },
+    {
+      "ar": "بديع",
+      "en": "Badi"
+    },
+    {
+      "ar": "حامل",
+      "en": "bearer"
+    },
+    {
+      "ar": "لوح",
+      "en": "Tablet"
+    },
+    {
+      "ar": "سلطان",
+      "en": "His Majesty the Sháh"
+    },
+    {
+      "ar": "تفکّر نما",
+      "en": "Call thou to mind"
+    },
+    {
+      "ar": "چگونه",
+      "en": "how"
+    },
+    {
+      "ar": "جان داد",
+      "en": "laid down his life"
+    },
+    {
+      "ar": "فارس",
+      "en": "knight"
+    },
+    {
+      "ar": "مضمار",
+      "en": "arena"
+    },
+    {
+      "ar": "انقطاع",
+      "en": "renunciation"
+    },
+    {
+      "ar": "اکليل",
+      "en": "crown"
+    },
+    {
+      "ar": "ثمين",
+      "en": "precious"
+    },
+    {
+      "ar": "حيات",
+      "en": "life"
+    },
+    {
+      "ar": "نثار",
+      "en": "threw down"
+    },
+    {
+      "ar": "دوست يکتا",
+      "en": "Incomparable Friend"
+    }
+  ],
+  "terms": [
+    {
+      "term": "شهادت",
+      "transliteration": "sh-h-d",
+      "literal": "witnessed; observed; seen; evident; manifest",
+      "se_rendering": "martyrdom",
+      "note": "Typically 'manifest' or 'evident' across 74 occurrences, but here rendered 'martyrdom'—a specialized meaning unique to Bahá'í context marking witness unto death rather than mere testimony.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 607,
+          "snippet": "manifest"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 35,
+          "snippet": "evident"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 811,
+          "snippet": "I bear witness"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 836,
+          "snippet": "I testify"
+        },
+        {
+          "work": "gleanings",
+          "para": 298,
+          "snippet": "witness"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 138,
+          "snippet": "martyrdom"
+        },
+        {
+          "work": "gleanings",
+          "para": 134,
+          "snippet": "God witnesseth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 230,
+          "snippet": "God testifieth"
+        }
+      ]
+    },
+    {
+      "term": "اعلی",
+      "transliteration": "ʿ-l-w",
+      "literal": "highest; most high; supreme",
+      "se_rendering": "Supreme",
+      "note": "Consistently 'supreme' or 'Most High' across 74 occurrences. Here 'Supreme' appears twice—formulaic rendering for divine proximity metaphor rather than variation.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 1,
+          "snippet": "the Most High"
+        },
+        {
+          "work": "gleanings",
+          "para": 232,
+          "snippet": "supreme"
+        },
+        {
+          "work": "gleanings",
+          "para": 616,
+          "snippet": "the realms above"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 390,
+          "snippet": "the Most Exalted, the Most High"
+        },
+        {
+          "work": "gleanings",
+          "para": 393,
+          "snippet": "The Pen of the Most High"
+        },
+        {
+          "work": "gleanings",
+          "para": 697,
+          "snippet": "the Dayspring of Glory"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 1,
+          "snippet": "the Realm of Glory"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 257,
+          "snippet": "the Báb, the Lord, the most exalted"
+        }
+      ]
+    },
+    {
+      "term": "بديع",
+      "transliteration": "b-d-ʿ",
+      "literal": "to create; most wondrous; excel",
+      "se_rendering": "Badi",
+      "note": "Proper name 'Badí'u'lláh' or noun 'most wondrous' (21 occ). Here simply transliterated 'Badi'—SE preserves the historical figure's name without English rendering, indicating direct historical reference.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 2,
+          "snippet": "most wondrous"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 65,
+          "snippet": "creation"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 6,
+          "snippet": "Badí'u'lláh"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 9,
+          "snippet": "horizon of creation"
+        },
+        {
+          "work": "gleanings",
+          "para": 205,
+          "snippet": "wondrous"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 4,
+          "snippet": "Mighty, the Wondrous"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 315,
+          "snippet": "kingdoms of creation"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 160,
+          "snippet": "mystic and wondrous Bride"
+        }
+      ]
+    },
+    {
+      "term": "انقطاع",
+      "transliteration": "q-t-ʿ",
+      "literal": "to be severed; to be cut off; to detach oneself; to abstain",
+      "se_rendering": "renunciation",
+      "note": "Typically 'detached' or 'severed' across 33 occurrences. 'Renunciation' here emphasizes spiritual asceticism—world-denial—rather than mere severance, elevating sacrifice to mystical category.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 413,
+          "snippet": "detached themselves"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 427,
+          "snippet": "sundered"
+        },
+        {
+          "work": "gleanings",
+          "para": 662,
+          "snippet": "detacheth himself"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 488,
+          "snippet": "have cut themselves off"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 11,
+          "snippet": "decisive"
+        },
+        {
+          "work": "gleanings",
+          "para": 310,
+          "snippet": "cut into pieces"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 16,
+          "snippet": "detachment"
+        },
+        {
+          "work": "gleanings",
+          "para": 255,
+          "snippet": "detached"
+        }
+      ]
+    },
+    {
+      "term": "اکليل",
+      "transliteration": "k-l-l",
+      "literal": "all; every; whole; entirety",
+      "se_rendering": "crown",
+      "note": "Root کلل renders 'all,' 'entirety,' 'whole' (16 occ). Here 'crown'—SE reads اکليل as ornamental royal crown, likely relying on Persian-specific semantic field for precious regalia.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 15,
+          "snippet": "themselves"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 55,
+          "snippet": "entirely"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 40,
+          "snippet": "utterly"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 68,
+          "snippet": "Moses"
+        },
+        {
+          "work": "gleanings",
+          "para": 109,
+          "snippet": "He Who held converse with the Almighty"
+        },
+        {
+          "work": "gleanings",
+          "para": 391,
+          "snippet": "gift"
+        },
+        {
+          "work": "gleanings",
+          "para": 138,
+          "snippet": "Word"
+        },
+        {
+          "work": "gleanings",
+          "para": 182,
+          "snippet": "the whole"
+        }
+      ]
+    }
+  ],
+  "section_index": "119",
+  "section": "119",
+  "section_para": 1
 }

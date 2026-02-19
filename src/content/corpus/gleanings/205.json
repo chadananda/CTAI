@@ -1,10 +1,550 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 205,
   "source_text": "طوبی لهم و للّذین هاجروا الیک فی سبیل الله مالک هذا الیوم البدیع طوبی از برای نفوسی که بذکر و ثنای حقّ ناطقند و بخدمت امر مشغول ایشانند آن نفوسی که در کتب قبل مذکورند امیرالمؤمنین علیه بهائی در وصفشان فرموده طوباهم افضل من طوبانا قد نطق بالصّدق و انا من الشّاهدین اگرچه حال این مقامات مستور است ولکن ید قدرت البتّه مانع را بردارد و ظاهر فرماید آنچه را که سبب و علّت روشنی چشم عالم است",
   "translation": "O Land of Ṭá! Thou art still, through the grace of God, a center around which His beloved ones have gathered. Happy are they; happy every refugee that seeketh thy shelter, in his sufferings in the path of God, the Lord of this wondrous Day! Blessed are they that remember the one true God, that magnify His Name, and seek diligently to serve His Cause. It is to these men that the sacred Books of old have referred. On them hath the Commander of the Faithful lavished his praise, saying: “The blessedness awaiting them excelleth the blessedness we now enjoy.” He, verily, hath spoken the truth, and to this We now testify. The glory of their station, however, is as yet undisclosed. The Hand of Divine power will, assuredly, lift up the veil, and expose to the sight of men that which shall cheer and lighten the eye of the world.",
   "source_lang": "ar",
-  "score": 9.9
+  "score": 9.9,
+  "page_slug": "hand-divine-power-lift-veil",
+  "alignment": [
+    {
+      "ar": "طوبی",
+      "en": "Happy"
+    },
+    {
+      "ar": "لهم",
+      "en": "are they"
+    },
+    {
+      "ar": "هاجروا",
+      "en": "refugee"
+    },
+    {
+      "ar": "الیک",
+      "en": "thy shelter"
+    },
+    {
+      "ar": "سبیل",
+      "en": "path"
+    },
+    {
+      "ar": "الله",
+      "en": "God"
+    },
+    {
+      "ar": "مالک",
+      "en": "Lord"
+    },
+    {
+      "ar": "الیوم",
+      "en": "Day"
+    },
+    {
+      "ar": "البدیع",
+      "en": "wondrous"
+    },
+    {
+      "ar": "طوبی",
+      "en": "Blessed"
+    },
+    {
+      "ar": "نفوسی",
+      "en": "they"
+    },
+    {
+      "ar": "بذکر",
+      "en": "remember"
+    },
+    {
+      "ar": "ثنای",
+      "en": "magnify"
+    },
+    {
+      "ar": "حقّ",
+      "en": "one true God"
+    },
+    {
+      "ar": "ناطقند",
+      "en": "His Name"
+    },
+    {
+      "ar": "بخدمت",
+      "en": "serve"
+    },
+    {
+      "ar": "امر",
+      "en": "His Cause"
+    },
+    {
+      "ar": "مشغول",
+      "en": "seek diligently"
+    },
+    {
+      "ar": "ایشانند",
+      "en": "these men"
+    },
+    {
+      "ar": "نفوسی",
+      "en": "men"
+    },
+    {
+      "ar": "کتب",
+      "en": "Books"
+    },
+    {
+      "ar": "قبل",
+      "en": "old"
+    },
+    {
+      "ar": "مذکورند",
+      "en": "referred"
+    },
+    {
+      "ar": "امیرالمؤمنین",
+      "en": "Commander of the Faithful"
+    },
+    {
+      "ar": "علیه",
+      "en": "On them"
+    },
+    {
+      "ar": "بهائی",
+      "en": "hath"
+    },
+    {
+      "ar": "وصفشان",
+      "en": "praise"
+    },
+    {
+      "ar": "فرموده",
+      "en": "saying"
+    },
+    {
+      "ar": "طوباهم",
+      "en": "blessedness awaiting them"
+    },
+    {
+      "ar": "افضل",
+      "en": "excelleth"
+    },
+    {
+      "ar": "من",
+      "en": "the"
+    },
+    {
+      "ar": "طوبانا",
+      "en": "blessedness we now enjoy"
+    },
+    {
+      "ar": "قد",
+      "en": "verily"
+    },
+    {
+      "ar": "نطق",
+      "en": "spoken"
+    },
+    {
+      "ar": "بالصّدق",
+      "en": "truth"
+    },
+    {
+      "ar": "انا",
+      "en": "We"
+    },
+    {
+      "ar": "من",
+      "en": "now"
+    },
+    {
+      "ar": "الشّاهدین",
+      "en": "testify"
+    },
+    {
+      "ar": "اگرچه",
+      "en": "however"
+    },
+    {
+      "ar": "حال",
+      "en": "glory"
+    },
+    {
+      "ar": "مقامات",
+      "en": "station"
+    },
+    {
+      "ar": "مستور",
+      "en": "undisclosed"
+    },
+    {
+      "ar": "است",
+      "en": "is"
+    },
+    {
+      "ar": "ولکن",
+      "en": "assuredly"
+    },
+    {
+      "ar": "ید",
+      "en": "Hand"
+    },
+    {
+      "ar": "قدرت",
+      "en": "Divine power"
+    },
+    {
+      "ar": "البتّه",
+      "en": "will"
+    },
+    {
+      "ar": "مانع",
+      "en": "veil"
+    },
+    {
+      "ar": "بردارد",
+      "en": "lift up"
+    },
+    {
+      "ar": "ظاهر",
+      "en": "expose"
+    },
+    {
+      "ar": "فرماید",
+      "en": "to the sight"
+    },
+    {
+      "ar": "آنچه",
+      "en": "that which"
+    },
+    {
+      "ar": "سبب",
+      "en": "cheer"
+    },
+    {
+      "ar": "علّت",
+      "en": "lighten"
+    },
+    {
+      "ar": "چشم",
+      "en": "eye"
+    },
+    {
+      "ar": "عالم",
+      "en": "world"
+    }
+  ],
+  "terms": [
+    {
+      "term": "طوبی",
+      "transliteration": "t-w-b",
+      "literal": "happiness; blessedness; felicity",
+      "se_rendering": "Happy",
+      "note": "Typically 'Happy' or 'Blessed' (12 occurrences); rendered 'Happy' here—the most frequent choice, maintaining consistent beatitude rhetoric.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 82,
+          "snippet": "happy"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 130,
+          "snippet": "Great is thy blessedness"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 29,
+          "snippet": "Well is it with them"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 805,
+          "snippet": "Great, therefore, is the blessedness"
+        }
+      ]
+    },
+    {
+      "term": "البدیع",
+      "transliteration": "b-d-ʿ",
+      "literal": "to create; most wondrous; excel",
+      "se_rendering": "wondrous",
+      "note": "Range includes 'wondrous', 'creation', 'Badí'u'lláh' (21 occurrences); 'wondrous Day' here—adjectival application modifying temporal rather than existential category.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 2,
+          "snippet": "most wondrous"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 65,
+          "snippet": "creation"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 6,
+          "snippet": "Badí'u'lláh"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 9,
+          "snippet": "horizon of creation"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 191,
+          "snippet": "the eye of the universe"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 4,
+          "snippet": "Mighty, the Wondrous"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 315,
+          "snippet": "kingdoms of creation"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 202,
+          "snippet": "new"
+        }
+      ]
+    },
+    {
+      "term": "امر",
+      "transliteration": "ʾ-m-r",
+      "literal": "command; cause; matter; affair",
+      "se_rendering": "Cause",
+      "note": "Standard 'His Cause' or 'His Revelation' (75 occurrences); 'Cause' here—the consistent rendering throughout, maintaining the Bahá'í doctrinal term.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "His Cause"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 797,
+          "snippet": "Thy Cause"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 597,
+          "snippet": "service"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 167,
+          "snippet": "things"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "commanded"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 236,
+          "snippet": "commissioned"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 785,
+          "snippet": "Thy Revelation"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 38,
+          "snippet": "for the protection of the Cause"
+        }
+      ]
+    },
+    {
+      "term": "مقامات",
+      "transliteration": "q-w-m",
+      "literal": "rising; standing; uprising; resurrection",
+      "se_rendering": "glory",
+      "note": "Usually 'Day of Resurrection' or 'Resurrection' (109 occurrences); 'glory of their station' here—unique metaphorical application avoiding eschatological language.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 152,
+          "snippet": "Day of Resurrection"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 153,
+          "snippet": "Resurrection"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 74,
+          "snippet": "rise"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "peoples"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 26,
+          "snippet": "steadfast"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 38,
+          "snippet": "steadfast in faith"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 628,
+          "snippet": "stood fast"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 198,
+          "snippet": "station"
+        }
+      ]
+    },
+    {
+      "term": "مستور",
+      "transliteration": "s-t-r",
+      "literal": "to veil; to conceal; to cover; veil; covering",
+      "se_rendering": "undisclosed",
+      "note": "Typically 'hidden' or 'concealed' (22 occurrences); 'undisclosed' here—subtle shift toward epistemic incompleteness rather than active concealment.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 8,
+          "snippet": "concealed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 17,
+          "snippet": "hidden"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 35,
+          "snippet": "star"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 46,
+          "snippet": "tabernacle"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 45,
+          "snippet": "Concealer"
+        }
+      ]
+    },
+    {
+      "term": "قدرت",
+      "transliteration": "q-d-r",
+      "literal": "power; might; decree; measure; worth",
+      "se_rendering": "Divine power",
+      "note": "Standard renderings include 'power' and 'Thy power' (100 occurrences); 'Divine power' here—specific epithet making the agency explicitly divine rather than abstract.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 171,
+          "snippet": "a while"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 339,
+          "snippet": "Thy power"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 12,
+          "snippet": "God of power"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 35,
+          "snippet": "Potent"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 282,
+          "snippet": "Almighty"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 177,
+          "snippet": "ordain"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 4,
+          "snippet": "for a moment"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 30,
+          "snippet": "didst ordain"
+        }
+      ]
+    },
+    {
+      "term": "ظاهر",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "expose",
+      "note": "Common renderings: 'Manifestation' or 'revealed' (96 occurrences); 'expose' here—active verb form emphasizing imminent disclosure rather than ontological status.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 140,
+          "snippet": "manifestation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 160,
+          "snippet": "Author of all Manifestations"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 136,
+          "snippet": "evident"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 206,
+          "snippet": "appeared"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 196,
+          "snippet": "Manifestations of God"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 255,
+          "snippet": "Manifestations"
+        }
+      ]
+    }
+  ],
+  "section_index": "LV.3",
+  "section": "LV",
+  "section_para": 3
 }

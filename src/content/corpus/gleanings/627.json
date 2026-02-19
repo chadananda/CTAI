@@ -1,10 +1,406 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 627,
   "source_text": "يَا إِلَهَ ٱلْرَّحْمَنِ وَٱلْمُقْتَدِرُ عَلَى ٱلْإِمْكَانِ تَرى عِبَادك وَأَرِقَّائَكَ ٱلَّذِينَ يَصُوْمُوْنَ فِي ٱلْأَيَّامِ بِأَمْرِك وَإِرَادَتِكَ وَيَقُوْمُوْنَ فِي ٱلْأَسْحَارِ لِذِكْرِكَ وَثَنَائِكَ رَجَاءَ مَا كُنِزَ فِي كَنَائِزِ فَضْلِكَ وَخَزَائِنِ جُوْدِكَ وَكَرَمِكَ. أَسْأَلُكَ يَا مَنْ بِيَدِكَ زِمَامُ ٱلْمُمْكِنَاتِ وَفِي قَبْضَتِكَ مَلَكُوْتُ ٱلْأَسْمَاءِ وَٱلصِّفَاتِ بِأَنْ لَا تَحْرِمَ عِبَادَكَ عَنْ أَمْطَارِ سَحَابِ رَحْمَتِكَ فِي أَيَّامِكَ وَلَا تَمْنَعَهُمْ عَنْ رَشَحَاتِ بَحْرِ رِضَائِكَ. أَيْ رَبِّ قَد شَهِدَتِ ٱلْذَّرَّاتُ بِقُدْرَتِكَ وَسُلْطَانِكَ وَٱلْآيَاتُ بِعَظَمَتِكَ وَٱقْتِدَارِكَ ف",
   "translation": "Thou seest, O God of Mercy, Thou Whose power pervadeth all created things, these servants of Thine, Thy thralls, who, according to the good-pleasure of Thy Will, observe in the daytime the fast prescribed by Thee, who arise, at the earliest dawn of day, to make mention of Thy Name, and to celebrate Thy praise, in the hope of obtaining their share of the goodly things that are treasured up within the treasuries of Thy grace and bounty. I beseech Thee, O Thou that holdest in Thine hands the reins of the entire creation, in Whose grasp is the whole kingdom of Thy names and of Thine attributes, not to deprive, in Thy Day, Thy servants from the showers pouring from the clouds of Thy mercy, nor to hinder them from taking their portion of the ocean of Thy good-pleasure.",
   "source_lang": "ar",
-  "score": 9.8
+  "score": 9.8,
+  "page_slug": "showers-clouds-mercy",
+  "alignment": [
+    {
+      "ar": "إِلَهَ",
+      "en": "God"
+    },
+    {
+      "ar": "ٱلْمُقْتَدِرُ",
+      "en": "power pervadeth"
+    },
+    {
+      "ar": "ٱلْإِمْكَانِ",
+      "en": "all created things"
+    },
+    {
+      "ar": "تَرى",
+      "en": "seest"
+    },
+    {
+      "ar": "عِبَادك",
+      "en": "these servants of Thine"
+    },
+    {
+      "ar": "يَصُوْمُوْنَ",
+      "en": "observe"
+    },
+    {
+      "ar": "بِأَمْرِك",
+      "en": "according to the good-pleasure of Thy Will"
+    },
+    {
+      "ar": "وَإِرَادَتِكَ",
+      "en": "prescribed"
+    },
+    {
+      "ar": "يَقُوْمُوْنَ",
+      "en": "arise"
+    },
+    {
+      "ar": "ٱلْأَسْحَارِ",
+      "en": "at the earliest dawn of day"
+    },
+    {
+      "ar": "لِذِكْرِكَ",
+      "en": "to make mention of Thy Name"
+    },
+    {
+      "ar": "وَثَنَائِكَ",
+      "en": "to celebrate Thy praise"
+    },
+    {
+      "ar": "رَجَاءَ",
+      "en": "in the hope"
+    },
+    {
+      "ar": "مَا",
+      "en": "obtaining their share"
+    },
+    {
+      "ar": "كُنِزَ",
+      "en": "treasured up"
+    },
+    {
+      "ar": "كَنَائِزِ",
+      "en": "treasuries"
+    },
+    {
+      "ar": "فَضْلِكَ",
+      "en": "Thy grace"
+    },
+    {
+      "ar": "خَزَائِنِ",
+      "en": "within"
+    },
+    {
+      "ar": "جُوْدِكَ",
+      "en": "bounty"
+    },
+    {
+      "ar": "وَكَرَمِكَ",
+      "en": "goodly things"
+    },
+    {
+      "ar": "أَسْأَلُكَ",
+      "en": "I beseech Thee"
+    },
+    {
+      "ar": "بِيَدِكَ",
+      "en": "in Thine hands"
+    },
+    {
+      "ar": "زِمَامُ",
+      "en": "the reins"
+    },
+    {
+      "ar": "ٱلْمُمْكِنَاتِ",
+      "en": "the entire creation"
+    },
+    {
+      "ar": "قَبْضَتِكَ",
+      "en": "in Whose grasp"
+    },
+    {
+      "ar": "مَلَكُوْتُ",
+      "en": "the whole kingdom"
+    },
+    {
+      "ar": "ٱلْأَسْمَاءِ",
+      "en": "Thy names"
+    },
+    {
+      "ar": "لَا تَحْرِمَ",
+      "en": "not to deprive"
+    },
+    {
+      "ar": "عِبَادَكَ",
+      "en": "Thy servants"
+    },
+    {
+      "ar": "أَمْطَارِ",
+      "en": "the showers"
+    },
+    {
+      "ar": "سَحَابِ",
+      "en": "from the clouds"
+    },
+    {
+      "ar": "رَحْمَتِكَ",
+      "en": "of Thy mercy"
+    },
+    {
+      "ar": "لَا تَمْنَعَهُمْ",
+      "en": "nor to hinder them"
+    },
+    {
+      "ar": "رَشَحَاتِ",
+      "en": "taking their portion"
+    },
+    {
+      "ar": "بَحْرِ",
+      "en": "of the ocean"
+    },
+    {
+      "ar": "رِضَائِكَ",
+      "en": "of Thy good-pleasure"
+    },
+    {
+      "ar": "شَهِدَتِ",
+      "en": "Thou"
+    }
+  ],
+  "terms": [
+    {
+      "term": "الرَّحْمَنِ",
+      "transliteration": "r-ḥ-m",
+      "literal": "merciful, compassionate; pertaining to divine mercy",
+      "se_rendering": "God of Mercy",
+      "note": "Typically 'merciful' or 'Divine' across 70 occurrences. Here rendered as 'God of Mercy'—a personalized epithet that foregrounds compassion in invocatory address.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 57,
+          "snippet": "Divine"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 89,
+          "snippet": "celestial melody"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 114,
+          "snippet": "spirit of mercy"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 220,
+          "snippet": "have mercy on them"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 546,
+          "snippet": "mercy"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 50,
+          "snippet": "the Compassionate"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 793,
+          "snippet": "have mercy upon them"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 47,
+          "snippet": "Thy mercy"
+        }
+      ]
+    },
+    {
+      "term": "مَلَكُوْتُ",
+      "transliteration": "m-l-k",
+      "literal": "kingdom; dominion; realm; sovereignty",
+      "se_rendering": "kingdom",
+      "note": "Rendered variously as 'heaven', 'realm', 'Kingdom' across 70 occurrences. 'Kingdom' maintains metaphysical sense while preserving dominion connotations implicit in the divine names and attributes.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-ahd",
+          "para": 16,
+          "snippet": "heaven"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 171,
+          "snippet": "kingdom"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 69,
+          "snippet": "realms"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 28,
+          "snippet": "righteous"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 167,
+          "snippet": "by the heavenly power"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 57,
+          "snippet": "Ruler"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 82,
+          "snippet": "King"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 102,
+          "snippet": "Lord of all mankind"
+        }
+      ]
+    },
+    {
+      "term": "بَحْرِ",
+      "transliteration": "b-ḥ-r",
+      "literal": "sea; ocean",
+      "se_rendering": "ocean",
+      "note": "Standard rendering 'ocean' or 'sea' across 18 occurrences. The metaphor of divine pleasure as an ocean establishes abundance and immeasurability, directly paralleling the cloud imagery for mercy.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 2,
+          "snippet": "two Seas"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 32,
+          "snippet": "ocean"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 769,
+          "snippet": "oceans"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 119,
+          "snippet": "seas"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 353,
+          "snippet": "ocean of Thy wrath"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 32,
+          "snippet": "sea of grace"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 666,
+          "snippet": "unto the ocean"
+        }
+      ]
+    },
+    {
+      "term": "رِضَائِكَ",
+      "transliteration": "r-d-y",
+      "literal": "good-pleasure, consent, satisfaction",
+      "se_rendering": "Thy good-pleasure",
+      "note": "Typically 'Thy pleasure' or 'Thy good-pleasure' across 30 occurrences. SE's 'good-pleasure' here emphasizes volitional satisfaction alongside enjoyment, deepening the relational dimension.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 621,
+          "snippet": "Thy pleasure"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 410,
+          "snippet": "Thy good-pleasure"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 46,
+          "snippet": "content"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 28,
+          "snippet": "is pleased with"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 41,
+          "snippet": "pleasure"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 109,
+          "snippet": "paradise"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 10,
+          "snippet": "Ridván"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 263,
+          "snippet": "Sadrih of the Ridván"
+        }
+      ]
+    },
+    {
+      "term": "شَهِدَتِ",
+      "transliteration": "sh-h-d",
+      "literal": "witnessed; observed; seen; evident; manifest",
+      "se_rendering": "witnessed",
+      "note": "Usually 'manifest', 'evident', or 'I testify' across 74 occurrences. 'Witnessed' here personalizes atomic testimony, making creation an active observer of divine attributes rather than mere sign.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 35,
+          "snippet": "evident"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 811,
+          "snippet": "I bear witness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 6,
+          "snippet": "I testify"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 138,
+          "snippet": "martyrdom"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 230,
+          "snippet": "God testifieth"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 57,
+          "snippet": "beheld"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 117,
+          "snippet": "testify"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 156,
+          "snippet": "bear witness"
+        }
+      ]
+    }
+  ],
+  "section_index": "CXXXVIII.1",
+  "section": "CXXXVIII",
+  "section_para": 1
 }

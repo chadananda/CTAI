@@ -1,10 +1,603 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 316,
   "source_text": "َدَّسًا عَنِ الظُّنُونِ وَالأَوْهَامِ، فَوَعِزَّتِكَ كُلُّ مَنِ ادَّعى عِرْفانَكَ نَفْسُ ادِّعائِه ِ يَشْهَدُ بِجَهْلِهِ، وَكُلُّ مَنْ يَدَّعِي البُلُوغَ إِلَيْكَ يَشْهَدُ لَهُ كُلُّ الذَّرّاتِ بِالعَجْزِ وَالقُصُورِ، وَلكِنْ أَنْتَ بِرَحْمَتِكَ الَّتِيْ سَبَقَتْ مَلَكُوتَ مُلْكِ السَّمَواتِ وَالأَرْضِ، قَبِلْتَ مِنْ عِبادِكَ ذِكْرَهُمْ وَثَنائَهُمْ نَفْسَكَ العُلْيا وَأَمَرْتَهُمْ بِذلِكَ لِتُرْفَعَ بِهِ أَعْلامُ هِدايَتِكَ فِي بِلادِكَ وَتَنْتَشِرَ آثارُ رَحْمَانِيَّتِكَ فِي مَمْلَكَتِكَ، وَلِيَصِلُنَّ كُلٌّ إِلى ما قَدَّرْتَ لَهُمْ بِأَمْرِكَ وَقَضَيْتَ لَهُمْ بِقَضائِكَ وَتَقْدِيرِكَ، إِذًا",
   "translation": "The glory of Thy might beareth me witness! Whoso claimeth to have known Thee hath, by virtue of such a claim, testified to his own ignorance; and whoso believeth himself to have attained unto Thee, all the atoms of the earth would attest his powerlessness and proclaim his failure. Thou hast, however, by virtue of Thy mercy that hath surpassed the kingdoms of earth and heaven, deigned to accept from Thy servants the laud and honor they pay to Thine own exalted Self, and hast bidden them celebrate Thy glory, that the ensigns of Thy guidance may be unfurled in Thy cities and the tokens of Thy mercy be spread abroad among Thy nations, and that each and all may be enabled to attain unto that which Thou hast destined for them by Thy decree, and ordained unto them through Thine irrevocable will and purpose.",
   "source_lang": "ar",
-  "score": 9.7
+  "score": 9.7,
+  "page_slug": "claim-known-thee-ignorance",
+  "alignment": [
+    {
+      "ar": "الأَوْهَامِ",
+      "en": "failure"
+    },
+    {
+      "ar": "مَنِ",
+      "en": "Whoso"
+    },
+    {
+      "ar": "عِرْفانَكَ",
+      "en": "to have known Thee"
+    },
+    {
+      "ar": "يَشْهَدُ",
+      "en": "testified"
+    },
+    {
+      "ar": "بِجَهْلِهِ",
+      "en": "to his own ignorance"
+    },
+    {
+      "ar": "البُلُوغَ",
+      "en": "to have attained"
+    },
+    {
+      "ar": "إِلَيْكَ",
+      "en": "unto Thee"
+    },
+    {
+      "ar": "بِالعَجْزِ",
+      "en": "his powerlessness"
+    },
+    {
+      "ar": "القُصُورِ",
+      "en": "his failure"
+    },
+    {
+      "ar": "بِرَحْمَتِكَ",
+      "en": "by virtue of Thy mercy"
+    },
+    {
+      "ar": "سَبَقَتْ",
+      "en": "hath surpassed"
+    },
+    {
+      "ar": "مَلَكُوتَ",
+      "en": "the kingdoms"
+    },
+    {
+      "ar": "الأَرْضِ",
+      "en": "earth"
+    },
+    {
+      "ar": "قَبِلْتَ",
+      "en": "deigned to accept"
+    },
+    {
+      "ar": "عِبادِكَ",
+      "en": "Thy servants"
+    },
+    {
+      "ar": "ذِكْرَهُمْ",
+      "en": "the laud"
+    },
+    {
+      "ar": "وَثَنائَهُمْ",
+      "en": "honor"
+    },
+    {
+      "ar": "نَفْسَكَ العُلْيا",
+      "en": "Thine own exalted Self"
+    },
+    {
+      "ar": "أَمَرْتَهُمْ",
+      "en": "hast bidden them"
+    },
+    {
+      "ar": "لِتُرْفَعَ",
+      "en": "may be unfurled"
+    },
+    {
+      "ar": "أَعْلامُ",
+      "en": "the ensigns"
+    },
+    {
+      "ar": "هِدايَتِكَ",
+      "en": "of Thy guidance"
+    },
+    {
+      "ar": "بِلادِكَ",
+      "en": "in Thy cities"
+    },
+    {
+      "ar": "تَنْتَشِرَ",
+      "en": "be spread abroad"
+    },
+    {
+      "ar": "آثارُ",
+      "en": "the tokens"
+    },
+    {
+      "ar": "مَمْلَكَتِكَ",
+      "en": "among Thy nations"
+    },
+    {
+      "ar": "بِأَمْرِكَ",
+      "en": "by Thy decree"
+    },
+    {
+      "ar": "قَضَيْتَ",
+      "en": "ordained"
+    },
+    {
+      "ar": "بِقَضائِكَ",
+      "en": "through Thine irrevocable will"
+    },
+    {
+      "ar": "وَتَقْدِيرِكَ",
+      "en": "and purpose"
+    }
+  ],
+  "terms": [
+    {
+      "term": "فَوَعِزَّتِكَ",
+      "transliteration": "ʿ-z-z",
+      "literal": "glory; might; honor; dignity; power; majesty",
+      "se_rendering": "The glory of Thy might beareth me witness",
+      "note": "Standard 'glory' or 'honor' across 49 occurrences. Here uniquely expanded to 'The glory of Thy might beareth me witness'—personalizing an impersonal oath formula.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 185,
+          "snippet": "glory"
+        },
+        {
+          "work": "gleanings",
+          "para": 642,
+          "snippet": "honor"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 99,
+          "snippet": "Dear"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 38,
+          "snippet": "dearly beloved"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 37,
+          "snippet": "Gracious"
+        },
+        {
+          "work": "gleanings",
+          "para": 260,
+          "snippet": "All-Glorious"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 162,
+          "snippet": "Mighty"
+        },
+        {
+          "work": "gleanings",
+          "para": 660,
+          "snippet": "powerful"
+        }
+      ]
+    },
+    {
+      "term": "عِرْفانَكَ",
+      "transliteration": "ʿ-r-f",
+      "literal": "to confess; to acknowledge; to recognize",
+      "se_rendering": "known",
+      "note": "Root typically renders 'recognized' or 'acknowledged' (82 occ.). Here 'known' captures the mystical sense of experiential knowledge claimed and immediately negated.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 135,
+          "snippet": "hath acknowledged"
+        },
+        {
+          "work": "gleanings",
+          "para": 568,
+          "snippet": "acknowledged"
+        },
+        {
+          "work": "gleanings",
+          "para": 295,
+          "snippet": "made objections"
+        },
+        {
+          "work": "gleanings",
+          "para": 87,
+          "snippet": "knowledge"
+        },
+        {
+          "work": "gleanings",
+          "para": 2,
+          "snippet": "perception"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 5,
+          "snippet": "acknowledging"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 4,
+          "snippet": "fragrance of His garment"
+        },
+        {
+          "work": "gleanings",
+          "para": 214,
+          "snippet": "acknowledge"
+        }
+      ]
+    },
+    {
+      "term": "يَشهَدُ",
+      "transliteration": "sh-h-d",
+      "literal": "witnessed; observed; seen; evident; manifest",
+      "se_rendering": "testified",
+      "note": "Common 'testify' or 'manifest' across 74 occ. Here 'testified' construes the particle as reflexive predicate—the claim itself speaks the speaker's ignorance.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 607,
+          "snippet": "manifest"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 35,
+          "snippet": "evident"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 6,
+          "snippet": "I testify"
+        },
+        {
+          "work": "gleanings",
+          "para": 298,
+          "snippet": "witness"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 138,
+          "snippet": "martyrdom"
+        },
+        {
+          "work": "gleanings",
+          "para": 134,
+          "snippet": "God witnesseth"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 57,
+          "snippet": "beheld"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 156,
+          "snippet": "bear witness"
+        }
+      ]
+    },
+    {
+      "term": "بِجَهْلِهِ",
+      "transliteration": "j-h-l",
+      "literal": "ignorant; foolish; the ignorant ones",
+      "se_rendering": "his own ignorance",
+      "note": "Root yields 'ignorant' or 'foolish' (22 occ.). Here 'his own ignorance' articulates the subjective state rather than objective condition, emphasizing self-deception.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 221,
+          "snippet": "foolish"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 28,
+          "snippet": "ignorant ones"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 99,
+          "snippet": "FOOLISH, YET HAVE A NAME TO BE WISE"
+        },
+        {
+          "work": "gleanings",
+          "para": 237,
+          "snippet": "of those who are ignorant"
+        },
+        {
+          "work": "gleanings",
+          "para": 543,
+          "snippet": "among the foolish"
+        },
+        {
+          "work": "gleanings",
+          "para": 719,
+          "snippet": "fool"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 201,
+          "snippet": "ignorant"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 7,
+          "snippet": "ignorance"
+        }
+      ]
+    },
+    {
+      "term": "بِرَحْمَتِكَ",
+      "transliteration": "r-ḥ-m",
+      "literal": "merciful, compassionate; pertaining to divine mercy",
+      "se_rendering": "Thy mercy",
+      "note": "Predominantly 'merciful' or 'mercy' (70 occ.). Here 'Thy mercy' as abstract noun begins the theological turn: divine grace exceeds human limitations.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 673,
+          "snippet": "Divine glory"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 57,
+          "snippet": "Divine"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 89,
+          "snippet": "celestial melody"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 114,
+          "snippet": "spirit of mercy"
+        },
+        {
+          "work": "gleanings",
+          "para": 372,
+          "snippet": "merciful"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 220,
+          "snippet": "have mercy on them"
+        },
+        {
+          "work": "gleanings",
+          "para": 12,
+          "snippet": "mercy"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 50,
+          "snippet": "the Compassionate"
+        }
+      ]
+    },
+    {
+      "term": "سَبَقَتْ",
+      "transliteration": "s-b-q",
+      "literal": "to precede; to surpass; to excel",
+      "se_rendering": "hath surpassed",
+      "note": "Rare root (5 occ.) typically 'hath surpassed' or 'hath transcended'. Appears here as perfect tense affirming mercy's eternal precedence over creation.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 43,
+          "snippet": "hath surpassed"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 106,
+          "snippet": "hath transcended"
+        },
+        {
+          "work": "gleanings",
+          "para": 635,
+          "snippet": "unparalleled"
+        }
+      ]
+    },
+    {
+      "term": "مَلَكُوتِ",
+      "transliteration": "m-l-k",
+      "literal": "kingdom; dominion; realm; sovereignty",
+      "se_rendering": "kingdoms",
+      "note": "Standard 'kingdom' or 'realm' (70 occ.). Plural construct 'kingdoms' emphasizes multiplicity—both earthly and celestial domains subordinate to divine will.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-ahd",
+          "para": 16,
+          "snippet": "heaven"
+        },
+        {
+          "work": "gleanings",
+          "para": 394,
+          "snippet": "realm"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 171,
+          "snippet": "kingdom"
+        },
+        {
+          "work": "gleanings",
+          "para": 313,
+          "snippet": "heavenly gem"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 69,
+          "snippet": "realms"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 28,
+          "snippet": "righteous"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 167,
+          "snippet": "by the heavenly power"
+        },
+        {
+          "work": "gleanings",
+          "para": 59,
+          "snippet": "Lord"
+        }
+      ]
+    },
+    {
+      "term": "لِتُرْفَعَ",
+      "transliteration": "r-f-ʿ",
+      "literal": "to be raised, elevated, exalted, lifted up",
+      "se_rendering": "may be unfurled",
+      "note": "Root 'to raise' or 'exalt' (45 occ.). Here 'may be unfurled' metaphorizes elevation as flags unfurling—visual transformation of abstract guidance.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 52,
+          "snippet": "elevated heavens"
+        },
+        {
+          "work": "gleanings",
+          "para": 170,
+          "snippet": "groaneth"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 11,
+          "snippet": "was hoisted"
+        },
+        {
+          "work": "gleanings",
+          "para": 349,
+          "snippet": "exalted"
+        },
+        {
+          "work": "gleanings",
+          "para": 366,
+          "snippet": "exalt"
+        },
+        {
+          "work": "gleanings",
+          "para": 133,
+          "snippet": "sublimity"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 227,
+          "snippet": "exaltation"
+        },
+        {
+          "work": "gleanings",
+          "para": 636,
+          "snippet": "We have annulled"
+        }
+      ]
+    },
+    {
+      "term": "وَتَنْتَشِرَ",
+      "transliteration": "n-sh-r",
+      "literal": "to scatter; to spread; to unfold; to disseminate",
+      "se_rendering": "be spread abroad",
+      "note": "Root 'scatter' or 'spread' (18 occ.). Here 'be spread abroad' couples with preceding 'unfurled'—complementary images of diffusing divine tokens through creation.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 34,
+          "snippet": "scattered"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 21,
+          "snippet": "diffuse"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 56,
+          "snippet": "diffusion of the Light of Faith"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 186,
+          "snippet": "resurrection"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 55,
+          "snippet": "in diffusing widely the sweet odours of God"
+        },
+        {
+          "work": "gleanings",
+          "para": 187,
+          "snippet": "spread"
+        },
+        {
+          "work": "gleanings",
+          "para": 161,
+          "snippet": "to reveal"
+        },
+        {
+          "work": "gleanings",
+          "para": 367,
+          "snippet": "promotion"
+        }
+      ]
+    },
+    {
+      "term": "بِأَمْرِكَ",
+      "transliteration": "ʿ-m-r",
+      "literal": "life; age; duration; by the life of (oath)",
+      "se_rendering": "by Thy decree",
+      "note": "Root typically 'His Cause' or 'His command' (75 occ.). Here 'by Thy decree' in coordinate series with 'ordained'—rendering as passive divine will rather than active Revelation.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 236,
+          "snippet": "I swear by God"
+        },
+        {
+          "work": "gleanings",
+          "para": 504,
+          "snippet": "By the righteousness of Mine own Self"
+        },
+        {
+          "work": "gleanings",
+          "para": 414,
+          "snippet": "By My life"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 59,
+          "snippet": "By My life and by your own"
+        },
+        {
+          "work": "gleanings",
+          "para": 262,
+          "snippet": "By My Self"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 202,
+          "snippet": "that which"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 71,
+          "snippet": "Imran"
+        },
+        {
+          "work": "gleanings",
+          "para": 562,
+          "snippet": "to revive the world, to ennoble its life"
+        }
+      ]
+    }
+  ],
+  "section_index": "LXXV.2",
+  "section": "LXXV",
+  "section_para": 2
 }

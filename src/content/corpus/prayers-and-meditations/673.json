@@ -1,10 +1,395 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 673,
   "source_text": "سُبْحَانَكَ اللَّهُمَّ يا إِلهِي تَرَاني مُقْبِلاً إِلَيْكَ وَمُتَوَجِّهًا إِلى شَطْرِ فَضْلِكَ وَأَلْطافِكَ، أَسْئَلُكَ بِاسْمِكَ الَّذِيْ بِهِ سَقَيْتَ المُوَحِّدِينَ خَمْرَ رَحْمَتِكَ وَالمُقَرَّبِينَ كَوْثَرَ عِنايَتِكَ بِأَنْ تَجْعَلَنِيْ بِكُلِّي مُنْقَطِعًا عَنِ الأَوْهامِ وَمُقْبِلاً إِلى شَطْرِ فَضْلِكَ يا مَوْلَى الأَنامِ، يا إِلهِي أَيِّدْنِي فِي أَيَّامِ ظُهُورِ مَظْهَرِ أَمْرِكَ وَمَطْلَعِ وَحْ",
   "translation": "Lauded be Thy name, O Lord my God! Thou seest how I have turned myself toward Thee, and set my face in the direction of Thy grace and Thy gifts. I implore Thee, by Thy name through which Thou didst enable all them that have recognized Thy unity to partake of the wine of Thy mercy, and all such as have drawn nigh unto Thee to quaff the living waters of Thy loving-kindness, to rid me entirely of all vain imaginings, and to incline me in the direction of Thy grace, O Thou Who art the Lord of all men!",
   "source_lang": "ar",
-  "score": 9.5
+  "score": 9.5,
+  "page_slug": "rid-entirely-vain-imaginings",
+  "alignment": [
+    {
+      "ar": "سُبْحَانَكَ",
+      "en": "Lauded be Thy name"
+    },
+    {
+      "ar": "إِلهِي",
+      "en": "my God"
+    },
+    {
+      "ar": "تَرَاني",
+      "en": "Thou seest"
+    },
+    {
+      "ar": "مُقْبِلاً",
+      "en": "turned myself toward"
+    },
+    {
+      "ar": "إِلَيْكَ",
+      "en": "Thee"
+    },
+    {
+      "ar": "شَطْرِ",
+      "en": "direction"
+    },
+    {
+      "ar": "فَضْلِكَ",
+      "en": "Thy grace"
+    },
+    {
+      "ar": "أَلْطافِكَ",
+      "en": "Thy gifts"
+    },
+    {
+      "ar": "أَسْئَلُكَ",
+      "en": "I implore Thee"
+    },
+    {
+      "ar": "بِاسْمِكَ",
+      "en": "by Thy name"
+    },
+    {
+      "ar": "سَقَيْتَ",
+      "en": "didst enable"
+    },
+    {
+      "ar": "خَمْرَ",
+      "en": "wine"
+    },
+    {
+      "ar": "رَحْمَتِكَ",
+      "en": "Thy mercy"
+    },
+    {
+      "ar": "كَوْثَرَ",
+      "en": "living waters"
+    },
+    {
+      "ar": "عِنايَتِكَ",
+      "en": "Thy loving-kindness"
+    },
+    {
+      "ar": "تَجْعَلَنِيْ",
+      "en": "to rid me"
+    },
+    {
+      "ar": "مُنْقَطِعًا",
+      "en": "rid"
+    },
+    {
+      "ar": "الأَوْهامِ",
+      "en": "vain imaginings"
+    },
+    {
+      "ar": "مُقْبِلاً",
+      "en": "incline me"
+    },
+    {
+      "ar": "مَوْلَى",
+      "en": "Lord"
+    },
+    {
+      "ar": "الأَنامِ",
+      "en": "all men"
+    }
+  ],
+  "terms": [
+    {
+      "term": "فضلک",
+      "transliteration": "f-d-l",
+      "literal": "grace; bounty; generosity; excellence",
+      "se_rendering": "Thy grace",
+      "note": "Grace/bounty standard (36 occ.). Here rendered as 'Thy grace'—straightforward, without SE's characteristic expansion to phrases like 'most excellent favors' or 'His gracious favor,' suggesting liturgical simplicity.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 50,
+          "snippet": "the Gracious, the All-Bountiful"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 115,
+          "snippet": "the All-Bounteous"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 259,
+          "snippet": "merits"
+        },
+        {
+          "work": "gleanings",
+          "para": 10,
+          "snippet": "most excellent favors"
+        },
+        {
+          "work": "gleanings",
+          "para": 60,
+          "snippet": "grace"
+        },
+        {
+          "work": "gleanings",
+          "para": 234,
+          "snippet": "His gracious favor"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "graciously"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 92,
+          "snippet": "realms"
+        }
+      ]
+    },
+    {
+      "term": "الموحدین",
+      "transliteration": "w-h-d",
+      "literal": "Divine unity; monotheism; belief in the oneness of God",
+      "se_rendering": "all them that have recognized Thy unity",
+      "note": "Unity/oneness believers. SE expands to full clause 'all them that have recognized Thy unity' rather than nominal 'the united ones,' foregrounding epistemological recognition over ontological status.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 546,
+          "snippet": "unity"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 69,
+          "snippet": "Tawhid"
+        },
+        {
+          "work": "gleanings",
+          "para": 103,
+          "snippet": "oneness"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 682,
+          "snippet": "once"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 49,
+          "snippet": "alone"
+        },
+        {
+          "work": "gleanings",
+          "para": 386,
+          "snippet": "His oneness"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 249,
+          "snippet": "unique"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 1,
+          "snippet": "the One"
+        }
+      ]
+    },
+    {
+      "term": "خمر",
+      "transliteration": "kh-m-r",
+      "literal": "wine; intoxicating drink",
+      "se_rendering": "wine",
+      "note": "Literal 'wine' here matches one of four corpus occurrences. SE maintains the Qur'anic metaphor of intoxicating divine mercy rather than abstracting to 'spirit' or 'sweetness' as alternative precedents show.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 55,
+          "snippet": "wine of Thy meeting"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 62,
+          "snippet": "peerless wine"
+        }
+      ]
+    },
+    {
+      "term": "رحمتک",
+      "transliteration": "r-ḥ-m",
+      "literal": "merciful, compassionate; pertaining to divine mercy",
+      "se_rendering": "Thy mercy",
+      "note": "Typically 'Divine glory' or 'spirit of mercy' (70 occ.), but here rendered as 'Thy mercy'—closer to the Arabic semantic field. SE privileges literal compassion over his more abstracted corporeal renderings elsewhere.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 673,
+          "snippet": "Divine glory"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 57,
+          "snippet": "Divine"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 89,
+          "snippet": "celestial melody"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 114,
+          "snippet": "spirit of mercy"
+        },
+        {
+          "work": "gleanings",
+          "para": 372,
+          "snippet": "merciful"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 220,
+          "snippet": "have mercy on them"
+        },
+        {
+          "work": "gleanings",
+          "para": 12,
+          "snippet": "mercy"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 50,
+          "snippet": "the Compassionate"
+        }
+      ]
+    },
+    {
+      "term": "کوثر",
+      "transliteration": "k-w-th-r",
+      "literal": "abundance; river of paradise; the Kawthar",
+      "se_rendering": "the living waters",
+      "note": "Qur'anic term for paradise river. SE renders 'living waters' instead of proper noun 'Kawthar'—demystifying the eschatological symbol into accessible metaphor of divine sustenance.",
+      "cross_refs": [
+        {
+          "work": "the-hidden-words",
+          "para": 113,
+          "snippet": "river of everlasting life"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 72,
+          "snippet": "Kawthar"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 65,
+          "snippet": "stream of pure water"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 239,
+          "snippet": "Kawthar of nearness"
+        }
+      ]
+    },
+    {
+      "term": "منقطعا",
+      "transliteration": "q-t-ʿ",
+      "literal": "to be severed; to be cut off; to detach oneself; to abstain",
+      "se_rendering": "entirely...severed",
+      "note": "Usually 'detached/sundered' (33 occ.). SE combines 'rid...entirely' and 'severed,' transforming a single Arabic participle into English predicate construction that emphasizes total removal rather than relational severance.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 662,
+          "snippet": "detacheth himself"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 11,
+          "snippet": "decisive"
+        },
+        {
+          "work": "gleanings",
+          "para": 310,
+          "snippet": "cut into pieces"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 16,
+          "snippet": "detachment"
+        },
+        {
+          "work": "gleanings",
+          "para": 255,
+          "snippet": "detached"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 218,
+          "snippet": "renounced"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 682,
+          "snippet": "wholly detached"
+        },
+        {
+          "work": "gleanings",
+          "para": 490,
+          "snippet": "cut off"
+        }
+      ]
+    },
+    {
+      "term": "الأوهام",
+      "transliteration": "ʿ-l-w",
+      "literal": "highest; most high; supreme",
+      "se_rendering": "all vain imaginings",
+      "note": "Concordance root (ع-ل-و) denotes 'highest/supreme' with renderings like 'Most High' and 'Most Sublime Pen' — yet SE renders as 'vain imaginings,' a uniquely psychological/ethical interpretation absent from all corpus examples.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 1,
+          "snippet": "the Most High"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 148,
+          "snippet": "the Most Sublime Pen"
+        },
+        {
+          "work": "gleanings",
+          "para": 232,
+          "snippet": "supreme"
+        },
+        {
+          "work": "gleanings",
+          "para": 616,
+          "snippet": "the realms above"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 68,
+          "snippet": "the Pen of Glory"
+        },
+        {
+          "work": "gleanings",
+          "para": 393,
+          "snippet": "The Pen of the Most High"
+        },
+        {
+          "work": "gleanings",
+          "para": 697,
+          "snippet": "the Dayspring of Glory"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 1,
+          "snippet": "the Realm of Glory"
+        }
+      ]
+    }
+  ],
+  "section_index": "CLXIII.1",
+  "section": "CLXIII",
+  "section_para": 1
 }

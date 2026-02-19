@@ -1,10 +1,644 @@
 {
   "work": "Epistle to the Son of the Wolf",
   "slug": "epistle-to-the-son-of-the-wolf",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 147,
   "source_text": "اگر ان جناب يکساعت لوجه اللّه در اموری که از قبل و بعد ظاهر شده تفکّر فرمايند از ما عنده بما عند اللّه توجّه نمايند و سبب اعلاء کلمة اللّه گردند * ايا از اوّل ابداع الی حين از مشرق اراده الهی نوری و يا ظهوری اشراق نموده که قبائل ارض او را قبول نموده و امرش را پذيرفته‌اند ان که بوده و اسمش چه ؟ از حضرت خاتم روح ما سواه فداه و من قبله حضرت روح الی ان ينتهی الی البديع الاوّل در احيان ظهور کلّ مبتلی بوده‌اند بعضی را مجنون گفته‌اند و برخی را کذّاب ناميده‌اند و عمل نموده‌اند انچه را که قلم حيا ميکند از ذکرش * لعمر اللّه ورد عليهم ما ناحت به الاشياء کلّها و لکن القوم اکثرهم فی جهل مبين * نسأل اللّه ان يؤيّدهم علی الرّجوع اليه و الانابة لدی باب رحمته انّه علی کلّ شیء قدير",
   "translation": "Wert thou, for the sake of God, to ponder, though it be but for an hour, upon the things which have occurred in former times and more recently, thou wouldst turn away from the things thou dost possess unto the things which belong unto God, and wouldst become a means for the exaltation of His Word. Hath, from the foundation of the world until the present day, any Light or Revelation shone forth from the dayspring of the will of God which the kindreds of the earth have accepted, and Whose Cause they have acknowledged? Where is it to be found, and what is its name? Since the Seal of the Prophets (Muḥammad) - may all else but Him be His sacrifice - and before Him the Spirit of God (Jesus), as far back as the First Manifestation, all have at the time of Their appearance suffered grievously. Some were held to be possessed, others were called impostors, and were treated in a manner that the pen is ashamed to describe. By God! There befell Them what hath made all created things to sigh, and yet the people are, for the most part, sunk in manifest ignorance! We pray God to assist them to return unto Him, and to repent before the door of His mercy. Potent is He over all things.",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "light-revelation-shone-forth",
+  "alignment": [
+    {
+      "ar": "اگر",
+      "en": "Wert thou"
+    },
+    {
+      "ar": "ان جناب",
+      "en": "thou"
+    },
+    {
+      "ar": "يکساعت",
+      "en": "for an hour"
+    },
+    {
+      "ar": "لوجه اللّه",
+      "en": "for the sake of God"
+    },
+    {
+      "ar": "در",
+      "en": "upon"
+    },
+    {
+      "ar": "اموری",
+      "en": "the things"
+    },
+    {
+      "ar": "که",
+      "en": "which"
+    },
+    {
+      "ar": "از قبل",
+      "en": "in former times"
+    },
+    {
+      "ar": "و بعد",
+      "en": "and more recently"
+    },
+    {
+      "ar": "ظاهر شده",
+      "en": "have occurred"
+    },
+    {
+      "ar": "تفکّر",
+      "en": "to ponder"
+    },
+    {
+      "ar": "فرمايند",
+      "en": "though it be but"
+    },
+    {
+      "ar": "از ما عنده",
+      "en": "from the things thou dost possess"
+    },
+    {
+      "ar": "بما عند اللّه",
+      "en": "unto the things which belong unto God"
+    },
+    {
+      "ar": "توجّه نمايند",
+      "en": "wouldst turn away"
+    },
+    {
+      "ar": "سبب",
+      "en": "a means"
+    },
+    {
+      "ar": "اعلاء",
+      "en": "the exaltation"
+    },
+    {
+      "ar": "کلمة اللّه",
+      "en": "His Word"
+    },
+    {
+      "ar": "گردند",
+      "en": "wouldst become"
+    },
+    {
+      "ar": "ايا",
+      "en": "Hath"
+    },
+    {
+      "ar": "از اوّل ابداع",
+      "en": "from the foundation of the world"
+    },
+    {
+      "ar": "الی حين",
+      "en": "until the present day"
+    },
+    {
+      "ar": "از مشرق",
+      "en": "from the dayspring"
+    },
+    {
+      "ar": "اراده الهی",
+      "en": "the will of God"
+    },
+    {
+      "ar": "نوری",
+      "en": "any Light"
+    },
+    {
+      "ar": "و يا ظهوری",
+      "en": "or Revelation"
+    },
+    {
+      "ar": "اشراق نموده",
+      "en": "shone forth"
+    },
+    {
+      "ar": "قبائل",
+      "en": "the kindreds"
+    },
+    {
+      "ar": "ارض",
+      "en": "the earth"
+    },
+    {
+      "ar": "او را قبول نموده",
+      "en": "have accepted"
+    },
+    {
+      "ar": "و امرش را",
+      "en": "and Whose Cause"
+    },
+    {
+      "ar": "پذيرفته‌اند",
+      "en": "they have acknowledged"
+    },
+    {
+      "ar": "ان که بوده",
+      "en": "Where is it to be found"
+    },
+    {
+      "ar": "و اسمش چه",
+      "en": "and what is its name"
+    },
+    {
+      "ar": "از حضرت خاتم",
+      "en": "Since the Seal of the Prophets"
+    },
+    {
+      "ar": "روح ما سواه فداه",
+      "en": "may all else but Him be His sacrifice"
+    },
+    {
+      "ar": "و من قبله",
+      "en": "and before Him"
+    },
+    {
+      "ar": "حضرت روح",
+      "en": "the Spirit of God"
+    },
+    {
+      "ar": "الی ان ينتهی",
+      "en": "as far back as"
+    },
+    {
+      "ar": "الی البديع الاوّل",
+      "en": "the First Manifestation"
+    },
+    {
+      "ar": "در احيان ظهور",
+      "en": "at the time of Their appearance"
+    },
+    {
+      "ar": "کلّ",
+      "en": "all"
+    },
+    {
+      "ar": "بعضی",
+      "en": "Some"
+    },
+    {
+      "ar": "را مجنون گفته‌اند",
+      "en": "were held to be possessed"
+    },
+    {
+      "ar": "و برخی را",
+      "en": "others"
+    },
+    {
+      "ar": "کذّاب ناميده‌اند",
+      "en": "were called impostors"
+    },
+    {
+      "ar": "و عمل نموده‌اند",
+      "en": "and were treated"
+    },
+    {
+      "ar": "انچه را که",
+      "en": "in a manner that"
+    },
+    {
+      "ar": "قلم",
+      "en": "the pen"
+    },
+    {
+      "ar": "حيا ميکند",
+      "en": "is ashamed"
+    },
+    {
+      "ar": "از ذکرش",
+      "en": "to describe"
+    },
+    {
+      "ar": "لعمر اللّه",
+      "en": "By God"
+    },
+    {
+      "ar": "ورد عليهم",
+      "en": "There befell Them"
+    },
+    {
+      "ar": "ما",
+      "en": "what"
+    },
+    {
+      "ar": "ناحت به",
+      "en": "hath made"
+    },
+    {
+      "ar": "الاشياء کلّها",
+      "en": "all created things"
+    },
+    {
+      "ar": "و لکن",
+      "en": "and yet"
+    },
+    {
+      "ar": "القوم",
+      "en": "the people"
+    },
+    {
+      "ar": "اکثرهم",
+      "en": "for the most part"
+    },
+    {
+      "ar": "فی جهل مبين",
+      "en": "sunk in manifest ignorance"
+    },
+    {
+      "ar": "نسأل اللّه",
+      "en": "We pray God"
+    },
+    {
+      "ar": "ان يؤيّدهم",
+      "en": "to assist them"
+    },
+    {
+      "ar": "علی الرّجوع اليه",
+      "en": "to return unto Him"
+    },
+    {
+      "ar": "و الانابة",
+      "en": "and to repent"
+    },
+    {
+      "ar": "لدی باب رحمته",
+      "en": "before the door of His mercy"
+    },
+    {
+      "ar": "انّه علی کلّ شیء قدير",
+      "en": "Potent is He over all things"
+    }
+  ],
+  "terms": [
+    {
+      "term": "اموری",
+      "transliteration": "ʾ-m-r",
+      "literal": "command; cause; matter; affair",
+      "se_rendering": "things",
+      "note": "Typically 'His Cause' or 'His command' across 75 occurrences. Rendered as 'things' here—a rare materialization that depersonalizes the divine imperative into mere circumstance.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "His Cause"
+        },
+        {
+          "work": "gleanings",
+          "para": 586,
+          "snippet": "His command"
+        },
+        {
+          "work": "gleanings",
+          "para": 691,
+          "snippet": "His Revelation"
+        },
+        {
+          "work": "gleanings",
+          "para": 723,
+          "snippet": "Cause"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 797,
+          "snippet": "Thy Cause"
+        },
+        {
+          "work": "gleanings",
+          "para": 8,
+          "snippet": "Revelation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 597,
+          "snippet": "service"
+        },
+        {
+          "work": "gleanings",
+          "para": 524,
+          "snippet": "your affairs"
+        }
+      ]
+    },
+    {
+      "term": "مشرق",
+      "transliteration": "sh-r-q",
+      "literal": "radiance; splendor; dawn; illumination",
+      "se_rendering": "dayspring",
+      "note": "Typically 'radiance' or 'Daystar' across 63 occurrences. 'Dayspring' is a literary variant that preserves the dawn/east metaphor while adding temporal dimension.",
+      "cross_refs": [
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 28,
+          "snippet": "radiance"
+        },
+        {
+          "work": "gleanings",
+          "para": 382,
+          "snippet": "revelation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 83,
+          "snippet": "Daystar"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 41,
+          "snippet": "dawning"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 2,
+          "snippet": "shining"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 14,
+          "snippet": "Dawning Place"
+        },
+        {
+          "work": "gleanings",
+          "para": 126,
+          "snippet": "Dayspring"
+        },
+        {
+          "work": "gleanings",
+          "para": 605,
+          "snippet": "Manifestation"
+        }
+      ]
+    },
+    {
+      "term": "نوری",
+      "transliteration": "n-w-r",
+      "literal": "light; illumination",
+      "se_rendering": "Light",
+      "note": "Standard 'light' or 'Light' maintained here. Core semantic consistency across 78 occurrences; this rendering is unremarkable and expected.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 583,
+          "snippet": "light"
+        },
+        {
+          "work": "gleanings",
+          "para": 230,
+          "snippet": "Orb of Light"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 114,
+          "snippet": "with the light"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 109,
+          "snippet": "Thy light"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 246,
+          "snippet": "Illumine"
+        },
+        {
+          "work": "gleanings",
+          "para": 235,
+          "snippet": "glory"
+        },
+        {
+          "work": "gleanings",
+          "para": 597,
+          "snippet": "fire"
+        },
+        {
+          "work": "gleanings",
+          "para": 458,
+          "snippet": "fire of God"
+        }
+      ]
+    },
+    {
+      "term": "ظهوری",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; revelation",
+      "se_rendering": "Revelation",
+      "note": "Normally 'Manifestation' or related forms across 96 occurrences. 'Revelation' here provides a near-synonym but subtly emphasizes disclosure over embodied presence.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 101,
+          "snippet": "Manifestation"
+        },
+        {
+          "work": "gleanings",
+          "para": 409,
+          "snippet": "Revelation"
+        }
+      ]
+    },
+    {
+      "term": "مبتلی",
+      "transliteration": "b-l-ʾ",
+      "literal": "affliction; trial; calamity",
+      "se_rendering": "suffered grievously",
+      "note": "Usually 'trials' or 'afflictions' across 27 occurrences. SE's 'suffered grievously' transforms the noun into active suffering—the only such rendering in the concordance.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 249,
+          "snippet": "trials"
+        },
+        {
+          "work": "gleanings",
+          "para": 660,
+          "snippet": "afflictions"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 63,
+          "snippet": "the lands"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 28,
+          "snippet": "afflicted"
+        },
+        {
+          "work": "gleanings",
+          "para": 640,
+          "snippet": "subjected"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 145,
+          "snippet": "sick"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 92,
+          "snippet": "Yea"
+        },
+        {
+          "work": "gleanings",
+          "para": 410,
+          "snippet": "affliction"
+        }
+      ]
+    },
+    {
+      "term": "قلم",
+      "transliteration": "q-l-m",
+      "literal": "pen; writing instrument",
+      "se_rendering": "the pen",
+      "note": "Consistently 'the Pen' with divine epithet across 25 occurrences. Here simply 'the pen'—depersonified and made bashful, almost anthropomorphic in shame.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 100,
+          "snippet": "the Pen of the Most High"
+        },
+        {
+          "work": "gleanings",
+          "para": 619,
+          "snippet": "My Pen"
+        },
+        {
+          "work": "gleanings",
+          "para": 393,
+          "snippet": "Pen of the Most High"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 280,
+          "snippet": "Pen"
+        },
+        {
+          "work": "gleanings",
+          "para": 319,
+          "snippet": "pens"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 85,
+          "snippet": "standards"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 13,
+          "snippet": "ensigns"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 68,
+          "snippet": "with the pen of might"
+        }
+      ]
+    },
+    {
+      "term": "رحمته",
+      "transliteration": "r-ḥ-m",
+      "literal": "merciful, compassionate; pertaining to divine mercy",
+      "se_rendering": "His mercy",
+      "note": "Ordinarily 'Divine glory' or 'merciful' across 70 occurrences. 'His mercy' here is unusually direct and personal, avoiding the abstract grandeur of other renderings.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 673,
+          "snippet": "Divine glory"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 57,
+          "snippet": "Divine"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 89,
+          "snippet": "celestial melody"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 114,
+          "snippet": "spirit of mercy"
+        },
+        {
+          "work": "gleanings",
+          "para": 372,
+          "snippet": "merciful"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 546,
+          "snippet": "mercy"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 50,
+          "snippet": "the Compassionate"
+        },
+        {
+          "work": "gleanings",
+          "para": 183,
+          "snippet": "the Merciful, the Compassionate"
+        }
+      ]
+    },
+    {
+      "term": "قدير",
+      "transliteration": "q-d-r",
+      "literal": "power; might; decree; measure; worth",
+      "se_rendering": "Potent",
+      "note": "Typically 'Potent' or 'power' across 100 occurrences. 'Potent' represents SE's most emphatic rendering choice—rare in frequency, maximally archaic and forceful.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 339,
+          "snippet": "Thy power"
+        },
+        {
+          "work": "gleanings",
+          "para": 138,
+          "snippet": "hath been decreed"
+        },
+        {
+          "work": "gleanings",
+          "para": 662,
+          "snippet": "hath decreed"
+        },
+        {
+          "work": "gleanings",
+          "para": 496,
+          "snippet": "forbearing towards"
+        },
+        {
+          "work": "gleanings",
+          "para": 111,
+          "snippet": "schools"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 12,
+          "snippet": "God of power"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 35,
+          "snippet": "Potent"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 282,
+          "snippet": "Almighty"
+        }
+      ]
+    }
+  ],
+  "section_index": "147",
+  "section": "147",
+  "section_para": 1
 }

@@ -1,10 +1,576 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 331,
   "source_text": "سُبْحانَكَ اللَّهُمَّ يا إِلهِي أَشْهَدُ لِنَفْسِكَ كمَا شَهِدْتَ لِنَفْسِكَ بِنَفْسِكَ قَبْلَ خَلْقِ الاخْتِراعِ وَذِكْرِ الإِبْداعِ بِأَنّكَ أَنْتَ اللّهُ لا إِلهَ إِلاَّ أَنْتَ لَمْ تَزَلْ كُنْتَ فِي عُلُوِّ وَحْدانِيَّتِكَ مُقَدَّسًا عَنْ تَوْحِيدِ عِبادِكَ وَلا تَزالُ تَكُونُ فِي سُمُوِّ فَرْدانِيَّتِكَ مُتَعاليًا عَنْ ذِكْرِ خَلْقِكَ لا يَنْبَغِي لِذاتِكَ ذِكْرُ غَيْرِكَ وَلا يَلِيقُ لِنَفْسِكَ وَصْفُ ما سِواكَ، كُلُّ مُوَحِّدٍ تَحَيَّرَ فِي تَوْحِيدِ ذاتِكَ وَاعْتَرَفَ بِالقُصُورِ عَن الصُّعُودِ إِلى عِرْفانِ كُنْهِكَ وَالبُلُوغِ إِلى ذُرْوَةِ عِرفَانِكَ، كُلُّ ذِي قُوَّةٍ أَقَرَّ بِالعَجْزِ وَكُلُّ ذِي عِلْمٍ اعْتَرَفَ بِالجَهْلِ، وَكُلُّ ذِي وُجُودٍ مَعْدُومٌ عِنْدَ ظُهُوراتِ عِزِّ سَلْطَنَتِكَ، وَكُلُّ ذِي ظُهُورٍ مَفْقُودٌ لَدَى شُئُوناتِ عِزِّ عَظَمَتِكَ، وَكُلُّ ذِي نُورٍ مُظْلَمٌ عِنْدَ بَوارِقِ أَنْوارِ وَجْهِكَ، وَكُلُّ ذِي بَيَانٍ كَلِيلٌ عِنْدَ تَنَزُّلِ آياتِ قُدْسِ أَحَديَّتِكَ، وَكُلُّ قائِمٍ مُضْطَرِبٌ عِنْدَ ظُهُورِ عِزِّ قَيُّومِيَّتِكَ، هَلْ لِغَيرِكَ يا إِلهِي مِنْ وُجُودٍ",
   "translation": "All glory be to Thee, O Lord my God! I bear witness for Thee to that whereto Thou Thyself didst bear witness for Thine own Self, ere the day Thou hadst created the creation or made mention thereof, that Thou art God, and that there is none other God beside Thee. From eternity Thou hast, in Thy transcendent oneness, been immeasurably exalted above Thy servants’ conception of Thy unity, and wilt to eternity remain, in Thine unapproachable singleness, far above the praise of Thy creatures. No words that any one beside Thee may utter can ever beseem Thee, and no man’s description except Thine own description can befit Thy nature. All who adore Thy unity have been sore perplexed to fathom the mystery of Thy oneness, and all have confessed their powerlessness to attain unto the comprehension of Thine essence and to scale the pinnacle of Thy knowledge. The mighty have all acknowledged their weakness, and the learned recognized their ignorance. They that are possessed of influence are as nothing when compared with the revelations of Thy stupendous sovereignty, and they who are exalted sink into oblivion when brought before the manifestations of Thy great glory. The radiance of the brightest luminaries is eclipsed by the effulgent splendors of Thy face, and the tongues of the most eloquent of speakers falter under the unrestrained effusions of Thy holy utterance, and the foundations of the mightiest structures tremble before the onrushing force of Thy compelling power.",
   "source_lang": "ar",
-  "score": 9.9
+  "score": 9.9,
+  "page_slug": "transcendent-oneness-beyond-comprehension",
+  "alignment": [
+    {
+      "ar": "سُبْحانَكَ",
+      "en": "All glory be to Thee"
+    },
+    {
+      "ar": "إِلهِي",
+      "en": "my God"
+    },
+    {
+      "ar": "أَشْهَدُ",
+      "en": "I bear witness"
+    },
+    {
+      "ar": "لِنَفْسِكَ",
+      "en": "for Thee"
+    },
+    {
+      "ar": "شَهِدْتَ",
+      "en": "didst bear witness"
+    },
+    {
+      "ar": "لِنَفْسِكَ",
+      "en": "for Thine own Self"
+    },
+    {
+      "ar": "بِنَفْسِكَ",
+      "en": "Thyself"
+    },
+    {
+      "ar": "قَبْلَ",
+      "en": "ere"
+    },
+    {
+      "ar": "خَلْقِ",
+      "en": "created"
+    },
+    {
+      "ar": "الاخْتِراعِ",
+      "en": "the creation"
+    },
+    {
+      "ar": "ذِكْرِ",
+      "en": "made mention"
+    },
+    {
+      "ar": "الإِبْداعِ",
+      "en": "thereof"
+    },
+    {
+      "ar": "أَنّكَ",
+      "en": "that Thou"
+    },
+    {
+      "ar": "أَنْتَ",
+      "en": "art"
+    },
+    {
+      "ar": "اللّهُ",
+      "en": "God"
+    },
+    {
+      "ar": "لَمْ تَزَلْ",
+      "en": "From eternity"
+    },
+    {
+      "ar": "كُنْتَ",
+      "en": "Thou hast"
+    },
+    {
+      "ar": "تَوْحِيدِ",
+      "en": "conception"
+    },
+    {
+      "ar": "لا تَزالُ",
+      "en": "wilt to eternity"
+    },
+    {
+      "ar": "تَكُونُ",
+      "en": "remain"
+    },
+    {
+      "ar": "مُتَعاليًا",
+      "en": "far above"
+    },
+    {
+      "ar": "ذِكْرِ",
+      "en": "the praise"
+    },
+    {
+      "ar": "خَلْقِكَ",
+      "en": "Thy creatures"
+    },
+    {
+      "ar": "لا يَنْبَغِي",
+      "en": "can ever beseem"
+    },
+    {
+      "ar": "لِذاتِكَ",
+      "en": "Thee"
+    },
+    {
+      "ar": "ذِكْرُ",
+      "en": "words"
+    },
+    {
+      "ar": "غَيْرِكَ",
+      "en": "any one beside Thee"
+    },
+    {
+      "ar": "لا يَلِيقُ",
+      "en": "can befit"
+    },
+    {
+      "ar": "لِنَفْسِكَ",
+      "en": "Thy nature"
+    },
+    {
+      "ar": "وَصْفُ",
+      "en": "description"
+    },
+    {
+      "ar": "ما سِواكَ",
+      "en": "except Thine own"
+    },
+    {
+      "ar": "تَوْحِيدِ",
+      "en": "to fathom the mystery"
+    },
+    {
+      "ar": "ذاتِكَ",
+      "en": "of Thy oneness"
+    },
+    {
+      "ar": "اعْتَرَفَ",
+      "en": "confessed"
+    },
+    {
+      "ar": "بِالقُصُورِ",
+      "en": "their powerlessness"
+    },
+    {
+      "ar": "عِرْفانِ",
+      "en": "unto the comprehension"
+    },
+    {
+      "ar": "كُنْهِكَ",
+      "en": "Thine essence"
+    },
+    {
+      "ar": "البُلُوغِ",
+      "en": "to scale"
+    },
+    {
+      "ar": "ذُرْوَةِ",
+      "en": "the pinnacle"
+    },
+    {
+      "ar": "عِرفَانِكَ",
+      "en": "of Thy knowledge"
+    },
+    {
+      "ar": "بِالعَجْزِ",
+      "en": "their weakness"
+    },
+    {
+      "ar": "ذِي عِلْمٍ",
+      "en": "the learned"
+    },
+    {
+      "ar": "اعْتَرَفَ",
+      "en": "recognized"
+    },
+    {
+      "ar": "بِالجَهْلِ",
+      "en": "their ignorance"
+    },
+    {
+      "ar": "ذِي وُجُودٍ",
+      "en": "They that are possessed of influence"
+    },
+    {
+      "ar": "مَعْدُومٌ",
+      "en": "are as nothing"
+    },
+    {
+      "ar": "ظُهُوراتِ",
+      "en": "the revelations"
+    },
+    {
+      "ar": "ذِي ظُهُورٍ",
+      "en": "they who are exalted"
+    },
+    {
+      "ar": "مَفْقُودٌ",
+      "en": "sink into oblivion"
+    },
+    {
+      "ar": "شُئُوناتِ",
+      "en": "the manifestations"
+    },
+    {
+      "ar": "عَظَمَتِكَ",
+      "en": "Thy great glory"
+    },
+    {
+      "ar": "ذِي نُورٍ",
+      "en": "The radiance of the brightest luminaries"
+    },
+    {
+      "ar": "مُظْلَمٌ",
+      "en": "is eclipsed"
+    },
+    {
+      "ar": "بَوارِقِ",
+      "en": "by the effulgent splendors"
+    },
+    {
+      "ar": "أَنْوارِ",
+      "en": "of"
+    },
+    {
+      "ar": "وَجْهِكَ",
+      "en": "Thy face"
+    },
+    {
+      "ar": "ذِي بَيَانٍ",
+      "en": "the tongues of the most eloquent of speakers"
+    },
+    {
+      "ar": "كَلِيلٌ",
+      "en": "falter"
+    },
+    {
+      "ar": "قُدْسِ",
+      "en": "Thy holy"
+    },
+    {
+      "ar": "قائِمٍ",
+      "en": "the foundations of the mightiest structures"
+    },
+    {
+      "ar": "مُضْطَرِبٌ",
+      "en": "tremble"
+    },
+    {
+      "ar": "ظُهُورِ",
+      "en": "before the onrushing force"
+    },
+    {
+      "ar": "هَلْ",
+      "en": ""
+    },
+    {
+      "ar": "لِغَيرِكَ",
+      "en": ""
+    },
+    {
+      "ar": "يا إِلهِي",
+      "en": ""
+    },
+    {
+      "ar": "وُجُودٍ",
+      "en": ""
+    }
+  ],
+  "terms": [
+    {
+      "term": "وَحْدانِيَّتِكَ",
+      "transliteration": "w-h-d",
+      "literal": "Divine unity; monotheism; belief in the oneness of God",
+      "se_rendering": "oneness",
+      "note": "Standard rendering of 'unity' across 56 occurrences. Here SE renders 'waḥdāniyyatika' as 'oneness' — subtly shifting toward existential singularity rather than monotheistic doctrine.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 546,
+          "snippet": "unity"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 69,
+          "snippet": "Tawhid"
+        },
+        {
+          "work": "gleanings",
+          "para": 103,
+          "snippet": "oneness"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 682,
+          "snippet": "once"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 49,
+          "snippet": "alone"
+        },
+        {
+          "work": "gleanings",
+          "para": 386,
+          "snippet": "His oneness"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 249,
+          "snippet": "unique"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 1,
+          "snippet": "the One"
+        }
+      ]
+    },
+    {
+      "term": "فَرْدانِيَّتِكَ",
+      "transliteration": "f-r-d",
+      "literal": "unique; singular; incomparable",
+      "se_rendering": "singleness",
+      "note": "Rare technical term (23 occ total) connoting uniqueness. SE's 'singleness' here emphasizes incomparable isolation rather than common renderings 'unique' or 'alone' — deepens mystical transcendence.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 2,
+          "snippet": "wondrous"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 249,
+          "snippet": "unique"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 49,
+          "snippet": "alone"
+        },
+        {
+          "work": "gleanings",
+          "para": 384,
+          "snippet": "oneness"
+        },
+        {
+          "work": "gleanings",
+          "para": 386,
+          "snippet": "His singleness"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 47,
+          "snippet": "Thy oneness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 5,
+          "snippet": "Thy unity and Thy oneness"
+        },
+        {
+          "work": "gleanings",
+          "para": 2,
+          "snippet": "uniqueness"
+        }
+      ]
+    },
+    {
+      "term": "ظُهُورَاتِ",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "revelations",
+      "note": "Predominantly rendered 'Manifestation' (96 occ) in Bahá'í theological contexts. 'Revelations' here instead — chosen to match the abstract sovereignty context rather than the technical doctrine of divine Manifestations.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 53,
+          "snippet": "Manifestation"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 136,
+          "snippet": "evident"
+        },
+        {
+          "work": "gleanings",
+          "para": 222,
+          "snippet": "material"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 206,
+          "snippet": "appeared"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 196,
+          "snippet": "Manifestations of God"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 32,
+          "snippet": "overwhelm the soul"
+        }
+      ]
+    },
+    {
+      "term": "سَلْطَنَتِكَ",
+      "transliteration": "s-l-ṭ",
+      "literal": "dominion; authority; power; sovereignty; control",
+      "se_rendering": "sovereignty",
+      "note": "Uniformly 'sovereignty' across 43 occ. Consistency maintained here; term anchors the passage's political theology of divine absolute authority beyond human comprehension.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 369,
+          "snippet": "sovereignty"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 151,
+          "snippet": "dominion"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 13,
+          "snippet": "O King"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 157,
+          "snippet": "the Sháh"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 1,
+          "snippet": "the King"
+        },
+        {
+          "work": "gleanings",
+          "para": 472,
+          "snippet": "King (Sulṭán 'Abdu'l-'Azíz)"
+        },
+        {
+          "work": "gleanings",
+          "para": 236,
+          "snippet": "the Sulṭán"
+        },
+        {
+          "work": "gleanings",
+          "para": 592,
+          "snippet": "by virtue of His sovereignty"
+        }
+      ]
+    },
+    {
+      "term": "بَيَانٍ",
+      "transliteration": "b-y-n",
+      "literal": "to manifest; to make clear; clear, evident",
+      "se_rendering": "utterance",
+      "note": "Typically 'clear verses' or 'clear proofs' (87 occ); in Bahá'í corpus often 'the Bayán' (proper noun). 'Utterance' here signals general prophetic speech, depersonalizing the technical term.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 223,
+          "snippet": "the Expounder, the Most Manifest"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 231,
+          "snippet": "clear verses"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 3,
+          "snippet": "proofs"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 12,
+          "snippet": "clear proofs"
+        },
+        {
+          "work": "gleanings",
+          "para": 563,
+          "snippet": "Dawning-Place of the proofs"
+        },
+        {
+          "work": "gleanings",
+          "para": 292,
+          "snippet": "the Bayán"
+        },
+        {
+          "work": "gleanings",
+          "para": 636,
+          "snippet": "utterance"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 101,
+          "snippet": "Bayán"
+        }
+      ]
+    },
+    {
+      "term": "تَنَزُّلِ",
+      "transliteration": "n-z-l",
+      "literal": "to descend, to be revealed",
+      "se_rendering": "effusions",
+      "note": "Usually 'revealed' or 'sent down' (88 occ). 'Effusions' diverges significantly — transforms descent of revelation into an outpouring metaphor, emphasizing spontaneous overflow rather than deliberate transmission.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 643,
+          "snippet": "sent down"
+        },
+        {
+          "work": "gleanings",
+          "para": 218,
+          "snippet": "revealed"
+        },
+        {
+          "work": "gleanings",
+          "para": 656,
+          "snippet": "descended"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 34,
+          "snippet": "Descend"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 40,
+          "snippet": "were revealed"
+        },
+        {
+          "work": "gleanings",
+          "para": 604,
+          "snippet": "have been sent down"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 16,
+          "snippet": "hath been sent down"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 171,
+          "snippet": "which have been sent down"
+        }
+      ]
+    }
+  ],
+  "section_index": "LXXIX.1",
+  "section": "LXXIX",
+  "section_para": 1
 }

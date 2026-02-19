@@ -1,10 +1,322 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 512,
   "source_text": "نَفْسَهُ ما يُلْقِيْها بَيْنَ أَيْدِيْ أَعْدائِكَ، فَوَعِزَّتِكَ قَبِلْتُ البَلايا لإِحْياءِ مَنْ فِي سَمائِكَ وَأَرْضِكَ، إِنَّ الَّذِيْ أَحَبَّكَ لا يُحِبُّ نَفْسَهُ إِلاَّ لإِعْلآءِ أَمْرِكَ وَالَّذِيْ عَرَفَكَ لا يَعْرِفُ سِواكَ وَلا يَلْتَفِتُ",
   "translation": "I swear by Thy glory! I have accepted to be tried by manifold adversities for no purpose except to regenerate all that are in Thy heaven and on Thy earth. Whoso hath loved Thee, can never feel attached to his own self, except for the purpose of furthering Thy Cause; and whoso hath recognized Thee can recognize naught else except Thee, and can turn to no one save Thee.",
   "source_lang": "ar",
-  "score": 9.9
+  "score": 9.9,
+  "page_slug": "accepted-adversities-regenerate",
+  "alignment": [
+    {
+      "ar": "نَفْسَهُ",
+      "en": "his own self"
+    },
+    {
+      "ar": "يُلْقِيْها",
+      "en": ""
+    },
+    {
+      "ar": "أَعْدائِكَ",
+      "en": ""
+    },
+    {
+      "ar": "قَبِلْتُ",
+      "en": "accepted"
+    },
+    {
+      "ar": "البَلايا",
+      "en": "manifold adversities"
+    },
+    {
+      "ar": "لإِحْياءِ",
+      "en": "to regenerate"
+    },
+    {
+      "ar": "سَمائِكَ",
+      "en": "Thy heaven"
+    },
+    {
+      "ar": "أَرْضِكَ",
+      "en": "Thy earth"
+    },
+    {
+      "ar": "لإِعْلآءِ",
+      "en": "for the purpose of furthering"
+    },
+    {
+      "ar": "أَمْرِكَ",
+      "en": "Thy Cause"
+    },
+    {
+      "ar": "عَرَفَكَ",
+      "en": "hath recognized Thee"
+    },
+    {
+      "ar": "يَعْرِفُ",
+      "en": "can recognize"
+    },
+    {
+      "ar": "سِواكَ",
+      "en": "naught else except Thee"
+    },
+    {
+      "ar": "يَلْتَفِتُ",
+      "en": "can turn"
+    }
+  ],
+  "terms": [
+    {
+      "term": "فَوَعِزَّتِكَ",
+      "transliteration": "ʿ-z-z",
+      "literal": "glory; might; honor; dignity; power; majesty",
+      "se_rendering": "Thy glory",
+      "note": "Typically 'glory' (49 occ primary). SE chooses 'glory' here, maintaining the most common rendering across the corpus.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 185,
+          "snippet": "glory"
+        },
+        {
+          "work": "gleanings",
+          "para": 642,
+          "snippet": "honor"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 99,
+          "snippet": "Dear"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 38,
+          "snippet": "dearly beloved"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 37,
+          "snippet": "Gracious"
+        },
+        {
+          "work": "gleanings",
+          "para": 260,
+          "snippet": "All-Glorious"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 162,
+          "snippet": "Mighty"
+        },
+        {
+          "work": "gleanings",
+          "para": 660,
+          "snippet": "powerful"
+        }
+      ]
+    },
+    {
+      "term": "البَلايا",
+      "transliteration": "b-l-ʾ",
+      "literal": "affliction; trial; calamity",
+      "se_rendering": "manifold adversities",
+      "note": "Primarily 'trials' or 'tribulations' (27 occ). SE renders 'manifold adversities' here—a unique formulation emphasizing multiplicity and variety of afflictions.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 4,
+          "snippet": "trials"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 137,
+          "snippet": "Troubles"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 179,
+          "snippet": "tribulations"
+        },
+        {
+          "work": "gleanings",
+          "para": 660,
+          "snippet": "afflictions"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 28,
+          "snippet": "afflicted"
+        },
+        {
+          "work": "gleanings",
+          "para": 640,
+          "snippet": "subjected"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 145,
+          "snippet": "sick"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 92,
+          "snippet": "Yea"
+        }
+      ]
+    },
+    {
+      "term": "لإِحْياءِ",
+      "transliteration": "h-y-y",
+      "literal": "greeting; salutation; tribute",
+      "se_rendering": "to regenerate",
+      "note": "Root yields 'life' and 'everlasting life' most frequently (10 occ). SE's 'regenerate' is singular and metaphorical, suggesting spiritual revival rather than literal animation.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 2,
+          "snippet": "Salutation"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 128,
+          "snippet": "life"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 23,
+          "snippet": "everlasting life"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 16,
+          "snippet": "regeneration of the world"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 118,
+          "snippet": "abashed"
+        },
+        {
+          "work": "gleanings",
+          "para": 716,
+          "snippet": "times"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 107,
+          "snippet": "quicken the world"
+        }
+      ]
+    },
+    {
+      "term": "أَمْرِكَ",
+      "transliteration": "ʾ-m-r",
+      "literal": "command; cause; matter; affair",
+      "se_rendering": "Thy Cause",
+      "note": "Standard rendering 'Thy Cause' (75 occ primary). SE preserves this canonical translation in this context of devotional self-denial.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "His Cause"
+        },
+        {
+          "work": "gleanings",
+          "para": 586,
+          "snippet": "His command"
+        },
+        {
+          "work": "gleanings",
+          "para": 691,
+          "snippet": "His Revelation"
+        },
+        {
+          "work": "gleanings",
+          "para": 723,
+          "snippet": "Cause"
+        },
+        {
+          "work": "gleanings",
+          "para": 8,
+          "snippet": "Revelation"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 167,
+          "snippet": "things"
+        },
+        {
+          "work": "gleanings",
+          "para": 524,
+          "snippet": "your affairs"
+        },
+        {
+          "work": "gleanings",
+          "para": 495,
+          "snippet": "affairs"
+        }
+      ]
+    },
+    {
+      "term": "عَرَفَكَ",
+      "transliteration": "ʿ-r-f",
+      "literal": "to confess; to acknowledge; to recognize",
+      "se_rendering": "recognized Thee",
+      "note": "Predominantly 'recognized' (82 occ). SE uses 'recognized' here, aligning with core meaning, though 'acknowledged' appears 82 times as an alternative.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 135,
+          "snippet": "hath acknowledged"
+        },
+        {
+          "work": "gleanings",
+          "para": 568,
+          "snippet": "acknowledged"
+        },
+        {
+          "work": "gleanings",
+          "para": 295,
+          "snippet": "made objections"
+        },
+        {
+          "work": "gleanings",
+          "para": 87,
+          "snippet": "knowledge"
+        },
+        {
+          "work": "gleanings",
+          "para": 2,
+          "snippet": "perception"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 5,
+          "snippet": "acknowledging"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 4,
+          "snippet": "fragrance of His garment"
+        },
+        {
+          "work": "gleanings",
+          "para": 214,
+          "snippet": "acknowledge"
+        }
+      ]
+    },
+    {
+      "term": "سِواكَ",
+      "transliteration": "s-w-k",
+      "literal": "other than; besides; except; equal; alike",
+      "se_rendering": "naught else except Thee",
+      "note": "Zero prior occurrences in Jafar data. SE renders 'naught else except Thee,' expressing absolute exclusivity through negation and exception.",
+      "cross_refs": []
+    }
+  ],
+  "section_index": "CXVI.5",
+  "section": "CXVI",
+  "section_para": 5
 }

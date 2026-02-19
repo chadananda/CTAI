@@ -1,10 +1,653 @@
 {
   "work": "Kitab-i-Iqan",
   "slug": "kitab-i-iqan",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 208,
   "source_text": "از جمله علومی که اين مرد مدّعی به آن شده صنعت کيمياست.  بسيار طالبم که سلطانی و يا نفسی که مقتدر باشد ظهور اين علم را از عالم لفظ به عالم شهود و از قول به فعل از ايشان طلب نمايد و اين بی علم فانی هم که دعوی اين گونه علوم ننموده و بلکه کون اين علوم و فقدان آن را علّت علم و جهل نمی دانم با اين مرد در همين فقره قيام نمائيم تا صدق و کذب معلوم شود.  و ليکن چه فائده، از ناس اين زمان جز زخم سنان نديده ام و غير سمّ قاتل چيزی نچشيده ام.  هنوز اثر حديد بر گردن باقی است و هنوز علائم جفا از تمام بدن ظاهر.",
   "translation": "Among the sciences which this pretender hath professed is that of alchemy. We cherish the hope that either a king or a man of preeminent power may call upon him to translate this science from the realm of fancy to the domain of fact and from the plane of mere pretension to that of actual achievement. Would that this unlearned and humble Servant, who never laid any pretension to such things, nor even regarded them as the criterion of true knowledge, might undertake the same task, that thereby the truth might be known and distinguished from falsehood. But of what avail! All this generation could offer Us were wounds from its darts, and the only cup it proffered to Our lips was the cup of its venom. On our neck We still bear the scar of chains, and upon Our body are imprinted the evidences of an unyielding cruelty.",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "wounds-darts-venom-cup",
+  "alignment": [
+    {
+      "ar": "علومی",
+      "en": "sciences"
+    },
+    {
+      "ar": "مرد",
+      "en": "man"
+    },
+    {
+      "ar": "مدّعی",
+      "en": "pretender"
+    },
+    {
+      "ar": "شده",
+      "en": "hath professed"
+    },
+    {
+      "ar": "صنعت",
+      "en": "that of"
+    },
+    {
+      "ar": "کيميا",
+      "en": "alchemy"
+    },
+    {
+      "ar": "بسيار",
+      "en": "cherish"
+    },
+    {
+      "ar": "طالبم",
+      "en": "hope"
+    },
+    {
+      "ar": "سلطانی",
+      "en": "king"
+    },
+    {
+      "ar": "مقتدر",
+      "en": "preeminent power"
+    },
+    {
+      "ar": "باشد",
+      "en": "may"
+    },
+    {
+      "ar": "ظهور",
+      "en": "translate"
+    },
+    {
+      "ar": "علم",
+      "en": "science"
+    },
+    {
+      "ar": "عالم",
+      "en": "realm"
+    },
+    {
+      "ar": "لفظ",
+      "en": "fancy"
+    },
+    {
+      "ar": "شهود",
+      "en": "fact"
+    },
+    {
+      "ar": "قول",
+      "en": "pretension"
+    },
+    {
+      "ar": "فعل",
+      "en": "achievement"
+    },
+    {
+      "ar": "طلب",
+      "en": "call upon"
+    },
+    {
+      "ar": "بی علم",
+      "en": "unlearned"
+    },
+    {
+      "ar": "فانی",
+      "en": "humble"
+    },
+    {
+      "ar": "ننموده",
+      "en": "never laid"
+    },
+    {
+      "ar": "کون",
+      "en": "regarded"
+    },
+    {
+      "ar": "فقدان",
+      "en": "criterion"
+    },
+    {
+      "ar": "جهل",
+      "en": "knowledge"
+    },
+    {
+      "ar": "نمی دانم",
+      "en": "never"
+    },
+    {
+      "ar": "فقره",
+      "en": "task"
+    },
+    {
+      "ar": "قيام",
+      "en": "undertake"
+    },
+    {
+      "ar": "نمائيم",
+      "en": "might undertake"
+    },
+    {
+      "ar": "صدق",
+      "en": "truth"
+    },
+    {
+      "ar": "کذب",
+      "en": "falsehood"
+    },
+    {
+      "ar": "معلوم",
+      "en": "known"
+    },
+    {
+      "ar": "شود",
+      "en": "might"
+    },
+    {
+      "ar": "فائده",
+      "en": "avail"
+    },
+    {
+      "ar": "ناس",
+      "en": "generation"
+    },
+    {
+      "ar": "زخم",
+      "en": "wounds"
+    },
+    {
+      "ar": "سنان",
+      "en": "darts"
+    },
+    {
+      "ar": "نديده ام",
+      "en": "could offer"
+    },
+    {
+      "ar": "غير",
+      "en": "only"
+    },
+    {
+      "ar": "سمّ",
+      "en": "venom"
+    },
+    {
+      "ar": "نچشيده ام",
+      "en": "proffered"
+    },
+    {
+      "ar": "هنوز",
+      "en": "still"
+    },
+    {
+      "ar": "اثر",
+      "en": "scar"
+    },
+    {
+      "ar": "حديد",
+      "en": "chains"
+    },
+    {
+      "ar": "گردن",
+      "en": "neck"
+    },
+    {
+      "ar": "باقی",
+      "en": "bear"
+    },
+    {
+      "ar": "علائم",
+      "en": "evidences"
+    },
+    {
+      "ar": "جفا",
+      "en": "cruelty"
+    },
+    {
+      "ar": "تمام",
+      "en": "upon"
+    },
+    {
+      "ar": "بدن",
+      "en": "body"
+    },
+    {
+      "ar": "ظاهر",
+      "en": "imprinted"
+    }
+  ],
+  "terms": [
+    {
+      "term": "مدّعی",
+      "transliteration": "d-ʿ-y",
+      "literal": "to claim; to allege",
+      "se_rendering": "pretender",
+      "note": "Root ع-ل-م typically renders as 'claims' or 'claim' across 15 occurrences. 'Pretender' here creates a pejorative noun form, intensifying dismissal of the alchemist.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 502,
+          "snippet": "Whoso"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 41,
+          "snippet": "claims"
+        },
+        {
+          "work": "gleanings",
+          "para": 605,
+          "snippet": "claims of such as make false claims"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 252,
+          "snippet": "Testimonies"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 316,
+          "snippet": "claim"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 24,
+          "snippet": "guise"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 99,
+          "snippet": "name"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 240,
+          "snippet": "pretenders"
+        }
+      ]
+    },
+    {
+      "term": "مقتدر",
+      "transliteration": "q-d-r",
+      "literal": "power; might; decree; measure; worth",
+      "se_rendering": "preeminent power",
+      "note": "Root ق-د-ر usually renders 'hath been decreed' or 'Thy power' across 100 occurrences. 'Preeminent power' uniquely emphasizes superior authority capable of practical verification.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 171,
+          "snippet": "a while"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 339,
+          "snippet": "Thy power"
+        },
+        {
+          "work": "gleanings",
+          "para": 138,
+          "snippet": "hath been decreed"
+        },
+        {
+          "work": "gleanings",
+          "para": 662,
+          "snippet": "hath decreed"
+        },
+        {
+          "work": "gleanings",
+          "para": 496,
+          "snippet": "forbearing towards"
+        },
+        {
+          "work": "gleanings",
+          "para": 111,
+          "snippet": "schools"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 12,
+          "snippet": "God of power"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 35,
+          "snippet": "Potent"
+        }
+      ]
+    },
+    {
+      "term": "ظهور",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "translate",
+      "note": "Root ظ-ه-ر typically renders 'Manifestation' or 'manifest' across 96 occurrences. SE's 'translate' here shifts from spiritual manifestation to practical material demonstration.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 53,
+          "snippet": "Manifestation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 160,
+          "snippet": "Author of all Manifestations"
+        },
+        {
+          "work": "gleanings",
+          "para": 222,
+          "snippet": "material"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 206,
+          "snippet": "appeared"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 255,
+          "snippet": "Manifestations"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 791,
+          "snippet": "tokens of Thy handiwork"
+        }
+      ]
+    },
+    {
+      "term": "شهود",
+      "transliteration": "sh-h-d",
+      "literal": "witnessed; observed; seen; evident; manifest",
+      "se_rendering": "domain of fact",
+      "note": "Root ش-ه-د usually renders 'witness', 'testify', or 'manifest' across 74 occurrences. 'Domain of fact' abstracts the witnessing into a conceptual realm of observable reality.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 607,
+          "snippet": "manifest"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 811,
+          "snippet": "I bear witness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 6,
+          "snippet": "I testify"
+        },
+        {
+          "work": "gleanings",
+          "para": 298,
+          "snippet": "witness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 253,
+          "snippet": "martyrdom"
+        },
+        {
+          "work": "gleanings",
+          "para": 134,
+          "snippet": "God witnesseth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 230,
+          "snippet": "God testifieth"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 57,
+          "snippet": "beheld"
+        }
+      ]
+    },
+    {
+      "term": "فانی",
+      "transliteration": "f-n-y",
+      "literal": "annihilation; perishing; extinction; cessation; the threshold",
+      "se_rendering": "humble",
+      "note": "Root ف-ن-ي typically renders 'annihilation' or 'perisheth not' across 12 occurrences. 'Humble' radically recontextualizes annihilation as humility, softening the mystical negation.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 2,
+          "snippet": "perisheth not"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 719,
+          "snippet": "annihilation"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 29,
+          "snippet": "mortal graves"
+        },
+        {
+          "work": "gleanings",
+          "para": 50,
+          "snippet": "expire"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 24,
+          "snippet": "perisheth"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 70,
+          "snippet": "dieth to himself"
+        },
+        {
+          "work": "gleanings",
+          "para": 104,
+          "snippet": "absolute servitude, utter destitution"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 84,
+          "snippet": "mortal"
+        }
+      ]
+    },
+    {
+      "term": "قيام",
+      "transliteration": "q-w-m",
+      "literal": "rising; standing; uprising; resurrection",
+      "se_rendering": "undertake",
+      "note": "Root ق-و-م typically renders 'Resurrection' or 'arise' across 109 occurrences. 'Undertake' secularizes the eschatological standing into mere practical engagement with a task.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 437,
+          "snippet": "arise"
+        },
+        {
+          "work": "gleanings",
+          "para": 513,
+          "snippet": "dedicateth"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 74,
+          "snippet": "rise"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "peoples"
+        },
+        {
+          "work": "gleanings",
+          "para": 693,
+          "snippet": "commandments"
+        },
+        {
+          "work": "gleanings",
+          "para": 628,
+          "snippet": "My commandments"
+        },
+        {
+          "work": "gleanings",
+          "para": 518,
+          "snippet": "steadfast"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 38,
+          "snippet": "steadfast in faith"
+        }
+      ]
+    },
+    {
+      "term": "صدق",
+      "transliteration": "s-d-q",
+      "literal": "to confirm; to verify; to acknowledge; to testify to truth",
+      "se_rendering": "truth",
+      "note": "Root ص-د-ق typically renders 'confirmed' or 'truth' across 25 occurrences. 'Truth' pairing with 'falsehood' maintains semantic opposition while emphasizing epistemic verification.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 39,
+          "snippet": "confirmed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 134,
+          "snippet": "the truthful"
+        },
+        {
+          "work": "gleanings",
+          "para": 461,
+          "snippet": "truth"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 28,
+          "snippet": "truthfulness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 143,
+          "snippet": "fidelity"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 268,
+          "snippet": "spoken the truth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 665,
+          "snippet": "seat of truth"
+        },
+        {
+          "work": "gleanings",
+          "para": 364,
+          "snippet": "unquestionable sincerity"
+        }
+      ]
+    },
+    {
+      "term": "اثر",
+      "transliteration": "ʾ-th-r",
+      "literal": "effect; trace; influence; imprint",
+      "se_rendering": "scar",
+      "note": "Root ا-ث-ر typically renders 'trace' or 'effect' across 17 occurrences. 'Scar' personalizes the abstract trace into visceral bodily marking of suffering and persecution.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 158,
+          "snippet": "trace"
+        },
+        {
+          "work": "gleanings",
+          "para": 383,
+          "snippet": "reflection"
+        },
+        {
+          "work": "gleanings",
+          "para": 377,
+          "snippet": "effect"
+        },
+        {
+          "work": "gleanings",
+          "para": 666,
+          "snippet": "prefer"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 30,
+          "snippet": "affected"
+        },
+        {
+          "work": "gleanings",
+          "para": 289,
+          "snippet": "signs"
+        },
+        {
+          "work": "gleanings",
+          "para": 321,
+          "snippet": "evidences"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 243,
+          "snippet": "writings"
+        }
+      ]
+    },
+    {
+      "term": "حديد",
+      "transliteration": "h-d-d",
+      "literal": "iron; sharp, keen, acute",
+      "se_rendering": "chains",
+      "note": "Root ح-د-د typically renders 'keen', 'sharp', or 'penetrating' across 17 occurrences. 'Chains' materializes the quality of keenness into iron fetters, shifting from property to object.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 10,
+          "snippet": "keen"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 77,
+          "snippet": "sharp"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 134,
+          "snippet": "handiwork"
+        },
+        {
+          "work": "gleanings",
+          "para": 384,
+          "snippet": "penetrating"
+        },
+        {
+          "work": "gleanings",
+          "para": 308,
+          "snippet": "iron"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 228,
+          "snippet": "capacity"
+        }
+      ]
+    }
+  ],
+  "section_index": "208",
+  "section": "208",
+  "section_para": 1
 }

@@ -1,10 +1,273 @@
 {
   "work": "The Hidden Words",
   "slug": "the-hidden-words",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 38,
   "source_text": "(٣٧) ﴿ يَا ابْنَ الإِنْسانِ ﴾\nلَا تُعَرِّ نَفْسَكَ عَنْ جَميلِ رِدائِي وَلَا تَحْرِمْ نَصِيبَكَ مِنْ بَدِيعِ حِياضِي؛ لِئَلَّا يَأْخُذَكَ الظَّمَأُ فِي سَرْمَدِيَّةِ ذاتِي.",
   "translation": "(37) O SON OF MAN!\nDivest not thyself of My beauteous robe, and forfeit not thy portion from My wondrous fountain, lest thou shouldst thirst for evermore.",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "beauteous-robe-wondrous-fountain",
+  "alignment": [
+    {
+      "ar": "يَا",
+      "en": "O"
+    },
+    {
+      "ar": "ابْنَ",
+      "en": "SON"
+    },
+    {
+      "ar": "الإِنْسانِ",
+      "en": "MAN"
+    },
+    {
+      "ar": "نَفْسَكَ",
+      "en": "thyself"
+    },
+    {
+      "ar": "جَميلِ",
+      "en": "beauteous"
+    },
+    {
+      "ar": "وَلَا تَحْرِمْ",
+      "en": "and forfeit not"
+    },
+    {
+      "ar": "نَصِيبَكَ",
+      "en": "thy portion"
+    },
+    {
+      "ar": "بَدِيعِ",
+      "en": "wondrous"
+    },
+    {
+      "ar": "يَأْخُذَكَ",
+      "en": "thou shouldst"
+    }
+  ],
+  "terms": [
+    {
+      "term": "نَفْسَكَ",
+      "transliteration": "n-f-s",
+      "literal": "soul; self; person; essence",
+      "se_rendering": "thyself",
+      "note": "Root n-f-s appears only twice in SE corpus with renderings 'every one' and 'His life'; here rendered 'thyself' as reflexive pronoun, the most direct personal address form.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 544,
+          "snippet": "every one"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 189,
+          "snippet": "His life"
+        }
+      ]
+    },
+    {
+      "term": "جَميلِ",
+      "transliteration": "j-m-l",
+      "literal": "beauty; comeliness",
+      "se_rendering": "beauteous",
+      "note": "Root j-m-l typically rendered 'Beauty' or 'beauty' as noun; here uniquely deployed as adjective 'beauteous' modifying robe, creating metaphorical intimacy absent from typical capitalized noun usage.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 296,
+          "snippet": "Beauty"
+        },
+        {
+          "work": "gleanings",
+          "para": 183,
+          "snippet": "Ancient Beauty"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 193,
+          "snippet": "Among others"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 67,
+          "snippet": "Among"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 208,
+          "snippet": "Among the sciences"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 268,
+          "snippet": "Among them"
+        },
+        {
+          "work": "gleanings",
+          "para": 359,
+          "snippet": "Amongst"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 118,
+          "snippet": "following"
+        }
+      ]
+    },
+    {
+      "term": "رِدائِي",
+      "transliteration": "r-d-d",
+      "literal": "rejected; repudiated",
+      "se_rendering": "robe",
+      "note": "Root r-d-d fundamentally means 'rejected' or 'repudiated'; SE renders as 'robe' here, a complete semantic departure reflecting Bahá'u'lláh's clothing metaphor for divine grace rather than rejection.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 63,
+          "snippet": "rejected"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 230,
+          "snippet": "refuting"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 128,
+          "snippet": "robe"
+        },
+        {
+          "work": "gleanings",
+          "para": 717,
+          "snippet": "vesture"
+        }
+      ]
+    },
+    {
+      "term": "نَصِيبَكَ",
+      "transliteration": "n-s-b",
+      "literal": "share; portion; lot; fate",
+      "se_rendering": "portion",
+      "note": "Root n-s-b spans 'portion,' 'deprive,' and 'hoist' across corpus; SE selects 'portion' here, the most literal and positive rendering among seven diverse occurrences.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 181,
+          "snippet": "hath been lifted up"
+        },
+        {
+          "work": "gleanings",
+          "para": 235,
+          "snippet": "been hoisted"
+        },
+        {
+          "work": "gleanings",
+          "para": 157,
+          "snippet": "before"
+        },
+        {
+          "work": "gleanings",
+          "para": 694,
+          "snippet": "will be planted"
+        }
+      ]
+    },
+    {
+      "term": "بَدِيعِ",
+      "transliteration": "b-d-ʿ",
+      "literal": "to create; most wondrous; excel",
+      "se_rendering": "wondrous",
+      "note": "Root b-d-ʿ carries 'wondrous,' 'creation,' and proper noun 'Badí'u'lláh'; SE chooses 'wondrous' as adjective modifying fountain, avoiding nominalization that dominates other contexts.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 2,
+          "snippet": "most wondrous"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 6,
+          "snippet": "Badí'u'lláh"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 9,
+          "snippet": "horizon of creation"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 191,
+          "snippet": "the eye of the universe"
+        },
+        {
+          "work": "gleanings",
+          "para": 205,
+          "snippet": "wondrous"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 4,
+          "snippet": "Mighty, the Wondrous"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 315,
+          "snippet": "kingdoms of creation"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 202,
+          "snippet": "new"
+        }
+      ]
+    },
+    {
+      "term": "ذاتِي",
+      "transliteration": "dh-w-t",
+      "literal": "essence; self; being",
+      "se_rendering": "evermore",
+      "note": "Root dh-w-t typically 'Essence' or 'His Essence' in elevated register; SE renders 'evermore' here through sarmadiyya (eternity), subordinating the essence reference to temporal infinity.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 387,
+          "snippet": "in His Essence"
+        },
+        {
+          "work": "gleanings",
+          "para": 126,
+          "snippet": "Essence"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 172,
+          "snippet": "His Essence"
+        },
+        {
+          "work": "gleanings",
+          "para": 525,
+          "snippet": "among yourselves"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 854,
+          "snippet": "myself"
+        },
+        {
+          "work": "gleanings",
+          "para": 92,
+          "snippet": "Ancient of Days"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 361,
+          "snippet": "Thyself"
+        }
+      ]
+    }
+  ],
+  "section_index": "75",
+  "section": "75",
+  "section_para": 1
 }

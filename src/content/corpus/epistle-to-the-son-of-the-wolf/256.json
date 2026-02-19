@@ -1,10 +1,565 @@
 {
   "work": "Epistle to the Son of the Wolf",
   "slug": "epistle-to-the-son-of-the-wolf",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 256,
   "source_text": "قدری در عصمت نقطه اولی تفکّر کن ملاحظه نما چه ظاهر گشته * وقتيکه اين مظلوم از هجرت دو ساله که در صحاری و جبال سالک بود و بسبب بعضی از نفوس که مدّتها در بيابانها دويدند رجوع بدار السّلام نمود ميرزا محمّد علی نامی رشتی بحضور امد و امام جمعی بکلمه ای نطق نمود درباره عصمت ان حضرت که فی الحقيقه حزن جميع اقطار را اخذ نمود * سبحان اللّه چگونه راضی شدند که باين خيانت اعظم تمسّک جستند * باری از حقّ ميطلبيم که عامل را توفيق بخشد بر توبه و انابه * انّه هو المؤيّد الحکيم *",
   "translation": "Reflect a while upon the dishonor inflicted upon the Primal Point. Consider what hath happened. When this Wronged One, after a retirement of two years during which He wandered through the deserts and mountains, returned to Baghdád, as a result of the intervention of a few, who for a long time had sought Him in the wilderness, a certain Mírzá Muḥammad-‘Alí of Rasht came to see Him, and related, before a large gathering of people, that which had been done, affecting the honor of the Báb, which hath truly overwhelmed all lands with sorrow. Great God! How could they have countenanced this most grievous betrayal? Briefly, We beseech God to aid the perpetrator of this deed to repent, and return unto Him. He, verily, is the Helper, the All-Wise.",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "dishonor-primal-point-betrayal",
+  "alignment": [
+    {
+      "ar": "قدری",
+      "en": "a while"
+    },
+    {
+      "ar": "در",
+      "en": "upon"
+    },
+    {
+      "ar": "عصمت",
+      "en": "honor"
+    },
+    {
+      "ar": "نقطه اولی",
+      "en": "Primal Point"
+    },
+    {
+      "ar": "تفکّر",
+      "en": "Reflect"
+    },
+    {
+      "ar": "ملاحظه",
+      "en": "Consider"
+    },
+    {
+      "ar": "ظاهر",
+      "en": "happened"
+    },
+    {
+      "ar": "وقتيکه",
+      "en": "When"
+    },
+    {
+      "ar": "مظلوم",
+      "en": "Wronged One"
+    },
+    {
+      "ar": "هجرت",
+      "en": "retirement"
+    },
+    {
+      "ar": "دو ساله",
+      "en": "two years"
+    },
+    {
+      "ar": "صحاری",
+      "en": "deserts"
+    },
+    {
+      "ar": "جبال",
+      "en": "mountains"
+    },
+    {
+      "ar": "سالک",
+      "en": "wandered"
+    },
+    {
+      "ar": "بسبب",
+      "en": "as a result of"
+    },
+    {
+      "ar": "بعضی",
+      "en": "a few"
+    },
+    {
+      "ar": "مدّتها",
+      "en": "a long time"
+    },
+    {
+      "ar": "بيابانها",
+      "en": "wilderness"
+    },
+    {
+      "ar": "دويدند",
+      "en": "sought"
+    },
+    {
+      "ar": "رجوع",
+      "en": "returned"
+    },
+    {
+      "ar": "بدار السّلام",
+      "en": "Baghdád"
+    },
+    {
+      "ar": "نامی",
+      "en": "a certain"
+    },
+    {
+      "ar": "رشتی",
+      "en": "Rasht"
+    },
+    {
+      "ar": "بحضور",
+      "en": "to see Him"
+    },
+    {
+      "ar": "امد",
+      "en": "came"
+    },
+    {
+      "ar": "امام جمعی",
+      "en": "before a large gathering of people"
+    },
+    {
+      "ar": "بکلمه ای",
+      "en": "related"
+    },
+    {
+      "ar": "درباره",
+      "en": "affecting"
+    },
+    {
+      "ar": "ان حضرت",
+      "en": "the Báb"
+    },
+    {
+      "ar": "فی الحقيقه",
+      "en": "truly"
+    },
+    {
+      "ar": "حزن",
+      "en": "sorrow"
+    },
+    {
+      "ar": "جميع",
+      "en": "all"
+    },
+    {
+      "ar": "اقطار",
+      "en": "lands"
+    },
+    {
+      "ar": "اخذ",
+      "en": "overwhelmed"
+    },
+    {
+      "ar": "سبحان اللّه",
+      "en": "Great God"
+    },
+    {
+      "ar": "چگونه",
+      "en": "How"
+    },
+    {
+      "ar": "راضی",
+      "en": "countenanced"
+    },
+    {
+      "ar": "شدند",
+      "en": "could"
+    },
+    {
+      "ar": "باين",
+      "en": "this"
+    },
+    {
+      "ar": "خيانت",
+      "en": "betrayal"
+    },
+    {
+      "ar": "اعظم",
+      "en": "most grievous"
+    },
+    {
+      "ar": "باری",
+      "en": "Briefly"
+    },
+    {
+      "ar": "حقّ",
+      "en": "God"
+    },
+    {
+      "ar": "ميطلبيم",
+      "en": "beseech"
+    },
+    {
+      "ar": "عامل",
+      "en": "perpetrator"
+    },
+    {
+      "ar": "توفيق",
+      "en": "aid"
+    },
+    {
+      "ar": "توبه",
+      "en": "repent"
+    },
+    {
+      "ar": "انابه",
+      "en": "return"
+    },
+    {
+      "ar": "انّه",
+      "en": "He"
+    },
+    {
+      "ar": "المؤيّد",
+      "en": "Helper"
+    },
+    {
+      "ar": "الحکيم",
+      "en": "All-Wise"
+    }
+  ],
+  "terms": [
+    {
+      "term": "قدری",
+      "transliteration": "q-d-r",
+      "literal": "power; might; decree; measure; worth",
+      "se_rendering": "a while",
+      "note": "Typically 'power,' 'decree,' or 'might' in 100 occurrences. 'A while' is uniquely temporal, restructuring meaning toward contemplative duration rather than divine attribute.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 339,
+          "snippet": "Thy power"
+        },
+        {
+          "work": "gleanings",
+          "para": 138,
+          "snippet": "hath been decreed"
+        },
+        {
+          "work": "gleanings",
+          "para": 662,
+          "snippet": "hath decreed"
+        },
+        {
+          "work": "gleanings",
+          "para": 496,
+          "snippet": "forbearing towards"
+        },
+        {
+          "work": "gleanings",
+          "para": 111,
+          "snippet": "schools"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 12,
+          "snippet": "God of power"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 35,
+          "snippet": "Potent"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 282,
+          "snippet": "Almighty"
+        }
+      ]
+    },
+    {
+      "term": "مظلوم",
+      "transliteration": "z-l-m",
+      "literal": "wrongedness, oppression, meekness; state of being wronged or oppressed",
+      "se_rendering": "Wronged One",
+      "note": "Usually 'afflicted' or 'wronged' across 128 occurrences. 'Wronged One' here formalizes the term as a title, emphasizing Bahá'u'lláh's station.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 498,
+          "snippet": "afflicted with countless tribulations"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 49,
+          "snippet": "meekness"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 116,
+          "snippet": "injury"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 3,
+          "snippet": "Wronged One"
+        },
+        {
+          "work": "gleanings",
+          "para": 221,
+          "snippet": "oppression"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 9,
+          "snippet": "Darkness"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 33,
+          "snippet": "tyranny"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 573,
+          "snippet": "oppressed"
+        }
+      ]
+    },
+    {
+      "term": "نطق",
+      "transliteration": "n-t-q",
+      "literal": "to speak; to utter; to pronounce; to articulate",
+      "se_rendering": "related",
+      "note": "Usually 'spoke' or 'utterance' in 22 occurrences. 'Related' softens the force of proclamation to narrative testimony, suited to the reported disclosure of Mírzá Muḥammad-'Alí.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 2,
+          "snippet": "spoke"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 719,
+          "snippet": "speaking"
+        },
+        {
+          "work": "gleanings",
+          "para": 324,
+          "snippet": "rational faculty"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 90,
+          "snippet": "utterance"
+        },
+        {
+          "work": "gleanings",
+          "para": 616,
+          "snippet": "hath spoken"
+        },
+        {
+          "work": "tablet-of-carmel",
+          "para": 5,
+          "snippet": "hath been moved to disclose"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 596,
+          "snippet": "uttered"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 626,
+          "snippet": "made me able so to reveal"
+        }
+      ]
+    },
+    {
+      "term": "حزن",
+      "transliteration": "h-z-n",
+      "literal": "sorrow; grief; sadness; anguish",
+      "se_rendering": "sorrow",
+      "note": "Consistently 'sorrow' or 'grief' in 23 occurrences. This rendering aligns with standard pattern, maintaining the emotional resonance of collective anguish.",
+      "cross_refs": [
+        {
+          "work": "fire-tablet",
+          "para": 12,
+          "snippet": "Sorrows"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 57,
+          "snippet": "sorrow"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 36,
+          "snippet": "Sorrow not"
+        },
+        {
+          "work": "gleanings",
+          "para": 207,
+          "snippet": "Let nothing grieve thee"
+        },
+        {
+          "work": "gleanings",
+          "para": 216,
+          "snippet": "Grieve not"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 54,
+          "snippet": "be not sad"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 11,
+          "snippet": "affliction"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 16,
+          "snippet": "his sadness"
+        }
+      ]
+    },
+    {
+      "term": "اعظم",
+      "transliteration": "ʿ-z̟-m",
+      "literal": "greatest; supreme; mightiest",
+      "se_rendering": "most grievous",
+      "note": "Customarily 'Most Great' or 'greatest' across 63 occurrences. 'Most grievous' transposes the root from magnitude to severity—a qualitative rather than quantitative modification.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 56,
+          "snippet": "supreme"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 269,
+          "snippet": "Most Great"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 734,
+          "snippet": "Most Great Name"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 3,
+          "snippet": "greatest"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 6,
+          "snippet": "greater"
+        },
+        {
+          "work": "gleanings",
+          "para": 10,
+          "snippet": "most mighty"
+        },
+        {
+          "work": "gleanings",
+          "para": 392,
+          "snippet": "great"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 9,
+          "snippet": "mighty"
+        }
+      ]
+    },
+    {
+      "term": "تمسّک",
+      "transliteration": "m-s-k",
+      "literal": "musk; to seize; grip",
+      "se_rendering": "countenanced",
+      "note": "Generally 'holding fast' or 'cleaving' across 23 occurrences. 'Countenanced' shifts from possession/adherence to moral approval—a distinctly ethical reframing.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 188,
+          "snippet": "musk"
+        },
+        {
+          "work": "gleanings",
+          "para": 224,
+          "snippet": "clinging"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 768,
+          "snippet": "holding fast"
+        },
+        {
+          "work": "gleanings",
+          "para": 396,
+          "snippet": "cleave"
+        },
+        {
+          "work": "gleanings",
+          "para": 367,
+          "snippet": "take ye counsel"
+        },
+        {
+          "work": "gleanings",
+          "para": 720,
+          "snippet": "cleaveth"
+        },
+        {
+          "work": "gleanings",
+          "para": 719,
+          "snippet": "Hold ye fast"
+        },
+        {
+          "work": "gleanings",
+          "para": 606,
+          "snippet": "steadfastness"
+        }
+      ]
+    },
+    {
+      "term": "الحکيم",
+      "transliteration": "h-k-m",
+      "literal": "government; rule; governance; wisdom",
+      "se_rendering": "the All-Wise",
+      "note": "Predominantly 'wisdom' or 'rule' in 69 occurrences. 'The All-Wise' elevates to divine epithet form, establishing God as ultimate judge of the betrayal.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-ahd",
+          "para": 6,
+          "snippet": "rule"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "government"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 849,
+          "snippet": "signs of Thy sovereignty"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 160,
+          "snippet": "meaning of return"
+        },
+        {
+          "work": "gleanings",
+          "para": 224,
+          "snippet": "mysteries"
+        },
+        {
+          "work": "gleanings",
+          "para": 636,
+          "snippet": "rule of the sword"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 182,
+          "snippet": "mystery of the former verse"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 46,
+          "snippet": "conclusive"
+        }
+      ]
+    }
+  ],
+  "section_index": "256",
+  "section": "256",
+  "section_para": 1
 }

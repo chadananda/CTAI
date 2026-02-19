@@ -1,10 +1,431 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 636,
   "source_text": "ثمّ اعلم بأنّا أرفعنا حکم السّیف وقدّرنا النّصر باللّسان وما یظهر من البیان وکذلک کان الأمر عن جهة الفضل مقضیًّا قل یا قوم لا تفسدوا في الأرض ولا تحاربوا مع نفس لأنّ ربّک أودع مداین الأرض کلّها بید الملوک وجعلهم مظاهر قدرته علی ما هم علیه وما أراد لنفسه من المُلک شیئًا وکان نفسه الحقّ علی ذلک شهیدًا بل أراد لنفسه مداین القلوب لیطهّرهم عن دنس الأرض ویقرّبهم إلی مقرّ الّذي کان عن مسّ المشرکین محفوظًا أن افتحوا یا قوم مداین القلوب بمفاتیح البیان وکذلک نزّلنا الأمر علی قدر مقدورًا تالله إنّ الدّنیا وزخرفها وما فیها من آلائها لم یکن عند",
   "translation": "Know thou that We have annulled the rule of the sword, as an aid to Our Cause, and substituted for it the power born of the utterance of men. Thus have We irrevocably decreed, by virtue of Our grace. Say: O people! Sow not the seeds of discord among men, and refrain from contending with your neighbor, for your Lord hath committed the world and the cities thereof to the care of the kings of the earth, and made them the emblems of His own power, by virtue of the sovereignty He hath chosen to bestow upon them. He hath refused to reserve for Himself any share whatever of this world’s dominion. To this He Who is Himself the Eternal Truth will testify. The things He hath reserved for Himself are the cities of men’s hearts, that He may cleanse them from all earthly defilements, and enable them to draw nigh unto the hallowed Spot which the hands of the infidel can never profane. Open, O people, the city of the human heart with the key of your utterance. Thus have We, according to a preordained measure, prescribed unto you your duty.",
   "source_lang": "ar",
-  "score": 9.6
+  "score": 9.6,
+  "page_slug": "cities-hearts-utterance",
+  "alignment": [
+    {
+      "ar": "اعلم",
+      "en": "Know thou"
+    },
+    {
+      "ar": "أرفعنا",
+      "en": "annulled"
+    },
+    {
+      "ar": "حکم",
+      "en": "rule"
+    },
+    {
+      "ar": "السّیف",
+      "en": "the sword"
+    },
+    {
+      "ar": "قدّرنا",
+      "en": "substituted"
+    },
+    {
+      "ar": "النّصر",
+      "en": "aid"
+    },
+    {
+      "ar": "باللّسان",
+      "en": "the utterance of men"
+    },
+    {
+      "ar": "یظهر",
+      "en": "born"
+    },
+    {
+      "ar": "البیان",
+      "en": "the power"
+    },
+    {
+      "ar": "الأمر",
+      "en": "decreed"
+    },
+    {
+      "ar": "الفضل",
+      "en": "grace"
+    },
+    {
+      "ar": "قل",
+      "en": "Say"
+    },
+    {
+      "ar": "قوم",
+      "en": "people"
+    },
+    {
+      "ar": "لا تفسدوا",
+      "en": "Sow not the seeds of discord"
+    },
+    {
+      "ar": "الأرض",
+      "en": "among men"
+    },
+    {
+      "ar": "لا تحاربوا",
+      "en": "refrain from contending"
+    },
+    {
+      "ar": "نفس",
+      "en": "your neighbor"
+    },
+    {
+      "ar": "ربّک",
+      "en": "your Lord"
+    },
+    {
+      "ar": "أودع",
+      "en": "committed"
+    },
+    {
+      "ar": "مداین",
+      "en": "the cities"
+    },
+    {
+      "ar": "الملوک",
+      "en": "the kings"
+    },
+    {
+      "ar": "جعلهم",
+      "en": "made them"
+    },
+    {
+      "ar": "مظاهر",
+      "en": "the emblems"
+    },
+    {
+      "ar": "قدرته",
+      "en": "His own power"
+    },
+    {
+      "ar": "المُلک",
+      "en": "sovereignty"
+    },
+    {
+      "ar": "شیئًا",
+      "en": "any share whatever"
+    },
+    {
+      "ar": "نفسه",
+      "en": "Himself"
+    },
+    {
+      "ar": "الحقّ",
+      "en": "the Eternal Truth"
+    },
+    {
+      "ar": "شهیدًا",
+      "en": "testify"
+    },
+    {
+      "ar": "أراد",
+      "en": "reserved"
+    },
+    {
+      "ar": "لیطهّرهم",
+      "en": "cleanse them"
+    },
+    {
+      "ar": "دنس",
+      "en": "earthly defilements"
+    },
+    {
+      "ar": "یقرّبهم",
+      "en": "draw nigh"
+    },
+    {
+      "ar": "مقرّ",
+      "en": "the hallowed Spot"
+    },
+    {
+      "ar": "مسّ",
+      "en": "the hands"
+    },
+    {
+      "ar": "المشرکین",
+      "en": "the infidel"
+    },
+    {
+      "ar": "محفوظًا",
+      "en": "profane"
+    },
+    {
+      "ar": "افتحوا",
+      "en": "Open"
+    },
+    {
+      "ar": "مفاتیح",
+      "en": "the key"
+    },
+    {
+      "ar": "نزّلنا",
+      "en": "prescribed"
+    },
+    {
+      "ar": "مقدورًا",
+      "en": "a preordained measure"
+    },
+    {
+      "ar": "زخرفها",
+      "en": "dominion"
+    }
+  ],
+  "terms": [
+    {
+      "term": "أرفعنا",
+      "transliteration": "r-f-ʿ",
+      "literal": "to be raised, elevated, exalted, lifted up",
+      "se_rendering": "annulled",
+      "note": "Root ر-ف-ع typically renders as 'exalted' or 'elevated' (45 occurrences). 'Annulled' is semantically unique here, indicating SE interpreted the phrase to mean 'lifted away' or 'removed' rather than 'raised up'.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 52,
+          "snippet": "elevated heavens"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 11,
+          "snippet": "was hoisted"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 15,
+          "snippet": "exalted"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 227,
+          "snippet": "exaltation"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 210,
+          "snippet": "lift up"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 4,
+          "snippet": "are uplifted"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 285,
+          "snippet": "uplifted"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 43,
+          "snippet": "have We abolished"
+        }
+      ]
+    },
+    {
+      "term": "النّصر",
+      "transliteration": "n-s-r",
+      "literal": "aid, help, succor, victory, support",
+      "se_rendering": "power",
+      "note": "Root ن-ص-ر typically 'victory,' 'aid,' or 'triumph' (39 occ). Here rendered 'power,' suggesting SE chose semantic latitude to emphasize efficacy rather than military triumph, aligning with the shift from physical to linguistic means.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 212,
+          "snippet": "assist Thee"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 180,
+          "snippet": "extended Our aid"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 490,
+          "snippet": "potency of Thy might"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 6,
+          "snippet": "aid"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 35,
+          "snippet": "We shall render Thee victorious"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 47,
+          "snippet": "helper"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 17,
+          "snippet": "Nazarene"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 47,
+          "snippet": "champions"
+        }
+      ]
+    },
+    {
+      "term": "البیان",
+      "transliteration": "b-y-n",
+      "literal": "to manifest; to make clear; clear, evident",
+      "se_rendering": "utterance",
+      "note": "Root ب-ي-ن shows 87 renderings including 'the Bayán,' 'proofs,' 'clear verses.' 'Utterance' here is contextually creative—emphasizing speech-act rather than clarity or sacred text, unique choice reflecting 'النّصر باللّسان' parallelism.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 231,
+          "snippet": "clear verses"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 3,
+          "snippet": "proofs"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 12,
+          "snippet": "clear proofs"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 101,
+          "snippet": "Bayán"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 84,
+          "snippet": "palpable smoke"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 120,
+          "snippet": "evil"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 178,
+          "snippet": "evident error"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 189,
+          "snippet": "meaning"
+        }
+      ]
+    },
+    {
+      "term": "شهیدًا",
+      "transliteration": "sh-h-d",
+      "literal": "witnessed; observed; seen; evident; manifest",
+      "se_rendering": "testify",
+      "note": "Root ش-ه-د spans 'witness,' 'testify,' 'manifest' (74 occ). 'Testify' emphasizes juridical/evidentiary function here rather than 'manifest' or 'evident,' heightening the Truth's role as cosmic witness.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 35,
+          "snippet": "evident"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 811,
+          "snippet": "I bear witness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 6,
+          "snippet": "I testify"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 138,
+          "snippet": "martyrdom"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 230,
+          "snippet": "God testifieth"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 57,
+          "snippet": "beheld"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 117,
+          "snippet": "testify"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 156,
+          "snippet": "bear witness"
+        }
+      ]
+    },
+    {
+      "term": "محفوظًا",
+      "transliteration": "h-f-z",
+      "literal": "guardian; preserver; keeper",
+      "se_rendering": "profane",
+      "note": "Root ح-ف-ظ typically 'Guardian,' 'Shield,' 'protection' (45 occ). 'Profane' (via negation) is a passive rendering—SE chose action-verb sense ('can never profane') rather than noun or protective state, emphasizing violation-prevention.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 3,
+          "snippet": "protection"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 44,
+          "snippet": "shield"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 55,
+          "snippet": "guard"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 22,
+          "snippet": "Guardian"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 193,
+          "snippet": "Keep"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 90,
+          "snippet": "Watch"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 102,
+          "snippet": "Preserve"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 625,
+          "snippet": "the Preserver"
+        }
+      ]
+    }
+  ],
+  "section_index": "CXXXIX.5",
+  "section": "CXXXIX",
+  "section_para": 5
 }

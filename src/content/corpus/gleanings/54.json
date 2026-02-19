@@ -1,10 +1,88 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 54,
   "source_text": "بِهِ فِي الصَّمْتِ مِا تَقُولُ فِي الْحَيْرَةِ الَّتِي نَرَاكَ",
   "translation": "The inebriation of Thy presence, O Well-Beloved of all worlds, hath seized and possessed me.",
   "source_lang": "ar",
-  "score": 9.8
+  "score": 9.8,
+  "page_slug": "inebriation-of-thy-presence",
+  "alignment": [
+    {
+      "ar": "تَقُولُ",
+      "en": "hath seized and possessed"
+    },
+    {
+      "ar": "الْحَيْرَةِ",
+      "en": "inebriation"
+    }
+  ],
+  "terms": [
+    {
+      "term": "الصَّمْتِ",
+      "transliteration": "ṣ-m-t",
+      "literal": "silence; to be silent",
+      "se_rendering": "silence",
+      "note": "Consistently rendered 'silence' across corpus. Here contextually frames the unspeakable nature of divine proximity—silence as response.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 48,
+          "snippet": "silence"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 61,
+          "snippet": "held His peace"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 120,
+          "snippet": "hold their peace"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 149,
+          "snippet": "silent"
+        }
+      ]
+    },
+    {
+      "term": "تَقُولُ",
+      "transliteration": "q-l",
+      "literal": "to say; to speak; saying",
+      "se_rendering": "thou utterest",
+      "note": "Single occurrence in concordance as 'saying'. SE renders 'thou utterest', elevating the speech act to formality within the silence paradox.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 138,
+          "snippet": "saying"
+        }
+      ]
+    },
+    {
+      "term": "الْحَيْرَةِ",
+      "transliteration": "h-y-r",
+      "literal": "bewildered; perplexed; confused; astounded; amazed",
+      "se_rendering": "inebriation",
+      "note": "Typically 'perplexed', 'bewildered', 'confused' (5 occurrences). Rendered 'inebriation' here—a radical metaphorical shift substituting intoxication for confusion.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 185,
+          "snippet": "perplexed"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 142,
+          "snippet": "bewildered"
+        }
+      ]
+    }
+  ],
+  "section_index": "XIV.9",
+  "section": "XIV",
+  "section_para": 9
 }

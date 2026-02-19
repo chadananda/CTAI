@@ -1,10 +1,496 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 351,
   "source_text": "ذلِكَ بَيْنَ بِرِيَّتِكَ بِحَيْثُ لا يَعْرِفُنِي أَحَدٌ إِلاَّ بِاسْمِكَ، وَإِنِّيْ فَوَعِزَّتِكَ لا أَجْزَعُ بِما وَرَدَ عَلَيَّ فِي سَبِيلِكَ، وَلكِنْ أُشاهِدُ أَنَّ بِذِلَّتِي ضَعُفَتْ قُلُوبُ أَحِبَّائِكَ وَاسْتَفْرَحَتْ أَفْئِدَةُ أَعْدائِكَ بِحَيْثُ يَشْمَتُونَ عَلَى الَّذِينَ انْقَطَعُوا عَمَّا سِواكَ وَسَرُعُوا إِلى شَرِيعَةِ ذِكْرِكَ وَثَنائِكَ، وَقَدْ بَلَغُوا فِي الغَفْلَةِ إِلى مَقامٍ إِذا يَمُرُّونَ عَلَى أَحِبَّتِكَ يُحَرِّكُونَ رُؤوسَهُمْ اسْتِهْزاءً لأمْرِكَ وَيَقُولُونَ أَيْنَ رَبُّكُمُ الَّذِيْ تَذْكُرُونَهُ بِاللَّيالِي وَالأَيَّامِ وَأَيْنَ سُلْطانُكُمُ الَّذِيْ تَدْعُونَ",
   "translation": "All these things Thou hast noised abroad among Thy creatures, in such wise that none can recognize me, except as one who beareth Thy name. I swear by Thy glory! My lamentations are not for the things which have befallen me in Thy path, but are due to my recognition that by reason of mine abasement the hearts of them that love Thee have been sore shaken, and the souls of Thine adversaries have been so filled with joy that they rejoice over those who have detached themselves from all except Thee and have hastened towards the river of Thy remembrance and praise. So great is their waywardness that when meeting Thy loved ones, they shake their heads in derision of Thy Cause and say: “Where is your Lord Whom ye mention in the daytime and in the night season? Where is He to be found Whom ye call your Sovereign, to Whom ye summon all men to turn?” Their pride and haughtiness waxed greater and greater until they denied the power of Thy might and rejected Thy sovereignty and dominion.",
   "source_lang": "ar",
-  "score": 9.2
+  "score": 9.2,
+  "page_slug": "where-is-your-lord-whom-ye-mention",
+  "alignment": [
+    {
+      "ar": "ذلِكَ",
+      "en": "All these things"
+    },
+    {
+      "ar": "بَيْنَ",
+      "en": "among"
+    },
+    {
+      "ar": "بِحَيْثُ",
+      "en": "in such wise"
+    },
+    {
+      "ar": "لا",
+      "en": "none"
+    },
+    {
+      "ar": "يَعْرِفُنِي",
+      "en": "recognize me"
+    },
+    {
+      "ar": "بِاسْمِكَ",
+      "en": "Thy name"
+    },
+    {
+      "ar": "لا أَجْزَعُ",
+      "en": "lamentations are not"
+    },
+    {
+      "ar": "بِما",
+      "en": "for the things which"
+    },
+    {
+      "ar": "وَرَدَ",
+      "en": "have befallen"
+    },
+    {
+      "ar": "فِي سَبِيلِكَ",
+      "en": "in Thy path"
+    },
+    {
+      "ar": "وَلكِنْ",
+      "en": "but"
+    },
+    {
+      "ar": "أُشاهِدُ",
+      "en": "recognition"
+    },
+    {
+      "ar": "ضَعُفَتْ",
+      "en": "sore shaken"
+    },
+    {
+      "ar": "قُلُوبُ",
+      "en": "hearts"
+    },
+    {
+      "ar": "وَاسْتَفْرَحَتْ",
+      "en": "filled with joy"
+    },
+    {
+      "ar": "أَفْئِدَةُ",
+      "en": "souls"
+    },
+    {
+      "ar": "أَعْدائِكَ",
+      "en": "Thine adversaries"
+    },
+    {
+      "ar": "بِحَيْثُ",
+      "en": "that"
+    },
+    {
+      "ar": "يَشْمَتُونَ",
+      "en": "rejoice"
+    },
+    {
+      "ar": "عَلَى",
+      "en": "over"
+    },
+    {
+      "ar": "انْقَطَعُوا",
+      "en": "detached themselves"
+    },
+    {
+      "ar": "وَسَرُعُوا",
+      "en": "hastened"
+    },
+    {
+      "ar": "إِلى",
+      "en": "towards"
+    },
+    {
+      "ar": "شَرِيعَةِ",
+      "en": "river"
+    },
+    {
+      "ar": "ذِكْرِكَ",
+      "en": "Thy remembrance"
+    },
+    {
+      "ar": "وَثَنائِكَ",
+      "en": "praise"
+    },
+    {
+      "ar": "وَقَدْ",
+      "en": "So"
+    },
+    {
+      "ar": "بَلَغُوا",
+      "en": "great"
+    },
+    {
+      "ar": "فِي الغَفْلَةِ",
+      "en": "waywardness"
+    },
+    {
+      "ar": "إِلى مَقامٍ",
+      "en": "is"
+    },
+    {
+      "ar": "إِذا",
+      "en": "when"
+    },
+    {
+      "ar": "عَلَى",
+      "en": "meeting"
+    },
+    {
+      "ar": "رُؤوسَهُمْ",
+      "en": "their heads"
+    },
+    {
+      "ar": "اسْتِهْزاءً",
+      "en": "derision"
+    },
+    {
+      "ar": "لأمْرِكَ",
+      "en": "Thy Cause"
+    },
+    {
+      "ar": "وَيَقُولُونَ",
+      "en": "say"
+    },
+    {
+      "ar": "أَيْنَ",
+      "en": "Where"
+    },
+    {
+      "ar": "تَذْكُرُونَهُ",
+      "en": "ye mention"
+    },
+    {
+      "ar": "سُلْطانُكُمُ",
+      "en": "your Sovereign"
+    },
+    {
+      "ar": "تَدْعُونَ",
+      "en": "ye summon"
+    }
+  ],
+  "terms": [
+    {
+      "term": "بِذِلَّتِي",
+      "transliteration": "dh-l-l",
+      "literal": "abasement; humiliation; lowliness; to be abased",
+      "se_rendering": "mine abasement",
+      "note": "Root ذ-ل-ل typically rendered 'abasement' or 'humiliation'. SE here uses 'mine abasement' — personal possessive form emphasizing the speaker's acute lowliness rather than abstract degradation.",
+      "cross_refs": [
+        {
+          "work": "fire-tablet",
+          "para": 11,
+          "snippet": "Abasement"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 11,
+          "snippet": "degradation"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 47,
+          "snippet": "humbled himself"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 10,
+          "snippet": "wronged servant"
+        },
+        {
+          "work": "gleanings",
+          "para": 665,
+          "snippet": "abased"
+        }
+      ]
+    },
+    {
+      "term": "أَعْدائِكَ",
+      "transliteration": "ʿ-d-w",
+      "literal": "hostility, aggression, enmity, transgression",
+      "se_rendering": "Thine adversaries",
+      "note": "Root ع-د-و yields 'enemies', 'foes', or 'adversaries'. SE uses 'adversaries' here — a narrower, more formal term than the frequent 'enemies', suggesting intellectual opposition rather than raw hostility.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 4,
+          "snippet": "hostility"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 53,
+          "snippet": "enemies of the Covenant"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 110,
+          "snippet": "his enemy"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 33,
+          "snippet": "Thy foes"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 35,
+          "snippet": "amongst mine enemies"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 100,
+          "snippet": "his enemies"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 52,
+          "snippet": "enemies"
+        },
+        {
+          "work": "gleanings",
+          "para": 184,
+          "snippet": "Mine enemies"
+        }
+      ]
+    },
+    {
+      "term": "انْقَطَعُوا",
+      "transliteration": "q-t-ʿ",
+      "literal": "to be severed; to be cut off; to detach oneself; to abstain",
+      "se_rendering": "detached themselves",
+      "note": "Root ق-ط-ع typically 'detached themselves' or 'sundered'. SE renders 'detached themselves' — the primary concordance form, emphasizing voluntary spiritual severance from material attachments.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 662,
+          "snippet": "detacheth himself"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 11,
+          "snippet": "decisive"
+        },
+        {
+          "work": "gleanings",
+          "para": 310,
+          "snippet": "cut into pieces"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 16,
+          "snippet": "detachment"
+        },
+        {
+          "work": "gleanings",
+          "para": 255,
+          "snippet": "detached"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 218,
+          "snippet": "renounced"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 682,
+          "snippet": "wholly detached"
+        },
+        {
+          "work": "gleanings",
+          "para": 490,
+          "snippet": "cut off"
+        }
+      ]
+    },
+    {
+      "term": "شَرِيعَةِ",
+      "transliteration": "sh-r-ʿ",
+      "literal": "law; legislation; religious law; canon; ordinance",
+      "se_rendering": "river",
+      "note": "Root ش-ر-ع standardly means 'law' or 'religious law'. SE renders as 'river' — a metaphorical reading unique to this passage, suggesting flowing remembrance rather than legislative ordinance.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "Sanctuary"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 221,
+          "snippet": "Law"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 10,
+          "snippet": "river"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 25,
+          "snippet": "grace"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 38,
+          "snippet": "Dispensation"
+        },
+        {
+          "work": "gleanings",
+          "para": 529,
+          "snippet": "one common Faith"
+        }
+      ]
+    },
+    {
+      "term": "الغَفْلَةِ",
+      "transliteration": "gh-f-l",
+      "literal": "heedlessness; negligence; inattention",
+      "se_rendering": "waywardness",
+      "note": "Root غ-ف-ل typically 'heedlessness' or 'negligence'. SE renders 'waywardness' — departing from concordance norms, suggesting moral wandering beyond mere inattention, with ethical weight.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 158,
+          "snippet": "O heedless one"
+        },
+        {
+          "work": "gleanings",
+          "para": 132,
+          "snippet": "heedless"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 134,
+          "snippet": "thou who hast gone astray"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 156,
+          "snippet": "thou who art gone astray"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 6,
+          "snippet": "my heedlessness"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 90,
+          "snippet": "Essence of Negligence"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 95,
+          "snippet": "couch of heedlessness"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 152,
+          "snippet": "Children of Negligence"
+        }
+      ]
+    },
+    {
+      "term": "مَقامٍ",
+      "transliteration": "q-w-m",
+      "literal": "rising; standing; uprising; resurrection",
+      "se_rendering": "waywardness",
+      "note": "Root ق-و-م typically yields 'Resurrection', 'rising', or 'uprising'. SE renders as 'waywardness' — a radical semantic shift that transforms spatial-temporal standing into moral state, appearing nowhere else in the concordance.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 152,
+          "snippet": "Day of Resurrection"
+        },
+        {
+          "work": "gleanings",
+          "para": 437,
+          "snippet": "arise"
+        },
+        {
+          "work": "gleanings",
+          "para": 513,
+          "snippet": "dedicateth"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 153,
+          "snippet": "Resurrection"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 74,
+          "snippet": "rise"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "peoples"
+        },
+        {
+          "work": "gleanings",
+          "para": 693,
+          "snippet": "commandments"
+        },
+        {
+          "work": "gleanings",
+          "para": 628,
+          "snippet": "My commandments"
+        }
+      ]
+    },
+    {
+      "term": "لأمْرِكَ",
+      "transliteration": "ʾ-m-r",
+      "literal": "command; cause; matter; affair",
+      "se_rendering": "Thy Cause",
+      "note": "Root ا-م-ر yields 'Cause', 'command', or 'Revelation'. SE uses 'Thy Cause' here, the most frequent rendering, maintaining consistency with Bahá'í theological vocabulary.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "His Cause"
+        },
+        {
+          "work": "gleanings",
+          "para": 586,
+          "snippet": "His command"
+        },
+        {
+          "work": "gleanings",
+          "para": 691,
+          "snippet": "His Revelation"
+        },
+        {
+          "work": "gleanings",
+          "para": 723,
+          "snippet": "Cause"
+        },
+        {
+          "work": "gleanings",
+          "para": 8,
+          "snippet": "Revelation"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 167,
+          "snippet": "things"
+        },
+        {
+          "work": "gleanings",
+          "para": 524,
+          "snippet": "your affairs"
+        },
+        {
+          "work": "gleanings",
+          "para": 495,
+          "snippet": "affairs"
+        }
+      ]
+    }
+  ],
+  "section_index": "LXXXIII.2",
+  "section": "LXXXIII",
+  "section_para": 2
 }

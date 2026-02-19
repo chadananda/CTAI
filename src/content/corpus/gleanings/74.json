@@ -1,10 +1,654 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 74,
   "source_text": "الّا من شاء اللّه هر روز ارض در بلای جديدی مشاهده ميشود و آناً فآناً در تزايد است از حين نزول سوره رئيس تا اين يوم نه ارض بسکون فائز است و نه عباد باطمينان مزيّن گاهی مجادله گاهی محاربه گاهی امراض مزمنه مرض عالم بمقامی رسيده که نزديک بيأس است چه که طبيب ممنوع و متطبّب مقبول و مشغول ...\nغبار نفاق قلوب را اخذ نموده و ابصار را احاطه کرده سوف يرون ما عملوا فی ايّام اللّه کذلک ينبّئک الخبير من لدن مقتدر قدير ...",
   "translation": "Witness how the world is being afflicted with a fresh calamity every day. Its tribulation is continually deepening. From the moment the Súriy-i-Ra’ís (Tablet to Ra’ís) was revealed until the present day, neither hath the world been tranquillized, nor have the hearts of its peoples been at rest. At one time it hath been agitated by contentions and disputes, at another it hath been convulsed by wars, and fallen a victim to inveterate diseases. Its sickness is approaching the stage of utter hopelessness, inasmuch as the true Physician is debarred from administering the remedy, whilst unskilled practitioners are regarded with favor, and are accorded full freedom to act.… The dust of sedition hath clouded the hearts of men, and blinded their eyes. Erelong, they will perceive the consequences of what their hands have wrought in the Day of God. Thus warneth you He Who is the All-Informed, as bidden by One Who is the Most Powerful, the Almighty.",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "world-afflicted-fresh-calamity",
+  "alignment": [
+    {
+      "ar": "الّا",
+      "en": "whilst"
+    },
+    {
+      "ar": "من",
+      "en": "Who"
+    },
+    {
+      "ar": "شاء",
+      "en": "bidden"
+    },
+    {
+      "ar": "اللّه",
+      "en": "God"
+    },
+    {
+      "ar": "هر",
+      "en": "every"
+    },
+    {
+      "ar": "روز",
+      "en": "day"
+    },
+    {
+      "ar": "ارض",
+      "en": "world"
+    },
+    {
+      "ar": "در",
+      "en": "with"
+    },
+    {
+      "ar": "بلای",
+      "en": "calamity"
+    },
+    {
+      "ar": "جديدی",
+      "en": "fresh"
+    },
+    {
+      "ar": "مشاهده",
+      "en": "Witness"
+    },
+    {
+      "ar": "ميشود",
+      "en": "being afflicted"
+    },
+    {
+      "ar": "آناً فآناً",
+      "en": "continually"
+    },
+    {
+      "ar": "تزايد",
+      "en": "deepening"
+    },
+    {
+      "ar": "است",
+      "en": "is"
+    },
+    {
+      "ar": "از",
+      "en": "From"
+    },
+    {
+      "ar": "حين",
+      "en": "moment"
+    },
+    {
+      "ar": "نزول",
+      "en": "revealed"
+    },
+    {
+      "ar": "تا",
+      "en": "until"
+    },
+    {
+      "ar": "اين",
+      "en": "present"
+    },
+    {
+      "ar": "نه",
+      "en": "neither"
+    },
+    {
+      "ar": "بسکون",
+      "en": "tranquillized"
+    },
+    {
+      "ar": "فائز",
+      "en": "been"
+    },
+    {
+      "ar": "عباد",
+      "en": "hearts"
+    },
+    {
+      "ar": "باطمينان",
+      "en": "at rest"
+    },
+    {
+      "ar": "گاهی",
+      "en": "At one time"
+    },
+    {
+      "ar": "مجادله",
+      "en": "contentions"
+    },
+    {
+      "ar": "محاربه",
+      "en": "wars"
+    },
+    {
+      "ar": "امراض",
+      "en": "diseases"
+    },
+    {
+      "ar": "مزمنه",
+      "en": "inveterate"
+    },
+    {
+      "ar": "مرض",
+      "en": "sickness"
+    },
+    {
+      "ar": "عالم",
+      "en": "Its"
+    },
+    {
+      "ar": "بمقامی",
+      "en": "stage"
+    },
+    {
+      "ar": "رسيده",
+      "en": "approaching"
+    },
+    {
+      "ar": "بيأس",
+      "en": "hopelessness"
+    },
+    {
+      "ar": "چه",
+      "en": "inasmuch"
+    },
+    {
+      "ar": "که",
+      "en": "as"
+    },
+    {
+      "ar": "طبيب",
+      "en": "Physician"
+    },
+    {
+      "ar": "ممنوع",
+      "en": "debarred"
+    },
+    {
+      "ar": "متطبّب",
+      "en": "practitioners"
+    },
+    {
+      "ar": "مقبول",
+      "en": "favor"
+    },
+    {
+      "ar": "مشغول",
+      "en": "accorded full freedom"
+    },
+    {
+      "ar": "غبار",
+      "en": "dust"
+    },
+    {
+      "ar": "نفاق",
+      "en": "sedition"
+    },
+    {
+      "ar": "اخذ",
+      "en": "clouded"
+    },
+    {
+      "ar": "نموده",
+      "en": "hath"
+    },
+    {
+      "ar": "ابصار",
+      "en": "eyes"
+    },
+    {
+      "ar": "احاطه",
+      "en": "blinded"
+    },
+    {
+      "ar": "سوف",
+      "en": "Erelong"
+    },
+    {
+      "ar": "يرون",
+      "en": "perceive"
+    },
+    {
+      "ar": "ما",
+      "en": "what"
+    },
+    {
+      "ar": "عملوا",
+      "en": "wrought"
+    },
+    {
+      "ar": "فی",
+      "en": "in"
+    },
+    {
+      "ar": "ايّام",
+      "en": "Day"
+    },
+    {
+      "ar": "اللّه",
+      "en": "of God"
+    },
+    {
+      "ar": "کذلک",
+      "en": "Thus"
+    },
+    {
+      "ar": "ينبّئک",
+      "en": "warneth"
+    },
+    {
+      "ar": "الخبير",
+      "en": "All-Informed"
+    },
+    {
+      "ar": "من",
+      "en": "by"
+    },
+    {
+      "ar": "مقتدر",
+      "en": "Most Powerful"
+    },
+    {
+      "ar": "قدير",
+      "en": "Almighty"
+    }
+  ],
+  "terms": [
+    {
+      "term": "مشاهده",
+      "transliteration": "sh-h-d",
+      "literal": "witnessed; observed; seen; evident; manifest",
+      "se_rendering": "Witness",
+      "note": "Typically 'manifest' or 'evident' (74 occ). Here 'Witness' as imperative verb—SE renders the root as command to observation rather than passive state.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 35,
+          "snippet": "evident"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 811,
+          "snippet": "I bear witness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 6,
+          "snippet": "I testify"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 138,
+          "snippet": "martyrdom"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 230,
+          "snippet": "God testifieth"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 57,
+          "snippet": "beheld"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 117,
+          "snippet": "testify"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 156,
+          "snippet": "bear witness"
+        }
+      ]
+    },
+    {
+      "term": "تزايد",
+      "transliteration": "z-y-d",
+      "literal": "increase; excess; more; additional",
+      "se_rendering": "deepening",
+      "note": "Usually 'increase' or 'increased' (22 occ). 'Deepening' here conveys progressive intensification of tribulation—a semantic specification unique to this context.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 7,
+          "snippet": "excess"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 48,
+          "snippet": "increased"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 199,
+          "snippet": "increaseth them not save in loss"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 267,
+          "snippet": "My love increased"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 99,
+          "snippet": "increased in the manifestation of Thy Cause"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 57,
+          "snippet": "increase"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 133,
+          "snippet": "increaseth"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 29,
+          "snippet": "greater"
+        }
+      ]
+    },
+    {
+      "term": "نزول",
+      "transliteration": "n-z-l",
+      "literal": "to descend, to be revealed",
+      "se_rendering": "revealed",
+      "note": "Standard 'revealed' aligns with 88 occurrences. SE applies it to the Súriy-i-Ra'ís to anchor the passage temporally from revelation onward.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 188,
+          "snippet": "revealed"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 175,
+          "snippet": "didst send down"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 835,
+          "snippet": "sent down"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 34,
+          "snippet": "Descend"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 47,
+          "snippet": "pour forth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 330,
+          "snippet": "send down"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 40,
+          "snippet": "were revealed"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 16,
+          "snippet": "hath been sent down"
+        }
+      ]
+    },
+    {
+      "term": "ممنوع",
+      "transliteration": "m-n-ʿ",
+      "literal": "forbidden; prevented; deprived",
+      "se_rendering": "debarred",
+      "note": "Consistently 'forbidden' (36 occ). 'Debarred' shifts from prohibition to active impediment of the true Physician—stronger exclusionary force.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "forbidden"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 56,
+          "snippet": "hindrance"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 674,
+          "snippet": "which have hindered me"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 89,
+          "snippet": "was powerless to deter"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 628,
+          "snippet": "have failed to deter"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 193,
+          "snippet": "prevented them"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 74,
+          "snippet": "withhold"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 108,
+          "snippet": "strove to hinder"
+        }
+      ]
+    },
+    {
+      "term": "مقبول",
+      "transliteration": "q-t-l",
+      "literal": "slayer; killer; murderer",
+      "se_rendering": "regarded with favor",
+      "note": "Root q-t-l typically yields 'slayer' or 'slain' (15 occ). 'Regarded with favor' entirely departs from this—SE interprets the word as 'accepted' contextually here.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 58,
+          "snippet": "slaughter of the soul"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 251,
+          "snippet": "worthy of attention"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 233,
+          "snippet": "inadmissible"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 127,
+          "snippet": "praised"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 70,
+          "snippet": "said"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 62,
+          "snippet": "killing"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 43,
+          "snippet": "the law of slaughter"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 46,
+          "snippet": "planted"
+        }
+      ]
+    },
+    {
+      "term": "اخذ",
+      "transliteration": "ʾ-kh-dh",
+      "literal": "to take; to seize; to affect",
+      "se_rendering": "clouded",
+      "note": "Root ʾ-kh-dh normally 'laid hold on' or 'hath gripped' (27 occ). 'Clouded' is metaphorical extension—dust 'seizing' or 'affecting' hearts becomes atmospheric obscuration.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "nor idle talk"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 36,
+          "snippet": "not to requite them"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 230,
+          "snippet": "turneth them to ridicule"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 63,
+          "snippet": "laid hold on them"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 1,
+          "snippet": "hath gripped"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 2,
+          "snippet": "have afflicted"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 3,
+          "snippet": "hath overcome"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 4,
+          "snippet": "have laid hold on"
+        }
+      ]
+    },
+    {
+      "term": "يرون",
+      "transliteration": "r-ʾ-y",
+      "literal": "to see; to perceive; to look",
+      "se_rendering": "perceive",
+      "note": "Common 'seest' or 'behold' (31 occ). 'Perceive' elevates to comprehension of consequences rather than mere visual perception.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 157,
+          "snippet": "scornfully"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 23,
+          "snippet": "from"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 233,
+          "snippet": "by"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 33,
+          "snippet": "seest them"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 491,
+          "snippet": "behold them"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 168,
+          "snippet": "seest him"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 70,
+          "snippet": "we have seen"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 198,
+          "snippet": "we beheld"
+        }
+      ]
+    },
+    {
+      "term": "الخبیر",
+      "transliteration": "kh-b-r",
+      "literal": "all-knowing; aware; well-informed; omniscient",
+      "se_rendering": "the All-Informed",
+      "note": "Standard 'all-knowing' or 'the All-Informed' (16 occ). SE maintains 'All-Informed' consistently—emphasizing epistemic authority over hidden knowledge.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 263,
+          "snippet": "I announce unto you"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 212,
+          "snippet": "declared"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 83,
+          "snippet": "declareth"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 107,
+          "snippet": "traditions and sayings"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 282,
+          "snippet": "in the traditions"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 92,
+          "snippet": "Proclaim"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 126,
+          "snippet": "Tell"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 245,
+          "snippet": "tidings"
+        }
+      ]
+    }
+  ],
+  "section_index": "XVI.3",
+  "section": "XVI",
+  "section_para": 3
 }

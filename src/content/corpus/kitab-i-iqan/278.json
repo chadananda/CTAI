@@ -1,10 +1,737 @@
 {
   "work": "Kitab-i-Iqan",
   "slug": "kitab-i-iqan",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 278,
   "source_text": "باری، اميدواريم که اهل بيان تربيت شوند و در هوای روح طيران نمايند و در فضای روح ساکن شوند، حقّ را از غيرتميز دهند و تلبيس باطل را به ديده بصيرت بشناسند. اگر چه در اين ايّام رائحه حسدی وزيده که قسم به مربّی وجود از غيب و شهود که از اوّل بنای وجود عالم، با اينکه آن را اوّلی نه، تا حال چنين غلّ و حسد و بغضائی ظاهر نشده و نخواهد شد.  چنانچه جمعی  که رائحه انصاف را نشنيدهاند رايات نفاق برافراختهاند و بر مخالفت اين عبد اتّفاق نمودهاند و از هر جهت رمحی آشکار و ازهر سمت تيری طيّار.  با اينکه با احدی در امری افتخار ننمودم و به نفسی برتری نجستم.  مع هر نفسی مصاحبی بودم در نهايت مهربان و رفيقی به غايت بردبار و رايگان.  با فقراء مثل فقراء بودم و با علماء  و عظماء در کمال تسليم و رضا.  مع ذلک فَوَاللّه الَّذی لا إله إلّا هُو با آن همه ابتلاء و بأساء و ضرّاء که از اعداء و اولی الکتاب وارد شد نزد آنچه از احبّاء وارد شد معدوم صرف است و مفقود بحت.",
   "translation": "We fain would hope that the people of the Bayán will be enlightened, will soar in the realm of the spirit and abide therein, will discern the Truth, and recognize with the eye of insight dissembling falsehood. In these days, however, such odours of jealousy are diffused, that—I swear by the Educator of all beings, visible and invisible—from the beginning of the foundation of the world—though it hath no beginning—until the present day, such malice, envy, and hate have in no wise appeared, nor will they ever be witnessed in the future. For a number of people who have never inhaled the fragrance of justice, have raised the standard of sedition, and have leagued themselves against Us. On every side We witness the menace of their spears, and in all directions We recognize the shafts of their arrows. This, although We have never gloried in any thing, nor did We seek preference over any soul. To everyone We have been a most kindly companion, a most forbearing and affectionate friend. In the company of the poor We have sought their fellowship, and amidst the exalted and learned We have been submissive and resigned. I swear by God, the one true God! grievous as have been the woes and sufferings which the hand of the enemy and the people of the Book inflicted upon Us, yet all these fade into utter nothingness when compared with that which hath befallen Us at the hand of those who profess to be Our friends.",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "grievous-woes-hand-friends",
+  "alignment": [
+    {
+      "ar": "باری",
+      "en": "however"
+    },
+    {
+      "ar": "اميدواريم",
+      "en": "hope"
+    },
+    {
+      "ar": "اهل",
+      "en": "people"
+    },
+    {
+      "ar": "بيان",
+      "en": "Bayán"
+    },
+    {
+      "ar": "تربيت",
+      "en": "enlightened"
+    },
+    {
+      "ar": "شوند",
+      "en": "will be"
+    },
+    {
+      "ar": "هوای",
+      "en": "realm"
+    },
+    {
+      "ar": "روح",
+      "en": "spirit"
+    },
+    {
+      "ar": "طيران",
+      "en": "soar"
+    },
+    {
+      "ar": "نمايند",
+      "en": "will"
+    },
+    {
+      "ar": "فضای",
+      "en": "therein"
+    },
+    {
+      "ar": "ساکن",
+      "en": "abide"
+    },
+    {
+      "ar": "حقّ",
+      "en": "Truth"
+    },
+    {
+      "ar": "غير",
+      "en": "dissembling"
+    },
+    {
+      "ar": "تميز",
+      "en": "discern"
+    },
+    {
+      "ar": "دهند",
+      "en": "recognize"
+    },
+    {
+      "ar": "باطل",
+      "en": "falsehood"
+    },
+    {
+      "ar": "ديده",
+      "en": "eye"
+    },
+    {
+      "ar": "بصيرت",
+      "en": "insight"
+    },
+    {
+      "ar": "ايّام",
+      "en": "days"
+    },
+    {
+      "ar": "رائحه",
+      "en": "odours"
+    },
+    {
+      "ar": "حسدی",
+      "en": "jealousy"
+    },
+    {
+      "ar": "وزيده",
+      "en": "diffused"
+    },
+    {
+      "ar": "قسم",
+      "en": "swear"
+    },
+    {
+      "ar": "مربّی",
+      "en": "Educator"
+    },
+    {
+      "ar": "وجود",
+      "en": "beings"
+    },
+    {
+      "ar": "غيب",
+      "en": "invisible"
+    },
+    {
+      "ar": "شهود",
+      "en": "visible"
+    },
+    {
+      "ar": "اوّل",
+      "en": "beginning"
+    },
+    {
+      "ar": "بنای",
+      "en": "foundation"
+    },
+    {
+      "ar": "عالم",
+      "en": "world"
+    },
+    {
+      "ar": "نه",
+      "en": "no"
+    },
+    {
+      "ar": "حال",
+      "en": "present day"
+    },
+    {
+      "ar": "چنين",
+      "en": "such"
+    },
+    {
+      "ar": "غلّ",
+      "en": "malice"
+    },
+    {
+      "ar": "حسد",
+      "en": "envy"
+    },
+    {
+      "ar": "بغضائی",
+      "en": "hate"
+    },
+    {
+      "ar": "ظاهر",
+      "en": "appeared"
+    },
+    {
+      "ar": "نشده",
+      "en": "have in no wise"
+    },
+    {
+      "ar": "شد",
+      "en": "witnessed"
+    },
+    {
+      "ar": "جمعی",
+      "en": "number of people"
+    },
+    {
+      "ar": "انصاف",
+      "en": "justice"
+    },
+    {
+      "ar": "نشنيدهاند",
+      "en": "never inhaled"
+    },
+    {
+      "ar": "رايات",
+      "en": "standard"
+    },
+    {
+      "ar": "نفاق",
+      "en": "sedition"
+    },
+    {
+      "ar": "برافراختهاند",
+      "en": "raised"
+    },
+    {
+      "ar": "مخالفت",
+      "en": "against"
+    },
+    {
+      "ar": "عبد",
+      "en": "Us"
+    },
+    {
+      "ar": "اتّفاق",
+      "en": "leagued"
+    },
+    {
+      "ar": "نمودهاند",
+      "en": "have"
+    },
+    {
+      "ar": "جهت",
+      "en": "side"
+    },
+    {
+      "ar": "رمحی",
+      "en": "spears"
+    },
+    {
+      "ar": "آشکار",
+      "en": "menace"
+    },
+    {
+      "ar": "سمت",
+      "en": "directions"
+    },
+    {
+      "ar": "تيری",
+      "en": "arrows"
+    },
+    {
+      "ar": "طيّار",
+      "en": "shafts"
+    },
+    {
+      "ar": "احدی",
+      "en": "any thing"
+    },
+    {
+      "ar": "امری",
+      "en": "thing"
+    },
+    {
+      "ar": "افتخار",
+      "en": "gloried"
+    },
+    {
+      "ar": "ننمودم",
+      "en": "never"
+    },
+    {
+      "ar": "نفسی",
+      "en": "soul"
+    },
+    {
+      "ar": "برتری",
+      "en": "preference"
+    },
+    {
+      "ar": "نجستم",
+      "en": "seek"
+    },
+    {
+      "ar": "هر",
+      "en": "everyone"
+    },
+    {
+      "ar": "مصاحبی",
+      "en": "companion"
+    },
+    {
+      "ar": "بودم",
+      "en": "have been"
+    },
+    {
+      "ar": "نهايت",
+      "en": "most"
+    },
+    {
+      "ar": "مهربان",
+      "en": "kindly"
+    },
+    {
+      "ar": "رفيقی",
+      "en": "friend"
+    },
+    {
+      "ar": "بردبار",
+      "en": "forbearing"
+    },
+    {
+      "ar": "رايگان",
+      "en": "affectionate"
+    },
+    {
+      "ar": "فقراء",
+      "en": "poor"
+    },
+    {
+      "ar": "مثل",
+      "en": "company"
+    },
+    {
+      "ar": "علماء",
+      "en": "learned"
+    },
+    {
+      "ar": "عظماء",
+      "en": "exalted"
+    },
+    {
+      "ar": "کمال",
+      "en": "been"
+    },
+    {
+      "ar": "تسليم",
+      "en": "submissive"
+    },
+    {
+      "ar": "رضا",
+      "en": "resigned"
+    },
+    {
+      "ar": "فَوَاللّه",
+      "en": "swear by God"
+    },
+    {
+      "ar": "إله",
+      "en": "God"
+    },
+    {
+      "ar": "إلّا",
+      "en": "true"
+    },
+    {
+      "ar": "هُو",
+      "en": "true God"
+    },
+    {
+      "ar": "ابتلاء",
+      "en": "woes"
+    },
+    {
+      "ar": "بأساء",
+      "en": "sufferings"
+    },
+    {
+      "ar": "ضرّاء",
+      "en": "grievous"
+    },
+    {
+      "ar": "اعداء",
+      "en": "enemy"
+    },
+    {
+      "ar": "الکتاب",
+      "en": "Book"
+    },
+    {
+      "ar": "وارد",
+      "en": "inflicted"
+    },
+    {
+      "ar": "شد",
+      "en": "upon"
+    },
+    {
+      "ar": "نزد",
+      "en": "compared"
+    },
+    {
+      "ar": "احبّاء",
+      "en": "friends"
+    },
+    {
+      "ar": "معدوم",
+      "en": "nothingness"
+    },
+    {
+      "ar": "صرف",
+      "en": "utter"
+    },
+    {
+      "ar": "مفقود",
+      "en": "fade"
+    }
+  ],
+  "terms": [
+    {
+      "term": "بيان",
+      "transliteration": "b-y-n",
+      "literal": "to manifest; to make clear; clear, evident",
+      "se_rendering": "the Bayán",
+      "note": "Standard rendering 'the Bayán' maintained here. SE treats it as a proper noun (the Báb's text) rather than exploring its root meaning of 'manifestation' or 'clarity'.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 223,
+          "snippet": "the Expounder, the Most Manifest"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 3,
+          "snippet": "proofs"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 12,
+          "snippet": "clear proofs"
+        },
+        {
+          "work": "gleanings",
+          "para": 563,
+          "snippet": "Dawning-Place of the proofs"
+        },
+        {
+          "work": "gleanings",
+          "para": 292,
+          "snippet": "the Bayán"
+        },
+        {
+          "work": "gleanings",
+          "para": 636,
+          "snippet": "utterance"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 120,
+          "snippet": "evil"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 178,
+          "snippet": "evident error"
+        }
+      ]
+    },
+    {
+      "term": "بصيرت",
+      "transliteration": "b-ṣ-r",
+      "literal": "sight; insight; discernment; spiritual perception",
+      "se_rendering": "eye of insight",
+      "note": "Consistently rendered 'eye of insight' (27 occurrences). SE preserves the ocular metaphor for spiritual discernment throughout corpus and this passage.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 77,
+          "snippet": "hearing ears, and sharp sight"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 667,
+          "snippet": "the All-Seeing"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 3,
+          "snippet": "proofs"
+        },
+        {
+          "work": "gleanings",
+          "para": 75,
+          "snippet": "eyes"
+        },
+        {
+          "work": "gleanings",
+          "para": 67,
+          "snippet": "insight"
+        },
+        {
+          "work": "gleanings",
+          "para": 563,
+          "snippet": "perceive"
+        },
+        {
+          "work": "gleanings",
+          "para": 689,
+          "snippet": "view"
+        },
+        {
+          "work": "gleanings",
+          "para": 388,
+          "snippet": "discerning"
+        }
+      ]
+    },
+    {
+      "term": "انصاف",
+      "transliteration": "n-ṣ-f",
+      "literal": "justice; fairness; equity",
+      "se_rendering": "justice",
+      "note": "Regularly 'justice' or 'fairness' (25 occurrences). SE maintains 'justice' here, though 'fragrance of justice' creates a poetic extension not explicit in root meaning.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 175,
+          "snippet": "fair"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 16,
+          "snippet": "equity"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 136,
+          "snippet": "fairness"
+        },
+        {
+          "work": "gleanings",
+          "para": 470,
+          "snippet": "injustice"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 3,
+          "snippet": "Justice"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 219,
+          "snippet": "fair-minded"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 118,
+          "snippet": "fair-minded person"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 133,
+          "snippet": "Judge thou fairly"
+        }
+      ]
+    },
+    {
+      "term": "عبد",
+      "transliteration": "ʿ-b-d",
+      "literal": "servant; slave; worshipper",
+      "se_rendering": "Us",
+      "note": "Typically 'servant' or 'Thy servant' (68 occurrences). Here translated as 'Us'/'We'—SE adapts the pronoun to accommodate first-person voice rather than preserving the humbling self-designation.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 279,
+          "snippet": "Thy servants"
+        },
+        {
+          "work": "gleanings",
+          "para": 686,
+          "snippet": "servants"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 27,
+          "snippet": "'Abdu'l‑Bahá"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 204,
+          "snippet": "Thy servant"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 260,
+          "snippet": "'Abdu'l-'Azíz"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 663,
+          "snippet": "servant"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 10,
+          "snippet": "this wronged servant of Thine"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 47,
+          "snippet": "this servant of Thine"
+        }
+      ]
+    },
+    {
+      "term": "ابتلاء",
+      "transliteration": "b-l-ā",
+      "literal": "trial; affliction; tribulation; testing",
+      "se_rendering": "woes and sufferings",
+      "note": "Standard 'trials' or 'afflictions' (28 occurrences). SE renders 'woes and sufferings'—expanding singular term into paired abstractions for rhetorical emphasis on accumulated grievances.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 425,
+          "snippet": "afflictions"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 35,
+          "snippet": "in my woes"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 4,
+          "snippet": "trials"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 89,
+          "snippet": "tribulations"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 137,
+          "snippet": "Troubles"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 25,
+          "snippet": "tribulation"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 49,
+          "snippet": "cup of woe"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 162,
+          "snippet": "afflicted"
+        }
+      ]
+    },
+    {
+      "term": "وارد",
+      "transliteration": "w-r-d",
+      "literal": "to enter, to come, to befall, to arrive",
+      "se_rendering": "befallen; inflicted",
+      "note": "Most common renderings 'befallen' and 'hath befallen' (36 occurrences). SE employs both forms here ('inflicted' and 'befallen'), showing semantic flexibility within the root's range.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 126,
+          "snippet": "hath touched"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 61,
+          "snippet": "befallen"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 113,
+          "snippet": "came"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 183,
+          "snippet": "befell"
+        },
+        {
+          "work": "gleanings",
+          "para": 557,
+          "snippet": "will discern"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 30,
+          "snippet": "brought forth"
+        },
+        {
+          "work": "gleanings",
+          "para": 489,
+          "snippet": "hath befallen"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 49,
+          "snippet": "approaching"
+        }
+      ]
+    },
+    {
+      "term": "احباء",
+      "transliteration": "ḥ-b-b",
+      "literal": "love; affection",
+      "se_rendering": "those who profess to be Our friends",
+      "note": "Typically 'beloved' or 'loved ones' (92 occurrences). Here SE renders as 'those who profess to be Our friends'—a dramatic circumlocution emphasizing betrayal by intimates rather than spiritual affection.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 3,
+          "snippet": "beloved of the Lord"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 53,
+          "snippet": "loved ones of the Lord"
+        },
+        {
+          "work": "gleanings",
+          "para": 341,
+          "snippet": "loved ones of God"
+        },
+        {
+          "work": "gleanings",
+          "para": 689,
+          "snippet": "beloved of the one true God"
+        },
+        {
+          "work": "gleanings",
+          "para": 640,
+          "snippet": "loved ones"
+        },
+        {
+          "work": "gleanings",
+          "para": 690,
+          "snippet": "beloved of God"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 39,
+          "snippet": "His loved ones"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 10,
+          "snippet": "love for Thee"
+        }
+      ]
+    }
+  ],
+  "section_index": "278",
+  "section": "278",
+  "section_para": 1
 }

@@ -1,10 +1,433 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 485,
   "source_text": "كالسّحاب ينفق على العباد كما ينفق السّحاب أمطار الرّحمة على كلّ أرض بأمر من مدبّر عليم، إيّاك أن لا تطمئنّ من أحد في أمرك ولم يكن لك أحد كمثلك على نفسك كذلك نبيّن لك كلمات الحكمة ونلقي عليك ما يقلّبك عن شمال الظّلم إلى يمين العدل ويهديك إلى شاطئ قرب منير،",
   "translation": "Have a care not to entrust thine affairs of state entirely into another’s hands. None can discharge thy functions better than thine own self. Thus do We make clear unto thee Our words of wisdom, and send down upon thee that which can enable thee to pass over from the left hand of oppression to the right hand of justice, and approach the resplendent ocean of His favors. Such is the path which the kings that were before thee have trodden, they that acted equitably towards their subjects, and walked in the ways of undeviating justice.",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "oppression-justice-equitable-rule",
+  "alignment": [
+    {
+      "ar": "ينفق",
+      "en": "discharge"
+    },
+    {
+      "ar": "العباد",
+      "en": "subjects"
+    },
+    {
+      "ar": "إيّاك",
+      "en": "Have a care"
+    },
+    {
+      "ar": "تطمئنّ",
+      "en": "entrust"
+    },
+    {
+      "ar": "أحد",
+      "en": "another"
+    },
+    {
+      "ar": "أمرك",
+      "en": "thine affairs"
+    },
+    {
+      "ar": "أحد",
+      "en": "None"
+    },
+    {
+      "ar": "كمثلك",
+      "en": "better than"
+    },
+    {
+      "ar": "نفسك",
+      "en": "thine own self"
+    },
+    {
+      "ar": "نبيّن",
+      "en": "make clear"
+    },
+    {
+      "ar": "كلمات",
+      "en": "words"
+    },
+    {
+      "ar": "الحكمة",
+      "en": "wisdom"
+    },
+    {
+      "ar": "نلقي",
+      "en": "send down"
+    },
+    {
+      "ar": "يقلّبك",
+      "en": "enable thee to pass over"
+    },
+    {
+      "ar": "شمال",
+      "en": "left hand"
+    },
+    {
+      "ar": "الظّلم",
+      "en": "oppression"
+    },
+    {
+      "ar": "يمين",
+      "en": "right hand"
+    },
+    {
+      "ar": "العدل",
+      "en": "justice"
+    },
+    {
+      "ar": "يهديك",
+      "en": "approach"
+    },
+    {
+      "ar": "شاطئ",
+      "en": "ocean"
+    },
+    {
+      "ar": "قرب",
+      "en": "favors"
+    },
+    {
+      "ar": "منير",
+      "en": "resplendent"
+    }
+  ],
+  "terms": [
+    {
+      "term": "الرّحمة",
+      "transliteration": "r-ḥ-m",
+      "literal": "merciful, compassionate; pertaining to divine mercy",
+      "se_rendering": "mercy",
+      "note": "Typically rendered 'Divine glory' or 'merciful' across 70 occurrences. 'Mercy' here is literal and concrete, matching the rain metaphor contextually.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 57,
+          "snippet": "Divine"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 89,
+          "snippet": "celestial melody"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 114,
+          "snippet": "spirit of mercy"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 220,
+          "snippet": "have mercy on them"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 546,
+          "snippet": "mercy"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 50,
+          "snippet": "the Compassionate"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 793,
+          "snippet": "have mercy upon them"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 47,
+          "snippet": "Thy mercy"
+        }
+      ]
+    },
+    {
+      "term": "مدبّر",
+      "transliteration": "d-b-r",
+      "literal": "deliberation; consideration; prudence; management; planning; counsel",
+      "se_rendering": "ordainer",
+      "note": "Corpus shows 'direction' and 'Take ye counsel together' as common renderings. 'Ordainer' is a rare Quranic-style choice emphasizing divine providence.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 9,
+          "snippet": "deliberation"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 22,
+          "snippet": "direction"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 105,
+          "snippet": "Take ye counsel together"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 183,
+          "snippet": "all measures"
+        }
+      ]
+    },
+    {
+      "term": "الحكمة",
+      "transliteration": "h-k-m",
+      "literal": "government; rule; governance; wisdom",
+      "se_rendering": "wisdom",
+      "note": "Usually 'rule' or 'government' (69 occ). 'Wisdom' here shifts from political governance to moral-ethical teaching, a significant semantic reorientation.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-ahd",
+          "para": 6,
+          "snippet": "rule"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "government"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 849,
+          "snippet": "signs of Thy sovereignty"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 160,
+          "snippet": "meaning of return"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 182,
+          "snippet": "mystery of the former verse"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 129,
+          "snippet": "perspicuous verses"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 46,
+          "snippet": "conclusive"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 220,
+          "snippet": "impregnable stronghold"
+        }
+      ]
+    },
+    {
+      "term": "يقلّبك",
+      "transliteration": "q-l-b",
+      "literal": "heart; to turn; to overturn",
+      "se_rendering": "enable thee to pass over",
+      "note": "Corpus shows 'hearts' and 'cataclysms' as dominant renderings (60 occ). 'Enable thee to pass over' metaphorically transforms turning/overturning into directional movement.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 187,
+          "snippet": "hearts"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 432,
+          "snippet": "their hearts"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 652,
+          "snippet": "heart"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 777,
+          "snippet": "commotion"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 13,
+          "snippet": "tumult"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 30,
+          "snippet": "thine heart"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 4,
+          "snippet": "with a pure heart"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 82,
+          "snippet": "with a sound heart"
+        }
+      ]
+    },
+    {
+      "term": "شمال",
+      "transliteration": "sh-m-l",
+      "literal": "to comprehend; to include; whole; all",
+      "se_rendering": "left hand",
+      "note": "Rarely used term (6 occ); corpus shows 'embrace' and 'the community'. 'Left hand' here is concrete and directional, paired spatially with العدل.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 6,
+          "snippet": "embrace"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 32,
+          "snippet": "the community"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 46,
+          "snippet": "Ye are the letters of the words"
+        }
+      ]
+    },
+    {
+      "term": "الظّلم",
+      "transliteration": "z-l-m",
+      "literal": "wrongedness, oppression, meekness; state of being wronged or oppressed",
+      "se_rendering": "oppression",
+      "note": "Typically 'wronged' or 'Wronged One' across 128 occurrences. 'Oppression' abstracts the state as a moral-political condition rather than personal injury.",
+      "cross_refs": [
+        {
+          "work": "fire-tablet",
+          "para": 49,
+          "snippet": "meekness"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 116,
+          "snippet": "injury"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 36,
+          "snippet": "Wronged One"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 253,
+          "snippet": "wronged"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 9,
+          "snippet": "Darkness"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 33,
+          "snippet": "tyranny"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 573,
+          "snippet": "oppressed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 181,
+          "snippet": "wronged ones"
+        }
+      ]
+    },
+    {
+      "term": "يمین",
+      "transliteration": "y-m-n",
+      "literal": "right hand; oath; right side",
+      "se_rendering": "right hand",
+      "note": "Consistently 'right hand' across corpus (11 occ). Maintains traditional binary symbolism (right=justice, left=oppression) in balanced opposition.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 166,
+          "snippet": "right hand of certitude"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 51,
+          "snippet": "in His right hand"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 52,
+          "snippet": "right hand"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 7,
+          "snippet": "security and peace"
+        }
+      ]
+    },
+    {
+      "term": "العدل",
+      "transliteration": "ʿ-d-l",
+      "literal": "justice; equity",
+      "se_rendering": "justice",
+      "note": "Standard 'justice' or 'equity' across 29 occurrences. This rendering is conventional and aligns with sustained metaphor of right/left duality.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 16,
+          "snippet": "Justice"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "just"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 145,
+          "snippet": "Who dealest equitably"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 15,
+          "snippet": "equity"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 7,
+          "snippet": "Thy justice"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 128,
+          "snippet": "with equity and justice"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 79,
+          "snippet": "disputeth"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 24,
+          "snippet": "Consort"
+        }
+      ]
+    }
+  ],
+  "section_index": "CXIV.14",
+  "section": "CXIV",
+  "section_para": 14
 }

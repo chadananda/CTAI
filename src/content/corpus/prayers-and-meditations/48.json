@@ -1,10 +1,399 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 48,
   "source_text": "دِيارِهِمْ شَوْقًا لِلِقائِكَ وَمَنَعَهُمُ المُشْرِكُونَ عَنْ زِيارَةِ طَلْعَتِكَ وَالطَّوافِ حَوْلَ حَرَمِ كِبْرِيائِكَ، أَيْ رَبِّ فَأَنْزِلْ عَلَيْهِمْ صَبْرًا مِنْ عِنْدِكَ، وَسُكُونًا مِنْ لَدُنْكَ، إِنَّكَ أَنْتَ الغَفُورُ الرَّحِيمُ.",
   "translation": "Thou seest, O my Lord, how Thy servants have left their homes in their longing to meet Thee, and how they have been hindered by the ungodly from looking upon Thy face, and from circumambulating the sanctuary of Thy grandeur. Pour out Thy steadfastness and send down Thy calm upon them, O my Lord! Thou art, in truth, the Ever-Forgiving, the Most Compassionate.",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "hindered-from-thy-face",
+  "alignment": [
+    {
+      "ar": "دِيارِهِمْ",
+      "en": "their homes"
+    },
+    {
+      "ar": "شَوْقًا",
+      "en": "longing"
+    },
+    {
+      "ar": "لِلِقائِكَ",
+      "en": "to meet Thee"
+    },
+    {
+      "ar": "مَنَعَهُمُ",
+      "en": "hindered"
+    },
+    {
+      "ar": "المُشْرِكُونَ",
+      "en": "the ungodly"
+    },
+    {
+      "ar": "زِيارَةِ",
+      "en": "looking upon"
+    },
+    {
+      "ar": "طَلْعَتِكَ",
+      "en": "Thy face"
+    },
+    {
+      "ar": "حَوْلَ",
+      "en": ""
+    },
+    {
+      "ar": "حَرَمِ",
+      "en": "the sanctuary"
+    },
+    {
+      "ar": "كِبْرِيائِكَ",
+      "en": "Thy grandeur"
+    },
+    {
+      "ar": "أَنْزِلْ",
+      "en": "Pour out"
+    },
+    {
+      "ar": "عَلَيْهِمْ",
+      "en": "upon them"
+    },
+    {
+      "ar": "صَبْرًا",
+      "en": "Thy steadfastness"
+    },
+    {
+      "ar": "عِنْدِكَ",
+      "en": ""
+    },
+    {
+      "ar": "سُكُونًا",
+      "en": "Thy calm"
+    },
+    {
+      "ar": "لَدُنْكَ",
+      "en": ""
+    },
+    {
+      "ar": "الغَفُورُ",
+      "en": "the Ever-Forgiving"
+    }
+  ],
+  "terms": [
+    {
+      "term": "شَوْقًا",
+      "transliteration": "sh-w-q",
+      "literal": "to encourage; to incite; yearning; enthusiasm",
+      "se_rendering": "longing",
+      "note": "Standard rendering across 10 occurrences. SE selects 'longing' from root sh-w-q's spectrum that includes 'promulgation' and 'veiled,' capturing yearning's intimate emotional register.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 14,
+          "snippet": "promulgation"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 57,
+          "snippet": "veiled"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 57,
+          "snippet": "Shoghi Effendi"
+        },
+        {
+          "work": "gleanings",
+          "para": 38,
+          "snippet": "fire of longing"
+        }
+      ]
+    },
+    {
+      "term": "ومَنَعَهُمُ",
+      "transliteration": "m-n-ʿ",
+      "literal": "forbidden; prevented; deprived",
+      "se_rendering": "hindered",
+      "note": "Consistently rendered 'hindered' here; root m-n-ʿ spans 'forbidden,' 'deprived,' 'hindrance.' Active voice preserves agency of opposition rather than passive deprivation.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "forbidden"
+        },
+        {
+          "work": "gleanings",
+          "para": 641,
+          "snippet": "deprived"
+        },
+        {
+          "work": "gleanings",
+          "para": 181,
+          "snippet": "be not deprived"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 56,
+          "snippet": "hindrance"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 89,
+          "snippet": "was powerless to deter"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 193,
+          "snippet": "prevented them"
+        },
+        {
+          "work": "gleanings",
+          "para": 314,
+          "snippet": "refused to allow"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 46,
+          "snippet": "deprive not yourselves"
+        }
+      ]
+    },
+    {
+      "term": "حَرَمِ",
+      "transliteration": "h-r-m",
+      "literal": "sanctity, inviolability, dignity, honor, respect",
+      "se_rendering": "sanctuary",
+      "note": "Rendered 'sanctuary' here; root h-r-m typically 'sanctity,' 'thy right,' 'debarred.' Spatial metaphor of sacred precinct aligns with circumambulation imagery preceding it.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 216,
+          "snippet": "thy sanctity"
+        },
+        {
+          "work": "gleanings",
+          "para": 215,
+          "snippet": "thy right"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 76,
+          "snippet": "debarred"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 23,
+          "snippet": "depriveth himself"
+        },
+        {
+          "work": "gleanings",
+          "para": 507,
+          "snippet": "violated our honor"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 93,
+          "snippet": "withhold not from the poor"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 157,
+          "snippet": "those deprived"
+        },
+        {
+          "work": "gleanings",
+          "para": 412,
+          "snippet": "deprived"
+        }
+      ]
+    },
+    {
+      "term": "صَبْرًا",
+      "transliteration": "s-b-r",
+      "literal": "patience; forbearance; endurance; to be patient",
+      "se_rendering": "steadfastness",
+      "note": "Rendered 'steadfastness' rather than more common 'patience' or 'forbearance.' Choice elevates passive endurance to active resilience—crucial for petitioners facing persecution.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 48,
+          "snippet": "forbearance"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 40,
+          "snippet": "Patience of the worlds"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 49,
+          "snippet": "patience"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 39,
+          "snippet": "Thy patience"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 251,
+          "snippet": "their steadfastness"
+        },
+        {
+          "work": "gleanings",
+          "para": 620,
+          "snippet": "be patient"
+        },
+        {
+          "work": "gleanings",
+          "para": 408,
+          "snippet": "steadfast"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 61,
+          "snippet": "endured patiently"
+        }
+      ]
+    },
+    {
+      "term": "وَسُكُونًا",
+      "transliteration": "s-k-n",
+      "literal": "stillness, rest, quietude, tranquility",
+      "se_rendering": "calm",
+      "note": "Rendered 'calm' in this petition; root s-k-n spans 'tranquillity,' 'stillness,' 'serenity,' 'abode of tranquility.' 'Calm' suggests gentle descent mirroring the 'sent down' of preceding clause.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 209,
+          "snippet": "calmly"
+        },
+        {
+          "work": "gleanings",
+          "para": 511,
+          "snippet": "tranquillity"
+        },
+        {
+          "work": "gleanings",
+          "para": 324,
+          "snippet": "stillness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 140,
+          "snippet": "serenity"
+        },
+        {
+          "work": "gleanings",
+          "para": 109,
+          "snippet": "abode of tranquility"
+        },
+        {
+          "work": "gleanings",
+          "para": 316,
+          "snippet": "in its original state"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 185,
+          "snippet": "inmates"
+        },
+        {
+          "work": "gleanings",
+          "para": 338,
+          "snippet": "are"
+        }
+      ]
+    },
+    {
+      "term": "الغَفُورُ",
+      "transliteration": "gh-f-r",
+      "literal": "to forgive; forgiveness",
+      "se_rendering": "Ever-Forgiving",
+      "note": "Divine epithet rendered 'Ever-Forgiving'; consistent with corpus pattern. Paired with raḥīm in traditional Islamic formula, maintaining classical theological dyad.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 13,
+          "snippet": "wronged"
+        },
+        {
+          "work": "gleanings",
+          "para": 217,
+          "snippet": "forgive"
+        },
+        {
+          "work": "gleanings",
+          "para": 652,
+          "snippet": "forgiveness"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 35,
+          "snippet": "Thy forgiveness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 192,
+          "snippet": "pardon"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 682,
+          "snippet": "forgivest"
+        }
+      ]
+    },
+    {
+      "term": "الرَّحِيمُ",
+      "transliteration": "r-ḥ-m",
+      "literal": "merciful, compassionate; pertaining to divine mercy",
+      "se_rendering": "Most Compassionate",
+      "note": "Rendered 'Most Compassionate' here from root r-ḥ-m; corpus shows it ranges from 'merciful' to 'spirit of mercy.' SE selects superlative to match 'Ever-Forgiving's dignity.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 673,
+          "snippet": "Divine glory"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 57,
+          "snippet": "Divine"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 89,
+          "snippet": "celestial melody"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 114,
+          "snippet": "spirit of mercy"
+        },
+        {
+          "work": "gleanings",
+          "para": 372,
+          "snippet": "merciful"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 220,
+          "snippet": "have mercy on them"
+        },
+        {
+          "work": "gleanings",
+          "para": 12,
+          "snippet": "mercy"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 50,
+          "snippet": "the Compassionate"
+        }
+      ]
+    }
+  ],
+  "section_index": "XV.5",
+  "section": "XV",
+  "section_para": 5
 }

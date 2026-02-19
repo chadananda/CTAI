@@ -1,10 +1,662 @@
 {
   "work": "Will and Testament",
   "slug": "will-and-testament",
-  "author": "'Abdu'l-Baha",
+  "author": "‘Abdu’l-Bahá",
   "pair_index": 23,
   "source_text": "ای احبّای الهی در این دور مقدّس نزاع و جدال ممنوع و هر متعدّی محروم باید با جمیع طوائف و قبائل چه آشنا و چه بیگانه نهایت محبّت و راستی و درستی کرد و مهربانی از روی قلب نمود بلکه رعایت و محبّت را بدرجه‌ئی رساند که بیگانه خود را آشنا بیند و دشمن خود را دوست شمرد یعنی ابداً تفاوت معامله گمان نکند زیرا اطلاق امریست الهی و تقیید از خواصّ امکانی لهذا باید فضائل و کمالات از حقیقت هر انسانی ظاهر شود و پرتوش شمول بر عموم یابد مثلاً انوار آفتاب عالمتابست و باران رحمت پروردگار مبذول بر عالمیان نسیم جانبخش هر ذی ‌روحرا پرورش دهد و مائدۀ الهی جمیع کائنات حیّ را نصیب شود بهمچنین عواطف و الطاف بندگان حقّ باید بنحو اطلاق شامل جمیع بشر گردد در اینمقام ابداً تقیید و تخصیص جائز نه",
   "translation": "O ye beloved of the Lord! In this sacred Dispensation, conflict and contention are in no wise permitted. Every aggressor depriveth himself of God’s grace. It is incumbent upon everyone to show the utmost love, rectitude of conduct, straightforwardness and sincere kindliness unto all the peoples and kindreds of the world, be they friends or strangers. So intense must be the spirit of love and loving-kindness, that the stranger may find himself a friend, the enemy a true brother, no difference whatsoever existing between them. For universality is of God and all limitations earthly. Thus man must strive that his reality may manifest virtues and perfections, the light whereof may shine upon everyone. The light of the sun shineth upon all the world and the merciful showers of Divine Providence fall upon all peoples. The vivifying breeze reviveth every living creature and all beings endued with life obtain their share and portion at His heavenly board. In like manner, the affections and loving-kindness of the servants of the One True God must be bountifully and universally extended to all mankind. Regarding this, restrictions and limitations are in no wise permitted.",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "stranger-friend-enemy-brother",
+  "alignment": [
+    {
+      "ar": "احبّای",
+      "en": "beloved"
+    },
+    {
+      "ar": "الهی",
+      "en": "Lord"
+    },
+    {
+      "ar": "دور",
+      "en": "Dispensation"
+    },
+    {
+      "ar": "مقدّس",
+      "en": "sacred"
+    },
+    {
+      "ar": "نزاع",
+      "en": "conflict"
+    },
+    {
+      "ar": "جدال",
+      "en": "contention"
+    },
+    {
+      "ar": "ممنوع",
+      "en": "in no wise permitted"
+    },
+    {
+      "ar": "متعدّی",
+      "en": "aggressor"
+    },
+    {
+      "ar": "جمیع",
+      "en": "all"
+    },
+    {
+      "ar": "طوائف",
+      "en": "peoples"
+    },
+    {
+      "ar": "قبائل",
+      "en": "kindreds"
+    },
+    {
+      "ar": "آشنا",
+      "en": "friends"
+    },
+    {
+      "ar": "بیگانه",
+      "en": "strangers"
+    },
+    {
+      "ar": "نهایت",
+      "en": "utmost"
+    },
+    {
+      "ar": "محبّت",
+      "en": "love"
+    },
+    {
+      "ar": "راستی",
+      "en": "rectitude of conduct"
+    },
+    {
+      "ar": "درستی",
+      "en": "straightforwardness"
+    },
+    {
+      "ar": "مهربانی",
+      "en": "sincere kindliness"
+    },
+    {
+      "ar": "رعایت",
+      "en": "spirit"
+    },
+    {
+      "ar": "بدرجه‌ئی",
+      "en": "intense"
+    },
+    {
+      "ar": "رساند",
+      "en": "must be"
+    },
+    {
+      "ar": "بیگانه",
+      "en": "stranger"
+    },
+    {
+      "ar": "آشنا",
+      "en": "friend"
+    },
+    {
+      "ar": "دشمن",
+      "en": "enemy"
+    },
+    {
+      "ar": "دوست",
+      "en": "true brother"
+    },
+    {
+      "ar": "تفاوت",
+      "en": "difference"
+    },
+    {
+      "ar": "معامله",
+      "en": "between them"
+    },
+    {
+      "ar": "اطلاق",
+      "en": "universality"
+    },
+    {
+      "ar": "امریست الهی",
+      "en": "of God"
+    },
+    {
+      "ar": "تقیید",
+      "en": "limitations"
+    },
+    {
+      "ar": "خواصّ",
+      "en": "earthly"
+    },
+    {
+      "ar": "فضائل",
+      "en": "virtues"
+    },
+    {
+      "ar": "کمالات",
+      "en": "perfections"
+    },
+    {
+      "ar": "حقیقت",
+      "en": "reality"
+    },
+    {
+      "ar": "انسانی",
+      "en": "man"
+    },
+    {
+      "ar": "ظاهر",
+      "en": "manifest"
+    },
+    {
+      "ar": "پرتوش",
+      "en": "light"
+    },
+    {
+      "ar": "شمول",
+      "en": "shine"
+    },
+    {
+      "ar": "عموم",
+      "en": "everyone"
+    },
+    {
+      "ar": "آفتاب",
+      "en": "sun"
+    },
+    {
+      "ar": "عالمتابست",
+      "en": "shineth upon all the world"
+    },
+    {
+      "ar": "باران",
+      "en": "showers"
+    },
+    {
+      "ar": "رحمت",
+      "en": "merciful"
+    },
+    {
+      "ar": "پروردگار",
+      "en": "Divine Providence"
+    },
+    {
+      "ar": "مبذول",
+      "en": "fall"
+    },
+    {
+      "ar": "عالمیان",
+      "en": "all peoples"
+    },
+    {
+      "ar": "نسیم",
+      "en": "breeze"
+    },
+    {
+      "ar": "جانبخش",
+      "en": "vivifying"
+    },
+    {
+      "ar": "ذی ‌روحرا",
+      "en": "living creature"
+    },
+    {
+      "ar": "پرورش",
+      "en": "reviveth"
+    },
+    {
+      "ar": "مائدۀ",
+      "en": "heavenly board"
+    },
+    {
+      "ar": "کائنات",
+      "en": "beings"
+    },
+    {
+      "ar": "حیّ",
+      "en": "endued with life"
+    },
+    {
+      "ar": "نصیب",
+      "en": "obtain their share and portion"
+    },
+    {
+      "ar": "بهمچنین",
+      "en": "In like manner"
+    },
+    {
+      "ar": "عواطف",
+      "en": "affections"
+    },
+    {
+      "ar": "الطاف",
+      "en": "loving-kindness"
+    },
+    {
+      "ar": "بندگان",
+      "en": "servants"
+    },
+    {
+      "ar": "حقّ",
+      "en": "One True God"
+    },
+    {
+      "ar": "بنحو",
+      "en": "bountifully and universally"
+    },
+    {
+      "ar": "بشر",
+      "en": "mankind"
+    },
+    {
+      "ar": "اینمقام",
+      "en": "Regarding this"
+    },
+    {
+      "ar": "تخصیص",
+      "en": "restrictions"
+    }
+  ],
+  "terms": [
+    {
+      "term": "احبّای",
+      "transliteration": "ḥ-b-b",
+      "literal": "love; affection",
+      "se_rendering": "beloved of the Lord",
+      "note": "Root ḥ-b-b typically rendered as 'beloved of the Lord' or 'loved ones.' SE maintains this sacred, relational term consistently across 92 occurrences, reinforcing divine affection as foundational.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 341,
+          "snippet": "loved ones of God"
+        },
+        {
+          "work": "gleanings",
+          "para": 689,
+          "snippet": "beloved of the one true God"
+        },
+        {
+          "work": "gleanings",
+          "para": 640,
+          "snippet": "loved ones"
+        },
+        {
+          "work": "gleanings",
+          "para": 690,
+          "snippet": "beloved of God"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 39,
+          "snippet": "His loved ones"
+        },
+        {
+          "work": "gleanings",
+          "para": 267,
+          "snippet": "love"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 475,
+          "snippet": "Thy dear ones"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 144,
+          "snippet": "my Beloved"
+        }
+      ]
+    },
+    {
+      "term": "مقدّس",
+      "transliteration": "q-d-s",
+      "literal": "holy, sacred, sanctified",
+      "se_rendering": "sacred",
+      "note": "Root q-d-s standardly rendered as 'Sacred' or 'hallowed.' Here 'sacred Dispensation' emphasizes the spiritual authority of this new age, aligning with SE's reverent terminology across 47 uses.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 81,
+          "snippet": "hallowed"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 35,
+          "snippet": "spirit of holiness"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 448,
+          "snippet": "Sanctuary"
+        },
+        {
+          "work": "gleanings",
+          "para": 585,
+          "snippet": "holy Paradise"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 13,
+          "snippet": "Holy Mariner"
+        },
+        {
+          "work": "gleanings",
+          "para": 584,
+          "snippet": "Holy Veil"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 6,
+          "snippet": "sacred strand"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 26,
+          "snippet": "Celestial Concourse"
+        }
+      ]
+    },
+    {
+      "term": "ممنوع",
+      "transliteration": "m-n-ʿ",
+      "literal": "forbidden; prevented; deprived",
+      "se_rendering": "in no wise permitted",
+      "note": "Root m-n-ʿ typically 'forbidden' or 'deprived.' SE renders as negative prohibition 'in no wise permitted,' mirroring the source's emphatic ban on conflict within this era.",
+      "cross_refs": [
+        {
+          "work": "fire-tablet",
+          "para": 23,
+          "snippet": "forbidden"
+        },
+        {
+          "work": "gleanings",
+          "para": 641,
+          "snippet": "deprived"
+        },
+        {
+          "work": "gleanings",
+          "para": 181,
+          "snippet": "be not deprived"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 674,
+          "snippet": "which have hindered me"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 89,
+          "snippet": "was powerless to deter"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 628,
+          "snippet": "have failed to deter"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 193,
+          "snippet": "prevented them"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 74,
+          "snippet": "withhold"
+        }
+      ]
+    },
+    {
+      "term": "حقیقت",
+      "transliteration": "h-q-q",
+      "literal": "truth; right; that which is true or just",
+      "se_rendering": "reality",
+      "note": "Root h-q-q usually 'the Truth' or 'the True One.' Here 'reality' denotes the essential nature of the human being from which virtues manifest—a more ontological than theological inflection.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 651,
+          "snippet": "the True One"
+        },
+        {
+          "work": "gleanings",
+          "para": 85,
+          "snippet": "the Truth"
+        },
+        {
+          "work": "gleanings",
+          "para": 328,
+          "snippet": "the one true God"
+        },
+        {
+          "work": "gleanings",
+          "para": 707,
+          "snippet": "Him"
+        },
+        {
+          "work": "gleanings",
+          "para": 18,
+          "snippet": "Sun of Truth"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 103,
+          "snippet": "Luminaries of Truth"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 113,
+          "snippet": "was realized"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 215,
+          "snippet": "realization"
+        }
+      ]
+    },
+    {
+      "term": "رحمت",
+      "transliteration": "r-ḥ-m",
+      "literal": "merciful, compassionate; pertaining to divine mercy",
+      "se_rendering": "merciful",
+      "note": "Root r-ḥ-m across 70 occurrences rendered variously as 'merciful,' 'spirit of mercy,' 'Divine.' Here 'merciful showers' creates vivid imagery; 'merciful' applied to Divine Providence emphasizes compassion over majesty.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 673,
+          "snippet": "Divine glory"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 89,
+          "snippet": "celestial melody"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 114,
+          "snippet": "spirit of mercy"
+        },
+        {
+          "work": "gleanings",
+          "para": 372,
+          "snippet": "merciful"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 220,
+          "snippet": "have mercy on them"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 546,
+          "snippet": "mercy"
+        },
+        {
+          "work": "gleanings",
+          "para": 183,
+          "snippet": "the Merciful, the Compassionate"
+        },
+        {
+          "work": "gleanings",
+          "para": 338,
+          "snippet": "the All-Forgiving, the Compassionate"
+        }
+      ]
+    },
+    {
+      "term": "عالمیان",
+      "transliteration": "ʿ-l-m",
+      "literal": "world; universe; the worlds",
+      "se_rendering": "all peoples",
+      "note": "Root ʿ-l-m with 141 occurrences rendered as 'world,' 'all worlds,' 'mankind.' Here 'all peoples' emphasizes human universality over cosmic scope, focusing the universal law upon human relations specifically.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 198,
+          "snippet": "world"
+        },
+        {
+          "work": "gleanings",
+          "para": 657,
+          "snippet": "all worlds"
+        },
+        {
+          "work": "gleanings",
+          "para": 182,
+          "snippet": "mankind"
+        },
+        {
+          "work": "gleanings",
+          "para": 183,
+          "snippet": "the whole world"
+        },
+        {
+          "work": "gleanings",
+          "para": 226,
+          "snippet": "all earthly defilements"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 28,
+          "snippet": "knowledge"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 122,
+          "snippet": "commentators"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 42,
+          "snippet": "banner"
+        }
+      ]
+    },
+    {
+      "term": "نسیم",
+      "transliteration": "n-s-m",
+      "literal": "breeze; gentle wind; fragrance",
+      "se_rendering": "breeze",
+      "note": "Root n-s-m consistently 'breeze' or 'wind.' SE renders 'vivifying breeze,' adding the sense of animation absent from Persian root meaning; heightens metaphor of life-giving divine influence.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 158,
+          "snippet": "sweet gales of divine knowledge"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 105,
+          "snippet": "breeze of My loving-kindness"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 146,
+          "snippet": "breeze that bloweth from the meads of the good-pleasure"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 216,
+          "snippet": "breeze of His loving"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 140,
+          "snippet": "breeze of mercy"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 122,
+          "snippet": "breeze"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 100,
+          "snippet": "fragrances"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 768,
+          "snippet": "rustling"
+        }
+      ]
+    },
+    {
+      "term": "الطاف",
+      "transliteration": "l-t-f",
+      "literal": "kindness; grace; gentleness; benevolence",
+      "se_rendering": "loving-kindness",
+      "note": "Root l-t-f typically 'bounties,' 'grace,' 'divine favor.' SE uses 'loving-kindness,' an affective rendering emphasizing gentleness; this compound notion echoes earlier 'merhbani' (kindliness from the heart).",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 162,
+          "snippet": "grace"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 160,
+          "snippet": "divine favor"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 168,
+          "snippet": "under the wings of Thy grace and favours"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 99,
+          "snippet": "and favours"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 793,
+          "snippet": "with the wonders of Thy mercy"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 15,
+          "snippet": "bounties"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 162,
+          "snippet": "Thy gifts"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 588,
+          "snippet": "cord of Thy tender mercies"
+        }
+      ]
+    }
+  ],
+  "section_index": "1.23",
+  "section": "1",
+  "section_para": 23
 }

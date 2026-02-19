@@ -1,10 +1,343 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 456,
   "source_text": "كلّ الملوك والسّلاطين يوقّرون ذرّيّة نبيّهم ورسولهم إن أنتم من الشّاهدين وأنتم فعلتم ما لا فعل أحد وارتكبتم ما احترقت عنه أكباد العارفين، ومع ذلك ما تنبّهتم في أنفسكم وما استشعرتم من فعلكم إلى أن قمتم",
   "translation": "All the rulers and kings of the earth honor and revere the descendants of their Prophets and holy men, could ye but perceive it. Ye, on the other hand, are responsible for such acts as no man hath, at any time, performed. Your misdeeds have caused every understanding heart to be consumed with grief. And yet, ye have remained sunk in your heedlessness, and failed to realize the wickedness of your actions.",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "rulers-honor-prophets-descendants",
+  "alignment": [
+    {
+      "ar": "كلّ",
+      "en": "All"
+    },
+    {
+      "ar": "الملوك",
+      "en": "rulers and kings"
+    },
+    {
+      "ar": "يوقّرون",
+      "en": "honor and revere"
+    },
+    {
+      "ar": "ذرّيّة",
+      "en": "descendants"
+    },
+    {
+      "ar": "نبيّهم",
+      "en": "their Prophets"
+    },
+    {
+      "ar": "ورسولهم",
+      "en": "holy men"
+    },
+    {
+      "ar": "أنتم",
+      "en": "ye"
+    },
+    {
+      "ar": "الشّاهدين",
+      "en": "perceive"
+    },
+    {
+      "ar": "فعلتم",
+      "en": "are responsible for"
+    },
+    {
+      "ar": "ما لا فعل أحد",
+      "en": "such acts as no man hath, at any time, performed"
+    },
+    {
+      "ar": "ارتكبتم",
+      "en": "misdeeds"
+    },
+    {
+      "ar": "احترقت",
+      "en": "consumed"
+    },
+    {
+      "ar": "أكباد",
+      "en": "heart"
+    },
+    {
+      "ar": "العارفين",
+      "en": "understanding"
+    },
+    {
+      "ar": "ما تنبّهتم",
+      "en": "remained sunk in your heedlessness"
+    },
+    {
+      "ar": "أنفسكم",
+      "en": "your"
+    },
+    {
+      "ar": "ما استشعرتم",
+      "en": "failed to realize"
+    },
+    {
+      "ar": "فعلكم",
+      "en": "wickedness of your actions"
+    }
+  ],
+  "terms": [
+    {
+      "term": "الملوک",
+      "transliteration": "m-l-k",
+      "literal": "kingdom; dominion; realm; sovereignty",
+      "se_rendering": "rulers and kings",
+      "note": "Typically 'kingdom' or 'realms' across 70 occurrences; here rendered 'rulers and kings' to designate persons rather than territorial dominion.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-ahd",
+          "para": 16,
+          "snippet": "heaven"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 171,
+          "snippet": "kingdom"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 69,
+          "snippet": "realms"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 28,
+          "snippet": "righteous"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 167,
+          "snippet": "by the heavenly power"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 57,
+          "snippet": "Ruler"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 82,
+          "snippet": "King"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 102,
+          "snippet": "Lord of all mankind"
+        }
+      ]
+    },
+    {
+      "term": "والسّلاطین",
+      "transliteration": "s-l-ṭ",
+      "literal": "dominion; authority; power; sovereignty; control",
+      "se_rendering": "rulers and kings",
+      "note": "Usually 'sovereignty' or 'dominion' (43 occ.); rendered 'rulers and kings' here as a parallel noun phrase denoting political authority-holders.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 118,
+          "snippet": "sovereignty"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 151,
+          "snippet": "dominion"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 1,
+          "snippet": "Thy sovereignty"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 184,
+          "snippet": "by Thy sovereignty"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 416,
+          "snippet": "Lord"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 13,
+          "snippet": "O King"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 242,
+          "snippet": "king"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 157,
+          "snippet": "the Sháh"
+        }
+      ]
+    },
+    {
+      "term": "نبيّهم",
+      "transliteration": "n-b-ʾ",
+      "literal": "Prophet",
+      "se_rendering": "Prophets and holy men",
+      "note": "Consistent with primary rendering 'Prophet/Prophets'; 'holy men' added by SE to specify the descendants' lineage alongside prophetic authority.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 115,
+          "snippet": "Prophet"
+        }
+      ]
+    },
+    {
+      "term": "احترقت",
+      "transliteration": "h-r-q",
+      "literal": "to burn; to be consumed by fire; burning",
+      "se_rendering": "consumed",
+      "note": "Standard rendering 'consumed' (13 occ.); metaphorical sense of hearts burning with sorrow perfectly aligns with SE's established fire-imagery pattern.",
+      "cross_refs": [
+        {
+          "work": "tablet-of-carmel",
+          "para": 3,
+          "snippet": "fast consuming"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 187,
+          "snippet": "consumed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 7,
+          "snippet": "burned"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 138,
+          "snippet": "were burned"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 51,
+          "snippet": "burning"
+        },
+        {
+          "work": "tablet-of-carmel",
+          "para": 2,
+          "snippet": "hath burned me"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 80,
+          "snippet": "hath melted"
+        }
+      ]
+    },
+    {
+      "term": "أكباد",
+      "transliteration": "k-b-d",
+      "literal": "liver; soul; essence",
+      "se_rendering": "heart",
+      "note": "Rare term (5 occ.); rendered 'heart' here rather than more literal 'liver' or typical alternative 'souls,' emphasizing emotional/moral anguish.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 7,
+          "snippet": "souls"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 118,
+          "snippet": "hearts"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 186,
+          "snippet": "Thy servants"
+        }
+      ]
+    },
+    {
+      "term": "تنبّهتم",
+      "transliteration": "n-b-h",
+      "literal": "to awaken; to alert; to warn",
+      "se_rendering": "remained sunk in your heedlessness",
+      "note": "Root means 'to awaken/alert' (4 occ.); SE inverts to 'remained sunk in heedlessness' — amplifying negation rather than literal awakening concept.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 235,
+          "snippet": "awakened"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 564,
+          "snippet": "stirred me up"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 89,
+          "snippet": "wakened"
+        }
+      ]
+    },
+    {
+      "term": "انفسکم",
+      "transliteration": "n-f-s",
+      "literal": "self; soul; psyche",
+      "se_rendering": "your",
+      "note": "Highly variable across 43 occurrences; rendered elliptically as 'your' here, subordinating the explicit 'self' concept to pronominal economy.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 114,
+          "snippet": "over Mine own Self"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 789,
+          "snippet": "myself to be only nothing"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 70,
+          "snippet": "This is the station in which I have no power"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 71,
+          "snippet": "his own entity in the kingdom of his self"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 572,
+          "snippet": "Thy Self at all times"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 109,
+          "snippet": "those"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 125,
+          "snippet": "sense of their own powerlessness"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 179,
+          "snippet": "abstained from all that is abhorrent unto Thee"
+        }
+      ]
+    }
+  ],
+  "section_index": "CXIII.9",
+  "section": "CXIII",
+  "section_para": 9
 }

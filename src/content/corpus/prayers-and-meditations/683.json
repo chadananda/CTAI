@@ -1,10 +1,153 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 683,
   "source_text": "ثُمَّ يَشْرَعُ فِي التَّكْبِيْراتِ ستَّ مَرَّاتٍ اللَّهُ أَبْهی.",
   "translation": "There is no God but Thee, the Ever-Forgiving, the Most Generous.",
   "source_lang": "ar",
-  "score": 9.2
+  "score": 9.2,
+  "page_slug": "ever-forgiving-most-generous",
+  "alignment": [
+    {
+      "ar": "يَشْرَعُ",
+      "en": "is"
+    },
+    {
+      "ar": "أَبْهی",
+      "en": "Ever-Forgiving, the Most Generous"
+    }
+  ],
+  "terms": [
+    {
+      "term": "مَرَّاتٍ",
+      "transliteration": "m-r-r",
+      "literal": "to pass; to pass by; to go",
+      "se_rendering": "times",
+      "note": "Root m-r-r yields diverse renderings: 'mirror,' 'station,' 'bloweth,' 'times.' Here rendered as 'times,' the most common usage for frequency.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 548,
+          "snippet": "mirror"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 192,
+          "snippet": "station and mission"
+        },
+        {
+          "work": "gleanings",
+          "para": 712,
+          "snippet": "bloweth upon"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 64,
+          "snippet": "were being wafted"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 682,
+          "snippet": "once"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 55,
+          "snippet": "one time"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 181,
+          "snippet": "entirely"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 204,
+          "snippet": "passeth"
+        }
+      ]
+    },
+    {
+      "term": "اللَّهُ",
+      "transliteration": "ʾ-l-h",
+      "literal": "God; Allah",
+      "se_rendering": "God",
+      "note": "Standard rendering 'God' across 53 occurrences in corpus; consistent application here without deviation.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 294,
+          "snippet": "God"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 10,
+          "snippet": "O God, my God"
+        },
+        {
+          "work": "gleanings",
+          "para": 341,
+          "snippet": "of God"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 11,
+          "snippet": "My God"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 62,
+          "snippet": "O Lord"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 102,
+          "snippet": "the Divine Lote-Tree"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 53,
+          "snippet": "the loved ones of the Lord"
+        },
+        {
+          "work": "gleanings",
+          "para": 338,
+          "snippet": "Ark of God"
+        }
+      ]
+    },
+    {
+      "term": "أَبْهی",
+      "transliteration": "b-h-y",
+      "literal": "splendor; glory; magnificence; Bahá (Proper Name in Bahá'í texts)",
+      "se_rendering": "Ever-Forgiving, the Most Generous",
+      "note": "Root b-h-y typically 'All-Glorious' or 'Bahá' (proper name); SE renders as 'Ever-Forgiving, the Most Generous'—a radical substitution introducing divine attributes absent from source text.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 89,
+          "snippet": "Bahá"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 59,
+          "snippet": "Glory"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 51,
+          "snippet": "Abhá"
+        },
+        {
+          "work": "gleanings",
+          "para": 645,
+          "snippet": "All-Glorious"
+        }
+      ]
+    }
+  ],
+  "section_index": "CLXVII.2",
+  "section": "CLXVII",
+  "section_para": 2
 }

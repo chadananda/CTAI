@@ -1,10 +1,629 @@
 {
   "work": "Epistle to the Son of the Wolf",
   "slug": "epistle-to-the-son-of-the-wolf",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 210,
   "source_text": "يا شيخ اقرأ ما نطق به اشعيا فی کتابه قوله [ علی جبل عال اصعدي يا مبشّرة صهيون ارفعی صوتک بقوّة يا مبشّرة اورشليم ارفعی لا تخافی قولی لمدن يهوذا هو ذا الهک هو ذا السّيّد الرّبّ بقوّة يأتی و ذراعه تحکم له ] * امروز جميع علامات نمودار مدينه بزرگی از اسمان نازل شده و صهيون از ظهور حقّ مهتزّ و مسرور چه که نداء اللّه را از کلّ جهات اصغا نموده * امروز اورشليم ببشارت جديد فائز چه که مقام جميّز سرو ازاد ايستاده * اورشليم محلّ زيارت جميع احزاب عالم است و بقدس ناميده شده و ان و صهيون و فلسطين جميع در اين اراضی واقع اينست که ميفرمايد [طوبی لمن هاجر الی عکّاء ] *",
   "translation": "O Shaykh! Peruse that which Isaiah hath spoken in His Book. He saith: \"Get thee up into the high mountain, O Zion, that bringest good tidings; lift up Thy Voice with strength, O Jerusalem, that bringest good tidings. Lift it up, be not afraid; say unto the cities of Judah: \\‘Behold your God! Behold the Lord God will come with strong hand, and His arm shall rule for Him.'\" This Day all the signs have appeared. A Great City hath descended from heaven, and Zion trembleth and exulteth with joy at the Revelation of God, for it hath heard the Voice of God on every side. This Day Jerusalem hath attained unto a new Evangel, for in the stead of the sycamore standeth the cedar. Jerusalem is the place of pilgrimage for all the peoples of the world, and hath been named the Holy City. Together with Zion and Palestine, they are all included within these regions. Wherefore, hath it been said: \"Blessed is the man that hath migrated to ‘Akká.\"",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "great-city-descended-from-heaven",
+  "alignment": [
+    {
+      "ar": "يا",
+      "en": "O"
+    },
+    {
+      "ar": "شيخ",
+      "en": "Shaykh"
+    },
+    {
+      "ar": "اقرأ",
+      "en": "Peruse"
+    },
+    {
+      "ar": "ما",
+      "en": "that which"
+    },
+    {
+      "ar": "نطق",
+      "en": "spoken"
+    },
+    {
+      "ar": "اشعيا",
+      "en": "Isaiah"
+    },
+    {
+      "ar": "کتابه",
+      "en": "His Book"
+    },
+    {
+      "ar": "قوله",
+      "en": "He saith"
+    },
+    {
+      "ar": "علی",
+      "en": "up into"
+    },
+    {
+      "ar": "جبل",
+      "en": "mountain"
+    },
+    {
+      "ar": "عال",
+      "en": "high"
+    },
+    {
+      "ar": "اصعدي",
+      "en": "Get thee up"
+    },
+    {
+      "ar": "مبشّرة",
+      "en": "bringest good tidings"
+    },
+    {
+      "ar": "صهيون",
+      "en": "Zion"
+    },
+    {
+      "ar": "ارفعی",
+      "en": "lift up"
+    },
+    {
+      "ar": "صوتک",
+      "en": "Thy Voice"
+    },
+    {
+      "ar": "بقوّة",
+      "en": "with strength"
+    },
+    {
+      "ar": "اورشليم",
+      "en": "Jerusalem"
+    },
+    {
+      "ar": "لا تخافی",
+      "en": "be not afraid"
+    },
+    {
+      "ar": "قولی",
+      "en": "say"
+    },
+    {
+      "ar": "لمدن",
+      "en": "unto the cities"
+    },
+    {
+      "ar": "يهوذا",
+      "en": "Judah"
+    },
+    {
+      "ar": "هو ذا",
+      "en": "Behold"
+    },
+    {
+      "ar": "الهک",
+      "en": "your God"
+    },
+    {
+      "ar": "السّيّد",
+      "en": "Lord"
+    },
+    {
+      "ar": "الرّبّ",
+      "en": "God"
+    },
+    {
+      "ar": "يأتی",
+      "en": "will come"
+    },
+    {
+      "ar": "ذراعه",
+      "en": "His arm"
+    },
+    {
+      "ar": "تحکم",
+      "en": "shall rule"
+    },
+    {
+      "ar": "امروز",
+      "en": "This Day"
+    },
+    {
+      "ar": "جميع",
+      "en": "all"
+    },
+    {
+      "ar": "علامات",
+      "en": "the signs"
+    },
+    {
+      "ar": "نمودار",
+      "en": "appeared"
+    },
+    {
+      "ar": "مدينه",
+      "en": "City"
+    },
+    {
+      "ar": "بزرگی",
+      "en": "Great"
+    },
+    {
+      "ar": "اسمان",
+      "en": "heaven"
+    },
+    {
+      "ar": "نازل",
+      "en": "descended"
+    },
+    {
+      "ar": "شده",
+      "en": "hath"
+    },
+    {
+      "ar": "مهتزّ",
+      "en": "trembleth"
+    },
+    {
+      "ar": "مسرور",
+      "en": "exulteth with joy"
+    },
+    {
+      "ar": "ظهور",
+      "en": "Revelation"
+    },
+    {
+      "ar": "نداء",
+      "en": "Voice"
+    },
+    {
+      "ar": "اللّه",
+      "en": "of God"
+    },
+    {
+      "ar": "کلّ",
+      "en": "every"
+    },
+    {
+      "ar": "جهات",
+      "en": "side"
+    },
+    {
+      "ar": "اصغا",
+      "en": "heard"
+    },
+    {
+      "ar": "ببشارت",
+      "en": "Evangel"
+    },
+    {
+      "ar": "جديد",
+      "en": "new"
+    },
+    {
+      "ar": "فائز",
+      "en": "attained"
+    },
+    {
+      "ar": "مقام",
+      "en": "stead"
+    },
+    {
+      "ar": "جميّز",
+      "en": "sycamore"
+    },
+    {
+      "ar": "سرو",
+      "en": "cedar"
+    },
+    {
+      "ar": "ازاد",
+      "en": "standeth"
+    },
+    {
+      "ar": "محلّ",
+      "en": "place"
+    },
+    {
+      "ar": "زيارت",
+      "en": "pilgrimage"
+    },
+    {
+      "ar": "احزاب",
+      "en": "peoples"
+    },
+    {
+      "ar": "عالم",
+      "en": "world"
+    },
+    {
+      "ar": "بقدس",
+      "en": "Holy City"
+    },
+    {
+      "ar": "ناميده",
+      "en": "named"
+    },
+    {
+      "ar": "فلسطين",
+      "en": "Palestine"
+    },
+    {
+      "ar": "اراضی",
+      "en": "regions"
+    },
+    {
+      "ar": "واقع",
+      "en": "included"
+    },
+    {
+      "ar": "اينست",
+      "en": "Wherefore"
+    },
+    {
+      "ar": "ميفرمايد",
+      "en": "hath it been said"
+    },
+    {
+      "ar": "طوبی",
+      "en": "Blessed"
+    },
+    {
+      "ar": "لمن",
+      "en": "is the man that"
+    },
+    {
+      "ar": "هاجر",
+      "en": "migrated"
+    }
+  ],
+  "terms": [
+    {
+      "term": "امروز",
+      "transliteration": "ʾ-m-r",
+      "literal": "command; cause; matter; affair",
+      "se_rendering": "This Day",
+      "note": "Root typically 'Cause' or 'Revelation' (75 times). Rendered as 'This Day' — a demonstrative temporal marker unusual in Jafar data, establishing eschatological urgency and present fulfillment.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "His Cause"
+        },
+        {
+          "work": "gleanings",
+          "para": 586,
+          "snippet": "His command"
+        },
+        {
+          "work": "gleanings",
+          "para": 691,
+          "snippet": "His Revelation"
+        },
+        {
+          "work": "gleanings",
+          "para": 723,
+          "snippet": "Cause"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 797,
+          "snippet": "Thy Cause"
+        },
+        {
+          "work": "gleanings",
+          "para": 8,
+          "snippet": "Revelation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 597,
+          "snippet": "service"
+        },
+        {
+          "work": "gleanings",
+          "para": 524,
+          "snippet": "your affairs"
+        }
+      ]
+    },
+    {
+      "term": "علامات",
+      "transliteration": "ʿ-l-m",
+      "literal": "world; universe; the worlds",
+      "se_rendering": "signs",
+      "note": "Root typically renders as 'world' or 'knowledge' across corpus. Here SE selects 'signs' — a concrete prophetic term absent from Jafar data, suggesting deliberate alignment with Isaianic fulfillment language.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 198,
+          "snippet": "world"
+        },
+        {
+          "work": "gleanings",
+          "para": 657,
+          "snippet": "all worlds"
+        },
+        {
+          "work": "gleanings",
+          "para": 182,
+          "snippet": "mankind"
+        },
+        {
+          "work": "gleanings",
+          "para": 183,
+          "snippet": "the whole world"
+        },
+        {
+          "work": "gleanings",
+          "para": 226,
+          "snippet": "all earthly defilements"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 76,
+          "snippet": "Knowledge"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 122,
+          "snippet": "commentators"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 42,
+          "snippet": "banner"
+        }
+      ]
+    },
+    {
+      "term": "نازل",
+      "transliteration": "n-z-l",
+      "literal": "to descend, to be revealed",
+      "se_rendering": "descended",
+      "note": "Consistently 'descended' or 'sent down' (88 occurrences). This passage uses 'descended' — emphasizing spatial-temporal drama of 'Great City' rather than passive divine transmission.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 643,
+          "snippet": "sent down"
+        },
+        {
+          "work": "gleanings",
+          "para": 218,
+          "snippet": "revealed"
+        },
+        {
+          "work": "gleanings",
+          "para": 656,
+          "snippet": "descended"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 175,
+          "snippet": "didst send down"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 34,
+          "snippet": "Descend"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 47,
+          "snippet": "pour forth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 330,
+          "snippet": "send down"
+        },
+        {
+          "work": "gleanings",
+          "para": 604,
+          "snippet": "have been sent down"
+        }
+      ]
+    },
+    {
+      "term": "ظهور",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "Revelation",
+      "note": "Standard rendering 'Manifestation' or 'manifestation' appears 96 times. 'Revelation' here maintains theological weight while accommodating English biblical register for Isaiah quotation.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 53,
+          "snippet": "Manifestation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 160,
+          "snippet": "Author of all Manifestations"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 136,
+          "snippet": "evident"
+        },
+        {
+          "work": "gleanings",
+          "para": 222,
+          "snippet": "material"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 196,
+          "snippet": "Manifestations of God"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 255,
+          "snippet": "Manifestations"
+        }
+      ]
+    },
+    {
+      "term": "مسرور",
+      "transliteration": "s-r-r",
+      "literal": "throne; couch; seat of authority",
+      "se_rendering": "exulteth",
+      "note": "Root normally 'throne' or 'couch' (40 occurrences). Here 'exulteth' — a unique emotional rendering absent from Jafar data, suggesting SE interpreted context as joy rather than seat of authority.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 145,
+          "snippet": "couch"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 256,
+          "snippet": "throne"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 185,
+          "snippet": "lamp"
+        },
+        {
+          "work": "tablet-of-carmel",
+          "para": 2,
+          "snippet": "joy"
+        },
+        {
+          "work": "gleanings",
+          "para": 218,
+          "snippet": "mystery"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 831,
+          "snippet": "Secret"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 37,
+          "snippet": "in the gladness"
+        },
+        {
+          "work": "gleanings",
+          "para": 727,
+          "snippet": "gladness"
+        }
+      ]
+    },
+    {
+      "term": "مقام",
+      "transliteration": "q-w-m",
+      "literal": "rising; standing; uprising; resurrection",
+      "se_rendering": "stead",
+      "note": "Root standardly 'Resurrection' or 'arise' (109 times). Here 'stead' — a prepositional sense not appearing in Jafar list, indicating semantic flexibility for local botanical metaphor.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 152,
+          "snippet": "Day of Resurrection"
+        },
+        {
+          "work": "gleanings",
+          "para": 437,
+          "snippet": "arise"
+        },
+        {
+          "work": "gleanings",
+          "para": 513,
+          "snippet": "dedicateth"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 153,
+          "snippet": "Resurrection"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "peoples"
+        },
+        {
+          "work": "gleanings",
+          "para": 693,
+          "snippet": "commandments"
+        },
+        {
+          "work": "gleanings",
+          "para": 628,
+          "snippet": "My commandments"
+        },
+        {
+          "work": "gleanings",
+          "para": 518,
+          "snippet": "steadfast"
+        }
+      ]
+    },
+    {
+      "term": "بقدس",
+      "transliteration": "q-d-s",
+      "literal": "holy, sacred, sanctified",
+      "se_rendering": "Holy",
+      "note": "Root regularly 'Sacred' or 'holy' (47 times). 'Holy City' reflects English biblical idiom; pairing with 'named' emphasizes designation rather than intrinsic sanctity.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 2,
+          "snippet": "Sacred"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 35,
+          "snippet": "spirit of holiness"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 448,
+          "snippet": "Sanctuary"
+        },
+        {
+          "work": "gleanings",
+          "para": 585,
+          "snippet": "holy Paradise"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 13,
+          "snippet": "Holy Mariner"
+        },
+        {
+          "work": "gleanings",
+          "para": 584,
+          "snippet": "Holy Veil"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 6,
+          "snippet": "sacred strand"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 26,
+          "snippet": "Celestial Concourse"
+        }
+      ]
+    }
+  ],
+  "section_index": "210",
+  "section": "210",
+  "section_para": 1
 }

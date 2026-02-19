@@ -1,10 +1,90 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 460,
   "source_text": "لِلَّهِ رَبِّ العالَمِينَ.",
   "translation": "Praised be God, the Lord of the worlds.",
   "source_lang": "ar",
-  "score": 9.5
+  "score": 9.5,
+  "page_slug": "praised-be-god-lord-worlds",
+  "alignment": [
+    {
+      "ar": "العالَمِينَ",
+      "en": "worlds"
+    }
+  ],
+  "terms": [
+    {
+      "term": "لِلَّهِ",
+      "transliteration": "l-l-h",
+      "literal": "to God; for God; God's",
+      "se_rendering": "Praised be God",
+      "note": "Root l-l-h appears 4 times in corpus. SE renders as 'Praised be God' here—an exclamatory formula that differs from literal 'to God' or 'God's' in other contexts, capturing the doxological force of the Arabic.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 2,
+          "snippet": "to God"
+        },
+        {
+          "work": "gleanings",
+          "para": 79,
+          "snippet": "God's"
+        }
+      ]
+    },
+    {
+      "term": "العالَمِينَ",
+      "transliteration": "ʿ-l-m",
+      "literal": "world; universe; the worlds",
+      "se_rendering": "the worlds",
+      "note": "Root ʿ-l-m occurs 141 times with wide semantic range: 'mankind,' 'world,' 'universe,' 'all worlds.' SE selects 'the worlds' (plural), emphasizing cosmic scope rather than the 'mankind' rendering used elsewhere, fitting the universal lordship statement.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 182,
+          "snippet": "mankind"
+        },
+        {
+          "work": "gleanings",
+          "para": 714,
+          "snippet": "All-Knowing"
+        },
+        {
+          "work": "gleanings",
+          "para": 198,
+          "snippet": "world"
+        },
+        {
+          "work": "gleanings",
+          "para": 657,
+          "snippet": "all worlds"
+        },
+        {
+          "work": "gleanings",
+          "para": 183,
+          "snippet": "the whole world"
+        },
+        {
+          "work": "gleanings",
+          "para": 226,
+          "snippet": "all earthly defilements"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 28,
+          "snippet": "knowledge"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 122,
+          "snippet": "commentators"
+        }
+      ]
+    }
+  ],
+  "section_index": "CVII.4",
+  "section": "CVII",
+  "section_para": 4
 }

@@ -1,10 +1,733 @@
 {
   "work": "Will and Testament",
   "slug": "will-and-testament",
-  "author": "'Abdu'l-Baha",
+  "author": "‘Abdu’l-Bahá",
   "pair_index": 10,
   "source_text": "الهی الهی تری عبدک المظلوم بین مخالب سباع ضاریة و ذئاب کاسرة و وحوش خاسرة ربّ وفّقنی فی حبّک علی تجرّع هذه الکأس الطّافحة بصهبآء الوفآء الممتلئة بفیض العطآء حتّی یحمرّ قمیصی بدمی طریحاً علی التّراب صریعاً لا حراک للأعضآء هذا منائی و رجائی و املی و عزّی و علائی ولیکن خاتمة حیاتی ختام مسک یا ربّی و ملاذی و هل من موهبة اعظم من هذا لا وحضرة عزّک و انّی اشهدک انّنی اذوق هذه الکأس فی کلّ الأیّام بما اکتسبت ایدی الّذین نقضوا المیثاق و اعلنوا الشّقاق و اظهروا النّفاق و اظهروا فی الأرض الفساد و ما راعوا حرمتک بین العباد ربّ احفظ حصن دینک المبین من هؤلاء النّاکثین و احرس حماک الحصین من عصبة المارقین انّک انت القویّ المقتدر العزیز المتین",
   "translation": "O God, my God! Thou seest this wronged servant of Thine, held fast in the talons of ferocious lions, of ravening wolves, of bloodthirsty beasts. Graciously assist me, through my love for Thee, that I may drink deep of the chalice that brimmeth over with faithfulness to Thee and is filled with Thy bountiful Grace; so that, fallen upon the dust, I may sink prostrate and senseless whilst my vesture is dyed crimson with my blood. This is my wish, my heart’s desire, my hope, my pride, my glory. Grant, O Lord my God, and my Refuge, that in my last hour, my end may even as musk shed its fragrance of glory! Is there a bounty greater than this? Nay, by Thy Glory! I call Thee to witness that no day passeth but that I quaff my fill from this cup, so grievous are the misdeeds wrought by them that have broken the Covenant, kindled discord, showed their malice, stirred sedition in the land and dishonoured Thee amidst Thy servants. Lord! Shield Thou from these Covenant-breakers the mighty Stronghold of Thy Faith and protect Thy secret Sanctuary from the onslaught of the ungodly. Thou art in truth the Mighty, the Powerful, the Gracious, the Strong.",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "chalice-faithfulness-crimson-blood",
+  "alignment": [
+    {
+      "ar": "الهی",
+      "en": "O God"
+    },
+    {
+      "ar": "الهی",
+      "en": "my God"
+    },
+    {
+      "ar": "تری",
+      "en": "Thou seest"
+    },
+    {
+      "ar": "عبدک",
+      "en": "servant of Thine"
+    },
+    {
+      "ar": "المظلوم",
+      "en": "wronged"
+    },
+    {
+      "ar": "بین",
+      "en": "in"
+    },
+    {
+      "ar": "مخالب",
+      "en": "talons"
+    },
+    {
+      "ar": "سباع",
+      "en": "lions"
+    },
+    {
+      "ar": "ضاریة",
+      "en": "ferocious"
+    },
+    {
+      "ar": "ذئاب",
+      "en": "wolves"
+    },
+    {
+      "ar": "کاسرة",
+      "en": "ravening"
+    },
+    {
+      "ar": "وحوش",
+      "en": "beasts"
+    },
+    {
+      "ar": "خاسرة",
+      "en": "bloodthirsty"
+    },
+    {
+      "ar": "ربّ",
+      "en": "Lord"
+    },
+    {
+      "ar": "وفّقنی",
+      "en": "assist me"
+    },
+    {
+      "ar": "حبّک",
+      "en": "love for Thee"
+    },
+    {
+      "ar": "تجرّع",
+      "en": "drink"
+    },
+    {
+      "ar": "الکأس",
+      "en": "chalice"
+    },
+    {
+      "ar": "الطّافحة",
+      "en": "brimmeth over"
+    },
+    {
+      "ar": "بصهبآء",
+      "en": "with"
+    },
+    {
+      "ar": "الوفآء",
+      "en": "faithfulness"
+    },
+    {
+      "ar": "الممتلئة",
+      "en": "filled"
+    },
+    {
+      "ar": "العطآء",
+      "en": "bountiful Grace"
+    },
+    {
+      "ar": "حتّی",
+      "en": "so that"
+    },
+    {
+      "ar": "یحمرّ",
+      "en": "dyed crimson"
+    },
+    {
+      "ar": "قمیصی",
+      "en": "vesture"
+    },
+    {
+      "ar": "بدمی",
+      "en": "with my blood"
+    },
+    {
+      "ar": "طریحاً",
+      "en": "fallen"
+    },
+    {
+      "ar": "علی",
+      "en": "upon"
+    },
+    {
+      "ar": "التّراب",
+      "en": "dust"
+    },
+    {
+      "ar": "صریعاً",
+      "en": "prostrate"
+    },
+    {
+      "ar": "لا حراک",
+      "en": "senseless"
+    },
+    {
+      "ar": "للأعضآء",
+      "en": ""
+    },
+    {
+      "ar": "منائی",
+      "en": "wish"
+    },
+    {
+      "ar": "رجائی",
+      "en": "hope"
+    },
+    {
+      "ar": "عزّی",
+      "en": "pride"
+    },
+    {
+      "ar": "علائی",
+      "en": "glory"
+    },
+    {
+      "ar": "ولیکن",
+      "en": "Grant"
+    },
+    {
+      "ar": "خاتمة",
+      "en": "end"
+    },
+    {
+      "ar": "حیاتی",
+      "en": "my last hour"
+    },
+    {
+      "ar": "ختام",
+      "en": ""
+    },
+    {
+      "ar": "مسک",
+      "en": "musk"
+    },
+    {
+      "ar": "ملاذی",
+      "en": "my Refuge"
+    },
+    {
+      "ar": "موهبة",
+      "en": "bounty"
+    },
+    {
+      "ar": "اعظم",
+      "en": "greater"
+    },
+    {
+      "ar": "لا",
+      "en": "Nay"
+    },
+    {
+      "ar": "وحضرة",
+      "en": "by"
+    },
+    {
+      "ar": "عزّک",
+      "en": "Thy Glory"
+    },
+    {
+      "ar": "انّی",
+      "en": "I"
+    },
+    {
+      "ar": "اشهدک",
+      "en": "call Thee to witness"
+    },
+    {
+      "ar": "انّنی",
+      "en": "that"
+    },
+    {
+      "ar": "اذوق",
+      "en": "quaff"
+    },
+    {
+      "ar": "هذه الکأس",
+      "en": "this cup"
+    },
+    {
+      "ar": "کلّ",
+      "en": ""
+    },
+    {
+      "ar": "الأیّام",
+      "en": "day"
+    },
+    {
+      "ar": "بما",
+      "en": ""
+    },
+    {
+      "ar": "اکتسبت",
+      "en": "wrought"
+    },
+    {
+      "ar": "ایدی",
+      "en": ""
+    },
+    {
+      "ar": "الّذین",
+      "en": "them that"
+    },
+    {
+      "ar": "نقضوا",
+      "en": "broken"
+    },
+    {
+      "ar": "المیثاق",
+      "en": "Covenant"
+    },
+    {
+      "ar": "اعلنوا",
+      "en": "kindled"
+    },
+    {
+      "ar": "الشّقاق",
+      "en": "discord"
+    },
+    {
+      "ar": "اظهروا",
+      "en": "showed"
+    },
+    {
+      "ar": "النّفاق",
+      "en": "malice"
+    },
+    {
+      "ar": "الأرض",
+      "en": "land"
+    },
+    {
+      "ar": "الفساد",
+      "en": "sedition"
+    },
+    {
+      "ar": "ما راعوا",
+      "en": "dishonoured"
+    },
+    {
+      "ar": "حرمتک",
+      "en": "Thee"
+    },
+    {
+      "ar": "العباد",
+      "en": "servants"
+    },
+    {
+      "ar": "احفظ",
+      "en": "Shield"
+    },
+    {
+      "ar": "حصن",
+      "en": "Stronghold"
+    },
+    {
+      "ar": "دینک",
+      "en": "Thy Faith"
+    },
+    {
+      "ar": "المبین",
+      "en": "mighty"
+    },
+    {
+      "ar": "هؤلاء",
+      "en": "these"
+    },
+    {
+      "ar": "النّاکثین",
+      "en": "Covenant-breakers"
+    },
+    {
+      "ar": "احرس",
+      "en": "protect"
+    },
+    {
+      "ar": "حماک",
+      "en": "Sanctuary"
+    },
+    {
+      "ar": "الحصین",
+      "en": "secret"
+    },
+    {
+      "ar": "عصبة",
+      "en": "onslaught"
+    },
+    {
+      "ar": "المارقین",
+      "en": "ungodly"
+    },
+    {
+      "ar": "انّک",
+      "en": "Thou"
+    },
+    {
+      "ar": "انت",
+      "en": "art"
+    },
+    {
+      "ar": "القویّ",
+      "en": "Mighty"
+    },
+    {
+      "ar": "المقتدر",
+      "en": "Powerful"
+    },
+    {
+      "ar": "العزیز",
+      "en": "Gracious"
+    },
+    {
+      "ar": "المتین",
+      "en": "Strong"
+    }
+  ],
+  "terms": [
+    {
+      "term": "المظلوم",
+      "transliteration": "z-l-m",
+      "literal": "wrongedness, oppression, meekness; state of being wronged or oppressed",
+      "se_rendering": "wronged servant",
+      "note": "Typically rendered 'wronged' or 'afflicted' across 128 occurrences. Here 'wronged servant' preserves the dual sense of oppression and servitude essential to the prayer's opening invocation.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 498,
+          "snippet": "afflicted with countless tribulations"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 49,
+          "snippet": "meekness"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 116,
+          "snippet": "injury"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 36,
+          "snippet": "Wronged One"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 253,
+          "snippet": "wronged"
+        },
+        {
+          "work": "gleanings",
+          "para": 221,
+          "snippet": "oppression"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 9,
+          "snippet": "Darkness"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 33,
+          "snippet": "tyranny"
+        }
+      ]
+    },
+    {
+      "term": "وفّقنی",
+      "transliteration": "w-f-q",
+      "literal": "accord, agreement, harmony; to agree, accord with",
+      "se_rendering": "Graciously assist me",
+      "note": "Standard renderings include 'accord' and 'assist.' SE chooses 'Graciously assist' to heighten the emotional intensity and divine supplication, infusing grammatical compliance with spiritual yearning.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 21,
+          "snippet": "assist me"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 547,
+          "snippet": "accord"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 56,
+          "snippet": "in concert"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 210,
+          "snippet": "Aid"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 229,
+          "snippet": "hast aided"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 251,
+          "snippet": "agree with"
+        },
+        {
+          "work": "gleanings",
+          "para": 122,
+          "snippet": "resemblance"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 276,
+          "snippet": "according to"
+        }
+      ]
+    },
+    {
+      "term": "حبّک",
+      "transliteration": "ḥ-b-b",
+      "literal": "love; affection",
+      "se_rendering": "my love for Thee",
+      "note": "Consistently 'love' across 92 occurrences. 'My love for Thee' emphasizes the petitioner's active devotion as the enabling force for spiritual endurance through suffering.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 341,
+          "snippet": "loved ones of God"
+        },
+        {
+          "work": "gleanings",
+          "para": 689,
+          "snippet": "beloved of the one true God"
+        },
+        {
+          "work": "gleanings",
+          "para": 640,
+          "snippet": "loved ones"
+        },
+        {
+          "work": "gleanings",
+          "para": 690,
+          "snippet": "beloved of God"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 39,
+          "snippet": "His loved ones"
+        },
+        {
+          "work": "gleanings",
+          "para": 267,
+          "snippet": "love"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 475,
+          "snippet": "Thy dear ones"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 144,
+          "snippet": "my Beloved"
+        }
+      ]
+    },
+    {
+      "term": "اشهدک",
+      "transliteration": "sh-h-d",
+      "literal": "witnessed; observed; seen; evident; manifest",
+      "se_rendering": "I call Thee to witness",
+      "note": "Usually 'I bear witness' or 'I testify' (74 occ). 'I call Thee to witness' reverses the direction, invoking divine observation of human suffering rather than human attestation of divine truth.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 607,
+          "snippet": "manifest"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 35,
+          "snippet": "evident"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 811,
+          "snippet": "I bear witness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 6,
+          "snippet": "I testify"
+        },
+        {
+          "work": "gleanings",
+          "para": 298,
+          "snippet": "witness"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 138,
+          "snippet": "martyrdom"
+        },
+        {
+          "work": "gleanings",
+          "para": 134,
+          "snippet": "God witnesseth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 230,
+          "snippet": "God testifieth"
+        }
+      ]
+    },
+    {
+      "term": "نقضوا",
+      "transliteration": "n-q-d",
+      "literal": "breaker; violator; one who breaks (covenant); covenant-breaker",
+      "se_rendering": "broken the Covenant",
+      "note": "Standard form 'Covenant-breakers' (33 occ). Here 'broken the Covenant' uses the verb form to emphasize the active violation and its ongoing consequences in daily tribulation.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 32,
+          "snippet": "imperfect"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 6,
+          "snippet": "broken"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 194,
+          "snippet": "breaking"
+        }
+      ]
+    },
+    {
+      "term": "الفساد",
+      "transliteration": "f-s-d",
+      "literal": "corruption; ruin; discord; mischief; decay",
+      "se_rendering": "sedition",
+      "note": "Typically 'discord' or 'mischief' (31 occ). 'Sedition' carries sharper political and religious connotations, situating Covenant-breaking within systematic destabilization of the community.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 108,
+          "snippet": "charge of fomenting discord"
+        },
+        {
+          "work": "gleanings",
+          "para": 416,
+          "snippet": "discord"
+        },
+        {
+          "work": "gleanings",
+          "para": 179,
+          "snippet": "mischief"
+        },
+        {
+          "work": "gleanings",
+          "para": 644,
+          "snippet": "the sowers of mischief"
+        },
+        {
+          "work": "gleanings",
+          "para": 577,
+          "snippet": "of the mischief-makers"
+        },
+        {
+          "work": "gleanings",
+          "para": 454,
+          "snippet": "disorderly ones"
+        },
+        {
+          "work": "gleanings",
+          "para": 468,
+          "snippet": "of those that wrought disorders"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 155,
+          "snippet": "corruption"
+        }
+      ]
+    },
+    {
+      "term": "المبین",
+      "transliteration": "b-y-n",
+      "literal": "to manifest; to make clear; clear, evident",
+      "se_rendering": "Thy Faith",
+      "note": "Typically 'the Manifest' or 'clear proofs' (87 occ). Here rendered 'Thy Faith' to fit the fortress metaphor—the Faith becomes the stronghold itself, not merely its manifestation.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 223,
+          "snippet": "the Expounder, the Most Manifest"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 231,
+          "snippet": "clear verses"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 3,
+          "snippet": "proofs"
+        },
+        {
+          "work": "gleanings",
+          "para": 563,
+          "snippet": "Dawning-Place of the proofs"
+        },
+        {
+          "work": "gleanings",
+          "para": 292,
+          "snippet": "the Bayán"
+        },
+        {
+          "work": "gleanings",
+          "para": 636,
+          "snippet": "utterance"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 101,
+          "snippet": "Bayán"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 84,
+          "snippet": "palpable smoke"
+        }
+      ]
+    },
+    {
+      "term": "المقتدر",
+      "transliteration": "q-d-r",
+      "literal": "power; might; decree; measure; worth",
+      "se_rendering": "the Powerful",
+      "note": "Usually 'Thy power' or 'hath decreed' (100 occ). 'The Powerful' isolates divine omnipotence as essential attribute in the doxological conclusion, creating symmetry with preceding divine names.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 171,
+          "snippet": "a while"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 339,
+          "snippet": "Thy power"
+        },
+        {
+          "work": "gleanings",
+          "para": 138,
+          "snippet": "hath been decreed"
+        },
+        {
+          "work": "gleanings",
+          "para": 662,
+          "snippet": "hath decreed"
+        },
+        {
+          "work": "gleanings",
+          "para": 496,
+          "snippet": "forbearing towards"
+        },
+        {
+          "work": "gleanings",
+          "para": 111,
+          "snippet": "schools"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 12,
+          "snippet": "God of power"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 35,
+          "snippet": "Potent"
+        }
+      ]
+    }
+  ],
+  "section_index": "1.10",
+  "section": "1",
+  "section_para": 10
 }

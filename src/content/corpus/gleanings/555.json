@@ -1,10 +1,441 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 555,
   "source_text": "مؤیّد شد البتّه ببشارت لنهدینّهم سبلنا مستبشر خواهد شد و چون سراج طلب و مجاهده و ذوق و شوق و عشق و وله و جذب و حبّ در قلب روشن شد و نسیم محبّت از شطر احدیّه وزید ظلمت ضلالت شک و ریب زایل شود و انوار علم و یقین همهٔ ارکان وجود را احاطه نماید در آن حین بشیر معنوی ببشارت روحانی از مدینهٔ الهی چون صبح صادق طالع شود و قلب و نفس و روح را بصور معرفت از نوم غفلت بیدار نماید و عنایات و تأییدات روح القدس صمدانی حیات تازهٔ جدید مبذول دارد بقسمی که خود را صاحب چشم جدید و گوش بدیع و قلب و فؤاد تازه می‌بیند و رجوع بآیات واضحهٔ آفاقیّه و خفیّات مستورهٔ انفسیّه مینماید و بعین ‌الله بدیعه در هر ذرّه بابی مفتوح مشاهده نماید برای وصول بمراتب عین الیقین و حقّ الیقین و نور الیقین",
   "translation": "Only when the lamp of search, of earnest striving, of longing desire, of passionate devotion, of fervid love, of rapture, and ecstasy, is kindled within the seeker’s heart, and the breeze of His loving-kindness is wafted upon his soul, will the darkness of error be dispelled, the mists of doubts and misgivings be dissipated, and the lights of knowledge and certitude envelop his being. At that hour will the Mystic Herald, bearing the joyful tidings of the Spirit, shine forth from the City of God resplendent as the morn, and, through the trumpet-blast of knowledge, will awaken the heart, the soul, and the spirit from the slumber of heedlessness. Then will the manifold favors and outpouring grace of the holy and everlasting Spirit confer such new life upon the seeker that he will find himself endowed with a new eye, a new ear, a new heart, and a new mind. He will contemplate the manifest signs of the universe, and will penetrate the hidden mysteries of the soul. Gazing with the eye of God, he will perceive within every atom a door that leadeth him to the stations of absolute certitude. He will discover in all things the mysteries of Divine Revelation, and the evidences of an everlasting Manifestation.",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "mystic-herald-joyful-tidings-spirit",
+  "alignment": [
+    {
+      "ar": "مؤیّد",
+      "en": "certitude"
+    },
+    {
+      "ar": "ببشارت",
+      "en": "tidings"
+    },
+    {
+      "ar": "لنهدینّهم",
+      "en": "His"
+    },
+    {
+      "ar": "سبلنا",
+      "en": "our"
+    },
+    {
+      "ar": "مستبشر",
+      "en": "joyful"
+    },
+    {
+      "ar": "سراج",
+      "en": "lamp"
+    },
+    {
+      "ar": "طلب",
+      "en": "search"
+    },
+    {
+      "ar": "مجاهده",
+      "en": "earnest striving"
+    },
+    {
+      "ar": "ذوق",
+      "en": "longing desire"
+    },
+    {
+      "ar": "شوق",
+      "en": "passionate devotion"
+    },
+    {
+      "ar": "عشق",
+      "en": "fervid love"
+    },
+    {
+      "ar": "وله",
+      "en": "rapture"
+    },
+    {
+      "ar": "جذب",
+      "en": "ecstasy"
+    },
+    {
+      "ar": "قلب",
+      "en": "heart"
+    },
+    {
+      "ar": "روشن",
+      "en": "kindled"
+    },
+    {
+      "ar": "نسیم",
+      "en": "breeze"
+    },
+    {
+      "ar": "محبّت",
+      "en": "loving-kindness"
+    },
+    {
+      "ar": "شطر",
+      "en": "upon"
+    },
+    {
+      "ar": "وزید",
+      "en": "wafted"
+    },
+    {
+      "ar": "ظلمت",
+      "en": "darkness"
+    },
+    {
+      "ar": "ضلالت",
+      "en": "error"
+    },
+    {
+      "ar": "شک",
+      "en": "doubts"
+    },
+    {
+      "ar": "ریب",
+      "en": "misgivings"
+    },
+    {
+      "ar": "زایل",
+      "en": "dispelled"
+    },
+    {
+      "ar": "انوار",
+      "en": "lights"
+    },
+    {
+      "ar": "علم",
+      "en": "knowledge"
+    },
+    {
+      "ar": "ارکان",
+      "en": "being"
+    },
+    {
+      "ar": "احاطه",
+      "en": "envelop"
+    },
+    {
+      "ar": "حین",
+      "en": "hour"
+    },
+    {
+      "ar": "بشیر",
+      "en": "Herald"
+    },
+    {
+      "ar": "معنوی",
+      "en": "Mystic"
+    },
+    {
+      "ar": "روحانی",
+      "en": "Spirit"
+    },
+    {
+      "ar": "مدینهٔ",
+      "en": "City"
+    },
+    {
+      "ar": "الهی",
+      "en": "God"
+    },
+    {
+      "ar": "صبح",
+      "en": "morn"
+    },
+    {
+      "ar": "صادق",
+      "en": "resplendent"
+    },
+    {
+      "ar": "طالع",
+      "en": "shine forth"
+    },
+    {
+      "ar": "نفس",
+      "en": "soul"
+    },
+    {
+      "ar": "روح",
+      "en": "spirit"
+    },
+    {
+      "ar": "صور",
+      "en": "trumpet-blast"
+    },
+    {
+      "ar": "نوم",
+      "en": "slumber"
+    },
+    {
+      "ar": "غفلت",
+      "en": "heedlessness"
+    },
+    {
+      "ar": "بیدار",
+      "en": "awaken"
+    },
+    {
+      "ar": "عنایات",
+      "en": "favors"
+    },
+    {
+      "ar": "تأییدات",
+      "en": "outpouring grace"
+    },
+    {
+      "ar": "روح القدس",
+      "en": "holy and everlasting Spirit"
+    },
+    {
+      "ar": "صمدانی",
+      "en": "everlasting"
+    },
+    {
+      "ar": "حیات",
+      "en": "life"
+    },
+    {
+      "ar": "تازهٔ",
+      "en": "new"
+    },
+    {
+      "ar": "مبذول",
+      "en": "confer"
+    },
+    {
+      "ar": "چشم",
+      "en": "eye"
+    },
+    {
+      "ar": "گوش",
+      "en": "ear"
+    },
+    {
+      "ar": "فؤاد",
+      "en": "mind"
+    },
+    {
+      "ar": "رجوع",
+      "en": "contemplate"
+    },
+    {
+      "ar": "آیات",
+      "en": "signs"
+    },
+    {
+      "ar": "واضحهٔ",
+      "en": "manifest"
+    },
+    {
+      "ar": "آفاقیّه",
+      "en": "universe"
+    },
+    {
+      "ar": "خفیّات",
+      "en": "mysteries"
+    },
+    {
+      "ar": "مستورهٔ",
+      "en": "hidden"
+    },
+    {
+      "ar": "بعین ‌الله",
+      "en": "eye of God"
+    },
+    {
+      "ar": "بدیعه",
+      "en": "Gazing"
+    },
+    {
+      "ar": "ذرّه",
+      "en": "atom"
+    },
+    {
+      "ar": "بابی",
+      "en": "door"
+    },
+    {
+      "ar": "مفتوح",
+      "en": "leadeth"
+    },
+    {
+      "ar": "مشاهده",
+      "en": "perceive"
+    },
+    {
+      "ar": "وصول",
+      "en": "stations"
+    },
+    {
+      "ar": "عین الیقین",
+      "en": "absolute certitude"
+    },
+    {
+      "ar": "حقّ الیقین",
+      "en": "mysteries of Divine Revelation"
+    },
+    {
+      "ar": "نور الیقین",
+      "en": "evidences of an everlasting Manifestation"
+    }
+  ],
+  "terms": [
+    {
+      "term": "طالع",
+      "transliteration": "t-l-ʿ",
+      "literal": "rising; appearance; countenance; manifestation",
+      "se_rendering": "shine forth",
+      "note": "Root meaning 'rising' or 'appearance' (32 occ); SE renders as 'shine forth,' emphasizing radiant emergence and divine manifestation within the dawn metaphor.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 47,
+          "snippet": "lives"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 856,
+          "snippet": "countenances"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "sources of command"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 16,
+          "snippet": "embodiments"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 21,
+          "snippet": "daysprings"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 24,
+          "snippet": "exponents"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 276,
+          "snippet": "Revealer"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 26,
+          "snippet": "Dayspring"
+        }
+      ]
+    },
+    {
+      "term": "بدیع",
+      "transliteration": "b-d-ʿ",
+      "literal": "to create; most wondrous; excel",
+      "se_rendering": "wondrous",
+      "note": "Typically 'most wondrous' or 'creation' (21 occ); SE uses 'wondrous' as an adjective modifier, emphasizing aesthetic and ontological novelty aligned with the passage's theme of spiritual transformation.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 2,
+          "snippet": "most wondrous"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 65,
+          "snippet": "creation"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 6,
+          "snippet": "Badí'u'lláh"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 9,
+          "snippet": "horizon of creation"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 191,
+          "snippet": "the eye of the universe"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 4,
+          "snippet": "Mighty, the Wondrous"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 315,
+          "snippet": "kingdoms of creation"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 202,
+          "snippet": "new"
+        }
+      ]
+    },
+    {
+      "term": "مشاهده",
+      "transliteration": "sh-h-d",
+      "literal": "witnessed; observed; seen; evident; manifest",
+      "se_rendering": "perceive",
+      "note": "Usually 'manifest' or 'witnessed' (74 occ); SE renders as 'perceive,' shifting from passive observation to active cognitive apprehension within the epistemological arc of the passage.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 35,
+          "snippet": "evident"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 811,
+          "snippet": "I bear witness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 6,
+          "snippet": "I testify"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 138,
+          "snippet": "martyrdom"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 230,
+          "snippet": "God testifieth"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 57,
+          "snippet": "beheld"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 117,
+          "snippet": "testify"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 156,
+          "snippet": "bear witness"
+        }
+      ]
+    }
+  ],
+  "section_index": "CXXV.6",
+  "section": "CXXV",
+  "section_para": 6
 }

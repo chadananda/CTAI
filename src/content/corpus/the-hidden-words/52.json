@@ -1,10 +1,424 @@
 {
   "work": "The Hidden Words",
   "slug": "the-hidden-words",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 52,
   "source_text": "(٥١) ﴿ يَا ابْنَ الإِنْسَانِ ﴾\nبَلاَئِي عِنايَتي، ظاهِرُهُ نارٌ وَنِقْمَةٌ وَباطِنُهُ نُورٌ وَرَحْمَةٌ. فاسْتَبِقْ إِلَيْهِ لِتَكُونَ نُورًا أَزَلِيًّا وَرُوحًا قِدَمِيًّا، وَهُوَ أَمْري فَاعْرِفْهُ.",
   "translation": "(51) O SON OF MAN!\nMy calamity is My providence, outwardly it is fire and vengeance, but inwardly it is light and mercy. Hasten thereunto that thou mayest become an eternal light and an immortal spirit. This is My command unto thee, do thou observe it.",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "calamity-providence-light-mercy",
+  "alignment": [
+    {
+      "ar": "يَا",
+      "en": "O"
+    },
+    {
+      "ar": "ابْنَ",
+      "en": "SON"
+    },
+    {
+      "ar": "الإِنْسَانِ",
+      "en": "MAN"
+    },
+    {
+      "ar": "بَلاَئِي",
+      "en": "My calamity"
+    },
+    {
+      "ar": "عِنايَتي",
+      "en": "My providence"
+    },
+    {
+      "ar": "ظاهِرُهُ",
+      "en": "outwardly it"
+    },
+    {
+      "ar": "نارٌ",
+      "en": "fire"
+    },
+    {
+      "ar": "وَنِقْمَةٌ",
+      "en": "vengeance"
+    },
+    {
+      "ar": "باطِنُهُ",
+      "en": "inwardly it"
+    },
+    {
+      "ar": "نُورٌ",
+      "en": "light"
+    },
+    {
+      "ar": "وَرَحْمَةٌ",
+      "en": "mercy"
+    },
+    {
+      "ar": "فاسْتَبِقْ",
+      "en": "Hasten"
+    },
+    {
+      "ar": "إِلَيْهِ",
+      "en": "thereunto"
+    },
+    {
+      "ar": "لِتَكُونَ",
+      "en": "that thou mayest become"
+    },
+    {
+      "ar": "وَرُوحًا",
+      "en": "spirit"
+    },
+    {
+      "ar": "أَمْري",
+      "en": "My command"
+    },
+    {
+      "ar": "فَاعْرِفْهُ",
+      "en": "observe it"
+    }
+  ],
+  "terms": [
+    {
+      "term": "بَلاَئِي",
+      "transliteration": "b-l-ā",
+      "literal": "trial; affliction; tribulation; testing",
+      "se_rendering": "calamity",
+      "note": "Root b-l-ā typically renders as 'trials', 'afflictions', 'tribulation' across 28 occurrences. 'Calamity' here is lexically distinct yet semantically aligned with trial-language.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 6,
+          "snippet": "indignities heaped upon"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 283,
+          "snippet": "afflictions"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 35,
+          "snippet": "in my woes"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 4,
+          "snippet": "trials"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 89,
+          "snippet": "tribulations"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 137,
+          "snippet": "Troubles"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 25,
+          "snippet": "tribulation"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 49,
+          "snippet": "cup of woe"
+        }
+      ]
+    },
+    {
+      "term": "عِنايَتي",
+      "transliteration": "ʿ-n-y",
+      "literal": "bounty; loving-kindness; grace; divine care; attention",
+      "se_rendering": "providence",
+      "note": "Root ʿ-n-y typically appears as 'grace', 'loving-kindness', 'bounty' across 8 occurrences. 'Providence' is unique — the only rendering that conveys divine governance and careful orchestration of events.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 652,
+          "snippet": "Tree of My grace"
+        },
+        {
+          "work": "gleanings",
+          "para": 169,
+          "snippet": "loving-kindness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 27,
+          "snippet": "breeze of My loving-kindness"
+        },
+        {
+          "work": "gleanings",
+          "para": 12,
+          "snippet": "Daystar of His loving-kindness"
+        },
+        {
+          "work": "gleanings",
+          "para": 108,
+          "snippet": "Daystar of Divine bounty"
+        },
+        {
+          "work": "gleanings",
+          "para": 680,
+          "snippet": "sanctified waters of My grace"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 4,
+          "snippet": "arms of grace"
+        }
+      ]
+    },
+    {
+      "term": "ظاهِرُهُ",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "outwardly",
+      "note": "Root z-h-r typically renders 'Manifestation', 'manifestation', 'evident' across 96 occurrences. 'Outwardly' here emphasizes outer appearance rather than ontological disclosure, a philosophical shift.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 53,
+          "snippet": "Manifestation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 160,
+          "snippet": "Author of all Manifestations"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 136,
+          "snippet": "evident"
+        },
+        {
+          "work": "gleanings",
+          "para": 222,
+          "snippet": "material"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 206,
+          "snippet": "appeared"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 196,
+          "snippet": "Manifestations of God"
+        }
+      ]
+    },
+    {
+      "term": "نارٌ",
+      "transliteration": "n-w-r",
+      "literal": "light; illumination",
+      "se_rendering": "fire",
+      "note": "Root n-w-r typically renders 'light', 'Orb of Light', 'Illumine' across 78 occurrences. Here 'fire' invokes the radically different semantic field of destruction — SE's only use of this root for punitive force.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 3,
+          "snippet": "light"
+        },
+        {
+          "work": "gleanings",
+          "para": 230,
+          "snippet": "Orb of Light"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 114,
+          "snippet": "with the light"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 109,
+          "snippet": "Thy light"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 246,
+          "snippet": "Illumine"
+        },
+        {
+          "work": "gleanings",
+          "para": 235,
+          "snippet": "glory"
+        },
+        {
+          "work": "gleanings",
+          "para": 597,
+          "snippet": "fire"
+        },
+        {
+          "work": "gleanings",
+          "para": 458,
+          "snippet": "fire of God"
+        }
+      ]
+    },
+    {
+      "term": "وَباطِنُهُ",
+      "transliteration": "b-ṭ-n",
+      "literal": "inner; hidden; inward; esoteric",
+      "se_rendering": "inwardly",
+      "note": "Root b-ṭ-n typically renders 'concealment', 'inner', 'spiritual' across 13 occurrences. 'Inwardly' is consistent with inner-dimension language but pairs uniquely with 'light and mercy' for esoteric revelation.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 602,
+          "snippet": "Concealment"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 23,
+          "snippet": "inwardly"
+        },
+        {
+          "work": "gleanings",
+          "para": 362,
+          "snippet": "inner life"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 132,
+          "snippet": "spiritual"
+        },
+        {
+          "work": "gleanings",
+          "para": 405,
+          "snippet": "smirched and mired"
+        },
+        {
+          "work": "gleanings",
+          "para": 493,
+          "snippet": "be"
+        },
+        {
+          "work": "gleanings",
+          "para": 248,
+          "snippet": "wombs"
+        },
+        {
+          "work": "gleanings",
+          "para": 521,
+          "snippet": "bosom"
+        }
+      ]
+    },
+    {
+      "term": "أَمْري",
+      "transliteration": "ʾ-m-r",
+      "literal": "command; cause; matter; affair",
+      "se_rendering": "command",
+      "note": "Root ʾ-m-r typically renders 'Cause', 'Revelation', 'His command' across 75 occurrences. 'Command' here emphasizes imperative authority and obedience over the metaphysical resonance of 'Cause'.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "His Cause"
+        },
+        {
+          "work": "gleanings",
+          "para": 586,
+          "snippet": "His command"
+        },
+        {
+          "work": "gleanings",
+          "para": 691,
+          "snippet": "His Revelation"
+        },
+        {
+          "work": "gleanings",
+          "para": 723,
+          "snippet": "Cause"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 797,
+          "snippet": "Thy Cause"
+        },
+        {
+          "work": "gleanings",
+          "para": 8,
+          "snippet": "Revelation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 597,
+          "snippet": "service"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 167,
+          "snippet": "things"
+        }
+      ]
+    },
+    {
+      "term": "فاعْرِفْهُ",
+      "transliteration": "ʿ-r-f",
+      "literal": "to confess; to acknowledge; to recognize",
+      "se_rendering": "observe",
+      "note": "Root ʿ-r-f typically renders 'testifieth', 'acknowledged', 'recognized' across 82 occurrences. 'Observe' is singular — deviates toward behavioral compliance rather than epistemic recognition or confession.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 601,
+          "snippet": "testifieth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 729,
+          "snippet": "hath acknowledged"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 582,
+          "snippet": "have recognized"
+        },
+        {
+          "work": "gleanings",
+          "para": 568,
+          "snippet": "acknowledged"
+        },
+        {
+          "work": "gleanings",
+          "para": 295,
+          "snippet": "made objections"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 744,
+          "snippet": "understanding"
+        },
+        {
+          "work": "gleanings",
+          "para": 87,
+          "snippet": "knowledge"
+        },
+        {
+          "work": "gleanings",
+          "para": 2,
+          "snippet": "perception"
+        }
+      ]
+    }
+  ],
+  "section_index": "103",
+  "section": "103",
+  "section_para": 1
 }

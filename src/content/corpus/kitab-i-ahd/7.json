@@ -1,10 +1,384 @@
 {
   "work": "Kitab-i-'Ahd",
   "slug": "kitab-i-ahd",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 7,
   "source_text": "نزاع و جدال را نهی فرمود نهيا عظيما فی الکتاب * هذا أمر اللّه فی هذا الظّهور الأعظم و عصمه من حکم المحو و زيّنه بطراز الإثبات إنّه هو العليم الحکيم *",
   "translation": "Conflict and contention are categorically forbidden in His Book. This is a decree of God in this Most Great Revelation. It is divinely preserved from annulment and is invested by Him with the splendour of His confirmation. Verily He is the All-Knowing, the All-Wise.",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "conflict-contention-forbidden",
+  "alignment": [
+    {
+      "ar": "نزاع",
+      "en": "Conflict"
+    },
+    {
+      "ar": "جدال",
+      "en": "contention"
+    },
+    {
+      "ar": "نهی فرمود",
+      "en": "forbidden"
+    },
+    {
+      "ar": "نهيا عظيما",
+      "en": "categorically"
+    },
+    {
+      "ar": "الکتاب",
+      "en": "His Book"
+    },
+    {
+      "ar": "هذا",
+      "en": "This"
+    },
+    {
+      "ar": "أمر",
+      "en": "decree"
+    },
+    {
+      "ar": "اللّه",
+      "en": "God"
+    },
+    {
+      "ar": "الظّهور الأعظم",
+      "en": "Most Great Revelation"
+    },
+    {
+      "ar": "عصمه",
+      "en": "preserved"
+    },
+    {
+      "ar": "المحو",
+      "en": "annulment"
+    },
+    {
+      "ar": "زيّنه",
+      "en": "invested"
+    },
+    {
+      "ar": "طراز",
+      "en": "splendour"
+    },
+    {
+      "ar": "الإثبات",
+      "en": "confirmation"
+    },
+    {
+      "ar": "إنّه",
+      "en": "Verily He"
+    },
+    {
+      "ar": "العليم",
+      "en": "All-Knowing"
+    },
+    {
+      "ar": "الحکيم",
+      "en": "All-Wise"
+    }
+  ],
+  "terms": [
+    {
+      "term": "نزاع",
+      "transliteration": "n-z-ʿ",
+      "literal": "to pull out; to deprive; to contest; to wrench away",
+      "se_rendering": "Conflict",
+      "note": "Typically 'conflict' or 'contention' (10 occurrences). Here paired with جدال as opening emphasis on discord, establishing the passage's central prohibition.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 23,
+          "snippet": "conflict"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 19,
+          "snippet": "religious dissension and strife"
+        },
+        {
+          "work": "gleanings",
+          "para": 16,
+          "snippet": "conflict and contention"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 61,
+          "snippet": "contention and conflict"
+        }
+      ]
+    },
+    {
+      "term": "جدال",
+      "transliteration": "j-d-l",
+      "literal": "to argue; to dispute; to contend; argument",
+      "se_rendering": "contention",
+      "note": "Normally 'contention' or 'disputation' (13 occurrences). Rendered 'contention' in parallel construction, reinforcing نزاع rather than distinguishing shades of argument.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 23,
+          "snippet": "contention"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 19,
+          "snippet": "dissension"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 196,
+          "snippet": "disputation"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 61,
+          "snippet": "contention and disputation"
+        }
+      ]
+    },
+    {
+      "term": "نهی",
+      "transliteration": "n-h-y",
+      "literal": "end, limit, utmost, extreme; final",
+      "se_rendering": "forbidden",
+      "note": "Root primarily means 'end/limit' but data shows 'forbidden' as frequent SE rendering (17 occurrences). Here 'forbidden' correctly captures the prohibitive force despite etymological distance.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 138,
+          "snippet": "shameful circumstances"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 57,
+          "snippet": "greatest care"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 28,
+          "snippet": "utmost"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 205,
+          "snippet": "forbid"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 52,
+          "snippet": "with the utmost"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 45,
+          "snippet": "forbidden"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 65,
+          "snippet": "forbidden what is wrong"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 68,
+          "snippet": "Lote-Tree beyond which there is no passing"
+        }
+      ]
+    },
+    {
+      "term": "امر",
+      "transliteration": "ʾ-m-r",
+      "literal": "command; cause; matter; affair",
+      "se_rendering": "decree",
+      "note": "Typically 'Cause' or 'command' across 75 occurrences. 'Decree' here reflects divine authority specifically, emphasizing legislative power over causative sense.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "His Cause"
+        },
+        {
+          "work": "gleanings",
+          "para": 586,
+          "snippet": "His command"
+        },
+        {
+          "work": "gleanings",
+          "para": 691,
+          "snippet": "His Revelation"
+        },
+        {
+          "work": "gleanings",
+          "para": 723,
+          "snippet": "Cause"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 797,
+          "snippet": "Thy Cause"
+        },
+        {
+          "work": "gleanings",
+          "para": 8,
+          "snippet": "Revelation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 597,
+          "snippet": "service"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 167,
+          "snippet": "things"
+        }
+      ]
+    },
+    {
+      "term": "عصمه",
+      "transliteration": "ʿ-ṣ-m",
+      "literal": "immaculate; protected; infallible",
+      "se_rendering": "divinely preserved",
+      "note": "Usually 'protection' or 'immaculate' (10 occurrences). 'Divinely preserved' here is interpretive expansion, converting passive protection into active divine safeguarding.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 2,
+          "snippet": "immaculate"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 17,
+          "snippet": "protection"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 568,
+          "snippet": "unerring protection"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 609,
+          "snippet": "tabernacle of Thy chastity"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 856,
+          "snippet": "Thy protection"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 256,
+          "snippet": "the protection"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 40,
+          "snippet": "to be pure"
+        }
+      ]
+    },
+    {
+      "term": "حکم",
+      "transliteration": "h-k-m",
+      "literal": "government; rule; governance; wisdom",
+      "se_rendering": "annulment",
+      "note": "Root spans 'rule/government/wisdom' (69 occurrences). 'Annulment' is unique rendering—likely read here as governance/dominion of negation (المحو), not sovereignty.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "government"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 849,
+          "snippet": "signs of Thy sovereignty"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 160,
+          "snippet": "meaning of return"
+        },
+        {
+          "work": "gleanings",
+          "para": 224,
+          "snippet": "mysteries"
+        },
+        {
+          "work": "gleanings",
+          "para": 636,
+          "snippet": "rule of the sword"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 182,
+          "snippet": "mystery of the former verse"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 129,
+          "snippet": "perspicuous verses"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 46,
+          "snippet": "conclusive"
+        }
+      ]
+    },
+    {
+      "term": "الإثبات",
+      "transliteration": "th-b-t",
+      "literal": "firm; steadfast; established; fixed",
+      "se_rendering": "confirmation",
+      "note": "Root عصم consistently pairs with 'steadfast/firm' (37 occ.). 'Confirmation' is theological interpretation rather than literal rendering, emphasizing affirmative divine will.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 5,
+          "snippet": "firm"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 13,
+          "snippet": "fast"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 9,
+          "snippet": "steadfastly"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 784,
+          "snippet": "steadfast"
+        },
+        {
+          "work": "gleanings",
+          "para": 710,
+          "snippet": "remain steadfast"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 53,
+          "snippet": "constancy"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 27,
+          "snippet": "establishment"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 195,
+          "snippet": "fully demonstrated"
+        }
+      ]
+    }
+  ],
+  "section_index": "7",
+  "section": "7",
+  "section_para": 1
 }

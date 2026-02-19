@@ -1,10 +1,197 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 330,
   "source_text": "تقلید و تقیید و تحدید بوده و خواهند بود توحید آن است که یک را یک دانند و مقدّس از اعداد شمرند نه آنکه دو",
   "translation": "He is a true believer in Divine unity who, far from confusing duality with oneness, refuseth to allow any notion of multiplicity to becloud his conception of the singleness of God, who will regard the Divine Being as One Who, by His very nature, transcendeth the limitations of numbers.",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "true-believer-divine-unity",
+  "alignment": [
+    {
+      "ar": "تقلید",
+      "en": "confusing duality with oneness"
+    },
+    {
+      "ar": "تقیید",
+      "en": "limitations"
+    },
+    {
+      "ar": "تحدید",
+      "en": "transcendeth"
+    },
+    {
+      "ar": "بوده",
+      "en": "by His very nature"
+    },
+    {
+      "ar": "توحید",
+      "en": "unity"
+    },
+    {
+      "ar": "یک",
+      "en": "One"
+    },
+    {
+      "ar": "یک",
+      "en": "oneness"
+    },
+    {
+      "ar": "دانند",
+      "en": "regard"
+    },
+    {
+      "ar": "اعداد",
+      "en": "numbers"
+    },
+    {
+      "ar": "شمرند",
+      "en": "multiplicity"
+    },
+    {
+      "ar": "دو",
+      "en": "duality"
+    }
+  ],
+  "terms": [
+    {
+      "term": "تقیید",
+      "transliteration": "q-y-d",
+      "literal": "restriction; confinement; limitation",
+      "se_rendering": "limitations",
+      "note": "Only occurrence of this root in concordance data; SE selects 'limitations' from standard rendering pattern to denote numerical confinement specifically.",
+      "cross_refs": []
+    },
+    {
+      "term": "توحید",
+      "transliteration": "w-h-d",
+      "literal": "Divine unity; monotheism; belief in the oneness of God",
+      "se_rendering": "Divine unity",
+      "note": "Standard rendering 'Divine unity' appears 56 times in corpus; here SE pairs with 'true believer' to frame tawhid as epistemological conviction rather than doctrinal statement.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 69,
+          "snippet": "Tawhid"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 167,
+          "snippet": "one"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 682,
+          "snippet": "once"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 49,
+          "snippet": "alone"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 647,
+          "snippet": "Thy unity"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 285,
+          "snippet": "Thy oneness"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 249,
+          "snippet": "unique"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 1,
+          "snippet": "the One"
+        }
+      ]
+    },
+    {
+      "term": "مقدّس",
+      "transliteration": "q-d-s",
+      "literal": "holy, sacred, sanctified",
+      "se_rendering": "Divine Being",
+      "note": "Corpus shows 'sacred' and 'holy' as primary renderings (47 occurrences); here SE elevates to 'Divine Being'—grammatical transformation reflecting theological emphasis on God's transcendence.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 2,
+          "snippet": "Sacred"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 81,
+          "snippet": "hallowed"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 35,
+          "snippet": "spirit of holiness"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 448,
+          "snippet": "Sanctuary"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 13,
+          "snippet": "Holy Mariner"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 6,
+          "snippet": "sacred strand"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 26,
+          "snippet": "Celestial Concourse"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 189,
+          "snippet": "Most Holy"
+        }
+      ]
+    },
+    {
+      "term": "شمرند",
+      "transliteration": "sh-m-r",
+      "literal": "to count; to regard; to esteem; to consider",
+      "se_rendering": "regard",
+      "note": "Typical corpus pattern: 'regarded', 'consider'; SE employs 'regard' twice in single sentence for rhetorical parallelism emphasizing contemplative act.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 214,
+          "snippet": "regard backbiting as grievous error"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 14,
+          "snippet": "of utmost importance"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 52,
+          "snippet": "profiting by"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 252,
+          "snippet": "regarded"
+        }
+      ]
+    }
+  ],
+  "section_index": "LXXXIV.3",
+  "section": "LXXXIV",
+  "section_para": 3
 }

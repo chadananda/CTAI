@@ -1,10 +1,620 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 176,
   "source_text": "علی کلّ شیء قدیر الحمد للّه حقّ جلّ جلاله بمفتاح قلم اعلی ابواب افئده و قلوب را گشوده و هر آیه‌ئی از آیات منزله بابیست مبین از برای ظهور اخلاق روحانیّه و اعمال مقدّسه این ندا و این ذکر مخصوص مملکتی و یا مدینه‌ئی نبوده و نیست باید اهل عالم طرّاً بآنچه نازل شده و ظاهر گشته تمسّک نمایند تا بآزادی حقیقی فائز شوند گیتی بانوار نیّر ظهور منوّر چه که در سنهٴ ستّین حضرت مبشّر روح ما سواه فداه بروح جدید بشارت داد و در سنهٴ ثمانین عالم بنور جدید و روح بدیع فائز گشت حال اکثر اهل بلاد مستعدّند از برای اصغاء کلمهٴ علیا که بعث و حشر کلّ بآن منوط و معلّق است....",
   "translation": "All praise be to the one true God — exalted be His glory — inasmuch as He hath, through the Pen of the Most High, unlocked the doors of men’s hearts. Every verse which this Pen hath revealed is a bright and shining portal that discloseth the glories of a saintly and pious life, of pure and stainless deeds. The summons and the message which We gave were never intended to reach or to benefit one land or one people only. Mankind in its entirety must firmly adhere to whatsoever hath been revealed and vouchsafed unto it. Then and only then will it attain unto true liberty. The whole earth is illuminated with the resplendent glory of God’s Revelation. In the year sixty He Who heralded the light of Divine Guidance — may all creation be a sacrifice unto Him — arose to announce a fresh revelation of the Divine Spirit, and was followed, twenty years later, by Him through Whose coming the world was made the recipient of this promised glory, this wondrous favor. Behold how the generality of mankind hath been endued with the capacity to hearken unto God’s most exalted Word — the Word upon which must depend the gathering together and spiritual resurrection of all men.…",
   "source_lang": "ar",
-  "score": 9.7
+  "score": 9.7,
+  "page_slug": "doors-hearts-unlocked-revelation",
+  "alignment": [
+    {
+      "ar": "علی",
+      "en": "All"
+    },
+    {
+      "ar": "کلّ",
+      "en": "all"
+    },
+    {
+      "ar": "شیء",
+      "en": "creation"
+    },
+    {
+      "ar": "قدیر",
+      "en": "true God"
+    },
+    {
+      "ar": "الحمد",
+      "en": "praise"
+    },
+    {
+      "ar": "للّه",
+      "en": "God"
+    },
+    {
+      "ar": "حقّ",
+      "en": "one true"
+    },
+    {
+      "ar": "جلّ",
+      "en": "exalted"
+    },
+    {
+      "ar": "جلاله",
+      "en": "His glory"
+    },
+    {
+      "ar": "بمفتاح",
+      "en": "unlocked"
+    },
+    {
+      "ar": "قلم",
+      "en": "Pen"
+    },
+    {
+      "ar": "اعلی",
+      "en": "the Most High"
+    },
+    {
+      "ar": "ابواب",
+      "en": "the doors"
+    },
+    {
+      "ar": "افئده",
+      "en": "hearts"
+    },
+    {
+      "ar": "هر",
+      "en": "Every"
+    },
+    {
+      "ar": "آیه‌ئی",
+      "en": "verse"
+    },
+    {
+      "ar": "منزله",
+      "en": "revealed"
+    },
+    {
+      "ar": "بابیست",
+      "en": "portal"
+    },
+    {
+      "ar": "مبین",
+      "en": "bright and shining"
+    },
+    {
+      "ar": "ظهور",
+      "en": "discloseth"
+    },
+    {
+      "ar": "اخلاق",
+      "en": "life"
+    },
+    {
+      "ar": "روحانیّه",
+      "en": "saintly and pious"
+    },
+    {
+      "ar": "اعمال",
+      "en": "deeds"
+    },
+    {
+      "ar": "مقدّسه",
+      "en": "pure and stainless"
+    },
+    {
+      "ar": "ندا",
+      "en": "summons"
+    },
+    {
+      "ar": "ذکر",
+      "en": "message"
+    },
+    {
+      "ar": "مخصوص",
+      "en": "intended"
+    },
+    {
+      "ar": "مملکتی",
+      "en": "one land"
+    },
+    {
+      "ar": "مدینه‌ئی",
+      "en": "one people"
+    },
+    {
+      "ar": "نبوده",
+      "en": "never"
+    },
+    {
+      "ar": "نیست",
+      "en": "only"
+    },
+    {
+      "ar": "باید",
+      "en": "must"
+    },
+    {
+      "ar": "اهل",
+      "en": "Mankind"
+    },
+    {
+      "ar": "طرّاً",
+      "en": "in its entirety"
+    },
+    {
+      "ar": "بآنچه",
+      "en": "whatsoever"
+    },
+    {
+      "ar": "شده",
+      "en": "been"
+    },
+    {
+      "ar": "ظاهر",
+      "en": "vouchsafed"
+    },
+    {
+      "ar": "گشته",
+      "en": "unto it"
+    },
+    {
+      "ar": "تمسّک",
+      "en": "firmly adhere"
+    },
+    {
+      "ar": "نمایند",
+      "en": "adhere"
+    },
+    {
+      "ar": "تا",
+      "en": "Then"
+    },
+    {
+      "ar": "بآزادی",
+      "en": "liberty"
+    },
+    {
+      "ar": "حقیقی",
+      "en": "true"
+    },
+    {
+      "ar": "فائز",
+      "en": "attain"
+    },
+    {
+      "ar": "شوند",
+      "en": "will"
+    },
+    {
+      "ar": "گیتی",
+      "en": "The whole earth"
+    },
+    {
+      "ar": "بانوار",
+      "en": "illuminated"
+    },
+    {
+      "ar": "نیّر",
+      "en": "resplendent glory"
+    },
+    {
+      "ar": "منوّر",
+      "en": "Revelation"
+    },
+    {
+      "ar": "در",
+      "en": "In"
+    },
+    {
+      "ar": "سنهٴ",
+      "en": "the year"
+    },
+    {
+      "ar": "ستّین",
+      "en": "sixty"
+    },
+    {
+      "ar": "حضرت",
+      "en": "He"
+    },
+    {
+      "ar": "مبشّر",
+      "en": "heralded"
+    },
+    {
+      "ar": "روح",
+      "en": "light"
+    },
+    {
+      "ar": "سواه",
+      "en": "unto Him"
+    },
+    {
+      "ar": "فداه",
+      "en": "sacrifice"
+    },
+    {
+      "ar": "بروح",
+      "en": "Spirit"
+    },
+    {
+      "ar": "جدید",
+      "en": "fresh"
+    },
+    {
+      "ar": "بشارت",
+      "en": "announce"
+    },
+    {
+      "ar": "داد",
+      "en": "arose"
+    },
+    {
+      "ar": "سنهٴ",
+      "en": "years"
+    },
+    {
+      "ar": "ثمانین",
+      "en": "twenty"
+    },
+    {
+      "ar": "بنور",
+      "en": "glory"
+    },
+    {
+      "ar": "بدیع",
+      "en": "wondrous"
+    },
+    {
+      "ar": "حال",
+      "en": "Behold"
+    },
+    {
+      "ar": "اکثر",
+      "en": "the generality"
+    },
+    {
+      "ar": "بلاد",
+      "en": "mankind"
+    },
+    {
+      "ar": "مستعدّند",
+      "en": "endued with the capacity"
+    },
+    {
+      "ar": "اصغاء",
+      "en": "hearken"
+    },
+    {
+      "ar": "کلمهٴ",
+      "en": "Word"
+    },
+    {
+      "ar": "علیا",
+      "en": "most exalted"
+    },
+    {
+      "ar": "که",
+      "en": "which"
+    },
+    {
+      "ar": "بعث",
+      "en": "gathering together"
+    },
+    {
+      "ar": "حشر",
+      "en": "spiritual resurrection"
+    },
+    {
+      "ar": "بآن",
+      "en": "upon which"
+    },
+    {
+      "ar": "منوط",
+      "en": "depend"
+    }
+  ],
+  "terms": [
+    {
+      "term": "منزله",
+      "transliteration": "n-z-l",
+      "literal": "to descend, to be revealed",
+      "se_rendering": "revealed",
+      "note": "Standard pattern: 'revealed' or 'sent down' (88 occ.). Consistent here as 'revealed' — marks the descent of divine knowledge through the Pen, central to this passage's theology.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 188,
+          "snippet": "revealed"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 175,
+          "snippet": "didst send down"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 835,
+          "snippet": "sent down"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 34,
+          "snippet": "Descend"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 47,
+          "snippet": "pour forth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 330,
+          "snippet": "send down"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 40,
+          "snippet": "were revealed"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 16,
+          "snippet": "hath been sent down"
+        }
+      ]
+    },
+    {
+      "term": "ظهور",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "Revelation",
+      "note": "Typically 'Manifestation' (96 occ.). Here rendered 'Revelation' — notably the only occurrence where the root denotes the event/phenomenon itself rather than the person of the Manifestation.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 140,
+          "snippet": "manifestation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 160,
+          "snippet": "Author of all Manifestations"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 136,
+          "snippet": "evident"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 206,
+          "snippet": "appeared"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 196,
+          "snippet": "Manifestations of God"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 255,
+          "snippet": "Manifestations"
+        }
+      ]
+    },
+    {
+      "term": "اخلاق",
+      "transliteration": "kh-l-q",
+      "literal": "character; moral traits; disposition; conduct",
+      "se_rendering": "character",
+      "note": "Most common as 'character' (49 occ.). Here 'character' in singular — focuses on the spiritual disposition disclosed by each verse, not plural 'virtues' or 'characteristics'.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 28,
+          "snippet": "character"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 50,
+          "snippet": "spiritual characteristics"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 195,
+          "snippet": "virtues"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 54,
+          "snippet": "created her"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 231,
+          "snippet": "His creatures"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 139,
+          "snippet": "His creation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 343,
+          "snippet": "Thy creatures"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 40,
+          "snippet": "wert created"
+        }
+      ]
+    },
+    {
+      "term": "حقیقی",
+      "transliteration": "h-q-q",
+      "literal": "truth; right; that which is true or just",
+      "se_rendering": "true",
+      "note": "Typically substantival: 'the Truth', 'the True One' (43 occ.). Here adjectival 'true liberty' — rare usage emphasizing authentic freedom as opposed to illusory autonomy.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 238,
+          "snippet": "the True One"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 52,
+          "snippet": "Sun of Truth"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 103,
+          "snippet": "Luminaries of Truth"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 113,
+          "snippet": "was realized"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 215,
+          "snippet": "realization"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 9,
+          "snippet": "evident"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "betrayal of truth"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 195,
+          "snippet": "incontrovertible"
+        }
+      ]
+    },
+    {
+      "term": "بانوار",
+      "transliteration": "n-w-r",
+      "literal": "light; illumination",
+      "se_rendering": "resplendent glory",
+      "note": "Standard 'light' or 'with the light' (78 occ.). Here 'resplendent glory' — unique expansion that amplifies the noun with an adjective, elevating visual splendor into cosmic magnificence.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 3,
+          "snippet": "light"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 114,
+          "snippet": "with the light"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 109,
+          "snippet": "Thy light"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 246,
+          "snippet": "Illumine"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 180,
+          "snippet": "fire"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 10,
+          "snippet": "flame of fire"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 39,
+          "snippet": "lights"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 312,
+          "snippet": "splendors"
+        }
+      ]
+    },
+    {
+      "term": "بدیع",
+      "transliteration": "b-d-ʿ",
+      "literal": "to create; most wondrous; excel",
+      "se_rendering": "wondrous",
+      "note": "Typically 'most wondrous' or as proper name 'Badí'u'lláh' (21 occ.). Here 'wondrous favor' — adjectival application modifying divine gift, emphasizing unprecedented excellence of this manifestation.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 2,
+          "snippet": "most wondrous"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 65,
+          "snippet": "creation"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 6,
+          "snippet": "Badí'u'lláh"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 9,
+          "snippet": "horizon of creation"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 191,
+          "snippet": "the eye of the universe"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 4,
+          "snippet": "Mighty, the Wondrous"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 315,
+          "snippet": "kingdoms of creation"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 202,
+          "snippet": "new"
+        }
+      ]
+    }
+  ],
+  "section_index": "XLIII.8",
+  "section": "XLIII",
+  "section_para": 8
 }

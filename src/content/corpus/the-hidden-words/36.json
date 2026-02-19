@@ -1,10 +1,269 @@
 {
   "work": "The Hidden Words",
   "slug": "the-hidden-words",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 36,
   "source_text": "(٣٥) ﴿ يَا ابْنَ الإِنْسانِ ﴾\nلَا تَحْزَنْ إِلاّ فِي بُعْدِكَ عَنَّا، وَلا تَفْرَحْ إِلاّ فِي قُرْبِكَ بِنا وَالرُّجُوعِ إِلَيْنا.",
   "translation": "(35) O SON OF MAN!\nSorrow not save that thou art far from Us. Rejoice not save that thou art drawing near and returning unto Us.",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "sorrow-far-rejoice-near",
+  "alignment": [
+    {
+      "ar": "يَا",
+      "en": "O"
+    },
+    {
+      "ar": "ابْنَ",
+      "en": "SON"
+    },
+    {
+      "ar": "الإِنْسانِ",
+      "en": "MAN"
+    },
+    {
+      "ar": "لَا تَحْزَنْ",
+      "en": "Sorrow not"
+    },
+    {
+      "ar": "إِلاّ",
+      "en": "save"
+    },
+    {
+      "ar": "بُعْدِكَ",
+      "en": "far"
+    },
+    {
+      "ar": "لا تَفْرَحْ",
+      "en": "Rejoice not"
+    },
+    {
+      "ar": "قُرْبِكَ",
+      "en": "drawing near"
+    },
+    {
+      "ar": "بِنا",
+      "en": "unto Us"
+    }
+  ],
+  "terms": [
+    {
+      "term": "تَحْزَنْ",
+      "transliteration": "h-z-n",
+      "literal": "sorrow; grief; sadness; anguish",
+      "se_rendering": "Sorrow not",
+      "note": "Consistent with primary pattern; 'Sorrow not' maintains SE's imperative construction across 23 occurrences.",
+      "cross_refs": [
+        {
+          "work": "fire-tablet",
+          "para": 12,
+          "snippet": "Sorrows"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 57,
+          "snippet": "sorrow"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 35,
+          "snippet": "Grieve Thou not"
+        },
+        {
+          "work": "gleanings",
+          "para": 207,
+          "snippet": "Let nothing grieve thee"
+        },
+        {
+          "work": "gleanings",
+          "para": 216,
+          "snippet": "Grieve not"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 11,
+          "snippet": "affliction"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 16,
+          "snippet": "his sadness"
+        },
+        {
+          "work": "gleanings",
+          "para": 635,
+          "snippet": "sadden thee"
+        }
+      ]
+    },
+    {
+      "term": "بُعْدِكَ",
+      "transliteration": "b-ʿ-d",
+      "literal": "after; behind; distance",
+      "se_rendering": "far from",
+      "note": "Root b-ʿ-d typically rendered 'remoteness' or 'after Me'; here 'far from' captures relational distance rather than absolute separation.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 231,
+          "snippet": "after Me"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 18,
+          "snippet": "his successor"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 195,
+          "snippet": "remoteness"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 40,
+          "snippet": "avoid"
+        },
+        {
+          "work": "gleanings",
+          "para": 645,
+          "snippet": "to the hem of"
+        },
+        {
+          "work": "gleanings",
+          "para": 217,
+          "snippet": "by this House"
+        },
+        {
+          "work": "gleanings",
+          "para": 531,
+          "snippet": "this Revelation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 832,
+          "snippet": "have removed me"
+        }
+      ]
+    },
+    {
+      "term": "عَنَّا",
+      "transliteration": "ʿ-n",
+      "literal": "from; about; concerning; away from",
+      "se_rendering": "from Us",
+      "note": "Standard rendering 'from Us' aligns with 12 occurrences; maintains clarity of divine separation as source of sorrow.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 611,
+          "snippet": "from the veil"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 29,
+          "snippet": "from Us"
+        },
+        {
+          "work": "gleanings",
+          "para": 399,
+          "snippet": "My loving-kindness"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 343,
+          "snippet": "grace"
+        },
+        {
+          "work": "gleanings",
+          "para": 467,
+          "snippet": "about them"
+        },
+        {
+          "work": "gleanings",
+          "para": 579,
+          "snippet": "from whom"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 42,
+          "snippet": "from"
+        }
+      ]
+    },
+    {
+      "term": "تَفْرَحْ",
+      "transliteration": "b-h-j",
+      "literal": "joy; splendor; beauty; radiance; delight",
+      "se_rendering": "Rejoice not",
+      "note": "Root b-h-j normally yields 'cheer' or 'gladness'; 'Rejoice' inverts the negative command structure, creating deliberate parallel with tḥazzan.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 49,
+          "snippet": "cheer"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 213,
+          "snippet": "will exult"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 13,
+          "snippet": "gladness"
+        }
+      ]
+    },
+    {
+      "term": "قُرْبِكَ",
+      "transliteration": "q-r-b",
+      "literal": "place of sacrifice; altar",
+      "se_rendering": "drawing near",
+      "note": "Root q-r-b rendered 'drawing near' here; 44 occurrences show primary pattern 'draw near unto', but participial form stresses ongoing proximity.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 3,
+          "snippet": "unto the place of sacrifice"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 35,
+          "snippet": "my kindred"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 101,
+          "snippet": "draw near unto"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 430,
+          "snippet": "drawn nigh"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 98,
+          "snippet": "drawing near"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 245,
+          "snippet": "draweth near"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 163,
+          "snippet": "at hand"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 9,
+          "snippet": "well-nigh"
+        }
+      ]
+    }
+  ],
+  "section_index": "71",
+  "section": "71",
+  "section_para": 1
 }

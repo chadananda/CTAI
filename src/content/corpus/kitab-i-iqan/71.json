@@ -1,10 +1,545 @@
 {
   "work": "Kitab-i-Iqan",
   "slug": "kitab-i-iqan",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 71,
   "source_text": "و همچنين قبل از ظهور جمال محمّدی آثار سماء ظاهره ظاهر شد. و آثار باطنه که مردم  را در  ارض  بشارت می دادند به ظهور آن شمس هويّه چهار نفر بودند واحداً بعد واحد.  چنانچه روزبه که موسوم به سلمان شد به شرف خدمتشان مشرّف بود و زمان وفات هر يک می رسيد روزبه را نزد ديگری می فرستاد تا نوبت به چهارم رسيد و او در حين موت فرمود:  ای روزبه، بعد از تکفين و تدفين من برو به حجاز که شمس محمّدی اشراق می نمايد و بشارت باد تو را به لقای آن حضرت.",
   "translation": "Likewise, ere the beauty of Muhammad was unveiled, the signs of the visible heaven were made manifest. As to the signs of the invisible heaven, there appeared four men who successively announced unto the people the joyful tidings of the rise of that divine Luminary. Rúz-bih, later named Salmán, was honoured by being in their service. As the end of one of these approached, he would send Rúz-bih unto the other, until the fourth who, feeling his death to be nigh, addressed Rúz-bih saying: “O Rúz-bih! when thou hast taken up my body and buried it, go to Hijáz for there the Day-star of Muhammad will arise. Happy art thou, for thou shalt behold His face!”",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "daystar-muhammad-arise",
+  "alignment": [
+    {
+      "ar": "همچنين",
+      "en": "Likewise"
+    },
+    {
+      "ar": "قبل",
+      "en": "ere"
+    },
+    {
+      "ar": "ظهور",
+      "en": "was unveiled"
+    },
+    {
+      "ar": "جمال",
+      "en": "beauty"
+    },
+    {
+      "ar": "محمّدی",
+      "en": "Muhammad"
+    },
+    {
+      "ar": "آثار",
+      "en": "signs"
+    },
+    {
+      "ar": "سماء",
+      "en": "heaven"
+    },
+    {
+      "ar": "ظاهره",
+      "en": "visible"
+    },
+    {
+      "ar": "ظاهر شد",
+      "en": "were made manifest"
+    },
+    {
+      "ar": "باطنه",
+      "en": "invisible heaven"
+    },
+    {
+      "ar": "مردم",
+      "en": "people"
+    },
+    {
+      "ar": "ارض",
+      "en": ""
+    },
+    {
+      "ar": "بشارت می دادند",
+      "en": "announced unto the people the joyful tidings"
+    },
+    {
+      "ar": "ظهور",
+      "en": "rise"
+    },
+    {
+      "ar": "شمس",
+      "en": "Luminary"
+    },
+    {
+      "ar": "هويّه",
+      "en": "divine"
+    },
+    {
+      "ar": "چهار نفر",
+      "en": "four men"
+    },
+    {
+      "ar": "بودند",
+      "en": "there appeared"
+    },
+    {
+      "ar": "واحداً بعد واحد",
+      "en": "successively"
+    },
+    {
+      "ar": "روزبه",
+      "en": "Rúz-bih"
+    },
+    {
+      "ar": "موسوم",
+      "en": "named"
+    },
+    {
+      "ar": "سلمان",
+      "en": "Salmán"
+    },
+    {
+      "ar": "شرف",
+      "en": "honoured"
+    },
+    {
+      "ar": "خدمتشان",
+      "en": "their service"
+    },
+    {
+      "ar": "مشرّف بود",
+      "en": "being in"
+    },
+    {
+      "ar": "زمان",
+      "en": ""
+    },
+    {
+      "ar": "وفات",
+      "en": "end"
+    },
+    {
+      "ar": "هر يک",
+      "en": "one of these"
+    },
+    {
+      "ar": "می رسيد",
+      "en": "approached"
+    },
+    {
+      "ar": "نزد",
+      "en": "unto"
+    },
+    {
+      "ar": "ديگری",
+      "en": "other"
+    },
+    {
+      "ar": "می فرستاد",
+      "en": "would send"
+    },
+    {
+      "ar": "نوبت",
+      "en": ""
+    },
+    {
+      "ar": "چهارم",
+      "en": "fourth"
+    },
+    {
+      "ar": "رسيد",
+      "en": ""
+    },
+    {
+      "ar": "او",
+      "en": "who"
+    },
+    {
+      "ar": "حين",
+      "en": ""
+    },
+    {
+      "ar": "موت",
+      "en": "death"
+    },
+    {
+      "ar": "فرمود",
+      "en": "addressed"
+    },
+    {
+      "ar": "ای",
+      "en": "O"
+    },
+    {
+      "ar": "بعد از",
+      "en": "when"
+    },
+    {
+      "ar": "تدفين",
+      "en": "buried"
+    },
+    {
+      "ar": "من",
+      "en": "my"
+    },
+    {
+      "ar": "برو",
+      "en": "go"
+    },
+    {
+      "ar": "حجاز",
+      "en": "Hijáz"
+    },
+    {
+      "ar": "شمس",
+      "en": "Day-star"
+    },
+    {
+      "ar": "اشراق می نمايد",
+      "en": "will arise"
+    },
+    {
+      "ar": "بشارت باد",
+      "en": "Happy art"
+    },
+    {
+      "ar": "تو",
+      "en": "thou"
+    },
+    {
+      "ar": "لقای",
+      "en": "behold"
+    },
+    {
+      "ar": "آن حضرت",
+      "en": "His face"
+    }
+  ],
+  "terms": [
+    {
+      "term": "ظهور",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "unveiled",
+      "note": "Usually 'Manifestation' (96 occ). Here SE renders as 'unveiled' — a participle form emphasizing the dynamic act of revelation rather than the noun 'manifestation' itself.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 53,
+          "snippet": "Manifestation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 160,
+          "snippet": "Author of all Manifestations"
+        },
+        {
+          "work": "gleanings",
+          "para": 222,
+          "snippet": "material"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 206,
+          "snippet": "appeared"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 255,
+          "snippet": "Manifestations"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 791,
+          "snippet": "tokens of Thy handiwork"
+        }
+      ]
+    },
+    {
+      "term": "جمال",
+      "transliteration": "j-m-l",
+      "literal": "beauty; comeliness",
+      "se_rendering": "beauty",
+      "note": "Standard rendering 'Beauty' (38 occ). Here 'beauty' lowercase signals this refers to the historical revelation of Muhammad, not a divine attribute name.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 296,
+          "snippet": "Beauty"
+        },
+        {
+          "work": "gleanings",
+          "para": 183,
+          "snippet": "Ancient Beauty"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 193,
+          "snippet": "Among others"
+        },
+        {
+          "work": "gleanings",
+          "para": 359,
+          "snippet": "Amongst"
+        },
+        {
+          "work": "gleanings",
+          "para": 649,
+          "snippet": "by the beauty"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 88,
+          "snippet": "for a beauty"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 116,
+          "snippet": "by Thine Ancient Beauty"
+        },
+        {
+          "work": "gleanings",
+          "para": 165,
+          "snippet": "By My Beauty"
+        }
+      ]
+    },
+    {
+      "term": "آثار",
+      "transliteration": "ʾ-th-r",
+      "literal": "effect; trace; influence; imprint",
+      "se_rendering": "signs",
+      "note": "Rendered 'trace', 'reflection', or 'effect' (17 occ). 'Signs' here maintains concrete manifestational language parallel to 'آثار سماء' structure in the text.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 158,
+          "snippet": "trace"
+        },
+        {
+          "work": "gleanings",
+          "para": 383,
+          "snippet": "reflection"
+        },
+        {
+          "work": "gleanings",
+          "para": 377,
+          "snippet": "effect"
+        },
+        {
+          "work": "gleanings",
+          "para": 666,
+          "snippet": "prefer"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 30,
+          "snippet": "affected"
+        },
+        {
+          "work": "gleanings",
+          "para": 289,
+          "snippet": "signs"
+        },
+        {
+          "work": "gleanings",
+          "para": 321,
+          "snippet": "evidences"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 243,
+          "snippet": "writings"
+        }
+      ]
+    },
+    {
+      "term": "باطنه",
+      "transliteration": "b-ṭ-n",
+      "literal": "inner; hidden; inward; esoteric",
+      "se_rendering": "invisible",
+      "note": "Root typically yields 'Concealment', 'inner', or 'spiritual' (13 occ). 'Invisible' here is rare — an adjective form stressing ontological hiddenness versus ethical/mystical interiority.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 602,
+          "snippet": "Concealment"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 23,
+          "snippet": "inwardly"
+        },
+        {
+          "work": "gleanings",
+          "para": 362,
+          "snippet": "inner life"
+        },
+        {
+          "work": "gleanings",
+          "para": 405,
+          "snippet": "smirched and mired"
+        },
+        {
+          "work": "gleanings",
+          "para": 493,
+          "snippet": "be"
+        },
+        {
+          "work": "gleanings",
+          "para": 248,
+          "snippet": "wombs"
+        },
+        {
+          "work": "gleanings",
+          "para": 521,
+          "snippet": "bosom"
+        }
+      ]
+    },
+    {
+      "term": "شمس",
+      "transliteration": "sh-m-s",
+      "literal": "sun; daystar; manifestation of divine light",
+      "se_rendering": "Day-star",
+      "note": "Commonly 'Sun' or 'Daystar' (13 occ). 'Day-star' (hyphenated) in this passage emphasizes astronomical symbolism of guidance preceding Muhammad's prophetic sunrise.",
+      "cross_refs": [
+        {
+          "work": "fire-tablet",
+          "para": 43,
+          "snippet": "Sun"
+        },
+        {
+          "work": "gleanings",
+          "para": 93,
+          "snippet": "Orb"
+        },
+        {
+          "work": "gleanings",
+          "para": 292,
+          "snippet": "Daystar"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 234,
+          "snippet": "Sun-like Mirrors"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 715,
+          "snippet": "suns"
+        }
+      ]
+    },
+    {
+      "term": "اشراق",
+      "transliteration": "sh-r-q",
+      "literal": "radiance; splendor; dawn; illumination",
+      "se_rendering": "arise",
+      "note": "Typically 'radiance', 'revelation', or 'Ishraq' (63 occ). SE renders as 'arise' here — a verb choice that transforms an abstract noun into temporal emergence, unique to this context.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 47,
+          "snippet": "Ishraq"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 28,
+          "snippet": "radiance"
+        },
+        {
+          "work": "gleanings",
+          "para": 382,
+          "snippet": "revelation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 83,
+          "snippet": "Daystar"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 41,
+          "snippet": "dawning"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 116,
+          "snippet": "shone"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 2,
+          "snippet": "shining"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 14,
+          "snippet": "Dawning Place"
+        }
+      ]
+    },
+    {
+      "term": "لقای",
+      "transliteration": "l-q-y",
+      "literal": "opposite; facing; in front of; towards",
+      "se_rendering": "behold His face",
+      "note": "Ranges widely: 'in the face of', 'before', 'Divine Presence' (30 occ). 'Behold His face' combines root meaning of facing-toward with intimate visual encounter, a distinctly Christological flavor.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 337,
+          "snippet": "in the face of"
+        },
+        {
+          "work": "gleanings",
+          "para": 375,
+          "snippet": "before"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 171,
+          "snippet": "the Divine Presence"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 216,
+          "snippet": "the Judgment Day"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 154,
+          "snippet": "Recite"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 805,
+          "snippet": "hath attained unto Thy presence"
+        },
+        {
+          "work": "gleanings",
+          "para": 31,
+          "snippet": "hath attained unto His Presence"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 665,
+          "snippet": "behold the countenance"
+        }
+      ]
+    }
+  ],
+  "section_index": "71",
+  "section": "71",
+  "section_para": 1
 }

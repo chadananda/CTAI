@@ -1,10 +1,231 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 186,
   "source_text": "إلی الله العزیز الحمید ینبغي لأهل البهآء أن ینقطعوا عمّن علی الأرض کلّها علی",
   "translation": "My sorrows are for those who have involved themselves in their corrupt passions, and claim to be associated with the Faith of God, the Gracious, the All-Praised.",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "corrupt-passions-faith-of-god",
+  "alignment": [
+    {
+      "ar": "الله",
+      "en": "God"
+    },
+    {
+      "ar": "العزیز",
+      "en": "Gracious"
+    },
+    {
+      "ar": "الحمید",
+      "en": "All-Praised"
+    },
+    {
+      "ar": "ینبغي",
+      "en": "claim"
+    },
+    {
+      "ar": "لأهل",
+      "en": "associated"
+    },
+    {
+      "ar": "البهآء",
+      "en": "Faith"
+    },
+    {
+      "ar": "ینقطعوا",
+      "en": "involved"
+    }
+  ],
+  "terms": [
+    {
+      "term": "العزیز",
+      "transliteration": "ʿ-z-z",
+      "literal": "glory; might; honor; dignity; power; majesty",
+      "se_rendering": "Gracious",
+      "note": "Root ʿ-z-z typically renders as 'glory' or 'honor' (49 occurrences). 'Gracious' here deviates significantly, softening majesty toward compassion.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 245,
+          "snippet": "glory"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 491,
+          "snippet": "exalted"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 99,
+          "snippet": "Dear"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 38,
+          "snippet": "dearly beloved"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 37,
+          "snippet": "Gracious"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 162,
+          "snippet": "Mighty"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 789,
+          "snippet": "Thy glory"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 158,
+          "snippet": "on thy glory"
+        }
+      ]
+    },
+    {
+      "term": "الحمید",
+      "transliteration": "h-m-d",
+      "literal": "praise; to praise",
+      "se_rendering": "All-Praised",
+      "note": "Standard rendering 'All-Praised' or 'Praise be' across 25 occurrences. This instance preserves the epithet form, maintaining divine attribute structure.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "All praise"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 778,
+          "snippet": "Praise be"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 845,
+          "snippet": "Praise be to Thee"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 229,
+          "snippet": "Praised be Thou"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 564,
+          "snippet": "I yield Thee thanks"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 181,
+          "snippet": "Praiseworthy art Thou in Thy works"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 159,
+          "snippet": "glorious station"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 458,
+          "snippet": "most resplendent, Thine adorable, and ever-blest"
+        }
+      ]
+    },
+    {
+      "term": "ینبغي",
+      "transliteration": "n-b-gh",
+      "literal": "it is proper; it is fitting; it is necessary; it behooves",
+      "se_rendering": "sorrows are for",
+      "note": "Only 3 total occurrences in Jafar data: 'behooves' and 'is meet.' Here rendered as 'sorrows are for,' a radical departure suggesting SE read this as expressing emotional concern.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-ahd",
+          "para": 13,
+          "snippet": "is meet"
+        }
+      ]
+    },
+    {
+      "term": "البهاء",
+      "transliteration": "b-h-y",
+      "literal": "splendor; glory; magnificence; Bahá (Proper Name in Bahá'í texts)",
+      "se_rendering": "Faith of God",
+      "note": "Usually 'Bahá' (proper name) or 'Glory' in SE's corpus. Rendered here as 'Faith of God'—a interpretive expansion identifying the Bahá'í community itself.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 280,
+          "snippet": "Bahá"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 59,
+          "snippet": "Glory"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 51,
+          "snippet": "Abhá"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 271,
+          "snippet": "All-Glorious"
+        }
+      ]
+    },
+    {
+      "term": "الارض",
+      "transliteration": "ʾ-r-d",
+      "literal": "earth; land; ground; country",
+      "se_rendering": "corrupt passions",
+      "note": "Typically 'earth,' 'land,' or 'ground' (26 occurrences). Here rendered as 'corrupt passions'—a metaphorical rather than literal translation, substituting abstract vice for geographical reference.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 111,
+          "snippet": "Lord of Lords"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 575,
+          "snippet": "the earth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 489,
+          "snippet": "face of the earth"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 57,
+          "snippet": "land"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 53,
+          "snippet": "lands"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 743,
+          "snippet": "Thy earth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 43,
+          "snippet": "earth"
+        }
+      ]
+    }
+  ],
+  "section_index": "XLVI.3",
+  "section": "XLVI",
+  "section_para": 3
 }

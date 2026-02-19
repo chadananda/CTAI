@@ -1,10 +1,492 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 832,
   "source_text": "يَا إِلَهَ الْوُجُوْدِ وَمَالِكَ الْغَيْبِ وَالشُّهُوْدِ تَرَى عَبَرَاتِي وَزَفَرَاتِي وَتَسْمَعُ ضَجِيْجِي وَصَرِيْخِي وَحَنِينَ فُؤآدِي وَعِزَّتِكَ اجْتِرَاحَاتِي أَبْعَدَتْنِي عَنِ الْتَّقَرُّبِ إِلَيْكَ وَجَرِيرَاتِي مَنَعَتْنِي عَنِ الْوُرُوْدِ فِي سَاحَةِ قُدسِكَ. أَيْ رَبِّ حُبُّكَ أَضْنَانِي وَهَجْرُكَ أَهْلَكَنِي وَبُعْدُكَ أَحْرَقَنِي. أَسْأَلُكَ بِمَوْطِيءِ قَدَمَيْكَ فِي هَذَا الْبَيْدَاءِ وَبِلَبَّيْكَ لَبَّيْكَ أَصْفِيْائِكَ فِي هَذَا الْفَضَاءِ وَبِنَفَحَاتِ وَحْيِكَ وَنَسَمَاتِ فَجْرِ ظُهُوْرِكَ بِأَنْ تُقَدِّرَ لِيْ زِيَارَةَ جَمَالِكَ وَالْعَمَلَ بِمَا فِي كِتَابِكِ.",
   "translation": "O Lord of all being and Possessor of all things visible and invisible! Thou dost perceive my tears and the sighs I utter, and hearest my groaning, and my wailing, and the lamentation of my heart. By Thy might! My trespasses have kept me back from drawing nigh unto Thee; and my sins have held me far from the court of Thy holiness. Thy love, O my Lord, hath enriched me, and separation from Thee hath destroyed me, and remoteness from Thee hath consumed me. I entreat Thee by Thy footsteps in this wilderness, and by the words “Here am I. Here am I” which Thy chosen Ones have uttered in this immensity, and by the breaths of Thy Revelation, and the gentle winds of the Dawn of Thy Manifestation, to ordain that I may gaze on Thy beauty and observe whatsoever is in Thy Book.",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "trespasses-kept-back-drawing-nigh",
+  "alignment": [
+    {
+      "ar": "إِلَهَ",
+      "en": "Lord"
+    },
+    {
+      "ar": "الْوُجُوْدِ",
+      "en": "all being"
+    },
+    {
+      "ar": "مَالِكَ",
+      "en": "Possessor"
+    },
+    {
+      "ar": "الْغَيْبِ",
+      "en": "invisible"
+    },
+    {
+      "ar": "تَرَى",
+      "en": "perceive"
+    },
+    {
+      "ar": "عَبَرَاتِي",
+      "en": "my tears"
+    },
+    {
+      "ar": "زَفَرَاتِي",
+      "en": "the sighs I utter"
+    },
+    {
+      "ar": "تَسْمَعُ",
+      "en": "hearest"
+    },
+    {
+      "ar": "ضَجِيْجِي",
+      "en": "my groaning"
+    },
+    {
+      "ar": "صَرِيْخِي",
+      "en": "my wailing"
+    },
+    {
+      "ar": "حَنِينَ",
+      "en": "the lamentation"
+    },
+    {
+      "ar": "فُؤآدِي",
+      "en": "my heart"
+    },
+    {
+      "ar": "اجْتِرَاحَاتِي",
+      "en": "My trespasses"
+    },
+    {
+      "ar": "أَبْعَدَتْنِي",
+      "en": "have kept me back"
+    },
+    {
+      "ar": "إِلَيْكَ",
+      "en": "unto Thee"
+    },
+    {
+      "ar": "جَرِيرَاتِي",
+      "en": "my sins"
+    },
+    {
+      "ar": "مَنَعَتْنِي",
+      "en": "have held me far"
+    },
+    {
+      "ar": "الْوُرُوْدِ",
+      "en": "from"
+    },
+    {
+      "ar": "سَاحَةِ",
+      "en": "the court"
+    },
+    {
+      "ar": "قُدسِكَ",
+      "en": "Thy holiness"
+    },
+    {
+      "ar": "أَضْنَانِي",
+      "en": "hath enriched me"
+    },
+    {
+      "ar": "هَجْرُكَ",
+      "en": "separation from Thee"
+    },
+    {
+      "ar": "أَهْلَكَنِي",
+      "en": "hath destroyed me"
+    },
+    {
+      "ar": "بُعْدُكَ",
+      "en": "remoteness from Thee"
+    },
+    {
+      "ar": "أَحْرَقَنِي",
+      "en": "hath consumed me"
+    },
+    {
+      "ar": "أَسْأَلُكَ",
+      "en": "I entreat Thee"
+    },
+    {
+      "ar": "مَوْطِيءِ",
+      "en": "footsteps"
+    },
+    {
+      "ar": "قَدَمَيْكَ",
+      "en": "Thy"
+    },
+    {
+      "ar": "الْبَيْدَاءِ",
+      "en": "this wilderness"
+    },
+    {
+      "ar": "أَصْفِيْائِكَ",
+      "en": "Thy chosen Ones"
+    },
+    {
+      "ar": "الْفَضَاءِ",
+      "en": "this immensity"
+    },
+    {
+      "ar": "نَفَحَاتِ",
+      "en": "the breaths"
+    },
+    {
+      "ar": "وَحْيِكَ",
+      "en": "Thy Revelation"
+    },
+    {
+      "ar": "نَسَمَاتِ",
+      "en": "the gentle winds"
+    },
+    {
+      "ar": "فَجْرِ",
+      "en": "the Dawn"
+    },
+    {
+      "ar": "ظُهُوْرِكَ",
+      "en": "Thy Manifestation"
+    },
+    {
+      "ar": "زِيَارَةَ",
+      "en": "may gaze on"
+    },
+    {
+      "ar": "جَمَالِكَ",
+      "en": "Thy beauty"
+    },
+    {
+      "ar": "الْعَمَلَ",
+      "en": "observe"
+    }
+  ],
+  "terms": [
+    {
+      "term": "التَّقَرُّبِ",
+      "transliteration": "q-r-b",
+      "literal": "place of sacrifice; altar",
+      "se_rendering": "drawing nigh unto Thee",
+      "note": "Usually 'drawing near unto' or 'unto the place of sacrifice' across 44 occurrences. SE uses 'drawing nigh unto Thee'—'nigh' is archaic-devotional, echoing King James register and intensifying intimacy.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 3,
+          "snippet": "unto the place of sacrifice"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 35,
+          "snippet": "my kindred"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 159,
+          "snippet": "their kindred"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 163,
+          "snippet": "at hand"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 9,
+          "snippet": "well-nigh"
+        },
+        {
+          "work": "gleanings",
+          "para": 191,
+          "snippet": "near"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 199,
+          "snippet": "draw them nigh unto God"
+        },
+        {
+          "work": "gleanings",
+          "para": 266,
+          "snippet": "draw them nearer unto Thee"
+        }
+      ]
+    },
+    {
+      "term": "قُدسِكَ",
+      "transliteration": "q-d-s",
+      "literal": "holy, sacred, sanctified",
+      "se_rendering": "Thy holiness",
+      "note": "Normally 'Sacred', 'hallowed', or 'Sanctuary' across 47 occurrences. 'Thy holiness' renders the genitive possessive with theological precision, emphasizing divine attribute over place or state.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 2,
+          "snippet": "Sacred"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 81,
+          "snippet": "hallowed"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 35,
+          "snippet": "spirit of holiness"
+        },
+        {
+          "work": "gleanings",
+          "para": 585,
+          "snippet": "holy Paradise"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 13,
+          "snippet": "Holy Mariner"
+        },
+        {
+          "work": "gleanings",
+          "para": 584,
+          "snippet": "Holy Veil"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 6,
+          "snippet": "sacred strand"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 26,
+          "snippet": "Celestial Concourse"
+        }
+      ]
+    },
+    {
+      "term": "حُبُّكَ",
+      "transliteration": "ḥ-b-b",
+      "literal": "love; affection",
+      "se_rendering": "Thy love",
+      "note": "Regularly 'beloved of the Lord' or 'loved ones' across 92 occurrences. 'Thy love' as abstract noun differs—SE renders the root noun directly, shifting from agent-oriented compounds to divine attribute.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 3,
+          "snippet": "beloved of the Lord"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 53,
+          "snippet": "loved ones of the Lord"
+        },
+        {
+          "work": "gleanings",
+          "para": 341,
+          "snippet": "loved ones of God"
+        },
+        {
+          "work": "gleanings",
+          "para": 689,
+          "snippet": "beloved of the one true God"
+        },
+        {
+          "work": "gleanings",
+          "para": 640,
+          "snippet": "loved ones"
+        },
+        {
+          "work": "gleanings",
+          "para": 690,
+          "snippet": "beloved of God"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 39,
+          "snippet": "His loved ones"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 10,
+          "snippet": "love for Thee"
+        }
+      ]
+    },
+    {
+      "term": "أَحْرَقَنِي",
+      "transliteration": "h-r-q",
+      "literal": "to burn; to be consumed by fire; burning",
+      "se_rendering": "consumed me",
+      "note": "Typically 'consumed' or 'consuming' across 13 occurrences. SE selects 'consumed' here, maintaining passive voice and mystical burning metaphor central to the passage's emotional arc of affliction.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 30,
+          "snippet": "consuming"
+        },
+        {
+          "work": "tablet-of-carmel",
+          "para": 3,
+          "snippet": "fast consuming"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 187,
+          "snippet": "consumed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 7,
+          "snippet": "burned"
+        },
+        {
+          "work": "gleanings",
+          "para": 651,
+          "snippet": "fire"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 51,
+          "snippet": "burning"
+        },
+        {
+          "work": "tablet-of-carmel",
+          "para": 2,
+          "snippet": "hath burned me"
+        }
+      ]
+    },
+    {
+      "term": "أَصْفِيْائِكَ",
+      "transliteration": "ṣ-f-y",
+      "literal": "pure one; chosen one; selected one; elite",
+      "se_rendering": "chosen Ones",
+      "note": "Consistently 'chosen Ones' or 'holy and chosen Messengers' across 13 occurrences. SE uses 'chosen Ones' here—capital 'O' signals Bahá'í elect (Manifestations and Prophets), not ordinary believers.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 45,
+          "snippet": "Thy Holy Ones"
+        },
+        {
+          "work": "gleanings",
+          "para": 94,
+          "snippet": "holy and chosen Messengers"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 133,
+          "snippet": "chosen Ones"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 110,
+          "snippet": "holy, and chosen Messengers"
+        }
+      ]
+    },
+    {
+      "term": "ظُهُوْرِكَ",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "Thy Manifestation",
+      "note": "Standardly 'Manifestation' with capital M across 96 occurrences. SE retains capitalization here—'Manifestation' denotes the Bahá'í theological doctrine of divine self-disclosure, not mere appearance.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 53,
+          "snippet": "Manifestation"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 136,
+          "snippet": "evident"
+        },
+        {
+          "work": "gleanings",
+          "para": 222,
+          "snippet": "material"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 206,
+          "snippet": "appeared"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 196,
+          "snippet": "Manifestations of God"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 32,
+          "snippet": "overwhelm the soul"
+        }
+      ]
+    },
+    {
+      "term": "جَمَالِكَ",
+      "transliteration": "j-m-l",
+      "literal": "beauty; comeliness",
+      "se_rendering": "Thy beauty",
+      "note": "Typically 'Beauty' or 'Ancient Beauty' across 38 occurrences. 'Thy beauty' here uses lowercase—SE preserves the devotional intensity of gazıng without capitalization, maintaining intimate direct address.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 296,
+          "snippet": "Beauty"
+        },
+        {
+          "work": "gleanings",
+          "para": 183,
+          "snippet": "Ancient Beauty"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 193,
+          "snippet": "Among others"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 67,
+          "snippet": "Among"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 208,
+          "snippet": "Among the sciences"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 268,
+          "snippet": "Among them"
+        },
+        {
+          "work": "gleanings",
+          "para": 359,
+          "snippet": "Amongst"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 118,
+          "snippet": "following"
+        }
+      ]
+    }
+  ],
+  "section_index": "CLXXXIII.11",
+  "section": "CLXXXIII",
+  "section_para": 11
 }

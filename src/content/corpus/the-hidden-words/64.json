@@ -1,10 +1,413 @@
 {
   "work": "The Hidden Words",
   "slug": "the-hidden-words",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 64,
   "source_text": "(٦٣) ﴿ يَا ابْنَ الإِنْسَانِ ﴾\nأَشْرَقْتُ عَلَيْكَ النُّورَ مِنْ أُفُقِ الطُّورِ، وَنَفَخْتَ رُوحَ السَّناءِ في سِيناءِ قَلْبِكَ؛ فَأَفْرِغْ نَفْسَكَ عَنِ الحُجُباتِ وَالظُّنُوناتِ، ثُمَّ ادْخُلْ عَلَى البِساطِ لِتَكُونَ قابِلاً لِلْبَقاءِ وَلائِقًا لِلِّقاءِ، كَيْ لا يَأْخُذَكَ مَوْتٌ وَلا نَصْبٌ وَلا لَغُوبٌ.",
   "translation": "(63) O SON OF MAN!\nThe light hath shone on thee from the horizon of the sacred Mount and the spirit of enlightenment hath breathed in the Sinai of thy heart. Wherefore, free thyself from the veils of idle fancies and enter into My court, that thou mayest be fit for everlasting life and worthy to meet Me. Thus may death not come upon thee, neither weariness nor trouble.",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "free-thyself-veils-everlasting-life",
+  "alignment": [
+    {
+      "ar": "يَا",
+      "en": "O"
+    },
+    {
+      "ar": "ابْنَ",
+      "en": "SON"
+    },
+    {
+      "ar": "الإِنْسَانِ",
+      "en": "MAN"
+    },
+    {
+      "ar": "أَشْرَقْتُ",
+      "en": "hath shone"
+    },
+    {
+      "ar": "عَلَيْكَ",
+      "en": "on thee"
+    },
+    {
+      "ar": "أُفُقِ",
+      "en": "horizon"
+    },
+    {
+      "ar": "نَفَخْتَ",
+      "en": "hath breathed"
+    },
+    {
+      "ar": "رُوحَ",
+      "en": "spirit"
+    },
+    {
+      "ar": "سِيناءِ",
+      "en": "Sinai"
+    },
+    {
+      "ar": "قَلْبِكَ",
+      "en": "thy heart"
+    },
+    {
+      "ar": "أَفْرِغْ",
+      "en": "free"
+    },
+    {
+      "ar": "نَفْسَكَ",
+      "en": "thyself"
+    },
+    {
+      "ar": "الحُجُباتِ",
+      "en": "veils"
+    },
+    {
+      "ar": "ادْخُلْ",
+      "en": "enter"
+    },
+    {
+      "ar": "البِساطِ",
+      "en": "My court"
+    },
+    {
+      "ar": "لِتَكُونَ",
+      "en": "that thou mayest be"
+    },
+    {
+      "ar": "قابِلاً",
+      "en": "fit"
+    },
+    {
+      "ar": "لِلْبَقاءِ",
+      "en": "for everlasting life"
+    },
+    {
+      "ar": "لائِقًا",
+      "en": "worthy"
+    },
+    {
+      "ar": "لا يَأْخُذَكَ",
+      "en": "may death not come upon thee"
+    },
+    {
+      "ar": "مَوْتٌ",
+      "en": "death"
+    },
+    {
+      "ar": "نَصْبٌ",
+      "en": "weariness"
+    },
+    {
+      "ar": "لَغُوبٌ",
+      "en": "trouble"
+    }
+  ],
+  "terms": [
+    {
+      "term": "أَشْرَقْتُ",
+      "transliteration": "sh-r-q",
+      "literal": "radiance; splendor; dawn; illumination",
+      "se_rendering": "shone",
+      "note": "Root typically rendered 'Daystar', 'revelation', 'radiance' across 63 occurrences. 'Shone' here is simpler, passive past tense emphasizing light's action rather than metaphysical radiance.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 47,
+          "snippet": "Ishraq"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 28,
+          "snippet": "radiance"
+        },
+        {
+          "work": "gleanings",
+          "para": 382,
+          "snippet": "revelation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 83,
+          "snippet": "Daystar"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 41,
+          "snippet": "dawning"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 116,
+          "snippet": "shone"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 2,
+          "snippet": "shining"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 14,
+          "snippet": "Dawning Place"
+        }
+      ]
+    },
+    {
+      "term": "النُّورُ",
+      "transliteration": "n-w-r",
+      "literal": "light; illumination",
+      "se_rendering": "light",
+      "note": "Consistently 'light' across 78 occurrences. Direct, primary rendering with no deviation — foundational metaphor for divine guidance.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 3,
+          "snippet": "light"
+        },
+        {
+          "work": "gleanings",
+          "para": 230,
+          "snippet": "Orb of Light"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 114,
+          "snippet": "with the light"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 109,
+          "snippet": "Thy light"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 246,
+          "snippet": "Illumine"
+        },
+        {
+          "work": "gleanings",
+          "para": 235,
+          "snippet": "glory"
+        },
+        {
+          "work": "gleanings",
+          "para": 597,
+          "snippet": "fire"
+        },
+        {
+          "work": "gleanings",
+          "para": 458,
+          "snippet": "fire of God"
+        }
+      ]
+    },
+    {
+      "term": "الطُّورِ",
+      "transliteration": "t-w-r",
+      "literal": "states; conditions; stages; modes; phases; manner",
+      "se_rendering": "sacred Mount",
+      "note": "Root means 'states; conditions; stages' yet rendered 'sacred Mount' here, alluding to Sinai narrative. Sole occurrence exploits proper noun association over abstract meaning.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 185,
+          "snippet": "behavior"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 21,
+          "snippet": "at all times and under all conditions"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 60,
+          "snippet": "extinguishing"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 98,
+          "snippet": "Sinai"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 815,
+          "snippet": "Who conversed on Sinai"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 81,
+          "snippet": "this Sinai which hath been raised"
+        }
+      ]
+    },
+    {
+      "term": "السَّناءِ",
+      "transliteration": "s-n-n",
+      "literal": "arrow; pointed weapon; spear-point; edge",
+      "se_rendering": "enlightenment",
+      "note": "Root encompasses 'arrow; spear-point; edge' or temporal terms ('years'). Rendered 'enlightenment' — an interpretive synthesis unparalleled in concordance data, suggesting luminous spiritual radiance.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 49,
+          "snippet": "arrows of distress"
+        },
+        {
+          "work": "gleanings",
+          "para": 729,
+          "snippet": "thousand years"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 185,
+          "snippet": "years"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 117,
+          "snippet": "score years"
+        },
+        {
+          "work": "gleanings",
+          "para": 218,
+          "snippet": "year"
+        },
+        {
+          "work": "gleanings",
+          "para": 460,
+          "snippet": "method"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 63,
+          "snippet": "the spear of enmity"
+        },
+        {
+          "work": "gleanings",
+          "para": 571,
+          "snippet": "your tongues"
+        }
+      ]
+    },
+    {
+      "term": "الحُجُباتِ",
+      "transliteration": "ḥ-j-j",
+      "literal": "path, way; clear path",
+      "se_rendering": "veils",
+      "note": "Root implies 'path, way; clear path' but rendered 'veils' — the opposite semantic direction. SE transforms structural/directional sense into obstructive/veil imagery central to Bahá'í epistemology.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "Sanctuary"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 2,
+          "snippet": "with proofs"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 45,
+          "snippet": "Proofs"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 7,
+          "snippet": "proof"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 533,
+          "snippet": "veil"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 674,
+          "snippet": "veils"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 262,
+          "snippet": "testimony"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 231,
+          "snippet": "argument"
+        }
+      ]
+    },
+    {
+      "term": "البِساطِ",
+      "transliteration": "b-s-s",
+      "literal": "how many, many a; carpet, expanse",
+      "se_rendering": "court",
+      "note": "Root denotes 'carpet, expanse' or 'how many, many a'. Rendered 'court' — a juridical/palatial space. Transforms material object into institutional domain of divine presence.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 250,
+          "snippet": "How many"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 26,
+          "snippet": "many a"
+        }
+      ]
+    },
+    {
+      "term": "قابِلاً",
+      "transliteration": "q-b-l",
+      "literal": "group; company; tribe; sort; kind",
+      "se_rendering": "fit",
+      "note": "Root means 'group; company; tribe' yet rendered 'fit' here. SE abandons collective sense entirely, substituting an adjectival quality of receptivity unique to this passage.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 698,
+          "snippet": "company"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 552,
+          "snippet": "seal of acceptance"
+        },
+        {
+          "work": "gleanings",
+          "para": 603,
+          "snippet": "if it be accepted and take effect"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 146,
+          "snippet": "breeze that bloweth from the meads of the good-pleasure of God"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 25,
+          "snippet": "not a drop is acceptable"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 71,
+          "snippet": "hearkened unto and accepted"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 74,
+          "snippet": "tribes"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 24,
+          "snippet": "kindreds and religions"
+        }
+      ]
+    }
+  ],
+  "section_index": "127",
+  "section": "127",
+  "section_para": 1
 }

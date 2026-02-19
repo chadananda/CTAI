@@ -1,10 +1,584 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 395,
   "source_text": "ای دوستان قدر و مقام خود را بدانید زحمات خود را بتوهّمات این و آن ضایع منمائید شمائید انجم سماء عرفان و نسایم سحرگاهان شمائید میاه جاریه که حیات کل معلّق بآنست و شمائید احرف کتاب بکمال اتّحاد و اتّفاق جهد نمائید که شاید موفّق شوید بآنچه سزاوار یوم الهیست براستی میگویم فساد و نزاع و ما یکرهه العقول لایق شأن انسان نبوده و نیست جمیع همّت را در تبلیغ امر الهی مصروف دارید هر نفسی که خود لایق این مقام اعلی است بآن قیام نماید والّا له ان یأخذ وکیلاً لنفسه فی اظهار هذا الأمر الّذی به تزعزع کلّ بنیان مرصوص و اندکّت الجبال و انصعقت النّفوس اگر مقام این یوم ظاهر آنی از او را بصدهزار جان طالب و آمل شوند تا چه رسد بارض و زخارف آن در جمیع امور بحکمت",
   "translation": "O friends! Be not careless of the virtues with which ye have been endowed, neither be neglectful of your high destiny. Suffer not your labors to be wasted through the vain imaginations which certain hearts have devised. Ye are the stars of the heaven of understanding, the breeze that stirreth at the break of day, the soft-flowing waters upon which must depend the very life of all men, the letters inscribed upon His sacred scroll. With the utmost unity, and in a spirit of perfect fellowship, exert yourselves, that ye may be enabled to achieve that which beseemeth this Day of God. Verily I say, strife and dissension, and whatsoever the mind of man abhorreth are entirely unworthy of his station. Center your energies in the propagation of the Faith of God. Whoso is worthy of so high a calling, let him arise and promote it. Whoso is unable, it is his duty to appoint him who will, in his stead, proclaim this Revelation, whose power hath caused the foundations of the mightiest structures to quake, every mountain to be crushed into dust, and every soul to be dumbfounded. Should the greatness of this Day be revealed in its fullness, every man would forsake a myriad lives in his longing to partake, though it be for one moment, of its great glory — how much more this world and its corruptible treasures!",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "stars-heaven-understanding",
+  "alignment": [
+    {
+      "ar": "دوستان",
+      "en": "friends"
+    },
+    {
+      "ar": "قدر",
+      "en": "virtues"
+    },
+    {
+      "ar": "مقام",
+      "en": "high destiny"
+    },
+    {
+      "ar": "بدانید",
+      "en": "Be not careless"
+    },
+    {
+      "ar": "زحمات",
+      "en": "labors"
+    },
+    {
+      "ar": "خود",
+      "en": "your"
+    },
+    {
+      "ar": "توهّمات",
+      "en": "vain imaginations"
+    },
+    {
+      "ar": "ضایع",
+      "en": "wasted"
+    },
+    {
+      "ar": "منمائید",
+      "en": "be neglectful"
+    },
+    {
+      "ar": "شمائید",
+      "en": "Ye"
+    },
+    {
+      "ar": "انجم",
+      "en": "stars"
+    },
+    {
+      "ar": "سماء",
+      "en": "heaven"
+    },
+    {
+      "ar": "عرفان",
+      "en": "understanding"
+    },
+    {
+      "ar": "نسایم",
+      "en": "breeze"
+    },
+    {
+      "ar": "سحرگاهان",
+      "en": "break of day"
+    },
+    {
+      "ar": "میاه",
+      "en": "waters"
+    },
+    {
+      "ar": "جاریه",
+      "en": "soft-flowing"
+    },
+    {
+      "ar": "حیات",
+      "en": "life"
+    },
+    {
+      "ar": "کل",
+      "en": "all"
+    },
+    {
+      "ar": "معلّق",
+      "en": "depend"
+    },
+    {
+      "ar": "احرف",
+      "en": "letters"
+    },
+    {
+      "ar": "کتاب",
+      "en": "scroll"
+    },
+    {
+      "ar": "اتّحاد",
+      "en": "unity"
+    },
+    {
+      "ar": "اتّفاق",
+      "en": "fellowship"
+    },
+    {
+      "ar": "جهد",
+      "en": "exert"
+    },
+    {
+      "ar": "نمائید",
+      "en": "yourselves"
+    },
+    {
+      "ar": "موفّق",
+      "en": "enabled"
+    },
+    {
+      "ar": "شوید",
+      "en": "achieve"
+    },
+    {
+      "ar": "سزاوار",
+      "en": "beseemeth"
+    },
+    {
+      "ar": "یوم",
+      "en": "Day"
+    },
+    {
+      "ar": "الهیست",
+      "en": "God"
+    },
+    {
+      "ar": "براستی",
+      "en": "Verily"
+    },
+    {
+      "ar": "میگویم",
+      "en": "I say"
+    },
+    {
+      "ar": "فساد",
+      "en": "strife"
+    },
+    {
+      "ar": "نزاع",
+      "en": "dissension"
+    },
+    {
+      "ar": "یکرهه",
+      "en": "abhorreth"
+    },
+    {
+      "ar": "العقول",
+      "en": "mind"
+    },
+    {
+      "ar": "لایق",
+      "en": "unworthy"
+    },
+    {
+      "ar": "شأن",
+      "en": "station"
+    },
+    {
+      "ar": "انسان",
+      "en": "man"
+    },
+    {
+      "ar": "جمیع",
+      "en": "Center"
+    },
+    {
+      "ar": "همّت",
+      "en": "energies"
+    },
+    {
+      "ar": "تبلیغ",
+      "en": "propagation"
+    },
+    {
+      "ar": "امر",
+      "en": "Faith"
+    },
+    {
+      "ar": "مصروف",
+      "en": "in"
+    },
+    {
+      "ar": "نفسی",
+      "en": "Whoso"
+    },
+    {
+      "ar": "اعلی",
+      "en": "high a calling"
+    },
+    {
+      "ar": "قیام",
+      "en": "arise"
+    },
+    {
+      "ar": "نماید",
+      "en": "promote"
+    },
+    {
+      "ar": "یأخذ",
+      "en": "appoint"
+    },
+    {
+      "ar": "وکیلاً",
+      "en": "him who"
+    },
+    {
+      "ar": "لنفسه",
+      "en": "in his stead"
+    },
+    {
+      "ar": "اظهار",
+      "en": "proclaim"
+    },
+    {
+      "ar": "الأمر",
+      "en": "Revelation"
+    },
+    {
+      "ar": "تزعزع",
+      "en": "quake"
+    },
+    {
+      "ar": "بنیان",
+      "en": "foundations"
+    },
+    {
+      "ar": "مرصوص",
+      "en": "structures"
+    },
+    {
+      "ar": "اندکّت",
+      "en": "crushed"
+    },
+    {
+      "ar": "الجبال",
+      "en": "mountain"
+    },
+    {
+      "ar": "انصعقت",
+      "en": "dumbfounded"
+    },
+    {
+      "ar": "النّفوس",
+      "en": "soul"
+    },
+    {
+      "ar": "ظاهر",
+      "en": "revealed"
+    },
+    {
+      "ar": "صدهزار",
+      "en": "myriad"
+    },
+    {
+      "ar": "جان",
+      "en": "lives"
+    },
+    {
+      "ar": "طالب",
+      "en": "longing"
+    },
+    {
+      "ar": "آمل",
+      "en": "partake"
+    },
+    {
+      "ar": "ارض",
+      "en": "world"
+    },
+    {
+      "ar": "زخارف",
+      "en": "treasures"
+    }
+  ],
+  "terms": [
+    {
+      "term": "مقام",
+      "transliteration": "q-w-m",
+      "literal": "rising; standing; uprising; resurrection",
+      "se_rendering": "calling",
+      "note": "Usually 'Day of Resurrection' or 'arise'; here rendered 'calling' and 'high a calling', emphasizing spiritual vocation over eschatological standing.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 152,
+          "snippet": "Day of Resurrection"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 153,
+          "snippet": "Resurrection"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 74,
+          "snippet": "rise"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "peoples"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 26,
+          "snippet": "steadfast"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 38,
+          "snippet": "steadfast in faith"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 628,
+          "snippet": "stood fast"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 198,
+          "snippet": "station"
+        }
+      ]
+    },
+    {
+      "term": "بتوهّمات",
+      "transliteration": "w-h-m",
+      "literal": "to imagine, suppose; fancy, idle imagination",
+      "se_rendering": "vain imaginations",
+      "note": "Rendered 'vain imaginations' aligning with Jafar pattern; duplicated 'vain imaginations' in both source and target emphasizes resistance to delusion.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 30,
+          "snippet": "idle fancy"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 76,
+          "snippet": "idle fancies"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 240,
+          "snippet": "superstitions"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 261,
+          "snippet": "vain imaginings"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 141,
+          "snippet": "vain imaginations"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 255,
+          "snippet": "idle imaginings"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 144,
+          "snippet": "fancy"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 12,
+          "snippet": "delusion"
+        }
+      ]
+    },
+    {
+      "term": "نسایم",
+      "transliteration": "n-s-m",
+      "literal": "breeze; gentle wind; fragrance",
+      "se_rendering": "breeze",
+      "note": "Rendered 'breeze' in its primary metaphorical sense; consistent with luminous imagery (stars, breeze, waters) forming the triadic description.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 158,
+          "snippet": "sweet gales of divine knowledge"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 105,
+          "snippet": "breeze of My loving-kindness"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 146,
+          "snippet": "breeze that bloweth from the meads of the good-pleasure"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 216,
+          "snippet": "breeze of His loving"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 140,
+          "snippet": "breeze of mercy"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 122,
+          "snippet": "breeze"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 100,
+          "snippet": "fragrances"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 768,
+          "snippet": "rustling"
+        }
+      ]
+    },
+    {
+      "term": "یوم",
+      "transliteration": "y-w-m",
+      "literal": "day; age; period; era",
+      "se_rendering": "Day of God",
+      "note": "Rendered as 'Day of God' paralleling 'Day of Resurrection'; temporal designation emphasizes eschatological significance of this specific moment.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 18,
+          "snippet": "this Day"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 176,
+          "snippet": "In this day"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 14,
+          "snippet": "In these days"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 130,
+          "snippet": "today"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 201,
+          "snippet": "day"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 239,
+          "snippet": "In the days when"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 33,
+          "snippet": "At the time when"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 60,
+          "snippet": "is the day"
+        }
+      ]
+    },
+    {
+      "term": "اظهار",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "proclaim",
+      "note": "Typically 'Manifestation' or 'manifestation' (96 occurrences); here 'proclaim' shifts focus to human agency in declaring the Revelation.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 140,
+          "snippet": "manifestation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 160,
+          "snippet": "Author of all Manifestations"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 136,
+          "snippet": "evident"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 206,
+          "snippet": "appeared"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 196,
+          "snippet": "Manifestations of God"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 255,
+          "snippet": "Manifestations"
+        }
+      ]
+    },
+    {
+      "term": "بحکمت",
+      "transliteration": "h-k-m",
+      "literal": "government; rule; governance; wisdom",
+      "se_rendering": "wisdom",
+      "note": "Rendered as 'wisdom' (abstract principle) rather than 'rule' or 'government'—unique choice highlighting prudential conduct over institutional governance.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-ahd",
+          "para": 6,
+          "snippet": "rule"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "government"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 849,
+          "snippet": "signs of Thy sovereignty"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 160,
+          "snippet": "meaning of return"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 182,
+          "snippet": "mystery of the former verse"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 129,
+          "snippet": "perspicuous verses"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 46,
+          "snippet": "conclusive"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 220,
+          "snippet": "impregnable stronghold"
+        }
+      ]
+    }
+  ],
+  "section_index": "XCVI.3",
+  "section": "XCVI",
+  "section_para": 3
 }

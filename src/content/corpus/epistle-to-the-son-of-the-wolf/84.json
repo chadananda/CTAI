@@ -1,10 +1,679 @@
 {
   "work": "Epistle to the Son of the Wolf",
   "slug": "epistle-to-the-son-of-the-wolf",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 84,
   "source_text": "قل يا ملأ الرّهبان لا تعتکفوا فی الکنائس و المعابد اخرجوا باذنی ثمّ اشتغلوا بما تنتفع به انفسکم و انفس العباد * کذلک يامرکم مالک يوم الدّين * اعتکفوا فی حصن حبّی هذا حقّ الاعتکاف لو کنتم من العارفين * من جاور البيت انّه کالميّت ينبغی للانسان ان يظهر منه ما ينتفع به العباد و الّذی ليس له ثمر ينبغی للنّار * کذلک يعظکم ربّکم انّه هو العزيز الکريم * تزوّجوا ليقوم بعدکم احدٌ مقامکم انّا منعناکم عن الخيانة لا عمّا تظهر به الامانة * أأخذتم اصول انفسکم و نبذتم اصول اللّه ورائکم اتّقوا اللّه و لا تکونوا من الجاهلين * لو لا الانسان من يذکرنی فی ارضی و کيف تظهر صفاتی و اسمائی تفکّروا و لا تکونوا من الّذين احتجبوا و کانوا من الرّاقدين * انّ الّذی ما تزوّج انّه ما وجد مقرّا ليسکن فيه او يضع رأسه عليه بما اکتسبت ايدی الخائنين * ليس تقديس نفسه بما عرفتم و عندکم من الاوهام بل بما عندنا * اسألوا لتعرفوا مقامه الّذی کان مقدّسا عن ظنون من علی الارض کلّها طوبی للعارفين *",
   "translation": "\"Say: O concourse of monks! Seclude not yourselves in your churches and cloisters. Come ye out of them by My leave, and busy, then, yourselves with what will profit you and others. Thus commandeth you He Who is the Lord of the Day of Reckoning. Seclude yourselves in the stronghold of My love. This, truly, is the seclusion that befitteth you, could ye but know it. He that secludeth himself in his house is indeed as one dead. It behooveth man to show forth that which will benefit mankind. He that bringeth forth no fruit is fit for the fire. Thus admonisheth you your Lord; He, verily, is the Mighty, the Bountiful. Enter ye into wedlock, that after you another may arise in your stead. We, verily, have forbidden you lechery, and not that which is conducive to fidelity. Have ye clung unto the promptings of your nature, and cast behind your backs the statutes of God? Fear ye God, and be not of the foolish. But for man, who, on My earth, would remember Me, and how could My attributes and My names be revealed? Reflect, and be not of them that have shut themselves out as by a veil from Him, and were of those that are fast asleep. He that married not (Jesus Christ) could find no place wherein to abide, nor where to lay His head, by reason of what the hands of the treacherous had wrought. His holiness consisted not in the things ye have believed and imagined, but rather in the things which belong unto Us. Ask, that ye may be made aware of His station which hath been exalted above the vain imaginings of all the peoples of the earth. Blessed are they that understand.",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "seclusion-stronghold-love",
+  "alignment": [
+    {
+      "ar": "قل",
+      "en": "Say"
+    },
+    {
+      "ar": "ملأ",
+      "en": "concourse"
+    },
+    {
+      "ar": "الرّهبان",
+      "en": "monks"
+    },
+    {
+      "ar": "لا تعتکفوا",
+      "en": "Seclude not yourselves"
+    },
+    {
+      "ar": "الکنائس",
+      "en": "churches"
+    },
+    {
+      "ar": "المعابد",
+      "en": "cloisters"
+    },
+    {
+      "ar": "اخرجوا",
+      "en": "Come ye out"
+    },
+    {
+      "ar": "باذنی",
+      "en": "by My leave"
+    },
+    {
+      "ar": "ثمّ",
+      "en": "then"
+    },
+    {
+      "ar": "اشتغلوا",
+      "en": "busy"
+    },
+    {
+      "ar": "تنتفع",
+      "en": "profit"
+    },
+    {
+      "ar": "انفسکم",
+      "en": "you"
+    },
+    {
+      "ar": "انفس",
+      "en": "others"
+    },
+    {
+      "ar": "العباد",
+      "en": ""
+    },
+    {
+      "ar": "کذلک",
+      "en": "Thus"
+    },
+    {
+      "ar": "يامرکم",
+      "en": "commandeth you"
+    },
+    {
+      "ar": "مالک",
+      "en": "Lord"
+    },
+    {
+      "ar": "يوم",
+      "en": "Day"
+    },
+    {
+      "ar": "الدّين",
+      "en": "Reckoning"
+    },
+    {
+      "ar": "اعتکفوا",
+      "en": "Seclude yourselves"
+    },
+    {
+      "ar": "حصن",
+      "en": "stronghold"
+    },
+    {
+      "ar": "حبّی",
+      "en": "My love"
+    },
+    {
+      "ar": "هذا",
+      "en": "This"
+    },
+    {
+      "ar": "حقّ",
+      "en": "truly"
+    },
+    {
+      "ar": "الاعتکاف",
+      "en": "seclusion"
+    },
+    {
+      "ar": "لو کنتم",
+      "en": "could ye"
+    },
+    {
+      "ar": "العارفين",
+      "en": "know it"
+    },
+    {
+      "ar": "من جاور",
+      "en": "He that secludeth himself"
+    },
+    {
+      "ar": "البيت",
+      "en": "his house"
+    },
+    {
+      "ar": "انّه",
+      "en": "is indeed"
+    },
+    {
+      "ar": "کالميّت",
+      "en": "as one dead"
+    },
+    {
+      "ar": "ينبغی",
+      "en": "behooveth"
+    },
+    {
+      "ar": "للانسان",
+      "en": "man"
+    },
+    {
+      "ar": "ان يظهر",
+      "en": "to show forth"
+    },
+    {
+      "ar": "منه",
+      "en": ""
+    },
+    {
+      "ar": "ما ينتفع",
+      "en": "that which will benefit"
+    },
+    {
+      "ar": "الّذی ليس له ثمر",
+      "en": "He that bringeth forth no fruit"
+    },
+    {
+      "ar": "للنّار",
+      "en": "for the fire"
+    },
+    {
+      "ar": "يعظکم",
+      "en": "admonisheth you"
+    },
+    {
+      "ar": "ربّکم",
+      "en": "your Lord"
+    },
+    {
+      "ar": "العزيز",
+      "en": "Mighty"
+    },
+    {
+      "ar": "الکريم",
+      "en": "Bountiful"
+    },
+    {
+      "ar": "تزوّجوا",
+      "en": "Enter ye into wedlock"
+    },
+    {
+      "ar": "ليقوم",
+      "en": "may arise"
+    },
+    {
+      "ar": "بعدکم",
+      "en": "after you"
+    },
+    {
+      "ar": "احدٌ",
+      "en": "another"
+    },
+    {
+      "ar": "مقامکم",
+      "en": "in your stead"
+    },
+    {
+      "ar": "انّا",
+      "en": "We"
+    },
+    {
+      "ar": "منعناکم",
+      "en": "have forbidden you"
+    },
+    {
+      "ar": "الخيانة",
+      "en": "lechery"
+    },
+    {
+      "ar": "لا عمّا",
+      "en": "and not"
+    },
+    {
+      "ar": "تظهر",
+      "en": "is conducive"
+    },
+    {
+      "ar": "الامانة",
+      "en": "fidelity"
+    },
+    {
+      "ar": "أأخذتم",
+      "en": "Have ye clung"
+    },
+    {
+      "ar": "اصول",
+      "en": "promptings"
+    },
+    {
+      "ar": "نبذتم",
+      "en": "cast"
+    },
+    {
+      "ar": "اصول اللّه",
+      "en": "statutes of God"
+    },
+    {
+      "ar": "ورائکم",
+      "en": "behind your backs"
+    },
+    {
+      "ar": "اتّقوا",
+      "en": "Fear ye"
+    },
+    {
+      "ar": "اللّه",
+      "en": "God"
+    },
+    {
+      "ar": "لا تکونوا",
+      "en": "be not"
+    },
+    {
+      "ar": "الجاهلين",
+      "en": "foolish"
+    },
+    {
+      "ar": "لو لا",
+      "en": "But for"
+    },
+    {
+      "ar": "من يذکرنی",
+      "en": "who, on My earth, would remember Me"
+    },
+    {
+      "ar": "ارضی",
+      "en": ""
+    },
+    {
+      "ar": "کيف",
+      "en": "how"
+    },
+    {
+      "ar": "صفاتی",
+      "en": "My attributes"
+    },
+    {
+      "ar": "اسمائی",
+      "en": "My names"
+    },
+    {
+      "ar": "تفکّروا",
+      "en": "Reflect"
+    },
+    {
+      "ar": "الّذين احتجبوا",
+      "en": "them that have shut themselves out"
+    },
+    {
+      "ar": "کانوا",
+      "en": "were"
+    },
+    {
+      "ar": "الرّاقدين",
+      "en": "fast asleep"
+    },
+    {
+      "ar": "الّذی ما تزوّج",
+      "en": "He that married not"
+    },
+    {
+      "ar": "ما وجد",
+      "en": "could find no"
+    },
+    {
+      "ar": "مقرّا",
+      "en": "place"
+    },
+    {
+      "ar": "ليسکن فيه",
+      "en": "wherein to abide"
+    },
+    {
+      "ar": "او",
+      "en": "nor"
+    },
+    {
+      "ar": "يضع",
+      "en": "lay"
+    },
+    {
+      "ar": "رأسه",
+      "en": "His head"
+    },
+    {
+      "ar": "عليه",
+      "en": ""
+    },
+    {
+      "ar": "بما اکتسبت",
+      "en": "by reason of what"
+    },
+    {
+      "ar": "ايدی",
+      "en": "hands"
+    },
+    {
+      "ar": "الخائنين",
+      "en": "treacherous"
+    },
+    {
+      "ar": "ليس تقديس",
+      "en": "holiness consisted not"
+    },
+    {
+      "ar": "نفسه",
+      "en": "His"
+    },
+    {
+      "ar": "بما عرفتم",
+      "en": "in the things ye have believed"
+    },
+    {
+      "ar": "عندکم",
+      "en": ""
+    },
+    {
+      "ar": "الاوهام",
+      "en": "imagined"
+    },
+    {
+      "ar": "بل",
+      "en": "but rather"
+    },
+    {
+      "ar": "عندنا",
+      "en": "belong unto Us"
+    },
+    {
+      "ar": "اسألوا",
+      "en": "Ask"
+    },
+    {
+      "ar": "لتعرفوا",
+      "en": "that ye may be made aware"
+    },
+    {
+      "ar": "مقامه",
+      "en": "His station"
+    },
+    {
+      "ar": "الّذی کان مقدّسا",
+      "en": "which hath been exalted"
+    },
+    {
+      "ar": "ظنون",
+      "en": "vain imaginings"
+    },
+    {
+      "ar": "من علی الارض کلّها",
+      "en": "of all the peoples of the earth"
+    },
+    {
+      "ar": "طوبی",
+      "en": "Blessed"
+    },
+    {
+      "ar": "للعارفين",
+      "en": "they that understand"
+    }
+  ],
+  "terms": [
+    {
+      "term": "اعتکفوا",
+      "transliteration": "ʿ-r-f",
+      "literal": "to confess; to acknowledge; to recognize",
+      "se_rendering": "Seclude yourselves",
+      "note": "Root ع-ر-ف listed in concordance but text shows ع-ت-ک-ف (i'tikāf). SE renders initial occurrence as 'Seclude not' then 'Seclude yourselves' — strategic reversal from withdrawal to proper spiritual seclusion.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 601,
+          "snippet": "testifieth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 729,
+          "snippet": "hath acknowledged"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 582,
+          "snippet": "have recognized"
+        },
+        {
+          "work": "gleanings",
+          "para": 568,
+          "snippet": "acknowledged"
+        },
+        {
+          "work": "gleanings",
+          "para": 295,
+          "snippet": "made objections"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 744,
+          "snippet": "understanding"
+        },
+        {
+          "work": "gleanings",
+          "para": 87,
+          "snippet": "knowledge"
+        },
+        {
+          "work": "gleanings",
+          "para": 2,
+          "snippet": "perception"
+        }
+      ]
+    },
+    {
+      "term": "حبّی",
+      "transliteration": "ḥ-b-b",
+      "literal": "love; affection",
+      "se_rendering": "My love",
+      "note": "Typically 'beloved of the Lord' or 'loved ones' across 92 occurrences. Here rendered 'My love' as abstract divine affection — singular, intimate rendering unique to this passage.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 3,
+          "snippet": "beloved of the Lord"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 53,
+          "snippet": "loved ones of the Lord"
+        },
+        {
+          "work": "gleanings",
+          "para": 341,
+          "snippet": "loved ones of God"
+        },
+        {
+          "work": "gleanings",
+          "para": 689,
+          "snippet": "beloved of the one true God"
+        },
+        {
+          "work": "gleanings",
+          "para": 640,
+          "snippet": "loved ones"
+        },
+        {
+          "work": "gleanings",
+          "para": 690,
+          "snippet": "beloved of God"
+        },
+        {
+          "work": "gleanings",
+          "para": 477,
+          "snippet": "His loved ones"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 10,
+          "snippet": "love for Thee"
+        }
+      ]
+    },
+    {
+      "term": "يظهر",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "show forth",
+      "note": "Standard renderings include 'Manifestation', 'revealed', 'evident' across 96 occurrences. 'Show forth' here emphasizes active demonstration of benefit rather than passive revelation.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 53,
+          "snippet": "Manifestation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 160,
+          "snippet": "Author of all Manifestations"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 136,
+          "snippet": "evident"
+        },
+        {
+          "work": "gleanings",
+          "para": 222,
+          "snippet": "material"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 196,
+          "snippet": "Manifestations of God"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 255,
+          "snippet": "Manifestations"
+        }
+      ]
+    },
+    {
+      "term": "ثمر",
+      "transliteration": "th-m-r",
+      "literal": "fruit; the fruit",
+      "se_rendering": "fruit",
+      "note": "Standard 'fruit' rendering across 21 occurrences, consistent here. Serves as metaphor for productive contribution; fruitlessness earns condemnation to fire — moral economy of spiritual productivity.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 57,
+          "snippet": "fruit given forth by"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 678,
+          "snippet": "fruits"
+        },
+        {
+          "work": "gleanings",
+          "para": 263,
+          "snippet": "fruit"
+        }
+      ]
+    },
+    {
+      "term": "الامانة",
+      "transliteration": "ʾ-m-n",
+      "literal": "to believe; to have faith; to be secure",
+      "se_rendering": "fidelity",
+      "note": "Concordance lists root ء-م-ن (faith/belief) but text shows ا-م-ن (fidelity/trust). SE distinguishes lechery from 'that which is conducive to fidelity' — shifts from doctrinal belief to moral trustworthiness.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 585,
+          "snippet": "have believed"
+        },
+        {
+          "work": "gleanings",
+          "para": 268,
+          "snippet": "believe"
+        },
+        {
+          "work": "gleanings",
+          "para": 251,
+          "snippet": "believed"
+        },
+        {
+          "work": "gleanings",
+          "para": 404,
+          "snippet": "belief"
+        },
+        {
+          "work": "gleanings",
+          "para": 416,
+          "snippet": "faith"
+        },
+        {
+          "work": "gleanings",
+          "para": 671,
+          "snippet": "believer"
+        },
+        {
+          "work": "gleanings",
+          "para": 266,
+          "snippet": "a trust"
+        },
+        {
+          "work": "gleanings",
+          "para": 42,
+          "snippet": "people of faith"
+        }
+      ]
+    },
+    {
+      "term": "تقديس",
+      "transliteration": "q-d-s",
+      "literal": "holy, sacred, sanctified",
+      "se_rendering": "holiness",
+      "note": "Rendered 'holiness' here; typically 'Sacred', 'hallowed' across 47 occurrences. This passage uniquely denies holiness through external pretense, establishing it belongs exclusively to divine realm.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 2,
+          "snippet": "Sacred"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 35,
+          "snippet": "spirit of holiness"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 448,
+          "snippet": "Sanctuary"
+        },
+        {
+          "work": "gleanings",
+          "para": 585,
+          "snippet": "holy Paradise"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 13,
+          "snippet": "Holy Mariner"
+        },
+        {
+          "work": "gleanings",
+          "para": 584,
+          "snippet": "Holy Veil"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 6,
+          "snippet": "sacred strand"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 26,
+          "snippet": "Celestial Concourse"
+        }
+      ]
+    }
+  ],
+  "section_index": "84",
+  "section": "84",
+  "section_para": 1
 }

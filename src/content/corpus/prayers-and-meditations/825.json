@@ -1,10 +1,227 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 825,
   "source_text": "أَيْ رَبِّ فَاجْعَلْ صَلَاتِي كَوْثَرَ الْحَيَوَانِ لِيَبْقَى بِهِ ذَاتِي بِدَوَامِ سَلْطَنَتِكَ وَيَذْكُرَكَ ف",
   "translation": "Exalted art Thou above the description of anyone save Thyself, and the comprehension of aught else except Thee.",
   "source_lang": "ar",
-  "score": 9
+  "score": 9,
+  "page_slug": "description-comprehension-thyself",
+  "alignment": [
+    {
+      "ar": "أَيْ",
+      "en": "Exalted art Thou"
+    },
+    {
+      "ar": "صَلَاتِي",
+      "en": "description"
+    },
+    {
+      "ar": "الْحَيَوَانِ",
+      "en": "anyone"
+    },
+    {
+      "ar": "ذَاتِي",
+      "en": "Thyself"
+    },
+    {
+      "ar": "سَلْطَنَتِكَ",
+      "en": "comprehension"
+    },
+    {
+      "ar": "يَذْكُرَكَ",
+      "en": "aught else"
+    }
+  ],
+  "terms": [
+    {
+      "term": "فاجعل",
+      "transliteration": "q-b-l",
+      "literal": "group; company; tribe; sort; kind",
+      "se_rendering": "above",
+      "note": "Root q-b-l typically renders 'accepted' or 'seal of acceptance' across 58 occurrences. SE's 'above' here shows no lexical correspondence to acceptance semantics—suggests textual non-alignment or creative interpretation.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 698,
+          "snippet": "company"
+        },
+        {
+          "work": "gleanings",
+          "para": 603,
+          "snippet": "if it be accepted and take effect"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 146,
+          "snippet": "breeze that bloweth from the meads of the good-pleasure of God"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 25,
+          "snippet": "not a drop is acceptable"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 71,
+          "snippet": "hearkened unto and accepted"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 74,
+          "snippet": "tribes"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 24,
+          "snippet": "kindreds and religions"
+        },
+        {
+          "work": "gleanings",
+          "para": 235,
+          "snippet": "have come"
+        }
+      ]
+    },
+    {
+      "term": "صلاتی",
+      "transliteration": "s-l-w",
+      "literal": "blessings; prayers; salutations",
+      "se_rendering": "description",
+      "note": "Typically 'prayer' or 'blessings' across 4 occurrences. Here rendered as 'description'—a severe departure suggesting SE reinterpreted the entire clause or conflated it with different source material.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 273,
+          "snippet": "My blessings, and My mercy"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 72,
+          "snippet": "the blessings of God be upon them"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 39,
+          "snippet": "prayer"
+        }
+      ]
+    },
+    {
+      "term": "کوثر",
+      "transliteration": "k-w-th-r",
+      "literal": "abundance; river of paradise; the Kawthar",
+      "se_rendering": "save Thyself",
+      "note": "Usually 'Kawthar' or 'river of everlasting life' across 5 occurrences. SE's 'save Thyself' here abandons the term's paradisiacal connotation entirely, indicating substantial textual divergence.",
+      "cross_refs": [
+        {
+          "work": "the-hidden-words",
+          "para": 113,
+          "snippet": "river of everlasting life"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 72,
+          "snippet": "Kawthar"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 65,
+          "snippet": "stream of pure water"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 239,
+          "snippet": "Kawthar of nearness"
+        }
+      ]
+    },
+    {
+      "term": "ذاتی",
+      "transliteration": "dh-w-t",
+      "literal": "essence; self; being",
+      "se_rendering": "aught else",
+      "note": "Typically 'Essence' or 'myself' across 7 occurrences. SE's 'aught else' represents a radical shift from selfhood/being to negation—no parallel in concordance data.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 387,
+          "snippet": "in His Essence"
+        },
+        {
+          "work": "gleanings",
+          "para": 126,
+          "snippet": "Essence"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 172,
+          "snippet": "His Essence"
+        },
+        {
+          "work": "gleanings",
+          "para": 525,
+          "snippet": "among yourselves"
+        },
+        {
+          "work": "gleanings",
+          "para": 92,
+          "snippet": "Ancient of Days"
+        }
+      ]
+    },
+    {
+      "term": "سلطنتک",
+      "transliteration": "s-l-ṭ",
+      "literal": "dominion; authority; power; sovereignty; control",
+      "se_rendering": "except Thee",
+      "note": "Consistently 'sovereignty' or 'dominion' across 43 occurrences. SE's 'except Thee' here inverts the term's meaning from divine power to exclusion, marking fundamental semantic reorientation.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 369,
+          "snippet": "sovereignty"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 151,
+          "snippet": "dominion"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 13,
+          "snippet": "O King"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 157,
+          "snippet": "the Sháh"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 1,
+          "snippet": "the King"
+        },
+        {
+          "work": "gleanings",
+          "para": 472,
+          "snippet": "King (Sulṭán 'Abdu'l-'Azíz)"
+        },
+        {
+          "work": "gleanings",
+          "para": 236,
+          "snippet": "the Sulṭán"
+        },
+        {
+          "work": "gleanings",
+          "para": 592,
+          "snippet": "by virtue of His sovereignty"
+        }
+      ]
+    }
+  ],
+  "section_index": "CLXXXIII.4",
+  "section": "CLXXXIII",
+  "section_para": 4
 }

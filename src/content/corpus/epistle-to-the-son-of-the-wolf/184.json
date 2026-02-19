@@ -1,10 +1,533 @@
 {
   "work": "Epistle to the Son of the Wolf",
   "slug": "epistle-to-the-son-of-the-wolf",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 184,
   "source_text": "ذلّت بمقامی رسيده که هر يوم بانتشار مفتريات مشغولند و لکن اين مظلوم بصبر جميل تمسّک جسته * ايکاش حضرت پادشاه ممالک ايران انچه در استانه وارد شده صورت ان را طلب فرمايند تا بر حقيقت امر اگاه شوند * يا سلطان اقسمک بربّک الرّحمن در اين فقره بنظر عدل ملاحظه فرما * هل من ذی عدل يحکم اليوم بما انزله اللّه فی الکتاب و هل من ذی انصاف ينصف فيما ورد علينا من دون بيّنة و برهان؟",
   "translation": "Such abasement hath been inflicted that each day they spread fresh calumnies. This Wronged One, however, cleaveth to seemly patience. Would that His Majesty the Sháh of Persia would ask for a report of the things which befell Us in Constantinople, that he might become fully acquainted with the true facts. O Sháh! I adjure thee by thy Lord, the God of Mercy, to look into this matter with the eye of fairness. Is there to be found a just man who will judge in this day according to that which God hath sent down in His Book? Where is the fair-minded person who will equitably consider what hath been perpetrated against Us without any clear token or proof?",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "wronged-one-seemly-patience",
+  "alignment": [
+    {
+      "ar": "ذلّت",
+      "en": "abasement"
+    },
+    {
+      "ar": "بمقامی",
+      "en": "hath been inflicted"
+    },
+    {
+      "ar": "هر",
+      "en": "each"
+    },
+    {
+      "ar": "يوم",
+      "en": "day"
+    },
+    {
+      "ar": "بانتشار",
+      "en": "spread"
+    },
+    {
+      "ar": "مفتريات",
+      "en": "calumnies"
+    },
+    {
+      "ar": "اين",
+      "en": "This"
+    },
+    {
+      "ar": "مظلوم",
+      "en": "Wronged One"
+    },
+    {
+      "ar": "بصبر",
+      "en": "patience"
+    },
+    {
+      "ar": "جميل",
+      "en": "seemly"
+    },
+    {
+      "ar": "تمسّک جسته",
+      "en": "cleaveth"
+    },
+    {
+      "ar": "ايکاش",
+      "en": "Would that"
+    },
+    {
+      "ar": "حضرت",
+      "en": "His Majesty"
+    },
+    {
+      "ar": "پادشاه",
+      "en": "Sháh"
+    },
+    {
+      "ar": "ممالک",
+      "en": "of Persia"
+    },
+    {
+      "ar": "ايران",
+      "en": "Persia"
+    },
+    {
+      "ar": "انچه",
+      "en": "of the things which"
+    },
+    {
+      "ar": "استانه",
+      "en": "Constantinople"
+    },
+    {
+      "ar": "وارد شده",
+      "en": "befell"
+    },
+    {
+      "ar": "صورت",
+      "en": "report"
+    },
+    {
+      "ar": "طلب فرمايند",
+      "en": "ask"
+    },
+    {
+      "ar": "بر",
+      "en": "with"
+    },
+    {
+      "ar": "حقيقت",
+      "en": "true"
+    },
+    {
+      "ar": "امر",
+      "en": "facts"
+    },
+    {
+      "ar": "اگاه شوند",
+      "en": "acquainted"
+    },
+    {
+      "ar": "يا سلطان",
+      "en": "O Sháh"
+    },
+    {
+      "ar": "اقسمک",
+      "en": "I adjure thee"
+    },
+    {
+      "ar": "بربّک",
+      "en": "by thy Lord"
+    },
+    {
+      "ar": "الرّحمن",
+      "en": "the God of Mercy"
+    },
+    {
+      "ar": "فقره",
+      "en": "this matter"
+    },
+    {
+      "ar": "بنظر",
+      "en": "with the eye"
+    },
+    {
+      "ar": "عدل",
+      "en": "fairness"
+    },
+    {
+      "ar": "ملاحظه فرما",
+      "en": "look"
+    },
+    {
+      "ar": "هل من ذی عدل",
+      "en": "Is there to be found a just man"
+    },
+    {
+      "ar": "يحکم",
+      "en": "will judge"
+    },
+    {
+      "ar": "اليوم",
+      "en": "in this day"
+    },
+    {
+      "ar": "بما",
+      "en": "according to that which"
+    },
+    {
+      "ar": "انزله",
+      "en": "hath sent down"
+    },
+    {
+      "ar": "اللّه",
+      "en": "God"
+    },
+    {
+      "ar": "فی الکتاب",
+      "en": "in His Book"
+    },
+    {
+      "ar": "هل من ذی انصاف",
+      "en": "Where is the fair-minded person"
+    },
+    {
+      "ar": "ينصف",
+      "en": "will equitably consider"
+    },
+    {
+      "ar": "فيما",
+      "en": "what"
+    },
+    {
+      "ar": "ورد",
+      "en": "hath been perpetrated"
+    },
+    {
+      "ar": "علينا",
+      "en": "against Us"
+    },
+    {
+      "ar": "من دون",
+      "en": "without"
+    },
+    {
+      "ar": "بيّنة",
+      "en": "clear token"
+    },
+    {
+      "ar": "برهان",
+      "en": "proof"
+    }
+  ],
+  "terms": [
+    {
+      "term": "بمقامی",
+      "transliteration": "q-w-m",
+      "literal": "rising; standing; uprising; resurrection",
+      "se_rendering": "abasement",
+      "note": "Root denotes 'standing, uprising, resurrection' (109 occ). Here rendered 'abasement' — reversed to convey humiliation rather than exaltation, intensifying the rhetorical contrast.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 152,
+          "snippet": "Day of Resurrection"
+        },
+        {
+          "work": "gleanings",
+          "para": 437,
+          "snippet": "arise"
+        },
+        {
+          "work": "gleanings",
+          "para": 513,
+          "snippet": "dedicateth"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 153,
+          "snippet": "Resurrection"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "peoples"
+        },
+        {
+          "work": "gleanings",
+          "para": 693,
+          "snippet": "commandments"
+        },
+        {
+          "work": "gleanings",
+          "para": 628,
+          "snippet": "My commandments"
+        },
+        {
+          "work": "gleanings",
+          "para": 518,
+          "snippet": "steadfast"
+        }
+      ]
+    },
+    {
+      "term": "مظلوم",
+      "transliteration": "z-l-m",
+      "literal": "wrongedness, oppression, meekness; state of being wronged or oppressed",
+      "se_rendering": "Wronged One",
+      "note": "Typically 'afflicted' or 'wronged' across 128 occurrences. Here as 'Wronged One' — a capitalized title emphasizing Bahá'u'lláh's dignified station amid persecution.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 498,
+          "snippet": "afflicted with countless tribulations"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 49,
+          "snippet": "meekness"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 116,
+          "snippet": "injury"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 3,
+          "snippet": "Wronged One"
+        },
+        {
+          "work": "gleanings",
+          "para": 221,
+          "snippet": "oppression"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 9,
+          "snippet": "Darkness"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 33,
+          "snippet": "tyranny"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 573,
+          "snippet": "oppressed"
+        }
+      ]
+    },
+    {
+      "term": "وارد",
+      "transliteration": "w-r-d",
+      "literal": "to enter, to come, to befall, to arrive",
+      "se_rendering": "befell",
+      "note": "Usually 'befallen' or 'hath touched' (36 occ). Here 'befell' maintains narrative distance, reporting historical events in Constantinople without naming them explicitly.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 557,
+          "snippet": "will discern"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 30,
+          "snippet": "brought forth"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 204,
+          "snippet": "heaped upon"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 47,
+          "snippet": "befallen"
+        },
+        {
+          "work": "gleanings",
+          "para": 489,
+          "snippet": "hath befallen"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 49,
+          "snippet": "approaching"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 788,
+          "snippet": "waters"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 240,
+          "snippet": "gain admittance"
+        }
+      ]
+    },
+    {
+      "term": "امر",
+      "transliteration": "ʾ-m-r",
+      "literal": "command; cause; matter; affair",
+      "se_rendering": "true facts",
+      "note": "Standard rendering 'Cause' or 'Revelation' (75 occ). Here 'true facts' — unprecedented literalization, grounding the metaphysical Cause in concrete historical truth-claims.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "His Cause"
+        },
+        {
+          "work": "gleanings",
+          "para": 586,
+          "snippet": "His command"
+        },
+        {
+          "work": "gleanings",
+          "para": 691,
+          "snippet": "His Revelation"
+        },
+        {
+          "work": "gleanings",
+          "para": 723,
+          "snippet": "Cause"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 797,
+          "snippet": "Thy Cause"
+        },
+        {
+          "work": "gleanings",
+          "para": 8,
+          "snippet": "Revelation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 597,
+          "snippet": "service"
+        },
+        {
+          "work": "gleanings",
+          "para": 524,
+          "snippet": "your affairs"
+        }
+      ]
+    },
+    {
+      "term": "عدل",
+      "transliteration": "ʿ-d-l",
+      "literal": "justice; equity",
+      "se_rendering": "fairness",
+      "note": "Consistently 'justice' or 'equity' (29 occ). 'Fairness' here softens the legal register to moral impartiality, appealing to the Sháh's conscience rather than his authority.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 25,
+          "snippet": "Justice"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "just"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 145,
+          "snippet": "Who dealest equitably"
+        },
+        {
+          "work": "gleanings",
+          "para": 21,
+          "snippet": "with justice and equity"
+        },
+        {
+          "work": "gleanings",
+          "para": 538,
+          "snippet": "as numerous as"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 79,
+          "snippet": "disputeth"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 24,
+          "snippet": "Consort"
+        },
+        {
+          "work": "gleanings",
+          "para": 189,
+          "snippet": "the Just"
+        }
+      ]
+    },
+    {
+      "term": "انصاف",
+      "transliteration": "n-ṣ-f",
+      "literal": "justice; fairness; equity",
+      "se_rendering": "equitably",
+      "note": "Typically 'justice' or 'fairness' (25 occ). 'Equitably' as adverb rather than noun uniquely modifies action, emphasizing just procedure over abstract justice.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 63,
+          "snippet": "justice"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 184,
+          "snippet": "fair"
+        },
+        {
+          "work": "gleanings",
+          "para": 470,
+          "snippet": "injustice"
+        },
+        {
+          "work": "gleanings",
+          "para": 180,
+          "snippet": "judge fairly"
+        }
+      ]
+    },
+    {
+      "term": "بينه",
+      "transliteration": "b-y-n",
+      "literal": "to manifest; to make clear; clear, evident",
+      "se_rendering": "clear token",
+      "note": "Usually 'clear proofs' or 'proofs' (87 occ). 'Clear token' here is singular and existential, seeking one piece of evidence rather than comprehensive demonstration.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 223,
+          "snippet": "the Expounder, the Most Manifest"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 231,
+          "snippet": "clear verses"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 3,
+          "snippet": "proofs"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 12,
+          "snippet": "clear proofs"
+        },
+        {
+          "work": "gleanings",
+          "para": 563,
+          "snippet": "Dawning-Place of the proofs"
+        },
+        {
+          "work": "gleanings",
+          "para": 292,
+          "snippet": "the Bayán"
+        },
+        {
+          "work": "gleanings",
+          "para": 636,
+          "snippet": "utterance"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 101,
+          "snippet": "Bayán"
+        }
+      ]
+    }
+  ],
+  "section_index": "184",
+  "section": "184",
+  "section_para": 1
 }

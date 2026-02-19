@@ -194,7 +194,7 @@ Astro.response.headers.set('Cache-Control', 'public, max-age=86400, s-maxage=604
     const examples = g.rows.slice(0, 8);
 
     return (
-      <section class="mb-10 p-5 rounded-xl bg-ink-800/30 border border-ink-700/30">
+      <section class="mb-10 p-5 rounded-xl bg-ink-800/50 border border-ink-700/50">
         <!-- Root header -->
         <div class="flex flex-wrap items-start gap-3 mb-4">
           <a
@@ -298,7 +298,7 @@ Astro.response.headers.set('Cache-Control', 'public, max-age=86400, s-maxage=604
         {seeAlsoList.map(s => (
           <a
             href={`/concordance/english/${slugify(s.rendering)}/`}
-            class="px-2.5 py-1 rounded-md bg-ink-800/40 border border-ink-700/30
+            class="px-2.5 py-1 rounded-md bg-ink-800/60 border border-ink-700/50
                    text-sm text-ink-300 hover:text-gold-400 hover:border-gold-400/30 transition-all"
           >
             {s.rendering}

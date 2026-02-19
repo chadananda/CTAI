@@ -1,10 +1,556 @@
 {
   "work": "Kitab-i-Iqan",
   "slug": "kitab-i-iqan",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 85,
   "source_text": "و عنقريب است که اعلام قدرت الهی  را  در همه بلاد مرتفع بينی و آثار غلبه و سلطنت او را در جميع ديار ظاهر مشاهده فرمائی.  باری، اکثر علماء چون اين آيات را ادراک ننمودهاند و از مقصود قيامت واقف نشدهاند لهذا جميع را به قيامت موهوم من حَيثُ لا يَشعُر تفسير می نمايند. خدای واحد شاهد است که اگر قدری بصيرت باشد از تلويح همين دو آيه جميع مطالب که مقصود است ادراک می شود و به صبح منير ايقان به عنايت رحمان واصل می گردند.  کَذلِکَ تَغَنُّ عَلَيکَ حَمامَةُ البَقاءِ عَلی اَفنانِ سِدرَةِ البهاء لَعَلَّ تکُونَنَّ فی مناهِج العِلْمِ وَ الحِکمَةِ بإذنِ اللّه سالِکاً.",
   "translation": "Ere long, thine eyes will behold the standards of divine power unfurled throughout all regions, and the signs of His triumphant might and sovereignty manifest in every land. As most of the divines have failed to apprehend the meaning of these verses, and have not grasped the significance of the Day of Resurrection, they therefore have foolishly interpreted these verses according to their idle and faulty conception. The one true God is My witness! Little perception is required to enable them to gather from the symbolic language of these two verses all that We have purposed to propound, and thus to attain, through the grace of the All-Merciful, the resplendent morn of certitude. Such are the strains of celestial melody which the immortal Bird of Heaven, warbling upon the Sadrih of Bahá, poureth out upon thee, that, by the permission of God, thou mayest tread the path of divine knowledge and wisdom.",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "standards-divine-power-unfurled",
+  "alignment": [
+    {
+      "ar": "عنقريب",
+      "en": "Ere long"
+    },
+    {
+      "ar": "است",
+      "en": "will"
+    },
+    {
+      "ar": "اعلام",
+      "en": "standards"
+    },
+    {
+      "ar": "قدرت",
+      "en": "power"
+    },
+    {
+      "ar": "الهی",
+      "en": "divine"
+    },
+    {
+      "ar": "در",
+      "en": "throughout"
+    },
+    {
+      "ar": "همه",
+      "en": "all"
+    },
+    {
+      "ar": "بلاد",
+      "en": "regions"
+    },
+    {
+      "ar": "مرتفع",
+      "en": "unfurled"
+    },
+    {
+      "ar": "بينی",
+      "en": "behold"
+    },
+    {
+      "ar": "آثار",
+      "en": "signs"
+    },
+    {
+      "ar": "غلبه",
+      "en": "triumphant might"
+    },
+    {
+      "ar": "سلطنت",
+      "en": "sovereignty"
+    },
+    {
+      "ar": "او",
+      "en": "His"
+    },
+    {
+      "ar": "جميع",
+      "en": "every"
+    },
+    {
+      "ar": "ديار",
+      "en": "land"
+    },
+    {
+      "ar": "ظاهر",
+      "en": "manifest"
+    },
+    {
+      "ar": "مشاهده",
+      "en": "eyes"
+    },
+    {
+      "ar": "فرمائی",
+      "en": "thine"
+    },
+    {
+      "ar": "اکثر",
+      "en": "most"
+    },
+    {
+      "ar": "علماء",
+      "en": "divines"
+    },
+    {
+      "ar": "اين",
+      "en": "these"
+    },
+    {
+      "ar": "آيات",
+      "en": "verses"
+    },
+    {
+      "ar": "ادراک",
+      "en": "apprehend"
+    },
+    {
+      "ar": "ننمودهاند",
+      "en": "failed"
+    },
+    {
+      "ar": "مقصود",
+      "en": "meaning"
+    },
+    {
+      "ar": "قيامت",
+      "en": "Day of Resurrection"
+    },
+    {
+      "ar": "واقف",
+      "en": "grasped"
+    },
+    {
+      "ar": "نشدهاند",
+      "en": "have not"
+    },
+    {
+      "ar": "لهذا",
+      "en": "therefore"
+    },
+    {
+      "ar": "به",
+      "en": "according to"
+    },
+    {
+      "ar": "موهوم",
+      "en": "faulty conception"
+    },
+    {
+      "ar": "تفسير",
+      "en": "interpreted"
+    },
+    {
+      "ar": "می نمايند",
+      "en": "have"
+    },
+    {
+      "ar": "خدای",
+      "en": "God"
+    },
+    {
+      "ar": "واحد",
+      "en": "one true"
+    },
+    {
+      "ar": "شاهد",
+      "en": "witness"
+    },
+    {
+      "ar": "قدری",
+      "en": "Little"
+    },
+    {
+      "ar": "بصيرت",
+      "en": "perception"
+    },
+    {
+      "ar": "باشد",
+      "en": "is required"
+    },
+    {
+      "ar": "تلويح",
+      "en": "symbolic language"
+    },
+    {
+      "ar": "دو",
+      "en": "two"
+    },
+    {
+      "ar": "که",
+      "en": "that"
+    },
+    {
+      "ar": "ادراک می شود",
+      "en": "gather"
+    },
+    {
+      "ar": "صبح",
+      "en": "morn"
+    },
+    {
+      "ar": "منير",
+      "en": "resplendent"
+    },
+    {
+      "ar": "ايقان",
+      "en": "certitude"
+    },
+    {
+      "ar": "عنايت",
+      "en": "grace"
+    },
+    {
+      "ar": "رحمان",
+      "en": "All-Merciful"
+    },
+    {
+      "ar": "واصل",
+      "en": "attain"
+    },
+    {
+      "ar": "می گردند",
+      "en": "may"
+    },
+    {
+      "ar": "حَمامَةُ",
+      "en": "Bird"
+    },
+    {
+      "ar": "البَقاءِ",
+      "en": "immortal"
+    },
+    {
+      "ar": "اَفنانِ",
+      "en": "warbling upon"
+    },
+    {
+      "ar": "سِدرَةِ",
+      "en": "Sadrih"
+    },
+    {
+      "ar": "البهاء",
+      "en": "Bahá"
+    },
+    {
+      "ar": "مناهِج",
+      "en": "path"
+    },
+    {
+      "ar": "العِلْمِ",
+      "en": "knowledge"
+    },
+    {
+      "ar": "الحِکمَةِ",
+      "en": "wisdom"
+    },
+    {
+      "ar": "بإذنِ",
+      "en": "permission"
+    },
+    {
+      "ar": "سالِکاً",
+      "en": "tread"
+    }
+  ],
+  "terms": [
+    {
+      "term": "علماء",
+      "transliteration": "ʿ-l-m",
+      "literal": "world; universe; the worlds",
+      "se_rendering": "divines",
+      "note": "Rendered 'divines' (clergy) rather than standard 'world'/'knowledge'; root ع-ل-م typically means knowledge; here SE selects 'divines' to denote interpretive authority being challenged.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 198,
+          "snippet": "world"
+        },
+        {
+          "work": "gleanings",
+          "para": 657,
+          "snippet": "all worlds"
+        },
+        {
+          "work": "gleanings",
+          "para": 182,
+          "snippet": "mankind"
+        },
+        {
+          "work": "gleanings",
+          "para": 183,
+          "snippet": "the whole world"
+        },
+        {
+          "work": "gleanings",
+          "para": 226,
+          "snippet": "all earthly defilements"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 28,
+          "snippet": "knowledge"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 42,
+          "snippet": "banner"
+        },
+        {
+          "work": "gleanings",
+          "para": 38,
+          "snippet": "understanding"
+        }
+      ]
+    },
+    {
+      "term": "قیامت",
+      "transliteration": "q-w-m",
+      "literal": "rising; standing; uprising; resurrection",
+      "se_rendering": "Day of Resurrection",
+      "note": "Consistently 'Day of Resurrection' across 109 occurrences; text criticizes misinterpretation of this eschatological term, establishing correct spiritual understanding as passage's core argument.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 437,
+          "snippet": "arise"
+        },
+        {
+          "work": "gleanings",
+          "para": 513,
+          "snippet": "dedicateth"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 74,
+          "snippet": "rise"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "peoples"
+        },
+        {
+          "work": "gleanings",
+          "para": 693,
+          "snippet": "commandments"
+        },
+        {
+          "work": "gleanings",
+          "para": 628,
+          "snippet": "My commandments"
+        },
+        {
+          "work": "gleanings",
+          "para": 518,
+          "snippet": "steadfast"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 38,
+          "snippet": "steadfast in faith"
+        }
+      ]
+    },
+    {
+      "term": "بصیرت",
+      "transliteration": "b-ṣ-r",
+      "literal": "sight; insight; discernment; spiritual perception",
+      "se_rendering": "perception",
+      "note": "Rendered 'perception' from root ب-ص-ر; Jafar shows 27 occurrences including 'discerning eye,' 'eye of insight'—'perception' emphasizes receptive faculty needed for understanding.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 77,
+          "snippet": "hearing ears, and sharp sight"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 667,
+          "snippet": "the All-Seeing"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 3,
+          "snippet": "proofs"
+        },
+        {
+          "work": "gleanings",
+          "para": 75,
+          "snippet": "eyes"
+        },
+        {
+          "work": "gleanings",
+          "para": 67,
+          "snippet": "insight"
+        },
+        {
+          "work": "gleanings",
+          "para": 563,
+          "snippet": "perceive"
+        },
+        {
+          "work": "gleanings",
+          "para": 689,
+          "snippet": "view"
+        },
+        {
+          "work": "gleanings",
+          "para": 388,
+          "snippet": "discerning"
+        }
+      ]
+    },
+    {
+      "term": "رحمان",
+      "transliteration": "r-ḥ-m",
+      "literal": "merciful, compassionate; pertaining to divine mercy",
+      "se_rendering": "All-Merciful",
+      "note": "Rendered 'All-Merciful' (divine attribute); root ر-ح-م shows diverse renderings ('Divine glory,' 'celestial melody,' 'mercy')—here SE uses classical Islamic epithet emphasizing grace in attainment.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 673,
+          "snippet": "Divine glory"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 57,
+          "snippet": "Divine"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 89,
+          "snippet": "celestial melody"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 114,
+          "snippet": "spirit of mercy"
+        },
+        {
+          "work": "gleanings",
+          "para": 372,
+          "snippet": "merciful"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 220,
+          "snippet": "have mercy on them"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 546,
+          "snippet": "mercy"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 50,
+          "snippet": "the Compassionate"
+        }
+      ]
+    },
+    {
+      "term": "البقاء",
+      "transliteration": "b-q-y",
+      "literal": "remaining; everlasting; eternal; immortal",
+      "se_rendering": "immortal",
+      "note": "Rendered 'immortal' modifying 'Bird'; root ب-ق-ي typically means 'eternal/everlasting' across 32 occurrences—'immortal' applied to creature denotes imperishable celestial nature.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 2,
+          "snippet": "the Eternal"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 88,
+          "snippet": "everlasting beauty"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 98,
+          "snippet": "everlasting candle"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 117,
+          "snippet": "immortal sovereignty"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 110,
+          "snippet": "everlasting torch of divine guidance"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 56,
+          "snippet": "refrain"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 246,
+          "snippet": "everlasting"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 798,
+          "snippet": "eternity"
+        }
+      ]
+    },
+    {
+      "term": "سدره",
+      "transliteration": "s-d-r",
+      "literal": "lote-tree; divine tree",
+      "se_rendering": "Sadrih",
+      "note": "Rendered 'Sadrih' (transliterated proper noun); Jafar shows Lote-Tree symbolism across multiple renderings; here untranslated, preserving mystical specificity of Bahá'í sacred tree symbol.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 809,
+          "snippet": "Lote-Tree"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 102,
+          "snippet": "Divine Lote-Tree"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 138,
+          "snippet": "Burning Bush"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 71,
+          "snippet": "Sadrah of Utterance"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 395,
+          "snippet": "tree of Thy oneness"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 2,
+          "snippet": "Tree of Eternity"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 170,
+          "snippet": "Lote-Tree beyond which there is no passing"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 205,
+          "snippet": "Lote-Tree of knowledge"
+        }
+      ]
+    }
+  ],
+  "section_index": "85",
+  "section": "85",
+  "section_para": 1
 }

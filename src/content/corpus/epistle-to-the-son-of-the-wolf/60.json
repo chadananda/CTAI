@@ -1,10 +1,626 @@
 {
   "work": "Epistle to the Son of the Wolf",
   "slug": "epistle-to-the-son-of-the-wolf",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 60,
   "source_text": "* سبحان اللّه امروز روزيست که عقلاء از اين مظلوم اخذ رای نمايند و از حقّ بطلبند انچه را که سبب عزّت و اسايش است * و لکن کلّ بر عکس بر اطفاء اين نور ساطع لميع جاهد و ساعی و هر نفسی در صدد ان است که تقصيری ثابت نمايد و يا ايرادی وارد اورد * امر بمقامی رسيده که از جميع اطوار اين مظلوم اظهار نموده‌اند انچه را که ذکر ان شايسته نيست * يکی از دوستان از نفسی از نفوس مجتمعه در مدينه کبيره ذکر نموده که گفته در هر سنه مبلغ پنجاه هزار تومان از وطن بعکّا ميرود و بکمال افسوس اين فقره را ذکر نمود معلوم نشد محاسب که بوده و دفتر دار که *",
   "translation": "Gracious God! This is the day whereon the wise should seek the advice of this Wronged One, and ask Him Who is the Truth what things are conducive to the glory and tranquillity of men. And yet, all are earnestly striving to put out this glorious and shining light, and are diligently seeking either to establish Our guilt, or to voice their protest against Us. Matters have come to such a pass, that the conduct of this Wronged One hath, in every way, been grossly misrepresented, and in a manner which it would be unseemly to mention. One of Our friends hath reported that among the residents of the Great City (Constantinople) he had heard with the greatest regret someone state that, each year, a sum of fifty thousand túmáns was being despatched from his native land to ‘Akká! It hath not, however, been made clear who had disbursed the sum, nor through whose hands it had passed!",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "wise-seek-advice-wronged-one",
+  "alignment": [
+    {
+      "ar": "سبحان",
+      "en": "Gracious"
+    },
+    {
+      "ar": "اللّه",
+      "en": "God"
+    },
+    {
+      "ar": "امروز",
+      "en": "This"
+    },
+    {
+      "ar": "روزيست",
+      "en": "is the day"
+    },
+    {
+      "ar": "عقلاء",
+      "en": "the wise"
+    },
+    {
+      "ar": "مظلوم",
+      "en": "Wronged One"
+    },
+    {
+      "ar": "اخذ",
+      "en": "seek"
+    },
+    {
+      "ar": "رای",
+      "en": "the advice"
+    },
+    {
+      "ar": "حقّ",
+      "en": "the Truth"
+    },
+    {
+      "ar": "بطلبند",
+      "en": "ask"
+    },
+    {
+      "ar": "انچه",
+      "en": "what things"
+    },
+    {
+      "ar": "سبب",
+      "en": "conducive"
+    },
+    {
+      "ar": "عزّت",
+      "en": "glory"
+    },
+    {
+      "ar": "اسايش",
+      "en": "tranquillity"
+    },
+    {
+      "ar": "کلّ",
+      "en": "all"
+    },
+    {
+      "ar": "عکس",
+      "en": "are earnestly striving"
+    },
+    {
+      "ar": "اطفاء",
+      "en": "put out"
+    },
+    {
+      "ar": "نور",
+      "en": "light"
+    },
+    {
+      "ar": "ساطع",
+      "en": "shining"
+    },
+    {
+      "ar": "لميع",
+      "en": "glorious"
+    },
+    {
+      "ar": "جاهد",
+      "en": "striving"
+    },
+    {
+      "ar": "ساعی",
+      "en": "seeking"
+    },
+    {
+      "ar": "نفسی",
+      "en": "someone"
+    },
+    {
+      "ar": "تقصيری",
+      "en": "Our guilt"
+    },
+    {
+      "ar": "ثابت",
+      "en": "establish"
+    },
+    {
+      "ar": "ايرادی",
+      "en": "their protest"
+    },
+    {
+      "ar": "وارد",
+      "en": "voice"
+    },
+    {
+      "ar": "امر",
+      "en": "Matters"
+    },
+    {
+      "ar": "مقامی",
+      "en": "such a pass"
+    },
+    {
+      "ar": "رسيده",
+      "en": "have come"
+    },
+    {
+      "ar": "جميع",
+      "en": "in every way"
+    },
+    {
+      "ar": "اطوار",
+      "en": "the conduct"
+    },
+    {
+      "ar": "اظهار",
+      "en": "been grossly misrepresented"
+    },
+    {
+      "ar": "ذکر",
+      "en": "mention"
+    },
+    {
+      "ar": "شايسته",
+      "en": "unseemly"
+    },
+    {
+      "ar": "يکی",
+      "en": "One"
+    },
+    {
+      "ar": "دوستان",
+      "en": "Our friends"
+    },
+    {
+      "ar": "نفوس",
+      "en": "residents"
+    },
+    {
+      "ar": "مجتمعه",
+      "en": "the residents"
+    },
+    {
+      "ar": "مدينه کبيره",
+      "en": "the Great City"
+    },
+    {
+      "ar": "گفته",
+      "en": "state"
+    },
+    {
+      "ar": "هر",
+      "en": "each"
+    },
+    {
+      "ar": "سنه",
+      "en": "year"
+    },
+    {
+      "ar": "مبلغ",
+      "en": "a sum"
+    },
+    {
+      "ar": "پنجاه",
+      "en": "fifty"
+    },
+    {
+      "ar": "هزار",
+      "en": "thousand"
+    },
+    {
+      "ar": "تومان",
+      "en": "túmáns"
+    },
+    {
+      "ar": "وطن",
+      "en": "his native land"
+    },
+    {
+      "ar": "ميرود",
+      "en": "being despatched"
+    },
+    {
+      "ar": "کمال",
+      "en": "the greatest"
+    },
+    {
+      "ar": "افسوس",
+      "en": "regret"
+    },
+    {
+      "ar": "معلوم",
+      "en": "made clear"
+    },
+    {
+      "ar": "محاسب",
+      "en": "disbursed"
+    },
+    {
+      "ar": "دفتر دار",
+      "en": "whose hands"
+    }
+  ],
+  "terms": [
+    {
+      "term": "امروز",
+      "transliteration": "ʾ-m-r",
+      "literal": "command; cause; matter; affair",
+      "se_rendering": "day",
+      "note": "Typically 'this Day' or 'in this Day' (44 occurrences). Here 'day' remains lowercase, marking temporal particularity rather than eschatological import.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "His Cause"
+        },
+        {
+          "work": "gleanings",
+          "para": 586,
+          "snippet": "His command"
+        },
+        {
+          "work": "gleanings",
+          "para": 691,
+          "snippet": "His Revelation"
+        },
+        {
+          "work": "gleanings",
+          "para": 723,
+          "snippet": "Cause"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 797,
+          "snippet": "Thy Cause"
+        },
+        {
+          "work": "gleanings",
+          "para": 8,
+          "snippet": "Revelation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 597,
+          "snippet": "service"
+        },
+        {
+          "work": "gleanings",
+          "para": 524,
+          "snippet": "your affairs"
+        }
+      ]
+    },
+    {
+      "term": "مظلوم",
+      "transliteration": "z-l-m",
+      "literal": "wrongedness, oppression, meekness; state of being wronged or oppressed",
+      "se_rendering": "Wronged One",
+      "note": "Standard rendering 'Wronged One' (128 occurrences). Here applies to the speaker as rhetorical figure, establishing the Bahá'í leader's posture of innocence amid persecution.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 498,
+          "snippet": "afflicted with countless tribulations"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 49,
+          "snippet": "meekness"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 116,
+          "snippet": "injury"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 3,
+          "snippet": "Wronged One"
+        },
+        {
+          "work": "gleanings",
+          "para": 221,
+          "snippet": "oppression"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 9,
+          "snippet": "Darkness"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 33,
+          "snippet": "tyranny"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 573,
+          "snippet": "oppressed"
+        }
+      ]
+    },
+    {
+      "term": "نور",
+      "transliteration": "n-w-r",
+      "literal": "light; illumination",
+      "se_rendering": "light",
+      "note": "Typically 'light' (78 occurrences). Applied to divine revelation here with epithet 'glorious and shining' to emphasize both permanence and radiance.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 583,
+          "snippet": "light"
+        },
+        {
+          "work": "gleanings",
+          "para": 230,
+          "snippet": "Orb of Light"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 114,
+          "snippet": "with the light"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 109,
+          "snippet": "Thy light"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 246,
+          "snippet": "Illumine"
+        },
+        {
+          "work": "gleanings",
+          "para": 235,
+          "snippet": "glory"
+        },
+        {
+          "work": "gleanings",
+          "para": 597,
+          "snippet": "fire"
+        },
+        {
+          "work": "gleanings",
+          "para": 458,
+          "snippet": "fire of God"
+        }
+      ]
+    },
+    {
+      "term": "ثابت",
+      "transliteration": "th-b-t",
+      "literal": "firm; steadfast; established; fixed",
+      "se_rendering": "establish",
+      "note": "Usually 'firm' or 'steadfast' (37 occurrences). Here 'establish' as legal term—critics attempt to fix guilt upon the Wronged One through false accusation.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 5,
+          "snippet": "firm"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 13,
+          "snippet": "fast"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 9,
+          "snippet": "steadfastly"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 784,
+          "snippet": "steadfast"
+        },
+        {
+          "work": "gleanings",
+          "para": 710,
+          "snippet": "remain steadfast"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 53,
+          "snippet": "constancy"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 27,
+          "snippet": "establishment"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 195,
+          "snippet": "fully demonstrated"
+        }
+      ]
+    },
+    {
+      "term": "وارد",
+      "transliteration": "w-r-d",
+      "literal": "to enter, to come, to befall, to arrive",
+      "se_rendering": "voice",
+      "note": "Usually 'befallen' or 'hath touched' (36 occurrences). Here 'voice their protest' — a semantic shift from passive suffering to active criticism.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 557,
+          "snippet": "will discern"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 30,
+          "snippet": "brought forth"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 204,
+          "snippet": "heaped upon"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 47,
+          "snippet": "befallen"
+        },
+        {
+          "work": "gleanings",
+          "para": 489,
+          "snippet": "hath befallen"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 49,
+          "snippet": "approaching"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 788,
+          "snippet": "waters"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 240,
+          "snippet": "gain admittance"
+        }
+      ]
+    },
+    {
+      "term": "اظهار",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "misrepresented",
+      "note": "Usually 'Manifestation' or 'revealed' (96 occurrences). Here rendered 'misrepresented' — unique passive construction showing distortion of the truth rather than its disclosure.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 53,
+          "snippet": "Manifestation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 160,
+          "snippet": "Author of all Manifestations"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 136,
+          "snippet": "evident"
+        },
+        {
+          "work": "gleanings",
+          "para": 222,
+          "snippet": "material"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 196,
+          "snippet": "Manifestations of God"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 255,
+          "snippet": "Manifestations"
+        }
+      ]
+    },
+    {
+      "term": "کبيره",
+      "transliteration": "k-b-r",
+      "literal": "great; grand; mighty; large",
+      "se_rendering": "Great City",
+      "note": "Standard 'Great City' (34 occurrences). Constantinople here, a center of Ottoman power where rumors of financial impropriety circulate against the Bahá'í community.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 351,
+          "snippet": "Most Great"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 64,
+          "snippet": "Great God"
+        },
+        {
+          "work": "gleanings",
+          "para": 10,
+          "snippet": "most mighty grace"
+        },
+        {
+          "work": "gleanings",
+          "para": 23,
+          "snippet": "most grievous veil"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "Greater Branch"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 60,
+          "snippet": "great"
+        },
+        {
+          "work": "gleanings",
+          "para": 318,
+          "snippet": "mighty"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 48,
+          "snippet": "pride"
+        }
+      ]
+    },
+    {
+      "term": "معلوم",
+      "transliteration": "ʿ-l-m",
+      "literal": "world; universe; the worlds",
+      "se_rendering": "made clear",
+      "note": "Usually 'world' or 'knowledge' (141 occurrences). Here 'made clear' — idiomatic rendering of epistemic uncertainty in the original's closing lament about opacity.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 198,
+          "snippet": "world"
+        },
+        {
+          "work": "gleanings",
+          "para": 657,
+          "snippet": "all worlds"
+        },
+        {
+          "work": "gleanings",
+          "para": 182,
+          "snippet": "mankind"
+        },
+        {
+          "work": "gleanings",
+          "para": 183,
+          "snippet": "the whole world"
+        },
+        {
+          "work": "gleanings",
+          "para": 226,
+          "snippet": "all earthly defilements"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 76,
+          "snippet": "Knowledge"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 122,
+          "snippet": "commentators"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 42,
+          "snippet": "banner"
+        }
+      ]
+    }
+  ],
+  "section_index": "60",
+  "section": "60",
+  "section_para": 1
 }

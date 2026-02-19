@@ -1,10 +1,205 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 282,
   "source_text": "المُقْتَدِرُ المُتَعالِ العَزِيزُ الوَدُودُ.",
   "translation": "Thou art the Almighty, the Most Exalted, the All-Glorious, the All-Loving.",
   "source_lang": "ar",
-  "score": 9.4
+  "score": 9.4,
+  "page_slug": "almighty-most-exalted-all-glorious",
+  "alignment": [
+    {
+      "ar": "المُقْتَدِرُ",
+      "en": "the Almighty"
+    },
+    {
+      "ar": "المُتَعالِ",
+      "en": "the Most Exalted"
+    },
+    {
+      "ar": "العَزِيزُ",
+      "en": "the All-Glorious"
+    },
+    {
+      "ar": "الوَدُودُ",
+      "en": "the All-Loving"
+    }
+  ],
+  "terms": [
+    {
+      "term": "المُقْتَدِرُ",
+      "transliteration": "q-d-r",
+      "literal": "power; might; decree; measure; worth",
+      "se_rendering": "the Almighty",
+      "note": "Primary rendering 'Almighty' captures q-d-r's power semantics. SE favors this metaphysical sense over 'decreed' or 'Thy power' variants in invocations.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 171,
+          "snippet": "a while"
+        },
+        {
+          "work": "gleanings",
+          "para": 138,
+          "snippet": "hath been decreed"
+        },
+        {
+          "work": "gleanings",
+          "para": 662,
+          "snippet": "hath decreed"
+        },
+        {
+          "work": "gleanings",
+          "para": 496,
+          "snippet": "forbearing towards"
+        },
+        {
+          "work": "gleanings",
+          "para": 111,
+          "snippet": "schools"
+        },
+        {
+          "work": "gleanings",
+          "para": 532,
+          "snippet": "can"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 4,
+          "snippet": "for a moment"
+        },
+        {
+          "work": "gleanings",
+          "para": 112,
+          "snippet": "Thy might"
+        }
+      ]
+    },
+    {
+      "term": "المُتَعالِ",
+      "transliteration": "ʿ-l-w",
+      "literal": "highest; most high; supreme",
+      "se_rendering": "the Most Exalted",
+      "note": "Standard rendering 'Most Exalted' dominates SE's corpus (74 occurrences). Matches the definite article pattern for divine attributes in formal addresses.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 1,
+          "snippet": "the Most High"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 148,
+          "snippet": "the Most Sublime Pen"
+        },
+        {
+          "work": "gleanings",
+          "para": 232,
+          "snippet": "supreme"
+        },
+        {
+          "work": "gleanings",
+          "para": 616,
+          "snippet": "the realms above"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 68,
+          "snippet": "the Pen of Glory"
+        },
+        {
+          "work": "gleanings",
+          "para": 393,
+          "snippet": "The Pen of the Most High"
+        },
+        {
+          "work": "gleanings",
+          "para": 697,
+          "snippet": "the Dayspring of Glory"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 1,
+          "snippet": "the Realm of Glory"
+        }
+      ]
+    },
+    {
+      "term": "العَزِيزُ",
+      "transliteration": "ʿ-z-z",
+      "literal": "glory; might; honor; dignity; power; majesty",
+      "se_rendering": "the All-Glorious",
+      "note": "Rendered 'All-Glorious' here, but Jafar shows 'glory', 'honor', and 'exalted' as common variants. SE's 'All-Glorious' emphasizes majesty over singular 'glory'.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 185,
+          "snippet": "glory"
+        },
+        {
+          "work": "gleanings",
+          "para": 642,
+          "snippet": "honor"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 99,
+          "snippet": "Dear"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 38,
+          "snippet": "dearly beloved"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 37,
+          "snippet": "Gracious"
+        },
+        {
+          "work": "gleanings",
+          "para": 260,
+          "snippet": "All-Glorious"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 162,
+          "snippet": "Mighty"
+        },
+        {
+          "work": "gleanings",
+          "para": 660,
+          "snippet": "powerful"
+        }
+      ]
+    },
+    {
+      "term": "الوَدُودُ",
+      "transliteration": "w-d-d",
+      "literal": "affection; love; friendship",
+      "se_rendering": "the All-Loving",
+      "note": "Rarest term in corpus (6 occurrences). SE's 'All-Loving' is the predominant rendering; affection and friendliness appear only in contextual phrases, making this attestation archetypal.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 35,
+          "snippet": "affection"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 20,
+          "snippet": "friendliness"
+        },
+        {
+          "work": "gleanings",
+          "para": 276,
+          "snippet": "the All-Loving"
+        }
+      ]
+    }
+  ],
+  "section_index": "LXVII.2",
+  "section": "LXVII",
+  "section_para": 2
 }

@@ -1,10 +1,179 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 691,
   "source_text": "وفِي النِّساءِ يَقُولُ هذِهِ أَمَتُكَ وَابْنَةُ أَمَتِكَ إِلى آخِرِه.",
   "translation": "(If the dead be a woman, let him say: This is Thy handmaiden and the daughter of Thy handmaiden, etc.…)",
   "source_lang": "ar",
-  "score": 9.1
+  "score": 9.1,
+  "page_slug": "handmaiden-daughter-handmaiden",
+  "alignment": [
+    {
+      "ar": "النِّساءِ",
+      "en": "woman"
+    },
+    {
+      "ar": "يَقُولُ",
+      "en": "say"
+    },
+    {
+      "ar": "هذِهِ",
+      "en": "This"
+    },
+    {
+      "ar": "أَمَتُكَ",
+      "en": "Thy handmaiden"
+    },
+    {
+      "ar": "ابْنَةُ",
+      "en": "daughter"
+    },
+    {
+      "ar": "آخِرِه",
+      "en": "etc"
+    }
+  ],
+  "terms": [
+    {
+      "term": "يَقُولُ",
+      "transliteration": "q-w-l",
+      "literal": "speech; utterance; saying; word",
+      "se_rendering": "let him say",
+      "note": "Typically 'He saith' or 'said' in declarative contexts; here rendered as imperative 'let him say' to match liturgical instruction function.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 66,
+          "snippet": "His words"
+        },
+        {
+          "work": "gleanings",
+          "para": 575,
+          "snippet": "his speech"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 207,
+          "snippet": "He saith"
+        },
+        {
+          "work": "gleanings",
+          "para": 272,
+          "snippet": "said"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 263,
+          "snippet": "hath said"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 236,
+          "snippet": "protested saying"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 231,
+          "snippet": "say"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 88,
+          "snippet": "they said"
+        }
+      ]
+    },
+    {
+      "term": "أَمَتُكَ",
+      "transliteration": "ʾ-m-m",
+      "literal": "people; nation; community; female servant; handmaiden",
+      "se_rendering": "handmaiden",
+      "note": "Standard rendering 'handmaiden' preserved; reflects SE's consistent choice across 16 occurrences for female servant in devotional address.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 220,
+          "snippet": "people"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 682,
+          "snippet": "handmaiden"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "peoples"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 25,
+          "snippet": "And now, concerning"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 28,
+          "snippet": "Those divines, however, who"
+        },
+        {
+          "work": "gleanings",
+          "para": 265,
+          "snippet": "The decree that is impending, however"
+        },
+        {
+          "work": "gleanings",
+          "para": 337,
+          "snippet": "And now concerning"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 137,
+          "snippet": "before"
+        }
+      ]
+    },
+    {
+      "term": "آخِرِه",
+      "transliteration": "ʾ-kh-r",
+      "literal": "the hereafter, the next life, the world to come",
+      "se_rendering": "etc",
+      "note": "Rendered as abbreviated 'etc.' rather than SE's typical 'the next', 'heaven', or 'At length'; exceptional ellipsis reflects ritual formula convention.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 70,
+          "snippet": "heaven"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 174,
+          "snippet": "At length"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 237,
+          "snippet": "until in the"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 105,
+          "snippet": "other"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 138,
+          "snippet": "once again"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 266,
+          "snippet": "shall follow"
+        }
+      ]
+    }
+  ],
+  "section_index": "CLXVII.10",
+  "section": "CLXVII",
+  "section_para": 10
 }

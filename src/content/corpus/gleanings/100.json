@@ -1,10 +1,628 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 100,
   "source_text": "محمّد وأوسطنا محمّد\" باری معلوم و محقّق آنجناب بوده که جميع انبيا هياکل امر اللّه هستند که در قمايص مختلفه ظاهر شدند و اگر بنظر لطيف ملاحظه فرمائی همه را در يک رضوان ساکن بينی و در يک هوا طائر و بر يک بساط جالس و بر يک کلام ناطق و بر يک امر آمر اينست اتّحاد آن جواهر وجود و شموس غير محدود و معدود پس اگر يکی از اين مظاهر قدسيّه بفرمايد من رجوع کلّ انبياء هستم صادق است و همچنين ثابت است در هر ظهور بعد صدق رجوع ظهور قبل ...",
   "translation": "It is clear and evident to thee that all the Prophets are the Temples of the Cause of God, Who have appeared clothed in divers attire. If thou wilt observe with discriminating eyes, thou wilt behold Them all abiding in the same tabernacle, soaring in the same heaven, seated upon the same throne, uttering the same speech, and proclaiming the same Faith. Such is the unity of those Essences of Being, those Luminaries of infinite and immeasurable splendor! Wherefore, should one of these Manifestations of Holiness proclaim saying: “I am the return of all the Prophets,” He, verily, speaketh the truth. In like manner, in every subsequent Revelation, the return of the former Revelation is a fact, the truth of which is firmly established.…",
   "source_lang": "ar",
-  "score": 9.9
+  "score": 9.9,
+  "page_slug": "temples-cause-god-unity-prophets",
+  "alignment": [
+    {
+      "ar": "باری",
+      "en": "verily"
+    },
+    {
+      "ar": "معلوم",
+      "en": "clear"
+    },
+    {
+      "ar": "محقّق",
+      "en": "evident"
+    },
+    {
+      "ar": "آنجناب",
+      "en": "thee"
+    },
+    {
+      "ar": "بوده",
+      "en": "is"
+    },
+    {
+      "ar": "که",
+      "en": "that"
+    },
+    {
+      "ar": "جميع",
+      "en": "all"
+    },
+    {
+      "ar": "انبيا",
+      "en": "the Prophets"
+    },
+    {
+      "ar": "هياکل",
+      "en": "the Temples"
+    },
+    {
+      "ar": "امر",
+      "en": "the Cause"
+    },
+    {
+      "ar": "اللّه",
+      "en": "God"
+    },
+    {
+      "ar": "هستند",
+      "en": "are"
+    },
+    {
+      "ar": "که",
+      "en": "Who"
+    },
+    {
+      "ar": "در",
+      "en": "in"
+    },
+    {
+      "ar": "قمايص",
+      "en": "attire"
+    },
+    {
+      "ar": "مختلفه",
+      "en": "divers"
+    },
+    {
+      "ar": "ظاهر",
+      "en": "appeared"
+    },
+    {
+      "ar": "شدند",
+      "en": "clothed"
+    },
+    {
+      "ar": "اگر",
+      "en": "If"
+    },
+    {
+      "ar": "بنظر",
+      "en": "with"
+    },
+    {
+      "ar": "لطيف",
+      "en": "discriminating"
+    },
+    {
+      "ar": "ملاحظه",
+      "en": "observe"
+    },
+    {
+      "ar": "فرمائی",
+      "en": "thou wilt"
+    },
+    {
+      "ar": "همه",
+      "en": "Them all"
+    },
+    {
+      "ar": "را",
+      "en": ""
+    },
+    {
+      "ar": "يک",
+      "en": "the same"
+    },
+    {
+      "ar": "رضوان",
+      "en": "tabernacle"
+    },
+    {
+      "ar": "ساکن",
+      "en": "abiding"
+    },
+    {
+      "ar": "بينی",
+      "en": "behold"
+    },
+    {
+      "ar": "هوا",
+      "en": "heaven"
+    },
+    {
+      "ar": "طائر",
+      "en": "soaring"
+    },
+    {
+      "ar": "بر",
+      "en": "upon"
+    },
+    {
+      "ar": "بساط",
+      "en": "throne"
+    },
+    {
+      "ar": "جالس",
+      "en": "seated"
+    },
+    {
+      "ar": "بر",
+      "en": ""
+    },
+    {
+      "ar": "کلام",
+      "en": "speech"
+    },
+    {
+      "ar": "ناطق",
+      "en": "uttering"
+    },
+    {
+      "ar": "بر",
+      "en": ""
+    },
+    {
+      "ar": "امر",
+      "en": "Faith"
+    },
+    {
+      "ar": "آمر",
+      "en": "proclaiming"
+    },
+    {
+      "ar": "اينست",
+      "en": "Such is"
+    },
+    {
+      "ar": "اتّحاد",
+      "en": "the unity"
+    },
+    {
+      "ar": "آن",
+      "en": "those"
+    },
+    {
+      "ar": "جواهر",
+      "en": "Essences"
+    },
+    {
+      "ar": "وجود",
+      "en": "Being"
+    },
+    {
+      "ar": "شموس",
+      "en": "Luminaries"
+    },
+    {
+      "ar": "غير محدود",
+      "en": "infinite"
+    },
+    {
+      "ar": "معدود",
+      "en": "immeasurable"
+    },
+    {
+      "ar": "پس",
+      "en": "Wherefore"
+    },
+    {
+      "ar": "اگر",
+      "en": "should"
+    },
+    {
+      "ar": "يکی",
+      "en": "one"
+    },
+    {
+      "ar": "از",
+      "en": "of"
+    },
+    {
+      "ar": "اين",
+      "en": "these"
+    },
+    {
+      "ar": "مظاهر",
+      "en": "Manifestations"
+    },
+    {
+      "ar": "قدسيّه",
+      "en": "Holiness"
+    },
+    {
+      "ar": "بفرمايد",
+      "en": "proclaim"
+    },
+    {
+      "ar": "من",
+      "en": "I"
+    },
+    {
+      "ar": "رجوع",
+      "en": "the return"
+    },
+    {
+      "ar": "هستم",
+      "en": "am"
+    },
+    {
+      "ar": "صادق",
+      "en": "the truth"
+    },
+    {
+      "ar": "است",
+      "en": "speaketh"
+    },
+    {
+      "ar": "همچنين",
+      "en": "In like manner"
+    },
+    {
+      "ar": "ثابت",
+      "en": "established"
+    },
+    {
+      "ar": "هر",
+      "en": "every"
+    },
+    {
+      "ar": "ظهور",
+      "en": "Revelation"
+    },
+    {
+      "ar": "بعد",
+      "en": "subsequent"
+    },
+    {
+      "ar": "قبل",
+      "en": "former"
+    }
+  ],
+  "terms": [
+    {
+      "term": "هياکل",
+      "transliteration": "h-k-l",
+      "literal": "temple; structure; form; body",
+      "se_rendering": "Temples",
+      "note": "Typically 'Temple' or 'person' across 20 occurrences. Here 'Temples' (plural) emphasizes collective spiritual structures housing divine Cause.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "Temple"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 96,
+          "snippet": "Súratu'l-Haykal"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 10,
+          "snippet": "person"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 154,
+          "snippet": "Being"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 28,
+          "snippet": "body"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 196,
+          "snippet": "temples"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 82,
+          "snippet": "thy temple"
+        }
+      ]
+    },
+    {
+      "term": "امر",
+      "transliteration": "ʾ-m-r",
+      "literal": "command; cause; matter; affair",
+      "se_rendering": "Cause",
+      "note": "Standard rendering 'Cause' or 'Revelation' across 75 occurrences. Consistent application here to denote God's immutable divine purpose.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "His Cause"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 797,
+          "snippet": "Thy Cause"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 597,
+          "snippet": "service"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 167,
+          "snippet": "things"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "commanded"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 236,
+          "snippet": "commissioned"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 785,
+          "snippet": "Thy Revelation"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 38,
+          "snippet": "for the protection of the Cause"
+        }
+      ]
+    },
+    {
+      "term": "مختلفه",
+      "transliteration": "kh-l-f",
+      "literal": "opposing; contrary; conflicting",
+      "se_rendering": "divers",
+      "note": "Usually 'contrary' or 'adversaries' (37 occ). Here rendered 'divers' (meaning varied/different)—sole positive semantic rendering, indicating multiplicity rather than opposition.",
+      "cross_refs": [
+        {
+          "work": "the-hidden-words",
+          "para": 107,
+          "snippet": "contrary"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 220,
+          "snippet": "adversaries"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 57,
+          "snippet": "contrary to"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 17,
+          "snippet": "whoso opposeth him"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 192,
+          "snippet": "difference"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 13,
+          "snippet": "contention"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 89,
+          "snippet": "differences"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 18,
+          "snippet": "divers communions"
+        }
+      ]
+    },
+    {
+      "term": "ظاهر",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "Manifestations",
+      "note": "Core term rendered 'Manifestation' across 96 occurrences. Appears twice: once as 'appeared' (past tense), once as 'Manifestations' (noun), showing SE's flexible grammatical adaptation.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 140,
+          "snippet": "manifestation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 160,
+          "snippet": "Author of all Manifestations"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 136,
+          "snippet": "evident"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 206,
+          "snippet": "appeared"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 196,
+          "snippet": "Manifestations of God"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 255,
+          "snippet": "Manifestations"
+        }
+      ]
+    },
+    {
+      "term": "رضوان",
+      "transliteration": "r-d-y",
+      "literal": "good-pleasure, consent, satisfaction",
+      "se_rendering": "tabernacle",
+      "note": "Typically 'Thy pleasure' or 'good-pleasure' (30 occ). Unique rendering as 'tabernacle' here—metaphorical shift from consent/satisfaction to physical sanctuary dwelling.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 621,
+          "snippet": "Thy pleasure"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 410,
+          "snippet": "Thy good-pleasure"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 46,
+          "snippet": "content"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 28,
+          "snippet": "is pleased with"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 41,
+          "snippet": "pleasure"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 109,
+          "snippet": "paradise"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 10,
+          "snippet": "Ridván"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 263,
+          "snippet": "Sadrih of the Ridván"
+        }
+      ]
+    },
+    {
+      "term": "اتّحاد",
+      "transliteration": "w-ḥ-d",
+      "literal": "unity; union; unification",
+      "se_rendering": "unity",
+      "note": "Standard 'unity' or 'oneness' across 56 occurrences. Rendered 'unity' here, maintaining abstract theological concept of divine unification.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-ahd",
+          "para": 5,
+          "snippet": "unity"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 14,
+          "snippet": "union"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 9,
+          "snippet": "unifying influence"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 20,
+          "snippet": "harmony"
+        }
+      ]
+    },
+    {
+      "term": "شموس",
+      "transliteration": "sh-m-s",
+      "literal": "sun; daystar; manifestation of divine light",
+      "se_rendering": "Luminaries",
+      "note": "Usually 'Sun' or 'Daystar' (13 occ). Here 'Luminaries'—collective plural form elevating from single celestial body to multiple radiant sources of divine light.",
+      "cross_refs": [
+        {
+          "work": "fire-tablet",
+          "para": 43,
+          "snippet": "Sun"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 33,
+          "snippet": "Prophets"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 234,
+          "snippet": "Sun-like Mirrors"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 191,
+          "snippet": "Luminaries arising from the Daysprings"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 715,
+          "snippet": "suns"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 199,
+          "snippet": "Luminaries of Truth"
+        }
+      ]
+    },
+    {
+      "term": "رجوع",
+      "transliteration": "r-j-ʿ",
+      "literal": "return; reference; place of return; resort",
+      "se_rendering": "return",
+      "note": "Typically 'return' or 'to Him shall we return' (16 occ). Rendered 'return' consistently here, affirming cyclical divine manifestation across ages.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 367,
+          "snippet": "target"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 53,
+          "snippet": "returned"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 530,
+          "snippet": "cause them to return"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 22,
+          "snippet": "Return"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 709,
+          "snippet": "return me"
+        }
+      ]
+    }
+  ],
+  "section_index": "XXII.3",
+  "section": "XXII",
+  "section_para": 3
 }

@@ -1,10 +1,845 @@
 {
   "work": "Epistle to the Son of the Wolf",
   "slug": "epistle-to-the-son-of-the-wolf",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 161,
   "source_text": "در اين حين سزاوار انکه بحضرت مقصود توجّه نمائيم و باين کلمات عاليات متمسّک شويم * الهی الهی سراج امرت را بدهن حکمت برافروختی از ارياح مختلفه حفظش نما * سراج از تو زجاج از تو اسباب اسمان و زمين در قبضه قدرت تو * امرا را عدل عنايت فرما و علما را انصاف * توئی ان مقتدری که بحرکت قلم امر مبرمت را نصرت فرمودی و اوليا را راه نمودی * توئی مالک قدرت و مليک اقتدار لا اله الّا انت العزيز المختار * و قل الهی الهی لک الحمد بما سقيتنی من يد عطاء اسمک القيّوم رحيقک المختوم * اسألک بانوار فجر ظهورک و بنفوذ کلمتک العليا و اقتدار قلمک الاعلی الّذی بحرکته انجذبت حقائق الاشياء ان توفّق حضرة السّلطان علی نصرة امرک و الاقبال الی افق ظهورک و التّوجّه الی انوار وجهک * ای ربّ ايّده علی ما يقرّبه اليک ثمّ انصره بجنود السّموات و الارض * اسألک يا اله الاسماء و فاطر السّماء بنور امرک و نار سدرة عنايتک ان تؤيّد حضرته علی اظهار امرک بين خلقک ثمّ افتح علی وجهه ابواب فضلک و رحمتک و عطائک انّک انت المقتدر علی ما تشاء بقولک کن فيکون *",
   "translation": "At this moment it behooveth us to turn unto the Desired One, and cleave unto these most sublime words: \"O God, my God! Thou hast lighted the lamp of Thy Cause with the oil of wisdom; protect it from contrary winds. The lamp is Thine, and the glass is Thine, and all things in the heavens and on earth are in the grasp of Thy power. Bestow justice upon the rulers, and fairness upon the divines. Thou art the All-Powerful, Who, through the motion of Thy Pen, hast aided Thine irresistible Cause, and guided aright Thy loved ones. Thou art the Possessor of power, and the King of might. No God is there but Thee, the Strong, the Unconstrained.\" Say thou also: \"O God, my God! I yield Thee thanks inasmuch as Thou hast made me to drink of Thy Sealed Wine from the hand of the bounty of Thy Name, the Self-Subsisting. I entreat Thee by the splendors of the Dayspring of Thy Revelation, and by the potency of Thy Most Sublime Word, and by the might of Thy Most Exalted Pen, through Whose movement the realities of all created things have been enraptured, to aid His Majesty the Sháh to render Thy Cause victorious, and to turn towards the horizon of Thy Revelation, and to set his face in the direction of the lights of Thy countenance. Assist him, O my Lord, to draw nigh unto Thee. Help him, then, with the hosts of the heavens and of earth. I implore Thee, O Thou Who art the Lord of all Names and the Maker of the heavens, by the light of Thy Cause, and by the fire of the Lote-Tree of Thy loving-kindness, to help His Majesty to reveal Thy Cause amidst Thy creatures. Open, then, before his face the doors of Thy grace, and Thy mercy, and Thy bounty. Potent art Thou to do what pleaseth Thee by Thy word: \\‘Be, and it is.'\"",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "lamp-of-thy-cause-wisdom",
+  "alignment": [
+    {
+      "ar": "در",
+      "en": "At"
+    },
+    {
+      "ar": "اين حين",
+      "en": "this moment"
+    },
+    {
+      "ar": "سزاوار",
+      "en": "behooveth"
+    },
+    {
+      "ar": "انکه",
+      "en": "us"
+    },
+    {
+      "ar": "بحضرت",
+      "en": "unto"
+    },
+    {
+      "ar": "مقصود",
+      "en": "the Desired One"
+    },
+    {
+      "ar": "توجّه",
+      "en": "turn"
+    },
+    {
+      "ar": "نمائيم",
+      "en": "to"
+    },
+    {
+      "ar": "باين",
+      "en": "unto these"
+    },
+    {
+      "ar": "کلمات",
+      "en": "words"
+    },
+    {
+      "ar": "عاليات",
+      "en": "most sublime"
+    },
+    {
+      "ar": "متمسّک",
+      "en": "cleave"
+    },
+    {
+      "ar": "الهی",
+      "en": "O God"
+    },
+    {
+      "ar": "سراج",
+      "en": "the lamp"
+    },
+    {
+      "ar": "امرت",
+      "en": "Thy Cause"
+    },
+    {
+      "ar": "را",
+      "en": "of"
+    },
+    {
+      "ar": "بدهن",
+      "en": "with the oil"
+    },
+    {
+      "ar": "حکمت",
+      "en": "wisdom"
+    },
+    {
+      "ar": "برافروختی",
+      "en": "lighted"
+    },
+    {
+      "ar": "از",
+      "en": "from"
+    },
+    {
+      "ar": "ارياح",
+      "en": "winds"
+    },
+    {
+      "ar": "مختلفه",
+      "en": "contrary"
+    },
+    {
+      "ar": "حفظش",
+      "en": "protect it"
+    },
+    {
+      "ar": "نما",
+      "en": "protect"
+    },
+    {
+      "ar": "زجاج",
+      "en": "the glass"
+    },
+    {
+      "ar": "تو",
+      "en": "Thine"
+    },
+    {
+      "ar": "اسباب",
+      "en": "all things"
+    },
+    {
+      "ar": "اسمان",
+      "en": "the heavens"
+    },
+    {
+      "ar": "زمين",
+      "en": "earth"
+    },
+    {
+      "ar": "در",
+      "en": "in"
+    },
+    {
+      "ar": "قبضه",
+      "en": "the grasp"
+    },
+    {
+      "ar": "قدرت",
+      "en": "power"
+    },
+    {
+      "ar": "امرا",
+      "en": "the rulers"
+    },
+    {
+      "ar": "عدل",
+      "en": "justice"
+    },
+    {
+      "ar": "عنايت",
+      "en": "Bestow"
+    },
+    {
+      "ar": "فرما",
+      "en": "upon"
+    },
+    {
+      "ar": "علما",
+      "en": "the divines"
+    },
+    {
+      "ar": "انصاف",
+      "en": "fairness"
+    },
+    {
+      "ar": "توئی",
+      "en": "Thou art"
+    },
+    {
+      "ar": "ان",
+      "en": "the"
+    },
+    {
+      "ar": "مقتدری",
+      "en": "All-Powerful"
+    },
+    {
+      "ar": "که",
+      "en": "Who"
+    },
+    {
+      "ar": "بحرکت",
+      "en": "through the motion"
+    },
+    {
+      "ar": "قلم",
+      "en": "Thy Pen"
+    },
+    {
+      "ar": "امر",
+      "en": "Cause"
+    },
+    {
+      "ar": "مبرمت",
+      "en": "irresistible"
+    },
+    {
+      "ar": "نصرت",
+      "en": "aided"
+    },
+    {
+      "ar": "فرمودی",
+      "en": "hast"
+    },
+    {
+      "ar": "اوليا",
+      "en": "loved ones"
+    },
+    {
+      "ar": "راه",
+      "en": "guided aright"
+    },
+    {
+      "ar": "نمودی",
+      "en": "guided"
+    },
+    {
+      "ar": "مالک",
+      "en": "the Possessor"
+    },
+    {
+      "ar": "مليک",
+      "en": "the King"
+    },
+    {
+      "ar": "اقتدار",
+      "en": "might"
+    },
+    {
+      "ar": "لا اله الّا انت",
+      "en": "No God is there but Thee"
+    },
+    {
+      "ar": "العزيز",
+      "en": "the Strong"
+    },
+    {
+      "ar": "المختار",
+      "en": "the Unconstrained"
+    },
+    {
+      "ar": "و قل",
+      "en": "Say thou"
+    },
+    {
+      "ar": "لک الحمد",
+      "en": "I yield Thee thanks"
+    },
+    {
+      "ar": "بما",
+      "en": "inasmuch as"
+    },
+    {
+      "ar": "سقيتنی",
+      "en": "made me to drink"
+    },
+    {
+      "ar": "من يد",
+      "en": "from the hand"
+    },
+    {
+      "ar": "عطاء",
+      "en": "the bounty"
+    },
+    {
+      "ar": "اسمک",
+      "en": "Thy Name"
+    },
+    {
+      "ar": "القيّوم",
+      "en": "the Self-Subsisting"
+    },
+    {
+      "ar": "رحيقک",
+      "en": "Wine"
+    },
+    {
+      "ar": "المختوم",
+      "en": "Sealed"
+    },
+    {
+      "ar": "اسألک",
+      "en": "I entreat Thee"
+    },
+    {
+      "ar": "بانوار",
+      "en": "by the splendors"
+    },
+    {
+      "ar": "فجر",
+      "en": "the Dayspring"
+    },
+    {
+      "ar": "ظهورک",
+      "en": "Thy Revelation"
+    },
+    {
+      "ar": "بنفوذ",
+      "en": "by the potency"
+    },
+    {
+      "ar": "العليا",
+      "en": "Most Sublime"
+    },
+    {
+      "ar": "اقتدار",
+      "en": "by the might"
+    },
+    {
+      "ar": "الاعلی",
+      "en": "Most Exalted"
+    },
+    {
+      "ar": "الّذی",
+      "en": "through Whose"
+    },
+    {
+      "ar": "بحرکته",
+      "en": "movement"
+    },
+    {
+      "ar": "انجذبت",
+      "en": "have been enraptured"
+    },
+    {
+      "ar": "حقائق",
+      "en": "the realities"
+    },
+    {
+      "ar": "الاشياء",
+      "en": "all created things"
+    },
+    {
+      "ar": "ان توفّق",
+      "en": "to aid"
+    },
+    {
+      "ar": "حضرة السّلطان",
+      "en": "His Majesty the Sháh"
+    },
+    {
+      "ar": "نصرة",
+      "en": "victorious"
+    },
+    {
+      "ar": "الاقبال",
+      "en": "to turn"
+    },
+    {
+      "ar": "الی",
+      "en": "towards"
+    },
+    {
+      "ar": "افق",
+      "en": "the horizon"
+    },
+    {
+      "ar": "التّوجّه",
+      "en": "to set his face"
+    },
+    {
+      "ar": "انوار",
+      "en": "the lights"
+    },
+    {
+      "ar": "وجهک",
+      "en": "Thy countenance"
+    },
+    {
+      "ar": "ای ربّ",
+      "en": "O my Lord"
+    },
+    {
+      "ar": "ايّده",
+      "en": "Assist him"
+    },
+    {
+      "ar": "يقرّبه",
+      "en": "draw nigh"
+    },
+    {
+      "ar": "اليک",
+      "en": "unto Thee"
+    },
+    {
+      "ar": "ثمّ",
+      "en": "then"
+    },
+    {
+      "ar": "انصره",
+      "en": "Help him"
+    },
+    {
+      "ar": "بجنود",
+      "en": "with the hosts"
+    },
+    {
+      "ar": "يا",
+      "en": "O"
+    },
+    {
+      "ar": "اله الاسماء",
+      "en": "the Lord of all Names"
+    },
+    {
+      "ar": "فاطر السّماء",
+      "en": "the Maker of the heavens"
+    },
+    {
+      "ar": "بنور",
+      "en": "by the light"
+    },
+    {
+      "ar": "نار",
+      "en": "by the fire"
+    },
+    {
+      "ar": "سدرة",
+      "en": "the Lote-Tree"
+    },
+    {
+      "ar": "عنايتک",
+      "en": "Thy loving-kindness"
+    },
+    {
+      "ar": "تؤيّد",
+      "en": "to help"
+    },
+    {
+      "ar": "حضرته",
+      "en": "His Majesty"
+    },
+    {
+      "ar": "اظهار",
+      "en": "to reveal"
+    },
+    {
+      "ar": "بين",
+      "en": "amidst"
+    },
+    {
+      "ar": "خلقک",
+      "en": "Thy creatures"
+    },
+    {
+      "ar": "افتح",
+      "en": "Open"
+    },
+    {
+      "ar": "علی وجهه",
+      "en": "before his face"
+    },
+    {
+      "ar": "ابواب",
+      "en": "the doors"
+    },
+    {
+      "ar": "فضلک",
+      "en": "Thy grace"
+    },
+    {
+      "ar": "رحمتک",
+      "en": "Thy mercy"
+    },
+    {
+      "ar": "عطائک",
+      "en": "Thy bounty"
+    },
+    {
+      "ar": "انّک",
+      "en": "art Thou"
+    },
+    {
+      "ar": "انت",
+      "en": "Thou"
+    },
+    {
+      "ar": "المقتدر",
+      "en": "Potent"
+    },
+    {
+      "ar": "علی ما",
+      "en": "to do what"
+    },
+    {
+      "ar": "تشاء",
+      "en": "pleaseth Thee"
+    },
+    {
+      "ar": "بقولک",
+      "en": "by Thy word"
+    },
+    {
+      "ar": "کن فيکون",
+      "en": "Be, and it is"
+    }
+  ],
+  "terms": [
+    {
+      "term": "حکمت",
+      "transliteration": "h-k-m",
+      "literal": "government; rule; governance; wisdom",
+      "se_rendering": "wisdom",
+      "note": "Rendered 'wisdom' here; concordance shows alternation with 'rule', 'government', 'mysteries'. This rendering emphasizes epistemological rather than political dimensions of divine governance.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-ahd",
+          "para": 6,
+          "snippet": "rule"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "government"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 849,
+          "snippet": "signs of Thy sovereignty"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 160,
+          "snippet": "meaning of return"
+        },
+        {
+          "work": "gleanings",
+          "para": 224,
+          "snippet": "mysteries"
+        },
+        {
+          "work": "gleanings",
+          "para": 636,
+          "snippet": "rule of the sword"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 182,
+          "snippet": "mystery of the former verse"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 46,
+          "snippet": "conclusive"
+        }
+      ]
+    },
+    {
+      "term": "علما",
+      "transliteration": "ʿ-l-m",
+      "literal": "world; universe; the worlds",
+      "se_rendering": "the divines",
+      "note": "Rendered 'the divines' (religious scholars); concordance primarily shows 'world', 'knowledge', 'mankind'. This specific rendering targets institutional religious authority as recipient of divine justice.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 198,
+          "snippet": "world"
+        },
+        {
+          "work": "gleanings",
+          "para": 657,
+          "snippet": "all worlds"
+        },
+        {
+          "work": "gleanings",
+          "para": 182,
+          "snippet": "mankind"
+        },
+        {
+          "work": "gleanings",
+          "para": 183,
+          "snippet": "the whole world"
+        },
+        {
+          "work": "gleanings",
+          "para": 226,
+          "snippet": "all earthly defilements"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 76,
+          "snippet": "Knowledge"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 122,
+          "snippet": "commentators"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 42,
+          "snippet": "banner"
+        }
+      ]
+    },
+    {
+      "term": "ظهورک",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "Thy Revelation",
+      "note": "Rendered 'Thy Revelation' (eschatological manifestation); concordance shows 'Manifestation', 'manifestation', 'revealed'. SE uses theological noun form here rather than verbal or material senses.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 53,
+          "snippet": "Manifestation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 160,
+          "snippet": "Author of all Manifestations"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 136,
+          "snippet": "evident"
+        },
+        {
+          "work": "gleanings",
+          "para": 222,
+          "snippet": "material"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 196,
+          "snippet": "Manifestations of God"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 255,
+          "snippet": "Manifestations"
+        }
+      ]
+    },
+    {
+      "term": "العليا",
+      "transliteration": "ʿ-l-w",
+      "literal": "highest; most high; supreme",
+      "se_rendering": "Most Sublime",
+      "note": "Rendered 'Most Sublime' modifying 'Word'; concordance shows 'the Most High', 'the Most Exalted'. Consistent superlative usage but here applied specifically to divine utterance rather than divine being.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 1,
+          "snippet": "the Most High"
+        },
+        {
+          "work": "gleanings",
+          "para": 232,
+          "snippet": "supreme"
+        },
+        {
+          "work": "gleanings",
+          "para": 616,
+          "snippet": "the realms above"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 390,
+          "snippet": "the Most Exalted, the Most High"
+        },
+        {
+          "work": "gleanings",
+          "para": 393,
+          "snippet": "The Pen of the Most High"
+        },
+        {
+          "work": "gleanings",
+          "para": 697,
+          "snippet": "the Dayspring of Glory"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 1,
+          "snippet": "the Realm of Glory"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 257,
+          "snippet": "the Báb, the Lord, the most exalted"
+        }
+      ]
+    },
+    {
+      "term": "حقائق",
+      "transliteration": "h-q-q",
+      "literal": "truth; right; that which is true or just",
+      "se_rendering": "realities",
+      "note": "Rendered 'realities'; concordance shows 'the True One', 'the Truth', 'Sun of Truth'. Exceptional here: SE uses ontological rather than personified rendering, emphasizing objective metaphysical enrapture.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 651,
+          "snippet": "the True One"
+        },
+        {
+          "work": "gleanings",
+          "para": 85,
+          "snippet": "the Truth"
+        },
+        {
+          "work": "gleanings",
+          "para": 328,
+          "snippet": "the one true God"
+        },
+        {
+          "work": "gleanings",
+          "para": 707,
+          "snippet": "Him"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 52,
+          "snippet": "Sun of Truth"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 103,
+          "snippet": "Luminaries of Truth"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 113,
+          "snippet": "was realized"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 215,
+          "snippet": "realization"
+        }
+      ]
+    },
+    {
+      "term": "خلقک",
+      "transliteration": "kh-l-q",
+      "literal": "character; moral traits; disposition; conduct",
+      "se_rendering": "Thy creatures",
+      "note": "Rendered 'Thy creatures'; concordance shows 'character', 'virtues', 'spiritual characteristics'. Exceptional here: SE uses 'creatures' (ontological subjects) not 'creation' (moral realm), emphasizing divine relationship to beings.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 21,
+          "snippet": "character"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 54,
+          "snippet": "created her"
+        },
+        {
+          "work": "gleanings",
+          "para": 451,
+          "snippet": "His Apostle"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 231,
+          "snippet": "His creatures"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 139,
+          "snippet": "His creation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 343,
+          "snippet": "Thy creatures"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 40,
+          "snippet": "wert created"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 23,
+          "snippet": "created thee"
+        }
+      ]
+    },
+    {
+      "term": "رحمتک",
+      "transliteration": "r-ḥ-m",
+      "literal": "merciful, compassionate; pertaining to divine mercy",
+      "se_rendering": "Thy mercy",
+      "note": "Rendered 'Thy mercy'; concordance shows 'Divine glory', 'spirit of mercy', 'have mercy'. Direct merciful sense here rather than abstract divine quality—practical supplication rather than attribute description.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 673,
+          "snippet": "Divine glory"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 57,
+          "snippet": "Divine"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 89,
+          "snippet": "celestial melody"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 114,
+          "snippet": "spirit of mercy"
+        },
+        {
+          "work": "gleanings",
+          "para": 372,
+          "snippet": "merciful"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 546,
+          "snippet": "mercy"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 50,
+          "snippet": "the Compassionate"
+        },
+        {
+          "work": "gleanings",
+          "para": 183,
+          "snippet": "the Merciful, the Compassionate"
+        }
+      ]
+    }
+  ],
+  "section_index": "161",
+  "section": "161",
+  "section_para": 1
 }

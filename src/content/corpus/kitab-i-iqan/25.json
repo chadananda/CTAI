@@ -1,10 +1,806 @@
 {
   "work": "Kitab-i-Iqan",
   "slug": "kitab-i-iqan",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 25,
   "source_text": "و علمای انجيل چون عارف به معانی اين بيانات و مقصود مودعه در اين کلمات نشدند و به ظاهر آن  متمسّک شدند لهذا از شريعه فيض محمّديّه و از سحاب فضل احمديّه ممنوع گشتند.  و جهّال آن طائفه هم تمسّک به علمای خود جسته، از زيارت جمال سلطان جلال محروم ماندند زيرا که در ظهور شمس احمديّه چنين علامات که مذکور شد به ظهور نيامد. اين است که قرن ها گذشت و عهدها به آخر رسيد و آن جوهر روح به مقرّ بقای سلطنت خود راجع شد و نفخه ديگر از نَفْس روحانی در صور الهی دميده شد و نفس های مرده از قبور غفلت و ضلالت به ارض هدايت و محلّ عنايت محشورشدند و هنوز آن گروه در انتظار که کی اين علامات ظاهر شود و آن هيکل معهود به وجود آيد تا نصرت نمايند و مال ها در راهش انفاق کنند و جان ها در سبيلش ايثار.  چنانچه امم ديگر هم به همين ظنونات از کوثر معانيِ رحمت نامتناهيِ حضرت باری دور ماندهاند و به خيال خود مشغولند.",
   "translation": "Inasmuch as the Christian divines have failed to apprehend the meaning of these words, and did not recognize their object and purpose, and have clung to the literal interpretation of the words of Jesus, they therefore became deprived of the streaming grace of the Muhammadan Revelation and its showering bounties. The ignorant among the Christian community, following the example of the leaders of their faith, were likewise prevented from beholding the beauty of the King of glory, inasmuch as those signs which were to accompany the dawn of the sun of the Muhammadan Dispensation did not actually come to pass. Thus, ages have passed and centuries rolled away, and that most pure Spirit hath repaired unto the retreats of its ancient sovereignty. Once more hath the eternal Spirit breathed into the mystic trumpet, and caused the dead to speed out of their sepulchres of heedlessness and error unto the realm of guidance and grace. And yet, that expectant community still crieth out: When shall these things be? When shall the promised One, the object of our expectation, be made manifest, that we may arise for the triumph of His Cause, that we may sacrifice our substance for His sake, that we may offer up our lives in His path? In like manner, have such false imaginings caused other communities to stray from the Kawthar of the infinite mercy of Providence, and to be busied with their own idle thoughts.",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "dead-speed-sepulchres-heedlessness",
+  "alignment": [
+    {
+      "ar": "علمای",
+      "en": "divines"
+    },
+    {
+      "ar": "انجيل",
+      "en": "Christian"
+    },
+    {
+      "ar": "چون",
+      "en": "Inasmuch as"
+    },
+    {
+      "ar": "عارف",
+      "en": "apprehend"
+    },
+    {
+      "ar": "معانی",
+      "en": "meaning"
+    },
+    {
+      "ar": "اين",
+      "en": "these"
+    },
+    {
+      "ar": "بيانات",
+      "en": "words"
+    },
+    {
+      "ar": "مقصود",
+      "en": "object"
+    },
+    {
+      "ar": "مودعه",
+      "en": "purpose"
+    },
+    {
+      "ar": "نشدند",
+      "en": "failed"
+    },
+    {
+      "ar": "ظاهر",
+      "en": "literal interpretation"
+    },
+    {
+      "ar": "آن",
+      "en": "the words"
+    },
+    {
+      "ar": "متمسّک",
+      "en": "clung"
+    },
+    {
+      "ar": "شدند",
+      "en": "have clung"
+    },
+    {
+      "ar": "لهذا",
+      "en": "therefore"
+    },
+    {
+      "ar": "شريعه",
+      "en": "Revelation"
+    },
+    {
+      "ar": "فيض",
+      "en": "grace"
+    },
+    {
+      "ar": "محمّديّه",
+      "en": "Muhammadan"
+    },
+    {
+      "ar": "سحاب",
+      "en": "showering"
+    },
+    {
+      "ar": "فضل",
+      "en": "bounties"
+    },
+    {
+      "ar": "ممنوع",
+      "en": "deprived"
+    },
+    {
+      "ar": "گشتند",
+      "en": "became deprived"
+    },
+    {
+      "ar": "جهّال",
+      "en": "ignorant"
+    },
+    {
+      "ar": "طائفه",
+      "en": "community"
+    },
+    {
+      "ar": "هم",
+      "en": "likewise"
+    },
+    {
+      "ar": "تمسّک",
+      "en": "following"
+    },
+    {
+      "ar": "علمای",
+      "en": "leaders"
+    },
+    {
+      "ar": "خود",
+      "en": "their faith"
+    },
+    {
+      "ar": "جسته",
+      "en": "example"
+    },
+    {
+      "ar": "زيارت",
+      "en": "beholding"
+    },
+    {
+      "ar": "جمال",
+      "en": "beauty"
+    },
+    {
+      "ar": "سلطان",
+      "en": "King"
+    },
+    {
+      "ar": "جلال",
+      "en": "glory"
+    },
+    {
+      "ar": "محروم",
+      "en": "prevented"
+    },
+    {
+      "ar": "زيرا",
+      "en": "inasmuch as"
+    },
+    {
+      "ar": "ظهور",
+      "en": "dawn"
+    },
+    {
+      "ar": "شمس",
+      "en": "sun"
+    },
+    {
+      "ar": "احمديّه",
+      "en": "Muhammadan Dispensation"
+    },
+    {
+      "ar": "چنين",
+      "en": "those"
+    },
+    {
+      "ar": "علامات",
+      "en": "signs"
+    },
+    {
+      "ar": "که",
+      "en": "which"
+    },
+    {
+      "ar": "مذکور",
+      "en": "to accompany"
+    },
+    {
+      "ar": "شد",
+      "en": "were"
+    },
+    {
+      "ar": "به ظهور",
+      "en": "come to pass"
+    },
+    {
+      "ar": "نيامد",
+      "en": "did not"
+    },
+    {
+      "ar": "اين است",
+      "en": "Thus"
+    },
+    {
+      "ar": "قرن ها",
+      "en": "ages"
+    },
+    {
+      "ar": "گذشت",
+      "en": "passed"
+    },
+    {
+      "ar": "عهدها",
+      "en": "centuries"
+    },
+    {
+      "ar": "به آخر",
+      "en": "rolled away"
+    },
+    {
+      "ar": "جوهر",
+      "en": "Spirit"
+    },
+    {
+      "ar": "مقرّ",
+      "en": "retreats"
+    },
+    {
+      "ar": "بقای",
+      "en": "ancient"
+    },
+    {
+      "ar": "سلطنت",
+      "en": "sovereignty"
+    },
+    {
+      "ar": "راجع",
+      "en": "repaired"
+    },
+    {
+      "ar": "شد",
+      "en": "hath repaired"
+    },
+    {
+      "ar": "نفخه",
+      "en": "breathed"
+    },
+    {
+      "ar": "ديگر",
+      "en": "Once more"
+    },
+    {
+      "ar": "روحانی",
+      "en": "eternal"
+    },
+    {
+      "ar": "صور",
+      "en": "trumpet"
+    },
+    {
+      "ar": "الهی",
+      "en": "mystic"
+    },
+    {
+      "ar": "نفس های",
+      "en": "dead"
+    },
+    {
+      "ar": "قبور",
+      "en": "sepulchres"
+    },
+    {
+      "ar": "غفلت",
+      "en": "heedlessness"
+    },
+    {
+      "ar": "ضلالت",
+      "en": "error"
+    },
+    {
+      "ar": "ارض",
+      "en": "realm"
+    },
+    {
+      "ar": "هدايت",
+      "en": "guidance"
+    },
+    {
+      "ar": "محشور",
+      "en": "speed out"
+    },
+    {
+      "ar": "شدند",
+      "en": "caused"
+    },
+    {
+      "ar": "هنوز",
+      "en": "yet"
+    },
+    {
+      "ar": "انتظار",
+      "en": "expectant"
+    },
+    {
+      "ar": "کی",
+      "en": "When"
+    },
+    {
+      "ar": "علامات",
+      "en": "things"
+    },
+    {
+      "ar": "ظاهر",
+      "en": "manifest"
+    },
+    {
+      "ar": "شود",
+      "en": "be"
+    },
+    {
+      "ar": "معهود",
+      "en": "promised One"
+    },
+    {
+      "ar": "وجود",
+      "en": "expectation"
+    },
+    {
+      "ar": "آيد",
+      "en": "be made manifest"
+    },
+    {
+      "ar": "نصرت",
+      "en": "triumph"
+    },
+    {
+      "ar": "نمايند",
+      "en": "arise"
+    },
+    {
+      "ar": "مال ها",
+      "en": "substance"
+    },
+    {
+      "ar": "راهش",
+      "en": "His sake"
+    },
+    {
+      "ar": "انفاق",
+      "en": "sacrifice"
+    },
+    {
+      "ar": "کنند",
+      "en": "may sacrifice"
+    },
+    {
+      "ar": "جان ها",
+      "en": "lives"
+    },
+    {
+      "ar": "سبيلش",
+      "en": "His path"
+    },
+    {
+      "ar": "ايثار",
+      "en": "offer up"
+    },
+    {
+      "ar": "چنانچه",
+      "en": "In like manner"
+    },
+    {
+      "ar": "امم",
+      "en": "communities"
+    },
+    {
+      "ar": "ديگر",
+      "en": "other"
+    },
+    {
+      "ar": "همين",
+      "en": "such"
+    },
+    {
+      "ar": "ظنونات",
+      "en": "false imaginings"
+    },
+    {
+      "ar": "کوثر",
+      "en": "Kawthar"
+    },
+    {
+      "ar": "معانيِ",
+      "en": "mercy"
+    },
+    {
+      "ar": "نامتناهيِ",
+      "en": "infinite"
+    },
+    {
+      "ar": "حضرت",
+      "en": "Providence"
+    },
+    {
+      "ar": "دور",
+      "en": "stray"
+    },
+    {
+      "ar": "خيال",
+      "en": "idle thoughts"
+    },
+    {
+      "ar": "مشغولند",
+      "en": "busied"
+    }
+  ],
+  "terms": [
+    {
+      "term": "عارف",
+      "transliteration": "ʿ-r-f",
+      "literal": "to confess; to acknowledge; to recognize",
+      "se_rendering": "failed to apprehend",
+      "note": "Root typically rendered 'recognized,' 'acknowledged,' 'testifieth.' Here 'failed to apprehend' inverts the meaning—denoting absence of recognition rather than its presence.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 601,
+          "snippet": "testifieth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 729,
+          "snippet": "hath acknowledged"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 582,
+          "snippet": "have recognized"
+        },
+        {
+          "work": "gleanings",
+          "para": 568,
+          "snippet": "acknowledged"
+        },
+        {
+          "work": "gleanings",
+          "para": 295,
+          "snippet": "made objections"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 744,
+          "snippet": "understanding"
+        },
+        {
+          "work": "gleanings",
+          "para": 87,
+          "snippet": "knowledge"
+        },
+        {
+          "work": "gleanings",
+          "para": 2,
+          "snippet": "perception"
+        }
+      ]
+    },
+    {
+      "term": "بيانات",
+      "transliteration": "b-y-n",
+      "literal": "to manifest; to make clear; clear, evident",
+      "se_rendering": "these words",
+      "note": "Usually 'clear proofs,' 'Bayán,' 'clear verses.' Rendered as bare 'words' here, stripping the epistemological force of manifest clarity the root carries.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 223,
+          "snippet": "the Expounder, the Most Manifest"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 3,
+          "snippet": "proofs"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 12,
+          "snippet": "clear proofs"
+        },
+        {
+          "work": "gleanings",
+          "para": 563,
+          "snippet": "Dawning-Place of the proofs"
+        },
+        {
+          "work": "gleanings",
+          "para": 292,
+          "snippet": "the Bayán"
+        },
+        {
+          "work": "gleanings",
+          "para": 636,
+          "snippet": "utterance"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 120,
+          "snippet": "evil"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 178,
+          "snippet": "evident error"
+        }
+      ]
+    },
+    {
+      "term": "ظاهر",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "literal interpretation; come to pass; be made manifest",
+      "note": "Most frequent as 'Manifestation'/'manifestation.' Used three times here across meanings: 'literal' (external sense), 'come to pass' (appear), 'manifest' (be revealed)—demonstrating semantic range compressed in single translation.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 53,
+          "snippet": "Manifestation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 160,
+          "snippet": "Author of all Manifestations"
+        },
+        {
+          "work": "gleanings",
+          "para": 222,
+          "snippet": "material"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 206,
+          "snippet": "appeared"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 255,
+          "snippet": "Manifestations"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 791,
+          "snippet": "tokens of Thy handiwork"
+        }
+      ]
+    },
+    {
+      "term": "جمال",
+      "transliteration": "j-m-l",
+      "literal": "beauty; comeliness",
+      "se_rendering": "beauty",
+      "note": "Most common as 'Beauty' (often capitalized for the Báb). Rendered lowercase 'beauty' here as grammatical object to beholding, avoiding proper noun force.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 296,
+          "snippet": "Beauty"
+        },
+        {
+          "work": "gleanings",
+          "para": 183,
+          "snippet": "Ancient Beauty"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 193,
+          "snippet": "Among others"
+        },
+        {
+          "work": "gleanings",
+          "para": 359,
+          "snippet": "Amongst"
+        },
+        {
+          "work": "gleanings",
+          "para": 649,
+          "snippet": "by the beauty"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 88,
+          "snippet": "for a beauty"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 116,
+          "snippet": "by Thine Ancient Beauty"
+        },
+        {
+          "work": "gleanings",
+          "para": 165,
+          "snippet": "By My Beauty"
+        }
+      ]
+    },
+    {
+      "term": "روح",
+      "transliteration": "r-w-h",
+      "literal": "to go; to depart; to rest; spirit; soul",
+      "se_rendering": "Spirit; eternal Spirit",
+      "note": "Typically 'spirit,' 'spiritual,' or 'My Well-Beloved.' 'Eternal Spirit' here adds qualifier absent in Persian, emphasizing permanence of the returning principle.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 164,
+          "snippet": "My Well-Beloved"
+        },
+        {
+          "work": "gleanings",
+          "para": 246,
+          "snippet": "My"
+        },
+        {
+          "work": "gleanings",
+          "para": 367,
+          "snippet": "spirit"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 702,
+          "snippet": "my spirit"
+        },
+        {
+          "work": "gleanings",
+          "para": 548,
+          "snippet": "spiritual"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 20,
+          "snippet": "a breath of My own Spirit"
+        },
+        {
+          "work": "gleanings",
+          "para": 337,
+          "snippet": "human souls"
+        },
+        {
+          "work": "gleanings",
+          "para": 50,
+          "snippet": "the splendors"
+        }
+      ]
+    },
+    {
+      "term": "غفلت",
+      "transliteration": "gh-f-l",
+      "literal": "heedlessness; negligence; inattention",
+      "se_rendering": "heedlessness",
+      "note": "Consistently 'heedlessness' across 39 occurrences. Single rendering here matches dominant pattern without deviation; metaphorical sepulcher meaning preserved.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 158,
+          "snippet": "O heedless one"
+        },
+        {
+          "work": "gleanings",
+          "para": 132,
+          "snippet": "heedless"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 134,
+          "snippet": "thou who hast gone astray"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 156,
+          "snippet": "thou who art gone astray"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 6,
+          "snippet": "my heedlessness"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 90,
+          "snippet": "Essence of Negligence"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 95,
+          "snippet": "couch of heedlessness"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 152,
+          "snippet": "Children of Negligence"
+        }
+      ]
+    },
+    {
+      "term": "وجود",
+      "transliteration": "w-j-d",
+      "literal": "to find; to discover; to obtain",
+      "se_rendering": "be made manifest",
+      "note": "Root means 'to find,' 'to obtain,' 'being.' Rendered 'be made manifest' here—reading existential actualization as revelation, not mere ontological presence.",
+      "cross_refs": [
+        {
+          "work": "the-hidden-words",
+          "para": 91,
+          "snippet": "adorned"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 27,
+          "snippet": "found"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 783,
+          "snippet": "point of creation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 832,
+          "snippet": "being"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 214,
+          "snippet": "is led"
+        },
+        {
+          "work": "gleanings",
+          "para": 436,
+          "snippet": "The Great Being"
+        },
+        {
+          "work": "gleanings",
+          "para": 4,
+          "snippet": "created things"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 291,
+          "snippet": "all created things"
+        }
+      ]
+    },
+    {
+      "term": "رحمت",
+      "transliteration": "r-ḥ-m",
+      "literal": "merciful, compassionate; pertaining to divine mercy",
+      "se_rendering": "mercy; infinite mercy",
+      "note": "Usually 'merciful,' 'Divine mercy,' 'spirit of mercy.' 'Infinite mercy' here adds 'infinite'—intensifying an attribute implicit but not explicit in the source.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 673,
+          "snippet": "Divine glory"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 57,
+          "snippet": "Divine"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 89,
+          "snippet": "celestial melody"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 114,
+          "snippet": "spirit of mercy"
+        },
+        {
+          "work": "gleanings",
+          "para": 372,
+          "snippet": "merciful"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 220,
+          "snippet": "have mercy on them"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 546,
+          "snippet": "mercy"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 50,
+          "snippet": "the Compassionate"
+        }
+      ]
+    }
+  ],
+  "section_index": "25",
+  "section": "25",
+  "section_para": 1
 }

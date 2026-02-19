@@ -1,10 +1,668 @@
 {
   "work": "Kitab-i-Iqan",
   "slug": "kitab-i-iqan",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 216,
   "source_text": "و چون سراج طلب و مجاهده و ذوق وشوق و عشق و وله و جذب و حبّ در قلب روشن شد و نسيم محبّت از شطر احديّه وزيد ظلمت ضلالت شکّ و ريب زائل شود و انوار علم و يقين همه ارکان وجود را احاطه نمايد.  درآن حين بشير معنوی به بشارت روحانی از مدينه الهی چون صبح صادق طالع شود و قلب و نفس و روح را به صور معرفت از نوم غفلت بيدار نمايد.  و عنايات و تأييدات روح القدس صمدانی حيات تازه جديد مبذول دارد به قسمی که خود را صاحب چشم جديد و گوش بديع و قلب و فؤاد تازه می بيند و رجوع به آيات واضحه آفاقيه و خفيّات مستوره انفسيّه می نمايد و به عين اللّه بديعه در هر ذرّه بابی مفتوح مشاهده نمايد برای وصول به مراتب عين اليقين و حقّ اليقين و نور اليقين، و در جميع اشياء اسرار تجلّی وحدانيّه و آثار ظهور صمدانيّه ملاحظه کند.",
   "translation": "Only when the lamp of search, of earnest striving, of longing desire, of passionate devotion, of fervid love, of rapture, and ecstasy, is kindled within the seeker’s heart, and the breeze of His loving-kindness is wafted upon his soul, will the darkness of error be dispelled, the mists of doubts and misgivings be dissipated, and the lights of knowledge and certitude envelop his being. At that hour will the mystic Herald, bearing the joyful tidings of the Spirit, shine forth from the City of God resplendent as the morn, and, through the trumpet-blast of knowledge, will awaken the heart, the soul, and the spirit from the slumber of negligence. Then will the manifold favours and outpouring grace of the holy and everlasting Spirit confer such new life upon the seeker that he will find himself endowed with a new eye, a new ear, a new heart, and a new mind. He will contemplate the manifest signs of the universe, and will penetrate the hidden mysteries of the soul. Gazing with the eye of God, he will perceive within every atom a door that leadeth him to the stations of absolute certitude. He will discover in all things the mysteries of divine Revelation and the evidences of an everlasting manifestation.",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "eye-of-god-perceive-every-atom",
+  "alignment": [
+    {
+      "ar": "چون",
+      "en": "when"
+    },
+    {
+      "ar": "سراج",
+      "en": "lamp"
+    },
+    {
+      "ar": "طلب",
+      "en": "search"
+    },
+    {
+      "ar": "مجاهده",
+      "en": "earnest striving"
+    },
+    {
+      "ar": "ذوق",
+      "en": "longing desire"
+    },
+    {
+      "ar": "عشق",
+      "en": "passionate devotion"
+    },
+    {
+      "ar": "وله",
+      "en": "fervid love"
+    },
+    {
+      "ar": "جذب",
+      "en": "rapture"
+    },
+    {
+      "ar": "حبّ",
+      "en": "ecstasy"
+    },
+    {
+      "ar": "قلب",
+      "en": "heart"
+    },
+    {
+      "ar": "روشن شد",
+      "en": "is kindled"
+    },
+    {
+      "ar": "نسيم",
+      "en": "breeze"
+    },
+    {
+      "ar": "محبّت",
+      "en": "loving-kindness"
+    },
+    {
+      "ar": "احديّه",
+      "en": "His"
+    },
+    {
+      "ar": "وزيد",
+      "en": "is wafted"
+    },
+    {
+      "ar": "ظلمت",
+      "en": "darkness"
+    },
+    {
+      "ar": "ضلالت",
+      "en": "error"
+    },
+    {
+      "ar": "شکّ",
+      "en": "doubts"
+    },
+    {
+      "ar": "ريب",
+      "en": "misgivings"
+    },
+    {
+      "ar": "زائل شود",
+      "en": "be dispelled"
+    },
+    {
+      "ar": "انوار",
+      "en": "lights"
+    },
+    {
+      "ar": "علم",
+      "en": "knowledge"
+    },
+    {
+      "ar": "يقين",
+      "en": "certitude"
+    },
+    {
+      "ar": "ارکان",
+      "en": "being"
+    },
+    {
+      "ar": "احاطه نمايد",
+      "en": "envelop"
+    },
+    {
+      "ar": "درآن حين",
+      "en": "At that hour"
+    },
+    {
+      "ar": "بشير",
+      "en": "Herald"
+    },
+    {
+      "ar": "معنوی",
+      "en": "mystic"
+    },
+    {
+      "ar": "بشارت",
+      "en": "tidings"
+    },
+    {
+      "ar": "روحانی",
+      "en": "Spirit"
+    },
+    {
+      "ar": "مدينه الهی",
+      "en": "City of God"
+    },
+    {
+      "ar": "صبح صادق",
+      "en": "morn"
+    },
+    {
+      "ar": "طالع شود",
+      "en": "shine forth"
+    },
+    {
+      "ar": "نفس",
+      "en": "soul"
+    },
+    {
+      "ar": "روح",
+      "en": "spirit"
+    },
+    {
+      "ar": "صور",
+      "en": "trumpet-blast"
+    },
+    {
+      "ar": "نوم",
+      "en": "slumber"
+    },
+    {
+      "ar": "غفلت",
+      "en": "negligence"
+    },
+    {
+      "ar": "بيدار نمايد",
+      "en": "awaken"
+    },
+    {
+      "ar": "عنايات",
+      "en": "favours"
+    },
+    {
+      "ar": "تأييدات",
+      "en": "outpouring grace"
+    },
+    {
+      "ar": "روح القدس",
+      "en": "holy and everlasting Spirit"
+    },
+    {
+      "ar": "صمدانی",
+      "en": "everlasting"
+    },
+    {
+      "ar": "حيات",
+      "en": "life"
+    },
+    {
+      "ar": "تازه",
+      "en": "new"
+    },
+    {
+      "ar": "مبذول دارد",
+      "en": "confer"
+    },
+    {
+      "ar": "خود",
+      "en": "himself"
+    },
+    {
+      "ar": "صاحب",
+      "en": "endowed"
+    },
+    {
+      "ar": "چشم",
+      "en": "eye"
+    },
+    {
+      "ar": "گوش",
+      "en": "ear"
+    },
+    {
+      "ar": "می بيند",
+      "en": "will find"
+    },
+    {
+      "ar": "رجوع",
+      "en": "will contemplate"
+    },
+    {
+      "ar": "آيات",
+      "en": "signs"
+    },
+    {
+      "ar": "واضحه",
+      "en": "manifest"
+    },
+    {
+      "ar": "آفاقيه",
+      "en": "universe"
+    },
+    {
+      "ar": "خفيّات",
+      "en": "hidden mysteries"
+    },
+    {
+      "ar": "مستوره",
+      "en": "hidden"
+    },
+    {
+      "ar": "عين اللّه",
+      "en": "eye of God"
+    },
+    {
+      "ar": "بديعه",
+      "en": "Gazing"
+    },
+    {
+      "ar": "ذرّه",
+      "en": "atom"
+    },
+    {
+      "ar": "بابی",
+      "en": "door"
+    },
+    {
+      "ar": "مفتوح",
+      "en": "leadeth"
+    },
+    {
+      "ar": "مشاهده نمايد",
+      "en": "he will perceive"
+    },
+    {
+      "ar": "وصول",
+      "en": "stations"
+    },
+    {
+      "ar": "عين اليقين",
+      "en": "absolute certitude"
+    },
+    {
+      "ar": "اشياء",
+      "en": "all things"
+    },
+    {
+      "ar": "اسرار",
+      "en": "mysteries"
+    },
+    {
+      "ar": "تجلّی",
+      "en": "Revelation"
+    },
+    {
+      "ar": "وحدانيّه",
+      "en": "divine"
+    },
+    {
+      "ar": "آثار",
+      "en": "evidences"
+    },
+    {
+      "ar": "ظهور",
+      "en": "manifestation"
+    },
+    {
+      "ar": "ملاحظه کند",
+      "en": "He will discover"
+    }
+  ],
+  "terms": [
+    {
+      "term": "سراج",
+      "transliteration": "s-r-j",
+      "literal": "lamp; light; illuminator",
+      "se_rendering": "lamp",
+      "note": "Typically rendered 'lamp' across corpus. SE preserves root sense here but metaphorically applies it to spiritual seeking rather than literal illumination.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 142,
+          "snippet": "songs"
+        },
+        {
+          "work": "gleanings",
+          "para": 308,
+          "snippet": "lamp"
+        },
+        {
+          "work": "gleanings",
+          "para": 684,
+          "snippet": "Lamp of Divine glory"
+        }
+      ]
+    },
+    {
+      "term": "طلب",
+      "transliteration": "t-l-b",
+      "literal": "seeker, one who seeks; those who seek",
+      "se_rendering": "search",
+      "note": "Standard 'search' or 'seekers' rendering. Initial element of compound spiritual virtues; establishes seeking as precondition for mystical transformation.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 128,
+          "snippet": "seekers"
+        },
+        {
+          "work": "gleanings",
+          "para": 575,
+          "snippet": "the seekers"
+        },
+        {
+          "work": "gleanings",
+          "para": 301,
+          "snippet": "seeketh"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 667,
+          "snippet": "We beg of Thee"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 665,
+          "snippet": "we still seek"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 53,
+          "snippet": "we beg"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 659,
+          "snippet": "we beseech Thee"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 705,
+          "snippet": "I beseech"
+        }
+      ]
+    },
+    {
+      "term": "نسيم",
+      "transliteration": "n-s-m",
+      "literal": "breeze; gentle wind; fragrance",
+      "se_rendering": "breeze",
+      "note": "Consistently 'breeze' in corpus. SE employs gentle meteorological imagery for divine grace; 'loving-kindness' specifies the breeze's origin and nature.",
+      "cross_refs": [
+        {
+          "work": "the-hidden-words",
+          "para": 105,
+          "snippet": "breeze of My loving-kindness"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 122,
+          "snippet": "breeze"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 100,
+          "snippet": "fragrances"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 768,
+          "snippet": "rustling"
+        },
+        {
+          "work": "gleanings",
+          "para": 182,
+          "snippet": "Breathings of the Divine Spirit"
+        },
+        {
+          "work": "gleanings",
+          "para": 167,
+          "snippet": "Breeze of God"
+        },
+        {
+          "work": "gleanings",
+          "para": 212,
+          "snippet": "Breath of the All-Glorious"
+        }
+      ]
+    },
+    {
+      "term": "محبّت",
+      "transliteration": "ḥ-b-b",
+      "literal": "love; affection",
+      "se_rendering": "loving-kindness",
+      "note": "Usually 'love' or 'loved ones.' Here 'loving-kindness' bridges affective and gracious divine attributes, tempering intensity with mercy.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 3,
+          "snippet": "beloved of the Lord"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 53,
+          "snippet": "loved ones of the Lord"
+        },
+        {
+          "work": "gleanings",
+          "para": 341,
+          "snippet": "loved ones of God"
+        },
+        {
+          "work": "gleanings",
+          "para": 689,
+          "snippet": "beloved of the one true God"
+        },
+        {
+          "work": "gleanings",
+          "para": 640,
+          "snippet": "loved ones"
+        },
+        {
+          "work": "gleanings",
+          "para": 690,
+          "snippet": "beloved of God"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 39,
+          "snippet": "His loved ones"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 10,
+          "snippet": "love for Thee"
+        }
+      ]
+    },
+    {
+      "term": "ظلمت",
+      "transliteration": "z-l-m",
+      "literal": "wrongedness, oppression, meekness; state of being wronged or oppressed",
+      "se_rendering": "darkness",
+      "note": "Jafar shows 128 occurrences rendered as 'afflicted,' 'wronged,' 'meekness,' 'injury.' Here SE uses 'darkness' — abstract rather than relational, emphasizing ignorance over oppression.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 498,
+          "snippet": "afflicted with countless tribulations"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 49,
+          "snippet": "meekness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 36,
+          "snippet": "Wronged One"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 253,
+          "snippet": "wronged"
+        },
+        {
+          "work": "gleanings",
+          "para": 221,
+          "snippet": "oppression"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 9,
+          "snippet": "Darkness"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 33,
+          "snippet": "tyranny"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 573,
+          "snippet": "oppressed"
+        }
+      ]
+    },
+    {
+      "term": "معرفت",
+      "transliteration": "ʿ-r-f",
+      "literal": "to confess; to acknowledge; to recognize",
+      "se_rendering": "knowledge",
+      "note": "Root yields 'testifieth,' 'acknowledged,' 'recognized,' 'understanding.' Here 'knowledge' foregrounds experiential gnosis through direct trumpet-blast awakening, not mere recognition.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 601,
+          "snippet": "testifieth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 729,
+          "snippet": "hath acknowledged"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 582,
+          "snippet": "have recognized"
+        },
+        {
+          "work": "gleanings",
+          "para": 568,
+          "snippet": "acknowledged"
+        },
+        {
+          "work": "gleanings",
+          "para": 295,
+          "snippet": "made objections"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 744,
+          "snippet": "understanding"
+        },
+        {
+          "work": "gleanings",
+          "para": 87,
+          "snippet": "knowledge"
+        },
+        {
+          "work": "gleanings",
+          "para": 2,
+          "snippet": "perception"
+        }
+      ]
+    },
+    {
+      "term": "غفلت",
+      "transliteration": "gh-f-l",
+      "literal": "heedlessness; negligence; inattention",
+      "se_rendering": "negligence",
+      "note": "Consistently 'negligence' or 'heedless' in corpus. SE renders 'slumber of negligence' — metaphorically equating spiritual inattention with sleep, reversible through divine summons.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 158,
+          "snippet": "O heedless one"
+        },
+        {
+          "work": "gleanings",
+          "para": 132,
+          "snippet": "heedless"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 134,
+          "snippet": "thou who hast gone astray"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 156,
+          "snippet": "thou who art gone astray"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 6,
+          "snippet": "my heedlessness"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 90,
+          "snippet": "Essence of Negligence"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 95,
+          "snippet": "couch of heedlessness"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 152,
+          "snippet": "Children of Negligence"
+        }
+      ]
+    },
+    {
+      "term": "بديع",
+      "transliteration": "b-d-ʿ",
+      "literal": "to create; most wondrous; excel",
+      "se_rendering": "wondrous",
+      "note": "Jafar shows 'most wondrous,' 'creation,' 'Badí'u'lláh,' 'horizon of creation.' SE chooses implicit form 'wondrous' (modifying 'eye of God') — abstract excellence rather than name or created cosmos.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 2,
+          "snippet": "most wondrous"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 65,
+          "snippet": "creation"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 6,
+          "snippet": "Badí'u'lláh"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 191,
+          "snippet": "the eye of the universe"
+        },
+        {
+          "work": "gleanings",
+          "para": 205,
+          "snippet": "wondrous"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 4,
+          "snippet": "Mighty, the Wondrous"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 315,
+          "snippet": "kingdoms of creation"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 202,
+          "snippet": "new"
+        }
+      ]
+    }
+  ],
+  "section_index": "216",
+  "section": "216",
+  "section_para": 1
 }

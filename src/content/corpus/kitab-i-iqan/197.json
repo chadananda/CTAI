@@ -1,10 +1,287 @@
 {
   "work": "Kitab-i-Iqan",
   "slug": "kitab-i-iqan",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 197,
   "source_text": "در اين زمان نسمة اللّه وزيده و روح اللّه احاطه نموده، قلم ازحرکت ممنوع و لسان از بيان مقطوع گشته.",
   "translation": "In this day the breeze of God is wafted, and His Spirit hath pervaded all things. Such is the outpouring of His grace that the pen is stilled and the tongue is speechless.",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "breeze-god-wafted-spirit-pervaded",
+  "alignment": [
+    {
+      "ar": "زمان",
+      "en": "day"
+    },
+    {
+      "ar": "نسمة",
+      "en": "breeze"
+    },
+    {
+      "ar": "اللّه",
+      "en": "God"
+    },
+    {
+      "ar": "وزيده",
+      "en": "wafted"
+    },
+    {
+      "ar": "روح",
+      "en": "Spirit"
+    },
+    {
+      "ar": "احاطه",
+      "en": "pervaded"
+    },
+    {
+      "ar": "قلم",
+      "en": "pen"
+    },
+    {
+      "ar": "ازحرکت",
+      "en": "stilled"
+    },
+    {
+      "ar": "لسان",
+      "en": "tongue"
+    },
+    {
+      "ar": "بيان",
+      "en": "speechless"
+    },
+    {
+      "ar": "گشته",
+      "en": "is"
+    }
+  ],
+  "terms": [
+    {
+      "term": "احاطه",
+      "transliteration": "ʾ-h-t",
+      "literal": "to encompass, surround, envelop, embrace",
+      "se_rendering": "pervaded",
+      "note": "Rare term with only 4 occurrences in corpus. SE renders as 'have encompassed', 'hath enveloped', 'embraced'—'pervaded' here emphasizes diffusion and totality rather than boundary-setting.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 4,
+          "snippet": "have encompassed"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 9,
+          "snippet": "hath enveloped"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 291,
+          "snippet": "embraced"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 378,
+          "snippet": "exposed to"
+        }
+      ]
+    },
+    {
+      "term": "قلم",
+      "transliteration": "q-l-m",
+      "literal": "pen; writing instrument",
+      "se_rendering": "pen",
+      "note": "Typically capitalized and metaphorical ('the Pen of the Most High', 'My Pen') across 25 occurrences. Here lowercased 'pen' as literal instrument—SE shifts from symbolic to concrete register.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 100,
+          "snippet": "the Pen of the Most High"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 68,
+          "snippet": "the Pen of Glory"
+        },
+        {
+          "work": "gleanings",
+          "para": 619,
+          "snippet": "My Pen"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 182,
+          "snippet": "the Most Sublime Pen"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 257,
+          "snippet": "the pen of the Primal Point"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 30,
+          "snippet": "thine heart"
+        },
+        {
+          "work": "gleanings",
+          "para": 393,
+          "snippet": "Pen of the Most High"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 159,
+          "snippet": "My Supreme Pen"
+        }
+      ]
+    },
+    {
+      "term": "ممنوع",
+      "transliteration": "m-n-ʿ",
+      "literal": "forbidden; prevented; deprived",
+      "se_rendering": "stilled",
+      "note": "",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "forbidden"
+        },
+        {
+          "work": "gleanings",
+          "para": 641,
+          "snippet": "deprived"
+        },
+        {
+          "work": "gleanings",
+          "para": 181,
+          "snippet": "be not deprived"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 56,
+          "snippet": "hindrance"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 674,
+          "snippet": "which have hindered me"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 89,
+          "snippet": "was powerless to deter"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 628,
+          "snippet": "have failed to deter"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 193,
+          "snippet": "prevented them"
+        }
+      ]
+    },
+    {
+      "term": "لسان",
+      "transliteration": "l-s-n",
+      "literal": "tongue; language",
+      "se_rendering": "tongue",
+      "note": "Consistently 'tongue' across 23 occurrences, sometimes with modifiers ('Tongue', 'by the Tongue'). Unmodified 'tongue' here preserves simplicity while maintaining SE's literal anatomical reference.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 36,
+          "snippet": "with my tongue"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 745,
+          "snippet": "tongue"
+        },
+        {
+          "work": "gleanings",
+          "para": 346,
+          "snippet": "by a tongue"
+        },
+        {
+          "work": "gleanings",
+          "para": 288,
+          "snippet": "by the Tongue"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 43,
+          "snippet": "sword of your tongue"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 62,
+          "snippet": "the tongues"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 786,
+          "snippet": "tongues"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 101,
+          "snippet": "in word"
+        }
+      ]
+    },
+    {
+      "term": "بيان",
+      "transliteration": "b-y-n",
+      "literal": "to manifest; to make clear; clear, evident",
+      "se_rendering": "speechless",
+      "note": "Root meaning 'to manifest, make clear' typically rendered 'the Bayán', 'proofs', 'clear verses' (87 occurrences). Here 'speechless' applies the root idiomatically to incapacity for speech—SE uses verbal sense rather than nominal.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 223,
+          "snippet": "the Expounder, the Most Manifest"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 3,
+          "snippet": "proofs"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 12,
+          "snippet": "clear proofs"
+        },
+        {
+          "work": "gleanings",
+          "para": 563,
+          "snippet": "Dawning-Place of the proofs"
+        },
+        {
+          "work": "gleanings",
+          "para": 292,
+          "snippet": "the Bayán"
+        },
+        {
+          "work": "gleanings",
+          "para": 636,
+          "snippet": "utterance"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 120,
+          "snippet": "evil"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 178,
+          "snippet": "evident error"
+        }
+      ]
+    }
+  ],
+  "section_index": "197",
+  "section": "197",
+  "section_para": 1
 }

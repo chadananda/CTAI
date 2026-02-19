@@ -1,10 +1,312 @@
 {
   "work": "The Hidden Words",
   "slug": "the-hidden-words",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 67,
   "source_text": "(٦٦) ﴿ يَا أَبْناءَ الْهُوِيَّةِ فِي الْغَيْبِ ﴾\nسَتُمْنَعُونَ عَنْ حُبِّي وَتَضْطَرِبُ النُّفُوسُ مِنْ ذِكْرِي؛ لأَنَّ الْعُقُولَ لَنْ تَطيقَنِي وَالْقُلُوبَ لَنْ تَسَعَني.",
   "translation": "(66) O CHILDREN OF THE DIVINE AND INVISIBLE ESSENCE!\nYe shall be hindered from loving Me and souls shall be perturbed as they make mention of Me. For minds cannot grasp Me nor hearts contain Me.",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "minds-cannot-grasp-hearts-contain",
+  "alignment": [
+    {
+      "ar": "أَبْناءَ",
+      "en": "CHILDREN"
+    },
+    {
+      "ar": "الْغَيْبِ",
+      "en": "INVISIBLE"
+    },
+    {
+      "ar": "سَتُمْنَعُونَ",
+      "en": "shall be hindered"
+    },
+    {
+      "ar": "تَضْطَرِبُ",
+      "en": "shall be perturbed"
+    },
+    {
+      "ar": "ذِكْرِي",
+      "en": "make mention of Me"
+    },
+    {
+      "ar": "الْعُقُولَ",
+      "en": "minds"
+    },
+    {
+      "ar": "لَنْ تَطيقَنِي",
+      "en": "cannot grasp Me"
+    },
+    {
+      "ar": "الْقُلُوبَ",
+      "en": "hearts"
+    },
+    {
+      "ar": "لَنْ تَسَعَني",
+      "en": "contain Me"
+    }
+  ],
+  "terms": [
+    {
+      "term": "الْهُوِيَّةِ",
+      "transliteration": "h-w-y",
+      "literal": "desire; vain desire; inclination; passion",
+      "se_rendering": "DIVINE AND INVISIBLE ESSENCE",
+      "note": "Root typically renders as 'passion' or 'vain desire' (4 occurrences). Here SE radically reorients toward 'DIVINE AND INVISIBLE ESSENCE'—a metaphysical abstraction inverting the root's volitional semantic field.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 12,
+          "snippet": "passion"
+        },
+        {
+          "work": "gleanings",
+          "para": 226,
+          "snippet": "vain desire"
+        },
+        {
+          "work": "gleanings",
+          "para": 405,
+          "snippet": "desire"
+        }
+      ]
+    },
+    {
+      "term": "الْغَيْبِ",
+      "transliteration": "gh-y-b",
+      "literal": "the unseen; the invisible; the hidden; the unknowable",
+      "se_rendering": "INVISIBLE",
+      "note": "Standard rendering is 'Unseen' or 'unknowable' (9 occurrences). SE selects 'INVISIBLE' here, privileging visual/perceptual terms over epistemological ones.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 40,
+          "snippet": "Unseen"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 214,
+          "snippet": "backbiting"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 10,
+          "snippet": "invisible"
+        },
+        {
+          "work": "gleanings",
+          "para": 91,
+          "snippet": "unknowable"
+        },
+        {
+          "work": "gleanings",
+          "para": 190,
+          "snippet": "the Unseen"
+        },
+        {
+          "work": "gleanings",
+          "para": 254,
+          "snippet": "secrets"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 77,
+          "snippet": "hidden"
+        },
+        {
+          "work": "gleanings",
+          "para": 550,
+          "snippet": "the secrets of the Unseen"
+        }
+      ]
+    },
+    {
+      "term": "سَتُمْنَعُونَ",
+      "transliteration": "s-t-m",
+      "literal": "oppression, tyranny, cruelty",
+      "se_rendering": "hindered",
+      "note": "Root s-t-m denotes oppression/tyranny; corpus shows 'iniquity' and 'shall pass away' (3 occ). 'Hindered' is unique—SE softens tyranny into obstruction, fitting the epistemological limitation theme.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 4,
+          "snippet": "iniquity"
+        },
+        {
+          "work": "gleanings",
+          "para": 245,
+          "snippet": "shall pass away"
+        }
+      ]
+    },
+    {
+      "term": "حُبِّي",
+      "transliteration": "ḥ-b-b",
+      "literal": "love; affection",
+      "se_rendering": "loving Me",
+      "note": "Consistently rendered 'love' across corpus (92 occurrences). SE uses gerund 'loving Me' to emphasize active relational dynamic rather than object-noun form.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 3,
+          "snippet": "beloved of the Lord"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 53,
+          "snippet": "loved ones of the Lord"
+        },
+        {
+          "work": "gleanings",
+          "para": 341,
+          "snippet": "loved ones of God"
+        },
+        {
+          "work": "gleanings",
+          "para": 689,
+          "snippet": "beloved of the one true God"
+        },
+        {
+          "work": "gleanings",
+          "para": 640,
+          "snippet": "loved ones"
+        },
+        {
+          "work": "gleanings",
+          "para": 690,
+          "snippet": "beloved of God"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 39,
+          "snippet": "His loved ones"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 10,
+          "snippet": "love for Thee"
+        }
+      ]
+    },
+    {
+      "term": "وَتَضْطَرِبُ",
+      "transliteration": "d-r-b",
+      "literal": "to be troubled; to be perturbed; to be shaken",
+      "se_rendering": "perturbed",
+      "note": "Only 3 corpus occurrences: 'be not thou troubled', 'Be not dismayed', 'dread extinction'. SE uniquely selects 'perturbed'—a restrained, intellectual disturbance distinct from fear or dread.",
+      "cross_refs": [
+        {
+          "work": "tablet-of-ahmad",
+          "para": 11,
+          "snippet": "be not thou troubled"
+        },
+        {
+          "work": "gleanings",
+          "para": 277,
+          "snippet": "Be not dismayed"
+        }
+      ]
+    },
+    {
+      "term": "النُّفُوسُ",
+      "transliteration": "n-f-s",
+      "literal": "self; soul; psyche",
+      "se_rendering": "souls",
+      "note": "Root spans 'Self', 'soul', 'psyche', and 'entity' (43 occurrences). SE chooses 'souls' here—the only consistently spiritual/metaphysical form matching the mystical register of this passage.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 114,
+          "snippet": "over Mine own Self"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 789,
+          "snippet": "myself to be only nothing"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 70,
+          "snippet": "This is the station in which I have no power"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 572,
+          "snippet": "Thy Self at all times"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 109,
+          "snippet": "those"
+        },
+        {
+          "work": "gleanings",
+          "para": 205,
+          "snippet": "souls"
+        },
+        {
+          "work": "gleanings",
+          "para": 297,
+          "snippet": "their powerlessness"
+        },
+        {
+          "work": "gleanings",
+          "para": 225,
+          "snippet": "such of My followers"
+        }
+      ]
+    },
+    {
+      "term": "ذِكْرِي",
+      "transliteration": "dh-k-r",
+      "literal": "remembrance; mention; memory",
+      "se_rendering": "mention",
+      "note": "Among 57 occurrences, typically 'remembrance' or 'the remembrance of His Name'. SE uses 'mention' here—a more literal, phenomenological rendering emphasizing the act of utterance itself.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 597,
+          "snippet": "remembrance"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 54,
+          "snippet": "mention"
+        },
+        {
+          "work": "gleanings",
+          "para": 237,
+          "snippet": "Then it was recalled"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 117,
+          "snippet": "Time and again have I declared"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 39,
+          "snippet": "deliberate"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 274,
+          "snippet": "aforementioned"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 34,
+          "snippet": "confined in that"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 4,
+          "snippet": "mentioned"
+        }
+      ]
+    }
+  ],
+  "section_index": "133",
+  "section": "133",
+  "section_para": 1
 }

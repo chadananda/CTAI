@@ -1,10 +1,292 @@
 {
   "work": "Tablet of the Holy Mariner",
   "slug": "tablet-of-the-holy-mariner",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 28,
   "source_text": "ووقع إشراق الجمال على أهل الأرض والتّراب",
   "translation": "And as the radiance of her beauty shone upon the people of dust, Glorified be my Lord, the All-Glorious!",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "radiance-beauty-people-dust",
+  "alignment": [
+    {
+      "ar": "وقع",
+      "en": "shone"
+    },
+    {
+      "ar": "إشراق",
+      "en": "radiance"
+    },
+    {
+      "ar": "الجمال",
+      "en": "her beauty"
+    },
+    {
+      "ar": "أهل",
+      "en": "people"
+    },
+    {
+      "ar": "الأرض",
+      "en": "dust"
+    }
+  ],
+  "terms": [
+    {
+      "term": "ووقع",
+      "transliteration": "w-q-ʿ",
+      "literal": "to fall, to occur, to happen; incident, event",
+      "se_rendering": "shone",
+      "note": "Root w-q-ʿ typically rendered 'occurred' or 'took place' (13 occ). Here becomes 'shone'—a dramatic semantic shift from event-language to light-language that transforms the theological sense.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 83,
+          "snippet": "The thing that must come hath come"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 118,
+          "snippet": "actually took place"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 30,
+          "snippet": "certain parts"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 265,
+          "snippet": "places"
+        },
+        {
+          "work": "gleanings",
+          "para": 111,
+          "snippet": "hath come to pass"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 236,
+          "snippet": "fallen"
+        }
+      ]
+    },
+    {
+      "term": "إشراق",
+      "transliteration": "sh-r-q",
+      "literal": "radiance; splendor; dawn; illumination",
+      "se_rendering": "the radiance of her beauty",
+      "note": "Typically 'radiance' or 'splendor' (63 occ). Here fused with الجمال into 'the radiance of her beauty'—SE integrates two distinct roots into one poetic phrase, obscuring the separate conceptual elements.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 47,
+          "snippet": "Ishraq"
+        },
+        {
+          "work": "gleanings",
+          "para": 382,
+          "snippet": "revelation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 83,
+          "snippet": "Daystar"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 41,
+          "snippet": "dawning"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 116,
+          "snippet": "shone"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 2,
+          "snippet": "shining"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 14,
+          "snippet": "Dawning Place"
+        },
+        {
+          "work": "gleanings",
+          "para": 126,
+          "snippet": "Dayspring"
+        }
+      ]
+    },
+    {
+      "term": "الجمال",
+      "transliteration": "j-m-l",
+      "literal": "beauty; comeliness",
+      "se_rendering": "her beauty",
+      "note": "Standard rendering 'beauty' across 38 occurrences. Here subordinated within the compound 'radiance of her beauty,' making الجمال grammatically dependent rather than autonomous.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 296,
+          "snippet": "Beauty"
+        },
+        {
+          "work": "gleanings",
+          "para": 183,
+          "snippet": "Ancient Beauty"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 193,
+          "snippet": "Among others"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 67,
+          "snippet": "Among"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 208,
+          "snippet": "Among the sciences"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 268,
+          "snippet": "Among them"
+        },
+        {
+          "work": "gleanings",
+          "para": 359,
+          "snippet": "Amongst"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 118,
+          "snippet": "following"
+        }
+      ]
+    },
+    {
+      "term": "أهل",
+      "transliteration": "ʾ-h-l",
+      "literal": "people; inhabitants; family; kin; worthy; deserving",
+      "se_rendering": "people",
+      "note": "Consistently 'people' across 19 occurrences. Renders straightforwardly here without the expanded phrases ('O people of Bahá') common elsewhere in the corpus.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 338,
+          "snippet": "people"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 19,
+          "snippet": "O people of Bahá"
+        },
+        {
+          "work": "gleanings",
+          "para": 277,
+          "snippet": "O peoples of the world"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 237,
+          "snippet": "people of the Qur'án"
+        },
+        {
+          "work": "gleanings",
+          "para": 34,
+          "snippet": "high and low"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 130,
+          "snippet": "all the people, whether high or low"
+        },
+        {
+          "work": "gleanings",
+          "para": 580,
+          "snippet": "to such as have set their affection upon them"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 94,
+          "snippet": "its people"
+        }
+      ]
+    },
+    {
+      "term": "الأرض",
+      "transliteration": "ʾ-r-d",
+      "literal": "earth; land; ground; country",
+      "se_rendering": "dust",
+      "note": "Usually 'earth' or 'land' (26 occ). Here rendered 'dust' to parallel والتراب, merging two distinct Arabic terms into semantic equivalence despite their different conceptual registers.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 76,
+          "snippet": "The earth"
+        },
+        {
+          "work": "gleanings",
+          "para": 203,
+          "snippet": "Land of Ṭá (Ṭihrán)"
+        },
+        {
+          "work": "gleanings",
+          "para": 207,
+          "snippet": "Land of Ṭá"
+        },
+        {
+          "work": "gleanings",
+          "para": 234,
+          "snippet": "land"
+        },
+        {
+          "work": "gleanings",
+          "para": 679,
+          "snippet": "soil"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 111,
+          "snippet": "Lord of Lords"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 489,
+          "snippet": "face of the earth"
+        },
+        {
+          "work": "gleanings",
+          "para": 725,
+          "snippet": "Holy Land"
+        }
+      ]
+    },
+    {
+      "term": "والتراب",
+      "transliteration": "t-r-b",
+      "literal": "dust; earth; soil",
+      "se_rendering": "dust",
+      "note": "Straightforward 'dust' rendering (9 occ). Paired with الأرض in SE's translation, though Arabic distinguishes between ground/earth (أرض) and dust/soil (تراب)—a deliberate flattening of distinction.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 10,
+          "snippet": "dust"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 498,
+          "snippet": "the dust"
+        }
+      ]
+    }
+  ],
+  "section_index": "29",
+  "section": "29",
+  "section_para": 1
 }

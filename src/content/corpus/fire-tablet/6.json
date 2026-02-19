@@ -1,10 +1,215 @@
 {
   "work": "Fire Tablet",
   "slug": "fire-tablet",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 6,
   "source_text": "قَدْ ارْتَفَعَ نِبَاحُ الكِلَابِ مِنْ كُلِّ الجِهَاتِ أَيْنَ غَضَنْفَرُ غِيَاضِ سَطْوَتِكَ يَا قَهَّارَ العَالَمِيْنَ *",
   "translation": "The barking of dogs is loud on every side: Where is the lion of the forest of Thy might, O Chastiser of the worlds?",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "lion-forest-thy-might",
+  "alignment": [
+    {
+      "ar": "ارْتَفَعَ",
+      "en": "is loud"
+    },
+    {
+      "ar": "نِبَاحُ",
+      "en": "barking"
+    },
+    {
+      "ar": "الكِلَابِ",
+      "en": "dogs"
+    },
+    {
+      "ar": "الجِهَاتِ",
+      "en": "side"
+    },
+    {
+      "ar": "أَيْنَ",
+      "en": "Where"
+    },
+    {
+      "ar": "غَضَنْفَرُ",
+      "en": "lion"
+    },
+    {
+      "ar": "غِيَاضِ",
+      "en": "forest"
+    },
+    {
+      "ar": "سَطْوَتِكَ",
+      "en": "Thy might"
+    },
+    {
+      "ar": "العَالَمِيْنَ",
+      "en": "worlds"
+    }
+  ],
+  "terms": [
+    {
+      "term": "ارْتَفَعَ",
+      "transliteration": "r-f-ʿ",
+      "literal": "to be raised, elevated, exalted, lifted up",
+      "se_rendering": "is loud",
+      "note": "Root r-f-ʿ typically renders as 'exalted' or 'elevated.' Here 'is loud' captures the sense of raised voice/prominence, departing from spiritual connotations.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 52,
+          "snippet": "elevated heavens"
+        },
+        {
+          "work": "gleanings",
+          "para": 170,
+          "snippet": "groaneth"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 11,
+          "snippet": "was hoisted"
+        },
+        {
+          "work": "gleanings",
+          "para": 349,
+          "snippet": "exalted"
+        },
+        {
+          "work": "gleanings",
+          "para": 366,
+          "snippet": "exalt"
+        },
+        {
+          "work": "gleanings",
+          "para": 133,
+          "snippet": "sublimity"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 227,
+          "snippet": "exaltation"
+        },
+        {
+          "work": "gleanings",
+          "para": 636,
+          "snippet": "We have annulled"
+        }
+      ]
+    },
+    {
+      "term": "نِبَاحُ",
+      "transliteration": "n-b-ʾ",
+      "literal": "prophet",
+      "se_rendering": "barking",
+      "note": "Root n-b-ʾ usually means 'prophet' with SE rendering 'Prophets' across corpus. Here 'barking' represents its literal meaning as animal sound—rare contextual shift.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 6,
+          "snippet": "Prophets"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 209,
+          "snippet": "Announcement"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 516,
+          "snippet": "plants"
+        }
+      ]
+    },
+    {
+      "term": "الجِهَاتِ",
+      "transliteration": "j-h-h",
+      "literal": "direction; side; way; quarter",
+      "se_rendering": "every side",
+      "note": "Root j-h-h consistently renders as 'side/sides' or 'quarter/quarters.' SE chooses 'every side' here, matching typical pattern of spatial distribution.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 184,
+          "snippet": "directions"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 496,
+          "snippet": "every side"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 49,
+          "snippet": "sides"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 8,
+          "snippet": "every quarter"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 192,
+          "snippet": "side"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 139,
+          "snippet": "from"
+        }
+      ]
+    },
+    {
+      "term": "العَالَمِيْنَ",
+      "transliteration": "ʿ-l-m",
+      "literal": "world; universe; the worlds",
+      "se_rendering": "the worlds",
+      "note": "Root ʿ-l-m yields diverse SE renderings: 'world,' 'mankind,' 'knowledge.' Here 'the worlds' maintains abstract cosmic scope typical in invocations.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 198,
+          "snippet": "world"
+        },
+        {
+          "work": "gleanings",
+          "para": 657,
+          "snippet": "all worlds"
+        },
+        {
+          "work": "gleanings",
+          "para": 182,
+          "snippet": "mankind"
+        },
+        {
+          "work": "gleanings",
+          "para": 183,
+          "snippet": "the whole world"
+        },
+        {
+          "work": "gleanings",
+          "para": 226,
+          "snippet": "all earthly defilements"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 28,
+          "snippet": "knowledge"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 122,
+          "snippet": "commentators"
+        },
+        {
+          "work": "gleanings",
+          "para": 38,
+          "snippet": "understanding"
+        }
+      ]
+    }
+  ],
+  "section_index": "7",
+  "section": "7",
+  "section_para": 1
 }

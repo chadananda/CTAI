@@ -1,10 +1,242 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 629,
   "source_text": "عَلَى ما تَشآءُ لا إِلهَ إِلاَّ أَنْتَ العَزِيزُ الْكَرِيمُ.",
   "translation": "Potent art Thou to do Thy pleasure. No God is there save Thee, the Mighty, the Most Generous.",
   "source_lang": "ar",
-  "score": 9.4
+  "score": 9.4,
+  "page_slug": "potent-to-do-pleasure",
+  "alignment": [
+    {
+      "ar": "عَلَى",
+      "en": "art Thou"
+    },
+    {
+      "ar": "تَشآءُ",
+      "en": "pleasure"
+    },
+    {
+      "ar": "لا",
+      "en": "No"
+    },
+    {
+      "ar": "إِلهَ",
+      "en": "God"
+    },
+    {
+      "ar": "أَنْتَ",
+      "en": "Thee"
+    },
+    {
+      "ar": "العَزِيزُ",
+      "en": "the Mighty"
+    },
+    {
+      "ar": "الْكَرِيمُ",
+      "en": "the Most Generous"
+    }
+  ],
+  "terms": [
+    {
+      "term": "تَشآءُ",
+      "transliteration": "sh-y-ʾ",
+      "literal": "thing; something",
+      "se_rendering": "pleasure",
+      "note": "Root sh-y-ʾ typically renders as 'thing' or 'things' (41 occurrences). Here 'pleasure' represents a marked semantic departure, translating the verbal concept of divine will rather than the nominal object.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 708,
+          "snippet": "nothingness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 37,
+          "snippet": "something"
+        },
+        {
+          "work": "gleanings",
+          "para": 368,
+          "snippet": "thing"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 15,
+          "snippet": "earthly things"
+        },
+        {
+          "work": "gleanings",
+          "para": 153,
+          "snippet": "transitory things"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 35,
+          "snippet": "all things"
+        },
+        {
+          "work": "gleanings",
+          "para": 161,
+          "snippet": "created things"
+        },
+        {
+          "work": "gleanings",
+          "para": 154,
+          "snippet": "creation"
+        }
+      ]
+    },
+    {
+      "term": "إِلهَ",
+      "transliteration": "ʾ-l-h",
+      "literal": "God; Allah",
+      "se_rendering": "God",
+      "note": "Consistent with primary rendering 'God' across 53 occurrences. Maintains the foundational monotheistic declaration without ornamental address forms.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 294,
+          "snippet": "God"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 10,
+          "snippet": "O God, my God"
+        },
+        {
+          "work": "gleanings",
+          "para": 341,
+          "snippet": "of God"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 11,
+          "snippet": "My God"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 62,
+          "snippet": "O Lord"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 102,
+          "snippet": "the Divine Lote-Tree"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 53,
+          "snippet": "the loved ones of the Lord"
+        },
+        {
+          "work": "gleanings",
+          "para": 338,
+          "snippet": "Ark of God"
+        }
+      ]
+    },
+    {
+      "term": "العَزِيزُ",
+      "transliteration": "ʿ-z-z",
+      "literal": "glory; might; honor; dignity; power; majesty",
+      "se_rendering": "Mighty",
+      "note": "Root ʿ-z-z most frequently rendered 'glory' or 'honor' (49 occurrences). 'Mighty' here emphasizes power and dominion over abstract attributes, a rarer choice in SE's corpus.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 185,
+          "snippet": "glory"
+        },
+        {
+          "work": "gleanings",
+          "para": 642,
+          "snippet": "honor"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 99,
+          "snippet": "Dear"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 38,
+          "snippet": "dearly beloved"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 37,
+          "snippet": "Gracious"
+        },
+        {
+          "work": "gleanings",
+          "para": 260,
+          "snippet": "All-Glorious"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 162,
+          "snippet": "Mighty"
+        },
+        {
+          "work": "gleanings",
+          "para": 660,
+          "snippet": "powerful"
+        }
+      ]
+    },
+    {
+      "term": "الْكَرِيمُ",
+      "transliteration": "k-r-m",
+      "literal": "Carmel (Mount Carmel); vineyard, fruitful field",
+      "se_rendering": "Most Generous",
+      "note": "Root k-r-m typically renders as 'Carmel' or 'the All-Bountiful' (21 occurrences). 'Most Generous' uniquely captures the ethical dimension of divine grace rather than spatial or material referents.",
+      "cross_refs": [
+        {
+          "work": "tablet-of-carmel",
+          "para": 4,
+          "snippet": "O Carmel"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 211,
+          "snippet": "Carmel"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 50,
+          "snippet": "the All-Bountiful"
+        },
+        {
+          "work": "gleanings",
+          "para": 234,
+          "snippet": "of immense bounteous grace"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 26,
+          "snippet": "the Gracious"
+        },
+        {
+          "work": "gleanings",
+          "para": 608,
+          "snippet": "the All-Forgiving, the Gracious"
+        },
+        {
+          "work": "gleanings",
+          "para": 642,
+          "snippet": "the Mighty, the Generous"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 144,
+          "snippet": "generosity"
+        }
+      ]
+    }
+  ],
+  "section_index": "CXLIX.4",
+  "section": "CXLIX",
+  "section_para": 4
 }

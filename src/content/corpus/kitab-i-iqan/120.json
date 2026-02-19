@@ -1,10 +1,573 @@
 {
   "work": "Kitab-i-Iqan",
   "slug": "kitab-i-iqan",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 120,
   "source_text": "و ديگر آنکه ملاحظه فرمائيد به تنزيل همين يک آيه منزله از سماء مشيّت چگونه حساب خلايق کشيده شد که هرکس اقرار نمود و اقبال جست حسنات او بر سيّئات زيادتی نمود و جميع خطايای او معفوّ شد و مغفور آمد.  کَذلِکَ يُصدَقُ فی شأنِهِ باَنّهُ سَريعُ الحسابِ، وَ کذلِک يُبَدِّلُ اللّهُ السَّيِّئاتِ بالحَسَناتِ لَو اَنتُم فی آفاقِ العلمِ و انقُسِ الحِکمةِ تَتَفَرَّسُونَ.  و همچنين هر کس از جام حبّ نصيب برداشت از بحر فيوضات سرمديّه و غمام رحمت ابديّه،   حيات باقيه ابديّه ايمانيّه يافت و هر نفسی که قبول ننمود به  موت دائمی مبتلا شد.  و مقصود از موت و حيات که در کتب مذکور است موت و حيات ايمانی است.  و از عدم ادراک اين معنی است که عامّه ناس در هر ظهور اعتراض نمودند و به شمس هدايت مهتدی نشدند و جمال ازلی را مقتدی نگشتند.",
   "translation": "Consider how with this one verse which hath descended from the heaven of the Will of God, the world and all that is therein have been brought to a reckoning with Him. Whosoever acknowledged His truth and turned unto Him, his good works outweighed his misdeeds, and all his sins were remitted and forgiven. Thereby is the truth of these words concerning Him made manifest: “Swift is He in reckoning.” Thus God turneth iniquity into righteousness, were ye to explore the realms of divine knowledge, and fathom the mysteries of His wisdom. In like manner, whosoever partook of the cup of love, obtained his portion of the ocean of eternal grace and of the showers of everlasting mercy, and entered into the life of faith—the heavenly and everlasting life. But he that turned away from that cup was condemned to eternal death. By the terms “life” and “death,” spoken of in the scriptures, is intended the life of faith and the death of unbelief. The generality of the people, owing to their failure to grasp the meaning of these words, rejected and despised the person of the Manifestation, deprived themselves of the light of His divine guidance, and refused to follow the example of that immortal Beauty.",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "swift-reckoning-eternal-life",
+  "alignment": [
+    {
+      "ar": "ديگر",
+      "en": "In like manner"
+    },
+    {
+      "ar": "ملاحظه",
+      "en": "Consider"
+    },
+    {
+      "ar": "تنزيل",
+      "en": "descended"
+    },
+    {
+      "ar": "همين",
+      "en": "this"
+    },
+    {
+      "ar": "يک",
+      "en": "one"
+    },
+    {
+      "ar": "آيه",
+      "en": "verse"
+    },
+    {
+      "ar": "سماء",
+      "en": "heaven"
+    },
+    {
+      "ar": "مشيّت",
+      "en": "Will"
+    },
+    {
+      "ar": "چگونه",
+      "en": "how"
+    },
+    {
+      "ar": "حساب",
+      "en": "reckoning"
+    },
+    {
+      "ar": "خلايق",
+      "en": "world"
+    },
+    {
+      "ar": "کشيده شد",
+      "en": "brought"
+    },
+    {
+      "ar": "هرکس",
+      "en": "Whosoever"
+    },
+    {
+      "ar": "اقرار",
+      "en": "acknowledged"
+    },
+    {
+      "ar": "اقبال",
+      "en": "turned"
+    },
+    {
+      "ar": "حسنات",
+      "en": "good works"
+    },
+    {
+      "ar": "او",
+      "en": "his"
+    },
+    {
+      "ar": "سيّئات",
+      "en": "misdeeds"
+    },
+    {
+      "ar": "زيادتی",
+      "en": "outweighed"
+    },
+    {
+      "ar": "جميع",
+      "en": "all"
+    },
+    {
+      "ar": "خطايای",
+      "en": "sins"
+    },
+    {
+      "ar": "معفوّ",
+      "en": "remitted"
+    },
+    {
+      "ar": "مغفور",
+      "en": "forgiven"
+    },
+    {
+      "ar": "کَذلِکَ",
+      "en": "Thus"
+    },
+    {
+      "ar": "يُصدَقُ",
+      "en": "truth"
+    },
+    {
+      "ar": "شأنِهِ",
+      "en": "Him"
+    },
+    {
+      "ar": "باَنّهُ",
+      "en": "made manifest"
+    },
+    {
+      "ar": "سَريعُ الحسابِ",
+      "en": "Swift is He in reckoning"
+    },
+    {
+      "ar": "اللّهُ",
+      "en": "God"
+    },
+    {
+      "ar": "بالحَسَناتِ",
+      "en": "righteousness"
+    },
+    {
+      "ar": "اَنتُم",
+      "en": "ye"
+    },
+    {
+      "ar": "آفاقِ العلمِ",
+      "en": "realms of divine knowledge"
+    },
+    {
+      "ar": "انقُسِ الحِکمةِ",
+      "en": "mysteries of His wisdom"
+    },
+    {
+      "ar": "هر کس",
+      "en": "whosoever"
+    },
+    {
+      "ar": "جام",
+      "en": "cup"
+    },
+    {
+      "ar": "حبّ",
+      "en": "love"
+    },
+    {
+      "ar": "نصيب",
+      "en": "portion"
+    },
+    {
+      "ar": "برداشت",
+      "en": "partook"
+    },
+    {
+      "ar": "بحر",
+      "en": "ocean"
+    },
+    {
+      "ar": "فيوضات",
+      "en": "grace"
+    },
+    {
+      "ar": "سرمديّه",
+      "en": "eternal"
+    },
+    {
+      "ar": "غمام",
+      "en": "showers"
+    },
+    {
+      "ar": "رحمت",
+      "en": "mercy"
+    },
+    {
+      "ar": "ابديّه",
+      "en": "everlasting"
+    },
+    {
+      "ar": "حيات",
+      "en": "life"
+    },
+    {
+      "ar": "ايمانيّه",
+      "en": "faith"
+    },
+    {
+      "ar": "يافت",
+      "en": "obtained"
+    },
+    {
+      "ar": "نفسی",
+      "en": "he"
+    },
+    {
+      "ar": "که",
+      "en": "that"
+    },
+    {
+      "ar": "قبول",
+      "en": "turned away"
+    },
+    {
+      "ar": "موت",
+      "en": "death"
+    },
+    {
+      "ar": "مبتلا",
+      "en": "condemned"
+    },
+    {
+      "ar": "مقصود",
+      "en": "intended"
+    },
+    {
+      "ar": "کتب",
+      "en": "scriptures"
+    },
+    {
+      "ar": "مذکور",
+      "en": "spoken"
+    },
+    {
+      "ar": "عدم",
+      "en": "failure"
+    },
+    {
+      "ar": "ادراک",
+      "en": "grasp"
+    },
+    {
+      "ar": "معنی",
+      "en": "meaning"
+    },
+    {
+      "ar": "عامّه",
+      "en": "generality"
+    },
+    {
+      "ar": "ناس",
+      "en": "people"
+    },
+    {
+      "ar": "ظهور",
+      "en": "Manifestation"
+    },
+    {
+      "ar": "اعتراض",
+      "en": "rejected"
+    },
+    {
+      "ar": "شمس",
+      "en": "light"
+    },
+    {
+      "ar": "هدايت",
+      "en": "guidance"
+    },
+    {
+      "ar": "مهتدی",
+      "en": "deprived"
+    },
+    {
+      "ar": "نشدند",
+      "en": "refused"
+    },
+    {
+      "ar": "جمال",
+      "en": "Beauty"
+    },
+    {
+      "ar": "ازلی",
+      "en": "immortal"
+    },
+    {
+      "ar": "مقتدی",
+      "en": "follow"
+    }
+  ],
+  "terms": [
+    {
+      "term": "تنزيل",
+      "transliteration": "n-z-l",
+      "literal": "to descend, to be revealed",
+      "se_rendering": "descended",
+      "note": "Typically 'revealed' or 'sent down' across 88 occurrences. 'Descended' here emphasizes vertical motion from divine realm, a poetic choice unique to this context.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 643,
+          "snippet": "sent down"
+        },
+        {
+          "work": "gleanings",
+          "para": 218,
+          "snippet": "revealed"
+        },
+        {
+          "work": "gleanings",
+          "para": 656,
+          "snippet": "descended"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 175,
+          "snippet": "didst send down"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 34,
+          "snippet": "Descend"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 47,
+          "snippet": "pour forth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 330,
+          "snippet": "send down"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 40,
+          "snippet": "were revealed"
+        }
+      ]
+    },
+    {
+      "term": "آيه",
+      "transliteration": "ʾ-y-t",
+      "literal": "verse; sign; miracle; proof",
+      "se_rendering": "verse",
+      "note": "Standard rendering as 'verse' across 18 occurrences. Maintains Qur'anic terminology while avoiding 'sign' or 'proof' alternatives available in concordance.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 232,
+          "snippet": "His verses"
+        },
+        {
+          "work": "gleanings",
+          "para": 609,
+          "snippet": "verses"
+        },
+        {
+          "work": "gleanings",
+          "para": 262,
+          "snippet": "the signs"
+        },
+        {
+          "work": "gleanings",
+          "para": 368,
+          "snippet": "sign"
+        },
+        {
+          "work": "gleanings",
+          "para": 417,
+          "snippet": "verse"
+        }
+      ]
+    },
+    {
+      "term": "اقبال",
+      "transliteration": "q-b-l",
+      "literal": "group; company; tribe; sort; kind",
+      "se_rendering": "turned unto Him",
+      "note": "Rendered here as 'turned unto Him,' deviating from concordance patterns ('company,' 'acceptance'). SE interprets root sense of 'turning/facing' rather than nominal forms.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 698,
+          "snippet": "company"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 552,
+          "snippet": "seal of acceptance"
+        },
+        {
+          "work": "gleanings",
+          "para": 603,
+          "snippet": "if it be accepted and take effect"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 25,
+          "snippet": "not a drop is acceptable"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 71,
+          "snippet": "hearkened unto and accepted"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 24,
+          "snippet": "kindreds and religions"
+        },
+        {
+          "work": "gleanings",
+          "para": 235,
+          "snippet": "have come"
+        },
+        {
+          "work": "gleanings",
+          "para": 267,
+          "snippet": "acknowledged"
+        }
+      ]
+    },
+    {
+      "term": "حسنات",
+      "transliteration": "h-s-n",
+      "literal": "goodness; beauty; excellence; good deed",
+      "se_rendering": "good works",
+      "note": "Translated as 'good works,' consistent with 'good deeds' in concordance (28 occ). Plural form emphasizes multiplicity of virtuous acts in weighing against sins.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 245,
+          "snippet": "Ḥasan"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 615,
+          "snippet": "most excellent Titles"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 2,
+          "snippet": "kindly"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 21,
+          "snippet": "improve the character"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 3,
+          "snippet": "most excellent"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 97,
+          "snippet": "most excellent Names"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 223,
+          "snippet": "the Best of creators"
+        },
+        {
+          "work": "gleanings",
+          "para": 473,
+          "snippet": "show kindness"
+        }
+      ]
+    },
+    {
+      "term": "ظهور",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "Manifestation",
+      "note": "Rendered as 'Manifestation' (capitalized, 96 occ), technical term in Bahá'í theology. Context shows rejection of the person of the Manifestation, grounding abstraction in human figure.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 53,
+          "snippet": "Manifestation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 160,
+          "snippet": "Author of all Manifestations"
+        },
+        {
+          "work": "gleanings",
+          "para": 222,
+          "snippet": "material"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 206,
+          "snippet": "appeared"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 255,
+          "snippet": "Manifestations"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 791,
+          "snippet": "tokens of Thy handiwork"
+        }
+      ]
+    },
+    {
+      "term": "جمال",
+      "transliteration": "j-m-l",
+      "literal": "beauty; comeliness",
+      "se_rendering": "Beauty",
+      "note": "Rendered as 'Beauty' (capitalized, 38 occ), theological term for divine attributes. Modified by 'immortal' and 'that'—shifts from abstract beauty to personal exemplar.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 296,
+          "snippet": "Beauty"
+        },
+        {
+          "work": "gleanings",
+          "para": 183,
+          "snippet": "Ancient Beauty"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 193,
+          "snippet": "Among others"
+        },
+        {
+          "work": "gleanings",
+          "para": 359,
+          "snippet": "Amongst"
+        },
+        {
+          "work": "gleanings",
+          "para": 649,
+          "snippet": "by the beauty"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 88,
+          "snippet": "for a beauty"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 116,
+          "snippet": "by Thine Ancient Beauty"
+        },
+        {
+          "work": "gleanings",
+          "para": 165,
+          "snippet": "By My Beauty"
+        }
+      ]
+    }
+  ],
+  "section_index": "120",
+  "section": "120",
+  "section_para": 1
 }

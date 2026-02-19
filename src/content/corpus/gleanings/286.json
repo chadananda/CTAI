@@ -1,10 +1,861 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 286,
   "source_text": "قل کلّ ما یخرج من فمه إنّه لمحیي الأبدان لو أنتم من العارفین کلّ ما أنتم تشهدون في الأرض إنّه قد ظهر بأمره العالي المتعالي المحکم البدیع إذا استشرق عن أفق فمه شمس إسمه الصّانع بها تظهر الصّنایع في کلّ الأعصار وإنّ هذا لحقّ یقین ویستشرق هذا الاسم علی کلّ ما یکون وتظهر منه الصّنایع بأسباب الملک لو أنتم من الموقنین کلّ ما تشهدون ظهورات الصّنعیّة البدیعة کلّها ظهر من هذا الاسم وسیظهر من بعد ما لا سمعتموه من قبل کذلک قدّر في الألواح ولا یعرفها إلّا کلّ ذي بصر حدید وکذلک حین الّذي تستشرق عن أفق البیان شمس إسمي العلّام یحمل کلّ شيء من هذا الاسم بدایع العلوم علی حدّه ومقداره ویظهر منه في مدّ الأیّام بأمر من لدن مقتدر علیم وکذلک فانظر في کلّ الأسمآء وکن علی یقین منیع قل إنّ کلّ حرف تخرج من فم الله إنّها لأمّ الحروفات وکذلک کلّ کلمة تظهر من معدن الأمر إنّها لأمّ الکلمات وإنّ لوحه لأمّ الألواح فطوبی للعارفین",
   "translation": "Every word that proceedeth out of the mouth of God is endowed with such potency as can instill new life into every human frame, if ye be of them that comprehend this truth. All the wondrous works ye behold in this world have been manifested through the operation of His supreme and most exalted Will, His wondrous and inflexible Purpose. Through the mere revelation of the word “Fashioner,” issuing forth from His lips and proclaiming His attribute to mankind, such power is released as can generate, through successive ages, all the manifold arts which the hands of man can produce. This, verily, is a certain truth. No sooner is this resplendent word uttered, than its animating energies, stirring within all created things, give birth to the means and instruments whereby such arts can be produced and perfected. All the wondrous achievements ye now witness are the direct consequences of the Revelation of this Name. In the days to come, ye will, verily, behold things of which ye have never heard before. Thus hath it been decreed in the Tablets of God, and none can comprehend it except them whose sight is sharp. In like manner, the moment the word expressing My attribute “The Omniscient” issueth forth from My mouth, every created thing will, according to its capacity and limitations, be invested with the power to unfold the knowledge of the most marvelous sciences, and will be empowered to manifest them in the course of time at the bidding of Him Who is the Almighty, the All-Knowing. Know thou of a certainty that the Revelation of every other Name is accompanied by a similar manifestation of Divine power. Every single letter proceeding out of the mouth of God is indeed a mother letter, and every word uttered by Him Who is the Wellspring of Divine Revelation is a mother word, and His Tablet a Mother Tablet. Well is it with them that apprehend this truth.",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "every-word-mouth-god-mother-letter",
+  "alignment": [
+    {
+      "ar": "قل",
+      "en": "proceedeth"
+    },
+    {
+      "ar": "کلّ",
+      "en": "Every"
+    },
+    {
+      "ar": "ما",
+      "en": "word"
+    },
+    {
+      "ar": "من",
+      "en": "out of"
+    },
+    {
+      "ar": "فمه",
+      "en": "the mouth of God"
+    },
+    {
+      "ar": "إنّه",
+      "en": "is endowed"
+    },
+    {
+      "ar": "لمحیي",
+      "en": "instill new life"
+    },
+    {
+      "ar": "الأبدان",
+      "en": "human frame"
+    },
+    {
+      "ar": "لو",
+      "en": "if"
+    },
+    {
+      "ar": "أنتم",
+      "en": "ye"
+    },
+    {
+      "ar": "من",
+      "en": "of"
+    },
+    {
+      "ar": "العارفین",
+      "en": "them that comprehend"
+    },
+    {
+      "ar": "کلّ",
+      "en": "All"
+    },
+    {
+      "ar": "ما",
+      "en": "the wondrous works"
+    },
+    {
+      "ar": "تشهدون",
+      "en": "behold"
+    },
+    {
+      "ar": "في",
+      "en": "in"
+    },
+    {
+      "ar": "الأرض",
+      "en": "this world"
+    },
+    {
+      "ar": "إنّه",
+      "en": "have been"
+    },
+    {
+      "ar": "قد",
+      "en": "have"
+    },
+    {
+      "ar": "ظهر",
+      "en": "manifested"
+    },
+    {
+      "ar": "بأمره",
+      "en": "His supreme and most exalted Will"
+    },
+    {
+      "ar": "العالي",
+      "en": "most exalted"
+    },
+    {
+      "ar": "المتعالي",
+      "en": "supreme"
+    },
+    {
+      "ar": "المحکم",
+      "en": "inflexible"
+    },
+    {
+      "ar": "البدیع",
+      "en": "wondrous"
+    },
+    {
+      "ar": "إذا",
+      "en": "Through"
+    },
+    {
+      "ar": "استشرق",
+      "en": "revelation"
+    },
+    {
+      "ar": "عن",
+      "en": "from"
+    },
+    {
+      "ar": "أفق",
+      "en": "forth"
+    },
+    {
+      "ar": "فمه",
+      "en": "His lips"
+    },
+    {
+      "ar": "إسمه",
+      "en": "His attribute"
+    },
+    {
+      "ar": "الصّانع",
+      "en": "Fashioner"
+    },
+    {
+      "ar": "بها",
+      "en": "such power"
+    },
+    {
+      "ar": "تظهر",
+      "en": "generate"
+    },
+    {
+      "ar": "الصّنایع",
+      "en": "arts"
+    },
+    {
+      "ar": "في",
+      "en": "through"
+    },
+    {
+      "ar": "کلّ",
+      "en": "successive"
+    },
+    {
+      "ar": "الأعصار",
+      "en": "ages"
+    },
+    {
+      "ar": "وإنّ",
+      "en": "verily"
+    },
+    {
+      "ar": "هذا",
+      "en": "This"
+    },
+    {
+      "ar": "لحقّ",
+      "en": "truth"
+    },
+    {
+      "ar": "یقین",
+      "en": "certain"
+    },
+    {
+      "ar": "ویستشرق",
+      "en": "is this resplendent word uttered"
+    },
+    {
+      "ar": "هذا",
+      "en": "this"
+    },
+    {
+      "ar": "علی",
+      "en": "within"
+    },
+    {
+      "ar": "کلّ",
+      "en": "all"
+    },
+    {
+      "ar": "ما",
+      "en": "created things"
+    },
+    {
+      "ar": "یکون",
+      "en": "created"
+    },
+    {
+      "ar": "وتظهر",
+      "en": "give birth"
+    },
+    {
+      "ar": "منه",
+      "en": "whereby"
+    },
+    {
+      "ar": "بأسباب",
+      "en": "the means"
+    },
+    {
+      "ar": "الملک",
+      "en": "instruments"
+    },
+    {
+      "ar": "الموقنین",
+      "en": "certainty"
+    },
+    {
+      "ar": "ما",
+      "en": "the wondrous achievements"
+    },
+    {
+      "ar": "تشهدون",
+      "en": "witness"
+    },
+    {
+      "ar": "ظهورات",
+      "en": "consequences"
+    },
+    {
+      "ar": "الصّنعیّة",
+      "en": "Revelation"
+    },
+    {
+      "ar": "ظهر",
+      "en": "the direct consequences of the Revelation"
+    },
+    {
+      "ar": "الاسم",
+      "en": "Name"
+    },
+    {
+      "ar": "وسیظهر",
+      "en": "will, verily, behold"
+    },
+    {
+      "ar": "من",
+      "en": "In"
+    },
+    {
+      "ar": "بعد",
+      "en": "the days to come"
+    },
+    {
+      "ar": "ما",
+      "en": "things"
+    },
+    {
+      "ar": "لا",
+      "en": "never"
+    },
+    {
+      "ar": "سمعتموه",
+      "en": "heard"
+    },
+    {
+      "ar": "من",
+      "en": "before"
+    },
+    {
+      "ar": "کذلک",
+      "en": "Thus"
+    },
+    {
+      "ar": "قدّر",
+      "en": "decreed"
+    },
+    {
+      "ar": "الألواح",
+      "en": "the Tablets of God"
+    },
+    {
+      "ar": "ولا",
+      "en": "none"
+    },
+    {
+      "ar": "یعرفها",
+      "en": "comprehend"
+    },
+    {
+      "ar": "إلّا",
+      "en": "except"
+    },
+    {
+      "ar": "کلّ",
+      "en": "them"
+    },
+    {
+      "ar": "ذي",
+      "en": "whose"
+    },
+    {
+      "ar": "بصر",
+      "en": "sight"
+    },
+    {
+      "ar": "حدید",
+      "en": "sharp"
+    },
+    {
+      "ar": "وکذلک",
+      "en": "In like manner"
+    },
+    {
+      "ar": "حین",
+      "en": "the moment"
+    },
+    {
+      "ar": "الّذي",
+      "en": "the word"
+    },
+    {
+      "ar": "تستشرق",
+      "en": "issueth"
+    },
+    {
+      "ar": "البیان",
+      "en": "My mouth"
+    },
+    {
+      "ar": "إسمي",
+      "en": "My attribute"
+    },
+    {
+      "ar": "العلّام",
+      "en": "The Omniscient"
+    },
+    {
+      "ar": "یحمل",
+      "en": "be invested"
+    },
+    {
+      "ar": "کلّ",
+      "en": "every"
+    },
+    {
+      "ar": "شيء",
+      "en": "created thing"
+    },
+    {
+      "ar": "من",
+      "en": "with"
+    },
+    {
+      "ar": "هذا",
+      "en": "the"
+    },
+    {
+      "ar": "بدایع",
+      "en": "the most marvelous"
+    },
+    {
+      "ar": "العلوم",
+      "en": "sciences"
+    },
+    {
+      "ar": "علی",
+      "en": "according to"
+    },
+    {
+      "ar": "حدّه",
+      "en": "its capacity"
+    },
+    {
+      "ar": "ومقداره",
+      "en": "and limitations"
+    },
+    {
+      "ar": "ویظهر",
+      "en": "manifest"
+    },
+    {
+      "ar": "مدّ",
+      "en": "the course of"
+    },
+    {
+      "ar": "الأیّام",
+      "en": "time"
+    },
+    {
+      "ar": "بأمر",
+      "en": "at the bidding"
+    },
+    {
+      "ar": "لدن",
+      "en": "Him"
+    },
+    {
+      "ar": "مقتدر",
+      "en": "the Almighty"
+    },
+    {
+      "ar": "علیم",
+      "en": "the All-Knowing"
+    },
+    {
+      "ar": "وکذلک",
+      "en": "Know thou of a certainty"
+    },
+    {
+      "ar": "فانظر",
+      "en": "the Revelation"
+    },
+    {
+      "ar": "الأسمآء",
+      "en": "other Name"
+    },
+    {
+      "ar": "وکن",
+      "en": "is accompanied"
+    },
+    {
+      "ar": "علی",
+      "en": "by"
+    },
+    {
+      "ar": "یقین",
+      "en": "a similar"
+    },
+    {
+      "ar": "منیع",
+      "en": "manifestation"
+    },
+    {
+      "ar": "إنّ",
+      "en": "indeed"
+    },
+    {
+      "ar": "حرف",
+      "en": "single letter"
+    },
+    {
+      "ar": "تخرج",
+      "en": "proceeding"
+    },
+    {
+      "ar": "فم",
+      "en": "the mouth of"
+    },
+    {
+      "ar": "الله",
+      "en": "God"
+    },
+    {
+      "ar": "إنّها",
+      "en": "is"
+    },
+    {
+      "ar": "لأمّ",
+      "en": "a mother"
+    },
+    {
+      "ar": "الحروفات",
+      "en": "letter"
+    },
+    {
+      "ar": "وکذلک",
+      "en": "and"
+    },
+    {
+      "ar": "تظهر",
+      "en": "uttered"
+    },
+    {
+      "ar": "معدن",
+      "en": "the Wellspring"
+    },
+    {
+      "ar": "الأمر",
+      "en": "Divine Revelation"
+    },
+    {
+      "ar": "لوحه",
+      "en": "His Tablet"
+    },
+    {
+      "ar": "لأمّ",
+      "en": "a Mother"
+    },
+    {
+      "ar": "الألواح",
+      "en": "Tablet"
+    },
+    {
+      "ar": "فطوبی",
+      "en": "Well is it with"
+    },
+    {
+      "ar": "للعارفین",
+      "en": "them that apprehend this truth"
+    }
+  ],
+  "terms": [
+    {
+      "term": "فمه",
+      "transliteration": "f-w-h",
+      "literal": "mouth",
+      "se_rendering": "mouth",
+      "note": "Literal rendering of 'mouth' throughout; emphasizes divine utterance as physical metaphor for God's creative speech—core to this passage's argument about Word-power.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 136,
+          "snippet": "with their mouths"
+        }
+      ]
+    },
+    {
+      "term": "العارفین",
+      "transliteration": "ʿ-r-f",
+      "literal": "to confess; to acknowledge; to recognize",
+      "se_rendering": "them that apprehend",
+      "note": "Rendered 'them that apprehend'; root 'to recognize/acknowledge' across 82 occurrences typically gives 'understanding,' 'acknowledged.' Here emphasizes active comprehension as condition for receiving truth.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 601,
+          "snippet": "testifieth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 729,
+          "snippet": "hath acknowledged"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 582,
+          "snippet": "have recognized"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 228,
+          "snippet": "acknowledged"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 744,
+          "snippet": "understanding"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 5,
+          "snippet": "acknowledging"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 4,
+          "snippet": "fragrance of His garment"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 114,
+          "snippet": "Thy knowledge"
+        }
+      ]
+    },
+    {
+      "term": "ظهر",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "manifested; Revelation; manifest",
+      "note": "Rendered 'manifested,' 'Revelation,' 'manifest,' 'appear' here; 96 total occurrences show 'Manifestation' typical. Multiple forms in one passage stress cyclic unveiling of divine Names.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 140,
+          "snippet": "manifestation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 160,
+          "snippet": "Author of all Manifestations"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 136,
+          "snippet": "evident"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 206,
+          "snippet": "appeared"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 196,
+          "snippet": "Manifestations of God"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 255,
+          "snippet": "Manifestations"
+        }
+      ]
+    },
+    {
+      "term": "الاسم",
+      "transliteration": "s-m-w",
+      "literal": "heaven; sky",
+      "se_rendering": "Name; word",
+      "note": "Rendered 'Name' and 'word' interchangeably in this passage (الاسم الصّانع = 'word Fashioner'; إسمي العلّام = 'My attribute'). Shows SE collapsing semantic distinction for theological unity.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 594,
+          "snippet": "the heavens"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 52,
+          "snippet": "heaven"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 53,
+          "snippet": "heavenly Grace"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 177,
+          "snippet": "heavenly Books"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 98,
+          "snippet": "heavenly Gospel"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 123,
+          "snippet": "the grace of God and the mercy of his Lord"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 397,
+          "snippet": "the kingdoms of earth and heaven"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 534,
+          "snippet": "earth and heaven"
+        }
+      ]
+    },
+    {
+      "term": "الألواح",
+      "transliteration": "l-w-h",
+      "literal": "tablet; panel; divine decree; revelation",
+      "se_rendering": "Tablets",
+      "note": "Rendered 'Tablets' and 'Mother Tablet'—standard across 44 occurrences but 'Mother' epithet here makes them archetypal templates for all revelation, not mere records.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 218,
+          "snippet": "Lawh-i-Fu'ad"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 245,
+          "snippet": "Tablets"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 112,
+          "snippet": "Tablet"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 7,
+          "snippet": "a document"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 100,
+          "snippet": "the Scriptures"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 461,
+          "snippet": "the Tablets"
+        }
+      ]
+    },
+    {
+      "term": "البیان",
+      "transliteration": "b-y-n",
+      "literal": "to manifest; to make clear; clear, evident",
+      "se_rendering": "My attribute; Divine Revelation",
+      "note": "Rendered 'My attribute' and 'Divine Revelation'—unusual given 87 occurrences typically render 'the Bayán,' 'Expounder,' 'proofs.' SE avoids Bábí-specific term in Bahá'u'lláh context.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 231,
+          "snippet": "clear verses"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 3,
+          "snippet": "proofs"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 12,
+          "snippet": "clear proofs"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 101,
+          "snippet": "Bayán"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 84,
+          "snippet": "palpable smoke"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 120,
+          "snippet": "evil"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 178,
+          "snippet": "evident error"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 189,
+          "snippet": "meaning"
+        }
+      ]
+    },
+    {
+      "term": "حرف",
+      "transliteration": "h-r-f",
+      "literal": "letter; character; edge",
+      "se_rendering": "letter",
+      "note": "Rendered 'letter' (singular form emphasized as 'mother letter'). Only 32 occurrences total; SE avoids negative sense ('falsification') when discussing divine utterance here.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 46,
+          "snippet": "letters"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 5,
+          "snippet": "passed out"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 6,
+          "snippet": "falsifying"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 41,
+          "snippet": "falsification"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 92,
+          "snippet": "alteration"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 97,
+          "snippet": "perverted"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 11,
+          "snippet": "his boundless transgression"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 179,
+          "snippet": "setting down"
+        }
+      ]
+    },
+    {
+      "term": "الکلمات",
+      "transliteration": "k-l-m",
+      "literal": "words; utterances; locutions",
+      "se_rendering": "word",
+      "note": "Rendered 'word' (singular in context) and 'words' (plural). 58 occurrences typical; 'mother word' parallels 'mother letter,' elevating linguistic unit to ontological principle.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 6,
+          "snippet": "words"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 38,
+          "snippet": "His Word"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 48,
+          "snippet": "Thy Word"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 2,
+          "snippet": "the Word"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 66,
+          "snippet": "sublime words"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 85,
+          "snippet": "utter"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 84,
+          "snippet": "churches and cloisters"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 14,
+          "snippet": "these exalted words"
+        }
+      ]
+    }
+  ],
+  "section_index": "LXXIV.1",
+  "section": "LXXIV",
+  "section_para": 1
 }

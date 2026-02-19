@@ -1,10 +1,122 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 486,
   "source_text": "إِنَّكَ أَنْتَ المُعْطِ البَاذِلُ الغَفُورُ الرَّحيمُ.",
   "translation": "Thou art, verily, the Bountiful, the Munificent, the Forgiving, the Compassionate.",
   "source_lang": "ar",
-  "score": 9.7
+  "score": 9.7,
+  "page_slug": "bountiful-munificent-forgiving-compassionate",
+  "alignment": [
+    {
+      "ar": "أَنْتَ",
+      "en": "art"
+    },
+    {
+      "ar": "المُعْطِ",
+      "en": "the Bountiful"
+    },
+    {
+      "ar": "البَاذِلُ",
+      "en": "the Munificent"
+    },
+    {
+      "ar": "الغَفُورُ",
+      "en": "the Forgiving"
+    }
+  ],
+  "terms": [
+    {
+      "term": "الغَفُورُ",
+      "transliteration": "gh-f-r",
+      "literal": "to forgive; forgiveness",
+      "se_rendering": "the Forgiving",
+      "note": "Root غ-ف-ر. SE here renders as 'the Forgiving,' consistent with Jafar data showing 'the Forgiving' as primary rendering (21 occ). Preserves juridical sense of pardoning wrongdoing.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 13,
+          "snippet": "wronged"
+        },
+        {
+          "work": "gleanings",
+          "para": 217,
+          "snippet": "forgive"
+        },
+        {
+          "work": "gleanings",
+          "para": 652,
+          "snippet": "forgiveness"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 35,
+          "snippet": "Thy forgiveness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 192,
+          "snippet": "pardon"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 682,
+          "snippet": "forgivest"
+        }
+      ]
+    },
+    {
+      "term": "الرَّحيمُ",
+      "transliteration": "r-ḥ-m",
+      "literal": "merciful, compassionate; pertaining to divine mercy",
+      "se_rendering": "the Compassionate",
+      "note": "Root ر-ح-م. SE renders as 'the Compassionate' here, diverging from Jafar's most common rendering 'merciful' (70 occ). 'Compassionate' emphasizes emotional resonance over juridical mercy, creating affective parallelism with 'Forgiving.'",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 673,
+          "snippet": "Divine glory"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 57,
+          "snippet": "Divine"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 89,
+          "snippet": "celestial melody"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 114,
+          "snippet": "spirit of mercy"
+        },
+        {
+          "work": "gleanings",
+          "para": 372,
+          "snippet": "merciful"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 220,
+          "snippet": "have mercy on them"
+        },
+        {
+          "work": "gleanings",
+          "para": 12,
+          "snippet": "mercy"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 50,
+          "snippet": "the Compassionate"
+        }
+      ]
+    }
+  ],
+  "section_index": "CXI.7",
+  "section": "CXI",
+  "section_para": 7
 }

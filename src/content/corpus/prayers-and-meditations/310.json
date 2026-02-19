@@ -1,10 +1,209 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 310,
   "source_text": "أَنْتَ ذُو القُدْرَةِ العَظِيمِ وَذُو البَطْشِ الشَّدِيدِ لا إِلهَ إِلاَّ أَنْتَ المُقْتَدِرُ القَدِيرُ.",
   "translation": "Thou art, verily, the One Whose power is immense, Whose vengeance is terrible. No God is there beside Thee, the Almighty, the Most Powerful.",
   "source_lang": "ar",
-  "score": 9.8
+  "score": 9.8,
+  "page_slug": "one-whose-power-is-immense",
+  "alignment": [
+    {
+      "ar": "أَنْتَ",
+      "en": "Thou"
+    },
+    {
+      "ar": "ذُو",
+      "en": "the One Whose"
+    },
+    {
+      "ar": "القُدْرَةِ",
+      "en": "power"
+    },
+    {
+      "ar": "العَظِيمِ",
+      "en": "immense"
+    },
+    {
+      "ar": "ذُو",
+      "en": "Whose"
+    },
+    {
+      "ar": "البَطْشِ",
+      "en": "vengeance"
+    },
+    {
+      "ar": "لا",
+      "en": "No"
+    },
+    {
+      "ar": "إِلهَ",
+      "en": "God"
+    },
+    {
+      "ar": "أَنْتَ",
+      "en": "Thee"
+    },
+    {
+      "ar": "المُقْتَدِرُ",
+      "en": "the Almighty"
+    },
+    {
+      "ar": "القَدِيرُ",
+      "en": "the Most Powerful"
+    }
+  ],
+  "terms": [
+    {
+      "term": "القُدْرَةِ",
+      "transliteration": "q-d-r",
+      "literal": "power; might; decree; measure; worth",
+      "se_rendering": "power",
+      "note": "Most common rendering is 'power' or 'Thy power' (100 occurrences). Here paired with العظيم to form 'power is immense,' emphasizing cosmic omnipotence through modifying adjective rather than standing alone.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 171,
+          "snippet": "a while"
+        },
+        {
+          "work": "gleanings",
+          "para": 138,
+          "snippet": "hath been decreed"
+        },
+        {
+          "work": "gleanings",
+          "para": 662,
+          "snippet": "hath decreed"
+        },
+        {
+          "work": "gleanings",
+          "para": 496,
+          "snippet": "forbearing towards"
+        },
+        {
+          "work": "gleanings",
+          "para": 111,
+          "snippet": "schools"
+        },
+        {
+          "work": "gleanings",
+          "para": 532,
+          "snippet": "can"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 4,
+          "snippet": "for a moment"
+        },
+        {
+          "work": "gleanings",
+          "para": 112,
+          "snippet": "Thy might"
+        }
+      ]
+    },
+    {
+      "term": "العَظِيمِ",
+      "transliteration": "ʿ-z̟-m",
+      "literal": "greatest; supreme; mightiest",
+      "se_rendering": "immense",
+      "note": "Typically 'Most Great' or 'greatest' (63 occurrences). Here rendered 'immense' modifying القدرة—a scale-oriented rather than superlative choice, suggesting boundless magnitude.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 56,
+          "snippet": "supreme"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 3,
+          "snippet": "greatest"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 6,
+          "snippet": "greater"
+        },
+        {
+          "work": "gleanings",
+          "para": 10,
+          "snippet": "most mighty"
+        },
+        {
+          "work": "gleanings",
+          "para": 409,
+          "snippet": "most great"
+        },
+        {
+          "work": "gleanings",
+          "para": 392,
+          "snippet": "great"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 9,
+          "snippet": "mighty"
+        },
+        {
+          "work": "gleanings",
+          "para": 169,
+          "snippet": "vast"
+        }
+      ]
+    },
+    {
+      "term": "الشَّدِيدِ",
+      "transliteration": "sh-d-d",
+      "literal": "strong; severe; intense; violent",
+      "se_rendering": "terrible",
+      "note": "Renders variously as 'very great,' 'great,' 'most severe in punishment' (35 occurrences). Here 'terrible' pairs with vengeance, selecting the punishment/severity branch of the root's semantic field.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 38,
+          "snippet": "very great"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 5,
+          "snippet": "great"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 30,
+          "snippet": "most turbulent"
+        },
+        {
+          "work": "gleanings",
+          "para": 94,
+          "snippet": "more intense manifestation"
+        },
+        {
+          "work": "gleanings",
+          "para": 256,
+          "snippet": "most severe in punishment"
+        },
+        {
+          "work": "gleanings",
+          "para": 248,
+          "snippet": "reached manhood"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 141,
+          "snippet": "uttered"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 53,
+          "snippet": "arose"
+        }
+      ]
+    }
+  ],
+  "section_index": "LXXIII.3",
+  "section": "LXXIII",
+  "section_para": 3
 }

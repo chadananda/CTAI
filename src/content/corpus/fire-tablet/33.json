@@ -1,10 +1,265 @@
 {
   "work": "Fire Tablet",
   "slug": "fire-tablet",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 33,
   "source_text": "قَدْ غُلِقَ بَابُ اللِّقَاءِ مِنْ ظُلْمِ الأَعْدَاءِ أَيْنَ مِفْتَاحُ جُوْدِكَ يَا فَتَّاحَ العَالَمِينَ *",
   "translation": "The door leading to the Divine Presence is locked through the tyranny of Thy foes: Where is the key of Thy bestowal, O Unlocker of the worlds?",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "door-divine-presence-locked",
+  "alignment": [
+    {
+      "ar": "غُلِقَ",
+      "en": "locked"
+    },
+    {
+      "ar": "بَابُ",
+      "en": "door"
+    },
+    {
+      "ar": "ظُلْمِ",
+      "en": "tyranny"
+    },
+    {
+      "ar": "الأَعْدَاءِ",
+      "en": "Thy foes"
+    },
+    {
+      "ar": "أَيْنَ",
+      "en": "Where"
+    },
+    {
+      "ar": "مِفْتَاحُ",
+      "en": "key"
+    },
+    {
+      "ar": "جُوْدِكَ",
+      "en": "Thy bestowal"
+    },
+    {
+      "ar": "العَالَمِينَ",
+      "en": "the worlds"
+    }
+  ],
+  "terms": [
+    {
+      "term": "بَابُ",
+      "transliteration": "b-w-b",
+      "literal": "door; gate; chapter; way; manner",
+      "se_rendering": "door",
+      "note": "Standard rendering 'door' aligns with corpus. Metaphorical use for spiritual access is conventional in Islamic/Bahá'í mystical discourse.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 47,
+          "snippet": "at Thy Door"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 313,
+          "snippet": "to Thy gate"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 360,
+          "snippet": "doors"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 91,
+          "snippet": "gates"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 112,
+          "snippet": "portals"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 137,
+          "snippet": "door"
+        }
+      ]
+    },
+    {
+      "term": "اللِّقَاءِ",
+      "transliteration": "l-q-y",
+      "literal": "opposite; facing; in front of; towards",
+      "se_rendering": "the Divine Presence",
+      "note": "Root typically renders as 'before' or 'in the face of' across corpus. 'The Divine Presence' here reflects SE's theological interpretation of this devotional context.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 337,
+          "snippet": "in the face of"
+        },
+        {
+          "work": "gleanings",
+          "para": 375,
+          "snippet": "before"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 171,
+          "snippet": "the Divine Presence"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 149,
+          "snippet": "attainment unto the Divine Presence"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 216,
+          "snippet": "the Judgment Day"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 154,
+          "snippet": "Recite"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 805,
+          "snippet": "hath attained unto Thy presence"
+        },
+        {
+          "work": "gleanings",
+          "para": 31,
+          "snippet": "hath attained unto His Presence"
+        }
+      ]
+    },
+    {
+      "term": "ظُلْمِ",
+      "transliteration": "z-l-m",
+      "literal": "wrongedness, oppression, meekness; state of being wronged or oppressed",
+      "se_rendering": "tyranny",
+      "note": "Root yields 'wronged', 'Wronged One', 'afflicted' across 128 occurrences. 'Tyranny' here captures oppression sense, diverging from SE's frequent emphasis on suffering or victimhood.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 498,
+          "snippet": "afflicted with countless tribulations"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 116,
+          "snippet": "injury"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 36,
+          "snippet": "Wronged One"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 253,
+          "snippet": "wronged"
+        },
+        {
+          "work": "gleanings",
+          "para": 221,
+          "snippet": "oppression"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 141,
+          "snippet": "tyranny"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 573,
+          "snippet": "oppressed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 181,
+          "snippet": "wronged ones"
+        }
+      ]
+    },
+    {
+      "term": "الأَعْدَاءِ",
+      "transliteration": "ʿ-d-w",
+      "literal": "hostility, aggression, enmity, transgression",
+      "se_rendering": "Thy foes",
+      "note": "Standard rendering 'Thy foes' matches corpus pattern. Choice echoes SE's consistent personalization of enmity in relation to Divine authority.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 4,
+          "snippet": "hostility"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 309,
+          "snippet": "Thine enemies"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 53,
+          "snippet": "enemies of the Covenant"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 110,
+          "snippet": "his enemy"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 188,
+          "snippet": "His enemies"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 35,
+          "snippet": "amongst mine enemies"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 52,
+          "snippet": "enemies"
+        },
+        {
+          "work": "gleanings",
+          "para": 184,
+          "snippet": "Mine enemies"
+        }
+      ]
+    },
+    {
+      "term": "جُوْدِكَ",
+      "transliteration": "j-w-d",
+      "literal": "generosity; bounty; liberality",
+      "se_rendering": "Thy bestowal",
+      "note": "Root typically 'bounty' or 'generosity'. 'Bestowal' here emphasizes active divine dispensation rather than passive abundance.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 5,
+          "snippet": "bounty"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 657,
+          "snippet": "generosity"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 243,
+          "snippet": "Javád"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 646,
+          "snippet": "All-Bountiful"
+        }
+      ]
+    }
+  ],
+  "section_index": "34",
+  "section": "34",
+  "section_para": 1
 }

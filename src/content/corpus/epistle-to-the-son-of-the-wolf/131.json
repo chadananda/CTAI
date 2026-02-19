@@ -1,10 +1,356 @@
 {
   "work": "Epistle to the Son of the Wolf",
   "slug": "epistle-to-the-son-of-the-wolf",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 131,
   "source_text": "و بعد از شهادت بعضی از شهداء لوح برهان از سماء امر مالک اديان نازل",
   "translation": "Following upon the death of some of the martyrs, the Lawh-i-Burhan (Tablet of the Proof) was sent down from the heaven of the Revelation of Him Who is the Lord of Religions:",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "tablet-proof-revealed-religions",
+  "alignment": [
+    {
+      "ar": "بعد",
+      "en": "Following upon"
+    },
+    {
+      "ar": "شهادت",
+      "en": "death"
+    },
+    {
+      "ar": "بعضی",
+      "en": "some"
+    },
+    {
+      "ar": "شهداء",
+      "en": "martyrs"
+    },
+    {
+      "ar": "لوح",
+      "en": "Tablet"
+    },
+    {
+      "ar": "برهان",
+      "en": "Burhan"
+    },
+    {
+      "ar": "سماء",
+      "en": "heaven"
+    },
+    {
+      "ar": "امر",
+      "en": "Revelation"
+    },
+    {
+      "ar": "مالک",
+      "en": "Lord"
+    },
+    {
+      "ar": "اديان",
+      "en": "Religions"
+    },
+    {
+      "ar": "نازل",
+      "en": "sent down"
+    }
+  ],
+  "terms": [
+    {
+      "term": "شهادت",
+      "transliteration": "sh-h-d",
+      "literal": "witnessed; observed; seen; evident; manifest",
+      "se_rendering": "death",
+      "note": "Typically 'manifest' or 'evident' across 74 occurrences. Here rendered 'death' — a concrete, historical reading rather than mystical witness.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 607,
+          "snippet": "manifest"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 35,
+          "snippet": "evident"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 811,
+          "snippet": "I bear witness"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 836,
+          "snippet": "I testify"
+        },
+        {
+          "work": "gleanings",
+          "para": 298,
+          "snippet": "witness"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 138,
+          "snippet": "martyrdom"
+        },
+        {
+          "work": "gleanings",
+          "para": 134,
+          "snippet": "God witnesseth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 230,
+          "snippet": "God testifieth"
+        }
+      ]
+    },
+    {
+      "term": "سماء",
+      "transliteration": "s-m-w",
+      "literal": "heaven; sky",
+      "se_rendering": "heaven",
+      "note": "Standard rendering 'heaven' matches 39 occurrences. Metaphorical rather than literal sky, consistent with SE's typical spiritualized usage.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 591,
+          "snippet": "heaven"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 594,
+          "snippet": "the heavens"
+        },
+        {
+          "work": "gleanings",
+          "para": 78,
+          "snippet": "heavens"
+        },
+        {
+          "work": "gleanings",
+          "para": 212,
+          "snippet": "breath"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 53,
+          "snippet": "heavenly Grace"
+        },
+        {
+          "work": "gleanings",
+          "para": 417,
+          "snippet": "heavenly Book"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 177,
+          "snippet": "heavenly Books"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 98,
+          "snippet": "heavenly Gospel"
+        }
+      ]
+    },
+    {
+      "term": "امر",
+      "transliteration": "ʾ-m-r",
+      "literal": "command; cause; matter; affair",
+      "se_rendering": "Revelation",
+      "note": "Rendered 'Revelation' here; usually 'His Cause' or 'His command' across 75 occurrences. Emphasizes divine utterance over administrative agency.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "His Cause"
+        },
+        {
+          "work": "gleanings",
+          "para": 586,
+          "snippet": "His command"
+        },
+        {
+          "work": "gleanings",
+          "para": 691,
+          "snippet": "His Revelation"
+        },
+        {
+          "work": "gleanings",
+          "para": 723,
+          "snippet": "Cause"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 797,
+          "snippet": "Thy Cause"
+        },
+        {
+          "work": "gleanings",
+          "para": 8,
+          "snippet": "Revelation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 597,
+          "snippet": "service"
+        },
+        {
+          "work": "gleanings",
+          "para": 524,
+          "snippet": "your affairs"
+        }
+      ]
+    },
+    {
+      "term": "مالک",
+      "transliteration": "m-l-k",
+      "literal": "kingdom; dominion; realm; sovereignty",
+      "se_rendering": "Lord",
+      "note": "Rendered 'Lord' via periphrasis 'Him Who is the Lord'; root typically means 'kingdom' or 'realm' (70 occ). SE shifts from abstract dominion to personal sovereignty.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-ahd",
+          "para": 16,
+          "snippet": "heaven"
+        },
+        {
+          "work": "gleanings",
+          "para": 394,
+          "snippet": "realm"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 71,
+          "snippet": "kingdom"
+        },
+        {
+          "work": "gleanings",
+          "para": 313,
+          "snippet": "heavenly gem"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 69,
+          "snippet": "realms"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 28,
+          "snippet": "righteous"
+        },
+        {
+          "work": "gleanings",
+          "para": 171,
+          "snippet": "by the heavenly power"
+        },
+        {
+          "work": "gleanings",
+          "para": 59,
+          "snippet": "Lord"
+        }
+      ]
+    },
+    {
+      "term": "ادیان",
+      "transliteration": "d-y-n",
+      "literal": "religion; faith; creed",
+      "se_rendering": "Religions",
+      "note": "Rendered 'Religions' (plural, nominative). Root-form appears as 'Faith' or 'Revelation' in other contexts; here SE uses literal plural to denote multiplicity of faiths.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "His Cause"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 3,
+          "snippet": "Faith"
+        },
+        {
+          "work": "gleanings",
+          "para": 436,
+          "snippet": "Religion"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 26,
+          "snippet": "Thy Faith"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 221,
+          "snippet": "Revelation"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 5,
+          "snippet": "Faith of God"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 143,
+          "snippet": "and the like"
+        },
+        {
+          "work": "gleanings",
+          "para": 14,
+          "snippet": "without"
+        }
+      ]
+    },
+    {
+      "term": "نازل",
+      "transliteration": "n-z-l",
+      "literal": "to descend, to be revealed",
+      "se_rendering": "sent down",
+      "note": "Standard 'sent down' matches most frequent rendering across 88 occurrences. Retains vertical cosmology of revelation descending from divine sphere.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 643,
+          "snippet": "sent down"
+        },
+        {
+          "work": "gleanings",
+          "para": 218,
+          "snippet": "revealed"
+        },
+        {
+          "work": "gleanings",
+          "para": 656,
+          "snippet": "descended"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 175,
+          "snippet": "didst send down"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 34,
+          "snippet": "Descend"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 47,
+          "snippet": "pour forth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 330,
+          "snippet": "send down"
+        },
+        {
+          "work": "gleanings",
+          "para": 604,
+          "snippet": "have been sent down"
+        }
+      ]
+    }
+  ],
+  "section_index": "131",
+  "section": "131",
+  "section_para": 1
 }

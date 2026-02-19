@@ -1,10 +1,271 @@
 {
   "work": "Tablet of the Holy Mariner",
   "slug": "tablet-of-the-holy-mariner",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 33,
   "source_text": "إذا أمرت جارية من جواريها الأحلى فسبحان ربّي الأبهى",
   "translation": "Thereupon she summoned unto herself one maiden from her handmaidens, \nGlorified be my Lord, the All-Glorious!",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "summoned-maiden-glorified-lord",
+  "alignment": [
+    {
+      "ar": "أمرت",
+      "en": "summoned"
+    },
+    {
+      "ar": "جارية",
+      "en": "one maiden"
+    },
+    {
+      "ar": "جواريها",
+      "en": "her handmaidens"
+    },
+    {
+      "ar": "الأحلى",
+      "en": "unto herself"
+    },
+    {
+      "ar": "فسبحان",
+      "en": "Glorified"
+    },
+    {
+      "ar": "ربّي",
+      "en": "my Lord"
+    },
+    {
+      "ar": "الأبهى",
+      "en": "the All-Glorious"
+    }
+  ],
+  "terms": [
+    {
+      "term": "أمرت",
+      "transliteration": "ʾ-m-r",
+      "literal": "command; cause; matter; affair",
+      "se_rendering": "summoned",
+      "note": "Root typically rendered 'command' (75 occ) or as 'Cause/Revelation' in theological contexts. 'Summoned' here captures intimate, relational sense rather than authoritative decree.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "His Cause"
+        },
+        {
+          "work": "gleanings",
+          "para": 586,
+          "snippet": "His command"
+        },
+        {
+          "work": "gleanings",
+          "para": 691,
+          "snippet": "His Revelation"
+        },
+        {
+          "work": "gleanings",
+          "para": 723,
+          "snippet": "Cause"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 797,
+          "snippet": "Thy Cause"
+        },
+        {
+          "work": "gleanings",
+          "para": 8,
+          "snippet": "Revelation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 597,
+          "snippet": "service"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 167,
+          "snippet": "things"
+        }
+      ]
+    },
+    {
+      "term": "جارية",
+      "transliteration": "j-r-y",
+      "literal": "trade; commerce; business",
+      "se_rendering": "maiden",
+      "note": "Root j-r-y typically means 'trade/commerce/merchants' (9 occ). SE renders as 'maiden'—a contextual pivot toward domestic/intimate meaning absent from root's commercial semantic field.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 255,
+          "snippet": "trade"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 165,
+          "snippet": "merchants"
+        },
+        {
+          "work": "gleanings",
+          "para": 649,
+          "snippet": "in course"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 32,
+          "snippet": "my Helper"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 380,
+          "snippet": "observance"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 198,
+          "snippet": "flowing"
+        },
+        {
+          "work": "gleanings",
+          "para": 395,
+          "snippet": "flowing water"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 206,
+          "snippet": "floweth"
+        }
+      ]
+    },
+    {
+      "term": "فسبحان",
+      "transliteration": "s-b-ḥ",
+      "literal": "glorified; the All-Praised; exalted",
+      "se_rendering": "Glorified be",
+      "note": "Root s-b-ḥ most commonly rendered 'the All-Praised' (23 occ). 'Glorified be' here uses imperative/doxological form, foregrounding active praise over passive attribute.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 211,
+          "snippet": "the All-Praised"
+        },
+        {
+          "work": "gleanings",
+          "para": 212,
+          "snippet": "the Breath of the All-Glorious"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 13,
+          "snippet": "the breezes of the All-Glorious"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 42,
+          "snippet": "Gracious God"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 90,
+          "snippet": "Great God"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 62,
+          "snippet": "Glorified art Thou"
+        },
+        {
+          "work": "gleanings",
+          "para": 112,
+          "snippet": "Glory be to Thee"
+        },
+        {
+          "work": "gleanings",
+          "para": 1,
+          "snippet": "Lauded and glorified art Thou"
+        }
+      ]
+    },
+    {
+      "term": "ربّي",
+      "transliteration": "r-b-b",
+      "literal": "divine; of God; lordly",
+      "se_rendering": "my Lord",
+      "note": "Standard rendering 'my Lord' (31 occ across corpus). Possessive pronoun emphasizes personal devotion; choice aligns with most frequent pattern in SE's rendering practice.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 2,
+          "snippet": "Holy"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 45,
+          "snippet": "Lord"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 69,
+          "snippet": "lordship"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 201,
+          "snippet": "My Lord's"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 162,
+          "snippet": "Divine might"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 16,
+          "snippet": "divine knowledge"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 205,
+          "snippet": "divine wisdom"
+        },
+        {
+          "work": "gleanings",
+          "para": 684,
+          "snippet": "Divine glory"
+        }
+      ]
+    },
+    {
+      "term": "الأبهى",
+      "transliteration": "b-h-y",
+      "literal": "splendor; glory; magnificence; Bahá (Proper Name in Bahá'í texts)",
+      "se_rendering": "the All-Glorious",
+      "note": "Root b-h-y rendered 'All-Glorious' here; corpus shows 'Bahá', 'Glory', 'Abhá' predominate (17 occ). 'All-Glorious' foregrounds superlative magnificence over the proper name Bahá itself.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 280,
+          "snippet": "Bahá"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 59,
+          "snippet": "Glory"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 51,
+          "snippet": "Abhá"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 271,
+          "snippet": "All-Glorious"
+        }
+      ]
+    }
+  ],
+  "section_index": "34",
+  "section": "34",
+  "section_para": 1
 }

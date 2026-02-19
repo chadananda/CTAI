@@ -1,10 +1,617 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 720,
   "source_text": "إنّ الّذی تمسّک بالعدل إنّه لا یتجاوز حدود الاعتدال فی أمر من الأمور و یکون علی بصیرة من لدی البصیر إنّ التّمدّن الّذی یذکره علمآء مِصر الصّنایع و الفضل لو یتجاوز حدّ الاعتدال لتراه نقمة علی النّاس کذلک یخبرکم الخبیر إنّه یصیر مبدأ الفساد فی تجاوزه کما کان مبدأ الاصلاح فی اعتداله تفکّروا یا قوم و لا تکونوا من الهائمین سوف تحترق المدن من ناره و ینطق لسان العظمة الملک للّه العزیز الحمید",
   "translation": "Whoso cleaveth to justice, can, under no circumstances, transgress the limits of moderation. He discerneth the truth in all things, through the guidance of Him Who is the All-Seeing. The civilization, so often vaunted by the learned exponents of arts and sciences, will, if allowed to overleap the bounds of moderation, bring great evil upon men. Thus warneth you He Who is the All-Knowing. If carried to excess, civilization will prove as prolific a source of evil as it had been of goodness when kept within the restraints of moderation. Meditate on this, O people, and be not of them that wander distraught in the wilderness of error. The day is approaching when its flame will devour the cities, when the Tongue of Grandeur will proclaim: “The Kingdom is God’s, the Almighty, the All-Praised!”",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "civilization-flame-devour-cities",
+  "alignment": [
+    {
+      "ar": "إنّ",
+      "en": ""
+    },
+    {
+      "ar": "الّذی",
+      "en": "Whoso"
+    },
+    {
+      "ar": "تمسّک",
+      "en": "cleaveth"
+    },
+    {
+      "ar": "بالعدل",
+      "en": "to justice"
+    },
+    {
+      "ar": "إنّه",
+      "en": ""
+    },
+    {
+      "ar": "لا یتجاوز",
+      "en": "transgress"
+    },
+    {
+      "ar": "حدود",
+      "en": "limits"
+    },
+    {
+      "ar": "الاعتدال",
+      "en": "moderation"
+    },
+    {
+      "ar": "فی أمر من الأمور",
+      "en": "under no circumstances"
+    },
+    {
+      "ar": "یکون",
+      "en": ""
+    },
+    {
+      "ar": "علی بصیرة",
+      "en": "discerneth"
+    },
+    {
+      "ar": "من لدی",
+      "en": "through the guidance of"
+    },
+    {
+      "ar": "البصیر",
+      "en": "the All-Seeing"
+    },
+    {
+      "ar": "إنّ",
+      "en": ""
+    },
+    {
+      "ar": "التّمدّن",
+      "en": "civilization"
+    },
+    {
+      "ar": "الّذی یذکره",
+      "en": "vaunted"
+    },
+    {
+      "ar": "علمآء",
+      "en": "learned exponents"
+    },
+    {
+      "ar": "مِصر",
+      "en": ""
+    },
+    {
+      "ar": "الصّنایع",
+      "en": "arts"
+    },
+    {
+      "ar": "الفضل",
+      "en": "sciences"
+    },
+    {
+      "ar": "لو یتجاوز",
+      "en": "if allowed to overleap"
+    },
+    {
+      "ar": "حدّ",
+      "en": "bounds"
+    },
+    {
+      "ar": "لتراه",
+      "en": "will"
+    },
+    {
+      "ar": "نقمة",
+      "en": "great evil"
+    },
+    {
+      "ar": "علی",
+      "en": "upon"
+    },
+    {
+      "ar": "النّاس",
+      "en": "men"
+    },
+    {
+      "ar": "کذلک",
+      "en": "Thus"
+    },
+    {
+      "ar": "یخبرکم",
+      "en": "warneth you"
+    },
+    {
+      "ar": "الخبیر",
+      "en": "the All-Knowing"
+    },
+    {
+      "ar": "إنّه",
+      "en": ""
+    },
+    {
+      "ar": "یصیر",
+      "en": "prove"
+    },
+    {
+      "ar": "مبدأ",
+      "en": "source"
+    },
+    {
+      "ar": "الفساد",
+      "en": "evil"
+    },
+    {
+      "ar": "فی تجاوزه",
+      "en": "If carried to excess"
+    },
+    {
+      "ar": "کما",
+      "en": "as"
+    },
+    {
+      "ar": "کان",
+      "en": "had been"
+    },
+    {
+      "ar": "مبدأ",
+      "en": ""
+    },
+    {
+      "ar": "الاصلاح",
+      "en": "goodness"
+    },
+    {
+      "ar": "فی اعتداله",
+      "en": "when kept within the restraints of moderation"
+    },
+    {
+      "ar": "تفکّروا",
+      "en": "Meditate"
+    },
+    {
+      "ar": "یا قوم",
+      "en": "O people"
+    },
+    {
+      "ar": "و لا تکونوا",
+      "en": "be not"
+    },
+    {
+      "ar": "من الهائمین",
+      "en": "them that wander distraught"
+    },
+    {
+      "ar": "سوف",
+      "en": ""
+    },
+    {
+      "ar": "تحترق",
+      "en": "will devour"
+    },
+    {
+      "ar": "المدن",
+      "en": "the cities"
+    },
+    {
+      "ar": "من ناره",
+      "en": "its flame"
+    },
+    {
+      "ar": "و ینطق",
+      "en": "will proclaim"
+    },
+    {
+      "ar": "لسان",
+      "en": "Tongue"
+    },
+    {
+      "ar": "العظمة",
+      "en": "Grandeur"
+    },
+    {
+      "ar": "الملک",
+      "en": "The Kingdom"
+    },
+    {
+      "ar": "العزیز",
+      "en": "the Almighty"
+    },
+    {
+      "ar": "الحمید",
+      "en": "the All-Praised"
+    }
+  ],
+  "terms": [
+    {
+      "term": "تمسّک",
+      "transliteration": "m-s-k",
+      "literal": "musk; to seize; grip",
+      "se_rendering": "cleaveth",
+      "note": "Typically 'holding fast unto' or 'cleaving' across 23 occurrences. 'Cleaveth' here employs archaic English verbal form matching SE's elevated register throughout.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 188,
+          "snippet": "musk"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 5,
+          "snippet": "holding fast unto"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 64,
+          "snippet": "holding fast"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 9,
+          "snippet": "clung"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 161,
+          "snippet": "cleave unto"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 37,
+          "snippet": "cling unto"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 25,
+          "snippet": "clung to"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 518,
+          "snippet": "cleaving fast"
+        }
+      ]
+    },
+    {
+      "term": "بالعدل",
+      "transliteration": "ʿ-d-l",
+      "literal": "justice; equity",
+      "se_rendering": "justice",
+      "note": "Consistently rendered 'justice' or 'Justice' across 29 occurrences. This rendering maintains SE's standard translation without deviation.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 16,
+          "snippet": "Justice"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "just"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 145,
+          "snippet": "Who dealest equitably"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 15,
+          "snippet": "equity"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 7,
+          "snippet": "Thy justice"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 128,
+          "snippet": "with equity and justice"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 79,
+          "snippet": "disputeth"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 24,
+          "snippet": "Consort"
+        }
+      ]
+    },
+    {
+      "term": "بصیرة",
+      "transliteration": "b-ṣ-r",
+      "literal": "sight; insight; discernment; spiritual perception",
+      "se_rendering": "discerneth",
+      "note": "Usually 'eye of insight' or 'discerning eye' across 27 occurrences. 'Discerneth' here shifts from nominal perception to verbal cognition—a unique rendering emphasizing active comprehension.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 27,
+          "snippet": "discerning"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 278,
+          "snippet": "eye of insight"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 16,
+          "snippet": "eye of God"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 116,
+          "snippet": "discerning eye"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 77,
+          "snippet": "hearing ears, and sharp sight"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 667,
+          "snippet": "the All-Seeing"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 231,
+          "snippet": "clear"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 3,
+          "snippet": "proofs"
+        }
+      ]
+    },
+    {
+      "term": "الفضل",
+      "transliteration": "f-d-l",
+      "literal": "grace; bounty; generosity; excellence",
+      "se_rendering": "sciences",
+      "note": "Typically 'grace', 'bounty', or 'excellence' across 36 occurrences. 'Sciences' here deviates significantly, treating الفضل as synonymous with knowledge and learning in context of civilization.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 50,
+          "snippet": "the Gracious, the All-Bountiful"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 115,
+          "snippet": "the All-Bounteous"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 259,
+          "snippet": "merits"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "graciously"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 92,
+          "snippet": "realms"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 278,
+          "snippet": "realm"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 782,
+          "snippet": "through Thy grace"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 709,
+          "snippet": "by Thy grace"
+        }
+      ]
+    },
+    {
+      "term": "الفساد",
+      "transliteration": "f-s-d",
+      "literal": "corruption; ruin; discord; mischief; decay",
+      "se_rendering": "evil",
+      "note": "Usually 'mischief', 'discord', or 'corruption' across 31 occurrences. 'Evil' here adopts broader moral valence than typical translations, heightening apocalyptic gravity.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 108,
+          "snippet": "charge of fomenting discord"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 162,
+          "snippet": "mischief"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "utter slander"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 155,
+          "snippet": "corruption"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 196,
+          "snippet": "discord"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 109,
+          "snippet": "fomenter of discord"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 180,
+          "snippet": "stirrers of sedition"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 44,
+          "snippet": "Spread not disorder"
+        }
+      ]
+    },
+    {
+      "term": "ناره",
+      "transliteration": "n-w-r",
+      "literal": "light; illumination",
+      "se_rendering": "flame",
+      "note": "Root n-w-r normally yields 'light' or 'illumination' across 78 occurrences. 'Flame' here invokes fire as destructive force—a striking semantic inversion from the root's luminous sense.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 3,
+          "snippet": "light"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 114,
+          "snippet": "with the light"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 109,
+          "snippet": "Thy light"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 246,
+          "snippet": "Illumine"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 180,
+          "snippet": "fire"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 10,
+          "snippet": "flame of fire"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 39,
+          "snippet": "lights"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 312,
+          "snippet": "splendors"
+        }
+      ]
+    },
+    {
+      "term": "لسان",
+      "transliteration": "l-s-n",
+      "literal": "tongue; language",
+      "se_rendering": "Tongue",
+      "note": "Consistently 'tongue' or 'Tongue' across 23 occurrences. Capitalization signals divine utterance; SE preserves the literal term while elevating its sacred dimension.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 36,
+          "snippet": "with my tongue"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 745,
+          "snippet": "tongue"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 43,
+          "snippet": "sword of your tongue"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 62,
+          "snippet": "the tongues"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 786,
+          "snippet": "tongues"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 101,
+          "snippet": "in word"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 194,
+          "snippet": "their lying tongues"
+        }
+      ]
+    },
+    {
+      "term": "العظمة",
+      "transliteration": "ʿ-z̟-m",
+      "literal": "greatest; supreme; mightiest",
+      "se_rendering": "Grandeur",
+      "note": "Typically 'Most Great' or 'supreme' across 63 occurrences. 'Grandeur' here employs aesthetic-architectural language rather than superlative epithets, unique to this passage.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 269,
+          "snippet": "Most Great"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 734,
+          "snippet": "Most Great Name"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 3,
+          "snippet": "greatest"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 6,
+          "snippet": "greater"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 209,
+          "snippet": "Great"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 9,
+          "snippet": "mighty"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 262,
+          "snippet": "glorious"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 88,
+          "snippet": "the Most Great"
+        }
+      ]
+    }
+  ],
+  "section_index": "CLXIV.2",
+  "section": "CLXIV",
+  "section_para": 2
 }

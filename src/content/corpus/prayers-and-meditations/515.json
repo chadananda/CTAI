@@ -1,10 +1,99 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 515,
   "source_text": "رَحَتْ أَهْلُها، وَلكِنَّ قُلُوبَ أَحِبَّتِكَ لا تُسَرُّ إِلاَّ مِنْ رَبِيعِ عَواطِفِكَ الَّذِيْ بِهِ تَخْضَرُّ الْقُلُوبُ وَتُجَدَّ",
   "translation": "The hearts of Thy dear ones, however, will rejoice only at the Divine Springtime of Thy tender mercies, whereby the hearts are quickened, and the souls are renewed, and the trees of human existence bear their fruits.",
   "source_lang": "ar",
-  "score": 9.6
+  "score": 9.6,
+  "page_slug": "divine-springtime-tender-mercies",
+  "alignment": [
+    {
+      "ar": "رَحَتْ",
+      "en": "rejoice"
+    },
+    {
+      "ar": "أَهْلُها",
+      "en": "ones"
+    },
+    {
+      "ar": "قُلُوبَ",
+      "en": "hearts"
+    },
+    {
+      "ar": "رَبِيعِ",
+      "en": "Springtime"
+    },
+    {
+      "ar": "عَواطِفِكَ",
+      "en": "Thy tender mercies"
+    },
+    {
+      "ar": "الْقُلُوبُ",
+      "en": "the hearts"
+    }
+  ],
+  "terms": [
+    {
+      "term": "قُلُوبُ",
+      "transliteration": "q-l-b",
+      "literal": "heart; to turn; to overturn",
+      "se_rendering": "hearts",
+      "note": "Root q-l-b typically rendered 'hearts' (60 occ), but also 'agitation', 'cataclysms', 'commotion'. Here strictly 'hearts' maintains spiritual dignity.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 187,
+          "snippet": "hearts"
+        },
+        {
+          "work": "gleanings",
+          "para": 668,
+          "snippet": "heart"
+        },
+        {
+          "work": "gleanings",
+          "para": 228,
+          "snippet": "agitation"
+        },
+        {
+          "work": "gleanings",
+          "para": 350,
+          "snippet": "cataclysms"
+        },
+        {
+          "work": "gleanings",
+          "para": 439,
+          "snippet": "discord"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 13,
+          "snippet": "tumult"
+        },
+        {
+          "work": "gleanings",
+          "para": 3,
+          "snippet": "with hearts"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 30,
+          "snippet": "thine heart"
+        }
+      ]
+    },
+    {
+      "term": "عَواطِفِكَ",
+      "transliteration": "ʿ-t-f",
+      "literal": "tenderness; affection; mercy; compassion",
+      "se_rendering": "tender mercies",
+      "note": "Only 2 occurrences in corpus, both rendered 'tender mercies'. SE's sole consistent rendering; emphasizes divine compassion over abstract mercy.",
+      "cross_refs": []
+    }
+  ],
+  "section_index": "CXVII.2",
+  "section": "CXVII",
+  "section_para": 2
 }

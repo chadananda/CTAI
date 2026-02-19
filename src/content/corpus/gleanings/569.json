@@ -1,10 +1,580 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 569,
   "source_text": "إذًا اشکر في بثّي وحزني الّذي خلقني وأرسلني وأحمده في قضایاه وفي وحدتي ثمّ ابتلائي بین هؤلآء الغافلین وصبرت واصبر في الضّرّآء متّکلاً علی الله وأقول أي ربّ فاهد العباد إلی شطر جودک ومواهبک ولا تحرمهم عن بدایع فضلک وألطافک لأنّهم لا یعلمون ما أردت لهم من رحمتک الّتي سبقت العالمین أي ربّ هؤلآء ضعفآء في الجهر وأیتام في السّرّ وإنّک أنت الکریم ذو الفضل المتعالي العظیم لا تقهر یا إلهي علیهم ثمّ انظرهم إلی میقات الّتي ینبغي لبدایع رحمتک لعلّ یرجعنّ إلیک ویستغفرنّ عمّا ارتکبوا في جنبک وإنّک أنت الغفور الرّحیم...",
   "translation": "Unto Him do I render thanks and praise for the things He hath ordained, for My loneliness, and the anguish I suffer at the hands of these men who have strayed so far from Him. I have patiently sustained, and will continue to sustain, the tribulation that touched Me, and will put My whole trust and confidence in God. Him will I supplicate saying: Guide Thy servants, O My Lord, unto the court of Thy favor and bounty, and suffer them not to be deprived of the wonders of Thy grace and of Thy manifold blessings. For they know not what Thou hast ordained for them by virtue of Thy mercy that encompasseth the whole of creation. Outwardly, O Lord, they are weak and helpless; inwardly they are but orphans. Thou art the All-Bountiful, the Munificent, the Most Exalted, the Most Great. Cast not, O My God, the fury of Thy wrath upon them, and cause them to tarry until such time when the wonders of Thy mercy will have been made manifest, that haply they may return unto Thee, and ask forgiveness of Thee for the things they have committed against Thee. Verily, Thou art the Forgiving, the All-Merciful.",
   "source_lang": "ar",
-  "score": 9.8
+  "score": 9.8,
+  "page_slug": "guide-servants-unto-court-favor",
+  "alignment": [
+    {
+      "ar": "اشکر",
+      "en": "render thanks and praise"
+    },
+    {
+      "ar": "بثّي",
+      "en": "loneliness"
+    },
+    {
+      "ar": "حزني",
+      "en": "anguish"
+    },
+    {
+      "ar": "خلقني",
+      "en": "ordained"
+    },
+    {
+      "ar": "أحمده",
+      "en": "thanks"
+    },
+    {
+      "ar": "قضایاه",
+      "en": "things"
+    },
+    {
+      "ar": "ابتلائي",
+      "en": "tribulation"
+    },
+    {
+      "ar": "الغافلین",
+      "en": "strayed"
+    },
+    {
+      "ar": "صبرت",
+      "en": "patiently sustained"
+    },
+    {
+      "ar": "اصبر",
+      "en": "continue to sustain"
+    },
+    {
+      "ar": "متّکلاً",
+      "en": "trust and confidence"
+    },
+    {
+      "ar": "اهد",
+      "en": "Guide"
+    },
+    {
+      "ar": "العباد",
+      "en": "servants"
+    },
+    {
+      "ar": "ربّ",
+      "en": "Lord"
+    },
+    {
+      "ar": "شطر",
+      "en": "court"
+    },
+    {
+      "ar": "جودک",
+      "en": "favor and bounty"
+    },
+    {
+      "ar": "مواهبک",
+      "en": "bounty"
+    },
+    {
+      "ar": "تحرمهم",
+      "en": "deprived"
+    },
+    {
+      "ar": "بدایع",
+      "en": "wonders"
+    },
+    {
+      "ar": "فضلک",
+      "en": "grace"
+    },
+    {
+      "ar": "ألطافک",
+      "en": "manifold blessings"
+    },
+    {
+      "ar": "یعلمون",
+      "en": "know"
+    },
+    {
+      "ar": "رحمتک",
+      "en": "mercy"
+    },
+    {
+      "ar": "سبقت",
+      "en": "encompasseth"
+    },
+    {
+      "ar": "العالمین",
+      "en": "whole of creation"
+    },
+    {
+      "ar": "ضعفآء",
+      "en": "weak and helpless"
+    },
+    {
+      "ar": "الجهر",
+      "en": "Outwardly"
+    },
+    {
+      "ar": "أیتام",
+      "en": "orphans"
+    },
+    {
+      "ar": "السّرّ",
+      "en": "inwardly"
+    },
+    {
+      "ar": "الکریم",
+      "en": "All-Bountiful"
+    },
+    {
+      "ar": "الفضل",
+      "en": "Munificent"
+    },
+    {
+      "ar": "المتعالي",
+      "en": "Most Exalted"
+    },
+    {
+      "ar": "العظیم",
+      "en": "Most Great"
+    },
+    {
+      "ar": "تقهر",
+      "en": "Cast"
+    },
+    {
+      "ar": "إلهي",
+      "en": "My God"
+    },
+    {
+      "ar": "علیهم",
+      "en": "upon them"
+    },
+    {
+      "ar": "انظرهم",
+      "en": "cause them to tarry"
+    },
+    {
+      "ar": "میقات",
+      "en": "time"
+    },
+    {
+      "ar": "ینبغي",
+      "en": "when"
+    },
+    {
+      "ar": "یرجعنّ",
+      "en": "return"
+    },
+    {
+      "ar": "یستغفرنّ",
+      "en": "ask forgiveness"
+    },
+    {
+      "ar": "ارتکبوا",
+      "en": "committed"
+    },
+    {
+      "ar": "جنبک",
+      "en": "against Thee"
+    },
+    {
+      "ar": "الغفور",
+      "en": "Forgiving"
+    },
+    {
+      "ar": "الرّحیم",
+      "en": "All-Merciful"
+    }
+  ],
+  "terms": [
+    {
+      "term": "ابتلائي",
+      "transliteration": "b-l-ā",
+      "literal": "trial; affliction; tribulation; testing",
+      "se_rendering": "tribulation",
+      "note": "Root b-l-ā consistently renders 'trials' or 'afflictions'; 'tribulation' maintains this pattern while elevating the tone to heightened solemnity.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 6,
+          "snippet": "indignities heaped upon"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 283,
+          "snippet": "afflictions"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 35,
+          "snippet": "in my woes"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 4,
+          "snippet": "trials"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 89,
+          "snippet": "tribulations"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 137,
+          "snippet": "Troubles"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 25,
+          "snippet": "tribulation"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 49,
+          "snippet": "cup of woe"
+        }
+      ]
+    },
+    {
+      "term": "الغافلین",
+      "transliteration": "gh-f-l",
+      "literal": "heedlessness; negligence; inattention",
+      "se_rendering": "strayed so far from Him",
+      "note": "Typically 'heedless' or 'thou who hast gone astray'; here 'strayed so far from Him' expands the root sense to emphasize spiritual remoteness from God.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 158,
+          "snippet": "O heedless one"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 134,
+          "snippet": "thou who hast gone astray"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 156,
+          "snippet": "thou who art gone astray"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 178,
+          "snippet": "heedless"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 6,
+          "snippet": "my heedlessness"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 90,
+          "snippet": "Essence of Negligence"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 95,
+          "snippet": "couch of heedlessness"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 152,
+          "snippet": "Children of Negligence"
+        }
+      ]
+    },
+    {
+      "term": "فاهد",
+      "transliteration": "sh-h-d",
+      "literal": "witnessed; observed; seen; evident; manifest",
+      "se_rendering": "Guide",
+      "note": "Root sh-h-d typically renders 'manifest' or 'witness' across 74 occurrences; here 'Guide' is an interpretive departure, shifting toward imperative petition rather than testimony.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 35,
+          "snippet": "evident"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 811,
+          "snippet": "I bear witness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 6,
+          "snippet": "I testify"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 138,
+          "snippet": "martyrdom"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 230,
+          "snippet": "God testifieth"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 57,
+          "snippet": "beheld"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 117,
+          "snippet": "testify"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 156,
+          "snippet": "bear witness"
+        }
+      ]
+    },
+    {
+      "term": "رحمتک",
+      "transliteration": "r-ḥ-m",
+      "literal": "merciful, compassionate; pertaining to divine mercy",
+      "se_rendering": "mercy",
+      "note": "Typically 'mercy' or 'merciful' (70 occ); here rendered simply 'mercy', avoiding abstractions like 'spirit of mercy' found elsewhere in corpus.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 57,
+          "snippet": "Divine"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 89,
+          "snippet": "celestial melody"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 114,
+          "snippet": "spirit of mercy"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 220,
+          "snippet": "have mercy on them"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 546,
+          "snippet": "mercy"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 50,
+          "snippet": "the Compassionate"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 793,
+          "snippet": "have mercy upon them"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 47,
+          "snippet": "Thy mercy"
+        }
+      ]
+    },
+    {
+      "term": "الکریم",
+      "transliteration": "k-r-m",
+      "literal": "Carmel (Mount Carmel); vineyard, fruitful field",
+      "se_rendering": "All-Bountiful",
+      "note": "Root k-r-m denotes 'Carmel' primarily (21 occ) but renders 'All-Bountiful' here, invoking divine generosity rather than geographic or literal meanings.",
+      "cross_refs": [
+        {
+          "work": "tablet-of-carmel",
+          "para": 4,
+          "snippet": "O Carmel"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 211,
+          "snippet": "Carmel"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 50,
+          "snippet": "the All-Bountiful"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 26,
+          "snippet": "the Gracious"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 144,
+          "snippet": "generosity"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 662,
+          "snippet": "the God of bounty and mercy"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 657,
+          "snippet": "bounty"
+        }
+      ]
+    },
+    {
+      "term": "المتعالي",
+      "transliteration": "ʿ-l-w",
+      "literal": "highest; most high; supreme",
+      "se_rendering": "the Most Exalted",
+      "note": "Root ʿ-l-w yields 'Most High', 'Most Sublime Pen', 'supreme' (74 occ); 'Most Exalted' here aligns with supreme attributions but paired with العظیم for doubled emphasis.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 1,
+          "snippet": "the Most High"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 148,
+          "snippet": "the Most Sublime Pen"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 390,
+          "snippet": "the Most Exalted, the Most High"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 68,
+          "snippet": "the Pen of Glory"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 1,
+          "snippet": "the Realm of Glory"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 257,
+          "snippet": "the Báb, the Lord, the most exalted"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 21,
+          "snippet": "sublime"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 143,
+          "snippet": "exalted be He"
+        }
+      ]
+    },
+    {
+      "term": "انظرهم",
+      "transliteration": "n-dh-r",
+      "literal": "sight; view; spectacle; appearance",
+      "se_rendering": "cause them to tarry",
+      "note": "Root n-dh-r seldom means 'cause to tarry'; typical range includes 'expectantly awaited' and 'anticipating'; this rendering imports temporal causality absent from the root.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 793,
+          "snippet": "expectantly awaited"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 371,
+          "snippet": "expectant"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 5,
+          "snippet": "peer"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 2,
+          "snippet": "unique"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 17,
+          "snippet": "the eyes"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 16,
+          "snippet": "eyes"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 107,
+          "snippet": "Consider"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 67,
+          "snippet": "Look"
+        }
+      ]
+    },
+    {
+      "term": "ارتکبوا",
+      "transliteration": "r-k-b",
+      "literal": "to ride; to commit; to undertake",
+      "se_rendering": "committed",
+      "note": "Root r-k-b spans 'committed' to 'transgressed'; here 'committed' maintains moral neutrality, allowing reader to infer severity from context rather than lexicon.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 92,
+          "snippet": "commit"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 107,
+          "snippet": "rose up against Him"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 466,
+          "snippet": "transgressed"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 274,
+          "snippet": "committed"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 118,
+          "snippet": "entered"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 89,
+          "snippet": "mounted"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 98,
+          "snippet": "riding"
+        }
+      ]
+    }
+  ],
+  "section_index": "CXXVII.5",
+  "section": "CXXVII",
+  "section_para": 5
 }

@@ -1,10 +1,382 @@
 {
   "work": "The Hidden Words",
   "slug": "the-hidden-words",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 79,
   "source_text": "(٥) ﴿ ای پسر خاک ﴾\nبراستی ميگويم غافلترين عباد کسی است که در قول مجادله نمايد و بر برادر خود تفوّق جويد * بگو ای برادران باعمال خود را بيارائيد نه باقوال *",
   "translation": "(5) O SON OF DUST!\nVerily I say unto thee: Of all men the most negligent is he that disputeth idly and seeketh to advance himself over his brother. Say, O brethren! Let deeds, not words, be your adorning.",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "deeds-not-words-adorning",
+  "alignment": [
+    {
+      "ar": "ای",
+      "en": "O"
+    },
+    {
+      "ar": "پسر",
+      "en": "SON"
+    },
+    {
+      "ar": "خاک",
+      "en": "DUST"
+    },
+    {
+      "ar": "براستی",
+      "en": "Verily"
+    },
+    {
+      "ar": "ميگويم",
+      "en": "I say"
+    },
+    {
+      "ar": "غافلترين",
+      "en": "most negligent"
+    },
+    {
+      "ar": "عباد",
+      "en": "men"
+    },
+    {
+      "ar": "کسی است که",
+      "en": "is he that"
+    },
+    {
+      "ar": "قول",
+      "en": "idly"
+    },
+    {
+      "ar": "مجادله",
+      "en": "disputeth"
+    },
+    {
+      "ar": "نمايد",
+      "en": "seeketh"
+    },
+    {
+      "ar": "برادر",
+      "en": "brother"
+    },
+    {
+      "ar": "خود",
+      "en": "his"
+    },
+    {
+      "ar": "تفوّق",
+      "en": "advance himself over"
+    },
+    {
+      "ar": "جويد",
+      "en": "advance"
+    },
+    {
+      "ar": "بگو",
+      "en": "Say"
+    },
+    {
+      "ar": "برادران",
+      "en": "brethren"
+    },
+    {
+      "ar": "باعمال",
+      "en": "deeds"
+    },
+    {
+      "ar": "خود",
+      "en": "your"
+    },
+    {
+      "ar": "را",
+      "en": "be"
+    },
+    {
+      "ar": "بيارائيد",
+      "en": "adorning"
+    },
+    {
+      "ar": "نه",
+      "en": "not"
+    },
+    {
+      "ar": "باقوال",
+      "en": "words"
+    }
+  ],
+  "terms": [
+    {
+      "term": "خاک",
+      "transliteration": "th-r-y",
+      "literal": "dust; earth; lowly state",
+      "se_rendering": "DUST",
+      "note": "Root th-r-y typically 'dust' (2 occurrences). Capitalized as 'DUST' here—a title-marker that elevates the metaphorical state of servitude into formal address, paralleling 'O SON OF JUSTICE' pattern.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 10,
+          "snippet": "the dust"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 11,
+          "snippet": "dust"
+        }
+      ]
+    },
+    {
+      "term": "میگویم",
+      "transliteration": "q-w-l",
+      "literal": "speech; utterance; saying; word",
+      "se_rendering": "I say",
+      "note": "Standard rendering 'I say' maintains consistency across 69 corpus occurrences. No deviation; formulaic opening preserves Bahá'í declarative style.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 66,
+          "snippet": "His words"
+        },
+        {
+          "work": "gleanings",
+          "para": 575,
+          "snippet": "his speech"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 207,
+          "snippet": "He saith"
+        },
+        {
+          "work": "gleanings",
+          "para": 272,
+          "snippet": "said"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 263,
+          "snippet": "hath said"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 236,
+          "snippet": "protested saying"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 231,
+          "snippet": "say"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 224,
+          "snippet": "replied"
+        }
+      ]
+    },
+    {
+      "term": "عباد",
+      "transliteration": "ʿ-b-d",
+      "literal": "servant; slave; worshipper",
+      "se_rendering": "he",
+      "note": "Typically 'servants' or 'Thy servants' (68 occurrences), but here rendered as pronoun 'he' by SE's translation strategy, creating subject ambiguity in the original.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 279,
+          "snippet": "Thy servants"
+        },
+        {
+          "work": "gleanings",
+          "para": 686,
+          "snippet": "servants"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 27,
+          "snippet": "'Abdu'l‑Bahá"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 204,
+          "snippet": "Thy servant"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 260,
+          "snippet": "'Abdu'l-'Azíz"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 663,
+          "snippet": "servant"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 10,
+          "snippet": "this wronged servant of Thine"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 47,
+          "snippet": "this servant of Thine"
+        }
+      ]
+    },
+    {
+      "term": "مجادله",
+      "transliteration": "ʿ-d-l",
+      "literal": "justice; equity",
+      "se_rendering": "idly",
+      "note": "Root ʿ-d-l ('justice') rendered 'disputeth idly' here—a significant semantic shift from canonical 'Justice' (29 occurrences). SE transposes the root sense into argumentative behavior rather than jurisprudential abstraction.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 16,
+          "snippet": "Justice"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "just"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 145,
+          "snippet": "Who dealest equitably"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 15,
+          "snippet": "equity"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 7,
+          "snippet": "Thy justice"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 128,
+          "snippet": "with equity and justice"
+        },
+        {
+          "work": "gleanings",
+          "para": 21,
+          "snippet": "with justice and equity"
+        },
+        {
+          "work": "gleanings",
+          "para": 538,
+          "snippet": "as numerous as"
+        }
+      ]
+    },
+    {
+      "term": "باعمال",
+      "transliteration": "ʿ-m-l",
+      "literal": "to work; to act; to do; to perform",
+      "se_rendering": "deeds",
+      "note": "Root ʿ-m-l normally renders 'works' or 'actions' (44 occurrences). SE chooses 'deeds' here—a more intimate, personal term than institutional 'works,' shifting focus to individual conduct.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 255,
+          "snippet": "workers"
+        },
+        {
+          "work": "gleanings",
+          "para": 502,
+          "snippet": "do"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 24,
+          "snippet": "Consort"
+        },
+        {
+          "work": "gleanings",
+          "para": 607,
+          "snippet": "virtues and attributes"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 782,
+          "snippet": "works"
+        },
+        {
+          "work": "gleanings",
+          "para": 646,
+          "snippet": "actions"
+        },
+        {
+          "work": "gleanings",
+          "para": 564,
+          "snippet": "deeds"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 286,
+          "snippet": "God doeth unto them as they do unto themselves"
+        }
+      ]
+    },
+    {
+      "term": "بیارایید",
+      "transliteration": "ʾ-r-ʾ-y",
+      "literal": "to adorn; to array; to deck; to arrange",
+      "se_rendering": "adorning",
+      "note": "Sole occurrence in corpus (1 occ). SE's 'adorning' captures the imperative sense of beautification through action, preserving the participial force without comparative or superlative modulation.",
+      "cross_refs": []
+    },
+    {
+      "term": "باقوال",
+      "transliteration": "q-w-m",
+      "literal": "rising; standing; uprising; resurrection",
+      "se_rendering": "words",
+      "note": "Root q-w-l typically renders as 'words' or 'speech' (69 occurrences). Here SE deviates sharply: 'words' appears as direct object, not 'utterance' or 'saying,' emphasizing oral discourse as empty action.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 152,
+          "snippet": "Day of Resurrection"
+        },
+        {
+          "work": "gleanings",
+          "para": 437,
+          "snippet": "arise"
+        },
+        {
+          "work": "gleanings",
+          "para": 513,
+          "snippet": "dedicateth"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 153,
+          "snippet": "Resurrection"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 74,
+          "snippet": "rise"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "peoples"
+        },
+        {
+          "work": "gleanings",
+          "para": 693,
+          "snippet": "commandments"
+        },
+        {
+          "work": "gleanings",
+          "para": 628,
+          "snippet": "My commandments"
+        }
+      ]
+    }
+  ],
+  "section_index": "156",
+  "section": "156",
+  "section_para": 1
 }

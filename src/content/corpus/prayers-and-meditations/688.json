@@ -1,10 +1,84 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 688,
   "source_text": "إِنَّا كُلٌّ لِلَّهِ ذاكرُونَ إِنَّا كُلٌّ لِلَّهِ شاكرُونَ",
   "translation": "We all, verily, are devoted unto God.\nWe all, verily, give praise unto God.",
   "source_lang": "ar",
-  "score": 9.8
+  "score": 9.8,
+  "page_slug": "devoted-unto-god",
+  "alignment": [
+    {
+      "ar": "ذاكرُونَ",
+      "en": "devoted"
+    },
+    {
+      "ar": "شاكرُونَ",
+      "en": "give praise"
+    }
+  ],
+  "terms": [
+    {
+      "term": "لِلَّهِ",
+      "transliteration": "l-l-h",
+      "literal": "to God; for God; God's",
+      "se_rendering": "unto God",
+      "note": "Rendered 'unto God' here; typically appears as 'to God' in concordance, showing SE's rhetorical elevation in devotional passages.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 2,
+          "snippet": "to God"
+        },
+        {
+          "work": "gleanings",
+          "para": 79,
+          "snippet": "God's"
+        }
+      ]
+    },
+    {
+      "term": "شاكرُونَ",
+      "transliteration": "sh-k-r",
+      "literal": "thankfulness, gratitude; to give thanks, be grateful",
+      "se_rendering": "give praise",
+      "note": "Rendered 'give praise' in parallel construction; concordance shows 'praise' is primary but 'thanks,' 'gratitude,' 'render thanks' vary—SE chooses volitional form here.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 73,
+          "snippet": "praise"
+        },
+        {
+          "work": "gleanings",
+          "para": 607,
+          "snippet": "gratitude"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 230,
+          "snippet": "thanks"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 149,
+          "snippet": "thankful"
+        },
+        {
+          "work": "gleanings",
+          "para": 569,
+          "snippet": "render thanks"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 682,
+          "snippet": "yield thanks"
+        }
+      ]
+    }
+  ],
+  "section_index": "CLXVII.7",
+  "section": "CLXVII",
+  "section_para": 7
 }

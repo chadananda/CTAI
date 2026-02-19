@@ -1,10 +1,588 @@
 {
   "work": "Epistle to the Son of the Wolf",
   "slug": "epistle-to-the-son-of-the-wolf",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 46,
   "source_text": "و در مقام ديگر * امروز روز ذکر و ثناء و روز خدمتست خود را محروم منمائيد شمائيد حروفات کلمات و کلمات کتاب و شما نهالهائی هستيد که از دست عنايت در ارض رحمت کشته شده‌ايد و از امطار کرم نموّ نموده‌ايد شما را از عاصفات شرک و قاصفات کفر حفظ فرمود و بايادی شفقت تربيت نمود * حال وقت اثمار و اوراق است و اثمار سدره انسانی اعمال طيّبه و اخلاق مرضيّه بوده و هست اين اثمار را از غافلين منع منمائيد اگر پذيرفتند مقصود حاصل و حيات ظاهر و الّا ذروهم فی خوضهم يلعبون * يا حزب اللّه جهد نمائيد شايد قلوب احزاب مختلفه عالم باب بردباری و شفقت شما از ضغينه و بغضاء پاک و پاکيزه شود و قابل و لائق تجلّيات افتاب حقيقت گردد *",
   "translation": "And still again in another connection: \"This is the day to make mention of God, to celebrate His praise, and to serve Him; deprive not yourselves thereof. Ye are the letters of the words, and the words of the Book. Ye are the saplings which the hand of Loving-kindness hath planted in the soil of mercy, and which the showers of bounty have made to flourish. He hath protected you from the mighty winds of misbelief, and the tempestuous gales of impiety, and nurtured you with the hands of His loving providence. Now is the time for you to put forth your leaves, and yield your fruit. The fruits of the tree of man have ever been and are goodly deeds and a praiseworthy character. Withhold not these fruits from the heedless. If they be accepted, your end is attained, and the purpose of life achieved. If not, leave them in their pastime of vain disputes. Strive, O people of God, that haply the hearts of the divers kindreds of the earth may, through the waters of your forbearance and loving-kindness, be cleansed and sanctified from animosity and hatred, and be made worthy and befitting recipients of the splendors of the Sun of Truth.\"",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "sun-truth-fruits-tree-man",
+  "alignment": [
+    {
+      "ar": "مقام",
+      "en": "connection"
+    },
+    {
+      "ar": "ديگر",
+      "en": "another"
+    },
+    {
+      "ar": "امروز",
+      "en": "This is the day"
+    },
+    {
+      "ar": "روز",
+      "en": "day"
+    },
+    {
+      "ar": "ذکر",
+      "en": "make mention"
+    },
+    {
+      "ar": "ثناء",
+      "en": "celebrate His praise"
+    },
+    {
+      "ar": "خدمت",
+      "en": "serve"
+    },
+    {
+      "ar": "محروم",
+      "en": "deprive"
+    },
+    {
+      "ar": "حروفات",
+      "en": "letters"
+    },
+    {
+      "ar": "کلمات",
+      "en": "words"
+    },
+    {
+      "ar": "کتاب",
+      "en": "Book"
+    },
+    {
+      "ar": "نهالهائی",
+      "en": "saplings"
+    },
+    {
+      "ar": "دست",
+      "en": "hand"
+    },
+    {
+      "ar": "عنايت",
+      "en": "Loving-kindness"
+    },
+    {
+      "ar": "ارض",
+      "en": "soil"
+    },
+    {
+      "ar": "رحمت",
+      "en": "mercy"
+    },
+    {
+      "ar": "کشته",
+      "en": "planted"
+    },
+    {
+      "ar": "امطار",
+      "en": "showers"
+    },
+    {
+      "ar": "کرم",
+      "en": "bounty"
+    },
+    {
+      "ar": "نموّ",
+      "en": "flourish"
+    },
+    {
+      "ar": "عاصفات",
+      "en": "winds"
+    },
+    {
+      "ar": "شرک",
+      "en": "misbelief"
+    },
+    {
+      "ar": "قاصفات",
+      "en": "gales"
+    },
+    {
+      "ar": "کفر",
+      "en": "impiety"
+    },
+    {
+      "ar": "حفظ",
+      "en": "protected"
+    },
+    {
+      "ar": "بايادی",
+      "en": "hands"
+    },
+    {
+      "ar": "شفقت",
+      "en": "loving providence"
+    },
+    {
+      "ar": "تربيت",
+      "en": "nurtured"
+    },
+    {
+      "ar": "وقت",
+      "en": "time"
+    },
+    {
+      "ar": "اثمار",
+      "en": "fruit"
+    },
+    {
+      "ar": "اوراق",
+      "en": "leaves"
+    },
+    {
+      "ar": "سدره",
+      "en": "tree"
+    },
+    {
+      "ar": "انسانی",
+      "en": "man"
+    },
+    {
+      "ar": "اعمال",
+      "en": "deeds"
+    },
+    {
+      "ar": "طيّبه",
+      "en": "goodly"
+    },
+    {
+      "ar": "اخلاق",
+      "en": "character"
+    },
+    {
+      "ar": "مرضيّه",
+      "en": "praiseworthy"
+    },
+    {
+      "ar": "غافلين",
+      "en": "heedless"
+    },
+    {
+      "ar": "منع",
+      "en": "Withhold"
+    },
+    {
+      "ar": "پذيرفتند",
+      "en": "accepted"
+    },
+    {
+      "ar": "مقصود",
+      "en": "end"
+    },
+    {
+      "ar": "حاصل",
+      "en": "attained"
+    },
+    {
+      "ar": "حيات",
+      "en": "life"
+    },
+    {
+      "ar": "ذروهم",
+      "en": "leave them"
+    },
+    {
+      "ar": "خوضهم",
+      "en": "pastime"
+    },
+    {
+      "ar": "يلعبون",
+      "en": "disputes"
+    },
+    {
+      "ar": "حزب",
+      "en": "people"
+    },
+    {
+      "ar": "اللّه",
+      "en": "God"
+    },
+    {
+      "ar": "جهد",
+      "en": "Strive"
+    },
+    {
+      "ar": "قلوب",
+      "en": "hearts"
+    },
+    {
+      "ar": "احزاب",
+      "en": "kindreds"
+    },
+    {
+      "ar": "مختلفه",
+      "en": "divers"
+    },
+    {
+      "ar": "عالم",
+      "en": "earth"
+    },
+    {
+      "ar": "بردباری",
+      "en": "forbearance"
+    },
+    {
+      "ar": "ضغينه",
+      "en": "animosity"
+    },
+    {
+      "ar": "بغضاء",
+      "en": "hatred"
+    },
+    {
+      "ar": "پاک",
+      "en": "cleansed"
+    },
+    {
+      "ar": "پاکيزه",
+      "en": "sanctified"
+    },
+    {
+      "ar": "قابل",
+      "en": "worthy"
+    },
+    {
+      "ar": "لائق",
+      "en": "befitting"
+    },
+    {
+      "ar": "تجلّيات",
+      "en": "splendors"
+    },
+    {
+      "ar": "افتاب",
+      "en": "Sun"
+    },
+    {
+      "ar": "حقيقت",
+      "en": "Truth"
+    }
+  ],
+  "terms": [
+    {
+      "term": "ذکر",
+      "transliteration": "dh-k-r",
+      "literal": "remembrance; mention; memory",
+      "se_rendering": "make mention",
+      "note": "Typically 'remembrance' or 'mention' across 57 occurrences. Here 'make mention of God' emphasizes active commemoration rather than passive memory, reflecting the Persian ذکر و ثناء pairing.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 597,
+          "snippet": "remembrance"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 54,
+          "snippet": "mention"
+        },
+        {
+          "work": "gleanings",
+          "para": 237,
+          "snippet": "Then it was recalled"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 39,
+          "snippet": "deliberate"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 274,
+          "snippet": "aforementioned"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 112,
+          "snippet": "recorded"
+        },
+        {
+          "work": "gleanings",
+          "para": 721,
+          "snippet": "remembered"
+        },
+        {
+          "work": "gleanings",
+          "para": 627,
+          "snippet": "for Thy remembrance"
+        }
+      ]
+    },
+    {
+      "term": "حروفات",
+      "transliteration": "h-r-f",
+      "literal": "letter; character; edge",
+      "se_rendering": "letters",
+      "note": "Standard rendering 'letters' across 32 occurrences. Deployed metaphorically here for believers as constituent elements of divine utterance, aligning with mystical anthropomorphism.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 783,
+          "snippet": "letters"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 5,
+          "snippet": "passed out"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 6,
+          "snippet": "falsifying"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 41,
+          "snippet": "falsification"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 92,
+          "snippet": "alteration"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 97,
+          "snippet": "perverted"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 11,
+          "snippet": "his boundless transgression"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 38,
+          "snippet": "write"
+        }
+      ]
+    },
+    {
+      "term": "کلمات",
+      "transliteration": "k-l-m",
+      "literal": "words; utterances; locutions",
+      "se_rendering": "words",
+      "note": "Consistently 'words' or 'the Word of God' across 58 occurrences. Here 'words of the Book' maintains the literal sense of textual elements within sacred scripture.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 6,
+          "snippet": "words"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 38,
+          "snippet": "His Word"
+        },
+        {
+          "work": "gleanings",
+          "para": 353,
+          "snippet": "the Word of God"
+        },
+        {
+          "work": "gleanings",
+          "para": 603,
+          "snippet": "a jewel"
+        },
+        {
+          "work": "gleanings",
+          "para": 441,
+          "snippet": "a word"
+        },
+        {
+          "work": "gleanings",
+          "para": 689,
+          "snippet": "the sayings"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 48,
+          "snippet": "Thy Word"
+        },
+        {
+          "work": "gleanings",
+          "para": 138,
+          "snippet": "the Word"
+        }
+      ]
+    },
+    {
+      "term": "اثمار",
+      "transliteration": "th-m-r",
+      "literal": "fruit; the fruit",
+      "se_rendering": "fruits",
+      "note": "Root ث-م-ر means fruits/yield. SE renders as 'fruits' consistently, deployed twice in this passage as both literal (horticultural) and allegorical (moral deeds) to bridge natural and spiritual planes.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 57,
+          "snippet": "fruit given forth by"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 678,
+          "snippet": "fruits"
+        },
+        {
+          "work": "gleanings",
+          "para": 263,
+          "snippet": "fruit"
+        }
+      ]
+    },
+    {
+      "term": "غافلين",
+      "transliteration": "gh-f-l",
+      "literal": "heedlessness; negligence; inattention",
+      "se_rendering": "heedless",
+      "note": "Typically 'heedless' across 39 occurrences; also rendered 'gone astray.' Here 'heedless' emphasizes negligence rather than moral deviation, targeting inattention as the barrier to spiritual fruit.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 132,
+          "snippet": "heedless"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 90,
+          "snippet": "Essence of Negligence"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 95,
+          "snippet": "couch of heedlessness"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 152,
+          "snippet": "Children of Negligence"
+        },
+        {
+          "work": "gleanings",
+          "para": 214,
+          "snippet": "who have been heedless"
+        },
+        {
+          "work": "gleanings",
+          "para": 413,
+          "snippet": "the heedless"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 273,
+          "snippet": "wayward"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 136,
+          "snippet": "heedless ones"
+        }
+      ]
+    },
+    {
+      "term": "قلوب",
+      "transliteration": "q-l-b",
+      "literal": "heart; to turn; to overturn",
+      "se_rendering": "hearts",
+      "note": "Standard 'hearts' across 60 occurrences. Plural form emphasizes multiplicity of spiritual centers within 'divers kindreds,' rendering the Persian احزاب as collective hearts vulnerable to transformation.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 547,
+          "snippet": "hearts"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 432,
+          "snippet": "their hearts"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 652,
+          "snippet": "heart"
+        },
+        {
+          "work": "gleanings",
+          "para": 228,
+          "snippet": "agitation"
+        },
+        {
+          "work": "gleanings",
+          "para": 350,
+          "snippet": "cataclysms"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 777,
+          "snippet": "commotion"
+        },
+        {
+          "work": "gleanings",
+          "para": 439,
+          "snippet": "discord"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 13,
+          "snippet": "tumult"
+        }
+      ]
+    },
+    {
+      "term": "حقيقت",
+      "transliteration": "h-q-q",
+      "literal": "truth; right; that which is true or just",
+      "se_rendering": "Sun of Truth",
+      "note": "Usually 'the Truth' or 'the True One' across 43 occurrences. Here 'Sun of Truth' elevates the term into cosmological metaphor, pairing with افتاب to create radiant illumination imagery unavailable in abstract rendering.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 651,
+          "snippet": "the True One"
+        },
+        {
+          "work": "gleanings",
+          "para": 85,
+          "snippet": "the Truth"
+        },
+        {
+          "work": "gleanings",
+          "para": 328,
+          "snippet": "the one true God"
+        },
+        {
+          "work": "gleanings",
+          "para": 707,
+          "snippet": "Him"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 52,
+          "snippet": "Sun of Truth"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 103,
+          "snippet": "Luminaries of Truth"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 113,
+          "snippet": "was realized"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 215,
+          "snippet": "realization"
+        }
+      ]
+    }
+  ],
+  "section_index": "46",
+  "section": "46",
+  "section_para": 1
 }

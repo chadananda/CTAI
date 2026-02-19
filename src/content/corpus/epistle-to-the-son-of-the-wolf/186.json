@@ -1,10 +1,431 @@
 {
   "work": "Epistle to the Son of the Wolf",
   "slug": "epistle-to-the-son-of-the-wolf",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 186,
   "source_text": "قد کنت ماشيا فی ارض الطّاء مشرق آيات ربّک سمعت حنين المنابر و مناجاتها مع اللّه تبارک و تعالی نادت و قالت يا اله العالم و سيّد الامم تری حالنا و ما ورد علينا من ظلم عبادک * قد خلقتنا و اظهرتنا لذکرک و ثنائک اذا تسمع ما يقول الغافلون علينا فی ايّامک * و عزّتک ذابت اکبادنا و اضطربت ارکاننا آه آه ياليت ما خلقتنا و ما اظهرتنا *",
   "translation": "I was walking in the Land of Ta (Ṭihrán) - the dayspring of the signs of thy Lord - when lo, I heard the lamentation of the pulpits and the voice of their supplication unto God, blessed and glorified be He. They cried out and said: \"O God of the world and Lord of the nations! Thou beholdest our state and the things which have befallen us by reason of the cruelty of Thy servants. Thou hast created us and revealed us for Thy glorification and praise. Thou dost now hear what the wayward proclaim upon us in Thy days. By Thy might! Our souls are melted and our limbs are trembling. Alas, alas! Would that we had never been created and revealed by Thee!\"",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "lamentation-pulpits-servants-cruelty",
+  "alignment": [
+    {
+      "ar": "کنت",
+      "en": "was"
+    },
+    {
+      "ar": "ماشيا",
+      "en": "walking"
+    },
+    {
+      "ar": "ارض",
+      "en": "Land"
+    },
+    {
+      "ar": "الطّاء",
+      "en": "Ta"
+    },
+    {
+      "ar": "مشرق",
+      "en": "dayspring"
+    },
+    {
+      "ar": "آيات",
+      "en": "signs"
+    },
+    {
+      "ar": "ربّک",
+      "en": "thy Lord"
+    },
+    {
+      "ar": "سمعت",
+      "en": "heard"
+    },
+    {
+      "ar": "حنين",
+      "en": "lamentation"
+    },
+    {
+      "ar": "المنابر",
+      "en": "pulpits"
+    },
+    {
+      "ar": "مناجاتها",
+      "en": "their supplication"
+    },
+    {
+      "ar": "اللّه",
+      "en": "God"
+    },
+    {
+      "ar": "تبارک",
+      "en": "blessed"
+    },
+    {
+      "ar": "تعالی",
+      "en": "glorified"
+    },
+    {
+      "ar": "نادت",
+      "en": "cried out"
+    },
+    {
+      "ar": "قالت",
+      "en": "said"
+    },
+    {
+      "ar": "العالم",
+      "en": "world"
+    },
+    {
+      "ar": "سيّد",
+      "en": "Lord"
+    },
+    {
+      "ar": "الامم",
+      "en": "nations"
+    },
+    {
+      "ar": "تری",
+      "en": "beholdest"
+    },
+    {
+      "ar": "حالنا",
+      "en": "our state"
+    },
+    {
+      "ar": "ورد",
+      "en": "befallen"
+    },
+    {
+      "ar": "علينا",
+      "en": "us"
+    },
+    {
+      "ar": "ظلم",
+      "en": "cruelty"
+    },
+    {
+      "ar": "عبادک",
+      "en": "Thy servants"
+    },
+    {
+      "ar": "خلقتنا",
+      "en": "created us"
+    },
+    {
+      "ar": "اظهرتنا",
+      "en": "revealed us"
+    },
+    {
+      "ar": "ذکرک",
+      "en": "Thy glorification"
+    },
+    {
+      "ar": "ثنائک",
+      "en": "praise"
+    },
+    {
+      "ar": "تسمع",
+      "en": "hear"
+    },
+    {
+      "ar": "يقول",
+      "en": "proclaim"
+    },
+    {
+      "ar": "الغافلون",
+      "en": "wayward"
+    },
+    {
+      "ar": "ايّامک",
+      "en": "Thy days"
+    },
+    {
+      "ar": "عزّتک",
+      "en": "Thy might"
+    },
+    {
+      "ar": "ذابت",
+      "en": "melted"
+    },
+    {
+      "ar": "اکبادنا",
+      "en": "Our souls"
+    },
+    {
+      "ar": "اضطربت",
+      "en": "trembling"
+    },
+    {
+      "ar": "ارکاننا",
+      "en": "our limbs"
+    },
+    {
+      "ar": "آه آه",
+      "en": "Alas, alas"
+    },
+    {
+      "ar": "ياليت",
+      "en": "Would"
+    },
+    {
+      "ar": "ما خلقتنا",
+      "en": "never been created"
+    },
+    {
+      "ar": "ما اظهرتنا",
+      "en": "revealed"
+    }
+  ],
+  "terms": [
+    {
+      "term": "مشرق",
+      "transliteration": "sh-r-q",
+      "literal": "radiance; splendor; dawn; illumination",
+      "se_rendering": "dayspring",
+      "note": "SE renders as 'dayspring' here; corpus shows 'Ishraq', 'radiance', 'Daystar', 'dawning', 'revelation'—this choice mystically links geography to divine illumination.",
+      "cross_refs": [
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 28,
+          "snippet": "radiance"
+        },
+        {
+          "work": "gleanings",
+          "para": 382,
+          "snippet": "revelation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 83,
+          "snippet": "Daystar"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 41,
+          "snippet": "dawning"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 2,
+          "snippet": "shining"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 14,
+          "snippet": "Dawning Place"
+        },
+        {
+          "work": "gleanings",
+          "para": 126,
+          "snippet": "Dayspring"
+        },
+        {
+          "work": "gleanings",
+          "para": 605,
+          "snippet": "Manifestation"
+        }
+      ]
+    },
+    {
+      "term": "ظلم",
+      "transliteration": "z-l-m",
+      "literal": "wrongedness, oppression, meekness; state of being wronged or oppressed",
+      "se_rendering": "cruelty",
+      "note": "SE renders as 'cruelty' here; root typically appears as 'wronged', 'Wronged One', 'afflicted'—'cruelty' emphasizes active oppression by servants rather than passive wrongedness of the pulpits.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 498,
+          "snippet": "afflicted with countless tribulations"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 49,
+          "snippet": "meekness"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 116,
+          "snippet": "injury"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 3,
+          "snippet": "Wronged One"
+        },
+        {
+          "work": "gleanings",
+          "para": 221,
+          "snippet": "oppression"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 9,
+          "snippet": "Darkness"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 33,
+          "snippet": "tyranny"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 573,
+          "snippet": "oppressed"
+        }
+      ]
+    },
+    {
+      "term": "اظهرتنا",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "revealed",
+      "note": "SE renders as 'revealed' here; corpus root regularly yields 'Manifestation', 'manifestation', 'evident'—'revealed' renders the reflexive sense of making visible rather than divine self-disclosure.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 53,
+          "snippet": "Manifestation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 160,
+          "snippet": "Author of all Manifestations"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 136,
+          "snippet": "evident"
+        },
+        {
+          "work": "gleanings",
+          "para": 222,
+          "snippet": "material"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 196,
+          "snippet": "Manifestations of God"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 255,
+          "snippet": "Manifestations"
+        }
+      ]
+    },
+    {
+      "term": "الغافلون",
+      "transliteration": "gh-f-l",
+      "literal": "heedlessness; negligence; inattention",
+      "se_rendering": "wayward",
+      "note": "SE renders as 'wayward' here; corpus typically shows 'heedless', 'hath gone astray', 'heedlessness'—'wayward' suggests errant conduct rather than mere negligence or inattention.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 132,
+          "snippet": "heedless"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 90,
+          "snippet": "Essence of Negligence"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 95,
+          "snippet": "couch of heedlessness"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 152,
+          "snippet": "Children of Negligence"
+        },
+        {
+          "work": "gleanings",
+          "para": 214,
+          "snippet": "who have been heedless"
+        },
+        {
+          "work": "gleanings",
+          "para": 413,
+          "snippet": "the heedless"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 273,
+          "snippet": "wayward"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 136,
+          "snippet": "heedless ones"
+        }
+      ]
+    },
+    {
+      "term": "عزّتک",
+      "transliteration": "ʿ-z-z",
+      "literal": "glory; might; honor; dignity; power; majesty",
+      "se_rendering": "Thy might",
+      "note": "SE renders as 'Thy might' here; corpus shows 'glory', 'honor', 'Glory', 'exalted'—'might' emphasizes power and force, underscoring the contrast with the pulpits' melting souls.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 185,
+          "snippet": "glory"
+        },
+        {
+          "work": "gleanings",
+          "para": 642,
+          "snippet": "honor"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 491,
+          "snippet": "exalted"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 99,
+          "snippet": "Dear"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 38,
+          "snippet": "dearly beloved"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 37,
+          "snippet": "Gracious"
+        },
+        {
+          "work": "gleanings",
+          "para": 260,
+          "snippet": "All-Glorious"
+        },
+        {
+          "work": "gleanings",
+          "para": 660,
+          "snippet": "powerful"
+        }
+      ]
+    }
+  ],
+  "section_index": "186",
+  "section": "186",
+  "section_para": 1
 }

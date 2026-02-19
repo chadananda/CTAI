@@ -1,10 +1,424 @@
 {
   "work": "The Hidden Words",
   "slug": "the-hidden-words",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 83,
   "source_text": "(٩) ﴿ ای سايه نابود ﴾\nاز مدارج ذلّ وهم بگذر و بمعارج عزّ يقين اندرا * چشم حق بگشا تا جمال مبين بينی و تبارک اللّه أحسن الخالقين گوئی*",
   "translation": "(9) O FLEETING SHADOW!\nPass beyond the baser stages of doubt and rise to the exalted heights of certainty. Open the eye of truth, that thou mayest behold the veilless Beauty and exclaim: Hallowed be the Lord, the most excellent of all creators!",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "veilless-beauty-certainty",
+  "alignment": [
+    {
+      "ar": "سايه",
+      "en": "SHADOW"
+    },
+    {
+      "ar": "نابود",
+      "en": "FLEETING"
+    },
+    {
+      "ar": "مدارج",
+      "en": "stages"
+    },
+    {
+      "ar": "ذلّ",
+      "en": "baser"
+    },
+    {
+      "ar": "وهم",
+      "en": "doubt"
+    },
+    {
+      "ar": "بگذر",
+      "en": "Pass beyond"
+    },
+    {
+      "ar": "معارج",
+      "en": "heights"
+    },
+    {
+      "ar": "عزّ",
+      "en": "exalted"
+    },
+    {
+      "ar": "يقين",
+      "en": "certainty"
+    },
+    {
+      "ar": "اندرا",
+      "en": "rise"
+    },
+    {
+      "ar": "چشم",
+      "en": "eye"
+    },
+    {
+      "ar": "حق",
+      "en": "truth"
+    },
+    {
+      "ar": "بگشا",
+      "en": "Open"
+    },
+    {
+      "ar": "جمال",
+      "en": "Beauty"
+    },
+    {
+      "ar": "مبين",
+      "en": "veilless"
+    },
+    {
+      "ar": "بينی",
+      "en": "behold"
+    },
+    {
+      "ar": "تبارک",
+      "en": "Hallowed"
+    },
+    {
+      "ar": "اللّه",
+      "en": "the Lord"
+    },
+    {
+      "ar": "أحسن",
+      "en": "most excellent"
+    },
+    {
+      "ar": "الخالقين",
+      "en": "creators"
+    },
+    {
+      "ar": "گوئی",
+      "en": "exclaim"
+    }
+  ],
+  "terms": [
+    {
+      "term": "نابود",
+      "transliteration": "n-b-d",
+      "literal": "annihilation; nonexistence; destruction",
+      "se_rendering": "Fleeting Shadow",
+      "note": "Rare term (2 occ.). SE renders as 'fleeting shadow' here, a poetic paraphrase rather than literal 'nonexistence.' Signals direct address to the reader's transient nature.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 140,
+          "snippet": "nonexistence"
+        }
+      ]
+    },
+    {
+      "term": "وهم",
+      "transliteration": "w-h-m",
+      "literal": "to imagine, suppose; fancy, idle imagination",
+      "se_rendering": "doubt",
+      "note": "Among 16 occurrences rendered as 'idle fancy/imaginings,' SE selects 'doubt' here—a semantic shift emphasizing epistemological limitation rather than mental frivolity.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 30,
+          "snippet": "idle fancy"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 76,
+          "snippet": "idle fancies"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 240,
+          "snippet": "superstitions"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 261,
+          "snippet": "vain imaginings"
+        },
+        {
+          "work": "gleanings",
+          "para": 80,
+          "snippet": "vain imaginations"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 255,
+          "snippet": "idle imaginings"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 12,
+          "snippet": "delusion"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 420,
+          "snippet": "anguish"
+        }
+      ]
+    },
+    {
+      "term": "یقین",
+      "transliteration": "y-q-n",
+      "literal": "certainty; certitude; conviction",
+      "se_rendering": "certainty",
+      "note": "Among 14 occurrences, typically 'certitude' or 'know of a certainty.' Here 'certainty' maintains the noun form but drops religious intensification markers present in other contexts.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 38,
+          "snippet": "know of a certainty"
+        },
+        {
+          "work": "gleanings",
+          "para": 224,
+          "snippet": "with a certitude"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 76,
+          "snippet": "Certitude"
+        },
+        {
+          "work": "gleanings",
+          "para": 435,
+          "snippet": "with certitude"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 56,
+          "snippet": "Light of Faith"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 215,
+          "snippet": "knowledge of certitude"
+        }
+      ]
+    },
+    {
+      "term": "چشم",
+      "transliteration": "ch-sh-m",
+      "literal": "eye; vision; sight",
+      "se_rendering": "eye",
+      "note": "Common term (10 occ.) typically rendered 'eye' or specialized forms like 'eye of justice.' Plain 'eye' here creates ladder imagery ascending from doubt to spiritual vision.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 677,
+          "snippet": "eye"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 63,
+          "snippet": "eye of justice"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 43,
+          "snippet": "gaze"
+        },
+        {
+          "work": "gleanings",
+          "para": 165,
+          "snippet": "eyes"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 116,
+          "snippet": "discerning eye"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 221,
+          "snippet": "with His own eyes"
+        },
+        {
+          "work": "gleanings",
+          "para": 442,
+          "snippet": "with the eyes of strangers"
+        }
+      ]
+    },
+    {
+      "term": "جمال",
+      "transliteration": "j-m-l",
+      "literal": "beauty; comeliness",
+      "se_rendering": "Beauty",
+      "note": "Among 38 occurrences often 'Ancient Beauty' or capitalized 'Beauty.' Capitalization here signals divine attribute rather than aesthetic quality, consistent with high-theology contexts.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 296,
+          "snippet": "Beauty"
+        },
+        {
+          "work": "gleanings",
+          "para": 183,
+          "snippet": "Ancient Beauty"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 193,
+          "snippet": "Among others"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 67,
+          "snippet": "Among"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 208,
+          "snippet": "Among the sciences"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 268,
+          "snippet": "Among them"
+        },
+        {
+          "work": "gleanings",
+          "para": 359,
+          "snippet": "Amongst"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 118,
+          "snippet": "following"
+        }
+      ]
+    },
+    {
+      "term": "مبین",
+      "transliteration": "sh-k-r",
+      "literal": "manifest; evident; apparent; clear",
+      "se_rendering": "veilless",
+      "note": "Jafar root data shows 'reveal,' 'palpable,' 'thanks' across 6 occurrences. SE renders 'veilless' here—a paraphrase emphasizing Beauty's unveiled manifestation, not a standard dictionary form.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 142,
+          "snippet": "reveal"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 84,
+          "snippet": "palpable"
+        },
+        {
+          "work": "gleanings",
+          "para": 206,
+          "snippet": "Render thanks"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 704,
+          "snippet": "thanks"
+        }
+      ]
+    },
+    {
+      "term": "تبارک",
+      "transliteration": "b-r-k",
+      "literal": "blessed; auspicious; fruitful",
+      "se_rendering": "Hallowed",
+      "note": "Among 38 occurrences rendered variously as 'blessed,' 'holy,' 'sacred.' 'Hallowed' here elevates liturgical register, positioning the phrase as doxology rather than statement.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 210,
+          "snippet": "blessed"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 57,
+          "snippet": "hallowed"
+        },
+        {
+          "work": "gleanings",
+          "para": 232,
+          "snippet": "shining"
+        },
+        {
+          "work": "gleanings",
+          "para": 726,
+          "snippet": "holy"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 16,
+          "snippet": "Sacred"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 2,
+          "snippet": "blest"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 215,
+          "snippet": "blessed verse"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 27,
+          "snippet": "blessing"
+        }
+      ]
+    },
+    {
+      "term": "احسن",
+      "transliteration": "h-s-n",
+      "literal": "goodness; beauty; excellence; good deed",
+      "se_rendering": "most excellent",
+      "note": "Among 28 occurrences including 'most excellent titles' and character-related renderings. 'Most excellent' here functions as absolute superlative in praise formula.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 245,
+          "snippet": "Ḥasan"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 615,
+          "snippet": "most excellent Titles"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 21,
+          "snippet": "improve the character"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 120,
+          "snippet": "good deeds"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 3,
+          "snippet": "most excellent"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 97,
+          "snippet": "most excellent Names"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 223,
+          "snippet": "the Best of creators"
+        },
+        {
+          "work": "gleanings",
+          "para": 473,
+          "snippet": "show kindness"
+        }
+      ]
+    }
+  ],
+  "section_index": "164",
+  "section": "164",
+  "section_para": 1
 }

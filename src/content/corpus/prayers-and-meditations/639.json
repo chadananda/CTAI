@@ -1,10 +1,511 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 639,
   "source_text": "تِكَ قَدْ بَلَغَتِ البَلايا إِلى مَقامٍ لا تُحْصى وَلا تَجْرِيْ مِنْ قَلَمِ الإِنْشآءِ، أَسْئَلُكَ يا مالِكَ الأسْماءِ وَفاطِرَ الأَرْضِ وَالسَّمآءِ بِأَنْ تُؤَيِّدَنِيْ عَلَى شَأْنٍ لا يَمْنَعُنِي شَيْءٌ عَنْ ذِكْرِكَ وَثَنائِكَ وَلا يَشْغَلُنِي أَمْرٌ عَمَّا أَمَرْتَنِي بِهِ فِي أَلْواحِكَ، أَقُومُ عَلَى أَمْرِكَ عَلَى شَأْنٍ أُعَرِّيْ رَأْسِيْ وَأَطْلَعُ مِنَ البَيْتِ صائِحًا بِاسْمِكَ بَيْنَ خَلْقِكَ وَناطِقًا بِذِكْرِكَ بَيْنَ عِبادِكَ، وَإِذا قَضَيْتُ ما قَضَيْتَ وَأَدَّيْتُ ما كَتَبْتَ يَجْتَمِعُ عَلَيَّ أَشْرارُ بَرِيَّتِكَ وَيَفْعَلُونَ ما يَشاؤُونَ فِي سَبِيلِكَ، أَيْ رَبِّ",
   "translation": "I implore Thee, O Thou Who art the King of names and the Creator of earth and heaven, so to assist me by Thy strengthening grace that nothing whatsoever will have the power to hinder me from remembering Thee, or celebrating Thy praise, or to keep me back from observing what Thou hast prescribed unto me in Thy Tablets, that I may so arise to serve Thee that with bared head I will hasten forth from my habitation, cry out in Thy name amidst Thy creatures, and proclaim Thy virtues among Thy servants. Having accomplished what Thou hadst decreed, and delivered the thing Thou hadst written down, the wicked doers among Thy people would, then, compass me about and would do with me in Thy path as would please them.",
   "source_lang": "ar",
-  "score": 9.4
+  "score": 9.4,
+  "page_slug": "bared-head-proclaim-virtues",
+  "alignment": [
+    {
+      "ar": "بَلَغَتِ",
+      "en": "have the power"
+    },
+    {
+      "ar": "البَلايا",
+      "en": "whatsoever"
+    },
+    {
+      "ar": "مَقامٍ",
+      "en": "hinder"
+    },
+    {
+      "ar": "لا",
+      "en": "nothing"
+    },
+    {
+      "ar": "تُحْصى",
+      "en": "celebrating"
+    },
+    {
+      "ar": "تَجْرِيْ",
+      "en": "proclaim"
+    },
+    {
+      "ar": "قَلَمِ",
+      "en": "written"
+    },
+    {
+      "ar": "الإِنْشآءِ",
+      "en": "decreed"
+    },
+    {
+      "ar": "أَسْئَلُكَ",
+      "en": "I implore Thee"
+    },
+    {
+      "ar": "مالِكَ",
+      "en": "King"
+    },
+    {
+      "ar": "الأسْماءِ",
+      "en": "names"
+    },
+    {
+      "ar": "فاطِرَ",
+      "en": "Creator"
+    },
+    {
+      "ar": "الأَرْضِ",
+      "en": "earth"
+    },
+    {
+      "ar": "شَأْنٍ",
+      "en": "strengthening grace"
+    },
+    {
+      "ar": "يَمْنَعُنِي",
+      "en": "hinder me"
+    },
+    {
+      "ar": "شَيْءٌ",
+      "en": "nothing whatsoever"
+    },
+    {
+      "ar": "ذِكْرِكَ",
+      "en": "remembering Thee"
+    },
+    {
+      "ar": "ثَنائِكَ",
+      "en": "celebrating Thy praise"
+    },
+    {
+      "ar": "يَشْغَلُنِي",
+      "en": "keep me back"
+    },
+    {
+      "ar": "أَمْرٌ",
+      "en": "observing"
+    },
+    {
+      "ar": "أَمَرْتَنِي",
+      "en": "prescribed unto me"
+    },
+    {
+      "ar": "أَلْواحِكَ",
+      "en": "Thy Tablets"
+    },
+    {
+      "ar": "أَقُومُ",
+      "en": "arise"
+    },
+    {
+      "ar": "أَمْرِكَ",
+      "en": "serve Thee"
+    },
+    {
+      "ar": "رَأْسِيْ",
+      "en": "head"
+    },
+    {
+      "ar": "أَطْلَعُ",
+      "en": "hasten forth"
+    },
+    {
+      "ar": "البَيْتِ",
+      "en": "habitation"
+    },
+    {
+      "ar": "صائِحًا",
+      "en": "cry out"
+    },
+    {
+      "ar": "بِاسْمِكَ",
+      "en": "in Thy name"
+    },
+    {
+      "ar": "خَلْقِكَ",
+      "en": "Thy creatures"
+    },
+    {
+      "ar": "بِذِكْرِكَ",
+      "en": "Thy virtues"
+    },
+    {
+      "ar": "عِبادِكَ",
+      "en": "Thy servants"
+    },
+    {
+      "ar": "قَضَيْتُ",
+      "en": "accomplished"
+    },
+    {
+      "ar": "قَضَيْتَ",
+      "en": "hadst decreed"
+    },
+    {
+      "ar": "كَتَبْتَ",
+      "en": "hadst written down"
+    },
+    {
+      "ar": "يَجْتَمِعُ",
+      "en": "compass"
+    },
+    {
+      "ar": "أَشْرارُ",
+      "en": "wicked doers"
+    },
+    {
+      "ar": "يَفْعَلُونَ",
+      "en": "do"
+    },
+    {
+      "ar": "يَشاؤُونَ",
+      "en": "please"
+    },
+    {
+      "ar": "سَبِيلِكَ",
+      "en": "Thy path"
+    }
+  ],
+  "terms": [
+    {
+      "term": "البَلايا",
+      "transliteration": "b-l-ʾ",
+      "literal": "affliction; trial; calamity",
+      "se_rendering": "afflictions",
+      "note": "Typically 'trials' or 'tribulations' (27 occ). SE renders 'afflictions' here, emphasizing suffering rather than spiritual testing—aligns with the broader context of calamities.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 4,
+          "snippet": "trials"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 137,
+          "snippet": "Troubles"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 179,
+          "snippet": "tribulations"
+        },
+        {
+          "work": "gleanings",
+          "para": 660,
+          "snippet": "afflictions"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 28,
+          "snippet": "afflicted"
+        },
+        {
+          "work": "gleanings",
+          "para": 640,
+          "snippet": "subjected"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 145,
+          "snippet": "sick"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 92,
+          "snippet": "Yea"
+        }
+      ]
+    },
+    {
+      "term": "مَقامٍ",
+      "transliteration": "q-w-m",
+      "literal": "rising; standing; uprising; resurrection",
+      "se_rendering": "station",
+      "note": "Root predominantly means 'rising' or 'uprising' (109 occ); SE uses 'station' here, denoting place/rank rather than action—a substantive rather than verbal rendering.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 152,
+          "snippet": "Day of Resurrection"
+        },
+        {
+          "work": "gleanings",
+          "para": 437,
+          "snippet": "arise"
+        },
+        {
+          "work": "gleanings",
+          "para": 513,
+          "snippet": "dedicateth"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 153,
+          "snippet": "Resurrection"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 74,
+          "snippet": "rise"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "peoples"
+        },
+        {
+          "work": "gleanings",
+          "para": 693,
+          "snippet": "commandments"
+        },
+        {
+          "work": "gleanings",
+          "para": 628,
+          "snippet": "My commandments"
+        }
+      ]
+    },
+    {
+      "term": "أَمْرٌ",
+      "transliteration": "ʾ-m-r",
+      "literal": "command; cause; matter; affair",
+      "se_rendering": "matter",
+      "note": "Usually 'His Cause,' 'His command,' or 'His Revelation' (75 occ). SE renders 'matter' here—a neutral, depersonalized term emphasizing the abstract obligation rather than divine agency.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "His Cause"
+        },
+        {
+          "work": "gleanings",
+          "para": 586,
+          "snippet": "His command"
+        },
+        {
+          "work": "gleanings",
+          "para": 691,
+          "snippet": "His Revelation"
+        },
+        {
+          "work": "gleanings",
+          "para": 723,
+          "snippet": "Cause"
+        },
+        {
+          "work": "gleanings",
+          "para": 8,
+          "snippet": "Revelation"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 167,
+          "snippet": "things"
+        },
+        {
+          "work": "gleanings",
+          "para": 524,
+          "snippet": "your affairs"
+        },
+        {
+          "work": "gleanings",
+          "para": 495,
+          "snippet": "affairs"
+        }
+      ]
+    },
+    {
+      "term": "البَيْتِ",
+      "transliteration": "b-y-t",
+      "literal": "house; household; family; verse",
+      "se_rendering": "habitation",
+      "note": "Ranges from 'House of Justice' to 'house' (18 occ). SE renders 'habitation' here—a rare, domestic reading emphasizing the personal dwelling rather than institutional or sacred meanings.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 25,
+          "snippet": "House of Justice"
+        },
+        {
+          "work": "gleanings",
+          "para": 216,
+          "snippet": "House of God"
+        },
+        {
+          "work": "gleanings",
+          "para": 217,
+          "snippet": "House"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 17,
+          "snippet": "Universal House of Justice"
+        },
+        {
+          "work": "gleanings",
+          "para": 543,
+          "snippet": "habitations"
+        },
+        {
+          "work": "gleanings",
+          "para": 545,
+          "snippet": "houses"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 38,
+          "snippet": "to write these lines"
+        },
+        {
+          "work": "gleanings",
+          "para": 219,
+          "snippet": "My House"
+        }
+      ]
+    },
+    {
+      "term": "خَلْقِكَ",
+      "transliteration": "kh-l-q",
+      "literal": "character; moral traits; disposition; conduct",
+      "se_rendering": "creatures",
+      "note": "Root typically 'character' or 'virtues' (49 occ). SE renders 'creatures' here—interpreting the term as 'creation' (people) rather than spiritual qualities, a significant semantic shift.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 28,
+          "snippet": "character"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 50,
+          "snippet": "spiritual characteristics"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 195,
+          "snippet": "virtues"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 54,
+          "snippet": "created her"
+        },
+        {
+          "work": "gleanings",
+          "para": 451,
+          "snippet": "His Apostle"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 2,
+          "snippet": "His creation"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 40,
+          "snippet": "wert created"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 23,
+          "snippet": "created thee"
+        }
+      ]
+    },
+    {
+      "term": "أَشْرارُ",
+      "transliteration": "sh-r-r",
+      "literal": "evil; harm; wickedness",
+      "se_rendering": "wicked doers",
+      "note": "Root 'evil' or 'wickedness' (10 occ); SE renders 'wicked doers' here—substantivizing the adjective into agents, emphasizing active malevolence rather than abstract evil.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 268,
+          "snippet": "East"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 36,
+          "snippet": "evil"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 40,
+          "snippet": "the wicked"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 133,
+          "snippet": "the ungodly"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 255,
+          "snippet": "father of evils"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 12,
+          "snippet": "evils of self"
+        }
+      ]
+    },
+    {
+      "term": "سَبِيلِكَ",
+      "transliteration": "s-b-l",
+      "literal": "path; way; road; cause; means",
+      "se_rendering": "path",
+      "note": "Standard rendering 'Thy path' or 'Thy ways' (18 occ). SE maintains 'path' here, consistent with primary usage; denotes both literal/figurative journey and divine purpose.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 26,
+          "snippet": "Thy ways"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 144,
+          "snippet": "Thy path"
+        },
+        {
+          "work": "gleanings",
+          "para": 17,
+          "snippet": "path"
+        },
+        {
+          "work": "gleanings",
+          "para": 97,
+          "snippet": "door"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 18,
+          "snippet": "manifold systems of religious belief"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 124,
+          "snippet": "the way of God"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 13,
+          "snippet": "the path of God"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 12,
+          "snippet": "the paths of delusion"
+        }
+      ]
+    }
+  ],
+  "section_index": "CLI.2",
+  "section": "CLI",
+  "section_para": 2
 }

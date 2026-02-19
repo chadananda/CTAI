@@ -1,10 +1,406 @@
 {
   "work": "Epistle to the Son of the Wolf",
   "slug": "epistle-to-the-son-of-the-wolf",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 139,
   "source_text": "يا شيخ بعضی از شهدای اين ظهور ذکر شد و همچنين بعضی از آيات که در ذکر ايشان از ملکوت بيان نازل اميد انکه منقطعا عن العالم در انچه ذکر شده تفکّر فرمايند *",
   "translation": "We have made mention of certain martyrs of this Revelation, and have likewise cited some of the verses which were sent down concerning them from the kingdom of Our utterance. We fain would hope that, rid of all attachment to the world, thou wilt ponder the things which We have mentioned.",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "rid-attachment-ponder-mentioned",
+  "alignment": [
+    {
+      "ar": "شيخ",
+      "en": "thou"
+    },
+    {
+      "ar": "بعضی",
+      "en": "certain"
+    },
+    {
+      "ar": "شهدای",
+      "en": "martyrs"
+    },
+    {
+      "ar": "اين",
+      "en": "this"
+    },
+    {
+      "ar": "ظهور",
+      "en": "Revelation"
+    },
+    {
+      "ar": "ذکر شد",
+      "en": "made mention"
+    },
+    {
+      "ar": "همچنين",
+      "en": "likewise"
+    },
+    {
+      "ar": "بعضی",
+      "en": "some"
+    },
+    {
+      "ar": "آيات",
+      "en": "verses"
+    },
+    {
+      "ar": "ذکر",
+      "en": "concerning"
+    },
+    {
+      "ar": "ايشان",
+      "en": "them"
+    },
+    {
+      "ar": "ملکوت",
+      "en": "kingdom"
+    },
+    {
+      "ar": "بيان",
+      "en": "utterance"
+    },
+    {
+      "ar": "نازل",
+      "en": "sent down"
+    },
+    {
+      "ar": "اميد",
+      "en": "hope"
+    },
+    {
+      "ar": "منقطعا",
+      "en": "rid"
+    },
+    {
+      "ar": "العالم",
+      "en": "the world"
+    },
+    {
+      "ar": "انچه",
+      "en": "the things which"
+    },
+    {
+      "ar": "ذکر شده",
+      "en": "mentioned"
+    },
+    {
+      "ar": "تفکّر",
+      "en": "ponder"
+    }
+  ],
+  "terms": [
+    {
+      "term": "شهدای",
+      "transliteration": "sh-h-d",
+      "literal": "witnessed; observed; seen; evident; manifest",
+      "se_rendering": "martyrs",
+      "note": "Typically rendered as 'manifest' or 'evident' (74 occurrences). 'Martyrs' here is semantically distinct—SE reads the root's witness-bearing sense as spiritual martyrdom rather than manifestation.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 607,
+          "snippet": "manifest"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 35,
+          "snippet": "evident"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 811,
+          "snippet": "I bear witness"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 836,
+          "snippet": "I testify"
+        },
+        {
+          "work": "gleanings",
+          "para": 298,
+          "snippet": "witness"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 138,
+          "snippet": "martyrdom"
+        },
+        {
+          "work": "gleanings",
+          "para": 134,
+          "snippet": "God witnesseth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 230,
+          "snippet": "God testifieth"
+        }
+      ]
+    },
+    {
+      "term": "ظهور",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "Revelation",
+      "note": "Standard rendering across 96 occurrences is 'Manifestation' or 'manifestation'. 'Revelation' here captures the apocalyptic unveiling specific to Bahá'u'lláh's claim, narrowing the broader cosmological sense.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 53,
+          "snippet": "Manifestation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 160,
+          "snippet": "Author of all Manifestations"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 136,
+          "snippet": "evident"
+        },
+        {
+          "work": "gleanings",
+          "para": 222,
+          "snippet": "material"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 196,
+          "snippet": "Manifestations of God"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 255,
+          "snippet": "Manifestations"
+        }
+      ]
+    },
+    {
+      "term": "آيات",
+      "transliteration": "ʾ-y-t",
+      "literal": "verse; sign; miracle; proof",
+      "se_rendering": "verses",
+      "note": "Consistently 'verses' across 18 occurrences. This rendering maintains scriptural authority—divine utterances as textual proofs rather than abstract 'signs'.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 234,
+          "snippet": "verses"
+        },
+        {
+          "work": "gleanings",
+          "para": 262,
+          "snippet": "the signs"
+        },
+        {
+          "work": "gleanings",
+          "para": 368,
+          "snippet": "sign"
+        },
+        {
+          "work": "gleanings",
+          "para": 417,
+          "snippet": "verse"
+        }
+      ]
+    },
+    {
+      "term": "ملکوت",
+      "transliteration": "m-l-k",
+      "literal": "kingdom; dominion; realm; sovereignty",
+      "se_rendering": "kingdom",
+      "note": "Range spans 'heaven', 'realm', 'kingdom' (70 occ). 'Kingdom' here preserves the Qur'anic cosmological term without celestial abstraction, grounding it in divine authority.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-ahd",
+          "para": 16,
+          "snippet": "heaven"
+        },
+        {
+          "work": "gleanings",
+          "para": 394,
+          "snippet": "realm"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 71,
+          "snippet": "kingdom"
+        },
+        {
+          "work": "gleanings",
+          "para": 313,
+          "snippet": "heavenly gem"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 69,
+          "snippet": "realms"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 28,
+          "snippet": "righteous"
+        },
+        {
+          "work": "gleanings",
+          "para": 171,
+          "snippet": "by the heavenly power"
+        },
+        {
+          "work": "gleanings",
+          "para": 59,
+          "snippet": "Lord"
+        }
+      ]
+    },
+    {
+      "term": "بيان",
+      "transliteration": "b-y-n",
+      "literal": "to manifest; to make clear; clear, evident",
+      "se_rendering": "utterance",
+      "note": "Diverse range: 'the Expounder', 'clear verses', 'the Bayán' (87 occ). 'Utterance' here emphasizes divine speech-act rather than the Báb's writings or abstract clarity.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 223,
+          "snippet": "the Expounder, the Most Manifest"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 231,
+          "snippet": "clear verses"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 3,
+          "snippet": "proofs"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 12,
+          "snippet": "clear proofs"
+        },
+        {
+          "work": "gleanings",
+          "para": 563,
+          "snippet": "Dawning-Place of the proofs"
+        },
+        {
+          "work": "gleanings",
+          "para": 292,
+          "snippet": "the Bayán"
+        },
+        {
+          "work": "gleanings",
+          "para": 636,
+          "snippet": "utterance"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 101,
+          "snippet": "Bayán"
+        }
+      ]
+    },
+    {
+      "term": "منقطعا",
+      "transliteration": "q-t-ʿ",
+      "literal": "to be severed; to be cut off; to detach oneself; to abstain",
+      "se_rendering": "rid of all attachment",
+      "note": "Usually 'detached themselves' or 'sundered' (33 occ). SE's 'rid of all attachment' employs colloquial English to express the Sufi detachment concept more accessibly than literal 'cut off'.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 413,
+          "snippet": "detached themselves"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 427,
+          "snippet": "sundered"
+        },
+        {
+          "work": "gleanings",
+          "para": 662,
+          "snippet": "detacheth himself"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 488,
+          "snippet": "have cut themselves off"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 11,
+          "snippet": "decisive"
+        },
+        {
+          "work": "gleanings",
+          "para": 310,
+          "snippet": "cut into pieces"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 16,
+          "snippet": "detachment"
+        },
+        {
+          "work": "gleanings",
+          "para": 255,
+          "snippet": "detached"
+        }
+      ]
+    },
+    {
+      "term": "تفکّر",
+      "transliteration": "f-k-r",
+      "literal": "thoughts; ideas; fancies; opinions",
+      "se_rendering": "ponder",
+      "note": "Typically 'ponder' or 'Meditate' (13 occ). Direct repetition of 'ponder' in imperative form (matching Persian فرمایند) heightens the exhortatory tone.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 202,
+          "snippet": "images fashioned"
+        },
+        {
+          "work": "gleanings",
+          "para": 179,
+          "snippet": "minds"
+        },
+        {
+          "work": "gleanings",
+          "para": 172,
+          "snippet": "busy yourselves"
+        },
+        {
+          "work": "gleanings",
+          "para": 305,
+          "snippet": "ponder"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 58,
+          "snippet": "Reflect"
+        }
+      ]
+    }
+  ],
+  "section_index": "139",
+  "section": "139",
+  "section_para": 1
 }

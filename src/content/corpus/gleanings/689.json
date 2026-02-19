@@ -1,10 +1,518 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 689,
   "source_text": "باری ای سلمان بر احبّای حقّ القا کن که در کلمات احدی بدیدهٴ اعتراض ملاحظه منمائید بلکه بدیدهٴ شفقت و مرحمت مشاهده کنید مگر آن نفوسی که الیوم در ردّ الله الواح ناریّه نوشته بر جمیع نفوس حتم است که بر ردّ من ردّ علی الله آنچه قادر باشند بنویسند کذلک قدّر من لدن مقتدر قدیر چه که الیوم نصرت حقّ بذکر و بیان است نه بسیف و امثال آن کذلک نزّلنا من قبل و حینئذ ان انتم تعرفون فوالّذی ینطق حینئذ فی کلّ شیء بأنّه لا اله الّا هو که اگر نفسی در ردّ من ردّ علی الله کلمه‌ئی مرقوم دارد مقامی باو عنایت شود که جمیع اهل ملأ اعلی حسرت آن مقام برند و جمیع اقلام ممکنات از ذکر آن مقام عاجز و السن کائنات از وصفش قاصر چه که هر نفسی الیوم بر این امر اقدس ارفع امنع مستقیم شود مقابل است با کلّ من فی السّموات و الأرض و کان الله علی ذلک لشهید و علیم",
   "translation": "Warn, O Salmán, the beloved of the one true God, not to view with too critical an eye the sayings and writings of men. Let them rather approach such sayings and writings in a spirit of open-mindedness and loving sympathy. Those men, however, who, in this Day, have been led to assail, in their inflammatory writings, the tenets of the Cause of God, are to be treated differently. It is incumbent upon all men, each according to his ability, to refute the arguments of those that have attacked the Faith of God. Thus hath it been decreed by Him Who is the All-Powerful, the Almighty. He that wisheth to promote the Cause of the one true God, let him promote it through his pen and tongue, rather than have recourse to sword or violence. We have, on a previous occasion, revealed this injunction, and We now confirm it, if ye be of them that comprehend. By the righteousness of Him Who, in this Day, crieth within the inmost heart of all created things: “God, there is none other God besides Me!” If any man were to arise to defend, in his writings, the Cause of God against its assailants, such a man, however inconsiderable his share, shall be so honored in the world to come that the Concourse on high would envy his glory. No pen can depict the loftiness of his station, neither can any tongue describe its splendor. For whosoever standeth firm and steadfast in this holy, this glorious, and exalted Revelation, such power shall be given him as to enable him to face and withstand all that is in heaven and on earth. Of this God is Himself a witness.",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "pen-and-tongue-promote-cause",
+  "alignment": [
+    {
+      "ar": "ای",
+      "en": "O"
+    },
+    {
+      "ar": "سلمان",
+      "en": "Salmán"
+    },
+    {
+      "ar": "احبّای",
+      "en": "beloved"
+    },
+    {
+      "ar": "حقّ",
+      "en": "true God"
+    },
+    {
+      "ar": "القا کن",
+      "en": "Warn"
+    },
+    {
+      "ar": "کلمات",
+      "en": "sayings and writings"
+    },
+    {
+      "ar": "احدی",
+      "en": "men"
+    },
+    {
+      "ar": "بدیدهٴ",
+      "en": "eye"
+    },
+    {
+      "ar": "اعتراض",
+      "en": "critical"
+    },
+    {
+      "ar": "ملاحظه منمائید",
+      "en": "view"
+    },
+    {
+      "ar": "بلکه",
+      "en": "rather"
+    },
+    {
+      "ar": "شفقت",
+      "en": "open-mindedness"
+    },
+    {
+      "ar": "مرحمت",
+      "en": "loving sympathy"
+    },
+    {
+      "ar": "مشاهده کنید",
+      "en": "approach"
+    },
+    {
+      "ar": "مگر",
+      "en": "however"
+    },
+    {
+      "ar": "آن",
+      "en": "Those"
+    },
+    {
+      "ar": "که",
+      "en": "who"
+    },
+    {
+      "ar": "الیوم",
+      "en": "this Day"
+    },
+    {
+      "ar": "ردّ",
+      "en": "assail"
+    },
+    {
+      "ar": "الله",
+      "en": "God"
+    },
+    {
+      "ar": "الواح",
+      "en": "writings"
+    },
+    {
+      "ar": "ناریّه",
+      "en": "inflammatory"
+    },
+    {
+      "ar": "جمیع",
+      "en": "all"
+    },
+    {
+      "ar": "حتم است",
+      "en": "incumbent"
+    },
+    {
+      "ar": "بر",
+      "en": "upon"
+    },
+    {
+      "ar": "من ردّ علی الله",
+      "en": "attacked the Faith of God"
+    },
+    {
+      "ar": "آنچه",
+      "en": "according to his ability"
+    },
+    {
+      "ar": "قادر",
+      "en": "able"
+    },
+    {
+      "ar": "باشند",
+      "en": "can"
+    },
+    {
+      "ar": "بنویسند",
+      "en": "refute"
+    },
+    {
+      "ar": "کذلک",
+      "en": "Thus"
+    },
+    {
+      "ar": "قدّر",
+      "en": "decreed"
+    },
+    {
+      "ar": "من لدن",
+      "en": "by Him Who"
+    },
+    {
+      "ar": "مقتدر",
+      "en": "All-Powerful"
+    },
+    {
+      "ar": "قدیر",
+      "en": "Almighty"
+    },
+    {
+      "ar": "نصرت",
+      "en": "promote"
+    },
+    {
+      "ar": "ذکر",
+      "en": "pen"
+    },
+    {
+      "ar": "بیان",
+      "en": "tongue"
+    },
+    {
+      "ar": "نه",
+      "en": "rather than"
+    },
+    {
+      "ar": "بسیف",
+      "en": "sword"
+    },
+    {
+      "ar": "امثال",
+      "en": "violence"
+    },
+    {
+      "ar": "نزّلنا",
+      "en": "revealed"
+    },
+    {
+      "ar": "من قبل",
+      "en": "previous occasion"
+    },
+    {
+      "ar": "حینئذ",
+      "en": "now"
+    },
+    {
+      "ar": "تعرفون",
+      "en": "comprehend"
+    },
+    {
+      "ar": "فوالّذی",
+      "en": "By the righteousness of Him Who"
+    },
+    {
+      "ar": "ینطق",
+      "en": "crieth"
+    },
+    {
+      "ar": "فی",
+      "en": "within"
+    },
+    {
+      "ar": "کلّ شیء",
+      "en": "all created things"
+    },
+    {
+      "ar": "لا اله الّا هو",
+      "en": "there is none other God besides Me"
+    },
+    {
+      "ar": "اگر",
+      "en": "If"
+    },
+    {
+      "ar": "نفسی",
+      "en": "any man"
+    },
+    {
+      "ar": "مرقوم دارد",
+      "en": "arise to defend"
+    },
+    {
+      "ar": "مقامی",
+      "en": "honored"
+    },
+    {
+      "ar": "باو",
+      "en": "such a man"
+    },
+    {
+      "ar": "عنایت شود",
+      "en": "shall be"
+    },
+    {
+      "ar": "اهل ملأ اعلی",
+      "en": "Concourse on high"
+    },
+    {
+      "ar": "حسرت",
+      "en": "envy"
+    },
+    {
+      "ar": "برند",
+      "en": "glory"
+    },
+    {
+      "ar": "ذکر",
+      "en": "depict"
+    },
+    {
+      "ar": "آن مقام",
+      "en": "loftiness of his station"
+    },
+    {
+      "ar": "عاجز",
+      "en": "No"
+    },
+    {
+      "ar": "وصفش",
+      "en": "describe"
+    },
+    {
+      "ar": "قاصر",
+      "en": "splendor"
+    },
+    {
+      "ar": "چه که",
+      "en": "For"
+    },
+    {
+      "ar": "هر",
+      "en": "whosoever"
+    },
+    {
+      "ar": "این",
+      "en": "this"
+    },
+    {
+      "ar": "امر",
+      "en": "Revelation"
+    },
+    {
+      "ar": "اقدس",
+      "en": "holy"
+    },
+    {
+      "ar": "ارفع",
+      "en": "glorious"
+    },
+    {
+      "ar": "امنع",
+      "en": "exalted"
+    },
+    {
+      "ar": "مستقیم شود",
+      "en": "standeth firm and steadfast"
+    },
+    {
+      "ar": "مقابل است",
+      "en": "face and withstand"
+    },
+    {
+      "ar": "کلّ من",
+      "en": "all that is"
+    },
+    {
+      "ar": "فی السّموات و الأرض",
+      "en": "heaven and on earth"
+    },
+    {
+      "ar": "و کان الله علی ذلک لشهید",
+      "en": "Of this God is Himself a witness"
+    }
+  ],
+  "terms": [
+    {
+      "term": "احبّای",
+      "transliteration": "ḥ-b-b",
+      "literal": "love; affection",
+      "se_rendering": "beloved of the one true God",
+      "note": "Typically 'beloved of the Lord' or 'loved ones of God' across 92 occurrences. Here rendered as 'beloved of the one true God,' emphasizing absolute monotheism within the address to the faithful.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 3,
+          "snippet": "beloved of the Lord"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 53,
+          "snippet": "loved ones of the Lord"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 39,
+          "snippet": "His loved ones"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 10,
+          "snippet": "love for Thee"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 12,
+          "snippet": "love"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 26,
+          "snippet": "Thy loved ones"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 475,
+          "snippet": "Thy dear ones"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 47,
+          "snippet": "my Beloved"
+        }
+      ]
+    },
+    {
+      "term": "ناریّه",
+      "transliteration": "n-w-r",
+      "literal": "light; illumination",
+      "se_rendering": "inflammatory writings",
+      "note": "Root نور (light) yields 'light,' 'Orb of Light,' or 'Illumine' across 78 occurrences. 'Inflammatory writings' here translates نارية (fiery) — SE conflates root meanings or preserves contextual intensity over etymological precision.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 3,
+          "snippet": "light"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 114,
+          "snippet": "with the light"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 109,
+          "snippet": "Thy light"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 246,
+          "snippet": "Illumine"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 180,
+          "snippet": "fire"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 10,
+          "snippet": "flame of fire"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 39,
+          "snippet": "lights"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 312,
+          "snippet": "splendors"
+        }
+      ]
+    },
+    {
+      "term": "ینطق",
+      "transliteration": "n-t-q",
+      "literal": "to speak; to utter; to pronounce; to articulate",
+      "se_rendering": "crieth",
+      "note": "Usually 'spoke,' 'speaking,' 'utterance,' or 'hath spoken' across 22 occurrences. 'Crieth' here intensifies emotional register and divine urgency, marking this utterance as transcendent rather than merely communicative.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 2,
+          "snippet": "spoke"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 719,
+          "snippet": "speaking"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 90,
+          "snippet": "utterance"
+        },
+        {
+          "work": "tablet-of-carmel",
+          "para": 5,
+          "snippet": "hath been moved to disclose"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 596,
+          "snippet": "uttered"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 626,
+          "snippet": "made me able so to reveal"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 137,
+          "snippet": "I have spoken, and still speak forth"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 9,
+          "snippet": "hath not spoken"
+        }
+      ]
+    },
+    {
+      "term": "علیم",
+      "transliteration": "ʿ-l-m",
+      "literal": "world; universe; the worlds",
+      "se_rendering": "Himself a witness",
+      "note": "Usually 'world,' 'all worlds,' or 'knowledge' across 141 occurrences. Here 'a witness'—SE departs radically, reading علیم as cognate of شهید (witness) rather than 'knower,' prioritizing theological symmetry over lexical fidelity.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 28,
+          "snippet": "knowledge"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 122,
+          "snippet": "commentators"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 42,
+          "snippet": "banner"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 19,
+          "snippet": "understanding"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 205,
+          "snippet": "ancient Knowledge"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 65,
+          "snippet": "universe"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 4,
+          "snippet": "divine"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 199,
+          "snippet": "peoples of the world"
+        }
+      ]
+    }
+  ],
+  "section_index": "CLIV.1",
+  "section": "CLIV",
+  "section_para": 1
 }

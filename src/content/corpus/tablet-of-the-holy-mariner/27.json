@@ -1,10 +1,382 @@
 {
   "work": "Tablet of the Holy Mariner",
   "slug": "tablet-of-the-holy-mariner",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 27,
   "source_text": "وأشرقت أنوار جبينها من الأرض إلى السّماء فسبحان ربّي الأبهى",
   "translation": "Flooding with the light of her countenance the heaven and the earth, Glorified be my Lord, the All-Glorious!",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "light-countenance-heaven-earth",
+  "alignment": [
+    {
+      "ar": "أشرقت",
+      "en": "Flooding"
+    },
+    {
+      "ar": "أنوار",
+      "en": "light"
+    },
+    {
+      "ar": "جبينها",
+      "en": "her countenance"
+    },
+    {
+      "ar": "الأرض",
+      "en": "earth"
+    },
+    {
+      "ar": "السّماء",
+      "en": "heaven"
+    },
+    {
+      "ar": "سبحان",
+      "en": "Glorified"
+    },
+    {
+      "ar": "ربّي",
+      "en": "my Lord"
+    },
+    {
+      "ar": "الأبهى",
+      "en": "All-Glorious"
+    }
+  ],
+  "terms": [
+    {
+      "term": "وأشرقت",
+      "transliteration": "sh-r-q",
+      "literal": "radiance; splendor; dawn; illumination",
+      "se_rendering": "Flooding with the light",
+      "note": "Root sh-r-q typically renders as 'radiance', 'dawning', or 'Daystar'. Here SE chooses 'Flooding with the light'—a participial construction emphasizing continuous illumination rather than momentary emergence.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 47,
+          "snippet": "Ishraq"
+        },
+        {
+          "work": "gleanings",
+          "para": 382,
+          "snippet": "revelation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 83,
+          "snippet": "Daystar"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 41,
+          "snippet": "dawning"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 116,
+          "snippet": "shone"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 2,
+          "snippet": "shining"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 14,
+          "snippet": "Dawning Place"
+        },
+        {
+          "work": "gleanings",
+          "para": 126,
+          "snippet": "Dayspring"
+        }
+      ]
+    },
+    {
+      "term": "أنوار",
+      "transliteration": "n-w-ʿ",
+      "literal": "type; kind; species",
+      "se_rendering": "light",
+      "note": "Jafar data shows nūn-wāw-ʿayn root means 'type; kind; species', yet SE renders 'light' here. This diverges entirely from root semantics, prioritizing poetic coherence with ishráq imagery.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 4,
+          "snippet": "all manner of"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 647,
+          "snippet": "splendors"
+        },
+        {
+          "work": "gleanings",
+          "para": 37,
+          "snippet": "light"
+        },
+        {
+          "work": "gleanings",
+          "para": 674,
+          "snippet": "sing ye"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 25,
+          "snippet": "mankind"
+        },
+        {
+          "work": "gleanings",
+          "para": 144,
+          "snippet": "such"
+        },
+        {
+          "work": "gleanings",
+          "para": 515,
+          "snippet": "by the lights"
+        }
+      ]
+    },
+    {
+      "term": "جبينها",
+      "transliteration": "j-b-y-n",
+      "literal": "forehead, brow",
+      "se_rendering": "countenance",
+      "note": "Rare term with only 2 occurrences in corpus, both rendered 'brow'. SE interprets metaphorically as 'countenance' here—expanding the semantic field to encompass facial radiance rather than literal forehead.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 446,
+          "snippet": "brow"
+        }
+      ]
+    },
+    {
+      "term": "الارض",
+      "transliteration": "ʾ-r-d",
+      "literal": "earth; land; ground; country",
+      "se_rendering": "the earth",
+      "note": "Standard rendering as 'the earth'. Consistent with 26 corpus occurrences; no deviation. Completes the heaven-earth vertical axis.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 76,
+          "snippet": "The earth"
+        },
+        {
+          "work": "gleanings",
+          "para": 203,
+          "snippet": "Land of Ṭá (Ṭihrán)"
+        },
+        {
+          "work": "gleanings",
+          "para": 207,
+          "snippet": "Land of Ṭá"
+        },
+        {
+          "work": "gleanings",
+          "para": 234,
+          "snippet": "land"
+        },
+        {
+          "work": "gleanings",
+          "para": 679,
+          "snippet": "soil"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 111,
+          "snippet": "Lord of Lords"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 489,
+          "snippet": "face of the earth"
+        },
+        {
+          "work": "gleanings",
+          "para": 725,
+          "snippet": "Holy Land"
+        }
+      ]
+    },
+    {
+      "term": "السماء",
+      "transliteration": "s-m-w",
+      "literal": "heaven; sky",
+      "se_rendering": "heaven",
+      "note": "Standard rendering as 'heaven'. Consistent with 39 corpus occurrences; no deviation. Maintains classical cosmological duality with earth.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 591,
+          "snippet": "heaven"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 594,
+          "snippet": "the heavens"
+        },
+        {
+          "work": "gleanings",
+          "para": 78,
+          "snippet": "heavens"
+        },
+        {
+          "work": "gleanings",
+          "para": 212,
+          "snippet": "breath"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 53,
+          "snippet": "heavenly Grace"
+        },
+        {
+          "work": "gleanings",
+          "para": 417,
+          "snippet": "heavenly Book"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 177,
+          "snippet": "heavenly Books"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 98,
+          "snippet": "heavenly Gospel"
+        }
+      ]
+    },
+    {
+      "term": "فسبحان",
+      "transliteration": "s-b-ḥ",
+      "literal": "glorified; the All-Praised; exalted",
+      "se_rendering": "Glorified be",
+      "note": "Root s-b-ḥ typically renders 'the All-Praised' or 'Gracious God'. SE chooses imperative 'Glorified be'—casting doxology as command rather than description.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 211,
+          "snippet": "the All-Praised"
+        },
+        {
+          "work": "gleanings",
+          "para": 212,
+          "snippet": "the Breath of the All-Glorious"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 13,
+          "snippet": "the breezes of the All-Glorious"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 42,
+          "snippet": "Gracious God"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 90,
+          "snippet": "Great God"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 62,
+          "snippet": "Glorified art Thou"
+        },
+        {
+          "work": "gleanings",
+          "para": 112,
+          "snippet": "Glory be to Thee"
+        },
+        {
+          "work": "gleanings",
+          "para": 1,
+          "snippet": "Lauded and glorified art Thou"
+        }
+      ]
+    },
+    {
+      "term": "ربی",
+      "transliteration": "r-b-b",
+      "literal": "divine; of God; lordly",
+      "se_rendering": "my Lord",
+      "note": "Standard rendering as 'my Lord'. Consistent with 31 corpus occurrences; establishes first-person devotional stance.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 2,
+          "snippet": "Holy"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 45,
+          "snippet": "Lord"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 69,
+          "snippet": "lordship"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 201,
+          "snippet": "My Lord's"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 162,
+          "snippet": "Divine might"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 16,
+          "snippet": "divine knowledge"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 205,
+          "snippet": "divine wisdom"
+        },
+        {
+          "work": "gleanings",
+          "para": 684,
+          "snippet": "Divine glory"
+        }
+      ]
+    },
+    {
+      "term": "الابهی",
+      "transliteration": "b-h-y",
+      "literal": "splendor; glory; magnificence; Bahá (Proper Name in Bahá'í texts)",
+      "se_rendering": "the All-Glorious",
+      "note": "Root b-h-y carries proper-name weight ('Bahá') alongside 'All-Glorious'. SE selects 'All-Glorious' here, maintaining adjectival predication while invoking Bahá'í theological resonance through etymological connection.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 280,
+          "snippet": "Bahá"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 59,
+          "snippet": "Glory"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 51,
+          "snippet": "Abhá"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 271,
+          "snippet": "All-Glorious"
+        }
+      ]
+    }
+  ],
+  "section_index": "28",
+  "section": "28",
+  "section_para": 1
 }

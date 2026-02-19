@@ -1,10 +1,415 @@
 {
   "work": "Epistle to the Son of the Wolf",
   "slug": "epistle-to-the-son-of-the-wolf",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 197,
   "source_text": "الی ان قلنا فی لوح آخر يا ايّها النّاظر الی الوجه، وصّ العباد بتقوی اللّه تاللّه هو القائد الاوّل فی عساکر ربّک و جنوده الاخلاق المرضيّة و الاعمال الطّيّبة * و بها فتحت فی الاعصار و القرون مدائن الافئدة و القلوب و نصبت رايات النّصر و الظّفر علی اعلی الاعلام *",
   "translation": "Further, in another Tablet, We have said: \"O thou who hast fixed thy gaze upon My countenance! Admonish men to fear God. By God! This fear is the chief commander of the army of Thy Lord. Its hosts are a praiseworthy character and goodly deeds. Through it have the cities of men's hearts been opened throughout the ages and centuries, and the standards of ascendancy and triumph raised above all other standards.\"",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "fear-god-commander-army",
+  "alignment": [
+    {
+      "ar": "قلنا",
+      "en": "We have said"
+    },
+    {
+      "ar": "لوح",
+      "en": "Tablet"
+    },
+    {
+      "ar": "آخر",
+      "en": "another"
+    },
+    {
+      "ar": "النّاظر",
+      "en": "hast fixed thy gaze"
+    },
+    {
+      "ar": "الوجه",
+      "en": "My countenance"
+    },
+    {
+      "ar": "وصّ",
+      "en": "Admonish"
+    },
+    {
+      "ar": "العباد",
+      "en": "men"
+    },
+    {
+      "ar": "بتقوی",
+      "en": "to fear"
+    },
+    {
+      "ar": "اللّه",
+      "en": "God"
+    },
+    {
+      "ar": "تاللّه",
+      "en": "By God"
+    },
+    {
+      "ar": "القائد",
+      "en": "commander"
+    },
+    {
+      "ar": "الاوّل",
+      "en": "chief"
+    },
+    {
+      "ar": "عساکر",
+      "en": "army"
+    },
+    {
+      "ar": "ربّک",
+      "en": "Thy Lord"
+    },
+    {
+      "ar": "جنوده",
+      "en": "Its hosts"
+    },
+    {
+      "ar": "الاخلاق",
+      "en": "character"
+    },
+    {
+      "ar": "المرضيّة",
+      "en": "praiseworthy"
+    },
+    {
+      "ar": "الاعمال",
+      "en": "deeds"
+    },
+    {
+      "ar": "الطّيّبة",
+      "en": "goodly"
+    },
+    {
+      "ar": "بها",
+      "en": "Through it"
+    },
+    {
+      "ar": "الاعصار",
+      "en": "ages"
+    },
+    {
+      "ar": "القرون",
+      "en": "centuries"
+    },
+    {
+      "ar": "مدائن",
+      "en": "cities"
+    },
+    {
+      "ar": "الافئدة",
+      "en": "hearts"
+    },
+    {
+      "ar": "نصبت",
+      "en": "raised"
+    },
+    {
+      "ar": "رايات",
+      "en": "standards"
+    },
+    {
+      "ar": "النّصر",
+      "en": "ascendancy"
+    },
+    {
+      "ar": "الظّفر",
+      "en": "triumph"
+    },
+    {
+      "ar": "اعلی",
+      "en": "above"
+    }
+  ],
+  "terms": [
+    {
+      "term": "القائد",
+      "transliteration": "q-w-d",
+      "literal": "leader, commander, guide",
+      "se_rendering": "the chief commander",
+      "note": "Rare rendering choice. Only 4 occurrences in corpus—'leader,' 'commander,' 'the chief commander.' SE selects militaristic 'chief commander' to parallel the army metaphor.",
+      "cross_refs": []
+    },
+    {
+      "term": "الاخلاق",
+      "transliteration": "kh-l-q",
+      "literal": "character; moral traits; disposition; conduct",
+      "se_rendering": "character",
+      "note": "Typically 'character' or 'spiritual characteristics.' Here rendered as 'character' singularly, emphasizing moral traits as unified military force component.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 21,
+          "snippet": "character"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 54,
+          "snippet": "created her"
+        },
+        {
+          "work": "gleanings",
+          "para": 451,
+          "snippet": "His Apostle"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 231,
+          "snippet": "His creatures"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 139,
+          "snippet": "His creation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 343,
+          "snippet": "Thy creatures"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 40,
+          "snippet": "wert created"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 23,
+          "snippet": "created thee"
+        }
+      ]
+    },
+    {
+      "term": "الاعمال",
+      "transliteration": "ʿ-m-l",
+      "literal": "to work; to act; to do; to perform",
+      "se_rendering": "deeds",
+      "note": "Usually 'works' or 'actions' across 44 occurrences. 'Deeds' parallels 'character' to form the dual-host of praiseworthy conduct.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 255,
+          "snippet": "workers"
+        },
+        {
+          "work": "gleanings",
+          "para": 502,
+          "snippet": "do"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 24,
+          "snippet": "Consort"
+        },
+        {
+          "work": "gleanings",
+          "para": 607,
+          "snippet": "virtues and attributes"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 782,
+          "snippet": "works"
+        },
+        {
+          "work": "gleanings",
+          "para": 646,
+          "snippet": "actions"
+        },
+        {
+          "work": "gleanings",
+          "para": 564,
+          "snippet": "deeds"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 286,
+          "snippet": "God doeth unto them as they do unto themselves"
+        }
+      ]
+    },
+    {
+      "term": "الطیبه",
+      "transliteration": "t-y-b",
+      "literal": "good; pure; sweet; fragrant; virtuous",
+      "se_rendering": "goodly",
+      "note": "Standard 'goodly' rendering; corpus shows 'pure and goodly' variants. Pairing with 'character' makes moral conduct tangible and praiseworthy.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 564,
+          "snippet": "goodly"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 146,
+          "snippet": "pure and goodly"
+        },
+        {
+          "work": "gleanings",
+          "para": 646,
+          "snippet": "sweet smelling savor"
+        },
+        {
+          "work": "gleanings",
+          "para": 598,
+          "snippet": "goodly deeds"
+        }
+      ]
+    },
+    {
+      "term": "فتحت",
+      "transliteration": "f-t-h",
+      "literal": "opening; opening up; conquests; revelations; disclosure",
+      "se_rendering": "been opened",
+      "note": "Typically 'open' or 'disclosures.' Passive voice 'been opened' emphasizes the effect of fear of God upon human hearts across temporal cycles.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 64,
+          "snippet": "immeasurable disclosures"
+        },
+        {
+          "work": "gleanings",
+          "para": 214,
+          "snippet": "open"
+        },
+        {
+          "work": "gleanings",
+          "para": 88,
+          "snippet": "Open ye"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 712,
+          "snippet": "Thou hast enraptured"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 360,
+          "snippet": "hast unlocked"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 720,
+          "snippet": "hast opened"
+        }
+      ]
+    },
+    {
+      "term": "الاعصار",
+      "transliteration": "ʿ-s-r",
+      "literal": "age; era; century; period of time",
+      "se_rendering": "ages",
+      "note": "Standard 'ages' rendering (14 occurrences). Paired with 'centuries' to express temporal vastness of spiritual conquest through fear of God.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 276,
+          "snippet": "ages"
+        },
+        {
+          "work": "gleanings",
+          "para": 149,
+          "snippet": "cycles"
+        },
+        {
+          "work": "gleanings",
+          "para": 109,
+          "snippet": "age"
+        },
+        {
+          "work": "tablet-of-carmel",
+          "para": 1,
+          "snippet": "centuries"
+        }
+      ]
+    },
+    {
+      "term": "الافیده",
+      "transliteration": "f-ʾ-d",
+      "literal": "heart; inner consciousness; mind",
+      "se_rendering": "hearts",
+      "note": "Standard 'hearts' rendering (7 occurrences total). Here denotes inner consciousness as cities to be spiritually conquered—military metaphor extends inward.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 48,
+          "snippet": "heart"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 832,
+          "snippet": "lamentation of my heart"
+        },
+        {
+          "work": "gleanings",
+          "para": 498,
+          "snippet": "the hearts"
+        },
+        {
+          "work": "gleanings",
+          "para": 176,
+          "snippet": "hearts"
+        }
+      ]
+    },
+    {
+      "term": "رايات",
+      "transliteration": "r-ʾ-y",
+      "literal": "to see; to perceive; to look",
+      "se_rendering": "standards",
+      "note": "Root meaning 'to see/perceive' but rendered as 'standards'—metaphorical military flags. SE shifts from perceptual sense to victory iconography.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 157,
+          "snippet": "scornfully"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 23,
+          "snippet": "from"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 233,
+          "snippet": "by"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 33,
+          "snippet": "seest them"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 491,
+          "snippet": "behold them"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 168,
+          "snippet": "seest him"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 70,
+          "snippet": "we have seen"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 23,
+          "snippet": "Thou seest Me"
+        }
+      ]
+    }
+  ],
+  "section_index": "197",
+  "section": "197",
+  "section_para": 1
 }

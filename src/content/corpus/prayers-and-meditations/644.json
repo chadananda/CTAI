@@ -1,10 +1,157 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 644,
   "source_text": "إِلهَ إِلاَّ أَنْتَ المُهَيْمِنُ القَيُّومُ.",
   "translation": "No God is there but Thee, the Help in Peril, the Self-Subsisting.",
   "source_lang": "ar",
-  "score": 9.9
+  "score": 9.9,
+  "page_slug": "help-in-peril-self-subsisting",
+  "alignment": [
+    {
+      "ar": "إِلهَ",
+      "en": "God"
+    },
+    {
+      "ar": "أَنْتَ",
+      "en": "Thee"
+    },
+    {
+      "ar": "المُهَيْمِنُ",
+      "en": "Help in Peril"
+    }
+  ],
+  "terms": [
+    {
+      "term": "إِلهَ",
+      "transliteration": "ʾ-l-h",
+      "literal": "God; Allah",
+      "se_rendering": "God",
+      "note": "Standard rendering as 'God' across 53 occurrences. Inverted syntax (object-first negation) creates emphatic theological statement characteristic of Arabic devotional rhetoric.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 294,
+          "snippet": "God"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 10,
+          "snippet": "O God, my God"
+        },
+        {
+          "work": "gleanings",
+          "para": 341,
+          "snippet": "of God"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 11,
+          "snippet": "My God"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 62,
+          "snippet": "O Lord"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 102,
+          "snippet": "the Divine Lote-Tree"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 53,
+          "snippet": "the loved ones of the Lord"
+        },
+        {
+          "work": "gleanings",
+          "para": 338,
+          "snippet": "Ark of God"
+        }
+      ]
+    },
+    {
+      "term": "المُهَيْمِنُ",
+      "transliteration": "h-y-m",
+      "literal": "the Protector; the Overseer; the Guardian",
+      "se_rendering": "the Help in Peril",
+      "note": "Rare rendering as 'Help in Peril' (4 total occurrences). Root h-y-m typically yields 'Protector', 'Guardian', 'Overseer'. This choice emphasizes divine intervention in crisis over abstract protection.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 37,
+          "snippet": "the Help in Peril"
+        },
+        {
+          "work": "gleanings",
+          "para": 180,
+          "snippet": "the Protector"
+        },
+        {
+          "work": "gleanings",
+          "para": 300,
+          "snippet": "the Guardian"
+        },
+        {
+          "work": "gleanings",
+          "para": 610,
+          "snippet": "the Supreme Protector"
+        }
+      ]
+    },
+    {
+      "term": "القَيُّومُ",
+      "transliteration": "q-w-m",
+      "literal": "rising; standing; uprising; resurrection",
+      "se_rendering": "the Self-Subsisting",
+      "note": "Markedly deviates from root q-w-m's dominant renderings ('Resurrection', 'arise', 'rise' across 109 occurrences). 'Self-Subsisting' reinterprets the etymological sense of permanent standing/endurance as metaphysical self-sufficiency.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 152,
+          "snippet": "Day of Resurrection"
+        },
+        {
+          "work": "gleanings",
+          "para": 437,
+          "snippet": "arise"
+        },
+        {
+          "work": "gleanings",
+          "para": 513,
+          "snippet": "dedicateth"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 153,
+          "snippet": "Resurrection"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 74,
+          "snippet": "rise"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "peoples"
+        },
+        {
+          "work": "gleanings",
+          "para": 693,
+          "snippet": "commandments"
+        },
+        {
+          "work": "gleanings",
+          "para": 628,
+          "snippet": "My commandments"
+        }
+      ]
+    }
+  ],
+  "section_index": "CLII.3",
+  "section": "CLII",
+  "section_para": 3
 }

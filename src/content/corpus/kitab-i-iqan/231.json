@@ -1,10 +1,564 @@
 {
   "work": "Kitab-i-Iqan",
   "slug": "kitab-i-iqan",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 231,
   "source_text": "و در جای ديگر می فرمايد:  \"وَ إذَا تُتْلَی عَلَيْهِم آياتُنا بَيِّناتٍ مَا  کَانَ حُجَّتَهُمْ إلّا اَنْ قَالُوا ائْتُوا بِآبائِنا إن کُنتُمْ       صَادِقِيْنَ. \" يعنی  در وقتی که تلاوت کرده می شود بر ايشان آيات ما، نيست حجّت ايشان مگر آنکه بگويند بياوريد پدرهای ما را اگر هستيد راست گويان.  مشاهده نما که چه حجّت ها بر آن  رحمت های کامله واسعه می گرفتند.  به آياتی که حرفی از آن اعظم است از خلق سماوات و ارض و مردگان وادی نفس و هوی را به روح ايمان زنده می فرمايد استهزاء می نمودند و می گفتند:  پدرهای ما را از قبر بيرون آر.  اين بود اعراض و استکبار قوم.  و هر کدام از اين آيات برای کلّ من علی الارض حجّتی است محکم و برهانی است معظّم که جميع ارض را  کفايت می کند لَو اَنتُم فی آياتِ اللّهِ تَتَفَکَّرُونَ.  و در همين آيه مذکوره لئالی اسرار مکنون است. اگر فی الجمله دردی يافت شود دوا می رسد.",
   "translation": "In another passage He saith: “And when Our clear verses are recited to them, their only argument is to say, ‘Bring back our fathers, if ye speak the truth!’” Behold, what foolish evidences they sought from these Embodiments of an all-encompassing mercy! They scoffed at the verses, a single letter of which is greater than the creation of heavens and earth, and which quickeneth the dead of the valley of self and desire with the spirit of faith; and clamoured saying: “Cause our fathers to speed out of their sepulchres.” Such was the perversity and pride of that people. Each one of these verses is unto all the peoples of the world an unfailing testimony and a glorious proof of His truth. Each of them verily sufficeth all mankind, wert thou to meditate upon the verses of God. In the above-mentioned verse itself pearls of mysteries lie hidden. Whatever be the ailment, the remedy it offereth can never fail.",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "verses-greater-than-creation",
+  "alignment": [
+    {
+      "ar": "جای",
+      "en": "passage"
+    },
+    {
+      "ar": "ديگر",
+      "en": "another"
+    },
+    {
+      "ar": "می فرمايد",
+      "en": "saith"
+    },
+    {
+      "ar": "تُتْلَی",
+      "en": "recited"
+    },
+    {
+      "ar": "عَلَيْهِم",
+      "en": "to them"
+    },
+    {
+      "ar": "آياتُنا",
+      "en": "Our clear verses"
+    },
+    {
+      "ar": "قَالُوا",
+      "en": "say"
+    },
+    {
+      "ar": "ائْتُوا",
+      "en": "Bring back"
+    },
+    {
+      "ar": "بِآبائِنا",
+      "en": "our fathers"
+    },
+    {
+      "ar": "صَادِقِيْنَ",
+      "en": "truth"
+    },
+    {
+      "ar": "وقتی",
+      "en": "when"
+    },
+    {
+      "ar": "کرده می شود",
+      "en": "are recited"
+    },
+    {
+      "ar": "ايشان",
+      "en": "them"
+    },
+    {
+      "ar": "آيات",
+      "en": "verses"
+    },
+    {
+      "ar": "نيست",
+      "en": "only"
+    },
+    {
+      "ar": "حجّت",
+      "en": "argument"
+    },
+    {
+      "ar": "آنکه",
+      "en": "to"
+    },
+    {
+      "ar": "بياوريد",
+      "en": "Bring"
+    },
+    {
+      "ar": "پدرهای",
+      "en": "fathers"
+    },
+    {
+      "ar": "هستيد",
+      "en": "ye"
+    },
+    {
+      "ar": "راست گويان",
+      "en": "speak the truth"
+    },
+    {
+      "ar": "مشاهده نما",
+      "en": "Behold"
+    },
+    {
+      "ar": "حجّت ها",
+      "en": "evidences"
+    },
+    {
+      "ar": "رحمت های",
+      "en": "mercy"
+    },
+    {
+      "ar": "کامله",
+      "en": "all-encompassing"
+    },
+    {
+      "ar": "می گرفتند",
+      "en": "sought"
+    },
+    {
+      "ar": "حرفی",
+      "en": "letter"
+    },
+    {
+      "ar": "اعظم",
+      "en": "greater"
+    },
+    {
+      "ar": "خلق",
+      "en": "creation"
+    },
+    {
+      "ar": "سماوات",
+      "en": "heavens"
+    },
+    {
+      "ar": "ارض",
+      "en": "earth"
+    },
+    {
+      "ar": "مردگان",
+      "en": "dead"
+    },
+    {
+      "ar": "وادی",
+      "en": "valley"
+    },
+    {
+      "ar": "نفس",
+      "en": "self"
+    },
+    {
+      "ar": "هوی",
+      "en": "desire"
+    },
+    {
+      "ar": "روح",
+      "en": "spirit"
+    },
+    {
+      "ar": "ايمان",
+      "en": "faith"
+    },
+    {
+      "ar": "زنده می فرمايد",
+      "en": "quickeneth"
+    },
+    {
+      "ar": "استهزاء می نمودند",
+      "en": "scoffed"
+    },
+    {
+      "ar": "می گفتند",
+      "en": "clamoured"
+    },
+    {
+      "ar": "قبر",
+      "en": "sepulchres"
+    },
+    {
+      "ar": "بيرون آر",
+      "en": "speed out"
+    },
+    {
+      "ar": "اعراض",
+      "en": "perversity"
+    },
+    {
+      "ar": "استکبار",
+      "en": "pride"
+    },
+    {
+      "ar": "قوم",
+      "en": "people"
+    },
+    {
+      "ar": "هر کدام",
+      "en": "Each one"
+    },
+    {
+      "ar": "اين آيات",
+      "en": "these verses"
+    },
+    {
+      "ar": "کلّ من علی الارض",
+      "en": "all the peoples of the world"
+    },
+    {
+      "ar": "حجّتی",
+      "en": "testimony"
+    },
+    {
+      "ar": "محکم",
+      "en": "unfailing"
+    },
+    {
+      "ar": "برهانی",
+      "en": "proof"
+    },
+    {
+      "ar": "معظّم",
+      "en": "glorious"
+    },
+    {
+      "ar": "جميع",
+      "en": "all"
+    },
+    {
+      "ar": "ارض",
+      "en": "mankind"
+    },
+    {
+      "ar": "کفايت می کند",
+      "en": "sufficeth"
+    },
+    {
+      "ar": "آيه مذکوره",
+      "en": "above-mentioned verse"
+    },
+    {
+      "ar": "لئالی",
+      "en": "pearls"
+    },
+    {
+      "ar": "اسرار",
+      "en": "mysteries"
+    },
+    {
+      "ar": "مکنون",
+      "en": "hidden"
+    },
+    {
+      "ar": "دردی",
+      "en": "ailment"
+    },
+    {
+      "ar": "يافت شود",
+      "en": "be"
+    },
+    {
+      "ar": "دوا",
+      "en": "remedy"
+    },
+    {
+      "ar": "می رسد",
+      "en": "offereth"
+    }
+  ],
+  "terms": [
+    {
+      "term": "بَيِّناتٍ",
+      "transliteration": "b-y-n",
+      "literal": "to manifest; to make clear; clear, evident",
+      "se_rendering": "clear verses",
+      "note": "Typically 'proofs' or 'clear proofs' across 87 occurrences; rendered 'clear verses' here to emphasize scriptural form over demonstrative force.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 223,
+          "snippet": "the Expounder, the Most Manifest"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 3,
+          "snippet": "proofs"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 12,
+          "snippet": "clear proofs"
+        },
+        {
+          "work": "gleanings",
+          "para": 563,
+          "snippet": "Dawning-Place of the proofs"
+        },
+        {
+          "work": "gleanings",
+          "para": 292,
+          "snippet": "the Bayán"
+        },
+        {
+          "work": "gleanings",
+          "para": 636,
+          "snippet": "utterance"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 120,
+          "snippet": "evil"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 178,
+          "snippet": "evident error"
+        }
+      ]
+    },
+    {
+      "term": "رحمت",
+      "transliteration": "r-ḥ-m",
+      "literal": "merciful, compassionate; pertaining to divine mercy",
+      "se_rendering": "mercy",
+      "note": "Usually 'merciful' or 'spirit of mercy' (70 occ); 'Embodiments of mercy' captures divine manifestation uniquely absent from standard corpus renderings.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 673,
+          "snippet": "Divine glory"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 57,
+          "snippet": "Divine"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 89,
+          "snippet": "celestial melody"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 114,
+          "snippet": "spirit of mercy"
+        },
+        {
+          "work": "gleanings",
+          "para": 372,
+          "snippet": "merciful"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 220,
+          "snippet": "have mercy on them"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 546,
+          "snippet": "mercy"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 50,
+          "snippet": "the Compassionate"
+        }
+      ]
+    },
+    {
+      "term": "اعظم",
+      "transliteration": "ʿ-z̟-m",
+      "literal": "greatest; supreme; mightiest",
+      "se_rendering": "greater",
+      "note": "Predominantly 'Most Great' or 'greatest' (63 occ); 'greater' here creates comparative degree, emphasizing transcendence of divine utterance over physical creation.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 56,
+          "snippet": "supreme"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 269,
+          "snippet": "Most Great"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 734,
+          "snippet": "Most Great Name"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 3,
+          "snippet": "greatest"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 6,
+          "snippet": "greater"
+        },
+        {
+          "work": "gleanings",
+          "para": 10,
+          "snippet": "most mighty"
+        },
+        {
+          "work": "gleanings",
+          "para": 392,
+          "snippet": "great"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 9,
+          "snippet": "mighty"
+        }
+      ]
+    },
+    {
+      "term": "اعراض",
+      "transliteration": "ʿ-r-d",
+      "literal": "to turn away; to avert; to abstain; heedless",
+      "se_rendering": "perversity",
+      "note": "Standard 'turned away' or 'turned aside' (47 occ); 'perversity' adds moral degradation dimension, interpreting aversion as willful corruption beyond mere neglect.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 136,
+          "snippet": "turned away"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 168,
+          "snippet": "turned aside"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 230,
+          "snippet": "disbelievers"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 505,
+          "snippet": "turned their backs"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 431,
+          "snippet": "have turned back"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 29,
+          "snippet": "hast turned away"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 104,
+          "snippet": "are turned back"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 14,
+          "snippet": "turns away"
+        }
+      ]
+    },
+    {
+      "term": "محکم",
+      "transliteration": "h-k-m",
+      "literal": "government; rule; governance; wisdom",
+      "se_rendering": "unfailing",
+      "note": "Root typically means 'rule' or 'government' (69 occ); 'unfailing' transforms governance into reliability, emphasizing testimony's certitude rather than divine sovereignty.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-ahd",
+          "para": 6,
+          "snippet": "rule"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "government"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 849,
+          "snippet": "signs of Thy sovereignty"
+        },
+        {
+          "work": "gleanings",
+          "para": 224,
+          "snippet": "mysteries"
+        },
+        {
+          "work": "gleanings",
+          "para": 636,
+          "snippet": "rule of the sword"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 129,
+          "snippet": "perspicuous verses"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 157,
+          "snippet": "justice"
+        },
+        {
+          "work": "gleanings",
+          "para": 139,
+          "snippet": "the face of wisdom"
+        }
+      ]
+    },
+    {
+      "term": "اسرار",
+      "transliteration": "s-r-r",
+      "literal": "throne; couch; seat of authority",
+      "se_rendering": "mysteries",
+      "note": "Root denotes 'throne' or 'seat of authority' (40 occ); 'mysteries' here invokes the hidden esoteric sense, departing from SE's usual institutional renderings.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 185,
+          "snippet": "lamp"
+        },
+        {
+          "work": "tablet-of-carmel",
+          "para": 2,
+          "snippet": "joy"
+        },
+        {
+          "work": "gleanings",
+          "para": 218,
+          "snippet": "mystery"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 831,
+          "snippet": "Secret"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 37,
+          "snippet": "in the gladness"
+        },
+        {
+          "work": "gleanings",
+          "para": 727,
+          "snippet": "gladness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 8,
+          "snippet": "by the mysteries"
+        },
+        {
+          "work": "gleanings",
+          "para": 318,
+          "snippet": "mysteries"
+        }
+      ]
+    }
+  ],
+  "section_index": "231",
+  "section": "231",
+  "section_para": 1
 }

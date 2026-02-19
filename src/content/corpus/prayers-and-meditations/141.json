@@ -1,10 +1,540 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 141,
   "source_text": "إِلَيْكَ يا مَنْ بِيَدِكَ جَبَروُتُ الآياتِ وَمَلَكُوتُ الأَسْمآءِ وَالصِّفاتِ، خُذْ يا إِلهِي يَدَ هذا المُقْبِلِ الَّذِيْ أَقْبَلَ إِلى وَجْهِكَ ثُمَّ أَنْقِذْهُ مِنْ غَمَراتِ الأَوْهامِ لِيَطْلَعَ مِنْ أُفُقِ قَلْبِهِ نُورُ الإِيْقانِ فِي الأَيَّامِ الَّتِيْ فِيها أَظْلَمَتْ شَمْسُ عِرفانِ خَلْقِكَ عِنْدَ إِشْراقِ شَمْسِ أَحَدِيَّتِكَ وَخَسَفَ قَمَرُ العِلْمِ عِنْدَ ظُهُورِ عِلْمِكَ المَكْنُونِ وَسِرِّكَ المَصُونِ وَرَمْزِكَ المَخْزُونِ وَسَقَطَتْ أَنْجُمُ الأَعْمالِ عِنْدَ",
   "translation": "Hold Thou the hand of this seeker who hath set his face towards Thee, O my Lord, and draw him out of the depths of his vain imaginations, that the light of certainty may shine brightly above the horizon of his heart in the days whereon the sun of the knowledge of Thy creatures hath been darkened through the shining of the Daystar of Thy glory; the days whereon the moon of the world’s wisdom hath been eclipsed through the appearance of Thy hidden knowledge, and the manifestation of Thy well-guarded secret, and the revelation of Thine enshrined mystery; the days whereon the stars of men’s doings have fallen through the rising of the orb of Thy unity and the shedding of the radiance of Thy transcendent oneness.",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "light-certainty-horizon-heart",
+  "alignment": [
+    {
+      "ar": "إِلَيْكَ",
+      "en": "towards Thee"
+    },
+    {
+      "ar": "يا",
+      "en": "O"
+    },
+    {
+      "ar": "مَنْ",
+      "en": "who"
+    },
+    {
+      "ar": "بِيَدِكَ",
+      "en": ""
+    },
+    {
+      "ar": "جَبَروُتُ",
+      "en": ""
+    },
+    {
+      "ar": "الآياتِ",
+      "en": ""
+    },
+    {
+      "ar": "مَلَكُوتُ",
+      "en": ""
+    },
+    {
+      "ar": "الأَسْمآءِ",
+      "en": ""
+    },
+    {
+      "ar": "خُذْ",
+      "en": "Hold"
+    },
+    {
+      "ar": "إِلهِي",
+      "en": "my Lord"
+    },
+    {
+      "ar": "يَدَ",
+      "en": "hand"
+    },
+    {
+      "ar": "هذا",
+      "en": "this"
+    },
+    {
+      "ar": "المُقْبِلِ",
+      "en": "seeker"
+    },
+    {
+      "ar": "أَقْبَلَ",
+      "en": "hath set his face"
+    },
+    {
+      "ar": "وَجْهِكَ",
+      "en": ""
+    },
+    {
+      "ar": "أَنْقِذْهُ",
+      "en": "draw him out"
+    },
+    {
+      "ar": "غَمَراتِ",
+      "en": "depths"
+    },
+    {
+      "ar": "الأَوْهامِ",
+      "en": "vain imaginations"
+    },
+    {
+      "ar": "لِيَطْلَعَ",
+      "en": "may shine"
+    },
+    {
+      "ar": "أُفُقِ",
+      "en": "horizon"
+    },
+    {
+      "ar": "قَلْبِهِ",
+      "en": "his heart"
+    },
+    {
+      "ar": "نُورُ",
+      "en": "light"
+    },
+    {
+      "ar": "الإِيْقانِ",
+      "en": "certainty"
+    },
+    {
+      "ar": "فِيها",
+      "en": ""
+    },
+    {
+      "ar": "أَظْلَمَتْ",
+      "en": "hath been darkened"
+    },
+    {
+      "ar": "شَمْسُ",
+      "en": "sun"
+    },
+    {
+      "ar": "عِرفانِ",
+      "en": "knowledge"
+    },
+    {
+      "ar": "خَلْقِكَ",
+      "en": "Thy creatures"
+    },
+    {
+      "ar": "عِنْدَ",
+      "en": "through"
+    },
+    {
+      "ar": "إِشْراقِ",
+      "en": "shining"
+    },
+    {
+      "ar": "شَمْسِ",
+      "en": "Daystar"
+    },
+    {
+      "ar": "خَسَفَ",
+      "en": "hath been eclipsed"
+    },
+    {
+      "ar": "قَمَرُ",
+      "en": "moon"
+    },
+    {
+      "ar": "ظُهُورِ",
+      "en": "appearance"
+    },
+    {
+      "ar": "المَكْنُونِ",
+      "en": "hidden"
+    },
+    {
+      "ar": "المَصُونِ",
+      "en": "well-guarded"
+    },
+    {
+      "ar": "رَمْزِكَ",
+      "en": "mystery"
+    },
+    {
+      "ar": "المَخْزُونِ",
+      "en": "enshrined"
+    },
+    {
+      "ar": "سَقَطَتْ",
+      "en": "have fallen"
+    },
+    {
+      "ar": "أَنْجُمُ",
+      "en": "stars"
+    }
+  ],
+  "terms": [
+    {
+      "term": "جَبَروُتُ",
+      "transliteration": "j-b-r",
+      "literal": "compelled; forced; constrained",
+      "se_rendering": "the omnipotence of the signs",
+      "note": "Typically 'might' or 'realm of might' across 19 occurrences. Here SE renders it as 'omnipotence of the signs'—a compound nominalization that merges divine power with revelation, unique to this passage.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "exhorted"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 38,
+          "snippet": "constrained"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 53,
+          "snippet": "Divine Strength"
+        },
+        {
+          "work": "gleanings",
+          "para": 584,
+          "snippet": "the sovereign power of the Cause"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 1,
+          "snippet": "glory"
+        },
+        {
+          "work": "gleanings",
+          "para": 3,
+          "snippet": "realm"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 5,
+          "snippet": "dominion"
+        }
+      ]
+    },
+    {
+      "term": "الآياتِ",
+      "transliteration": "ʾ-y-t",
+      "literal": "verse; sign; miracle; proof",
+      "se_rendering": "the signs",
+      "note": "Consistently 'signs' or 'verses' across 18 occurrences. SE maintains this standard rendering here, anchoring the passage's opening invocation in Qur'anic terminology.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 232,
+          "snippet": "His verses"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 234,
+          "snippet": "verses"
+        },
+        {
+          "work": "gleanings",
+          "para": 262,
+          "snippet": "the signs"
+        },
+        {
+          "work": "gleanings",
+          "para": 368,
+          "snippet": "sign"
+        },
+        {
+          "work": "gleanings",
+          "para": 417,
+          "snippet": "verse"
+        }
+      ]
+    },
+    {
+      "term": "الأَسْمآءِ",
+      "transliteration": "s-m-y",
+      "literal": "to name, to nominate, to designate, to appoint",
+      "se_rendering": "Names",
+      "note": "Typically 'Names' or 'Titles' across 20 occurrences. SE renders as 'Names' here, maintaining the theological weight of divine appellations in Islamic mysticism.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 20,
+          "snippet": "nominated and appointed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 3,
+          "snippet": "names"
+        },
+        {
+          "work": "gleanings",
+          "para": 374,
+          "snippet": "of His names"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 103,
+          "snippet": "thy name"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 91,
+          "snippet": "My name"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 35,
+          "snippet": "by Thy name"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 107,
+          "snippet": "in the Most Great Name"
+        },
+        {
+          "work": "gleanings",
+          "para": 112,
+          "snippet": "by the Name"
+        }
+      ]
+    },
+    {
+      "term": "الإِيْقانِ",
+      "transliteration": "y-q-n",
+      "literal": "certainty; certitude; conviction",
+      "se_rendering": "certainty",
+      "note": "Usually 'certitude' or 'certainty' across 14 occurrences. SE uses 'certainty' here, grounded in the 'light of certainty'—a synesthetic metaphor absent from the base root.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 38,
+          "snippet": "know of a certainty"
+        },
+        {
+          "work": "gleanings",
+          "para": 224,
+          "snippet": "with a certitude"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 76,
+          "snippet": "Certitude"
+        },
+        {
+          "work": "gleanings",
+          "para": 435,
+          "snippet": "with certitude"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 56,
+          "snippet": "Light of Faith"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 215,
+          "snippet": "knowledge of certitude"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 92,
+          "snippet": "assurance"
+        }
+      ]
+    },
+    {
+      "term": "عِرفانِ",
+      "transliteration": "ʿ-r-f",
+      "literal": "to confess; to acknowledge; to recognize",
+      "se_rendering": "knowledge",
+      "note": "Usually 'understanding' or 'knowledge' across 82 occurrences. SE selects 'knowledge' here—specifically 'knowledge of Thy creatures'—narrowing the mystical gnosis (ʿirfān) to created understanding.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 135,
+          "snippet": "hath acknowledged"
+        },
+        {
+          "work": "gleanings",
+          "para": 568,
+          "snippet": "acknowledged"
+        },
+        {
+          "work": "gleanings",
+          "para": 295,
+          "snippet": "made objections"
+        },
+        {
+          "work": "gleanings",
+          "para": 87,
+          "snippet": "knowledge"
+        },
+        {
+          "work": "gleanings",
+          "para": 2,
+          "snippet": "perception"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 5,
+          "snippet": "acknowledging"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 4,
+          "snippet": "fragrance of His garment"
+        },
+        {
+          "work": "gleanings",
+          "para": 214,
+          "snippet": "acknowledge"
+        }
+      ]
+    },
+    {
+      "term": "إِشْراقِ",
+      "transliteration": "sh-r-q",
+      "literal": "radiance; splendor; dawn; illumination",
+      "se_rendering": "shining",
+      "note": "Typically 'radiance' or 'Daystar' across 63 occurrences. SE renders as 'shining' here, a verbal form that emphasizes dynamic illumination over the nominal theological concept.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 47,
+          "snippet": "Ishraq"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 28,
+          "snippet": "radiance"
+        },
+        {
+          "work": "gleanings",
+          "para": 382,
+          "snippet": "revelation"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 41,
+          "snippet": "dawning"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 116,
+          "snippet": "shone"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 2,
+          "snippet": "shining"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 14,
+          "snippet": "Dawning Place"
+        },
+        {
+          "work": "gleanings",
+          "para": 126,
+          "snippet": "Dayspring"
+        }
+      ]
+    },
+    {
+      "term": "المَكْنُونُ",
+      "transliteration": "k-n-n",
+      "literal": "to do; to make; to perform",
+      "se_rendering": "hidden",
+      "note": "Typically 'hid' or rarely used across 18 occurrences. SE renders as 'hidden' here, paralleling the architectural structure of 'secret' (sirr) and 'mystery' in the mystical triad.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 376,
+          "snippet": "consider"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 136,
+          "snippet": "interpret"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 240,
+          "snippet": "observest"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 24,
+          "snippet": "wear the guise"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 110,
+          "snippet": "quench"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 8,
+          "snippet": "hid"
+        },
+        {
+          "work": "tablet-of-carmel",
+          "para": 5,
+          "snippet": "been wrapped"
+        },
+        {
+          "work": "tablet-of-carmel",
+          "para": 4,
+          "snippet": "hidden"
+        }
+      ]
+    },
+    {
+      "term": "المَخْزُونُ",
+      "transliteration": "kh-z-n",
+      "literal": "to store, to treasure; storehouse, depository, treasury",
+      "se_rendering": "enshrined",
+      "note": "Typically 'treasury' or 'treasuries' across 19 occurrences. SE renders as 'enshrined' here—a sacralizing verb that elevates stored divine knowledge to liturgical status, departing from economic metaphors.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 199,
+          "snippet": "depositories"
+        },
+        {
+          "work": "gleanings",
+          "para": 93,
+          "snippet": "repositories"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 58,
+          "snippet": "treasuries"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 1,
+          "snippet": "treasury"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 204,
+          "snippet": "custodians of the treasures"
+        },
+        {
+          "work": "gleanings",
+          "para": 630,
+          "snippet": "treasured"
+        },
+        {
+          "work": "gleanings",
+          "para": 677,
+          "snippet": "My treasure"
+        }
+      ]
+    }
+  ],
+  "section_index": "XXXVIII.11",
+  "section": "XXXVIII",
+  "section_para": 11
 }

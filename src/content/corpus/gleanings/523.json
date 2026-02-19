@@ -1,10 +1,408 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 523,
   "source_text": "يريد، يا معشر الملوك إنّا نراكم في كلّ سنة تزدادون مصارفكم وتحمّلونها على الرّعيّة إن هذا إلاّ ظلم عظيم، اتّقوا زفرات المظلوم وعبراته ولا تحمّلوا على الرّعيّة فوق طاقتهم ولا تخربوهم لتعمير قصوركم، أن اختاروا لهم ما تختارونه لأنفسكم كذلك نبيّن لكم ما ينفعكم إن أنتم من المتفرّسين، إنّهم خزائنكم إيّاكم أن تحكموا عليهم ما لا حكم به الله وإيّاكم أن تسلّموها بأيدي السّارقين، بهم تحكمون وتأكلون وتغلبون وعليهم تستكبرون إن هذا إلاّ أمر عجيب، لمّا نبذتم الصّلح الأكبر عن ورائكم تمسّكوا بهذا الصّلح الأصغر لعلّ به تصلح",
   "translation": "O kings of the earth! We see you increasing every year your expenditures, and laying the burden thereof on your subjects. This, verily, is wholly and grossly unjust. Fear the sighs and tears of this wronged One, and lay not excessive burdens on your peoples. Do not rob them to rear palaces for yourselves; nay rather choose for them that which ye choose for yourselves. Thus We unfold to your eyes that which profiteth you, if ye but perceive. Your people are your treasures. Beware lest your rule violate the commandments of God, and ye deliver your wards to the hands of the robber. By them ye rule, by their means ye subsist, by their aid ye conquer. Yet, how disdainfully ye look upon them! How strange, how very strange!",
   "source_lang": "ar",
-  "score": 9.5
+  "score": 9.5,
+  "page_slug": "people-are-treasures",
+  "alignment": [
+    {
+      "ar": "يا معشر",
+      "en": "O"
+    },
+    {
+      "ar": "الملوك",
+      "en": "kings"
+    },
+    {
+      "ar": "نراكم",
+      "en": "We see you"
+    },
+    {
+      "ar": "كلّ",
+      "en": "every"
+    },
+    {
+      "ar": "سنة",
+      "en": "year"
+    },
+    {
+      "ar": "تزدادون",
+      "en": "increasing"
+    },
+    {
+      "ar": "مصارفكم",
+      "en": "your expenditures"
+    },
+    {
+      "ar": "تحمّلونها",
+      "en": "laying the burden"
+    },
+    {
+      "ar": "الرّعيّة",
+      "en": "your subjects"
+    },
+    {
+      "ar": "ظلم",
+      "en": "unjust"
+    },
+    {
+      "ar": "عظيم",
+      "en": "grossly"
+    },
+    {
+      "ar": "اتّقوا",
+      "en": "Fear"
+    },
+    {
+      "ar": "زفرات",
+      "en": "sighs"
+    },
+    {
+      "ar": "المظلوم",
+      "en": "this wronged One"
+    },
+    {
+      "ar": "عبراته",
+      "en": "tears"
+    },
+    {
+      "ar": "تحمّلوا",
+      "en": "lay not excessive burdens"
+    },
+    {
+      "ar": "فوق",
+      "en": "excessive"
+    },
+    {
+      "ar": "طاقتهم",
+      "en": "burdens"
+    },
+    {
+      "ar": "تخربوهم",
+      "en": "rob them"
+    },
+    {
+      "ar": "لتعمير",
+      "en": "to rear"
+    },
+    {
+      "ar": "قصوركم",
+      "en": "palaces"
+    },
+    {
+      "ar": "اختاروا",
+      "en": "choose"
+    },
+    {
+      "ar": "لهم",
+      "en": "for them"
+    },
+    {
+      "ar": "تختارونه",
+      "en": "ye choose"
+    },
+    {
+      "ar": "لأنفسكم",
+      "en": "for yourselves"
+    },
+    {
+      "ar": "نبيّن",
+      "en": "We unfold"
+    },
+    {
+      "ar": "ينفعكم",
+      "en": "profiteth you"
+    },
+    {
+      "ar": "المتفرّسين",
+      "en": "perceive"
+    },
+    {
+      "ar": "خزائنكم",
+      "en": "your treasures"
+    },
+    {
+      "ar": "تحكموا",
+      "en": "your rule violate"
+    },
+    {
+      "ar": "حكم به الله",
+      "en": "the commandments of God"
+    },
+    {
+      "ar": "تسلّموها",
+      "en": "ye deliver your wards"
+    },
+    {
+      "ar": "بأيدي",
+      "en": "to the hands"
+    },
+    {
+      "ar": "السّارقين",
+      "en": "the robber"
+    },
+    {
+      "ar": "تحكمون",
+      "en": "ye rule"
+    },
+    {
+      "ar": "تأكلون",
+      "en": "ye subsist"
+    },
+    {
+      "ar": "تغلبون",
+      "en": "ye conquer"
+    },
+    {
+      "ar": "تستكبرون",
+      "en": "disdainfully ye look upon them"
+    },
+    {
+      "ar": "أمر",
+      "en": "strange"
+    },
+    {
+      "ar": "عجيب",
+      "en": "very strange"
+    },
+    {
+      "ar": "نبذتم",
+      "en": ""
+    },
+    {
+      "ar": "الصّلح الأكبر",
+      "en": ""
+    },
+    {
+      "ar": "تمسّكوا",
+      "en": ""
+    },
+    {
+      "ar": "الصّلح الأصغر",
+      "en": ""
+    },
+    {
+      "ar": "تصلح",
+      "en": ""
+    }
+  ],
+  "terms": [
+    {
+      "term": "ظلم",
+      "transliteration": "z-l-m",
+      "literal": "wrongedness, oppression, meekness; state of being wronged or oppressed",
+      "se_rendering": "unjust",
+      "note": "Typically 'wrongedness' or 'wronged' (128 occ); rendered 'unjust' here, making the abstract noun describe the action rather than the state.",
+      "cross_refs": [
+        {
+          "work": "fire-tablet",
+          "para": 49,
+          "snippet": "meekness"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 116,
+          "snippet": "injury"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 36,
+          "snippet": "Wronged One"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 253,
+          "snippet": "wronged"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 9,
+          "snippet": "Darkness"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 33,
+          "snippet": "tyranny"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 573,
+          "snippet": "oppressed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 181,
+          "snippet": "wronged ones"
+        }
+      ]
+    },
+    {
+      "term": "زفرات",
+      "transliteration": "z-f-r",
+      "literal": "sigh; sob; lamentation",
+      "se_rendering": "sighs",
+      "note": "Root meaning 'sighs' consistently across 14 occurrences; SE pairs 'sighs and tears' for emotional parallelism, standard rendering.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 3,
+          "snippet": "sighs"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 187,
+          "snippet": "cries"
+        }
+      ]
+    },
+    {
+      "term": "خزائنكم",
+      "transliteration": "kh-z-n",
+      "literal": "to store, to treasure; storehouse, depository, treasury",
+      "se_rendering": "treasures",
+      "note": "Consistently 'treasuries' or 'treasures' across 19 occurrences; SE chooses 'treasures' for personhood metaphor impact.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 199,
+          "snippet": "depositories"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 58,
+          "snippet": "treasuries"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 1,
+          "snippet": "treasury"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 204,
+          "snippet": "custodians of the treasures"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 131,
+          "snippet": "hidden Treasure"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 742,
+          "snippet": "hidden in the treasuries"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 756,
+          "snippet": "treasured"
+        }
+      ]
+    },
+    {
+      "term": "ورائكم",
+      "transliteration": "r-ʾ-y",
+      "literal": "to see; to perceive; to look",
+      "se_rendering": "behind your backs",
+      "note": "Typically 'from' or 'by' (31 occ); 'behind your backs' here is spatial-moral image, rare directional choice emphasizing rejection.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 157,
+          "snippet": "scornfully"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 23,
+          "snippet": "from"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 233,
+          "snippet": "by"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 33,
+          "snippet": "seest them"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 491,
+          "snippet": "behold them"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 168,
+          "snippet": "seest him"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 70,
+          "snippet": "we have seen"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 198,
+          "snippet": "we beheld"
+        }
+      ]
+    },
+    {
+      "term": "تمسّكوا",
+      "transliteration": "m-s-k",
+      "literal": "musk; to seize; grip",
+      "se_rendering": "hold fast unto",
+      "note": "Usually 'holding fast unto' or 'clinging' (23 occ); 'hold fast unto' matches idiomatic frequency; emphatic imperative mood preserved.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 188,
+          "snippet": "musk"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 5,
+          "snippet": "holding fast unto"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 64,
+          "snippet": "holding fast"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 9,
+          "snippet": "clung"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 161,
+          "snippet": "cleave unto"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 37,
+          "snippet": "cling unto"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 25,
+          "snippet": "clung to"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 518,
+          "snippet": "cleaving fast"
+        }
+      ]
+    }
+  ],
+  "section_index": "CXIX.2",
+  "section": "CXIX",
+  "section_para": 2
 }

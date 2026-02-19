@@ -1,10 +1,358 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 474,
   "source_text": "وأيقن بأنّ الّذي لن تجد عنده الدّيانة لم تكن عنده الأمانة والصّدق وإنّ هذا لحقّ يقين، ومن خان الله يخان السّلطان ولن يحترز عن شيء ولن يتّقي في أمور النّاس وما كان من المتّقين،",
   "translation": "Know thou for a certainty that whoso disbelieveth in God is neither trustworthy nor truthful. This, indeed, is the truth, the undoubted truth. He that acteth treacherously towards God will, also, act treacherously towards his king. Nothing whatever can deter such a man from evil, nothing can hinder him from betraying his neighbor, nothing can induce him to walk uprightly.",
   "source_lang": "ar",
-  "score": 9.9
+  "score": 9.9,
+  "page_slug": "trustworthy-truthful-disbelieveth-god",
+  "alignment": [
+    {
+      "ar": "أيقن",
+      "en": "Know thou for a certainty"
+    },
+    {
+      "ar": "الّذي",
+      "en": "whoso"
+    },
+    {
+      "ar": "لن تجد",
+      "en": "disbelieveth"
+    },
+    {
+      "ar": "عنده",
+      "en": "in"
+    },
+    {
+      "ar": "الدّيانة",
+      "en": "God"
+    },
+    {
+      "ar": "لم تكن",
+      "en": "is neither"
+    },
+    {
+      "ar": "عنده",
+      "en": "trustworthy"
+    },
+    {
+      "ar": "الصّدق",
+      "en": "truthful"
+    },
+    {
+      "ar": "هذا",
+      "en": "This"
+    },
+    {
+      "ar": "لحقّ",
+      "en": "the truth"
+    },
+    {
+      "ar": "يقين",
+      "en": "the undoubted truth"
+    },
+    {
+      "ar": "من خان",
+      "en": "He that acteth treacherously"
+    },
+    {
+      "ar": "يخان",
+      "en": "act treacherously"
+    },
+    {
+      "ar": "السّلطان",
+      "en": "his king"
+    },
+    {
+      "ar": "لن يحترز",
+      "en": "Nothing whatever can deter"
+    },
+    {
+      "ar": "عن شيء",
+      "en": "from evil"
+    },
+    {
+      "ar": "لن يتّقي",
+      "en": "nothing can hinder him from betraying"
+    },
+    {
+      "ar": "أمور",
+      "en": "his neighbor"
+    },
+    {
+      "ar": "المتّقين",
+      "en": "walk uprightly"
+    }
+  ],
+  "terms": [
+    {
+      "term": "الدّيانة",
+      "transliteration": "d-y-n",
+      "literal": "religion; faith; creed",
+      "se_rendering": "disbelieveth in God",
+      "note": "Typically 'Faith', 'Religion', 'His Cause' across 45 occurrences. Here rendered as participial 'disbelieveth in God'—SE expands the nominal into a verbal negation, capturing the active rejection implicit in lacking religion.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "His Cause"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 18,
+          "snippet": "Faith"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 26,
+          "snippet": "Thy Faith"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 221,
+          "snippet": "Revelation"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 5,
+          "snippet": "Faith of God"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 143,
+          "snippet": "and the like"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 52,
+          "snippet": "Dispensations"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 24,
+          "snippet": "religions"
+        }
+      ]
+    },
+    {
+      "term": "الأمانة",
+      "transliteration": "ʾ-m-n",
+      "literal": "to believe; to have faith; to be secure",
+      "se_rendering": "trustworthy",
+      "note": "Root ء-م-ن usually renders as 'faith', 'belief', 'believer' (32 occ). Here 'trustworthy' isolates the secondary sense of trustworthiness/fidelity, emphasizing moral reliability over doctrinal belief.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 431,
+          "snippet": "believed"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 2,
+          "snippet": "faith"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 198,
+          "snippet": "Trustworthiness"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 561,
+          "snippet": "hath believed"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 7,
+          "snippet": "have ye believed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 225,
+          "snippet": "believer"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 25,
+          "snippet": "believers"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 6,
+          "snippet": "trustees"
+        }
+      ]
+    },
+    {
+      "term": "والصّدق",
+      "transliteration": "s-d-q",
+      "literal": "to confirm; to verify; to acknowledge; to testify to truth",
+      "se_rendering": "truthful",
+      "note": "Typically 'truth', 'truthful', 'men of truth' (25 occ). SE's 'truthful' here parallels and reinforces 'trustworthy' in the preceding clause, creating a paired moral virtue.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 225,
+          "snippet": "acknowledge"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 226,
+          "snippet": "men of truth"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 253,
+          "snippet": "truthful"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 134,
+          "snippet": "the truthful"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 28,
+          "snippet": "truthfulness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 143,
+          "snippet": "fidelity"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 10,
+          "snippet": "truth"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 268,
+          "snippet": "spoken the truth"
+        }
+      ]
+    },
+    {
+      "term": "السّلطان",
+      "transliteration": "s-l-ṭ",
+      "literal": "dominion; authority; power; sovereignty; control",
+      "se_rendering": "his king",
+      "note": "Usually 'sovereignty', 'dominion', 'Thy sovereignty' (43 occ). 'His king' here; SE shifts from abstract authority to concrete ruler, making the analogy between divine and earthly loyalty tangible.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 118,
+          "snippet": "sovereignty"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 151,
+          "snippet": "dominion"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 1,
+          "snippet": "Thy sovereignty"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 184,
+          "snippet": "by Thy sovereignty"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 416,
+          "snippet": "Lord"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 13,
+          "snippet": "O King"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 242,
+          "snippet": "king"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 157,
+          "snippet": "the Sháh"
+        }
+      ]
+    },
+    {
+      "term": "شيء",
+      "transliteration": "sh-y-ʾ",
+      "literal": "thing; something",
+      "se_rendering": "Nothing whatever",
+      "note": "Typically 'thing', 'something', 'nothingness', 'all things' (41 occ). 'Nothing whatever' here—emphatic double negative in SE's rendering amplifies the absolute futility of moral restraint.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 37,
+          "snippet": "something"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 15,
+          "snippet": "earthly things"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 35,
+          "snippet": "all things"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 233,
+          "snippet": "thing"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 111,
+          "snippet": "He willeth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 641,
+          "snippet": "Thou willest"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 35,
+          "snippet": "pleaseth Thee"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 203,
+          "snippet": "God willing"
+        }
+      ]
+    },
+    {
+      "term": "المتّقين",
+      "transliteration": "p-r-h-y-z",
+      "literal": "abstinence; piety; temperance; God-fearing",
+      "se_rendering": "walk uprightly",
+      "note": "Usually 'God-fearing', 'intemperate' (2 occ). 'Walk uprightly' here—SE translates the abstract piety-concept into behavioral rectitude, aligning with the passage's emphasis on moral conduct.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 665,
+          "snippet": "intemperate"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 224,
+          "snippet": "God-fearing"
+        }
+      ]
+    }
+  ],
+  "section_index": "CXIV.3",
+  "section": "CXIV",
+  "section_para": 3
 }

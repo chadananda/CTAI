@@ -1,10 +1,585 @@
 {
   "work": "Will and Testament",
   "slug": "will-and-testament",
-  "author": "'Abdu'l-Baha",
+  "author": "‘Abdu’l-Bahá",
   "pair_index": 4,
   "source_text": "از جملهٔ از بلایای جمال قدم ظلم و عدوان و ستم و طغیان میرزا یحیی بود که آن مظلوم مسجون با وجود آنکه او را از صغر سنّ در آغوش عنایت پرورش داد و در هر دمی انواع نوازش مبذول فرمود و ذکرش را بلند کرد و از هر آفات محافظه نمود و عزیز دو جهان فرمود و با وجود وصایا و نصائح شدیدۀ حضرت اعلی و تصریح بنصّ قاطع ایّاک ایّاک ان تحتجب بالواحد الأوّل و ما نزّل فی البیان و واحد اوّل نفس مبارک حضرت اعلی و هجده حروف حیّ هستند باز میرزا یحیی انکار نمود و تکذیب کرد و القای شبهات نمود و از آیات بیّنات چشم پوشید و اغماض کرد ای کاش باین اکتفا مینمود بلکه دم اطهر را هدر کرد و فریاد واویلا بلند نمود و نسبت ظلم و ستم داد در ارض سرّ چه فساد و فتنه‌ئی برپا کرد تا آنکه سبب شد که نیّر اشراق باین سجن اعظم سرگون شد و در مغرب این زندان مظلوماً افول فرمود",
   "translation": "And still another of His trials was the hostility, the flagrant injustice, the iniquity and rebellion of Mírzá Yaḥyá. Although that Wronged One, that Prisoner, had through His loving-kindness nurtured him in His own bosom ever since his early years, had showered at every moment His tender care upon him, exalted his name, shielded him from every misfortune, endeared him to them of this world and the next, and despite the firm exhortations and counsels of His Holiness the Exalted One (the Báb) and His clear and conclusive warning: “Beware, beware, lest the Nineteen Letters of the Living and that which hath been revealed in the Bayán veil thee!”—yet notwithstanding this, Mírzá Yaḥyá denied Him, dealt falsely with Him, believed Him not, sowed the seeds of doubt, closed his eyes to His manifest verses and turned aside therefrom. Would that he had been content therewith! Nay, he even attempted to shed the sacred blood (of Bahá’u’lláh) and then raised a great clamour and tumult around him, attributing unto Bahá’u’lláh malevolence and cruelty towards himself. What sedition he stirred up and what a storm of mischief he raised whilst in the Land of Mystery (Adrianople)! At last, he wrought that which caused the Day-Star of the world to be sent an exile to this, the Most Great Prison, and sorely wronged, and in the West of this Great Prison He did set.",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "daystar-exile-greatest-prison",
+  "alignment": [
+    {
+      "ar": "بلایای",
+      "en": "trials"
+    },
+    {
+      "ar": "جمال قدم",
+      "en": "His"
+    },
+    {
+      "ar": "ظلم",
+      "en": "injustice"
+    },
+    {
+      "ar": "عدوان",
+      "en": "hostility"
+    },
+    {
+      "ar": "ستم",
+      "en": "iniquity"
+    },
+    {
+      "ar": "طغیان",
+      "en": "rebellion"
+    },
+    {
+      "ar": "میرزا یحیی",
+      "en": "Mírzá Yaḥyá"
+    },
+    {
+      "ar": "مظلوم",
+      "en": "Wronged One"
+    },
+    {
+      "ar": "مسجون",
+      "en": "Prisoner"
+    },
+    {
+      "ar": "صغر سنّ",
+      "en": "early years"
+    },
+    {
+      "ar": "آغوش",
+      "en": "bosom"
+    },
+    {
+      "ar": "عنایت",
+      "en": "loving-kindness"
+    },
+    {
+      "ar": "پرورش",
+      "en": "nurtured"
+    },
+    {
+      "ar": "دمی",
+      "en": "moment"
+    },
+    {
+      "ar": "انواع",
+      "en": "tender"
+    },
+    {
+      "ar": "نوازش",
+      "en": "care"
+    },
+    {
+      "ar": "مبذول فرمود",
+      "en": "showered"
+    },
+    {
+      "ar": "ذکرش",
+      "en": "his name"
+    },
+    {
+      "ar": "بلند کرد",
+      "en": "exalted"
+    },
+    {
+      "ar": "آفات",
+      "en": "misfortune"
+    },
+    {
+      "ar": "محافظه نمود",
+      "en": "shielded"
+    },
+    {
+      "ar": "عزیز دو جهان",
+      "en": "endeared him to them of this world and the next"
+    },
+    {
+      "ar": "وصایا",
+      "en": "exhortations"
+    },
+    {
+      "ar": "نصائح",
+      "en": "counsels"
+    },
+    {
+      "ar": "شدیدۀ",
+      "en": "firm"
+    },
+    {
+      "ar": "حضرت اعلی",
+      "en": "His Holiness the Exalted One"
+    },
+    {
+      "ar": "تصریح",
+      "en": "warning"
+    },
+    {
+      "ar": "نصّ قاطع",
+      "en": "clear and conclusive"
+    },
+    {
+      "ar": "ایّاک ایّاک",
+      "en": "Beware, beware"
+    },
+    {
+      "ar": "ان تحتجب",
+      "en": "veil thee"
+    },
+    {
+      "ar": "بالواحد الأوّل",
+      "en": "the Nineteen Letters of the Living"
+    },
+    {
+      "ar": "ما نزّل",
+      "en": "that which hath been revealed"
+    },
+    {
+      "ar": "فی البیان",
+      "en": "in the Bayán"
+    },
+    {
+      "ar": "انکار نمود",
+      "en": "denied"
+    },
+    {
+      "ar": "تکذیب کرد",
+      "en": "dealt falsely with Him"
+    },
+    {
+      "ar": "القای شبهات",
+      "en": "sowed the seeds of doubt"
+    },
+    {
+      "ar": "آیات بیّنات",
+      "en": "manifest verses"
+    },
+    {
+      "ar": "چشم پوشید",
+      "en": "closed his eyes"
+    },
+    {
+      "ar": "اغماض کرد",
+      "en": "turned aside"
+    },
+    {
+      "ar": "اکتفا",
+      "en": "content"
+    },
+    {
+      "ar": "دم اطهر",
+      "en": "sacred blood"
+    },
+    {
+      "ar": "هدر کرد",
+      "en": "shed"
+    },
+    {
+      "ar": "فریاد",
+      "en": "clamour"
+    },
+    {
+      "ar": "واویلا",
+      "en": "tumult"
+    },
+    {
+      "ar": "نسبت",
+      "en": "attributing"
+    },
+    {
+      "ar": "ارض سرّ",
+      "en": "Land of Mystery"
+    },
+    {
+      "ar": "فساد",
+      "en": "mischief"
+    },
+    {
+      "ar": "فتنه",
+      "en": "sedition"
+    },
+    {
+      "ar": "برپا کرد",
+      "en": "stirred up"
+    },
+    {
+      "ar": "نیّر اشراق",
+      "en": "Day-Star"
+    },
+    {
+      "ar": "سجن اعظم",
+      "en": "Most Great Prison"
+    },
+    {
+      "ar": "سرگون",
+      "en": "exile"
+    },
+    {
+      "ar": "مغرب",
+      "en": "West"
+    },
+    {
+      "ar": "زندان",
+      "en": "Great Prison"
+    },
+    {
+      "ar": "مظلوماً",
+      "en": "wronged"
+    },
+    {
+      "ar": "افول فرمود",
+      "en": "set"
+    }
+  ],
+  "terms": [
+    {
+      "term": "ظلم",
+      "transliteration": "z-l-m",
+      "literal": "wrongedness, oppression, meekness; state of being wronged or oppressed",
+      "se_rendering": "Wronged One, Prisoner, wronged",
+      "note": "Typically 'wrongedness' or 'oppression' across 128 occurrences. Here rendered as 'Wronged One' and 'Prisoner' (substantive forms), concentrating the root's passive dimension on Bahá'u'lláh's victimhood rather than abstract states.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 498,
+          "snippet": "afflicted with countless tribulations"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 49,
+          "snippet": "meekness"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 116,
+          "snippet": "injury"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 36,
+          "snippet": "Wronged One"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 253,
+          "snippet": "wronged"
+        },
+        {
+          "work": "gleanings",
+          "para": 221,
+          "snippet": "oppression"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 9,
+          "snippet": "Darkness"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 33,
+          "snippet": "tyranny"
+        }
+      ]
+    },
+    {
+      "term": "عدوان",
+      "transliteration": "ʿ-d-w",
+      "literal": "hostility, aggression, enmity, transgression",
+      "se_rendering": "hostility, injustice, rebellion",
+      "note": "Consistently 'hostility' or 'enmity' across 34 occurrences. This passage employs 'hostility, flagrant injustice, iniquity and rebellion' — expanding single-word renderings into descriptive phrases, amplifying gravity.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 309,
+          "snippet": "Thine enemies"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 110,
+          "snippet": "his enemy"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 33,
+          "snippet": "Thy foes"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 188,
+          "snippet": "His enemies"
+        },
+        {
+          "work": "gleanings",
+          "para": 184,
+          "snippet": "Mine enemies"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 5,
+          "snippet": "enmity"
+        },
+        {
+          "work": "gleanings",
+          "para": 178,
+          "snippet": "pass"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 248,
+          "snippet": "renounce"
+        }
+      ]
+    },
+    {
+      "term": "اعلی",
+      "transliteration": "ʿ-l-w",
+      "literal": "highest; most high; supreme",
+      "se_rendering": "Exalted One",
+      "note": "Standardly 'the Most High' or 'the Most Exalted' across 74 occurrences. Here 'the Exalted One' personalizes the reference to the Báb, a concentrated choice typical of SE's contextual specificity.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 1,
+          "snippet": "the Most High"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 148,
+          "snippet": "the Most Sublime Pen"
+        },
+        {
+          "work": "gleanings",
+          "para": 232,
+          "snippet": "supreme"
+        },
+        {
+          "work": "gleanings",
+          "para": 616,
+          "snippet": "the realms above"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 390,
+          "snippet": "the Most Exalted, the Most High"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 68,
+          "snippet": "the Pen of Glory"
+        },
+        {
+          "work": "gleanings",
+          "para": 393,
+          "snippet": "The Pen of the Most High"
+        },
+        {
+          "work": "gleanings",
+          "para": 697,
+          "snippet": "the Dayspring of Glory"
+        }
+      ]
+    },
+    {
+      "term": "البیان",
+      "transliteration": "b-y-n",
+      "literal": "to manifest; to make clear; clear, evident",
+      "se_rendering": "Bayán",
+      "note": "Consistently transliterated as 'the Bayán' across 87 occurrences. SE preserves the Arabic term untranslated, reflecting its status as proper name of the Báb's scriptural work — never glossed into 'manifestation' or 'clarity'.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 223,
+          "snippet": "the Expounder, the Most Manifest"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 231,
+          "snippet": "clear verses"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 3,
+          "snippet": "proofs"
+        },
+        {
+          "work": "gleanings",
+          "para": 563,
+          "snippet": "Dawning-Place of the proofs"
+        },
+        {
+          "work": "gleanings",
+          "para": 292,
+          "snippet": "the Bayán"
+        },
+        {
+          "work": "gleanings",
+          "para": 636,
+          "snippet": "utterance"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 101,
+          "snippet": "Bayán"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 84,
+          "snippet": "palpable smoke"
+        }
+      ]
+    },
+    {
+      "term": "فساد",
+      "transliteration": "f-s-d",
+      "literal": "corruption; ruin; discord; mischief; decay",
+      "se_rendering": "mischief, sedition",
+      "note": "Typically 'discord,' 'mischief,' or 'corruption' across 31 occurrences. 'Sedition' and 'mischief' here reflect Mírzá Yaḥyá's active sowing of strife — the root's destructive potential foregrounded through political-theological terminology.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 108,
+          "snippet": "charge of fomenting discord"
+        },
+        {
+          "work": "gleanings",
+          "para": 416,
+          "snippet": "discord"
+        },
+        {
+          "work": "gleanings",
+          "para": 179,
+          "snippet": "mischief"
+        },
+        {
+          "work": "gleanings",
+          "para": 644,
+          "snippet": "the sowers of mischief"
+        },
+        {
+          "work": "gleanings",
+          "para": 577,
+          "snippet": "of the mischief-makers"
+        },
+        {
+          "work": "gleanings",
+          "para": 454,
+          "snippet": "disorderly ones"
+        },
+        {
+          "work": "gleanings",
+          "para": 468,
+          "snippet": "of those that wrought disorders"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 155,
+          "snippet": "corruption"
+        }
+      ]
+    },
+    {
+      "term": "اشراق",
+      "transliteration": "sh-r-q",
+      "literal": "radiance; splendor; dawn; illumination",
+      "se_rendering": "Day-Star",
+      "note": "Typically 'radiance,' 'dawning,' or 'revelation' across 63 occurrences. 'Day-Star' here is metaphoric and singular, intensifying luminous imagery beyond abstract 'radiance' — a poetic elevation unique to this exile passage.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 47,
+          "snippet": "Ishraq"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 28,
+          "snippet": "radiance"
+        },
+        {
+          "work": "gleanings",
+          "para": 382,
+          "snippet": "revelation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 83,
+          "snippet": "Daystar"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 41,
+          "snippet": "dawning"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 116,
+          "snippet": "shone"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 2,
+          "snippet": "shining"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 14,
+          "snippet": "Dawning Place"
+        }
+      ]
+    },
+    {
+      "term": "اعظم",
+      "transliteration": "ʿ-z̟-m",
+      "literal": "greatest; supreme; mightiest",
+      "se_rendering": "Most Great",
+      "note": "Regularly 'Most Great' or 'supreme' across 63 occurrences. Consistent 'Most Great Prison' throughout this passage maintains parallel magnification — pairing the exiled Prisoner with his place of confinement through shared superlative.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 56,
+          "snippet": "supreme"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 269,
+          "snippet": "Most Great"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 734,
+          "snippet": "Most Great Name"
+        },
+        {
+          "work": "gleanings",
+          "para": 10,
+          "snippet": "most mighty"
+        },
+        {
+          "work": "gleanings",
+          "para": 392,
+          "snippet": "great"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 9,
+          "snippet": "mighty"
+        },
+        {
+          "work": "gleanings",
+          "para": 169,
+          "snippet": "vast"
+        },
+        {
+          "work": "gleanings",
+          "para": 375,
+          "snippet": "Most High"
+        }
+      ]
+    }
+  ],
+  "section_index": "1.4",
+  "section": "1",
+  "section_para": 4
 }

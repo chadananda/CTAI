@@ -1,10 +1,368 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 703,
   "source_text": "وَعِزَّتِكَ لا أُرِيْدُ مِنَ النَّوْمِ وَلا مِنَ اليَقْظَةِ إِلاَّ ما أَنْتَ تُرِيْدُ، أَنَا عَبْدُكَ وَفِي قَبْضَتِكَ أَيِّدْنِيْ عَلَى ما يَتَضَوَّعُ بِهِ عَرْفُ رِضائِكَ، هذا أَمَلِي وَأَمَلُ المُقَرَّبِيْنَ الحَمْدُ لَكَ يا إِلهَ العالَمِيْنَ.",
   "translation": "By Thy might! I ask not, whether sleeping or waking, but that which Thou dost desire. I am Thy servant and in Thy hands. Do Thou graciously aid me to do what will shed forth the fragrance of Thy good pleasure. This, truly, is my hope and the hope of them that enjoy near access to Thee. Praised be Thou, O Lord of the worlds!",
   "source_lang": "ar",
-  "score": 9.8
+  "score": 9.8,
+  "page_slug": "fragrance-good-pleasure",
+  "alignment": [
+    {
+      "ar": "أُرِيْدُ",
+      "en": "ask"
+    },
+    {
+      "ar": "اليَقْظَةِ",
+      "en": "waking"
+    },
+    {
+      "ar": "تُرِيْدُ",
+      "en": "dost desire"
+    },
+    {
+      "ar": "عَبْدُكَ",
+      "en": "Thy servant"
+    },
+    {
+      "ar": "قَبْضَتِكَ",
+      "en": "Thy hands"
+    },
+    {
+      "ar": "عَرْفُ",
+      "en": "fragrance"
+    },
+    {
+      "ar": "رِضائِكَ",
+      "en": "Thy good pleasure"
+    },
+    {
+      "ar": "أَمَلِي",
+      "en": "my hope"
+    },
+    {
+      "ar": "أَمَلُ",
+      "en": "hope"
+    },
+    {
+      "ar": "الحَمْدُ",
+      "en": "Praised"
+    },
+    {
+      "ar": "إِلهَ",
+      "en": "Lord"
+    },
+    {
+      "ar": "العالَمِيْنَ",
+      "en": "the worlds"
+    }
+  ],
+  "terms": [
+    {
+      "term": "وَعِزَّتِكَ",
+      "transliteration": "ʿ-z-z",
+      "literal": "glory; might; honor; dignity; power; majesty",
+      "se_rendering": "By Thy might",
+      "note": "Typically 'glory,' 'honor,' or 'majesty' across 49 occurrences. 'Might' here is relatively rare, matching the oath-formula context but less common than SE's default 'glory' rendering.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 185,
+          "snippet": "glory"
+        },
+        {
+          "work": "gleanings",
+          "para": 642,
+          "snippet": "honor"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 99,
+          "snippet": "Dear"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 38,
+          "snippet": "dearly beloved"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 37,
+          "snippet": "Gracious"
+        },
+        {
+          "work": "gleanings",
+          "para": 260,
+          "snippet": "All-Glorious"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 162,
+          "snippet": "Mighty"
+        },
+        {
+          "work": "gleanings",
+          "para": 660,
+          "snippet": "powerful"
+        }
+      ]
+    },
+    {
+      "term": "النَّوْمِ",
+      "transliteration": "n-w-m",
+      "literal": "to sleep; to slumber",
+      "se_rendering": "sleeping",
+      "note": "Root appears 17 times with highly disparate renderings including 'Most Great Law' and 'Qayyúmu'l-Asmá.' 'Sleep' here is the literal meaning, marking this as exceptional contextual fidelity.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 33,
+          "snippet": "sleepeth not"
+        },
+        {
+          "work": "gleanings",
+          "para": 191,
+          "snippet": "slumber"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 37,
+          "snippet": "sleep"
+        },
+        {
+          "work": "gleanings",
+          "para": 425,
+          "snippet": "Most Great Law"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 259,
+          "snippet": "Qayyúmu'l-Asmá"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 121,
+          "snippet": "name"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 24,
+          "snippet": "the people"
+        },
+        {
+          "work": "gleanings",
+          "para": 446,
+          "snippet": "among mankind"
+        }
+      ]
+    },
+    {
+      "term": "عَبْدُكَ",
+      "transliteration": "ʿ-b-d",
+      "literal": "servant; slave; worshipper",
+      "se_rendering": "Thy servant",
+      "note": "Standard rendering across 68 occurrences. 'Thy servant' is consistent with SE's regular pattern for this root in supplications and devotional contexts.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 686,
+          "snippet": "servants"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 27,
+          "snippet": "'Abdu'l‑Bahá"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 260,
+          "snippet": "'Abdu'l-'Azíz"
+        },
+        {
+          "work": "gleanings",
+          "para": 67,
+          "snippet": "servant"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 10,
+          "snippet": "this wronged servant of Thine"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 47,
+          "snippet": "this servant of Thine"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 50,
+          "snippet": "the servants"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 12,
+          "snippet": "Thy trusted servants"
+        }
+      ]
+    },
+    {
+      "term": "عَرْفُ",
+      "transliteration": "ʿ-r-f",
+      "literal": "to confess; to acknowledge; to recognize",
+      "se_rendering": "fragrance",
+      "note": "Root typically means 'to recognize' or 'acknowledge' (rendered 'testifieth,' 'acknowledged'), yet here SE renders the noun as 'fragrance'—a semantic reinterpretation creating poetic resonance rather than literal recognition.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 135,
+          "snippet": "hath acknowledged"
+        },
+        {
+          "work": "gleanings",
+          "para": 568,
+          "snippet": "acknowledged"
+        },
+        {
+          "work": "gleanings",
+          "para": 295,
+          "snippet": "made objections"
+        },
+        {
+          "work": "gleanings",
+          "para": 87,
+          "snippet": "knowledge"
+        },
+        {
+          "work": "gleanings",
+          "para": 2,
+          "snippet": "perception"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 5,
+          "snippet": "acknowledging"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 4,
+          "snippet": "fragrance of His garment"
+        },
+        {
+          "work": "gleanings",
+          "para": 214,
+          "snippet": "acknowledge"
+        }
+      ]
+    },
+    {
+      "term": "رِضائِكَ",
+      "transliteration": "r-d-y",
+      "literal": "good-pleasure, consent, satisfaction",
+      "se_rendering": "Thy good pleasure",
+      "note": "Consistently rendered 'Thy good-pleasure' or 'Thy pleasure' across 30 occurrences. This passage exemplifies SE's standard usage of the pleasure/satisfaction semantic field.",
+      "cross_refs": [
+        {
+          "work": "the-hidden-words",
+          "para": 46,
+          "snippet": "content"
+        },
+        {
+          "work": "gleanings",
+          "para": 165,
+          "snippet": "consent"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 28,
+          "snippet": "is pleased with"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 41,
+          "snippet": "pleasure"
+        },
+        {
+          "work": "gleanings",
+          "para": 564,
+          "snippet": "goodly deeds"
+        },
+        {
+          "work": "gleanings",
+          "para": 598,
+          "snippet": "praiseworthy"
+        },
+        {
+          "work": "gleanings",
+          "para": 625,
+          "snippet": "approved"
+        },
+        {
+          "work": "gleanings",
+          "para": 58,
+          "snippet": "Ridván"
+        }
+      ]
+    },
+    {
+      "term": "أَمَلِي",
+      "transliteration": "ʾ-m-l",
+      "literal": "hope; expectation; wish",
+      "se_rendering": "my hope",
+      "note": "Root ʾ-m-l appears only 5 times in corpus with 'hope' as dominant. Here 'my hope' follows SE's established pattern, maintaining the aspiration vocabulary throughout.",
+      "cross_refs": []
+    },
+    {
+      "term": "المُقَرَّبِيْنَ",
+      "transliteration": "q-r-b",
+      "literal": "place of sacrifice; altar",
+      "se_rendering": "them that enjoy near access to Thee",
+      "note": "Root means 'place of sacrifice' or 'altar,' but SE renders as 'them that enjoy near access to Thee'—a theological interpretation privileging intimacy with God over cultic imagery, consistent with his mystical emphasis.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 3,
+          "snippet": "unto the place of sacrifice"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 35,
+          "snippet": "my kindred"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 159,
+          "snippet": "their kindred"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 163,
+          "snippet": "at hand"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 9,
+          "snippet": "well-nigh"
+        },
+        {
+          "work": "gleanings",
+          "para": 191,
+          "snippet": "near"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 199,
+          "snippet": "draw them nigh unto God"
+        },
+        {
+          "work": "gleanings",
+          "para": 266,
+          "snippet": "draw them nearer unto Thee"
+        }
+      ]
+    }
+  ],
+  "section_index": "CLXXII.3",
+  "section": "CLXXII",
+  "section_para": 3
 }

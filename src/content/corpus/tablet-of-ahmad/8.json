@@ -1,10 +1,226 @@
 {
   "work": "Tablet of Ahmad",
   "slug": "tablet-of-ahmad",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 8,
   "source_text": "لَا فَوَ ٱلَّذِي نَفْسِي بِيَدِهِ لَنْ يَقْدِرُوْا وَلَنْ يَسْتَطِيعُوْا وَلَوْ  يَكُوْنُ بَعْضُهُمْ لِبَعْضٍ ظَهِيرًا",
   "translation": "Nay, by the One in Whose hand is my soul, they are not, and never shall be able to do this, even should they combine to assist one another.",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "not-able-combine-assist",
+  "alignment": [
+    {
+      "ar": "لَا",
+      "en": "Nay"
+    },
+    {
+      "ar": "فَوَ",
+      "en": "by"
+    },
+    {
+      "ar": "نَفْسِي",
+      "en": "my soul"
+    },
+    {
+      "ar": "بِيَدِهِ",
+      "en": "in Whose hand"
+    },
+    {
+      "ar": "لَنْ يَقْدِرُوْا",
+      "en": "are not"
+    },
+    {
+      "ar": "وَلَنْ يَسْتَطِيعُوْا",
+      "en": "never shall be able"
+    },
+    {
+      "ar": "يَكُوْنُ",
+      "en": "should they"
+    },
+    {
+      "ar": "بَعْضُهُمْ",
+      "en": "they"
+    },
+    {
+      "ar": "لِبَعْضٍ",
+      "en": "one another"
+    },
+    {
+      "ar": "ظَهِيرًا",
+      "en": "assist"
+    }
+  ],
+  "terms": [
+    {
+      "term": "نَفْسِي",
+      "transliteration": "n-f-s",
+      "literal": "soul; self; person; essence",
+      "se_rendering": "my soul",
+      "note": "Root n-f-s rare (2 occ.). SE renders as 'my soul'—the only occurrence anchoring the oath formula; corpus shows 'every one' and 'His life' as alternatives.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 544,
+          "snippet": "every one"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 189,
+          "snippet": "His life"
+        }
+      ]
+    },
+    {
+      "term": "بِيَدِهِ",
+      "transliteration": "y-d",
+      "literal": "hand; power; control",
+      "se_rendering": "in Whose hand",
+      "note": "Root y-d has zero recorded corpus renderings despite high frequency. SE renders as 'in Whose hand'—establishing divine control as the oath's theological foundation.",
+      "cross_refs": []
+    },
+    {
+      "term": "يَقْدِرُوْا",
+      "transliteration": "q-d-r",
+      "literal": "power; might; decree; measure; worth",
+      "se_rendering": "able",
+      "note": "Root q-d-r typically renders as 'power' or 'decreed' across 100 occurrences. Here SE uses 'able' to convey capacity—a functional rather than ontological emphasis.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 171,
+          "snippet": "a while"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 339,
+          "snippet": "Thy power"
+        },
+        {
+          "work": "gleanings",
+          "para": 138,
+          "snippet": "hath been decreed"
+        },
+        {
+          "work": "gleanings",
+          "para": 662,
+          "snippet": "hath decreed"
+        },
+        {
+          "work": "gleanings",
+          "para": 496,
+          "snippet": "forbearing towards"
+        },
+        {
+          "work": "gleanings",
+          "para": 111,
+          "snippet": "schools"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 12,
+          "snippet": "God of power"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 35,
+          "snippet": "Potent"
+        }
+      ]
+    },
+    {
+      "term": "وَلَوْ",
+      "transliteration": "w-l-w",
+      "literal": "were it not for; if not for; save for",
+      "se_rendering": "should",
+      "note": "Only 3 corpus occurrences. SE uses 'should' to express the conditional; standard pattern is 'Were it not for' or 'if not for'—distinctly different modal sense.",
+      "cross_refs": [
+        {
+          "work": "fire-tablet",
+          "para": 39,
+          "snippet": "Were it not for"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 284,
+          "snippet": "and were it not for"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 730,
+          "snippet": "Were I to"
+        }
+      ]
+    },
+    {
+      "term": "بَعْضُهُمْ",
+      "transliteration": "b-ʿ-d",
+      "literal": "part; some; portion",
+      "se_rendering": "combine",
+      "note": "Root b-ʿ-d rare (3 occ.). SE renders as 'combine' here, capturing collective action; standard renderings are 'certain' or 'one another'—most dynamic rendering in corpus.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 34,
+          "snippet": "alteration"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 230,
+          "snippet": "certain"
+        }
+      ]
+    },
+    {
+      "term": "ظَهِيرًا",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "assist",
+      "note": "Root z-h-r typically means 'Manifestation' or 'manifestation.' SE renders as 'assist' here—a radical semantic shift toward relational support rather than divine appearance.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 53,
+          "snippet": "Manifestation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 160,
+          "snippet": "Author of all Manifestations"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 136,
+          "snippet": "evident"
+        },
+        {
+          "work": "gleanings",
+          "para": 222,
+          "snippet": "material"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 206,
+          "snippet": "appeared"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 196,
+          "snippet": "Manifestations of God"
+        }
+      ]
+    }
+  ],
+  "section_index": "8",
+  "section": "8",
+  "section_para": 1
 }

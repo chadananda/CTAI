@@ -1,10 +1,511 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 76,
   "source_text": "بِالَّذِينَ كَسَّرُوا الأَصْنامَ فِيْ هذا الظُّهُورِ الَّذِيْ بِهِ ظَهَرَ الزِّلْزالُ الأَعْظَمُ وَالفَزَعُ الأَكْبَرُ بِأَنْ تُؤَيِّدَ عِبادَكَ فِيْ كُلِّ الأَحْيانِ بِآياتِ قُدْرَتِكَ وَظُهُوراتِ عِزِّ قَيُّومِيَّتِكَ، ثُمَّ اجْعَلْ قُلُوبَهُمْ زُبَرَ الحَدِيدِ لِئَلاَّ تُخَوِّفَهُمْ سَطْوَةُ الَّذِيْنَهُمْ ظَلَمُوا عَلَى مَظْهَرِ ذاتِكَ وَمَطْلَعِ غَيْبِكَ، وَلِيَقُومُنَّ كُلٌّ عَلَى ذِكْرِكَ وَنُصْرَتِكَ لِتُرْفَعَ بِهِمْ أَعْلامُ نُصْرَتِكَ فِيْ مَمْلَكَتِكَ وَرَاياتُ أَمْرِكَ فِيْ دِيارِكَ، وَإِنَّكَ أَنْتَ الَّذِيْ لَمْ تَزَلْ كُنْتَ قادِرًا بِمَشِيَّتِكَ وَلا تَزالُ تَكُونُ بِمِثْلِ ما قَدْ كُنْتَ فِيْ أَزَلِ الآزالِ، وَإِنَّكَ أَنْتَ العَزِيزُ المُتَعالِ لا إِلهَ إِلاَّ أَنْتَ المُقْتَدِرُ المُتَعالِ المُهَيْمِنُ المُتَكَبِّرُ الواحِدُ الفَرْدُ العَزِيزُ المُخْتارُ.",
   "translation": "I beseech Thee, by them that have cut down all the idols in this Revelation through which the Most Grievous Convulsion and the Great Terror have appeared, to assist, at all times, Thy servants with the signs of Thine almighty power and the evidences of Thy transcendent and all-compelling might. Grant, then, that their hearts may be made as strong as brass, that they may remain unmoved by the overpowering might of such as have transgressed against Him Who is the Manifestation of Thine Essence and the Dayspring of Thine invisible Self, and that they may all arise to glorify and help Thee, so that through them the ensigns of Thy triumph may be lifted up in Thy realm, and the standards of Thy Cause may be unfurled throughout Thy dominions. Thou art He who from everlasting hath, through the potency of His will, been all-powerful, and will continue to remain the same for ever and ever. Thou art, verily, the All-Glorious, the Most High. No God is there but Thee, the Most Powerful, the Most Exalted, the Help in Peril, the Most Great, the One Being, the Incomparable, the All-Glorious, the Unrestrained.",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "hearts-brass-unmoved-servants",
+  "alignment": [
+    {
+      "ar": "الأَصْنامَ",
+      "en": "the idols"
+    },
+    {
+      "ar": "فِيْ",
+      "en": "in"
+    },
+    {
+      "ar": "هذا",
+      "en": "this"
+    },
+    {
+      "ar": "بِهِ",
+      "en": "through which"
+    },
+    {
+      "ar": "ظَهَرَ",
+      "en": "appeared"
+    },
+    {
+      "ar": "الفَزَعُ الأَكْبَرُ",
+      "en": "the Great Terror"
+    },
+    {
+      "ar": "بِأَنْ",
+      "en": "to"
+    },
+    {
+      "ar": "عِبادَكَ",
+      "en": "Thy servants"
+    },
+    {
+      "ar": "فِيْ",
+      "en": "at"
+    },
+    {
+      "ar": "الأَحْيانِ",
+      "en": "times"
+    },
+    {
+      "ar": "بِآياتِ",
+      "en": "with the signs"
+    },
+    {
+      "ar": "قُدْرَتِكَ",
+      "en": "Thine almighty power"
+    },
+    {
+      "ar": "وَظُهُوراتِ",
+      "en": "the evidences"
+    },
+    {
+      "ar": "اجْعَلْ",
+      "en": "Grant"
+    },
+    {
+      "ar": "قُلُوبَهُمْ",
+      "en": "their hearts"
+    },
+    {
+      "ar": "زُبَرَ الحَدِيدِ",
+      "en": "as strong as brass"
+    },
+    {
+      "ar": "سَطْوَةُ",
+      "en": "the overpowering might"
+    },
+    {
+      "ar": "ظَلَمُوا",
+      "en": "have transgressed"
+    },
+    {
+      "ar": "عَلَى",
+      "en": "against"
+    },
+    {
+      "ar": "مَظْهَرِ",
+      "en": "the Manifestation"
+    },
+    {
+      "ar": "ذاتِكَ",
+      "en": "Thine Essence"
+    },
+    {
+      "ar": "مَطْلَعِ",
+      "en": "the Dayspring"
+    },
+    {
+      "ar": "غَيْبِكَ",
+      "en": "Thine invisible Self"
+    },
+    {
+      "ar": "ذِكْرِكَ",
+      "en": "glorify"
+    },
+    {
+      "ar": "نُصْرَتِكَ",
+      "en": "help Thee"
+    },
+    {
+      "ar": "لِتُرْفَعَ",
+      "en": "may be lifted up"
+    },
+    {
+      "ar": "بِهِمْ",
+      "en": "through them"
+    },
+    {
+      "ar": "أَعْلامُ",
+      "en": "the ensigns"
+    },
+    {
+      "ar": "نُصْرَتِكَ",
+      "en": "Thy triumph"
+    },
+    {
+      "ar": "مَمْلَكَتِكَ",
+      "en": "Thy realm"
+    },
+    {
+      "ar": "رَاياتُ",
+      "en": "the standards"
+    },
+    {
+      "ar": "أَمْرِكَ",
+      "en": "Thy Cause"
+    },
+    {
+      "ar": "دِيارِكَ",
+      "en": "Thy dominions"
+    },
+    {
+      "ar": "أَنْتَ",
+      "en": "He"
+    },
+    {
+      "ar": "لَمْ تَزَلْ",
+      "en": "from everlasting"
+    },
+    {
+      "ar": "كُنْتَ",
+      "en": "hath"
+    },
+    {
+      "ar": "قادِرًا",
+      "en": "all-powerful"
+    },
+    {
+      "ar": "لا تَزالُ",
+      "en": "will continue"
+    },
+    {
+      "ar": "تَكُونُ",
+      "en": "to remain"
+    },
+    {
+      "ar": "بِمِثْلِ ما",
+      "en": "the same"
+    },
+    {
+      "ar": "كُنْتَ",
+      "en": "been"
+    },
+    {
+      "ar": "فِيْ",
+      "en": "for"
+    },
+    {
+      "ar": "أَزَلِ الآزالِ",
+      "en": "ever and ever"
+    },
+    {
+      "ar": "العَزِيزُ",
+      "en": "the All-Glorious"
+    },
+    {
+      "ar": "المُتَعالِ",
+      "en": "the Most High"
+    },
+    {
+      "ar": "المُقْتَدِرُ",
+      "en": "the Most Powerful"
+    },
+    {
+      "ar": "المُتَعالِ",
+      "en": "the Most Exalted"
+    },
+    {
+      "ar": "المُهَيْمِنُ",
+      "en": "the Help in Peril"
+    },
+    {
+      "ar": "الواحِدُ",
+      "en": "the One Being"
+    },
+    {
+      "ar": "الفَرْدُ",
+      "en": "the Incomparable"
+    },
+    {
+      "ar": "المُخْتارُ",
+      "en": "the Unrestrained"
+    }
+  ],
+  "terms": [
+    {
+      "term": "الظُّهُورِ",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "Revelation",
+      "note": "Jafar's 96 occurrences primarily show 'Manifestation/manifestation'; here rendered 'Revelation' — a significant semantic shift marking this specific appearance as doctrinal disclosure rather than general appearance.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 53,
+          "snippet": "Manifestation"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 136,
+          "snippet": "evident"
+        },
+        {
+          "work": "gleanings",
+          "para": 222,
+          "snippet": "material"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 206,
+          "snippet": "appeared"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 196,
+          "snippet": "Manifestations of God"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 32,
+          "snippet": "overwhelm the soul"
+        }
+      ]
+    },
+    {
+      "term": "قُدْرَتِكَ",
+      "transliteration": "q-d-r",
+      "literal": "power; might; decree; measure; worth",
+      "se_rendering": "Thine almighty power",
+      "note": "Jafar lists 100 occurrences with diverse renderings; 'almighty power' here follows the standard power/might pattern, reinforced by following 'الحَدِيدِ' metaphor.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 171,
+          "snippet": "a while"
+        },
+        {
+          "work": "gleanings",
+          "para": 138,
+          "snippet": "hath been decreed"
+        },
+        {
+          "work": "gleanings",
+          "para": 662,
+          "snippet": "hath decreed"
+        },
+        {
+          "work": "gleanings",
+          "para": 496,
+          "snippet": "forbearing towards"
+        },
+        {
+          "work": "gleanings",
+          "para": 111,
+          "snippet": "schools"
+        },
+        {
+          "work": "gleanings",
+          "para": 532,
+          "snippet": "can"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 4,
+          "snippet": "for a moment"
+        },
+        {
+          "work": "gleanings",
+          "para": 112,
+          "snippet": "Thy might"
+        }
+      ]
+    },
+    {
+      "term": "قُلُوبَهُمْ",
+      "transliteration": "q-l-b",
+      "literal": "heart; to turn; to overturn",
+      "se_rendering": "their hearts",
+      "note": "Jafar's 60 occurrences show 'hearts' as dominant rendering; here SE sustains metaphorical usage ('made as strong as brass') rather than figurative 'agitation/cataclysms' seen in other contexts.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 187,
+          "snippet": "hearts"
+        },
+        {
+          "work": "gleanings",
+          "para": 668,
+          "snippet": "heart"
+        },
+        {
+          "work": "gleanings",
+          "para": 228,
+          "snippet": "agitation"
+        },
+        {
+          "work": "gleanings",
+          "para": 350,
+          "snippet": "cataclysms"
+        },
+        {
+          "work": "gleanings",
+          "para": 439,
+          "snippet": "discord"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 13,
+          "snippet": "tumult"
+        },
+        {
+          "work": "gleanings",
+          "para": 3,
+          "snippet": "with hearts"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 30,
+          "snippet": "thine heart"
+        }
+      ]
+    },
+    {
+      "term": "الحَدِيدِ",
+      "transliteration": "h-d-d",
+      "literal": "iron; sharp, keen, acute",
+      "se_rendering": "brass",
+      "note": "Jafar's 17 occurrences show 'keen/sharp/penetrating' as primary renderings; 'brass' here is unique metaphorical choice rendering the metaphor itself ('hearts as strong as brass') rather than the literal root sense.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 10,
+          "snippet": "keen"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 77,
+          "snippet": "sharp"
+        },
+        {
+          "work": "gleanings",
+          "para": 384,
+          "snippet": "penetrating"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 163,
+          "snippet": "veils of limitation"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 154,
+          "snippet": "limited"
+        },
+        {
+          "work": "gleanings",
+          "para": 308,
+          "snippet": "iron"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 228,
+          "snippet": "capacity"
+        }
+      ]
+    },
+    {
+      "term": "أَمْرِكَ",
+      "transliteration": "ʾ-m-r",
+      "literal": "command; cause; matter; affair",
+      "se_rendering": "Thy Cause",
+      "note": "Jafar's 75 occurrences favor 'Cause/His Cause'; 'Thy Cause' here follows standard pattern but applied to cosmic unfurling across dominions, emphasizing universal scope.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "His Cause"
+        },
+        {
+          "work": "gleanings",
+          "para": 586,
+          "snippet": "His command"
+        },
+        {
+          "work": "gleanings",
+          "para": 691,
+          "snippet": "His Revelation"
+        },
+        {
+          "work": "gleanings",
+          "para": 723,
+          "snippet": "Cause"
+        },
+        {
+          "work": "gleanings",
+          "para": 8,
+          "snippet": "Revelation"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 167,
+          "snippet": "things"
+        },
+        {
+          "work": "gleanings",
+          "para": 524,
+          "snippet": "your affairs"
+        },
+        {
+          "work": "gleanings",
+          "para": 495,
+          "snippet": "affairs"
+        }
+      ]
+    },
+    {
+      "term": "المُتَعالِ",
+      "transliteration": "ʿ-l-w",
+      "literal": "highest; most high; supreme",
+      "se_rendering": "the Most High",
+      "note": "Jafar's 74 occurrences show 'the Most High/Most Exalted' as standard; here paired with 'All-Glorious' (العَزِيز), creating doublet that reinforces transcendence without deviation.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 1,
+          "snippet": "the Most High"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 148,
+          "snippet": "the Most Sublime Pen"
+        },
+        {
+          "work": "gleanings",
+          "para": 232,
+          "snippet": "supreme"
+        },
+        {
+          "work": "gleanings",
+          "para": 616,
+          "snippet": "the realms above"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 68,
+          "snippet": "the Pen of Glory"
+        },
+        {
+          "work": "gleanings",
+          "para": 393,
+          "snippet": "The Pen of the Most High"
+        },
+        {
+          "work": "gleanings",
+          "para": 697,
+          "snippet": "the Dayspring of Glory"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 1,
+          "snippet": "the Realm of Glory"
+        }
+      ]
+    }
+  ],
+  "section_index": "XXIV.3",
+  "section": "XXIV",
+  "section_para": 3
 }

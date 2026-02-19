@@ -1,10 +1,617 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 465,
   "source_text": "في نفسه ما ادّعى فوالله هذا لبهتان عظيم، وما أنا إلّا عبد آمنت بالله وآياته ورسله وملئكته ويشهد حينئذ لساني وقلبي وظاهري وباطني بأنّه هو الله لا إله إلّا هو وما سواه مخلوق بأمره ومنجعل بإرادته لا إله إلّا هو الخالق الباعث المحيي المميت، ولكن إنّي حدّثت نعمة الّتي أنعمني الله بجوده وإن كان هذا جرمي فأنا أوّل المجرمين، وأكون بين أيديكم مع أهلي فافعلوا ما شئتم ولا تكوننّ من الصّابرين، لعلّ أرجع إلى الله ربّي في مقام الّذي يخلو فيه عن وجوهكم وهذا منتهى أملي وبغيتي وكفى بالله على نفسي لعليم",
   "translation": "Certain ones among you have said: “He it is Who hath laid claim to be God.” By God! This is a gross calumny. I am but a servant of God Who hath believed in Him and in His signs, and in His Prophets and in His angels. My tongue, and My heart, and My inner and My outer being testify that there is no God but Him, that all others have been created by His behest, and been fashioned through the operation of His Will. There is none other God but Him, the Creator, the Raiser from the dead, the Quickener, the Slayer. I am He that telleth abroad the favors with which God hath, through His bounty, favored Me. If this be My transgression, then I am truly the first of the transgressors. I and My kindred are at your mercy. Do ye as ye please, and be not of them that hesitate, that I might return to God My Lord, and reach the place where I can no longer behold your faces. This, indeed, is My dearest wish, My most ardent desire. Of My state God is, verily, sufficiently informed, observant.",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "servant-god-believed-signs",
+  "alignment": [
+    {
+      "ar": "في نفسه",
+      "en": "among you"
+    },
+    {
+      "ar": "ما",
+      "en": "Who"
+    },
+    {
+      "ar": "ادّعى",
+      "en": "laid claim"
+    },
+    {
+      "ar": "فوالله",
+      "en": "By God"
+    },
+    {
+      "ar": "هذا",
+      "en": "This"
+    },
+    {
+      "ar": "لبهتان",
+      "en": "calumny"
+    },
+    {
+      "ar": "عظيم",
+      "en": "gross"
+    },
+    {
+      "ar": "وما",
+      "en": "I am"
+    },
+    {
+      "ar": "أنا",
+      "en": "I"
+    },
+    {
+      "ar": "إلّا",
+      "en": "but"
+    },
+    {
+      "ar": "عبد",
+      "en": "servant"
+    },
+    {
+      "ar": "آمنت",
+      "en": "believed"
+    },
+    {
+      "ar": "بالله",
+      "en": "in Him"
+    },
+    {
+      "ar": "وآياته",
+      "en": "in His signs"
+    },
+    {
+      "ar": "ورسله",
+      "en": "in His Prophets"
+    },
+    {
+      "ar": "وملئكته",
+      "en": "in His angels"
+    },
+    {
+      "ar": "ويشهد",
+      "en": "testify"
+    },
+    {
+      "ar": "حينئذ",
+      "en": "then"
+    },
+    {
+      "ar": "لساني",
+      "en": "My tongue"
+    },
+    {
+      "ar": "وقلبي",
+      "en": "My heart"
+    },
+    {
+      "ar": "وظاهري",
+      "en": "My outer being"
+    },
+    {
+      "ar": "وباطني",
+      "en": "My inner"
+    },
+    {
+      "ar": "بأنّه",
+      "en": "that"
+    },
+    {
+      "ar": "لا إله إلّا هو",
+      "en": "no God but Him"
+    },
+    {
+      "ar": "وما سواه",
+      "en": "all others"
+    },
+    {
+      "ar": "مخلوق",
+      "en": "created"
+    },
+    {
+      "ar": "بأمره",
+      "en": "by His behest"
+    },
+    {
+      "ar": "ومنجعل",
+      "en": "fashioned"
+    },
+    {
+      "ar": "بإرادته",
+      "en": "through the operation of His Will"
+    },
+    {
+      "ar": "الخالق",
+      "en": "the Creator"
+    },
+    {
+      "ar": "الباعث",
+      "en": "the Raiser from the dead"
+    },
+    {
+      "ar": "المحيي",
+      "en": "the Quickener"
+    },
+    {
+      "ar": "المميت",
+      "en": "the Slayer"
+    },
+    {
+      "ar": "حدّثت",
+      "en": "telleth abroad"
+    },
+    {
+      "ar": "نعمة",
+      "en": "favors"
+    },
+    {
+      "ar": "الّتي",
+      "en": "with which"
+    },
+    {
+      "ar": "أنعمني",
+      "en": "favored"
+    },
+    {
+      "ar": "الله",
+      "en": "God"
+    },
+    {
+      "ar": "بجوده",
+      "en": "through His bounty"
+    },
+    {
+      "ar": "وإن",
+      "en": "If"
+    },
+    {
+      "ar": "كان",
+      "en": "be"
+    },
+    {
+      "ar": "هذا",
+      "en": "this"
+    },
+    {
+      "ar": "جرمي",
+      "en": "My transgression"
+    },
+    {
+      "ar": "فأنا",
+      "en": "then I"
+    },
+    {
+      "ar": "أوّل",
+      "en": "first"
+    },
+    {
+      "ar": "المجرمين",
+      "en": "transgressors"
+    },
+    {
+      "ar": "بين أيديكم",
+      "en": "at your mercy"
+    },
+    {
+      "ar": "فافعلوا",
+      "en": "Do"
+    },
+    {
+      "ar": "ما شئتم",
+      "en": "as ye please"
+    },
+    {
+      "ar": "ولا تكوننّ",
+      "en": "be not"
+    },
+    {
+      "ar": "من الصّابرين",
+      "en": "of them that hesitate"
+    },
+    {
+      "ar": "أرجع",
+      "en": "return"
+    },
+    {
+      "ar": "إلى الله",
+      "en": "to God"
+    },
+    {
+      "ar": "ربّي",
+      "en": "My Lord"
+    },
+    {
+      "ar": "في مقام",
+      "en": "the place"
+    },
+    {
+      "ar": "الّذي",
+      "en": "where"
+    },
+    {
+      "ar": "يخلو",
+      "en": "no longer"
+    },
+    {
+      "ar": "عن وجوهكم",
+      "en": "behold your faces"
+    },
+    {
+      "ar": "منتهى",
+      "en": "most"
+    },
+    {
+      "ar": "أملي",
+      "en": "wish"
+    },
+    {
+      "ar": "وبغيتي",
+      "en": "desire"
+    },
+    {
+      "ar": "وكفى",
+      "en": "sufficiently"
+    },
+    {
+      "ar": "على نفسي",
+      "en": "Of My state"
+    },
+    {
+      "ar": "لعليم",
+      "en": "informed"
+    }
+  ],
+  "terms": [
+    {
+      "term": "عبد",
+      "transliteration": "ʿ-b-d",
+      "literal": "servant; slave; worshipper",
+      "se_rendering": "servant",
+      "note": "Typically rendered 'servants' (plural) or 'servant' across 68 occurrences. Here 'servant' emphasizes the speaker's self-designation in direct refutation of claims of divinity.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 279,
+          "snippet": "Thy servants"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 431,
+          "snippet": "servants"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 27,
+          "snippet": "'Abdu'l‑Bahá"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 204,
+          "snippet": "Thy servant"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 260,
+          "snippet": "'Abdu'l-'Azíz"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 663,
+          "snippet": "servant"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 10,
+          "snippet": "this wronged servant of Thine"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 47,
+          "snippet": "this servant of Thine"
+        }
+      ]
+    },
+    {
+      "term": "آمنت",
+      "transliteration": "ʾ-m-n",
+      "literal": "to believe; to have faith; to be secure",
+      "se_rendering": "believed",
+      "note": "Usually 'believed' or 'have believed' across 62 occurrences. This rendering as past tense 'believed' anchors faith as established fact rather than aspiration.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 431,
+          "snippet": "have believed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 108,
+          "snippet": "sent Moses with Our signs"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 12,
+          "snippet": "trusted servants"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 93,
+          "snippet": "trustworthy"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 25,
+          "snippet": "believers"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 229,
+          "snippet": "believer"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 131,
+          "snippet": "trust"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 28,
+          "snippet": "trustworthiness"
+        }
+      ]
+    },
+    {
+      "term": "بأمره",
+      "transliteration": "ʾ-m-r",
+      "literal": "command; cause; matter; affair",
+      "se_rendering": "by His behest",
+      "note": "Usually 'His Cause' or 'His command' across 75 occurrences. Here 'by His behest' is softer, suggesting gentle orchestration rather than imperious decree.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "His Cause"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 797,
+          "snippet": "Thy Cause"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 597,
+          "snippet": "service"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 167,
+          "snippet": "things"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "commanded"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 236,
+          "snippet": "commissioned"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 785,
+          "snippet": "Thy Revelation"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 38,
+          "snippet": "for the protection of the Cause"
+        }
+      ]
+    },
+    {
+      "term": "نعمة",
+      "transliteration": "n-ʿ-m",
+      "literal": "bliss; bounty; grace; comfort; felicity",
+      "se_rendering": "favors",
+      "note": "Typically 'bounties' or 'bounty' across 20 occurrences. Rendered 'favors' here, suggesting personal bestowal and gratitude rather than abstract abundance.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 72,
+          "snippet": "felicity"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 22,
+          "snippet": "bounties"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 49,
+          "snippet": "bounty"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 223,
+          "snippet": "gift"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 130,
+          "snippet": "bliss"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 196,
+          "snippet": "We have forbidden you"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 104,
+          "snippet": "done well"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 149,
+          "snippet": "prosperity"
+        }
+      ]
+    },
+    {
+      "term": "الصّابرين",
+      "transliteration": "s-b-r",
+      "literal": "patience; forbearance; endurance; to be patient",
+      "se_rendering": "them that hesitate",
+      "note": "Usually 'patience' or 'forbearance' across 32 occurrences. Rendered 'them that hesitate'—a striking interpretive choice converting abstract virtue into concrete hesitance.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 48,
+          "snippet": "forbearance"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 40,
+          "snippet": "Patience of the worlds"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 49,
+          "snippet": "patience"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 39,
+          "snippet": "Thy patience"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 251,
+          "snippet": "their steadfastness"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 689,
+          "snippet": "patient"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 61,
+          "snippet": "endured patiently"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 262,
+          "snippet": "reward of the steadfast"
+        }
+      ]
+    },
+    {
+      "term": "مقام",
+      "transliteration": "q-w-m",
+      "literal": "rising; standing; uprising; resurrection",
+      "se_rendering": "place",
+      "note": "Typically 'Day of Resurrection' or 'Resurrection' across 109 occurrences. Here 'place' is spatial and intimate, avoiding eschatological weight.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 152,
+          "snippet": "Day of Resurrection"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 153,
+          "snippet": "Resurrection"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 74,
+          "snippet": "rise"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "peoples"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 26,
+          "snippet": "steadfast"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 38,
+          "snippet": "steadfast in faith"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 628,
+          "snippet": "stood fast"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 198,
+          "snippet": "station"
+        }
+      ]
+    },
+    {
+      "term": "لعليم",
+      "transliteration": "ʿ-l-m",
+      "literal": "world; universe; the worlds",
+      "se_rendering": "observant",
+      "note": "Root ع-ل-م usually 'world' or 'knowledge' across 141 occurrences. Here 'observant' personalizes divine attribute, shifting from cosmological to relational knowledge.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 28,
+          "snippet": "knowledge"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 122,
+          "snippet": "commentators"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 42,
+          "snippet": "banner"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 19,
+          "snippet": "understanding"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 205,
+          "snippet": "ancient Knowledge"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 65,
+          "snippet": "universe"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 4,
+          "snippet": "divine"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 199,
+          "snippet": "peoples of the world"
+        }
+      ]
+    }
+  ],
+  "section_index": "CXIII.18",
+  "section": "CXIII",
+  "section_para": 18
 }

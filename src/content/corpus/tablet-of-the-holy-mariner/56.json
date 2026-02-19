@@ -1,10 +1,247 @@
 {
   "work": "Tablet of the Holy Mariner",
   "slug": "tablet-of-the-holy-mariner",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 56,
   "source_text": "وجمعن عليها ووجدن جسدها مطروحة على التّراب الغبراء فسبحان ربّنا الاعلي",
   "translation": "They all gathered around her, and lo! they found her body fallen upon the dust;\n Glorified be our Lord, the Most High!",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "body-fallen-upon-dust",
+  "alignment": [
+    {
+      "ar": "جمعن",
+      "en": "gathered"
+    },
+    {
+      "ar": "عليها",
+      "en": "around her"
+    },
+    {
+      "ar": "وجدن",
+      "en": "found"
+    },
+    {
+      "ar": "جسدها",
+      "en": "her body"
+    },
+    {
+      "ar": "مطروحة",
+      "en": "fallen"
+    },
+    {
+      "ar": "التّراب",
+      "en": "the dust"
+    },
+    {
+      "ar": "الغبراء",
+      "en": "dust"
+    },
+    {
+      "ar": "فسبحان",
+      "en": "Glorified"
+    },
+    {
+      "ar": "ربّنا",
+      "en": "our Lord"
+    },
+    {
+      "ar": "الاعلي",
+      "en": "the Most High"
+    }
+  ],
+  "terms": [
+    {
+      "term": "جسدها",
+      "transliteration": "j-s-d",
+      "literal": "body; corpse; physical form",
+      "se_rendering": "body",
+      "note": "Sole occurrence in corpus rendered 'body.' Emphasizes physical vulnerability in ritual mourning context.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 13,
+          "snippet": "body"
+        }
+      ]
+    },
+    {
+      "term": "مطروحة",
+      "transliteration": "t-r-h",
+      "literal": "prostrate; thrown down; helpless",
+      "se_rendering": "fallen",
+      "note": "Root ط-ر-ح appears 3 times total; SE renders 'fallen' here versus 'lying' and 'a path' elsewhere. 'Fallen' conveys active descent or collapse.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 10,
+          "snippet": "lying"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 258,
+          "snippet": "a path"
+        }
+      ]
+    },
+    {
+      "term": "التراب",
+      "transliteration": "t-r-b",
+      "literal": "dust; earth; soil",
+      "se_rendering": "the dust",
+      "note": "Consistent rendering as 'the dust' across 9 occurrences. No variation in this passage—straightforward semantic choice.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 10,
+          "snippet": "dust"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 498,
+          "snippet": "the dust"
+        }
+      ]
+    },
+    {
+      "term": "فسبحان",
+      "transliteration": "s-b-ḥ",
+      "literal": "glorified; the All-Praised; exalted",
+      "se_rendering": "Glorified be",
+      "note": "Root س-ب-ح spans 23 occurrences with diverse renderings ('All-Praised,' 'All-Glorious,' 'Gracious God'). 'Glorified be' here is imperative doxological form, not among typical recorded variants.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 211,
+          "snippet": "the All-Praised"
+        },
+        {
+          "work": "gleanings",
+          "para": 212,
+          "snippet": "the Breath of the All-Glorious"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 13,
+          "snippet": "the breezes of the All-Glorious"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 42,
+          "snippet": "Gracious God"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 90,
+          "snippet": "Great God"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 62,
+          "snippet": "Glorified art Thou"
+        },
+        {
+          "work": "gleanings",
+          "para": 112,
+          "snippet": "Glory be to Thee"
+        },
+        {
+          "work": "gleanings",
+          "para": 1,
+          "snippet": "Lauded and glorified art Thou"
+        }
+      ]
+    },
+    {
+      "term": "ربنا",
+      "transliteration": "r-b-y",
+      "literal": "Lord; Master; Sustainer; Cherisher",
+      "se_rendering": "our Lord",
+      "note": "Root ر-ب-ي yields 13 occurrences; 'our Lord' is standard rendering. No semantic tension here—maintains possessive first-person plural relationship.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 1,
+          "snippet": "our Lord"
+        },
+        {
+          "work": "gleanings",
+          "para": 432,
+          "snippet": "your Lord"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 174,
+          "snippet": "Educator of the visible and of the invisible"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 62,
+          "snippet": "true Educator"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 66,
+          "snippet": "Educator of the servants"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 278,
+          "snippet": "be enlightened"
+        }
+      ]
+    },
+    {
+      "term": "الاعلی",
+      "transliteration": "ʿ-l-w",
+      "literal": "highest; most high; supreme",
+      "se_rendering": "the Most High",
+      "note": "74 occurrences across corpus with 'the Most High' as primary rendering. This passage uses canonical form without deviation; supremacy invoked as response to witnessed mortality.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 1,
+          "snippet": "the Most High"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 148,
+          "snippet": "the Most Sublime Pen"
+        },
+        {
+          "work": "gleanings",
+          "para": 232,
+          "snippet": "supreme"
+        },
+        {
+          "work": "gleanings",
+          "para": 616,
+          "snippet": "the realms above"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 390,
+          "snippet": "the Most Exalted, the Most High"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 68,
+          "snippet": "the Pen of Glory"
+        },
+        {
+          "work": "gleanings",
+          "para": 393,
+          "snippet": "The Pen of the Most High"
+        },
+        {
+          "work": "gleanings",
+          "para": 697,
+          "snippet": "the Dayspring of Glory"
+        }
+      ]
+    }
+  ],
+  "section_index": "57",
+  "section": "57",
+  "section_para": 1
 }

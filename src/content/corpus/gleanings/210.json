@@ -1,10 +1,475 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 210,
   "source_text": "(لوح الحج) أن يا محمد إذا خرجت من ساحة العرش أن اقصد زيارة البيت من قِبَل ربّك\nأن یا محمّد إذا خرجت عن ساحة العرش أن اقصد زیارة البیت من قِبَلِ ربّك وإذا حضرت تلقآء الباب قف وقل یا بیت الله الأعظم أین جمال القِدم الّذي به جعلك الله قبلة الأمم وآیة ذكره لمن في السّموات والأرضین یا بیت الله أین الأیّام الّتي كنت فیها موطأ قدمیه وأین الأیّام الّتي ارتفعت منك نغمات الرّحمن في كلّ الأحیان وأین طرازك الّذي منه استضآء من في الأكوان أین الأیّام الّتي كنت عرشا لاستقرار هیكل",
   "translation": "When thou art departed out of the court of My presence, O Muḥammad, direct thy steps towards My House (Bag̱hdád House), and visit it on behalf of thy Lord. When thou reachest its door, stand thou before it and say: Whither is the Ancient Beauty gone, O most great House of God, He through Whom God hath made thee the cynosure of an adoring world, and proclaimed thee to be the sign of His remembrance unto all who are in the heavens and all who are on the earth? Oh! for the former days when thou, O House of God, wert made His footstool, the days when in ceaseless strains the melody of the All-Merciful poured forth from thee! What hath become of thy jewel whose glory hath irradiated all creation? Whither are gone the days in which He, the Ancient King, had made thee the throne of His glory, the days in which He had chosen thee alone to be the lamp of salvation between earth and heaven, and caused thee to diffuse, at dawn and at eventide, the sweet fragrance of the All-Glorious?",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "ancient-beauty-departed",
+  "alignment": [
+    {
+      "ar": "يا",
+      "en": "O"
+    },
+    {
+      "ar": "محمد",
+      "en": "Muḥammad"
+    },
+    {
+      "ar": "إذا",
+      "en": "When"
+    },
+    {
+      "ar": "خرجت",
+      "en": "thou art departed"
+    },
+    {
+      "ar": "ساحة",
+      "en": "court"
+    },
+    {
+      "ar": "العرش",
+      "en": "presence"
+    },
+    {
+      "ar": "اقصد",
+      "en": "direct thy steps"
+    },
+    {
+      "ar": "زيارة",
+      "en": "visit"
+    },
+    {
+      "ar": "البيت",
+      "en": "House"
+    },
+    {
+      "ar": "قِبَل",
+      "en": "behalf"
+    },
+    {
+      "ar": "ربّك",
+      "en": "thy Lord"
+    },
+    {
+      "ar": "حضرت",
+      "en": "reachest"
+    },
+    {
+      "ar": "تلقآء",
+      "en": "before"
+    },
+    {
+      "ar": "الباب",
+      "en": "door"
+    },
+    {
+      "ar": "قف",
+      "en": "stand"
+    },
+    {
+      "ar": "قل",
+      "en": "say"
+    },
+    {
+      "ar": "الله",
+      "en": "God"
+    },
+    {
+      "ar": "الأعظم",
+      "en": "most great"
+    },
+    {
+      "ar": "أین",
+      "en": "Whither"
+    },
+    {
+      "ar": "جمال",
+      "en": "Beauty"
+    },
+    {
+      "ar": "القِدم",
+      "en": "Ancient"
+    },
+    {
+      "ar": "الّذي",
+      "en": "He through Whom"
+    },
+    {
+      "ar": "جعلك",
+      "en": "hath made thee"
+    },
+    {
+      "ar": "قبلة",
+      "en": "cynosure"
+    },
+    {
+      "ar": "الأمم",
+      "en": "world"
+    },
+    {
+      "ar": "آیة",
+      "en": "sign"
+    },
+    {
+      "ar": "ذكره",
+      "en": "His remembrance"
+    },
+    {
+      "ar": "السّموات",
+      "en": "heavens"
+    },
+    {
+      "ar": "الأرضین",
+      "en": "earth"
+    },
+    {
+      "ar": "الأیّام",
+      "en": "days"
+    },
+    {
+      "ar": "الّتي",
+      "en": "when"
+    },
+    {
+      "ar": "كنت",
+      "en": "thou"
+    },
+    {
+      "ar": "موطأ",
+      "en": "footstool"
+    },
+    {
+      "ar": "قدمیه",
+      "en": "His"
+    },
+    {
+      "ar": "ارتفعت",
+      "en": "poured forth"
+    },
+    {
+      "ar": "منك",
+      "en": "from thee"
+    },
+    {
+      "ar": "نغمات",
+      "en": "melody"
+    },
+    {
+      "ar": "الرّحمن",
+      "en": "All-Merciful"
+    },
+    {
+      "ar": "كلّ",
+      "en": "ceaseless"
+    },
+    {
+      "ar": "الأحیان",
+      "en": "strains"
+    },
+    {
+      "ar": "طرازك",
+      "en": "thy jewel"
+    },
+    {
+      "ar": "منه",
+      "en": "whose"
+    },
+    {
+      "ar": "استضآء",
+      "en": "irradiated"
+    },
+    {
+      "ar": "الأكوان",
+      "en": "creation"
+    },
+    {
+      "ar": "عرشا",
+      "en": "throne"
+    },
+    {
+      "ar": "استقرار",
+      "en": "made"
+    },
+    {
+      "ar": "هیكل",
+      "en": "glory"
+    }
+  ],
+  "terms": [
+    {
+      "term": "العرش",
+      "transliteration": "ʿ-r-sh",
+      "literal": "of the Throne; companion of the Throne",
+      "se_rendering": "court of My presence; throne",
+      "note": "Usually 'THE THRONE' or 'My throne' (14 occurrences). 'Court of My presence' and 'throne of His glory' appear context-dependent in same passage.",
+      "cross_refs": [
+        {
+          "work": "the-hidden-words",
+          "para": 120,
+          "snippet": "MY THRONE"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 45,
+          "snippet": "THE THRONE"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 435,
+          "snippet": "the throne of Thy glory"
+        }
+      ]
+    },
+    {
+      "term": "الأعظم",
+      "transliteration": "ʿ-z̟-m",
+      "literal": "greatest; supreme; mightiest",
+      "se_rendering": "most great",
+      "note": "Normally 'Most Great' or 'supreme' (63 occurrences). 'Most great' here maintains divine supremacy in architectural address.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 269,
+          "snippet": "Most Great"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 734,
+          "snippet": "Most Great Name"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 3,
+          "snippet": "greatest"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 6,
+          "snippet": "greater"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 209,
+          "snippet": "Great"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 9,
+          "snippet": "mighty"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 262,
+          "snippet": "glorious"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 88,
+          "snippet": "the Most Great"
+        }
+      ]
+    },
+    {
+      "term": "ذكره",
+      "transliteration": "dh-k-r",
+      "literal": "remembrance; mention; memory",
+      "se_rendering": "His remembrance",
+      "note": "Standardly 'remembrance' or 'mention' (57 occurrences). Maintains 'His remembrance' here, consistent with commemorative function of the House.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 54,
+          "snippet": "mention"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 117,
+          "snippet": "Time and again have I declared"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 39,
+          "snippet": "deliberate"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 274,
+          "snippet": "aforementioned"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 112,
+          "snippet": "recorded"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 34,
+          "snippet": "confined in that"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 4,
+          "snippet": "mentioned"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 6,
+          "snippet": "to remember Thee"
+        }
+      ]
+    },
+    {
+      "term": "الأیّام",
+      "transliteration": "y-w-m",
+      "literal": "day; age; period; era",
+      "se_rendering": "days",
+      "note": "Typically 'Day' or 'days' (44 occurrences). Extended nostalgic usage—repeated anaphora of 'days when' emphasizes temporal loss of divine proximity.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 18,
+          "snippet": "this Day"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 176,
+          "snippet": "In this day"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 14,
+          "snippet": "In these days"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 130,
+          "snippet": "today"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 201,
+          "snippet": "day"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 239,
+          "snippet": "In the days when"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 33,
+          "snippet": "At the time when"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 60,
+          "snippet": "is the day"
+        }
+      ]
+    },
+    {
+      "term": "ارتفعت",
+      "transliteration": "r-f-ʿ",
+      "literal": "to be raised, elevated, exalted, lifted up",
+      "se_rendering": "poured forth",
+      "note": "Typically 'exalted' or 'elevated' (45 occurrences). 'Poured forth' here is unique—transforms vertical elevation into auditory flow of divine melody.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 52,
+          "snippet": "elevated heavens"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 11,
+          "snippet": "was hoisted"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 15,
+          "snippet": "exalted"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 227,
+          "snippet": "exaltation"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 210,
+          "snippet": "lift up"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 4,
+          "snippet": "are uplifted"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 285,
+          "snippet": "uplifted"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 43,
+          "snippet": "have We abolished"
+        }
+      ]
+    },
+    {
+      "term": "الرّحمن",
+      "transliteration": "r-ḥ-m",
+      "literal": "merciful, compassionate; pertaining to divine mercy",
+      "se_rendering": "All-Merciful",
+      "note": "Usually 'merciful' or 'Divine glory' (70 occurrences). 'All-Merciful' here emphasizes divine compassion in ceaselessly melodious emanation.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 57,
+          "snippet": "Divine"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 89,
+          "snippet": "celestial melody"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 114,
+          "snippet": "spirit of mercy"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 220,
+          "snippet": "have mercy on them"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 546,
+          "snippet": "mercy"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 50,
+          "snippet": "the Compassionate"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 793,
+          "snippet": "have mercy upon them"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 47,
+          "snippet": "Thy mercy"
+        }
+      ]
+    }
+  ],
+  "section_index": "LVII.1",
+  "section": "LVII",
+  "section_para": 1
 }

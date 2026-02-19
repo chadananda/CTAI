@@ -1,10 +1,586 @@
 {
   "work": "Will and Testament",
   "slug": "will-and-testament",
-  "author": "'Abdu'l-Baha",
+  "author": "‘Abdu’l-Bahá",
   "pair_index": 12,
   "source_text": "الهی الهی احفظ عبادک الأمنآء من شرّ النّفس و الهوی و احرسهم بعین رعایتک من الحقد و الحسد و البغضآء و ادخلهم فی حصن حصین کلائتک من سهام الشّبهات و اجعلهم مظاهر آیاتک البیّنات و نوّر وجوههم بشعاع ساطع من افق توحیدک و اشرح صدورهم بآیات نازلة من ملکوت تفریدک و اشدد ازورهم بقوّة نافذة من جبروت تجریدک انّک انت الفضّال الحافظ القویّ العزیز",
   "translation": "O God, my God! Shield Thy trusted servants from the evils of self and passion, protect them with the watchful eye of Thy loving-kindness from all rancour, hate and envy, shelter them in the impregnable stronghold of Thy care and, safe from the darts of doubtfulness, make them the manifestations of Thy glorious Signs, illumine their faces with the effulgent rays shed from the Dayspring of Thy Divine Unity, gladden their hearts with the verses revealed from Thy Holy Kingdom, strengthen their loins by Thy all-swaying power that cometh from Thy Realm of Glory. Thou art the All-Bountiful, the Protector, the Almighty, the Gracious!",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "shield-trusted-servants-evils",
+  "alignment": [
+    {
+      "ar": "الهی",
+      "en": "O God"
+    },
+    {
+      "ar": "الهی",
+      "en": "my God"
+    },
+    {
+      "ar": "احفظ",
+      "en": "Shield"
+    },
+    {
+      "ar": "عبادک",
+      "en": "Thy trusted servants"
+    },
+    {
+      "ar": "الأمنآء",
+      "en": "trusted"
+    },
+    {
+      "ar": "شرّ",
+      "en": "evils"
+    },
+    {
+      "ar": "النّفس",
+      "en": "self"
+    },
+    {
+      "ar": "الهوی",
+      "en": "passion"
+    },
+    {
+      "ar": "احرسهم",
+      "en": "protect them"
+    },
+    {
+      "ar": "عین",
+      "en": "eye"
+    },
+    {
+      "ar": "رعایتک",
+      "en": "Thy loving-kindness"
+    },
+    {
+      "ar": "الحقد",
+      "en": "rancour"
+    },
+    {
+      "ar": "الحسد",
+      "en": "envy"
+    },
+    {
+      "ar": "البغضآء",
+      "en": "hate"
+    },
+    {
+      "ar": "ادخلهم",
+      "en": "shelter them"
+    },
+    {
+      "ar": "حصن حصین",
+      "en": "impregnable stronghold"
+    },
+    {
+      "ar": "کلائتک",
+      "en": "Thy care"
+    },
+    {
+      "ar": "سهام",
+      "en": "darts"
+    },
+    {
+      "ar": "الشّبهات",
+      "en": "doubtfulness"
+    },
+    {
+      "ar": "اجعلهم",
+      "en": "make them"
+    },
+    {
+      "ar": "مظاهر",
+      "en": "manifestations"
+    },
+    {
+      "ar": "آیاتک",
+      "en": "Thy glorious Signs"
+    },
+    {
+      "ar": "البیّنات",
+      "en": "glorious"
+    },
+    {
+      "ar": "نوّر",
+      "en": "illumine"
+    },
+    {
+      "ar": "وجوههم",
+      "en": "their faces"
+    },
+    {
+      "ar": "شعاع",
+      "en": "rays"
+    },
+    {
+      "ar": "ساطع",
+      "en": "effulgent"
+    },
+    {
+      "ar": "افق",
+      "en": "Dayspring"
+    },
+    {
+      "ar": "توحیدک",
+      "en": "Thy Divine Unity"
+    },
+    {
+      "ar": "اشرح",
+      "en": "gladden"
+    },
+    {
+      "ar": "صدورهم",
+      "en": "their hearts"
+    },
+    {
+      "ar": "آیات",
+      "en": "verses"
+    },
+    {
+      "ar": "نازلة",
+      "en": "revealed"
+    },
+    {
+      "ar": "ملکوت",
+      "en": "Holy Kingdom"
+    },
+    {
+      "ar": "تفریدک",
+      "en": "Thy"
+    },
+    {
+      "ar": "اشدد",
+      "en": "strengthen"
+    },
+    {
+      "ar": "ازورهم",
+      "en": "their loins"
+    },
+    {
+      "ar": "قوّة",
+      "en": "power"
+    },
+    {
+      "ar": "نافذة",
+      "en": "all-swaying"
+    },
+    {
+      "ar": "جبروت",
+      "en": "Realm of Glory"
+    },
+    {
+      "ar": "الفضّال",
+      "en": "All-Bountiful"
+    },
+    {
+      "ar": "الحافظ",
+      "en": "Protector"
+    },
+    {
+      "ar": "القویّ",
+      "en": "Almighty"
+    },
+    {
+      "ar": "العزیز",
+      "en": "Gracious"
+    }
+  ],
+  "terms": [
+    {
+      "term": "الامناء",
+      "transliteration": "ʾ-m-n",
+      "literal": "to believe; to have faith; to be secure",
+      "se_rendering": "trusted servants",
+      "note": "Usually 'servants' or 'believed' across 62 occurrences. 'Trusted servants' adds fidelity dimension absent in source, emphasizing covenant relationship with the divine.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 585,
+          "snippet": "believed"
+        },
+        {
+          "work": "gleanings",
+          "para": 268,
+          "snippet": "believe"
+        },
+        {
+          "work": "gleanings",
+          "para": 251,
+          "snippet": "have believed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 108,
+          "snippet": "sent Moses with Our signs"
+        },
+        {
+          "work": "gleanings",
+          "para": 260,
+          "snippet": "I truly believe"
+        },
+        {
+          "work": "gleanings",
+          "para": 496,
+          "snippet": "trustworthy ones of God among His servants"
+        },
+        {
+          "work": "gleanings",
+          "para": 621,
+          "snippet": "trustees"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 93,
+          "snippet": "trustworthy"
+        }
+      ]
+    },
+    {
+      "term": "مظاهر",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "manifestations",
+      "note": "Typically 'Manifestation' (divine epiphany) across 96 occurrences. Here rendered 'manifestations' (plural, human reflection of divine attributes), deepening the mystical anthropology.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 53,
+          "snippet": "Manifestation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 160,
+          "snippet": "Author of all Manifestations"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 136,
+          "snippet": "evident"
+        },
+        {
+          "work": "gleanings",
+          "para": 222,
+          "snippet": "material"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 206,
+          "snippet": "appeared"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 196,
+          "snippet": "Manifestations of God"
+        }
+      ]
+    },
+    {
+      "term": "نور",
+      "transliteration": "n-w-r",
+      "literal": "light; illumination",
+      "se_rendering": "illumine",
+      "note": "Standard 'light' across 78 occurrences. SE chooses 'illumine' (verb) rather than nominal form, activating the divine action of illumination upon the servants.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 3,
+          "snippet": "light"
+        },
+        {
+          "work": "gleanings",
+          "para": 230,
+          "snippet": "Orb of Light"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 114,
+          "snippet": "with the light"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 109,
+          "snippet": "Thy light"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 246,
+          "snippet": "Illumine"
+        },
+        {
+          "work": "gleanings",
+          "para": 235,
+          "snippet": "glory"
+        },
+        {
+          "work": "gleanings",
+          "para": 597,
+          "snippet": "fire"
+        },
+        {
+          "work": "gleanings",
+          "para": 458,
+          "snippet": "fire of God"
+        }
+      ]
+    },
+    {
+      "term": "توحیدک",
+      "transliteration": "w-h-d",
+      "literal": "Divine unity; monotheism; belief in the oneness of God",
+      "se_rendering": "Divine Unity",
+      "note": "Usually 'unity' or 'Divine unity' across 56 occurrences. 'Dayspring of Thy Divine Unity' (combining metaphor with theological term) intensifies mystical imagery.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 546,
+          "snippet": "unity"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 69,
+          "snippet": "Tawhid"
+        },
+        {
+          "work": "gleanings",
+          "para": 103,
+          "snippet": "oneness"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 167,
+          "snippet": "one"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 682,
+          "snippet": "once"
+        },
+        {
+          "work": "gleanings",
+          "para": 386,
+          "snippet": "His oneness"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 647,
+          "snippet": "Thy unity"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 285,
+          "snippet": "Thy oneness"
+        }
+      ]
+    },
+    {
+      "term": "نازله",
+      "transliteration": "n-z-l",
+      "literal": "to descend, to be revealed",
+      "se_rendering": "revealed",
+      "note": "Consistently 'revealed' or 'sent down' across 88 occurrences. This passage maintains the standard rendering, emphasizing divine descent into human hearts.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 643,
+          "snippet": "sent down"
+        },
+        {
+          "work": "gleanings",
+          "para": 218,
+          "snippet": "revealed"
+        },
+        {
+          "work": "gleanings",
+          "para": 656,
+          "snippet": "descended"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 175,
+          "snippet": "didst send down"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 34,
+          "snippet": "Descend"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 47,
+          "snippet": "pour forth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 330,
+          "snippet": "send down"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 40,
+          "snippet": "were revealed"
+        }
+      ]
+    },
+    {
+      "term": "ملکوت",
+      "transliteration": "m-l-k",
+      "literal": "kingdom; dominion; realm; sovereignty",
+      "se_rendering": "Kingdom",
+      "note": "Primarily 'kingdom' or 'realm' across 70 occurrences. 'Holy Kingdom' here adds reverential epithet absent in source, amplifying spiritual significance.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-ahd",
+          "para": 16,
+          "snippet": "heaven"
+        },
+        {
+          "work": "gleanings",
+          "para": 394,
+          "snippet": "realm"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 171,
+          "snippet": "kingdom"
+        },
+        {
+          "work": "gleanings",
+          "para": 313,
+          "snippet": "heavenly gem"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 69,
+          "snippet": "realms"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 167,
+          "snippet": "by the heavenly power"
+        },
+        {
+          "work": "gleanings",
+          "para": 59,
+          "snippet": "Lord"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 57,
+          "snippet": "Ruler"
+        }
+      ]
+    },
+    {
+      "term": "جبروت",
+      "transliteration": "j-b-r",
+      "literal": "compelled; forced; constrained",
+      "se_rendering": "Realm of Glory",
+      "note": "Ranges from 'omnipotence' to 'realm of might' across 19 occurrences. 'Realm of Glory' here combines majesty with sovereignty, aligning with SE's mystical aesthetics.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 141,
+          "snippet": "the omnipotence of the signs"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 402,
+          "snippet": "the realm of immortality"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 438,
+          "snippet": "the heaven of omnipotence"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 234,
+          "snippet": "the realm of might"
+        },
+        {
+          "work": "gleanings",
+          "para": 584,
+          "snippet": "the sovereign power of the Cause"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 1,
+          "snippet": "glory"
+        },
+        {
+          "work": "gleanings",
+          "para": 3,
+          "snippet": "realm"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 4,
+          "snippet": "dominion"
+        }
+      ]
+    },
+    {
+      "term": "الفضال",
+      "transliteration": "f-d-l",
+      "literal": "grace; bounty; generosity; excellence",
+      "se_rendering": "All-Bountiful",
+      "note": "Typically 'grace' or 'gracious' across 36 occurrences. 'All-Bountiful' here emphasizes cosmic generosity rather than intimate grace, broadening divine attribute.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 115,
+          "snippet": "the All-Bounteous"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 259,
+          "snippet": "merits"
+        },
+        {
+          "work": "gleanings",
+          "para": 10,
+          "snippet": "most excellent favors"
+        },
+        {
+          "work": "gleanings",
+          "para": 60,
+          "snippet": "grace"
+        },
+        {
+          "work": "gleanings",
+          "para": 234,
+          "snippet": "His gracious favor"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "graciously"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 92,
+          "snippet": "realms"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 278,
+          "snippet": "realm"
+        }
+      ]
+    }
+  ],
+  "section_index": "1.12",
+  "section": "1",
+  "section_para": 12
 }

@@ -1,10 +1,401 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 751,
   "source_text": "فِي كِتابِكَ العَظِيمِ وَقُلْتَ يا مَلأَ البَيانِ اتَّقُوا الرَّحْمنَ وَلا تَكْفُرُوا بِالَّذِيْ جَعَلْتُ البَيانَ وَرَقَةً مِنْ أَوْراقِ جَنَّتِهِ، وَإِنَّهُ كانَ هَدِيَّةً مِنْ عِنْدِيْ إِلَيْهِ إِنْ فازَ بِالقَبُولِ إِنَّهُ لَهُو الفَضَّالُ وَإِنْ طُرِدَ وَما فازَ إِنَّهُ لَهُو الحاكِمُ",
   "translation": "Thou art the One, O my God and my Ruler, Who hast sent down Thy Book that Thou mayest manifest my Cause, and glorify my Word. Through it Thou didst enter into a Covenant, concerning me, with all that hath been created in Thy realm. Thou seest, O Beloved of the world, how the rebellious among Thy creatures have made of that Covenant a bulwark for themselves, and through it have withdrawn from Thy Beauty, and repudiated Thy signs.",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "covenant-manifest-cause",
+  "alignment": [
+    {
+      "ar": "كِتابِكَ",
+      "en": "Thy Book"
+    },
+    {
+      "ar": "العَظِيمِ",
+      "en": "Book"
+    },
+    {
+      "ar": "قُلْتَ",
+      "en": "enter into"
+    },
+    {
+      "ar": "مَلأَ",
+      "en": "all"
+    },
+    {
+      "ar": "البَيانِ",
+      "en": "created"
+    },
+    {
+      "ar": "تَكْفُرُوا",
+      "en": "withdrawn"
+    },
+    {
+      "ar": "جَعَلْتُ",
+      "en": "made"
+    },
+    {
+      "ar": "البَيانَ",
+      "en": "that Covenant"
+    },
+    {
+      "ar": "وَرَقَةً",
+      "en": "bulwark"
+    },
+    {
+      "ar": "عِنْدِيْ",
+      "en": "my Cause"
+    },
+    {
+      "ar": "إِلَيْهِ",
+      "en": "glorify"
+    },
+    {
+      "ar": "فازَ",
+      "en": "mayest"
+    },
+    {
+      "ar": "بِالقَبُولِ",
+      "en": "through it"
+    },
+    {
+      "ar": "طُرِدَ",
+      "en": "rebellious"
+    },
+    {
+      "ar": "الحاكِمُ",
+      "en": "world"
+    }
+  ],
+  "terms": [
+    {
+      "term": "البَيانِ",
+      "transliteration": "b-y-n",
+      "literal": "to manifest; to make clear; clear, evident",
+      "se_rendering": "Covenant",
+      "note": "Root typically rendered 'the Expounder' or 'clear proofs' across 87 occurrences. Here rendered 'Covenant' — a radical interpretive shift suggesting collective acceptance/testimony rather than manifestation.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 223,
+          "snippet": "the Expounder, the Most Manifest"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 231,
+          "snippet": "clear verses"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 3,
+          "snippet": "proofs"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 12,
+          "snippet": "clear proofs"
+        },
+        {
+          "work": "gleanings",
+          "para": 563,
+          "snippet": "Dawning-Place of the proofs"
+        },
+        {
+          "work": "gleanings",
+          "para": 292,
+          "snippet": "the Bayán"
+        },
+        {
+          "work": "gleanings",
+          "para": 636,
+          "snippet": "utterance"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 101,
+          "snippet": "Bayán"
+        }
+      ]
+    },
+    {
+      "term": "الرَّحْمنَ",
+      "transliteration": "r-ḥ-m",
+      "literal": "merciful, compassionate; pertaining to divine mercy",
+      "se_rendering": "creatures",
+      "note": "Root typically 'merciful' or 'Divine mercy' across 70 occurrences. Here rendered 'creatures' — SE omits the divine attribute entirely, reframing the command through human subjects rather than God's mercy.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 673,
+          "snippet": "Divine glory"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 57,
+          "snippet": "Divine"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 89,
+          "snippet": "celestial melody"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 114,
+          "snippet": "spirit of mercy"
+        },
+        {
+          "work": "gleanings",
+          "para": 372,
+          "snippet": "merciful"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 220,
+          "snippet": "have mercy on them"
+        },
+        {
+          "work": "gleanings",
+          "para": 12,
+          "snippet": "mercy"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 50,
+          "snippet": "the Compassionate"
+        }
+      ]
+    },
+    {
+      "term": "جَعَلْتُ",
+      "transliteration": "j-ʿ-l",
+      "literal": "to make; to cause; to render; to appoint",
+      "se_rendering": "made",
+      "note": "Root commonly 'make' or 'ordained' across 37 occurrences. Here 'made' — straightforward rendering but in a causal context of misuse, darkening the term's usual grace-laden associations.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 12,
+          "snippet": "make them"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 25,
+          "snippet": "hath ordained"
+        },
+        {
+          "work": "gleanings",
+          "para": 529,
+          "snippet": "ordained"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 67,
+          "snippet": "hath made thee"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 217,
+          "snippet": "hath chosen thee to be"
+        },
+        {
+          "work": "gleanings",
+          "para": 234,
+          "snippet": "made thee"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 90,
+          "snippet": "allow"
+        },
+        {
+          "work": "gleanings",
+          "para": 664,
+          "snippet": "make"
+        }
+      ]
+    },
+    {
+      "term": "هَدِيَّةً",
+      "transliteration": "h-d-y",
+      "literal": "guidance; to guide",
+      "se_rendering": "gift",
+      "note": "Root typically 'Divine guidance' or 'guidance' across 8 occurrences. Here 'gift' — materialized concrete offering rather than spiritual guidance, emphasizing God's tender personal gesture.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 537,
+          "snippet": "Divine guidance"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 217,
+          "snippet": "guidance"
+        },
+        {
+          "work": "gleanings",
+          "para": 556,
+          "snippet": "path of guidance"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 26,
+          "snippet": "light of guidance"
+        }
+      ]
+    },
+    {
+      "term": "بِالقَبُولِ",
+      "transliteration": "q-b-l",
+      "literal": "group; company; tribe; sort; kind",
+      "se_rendering": "acceptance",
+      "note": "Root typically 'company' or 'seal of acceptance' across 58 occurrences. Here 'acceptance' — conditional outcome determining divine response, establishing merit-based divine favor.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 698,
+          "snippet": "company"
+        },
+        {
+          "work": "gleanings",
+          "para": 603,
+          "snippet": "if it be accepted and take effect"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 146,
+          "snippet": "breeze that bloweth from the meads of the good-pleasure of God"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 25,
+          "snippet": "not a drop is acceptable"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 71,
+          "snippet": "hearkened unto and accepted"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 74,
+          "snippet": "tribes"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 24,
+          "snippet": "kindreds and religions"
+        },
+        {
+          "work": "gleanings",
+          "para": 235,
+          "snippet": "have come"
+        }
+      ]
+    },
+    {
+      "term": "الفَضَّالُ",
+      "transliteration": "f-d-l",
+      "literal": "grace; bounty; generosity; excellence",
+      "se_rendering": "the Gracious",
+      "note": "Root typically 'the Gracious, the All-Bountiful' across 36 occurrences. Here 'the Gracious' — rare singular form emphasizing tender divine response to acceptance rather than generosity in abstract.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 50,
+          "snippet": "the Gracious, the All-Bountiful"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 115,
+          "snippet": "the All-Bounteous"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 259,
+          "snippet": "merits"
+        },
+        {
+          "work": "gleanings",
+          "para": 10,
+          "snippet": "most excellent favors"
+        },
+        {
+          "work": "gleanings",
+          "para": 60,
+          "snippet": "grace"
+        },
+        {
+          "work": "gleanings",
+          "para": 234,
+          "snippet": "His gracious favor"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "graciously"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 92,
+          "snippet": "realms"
+        }
+      ]
+    },
+    {
+      "term": "الحاكِمُ",
+      "transliteration": "h-k-m",
+      "literal": "government; rule; governance; wisdom",
+      "se_rendering": "the Ruler",
+      "note": "Root typically 'rule' or 'government' across 69 occurrences. Here 'the Ruler' — personified divine title rather than institutional concept, paired with rejection to assert ultimate divine authority over rejection.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-ahd",
+          "para": 6,
+          "snippet": "rule"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "government"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 160,
+          "snippet": "meaning of return"
+        },
+        {
+          "work": "gleanings",
+          "para": 224,
+          "snippet": "mysteries"
+        },
+        {
+          "work": "gleanings",
+          "para": 636,
+          "snippet": "rule of the sword"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 182,
+          "snippet": "mystery of the former verse"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 129,
+          "snippet": "perspicuous verses"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 46,
+          "snippet": "conclusive"
+        }
+      ]
+    }
+  ],
+  "section_index": "CLXXVI.41",
+  "section": "CLXXVI",
+  "section_para": 41
 }

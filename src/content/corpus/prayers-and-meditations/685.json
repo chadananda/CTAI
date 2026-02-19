@@ -1,10 +1,85 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 685,
   "source_text": "إِنَّا كُلٌّ لِلَّهِ عابِدُونَ",
   "translation": "times each of the following verses:",
   "source_lang": "ar",
-  "score": 9.8
+  "score": 9.8,
+  "page_slug": "all-worshippers-unto-god",
+  "alignment": [],
+  "terms": [
+    {
+      "term": "لِلَّهِ",
+      "transliteration": "l-l-h",
+      "literal": "to God; for God; God's",
+      "se_rendering": "unto God",
+      "note": "Preposition + divine name. SE's 'unto God' emphasizes orientation/devotion rather than mere possession, reflecting relational theology.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 2,
+          "snippet": "to God"
+        },
+        {
+          "work": "gleanings",
+          "para": 79,
+          "snippet": "God's"
+        }
+      ]
+    },
+    {
+      "term": "عابِدُونَ",
+      "transliteration": "ʿ-b-d",
+      "literal": "servant; slave; worshipper",
+      "se_rendering": "worshippers",
+      "note": "Participle root ع-ب-د with 68 occurrences across corpus. 'Worshippers' here; SE also renders as 'servants,' 'Thy servants,' and nominally as ''Abdu'l-Bahá.' This passage privileges devotional rather than servile connotation.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 682,
+          "snippet": "worship"
+        },
+        {
+          "work": "gleanings",
+          "para": 686,
+          "snippet": "servants"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 27,
+          "snippet": "'Abdu'l‑Bahá"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 260,
+          "snippet": "'Abdu'l-'Azíz"
+        },
+        {
+          "work": "gleanings",
+          "para": 67,
+          "snippet": "servant"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 10,
+          "snippet": "this wronged servant of Thine"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 47,
+          "snippet": "this servant of Thine"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 50,
+          "snippet": "the servants"
+        }
+      ]
+    }
+  ],
+  "section_index": "CLXVII.4",
+  "section": "CLXVII",
+  "section_para": 4
 }

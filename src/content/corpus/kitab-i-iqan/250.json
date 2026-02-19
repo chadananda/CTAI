@@ -1,10 +1,583 @@
 {
   "work": "Kitab-i-Iqan",
   "slug": "kitab-i-iqan",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 250,
   "source_text": "همه اينها مهتدی و مقرّ و مذعن گشتند برای آن شمس ظهور به قسمی که اکثری از مال و عيال گذشتند و به رضای ذی الجلال پيوستند.  و از سر جان برای جانان برخاستند و انفاق نمودند به جميع آنچه مرزوق گشته بودند.  به قسمی که سينه هاشان محلّ تيرهای مخالفين گشت و سرهاشان زينت سنان مشرکين. چنانچه ارضی نماند مگر آنکه از دم اين ارواح مجرّده آشاميد و سيفی نماند مگر آنکه به گردن هاشان ممسوح گشت.  و دليل بر صدق قولشان فعلشان بس.  آيا شهادت اين نفوس قدسيّه که به اين طريق جان در راه دوست دادند که همه عالم از ايثار دل و جانشان متحيّر گشتند کفايت نمی کند برای اين عبادی که هستند، و انکار بعضی عباد که دين را به درهمی دادند و بقا را به فنا تبديل نمودند و کوثر قرب را به چشمه های شور معاوضه کردند و بجز اخذ اموال ناس مرادی نجويند؟ چنانچه مشاهده می شود که کلّ به زخارف دنيا مشغول شدهاند و از ربّ اعلی دور مانده.",
   "translation": "All these were guided by the light of that Sun of divine Revelation, confessed and acknowledged His truth. Such was their faith, that most of them renounced their substance and kindred, and cleaved to the good-pleasure of the All-Glorious. They laid down their lives for their Well-Beloved, and surrendered their all in His path. Their breasts were made targets for the darts of the enemy, and their heads adorned the spears of the infidel. No land remained which did not drink the blood of these embodiments of detachment, and no sword that did not bruise their necks. Their deeds, alone, testify to the truth of their words. Doth not the testimony of these holy souls, who have so gloriously risen to offer up their lives for their Beloved that the whole world marvelled at the manner of their sacrifice, suffice the people of this day? Is it not sufficient witness against the faithlessness of those who for a trifle betrayed their faith, who bartered away immortality for that which perisheth, who gave up the Kawthar of the divine Presence for salty springs, and whose one aim in life is to usurp the property of others? Even as thou dost witness how all of them have busied themselves with the vanities of the world, and have strayed far from Him Who is the Lord, the Most High.",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "breasts-targets-darts-enemy",
+  "alignment": [
+    {
+      "ar": "همه",
+      "en": "All"
+    },
+    {
+      "ar": "اينها",
+      "en": "these"
+    },
+    {
+      "ar": "مهتدی",
+      "en": "guided"
+    },
+    {
+      "ar": "مقرّ",
+      "en": "confessed"
+    },
+    {
+      "ar": "مذعن",
+      "en": "acknowledged"
+    },
+    {
+      "ar": "گشتند",
+      "en": "were"
+    },
+    {
+      "ar": "شمس",
+      "en": "Sun"
+    },
+    {
+      "ar": "ظهور",
+      "en": "Revelation"
+    },
+    {
+      "ar": "قسمی",
+      "en": "Such"
+    },
+    {
+      "ar": "اکثری",
+      "en": "most"
+    },
+    {
+      "ar": "مال",
+      "en": "substance"
+    },
+    {
+      "ar": "عيال",
+      "en": "kindred"
+    },
+    {
+      "ar": "گذشتند",
+      "en": "renounced"
+    },
+    {
+      "ar": "رضای",
+      "en": "good-pleasure"
+    },
+    {
+      "ar": "ذی الجلال",
+      "en": "All-Glorious"
+    },
+    {
+      "ar": "پيوستند",
+      "en": "cleaved"
+    },
+    {
+      "ar": "سر",
+      "en": "lives"
+    },
+    {
+      "ar": "جانان",
+      "en": "Well-Beloved"
+    },
+    {
+      "ar": "برخاستند",
+      "en": "laid down"
+    },
+    {
+      "ar": "انفاق",
+      "en": "surrendered"
+    },
+    {
+      "ar": "جميع",
+      "en": "all"
+    },
+    {
+      "ar": "مرزوق",
+      "en": "in His path"
+    },
+    {
+      "ar": "سينه هاشان",
+      "en": "Their breasts"
+    },
+    {
+      "ar": "محلّ",
+      "en": "targets"
+    },
+    {
+      "ar": "تيرهای",
+      "en": "darts"
+    },
+    {
+      "ar": "مخالفين",
+      "en": "enemy"
+    },
+    {
+      "ar": "گشت",
+      "en": "made"
+    },
+    {
+      "ar": "سرهاشان",
+      "en": "their heads"
+    },
+    {
+      "ar": "زينت",
+      "en": "adorned"
+    },
+    {
+      "ar": "سنان",
+      "en": "spears"
+    },
+    {
+      "ar": "مشرکين",
+      "en": "infidel"
+    },
+    {
+      "ar": "ارضی",
+      "en": "land"
+    },
+    {
+      "ar": "نماند",
+      "en": "No"
+    },
+    {
+      "ar": "مگر",
+      "en": "remained"
+    },
+    {
+      "ar": "دم",
+      "en": "blood"
+    },
+    {
+      "ar": "ارواح",
+      "en": "embodiments"
+    },
+    {
+      "ar": "مجرّده",
+      "en": "detachment"
+    },
+    {
+      "ar": "آشاميد",
+      "en": "drink"
+    },
+    {
+      "ar": "سيفی",
+      "en": "sword"
+    },
+    {
+      "ar": "گردن هاشان",
+      "en": "their necks"
+    },
+    {
+      "ar": "ممسوح",
+      "en": "bruise"
+    },
+    {
+      "ar": "دليل",
+      "en": "testify"
+    },
+    {
+      "ar": "صدق",
+      "en": "truth"
+    },
+    {
+      "ar": "قولشان",
+      "en": "their words"
+    },
+    {
+      "ar": "فعلشان",
+      "en": "Their deeds"
+    },
+    {
+      "ar": "بس",
+      "en": "alone"
+    },
+    {
+      "ar": "شهادت",
+      "en": "testimony"
+    },
+    {
+      "ar": "نفوس",
+      "en": "souls"
+    },
+    {
+      "ar": "قدسيّه",
+      "en": "holy"
+    },
+    {
+      "ar": "طريق",
+      "en": "manner"
+    },
+    {
+      "ar": "دوست",
+      "en": "Beloved"
+    },
+    {
+      "ar": "دادند",
+      "en": "offer up"
+    },
+    {
+      "ar": "عالم",
+      "en": "world"
+    },
+    {
+      "ar": "ايثار",
+      "en": "sacrifice"
+    },
+    {
+      "ar": "متحيّر",
+      "en": "marvelled"
+    },
+    {
+      "ar": "کفايت",
+      "en": "suffice"
+    },
+    {
+      "ar": "عبادی",
+      "en": "people"
+    },
+    {
+      "ar": "هستند",
+      "en": "this day"
+    },
+    {
+      "ar": "انکار",
+      "en": "faithlessness"
+    },
+    {
+      "ar": "عباد",
+      "en": "those"
+    },
+    {
+      "ar": "دين",
+      "en": "faith"
+    },
+    {
+      "ar": "درهمی",
+      "en": "trifle"
+    },
+    {
+      "ar": "بقا",
+      "en": "immortality"
+    },
+    {
+      "ar": "فنا",
+      "en": "perisheth"
+    },
+    {
+      "ar": "تبديل",
+      "en": "bartered"
+    },
+    {
+      "ar": "کوثر",
+      "en": "Kawthar"
+    },
+    {
+      "ar": "قرب",
+      "en": "Presence"
+    },
+    {
+      "ar": "چشمه های",
+      "en": "springs"
+    },
+    {
+      "ar": "شور",
+      "en": "salty"
+    },
+    {
+      "ar": "معاوضه",
+      "en": "gave up"
+    },
+    {
+      "ar": "بجز",
+      "en": "one"
+    },
+    {
+      "ar": "اخذ",
+      "en": "usurp"
+    },
+    {
+      "ar": "اموال",
+      "en": "property"
+    },
+    {
+      "ar": "ناس",
+      "en": "others"
+    },
+    {
+      "ar": "مرادی",
+      "en": "aim"
+    },
+    {
+      "ar": "مشاهده",
+      "en": "witness"
+    },
+    {
+      "ar": "زخارف",
+      "en": "vanities"
+    },
+    {
+      "ar": "مشغول",
+      "en": "busied"
+    },
+    {
+      "ar": "ربّ اعلی",
+      "en": "Lord, the Most High"
+    },
+    {
+      "ar": "دور",
+      "en": "strayed far"
+    }
+  ],
+  "terms": [
+    {
+      "term": "مخالفين",
+      "transliteration": "kh-l-f",
+      "literal": "opposing; contrary; conflicting",
+      "se_rendering": "enemy",
+      "note": "Standard rendering as 'adversaries' or 'opposing' (37 occ.), but here becomes 'enemy' (singular collective)—a more historically concrete choice reflecting actual persecution of early believers.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 189,
+          "snippet": "in conflict with"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 107,
+          "snippet": "contrary"
+        },
+        {
+          "work": "gleanings",
+          "para": 495,
+          "snippet": "counter to"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 17,
+          "snippet": "whoso opposeth him"
+        },
+        {
+          "work": "gleanings",
+          "para": 468,
+          "snippet": "opposed"
+        },
+        {
+          "work": "gleanings",
+          "para": 462,
+          "snippet": "thou hast violated"
+        },
+        {
+          "work": "gleanings",
+          "para": 242,
+          "snippet": "conflict"
+        },
+        {
+          "work": "gleanings",
+          "para": 103,
+          "snippet": "differences"
+        }
+      ]
+    },
+    {
+      "term": "شهادت",
+      "transliteration": "sh-h-d",
+      "literal": "witnessed; observed; seen; evident; manifest",
+      "se_rendering": "testimony",
+      "note": "Rendered as 'testimony' here; concordance shows 'martyrdom' as alternative (74 occ.)—SE chooses the juridical sense ('witnessing') over martyrological, strengthening the evidential argument about deeds proving faith.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 607,
+          "snippet": "manifest"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 811,
+          "snippet": "I bear witness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 6,
+          "snippet": "I testify"
+        },
+        {
+          "work": "gleanings",
+          "para": 298,
+          "snippet": "witness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 253,
+          "snippet": "martyrdom"
+        },
+        {
+          "work": "gleanings",
+          "para": 134,
+          "snippet": "God witnesseth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 230,
+          "snippet": "God testifieth"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 57,
+          "snippet": "beheld"
+        }
+      ]
+    },
+    {
+      "term": "عالم",
+      "transliteration": "ʿ-l-m",
+      "literal": "world; universe; the worlds",
+      "se_rendering": "whole world",
+      "note": "Typically 'world' or 'mankind' (141 occ.); here 'whole world' emphasizes universality of witness—the definite article + modifier creates absolute scope rather than relative reference.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 198,
+          "snippet": "world"
+        },
+        {
+          "work": "gleanings",
+          "para": 657,
+          "snippet": "all worlds"
+        },
+        {
+          "work": "gleanings",
+          "para": 182,
+          "snippet": "mankind"
+        },
+        {
+          "work": "gleanings",
+          "para": 183,
+          "snippet": "the whole world"
+        },
+        {
+          "work": "gleanings",
+          "para": 226,
+          "snippet": "all earthly defilements"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 28,
+          "snippet": "knowledge"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 42,
+          "snippet": "banner"
+        },
+        {
+          "work": "gleanings",
+          "para": 38,
+          "snippet": "understanding"
+        }
+      ]
+    },
+    {
+      "term": "دين",
+      "transliteration": "d-y-n",
+      "literal": "religion; faith; creed",
+      "se_rendering": "faith",
+      "note": "Standard 'Faith' or 'Religion' (45 occ.); maintained here as 'faith'—the specific context of betrayal (به درهمی دادند) preserves the personal covenant sense rather than institutional Religion.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "His Cause"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 18,
+          "snippet": "Faith"
+        },
+        {
+          "work": "gleanings",
+          "para": 436,
+          "snippet": "Religion"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 26,
+          "snippet": "Thy Faith"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 5,
+          "snippet": "Faith of God"
+        },
+        {
+          "work": "gleanings",
+          "para": 14,
+          "snippet": "without"
+        },
+        {
+          "work": "gleanings",
+          "para": 388,
+          "snippet": "apart from"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 24,
+          "snippet": "religions"
+        }
+      ]
+    },
+    {
+      "term": "اعلی",
+      "transliteration": "ʿ-l-w",
+      "literal": "highest; most high; supreme",
+      "se_rendering": "Most High",
+      "note": "Consistently rendered 'Most High' (74 occ.); final phrase 'Lord, the Most High' pairs it with 'Lord' (رب)—dual appellatives emphasize transcendence after catalog of earthly failures.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 148,
+          "snippet": "the Most Sublime Pen"
+        },
+        {
+          "work": "gleanings",
+          "para": 232,
+          "snippet": "supreme"
+        },
+        {
+          "work": "gleanings",
+          "para": 616,
+          "snippet": "the realms above"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 390,
+          "snippet": "the Most Exalted, the Most High"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 68,
+          "snippet": "the Pen of Glory"
+        },
+        {
+          "work": "gleanings",
+          "para": 393,
+          "snippet": "The Pen of the Most High"
+        },
+        {
+          "work": "gleanings",
+          "para": 697,
+          "snippet": "the Dayspring of Glory"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 1,
+          "snippet": "the Realm of Glory"
+        }
+      ]
+    }
+  ],
+  "section_index": "250",
+  "section": "250",
+  "section_para": 1
 }

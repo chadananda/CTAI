@@ -1,10 +1,487 @@
 {
   "work": "Kitab-i-Iqan",
   "slug": "kitab-i-iqan",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 27,
   "source_text": "حال اين بنده رشحی از معانی اين کلمات را ذکر می نمايم تا اصحاب بصيرت و فطرت از معنی آن به جميع تلويحات کلمات الهی و اشارات بيانات مظاهر قدسی واقف شوند تا از هيمنهکلمات از بحر اسماء و صفات ممنوع نشوند و از مصباح احديّه که محلّ تجلّی ذات است محجوب نگردند.  قوله:  \"مِن بَعدِ ضيقِ تِلکَ الايّام\"،",
   "translation": "This servant will now share with thee a dewdrop out of the fathomless ocean of the truths treasured in these holy words, that haply discerning hearts may comprehend all the allusions and the implications of the utterances of the Manifestations of Holiness, so that the overpowering majesty of the Word of God may not prevent them from attaining unto the ocean of His names and attributes, nor deprive them of recognizing the Lamp of God which is the seat of the revelation of His glorified Essence.",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "lamp-revelation-divine-essence",
+  "alignment": [
+    {
+      "ar": "حال",
+      "en": "now"
+    },
+    {
+      "ar": "اين",
+      "en": "This"
+    },
+    {
+      "ar": "بنده",
+      "en": "servant"
+    },
+    {
+      "ar": "رشحی",
+      "en": "dewdrop"
+    },
+    {
+      "ar": "معانی",
+      "en": "truths"
+    },
+    {
+      "ar": "اين",
+      "en": "these"
+    },
+    {
+      "ar": "کلمات",
+      "en": "holy words"
+    },
+    {
+      "ar": "ذکر می نمايم",
+      "en": "share"
+    },
+    {
+      "ar": "اصحاب",
+      "en": "hearts"
+    },
+    {
+      "ar": "بصيرت",
+      "en": "discerning"
+    },
+    {
+      "ar": "معنی",
+      "en": "allusions"
+    },
+    {
+      "ar": "جميع",
+      "en": "all"
+    },
+    {
+      "ar": "کلمات الهی",
+      "en": "Word of God"
+    },
+    {
+      "ar": "اشارات",
+      "en": "implications"
+    },
+    {
+      "ar": "بيانات",
+      "en": "utterances"
+    },
+    {
+      "ar": "مظاهر قدسی",
+      "en": "Manifestations of Holiness"
+    },
+    {
+      "ar": "واقف شوند",
+      "en": "comprehend"
+    },
+    {
+      "ar": "هيمنه",
+      "en": "overpowering majesty"
+    },
+    {
+      "ar": "بحر",
+      "en": "ocean"
+    },
+    {
+      "ar": "اسماء",
+      "en": "names"
+    },
+    {
+      "ar": "صفات",
+      "en": "attributes"
+    },
+    {
+      "ar": "ممنوع نشوند",
+      "en": "not prevent"
+    },
+    {
+      "ar": "مصباح",
+      "en": "Lamp"
+    },
+    {
+      "ar": "احديّه",
+      "en": "God"
+    },
+    {
+      "ar": "محلّ",
+      "en": "seat"
+    },
+    {
+      "ar": "تجلّی",
+      "en": "revelation"
+    },
+    {
+      "ar": "ذات",
+      "en": "Essence"
+    },
+    {
+      "ar": "محجوب نگردند",
+      "en": "deprive"
+    }
+  ],
+  "terms": [
+    {
+      "term": "معانی",
+      "transliteration": "ʿ-n-d",
+      "literal": "obstinacy; opposition; enmity",
+      "se_rendering": "truths",
+      "note": "Root ʿ-n-d typically renders as 'truths' or 'from God'. SE uses 'truths' here in poetic parallel with 'dewdrop out of fathomless ocean,' emphasizing mystical significance over etymological opposition.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 13,
+          "snippet": "from Me"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 66,
+          "snippet": "from God"
+        },
+        {
+          "work": "gleanings",
+          "para": 278,
+          "snippet": "they possess"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 53,
+          "snippet": "the things they possess"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 71,
+          "snippet": "with what they possess"
+        },
+        {
+          "work": "gleanings",
+          "para": 535,
+          "snippet": "ye possess"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 91,
+          "snippet": "possessest"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 190,
+          "snippet": "pertaineth unto Him"
+        }
+      ]
+    },
+    {
+      "term": "بصيرت",
+      "transliteration": "b-ṣ-r",
+      "literal": "sight; insight; discernment; spiritual perception",
+      "se_rendering": "discerning",
+      "note": "Consistently 'discerning' across corpus (27 occ.). SE renders as adjective 'discerning' modifying 'hearts' rather than nominative 'eye of insight,' creating intimate interiority.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 77,
+          "snippet": "hearing ears, and sharp sight"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 667,
+          "snippet": "the All-Seeing"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 3,
+          "snippet": "proofs"
+        },
+        {
+          "work": "gleanings",
+          "para": 75,
+          "snippet": "eyes"
+        },
+        {
+          "work": "gleanings",
+          "para": 67,
+          "snippet": "insight"
+        },
+        {
+          "work": "gleanings",
+          "para": 563,
+          "snippet": "perceive"
+        },
+        {
+          "work": "gleanings",
+          "para": 689,
+          "snippet": "view"
+        },
+        {
+          "work": "gleanings",
+          "para": 388,
+          "snippet": "discerning"
+        }
+      ]
+    },
+    {
+      "term": "فطرت",
+      "transliteration": "f-ṭ-r",
+      "literal": "creator; the one who splits/creates",
+      "se_rendering": "hearts",
+      "note": "Root f-ṭ-r typically 'Creator' or 'true Faith' (19 occ.). Here rendered implicitly within 'hearts' — SE elides the term's explicit presence, preferring human receptivity over divine originatory power.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 47,
+          "snippet": "Creator"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 606,
+          "snippet": "Maker"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 138,
+          "snippet": "the true Faith"
+        },
+        {
+          "work": "gleanings",
+          "para": 300,
+          "snippet": "the nature made by God"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 236,
+          "snippet": "inner ears"
+        },
+        {
+          "work": "gleanings",
+          "para": 117,
+          "snippet": "Essence"
+        },
+        {
+          "work": "gleanings",
+          "para": 41,
+          "snippet": "nature"
+        },
+        {
+          "work": "gleanings",
+          "para": 87,
+          "snippet": "hath cleaved"
+        }
+      ]
+    },
+    {
+      "term": "ممنوع",
+      "transliteration": "m-n-ʿ",
+      "literal": "forbidden; prevented; deprived",
+      "se_rendering": "prevent",
+      "note": "Root m-n-ʿ renders variously 'forbidden,' 'deprived,' 'hindrance' (36 occ.). SE employs 'prevent' and 'deprive' as paired verbs, creating parallel negative clauses structuring the sentence's protective logic.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "forbidden"
+        },
+        {
+          "work": "gleanings",
+          "para": 641,
+          "snippet": "deprived"
+        },
+        {
+          "work": "gleanings",
+          "para": 181,
+          "snippet": "be not deprived"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 56,
+          "snippet": "hindrance"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 674,
+          "snippet": "which have hindered me"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 89,
+          "snippet": "was powerless to deter"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 628,
+          "snippet": "have failed to deter"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 193,
+          "snippet": "prevented them"
+        }
+      ]
+    },
+    {
+      "term": "مصباح",
+      "transliteration": "s-b-h",
+      "literal": "morning, dawn; daybreak",
+      "se_rendering": "Lamp",
+      "note": "Root s-b-h ranges from 'dawning light' to 'lamp' (18 occ.). SE chooses 'Lamp' with capital L, positioning it as sacred object parallel to 'Manifestations,' elevating symbolic dignity.",
+      "cross_refs": [
+        {
+          "work": "fire-tablet",
+          "para": 22,
+          "snippet": "dawning light"
+        },
+        {
+          "work": "gleanings",
+          "para": 211,
+          "snippet": "morning"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 661,
+          "snippet": "wakened"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 26,
+          "snippet": "Thy Light"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 378,
+          "snippet": "every lamp"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 20,
+          "snippet": "lamp"
+        },
+        {
+          "work": "gleanings",
+          "para": 48,
+          "snippet": "lamp of guidance"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 144,
+          "snippet": "dawn"
+        }
+      ]
+    },
+    {
+      "term": "احديّه",
+      "transliteration": "h-d-y",
+      "literal": "oneness; unity; absolute unicity; singleness of divine essence",
+      "se_rendering": "God",
+      "note": "Rare term (4 occ.) typically 'unity' or 'oneness.' SE renders as 'God' here, conflating absolute divine essence with personal name—unique syntactic compression in this corpus occurrence.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 74,
+          "snippet": "Thy transcendent unity"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 79,
+          "snippet": "Thy oneness"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 317,
+          "snippet": "Thy unity"
+        }
+      ]
+    },
+    {
+      "term": "تجلّی",
+      "transliteration": "j-l-ī",
+      "literal": "effulgence; manifestation; revelation",
+      "se_rendering": "revelation",
+      "note": "Standard 'revelation' or 'effulgence' (11 occ.). SE selects 'revelation' over 'effulgent glory' or 'Tajallí,' emphasizing disclosure rather than luminous manifestation in this mystical context.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 48,
+          "snippet": "In the third Tajallí"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 71,
+          "snippet": "effulgent glory"
+        },
+        {
+          "work": "gleanings",
+          "para": 687,
+          "snippet": "unfading light"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 12,
+          "snippet": "splendorous light"
+        },
+        {
+          "work": "gleanings",
+          "para": 379,
+          "snippet": "revelation of God"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 203,
+          "snippet": "with the effulgence"
+        }
+      ]
+    },
+    {
+      "term": "محجوب",
+      "transliteration": "ḥ-j-b",
+      "literal": "to veil oneself, to be veiled",
+      "se_rendering": "deprive",
+      "note": "Consistent 'veiled' or 'veil' pattern (37 occ.). SE renders as 'deprive' in passive construction, subverting the root's literal veiling imagery for abstracted epistemic privation—unique rendering in corpus.",
+      "cross_refs": [
+        {
+          "work": "the-hidden-words",
+          "para": 33,
+          "snippet": "veil thyself"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 234,
+          "snippet": "veiling yourselves"
+        },
+        {
+          "work": "gleanings",
+          "para": 198,
+          "snippet": "veil yourselves"
+        },
+        {
+          "work": "gleanings",
+          "para": 23,
+          "snippet": "most grievous veil"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 22,
+          "snippet": "veiled"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 533,
+          "snippet": "the veil"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 150,
+          "snippet": "the veil of heedlessness"
+        },
+        {
+          "work": "gleanings",
+          "para": 138,
+          "snippet": "the veil of her face"
+        }
+      ]
+    }
+  ],
+  "section_index": "27",
+  "section": "27",
+  "section_para": 1
 }

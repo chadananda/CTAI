@@ -1,10 +1,601 @@
 {
   "work": "Kitab-i-Iqan",
   "slug": "kitab-i-iqan",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 42,
   "source_text": "و اين مسلّم است که در هر ظهور بعد، شمس علوم و احکام و اوامر و نواهی که در ظهور قبل مرتفع شده  و اهل آن عصر در ظلّ آن شمس و قمر معارف و اوامر منوّر و مهتدی می شدند تاريک می شود، يعنی حکمش و اثرش تمام می گردد.  و حال ملاحظه فرمائيد که اگر امّت انجيل مقصود از شمس و قمر را ادراک می نمودند و يا از مظهر علم الهی مستفسر می شدند بدون اعتراض و لجاج، البتّه معانی آن واضح می گشت و اين گونه در ظلمت نفس و هوی مبتلا و گرفتار نمی شدند.  بلی، چون علم را از مبدأ و معدنش اخذ ننمودند لهذا در وادی مهلک کفر و ضلالت به هلاکت رسيدهاند و هنوز مُشعر نشدهاند که علامات کلّ ظاهر شد و شمس موعود از افق ظهور اشراق نمود و شمس و قمر علوم و احکام و معارف قبل تاريک شد و غروب نمود.",
   "translation": "It is unquestionable that in every succeeding Revelation the “sun” and “moon” of the teachings, laws, commandments, and prohibitions which have been established in the preceding Dispensation, and which have overshadowed the people of that age, become darkened, that is, are exhausted, and cease to exert their influence. Consider now, had the people of the Gospel recognized the meaning of the symbolic terms “sun” and “moon,” had they sought, unlike the froward and perverse, enlightenment from Him Who is the Revealer of divine knowledge, they would have surely comprehended the purpose of these terms, and would not have become afflicted and oppressed by the darkness of their selfish desires. Yea, but since they have failed to acquire true knowledge from its very Source, they have perished in the perilous vale of waywardness and misbelief. They still have not awakened to perceive that all the signs foretold have been made manifest, that the promised Sun hath risen above the horizon of divine Revelation, and that the “sun” and “moon” of the teachings, the laws, and learning of a former Dispensation have darkened and set.",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "sun-moon-teachings-darkened",
+  "alignment": [
+    {
+      "ar": "اين",
+      "en": "every"
+    },
+    {
+      "ar": "مسلّم",
+      "en": "unquestionable"
+    },
+    {
+      "ar": "در",
+      "en": "in"
+    },
+    {
+      "ar": "ظهور",
+      "en": "Revelation"
+    },
+    {
+      "ar": "بعد",
+      "en": "succeeding"
+    },
+    {
+      "ar": "شمس",
+      "en": "sun"
+    },
+    {
+      "ar": "علوم",
+      "en": "teachings"
+    },
+    {
+      "ar": "احکام",
+      "en": "laws"
+    },
+    {
+      "ar": "اوامر",
+      "en": "commandments"
+    },
+    {
+      "ar": "نواهی",
+      "en": "prohibitions"
+    },
+    {
+      "ar": "ظهور",
+      "en": "Dispensation"
+    },
+    {
+      "ar": "قبل",
+      "en": "preceding"
+    },
+    {
+      "ar": "مرتفع",
+      "en": "established"
+    },
+    {
+      "ar": "اهل",
+      "en": "people"
+    },
+    {
+      "ar": "آن",
+      "en": "that"
+    },
+    {
+      "ar": "عصر",
+      "en": "age"
+    },
+    {
+      "ar": "ظلّ",
+      "en": "overshadowed"
+    },
+    {
+      "ar": "قمر",
+      "en": "moon"
+    },
+    {
+      "ar": "معارف",
+      "en": "learning"
+    },
+    {
+      "ar": "منوّر",
+      "en": "enlightenment"
+    },
+    {
+      "ar": "تاريک",
+      "en": "darkened"
+    },
+    {
+      "ar": "حکمش",
+      "en": "influence"
+    },
+    {
+      "ar": "اثرش",
+      "en": "exert"
+    },
+    {
+      "ar": "تمام",
+      "en": "exhausted"
+    },
+    {
+      "ar": "حال",
+      "en": "now"
+    },
+    {
+      "ar": "ملاحظه",
+      "en": "Consider"
+    },
+    {
+      "ar": "اگر",
+      "en": "had"
+    },
+    {
+      "ar": "انجيل",
+      "en": "Gospel"
+    },
+    {
+      "ar": "مقصود",
+      "en": "meaning"
+    },
+    {
+      "ar": "ادراک",
+      "en": "recognized"
+    },
+    {
+      "ar": "مظهر",
+      "en": "Revealer"
+    },
+    {
+      "ar": "علم",
+      "en": "knowledge"
+    },
+    {
+      "ar": "الهی",
+      "en": "divine"
+    },
+    {
+      "ar": "مستفسر",
+      "en": "sought"
+    },
+    {
+      "ar": "اعتراض",
+      "en": "perverse"
+    },
+    {
+      "ar": "لجاج",
+      "en": "froward"
+    },
+    {
+      "ar": "البتّه",
+      "en": "surely"
+    },
+    {
+      "ar": "معانی",
+      "en": "purpose"
+    },
+    {
+      "ar": "واضح",
+      "en": "comprehended"
+    },
+    {
+      "ar": "ظلمت",
+      "en": "darkness"
+    },
+    {
+      "ar": "نفس",
+      "en": "selfish"
+    },
+    {
+      "ar": "هوی",
+      "en": "desires"
+    },
+    {
+      "ar": "مبتلا",
+      "en": "afflicted"
+    },
+    {
+      "ar": "گرفتار",
+      "en": "oppressed"
+    },
+    {
+      "ar": "بلی",
+      "en": "Yea"
+    },
+    {
+      "ar": "چون",
+      "en": "since"
+    },
+    {
+      "ar": "مبدأ",
+      "en": "Source"
+    },
+    {
+      "ar": "اخذ",
+      "en": "acquire"
+    },
+    {
+      "ar": "ننمودند",
+      "en": "failed"
+    },
+    {
+      "ar": "لهذا",
+      "en": "they"
+    },
+    {
+      "ar": "وادی",
+      "en": "vale"
+    },
+    {
+      "ar": "مهلک",
+      "en": "perilous"
+    },
+    {
+      "ar": "کفر",
+      "en": "misbelief"
+    },
+    {
+      "ar": "ضلالت",
+      "en": "waywardness"
+    },
+    {
+      "ar": "هلاکت",
+      "en": "perished"
+    },
+    {
+      "ar": "هنوز",
+      "en": "still"
+    },
+    {
+      "ar": "مُشعر",
+      "en": "awakened"
+    },
+    {
+      "ar": "نشدهاند",
+      "en": "not"
+    },
+    {
+      "ar": "علامات",
+      "en": "signs"
+    },
+    {
+      "ar": "کلّ",
+      "en": "all"
+    },
+    {
+      "ar": "ظاهر",
+      "en": "manifest"
+    },
+    {
+      "ar": "موعود",
+      "en": "promised"
+    },
+    {
+      "ar": "افق",
+      "en": "horizon"
+    },
+    {
+      "ar": "اشراق",
+      "en": "risen"
+    },
+    {
+      "ar": "غروب",
+      "en": "set"
+    }
+  ],
+  "terms": [
+    {
+      "term": "ظهور",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "Revelation",
+      "note": "Standard rendering 'Manifestation' or 'manifestation' (96 occurrences); appears as 'Revelation' twice here—SE adapts to English religious idiom while maintaining eschatological meaning.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 53,
+          "snippet": "Manifestation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 160,
+          "snippet": "Author of all Manifestations"
+        },
+        {
+          "work": "gleanings",
+          "para": 222,
+          "snippet": "material"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 206,
+          "snippet": "appeared"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 255,
+          "snippet": "Manifestations"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 791,
+          "snippet": "tokens of Thy handiwork"
+        }
+      ]
+    },
+    {
+      "term": "شمس",
+      "transliteration": "sh-m-s",
+      "literal": "sun; daystar; manifestation of divine light",
+      "se_rendering": "sun",
+      "note": "Typically 'Sun' or 'Daystar' in mystical contexts; rendered here as lowercase 'sun' in metaphorical sense, then capitalized as 'Sun' for the Promised One—reflecting SE's distinction between symbolic and eschatological usage.",
+      "cross_refs": [
+        {
+          "work": "fire-tablet",
+          "para": 43,
+          "snippet": "Sun"
+        },
+        {
+          "work": "gleanings",
+          "para": 93,
+          "snippet": "Orb"
+        },
+        {
+          "work": "gleanings",
+          "para": 292,
+          "snippet": "Daystar"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 234,
+          "snippet": "Sun-like Mirrors"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 715,
+          "snippet": "suns"
+        }
+      ]
+    },
+    {
+      "term": "علوم",
+      "transliteration": "ʿ-l-m",
+      "literal": "world; universe; the worlds",
+      "se_rendering": "teachings",
+      "note": "Usually 'knowledge' (141 occurrences); rendered as 'teachings' here in plural context, and 'learning' in final clause—SE differentiates abstract knowledge from its concrete doctrinal manifestations.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 198,
+          "snippet": "world"
+        },
+        {
+          "work": "gleanings",
+          "para": 657,
+          "snippet": "all worlds"
+        },
+        {
+          "work": "gleanings",
+          "para": 182,
+          "snippet": "mankind"
+        },
+        {
+          "work": "gleanings",
+          "para": 183,
+          "snippet": "the whole world"
+        },
+        {
+          "work": "gleanings",
+          "para": 226,
+          "snippet": "all earthly defilements"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 28,
+          "snippet": "knowledge"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 42,
+          "snippet": "banner"
+        },
+        {
+          "work": "gleanings",
+          "para": 38,
+          "snippet": "understanding"
+        }
+      ]
+    },
+    {
+      "term": "احکام",
+      "transliteration": "h-k-m",
+      "literal": "government; rule; governance; wisdom",
+      "se_rendering": "laws",
+      "note": "Typically 'rule', 'government', or 'mysteries' (69 occurrences); rendered as 'laws' here—a narrower, more juridical sense suited to the discussion of legislative exhaustion between Dispensations.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-ahd",
+          "para": 6,
+          "snippet": "rule"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "government"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 849,
+          "snippet": "signs of Thy sovereignty"
+        },
+        {
+          "work": "gleanings",
+          "para": 224,
+          "snippet": "mysteries"
+        },
+        {
+          "work": "gleanings",
+          "para": 636,
+          "snippet": "rule of the sword"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 129,
+          "snippet": "perspicuous verses"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 157,
+          "snippet": "justice"
+        },
+        {
+          "work": "gleanings",
+          "para": 139,
+          "snippet": "the face of wisdom"
+        }
+      ]
+    },
+    {
+      "term": "منوّر",
+      "transliteration": "n-w-r",
+      "literal": "light; illumination",
+      "se_rendering": "illumined",
+      "note": "Commonly 'light' or 'Orb of Light' (78 occurrences); rendered as 'illumined' here as passive participle, emphasizing the condition of believers rather than the light-source itself.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 3,
+          "snippet": "light"
+        },
+        {
+          "work": "gleanings",
+          "para": 230,
+          "snippet": "Orb of Light"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 114,
+          "snippet": "with the light"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 109,
+          "snippet": "Thy light"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 246,
+          "snippet": "Illumine"
+        },
+        {
+          "work": "gleanings",
+          "para": 235,
+          "snippet": "glory"
+        },
+        {
+          "work": "gleanings",
+          "para": 597,
+          "snippet": "fire"
+        },
+        {
+          "work": "gleanings",
+          "para": 458,
+          "snippet": "fire of God"
+        }
+      ]
+    },
+    {
+      "term": "اعتراض",
+      "transliteration": "ʿ-t-r-ḍ",
+      "literal": "objection, protest, denial; cavil",
+      "se_rendering": "froward and perverse",
+      "note": "Root meaning objection/protest; rendered as 'froward and perverse' here—an interpretive expansion that characterizes the mental disposition rather than merely naming the objection itself.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 181,
+          "snippet": "have objected"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 168,
+          "snippet": "objection"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 9,
+          "snippet": "any cavils they may raise"
+        },
+        {
+          "work": "gleanings",
+          "para": 647,
+          "snippet": "object"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 83,
+          "snippet": "opposed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 29,
+          "snippet": "protested against"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 273,
+          "snippet": "opposed me"
+        }
+      ]
+    },
+    {
+      "term": "اشراق",
+      "transliteration": "sh-r-q",
+      "literal": "radiance; splendor; dawn; illumination",
+      "se_rendering": "Revelation",
+      "note": "Typically 'radiance', 'revelation', or 'Daystar' (63 occurrences); rendered as 'Revelation' in final clause—assimilates the mystical term to Christian apocalyptic vocabulary.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 47,
+          "snippet": "Ishraq"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 28,
+          "snippet": "radiance"
+        },
+        {
+          "work": "gleanings",
+          "para": 382,
+          "snippet": "revelation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 83,
+          "snippet": "Daystar"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 41,
+          "snippet": "dawning"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 116,
+          "snippet": "shone"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 2,
+          "snippet": "shining"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 14,
+          "snippet": "Dawning Place"
+        }
+      ]
+    }
+  ],
+  "section_index": "42",
+  "section": "42",
+  "section_para": 1
 }

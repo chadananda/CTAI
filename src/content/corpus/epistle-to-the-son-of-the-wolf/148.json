@@ -1,10 +1,325 @@
 {
   "work": "Epistle to the Son of the Wolf",
   "slug": "epistle-to-the-son-of-the-wolf",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 148,
   "source_text": "* فی هذا الحين ارتفع صرير قلمی الاعلی و قال وصّ حضرة الشّيخ بما وصّيت به احد اغصانک لعلّ نفحات البيان تجذبه و تقرّبه الی اللّه ربّ العالمين *",
   "translation": "At this moment the shrill voice of the Most Sublime Pen hath been raised, and hath addressed Me saying: \"Admonish the Shaykh even as Thou hast admonished one of Thy Branches (sons), that haply the breezes of Thine utterance may attract and draw him nigh unto God, the Lord of the worlds.\"",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "sublime-pen-draws-near-god",
+  "alignment": [
+    {
+      "ar": "هذا",
+      "en": "this"
+    },
+    {
+      "ar": "الحين",
+      "en": "moment"
+    },
+    {
+      "ar": "ارتفع",
+      "en": "raised"
+    },
+    {
+      "ar": "صرير",
+      "en": "shrill voice"
+    },
+    {
+      "ar": "قلمی",
+      "en": "Pen"
+    },
+    {
+      "ar": "الاعلی",
+      "en": "Most Sublime"
+    },
+    {
+      "ar": "قال",
+      "en": "saying"
+    },
+    {
+      "ar": "وصّ",
+      "en": "Admonish"
+    },
+    {
+      "ar": "حضرة",
+      "en": "the"
+    },
+    {
+      "ar": "الشّيخ",
+      "en": "Shaykh"
+    },
+    {
+      "ar": "وصّيت",
+      "en": "admonished"
+    },
+    {
+      "ar": "احد",
+      "en": "one"
+    },
+    {
+      "ar": "اغصانک",
+      "en": "Thy Branches"
+    },
+    {
+      "ar": "لعلّ",
+      "en": "that haply"
+    },
+    {
+      "ar": "نفحات",
+      "en": "breezes"
+    },
+    {
+      "ar": "البيان",
+      "en": "Thine utterance"
+    },
+    {
+      "ar": "تجذبه",
+      "en": "attract"
+    },
+    {
+      "ar": "تقرّبه",
+      "en": "draw him nigh"
+    },
+    {
+      "ar": "اللّه",
+      "en": "God"
+    },
+    {
+      "ar": "ربّ",
+      "en": "Lord"
+    },
+    {
+      "ar": "العالمين",
+      "en": "worlds"
+    }
+  ],
+  "terms": [
+    {
+      "term": "صریر",
+      "transliteration": "s-r-r",
+      "literal": "creaking sound; shrill voice; grating noise",
+      "se_rendering": "shrill voice",
+      "note": "Single occurrence in corpus. Renders the auditory dimension of divine speech through onomatopoeia: a 'shrill voice' rather than silent writing.",
+      "cross_refs": []
+    },
+    {
+      "term": "اغصانک",
+      "transliteration": "gh-ṣ-n",
+      "literal": "branch; twig",
+      "se_rendering": "Thy Branches",
+      "note": "Consistently 'Branch/Branches' or 'Aghṣán.' Here lowercase 'Branches' marks them as generic spiritual designations rather than proper titles of successors.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 2,
+          "snippet": "branch"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 16,
+          "snippet": "Aghṣán (Branches)"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 9,
+          "snippet": "Branches"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 12,
+          "snippet": "Aghṣán"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 13,
+          "snippet": "My Aghṣán, My Afnán"
+        }
+      ]
+    },
+    {
+      "term": "نفحات",
+      "transliteration": "n-f-h",
+      "literal": "breeze; fragrance; whiff; breath; emanation",
+      "se_rendering": "breezes",
+      "note": "Consistently 'breezes' or 'fragrances.' Here 'breezes' maintains the metaphor of divine attraction and spiritual drawing, reinforced by the following verb تجذبه.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 129,
+          "snippet": "fragrances"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 265,
+          "snippet": "savors"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 597,
+          "snippet": "fragrance"
+        },
+        {
+          "work": "gleanings",
+          "para": 116,
+          "snippet": "breath"
+        },
+        {
+          "work": "gleanings",
+          "para": 187,
+          "snippet": "sweet smelling savors"
+        }
+      ]
+    },
+    {
+      "term": "البیان",
+      "transliteration": "b-y-n",
+      "literal": "to manifest; to make clear; clear, evident",
+      "se_rendering": "Thine utterance",
+      "note": "Usually 'the Bayán,' 'clear proofs,' or 'the Expounder.' Here rendered 'Thine utterance'—contextualizing it as the speaker's own discourse rather than a proper name or doctrinal text.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 223,
+          "snippet": "the Expounder, the Most Manifest"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 231,
+          "snippet": "clear verses"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 3,
+          "snippet": "proofs"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 12,
+          "snippet": "clear proofs"
+        },
+        {
+          "work": "gleanings",
+          "para": 563,
+          "snippet": "Dawning-Place of the proofs"
+        },
+        {
+          "work": "gleanings",
+          "para": 292,
+          "snippet": "the Bayán"
+        },
+        {
+          "work": "gleanings",
+          "para": 636,
+          "snippet": "utterance"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 101,
+          "snippet": "Bayán"
+        }
+      ]
+    },
+    {
+      "term": "تجذبه",
+      "transliteration": "j-dh-b",
+      "literal": "to draw, attract, pull; to be enraptured",
+      "se_rendering": "attract",
+      "note": "Rendered 'attract' here, though corpus shows 'enravished,' 'draw,' 'attractive.' The simple transitive form suits the passage's parallel construction with تقربه.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 413,
+          "snippet": "enravished"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 506,
+          "snippet": "draw"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 3,
+          "snippet": "Enchanter"
+        },
+        {
+          "work": "gleanings",
+          "para": 603,
+          "snippet": "attractive"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 201,
+          "snippet": "attract"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 762,
+          "snippet": "attract me"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 492,
+          "snippet": "would all be"
+        },
+        {
+          "work": "gleanings",
+          "para": 32,
+          "snippet": "atoms of the earth have been made to vibrate"
+        }
+      ]
+    },
+    {
+      "term": "تقربه",
+      "transliteration": "q-r-b",
+      "literal": "place of sacrifice; altar",
+      "se_rendering": "draw him nigh unto",
+      "note": "Typically 'draw near unto' or 'drawn nigh.' Here 'draw him nigh unto God'—maintaining the spatial metaphor of spiritual proximity central to the admonition.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 3,
+          "snippet": "unto the place of sacrifice"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 35,
+          "snippet": "my kindred"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 159,
+          "snippet": "their kindred"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 101,
+          "snippet": "draw near unto"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 430,
+          "snippet": "drawn nigh"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 98,
+          "snippet": "drawing near"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 245,
+          "snippet": "draweth near"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 9,
+          "snippet": "well-nigh"
+        }
+      ]
+    }
+  ],
+  "section_index": "148",
+  "section": "148",
+  "section_para": 1
 }

@@ -1,10 +1,496 @@
 {
   "work": "Kitab-i-Iqan",
   "slug": "kitab-i-iqan",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 187,
   "source_text": "اين است که از وجهه، حساب خلايق کشيده می شود و کفر و ايمان و عصيان، جميع ظاهر می گردد.  چنانچه اليوم مشهود است که به سيما اهل ضلالت از اصحاب هدايت معلوم و واضح اند.  و اگر اين عباد خالصاً للّه و طلباً لرضائه در آيات کتاب ملاحظه نمايند جميع آنچه را که می طلبند البتّه ادراک می نمايند. به قسمی که جميع امور واقعه در اين ظهور را از کلّی و جزئی در آيات او ظاهر و مکشوف ادراک می نمايند حتّی خروج مظاهر اسماء و صفات را از اوطان، و اعراض و اغماض ملّت و دولت را، و سکون و استقرار مظهر کلّيّه در ارض معلوم مخصوص.  وَلکِن لا يَعرِفُ ذلک إلّا اُولُو الالباب.",
   "translation": "Thus the peoples of the world are judged by their countenance. By it, their misbelief, their faith, and their iniquity are all made manifest. Even as it is evident in this day how the people of error are, by their countenance, known and distinguished from the followers of divine Guidance. Were these people, wholly for the sake of God and with no desire but His good-pleasure, to ponder the verses of the Book in their heart, they would of a certainty find whatsoever they seek. In its verses would they find revealed and manifest all the things, be they great or small, that have come to pass in this Dispensation. They would even recognize in them references unto the departure of the Manifestations of the names and attributes of God from out their native land; to the opposition and disdainful arrogance of government and people; and to the dwelling and establishment of the Universal Manifestation in an appointed and specially designated land. No man, however, can comprehend this except he who is possessed of an understanding heart.",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "countenance-misbelief-faith-iniquity",
+  "alignment": [
+    {
+      "ar": "وجهه",
+      "en": "countenance"
+    },
+    {
+      "ar": "حساب",
+      "en": "judged"
+    },
+    {
+      "ar": "خلايق",
+      "en": "peoples"
+    },
+    {
+      "ar": "کشيده می شود",
+      "en": "are judged"
+    },
+    {
+      "ar": "کفر",
+      "en": "misbelief"
+    },
+    {
+      "ar": "ايمان",
+      "en": "faith"
+    },
+    {
+      "ar": "عصيان",
+      "en": "iniquity"
+    },
+    {
+      "ar": "جميع",
+      "en": "all"
+    },
+    {
+      "ar": "ظاهر",
+      "en": "manifest"
+    },
+    {
+      "ar": "می گردد",
+      "en": "made"
+    },
+    {
+      "ar": "اليوم",
+      "en": "this day"
+    },
+    {
+      "ar": "مشهود",
+      "en": "evident"
+    },
+    {
+      "ar": "اهل ضلالت",
+      "en": "people of error"
+    },
+    {
+      "ar": "اصحاب هدايت",
+      "en": "followers of divine Guidance"
+    },
+    {
+      "ar": "معلوم",
+      "en": "known"
+    },
+    {
+      "ar": "واضح",
+      "en": "distinguished"
+    },
+    {
+      "ar": "عباد",
+      "en": "people"
+    },
+    {
+      "ar": "خالصاً للّه",
+      "en": "wholly for the sake of God"
+    },
+    {
+      "ar": "طلباً لرضائه",
+      "en": "His good-pleasure"
+    },
+    {
+      "ar": "آيات",
+      "en": "verses"
+    },
+    {
+      "ar": "کتاب",
+      "en": "Book"
+    },
+    {
+      "ar": "ملاحظه نمايند",
+      "en": "ponder"
+    },
+    {
+      "ar": "می طلبند",
+      "en": "seek"
+    },
+    {
+      "ar": "ادراک می نمايند",
+      "en": "find"
+    },
+    {
+      "ar": "امور",
+      "en": "things"
+    },
+    {
+      "ar": "واقعه",
+      "en": "come to pass"
+    },
+    {
+      "ar": "ظهور",
+      "en": "Dispensation"
+    },
+    {
+      "ar": "کلّی",
+      "en": "great"
+    },
+    {
+      "ar": "جزئی",
+      "en": "small"
+    },
+    {
+      "ar": "مکشوف",
+      "en": "revealed"
+    },
+    {
+      "ar": "خروج",
+      "en": "departure"
+    },
+    {
+      "ar": "مظاهر",
+      "en": "Manifestations"
+    },
+    {
+      "ar": "اسماء",
+      "en": "names"
+    },
+    {
+      "ar": "صفات",
+      "en": "attributes"
+    },
+    {
+      "ar": "اوطان",
+      "en": "native land"
+    },
+    {
+      "ar": "اعراض",
+      "en": "opposition"
+    },
+    {
+      "ar": "اغماض",
+      "en": "disdainful arrogance"
+    },
+    {
+      "ar": "دولت",
+      "en": "government"
+    },
+    {
+      "ar": "سکون",
+      "en": "dwelling"
+    },
+    {
+      "ar": "استقرار",
+      "en": "establishment"
+    },
+    {
+      "ar": "مظهر کلّيّه",
+      "en": "Universal Manifestation"
+    },
+    {
+      "ar": "ارض",
+      "en": "land"
+    },
+    {
+      "ar": "مخصوص",
+      "en": "designated"
+    },
+    {
+      "ar": "لا يَعرِفُ",
+      "en": "can comprehend"
+    },
+    {
+      "ar": "إلّا",
+      "en": "except"
+    },
+    {
+      "ar": "اُولُو الالباب",
+      "en": "possessed of an understanding heart"
+    }
+  ],
+  "terms": [
+    {
+      "term": "وجهه",
+      "transliteration": "w-j-h",
+      "literal": "face; countenance; direction; aspect",
+      "se_rendering": "countenance",
+      "note": "Typically 'faces' or 'their faces' across 64 occurrences. 'Countenance' here captures spiritual/moral visibility — an abstract sense absent from physical face renderings.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 503,
+          "snippet": "their faces"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 246,
+          "snippet": "faces"
+        },
+        {
+          "work": "gleanings",
+          "para": 596,
+          "snippet": "eyes"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 162,
+          "snippet": "turned"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 306,
+          "snippet": "set their faces"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 16,
+          "snippet": "unto Mine"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 498,
+          "snippet": "his face"
+        },
+        {
+          "work": "gleanings",
+          "para": 273,
+          "snippet": "face"
+        }
+      ]
+    },
+    {
+      "term": "ظاهر",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "manifest",
+      "note": "Usually 'Manifestation' or 'manifestation' (96 occ). Here 'manifest' as verb/adjective, particularizing revelation of divine truths within textual verses rather than in persons.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 53,
+          "snippet": "Manifestation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 160,
+          "snippet": "Author of all Manifestations"
+        },
+        {
+          "work": "gleanings",
+          "para": 222,
+          "snippet": "material"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 206,
+          "snippet": "appeared"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 255,
+          "snippet": "Manifestations"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 791,
+          "snippet": "tokens of Thy handiwork"
+        }
+      ]
+    },
+    {
+      "term": "امور",
+      "transliteration": "ʾ-m-r",
+      "literal": "command; cause; matter; affair",
+      "se_rendering": "things",
+      "note": "Typically 'His Cause' or 'Cause' (75 occ). 'Things' renders it as plural events/occurrences in Dispensation — depersonalized, distributive rather than singular cosmic agency.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "His Cause"
+        },
+        {
+          "work": "gleanings",
+          "para": 586,
+          "snippet": "His command"
+        },
+        {
+          "work": "gleanings",
+          "para": 691,
+          "snippet": "His Revelation"
+        },
+        {
+          "work": "gleanings",
+          "para": 723,
+          "snippet": "Cause"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 797,
+          "snippet": "Thy Cause"
+        },
+        {
+          "work": "gleanings",
+          "para": 8,
+          "snippet": "Revelation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 597,
+          "snippet": "service"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 167,
+          "snippet": "things"
+        }
+      ]
+    },
+    {
+      "term": "خروج",
+      "transliteration": "kh-r-j",
+      "literal": "bringing out, taking out, expulsion, extraction",
+      "se_rendering": "departure",
+      "note": "Root rarely reaches 'departure' — concordance shows 'went forth,' 'Step out,' 'Unsheathe.' Here applied to Manifestations leaving homeland, making exile/displacement primary sense.",
+      "cross_refs": [
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 25,
+          "snippet": "the maid of heaven looked out"
+        },
+        {
+          "work": "gleanings",
+          "para": 588,
+          "snippet": "Step out of Thy holy chamber"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 43,
+          "snippet": "Unsheathe the sword of your tongue"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 84,
+          "snippet": "Come ye out of them by My leave"
+        },
+        {
+          "work": "gleanings",
+          "para": 243,
+          "snippet": "Our expulsion"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 36,
+          "snippet": "went forth"
+        },
+        {
+          "work": "gleanings",
+          "para": 308,
+          "snippet": "concealed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 127,
+          "snippet": "foreign"
+        }
+      ]
+    },
+    {
+      "term": "اسماء",
+      "transliteration": "s-m-y",
+      "literal": "to name, to nominate, to designate, to appoint",
+      "se_rendering": "names",
+      "note": "Usually 'Names' (capitalized) denoting divine attributes. Here lowercase 'names' coordinates with 'attributes,' emphasizing paired theological concepts rather than Names as independent designations.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 20,
+          "snippet": "nominated and appointed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 3,
+          "snippet": "names"
+        },
+        {
+          "work": "gleanings",
+          "para": 374,
+          "snippet": "of His names"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 103,
+          "snippet": "thy name"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 91,
+          "snippet": "My name"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 35,
+          "snippet": "by Thy name"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 107,
+          "snippet": "in the Most Great Name"
+        },
+        {
+          "work": "gleanings",
+          "para": 112,
+          "snippet": "by the Name"
+        }
+      ]
+    },
+    {
+      "term": "استقرار",
+      "transliteration": "q-r-r",
+      "literal": "stability; firmness; establishment",
+      "se_rendering": "establishment",
+      "note": "Typically 'established' or 'steadfast in faith.' 'Establishment' nominalizes it to territorial permanence/settlement, aligning with 'dwelling' and 'appointed land' — spatial rather than spiritual firmness.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 38,
+          "snippet": "steadfast in faith"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 13,
+          "snippet": "resting place"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 17,
+          "snippet": "determine"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 57,
+          "snippet": "established"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 155,
+          "snippet": "Peruse"
+        },
+        {
+          "work": "gleanings",
+          "para": 157,
+          "snippet": "acknowledged"
+        },
+        {
+          "work": "gleanings",
+          "para": 618,
+          "snippet": "Intone"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 15,
+          "snippet": "chant"
+        }
+      ]
+    }
+  ],
+  "section_index": "187",
+  "section": "187",
+  "section_para": 1
 }

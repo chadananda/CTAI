@@ -1,10 +1,328 @@
 {
   "work": "The Hidden Words",
   "slug": "the-hidden-words",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 77,
   "source_text": "(٣) ﴿ ای دوست﴾\nدر روضه قلب جز گل عشق مکار و از ذيل بلبل حبّ و شوق دست مدار * مصاحبت ابرار را غنيمت دان و از مرافقت اشرار دست و دل هر دو بردار *",
   "translation": "(3) O FRIEND!\nIn the garden of thy heart plant naught but the rose of love, and from the nightingale of affection and desire loosen not thy hold. Treasure the companionship of the righteous and eschew all fellowship with the ungodly.",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "rose-of-love-garden-heart",
+  "alignment": [
+    {
+      "ar": "دوست",
+      "en": "FRIEND"
+    },
+    {
+      "ar": "روضه",
+      "en": "garden"
+    },
+    {
+      "ar": "قلب",
+      "en": "heart"
+    },
+    {
+      "ar": "گل",
+      "en": "rose"
+    },
+    {
+      "ar": "عشق",
+      "en": "love"
+    },
+    {
+      "ar": "مکار",
+      "en": "plant"
+    },
+    {
+      "ar": "بلبل",
+      "en": "nightingale"
+    },
+    {
+      "ar": "حبّ",
+      "en": "affection"
+    },
+    {
+      "ar": "شوق",
+      "en": "desire"
+    },
+    {
+      "ar": "دست",
+      "en": "hold"
+    },
+    {
+      "ar": "مدار",
+      "en": "loosen not"
+    },
+    {
+      "ar": "مصاحبت",
+      "en": "companionship"
+    },
+    {
+      "ar": "ابرار",
+      "en": "righteous"
+    },
+    {
+      "ar": "غنيمت",
+      "en": "Treasure"
+    },
+    {
+      "ar": "مرافقت",
+      "en": "fellowship"
+    },
+    {
+      "ar": "اشرار",
+      "en": "ungodly"
+    },
+    {
+      "ar": "بردار",
+      "en": "eschew"
+    }
+  ],
+  "terms": [
+    {
+      "term": "روضه",
+      "transliteration": "r-w-d",
+      "literal": "garden; meadow; enclosed garden",
+      "se_rendering": "garden",
+      "note": "Consistently rendered 'garden' (3 occurrences total). Straightforward botanical metaphor without variation.",
+      "cross_refs": []
+    },
+    {
+      "term": "عشق",
+      "transliteration": "ʿ-sh-q",
+      "literal": "love, passion, ardor",
+      "se_rendering": "love",
+      "note": "Root yields 'love', 'City of Love', 'ardent lovers', 'lovers of God', 'hearts of Thy lovers'. Here simply 'love' — most direct nominal rendering in SE's corpus.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 363,
+          "snippet": "love"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 509,
+          "snippet": "ardent lovers"
+        },
+        {
+          "work": "gleanings",
+          "para": 271,
+          "snippet": "lovers of God"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 767,
+          "snippet": "hearts of Thy lovers"
+        }
+      ]
+    },
+    {
+      "term": "ذیل",
+      "transliteration": "d-y-l",
+      "literal": "hem; skirt; fold of a garment; train",
+      "se_rendering": "hold",
+      "note": "Typically 'hem of Our/My Robe/vesture' (4 occurrences). 'Hold' here is unique metaphorical shift—nightingale grasps skirt rather than proximity to garment.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 645,
+          "snippet": "the hem of Our Robe"
+        },
+        {
+          "work": "gleanings",
+          "para": 223,
+          "snippet": "thy skirt"
+        },
+        {
+          "work": "gleanings",
+          "para": 405,
+          "snippet": "hem of My sacred vesture"
+        },
+        {
+          "work": "gleanings",
+          "para": 493,
+          "snippet": "hem of Our sacred vesture"
+        }
+      ]
+    },
+    {
+      "term": "شوق",
+      "transliteration": "sh-w-q",
+      "literal": "to encourage; to incite; yearning; enthusiasm",
+      "se_rendering": "desire",
+      "note": "Root covers 'encourage/incite/yearning'. Renderings span 'promulgation', 'longing', 'in longing'. 'Desire' here compounds with 'affection' as emotional state rather than impulsion or religious aspiration.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 14,
+          "snippet": "promulgation"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 57,
+          "snippet": "veiled"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 57,
+          "snippet": "Shoghi Effendi"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 48,
+          "snippet": "longing"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 359,
+          "snippet": "in their longing"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 133,
+          "snippet": "in longing"
+        },
+        {
+          "work": "gleanings",
+          "para": 38,
+          "snippet": "fire of longing"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 399,
+          "snippet": "fire of their longing"
+        }
+      ]
+    },
+    {
+      "term": "مصاحبت",
+      "transliteration": "ṣ-i-b",
+      "literal": "calamity; misfortune; disaster; affliction",
+      "se_rendering": "fellowship",
+      "note": "Root means 'calamity; misfortune' but SE renders 'fellowship' here—phonetically similar root confusion or deliberate reinterpretation as social association rather than affliction.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 32,
+          "snippet": "calamities"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 27,
+          "snippet": "lamps"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 49,
+          "snippet": "distress"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 54,
+          "snippet": "tribulations"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 52,
+          "snippet": "calamity"
+        }
+      ]
+    },
+    {
+      "term": "غنیمت",
+      "transliteration": "gh-n-y",
+      "literal": "to be independent of; to be in no need of; to dispense with",
+      "se_rendering": "treasure",
+      "note": "Root 'to be independent of' yields diverse renderings: 'in no need of', 'rid yourselves of attachment', 'Self-Sufficing'. 'Treasure' emphasizes acquisition rather than negation—inverts the semantic field.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 27,
+          "snippet": "in no need of"
+        },
+        {
+          "work": "gleanings",
+          "para": 685,
+          "snippet": "rid yourselves of attachment"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 660,
+          "snippet": "the All-Possessing"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 155,
+          "snippet": "Self-Sufficing"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 115,
+          "snippet": "the All-Bounteous"
+        },
+        {
+          "work": "gleanings",
+          "para": 179,
+          "snippet": "the Self-Subsisting"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 143,
+          "snippet": "the Rich"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 56,
+          "snippet": "sufficiency"
+        }
+      ]
+    },
+    {
+      "term": "اشرار",
+      "transliteration": "sh-r-r",
+      "literal": "evil; harm; wickedness",
+      "se_rendering": "ungodly",
+      "note": "Rendered both 'evil', 'the wicked', and 'the ungodly' (10 occurrences). 'Ungodly' here adds theological valence absent from bare 'evil', interpreting wickedness as godlessness.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 270,
+          "snippet": "Divine Law"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 160,
+          "snippet": "Lights"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 268,
+          "snippet": "East"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 36,
+          "snippet": "evil"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 40,
+          "snippet": "the wicked"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 255,
+          "snippet": "father of evils"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 12,
+          "snippet": "evils of self"
+        }
+      ]
+    }
+  ],
+  "section_index": "152",
+  "section": "152",
+  "section_para": 1
 }

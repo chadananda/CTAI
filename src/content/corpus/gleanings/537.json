@@ -1,10 +1,617 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 537,
   "source_text": "أجسادکم عن خلع الهدی ثمّ اشربوا عن کأس الّتي یحرّکها غلمان الظّهور فوق رؤوسکم وکذلک أمرکم الّذي کان أرحم بکم من أنفسکم ولن یطلب منکم أجرًا ولا جزآءً إنّ أمره إلّا علی الّذي أرسله بالحقّ وجعله لنفسه حجّة علی الخلایق أجمعین وأظهره بکلّ الآیات إِذًا فارتدّوا أبصارکم لتشهدوا ما نطق علیکم لسان القِدم لعلّ تکوننّ من المطّلعین هل سمعتم من آبائکم وآبآء آبائکم إلی أن ینتهي إلی آدم الأولی بأن أتی أحد علی ظلل الأمر بسلطان لائح مبین وحرّک عن یمینه ملکوت الله وعن یساره جبروت القِدم وعن قدّامه جنود الله المقتدر الغالب القدیر وتکلّم في کلّ حین بآیات الّتي تعجز عن عرفانها أفئدة العارفین ولم یکن من عند الله إِذًا تبیّنوا ثمّ تکلّموا علی الصّدق",
   "translation": "Beware that ye divest not yourselves of the raiment of Divine guidance. Drink ye your fill from the Cup which the Youths of Heaven have raised above your heads. Thus biddeth you He Who hath more mercy upon you than your own selves, He Who asketh not any recompense or thanks from you. His reward is from Him Who hath, through the power of truth, sent Him down unto you, and singled Him out and proclaimed Him as His own Testimony unto the whole of creation. He it is Who hath empowered Him to manifest all His signs. Repeat the gaze, that ye may perceive the things whereunto the Tongue of the Ancient of Days hath summoned you, that haply ye may be of them that have apprehended the truth. Heard it ye ever reported by your fathers of old, or by the generations that preceded them, even unto the first Adam, that anyone coming in the clouds of revelation, being invested with manifest and transcendent sovereignty, having on his right hand the Kingdom of God and on his left all the power and glory of His everlasting dominion, anyone preceded by the hosts of God, the Almighty, the All-Compelling, the Most Powerful, and uttering continually verses whose import the minds of the most learned and wisest of men are powerless to fathom, should yet be the bearer of a message that is not of God? Be discerning, then, and speak ye the truth, the very truth, if ye claim to be honest and high-minded.",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "cup-youths-heaven-divine-guidance",
+  "alignment": [
+    {
+      "ar": "أجسادکم",
+      "en": "yourselves"
+    },
+    {
+      "ar": "خلع",
+      "en": "divest"
+    },
+    {
+      "ar": "الهدی",
+      "en": "Divine guidance"
+    },
+    {
+      "ar": "اشربوا",
+      "en": "Drink"
+    },
+    {
+      "ar": "کأس",
+      "en": "Cup"
+    },
+    {
+      "ar": "یحرّکها",
+      "en": "raised"
+    },
+    {
+      "ar": "غلمان",
+      "en": "Youths"
+    },
+    {
+      "ar": "الظّهور",
+      "en": "Heaven"
+    },
+    {
+      "ar": "رؤوسکم",
+      "en": "your heads"
+    },
+    {
+      "ar": "أمرکم",
+      "en": "biddeth you"
+    },
+    {
+      "ar": "أرحم",
+      "en": "more mercy"
+    },
+    {
+      "ar": "أنفسکم",
+      "en": "your own selves"
+    },
+    {
+      "ar": "یطلب",
+      "en": "asketh"
+    },
+    {
+      "ar": "أجرًا",
+      "en": "recompense"
+    },
+    {
+      "ar": "جزآءً",
+      "en": "thanks"
+    },
+    {
+      "ar": "أمره",
+      "en": "His reward"
+    },
+    {
+      "ar": "أرسله",
+      "en": "sent Him down"
+    },
+    {
+      "ar": "بالحقّ",
+      "en": "through the power of truth"
+    },
+    {
+      "ar": "جعله",
+      "en": "singled Him out"
+    },
+    {
+      "ar": "حجّة",
+      "en": "Testimony"
+    },
+    {
+      "ar": "الخلایق",
+      "en": "creation"
+    },
+    {
+      "ar": "أجمعین",
+      "en": "the whole"
+    },
+    {
+      "ar": "أظهره",
+      "en": "empowered Him to manifest"
+    },
+    {
+      "ar": "الآیات",
+      "en": "signs"
+    },
+    {
+      "ar": "ارتدّوا",
+      "en": "Repeat"
+    },
+    {
+      "ar": "أبصارکم",
+      "en": "the gaze"
+    },
+    {
+      "ar": "تشهدوا",
+      "en": "perceive"
+    },
+    {
+      "ar": "نطق",
+      "en": "summoned"
+    },
+    {
+      "ar": "لسان",
+      "en": "Tongue"
+    },
+    {
+      "ar": "القِدم",
+      "en": "the Ancient of Days"
+    },
+    {
+      "ar": "المطّلعین",
+      "en": "apprehended"
+    },
+    {
+      "ar": "سمعتم",
+      "en": "Heard"
+    },
+    {
+      "ar": "آبائکم",
+      "en": "your fathers"
+    },
+    {
+      "ar": "آبآء آبائکم",
+      "en": "the generations that preceded them"
+    },
+    {
+      "ar": "ینتهي",
+      "en": "even"
+    },
+    {
+      "ar": "آدم الأولی",
+      "en": "the first Adam"
+    },
+    {
+      "ar": "أتی",
+      "en": "coming"
+    },
+    {
+      "ar": "ظلل",
+      "en": "clouds"
+    },
+    {
+      "ar": "الأمر",
+      "en": "revelation"
+    },
+    {
+      "ar": "بسلطان",
+      "en": "sovereignty"
+    },
+    {
+      "ar": "لائح",
+      "en": "manifest"
+    },
+    {
+      "ar": "مبین",
+      "en": "transcendent"
+    },
+    {
+      "ar": "حرّک",
+      "en": "having"
+    },
+    {
+      "ar": "یمینه",
+      "en": "his right hand"
+    },
+    {
+      "ar": "ملکوت الله",
+      "en": "the Kingdom of God"
+    },
+    {
+      "ar": "یساره",
+      "en": "his left"
+    },
+    {
+      "ar": "جبروت",
+      "en": "all the power and glory"
+    },
+    {
+      "ar": "القِدم",
+      "en": "everlasting dominion"
+    },
+    {
+      "ar": "قدّامه",
+      "en": "preceded"
+    },
+    {
+      "ar": "جنود الله",
+      "en": "the hosts of God"
+    },
+    {
+      "ar": "المقتدر",
+      "en": "the Almighty"
+    },
+    {
+      "ar": "الغالب",
+      "en": "the All-Compelling"
+    },
+    {
+      "ar": "القدیر",
+      "en": "the Most Powerful"
+    },
+    {
+      "ar": "تکلّم",
+      "en": "uttering"
+    },
+    {
+      "ar": "حین",
+      "en": "continually"
+    },
+    {
+      "ar": "آیات",
+      "en": "verses"
+    },
+    {
+      "ar": "تعجز",
+      "en": "powerless to fathom"
+    },
+    {
+      "ar": "عرفانها",
+      "en": "import"
+    },
+    {
+      "ar": "أفئدة",
+      "en": "minds"
+    },
+    {
+      "ar": "العارفین",
+      "en": "the most learned and wisest of men"
+    },
+    {
+      "ar": "عند الله",
+      "en": "of God"
+    },
+    {
+      "ar": "تبیّنوا",
+      "en": "Be discerning"
+    },
+    {
+      "ar": "تکلّموا",
+      "en": "speak"
+    },
+    {
+      "ar": "الصّدق",
+      "en": "the truth, the very truth"
+    }
+  ],
+  "terms": [
+    {
+      "term": "الظّهور",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "Youths of Heaven",
+      "note": "Typically 'Manifestation' or 'manifestation' (96 occ). Here rendered as 'Youths of Heaven'—a poetic agent noun personifying the Manifestation, unusual in SE's corpus and metaphorically elevated.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 140,
+          "snippet": "manifestation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 160,
+          "snippet": "Author of all Manifestations"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 136,
+          "snippet": "evident"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 206,
+          "snippet": "appeared"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 196,
+          "snippet": "Manifestations of God"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 255,
+          "snippet": "Manifestations"
+        }
+      ]
+    },
+    {
+      "term": "امره",
+      "transliteration": "ʾ-m-r",
+      "literal": "command; cause; matter; affair",
+      "se_rendering": "His Cause",
+      "note": "Standard renderings include 'His Cause' and 'His Revelation' (75 occ). Here 'His Cause' maintains alignment with typical usage, referring to the divine purpose or command.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "His Cause"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 797,
+          "snippet": "Thy Cause"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 597,
+          "snippet": "service"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 167,
+          "snippet": "things"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "commanded"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 236,
+          "snippet": "commissioned"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 785,
+          "snippet": "Thy Revelation"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 38,
+          "snippet": "for the protection of the Cause"
+        }
+      ]
+    },
+    {
+      "term": "بالحقّ",
+      "transliteration": "h-q-q",
+      "literal": "truth; right; that which is true or just",
+      "se_rendering": "power of truth",
+      "note": "Commonly 'the True One' or 'the Truth' (43 occ). Here 'power of truth' nominalize the concept, stressing truth as instrumentality rather than divine attribute.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 238,
+          "snippet": "the True One"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 52,
+          "snippet": "Sun of Truth"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 103,
+          "snippet": "Luminaries of Truth"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 113,
+          "snippet": "was realized"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 215,
+          "snippet": "realization"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 9,
+          "snippet": "evident"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "betrayal of truth"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 195,
+          "snippet": "incontrovertible"
+        }
+      ]
+    },
+    {
+      "term": "المطّلعین",
+      "transliteration": "t-l-ʿ",
+      "literal": "rising; appearance; countenance; manifestation",
+      "se_rendering": "them that have apprehended the truth",
+      "note": "Renderings vary widely: 'Manifestations', 'sources of command', 'Revealers' (32 occ). Here 'them that have apprehended the truth' emphasizes human perception over divine agency.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 47,
+          "snippet": "lives"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 856,
+          "snippet": "countenances"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "sources of command"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 16,
+          "snippet": "embodiments"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 21,
+          "snippet": "daysprings"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 24,
+          "snippet": "exponents"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 276,
+          "snippet": "Revealer"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 26,
+          "snippet": "Dayspring"
+        }
+      ]
+    },
+    {
+      "term": "ملکوت",
+      "transliteration": "m-l-k",
+      "literal": "kingdom; dominion; realm; sovereignty",
+      "se_rendering": "Kingdom of God",
+      "note": "Usually 'Kingdom' or 'kingdom' (70 occ). 'Kingdom of God' here is direct and explicit, foregrounding divine sovereignty in this cosmological passage.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-ahd",
+          "para": 16,
+          "snippet": "heaven"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 171,
+          "snippet": "kingdom"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 69,
+          "snippet": "realms"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 28,
+          "snippet": "righteous"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 167,
+          "snippet": "by the heavenly power"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 57,
+          "snippet": "Ruler"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 82,
+          "snippet": "King"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 102,
+          "snippet": "Lord of all mankind"
+        }
+      ]
+    },
+    {
+      "term": "جبروت",
+      "transliteration": "j-b-r",
+      "literal": "compelled; forced; constrained",
+      "se_rendering": "power and glory",
+      "note": "Rare term with varied renderings: 'compelled', 'the realm of might', 'omnipotence' (19 occ). SE's 'power and glory' here compounds attributes, creating parallel symmetry with ملکوت.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "exhorted"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 38,
+          "snippet": "constrained"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 141,
+          "snippet": "the omnipotence of the signs"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 402,
+          "snippet": "the realm of immortality"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 438,
+          "snippet": "the heaven of omnipotence"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 234,
+          "snippet": "the realm of might"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 53,
+          "snippet": "Divine Strength"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 1,
+          "snippet": "glory"
+        }
+      ]
+    },
+    {
+      "term": "عرفانها",
+      "transliteration": "ʿ-r-f",
+      "literal": "to confess; to acknowledge; to recognize",
+      "se_rendering": "fathom",
+      "note": "Typically 'understanding' or 'have recognized' (82 occ). Here 'fathom' (as 'powerless to fathom') shifts semantic focus from epistemological recognition to cognitive incomprehensibility.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 601,
+          "snippet": "testifieth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 729,
+          "snippet": "hath acknowledged"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 582,
+          "snippet": "have recognized"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 228,
+          "snippet": "acknowledged"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 744,
+          "snippet": "understanding"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 5,
+          "snippet": "acknowledging"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 4,
+          "snippet": "fragrance of His garment"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 114,
+          "snippet": "Thy knowledge"
+        }
+      ]
+    }
+  ],
+  "section_index": "CXXI.8",
+  "section": "CXXI",
+  "section_para": 8
 }

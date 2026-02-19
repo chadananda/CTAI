@@ -1,10 +1,182 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 403,
   "source_text": "إنّا ما دخلنا المدارس وما طالعنا المباحث اسمعوا ما يدعوكم به هذا الأمّيّ إلى الله الأبديّ إنّه خير لكم عمّا كنز في الأرض لو أنتم تفقهون..",
   "translation": "We have not entered any school, nor read any of your dissertations. Incline your ears to the words of this unlettered One, wherewith He summoneth you unto God, the Ever-Abiding. Better is this for you than all the treasures of the earth, could ye but comprehend it.",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "unlettered-one-summoneth-god",
+  "alignment": [
+    {
+      "ar": "دخلنا",
+      "en": "entered"
+    },
+    {
+      "ar": "المدارس",
+      "en": "school"
+    },
+    {
+      "ar": "طالعنا",
+      "en": "read"
+    },
+    {
+      "ar": "المباحث",
+      "en": "dissertations"
+    },
+    {
+      "ar": "اسمعوا",
+      "en": "Incline your ears"
+    },
+    {
+      "ar": "يدعوكم",
+      "en": "summoneth you"
+    },
+    {
+      "ar": "الأمّيّ",
+      "en": "unlettered One"
+    },
+    {
+      "ar": "الله",
+      "en": "God"
+    },
+    {
+      "ar": "الأبديّ",
+      "en": "Ever-Abiding"
+    },
+    {
+      "ar": "خير",
+      "en": "Better"
+    },
+    {
+      "ar": "لكم",
+      "en": "for you"
+    },
+    {
+      "ar": "كنز",
+      "en": "treasures"
+    },
+    {
+      "ar": "الأرض",
+      "en": "earth"
+    },
+    {
+      "ar": "تفقهون",
+      "en": "comprehend"
+    }
+  ],
+  "terms": [
+    {
+      "term": "طالعنا",
+      "transliteration": "t-l-ʿ",
+      "literal": "rising; appearance; countenance; manifestation",
+      "se_rendering": "read",
+      "note": "Root typically renders as 'Manifestations' or 'Revealers' (32 occ). Here SE chose 'read'—a semantic shift to intellectual/scholastic context rather than theophanic.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 47,
+          "snippet": "lives"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 856,
+          "snippet": "countenances"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "sources of command"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 16,
+          "snippet": "embodiments"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 21,
+          "snippet": "daysprings"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 24,
+          "snippet": "exponents"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 276,
+          "snippet": "Revealer"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 26,
+          "snippet": "Dayspring"
+        }
+      ]
+    },
+    {
+      "term": "المباحث",
+      "transliteration": "b-h-th",
+      "literal": "dissertations; discussions; inquiries",
+      "se_rendering": "dissertations",
+      "note": "Rare term (4 occ) with consistent 'dissertations' rendering. SE preserves the academic register implicitly denied in the preceding clause.",
+      "cross_refs": []
+    },
+    {
+      "term": "الأمّيّ",
+      "transliteration": "ʾ-m-y",
+      "literal": "unlettered; illiterate; not trained in conventional learning",
+      "se_rendering": "unlettered One",
+      "note": "Appears twice in corpus, both rendered 'unlettered.' SE's capitalization ('One') elevates this as a title, echoing Quranic language of the unlettered Prophet.",
+      "cross_refs": []
+    },
+    {
+      "term": "خير",
+      "transliteration": "kh-y-r",
+      "literal": "good; goodness; benefit; better; best",
+      "se_rendering": "Better",
+      "note": "Only 5 occurrences in corpus; 'Better' is modal/comparative. SE preserves the evaluative structure: the spiritual summons exceeds earthly goods.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 25,
+          "snippet": "good"
+        }
+      ]
+    },
+    {
+      "term": "كنز",
+      "transliteration": "k-n-z",
+      "literal": "treasure; treasure-trove; hidden store; treasury",
+      "se_rendering": "treasures",
+      "note": "18 occurrences span 'treasure' to 'handmaid.' Here plural 'treasures' pluralizes the singular Arabic—SE emphasizes material abundance being transcended.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 49,
+          "snippet": "treasure"
+        },
+        {
+          "work": "tablet-of-carmel",
+          "para": 5,
+          "snippet": "treasury"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 117,
+          "snippet": "handmaid"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 35,
+          "snippet": "treasures of the earth"
+        }
+      ]
+    }
+  ],
+  "section_index": "XCVIII.6",
+  "section": "XCVIII",
+  "section_para": 6
 }

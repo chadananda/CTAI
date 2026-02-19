@@ -1,10 +1,315 @@
 {
   "work": "Tablet of Ahmad",
   "slug": "tablet-of-ahmad",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 14,
   "source_text": "وَإِنَّكَ أَنْتَ أَيْقِنْ فِي ذَاتِكَ بِأَنَّ ٱلَّذِي أَعْرَضَ عَنْ هَذَا ٱلْجَمَالِ فَقَدْ أَعْرَضَ عَنِ ٱلْرُّسُلِ مِنْ قَبْلُ ثُمَّ ٱسْتَكْبَرَ عَلَى اللهِ فِي أَزلِ ٱلْآزَالِ إِلَى أَبَدِ ٱلْآبِدِينَ",
   "translation": "Be thou assured in thyself that verily, he who turns away from this Beauty hath also turned away from the Messengers of the past and showeth pride towards God from all eternity to all eternity.",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "turns-away-beauty-messengers",
+  "alignment": [
+    {
+      "ar": "أَنْتَ",
+      "en": "thou"
+    },
+    {
+      "ar": "أَيْقِنْ",
+      "en": "assured"
+    },
+    {
+      "ar": "ذَاتِكَ",
+      "en": "thyself"
+    },
+    {
+      "ar": "أَعْرَضَ",
+      "en": "turns away"
+    },
+    {
+      "ar": "هَذَا",
+      "en": "this"
+    },
+    {
+      "ar": "ٱلْجَمَالِ",
+      "en": "Beauty"
+    },
+    {
+      "ar": "فَقَدْ",
+      "en": "hath"
+    },
+    {
+      "ar": "أَعْرَضَ",
+      "en": "turned away"
+    },
+    {
+      "ar": "قَبْلُ",
+      "en": "past"
+    },
+    {
+      "ar": "ٱسْتَكْبَرَ",
+      "en": "showeth pride"
+    },
+    {
+      "ar": "اللهِ",
+      "en": "God"
+    },
+    {
+      "ar": "أَزلِ",
+      "en": "eternity"
+    },
+    {
+      "ar": "ٱلْآزَالِ",
+      "en": "all eternity"
+    }
+  ],
+  "terms": [
+    {
+      "term": "أَعْرَضَ",
+      "transliteration": "ʿ-r-d",
+      "literal": "to turn away; to avert; to abstain; heedless",
+      "se_rendering": "turns away",
+      "note": "Standard rendering across corpus as 'turned away'; appears twice in rapid succession here, emphasizing continuity of rejection from past messengers to present.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 136,
+          "snippet": "turned away"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 168,
+          "snippet": "turned aside"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 230,
+          "snippet": "disbelievers"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 505,
+          "snippet": "turned their backs"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 89,
+          "snippet": "objections"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 431,
+          "snippet": "have turned back"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 29,
+          "snippet": "hast turned away"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 104,
+          "snippet": "are turned back"
+        }
+      ]
+    },
+    {
+      "term": "ٱلْجَمَالِ",
+      "transliteration": "j-m-l",
+      "literal": "beauty; comeliness",
+      "se_rendering": "Beauty",
+      "note": "SE typically renders as 'Beauty' or 'beauty'; capitalized here as a proper name referencing Bahá'u'lláh, consistent with Bahá'í theological terminology where Beauty denotes the divine manifestation.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 296,
+          "snippet": "Beauty"
+        },
+        {
+          "work": "gleanings",
+          "para": 183,
+          "snippet": "Ancient Beauty"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 193,
+          "snippet": "Among others"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 67,
+          "snippet": "Among"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 208,
+          "snippet": "Among the sciences"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 268,
+          "snippet": "Among them"
+        },
+        {
+          "work": "gleanings",
+          "para": 359,
+          "snippet": "Amongst"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 118,
+          "snippet": "following"
+        }
+      ]
+    },
+    {
+      "term": "ٱلْرُّسُلِ",
+      "transliteration": "r-s-l",
+      "literal": "to send; dispatch; transmission",
+      "se_rendering": "Messengers",
+      "note": "Consistently rendered 'Messengers' with capital M in SE's corpus; references prophetic figures from Islamic tradition as witnesses to divine truth.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 95,
+          "snippet": "dispatch"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 202,
+          "snippet": "communicate"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 45,
+          "snippet": "Thy Messengers"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 53,
+          "snippet": "treatise on"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 98,
+          "snippet": "messages"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 145,
+          "snippet": "Epistle"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 198,
+          "snippet": "Messengership"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 222,
+          "snippet": "mission"
+        }
+      ]
+    },
+    {
+      "term": "ٱسْتَكْبَرَ",
+      "transliteration": "k-b-r",
+      "literal": "great; grand; mighty; large",
+      "se_rendering": "showeth pride",
+      "note": "Root k-b-r typically yields 'Great' or 'mighty'; here becomes 'showeth pride'—SE interprets the reflexive form as expressing arrogant defiance rather than magnitude.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 181,
+          "snippet": "Great City"
+        },
+        {
+          "work": "gleanings",
+          "para": 351,
+          "snippet": "Most Great"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 64,
+          "snippet": "Great God"
+        },
+        {
+          "work": "gleanings",
+          "para": 10,
+          "snippet": "most mighty grace"
+        },
+        {
+          "work": "gleanings",
+          "para": 23,
+          "snippet": "most grievous veil"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "Greater Branch"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 188,
+          "snippet": "weighty"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 60,
+          "snippet": "great"
+        }
+      ]
+    },
+    {
+      "term": "اللهِ",
+      "transliteration": "ʾ-l-h",
+      "literal": "God; Allah",
+      "se_rendering": "God",
+      "note": "Invariably 'God' in SE's standard renderings; maintains consistency across 53 occurrences, preserving monotheistic terminology.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 294,
+          "snippet": "God"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 10,
+          "snippet": "O God, my God"
+        },
+        {
+          "work": "gleanings",
+          "para": 341,
+          "snippet": "of God"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 11,
+          "snippet": "My God"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 645,
+          "snippet": "My God, Thou Whom I adore and worship"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 658,
+          "snippet": "My God, Whom I worship and adore"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 662,
+          "snippet": "O my God, the God of bounty and mercy"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 704,
+          "snippet": "My God, my Adored One, my King, my Desire"
+        }
+      ]
+    }
+  ],
+  "section_index": "14",
+  "section": "14",
+  "section_para": 1
 }

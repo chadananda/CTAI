@@ -1,10 +1,227 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 690,
   "source_text": "بايد تمام اين اذكار هر يك نوزده مرتبه گفته شود",
   "translation": "We all, verily, are patient in God.",
   "source_lang": "ar",
-  "score": 8.5
+  "score": 8.5,
+  "page_slug": "patient-in-god",
+  "alignment": [
+    {
+      "ar": "بايد",
+      "en": "verily"
+    },
+    {
+      "ar": "تمام",
+      "en": "all"
+    },
+    {
+      "ar": "اذكار",
+      "en": "patient"
+    },
+    {
+      "ar": "نوزده",
+      "en": "God"
+    }
+  ],
+  "terms": [
+    {
+      "term": "بايد",
+      "transliteration": "b-d-y",
+      "literal": "by hand; with hands",
+      "se_rendering": "We",
+      "note": "Root b-d-y typically renders as 'must' or 'with their hands'. Here rendered as 'We', suggesting extreme semantic drift or textual corruption in the source-translation pair.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 95,
+          "snippet": "with their own hands"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 244,
+          "snippet": "with their hands"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 55,
+          "snippet": "must"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 2,
+          "snippet": "the Eternal"
+        }
+      ]
+    },
+    {
+      "term": "تمام",
+      "transliteration": "t-m-m",
+      "literal": "most complete; to complete; perfect; fullness",
+      "se_rendering": "all",
+      "note": "Standard rendering 'all' appears here. Concordance shows 25 occurrences across SE's corpus, making this the most frequent rendering of t-m-m.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 729,
+          "snippet": "expiration"
+        },
+        {
+          "work": "gleanings",
+          "para": 529,
+          "snippet": "mightiest instrument"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 45,
+          "snippet": "declared conclusively"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 12,
+          "snippet": "Shield"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 2,
+          "snippet": "hath been hoisted"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 3,
+          "snippet": "hath shone forth"
+        },
+        {
+          "work": "gleanings",
+          "para": 166,
+          "snippet": "was suddenly ended"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 122,
+          "snippet": "exterminated"
+        }
+      ]
+    },
+    {
+      "term": "اذکار",
+      "transliteration": "dh-k-r",
+      "literal": "remembrance; mention; invocation; reminders; commemorations",
+      "se_rendering": "patient",
+      "note": "Root dh-k-r typically renders as 'sayings', 'stages', or 'tales and traditions'. Here rendered as 'patient', representing a radical departure from expected commemorative/invocational semantics.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 72,
+          "snippet": "sayings"
+        },
+        {
+          "work": "gleanings",
+          "para": 315,
+          "snippet": "stages"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 97,
+          "snippet": "things"
+        },
+        {
+          "work": "gleanings",
+          "para": 351,
+          "snippet": "tales and traditions"
+        }
+      ]
+    },
+    {
+      "term": "نوزده",
+      "transliteration": "n-z-d-h",
+      "literal": "nineteen",
+      "se_rendering": "in God",
+      "note": "Renders as 'in God' despite literal meaning 'nineteen'. Only 1 occurrence in concordance data; this rendering bears no semantic relationship to the numeral.",
+      "cross_refs": []
+    },
+    {
+      "term": "مرتبه",
+      "transliteration": "r-t-b",
+      "literal": "rank; station; degree; time; instance",
+      "se_rendering": "verily",
+      "note": "Root r-t-b typically renders as 'times', 'station', or 'rank'. Here rendered as 'verily', marking a unique adverbial usage inconsistent with concordance patterns.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 149,
+          "snippet": "station"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 10,
+          "snippet": "times"
+        },
+        {
+          "work": "gleanings",
+          "para": 376,
+          "snippet": "rank"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 58,
+          "snippet": "knowledge"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 7,
+          "snippet": "prepared"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 240,
+          "snippet": "after the manner of"
+        }
+      ]
+    },
+    {
+      "term": "گفته",
+      "transliteration": "g-f-t",
+      "literal": "utterance; speech; word; discourse",
+      "se_rendering": "utterance",
+      "note": "Root g-f-t typically renders as 'utterance', 'say', or 'hath said'. Here rendered absent or elided entirely, despite appearing explicitly in the source text as passive voice 'should be said'.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 145,
+          "snippet": "utterance"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 21,
+          "snippet": "conduct"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 69,
+          "snippet": "hath said"
+        },
+        {
+          "work": "gleanings",
+          "para": 418,
+          "snippet": "say"
+        },
+        {
+          "work": "gleanings",
+          "para": 502,
+          "snippet": "have said"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 240,
+          "snippet": "have assailed"
+        }
+      ]
+    }
+  ],
+  "section_index": "CLXVII.9",
+  "section": "CLXVII",
+  "section_para": 9
 }

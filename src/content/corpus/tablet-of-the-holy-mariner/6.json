@@ -1,10 +1,327 @@
 {
   "work": "Tablet of the Holy Mariner",
   "slug": "tablet-of-the-holy-mariner",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 6,
   "source_text": "وإذا وصّلتهم إلى شاطئ القدس ساحل بحر الحمراء فسبحان ربّي الأبهى",
   "translation": "Having reached the sacred strand, the shore of the crimson seas, Glorified be my Lord, the All-Glorious!",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "sacred-strand-crimson-seas",
+  "alignment": [
+    {
+      "ar": "وصّلتهم",
+      "en": "reached"
+    },
+    {
+      "ar": "شاطئ",
+      "en": "strand"
+    },
+    {
+      "ar": "القدس",
+      "en": "sacred"
+    },
+    {
+      "ar": "ساحل",
+      "en": "shore"
+    },
+    {
+      "ar": "بحر",
+      "en": "seas"
+    },
+    {
+      "ar": "الحمراء",
+      "en": "crimson"
+    },
+    {
+      "ar": "فسبحان",
+      "en": "Glorified"
+    },
+    {
+      "ar": "ربّي",
+      "en": "my Lord"
+    },
+    {
+      "ar": "الأبهى",
+      "en": "All-Glorious"
+    }
+  ],
+  "terms": [
+    {
+      "term": "وصّلتهم",
+      "transliteration": "w-s-f",
+      "literal": "to describe, characterize; description",
+      "se_rendering": "reached",
+      "note": "Root w-s-f usually rendered 'praise' or 'describe'; here 'reached' represents a rare spatial/directional sense not prominent in corpus data.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 182,
+          "snippet": "Describing"
+        },
+        {
+          "work": "gleanings",
+          "para": 268,
+          "snippet": "proclaimed Thyself"
+        },
+        {
+          "work": "gleanings",
+          "para": 6,
+          "snippet": "praise"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 237,
+          "snippet": "praise upon"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 315,
+          "snippet": "describe Thy glory"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 8,
+          "snippet": "described"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 172,
+          "snippet": "attributes"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 15,
+          "snippet": "equity"
+        }
+      ]
+    },
+    {
+      "term": "شاطئ",
+      "transliteration": "sh-t-ʾ",
+      "literal": "shore; bank; coast",
+      "se_rendering": "strand",
+      "note": "Standard rendering 'shore' across 5 occurrences; paired with 'sacred' creates dual-shore imagery (sacred + crimson) intensifying the mystical geography.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 204,
+          "snippet": "shore"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 121,
+          "snippet": "shores"
+        },
+        {
+          "work": "gleanings",
+          "para": 656,
+          "snippet": "ocean"
+        }
+      ]
+    },
+    {
+      "term": "القدس",
+      "transliteration": "q-d-s",
+      "literal": "holy, sacred, sanctified",
+      "se_rendering": "sacred",
+      "note": "Typically 'sacred' or 'hallowed' across 47 occurrences; here compounded with 'strand' to create pilgrimage geography rather than abstract holiness.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 2,
+          "snippet": "Sacred"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 81,
+          "snippet": "hallowed"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 35,
+          "snippet": "spirit of holiness"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 448,
+          "snippet": "Sanctuary"
+        },
+        {
+          "work": "gleanings",
+          "para": 585,
+          "snippet": "holy Paradise"
+        },
+        {
+          "work": "gleanings",
+          "para": 584,
+          "snippet": "Holy Veil"
+        },
+        {
+          "work": "gleanings",
+          "para": 328,
+          "snippet": "apart from"
+        },
+        {
+          "work": "gleanings",
+          "para": 349,
+          "snippet": "exalted above"
+        }
+      ]
+    },
+    {
+      "term": "بحر",
+      "transliteration": "b-ḥ-r",
+      "literal": "sea; ocean",
+      "se_rendering": "seas",
+      "note": "Typically 'ocean' or 'seas'; 'crimson seas' (plural) here emphasizes multiplicity and apocalyptic color symbolism over the singular 'Ocean' often used for divine attributes.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 2,
+          "snippet": "two Seas"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 32,
+          "snippet": "ocean"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 769,
+          "snippet": "oceans"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 119,
+          "snippet": "seas"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 353,
+          "snippet": "ocean of Thy wrath"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 32,
+          "snippet": "sea of grace"
+        },
+        {
+          "work": "gleanings",
+          "para": 12,
+          "snippet": "Ocean of God's mercy"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 666,
+          "snippet": "unto the ocean"
+        }
+      ]
+    },
+    {
+      "term": "الحمراء",
+      "transliteration": "h-m-r",
+      "literal": "to be red; to redden",
+      "se_rendering": "crimson",
+      "note": "Root h-m-r usually 'crimson seas' or 'Crimson Ark' across 11 occurrences; adjectival form here modifies 'seas' directly rather than appearing as epithet or proper noun.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 10,
+          "snippet": "be reddened"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 204,
+          "snippet": "Crimson Ark"
+        },
+        {
+          "work": "gleanings",
+          "para": 399,
+          "snippet": "the Crimson Ark"
+        }
+      ]
+    },
+    {
+      "term": "ربّي",
+      "transliteration": "r-b-b",
+      "literal": "divine; of God; lordly",
+      "se_rendering": "Lord",
+      "note": "Standard 'Lord' or 'My Lord's' across 31 occurrences; possessive 'my Lord' emphasizes personal divine relationship within cosmic geography rather than abstract lordship.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 2,
+          "snippet": "Holy"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 45,
+          "snippet": "Lord"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 69,
+          "snippet": "lordship"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 201,
+          "snippet": "My Lord's"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 162,
+          "snippet": "Divine might"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 16,
+          "snippet": "divine knowledge"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 205,
+          "snippet": "divine wisdom"
+        },
+        {
+          "work": "gleanings",
+          "para": 684,
+          "snippet": "Divine glory"
+        }
+      ]
+    },
+    {
+      "term": "الأبهى",
+      "transliteration": "b-h-y",
+      "literal": "splendor; glory; magnificence; Bahá (Proper Name in Bahá'í texts)",
+      "se_rendering": "All-Glorious",
+      "note": "Typically 'Bahá' (proper name) or 'All-Glorious' across 17 occurrences; 'All-Glorious' here preserves abstract glory over the concrete proper name used elsewhere.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 280,
+          "snippet": "Bahá"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 59,
+          "snippet": "Glory"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 51,
+          "snippet": "Abhá"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 271,
+          "snippet": "All-Glorious"
+        }
+      ]
+    }
+  ],
+  "section_index": "7",
+  "section": "7",
+  "section_para": 1
 }

@@ -1,10 +1,668 @@
 {
   "work": "Epistle to the Son of the Wolf",
   "slug": "epistle-to-the-son-of-the-wolf",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 112,
   "source_text": "اين مظلوم را مرحوم مغفور حضرت مشير الدّوله ميرزا حسين خان غفر اللّه له شناخته بود و البتّه نزد اوليای دولت تفصيل ورود اين مظلوم را در استانه و اقوال و اعمالش را ذکر فرموده * يوم ورود ميهماندار دولت حاضر و ما را به محلّی که مامور بود برده فی الحقيقه کمال محبّت و عنايت از جانب دولت نسبت باين مظلومان ظاهر و مشهود * يوم ديگر شاهزاده شجاع الدّوله و ميرزا صفا بنيابت مرحوم مغفور مشير الدّوله وزير مختار تشريف اوردند و همچنين بعضی از وزرای دولت عليّه از جمله مرحوم کمال پاشا و بعضی ديگر * و اين مظلوم متوکّلا علی اللّه من غير ذکر حاجت و مطلبی چهار شهر در ان ارض بوده و اعمالش نزد کلّ معلوم و مشهود * لا ينکرها الّا کلّ مبغض کذّاب * من عرف اللّه لم يعرف دونه * دوست نداشته و نداريم امثال اين امور را ذکر نمائيم *",
   "translation": "His Excellency, the late Mírzá Ḥusayn Khán, Mushiru'd-Dawlih, - may God forgive him - hath known this Wronged One, and he, no doubt, must have given to the Authorities a circumstantial account of the arrival of this Wronged One at the Sublime Porte, and of the things which He said and did. On the day of Our arrival the Government Official, whose duty it was to receive and entertain official visitors, met Us and escorted Us to the place he had been bidden to take Us. In truth, the Government showed these wronged ones the utmost kindness and consideration. The following day Prince Shuja'u'd-Dawlih, accompanied by Mírzá Safa, acting as the representatives of the late Mushiru'd-Dawlih, the Minister (accredited to the Imperial Court) came to visit Us. Others, among whom were several Ministers of the Imperial Government, and including the late Kamál Páshá, likewise called on Us. Wholly reliant on God, and without any reference to any need He might have had, or to any other matter, this Wronged One sojourned for a period of four months in that city. His actions were known and evident unto all, and none can deny them except such as hate Him, and speak not the truth. He that hath recognized God, recognizeth none other but Him. We have never liked, nor like We, to make mention of such things.",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "wronged-one-four-months",
+  "alignment": [
+    {
+      "ar": "اين",
+      "en": "this"
+    },
+    {
+      "ar": "مظلوم",
+      "en": "Wronged One"
+    },
+    {
+      "ar": "مرحوم",
+      "en": "late"
+    },
+    {
+      "ar": "مغفور",
+      "en": "may God forgive him"
+    },
+    {
+      "ar": "حضرت",
+      "en": "His Excellency"
+    },
+    {
+      "ar": "مشير الدّوله",
+      "en": "Mushiru'd-Dawlih"
+    },
+    {
+      "ar": "ميرزا حسين خان",
+      "en": "Mírzá Ḥusayn Khán"
+    },
+    {
+      "ar": "شناخته",
+      "en": "known"
+    },
+    {
+      "ar": "بود",
+      "en": "hath"
+    },
+    {
+      "ar": "البتّه",
+      "en": "no doubt"
+    },
+    {
+      "ar": "نزد",
+      "en": "to"
+    },
+    {
+      "ar": "اوليای",
+      "en": "Authorities"
+    },
+    {
+      "ar": "دولت",
+      "en": "Government"
+    },
+    {
+      "ar": "تفصيل",
+      "en": "circumstantial account"
+    },
+    {
+      "ar": "ورود",
+      "en": "arrival"
+    },
+    {
+      "ar": "استانه",
+      "en": "Sublime Porte"
+    },
+    {
+      "ar": "اقوال",
+      "en": "said"
+    },
+    {
+      "ar": "اعمالش",
+      "en": "things which He said and did"
+    },
+    {
+      "ar": "ذکر",
+      "en": "given"
+    },
+    {
+      "ar": "فرموده",
+      "en": "must have given"
+    },
+    {
+      "ar": "يوم",
+      "en": "day"
+    },
+    {
+      "ar": "ميهماندار",
+      "en": "Official, whose duty it was to receive and entertain official visitors"
+    },
+    {
+      "ar": "حاضر",
+      "en": "met"
+    },
+    {
+      "ar": "محلّی",
+      "en": "place"
+    },
+    {
+      "ar": "مامور",
+      "en": "bidden"
+    },
+    {
+      "ar": "برده",
+      "en": "escorted"
+    },
+    {
+      "ar": "فی الحقيقه",
+      "en": "In truth"
+    },
+    {
+      "ar": "کمال",
+      "en": "utmost"
+    },
+    {
+      "ar": "محبّت",
+      "en": "kindness"
+    },
+    {
+      "ar": "عنايت",
+      "en": "consideration"
+    },
+    {
+      "ar": "جانب",
+      "en": "showed"
+    },
+    {
+      "ar": "مظلومان",
+      "en": "wronged ones"
+    },
+    {
+      "ar": "ديگر",
+      "en": "following"
+    },
+    {
+      "ar": "شاهزاده",
+      "en": "Prince"
+    },
+    {
+      "ar": "شجاع الدّوله",
+      "en": "Shuja'u'd-Dawlih"
+    },
+    {
+      "ar": "ميرزا صفا",
+      "en": "Mírzá Safa"
+    },
+    {
+      "ar": "بنيابت",
+      "en": "acting as the representatives"
+    },
+    {
+      "ar": "وزير",
+      "en": "Minister"
+    },
+    {
+      "ar": "مختار",
+      "en": "accredited"
+    },
+    {
+      "ar": "تشريف اوردند",
+      "en": "came to visit"
+    },
+    {
+      "ar": "همچنين",
+      "en": "likewise"
+    },
+    {
+      "ar": "بعضی",
+      "en": "Others"
+    },
+    {
+      "ar": "وزرای",
+      "en": "Ministers"
+    },
+    {
+      "ar": "عليّه",
+      "en": "Imperial"
+    },
+    {
+      "ar": "از جمله",
+      "en": "among whom"
+    },
+    {
+      "ar": "کمال پاشا",
+      "en": "Kamál Páshá"
+    },
+    {
+      "ar": "متوکّلا علی اللّه",
+      "en": "Wholly reliant on God"
+    },
+    {
+      "ar": "من غير",
+      "en": "without"
+    },
+    {
+      "ar": "حاجت",
+      "en": "need"
+    },
+    {
+      "ar": "مطلبی",
+      "en": "any other matter"
+    },
+    {
+      "ar": "چهار",
+      "en": "four"
+    },
+    {
+      "ar": "شهر",
+      "en": "months"
+    },
+    {
+      "ar": "ارض",
+      "en": "city"
+    },
+    {
+      "ar": "بوده",
+      "en": "sojourned"
+    },
+    {
+      "ar": "اعمالش",
+      "en": "His actions"
+    },
+    {
+      "ar": "کلّ",
+      "en": "all"
+    },
+    {
+      "ar": "لا ينکرها",
+      "en": "none can deny"
+    },
+    {
+      "ar": "الّا",
+      "en": "except"
+    },
+    {
+      "ar": "کلّ",
+      "en": "such"
+    },
+    {
+      "ar": "مبغض",
+      "en": "hate"
+    },
+    {
+      "ar": "کذّاب",
+      "en": "speak not the truth"
+    },
+    {
+      "ar": "من عرف اللّه",
+      "en": "He that hath recognized God"
+    },
+    {
+      "ar": "لم يعرف دونه",
+      "en": "recognizeth none other but Him"
+    },
+    {
+      "ar": "دوست نداشته",
+      "en": "never liked"
+    },
+    {
+      "ar": "نداريم",
+      "en": "nor like We"
+    },
+    {
+      "ar": "امور",
+      "en": "things"
+    },
+    {
+      "ar": "نمائيم",
+      "en": "make mention"
+    }
+  ],
+  "terms": [
+    {
+      "term": "مظلوم",
+      "transliteration": "z-l-m",
+      "literal": "wrongedness, oppression, meekness; state of being wronged or oppressed",
+      "se_rendering": "Wronged One",
+      "note": "Standard rendering 'Wronged One' (128 occ). SE maintains this self-referential title throughout, never wavering to 'afflicted' or 'meekness' alternatives despite their frequency.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 498,
+          "snippet": "afflicted with countless tribulations"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 49,
+          "snippet": "meekness"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 116,
+          "snippet": "injury"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 3,
+          "snippet": "Wronged One"
+        },
+        {
+          "work": "gleanings",
+          "para": 221,
+          "snippet": "oppression"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 9,
+          "snippet": "Darkness"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 33,
+          "snippet": "tyranny"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 573,
+          "snippet": "oppressed"
+        }
+      ]
+    },
+    {
+      "term": "الحقيقه",
+      "transliteration": "h-q-q",
+      "literal": "truth; right; that which is true or just",
+      "se_rendering": "truth",
+      "note": "Standard 'Truth/the True One' (43 occ). 'Truth' here emphasizes propositional truth-telling; SE avoids capitalization, treating this as factual authenticity rather than metaphysical Truth.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 651,
+          "snippet": "the True One"
+        },
+        {
+          "work": "gleanings",
+          "para": 85,
+          "snippet": "the Truth"
+        },
+        {
+          "work": "gleanings",
+          "para": 328,
+          "snippet": "the one true God"
+        },
+        {
+          "work": "gleanings",
+          "para": 707,
+          "snippet": "Him"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 52,
+          "snippet": "Sun of Truth"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 103,
+          "snippet": "Luminaries of Truth"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 113,
+          "snippet": "was realized"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 215,
+          "snippet": "realization"
+        }
+      ]
+    },
+    {
+      "term": "محبّت",
+      "transliteration": "ḥ-b-b",
+      "literal": "love; affection",
+      "se_rendering": "kindness",
+      "note": "Typically 'beloved/loved ones' (92 occ). 'Kindness' here is unique—SE reinterprets the emotional abstraction as concrete government policy, a rare departure into institutional language.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 3,
+          "snippet": "beloved of the Lord"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 53,
+          "snippet": "loved ones of the Lord"
+        },
+        {
+          "work": "gleanings",
+          "para": 341,
+          "snippet": "loved ones of God"
+        },
+        {
+          "work": "gleanings",
+          "para": 689,
+          "snippet": "beloved of the one true God"
+        },
+        {
+          "work": "gleanings",
+          "para": 640,
+          "snippet": "loved ones"
+        },
+        {
+          "work": "gleanings",
+          "para": 690,
+          "snippet": "beloved of God"
+        },
+        {
+          "work": "gleanings",
+          "para": 477,
+          "snippet": "His loved ones"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 10,
+          "snippet": "love for Thee"
+        }
+      ]
+    },
+    {
+      "term": "ظاهر",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "evident",
+      "note": "Usually 'Manifestation/manifestation' (96 occ). 'Evident' here reflects adjectival usage; SE reserves the capital Manifestation for theological contexts, using lowercase for observable phenomena.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 53,
+          "snippet": "Manifestation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 160,
+          "snippet": "Author of all Manifestations"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 136,
+          "snippet": "evident"
+        },
+        {
+          "work": "gleanings",
+          "para": 222,
+          "snippet": "material"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 196,
+          "snippet": "Manifestations of God"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 255,
+          "snippet": "Manifestations"
+        }
+      ]
+    },
+    {
+      "term": "مشهود",
+      "transliteration": "sh-h-d",
+      "literal": "witnessed; observed; seen; evident; manifest",
+      "se_rendering": "evident",
+      "note": "Commonly 'manifest/evident/testify' (74 occ). Doubled with ظاهر as 'evident' both times—SE employs synonymy strategically, avoiding repetition within tight parallels.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 607,
+          "snippet": "manifest"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 35,
+          "snippet": "evident"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 811,
+          "snippet": "I bear witness"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 836,
+          "snippet": "I testify"
+        },
+        {
+          "work": "gleanings",
+          "para": 298,
+          "snippet": "witness"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 138,
+          "snippet": "martyrdom"
+        },
+        {
+          "work": "gleanings",
+          "para": 134,
+          "snippet": "God witnesseth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 230,
+          "snippet": "God testifieth"
+        }
+      ]
+    },
+    {
+      "term": "معلوم",
+      "transliteration": "ʿ-l-m",
+      "literal": "world; universe; the worlds",
+      "se_rendering": "known",
+      "note": "Typically 'world/worlds/knowledge' (141 occ). Here rendered 'known' via passive construction—SE interprets the adjectival sense rather than nominal, revealing sensitivity to context.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 198,
+          "snippet": "world"
+        },
+        {
+          "work": "gleanings",
+          "para": 657,
+          "snippet": "all worlds"
+        },
+        {
+          "work": "gleanings",
+          "para": 182,
+          "snippet": "mankind"
+        },
+        {
+          "work": "gleanings",
+          "para": 183,
+          "snippet": "the whole world"
+        },
+        {
+          "work": "gleanings",
+          "para": 226,
+          "snippet": "all earthly defilements"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 76,
+          "snippet": "Knowledge"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 122,
+          "snippet": "commentators"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 42,
+          "snippet": "banner"
+        }
+      ]
+    },
+    {
+      "term": "مبغض",
+      "transliteration": "b-gh-dh",
+      "literal": "hatred; enmity; animosity",
+      "se_rendering": "hate",
+      "note": "Regularly 'hate/hatred/enmity' (37 occ). 'Hate' used substantively as actor ('such as hate Him')—SE transforms abstract noun into active verb, making hatred volitional rather than circumstantial.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 5,
+          "snippet": "with great enmity"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 45,
+          "snippet": "hate"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 47,
+          "snippet": "hatred"
+        },
+        {
+          "work": "gleanings",
+          "para": 192,
+          "snippet": "ill-wishers"
+        },
+        {
+          "work": "gleanings",
+          "para": 464,
+          "snippet": "congregation of My ill-wishers"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 54,
+          "snippet": "hatred and enmity"
+        }
+      ]
+    },
+    {
+      "term": "عرف",
+      "transliteration": "ʿ-r-f",
+      "literal": "to confess; to acknowledge; to recognize",
+      "se_rendering": "recognized",
+      "note": "Usually 'recognized/acknowledged/testifieth' (82 occ). 'Recognized' maintains SE's preference for cognitive acknowledgment; philosophically precise for epistemological recognition of divinity.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 601,
+          "snippet": "testifieth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 729,
+          "snippet": "hath acknowledged"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 582,
+          "snippet": "have recognized"
+        },
+        {
+          "work": "gleanings",
+          "para": 568,
+          "snippet": "acknowledged"
+        },
+        {
+          "work": "gleanings",
+          "para": 295,
+          "snippet": "made objections"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 744,
+          "snippet": "understanding"
+        },
+        {
+          "work": "gleanings",
+          "para": 87,
+          "snippet": "knowledge"
+        },
+        {
+          "work": "gleanings",
+          "para": 2,
+          "snippet": "perception"
+        }
+      ]
+    }
+  ],
+  "section_index": "112",
+  "section": "112",
+  "section_para": 1
 }

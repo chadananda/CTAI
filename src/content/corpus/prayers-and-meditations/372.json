@@ -1,10 +1,326 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 372,
   "source_text": "العَزِيزُ الْكَرِيمُ، أَيْ رَبِّ أَسْئَلُكَ بِأَنْ لا تَطْرُدَ مَنْ أَرادَكَ وَلا تَمْنَعَ مَنْ قَصَدَكَ وَلا تَحْرِمَ مَنْ أَحَبَّكَ، أَيْ رَبِّ أَنْتَ الَّذِيْ سَمَّيْتَ نَفْسَكَ بِالرَّحْمنِ ثُمَّ بِالرَّحيمِ، فَارْحَمْ أَمَتَكَ الَّتِيْ لاذَتْ بِكَ وَتَوَجَّهَتْ إِلَيْكَ",
   "translation": "Cast not out, I entreat Thee, O my Lord, them that have sought Thee, and turn not away such as have directed their steps towards Thee, and deprive not of Thy grace all that love Thee. Thou art He, O my Lord, Who hath called Himself the God of Mercy, the Most Compassionate. Have mercy, then, upon Thy handmaiden who hath sought Thy shelter, and set her face towards Thee.",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "cast-not-out-those-who-sought-thee",
+  "alignment": [
+    {
+      "ar": "الْكَرِيمُ",
+      "en": "O my Lord"
+    },
+    {
+      "ar": "أَسْئَلُكَ",
+      "en": "I entreat Thee"
+    },
+    {
+      "ar": "تَطْرُدَ",
+      "en": "Cast not out"
+    },
+    {
+      "ar": "مَنْ أَرادَكَ",
+      "en": "them that have sought Thee"
+    },
+    {
+      "ar": "تَمْنَعَ",
+      "en": "turn not away"
+    },
+    {
+      "ar": "مَنْ قَصَدَكَ",
+      "en": "such as have directed their steps towards Thee"
+    },
+    {
+      "ar": "تَحْرِمَ",
+      "en": "deprive not"
+    },
+    {
+      "ar": "أَنْتَ",
+      "en": "Thou art He"
+    },
+    {
+      "ar": "نَفْسَكَ",
+      "en": "Himself"
+    },
+    {
+      "ar": "فَارْحَمْ",
+      "en": "Have mercy"
+    },
+    {
+      "ar": "أَمَتَكَ",
+      "en": "Thy handmaiden"
+    }
+  ],
+  "terms": [
+    {
+      "term": "العَزِيزُ",
+      "transliteration": "ʿ-z-z",
+      "literal": "glory; might; honor; dignity; power; majesty",
+      "se_rendering": "O my Lord",
+      "note": "Typically 'glory' or 'exalted' across 49 occurrences; here entirely absent from SE's rendering, subsumed into vocative address without explicit translation of majesty.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 185,
+          "snippet": "glory"
+        },
+        {
+          "work": "gleanings",
+          "para": 642,
+          "snippet": "honor"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 99,
+          "snippet": "Dear"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 38,
+          "snippet": "dearly beloved"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 37,
+          "snippet": "Gracious"
+        },
+        {
+          "work": "gleanings",
+          "para": 260,
+          "snippet": "All-Glorious"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 162,
+          "snippet": "Mighty"
+        },
+        {
+          "work": "gleanings",
+          "para": 660,
+          "snippet": "powerful"
+        }
+      ]
+    },
+    {
+      "term": "الْكَرِيمُ",
+      "transliteration": "k-r-m",
+      "literal": "Carmel (Mount Carmel); vineyard, fruitful field",
+      "se_rendering": "O my Lord",
+      "note": "Normally 'the Gracious' or 'all-bountiful' across 21 occurrences; here omitted entirely in SE's translation despite appearing in source text.",
+      "cross_refs": [
+        {
+          "work": "tablet-of-carmel",
+          "para": 4,
+          "snippet": "O Carmel"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 211,
+          "snippet": "Carmel"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 50,
+          "snippet": "the All-Bountiful"
+        },
+        {
+          "work": "gleanings",
+          "para": 234,
+          "snippet": "of immense bounteous grace"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 26,
+          "snippet": "the Gracious"
+        },
+        {
+          "work": "gleanings",
+          "para": 608,
+          "snippet": "the All-Forgiving, the Gracious"
+        },
+        {
+          "work": "gleanings",
+          "para": 642,
+          "snippet": "the Mighty, the Generous"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 144,
+          "snippet": "generosity"
+        }
+      ]
+    },
+    {
+      "term": "أَرادَكَ",
+      "transliteration": "r-ī-d",
+      "literal": "will, volition, intention, desire",
+      "se_rendering": "have sought Thee",
+      "note": "Standard rendering 'sought' matches Jafar data; reflects SE's consistent choice for this rare root (4 occurrences) in devotional context.",
+      "cross_refs": [
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 23,
+          "snippet": "have purposed"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 267,
+          "snippet": "intend"
+        }
+      ]
+    },
+    {
+      "term": "تَمْنَعَ",
+      "transliteration": "m-n-ʿ",
+      "literal": "forbidden; prevented; deprived",
+      "se_rendering": "turn not away",
+      "note": "Renders as 'turn not away' rather than expected 'deprive' or 'forbidden'; shows SE's preference for active verb conveying divine rejection of seekers.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "forbidden"
+        },
+        {
+          "work": "gleanings",
+          "para": 641,
+          "snippet": "deprived"
+        },
+        {
+          "work": "gleanings",
+          "para": 181,
+          "snippet": "be not deprived"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 56,
+          "snippet": "hindrance"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 89,
+          "snippet": "was powerless to deter"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 193,
+          "snippet": "prevented them"
+        },
+        {
+          "work": "gleanings",
+          "para": 314,
+          "snippet": "refused to allow"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 46,
+          "snippet": "deprive not yourselves"
+        }
+      ]
+    },
+    {
+      "term": "قَصَدَكَ",
+      "transliteration": "q-s-d",
+      "literal": "intention; purpose; aim; goal; to seek; to direct oneself",
+      "se_rendering": "have directed their steps towards Thee",
+      "note": "SE uses 'directed their steps towards' rather than typical 'seek' or 'purpose'; demonstrates expansion to clarify intention within physical petition.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 204,
+          "snippet": "Seek"
+        },
+        {
+          "work": "gleanings",
+          "para": 602,
+          "snippet": "goal"
+        },
+        {
+          "work": "gleanings",
+          "para": 672,
+          "snippet": "direct"
+        },
+        {
+          "work": "gleanings",
+          "para": 683,
+          "snippet": "hasten to embrace"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 64,
+          "snippet": "aim"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 43,
+          "snippet": "purpose"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 47,
+          "snippet": "my heart's Desire"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 5,
+          "snippet": "my Desire"
+        }
+      ]
+    },
+    {
+      "term": "أَمَتَكَ",
+      "transliteration": "ʾ-m-m",
+      "literal": "people; nation; community; female servant; handmaiden",
+      "se_rendering": "Thy handmaiden",
+      "note": "Consistently 'handmaiden' matching Jafar data; maintains gendered servant terminology preserved across 16 occurrences in corpus.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 220,
+          "snippet": "people"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 682,
+          "snippet": "handmaiden"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "peoples"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 25,
+          "snippet": "And now, concerning"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 28,
+          "snippet": "Those divines, however, who"
+        },
+        {
+          "work": "gleanings",
+          "para": 265,
+          "snippet": "The decree that is impending, however"
+        },
+        {
+          "work": "gleanings",
+          "para": 337,
+          "snippet": "And now concerning"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 137,
+          "snippet": "before"
+        }
+      ]
+    }
+  ],
+  "section_index": "LXXXVII.2",
+  "section": "LXXXVII",
+  "section_para": 2
 }

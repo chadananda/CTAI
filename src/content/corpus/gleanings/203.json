@@ -1,10 +1,428 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 203,
   "source_text": "یا ارض الطّآء یاد آر هنگامی را که مقرّ عرش بودی و انوارش از در و دیوارت ظاهر و هویدا چه مقدار از نفوس مقدّسهٴ مطمئنّه که بحبّت جان دادند و روان ایثار نمودند طوبی از برای تو و از برای نفوسی که در تو ساکنند هر صاحب شمّی عرف مقصود را از تو مییابد در تو پدید آمد آنچه مستور بود و از تو ظاهر شد آنچه پوشیده و پنهان کدام عاشق صادق را ذکر نمائیم که در تو جان داد و در خاکت پنهان شد نفحات قمیص الهی از تو قطع نشده و نخواهد شد ما ذکر مینمائیم تو را و مظلومان و مظلوماتی که در تو مستورند إنّا نذکر اختی اظهارًا لعنایتی و ابرازاً لوفائی بمظلومیّت کبری بحقّ راجع شد ما اطّلع بذلک الّا علمی المحیط",
   "translation": "Call thou to remembrance, O Land of Ṭá (Ṭihrán), the former days in which thy Lord had made thee the seat of His throne, and had enveloped thee with the effulgence of His glory. How vast the number of those sanctified beings, those symbols of certitude, who, in their great love for thee, have laid down their lives and sacrificed their all for thy sake! Joy be to thee, and blissfulness to them that inhabit thee. I testify that out of thee, as every discerning heart knoweth, proceedeth the living breath of Him Who is the Desire of the world. In thee the Unseen hath been revealed, and out of thee hath gone forth that which lay hid from the eyes of men. Which one of the multitude of thy sincere lovers shall We remember, whose blood hath been shed within thy gates, and whose dust is now concealed beneath thy soil? The sweet savors of God have unceasingly been wafted, and shall everlastingly continue to be wafted upon thee. Our Pen is moved to commemorate thee, and to extol the victims of tyranny, those men and women that sleep beneath thy dust.",
   "source_lang": "ar",
-  "score": 9.5
+  "score": 9.5,
+  "page_slug": "seat-of-his-throne-tehran",
+  "alignment": [
+    {
+      "ar": "یا",
+      "en": "O"
+    },
+    {
+      "ar": "ارض",
+      "en": "Land"
+    },
+    {
+      "ar": "الطّآء",
+      "en": "Ṭá (Ṭihrán)"
+    },
+    {
+      "ar": "یاد آر",
+      "en": "Call thou to remembrance"
+    },
+    {
+      "ar": "هنگامی",
+      "en": "the former days"
+    },
+    {
+      "ar": "مقرّ",
+      "en": "the seat"
+    },
+    {
+      "ar": "عرش",
+      "en": "His throne"
+    },
+    {
+      "ar": "بودی",
+      "en": "had made thee"
+    },
+    {
+      "ar": "انوارش",
+      "en": "the effulgence of His glory"
+    },
+    {
+      "ar": "در و دیوارت",
+      "en": "thee"
+    },
+    {
+      "ar": "ظاهر",
+      "en": "enveloped"
+    },
+    {
+      "ar": "مقدار",
+      "en": "vast the number"
+    },
+    {
+      "ar": "نفوس",
+      "en": "beings"
+    },
+    {
+      "ar": "مقدّسهٴ",
+      "en": "sanctified"
+    },
+    {
+      "ar": "مطمئنّه",
+      "en": "symbols of certitude"
+    },
+    {
+      "ar": "بحبّت",
+      "en": "love"
+    },
+    {
+      "ar": "جان دادند",
+      "en": "laid down their lives"
+    },
+    {
+      "ar": "ایثار",
+      "en": "sacrificed"
+    },
+    {
+      "ar": "طوبی",
+      "en": "Joy"
+    },
+    {
+      "ar": "نفوسی",
+      "en": "them"
+    },
+    {
+      "ar": "ساکنند",
+      "en": "inhabit"
+    },
+    {
+      "ar": "صاحب",
+      "en": "discerning"
+    },
+    {
+      "ar": "عرف",
+      "en": "breath"
+    },
+    {
+      "ar": "مقصود",
+      "en": "the Desire"
+    },
+    {
+      "ar": "مییابد",
+      "en": "proceedeth"
+    },
+    {
+      "ar": "پدید آمد",
+      "en": "hath been revealed"
+    },
+    {
+      "ar": "مستور",
+      "en": "the Unseen"
+    },
+    {
+      "ar": "ظاهر شد",
+      "en": "hath gone forth"
+    },
+    {
+      "ar": "پوشیده",
+      "en": "hid"
+    },
+    {
+      "ar": "عاشق",
+      "en": "lovers"
+    },
+    {
+      "ar": "صادق",
+      "en": "sincere"
+    },
+    {
+      "ar": "ذکر",
+      "en": "remember"
+    },
+    {
+      "ar": "نمائیم",
+      "en": "shall We remember"
+    },
+    {
+      "ar": "جان داد",
+      "en": "blood hath been shed"
+    },
+    {
+      "ar": "خاکت",
+      "en": "dust"
+    },
+    {
+      "ar": "پنهان شد",
+      "en": "concealed"
+    },
+    {
+      "ar": "نفحات",
+      "en": "sweet savors"
+    },
+    {
+      "ar": "قمیص",
+      "en": "God"
+    },
+    {
+      "ar": "قطع نشده",
+      "en": "unceasingly"
+    },
+    {
+      "ar": "نخواهد شد",
+      "en": "everlastingly continue"
+    },
+    {
+      "ar": "ما",
+      "en": "Our"
+    },
+    {
+      "ar": "ذکر مینمائیم",
+      "en": "commemorate"
+    },
+    {
+      "ar": "مظلومان",
+      "en": "victims of tyranny"
+    },
+    {
+      "ar": "مظلوماتی",
+      "en": "men and women"
+    },
+    {
+      "ar": "مستورند",
+      "en": "sleep"
+    }
+  ],
+  "terms": [
+    {
+      "term": "مقصود",
+      "transliteration": "q-s-d",
+      "literal": "intention; purpose; aim; goal; to seek; to direct oneself",
+      "se_rendering": "Desire",
+      "note": "Normally 'Seek,' 'goal,' or 'purpose' (32 occ.); 'Desire of the world' elevates the term to a divine epithet, a unique rendering conferring messianic significance to Ṭihrán's spiritual output.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 204,
+          "snippet": "Seek"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 64,
+          "snippet": "aim"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 43,
+          "snippet": "purpose"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 444,
+          "snippet": "goal"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 47,
+          "snippet": "my heart's Desire"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 5,
+          "snippet": "my Desire"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 11,
+          "snippet": "the Goal of my desire"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 804,
+          "snippet": "the Desired One"
+        }
+      ]
+    },
+    {
+      "term": "مستور",
+      "transliteration": "s-t-r",
+      "literal": "to veil; to conceal; to cover; veil; covering",
+      "se_rendering": "Unseen",
+      "note": "Standard 'hidden' or 'concealed' (22 occ.); 'Unseen' here capitalizes the concept into metaphysical unveiling, contrasting revelation with concealment as theological paradox.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 8,
+          "snippet": "concealed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 17,
+          "snippet": "hidden"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 35,
+          "snippet": "star"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 46,
+          "snippet": "tabernacle"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 45,
+          "snippet": "Concealer"
+        }
+      ]
+    },
+    {
+      "term": "صادق",
+      "transliteration": "s-d-q",
+      "literal": "to confirm; to verify; to acknowledge; to testify to truth",
+      "se_rendering": "sincere",
+      "note": "Typically 'truthful' or 'confirmed' (25 occ.); 'sincere' emphasizes devotional authenticity and existential commitment over propositional truth-telling in the martyr context.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 225,
+          "snippet": "acknowledge"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 226,
+          "snippet": "men of truth"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 253,
+          "snippet": "truthful"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 134,
+          "snippet": "the truthful"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 28,
+          "snippet": "truthfulness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 143,
+          "snippet": "fidelity"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 10,
+          "snippet": "truth"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 268,
+          "snippet": "spoken the truth"
+        }
+      ]
+    },
+    {
+      "term": "قطع",
+      "transliteration": "q-t-ʿ",
+      "literal": "to be severed; to be cut off; to detach oneself; to abstain",
+      "se_rendering": "unceasingly been wafted",
+      "note": "Root means 'severed' or 'cut off' (33 occ.); negated phrase 'not been cut off' inverts semantics to affirm continuous transmission, uniquely rendering negation as affirmation of grace.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 413,
+          "snippet": "detached themselves"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 427,
+          "snippet": "sundered"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 488,
+          "snippet": "have cut themselves off"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 11,
+          "snippet": "decisive"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 16,
+          "snippet": "detachment"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 276,
+          "snippet": "severed"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 340,
+          "snippet": "them that have rid themselves of all attachment"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 218,
+          "snippet": "renounced"
+        }
+      ]
+    },
+    {
+      "term": "مظلومان",
+      "transliteration": "z-l-m",
+      "literal": "wrongedness, oppression, meekness; state of being wronged or oppressed",
+      "se_rendering": "victims of tyranny",
+      "note": "Standard 'wronged' or 'afflicted' (128 occ.); 'victims of tyranny' here grounds oppression in historical persecution, aligning with Bahá'í narrative of Ṭihrán's suffering under Islamic authorities.",
+      "cross_refs": [
+        {
+          "work": "fire-tablet",
+          "para": 49,
+          "snippet": "meekness"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 116,
+          "snippet": "injury"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 36,
+          "snippet": "Wronged One"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 253,
+          "snippet": "wronged"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 9,
+          "snippet": "Darkness"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 33,
+          "snippet": "tyranny"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 573,
+          "snippet": "oppressed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 181,
+          "snippet": "wronged ones"
+        }
+      ]
+    }
+  ],
+  "section_index": "LV.1",
+  "section": "LV",
+  "section_para": 1
 }

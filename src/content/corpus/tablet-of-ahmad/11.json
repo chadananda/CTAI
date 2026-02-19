@@ -1,10 +1,243 @@
 {
   "work": "Tablet of Ahmad",
   "slug": "tablet-of-ahmad",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 11,
   "source_text": "وَإِنْ يَمَسَّكَ ٱلْحُزْنُ فِي سَبِيلِي أَوِ ٱلْذِّلَّةُ لِأَجْلِ ٱسْمِي لَا تَضْطَرِبْ",
   "translation": "And if thou art overtaken by affliction in My path, or degradation for My sake, be not thou troubled thereby.",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "affliction-degradation-troubled",
+  "alignment": [
+    {
+      "ar": "ٱلْحُزْنُ",
+      "en": "affliction"
+    },
+    {
+      "ar": "سَبِيلِي",
+      "en": "My path"
+    },
+    {
+      "ar": "ٱسْمِي",
+      "en": "My sake"
+    },
+    {
+      "ar": "تَضْطَرِبْ",
+      "en": "troubled"
+    }
+  ],
+  "terms": [
+    {
+      "term": "ٱلْحُزْنُ",
+      "transliteration": "h-z-n",
+      "literal": "sorrow; grief; sadness; anguish",
+      "se_rendering": "affliction",
+      "note": "SE typically renders as 'sorrow' or 'sorrows' (23 occurrences); 'affliction' here conveys active suffering rather than emotional state, broadening the term's scope.",
+      "cross_refs": [
+        {
+          "work": "fire-tablet",
+          "para": 12,
+          "snippet": "Sorrows"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 57,
+          "snippet": "sorrow"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 35,
+          "snippet": "Grieve Thou not"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 36,
+          "snippet": "Sorrow not"
+        },
+        {
+          "work": "gleanings",
+          "para": 207,
+          "snippet": "Let nothing grieve thee"
+        },
+        {
+          "work": "gleanings",
+          "para": 216,
+          "snippet": "Grieve not"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 54,
+          "snippet": "be not sad"
+        },
+        {
+          "work": "gleanings",
+          "para": 635,
+          "snippet": "sadden thee"
+        }
+      ]
+    },
+    {
+      "term": "سَبِيلِي",
+      "transliteration": "s-b-l",
+      "literal": "path; way; means",
+      "se_rendering": "My path",
+      "note": "Standard rendering 'in My path' matches the most frequent SE usage across 9 occurrences, maintaining personal divine proximity.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 17,
+          "snippet": "in His path"
+        },
+        {
+          "work": "gleanings",
+          "para": 153,
+          "snippet": "in the path of"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 2,
+          "snippet": "path"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 119,
+          "snippet": "in the ways of"
+        },
+        {
+          "work": "gleanings",
+          "para": 660,
+          "snippet": "in My path"
+        },
+        {
+          "work": "gleanings",
+          "para": 205,
+          "snippet": "in the path of God"
+        }
+      ]
+    },
+    {
+      "term": "ٱلْذِّلَّةُ",
+      "transliteration": "dh-l-l",
+      "literal": "abasement; humiliation; lowliness; to be abased",
+      "se_rendering": "degradation",
+      "note": "Usually 'abasement' or 'lowliness'; 'degradation' here emphasizes social dishonor and external imposed condition over internal humiliation.",
+      "cross_refs": [
+        {
+          "work": "fire-tablet",
+          "para": 11,
+          "snippet": "Abasement"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 857,
+          "snippet": "lowly one"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 47,
+          "snippet": "humbled himself"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 10,
+          "snippet": "wronged servant"
+        },
+        {
+          "work": "gleanings",
+          "para": 665,
+          "snippet": "abased"
+        }
+      ]
+    },
+    {
+      "term": "لِأَجْلِ",
+      "transliteration": "j-l-l",
+      "literal": "majesty; glory; exaltation; magnificence",
+      "se_rendering": "for",
+      "note": "Preposition translated as 'for' rather than evoking its root sense of majesty/glory; SE treats it as instrumental marker rather than thematic carrier.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 390,
+          "snippet": "exalted be His glory"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 24,
+          "snippet": "majestic"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 4,
+          "snippet": "distinguished"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 103,
+          "snippet": "All-Glorious"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 56,
+          "snippet": "His glory"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 15,
+          "snippet": "majesty"
+        },
+        {
+          "work": "gleanings",
+          "para": 265,
+          "snippet": "The decree that is impending"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 612,
+          "snippet": "Thy glory"
+        }
+      ]
+    },
+    {
+      "term": "ٱسْمِي",
+      "transliteration": "s-m",
+      "literal": "name; title; designation",
+      "se_rendering": "My sake",
+      "note": "Rendered 'My sake' rather than 'My name' — SE employs metonymic translation, substituting the name's authority/honor for the name itself.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 249,
+          "snippet": "incline"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 615,
+          "snippet": "Thy most excellent Titles"
+        }
+      ]
+    },
+    {
+      "term": "تَضْطَرِبْ",
+      "transliteration": "d-r-b",
+      "literal": "to be troubled; to be perturbed; to be shaken",
+      "se_rendering": "troubled",
+      "note": "Rendered 'troubled' from root meaning 'to be shaken/perturbed'; SE's sparse usage (3 occurrences) suggests deliberate restraint in psychological vocabulary.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 277,
+          "snippet": "Be not dismayed"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 15,
+          "snippet": "dread extinction"
+        }
+      ]
+    }
+  ],
+  "section_index": "11",
+  "section": "11",
+  "section_para": 1
 }

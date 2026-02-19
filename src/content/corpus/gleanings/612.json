@@ -1,10 +1,508 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 612,
   "source_text": "وجهک مشرقًا في یوم الّذي اسودّت فیه الوجوه قل یا ملأ البیان أَمَا وصّیناکم في کلّ الألواح وفي کلّ زبر مکنون أن لا تتّبعوا أنفسکم وهواکم فانظروا بالمنظر الأکبر في حین الّذي ینصب فیه میزان الأعظم ویرتفع نغمات الرّوح عن یمین عرش ربّکم المهیمن العزیز القدّوس ونهیناکم عن کلّ ما یمنعکم عن جمالي في ظهور بعدي ولو یکون مظاهر الأسمآء وملکوتها ومطالع الصّفات وجبروتها فلمّا أظهرت نفسي إِذًا کفرتم وأعرضتم وکنتم من الّذینهم کانوا بآیات ربّهم یلعبون فوجمالي لن یقبل منکم الیوم",
   "translation": "Say: O people of the Bayán! Did We not admonish you, in all Our Tablets and in all Our hidden Scriptures, not to follow your evil passions and corrupt inclinations, but to keep your eyes directed towards the Scene of transcendent glory, on the Day when the Most Mighty Balance shall be set, the Day when the sweet melodies of the Spirit of God shall be poured out from the right hand of the throne of your Lord, the omnipotent Protector, the All-Powerful, the Holy of Holies? Did We not forbid you to cleave to the things that would shut you out from the Manifestation of our Beauty, in its subsequent Revelation, be they the embodiments of the names of God and all their glory, or the revealers of His attributes and their dominion? Behold, how, as soon as I revealed Myself, ye have rejected My truth and turned away from Me, and been of them that have regarded the signs of God as a play and pastime!",
   "source_lang": "ar",
-  "score": 9.6
+  "score": 9.6,
+  "page_slug": "rejected-truth-turned-away",
+  "alignment": [
+    {
+      "ar": "وجهک",
+      "en": "your eyes"
+    },
+    {
+      "ar": "مشرقًا",
+      "en": "directed"
+    },
+    {
+      "ar": "یوم",
+      "en": "Day"
+    },
+    {
+      "ar": "اسودّت",
+      "en": "rejected"
+    },
+    {
+      "ar": "الوجوه",
+      "en": "truth"
+    },
+    {
+      "ar": "قل",
+      "en": "Say"
+    },
+    {
+      "ar": "ملأ",
+      "en": "people"
+    },
+    {
+      "ar": "البیان",
+      "en": "Bayán"
+    },
+    {
+      "ar": "وصّیناکم",
+      "en": "admonish you"
+    },
+    {
+      "ar": "الألواح",
+      "en": "Tablets"
+    },
+    {
+      "ar": "زبر",
+      "en": "Scriptures"
+    },
+    {
+      "ar": "مکنون",
+      "en": "hidden"
+    },
+    {
+      "ar": "تتّبعوا",
+      "en": "follow"
+    },
+    {
+      "ar": "أنفسکم",
+      "en": "evil passions"
+    },
+    {
+      "ar": "هواکم",
+      "en": "corrupt inclinations"
+    },
+    {
+      "ar": "فانظروا",
+      "en": "keep"
+    },
+    {
+      "ar": "بالمنظر",
+      "en": "Scene"
+    },
+    {
+      "ar": "الأکبر",
+      "en": "transcendent glory"
+    },
+    {
+      "ar": "حین",
+      "en": "when"
+    },
+    {
+      "ar": "ینصب",
+      "en": "shall be set"
+    },
+    {
+      "ar": "میزان",
+      "en": "Balance"
+    },
+    {
+      "ar": "الأعظم",
+      "en": "Most Mighty"
+    },
+    {
+      "ar": "یرتفع",
+      "en": "poured out"
+    },
+    {
+      "ar": "نغمات",
+      "en": "melodies"
+    },
+    {
+      "ar": "الرّوح",
+      "en": "Spirit of God"
+    },
+    {
+      "ar": "یمین",
+      "en": "right hand"
+    },
+    {
+      "ar": "عرش",
+      "en": "throne"
+    },
+    {
+      "ar": "ربّکم",
+      "en": "your Lord"
+    },
+    {
+      "ar": "المهیمن",
+      "en": "omnipotent Protector"
+    },
+    {
+      "ar": "العزیز",
+      "en": "All-Powerful"
+    },
+    {
+      "ar": "القدّوس",
+      "en": "Holy of Holies"
+    },
+    {
+      "ar": "نهیناکم",
+      "en": "forbid you"
+    },
+    {
+      "ar": "یمنعکم",
+      "en": "shut you out"
+    },
+    {
+      "ar": "جمالي",
+      "en": "Beauty"
+    },
+    {
+      "ar": "ظهور",
+      "en": "Manifestation"
+    },
+    {
+      "ar": "بعدي",
+      "en": "subsequent Revelation"
+    },
+    {
+      "ar": "مظاهر",
+      "en": "embodiments"
+    },
+    {
+      "ar": "الأسمآء",
+      "en": "names of God"
+    },
+    {
+      "ar": "ملکوتها",
+      "en": "their glory"
+    },
+    {
+      "ar": "مطالع",
+      "en": "revealers"
+    },
+    {
+      "ar": "الصّفات",
+      "en": "attributes"
+    },
+    {
+      "ar": "جبروتها",
+      "en": "their dominion"
+    },
+    {
+      "ar": "أظهرت",
+      "en": "revealed"
+    },
+    {
+      "ar": "نفسي",
+      "en": "Myself"
+    },
+    {
+      "ar": "أعرضتم",
+      "en": "turned away"
+    },
+    {
+      "ar": "کنتم",
+      "en": "been"
+    },
+    {
+      "ar": "بآیات",
+      "en": "signs"
+    },
+    {
+      "ar": "ربّهم",
+      "en": "God"
+    },
+    {
+      "ar": "یلعبون",
+      "en": "play and pastime"
+    }
+  ],
+  "terms": [
+    {
+      "term": "البیان",
+      "transliteration": "b-y-n",
+      "literal": "to manifest; to make clear; clear, evident",
+      "se_rendering": "the Bayán",
+      "note": "Always transliterated as 'the Bayán' (87 occ) in formal address; SE preserves the Arabic term itself, treating it as a proper designation for the faith community or its scripture.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 231,
+          "snippet": "clear verses"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 3,
+          "snippet": "proofs"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 12,
+          "snippet": "clear proofs"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 101,
+          "snippet": "Bayán"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 84,
+          "snippet": "palpable smoke"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 120,
+          "snippet": "evil"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 178,
+          "snippet": "evident error"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 189,
+          "snippet": "meaning"
+        }
+      ]
+    },
+    {
+      "term": "الأعظم",
+      "transliteration": "ʿ-z̟-m",
+      "literal": "greatest; supreme; mightiest",
+      "se_rendering": "Most Mighty",
+      "note": "Common as 'Most Great' or 'greatest' (34 occ); 'Most Mighty' here elevates the Balance toward power and authority rather than magnitude alone, sharpening eschatological weight.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 269,
+          "snippet": "Most Great"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 734,
+          "snippet": "Most Great Name"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 3,
+          "snippet": "greatest"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 6,
+          "snippet": "greater"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 209,
+          "snippet": "Great"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 9,
+          "snippet": "mighty"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 262,
+          "snippet": "glorious"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 88,
+          "snippet": "the Most Great"
+        }
+      ]
+    },
+    {
+      "term": "الروح",
+      "transliteration": "r-w-h",
+      "literal": "to go; to depart; to rest; spirit; soul",
+      "se_rendering": "Spirit of God",
+      "note": "Typically 'spirit' or 'the Spirit' (34 occ); 'Spirit of God' here makes explicit the divine source, avoiding ambiguity about whose spirit is elevated in this passage.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 702,
+          "snippet": "my spirit"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 201,
+          "snippet": "the Spirit"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 121,
+          "snippet": "spiritual"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 215,
+          "snippet": "spiritually-minded"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 20,
+          "snippet": "a breath of My own Spirit"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 100,
+          "snippet": "spirit"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 22,
+          "snippet": "in a spirit"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 17,
+          "snippet": "with My spirit"
+        }
+      ]
+    },
+    {
+      "term": "جمالی",
+      "transliteration": "j-m-l",
+      "literal": "beauty; comeliness",
+      "se_rendering": "Manifestation of our Beauty",
+      "note": "SE typically renders as 'Beauty' (38 occ), but here compounds it with 'Manifestation of our Beauty'—linking divine beauty explicitly to the subsequent revelation, intensifying the doctrinal claim.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 11,
+          "snippet": "beauty"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 193,
+          "snippet": "Among others"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 67,
+          "snippet": "Among"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 208,
+          "snippet": "Among the sciences"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 268,
+          "snippet": "Among them"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 118,
+          "snippet": "following"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 246,
+          "snippet": "Amongst"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 88,
+          "snippet": "for a beauty"
+        }
+      ]
+    },
+    {
+      "term": "ظهور",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "Revelation",
+      "note": "Usually 'Manifestation' or 'manifestation' (96 occ); rendered 'Revelation' here to denote the historical event of the Báb's disclosure, signaling temporal specificity over eternal principle.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 140,
+          "snippet": "manifestation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 160,
+          "snippet": "Author of all Manifestations"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 136,
+          "snippet": "evident"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 206,
+          "snippet": "appeared"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 196,
+          "snippet": "Manifestations of God"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 255,
+          "snippet": "Manifestations"
+        }
+      ]
+    },
+    {
+      "term": "وملکوتها",
+      "transliteration": "m-l-k",
+      "literal": "kingdom; dominion; realm; sovereignty",
+      "se_rendering": "all their glory",
+      "note": "Usually 'Kingdom' or 'kingdom' (70 occ); 'all their glory' here shifts the semantic weight from dominion to splendor, aligning with the parallel 'embodiments' of divine names.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-ahd",
+          "para": 16,
+          "snippet": "heaven"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 171,
+          "snippet": "kingdom"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 69,
+          "snippet": "realms"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 28,
+          "snippet": "righteous"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 167,
+          "snippet": "by the heavenly power"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 57,
+          "snippet": "Ruler"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 82,
+          "snippet": "King"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 102,
+          "snippet": "Lord of all mankind"
+        }
+      ]
+    }
+  ],
+  "section_index": "CXXXV.4",
+  "section": "CXXXV",
+  "section_para": 4
 }

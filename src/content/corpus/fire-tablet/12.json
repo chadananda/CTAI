@@ -1,10 +1,386 @@
 {
   "work": "Fire Tablet",
   "slug": "fire-tablet",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 12,
   "source_text": "قَدْ أَخَذَتِ الأَحْزَانُ مَطْلَعَ إِسْمِكَ الرَّحْمَنِ أَيْنَ سُرُوْرُ مَظْهَرِ ظُهُوْرِكَ يَا فَرَحَ العَالَمِيْنَ *",
   "translation": "Sorrows have afflicted the Revealer of Thy Name, the All-Merciful: Where is the joy of the Dayspring of Thy Revelation, O Delight of the worlds?",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "revealer-of-thy-name-all-merciful",
+  "alignment": [
+    {
+      "ar": "أَخَذَتِ",
+      "en": "have afflicted"
+    },
+    {
+      "ar": "الأَحْزَانُ",
+      "en": "Sorrows"
+    },
+    {
+      "ar": "مَطْلَعَ",
+      "en": "Revealer"
+    },
+    {
+      "ar": "إِسْمِكَ",
+      "en": "Thy Name"
+    },
+    {
+      "ar": "أَيْنَ",
+      "en": "Where"
+    },
+    {
+      "ar": "سُرُوْرُ",
+      "en": "joy"
+    },
+    {
+      "ar": "مَظْهَرِ",
+      "en": "Dayspring"
+    },
+    {
+      "ar": "ظُهُوْرِكَ",
+      "en": "Thy Revelation"
+    },
+    {
+      "ar": "فَرَحَ",
+      "en": "Delight"
+    },
+    {
+      "ar": "العَالَمِيْنَ",
+      "en": "worlds"
+    }
+  ],
+  "terms": [
+    {
+      "term": "الأَحْزَانُ",
+      "transliteration": "h-z-n",
+      "literal": "sorrow; grief; sadness; anguish",
+      "se_rendering": "Sorrows",
+      "note": "Primary rendering 'sorrow/sorrows' across 23 occurrences. SE uses 'Sorrows' here maintaining the nominal form characteristic of this text's lament mode.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 166,
+          "snippet": "sorrows"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 57,
+          "snippet": "sorrow"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 35,
+          "snippet": "Grieve Thou not"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 36,
+          "snippet": "Sorrow not"
+        },
+        {
+          "work": "gleanings",
+          "para": 207,
+          "snippet": "Let nothing grieve thee"
+        },
+        {
+          "work": "gleanings",
+          "para": 216,
+          "snippet": "Grieve not"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 54,
+          "snippet": "be not sad"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 11,
+          "snippet": "affliction"
+        }
+      ]
+    },
+    {
+      "term": "مَطْلَعَ",
+      "transliteration": "t-l-ʿ",
+      "literal": "rising; appearance; countenance; manifestation",
+      "se_rendering": "Revealer",
+      "note": "Typically 'Manifestations' or 'lives' across 32 occurrences. 'Revealer' is singular, interpretive, emphasizing the personal agency of the afflicted subject rather than abstract manifestation.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 47,
+          "snippet": "lives"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 856,
+          "snippet": "countenances"
+        },
+        {
+          "work": "gleanings",
+          "para": 35,
+          "snippet": "Revealers of the beauty"
+        },
+        {
+          "work": "gleanings",
+          "para": 364,
+          "snippet": "Manifestations"
+        },
+        {
+          "work": "gleanings",
+          "para": 221,
+          "snippet": "instigators"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "sources of command"
+        },
+        {
+          "work": "gleanings",
+          "para": 61,
+          "snippet": "Dayspring"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 276,
+          "snippet": "Revealer"
+        }
+      ]
+    },
+    {
+      "term": "الرَّحْمَنِ",
+      "transliteration": "r-ḥ-m",
+      "literal": "merciful, compassionate; pertaining to divine mercy",
+      "se_rendering": "All-Merciful",
+      "note": "Usually 'merciful' or 'Divine' across 70 occurrences. 'All-Merciful' combines semantic range with a Qur'anic title register, elevating the divine epithet.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 673,
+          "snippet": "Divine glory"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 57,
+          "snippet": "Divine"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 89,
+          "snippet": "celestial melody"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 114,
+          "snippet": "spirit of mercy"
+        },
+        {
+          "work": "gleanings",
+          "para": 372,
+          "snippet": "merciful"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 220,
+          "snippet": "have mercy on them"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 546,
+          "snippet": "mercy"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 50,
+          "snippet": "the Compassionate"
+        }
+      ]
+    },
+    {
+      "term": "سُرُوْرُ",
+      "transliteration": "s-r-r",
+      "literal": "throne; couch; seat of authority",
+      "se_rendering": "joy",
+      "note": "Root typically rendered 'couch', 'throne', or 'Secret' across 40 occurrences. 'Joy' here is semantically anomalous—the root s-r-r denotes seat/throne, not rejoicing, revealing SE's contextual liberty.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 145,
+          "snippet": "couch"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 256,
+          "snippet": "throne"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 185,
+          "snippet": "lamp"
+        },
+        {
+          "work": "tablet-of-carmel",
+          "para": 2,
+          "snippet": "joy"
+        },
+        {
+          "work": "gleanings",
+          "para": 218,
+          "snippet": "mystery"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 831,
+          "snippet": "Secret"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 37,
+          "snippet": "in the gladness"
+        },
+        {
+          "work": "gleanings",
+          "para": 727,
+          "snippet": "gladness"
+        }
+      ]
+    },
+    {
+      "term": "مَظْهَرِ",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "Dayspring",
+      "note": "Usually 'Manifestation' or 'manifestation' across 96 occurrences. 'Dayspring' is poetic substitution treating the term as dawn-appearance rather than literal manifestation.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 53,
+          "snippet": "Manifestation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 160,
+          "snippet": "Author of all Manifestations"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 136,
+          "snippet": "evident"
+        },
+        {
+          "work": "gleanings",
+          "para": 222,
+          "snippet": "material"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 206,
+          "snippet": "appeared"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 196,
+          "snippet": "Manifestations of God"
+        }
+      ]
+    },
+    {
+      "term": "فَرَحَ",
+      "transliteration": "f-r-h",
+      "literal": "to rejoice; to be glad; joy",
+      "se_rendering": "Delight",
+      "note": "Standard rendering 'joy' or 'rejoicing' across 10 occurrences. Here 'Delight' applies the noun as vocative epithet, personalizing the abstract quality as divine address.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 35,
+          "snippet": "rejoicing"
+        },
+        {
+          "work": "gleanings",
+          "para": 207,
+          "snippet": "joy"
+        },
+        {
+          "work": "gleanings",
+          "para": 208,
+          "snippet": "with great joy"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 217,
+          "snippet": "with joy"
+        },
+        {
+          "work": "gleanings",
+          "para": 209,
+          "snippet": "Rejoice"
+        }
+      ]
+    },
+    {
+      "term": "العَالَمِيْنَ",
+      "transliteration": "ʿ-l-m",
+      "literal": "world; universe; the worlds",
+      "se_rendering": "worlds",
+      "note": "Typically 'worlds', 'world', or 'mankind' across 141 occurrences. 'Worlds' here maintains the plural cosmic scope most common in SE's Bahá'í theological contexts.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 198,
+          "snippet": "world"
+        },
+        {
+          "work": "gleanings",
+          "para": 657,
+          "snippet": "all worlds"
+        },
+        {
+          "work": "gleanings",
+          "para": 182,
+          "snippet": "mankind"
+        },
+        {
+          "work": "gleanings",
+          "para": 183,
+          "snippet": "the whole world"
+        },
+        {
+          "work": "gleanings",
+          "para": 226,
+          "snippet": "all earthly defilements"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 28,
+          "snippet": "knowledge"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 122,
+          "snippet": "commentators"
+        },
+        {
+          "work": "gleanings",
+          "para": 38,
+          "snippet": "understanding"
+        }
+      ]
+    }
+  ],
+  "section_index": "13",
+  "section": "13",
+  "section_para": 1
 }

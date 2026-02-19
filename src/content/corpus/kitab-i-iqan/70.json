@@ -1,10 +1,621 @@
 {
   "work": "Kitab-i-Iqan",
   "slug": "kitab-i-iqan",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 70,
   "source_text": "و کانوا قائلين:  \"اَينَ هُوَ المولُود مَلِکُ اليَهود؟ لاَنّا قَد رَاَينا نَجمَهُ فِی المَشرِقِ وَوافَينا لِنَسجُدَ لَه.\"  و بعد از تفحّص معلوم نمودند که در بيت اللّحم يهودا آن طفل متولّد شد.  اين علامت در سماء ظاهره.  و علامت در سماء باطنه که سماء  علم و معانی باشد ظهور يحيی بن زکريّا بود که مردم را  بشارت می داد به ظهور آن حضرت.  چنانچه می فرمايد:  \"انَّ اللّهَ يُبَشِّرُکَ بِيَحيی مُصَدِّقاً بِکَلِمَةٍ مِنَ اللّه و سَيِّداً و حَصُوراً.\"  مقصود از کلمه، حضرت عيسی است که يحيی مبشّر به ظهور او بود.  و در الواح سماوی هم مسطور است:  \"کانَ يُوحَنّا يَکرزُ فی بَرِّيَّةِ يَهودا قائِلاً تُوبُوا فَقَدِ اقتَرَبَ مَلَکُوتُ السّمواتِ.\"   و مقصود از يوحنّا، يحيی است.",
   "translation": "These Magi said: “Where is He that is born King of the Jews? for we have seen His star in the east and are come to worship Him!” When they had searched, they found out that in Bethlehem, in the land of Judea, the Child had been born. This was the sign that was manifested in the visible heaven. As to the sign in the invisible heaven—the heaven of divine knowledge and understanding—it was Yahyá, son of Zachariah, who gave unto the people the tidings of the Manifestation of Jesus. Even as He hath revealed: “God announceth Yahyá to thee, who shall bear witness unto the Word from God, and a great one and chaste.” By the term “Word” is meant Jesus, Whose coming Yahyá foretold. Moreover, in the heavenly Scriptures it is written: “John the Baptist was preaching in the wilderness of Judea, and saying, Repent ye: for the Kingdom of heaven is at hand.” By John is meant Yahyá.",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "star-born-king-jews",
+  "alignment": [
+    {
+      "ar": "کانوا",
+      "en": "said"
+    },
+    {
+      "ar": "اَينَ",
+      "en": "Where"
+    },
+    {
+      "ar": "هُوَ",
+      "en": "is"
+    },
+    {
+      "ar": "المولُود",
+      "en": "born"
+    },
+    {
+      "ar": "مَلِکُ",
+      "en": "King"
+    },
+    {
+      "ar": "اليَهود",
+      "en": "Jews"
+    },
+    {
+      "ar": "لاَنّا",
+      "en": "for we"
+    },
+    {
+      "ar": "قَد",
+      "en": "have"
+    },
+    {
+      "ar": "رَاَينا",
+      "en": "seen"
+    },
+    {
+      "ar": "نَجمَهُ",
+      "en": "His star"
+    },
+    {
+      "ar": "المَشرِقِ",
+      "en": "east"
+    },
+    {
+      "ar": "وافَينا",
+      "en": "come"
+    },
+    {
+      "ar": "لِنَسجُدَ",
+      "en": "worship"
+    },
+    {
+      "ar": "لَه",
+      "en": "Him"
+    },
+    {
+      "ar": "بعد",
+      "en": "When"
+    },
+    {
+      "ar": "تفحّص",
+      "en": "searched"
+    },
+    {
+      "ar": "معلوم",
+      "en": "found out"
+    },
+    {
+      "ar": "بيت اللّحم",
+      "en": "Bethlehem"
+    },
+    {
+      "ar": "يهودا",
+      "en": "Judea"
+    },
+    {
+      "ar": "طفل",
+      "en": "Child"
+    },
+    {
+      "ar": "شد",
+      "en": "had been"
+    },
+    {
+      "ar": "علامت",
+      "en": "sign"
+    },
+    {
+      "ar": "سماء",
+      "en": "heaven"
+    },
+    {
+      "ar": "ظاهره",
+      "en": "visible"
+    },
+    {
+      "ar": "باطنه",
+      "en": "invisible"
+    },
+    {
+      "ar": "علم",
+      "en": "knowledge"
+    },
+    {
+      "ar": "معانی",
+      "en": "understanding"
+    },
+    {
+      "ar": "ظهور",
+      "en": "Manifestation"
+    },
+    {
+      "ar": "يحيی",
+      "en": "Yahyá"
+    },
+    {
+      "ar": "بن",
+      "en": "son of"
+    },
+    {
+      "ar": "زکريّا",
+      "en": "Zachariah"
+    },
+    {
+      "ar": "مردم",
+      "en": "people"
+    },
+    {
+      "ar": "بشارت",
+      "en": "tidings"
+    },
+    {
+      "ar": "می داد",
+      "en": "gave"
+    },
+    {
+      "ar": "آن حضرت",
+      "en": "Jesus"
+    },
+    {
+      "ar": "چنانچه",
+      "en": "Even as"
+    },
+    {
+      "ar": "می فرمايد",
+      "en": "He hath revealed"
+    },
+    {
+      "ar": "اللّهَ",
+      "en": "God"
+    },
+    {
+      "ar": "بِکَلِمَةٍ",
+      "en": "Word"
+    },
+    {
+      "ar": "مِنَ اللّه",
+      "en": "from God"
+    },
+    {
+      "ar": "حَصُوراً",
+      "en": "chaste"
+    },
+    {
+      "ar": "مقصود",
+      "en": "meant"
+    },
+    {
+      "ar": "مبشّر",
+      "en": "foretold"
+    },
+    {
+      "ar": "الواح",
+      "en": "Scriptures"
+    },
+    {
+      "ar": "سماوی",
+      "en": "heavenly"
+    },
+    {
+      "ar": "مسطور",
+      "en": "written"
+    },
+    {
+      "ar": "کانَ",
+      "en": "was"
+    },
+    {
+      "ar": "يُوحَنّا",
+      "en": "John the Baptist"
+    },
+    {
+      "ar": "يَکرزُ",
+      "en": "preaching"
+    },
+    {
+      "ar": "تُوبُوا",
+      "en": "Repent"
+    },
+    {
+      "ar": "فَقَدِ",
+      "en": "for"
+    },
+    {
+      "ar": "اقتَرَبَ",
+      "en": "at hand"
+    },
+    {
+      "ar": "مَلَکُوتُ",
+      "en": "Kingdom"
+    },
+    {
+      "ar": "يوحنّا",
+      "en": "John"
+    }
+  ],
+  "terms": [
+    {
+      "term": "سماء",
+      "transliteration": "s-m-w",
+      "literal": "heaven; sky",
+      "se_rendering": "heaven",
+      "note": "Consistently 'heaven' or 'heavens' across 39 occurrences. Appears twice in this passage with identical rendering, maintaining the metaphysical distinction between physical and spiritual realms.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 591,
+          "snippet": "heaven"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 594,
+          "snippet": "the heavens"
+        },
+        {
+          "work": "gleanings",
+          "para": 78,
+          "snippet": "heavens"
+        },
+        {
+          "work": "gleanings",
+          "para": 212,
+          "snippet": "breath"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 53,
+          "snippet": "heavenly Grace"
+        },
+        {
+          "work": "gleanings",
+          "para": 417,
+          "snippet": "heavenly Book"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 123,
+          "snippet": "the grace of God and the mercy of his Lord"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 397,
+          "snippet": "the kingdoms of earth and heaven"
+        }
+      ]
+    },
+    {
+      "term": "ظاهره",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "manifested",
+      "note": "Typically 'Manifestation' or 'manifestation' across 96 occurrences. Here 'manifested' preserves the adjectival form while maintaining Shoghi Effendi's theological vocabulary of Manifestation.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 53,
+          "snippet": "Manifestation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 160,
+          "snippet": "Author of all Manifestations"
+        },
+        {
+          "work": "gleanings",
+          "para": 222,
+          "snippet": "material"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 206,
+          "snippet": "appeared"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 255,
+          "snippet": "Manifestations"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 791,
+          "snippet": "tokens of Thy handiwork"
+        }
+      ]
+    },
+    {
+      "term": "باطنه",
+      "transliteration": "b-ṭ-n",
+      "literal": "inner; hidden; inward; esoteric",
+      "se_rendering": "invisible",
+      "note": "Usually 'Concealment' or 'inward' across 13 occurrences. 'Invisible' here creates the explicit outer/inner duality (visible/invisible heaven) essential to the passage's pedagogical structure.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 602,
+          "snippet": "Concealment"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 23,
+          "snippet": "inwardly"
+        },
+        {
+          "work": "gleanings",
+          "para": 362,
+          "snippet": "inner life"
+        },
+        {
+          "work": "gleanings",
+          "para": 405,
+          "snippet": "smirched and mired"
+        },
+        {
+          "work": "gleanings",
+          "para": 493,
+          "snippet": "be"
+        },
+        {
+          "work": "gleanings",
+          "para": 248,
+          "snippet": "wombs"
+        },
+        {
+          "work": "gleanings",
+          "para": 521,
+          "snippet": "bosom"
+        }
+      ]
+    },
+    {
+      "term": "معانی",
+      "transliteration": "ʿ-n-d",
+      "literal": "obstinacy; opposition; enmity",
+      "se_rendering": "understanding",
+      "note": "Typically 'truths' or 'from Me' across 15 occurrences. 'Understanding' here is unique, rendering the Arabic abstract noun to suit the 'divine knowledge and understanding' phrase describing the inner heaven.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 13,
+          "snippet": "from Me"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 66,
+          "snippet": "from God"
+        },
+        {
+          "work": "gleanings",
+          "para": 278,
+          "snippet": "they possess"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 53,
+          "snippet": "the things they possess"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 71,
+          "snippet": "with what they possess"
+        },
+        {
+          "work": "gleanings",
+          "para": 535,
+          "snippet": "ye possess"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 91,
+          "snippet": "possessest"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 190,
+          "snippet": "pertaineth unto Him"
+        }
+      ]
+    },
+    {
+      "term": "بشارت",
+      "transliteration": "b-sh-r",
+      "literal": "human; mankind; human nature",
+      "se_rendering": "tidings",
+      "note": "Typically 'human' or 'human race' across 26 occurrences. 'Tidings' here renders the root's meaning of announcement/evangelism rather than its usual anthropological sense—contextually unique usage.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 711,
+          "snippet": "law"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 9,
+          "snippet": "testimony written by Mírzá Shu'á'u'lláh"
+        },
+        {
+          "work": "gleanings",
+          "para": 719,
+          "snippet": "human race"
+        },
+        {
+          "work": "tablet-of-carmel",
+          "para": 4,
+          "snippet": "announce"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 8,
+          "snippet": "SON OF MAN"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 755,
+          "snippet": "herald"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 231,
+          "snippet": "Forerunner"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 210,
+          "snippet": "that bringest good tidings"
+        }
+      ]
+    },
+    {
+      "term": "مصدقا",
+      "transliteration": "s-d-q",
+      "literal": "to confirm; to verify; to acknowledge; to testify to truth",
+      "se_rendering": "bear witness unto",
+      "note": "Usually 'confirmed' or 'truthful' across 25 occurrences. 'Bear witness unto' here expands the root into a relational verb phrase, emphasizing John's testimonial function over simple confirmation.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 39,
+          "snippet": "confirmed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 134,
+          "snippet": "the truthful"
+        },
+        {
+          "work": "gleanings",
+          "para": 461,
+          "snippet": "truth"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 28,
+          "snippet": "truthfulness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 143,
+          "snippet": "fidelity"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 268,
+          "snippet": "spoken the truth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 665,
+          "snippet": "seat of truth"
+        },
+        {
+          "work": "gleanings",
+          "para": 364,
+          "snippet": "unquestionable sincerity"
+        }
+      ]
+    },
+    {
+      "term": "مقصود",
+      "transliteration": "q-s-d",
+      "literal": "intention; purpose; aim; goal; to seek; to direct oneself",
+      "se_rendering": "meant",
+      "note": "Usually 'Seek' or 'goal' across 32 occurrences. 'Meant' here functions as exegetical apparatus, signaling interpretive meaning rather than literal reference—twice repeated for interpretive emphasis.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 204,
+          "snippet": "Seek"
+        },
+        {
+          "work": "gleanings",
+          "para": 602,
+          "snippet": "goal"
+        },
+        {
+          "work": "gleanings",
+          "para": 672,
+          "snippet": "direct"
+        },
+        {
+          "work": "gleanings",
+          "para": 683,
+          "snippet": "hasten to embrace"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 64,
+          "snippet": "aim"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 43,
+          "snippet": "purpose"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 47,
+          "snippet": "my heart's Desire"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 5,
+          "snippet": "my Desire"
+        }
+      ]
+    },
+    {
+      "term": "کلمه",
+      "transliteration": "k-l-m",
+      "literal": "word; utterance; speech",
+      "se_rendering": "Word",
+      "note": "Generally 'The first/second/third word' or 'utterance' across 12 occurrences. Capitalized 'Word' here, connecting to Johannine Christology and elevated theological register appropriate to Jesus's designation.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 51,
+          "snippet": "The first word"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 52,
+          "snippet": "The second word"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 55,
+          "snippet": "The third word"
+        },
+        {
+          "work": "gleanings",
+          "para": 20,
+          "snippet": "exalted words"
+        },
+        {
+          "work": "gleanings",
+          "para": 603,
+          "snippet": "a jewel"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 20,
+          "snippet": "utterance"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 124,
+          "snippet": "Word"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 168,
+          "snippet": "words"
+        }
+      ]
+    }
+  ],
+  "section_index": "70",
+  "section": "70",
+  "section_para": 1
 }

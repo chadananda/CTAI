@@ -1,10 +1,430 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 17,
   "source_text": "لَمِ العَلِيلِ أَشْتَغِلُ بِذِكْرِكَ، هَلْ مِنْ ذِي بَصَرٍ يا إِلهِي لِيَراكَ بِعَيْنِكَ. وَهَلْ مِنْ ذِي ظَمَأٍ يَتَوَجَّهُ إِلى كَوْثَرِ حُبِّكَ، وَأَنَا الَّذِيْ يا إِلهِي مَحَوْتُ عَنْ قَلْبِي ذِكْرَ دُونِكَ وَكَتَبْتُ عَلَيهِ أَسْرارَ حُبِّكَ، فَوَعِزَّتِكَ لَوْلا البَلايا لَمْ يَظْهَرِ الامْتِيازُ بَيْنَ عِبادِكَ المُوْقِنِينَ وَالمُرِيبِينَ، إِنَّ الَّذِينَهُمْ سَكِرُوا مِنْ خَمْرِ مَعَارِفِكَ، أُولئِكَ يُسْرِعُونَ إِلى البَلايا شَوْقًا لِلِقائِكَ، أَسْئَلُكَ يا مَحْبُوبَ قَلْبِي وَالمَذْكورُ فِيْ صَدْرِي بِأَنْ تَحْفَظَ أَحِبَّائِي مِنْ شائِبَةِ النَّفْسِ وَالهَوی، ثُمَّ ارْزُقْهُمْ خَيْرَ الآخِرَةِ وَالأُولی، وَإِنَّكَ",
   "translation": "Is there any man of insight, O my God, that can behold Thee with Thine own eye, and where is the thirsty one who can direct his face towards the living waters of Thy love? I am the one, O my God, who hath blotted out from his heart the remembrance of all except Thee, and hath graven upon it the mysteries of Thy love. Thine own might beareth me witness! But for tribulations, how could the assured be distinguished from the doubters among Thy servants? They who have been inebriated with the wine of Thy knowledge, these, verily, hasten to meet every manner of adversity in their longing to pass into Thy presence. I implore Thee, O Beloved of my heart and the Object of my soul’s adoration, to shield them that love me from the faintest trace of evil and corrupt desires. Supply them, then, with the good of this world and of the next.",
   "source_lang": "ar",
-  "score": 9.8
+  "score": 9.8,
+  "page_slug": "wine-of-thy-knowledge",
+  "alignment": [
+    {
+      "ar": "العَلِيلِ",
+      "en": "adversity"
+    },
+    {
+      "ar": "أَشْتَغِلُ",
+      "en": "adoration"
+    },
+    {
+      "ar": "بِذِكْرِكَ",
+      "en": "Thee"
+    },
+    {
+      "ar": "هَلْ",
+      "en": "Is there"
+    },
+    {
+      "ar": "ذِي بَصَرٍ",
+      "en": "man of insight"
+    },
+    {
+      "ar": "إِلهِي",
+      "en": "my God"
+    },
+    {
+      "ar": "يَراكَ",
+      "en": "behold Thee"
+    },
+    {
+      "ar": "بِعَيْنِكَ",
+      "en": "with Thine own eye"
+    },
+    {
+      "ar": "ذِي ظَمَأٍ",
+      "en": "thirsty one"
+    },
+    {
+      "ar": "كَوْثَرِ",
+      "en": "living waters"
+    },
+    {
+      "ar": "أَنَا",
+      "en": "I am the one"
+    },
+    {
+      "ar": "مَحَوْتُ",
+      "en": "blotted out"
+    },
+    {
+      "ar": "قَلْبِي",
+      "en": "heart"
+    },
+    {
+      "ar": "ذِكْرَ",
+      "en": "remembrance"
+    },
+    {
+      "ar": "دُونِكَ",
+      "en": "all except Thee"
+    },
+    {
+      "ar": "كَتَبْتُ",
+      "en": "graven"
+    },
+    {
+      "ar": "عَلَيهِ",
+      "en": "upon it"
+    },
+    {
+      "ar": "أَسْرارَ",
+      "en": "mysteries"
+    },
+    {
+      "ar": "لَوْلا",
+      "en": "But for"
+    },
+    {
+      "ar": "البَلايا",
+      "en": "tribulations"
+    },
+    {
+      "ar": "لَمْ يَظْهَرِ",
+      "en": "could"
+    },
+    {
+      "ar": "الامْتِيازُ",
+      "en": "distinguished"
+    },
+    {
+      "ar": "عِبادِكَ",
+      "en": "Thy servants"
+    },
+    {
+      "ar": "المُوْقِنِينَ",
+      "en": "assured"
+    },
+    {
+      "ar": "المُرِيبِينَ",
+      "en": "doubters"
+    },
+    {
+      "ar": "سَكِرُوا",
+      "en": "inebriated"
+    },
+    {
+      "ar": "خَمْرِ",
+      "en": "wine"
+    },
+    {
+      "ar": "مَعَارِفِكَ",
+      "en": "Thy knowledge"
+    },
+    {
+      "ar": "أُولئِكَ",
+      "en": "these"
+    },
+    {
+      "ar": "يُسْرِعُونَ",
+      "en": "hasten"
+    },
+    {
+      "ar": "شَوْقًا",
+      "en": "longing"
+    },
+    {
+      "ar": "لِلِقائِكَ",
+      "en": "to pass into Thy presence"
+    },
+    {
+      "ar": "أَسْئَلُكَ",
+      "en": "I implore Thee"
+    },
+    {
+      "ar": "مَحْبُوبَ",
+      "en": "Beloved"
+    },
+    {
+      "ar": "المَذْكورُ",
+      "en": "Object"
+    },
+    {
+      "ar": "تَحْفَظَ",
+      "en": "shield"
+    },
+    {
+      "ar": "شائِبَةِ",
+      "en": "faintest trace"
+    },
+    {
+      "ar": "الهَوی",
+      "en": "corrupt desires"
+    },
+    {
+      "ar": "ارْزُقْهُمْ",
+      "en": "Supply them"
+    },
+    {
+      "ar": "خَيْرَ",
+      "en": "good"
+    },
+    {
+      "ar": "الآخِرَةِ",
+      "en": "the next"
+    },
+    {
+      "ar": "الأُولی",
+      "en": "this world"
+    }
+  ],
+  "terms": [
+    {
+      "term": "بِذِكْرِكَ",
+      "transliteration": "dh-k-r",
+      "literal": "remembrance; mention; memory",
+      "se_rendering": "remembrance",
+      "note": "Standard 'remembrance' rendering (57 occurrences). No deviation; consistent with corpus pattern of devotional remembrance terminology.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 597,
+          "snippet": "remembrance"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 54,
+          "snippet": "mention"
+        },
+        {
+          "work": "gleanings",
+          "para": 237,
+          "snippet": "Then it was recalled"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 117,
+          "snippet": "Time and again have I declared"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 39,
+          "snippet": "deliberate"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 274,
+          "snippet": "aforementioned"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 112,
+          "snippet": "recorded"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 34,
+          "snippet": "confined in that"
+        }
+      ]
+    },
+    {
+      "term": "بَصَرٍ",
+      "transliteration": "b-ṣ-r",
+      "literal": "sight; insight; discernment; spiritual perception",
+      "se_rendering": "insight",
+      "note": "Rendered 'insight' here; typically 'eye of insight' or 'discerning eye' across 27 occurrences. Abstraction emphasizes spiritual perception over visual metaphor.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 27,
+          "snippet": "discerning"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 278,
+          "snippet": "eye of insight"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 16,
+          "snippet": "eye of God"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 116,
+          "snippet": "discerning eye"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 77,
+          "snippet": "hearing ears, and sharp sight"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 231,
+          "snippet": "clear"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 3,
+          "snippet": "proofs"
+        },
+        {
+          "work": "gleanings",
+          "para": 75,
+          "snippet": "eyes"
+        }
+      ]
+    },
+    {
+      "term": "كَوْثَرِ",
+      "transliteration": "k-w-th-r",
+      "literal": "abundance; river of paradise; the Kawthar",
+      "se_rendering": "living waters",
+      "note": "SE renders 'living waters' here; corpus shows 'Kawthar', 'river of everlasting life', 'stream of pure water'. Poetic interpretation over proper noun preserves Qur'anic resonance.",
+      "cross_refs": [
+        {
+          "work": "the-hidden-words",
+          "para": 113,
+          "snippet": "river of everlasting life"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 72,
+          "snippet": "Kawthar"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 65,
+          "snippet": "stream of pure water"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 239,
+          "snippet": "Kawthar of nearness"
+        }
+      ]
+    },
+    {
+      "term": "البَلايا",
+      "transliteration": "b-l-ʾ",
+      "literal": "affliction; trial; calamity",
+      "se_rendering": "tribulations",
+      "note": "'Tribulations' here; corpus also shows 'trials', 'afflictions', 'Troubles'. SE's choice emphasizes testing over mere hardship—aligns with Bahá'í theology of calamity's spiritual purpose.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 4,
+          "snippet": "trials"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 137,
+          "snippet": "Troubles"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 179,
+          "snippet": "tribulations"
+        },
+        {
+          "work": "gleanings",
+          "para": 660,
+          "snippet": "afflictions"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 28,
+          "snippet": "afflicted"
+        },
+        {
+          "work": "gleanings",
+          "para": 640,
+          "snippet": "subjected"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 145,
+          "snippet": "sick"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 92,
+          "snippet": "Yea"
+        }
+      ]
+    },
+    {
+      "term": "خَمْرِ",
+      "transliteration": "kh-m-r",
+      "literal": "wine; intoxicating drink",
+      "se_rendering": "wine",
+      "note": "'Wine' rendered directly; corpus shows 'wine of Thy tender mercy', 'wine of Thy knowledge', 'peerless wine'. Here SE preserves metaphor without theological qualifier.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 55,
+          "snippet": "wine of Thy meeting"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 62,
+          "snippet": "peerless wine"
+        }
+      ]
+    },
+    {
+      "term": "النَّفْسِ",
+      "transliteration": "n-f-s",
+      "literal": "self; soul; psyche",
+      "se_rendering": "evil",
+      "note": "'Evil' here deviates sharply from corpus showing 'Self', 'myself', 'his own entity'. SE's contextual choice treats nafs as lower ego/desire rather than ontological selfhood.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 114,
+          "snippet": "over Mine own Self"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 70,
+          "snippet": "This is the station in which I have no power"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 71,
+          "snippet": "his own entity in the kingdom of his self"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 109,
+          "snippet": "those"
+        },
+        {
+          "work": "gleanings",
+          "para": 205,
+          "snippet": "souls"
+        },
+        {
+          "work": "gleanings",
+          "para": 297,
+          "snippet": "their powerlessness"
+        },
+        {
+          "work": "gleanings",
+          "para": 225,
+          "snippet": "such of My followers"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 12,
+          "snippet": "self and passion"
+        }
+      ]
+    }
+  ],
+  "section_index": "VI.2",
+  "section": "VI",
+  "section_para": 2
 }

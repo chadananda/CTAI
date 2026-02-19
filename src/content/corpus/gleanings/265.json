@@ -1,10 +1,339 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 265,
   "source_text": "و امّا اجل معلّق بمسئلت و دعا رفع شده و میشود انشآءالله آن ثمره و من معها از آن محفوظند",
   "translation": "The decree that is impending, however, is such that prayer and entreaty can succeed in averting it.\nGod grant that thou who art the fruit of My Tree, and they that are associated with thee, may be shielded from its evil consequences.",
   "source_lang": "ar",
-  "score": 9.2
+  "score": 9.2,
+  "page_slug": "prayer-averting-decree",
+  "alignment": [
+    {
+      "ar": "اجل",
+      "en": "decree"
+    },
+    {
+      "ar": "معلّق",
+      "en": "impending"
+    },
+    {
+      "ar": "بمسئلت",
+      "en": "prayer"
+    },
+    {
+      "ar": "دعا",
+      "en": "entreaty"
+    },
+    {
+      "ar": "رفع",
+      "en": "averting"
+    },
+    {
+      "ar": "شده",
+      "en": "succeed"
+    },
+    {
+      "ar": "میشود",
+      "en": "can"
+    },
+    {
+      "ar": "انشآءالله",
+      "en": "God grant"
+    },
+    {
+      "ar": "ثمره",
+      "en": "fruit"
+    },
+    {
+      "ar": "من",
+      "en": "My"
+    },
+    {
+      "ar": "معها",
+      "en": "associated with thee"
+    },
+    {
+      "ar": "محفوظند",
+      "en": "shielded"
+    }
+  ],
+  "terms": [
+    {
+      "term": "اجل",
+      "transliteration": "j-l-l",
+      "literal": "majesty; glory; exaltation; magnificence",
+      "se_rendering": "decree",
+      "note": "Root typically renders as 'exalted,' 'majesty,' 'glory' across corpus. Here 'decree' is semantic shift reflecting context of divine judgment rather than divine attributes.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 24,
+          "snippet": "majestic"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 4,
+          "snippet": "distinguished"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 103,
+          "snippet": "All-Glorious"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 56,
+          "snippet": "His glory"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 15,
+          "snippet": "majesty"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 612,
+          "snippet": "Thy glory"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 208,
+          "snippet": "sublime utterance"
+        }
+      ]
+    },
+    {
+      "term": "معلّق",
+      "transliteration": "ʿ-l-q",
+      "literal": "attachment; connection; relationship",
+      "se_rendering": "impending",
+      "note": "Root meanings include 'attachment' and 'hanging.' SE chose 'impending' to convey temporal suspension—pending judgment—distinct from relational senses elsewhere in corpus.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 15,
+          "snippet": "detachment"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 77,
+          "snippet": "affection"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 2,
+          "snippet": "concerning"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 434,
+          "snippet": "hanging"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 262,
+          "snippet": "suspended"
+        }
+      ]
+    },
+    {
+      "term": "دعا",
+      "transliteration": "d-ʿ-w",
+      "literal": "call, invocation, summons; to call, invite, summon",
+      "se_rendering": "prayer and entreaty",
+      "note": "Standard rendering as 'call/invocation.' Pairing with 'prayer' emphasizes supplicatory power to avert fate, reinforcing Islamic/Bahá'í doctrine of prayer's efficacy.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 839,
+          "snippet": "supplicated Thee"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 199,
+          "snippet": "summoned"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 537,
+          "snippet": "called upon Thy servants"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 36,
+          "snippet": "I call upon Thee"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 24,
+          "snippet": "I call thee"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 34,
+          "snippet": "I summon thee"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 226,
+          "snippet": "summon"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 48,
+          "snippet": "allowed me"
+        }
+      ]
+    },
+    {
+      "term": "رفع",
+      "transliteration": "r-f-ʿ",
+      "literal": "to be raised, elevated, exalted, lifted up",
+      "se_rendering": "averting",
+      "note": "Typically 'exalted,' 'elevated,' 'sublimity.' Here 'averting' captures active sense of raising/lifting away—prayer lifts the decree away from the supplicant.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 52,
+          "snippet": "elevated heavens"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 11,
+          "snippet": "was hoisted"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 15,
+          "snippet": "exalted"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 227,
+          "snippet": "exaltation"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 210,
+          "snippet": "lift up"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 4,
+          "snippet": "are uplifted"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 285,
+          "snippet": "uplifted"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 43,
+          "snippet": "have We abolished"
+        }
+      ]
+    },
+    {
+      "term": "انشآءالله",
+      "transliteration": "ʾ-n-sh-ʾ",
+      "literal": "creation, creation act; to create, originate, compose",
+      "se_rendering": "God grant that",
+      "note": "Rare rendering; corpus shows 'concourse/kingdoms of creation.' Here becomes conditional blessing formula 'God grant that,' a liturgical intensification appropriate to prayer context.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 596,
+          "snippet": "concourse of Thy creation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 57,
+          "snippet": "kingdoms of creation"
+        }
+      ]
+    },
+    {
+      "term": "ثمره",
+      "transliteration": "th-m-r",
+      "literal": "fruit; the fruit",
+      "se_rendering": "fruit",
+      "note": "Consistent with corpus as 'fruit.' Metaphorical designation of addressee as spiritual offspring strengthens covenant theology implicit in the passage.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 57,
+          "snippet": "fruit given forth by"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 7,
+          "snippet": "fruits"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 158,
+          "snippet": "fruit"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 241,
+          "snippet": "any fruit, or leaf, or branch"
+        }
+      ]
+    },
+    {
+      "term": "محفوظند",
+      "transliteration": "h-f-z",
+      "literal": "guardian; preserver; keeper",
+      "se_rendering": "shielded",
+      "note": "Standard rendering as 'shield/protection/guard.' Plural form emphasizes collective protection extending to those 'associated' with the addressee, not just individual.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 3,
+          "snippet": "protection"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 44,
+          "snippet": "shield"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 55,
+          "snippet": "guard"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 22,
+          "snippet": "Guardian"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 193,
+          "snippet": "Keep"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 90,
+          "snippet": "Watch"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 102,
+          "snippet": "Preserve"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 625,
+          "snippet": "the Preserver"
+        }
+      ]
+    }
+  ],
+  "section_index": "LXVIII.3",
+  "section": "LXVIII",
+  "section_para": 3
 }

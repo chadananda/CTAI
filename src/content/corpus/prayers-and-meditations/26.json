@@ -1,10 +1,366 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 26,
   "source_text": "إِلهِي مِصْبَاحَكَ بَيْنَ هُبُوبِ أَرْياحِ قَضائِكَ، وَكُلَّما تَمُرُّ عَلَيْهِ العَواصِفُ مِنْ كُلِّ شَطْرٍ يَزْدادُ نُورُهُ وَضِيائُهُ لَكَ الحَمْدُ فِيْ كُلِّ ذلِكَ، أَسْئَلُكَ",
   "translation": "Behold, then, O my God, how Thy Light hath been compassed with the onrushing winds of Thy decree, how the tempests that blow and beat upon it from every side have added to its brightness and increased its splendor. For all this let Thee be praised.",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "light-tempests-brightness-splendor",
+  "alignment": [
+    {
+      "ar": "إِلهِي",
+      "en": "O my God"
+    },
+    {
+      "ar": "مِصْبَاحَكَ",
+      "en": "Thy Light"
+    },
+    {
+      "ar": "بَيْنَ",
+      "en": "compassed with"
+    },
+    {
+      "ar": "هُبُوبِ",
+      "en": "onrushing winds"
+    },
+    {
+      "ar": "أَرْياحِ",
+      "en": "winds"
+    },
+    {
+      "ar": "قَضائِكَ",
+      "en": "Thy decree"
+    },
+    {
+      "ar": "عَلَيْهِ",
+      "en": "upon it"
+    },
+    {
+      "ar": "العَواصِفُ",
+      "en": "the tempests"
+    },
+    {
+      "ar": "شَطْرٍ",
+      "en": "side"
+    },
+    {
+      "ar": "يَزْدادُ",
+      "en": "added"
+    },
+    {
+      "ar": "نُورُهُ",
+      "en": "its brightness"
+    },
+    {
+      "ar": "وَضِيائُهُ",
+      "en": "its splendor"
+    },
+    {
+      "ar": "الحَمْدُ",
+      "en": "be praised"
+    },
+    {
+      "ar": "ذلِكَ",
+      "en": "all this"
+    },
+    {
+      "ar": "أَسْئَلُكَ",
+      "en": "increased"
+    }
+  ],
+  "terms": [
+    {
+      "term": "مِصْبَاحَكَ",
+      "transliteration": "s-b-h",
+      "literal": "morning, dawn; daybreak",
+      "se_rendering": "Thy Light",
+      "note": "Root meaning 'morning' or 'dawn'; rendered as 'Thy Light' here rather than typical 'dawning light' or 'lamp'—elevating the spiritual lamp metaphor to pure luminosity.",
+      "cross_refs": [
+        {
+          "work": "fire-tablet",
+          "para": 22,
+          "snippet": "dawning light"
+        },
+        {
+          "work": "gleanings",
+          "para": 211,
+          "snippet": "morning"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 185,
+          "snippet": "break of day"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 20,
+          "snippet": "lamp"
+        },
+        {
+          "work": "gleanings",
+          "para": 48,
+          "snippet": "lamp of guidance"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 144,
+          "snippet": "dawn"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 2,
+          "snippet": "morn"
+        }
+      ]
+    },
+    {
+      "term": "هُبُوبِ",
+      "transliteration": "h-b-b",
+      "literal": "blowing; onset; rushing of wind",
+      "se_rendering": "onrushing",
+      "note": "Only 5 occurrences in corpus. Rendered 'onrushing' here; typically appears as 'winds' or 'tempests'—SE's choice emphasizes violent onset over gentle movement.",
+      "cross_refs": [
+        {
+          "work": "fire-tablet",
+          "para": 29,
+          "snippet": "onrushing"
+        }
+      ]
+    },
+    {
+      "term": "أَرْياحِ",
+      "transliteration": "r-w-h",
+      "literal": "rest; ease; comfort; tranquility",
+      "se_rendering": "winds",
+      "note": "Root typically means 'rest' or 'ease' (24 occurrences), but rendered 'winds' here—a striking semantic shift to physical force, not spiritual comfort.",
+      "cross_refs": [
+        {
+          "work": "the-hidden-words",
+          "para": 115,
+          "snippet": "ease"
+        },
+        {
+          "work": "gleanings",
+          "para": 417,
+          "snippet": "peace"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 78,
+          "snippet": "rest"
+        },
+        {
+          "work": "gleanings",
+          "para": 10,
+          "snippet": "at rest"
+        },
+        {
+          "work": "gleanings",
+          "para": 712,
+          "snippet": "the wind"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 98,
+          "snippet": "Mortal blasts"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 161,
+          "snippet": "different winds"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 22,
+          "snippet": "fellowship"
+        }
+      ]
+    },
+    {
+      "term": "قَضائِكَ",
+      "transliteration": "q-d-y",
+      "literal": "requirement; exigency; what demands or calls for",
+      "se_rendering": "Thy decree",
+      "note": "Rendered 'Thy decree' here; corpus shows 'winds of Thy decree' and 'gales of destiny' as alternatives—SE maintains juridical precision rather than poetic mysticism.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 228,
+          "snippet": "would not be meet and seemly"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 29,
+          "snippet": "gales of destiny"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 106,
+          "snippet": "according to"
+        },
+        {
+          "work": "gleanings",
+          "para": 163,
+          "snippet": "Thy judgments"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 29,
+          "snippet": "for a judge"
+        },
+        {
+          "work": "gleanings",
+          "para": 226,
+          "snippet": "when the time set for this Revelation was fulfilled"
+        },
+        {
+          "work": "gleanings",
+          "para": 494,
+          "snippet": "hath been ordained"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 85,
+          "snippet": "the decision made"
+        }
+      ]
+    },
+    {
+      "term": "شَطْرٍ",
+      "transliteration": "sh-ṭ-r",
+      "literal": "side, direction; half; to split",
+      "se_rendering": "side",
+      "note": "Root means 'side' or 'direction'; rendered 'side' here, aligning with directional sense rather than spatial abstractions like 'towards' found in other contexts.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 30,
+          "snippet": "towards Him Who is the Kaaba of God"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 77,
+          "snippet": "towards their Friend"
+        },
+        {
+          "work": "gleanings",
+          "para": 654,
+          "snippet": "toward their Lord"
+        },
+        {
+          "work": "gleanings",
+          "para": 641,
+          "snippet": "toward God"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 257,
+          "snippet": "direction"
+        }
+      ]
+    },
+    {
+      "term": "نُورُهُ",
+      "transliteration": "n-w-r",
+      "literal": "light; illumination",
+      "se_rendering": "brightness",
+      "note": "Standard 'light' rendering (78 occurrences); here doubled as 'brightness and increased its splendor'—SE renders the paired noun ضيائه as 'splendor' to avoid repetition.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 3,
+          "snippet": "light"
+        },
+        {
+          "work": "gleanings",
+          "para": 230,
+          "snippet": "Orb of Light"
+        },
+        {
+          "work": "gleanings",
+          "para": 235,
+          "snippet": "glory"
+        },
+        {
+          "work": "gleanings",
+          "para": 597,
+          "snippet": "fire"
+        },
+        {
+          "work": "gleanings",
+          "para": 458,
+          "snippet": "fire of God"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 10,
+          "snippet": "flame of fire"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 39,
+          "snippet": "lights"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 144,
+          "snippet": "radiant"
+        }
+      ]
+    },
+    {
+      "term": "الحَمْدُ",
+      "transliteration": "h-m-d",
+      "literal": "praise; to praise",
+      "se_rendering": "praised",
+      "note": "Rendered 'praised' here in passive construction; corpus shows 'All praise' and 'Praise be to Thee' as more common active forms—unusual stylistic choice reflecting the subject-object shift.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "All praise"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 2,
+          "snippet": "Praise be"
+        },
+        {
+          "work": "gleanings",
+          "para": 717,
+          "snippet": "All praise be"
+        },
+        {
+          "work": "gleanings",
+          "para": 186,
+          "snippet": "the All-Praised"
+        },
+        {
+          "work": "gleanings",
+          "para": 231,
+          "snippet": "glorious"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 159,
+          "snippet": "glorious station"
+        },
+        {
+          "work": "gleanings",
+          "para": 260,
+          "snippet": "All-Praised"
+        },
+        {
+          "work": "gleanings",
+          "para": 266,
+          "snippet": "praiseworthy"
+        }
+      ]
+    }
+  ],
+  "section_index": "IX.2",
+  "section": "IX",
+  "section_para": 2
 }

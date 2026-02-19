@@ -1,10 +1,516 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 198,
   "source_text": "قل یا ملأ البیان إنّا اختصصناكم لعرفان نفسنا بین العالمین وقرّبناكم إلی شاطئ الأیمن عن یمین بقعة الفردوس مقام الّذي فیه تنطق النّار علی كلّ الألحان بأنّه لا إله إلّا أنا العليّ العظیم إیّاكم أن لا تحتجبوا أنفسكم عن هذه الشّمس الّتي استضآءت عن أفق مشیّة ربّكم الرّحمن بضیآء الّذي أحاط كلّ صغیر وكبیر أن افتحوا أبصاركم لتشهدوها بعیونكم ولا تعلّقوا أبصاركم بذي بصر لأنّ الله ما كلّف نفسًا إلّا بعد وسعها وكذلك نزل في كلّ الألواح علی النّبیّین والمرسلین",
   "translation": "Say: O people of the Bayán! We have chosen you out of the world to know and recognize Our Self. We have caused you to draw nigh unto the right side of Paradise — the Spot out of which the undying Fire crieth in manifold accents: “There is none other God besides Me, the All-Powerful, the Most High!” Take heed lest ye allow yourselves to be shut out as by a veil from this Daystar that shineth above the dayspring of the Will of your Lord, the All-Merciful, and whose light hath encompassed both the small and the great. Purge your sight, that ye may perceive its glory with your own eyes, and depend not on the sight of anyone except yourself, for God hath never burdened any soul beyond its power. Thus hath it been sent down unto the Prophets and Messengers of old, and been recorded in all the Scriptures.",
   "source_lang": "ar",
-  "score": 9.7
+  "score": 9.7,
+  "page_slug": "daystar-shine-paradise",
+  "alignment": [
+    {
+      "ar": "قل",
+      "en": "Say"
+    },
+    {
+      "ar": "ملأ",
+      "en": "people"
+    },
+    {
+      "ar": "البیان",
+      "en": "Bayán"
+    },
+    {
+      "ar": "إنّا",
+      "en": "We"
+    },
+    {
+      "ar": "اختصصناكم",
+      "en": "chosen you"
+    },
+    {
+      "ar": "لعرفان",
+      "en": "to know"
+    },
+    {
+      "ar": "نفسنا",
+      "en": "Our Self"
+    },
+    {
+      "ar": "بین",
+      "en": "out of"
+    },
+    {
+      "ar": "العالمین",
+      "en": "the world"
+    },
+    {
+      "ar": "قرّبناكم",
+      "en": "caused you to draw nigh"
+    },
+    {
+      "ar": "شاطئ",
+      "en": "side"
+    },
+    {
+      "ar": "الأیمن",
+      "en": "right"
+    },
+    {
+      "ar": "یمین",
+      "en": "Paradise"
+    },
+    {
+      "ar": "بقعة",
+      "en": "Spot"
+    },
+    {
+      "ar": "مقام",
+      "en": "out of which"
+    },
+    {
+      "ar": "تنطق",
+      "en": "crieth"
+    },
+    {
+      "ar": "النّار",
+      "en": "Fire"
+    },
+    {
+      "ar": "علی",
+      "en": "in"
+    },
+    {
+      "ar": "كلّ",
+      "en": "manifold"
+    },
+    {
+      "ar": "الألحان",
+      "en": "accents"
+    },
+    {
+      "ar": "بأنّه",
+      "en": "There is"
+    },
+    {
+      "ar": "لا إله إلّا أنا",
+      "en": "none other God besides Me"
+    },
+    {
+      "ar": "العليّ",
+      "en": "Most High"
+    },
+    {
+      "ar": "العظیم",
+      "en": "All-Powerful"
+    },
+    {
+      "ar": "إیّاكم",
+      "en": "Take heed"
+    },
+    {
+      "ar": "أن لا تحتجبوا",
+      "en": "lest ye allow yourselves to be shut out"
+    },
+    {
+      "ar": "أنفسكم",
+      "en": "yourselves"
+    },
+    {
+      "ar": "عن",
+      "en": "from"
+    },
+    {
+      "ar": "هذه",
+      "en": "this"
+    },
+    {
+      "ar": "الشّمس",
+      "en": "Daystar"
+    },
+    {
+      "ar": "الّتي",
+      "en": "that"
+    },
+    {
+      "ar": "استضآءت",
+      "en": "shineth"
+    },
+    {
+      "ar": "أفق",
+      "en": "dayspring"
+    },
+    {
+      "ar": "مشیّة",
+      "en": "Will"
+    },
+    {
+      "ar": "ربّكم",
+      "en": "your Lord"
+    },
+    {
+      "ar": "الرّحمن",
+      "en": "All-Merciful"
+    },
+    {
+      "ar": "بضیآء",
+      "en": "light"
+    },
+    {
+      "ar": "الّذي",
+      "en": "whose"
+    },
+    {
+      "ar": "أحاط",
+      "en": "encompassed"
+    },
+    {
+      "ar": "صغیر",
+      "en": "small"
+    },
+    {
+      "ar": "كبیر",
+      "en": "great"
+    },
+    {
+      "ar": "افتحوا",
+      "en": "Purge"
+    },
+    {
+      "ar": "أبصاركم",
+      "en": "your sight"
+    },
+    {
+      "ar": "لتشهدوها",
+      "en": "that ye may perceive"
+    },
+    {
+      "ar": "بعیونكم",
+      "en": "with your own eyes"
+    },
+    {
+      "ar": "ولا تعلّقوا",
+      "en": "depend not"
+    },
+    {
+      "ar": "أبصاركم",
+      "en": "sight"
+    },
+    {
+      "ar": "بذي",
+      "en": "on the sight of"
+    },
+    {
+      "ar": "بصر",
+      "en": "anyone"
+    },
+    {
+      "ar": "لأنّ",
+      "en": "for"
+    },
+    {
+      "ar": "الله",
+      "en": "God"
+    },
+    {
+      "ar": "ما كلّف",
+      "en": "hath never burdened"
+    },
+    {
+      "ar": "نفسًا",
+      "en": "any soul"
+    },
+    {
+      "ar": "إلّا",
+      "en": "beyond"
+    },
+    {
+      "ar": "وسعها",
+      "en": "its power"
+    },
+    {
+      "ar": "كذلك",
+      "en": "Thus"
+    },
+    {
+      "ar": "نزل",
+      "en": "hath it been sent down"
+    },
+    {
+      "ar": "الألواح",
+      "en": "Scriptures"
+    },
+    {
+      "ar": "علی",
+      "en": "unto"
+    },
+    {
+      "ar": "النّبیّین",
+      "en": "Prophets"
+    },
+    {
+      "ar": "المرسلین",
+      "en": "Messengers"
+    }
+  ],
+  "terms": [
+    {
+      "term": "البیان",
+      "transliteration": "b-y-n",
+      "literal": "to manifest; to make clear; clear, evident",
+      "se_rendering": "the Bayán",
+      "note": "SE renders as proper noun 'the Bayán' here; typically means 'manifest' or 'clear verses' across 87 occurrences. Contextually specific to Bahá'í scripture designation.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 231,
+          "snippet": "clear verses"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 3,
+          "snippet": "proofs"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 12,
+          "snippet": "clear proofs"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 101,
+          "snippet": "Bayán"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 84,
+          "snippet": "palpable smoke"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 120,
+          "snippet": "evil"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 178,
+          "snippet": "evident error"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 189,
+          "snippet": "meaning"
+        }
+      ]
+    },
+    {
+      "term": "النار",
+      "transliteration": "n-w-r",
+      "literal": "light; illumination",
+      "se_rendering": "Fire",
+      "note": "Translated 'Fire' (undying Fire) instead of typical 'light' renderings across 78 occurrences. Rhetorical pivot: fire speaks divine truth in paradoxical proclamation.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 3,
+          "snippet": "light"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 114,
+          "snippet": "with the light"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 109,
+          "snippet": "Thy light"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 246,
+          "snippet": "Illumine"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 180,
+          "snippet": "fire"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 10,
+          "snippet": "flame of fire"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 39,
+          "snippet": "lights"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 312,
+          "snippet": "splendors"
+        }
+      ]
+    },
+    {
+      "term": "تحتجبوا",
+      "transliteration": "ḥ-j-b",
+      "literal": "to veil oneself, to be veiled",
+      "se_rendering": "allow yourselves to be shut out as by a veil",
+      "note": "Rendered as clause 'allow yourselves to be shut out as by a veil' rather than simple 'veil' or 'veiling'; emphasizes active self-veiling from divine reality.",
+      "cross_refs": [
+        {
+          "work": "the-hidden-words",
+          "para": 33,
+          "snippet": "veil thyself"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 234,
+          "snippet": "veiling yourselves"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 22,
+          "snippet": "veiled"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 533,
+          "snippet": "the veil"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 150,
+          "snippet": "the veil of heedlessness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 175,
+          "snippet": "veiled from"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 214,
+          "snippet": "deprived"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 858,
+          "snippet": "which come in between us"
+        }
+      ]
+    },
+    {
+      "term": "الشمس",
+      "transliteration": "sh-m-s",
+      "literal": "sun; daystar; manifestation of divine light",
+      "se_rendering": "Daystar",
+      "note": "Rendered 'Daystar' here; corpus shows 'Sun', 'Orb', 'Prophets', 'Sun-like Mirrors' across 13 occurrences. Poetic metaphor for divine manifestation with added celestial imagery.",
+      "cross_refs": [
+        {
+          "work": "fire-tablet",
+          "para": 43,
+          "snippet": "Sun"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 33,
+          "snippet": "Prophets"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 234,
+          "snippet": "Sun-like Mirrors"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 191,
+          "snippet": "Luminaries arising from the Daysprings"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 715,
+          "snippet": "suns"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 199,
+          "snippet": "Luminaries of Truth"
+        }
+      ]
+    },
+    {
+      "term": "مشیه",
+      "transliteration": "m-sh-y",
+      "literal": "way; manner; gait; to walk",
+      "se_rendering": "Will",
+      "note": "Rendered 'Will' (capitalized) here; corpus shows 'ways', 'requirements', 'way', 'walking' across 6 occurrences. Capitalization elevates to divine attribute level.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 277,
+          "snippet": "ways"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 215,
+          "snippet": "requirements"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 261,
+          "snippet": "way"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 186,
+          "snippet": "walking"
+        }
+      ]
+    },
+    {
+      "term": "الالواح",
+      "transliteration": "l-w-h",
+      "literal": "tablet; panel; divine decree; revelation",
+      "se_rendering": "the Scriptures",
+      "note": "Translated 'the Scriptures' here; typically 'Tablets' or 'Tablet' in other contexts (16 occurrences). Expansive reference to all prophetic records rather than singular tablet.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 218,
+          "snippet": "Lawh-i-Fu'ad"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 245,
+          "snippet": "Tablets"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 112,
+          "snippet": "Tablet"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 7,
+          "snippet": "a document"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 100,
+          "snippet": "the Scriptures"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 461,
+          "snippet": "the Tablets"
+        }
+      ]
+    }
+  ],
+  "section_index": "LII.5",
+  "section": "LII",
+  "section_para": 5
 }

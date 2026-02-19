@@ -1,10 +1,518 @@
 {
   "work": "Epistle to the Son of the Wolf",
   "slug": "epistle-to-the-son-of-the-wolf",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 92,
   "source_text": "( الی ان قلنا ) قل يا قوم هل ينبغی لکم ان تنسبوا انفسکم الی الرّحمن و ترتکبوا ما ارتکبه الشّيطان لا و جمال السّبحان لو کنتم من العارفين * قدّسوا قلوبکم عن حبّ الدّنيا و السنکم عن الافتراء و ارکانکم عمّا يمنعکم عن التّقرّب الی اللّه العزيز الحميد * قل الدّنيا هی اعراضکم عن مطلع الوحی و اقبالکم الی ما لا ينفعکم و ما منعکم اليوم عن شطر اللّه انّه اصل الدّنيا اجتنبوها و تقرّبوا الی المنظر الاکبر هذا المقرّ المشرق المنير * يا قوم لا تسفکوا الدّماء و لا تحکموا علی نفس الّا بالحقّ * کذلک امرتم من لدن عليم خبير * انّ الّذين يفسدون فی الارض بعد اصلاحها اولئک جاوزوا ما حدّد فی الکتاب فبئس مثوی المعتدين",
   "translation": "And further We have said: \"Doth it behoove you to relate yourselves to Him Who is the God of mercy, and yet commit the things which the Evil One hath committed? Nay, by the Beauty of Him Who is the All-Glorified! could ye but know it. Purge your hearts from love of the world, and your tongues from calumny, and your limbs from whatsoever may withhold you from drawing nigh unto God, the Mighty, the All-Praised. Say: By the world is meant that which turneth you aside from Him Who is the Dawning-Place of Revelation, and inclineth you unto that which is unprofitable unto you. Verily, the thing that deterreth you, in this day, from God is worldliness in its essence. Eschew it, and approach the Most Sublime Vision, this shining and resplendent Seat. Shed not the blood of anyone, O people, neither judge ye anyone unjustly. Thus have ye been commanded by Him Who knoweth, Who is informed of all. They that commit disorders in the land after it hath been well ordered, these indeed have outstepped the bounds that have been set in the Book. Wretched shall be the abode of the transgressors!\"",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "eschew-worldliness-approach-sublime",
+  "alignment": [
+    {
+      "ar": "قلنا",
+      "en": "We have said"
+    },
+    {
+      "ar": "قل",
+      "en": "Say"
+    },
+    {
+      "ar": "يا قوم",
+      "en": "O people"
+    },
+    {
+      "ar": "هل",
+      "en": "Doth"
+    },
+    {
+      "ar": "ينبغی",
+      "en": "behoove"
+    },
+    {
+      "ar": "لکم",
+      "en": "you"
+    },
+    {
+      "ar": "ان",
+      "en": "to"
+    },
+    {
+      "ar": "تنسبوا",
+      "en": "relate"
+    },
+    {
+      "ar": "انفسکم",
+      "en": "yourselves"
+    },
+    {
+      "ar": "الرّحمن",
+      "en": "the God of mercy"
+    },
+    {
+      "ar": "ترتکبوا",
+      "en": "commit"
+    },
+    {
+      "ar": "ما",
+      "en": "the things which"
+    },
+    {
+      "ar": "ارتکبه",
+      "en": "hath committed"
+    },
+    {
+      "ar": "الشّيطان",
+      "en": "the Evil One"
+    },
+    {
+      "ar": "لا",
+      "en": "Nay"
+    },
+    {
+      "ar": "جمال",
+      "en": "Beauty"
+    },
+    {
+      "ar": "السّبحان",
+      "en": "the All-Glorified"
+    },
+    {
+      "ar": "لو",
+      "en": "could"
+    },
+    {
+      "ar": "کنتم",
+      "en": "ye"
+    },
+    {
+      "ar": "العارفين",
+      "en": "know"
+    },
+    {
+      "ar": "قدّسوا",
+      "en": "Purge"
+    },
+    {
+      "ar": "قلوبکم",
+      "en": "your hearts"
+    },
+    {
+      "ar": "حبّ",
+      "en": "love"
+    },
+    {
+      "ar": "الدّنيا",
+      "en": "the world"
+    },
+    {
+      "ar": "السنکم",
+      "en": "your tongues"
+    },
+    {
+      "ar": "الافتراء",
+      "en": "calumny"
+    },
+    {
+      "ar": "ارکانکم",
+      "en": "your limbs"
+    },
+    {
+      "ar": "يمنعکم",
+      "en": "withhold you"
+    },
+    {
+      "ar": "التّقرّب",
+      "en": "drawing nigh"
+    },
+    {
+      "ar": "اللّه",
+      "en": "God"
+    },
+    {
+      "ar": "العزيز",
+      "en": "the Mighty"
+    },
+    {
+      "ar": "الحميد",
+      "en": "the All-Praised"
+    },
+    {
+      "ar": "اعراضکم",
+      "en": "turneth you aside"
+    },
+    {
+      "ar": "مطلع الوحی",
+      "en": "the Dawning-Place of Revelation"
+    },
+    {
+      "ar": "اقبالکم",
+      "en": "inclineth you"
+    },
+    {
+      "ar": "لا ينفعکم",
+      "en": "unprofitable unto you"
+    },
+    {
+      "ar": "منعکم",
+      "en": "deterreth you"
+    },
+    {
+      "ar": "اليوم",
+      "en": "this day"
+    },
+    {
+      "ar": "شطر",
+      "en": "from"
+    },
+    {
+      "ar": "اصل",
+      "en": "in its essence"
+    },
+    {
+      "ar": "اجتنبوها",
+      "en": "Eschew it"
+    },
+    {
+      "ar": "تقرّبوا",
+      "en": "approach"
+    },
+    {
+      "ar": "المنظر الاکبر",
+      "en": "the Most Sublime Vision"
+    },
+    {
+      "ar": "المقرّ",
+      "en": "Seat"
+    },
+    {
+      "ar": "المشرق",
+      "en": "shining"
+    },
+    {
+      "ar": "المنير",
+      "en": "resplendent"
+    },
+    {
+      "ar": "لا تسفکوا",
+      "en": "Shed not"
+    },
+    {
+      "ar": "الدّماء",
+      "en": "the blood"
+    },
+    {
+      "ar": "لا تحکموا",
+      "en": "neither judge ye"
+    },
+    {
+      "ar": "نفس",
+      "en": "anyone"
+    },
+    {
+      "ar": "بالحقّ",
+      "en": "unjustly"
+    },
+    {
+      "ar": "امرتم",
+      "en": "have ye been commanded"
+    },
+    {
+      "ar": "عليم",
+      "en": "Who knoweth"
+    },
+    {
+      "ar": "خبير",
+      "en": "Who is informed"
+    },
+    {
+      "ar": "الّذين",
+      "en": "They that"
+    },
+    {
+      "ar": "يفسدون",
+      "en": "commit disorders"
+    },
+    {
+      "ar": "الارض",
+      "en": "the land"
+    },
+    {
+      "ar": "اصلاحها",
+      "en": "it hath been well ordered"
+    },
+    {
+      "ar": "اولئک",
+      "en": "these"
+    },
+    {
+      "ar": "جاوزوا",
+      "en": "have outstepped"
+    },
+    {
+      "ar": "حدّد",
+      "en": "the bounds that have been set"
+    },
+    {
+      "ar": "الکتاب",
+      "en": "the Book"
+    },
+    {
+      "ar": "بئس",
+      "en": "Wretched"
+    },
+    {
+      "ar": "مثوی",
+      "en": "the abode"
+    },
+    {
+      "ar": "المعتدين",
+      "en": "the transgressors"
+    }
+  ],
+  "terms": [
+    {
+      "term": "جمال",
+      "transliteration": "j-m-l",
+      "literal": "beauty; comeliness",
+      "se_rendering": "Beauty",
+      "note": "Rendered 'Beauty' here, consistent with 38 occurrences across corpus. Paired with 'All-Glorified' to intensify divine majesty within oath structure.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 296,
+          "snippet": "Beauty"
+        },
+        {
+          "work": "gleanings",
+          "para": 183,
+          "snippet": "Ancient Beauty"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 67,
+          "snippet": "Among"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 208,
+          "snippet": "Among the sciences"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 268,
+          "snippet": "Among them"
+        },
+        {
+          "work": "gleanings",
+          "para": 359,
+          "snippet": "Amongst"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 118,
+          "snippet": "following"
+        },
+        {
+          "work": "gleanings",
+          "para": 649,
+          "snippet": "by the beauty"
+        }
+      ]
+    },
+    {
+      "term": "الافتراء",
+      "transliteration": "f-t-r",
+      "literal": "slander; calumny; fabrication; false accusation",
+      "se_rendering": "calumny",
+      "note": "Standard 'calumny' or 'slander' (30 occ.). Here applied to tongues as instrument of corruption, maintaining consistent moral valence throughout passage.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 6,
+          "snippet": "slander"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 34,
+          "snippet": "hurled their calumny"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 7,
+          "snippet": "calumny"
+        },
+        {
+          "work": "gleanings",
+          "para": 109,
+          "snippet": "false accusation"
+        },
+        {
+          "work": "gleanings",
+          "para": 461,
+          "snippet": "slandered"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 96,
+          "snippet": "calumnies"
+        },
+        {
+          "work": "gleanings",
+          "para": 729,
+          "snippet": "impostor"
+        }
+      ]
+    },
+    {
+      "term": "التقرّب",
+      "transliteration": "q-r-b",
+      "literal": "place of sacrifice; altar",
+      "se_rendering": "drawing nigh unto",
+      "note": "Root means 'place of sacrifice' or 'altar' (44 occ.), yet rendered 'drawing nigh unto' — spiritualizes literal sacrificial imagery into proximity to God.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 3,
+          "snippet": "unto the place of sacrifice"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 35,
+          "snippet": "my kindred"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 159,
+          "snippet": "their kindred"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 101,
+          "snippet": "draw near unto"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 430,
+          "snippet": "drawn nigh"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 98,
+          "snippet": "drawing near"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 245,
+          "snippet": "draweth near"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 9,
+          "snippet": "well-nigh"
+        }
+      ]
+    },
+    {
+      "term": "اعراضکم",
+      "transliteration": "ʿ-r-d",
+      "literal": "to turn away; to avert; to abstain; heedless",
+      "se_rendering": "turneth you aside",
+      "note": "Root typically 'turned away' or 'disbelievers,' but here rendered as active verb 'turneth you aside' defining worldliness dynamically rather than static state.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 182,
+          "snippet": "turned away"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 505,
+          "snippet": "turned their backs"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 89,
+          "snippet": "objections"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 431,
+          "snippet": "have turned back"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 104,
+          "snippet": "are turned back"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 14,
+          "snippet": "turns away"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 487,
+          "snippet": "turned back"
+        },
+        {
+          "work": "gleanings",
+          "para": 108,
+          "snippet": "rejection"
+        }
+      ]
+    },
+    {
+      "term": "المشرق",
+      "transliteration": "sh-r-q",
+      "literal": "radiance; splendor; dawn; illumination",
+      "se_rendering": "shining and resplendent",
+      "note": "Root appears 63 times; typically 'Ishraq,' 'radiance,' 'Daystar.' Here 'shining and resplendent' uses adjectival pairing rather than luminous epithets elsewhere used.",
+      "cross_refs": [
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 28,
+          "snippet": "radiance"
+        },
+        {
+          "work": "gleanings",
+          "para": 382,
+          "snippet": "revelation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 83,
+          "snippet": "Daystar"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 41,
+          "snippet": "dawning"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 2,
+          "snippet": "shining"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 14,
+          "snippet": "Dawning Place"
+        },
+        {
+          "work": "gleanings",
+          "para": 126,
+          "snippet": "Dayspring"
+        },
+        {
+          "work": "gleanings",
+          "para": 605,
+          "snippet": "Manifestation"
+        }
+      ]
+    }
+  ],
+  "section_index": "92",
+  "section": "92",
+  "section_para": 1
 }

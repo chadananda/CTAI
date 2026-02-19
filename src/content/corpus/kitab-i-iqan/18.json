@@ -1,10 +1,672 @@
 {
   "work": "Kitab-i-Iqan",
   "slug": "kitab-i-iqan",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 18,
   "source_text": "و در کشف اين اسرار بعضی از عبارات انبياء، به بدائع نغمات حجازی در الواح مسطوره قبل که برای يکی  از احباب نوشته شده بود مذکور گشت و حال هم به تغنّيات خوش عراقی نظر به خواهش آن جناب در اين اوراق مجدّداً ذکر می نمائيم که شايد تشنگان صحراهای بعد را به بحر قرب دلالت نمايد و گمگشتگان بيابان های هجر و فراق را به خيام قرب و وصال رساند، تا غمام ضلالت مرتفع  شود و آفتاب جهانتاب هدايت از افق جان طالع گردد.  وَ عَلی اللّهِ اَتَّکِلُ و به اَستَعينُ لَعَلَّ يَجری مِن هَذا القَلَم ما يَحيی به اَفئِدَةُ النّاسِ لِيَقُومَنَّ الکُلُّ عَن مَراقِد غَفلَتِهِم وَ يَسمَعَنَّ اطوارَ وَرَقاتِ الفردوسِ مِن شَجَرٍ  کانَ فی الرَّوضَةِ الاَحَديَّة مِن اَيدِی القُدرَةِ بإِذنِ اللّهِ مَغْرُوساً.",
   "translation": "In unfolding these mysteries, We have, in Our former Tablets which were addressed to a friend in the melodious language of Hijáz, cited a few of the verses revealed unto the Prophets of old. And now, responding to your request, We again shall cite, in these pages, those same verses, uttered this time in the wondrous accents of ‘Iráq, that haply the sore athirst in the wilds of remoteness may attain unto the ocean of the divine presence, and they that languish in the wastes of separation be led unto the home of eternal reunion. Thus the mists of error may be dispelled, and the all-resplendent light of divine guidance dawn forth above the horizon of human hearts. In God We put Our trust, and to Him We cry for help, that haply there may flow from this pen that which shall quicken the souls of men, that they may all arise from their beds of heedlessness and hearken unto the rustling of the leaves of Paradise, from the tree which the hand of divine power hath, by the permission of God, planted in the Ridván of the All-Glorious.",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "ocean-divine-presence-paradise",
+  "alignment": [
+    {
+      "ar": "کشف",
+      "en": "unfolding"
+    },
+    {
+      "ar": "اسرار",
+      "en": "mysteries"
+    },
+    {
+      "ar": "بعضی",
+      "en": "a few"
+    },
+    {
+      "ar": "عبارات",
+      "en": "verses"
+    },
+    {
+      "ar": "انبياء",
+      "en": "Prophets"
+    },
+    {
+      "ar": "بدائع",
+      "en": "melodious"
+    },
+    {
+      "ar": "نغمات",
+      "en": "language"
+    },
+    {
+      "ar": "حجازی",
+      "en": "Hijáz"
+    },
+    {
+      "ar": "الواح",
+      "en": "Tablets"
+    },
+    {
+      "ar": "مسطوره",
+      "en": ""
+    },
+    {
+      "ar": "قبل",
+      "en": "former"
+    },
+    {
+      "ar": "احباب",
+      "en": "friend"
+    },
+    {
+      "ar": "نوشته شده",
+      "en": "addressed"
+    },
+    {
+      "ar": "مذکور",
+      "en": "cited"
+    },
+    {
+      "ar": "گشت",
+      "en": ""
+    },
+    {
+      "ar": "حال",
+      "en": "now"
+    },
+    {
+      "ar": "تغنّيات",
+      "en": "accents"
+    },
+    {
+      "ar": "خوش",
+      "en": "wondrous"
+    },
+    {
+      "ar": "نظر",
+      "en": "responding"
+    },
+    {
+      "ar": "خواهش",
+      "en": "request"
+    },
+    {
+      "ar": "آن جناب",
+      "en": ""
+    },
+    {
+      "ar": "اوراق",
+      "en": "pages"
+    },
+    {
+      "ar": "مجدّداً",
+      "en": "again"
+    },
+    {
+      "ar": "ذکر",
+      "en": "cite"
+    },
+    {
+      "ar": "می نمائيم",
+      "en": "shall"
+    },
+    {
+      "ar": "شايد",
+      "en": "haply"
+    },
+    {
+      "ar": "تشنگان",
+      "en": "sore athirst"
+    },
+    {
+      "ar": "صحراهای",
+      "en": "wilds"
+    },
+    {
+      "ar": "بعد",
+      "en": "remoteness"
+    },
+    {
+      "ar": "بحر",
+      "en": "ocean"
+    },
+    {
+      "ar": "قرب",
+      "en": "divine presence"
+    },
+    {
+      "ar": "دلالت",
+      "en": "attain"
+    },
+    {
+      "ar": "نمايد",
+      "en": ""
+    },
+    {
+      "ar": "گمگشتگان",
+      "en": "they that languish"
+    },
+    {
+      "ar": "بيابان",
+      "en": "wastes"
+    },
+    {
+      "ar": "هجر",
+      "en": "separation"
+    },
+    {
+      "ar": "فراق",
+      "en": ""
+    },
+    {
+      "ar": "خيام",
+      "en": "home"
+    },
+    {
+      "ar": "وصال",
+      "en": "eternal reunion"
+    },
+    {
+      "ar": "رساند",
+      "en": "be led"
+    },
+    {
+      "ar": "غمام",
+      "en": "mists"
+    },
+    {
+      "ar": "ضلالت",
+      "en": "error"
+    },
+    {
+      "ar": "مرتفع",
+      "en": "dispelled"
+    },
+    {
+      "ar": "شود",
+      "en": ""
+    },
+    {
+      "ar": "آفتاب",
+      "en": "light"
+    },
+    {
+      "ar": "جهانتاب",
+      "en": "all-resplendent"
+    },
+    {
+      "ar": "هدايت",
+      "en": "divine guidance"
+    },
+    {
+      "ar": "افق",
+      "en": "horizon"
+    },
+    {
+      "ar": "جان",
+      "en": "human hearts"
+    },
+    {
+      "ar": "طالع",
+      "en": "dawn forth"
+    },
+    {
+      "ar": "گردد",
+      "en": ""
+    },
+    {
+      "ar": "اَستَعينُ",
+      "en": "cry for help"
+    },
+    {
+      "ar": "يَجری",
+      "en": "flow"
+    },
+    {
+      "ar": "القَلَم",
+      "en": "pen"
+    },
+    {
+      "ar": "يَحيی",
+      "en": "quicken"
+    },
+    {
+      "ar": "اَفئِدَةُ",
+      "en": "souls"
+    },
+    {
+      "ar": "النّاسِ",
+      "en": "men"
+    },
+    {
+      "ar": "مَراقِد",
+      "en": "beds"
+    },
+    {
+      "ar": "غَفلَتِهِم",
+      "en": "heedlessness"
+    },
+    {
+      "ar": "اطوارَ",
+      "en": ""
+    },
+    {
+      "ar": "وَرَقاتِ",
+      "en": "rustling of the leaves"
+    },
+    {
+      "ar": "الفردوسِ",
+      "en": "Paradise"
+    },
+    {
+      "ar": "شَجَرٍ",
+      "en": "tree"
+    },
+    {
+      "ar": "اَيدِی",
+      "en": "hand"
+    },
+    {
+      "ar": "القُدرَةِ",
+      "en": "divine power"
+    },
+    {
+      "ar": "إِذنِ",
+      "en": "permission"
+    },
+    {
+      "ar": "اللّهِ",
+      "en": "God"
+    },
+    {
+      "ar": "مَغْرُوساً",
+      "en": "planted"
+    }
+  ],
+  "terms": [
+    {
+      "term": "اسرار",
+      "transliteration": "s-r-r",
+      "literal": "throne; couch; seat of authority",
+      "se_rendering": "mysteries",
+      "note": "Concordance records 'mystery' and 'Secret' as primary renderings. Here rendered 'mysteries' — SE maintains the plural form to match Persian dual-concept structure.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 185,
+          "snippet": "lamp"
+        },
+        {
+          "work": "tablet-of-carmel",
+          "para": 2,
+          "snippet": "joy"
+        },
+        {
+          "work": "gleanings",
+          "para": 218,
+          "snippet": "mystery"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 831,
+          "snippet": "Secret"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 37,
+          "snippet": "in the gladness"
+        },
+        {
+          "work": "gleanings",
+          "para": 727,
+          "snippet": "gladness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 8,
+          "snippet": "by the mysteries"
+        },
+        {
+          "work": "gleanings",
+          "para": 318,
+          "snippet": "mysteries"
+        }
+      ]
+    },
+    {
+      "term": "انبياء",
+      "transliteration": "n-b-y",
+      "literal": "prophet",
+      "se_rendering": "Prophets of old",
+      "note": "Standard rendering 'Prophets' throughout corpus. Phrase 'Prophets of old' captures temporal specificity absent from root alone, emphasizing pastness of revelation cycle.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 45,
+          "snippet": "Thy Prophets"
+        },
+        {
+          "work": "gleanings",
+          "para": 94,
+          "snippet": "all the Prophets of God"
+        },
+        {
+          "work": "gleanings",
+          "para": 8,
+          "snippet": "Prophets"
+        },
+        {
+          "work": "gleanings",
+          "para": 22,
+          "snippet": "Prophet"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 247,
+          "snippet": "name of Prophet"
+        },
+        {
+          "work": "gleanings",
+          "para": 99,
+          "snippet": "His Messengers"
+        }
+      ]
+    },
+    {
+      "term": "احباب",
+      "transliteration": "ḥ-b-b",
+      "literal": "love; affection",
+      "se_rendering": "friend",
+      "note": "Usually 'beloved ones' or 'loved ones of the Lord' (92 occurrences). Here singularized to 'friend' — a deliberate shift toward intimate personal address rather than communal designation.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 3,
+          "snippet": "beloved of the Lord"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 53,
+          "snippet": "loved ones of the Lord"
+        },
+        {
+          "work": "gleanings",
+          "para": 341,
+          "snippet": "loved ones of God"
+        },
+        {
+          "work": "gleanings",
+          "para": 689,
+          "snippet": "beloved of the one true God"
+        },
+        {
+          "work": "gleanings",
+          "para": 640,
+          "snippet": "loved ones"
+        },
+        {
+          "work": "gleanings",
+          "para": 690,
+          "snippet": "beloved of God"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 39,
+          "snippet": "His loved ones"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 10,
+          "snippet": "love for Thee"
+        }
+      ]
+    },
+    {
+      "term": "قرب",
+      "transliteration": "q-r-b",
+      "literal": "place of sacrifice; altar",
+      "se_rendering": "divine presence",
+      "note": "Predominantly 'draw near' or 'drawing near' in corpus. Here 'divine presence' — a spatial noun transformation, rendering abstract closeness as concrete metaphysical location.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 3,
+          "snippet": "unto the place of sacrifice"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 35,
+          "snippet": "my kindred"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 159,
+          "snippet": "their kindred"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 101,
+          "snippet": "draw near unto"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 430,
+          "snippet": "drawn nigh"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 98,
+          "snippet": "drawing near"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 245,
+          "snippet": "draweth near"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 163,
+          "snippet": "at hand"
+        }
+      ]
+    },
+    {
+      "term": "مرتفع",
+      "transliteration": "r-f-ʿ",
+      "literal": "to be raised, elevated, exalted, lifted up",
+      "se_rendering": "dispelled",
+      "note": "Root means 'raised, elevated, exalted' with SE renderings including 'exalted,' 'exalt,' 'sublimity.' Here 'dispelled' — SE abandons elevation semantics entirely, reinterpreting through the metaphor of mist-clearing.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 170,
+          "snippet": "groaneth"
+        },
+        {
+          "work": "gleanings",
+          "para": 349,
+          "snippet": "exalted"
+        },
+        {
+          "work": "gleanings",
+          "para": 366,
+          "snippet": "exalt"
+        },
+        {
+          "work": "gleanings",
+          "para": 133,
+          "snippet": "sublimity"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 227,
+          "snippet": "exaltation"
+        },
+        {
+          "work": "gleanings",
+          "para": 636,
+          "snippet": "We have annulled"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 210,
+          "snippet": "lift up"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 4,
+          "snippet": "are uplifted"
+        }
+      ]
+    },
+    {
+      "term": "القلم",
+      "transliteration": "q-l-m",
+      "literal": "pen; writing instrument",
+      "se_rendering": "pen",
+      "note": "Range includes 'Pen of the Most High,' 'Pen of Glory,' 'pen of the Primal Point.' Here simply 'pen' — SE adopts the stripped, universal form rather than a mystically laden epithet.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 100,
+          "snippet": "the Pen of the Most High"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 68,
+          "snippet": "the Pen of Glory"
+        },
+        {
+          "work": "gleanings",
+          "para": 619,
+          "snippet": "My Pen"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 182,
+          "snippet": "the Most Sublime Pen"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 257,
+          "snippet": "the pen of the Primal Point"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 30,
+          "snippet": "thine heart"
+        },
+        {
+          "work": "gleanings",
+          "para": 393,
+          "snippet": "Pen of the Most High"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 159,
+          "snippet": "My Supreme Pen"
+        }
+      ]
+    },
+    {
+      "term": "غفلتهم",
+      "transliteration": "gh-f-l",
+      "literal": "heedlessness; negligence; inattention",
+      "se_rendering": "heedlessness",
+      "note": "Typical renderings include 'heedless' and 'heedlessness.' SE maintains 'heedlessness' here while construing 'مراقد' ('beds') literally, creating 'beds of heedlessness' — an elaborate metaphorical image absent from root semantics.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 158,
+          "snippet": "O heedless one"
+        },
+        {
+          "work": "gleanings",
+          "para": 132,
+          "snippet": "heedless"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 134,
+          "snippet": "thou who hast gone astray"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 156,
+          "snippet": "thou who art gone astray"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 6,
+          "snippet": "my heedlessness"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 90,
+          "snippet": "Essence of Negligence"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 95,
+          "snippet": "couch of heedlessness"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 152,
+          "snippet": "Children of Negligence"
+        }
+      ]
+    },
+    {
+      "term": "ورقات",
+      "transliteration": "w-r-q",
+      "literal": "leaf, page, sheet, parchment, document",
+      "se_rendering": "leaves",
+      "note": "Concordance shows 'leaf,' 'leaves,' 'Nightingale,' 'lines.' Here 'leaves' directly — a literal botanical choice that coheres with the tree metaphor, avoiding more abstract 'written paper' alternatives.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 30,
+          "snippet": "written paper"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 2,
+          "snippet": "Nightingale"
+        },
+        {
+          "work": "gleanings",
+          "para": 494,
+          "snippet": "snow-white Scroll"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 38,
+          "snippet": "lines"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 751,
+          "snippet": "leaf"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 34,
+          "snippet": "leaves"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 34,
+          "snippet": "scrolls"
+        },
+        {
+          "work": "gleanings",
+          "para": 56,
+          "snippet": "foliage"
+        }
+      ]
+    }
+  ],
+  "section_index": "18",
+  "section": "18",
+  "section_para": 1
 }

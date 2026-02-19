@@ -1,10 +1,766 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 311,
   "source_text": "وأمّا ما سألت عن الرّوح و بقائه بعد صعوده اعلم إنّه یصعد حین ارتقائه إلی أن یحضر بین یدي الله في هیکل لا تغیّره القرون والأعصار ولا حوادث العالم وما یظهر فیه ویکون باقیاً بدوام ملکوت الله وسلطانه وجبروته واقتداره ومنه تظهر آثار الله وصفاته وعنایة الله وألطافه إنّ القلم لا یقدر أن یتحرّک علی ذکر هذا المقام وعلوّه وسموّه علی ما هو علیه وتدخله ید الفضل إلی مقام لا یعرف بالبیان ولا یذکر بما في الإمکان طوبی لروح خرج من البدن مقدّسا عن شبهات الأمم إنّه یتحرّک في هوآء إرادة ربّه ویدخل في الجنّة العلیا وتطوفه طلعات الفردوس الأعلی ویعاشر مع أنبیآء الله وأولیائه ویتکلّم معهم ویقصّ لهم ما ورد علیه في سبیل الله ربّ العالمین لو یطّلع أحد علی ما قدّر له في عوالم الله ربّ العرش والثّری لیشتعل في الحین شوقا لذاک المقام الأمنع الأرفع الأقدس الأبهى",
   "translation": "And now concerning thy question regarding the soul of man and its survival after death. Know thou of a truth that the soul, after its separation from the body, will continue to progress until it attaineth the presence of God, in a state and condition which neither the revolution of ages and centuries, nor the changes and chances of this world, can alter. It will endure as long as the Kingdom of God, His sovereignty, His dominion and power will endure. It will manifest the signs of God and His attributes, and will reveal His loving kindness and bounty. The movement of My Pen is stilled when it attempteth to befittingly describe the loftiness and glory of so exalted a station. The honor with which the Hand of Mercy will invest the soul is such as no tongue can adequately reveal, nor any other earthly agency describe. Blessed is the soul which, at the hour of its separation from the body, is sanctified from the vain imaginings of the peoples of the world. Such a soul liveth and moveth in accordance with the Will of its Creator, and entereth the all-highest Paradise. The Maids of Heaven, inmates of the loftiest mansions, will circle around it, and the Prophets of God and His chosen ones will seek its companionship. With them that soul will freely converse, and will recount unto them that which it hath been made to endure in the path of God, the Lord of all worlds. If any man be told that which hath been ordained for such a soul in the worlds of God, the Lord of the throne on high and of earth below, his whole being will instantly blaze out in his great longing to attain that most exalted, that sanctified and resplendent station.… The nature of the soul after death can never be described, nor is it meet and permissible to reveal its whole character to the eyes of men. The Prophets and Messengers of God have been sent down for the sole purpose of guiding mankind to the straight Path of Truth. The purpose underlying Their revelation hath been to educate all men, that they may, at the hour of death, ascend, in the utmost purity and sanctity and with absolute detachment, to the throne of the Most High. The light which these souls radiate is responsible for the progress of the world and the advancement of its peoples. They are like unto leaven which leaveneth the world of being, and constitute the animating force through which the arts and wonders of the world are made manifest.",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "soul-presence-of-god",
+  "alignment": [
+    {
+      "ar": "سألت",
+      "en": "question"
+    },
+    {
+      "ar": "الرّوح",
+      "en": "the soul"
+    },
+    {
+      "ar": "بقائه",
+      "en": "its survival"
+    },
+    {
+      "ar": "بعد",
+      "en": "after"
+    },
+    {
+      "ar": "صعوده",
+      "en": "death"
+    },
+    {
+      "ar": "اعلم",
+      "en": "Know thou"
+    },
+    {
+      "ar": "إنّه",
+      "en": "that"
+    },
+    {
+      "ar": "یصعد",
+      "en": "continue to progress"
+    },
+    {
+      "ar": "ارتقائه",
+      "en": "its separation"
+    },
+    {
+      "ar": "إلی أن",
+      "en": "until"
+    },
+    {
+      "ar": "یحضر",
+      "en": "attaineth"
+    },
+    {
+      "ar": "بین یدي",
+      "en": "the presence of"
+    },
+    {
+      "ar": "الله",
+      "en": "God"
+    },
+    {
+      "ar": "في هیکل",
+      "en": "in a state and condition"
+    },
+    {
+      "ar": "لا تغیّره",
+      "en": "neither"
+    },
+    {
+      "ar": "القرون",
+      "en": "ages"
+    },
+    {
+      "ar": "والأعصار",
+      "en": "and centuries"
+    },
+    {
+      "ar": "ولا",
+      "en": "nor"
+    },
+    {
+      "ar": "حوادث",
+      "en": "changes and chances"
+    },
+    {
+      "ar": "العالم",
+      "en": "this world"
+    },
+    {
+      "ar": "وما یظهر فیه",
+      "en": "can alter"
+    },
+    {
+      "ar": "ویکون",
+      "en": "will"
+    },
+    {
+      "ar": "باقیاً",
+      "en": "endure"
+    },
+    {
+      "ar": "بدوام",
+      "en": "as long as"
+    },
+    {
+      "ar": "ملکوت",
+      "en": "the Kingdom"
+    },
+    {
+      "ar": "سلطانه",
+      "en": "His sovereignty"
+    },
+    {
+      "ar": "وجبروته",
+      "en": "His dominion"
+    },
+    {
+      "ar": "واقتداره",
+      "en": "and power"
+    },
+    {
+      "ar": "ومنه",
+      "en": "It"
+    },
+    {
+      "ar": "تظهر",
+      "en": "will manifest"
+    },
+    {
+      "ar": "آثار",
+      "en": "the signs"
+    },
+    {
+      "ar": "وصفاته",
+      "en": "His attributes"
+    },
+    {
+      "ar": "وعنایة",
+      "en": "loving kindness"
+    },
+    {
+      "ar": "وألطافه",
+      "en": "and bounty"
+    },
+    {
+      "ar": "إنّ",
+      "en": "The"
+    },
+    {
+      "ar": "القلم",
+      "en": "My Pen"
+    },
+    {
+      "ar": "لا یقدر",
+      "en": "is stilled"
+    },
+    {
+      "ar": "أن یتحرّک",
+      "en": "movement"
+    },
+    {
+      "ar": "علی ذکر",
+      "en": "describe"
+    },
+    {
+      "ar": "هذا المقام",
+      "en": "so exalted a station"
+    },
+    {
+      "ar": "وعلوّه",
+      "en": "loftiness"
+    },
+    {
+      "ar": "وسموّه",
+      "en": "and glory"
+    },
+    {
+      "ar": "وتدخله",
+      "en": "will invest"
+    },
+    {
+      "ar": "ید الفضل",
+      "en": "the Hand of Mercy"
+    },
+    {
+      "ar": "إلی مقام",
+      "en": "The honor"
+    },
+    {
+      "ar": "لا یعرف",
+      "en": "no"
+    },
+    {
+      "ar": "بالبیان",
+      "en": "tongue can adequately reveal"
+    },
+    {
+      "ar": "بما في الإمکان",
+      "en": "any other earthly agency describe"
+    },
+    {
+      "ar": "طوبی",
+      "en": "Blessed"
+    },
+    {
+      "ar": "لروح",
+      "en": "is the soul"
+    },
+    {
+      "ar": "خرج",
+      "en": "separation"
+    },
+    {
+      "ar": "من البدن",
+      "en": "from the body"
+    },
+    {
+      "ar": "مقدّسا",
+      "en": "is sanctified"
+    },
+    {
+      "ar": "عن",
+      "en": "from"
+    },
+    {
+      "ar": "شبهات",
+      "en": "the vain imaginings"
+    },
+    {
+      "ar": "الأمم",
+      "en": "the peoples of the world"
+    },
+    {
+      "ar": "إنّه",
+      "en": "Such a soul"
+    },
+    {
+      "ar": "یتحرّک",
+      "en": "liveth and moveth"
+    },
+    {
+      "ar": "في هوآء",
+      "en": "in accordance with"
+    },
+    {
+      "ar": "إرادة",
+      "en": "the Will"
+    },
+    {
+      "ar": "ربّه",
+      "en": "its Creator"
+    },
+    {
+      "ar": "ویدخل",
+      "en": "and entereth"
+    },
+    {
+      "ar": "في الجنّة العلیا",
+      "en": "the all-highest Paradise"
+    },
+    {
+      "ar": "وتطوفه",
+      "en": "will circle around it"
+    },
+    {
+      "ar": "طلعات",
+      "en": "The Maids"
+    },
+    {
+      "ar": "الفردوس الأعلی",
+      "en": "Heaven, inmates of the loftiest mansions"
+    },
+    {
+      "ar": "ویعاشر",
+      "en": "will seek its companionship"
+    },
+    {
+      "ar": "مع أنبیآء",
+      "en": "the Prophets"
+    },
+    {
+      "ar": "وأولیائه",
+      "en": "His chosen ones"
+    },
+    {
+      "ar": "ویتکلّم",
+      "en": "will freely converse"
+    },
+    {
+      "ar": "معهم",
+      "en": "With them"
+    },
+    {
+      "ar": "ویقصّ",
+      "en": "will recount"
+    },
+    {
+      "ar": "لهم",
+      "en": "unto them"
+    },
+    {
+      "ar": "ما ورد علیه",
+      "en": "that which it hath been made to endure"
+    },
+    {
+      "ar": "في سبیل",
+      "en": "in the path of"
+    },
+    {
+      "ar": "ربّ العالمین",
+      "en": "the Lord of all worlds"
+    },
+    {
+      "ar": "لو یطّلع",
+      "en": "If any man be told"
+    },
+    {
+      "ar": "أحد",
+      "en": "any man"
+    },
+    {
+      "ar": "علی ما قدّر له",
+      "en": "that which hath been ordained for such a soul"
+    },
+    {
+      "ar": "في عوالم",
+      "en": "in the worlds of"
+    },
+    {
+      "ar": "ربّ العرش",
+      "en": "the Lord of the throne on high"
+    },
+    {
+      "ar": "والثّری",
+      "en": "and of earth below"
+    },
+    {
+      "ar": "لیشتعل",
+      "en": "will instantly blaze out"
+    },
+    {
+      "ar": "في الحین",
+      "en": "instantly"
+    },
+    {
+      "ar": "شوقا",
+      "en": "his great longing"
+    },
+    {
+      "ar": "لذاک المقام",
+      "en": "to attain that"
+    },
+    {
+      "ar": "الأمنع",
+      "en": "most exalted"
+    },
+    {
+      "ar": "الأقدس",
+      "en": "sanctified"
+    },
+    {
+      "ar": "الأبهى",
+      "en": "resplendent station"
+    }
+  ],
+  "terms": [
+    {
+      "term": "الروح",
+      "transliteration": "r-w-h",
+      "literal": "to go; to depart; to rest; spirit; soul",
+      "se_rendering": "the soul",
+      "note": "Typically 'spirit' across corpus (34 occ). Here rendered as 'the soul' — SE's most consistent English equivalent when discussing the individual's post-mortem existence.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 702,
+          "snippet": "my spirit"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 201,
+          "snippet": "the Spirit"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 121,
+          "snippet": "spiritual"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 215,
+          "snippet": "spiritually-minded"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 20,
+          "snippet": "a breath of My own Spirit"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 100,
+          "snippet": "spirit"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 22,
+          "snippet": "in a spirit"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 17,
+          "snippet": "with My spirit"
+        }
+      ]
+    },
+    {
+      "term": "یظهر",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "manifest",
+      "note": "Typically 'Manifestation' or 'reveal' across 96 occurrences. 'Manifest' here preserves grammatical verb form while sustaining core meaning of divine self-disclosure.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 140,
+          "snippet": "manifestation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 160,
+          "snippet": "Author of all Manifestations"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 136,
+          "snippet": "evident"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 206,
+          "snippet": "appeared"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 196,
+          "snippet": "Manifestations of God"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 255,
+          "snippet": "Manifestations"
+        }
+      ]
+    },
+    {
+      "term": "ملکوت",
+      "transliteration": "m-l-k",
+      "literal": "kingdom; dominion; realm; sovereignty",
+      "se_rendering": "Kingdom",
+      "note": "Standard rendering 'Kingdom' aligns with 70 corpus occurrences. Here applied to divine dominion persisting eternally, maintaining SE's theological vocabulary.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-ahd",
+          "para": 16,
+          "snippet": "heaven"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 171,
+          "snippet": "kingdom"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 69,
+          "snippet": "realms"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 28,
+          "snippet": "righteous"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 167,
+          "snippet": "by the heavenly power"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 57,
+          "snippet": "Ruler"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 82,
+          "snippet": "King"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 102,
+          "snippet": "Lord of all mankind"
+        }
+      ]
+    },
+    {
+      "term": "واقتداره",
+      "transliteration": "q-d-r",
+      "literal": "power; might; decree; measure; worth",
+      "se_rendering": "power",
+      "note": "Root 'power; decree' rendered as 'power' here. Standard across corpus (100 occ), though original context permits 'might' or 'decree'—SE chooses simplest form.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 171,
+          "snippet": "a while"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 339,
+          "snippet": "Thy power"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 12,
+          "snippet": "God of power"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 35,
+          "snippet": "Potent"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 282,
+          "snippet": "Almighty"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 177,
+          "snippet": "ordain"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 4,
+          "snippet": "for a moment"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 30,
+          "snippet": "didst ordain"
+        }
+      ]
+    },
+    {
+      "term": "المقام",
+      "transliteration": "q-w-m",
+      "literal": "rising; standing; uprising; resurrection",
+      "se_rendering": "station",
+      "note": "Root means 'rising; standing' yet rendered 'station' here, not 'Resurrection' or 'arise'. SE opts for spatial/hierarchical connotation over eschatological one.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 152,
+          "snippet": "Day of Resurrection"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 153,
+          "snippet": "Resurrection"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 74,
+          "snippet": "rise"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "peoples"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 26,
+          "snippet": "steadfast"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 38,
+          "snippet": "steadfast in faith"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 628,
+          "snippet": "stood fast"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 198,
+          "snippet": "station"
+        }
+      ]
+    },
+    {
+      "term": "مقدّسا",
+      "transliteration": "q-d-s",
+      "literal": "holy, sacred, sanctified",
+      "se_rendering": "sanctified",
+      "note": "Usual rendering 'sacred' or 'hallowed' across 47 occurrences. 'Sanctified' here emphasizes purification action and state, matching SE's emphasis on spiritual cleansing.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 2,
+          "snippet": "Sacred"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 81,
+          "snippet": "hallowed"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 35,
+          "snippet": "spirit of holiness"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 448,
+          "snippet": "Sanctuary"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 13,
+          "snippet": "Holy Mariner"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 6,
+          "snippet": "sacred strand"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 26,
+          "snippet": "Celestial Concourse"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 189,
+          "snippet": "Most Holy"
+        }
+      ]
+    },
+    {
+      "term": "طلعات",
+      "transliteration": "t-l-ʿ",
+      "literal": "rising; appearance; countenance; manifestation",
+      "se_rendering": "Maids of Heaven",
+      "note": "Root 'rising; appearance' typically becomes 'Manifestations' or 'countenances.' Here rendered 'Maids of Heaven'—SE's most metaphorical rendering, introducing feminine celestial imagery absent from Arabic semantics.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 47,
+          "snippet": "lives"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 856,
+          "snippet": "countenances"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "sources of command"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 16,
+          "snippet": "embodiments"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 21,
+          "snippet": "daysprings"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 24,
+          "snippet": "exponents"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 276,
+          "snippet": "Revealer"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 26,
+          "snippet": "Dayspring"
+        }
+      ]
+    },
+    {
+      "term": "ورد",
+      "transliteration": "w-r-d",
+      "literal": "to enter, to come, to befall, to arrive",
+      "se_rendering": "made to endure",
+      "note": "Root means 'to enter, befall.' SE renders 'made to endure'—uniquely interpretive, transforming passive occurrence into active spiritual suffering or trial.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 126,
+          "snippet": "hath touched"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 61,
+          "snippet": "befallen"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 113,
+          "snippet": "came"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 183,
+          "snippet": "befell"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 30,
+          "snippet": "brought forth"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 204,
+          "snippet": "heaped upon"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 49,
+          "snippet": "approaching"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 788,
+          "snippet": "waters"
+        }
+      ]
+    }
+  ],
+  "section_index": "LXXXI.1",
+  "section": "LXXXI",
+  "section_para": 1
 }

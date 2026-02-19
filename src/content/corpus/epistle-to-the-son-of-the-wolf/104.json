@@ -1,10 +1,608 @@
 {
   "work": "Epistle to the Son of the Wolf",
   "slug": "epistle-to-the-son-of-the-wolf",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 104,
   "source_text": "و سمعنا انّک اودعت زمام المشاورة بايادی الجمهور نعم ما عملت لانّ بها تستحکم اصول أبنية الامور و تطمئنّ قلوب من فی ظلّک من کلّ وضيع و شريف * و لکن ينبغی لهم ان يکونوا امناء بين العباد و يرون انفسهم وکلاء لمن علی الارض کلّها هذا ما وعظوا به فی اللّوح من لدن مدبّر حکيم * و اذا توجّه احدٌ الی المجمع يحوّل طرفه الی الافق الاعلی و يقول * يا الهی اسألک باسمک الابهی ان تؤيّدنی علی ما تصلح به امور عبادک و تعمر به بلادک انّک انت علی کلّ شیء قدير * طوبی لمن يدخل المجمع لوجه اللّه و يحکم بين النّاس بالعدل الخالص أَلَا انّه من الفائزين",
   "translation": "\"We have also heard that thou hast entrusted the reins of counsel into the hands of the representatives of the people. Thou, indeed, hast done well, for thereby the foundations of the edifice of thine affairs will be strengthened, and the hearts of all that are beneath thy shadow, whether high or low, will be tranquillized. It behooveth them, however, to be trustworthy among His servants, and to regard themselves as the representatives of all that dwell on earth. This is what counselleth them, in this Tablet, He Who is the Ruler, the All-Wise. And if any one of them directeth himself towards the Assembly, let him turn his eyes unto the Supreme Horizon, and say: \\‘O my God! I ask Thee, by Thy most glorious Name, to aid me in that which will cause the affairs of Thy servants to prosper, and Thy cities to flourish. Thou, indeed, hast power over all things!' Blessed is he that entereth the Assembly for the sake of God, and judgeth between men with pure justice. He, indeed, is of the blissful.",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "assembly-pure-justice",
+  "alignment": [
+    {
+      "ar": "سمعنا",
+      "en": "We have also heard"
+    },
+    {
+      "ar": "انّک",
+      "en": "that thou"
+    },
+    {
+      "ar": "اودعت",
+      "en": "hast entrusted"
+    },
+    {
+      "ar": "زمام",
+      "en": "the reins"
+    },
+    {
+      "ar": "المشاورة",
+      "en": "of counsel"
+    },
+    {
+      "ar": "بايادی",
+      "en": "into the hands"
+    },
+    {
+      "ar": "الجمهور",
+      "en": "of the representatives of the people"
+    },
+    {
+      "ar": "نعم",
+      "en": "indeed"
+    },
+    {
+      "ar": "ما عملت",
+      "en": "hast done well"
+    },
+    {
+      "ar": "لانّ",
+      "en": "for thereby"
+    },
+    {
+      "ar": "بها",
+      "en": "thereby"
+    },
+    {
+      "ar": "تستحکم",
+      "en": "will be strengthened"
+    },
+    {
+      "ar": "اصول",
+      "en": "the foundations"
+    },
+    {
+      "ar": "أبنية",
+      "en": "the edifice"
+    },
+    {
+      "ar": "الامور",
+      "en": "thine affairs"
+    },
+    {
+      "ar": "تطمئنّ",
+      "en": "will be tranquillized"
+    },
+    {
+      "ar": "قلوب",
+      "en": "the hearts"
+    },
+    {
+      "ar": "من",
+      "en": "of all that"
+    },
+    {
+      "ar": "فی ظلّک",
+      "en": "beneath thy shadow"
+    },
+    {
+      "ar": "کلّ",
+      "en": "all"
+    },
+    {
+      "ar": "وضيع",
+      "en": "low"
+    },
+    {
+      "ar": "شريف",
+      "en": "high"
+    },
+    {
+      "ar": "و لکن",
+      "en": "It behooveth them, however"
+    },
+    {
+      "ar": "ينبغی",
+      "en": "behooveth"
+    },
+    {
+      "ar": "لهم",
+      "en": "them"
+    },
+    {
+      "ar": "ان يکونوا",
+      "en": "to be"
+    },
+    {
+      "ar": "امناء",
+      "en": "trustworthy"
+    },
+    {
+      "ar": "بين العباد",
+      "en": "among His servants"
+    },
+    {
+      "ar": "يرون",
+      "en": "to regard"
+    },
+    {
+      "ar": "انفسهم",
+      "en": "themselves"
+    },
+    {
+      "ar": "وکلاء",
+      "en": "the representatives"
+    },
+    {
+      "ar": "لمن علی الارض کلّها",
+      "en": "of all that dwell on earth"
+    },
+    {
+      "ar": "هذا",
+      "en": "This"
+    },
+    {
+      "ar": "ما",
+      "en": "what"
+    },
+    {
+      "ar": "وعظوا",
+      "en": "counselleth"
+    },
+    {
+      "ar": "فی اللّوح",
+      "en": "in this Tablet"
+    },
+    {
+      "ar": "من لدن",
+      "en": "He Who is"
+    },
+    {
+      "ar": "مدبّر",
+      "en": "the Ruler"
+    },
+    {
+      "ar": "حکيم",
+      "en": "the All-Wise"
+    },
+    {
+      "ar": "و اذا",
+      "en": "And if"
+    },
+    {
+      "ar": "توجّه",
+      "en": "directeth himself"
+    },
+    {
+      "ar": "احدٌ",
+      "en": "any one"
+    },
+    {
+      "ar": "الی المجمع",
+      "en": "towards the Assembly"
+    },
+    {
+      "ar": "يحوّل",
+      "en": "let him turn"
+    },
+    {
+      "ar": "طرفه",
+      "en": "his eyes"
+    },
+    {
+      "ar": "الی الافق الاعلی",
+      "en": "unto the Supreme Horizon"
+    },
+    {
+      "ar": "يقول",
+      "en": "say"
+    },
+    {
+      "ar": "يا الهی",
+      "en": "O my God"
+    },
+    {
+      "ar": "اسألک",
+      "en": "I ask Thee"
+    },
+    {
+      "ar": "باسمک",
+      "en": "by Thy"
+    },
+    {
+      "ar": "الابهی",
+      "en": "most glorious Name"
+    },
+    {
+      "ar": "ان تؤيّدنی",
+      "en": "to aid me"
+    },
+    {
+      "ar": "علی",
+      "en": "in"
+    },
+    {
+      "ar": "ما",
+      "en": "that which"
+    },
+    {
+      "ar": "تصلح",
+      "en": "will cause"
+    },
+    {
+      "ar": "به",
+      "en": ""
+    },
+    {
+      "ar": "امور",
+      "en": "the affairs"
+    },
+    {
+      "ar": "عبادک",
+      "en": "of Thy servants"
+    },
+    {
+      "ar": "تعمر",
+      "en": "to flourish"
+    },
+    {
+      "ar": "بلادک",
+      "en": "Thy cities"
+    },
+    {
+      "ar": "انّک",
+      "en": "Thou, indeed"
+    },
+    {
+      "ar": "انت",
+      "en": "Thou"
+    },
+    {
+      "ar": "علی کلّ شیء قدير",
+      "en": "hast power over all things"
+    },
+    {
+      "ar": "طوبی",
+      "en": "Blessed"
+    },
+    {
+      "ar": "لمن",
+      "en": "is he that"
+    },
+    {
+      "ar": "يدخل",
+      "en": "entereth"
+    },
+    {
+      "ar": "المجمع",
+      "en": "the Assembly"
+    },
+    {
+      "ar": "لوجه اللّه",
+      "en": "for the sake of God"
+    },
+    {
+      "ar": "يحکم",
+      "en": "judgeth"
+    },
+    {
+      "ar": "بين النّاس",
+      "en": "between men"
+    },
+    {
+      "ar": "بالعدل",
+      "en": "with"
+    },
+    {
+      "ar": "الخالص",
+      "en": "pure justice"
+    },
+    {
+      "ar": "انّه",
+      "en": "He"
+    },
+    {
+      "ar": "من الفائزين",
+      "en": "of the blissful"
+    }
+  ],
+  "terms": [
+    {
+      "term": "تستحکم",
+      "transliteration": "h-k-m",
+      "literal": "government; rule; governance; wisdom",
+      "se_rendering": "will be strengthened",
+      "note": "Root typically rendered as 'rule,' 'government,' or 'mysteries.' Here rendered as 'will be strengthened,' a structurally active sense emphasizing institutional consolidation rather than abstract governance.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-ahd",
+          "para": 6,
+          "snippet": "rule"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "government"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 849,
+          "snippet": "signs of Thy sovereignty"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 160,
+          "snippet": "meaning of return"
+        },
+        {
+          "work": "gleanings",
+          "para": 224,
+          "snippet": "mysteries"
+        },
+        {
+          "work": "gleanings",
+          "para": 636,
+          "snippet": "rule of the sword"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 182,
+          "snippet": "mystery of the former verse"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 46,
+          "snippet": "conclusive"
+        }
+      ]
+    },
+    {
+      "term": "الامور",
+      "transliteration": "ʾ-m-r",
+      "literal": "command; cause; matter; affair",
+      "se_rendering": "affairs",
+      "note": "Commonly 'His Cause,' 'His command,' or 'Revelation' in Bahá'í corpus. Here rendered as 'affairs,' a mundane administrative term marking secular governance context.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "His Cause"
+        },
+        {
+          "work": "gleanings",
+          "para": 586,
+          "snippet": "His command"
+        },
+        {
+          "work": "gleanings",
+          "para": 691,
+          "snippet": "His Revelation"
+        },
+        {
+          "work": "gleanings",
+          "para": 723,
+          "snippet": "Cause"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 797,
+          "snippet": "Thy Cause"
+        },
+        {
+          "work": "gleanings",
+          "para": 8,
+          "snippet": "Revelation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 597,
+          "snippet": "service"
+        },
+        {
+          "work": "gleanings",
+          "para": 524,
+          "snippet": "your affairs"
+        }
+      ]
+    },
+    {
+      "term": "امناء",
+      "transliteration": "ʾ-m-n",
+      "literal": "to believe; to have faith; to be secure",
+      "se_rendering": "trustworthy",
+      "note": "Typically 'believed' or 'believe' from root ʾ-m-n, but here 'trustworthy,' activating the semantic field of trust and stewardship rather than faith.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 585,
+          "snippet": "believed"
+        },
+        {
+          "work": "gleanings",
+          "para": 268,
+          "snippet": "believe"
+        },
+        {
+          "work": "gleanings",
+          "para": 251,
+          "snippet": "have believed"
+        },
+        {
+          "work": "gleanings",
+          "para": 260,
+          "snippet": "I truly believe"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 12,
+          "snippet": "trusted servants"
+        },
+        {
+          "work": "gleanings",
+          "para": 496,
+          "snippet": "trustworthy ones of God among His servants"
+        },
+        {
+          "work": "gleanings",
+          "para": 621,
+          "snippet": "trustees"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 25,
+          "snippet": "believers"
+        }
+      ]
+    },
+    {
+      "term": "المجمع",
+      "transliteration": "j-m-ʿ",
+      "literal": "to gather; to assemble; group; number",
+      "se_rendering": "Assembly",
+      "note": "Root ج-م-ع typically yields 'others,' 'a number of,' 'in concert.' Here 'Assembly,' a formal institutional designation, reflecting Bahá'í administrative terminology.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 157,
+          "snippet": "a number of"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 7,
+          "snippet": "others"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "with all"
+        },
+        {
+          "work": "gleanings",
+          "para": 423,
+          "snippet": "ye have amassed"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 19,
+          "snippet": "number"
+        },
+        {
+          "work": "gleanings",
+          "para": 12,
+          "snippet": "assembly"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 32,
+          "snippet": "the gathering"
+        },
+        {
+          "work": "gleanings",
+          "para": 556,
+          "snippet": "all"
+        }
+      ]
+    },
+    {
+      "term": "الاعلی",
+      "transliteration": "ʿ-l-w",
+      "literal": "highest; most high; supreme",
+      "se_rendering": "Supreme Horizon",
+      "note": "Usually 'the Most High' or 'the Most Exalted.' Rendered here as 'Supreme Horizon,' preserving the visual/spatial metaphor intrinsic to Arabic while elevating it metaphysically.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 1,
+          "snippet": "the Most High"
+        },
+        {
+          "work": "gleanings",
+          "para": 232,
+          "snippet": "supreme"
+        },
+        {
+          "work": "gleanings",
+          "para": 616,
+          "snippet": "the realms above"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 390,
+          "snippet": "the Most Exalted, the Most High"
+        },
+        {
+          "work": "gleanings",
+          "para": 393,
+          "snippet": "The Pen of the Most High"
+        },
+        {
+          "work": "gleanings",
+          "para": 697,
+          "snippet": "the Dayspring of Glory"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 1,
+          "snippet": "the Realm of Glory"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 257,
+          "snippet": "the Báb, the Lord, the most exalted"
+        }
+      ]
+    },
+    {
+      "term": "قدير",
+      "transliteration": "q-d-r",
+      "literal": "power; might; decree; measure; worth",
+      "se_rendering": "power",
+      "note": "Standard rendering 'power' across 100 occurrences. Maintains direct sense here in doxological context; classical Qur'anic resonance with قدير as divine omnipotence.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 339,
+          "snippet": "Thy power"
+        },
+        {
+          "work": "gleanings",
+          "para": 138,
+          "snippet": "hath been decreed"
+        },
+        {
+          "work": "gleanings",
+          "para": 662,
+          "snippet": "hath decreed"
+        },
+        {
+          "work": "gleanings",
+          "para": 496,
+          "snippet": "forbearing towards"
+        },
+        {
+          "work": "gleanings",
+          "para": 111,
+          "snippet": "schools"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 12,
+          "snippet": "God of power"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 35,
+          "snippet": "Potent"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 282,
+          "snippet": "Almighty"
+        }
+      ]
+    }
+  ],
+  "section_index": "104",
+  "section": "104",
+  "section_para": 1
 }

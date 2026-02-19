@@ -1,10 +1,65 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 686,
   "source_text": "إِنَّا كُلٌّ لِلَّهِ ساجِدُونَ",
   "translation": "We all, verily, worship God.",
   "source_lang": "ar",
-  "score": 9
+  "score": 9,
+  "page_slug": "worship-god-prostration",
+  "alignment": [
+    {
+      "ar": "ساجِدُونَ",
+      "en": "worship"
+    }
+  ],
+  "terms": [
+    {
+      "term": "لِلَّهِ",
+      "transliteration": "l-l-h",
+      "literal": "to God; for God; God's",
+      "se_rendering": "to God",
+      "note": "Preposition + noun; SE selects 'to God' from four documented renderings, prioritizing directional devotion over abstract possession.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 2,
+          "snippet": "to God"
+        },
+        {
+          "work": "gleanings",
+          "para": 79,
+          "snippet": "God's"
+        }
+      ]
+    },
+    {
+      "term": "ساجِدُونَ",
+      "transliteration": "s-j-d",
+      "literal": "mosque; place of prostration",
+      "se_rendering": "worship God",
+      "note": "Root s-j-d typically rendered 'bow down before God/Him' in corpus; here converted to 'worship God'—abstraction from physical prostration to spiritual act.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 682,
+          "snippet": "bow down before God"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 54,
+          "snippet": "Jerusalem"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 246,
+          "snippet": "bow down before Him"
+        }
+      ]
+    }
+  ],
+  "section_index": "CLXVII.5",
+  "section": "CLXVII",
+  "section_para": 5
 }

@@ -1,10 +1,580 @@
 {
   "work": "Kitab-i-Iqan",
   "slug": "kitab-i-iqan",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 128,
   "source_text": "و هرگز در هيچ  عهد و عصر جز حيات و بعث و حشر حقيقی مقصود انبياء و اولياء نبوده و نيست.  و اگر قدری تعقّل شود در همين بيان آن حضرت، کشف جميع امور می شود که مقصود از لحد و قبر وصراط و جنّت و نار چه بود.  و ليکن چه چاره که جميع ناس در لحد نفس محجوب و در قبر هوی مدفونند.  خلاصه اگر قدری از زلال معرفت الهی مرزوق شويد می دانيد که حيات حقيقی حيات قلب است نه حيات جسد.  زيرا که در حيات جسد همه ناس و حيوانات شريکند و ليکن اين حيات مخصوص است به صاحبان افئده منيره که از بحر ايمان شاربند و از ثمره ايقان مرزوق.  و اين حيات را موت از عقب نباشد و اين بقا را فنا از پی نيايد.  چنانچه فرمودهاند: \"المؤمِنُ حَيٌّ فِی الدّارَينِ.\" اگر مقصود حيات ظاهره جسدی باشد که مشاهده می شود موت آن را اخذ می نمايد.",
   "translation": "In every age and century, the purpose of the Prophets of God and their chosen ones hath been no other but to affirm the spiritual significance of the terms “life,” “resurrection,” and “judgment.” If one will ponder but for a while this utterance of ‘Alí in his heart, one will surely discover all mysteries hidden in the terms “grave,” “tomb,” “sirat,” “paradise” and “hell.” But oh! how strange and pitiful! Behold, all the people are imprisoned within the tomb of self, and lie buried beneath the nethermost depths of worldly desire! Wert thou to attain to but a dewdrop of the crystal waters of divine knowledge, thou wouldst readily realize that true life is not the life of the flesh but the life of the spirit. For the life of the flesh is common to both men and animals, whereas the life of the spirit is possessed only by the pure in heart who have quaffed from the ocean of faith and partaken of the fruit of certitude. This life knoweth no death, and this existence is crowned by immortality. Even as it hath been said: “He who is a true believer liveth both in this world and in the world to come.” If by “life” be meant this earthly life, it is evident that death must needs overtake it.",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "true-life-spirit-not-flesh",
+  "alignment": [
+    {
+      "ar": "هرگز",
+      "en": "In every"
+    },
+    {
+      "ar": "عهد",
+      "en": "age"
+    },
+    {
+      "ar": "عصر",
+      "en": "century"
+    },
+    {
+      "ar": "حيات",
+      "en": "life"
+    },
+    {
+      "ar": "بعث",
+      "en": "resurrection"
+    },
+    {
+      "ar": "حشر",
+      "en": "judgment"
+    },
+    {
+      "ar": "حقيقی",
+      "en": "spiritual significance"
+    },
+    {
+      "ar": "مقصود",
+      "en": "purpose"
+    },
+    {
+      "ar": "انبياء",
+      "en": "Prophets of God"
+    },
+    {
+      "ar": "اولياء",
+      "en": "chosen ones"
+    },
+    {
+      "ar": "تعقّل",
+      "en": "ponder"
+    },
+    {
+      "ar": "بيان",
+      "en": "utterance"
+    },
+    {
+      "ar": "کشف",
+      "en": "discover"
+    },
+    {
+      "ar": "جميع",
+      "en": "all"
+    },
+    {
+      "ar": "امور",
+      "en": "mysteries"
+    },
+    {
+      "ar": "لحد",
+      "en": "grave"
+    },
+    {
+      "ar": "قبر",
+      "en": "tomb"
+    },
+    {
+      "ar": "صراط",
+      "en": "sirat"
+    },
+    {
+      "ar": "جنّت",
+      "en": "paradise"
+    },
+    {
+      "ar": "نار",
+      "en": "hell"
+    },
+    {
+      "ar": "ناس",
+      "en": "people"
+    },
+    {
+      "ar": "نفس",
+      "en": "self"
+    },
+    {
+      "ar": "محجوب",
+      "en": "imprisoned"
+    },
+    {
+      "ar": "هوی",
+      "en": "worldly desire"
+    },
+    {
+      "ar": "مدفونند",
+      "en": "buried"
+    },
+    {
+      "ar": "زلال",
+      "en": "dewdrop"
+    },
+    {
+      "ar": "معرفت الهی",
+      "en": "divine knowledge"
+    },
+    {
+      "ar": "مرزوق",
+      "en": "attain"
+    },
+    {
+      "ar": "حيات حقيقی",
+      "en": "true life"
+    },
+    {
+      "ar": "حيات قلب",
+      "en": "life of the spirit"
+    },
+    {
+      "ar": "حيات جسد",
+      "en": "life of the flesh"
+    },
+    {
+      "ar": "حيوانات",
+      "en": "animals"
+    },
+    {
+      "ar": "شريکند",
+      "en": "common"
+    },
+    {
+      "ar": "مخصوص",
+      "en": "possessed only"
+    },
+    {
+      "ar": "صاحبان",
+      "en": "by"
+    },
+    {
+      "ar": "افئده منيره",
+      "en": "pure in heart"
+    },
+    {
+      "ar": "بحر ايمان",
+      "en": "ocean of faith"
+    },
+    {
+      "ar": "شاربند",
+      "en": "quaffed"
+    },
+    {
+      "ar": "ثمره ايقان",
+      "en": "fruit of certitude"
+    },
+    {
+      "ar": "موت",
+      "en": "death"
+    },
+    {
+      "ar": "بقا",
+      "en": "existence"
+    },
+    {
+      "ar": "فنا",
+      "en": "immortality"
+    },
+    {
+      "ar": "ظاهره",
+      "en": "earthly"
+    },
+    {
+      "ar": "مشاهده",
+      "en": "evident"
+    },
+    {
+      "ar": "اخذ",
+      "en": "overtake"
+    }
+  ],
+  "terms": [
+    {
+      "term": "حقيقی",
+      "transliteration": "h-q-q",
+      "literal": "truth; right; that which is true or just",
+      "se_rendering": "spiritual significance",
+      "note": "Usually 'the True One' or 'the Truth' (43 occurrences). Here rendered as 'spiritual significance'—a doctrinal reframing rather than ontological descriptor, making the passage's hermeneutical method explicit.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 651,
+          "snippet": "the True One"
+        },
+        {
+          "work": "gleanings",
+          "para": 85,
+          "snippet": "the Truth"
+        },
+        {
+          "work": "gleanings",
+          "para": 328,
+          "snippet": "the one true God"
+        },
+        {
+          "work": "gleanings",
+          "para": 707,
+          "snippet": "Him"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 52,
+          "snippet": "Sun of Truth"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 9,
+          "snippet": "evident"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "betrayal of truth"
+        },
+        {
+          "work": "gleanings",
+          "para": 100,
+          "snippet": "clear"
+        }
+      ]
+    },
+    {
+      "term": "مقصود",
+      "transliteration": "q-s-d",
+      "literal": "intention; purpose; aim; goal; to seek; to direct oneself",
+      "se_rendering": "purpose",
+      "note": "Typically 'purpose' or 'goal' (32 occurrences). Appears twice here with consistent rendering, anchoring the text's central claim about prophetic intention across all dispensations.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 204,
+          "snippet": "Seek"
+        },
+        {
+          "work": "gleanings",
+          "para": 602,
+          "snippet": "goal"
+        },
+        {
+          "work": "gleanings",
+          "para": 672,
+          "snippet": "direct"
+        },
+        {
+          "work": "gleanings",
+          "para": 683,
+          "snippet": "hasten to embrace"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 64,
+          "snippet": "aim"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 43,
+          "snippet": "purpose"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 47,
+          "snippet": "my heart's Desire"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 5,
+          "snippet": "my Desire"
+        }
+      ]
+    },
+    {
+      "term": "لحد",
+      "transliteration": "h-d-d",
+      "literal": "iron; sharp, keen, acute",
+      "se_rendering": "tomb",
+      "note": "Rare in Jafar data (17 occurrences); typically 'keen' or 'sharp' (material sense). Here 'tomb' reads as symbolic reinterpretation, echoing Qur'anic language (26:88) rather than SE's usual lexical pattern.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 10,
+          "snippet": "keen"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 77,
+          "snippet": "sharp"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 134,
+          "snippet": "handiwork"
+        },
+        {
+          "work": "gleanings",
+          "para": 384,
+          "snippet": "penetrating"
+        },
+        {
+          "work": "gleanings",
+          "para": 308,
+          "snippet": "iron"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 228,
+          "snippet": "capacity"
+        }
+      ]
+    },
+    {
+      "term": "محجوب",
+      "transliteration": "ḥ-j-b",
+      "literal": "to veil oneself, to be veiled",
+      "se_rendering": "imprisoned",
+      "note": "Consistently 'veiled' across 37 occurrences. 'Imprisoned' here is a marked deviation, transforming passive veiling into active captivity—intensifying the text's critique of spiritual heedlessness.",
+      "cross_refs": [
+        {
+          "work": "the-hidden-words",
+          "para": 33,
+          "snippet": "veil thyself"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 234,
+          "snippet": "veiling yourselves"
+        },
+        {
+          "work": "gleanings",
+          "para": 198,
+          "snippet": "veil yourselves"
+        },
+        {
+          "work": "gleanings",
+          "para": 23,
+          "snippet": "most grievous veil"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 22,
+          "snippet": "veiled"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 533,
+          "snippet": "the veil"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 150,
+          "snippet": "the veil of heedlessness"
+        },
+        {
+          "work": "gleanings",
+          "para": 138,
+          "snippet": "the veil of her face"
+        }
+      ]
+    },
+    {
+      "term": "معرفت",
+      "transliteration": "ʿ-r-f",
+      "literal": "to confess; to acknowledge; to recognize",
+      "se_rendering": "knowledge",
+      "note": "Usually 'understanding' or 'have recognized' (82 occurrences). 'Divine knowledge' here emphasizes epistemological access rather than mere acknowledgment, aligning with Sufi mystical traditions.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 601,
+          "snippet": "testifieth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 729,
+          "snippet": "hath acknowledged"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 582,
+          "snippet": "have recognized"
+        },
+        {
+          "work": "gleanings",
+          "para": 568,
+          "snippet": "acknowledged"
+        },
+        {
+          "work": "gleanings",
+          "para": 295,
+          "snippet": "made objections"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 744,
+          "snippet": "understanding"
+        },
+        {
+          "work": "gleanings",
+          "para": 87,
+          "snippet": "knowledge"
+        },
+        {
+          "work": "gleanings",
+          "para": 2,
+          "snippet": "perception"
+        }
+      ]
+    },
+    {
+      "term": "قلب",
+      "transliteration": "q-l-b",
+      "literal": "heart; to turn; to overturn",
+      "se_rendering": "spirit",
+      "note": "Standard 'heart' (60 occurrences). Rendered as 'spirit' here to contrast sharply with 'flesh'—a philosophical dichotomy SE emphasizes through this semantic pivot.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 187,
+          "snippet": "hearts"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 432,
+          "snippet": "their hearts"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 652,
+          "snippet": "heart"
+        },
+        {
+          "work": "gleanings",
+          "para": 228,
+          "snippet": "agitation"
+        },
+        {
+          "work": "gleanings",
+          "para": 350,
+          "snippet": "cataclysms"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 777,
+          "snippet": "commotion"
+        },
+        {
+          "work": "gleanings",
+          "para": 439,
+          "snippet": "discord"
+        },
+        {
+          "work": "gleanings",
+          "para": 3,
+          "snippet": "with hearts"
+        }
+      ]
+    },
+    {
+      "term": "ظاهره",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "earthly",
+      "note": "Normally 'manifestation' or 'evident' (96 occurrences). 'Earthly' here is a uniquely reductive choice, subordinating manifestational theology to material temporality.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 53,
+          "snippet": "Manifestation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 160,
+          "snippet": "Author of all Manifestations"
+        },
+        {
+          "work": "gleanings",
+          "para": 222,
+          "snippet": "material"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 206,
+          "snippet": "appeared"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 255,
+          "snippet": "Manifestations"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 791,
+          "snippet": "tokens of Thy handiwork"
+        }
+      ]
+    },
+    {
+      "term": "مشاهده",
+      "transliteration": "sh-h-d",
+      "literal": "witnessed; observed; seen; evident; manifest",
+      "se_rendering": "evident",
+      "note": "Usually 'manifest' or 'witness' (74 occurrences). 'Evident' here sustains logical argumentation rather than mystical testimony, serving the passage's rational demonstration.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 607,
+          "snippet": "manifest"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 811,
+          "snippet": "I bear witness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 6,
+          "snippet": "I testify"
+        },
+        {
+          "work": "gleanings",
+          "para": 298,
+          "snippet": "witness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 253,
+          "snippet": "martyrdom"
+        },
+        {
+          "work": "gleanings",
+          "para": 134,
+          "snippet": "God witnesseth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 230,
+          "snippet": "God testifieth"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 57,
+          "snippet": "beheld"
+        }
+      ]
+    }
+  ],
+  "section_index": "128",
+  "section": "128",
+  "section_para": 1
 }

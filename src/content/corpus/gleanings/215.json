@@ -1,10 +1,429 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 215,
   "source_text": "إنّ ربّك لهو العزیز الغفور أشهد بك امتحن الله عباده طوبی لمن أقبل إلیك ویزورك وویل للّذین أنكروا حقّك وأعرضوا عنك وضیّعوا قدرك وهتكوا حرمتك",
   "translation": "I bear witness that through thee God hath proved the hearts of His servants. Blessed be the man that directeth his steps toward thee, and visiteth thee. Woe to him that denieth thy right, that turneth away from thee, that dishonoreth thy name, and profaneth thy holiness.",
   "source_lang": "ar",
-  "score": 9.7
+  "score": 9.7,
+  "page_slug": "god-proved-hearts-servants",
+  "alignment": [
+    {
+      "ar": "ربّك",
+      "en": "God"
+    },
+    {
+      "ar": "العزیز",
+      "en": "proved"
+    },
+    {
+      "ar": "الغفور",
+      "en": "hearts"
+    },
+    {
+      "ar": "أشهد",
+      "en": "I bear witness"
+    },
+    {
+      "ar": "بك",
+      "en": "through thee"
+    },
+    {
+      "ar": "امتحن",
+      "en": "hath proved"
+    },
+    {
+      "ar": "عباده",
+      "en": "His servants"
+    },
+    {
+      "ar": "طوبی",
+      "en": "Blessed"
+    },
+    {
+      "ar": "لمن",
+      "en": "be the man"
+    },
+    {
+      "ar": "أقبل",
+      "en": "directeth his steps"
+    },
+    {
+      "ar": "إلیك",
+      "en": "toward thee"
+    },
+    {
+      "ar": "یزورك",
+      "en": "visiteth thee"
+    },
+    {
+      "ar": "ویل",
+      "en": "Woe"
+    },
+    {
+      "ar": "للّذین",
+      "en": "to him that"
+    },
+    {
+      "ar": "أنكروا",
+      "en": "denieth"
+    },
+    {
+      "ar": "حقّك",
+      "en": "thy right"
+    },
+    {
+      "ar": "أعرضوا",
+      "en": "turneth away"
+    },
+    {
+      "ar": "عنك",
+      "en": "from thee"
+    },
+    {
+      "ar": "ضیّعوا",
+      "en": "dishonoreth"
+    },
+    {
+      "ar": "قدرك",
+      "en": "thy name"
+    },
+    {
+      "ar": "هتكوا",
+      "en": "profaneth"
+    },
+    {
+      "ar": "حرمتك",
+      "en": "thy holiness"
+    }
+  ],
+  "terms": [
+    {
+      "term": "العزیز",
+      "transliteration": "ʿ-z-z",
+      "literal": "glory; might; honor; dignity; power; majesty",
+      "se_rendering": "the Mighty",
+      "note": "Typically rendered 'glory' or 'honor' across 49 occurrences. Here 'Mighty' emphasizes divine power in apposition with forgiveness.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 245,
+          "snippet": "glory"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 491,
+          "snippet": "exalted"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 99,
+          "snippet": "Dear"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 38,
+          "snippet": "dearly beloved"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 37,
+          "snippet": "Gracious"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 162,
+          "snippet": "Mighty"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 789,
+          "snippet": "Thy glory"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 158,
+          "snippet": "on thy glory"
+        }
+      ]
+    },
+    {
+      "term": "الغفور",
+      "transliteration": "gh-f-r",
+      "literal": "to forgive; forgiveness",
+      "se_rendering": "the Forgiving",
+      "note": "Standard rendering as 'the Forgiving' or variants. Paired with 'Mighty' to open the passage with mercy and strength.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 13,
+          "snippet": "wronged"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 787,
+          "snippet": "Thy forgiveness"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 416,
+          "snippet": "the Ever-Forgiving"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 533,
+          "snippet": "the Forgiving"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 192,
+          "snippet": "pardon"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 477,
+          "snippet": "Forgive me"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 451,
+          "snippet": "Ever-Forgiving"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 682,
+          "snippet": "forgivest"
+        }
+      ]
+    },
+    {
+      "term": "أشهد",
+      "transliteration": "sh-h-d",
+      "literal": "witnessed; observed; seen; evident; manifest",
+      "se_rendering": "I bear witness",
+      "note": "Most common SE rendering is 'I bear witness' (74 occurrences). Establishes the speaker's authority and testimony regarding the addressee.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 35,
+          "snippet": "evident"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 811,
+          "snippet": "I bear witness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 6,
+          "snippet": "I testify"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 138,
+          "snippet": "martyrdom"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 230,
+          "snippet": "God testifieth"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 57,
+          "snippet": "beheld"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 117,
+          "snippet": "testify"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 156,
+          "snippet": "bear witness"
+        }
+      ]
+    },
+    {
+      "term": "امتحن",
+      "transliteration": "m-ḥ-n",
+      "literal": "trial; tribulation; affliction; test",
+      "se_rendering": "proved",
+      "note": "Rare root (5 occurrences total). SE chose 'proved' over 'trials' or 'tests,' emphasizing divine verification rather than affliction.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 32,
+          "snippet": "tribulations"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 60,
+          "snippet": "test"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 58,
+          "snippet": "trials"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 38,
+          "snippet": "tests"
+        }
+      ]
+    },
+    {
+      "term": "حقّك",
+      "transliteration": "h-q-q",
+      "literal": "truth; right; that which is true or just",
+      "se_rendering": "thy right",
+      "note": "Typically 'the Truth' or 'the True One.' Here 'thy right' personalizes the term, making it the addressee's inherent claim.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 238,
+          "snippet": "the True One"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 52,
+          "snippet": "Sun of Truth"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 103,
+          "snippet": "Luminaries of Truth"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 113,
+          "snippet": "was realized"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 215,
+          "snippet": "realization"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 9,
+          "snippet": "evident"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "betrayal of truth"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 195,
+          "snippet": "incontrovertible"
+        }
+      ]
+    },
+    {
+      "term": "قدرك",
+      "transliteration": "q-d-r",
+      "literal": "power; might; decree; measure; worth",
+      "se_rendering": "thy name",
+      "note": "Root carries 'power,' 'decree,' 'worth.' SE rendered 'thy name' here, departing from usual pattern to denote dignity or station.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 171,
+          "snippet": "a while"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 339,
+          "snippet": "Thy power"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 12,
+          "snippet": "God of power"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 35,
+          "snippet": "Potent"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 282,
+          "snippet": "Almighty"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 177,
+          "snippet": "ordain"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 4,
+          "snippet": "for a moment"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 30,
+          "snippet": "didst ordain"
+        }
+      ]
+    },
+    {
+      "term": "حرمتك",
+      "transliteration": "h-r-m",
+      "literal": "sanctity, inviolability, dignity, honor, respect",
+      "se_rendering": "thy holiness",
+      "note": "Consistently 'thy sanctity' or 'thy right.' Here 'thy holiness' elevates the sacred inviolability of the addressee's station.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 191,
+          "snippet": "Deny me not"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 293,
+          "snippet": "withhold not from me"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 76,
+          "snippet": "debarred"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 23,
+          "snippet": "depriveth himself"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 785,
+          "snippet": "Thy Cause"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 484,
+          "snippet": "suffer not yourselves to be kept back"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 93,
+          "snippet": "withhold not from the poor"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 506,
+          "snippet": "Withhold not from her"
+        }
+      ]
+    }
+  ],
+  "section_index": "LVII.6",
+  "section": "LVII",
+  "section_para": 6
 }

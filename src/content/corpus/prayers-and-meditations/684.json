@@ -1,10 +1,167 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 684,
   "source_text": "بايد بعد از تكبيرات قرائت شود نوزده مرتبه:",
   "translation": "Let him, then, repeat six times the greeting “Alláh-u-Abhá,” and then repeat nineteen",
   "source_lang": "ar",
-  "score": 7.4
+  "score": 7.4,
+  "page_slug": "repeat-greeting-allah-abha",
+  "alignment": [
+    {
+      "ar": "بايد",
+      "en": "Let him"
+    },
+    {
+      "ar": "بعد",
+      "en": "then"
+    },
+    {
+      "ar": "تكبيرات",
+      "en": "greeting"
+    },
+    {
+      "ar": "قرائت",
+      "en": "repeat"
+    },
+    {
+      "ar": "نوزده",
+      "en": "nineteen"
+    },
+    {
+      "ar": "مرتبه",
+      "en": "times"
+    }
+  ],
+  "terms": [
+    {
+      "term": "بايد",
+      "transliteration": "b-d-y",
+      "literal": "by hand; with hands",
+      "se_rendering": "Let him",
+      "note": "Root b-d-y typically renders as 'must' or 'with their hands' across 4 occurrences. Here rendered 'Let him' — SE employs imperative phrasing to convey obligation in devotional context.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 95,
+          "snippet": "with their own hands"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 244,
+          "snippet": "with their hands"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 55,
+          "snippet": "must"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 2,
+          "snippet": "the Eternal"
+        }
+      ]
+    },
+    {
+      "term": "قرائت",
+      "transliteration": "q-r-ʾ",
+      "literal": "Qur'an; recitation",
+      "se_rendering": "repeat",
+      "note": "Root q-r-ʾ renders across 13 occurrences as 'Qur'an', 'Recite', or 'recitation'. Here 'repeat' — SE chooses action verb over 'recitation' to emphasize performative aspect of the invocation.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 85,
+          "snippet": "the Qur'án"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 10,
+          "snippet": "Recite"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 185,
+          "snippet": "recited their Qur'án"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 229,
+          "snippet": "recited to him"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 171,
+          "snippet": "Qur'án"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 15,
+          "snippet": "Chant it"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 155,
+          "snippet": "Peruse"
+        },
+        {
+          "work": "gleanings",
+          "para": 618,
+          "snippet": "Intone"
+        }
+      ]
+    },
+    {
+      "term": "نوزده",
+      "transliteration": "n-z-d-h",
+      "literal": "nineteen",
+      "se_rendering": "nineteen",
+      "note": "Appears once in corpus as 'nineteen times'. SE preserves numerical precision while reinforcing repetition through 'times' qualifier.",
+      "cross_refs": []
+    },
+    {
+      "term": "مرتبه",
+      "transliteration": "r-t-b",
+      "literal": "rank; station; degree; time; instance",
+      "se_rendering": "times",
+      "note": "Root r-t-b renders across 13 occurrences as 'station', 'rank', 'times', or 'degree'. Here 'times' — SE applies numerical/iterative sense rather than hierarchical or ontological meanings.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 149,
+          "snippet": "station"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 10,
+          "snippet": "times"
+        },
+        {
+          "work": "gleanings",
+          "para": 376,
+          "snippet": "rank"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 58,
+          "snippet": "knowledge"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 7,
+          "snippet": "prepared"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 240,
+          "snippet": "after the manner of"
+        }
+      ]
+    }
+  ],
+  "section_index": "CLXVII.3",
+  "section": "CLXVII",
+  "section_para": 3
 }

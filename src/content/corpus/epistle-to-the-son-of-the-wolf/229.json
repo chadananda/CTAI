@@ -1,10 +1,519 @@
 {
   "work": "Epistle to the Son of the Wolf",
   "slug": "epistle-to-the-son-of-the-wolf",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 229,
   "source_text": "و همچنين ميفرمايد [ بقدر اسم مؤمن هم در حقّ ان شجره لا شرقيّه و لا غربيّه راضی نميشوند چه اگر راضی شوند حزن بر او وارد نمياورند ] انتهی * يا اذن عالم ايا شنيدی بچه عجز اين بيانات از مشرق اراده مطلع اسماء ظاهر گشته ؟ ميفرمايد کلّ را تربيت نمودم از برای عرفان اين ظهور و لکن اهل بيان بقدر اسم مؤمن هم در حقّ ان سدره مبارکه لا شرقيّه و لا غربيّه راضی نميشوند * آه آه عمّا ورد علی نفسی لعمر اللّه قد ورد عَلَیَّ من الّذی ربّيته فی اللّيالي و الايّام ما ناح به روح القدس و اهل خباء عظمة اللّه مالک هذا اليوم البديع *",
   "translation": "And likewise, He saith: \"They will even refuse unto that Tree, which is neither of the East nor of the West, the name believer, for were they so to name Him, they would fail to sadden Him.\" Hath thine ear, O world, heard with what helplessness these words were revealed from the dayspring of the will of Him Who is the Dawning-Place of all names? He saith: \"I have educated all men, that they may recognize this Revelation, and yet the people of the Bayán refuse to concede even the name believer to that blessed Tree that belongeth neither to the East nor to the West.\" Alas, alas, for the things which have befallen Me! By God! There befell Me at the hands of him whom I have nurtured (Mírzá Yaḥyá), by day and by night, what hath caused the Holy Spirit, and the dwellers of the Tabernacle of the Grandeur of God, the Lord of this wondrous Day, to lament.",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "tree-neither-east-nor-west",
+  "alignment": [
+    {
+      "ar": "همچنين",
+      "en": "likewise"
+    },
+    {
+      "ar": "ميفرمايد",
+      "en": "He saith"
+    },
+    {
+      "ar": "بقدر",
+      "en": "even"
+    },
+    {
+      "ar": "اسم",
+      "en": "the name"
+    },
+    {
+      "ar": "مؤمن",
+      "en": "believer"
+    },
+    {
+      "ar": "حقّ",
+      "en": "unto"
+    },
+    {
+      "ar": "ان",
+      "en": "that"
+    },
+    {
+      "ar": "شجره",
+      "en": "Tree"
+    },
+    {
+      "ar": "لا شرقيّه و لا غربيّه",
+      "en": "neither of the East nor of the West"
+    },
+    {
+      "ar": "راضی نميشوند",
+      "en": "refuse"
+    },
+    {
+      "ar": "اگر",
+      "en": "were"
+    },
+    {
+      "ar": "راضی شوند",
+      "en": "so to name"
+    },
+    {
+      "ar": "حزن",
+      "en": "sadden"
+    },
+    {
+      "ar": "وارد نمياورند",
+      "en": "fail"
+    },
+    {
+      "ar": "اذن",
+      "en": "ear"
+    },
+    {
+      "ar": "عالم",
+      "en": "world"
+    },
+    {
+      "ar": "شنيدی",
+      "en": "heard"
+    },
+    {
+      "ar": "بچه عجز",
+      "en": "with what helplessness"
+    },
+    {
+      "ar": "بيانات",
+      "en": "these words"
+    },
+    {
+      "ar": "مشرق",
+      "en": "dayspring"
+    },
+    {
+      "ar": "اراده",
+      "en": "will"
+    },
+    {
+      "ar": "مطلع",
+      "en": "Dawning-Place"
+    },
+    {
+      "ar": "اسماء",
+      "en": "all names"
+    },
+    {
+      "ar": "ظاهر گشته",
+      "en": "revealed"
+    },
+    {
+      "ar": "کلّ",
+      "en": "all men"
+    },
+    {
+      "ar": "تربيت نمودم",
+      "en": "I have educated"
+    },
+    {
+      "ar": "عرفان",
+      "en": "recognize"
+    },
+    {
+      "ar": "ظهور",
+      "en": "this Revelation"
+    },
+    {
+      "ar": "لکن",
+      "en": "yet"
+    },
+    {
+      "ar": "اهل بيان",
+      "en": "the people of the Bayán"
+    },
+    {
+      "ar": "سدره مبارکه",
+      "en": "that blessed Tree"
+    },
+    {
+      "ar": "آه آه",
+      "en": "Alas, alas"
+    },
+    {
+      "ar": "عمّا ورد علی نفسی",
+      "en": "for the things which have befallen Me"
+    },
+    {
+      "ar": "لعمر اللّه",
+      "en": "By God"
+    },
+    {
+      "ar": "من الّذی ربّيته",
+      "en": "at the hands of him whom I have nurtured"
+    },
+    {
+      "ar": "فی اللّيالي و الايّام",
+      "en": "by day and by night"
+    },
+    {
+      "ar": "ما ناح به",
+      "en": "what hath caused"
+    },
+    {
+      "ar": "روح القدس",
+      "en": "the Holy Spirit"
+    },
+    {
+      "ar": "اهل خباء",
+      "en": "the dwellers of the Tabernacle"
+    },
+    {
+      "ar": "عظمة اللّه",
+      "en": "the Grandeur of God"
+    },
+    {
+      "ar": "مالک",
+      "en": "the Lord"
+    },
+    {
+      "ar": "هذا اليوم البديع",
+      "en": "this wondrous Day"
+    }
+  ],
+  "terms": [
+    {
+      "term": "بيانات",
+      "transliteration": "b-y-n",
+      "literal": "to manifest; to make clear; clear, evident",
+      "se_rendering": "words",
+      "note": "Typically rendered as 'proofs' or 'clear verses' (87 occ). Here SE uses 'words' — a simpler, more direct rendering suited to this lament's emotional register.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 223,
+          "snippet": "the Expounder, the Most Manifest"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 231,
+          "snippet": "clear verses"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 3,
+          "snippet": "proofs"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 12,
+          "snippet": "clear proofs"
+        },
+        {
+          "work": "gleanings",
+          "para": 563,
+          "snippet": "Dawning-Place of the proofs"
+        },
+        {
+          "work": "gleanings",
+          "para": 292,
+          "snippet": "the Bayán"
+        },
+        {
+          "work": "gleanings",
+          "para": 636,
+          "snippet": "utterance"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 101,
+          "snippet": "Bayán"
+        }
+      ]
+    },
+    {
+      "term": "مطلع",
+      "transliteration": "t-l-ʿ",
+      "literal": "rising; appearance; countenance; manifestation",
+      "se_rendering": "Dawning-Place",
+      "note": "Usually 'Manifestations' or 'countenances' (32 occ). 'Dawning-Place' here uniquely emphasizes divine illumination and origin — a cosmological reading appropriate to naming God.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 47,
+          "snippet": "lives"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 856,
+          "snippet": "countenances"
+        },
+        {
+          "work": "gleanings",
+          "para": 35,
+          "snippet": "Revealers of the beauty"
+        },
+        {
+          "work": "gleanings",
+          "para": 364,
+          "snippet": "Manifestations"
+        },
+        {
+          "work": "gleanings",
+          "para": 221,
+          "snippet": "instigators"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "sources of command"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 16,
+          "snippet": "embodiments"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 21,
+          "snippet": "daysprings"
+        }
+      ]
+    },
+    {
+      "term": "عرفان",
+      "transliteration": "ʿ-r-f",
+      "literal": "to confess; to acknowledge; to recognize",
+      "se_rendering": "recognize",
+      "note": "Standard renderings are 'recognized' or 'acknowledged' (82 occ). 'Recognize' maintains recognition's epistemic sense while conveying the Revelation's pedagogical purpose.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 601,
+          "snippet": "testifieth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 729,
+          "snippet": "hath acknowledged"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 582,
+          "snippet": "have recognized"
+        },
+        {
+          "work": "gleanings",
+          "para": 568,
+          "snippet": "acknowledged"
+        },
+        {
+          "work": "gleanings",
+          "para": 295,
+          "snippet": "made objections"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 744,
+          "snippet": "understanding"
+        },
+        {
+          "work": "gleanings",
+          "para": 87,
+          "snippet": "knowledge"
+        },
+        {
+          "work": "gleanings",
+          "para": 2,
+          "snippet": "perception"
+        }
+      ]
+    },
+    {
+      "term": "سدره",
+      "transliteration": "s-d-r",
+      "literal": "lote-tree; divine tree",
+      "se_rendering": "Tree",
+      "note": "Typically 'Lote-Tree' or 'Divine Lote-Tree' (18 occ). 'Tree' here strips the sacred epithet, heightening the paradox of refusal to grant even 'believer' to the unadorned designation.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 809,
+          "snippet": "Lote-Tree"
+        },
+        {
+          "work": "gleanings",
+          "para": 402,
+          "snippet": "Burning Bush"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 29,
+          "snippet": "Divine Lote-Tree"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 263,
+          "snippet": "Sadrih of the Ridván"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 395,
+          "snippet": "tree of Thy oneness"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 2,
+          "snippet": "Tree of Eternity"
+        }
+      ]
+    },
+    {
+      "term": "مبارکه",
+      "transliteration": "b-r-k",
+      "literal": "blessed; auspicious; fruitful",
+      "se_rendering": "blessed",
+      "note": "Common renderings include 'hallowed' and 'holy' (38 occ). 'Blessed' here preserves theological sanctity while echoing the earlier refusal of the name 'believer' to this blessed entity.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 210,
+          "snippet": "blessed"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 57,
+          "snippet": "hallowed"
+        },
+        {
+          "work": "gleanings",
+          "para": 232,
+          "snippet": "shining"
+        },
+        {
+          "work": "gleanings",
+          "para": 726,
+          "snippet": "holy"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 16,
+          "snippet": "Sacred"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 2,
+          "snippet": "blest"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 27,
+          "snippet": "blessing"
+        },
+        {
+          "work": "tablet-of-carmel",
+          "para": 5,
+          "snippet": "Sanctified be"
+        }
+      ]
+    },
+    {
+      "term": "عظمة",
+      "transliteration": "ʿ-z̟-m",
+      "literal": "greatest; supreme; mightiest",
+      "se_rendering": "Grandeur",
+      "note": "Standard form is 'Most Great' or 'Grandeur' (63 occ). 'Grandeur of God' maintains SE's majestic register for divine attributes while personalizing the Tabernacle's dwellers' grief.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 56,
+          "snippet": "supreme"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 269,
+          "snippet": "Most Great"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 734,
+          "snippet": "Most Great Name"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 3,
+          "snippet": "greatest"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 6,
+          "snippet": "greater"
+        },
+        {
+          "work": "gleanings",
+          "para": 10,
+          "snippet": "most mighty"
+        },
+        {
+          "work": "gleanings",
+          "para": 392,
+          "snippet": "great"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 9,
+          "snippet": "mighty"
+        }
+      ]
+    },
+    {
+      "term": "البديع",
+      "transliteration": "b-d-ʿ",
+      "literal": "to create; most wondrous; excel",
+      "se_rendering": "wondrous",
+      "note": "Typically 'most wondrous' or 'creation' (21 occ). 'Wondrous' here emphasizes the Day's unprecedented character, echoing Bahá'u'lláh's self-designation as Badí'u'lláh.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 2,
+          "snippet": "most wondrous"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 65,
+          "snippet": "creation"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 6,
+          "snippet": "Badí'u'lláh"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 9,
+          "snippet": "horizon of creation"
+        },
+        {
+          "work": "gleanings",
+          "para": 205,
+          "snippet": "wondrous"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 4,
+          "snippet": "Mighty, the Wondrous"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 315,
+          "snippet": "kingdoms of creation"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 160,
+          "snippet": "mystic and wondrous Bride"
+        }
+      ]
+    }
+  ],
+  "section_index": "229",
+  "section": "229",
+  "section_para": 1
 }

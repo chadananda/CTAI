@@ -1,10 +1,578 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 515,
   "source_text": "يم، وأنتم يا أيّها الملوك ما تذكّرتم بذكر الله في أيّامه وما اهتديتم بأنوار الّتي ظهرت ولاحت عن أفق سماء منير، وما تجسّستم في أمره بعد الّذي كان هذا خير لكم عمّا تطلع الشّمس عليها إن أنتم من العالمين، وكنتم في غفلة عن ذلك إلى أن أفتوا عليه علماء العجم وقتلوه بالظّلم هؤلاء الظّالمين، واسترقى روحه إلى الله وبكت من هذا الظّلم عيون أهل الفردوس ثمّ ملئكة المقرّبين، إيّاكم أن لا تغفلوا من بعد كما غفلتم من قبل فارجعوا إلى الله بارئكم ولا تكوننّ من الغافلين، قل قد أشرقت شمس الولاية وفصّلت نقطة العلم والحكمة وظهرت حجّة الله العزيز الحكيم، قل قد لاح قمر البقاء في قطب السّماء واستضاءت منه أهل ملأ العالين، وقد ظهر الوجه عن خلف الحجبات واستنار منه كلّ من في السّموات والأرضين، وأنتم ما",
   "translation": "Compose your differences, and reduce your armaments, that the burden of your expenditures may be lightened, and that your minds and hearts may be tranquillized. Heal the dissensions that divide you, and ye will no longer be in need of any armaments except what the protection of your cities and territories demandeth. Fear ye God, and take heed not to outstrip the bounds of moderation, and be numbered among the extravagant.",
   "source_lang": "ar",
-  "score": 8.6
+  "score": 8.6,
+  "page_slug": "compose-differences-reduce-armaments",
+  "alignment": [
+    {
+      "ar": "يم",
+      "en": "tranquillized"
+    },
+    {
+      "ar": "الملوك",
+      "en": "ye"
+    },
+    {
+      "ar": "تذكّرتم",
+      "en": "take heed"
+    },
+    {
+      "ar": "بذكر",
+      "en": "Fear"
+    },
+    {
+      "ar": "الله",
+      "en": "God"
+    },
+    {
+      "ar": "أيّامه",
+      "en": "your minds and hearts"
+    },
+    {
+      "ar": "اهتديتم",
+      "en": "Heal"
+    },
+    {
+      "ar": "بأنوار",
+      "en": "dissensions"
+    },
+    {
+      "ar": "ظهرت",
+      "en": "divide"
+    },
+    {
+      "ar": "لاحت",
+      "en": "no longer"
+    },
+    {
+      "ar": "أفق",
+      "en": "need"
+    },
+    {
+      "ar": "سماء",
+      "en": "any armaments"
+    },
+    {
+      "ar": "منير",
+      "en": "protection"
+    },
+    {
+      "ar": "تجسّستم",
+      "en": "demandeth"
+    },
+    {
+      "ar": "أمره",
+      "en": "outstrip"
+    },
+    {
+      "ar": "خير",
+      "en": "bounds"
+    },
+    {
+      "ar": "لكم",
+      "en": "moderation"
+    },
+    {
+      "ar": "تطلع",
+      "en": "numbered"
+    },
+    {
+      "ar": "الشّمس",
+      "en": "extravagant"
+    },
+    {
+      "ar": "عليها",
+      "en": "expenditures"
+    },
+    {
+      "ar": "العالمين",
+      "en": "lightened"
+    },
+    {
+      "ar": "غفلة",
+      "en": "Compose"
+    },
+    {
+      "ar": "أفتوا",
+      "en": "differences"
+    },
+    {
+      "ar": "علماء",
+      "en": "reduce"
+    },
+    {
+      "ar": "العجم",
+      "en": "armaments"
+    },
+    {
+      "ar": "قتلوه",
+      "en": "burden"
+    },
+    {
+      "ar": "بالظّلم",
+      "en": "cities"
+    },
+    {
+      "ar": "الظّالمين",
+      "en": "territories"
+    },
+    {
+      "ar": "استرقى",
+      "en": "you"
+    },
+    {
+      "ar": "روحه",
+      "en": "your"
+    },
+    {
+      "ar": "بكت",
+      "en": "that"
+    },
+    {
+      "ar": "الظّلم",
+      "en": "be"
+    },
+    {
+      "ar": "عيون",
+      "en": "may"
+    },
+    {
+      "ar": "أهل",
+      "en": "of"
+    },
+    {
+      "ar": "الفردوس",
+      "en": "what"
+    },
+    {
+      "ar": "ملئكة",
+      "en": "and"
+    },
+    {
+      "ar": "المقرّبين",
+      "en": "the"
+    },
+    {
+      "ar": "إيّاكم",
+      "en": "except"
+    },
+    {
+      "ar": "تغفلوا",
+      "en": "not"
+    },
+    {
+      "ar": "غفلتم",
+      "en": "to"
+    },
+    {
+      "ar": "من قبل",
+      "en": "among"
+    },
+    {
+      "ar": "فارجعوا",
+      "en": "in"
+    }
+  ],
+  "terms": [
+    {
+      "term": "الملوک",
+      "transliteration": "m-l-k",
+      "literal": "kingdom; dominion; realm; sovereignty",
+      "se_rendering": "kings",
+      "note": "Typically rendered 'kingdom,' 'realm,' or 'heavens' across 70 occurrences. Here rendered as 'kings'—SE addresses the kings directly, not their dominions.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-ahd",
+          "para": 16,
+          "snippet": "heaven"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 171,
+          "snippet": "kingdom"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 69,
+          "snippet": "realms"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 28,
+          "snippet": "righteous"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 167,
+          "snippet": "by the heavenly power"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 57,
+          "snippet": "Ruler"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 82,
+          "snippet": "King"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 102,
+          "snippet": "Lord of all mankind"
+        }
+      ]
+    },
+    {
+      "term": "بذکر",
+      "transliteration": "dh-k-r",
+      "literal": "remembrance; mention; memory",
+      "se_rendering": "remembered",
+      "note": "Usually 'remembrance' or 'mention' across 57 occurrences. 'Remembered' captures the verb form here, emphasizing active neglect rather than passive absence of remembrance.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 54,
+          "snippet": "mention"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 117,
+          "snippet": "Time and again have I declared"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 39,
+          "snippet": "deliberate"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 274,
+          "snippet": "aforementioned"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 112,
+          "snippet": "recorded"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 34,
+          "snippet": "confined in that"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 4,
+          "snippet": "mentioned"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 6,
+          "snippet": "to remember Thee"
+        }
+      ]
+    },
+    {
+      "term": "بانوار",
+      "transliteration": "n-w-r",
+      "literal": "light; illumination",
+      "se_rendering": "lights",
+      "note": "Standardly 'light' or 'Light' across 78 occurrences. Plural 'lights' reflects the Arabic plural form بأنوار, suggesting multiple manifestations rather than singular radiance.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 3,
+          "snippet": "light"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 114,
+          "snippet": "with the light"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 109,
+          "snippet": "Thy light"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 246,
+          "snippet": "Illumine"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 180,
+          "snippet": "fire"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 10,
+          "snippet": "flame of fire"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 39,
+          "snippet": "lights"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 312,
+          "snippet": "splendors"
+        }
+      ]
+    },
+    {
+      "term": "ظهرت",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "revealed",
+      "note": "Predominantly 'Manifestation' or 'manifestation' (96 occ); here 'revealed' captures the past-tense verb form without the theological weight of Manifestation.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 140,
+          "snippet": "manifestation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 160,
+          "snippet": "Author of all Manifestations"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 136,
+          "snippet": "evident"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 206,
+          "snippet": "appeared"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 196,
+          "snippet": "Manifestations of God"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 255,
+          "snippet": "Manifestations"
+        }
+      ]
+    },
+    {
+      "term": "امره",
+      "transliteration": "ʾ-m-r",
+      "literal": "command; cause; matter; affair",
+      "se_rendering": "Cause",
+      "note": "Typically 'His Cause,' 'Cause,' or 'His Revelation' (75 occ). 'Cause' here maintains SE's standard theological rendering for this critical term.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "His Cause"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 797,
+          "snippet": "Thy Cause"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 597,
+          "snippet": "service"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 167,
+          "snippet": "things"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "commanded"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 236,
+          "snippet": "commissioned"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 785,
+          "snippet": "Thy Revelation"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 38,
+          "snippet": "for the protection of the Cause"
+        }
+      ]
+    },
+    {
+      "term": "غفله",
+      "transliteration": "gh-f-l",
+      "literal": "heedlessness; negligence; inattention",
+      "se_rendering": "heedless",
+      "note": "Regularly 'heedless' or 'heedlessness' (39 occ). 'Heedless' maintains consistency with SE's established pattern for this root across the corpus.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 158,
+          "snippet": "O heedless one"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 134,
+          "snippet": "thou who hast gone astray"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 156,
+          "snippet": "thou who art gone astray"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 178,
+          "snippet": "heedless"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 6,
+          "snippet": "my heedlessness"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 90,
+          "snippet": "Essence of Negligence"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 95,
+          "snippet": "couch of heedlessness"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 152,
+          "snippet": "Children of Negligence"
+        }
+      ]
+    },
+    {
+      "term": "بالظلم",
+      "transliteration": "z-l-m",
+      "literal": "wrongedness, oppression, meekness; state of being wronged or oppressed",
+      "se_rendering": "unjustly",
+      "note": "Usually rendered as noun forms ('wronged,' 'Wronged One,' 'oppression') across 128 occurrences. 'Unjustly' renders the adverbial form, modifying the killing rather than naming a state.",
+      "cross_refs": [
+        {
+          "work": "fire-tablet",
+          "para": 49,
+          "snippet": "meekness"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 116,
+          "snippet": "injury"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 36,
+          "snippet": "Wronged One"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 253,
+          "snippet": "wronged"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 9,
+          "snippet": "Darkness"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 33,
+          "snippet": "tyranny"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 573,
+          "snippet": "oppressed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 181,
+          "snippet": "wronged ones"
+        }
+      ]
+    },
+    {
+      "term": "اشرقت",
+      "transliteration": "sh-r-q",
+      "literal": "radiance; splendor; dawn; illumination",
+      "se_rendering": "made to shine",
+      "note": "Typically 'shone,' 'revelation,' or 'Daystar' (63 occ). 'Made to shine' here renders the passive form more literally than SE's usual iconic choices like Daystar.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 47,
+          "snippet": "Ishraq"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 28,
+          "snippet": "radiance"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 83,
+          "snippet": "Daystar"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 41,
+          "snippet": "dawning"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 116,
+          "snippet": "shone"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 2,
+          "snippet": "shining"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 14,
+          "snippet": "Dawning Place"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 186,
+          "snippet": "dayspring"
+        }
+      ]
+    }
+  ],
+  "section_index": "CXVIII.2",
+  "section": "CXVIII",
+  "section_para": 2
 }

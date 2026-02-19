@@ -1,10 +1,662 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 691,
   "source_text": "إنّ أوّل ما كتب الله على العباد عرفان مشرق وحيه ومطلع أمره الّذي كان مقام نفسه في عالم الأمر والخلق من فاز به قد فاز بكلّ الخير والّذي منع إنّه من أهل الضّلال ولو يأتي بكلّ الأعمال إذا فزتم بهذا المقام الأسنى والأفق الأعلى ينبغي لكلّ نفس أن يتّبع ما أمر به من لدى المقصود لأنّهما معًا لا يُقبل أحدهما دون الآخر هذا ما حكم به مطلع الإلهام",
   "translation": "The first duty prescribed by God for His servants is the recognition of Him Who is the Dayspring of His Revelation and the Fountain of His laws, Who representeth the Godhead in both the Kingdom of His Cause and the world of creation. Whoso achieveth this duty hath attained unto all good; and whoso is deprived thereof, hath gone astray, though he be the author of every righteous deed. It behooveth every one who reacheth this most sublime station, this summit of transcendent glory, to observe every ordinance of Him Who is the Desire of the world. These twin duties are inseparable. Neither is acceptable without the other. Thus hath it been decreed by Him Who is the Source of Divine inspiration.",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "recognition-dayspring-revelation",
+  "alignment": [
+    {
+      "ar": "إنّ",
+      "en": ""
+    },
+    {
+      "ar": "أوّل",
+      "en": "first"
+    },
+    {
+      "ar": "ما",
+      "en": ""
+    },
+    {
+      "ar": "كتب",
+      "en": "prescribed"
+    },
+    {
+      "ar": "الله",
+      "en": "God"
+    },
+    {
+      "ar": "على",
+      "en": ""
+    },
+    {
+      "ar": "العباد",
+      "en": "His servants"
+    },
+    {
+      "ar": "عرفان",
+      "en": "recognition"
+    },
+    {
+      "ar": "مشرق",
+      "en": "Dayspring"
+    },
+    {
+      "ar": "وحيه",
+      "en": "His Revelation"
+    },
+    {
+      "ar": "ومطلع",
+      "en": "Fountain"
+    },
+    {
+      "ar": "أمره",
+      "en": "His laws"
+    },
+    {
+      "ar": "الّذي",
+      "en": "Who"
+    },
+    {
+      "ar": "كان",
+      "en": ""
+    },
+    {
+      "ar": "مقام",
+      "en": "representeth"
+    },
+    {
+      "ar": "نفسه",
+      "en": "Godhead"
+    },
+    {
+      "ar": "في",
+      "en": ""
+    },
+    {
+      "ar": "عالم",
+      "en": "world"
+    },
+    {
+      "ar": "الأمر",
+      "en": "His Cause"
+    },
+    {
+      "ar": "والخلق",
+      "en": "creation"
+    },
+    {
+      "ar": "من",
+      "en": ""
+    },
+    {
+      "ar": "فاز",
+      "en": "achieveth"
+    },
+    {
+      "ar": "به",
+      "en": ""
+    },
+    {
+      "ar": "قد",
+      "en": ""
+    },
+    {
+      "ar": "فاز",
+      "en": "attained"
+    },
+    {
+      "ar": "بكلّ",
+      "en": "all"
+    },
+    {
+      "ar": "الخير",
+      "en": "good"
+    },
+    {
+      "ar": "والّذي",
+      "en": "whoso"
+    },
+    {
+      "ar": "منع",
+      "en": "deprived"
+    },
+    {
+      "ar": "إنّه",
+      "en": ""
+    },
+    {
+      "ar": "من",
+      "en": ""
+    },
+    {
+      "ar": "أهل",
+      "en": ""
+    },
+    {
+      "ar": "الضّلال",
+      "en": "gone astray"
+    },
+    {
+      "ar": "ولو",
+      "en": "though"
+    },
+    {
+      "ar": "يأتي",
+      "en": ""
+    },
+    {
+      "ar": "بكلّ",
+      "en": "every"
+    },
+    {
+      "ar": "الأعمال",
+      "en": "righteous deed"
+    },
+    {
+      "ar": "إذا",
+      "en": ""
+    },
+    {
+      "ar": "فزتم",
+      "en": "reacheth"
+    },
+    {
+      "ar": "بهذا",
+      "en": "this"
+    },
+    {
+      "ar": "المقام",
+      "en": "station"
+    },
+    {
+      "ar": "الأسنى",
+      "en": "sublime"
+    },
+    {
+      "ar": "والأفق",
+      "en": "summit"
+    },
+    {
+      "ar": "الأعلى",
+      "en": "transcendent glory"
+    },
+    {
+      "ar": "ينبغي",
+      "en": "behooveth"
+    },
+    {
+      "ar": "لكلّ",
+      "en": "every one"
+    },
+    {
+      "ar": "نفس",
+      "en": ""
+    },
+    {
+      "ar": "أن",
+      "en": ""
+    },
+    {
+      "ar": "يتّبع",
+      "en": "observe"
+    },
+    {
+      "ar": "ما",
+      "en": ""
+    },
+    {
+      "ar": "أمر",
+      "en": "ordinance"
+    },
+    {
+      "ar": "به",
+      "en": ""
+    },
+    {
+      "ar": "من",
+      "en": ""
+    },
+    {
+      "ar": "لدى",
+      "en": ""
+    },
+    {
+      "ar": "المقصود",
+      "en": "Desire of the world"
+    },
+    {
+      "ar": "لأنّهما",
+      "en": "twin"
+    },
+    {
+      "ar": "معًا",
+      "en": ""
+    },
+    {
+      "ar": "لا",
+      "en": ""
+    },
+    {
+      "ar": "يُقبل",
+      "en": "acceptable"
+    },
+    {
+      "ar": "أحدهما",
+      "en": "Neither"
+    },
+    {
+      "ar": "دون",
+      "en": "without"
+    },
+    {
+      "ar": "الآخر",
+      "en": "other"
+    },
+    {
+      "ar": "هذا",
+      "en": "Thus"
+    },
+    {
+      "ar": "ما",
+      "en": ""
+    },
+    {
+      "ar": "حكم",
+      "en": "decreed"
+    },
+    {
+      "ar": "به",
+      "en": ""
+    },
+    {
+      "ar": "مطلع",
+      "en": "Source"
+    },
+    {
+      "ar": "الإلهام",
+      "en": "Divine inspiration"
+    }
+  ],
+  "terms": [
+    {
+      "term": "عرفان",
+      "transliteration": "ʿ-r-f",
+      "literal": "to confess; to acknowledge; to recognize",
+      "se_rendering": "the recognition",
+      "note": "Root ʿ-r-f typically renders as 'testifieth' or 'acknowledged' (82 occ). Here SE selects 'recognition' — a more abstract, intellectual rendering fitting the foundational knowledge required.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 601,
+          "snippet": "testifieth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 729,
+          "snippet": "hath acknowledged"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 582,
+          "snippet": "have recognized"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 228,
+          "snippet": "acknowledged"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 744,
+          "snippet": "understanding"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 5,
+          "snippet": "acknowledging"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 4,
+          "snippet": "fragrance of His garment"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 114,
+          "snippet": "Thy knowledge"
+        }
+      ]
+    },
+    {
+      "term": "مشرق",
+      "transliteration": "sh-r-q",
+      "literal": "radiance; splendor; dawn; illumination",
+      "se_rendering": "the Dayspring",
+      "note": "Root sh-r-q spans 'Ishraq,' 'radiance,' 'revelation,' 'Daystar' (63 occ). 'Dayspring' is poetic and luminous, capturing both the dawn imagery and the spiritual manifestation uniquely here.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 47,
+          "snippet": "Ishraq"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 28,
+          "snippet": "radiance"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 83,
+          "snippet": "Daystar"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 41,
+          "snippet": "dawning"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 116,
+          "snippet": "shone"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 2,
+          "snippet": "shining"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 14,
+          "snippet": "Dawning Place"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 186,
+          "snippet": "dayspring"
+        }
+      ]
+    },
+    {
+      "term": "أمره",
+      "transliteration": "ʾ-m-r",
+      "literal": "command; cause; matter; affair",
+      "se_rendering": "His laws",
+      "note": "Root ʾ-m-r renders variously as 'His Cause,' 'His command,' 'His Revelation' (75 occ). Here 'His laws' emphasizes the normative, prescriptive dimension rather than Cause or Revelation.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "His Cause"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 797,
+          "snippet": "Thy Cause"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 597,
+          "snippet": "service"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 167,
+          "snippet": "things"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "commanded"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 236,
+          "snippet": "commissioned"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 785,
+          "snippet": "Thy Revelation"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 38,
+          "snippet": "for the protection of the Cause"
+        }
+      ]
+    },
+    {
+      "term": "مقام",
+      "transliteration": "q-w-m",
+      "literal": "rising; standing; uprising; resurrection",
+      "se_rendering": "station",
+      "note": "Root q-w-m typically denotes 'Resurrection' or 'arise' (109 occ). Applied to spiritual station: 'most sublime station' transforms the eschatological term into a present spiritual rank.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 152,
+          "snippet": "Day of Resurrection"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 153,
+          "snippet": "Resurrection"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 74,
+          "snippet": "rise"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "peoples"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 26,
+          "snippet": "steadfast"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 38,
+          "snippet": "steadfast in faith"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 628,
+          "snippet": "stood fast"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 198,
+          "snippet": "station"
+        }
+      ]
+    },
+    {
+      "term": "فاز",
+      "transliteration": "f-w-z",
+      "literal": "to attain; to gain; to succeed; to win",
+      "se_rendering": "achieveth",
+      "note": "Root f-w-z means 'to attain unto' or 'have attained' (6 occ). 'Achieveth' here suggests active accomplishment rather than passive reception, implying volitional acquisition.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 663,
+          "snippet": "to attain unto"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 39,
+          "snippet": "shineth"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 138,
+          "snippet": "have I attained"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 204,
+          "snippet": "triumphed"
+        }
+      ]
+    },
+    {
+      "term": "الأعمال",
+      "transliteration": "ʿ-m-l",
+      "literal": "to work; to act; to do; to perform",
+      "se_rendering": "righteous deed",
+      "note": "Root ʿ-m-l renders as 'workers,' 'do,' 'works,' 'actions' (44 occ). 'Righteous deed' (singular) emphasizes the quality and completeness of action over its multiplicity.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 24,
+          "snippet": "Consort"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 782,
+          "snippet": "works"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 286,
+          "snippet": "God doeth unto them as they do unto themselves"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 94,
+          "snippet": "knew that they did so"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 144,
+          "snippet": "done"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 19,
+          "snippet": "Fane"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 34,
+          "snippet": "deed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 86,
+          "snippet": "wrought"
+        }
+      ]
+    },
+    {
+      "term": "المقصود",
+      "transliteration": "q-s-d",
+      "literal": "intention; purpose; aim; goal; to seek; to direct oneself",
+      "se_rendering": "the Desire of the world",
+      "note": "Root q-s-d spans 'Seek,' 'goal,' 'direct,' 'purpose' (32 occ). 'The Desire of the world' personalizes the abstract aim, making it a beloved being rather than an impersonal objective.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 204,
+          "snippet": "Seek"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 64,
+          "snippet": "aim"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 43,
+          "snippet": "purpose"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 444,
+          "snippet": "goal"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 47,
+          "snippet": "my heart's Desire"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 5,
+          "snippet": "my Desire"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 11,
+          "snippet": "the Goal of my desire"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 804,
+          "snippet": "the Desired One"
+        }
+      ]
+    },
+    {
+      "term": "حكم",
+      "transliteration": "h-k-m",
+      "literal": "government; rule; governance; wisdom",
+      "se_rendering": "decreed",
+      "note": "Root h-k-m renders as 'rule,' 'government,' 'mysteries,' 'signs of sovereignty' (69 occ). 'Decreed' emphasizes authoritative divine determination, a juridical rather than political sense.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-ahd",
+          "para": 6,
+          "snippet": "rule"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "government"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 849,
+          "snippet": "signs of Thy sovereignty"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 160,
+          "snippet": "meaning of return"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 182,
+          "snippet": "mystery of the former verse"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 129,
+          "snippet": "perspicuous verses"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 46,
+          "snippet": "conclusive"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 220,
+          "snippet": "impregnable stronghold"
+        }
+      ]
+    }
+  ],
+  "section_index": "CLV.1",
+  "section": "CLV",
+  "section_para": 1
 }

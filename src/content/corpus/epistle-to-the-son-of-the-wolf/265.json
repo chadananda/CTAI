@@ -1,10 +1,468 @@
 {
   "work": "Epistle to the Son of the Wolf",
   "slug": "epistle-to-the-son-of-the-wolf",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 265,
   "source_text": "و عن النّبيّ - صلّی اللّه عليه و سلّم - انّه قال فی عکّاء نوافل و فواضل يخصّ اللّه بها من يشاء * من قال فی عکّاء سبحان اللّه و الحمد للّه و لا اله الّا اللّه و اللّه اکبر و لا حول و لا قوّة الّا باللّه العلیّ العظيم کتب اللّه له الف حسنة و محا عنه الف سيّئة و رفع له الف درجة فی الجنّة و غفر له ذنوبه * و من قال فی عکّاء استغفر اللّه غفر اللّه له ذنوبه کلّها و من ذکر اللّه فی عکّاء بالغدوّ و الاصال و العشیّ و الابکار کان عند اللّه افضل من نقل السّيوف و الرّماح و السّلاح فی سبيل اللّه تعالی *",
   "translation": "The Prophet - may the blessings of God and His salutations be upon Him - is stated to have said: \"In ‘Akká are works of supererogation and acts which are beneficial, which God vouchsafed specially unto whomsoever He pleaseth. And he that saith in ‘Akká: \\‘Glorified be God, and praise be unto God, and there is none other God but God, and most great is God, and there is no power nor strength except in God, the Exalted, the Mighty,' God will write down for him a thousand good deeds, and blot out from him a thousand evil deeds, and will uplift him a thousand grades in Paradise, and will forgive him his transgressions. And whoso saith in ‘Akká: \\‘I beg forgiveness of God,' God will forgive all his trespasses. And he that remembereth God in ‘Akká at morn and at eventide, in the night-season and at dawn, is better in the sight of God than he who beareth swords, spears and arms in the path of God - exalted be He!\"",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "akka-remembrance-better-than-swords",
+  "alignment": [
+    {
+      "ar": "النّبيّ",
+      "en": "The Prophet"
+    },
+    {
+      "ar": "صلّی",
+      "en": "blessings"
+    },
+    {
+      "ar": "اللّه",
+      "en": "God"
+    },
+    {
+      "ar": "عليه",
+      "en": "upon Him"
+    },
+    {
+      "ar": "سلّم",
+      "en": "salutations"
+    },
+    {
+      "ar": "قال",
+      "en": "said"
+    },
+    {
+      "ar": "نوافل",
+      "en": "works of supererogation"
+    },
+    {
+      "ar": "فواضل",
+      "en": "acts which are beneficial"
+    },
+    {
+      "ar": "يخصّ",
+      "en": "vouchsafed specially"
+    },
+    {
+      "ar": "يشاء",
+      "en": "pleaseth"
+    },
+    {
+      "ar": "من",
+      "en": "he"
+    },
+    {
+      "ar": "قال",
+      "en": "saith"
+    },
+    {
+      "ar": "سبحان اللّه",
+      "en": "Glorified be God"
+    },
+    {
+      "ar": "الحمد للّه",
+      "en": "praise be unto God"
+    },
+    {
+      "ar": "لا اله الّا اللّه",
+      "en": "there is none other God but God"
+    },
+    {
+      "ar": "اللّه اکبر",
+      "en": "most great is God"
+    },
+    {
+      "ar": "لا حول و لا قوّة الّا باللّه",
+      "en": "there is no power nor strength except in God"
+    },
+    {
+      "ar": "العلیّ",
+      "en": "the Exalted"
+    },
+    {
+      "ar": "العظيم",
+      "en": "the Mighty"
+    },
+    {
+      "ar": "کتب",
+      "en": "write down"
+    },
+    {
+      "ar": "الف",
+      "en": "a thousand"
+    },
+    {
+      "ar": "حسنة",
+      "en": "good deeds"
+    },
+    {
+      "ar": "محا",
+      "en": "blot out"
+    },
+    {
+      "ar": "سيّئة",
+      "en": "evil deeds"
+    },
+    {
+      "ar": "رفع",
+      "en": "uplift"
+    },
+    {
+      "ar": "درجة",
+      "en": "grades"
+    },
+    {
+      "ar": "الجنّة",
+      "en": "Paradise"
+    },
+    {
+      "ar": "غفر",
+      "en": "forgive"
+    },
+    {
+      "ar": "ذنوبه",
+      "en": "his transgressions"
+    },
+    {
+      "ar": "استغفر اللّه",
+      "en": "I beg forgiveness of God"
+    },
+    {
+      "ar": "ذنوبه",
+      "en": "his trespasses"
+    },
+    {
+      "ar": "کلّها",
+      "en": "all"
+    },
+    {
+      "ar": "ذکر",
+      "en": "remembereth"
+    },
+    {
+      "ar": "بالغدوّ",
+      "en": "at morn"
+    },
+    {
+      "ar": "الاصال",
+      "en": "at eventide"
+    },
+    {
+      "ar": "العشیّ",
+      "en": "in the night-season"
+    },
+    {
+      "ar": "الابکار",
+      "en": "at dawn"
+    },
+    {
+      "ar": "افضل",
+      "en": "better"
+    },
+    {
+      "ar": "نقل",
+      "en": "beareth"
+    },
+    {
+      "ar": "السّيوف",
+      "en": "swords"
+    },
+    {
+      "ar": "الرّماح",
+      "en": "spears"
+    },
+    {
+      "ar": "السّلاح",
+      "en": "arms"
+    },
+    {
+      "ar": "سبيل",
+      "en": "path"
+    },
+    {
+      "ar": "تعالی",
+      "en": "exalted"
+    }
+  ],
+  "terms": [
+    {
+      "term": "اکبر",
+      "transliteration": "k-b-r",
+      "literal": "great; grand; mighty; large",
+      "se_rendering": "most great",
+      "note": "Typically 'Most Great' (34 occurrences); rendered 'most great' here as predicate adjective rather than divine name, fitting the grammatical structure of the invocation.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 351,
+          "snippet": "Most Great"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 64,
+          "snippet": "Great God"
+        },
+        {
+          "work": "gleanings",
+          "para": 10,
+          "snippet": "most mighty grace"
+        },
+        {
+          "work": "gleanings",
+          "para": 23,
+          "snippet": "most grievous veil"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "Greater Branch"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 60,
+          "snippet": "great"
+        },
+        {
+          "work": "gleanings",
+          "para": 318,
+          "snippet": "mighty"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 48,
+          "snippet": "pride"
+        }
+      ]
+    },
+    {
+      "term": "العظيم",
+      "transliteration": "ʿ-z̟-m",
+      "literal": "greatest; supreme; mightiest",
+      "se_rendering": "the Mighty",
+      "note": "Usually 'Most Great' or 'supreme' (63 occurrences); rendered 'the Mighty' here, selecting the mightiness sense from the root's 'greatest/mightiest' spectrum in context of divine power.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 56,
+          "snippet": "supreme"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 269,
+          "snippet": "Most Great"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 734,
+          "snippet": "Most Great Name"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 3,
+          "snippet": "greatest"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 6,
+          "snippet": "greater"
+        },
+        {
+          "work": "gleanings",
+          "para": 10,
+          "snippet": "most mighty"
+        },
+        {
+          "work": "gleanings",
+          "para": 392,
+          "snippet": "great"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 9,
+          "snippet": "mighty"
+        }
+      ]
+    },
+    {
+      "term": "رفع",
+      "transliteration": "r-f-ʿ",
+      "literal": "to be raised, elevated, exalted, lifted up",
+      "se_rendering": "uplift",
+      "note": "Common renderings: 'elevated,' 'exalted' (45 occurrences); rendered 'uplift' here, emphasizing vertical ascension in paradise rather than abstract exaltation.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 52,
+          "snippet": "elevated heavens"
+        },
+        {
+          "work": "gleanings",
+          "para": 170,
+          "snippet": "groaneth"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 11,
+          "snippet": "was hoisted"
+        },
+        {
+          "work": "gleanings",
+          "para": 349,
+          "snippet": "exalted"
+        },
+        {
+          "work": "gleanings",
+          "para": 366,
+          "snippet": "exalt"
+        },
+        {
+          "work": "gleanings",
+          "para": 133,
+          "snippet": "sublimity"
+        },
+        {
+          "work": "gleanings",
+          "para": 636,
+          "snippet": "We have annulled"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 4,
+          "snippet": "are uplifted"
+        }
+      ]
+    },
+    {
+      "term": "ذکر",
+      "transliteration": "dh-k-r",
+      "literal": "remembrance; mention; memory",
+      "se_rendering": "remembereth",
+      "note": "Usually 'remembrance' or 'mention' (57 occurrences); rendered 'remembereth' here, activizing the act of memory into present devotional practice.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 597,
+          "snippet": "remembrance"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 54,
+          "snippet": "mention"
+        },
+        {
+          "work": "gleanings",
+          "para": 237,
+          "snippet": "Then it was recalled"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 39,
+          "snippet": "deliberate"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 274,
+          "snippet": "aforementioned"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 112,
+          "snippet": "recorded"
+        },
+        {
+          "work": "gleanings",
+          "para": 721,
+          "snippet": "remembered"
+        },
+        {
+          "work": "gleanings",
+          "para": 627,
+          "snippet": "for Thy remembrance"
+        }
+      ]
+    },
+    {
+      "term": "افضل",
+      "transliteration": "f-d-l",
+      "literal": "grace; bounty; generosity; excellence",
+      "se_rendering": "better",
+      "note": "Typically 'grace,' 'bounty,' 'merits' (36 occurrences); rendered 'better' here as comparative quality, a rare usage focusing on superior merit rather than divine generosity.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 50,
+          "snippet": "the Gracious, the All-Bountiful"
+        },
+        {
+          "work": "gleanings",
+          "para": 10,
+          "snippet": "most excellent favors"
+        },
+        {
+          "work": "gleanings",
+          "para": 60,
+          "snippet": "grace"
+        },
+        {
+          "work": "gleanings",
+          "para": 234,
+          "snippet": "His gracious favor"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "graciously"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 92,
+          "snippet": "realms"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 278,
+          "snippet": "realm"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 782,
+          "snippet": "through Thy grace"
+        }
+      ]
+    },
+    {
+      "term": "السّيوف",
+      "transliteration": "s-y-f",
+      "literal": "sword",
+      "se_rendering": "swords",
+      "note": "Standard rendering 'sword' or 'swords' (8 occurrences); maintains literal translation here, part of the martial contrast demonstrating spiritual superiority of remembrance.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 636,
+          "snippet": "the sword"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 149,
+          "snippet": "sword"
+        },
+        {
+          "work": "gleanings",
+          "para": 244,
+          "snippet": "My sword"
+        },
+        {
+          "work": "gleanings",
+          "para": 212,
+          "snippet": "swords"
+        }
+      ]
+    }
+  ],
+  "section_index": "265",
+  "section": "265",
+  "section_para": 1
 }

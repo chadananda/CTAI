@@ -1,10 +1,525 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 577,
   "source_text": "سُبْحَانَكَ اللَّهُمَّ يا إِلهِي أَسْئَلُكَ بِقُدْرَتِكَ الَّتِي أَحاطَتِ المُمْكِناتِ وَبِسُلْطانِكَ الَّذِي اسْتَعْلى عَلَى المَوْجُوداتِ وَبِكَلِمَتِك الَّتِيْ كانَتْ مَكْنُونَةً فِي عِلْمِكَ وَبِها خَلَقْتَ سَمائَكَ وَأَرْضَكَ بِأَنْ تَجْعَلَنا مُسْتَقِيمِينَ عَلَى حُبِّكَ وَرِضائِكَ وَناظِرِينَ إِلى وَجْهِكَ وَناطِقِينَ بِثَناءِ نَفْسِكَ، ثُمَّ اجْعَلْنا يا إِلهِي ناشِرِي آثارِكَ بَيْنَ بَرِيَّتِكَ وَحافِظِي دِينِكَ فِي مَمْلَكَتِكَ، وَإِنَّكَ أَنْتَ كُنْتَ مِنْ دُونِ ذِكْرِ شَيْءٍ وَتَكُونُ بِمِث",
   "translation": "Glorified be Thy name, O Lord my God! I beseech Thee by Thy power that hath encompassed all created things, and by Thy sovereignty that hath transcended the entire creation, and by Thy Word which was hidden in Thy wisdom and whereby Thou didst create Thy heaven and Thy earth, both to enable us to be steadfast in our love for Thee and in our obedience to Thy pleasure, and to fix our gaze upon Thy face, and celebrate Thy glory. Empower us, then, O my God, to spread abroad Thy signs among Thy creatures, and to guard Thy Faith in Thy realm. Thou hast ever existed independently of the mention of any of Thy creatures, and wilt remain as Thou hast been for ever and ever.",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "spread-signs-among-creatures",
+  "alignment": [
+    {
+      "ar": "سُبْحَانَكَ",
+      "en": "Glorified"
+    },
+    {
+      "ar": "إِلهِي",
+      "en": "my God"
+    },
+    {
+      "ar": "أَسْئَلُكَ",
+      "en": "I beseech Thee"
+    },
+    {
+      "ar": "بِقُدْرَتِكَ",
+      "en": "by Thy power"
+    },
+    {
+      "ar": "أَحاطَتِ",
+      "en": "hath encompassed"
+    },
+    {
+      "ar": "المُمْكِناتِ",
+      "en": "all created things"
+    },
+    {
+      "ar": "بِسُلْطانِكَ",
+      "en": "by Thy sovereignty"
+    },
+    {
+      "ar": "اسْتَعْلى",
+      "en": "hath transcended"
+    },
+    {
+      "ar": "عَلَى",
+      "en": ""
+    },
+    {
+      "ar": "المَوْجُوداتِ",
+      "en": "the entire creation"
+    },
+    {
+      "ar": "بِكَلِمَتِك",
+      "en": "by Thy Word"
+    },
+    {
+      "ar": "كانَتْ",
+      "en": "was"
+    },
+    {
+      "ar": "مَكْنُونَةً",
+      "en": "hidden"
+    },
+    {
+      "ar": "فِي",
+      "en": "in"
+    },
+    {
+      "ar": "عِلْمِكَ",
+      "en": "Thy wisdom"
+    },
+    {
+      "ar": "بِها",
+      "en": "whereby"
+    },
+    {
+      "ar": "خَلَقْتَ",
+      "en": "Thou didst create"
+    },
+    {
+      "ar": "سَمائَكَ",
+      "en": "Thy heaven"
+    },
+    {
+      "ar": "أَرْضَكَ",
+      "en": "Thy earth"
+    },
+    {
+      "ar": "بِأَنْ تَجْعَلَنا",
+      "en": "to enable us"
+    },
+    {
+      "ar": "مُسْتَقِيمِينَ",
+      "en": "to be steadfast"
+    },
+    {
+      "ar": "رِضائِكَ",
+      "en": "Thy pleasure"
+    },
+    {
+      "ar": "ناظِرِينَ",
+      "en": "to fix our gaze"
+    },
+    {
+      "ar": "إِلى",
+      "en": "upon"
+    },
+    {
+      "ar": "وَجْهِكَ",
+      "en": "Thy face"
+    },
+    {
+      "ar": "ناطِقِينَ",
+      "en": "celebrate"
+    },
+    {
+      "ar": "بِثَناءِ",
+      "en": "Thy glory"
+    },
+    {
+      "ar": "نَفْسِكَ",
+      "en": ""
+    },
+    {
+      "ar": "اجْعَلْنا",
+      "en": "Empower us"
+    },
+    {
+      "ar": "ناشِرِي",
+      "en": "to spread abroad"
+    },
+    {
+      "ar": "آثارِكَ",
+      "en": "Thy signs"
+    },
+    {
+      "ar": "بَيْنَ",
+      "en": "among"
+    },
+    {
+      "ar": "حافِظِي",
+      "en": "to guard"
+    },
+    {
+      "ar": "دِينِكَ",
+      "en": "Thy Faith"
+    },
+    {
+      "ar": "مَمْلَكَتِكَ",
+      "en": "Thy realm"
+    },
+    {
+      "ar": "أَنْتَ",
+      "en": ""
+    },
+    {
+      "ar": "كُنْتَ",
+      "en": "hast ever existed"
+    },
+    {
+      "ar": "مِنْ دُونِ",
+      "en": "independently of"
+    },
+    {
+      "ar": "ذِكْرِ",
+      "en": "the mention"
+    },
+    {
+      "ar": "شَيْءٍ",
+      "en": "any"
+    },
+    {
+      "ar": "تَكُونُ",
+      "en": "wilt remain"
+    }
+  ],
+  "terms": [
+    {
+      "term": "المُمْكِناتِ",
+      "transliteration": "k-w-n",
+      "literal": "to do; to make; to perform; to be",
+      "se_rendering": "all created things",
+      "note": "Jafar list maps root k-w-n primarily to verbal actions. 'Created things' is SE's concrete rendering choice over abstract possibility categories.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 39,
+          "snippet": "to gather"
+        },
+        {
+          "work": "gleanings",
+          "para": 379,
+          "snippet": "observe"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 159,
+          "snippet": "earn"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 70,
+          "snippet": "said"
+        },
+        {
+          "work": "gleanings",
+          "para": 542,
+          "snippet": "that have gone on before you"
+        },
+        {
+          "work": "gleanings",
+          "para": 240,
+          "snippet": "were greater than you"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 159,
+          "snippet": "had before"
+        },
+        {
+          "work": "gleanings",
+          "para": 24,
+          "snippet": "stand guard over"
+        }
+      ]
+    },
+    {
+      "term": "الموْجُوداتِ",
+      "transliteration": "w-j-d",
+      "literal": "to find; to discover; to obtain",
+      "se_rendering": "the entire creation",
+      "note": "Root w-j-d typically renders as 'found' or 'being' in corpus. 'Entire creation' here represents SE's theological emphasis on comprehensive existence.",
+      "cross_refs": [
+        {
+          "work": "the-hidden-words",
+          "para": 91,
+          "snippet": "adorned"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 27,
+          "snippet": "found"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 215,
+          "snippet": "mentioned"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 69,
+          "snippet": "aware"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 6,
+          "snippet": "being"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 214,
+          "snippet": "is led"
+        },
+        {
+          "work": "gleanings",
+          "para": 436,
+          "snippet": "The Great Being"
+        },
+        {
+          "work": "gleanings",
+          "para": 4,
+          "snippet": "created things"
+        }
+      ]
+    },
+    {
+      "term": "مَكْنُونَةً",
+      "transliteration": "k-n-n",
+      "literal": "to do; to make; to perform",
+      "se_rendering": "hidden",
+      "note": "Rare root k-n-n with only 18 corpus occurrences; here 'hidden' prioritizes concealment in divine wisdom over other dictionary senses like 'hid' or 'consider'.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 376,
+          "snippet": "consider"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 136,
+          "snippet": "interpret"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 240,
+          "snippet": "observest"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 24,
+          "snippet": "wear the guise"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 110,
+          "snippet": "quench"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 8,
+          "snippet": "hid"
+        },
+        {
+          "work": "tablet-of-carmel",
+          "para": 5,
+          "snippet": "been wrapped"
+        },
+        {
+          "work": "tablet-of-carmel",
+          "para": 4,
+          "snippet": "hidden"
+        }
+      ]
+    },
+    {
+      "term": "حُبِّكَ",
+      "transliteration": "ḥ-b-b",
+      "literal": "love; affection",
+      "se_rendering": "our love for Thee",
+      "note": "Standard rendering 'love' appears across 92 occurrences. Possessive construction 'our love for Thee' emphasizes mutual relational dynamic over abstract theological love.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 3,
+          "snippet": "beloved of the Lord"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 53,
+          "snippet": "loved ones of the Lord"
+        },
+        {
+          "work": "gleanings",
+          "para": 341,
+          "snippet": "loved ones of God"
+        },
+        {
+          "work": "gleanings",
+          "para": 689,
+          "snippet": "beloved of the one true God"
+        },
+        {
+          "work": "gleanings",
+          "para": 640,
+          "snippet": "loved ones"
+        },
+        {
+          "work": "gleanings",
+          "para": 690,
+          "snippet": "beloved of God"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 39,
+          "snippet": "His loved ones"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 10,
+          "snippet": "love for Thee"
+        }
+      ]
+    },
+    {
+      "term": "وَجْهِكَ",
+      "transliteration": "w-j-h",
+      "literal": "face; countenance; direction; aspect",
+      "se_rendering": "Thy face",
+      "note": "Typical Quranic metaphor with 64 corpus occurrences. 'Face' here retains mystical directness rather than SE's occasional abstract renderings ('eyes', 'turned', 'unto Mine').",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 77,
+          "snippet": "their faces"
+        },
+        {
+          "work": "gleanings",
+          "para": 596,
+          "snippet": "eyes"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 16,
+          "snippet": "unto Mine"
+        },
+        {
+          "work": "gleanings",
+          "para": 273,
+          "snippet": "face"
+        },
+        {
+          "work": "gleanings",
+          "para": 371,
+          "snippet": "turned"
+        },
+        {
+          "work": "gleanings",
+          "para": 275,
+          "snippet": "with white faces"
+        },
+        {
+          "work": "gleanings",
+          "para": 399,
+          "snippet": "with white faces and radiant hearts"
+        },
+        {
+          "work": "gleanings",
+          "para": 249,
+          "snippet": "for the sake of God"
+        }
+      ]
+    },
+    {
+      "term": "آثارِكَ",
+      "transliteration": "ʾ-th-r",
+      "literal": "effect; trace; influence; imprint",
+      "se_rendering": "Thy signs",
+      "note": "Rendered here as 'signs' rather than more common 'trace' or 'effect' from 17-occurrence corpus. Signals SE's recontextualization of Quranic vocabulary as Bahá'í missionary action.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 158,
+          "snippet": "trace"
+        },
+        {
+          "work": "gleanings",
+          "para": 383,
+          "snippet": "reflection"
+        },
+        {
+          "work": "gleanings",
+          "para": 377,
+          "snippet": "effect"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 65,
+          "snippet": "effects"
+        },
+        {
+          "work": "gleanings",
+          "para": 666,
+          "snippet": "prefer"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 30,
+          "snippet": "affected"
+        },
+        {
+          "work": "gleanings",
+          "para": 289,
+          "snippet": "signs"
+        },
+        {
+          "work": "gleanings",
+          "para": 321,
+          "snippet": "evidences"
+        }
+      ]
+    },
+    {
+      "term": "دِينِكَ",
+      "transliteration": "d-y-n",
+      "literal": "religion; faith; creed",
+      "se_rendering": "Thy Faith",
+      "note": "Standard rendering 'Faith' aligns with 45-occurrence pattern. Capitalization and singular form stress institutional religious coherence over diverse meanings like 'Religion' or 'Revelation'.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "His Cause"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 18,
+          "snippet": "Faith"
+        },
+        {
+          "work": "gleanings",
+          "para": 436,
+          "snippet": "Religion"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 26,
+          "snippet": "Thy Faith"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 221,
+          "snippet": "Revelation"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 5,
+          "snippet": "Faith of God"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 143,
+          "snippet": "and the like"
+        },
+        {
+          "work": "gleanings",
+          "para": 14,
+          "snippet": "without"
+        }
+      ]
+    }
+  ],
+  "section_index": "CXXXII.1",
+  "section": "CXXXII",
+  "section_para": 1
 }

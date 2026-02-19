@@ -1,10 +1,336 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 642,
   "source_text": "ت کبری فایز شدی عنقریب دنیا و آنچه در او است مفقود و یبقی العزّة لأحبّآء ربّک العزیز الکریم",
   "translation": "Render thanks unto Him Who is the Desire of all worlds for having invested thee with such high honor. Erelong the world and all that is therein shall be as a thing forgotten, and all honor shall belong to the loved ones of thy Lord, the All-Glorious, the Most Bountiful.",
   "source_lang": "ar",
-  "score": 8.7
+  "score": 8.7,
+  "page_slug": "honor-loved-ones-lord",
+  "alignment": [
+    {
+      "ar": "کبری",
+      "en": "such high"
+    },
+    {
+      "ar": "فایز",
+      "en": "invested"
+    },
+    {
+      "ar": "عنقریب",
+      "en": "Erelong"
+    },
+    {
+      "ar": "دنیا",
+      "en": "world"
+    },
+    {
+      "ar": "آنچه",
+      "en": "all that"
+    },
+    {
+      "ar": "در",
+      "en": "therein"
+    },
+    {
+      "ar": "است",
+      "en": "is"
+    },
+    {
+      "ar": "مفقود",
+      "en": "forgotten"
+    },
+    {
+      "ar": "یبقی",
+      "en": "shall belong"
+    },
+    {
+      "ar": "العزّة",
+      "en": "honor"
+    },
+    {
+      "ar": "لأحبّآء",
+      "en": "loved ones"
+    },
+    {
+      "ar": "ربّک",
+      "en": "thy Lord"
+    },
+    {
+      "ar": "العزیز",
+      "en": "All-Glorious"
+    },
+    {
+      "ar": "الکریم",
+      "en": "Most Bountiful"
+    }
+  ],
+  "terms": [
+    {
+      "term": "کبری",
+      "transliteration": "k-b-r",
+      "literal": "great; grand; mighty; large",
+      "se_rendering": "high honor",
+      "note": "Root k-b-r typically renders as 'Great' or 'Most Great.' Here 'high honor' is a functional translation capturing grandeur through material consequence rather than direct epithet.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 181,
+          "snippet": "Great City"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 64,
+          "snippet": "Great God"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "Greater Branch"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 188,
+          "snippet": "weighty"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 60,
+          "snippet": "great"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 48,
+          "snippet": "pride"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 229,
+          "snippet": "proud disdain"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 3,
+          "snippet": "Supreme"
+        }
+      ]
+    },
+    {
+      "term": "فایز",
+      "transliteration": "f-y-d",
+      "literal": "benefit, profit, advantage; usefulness",
+      "se_rendering": "invested",
+      "note": "Root f-y-d has zero occurrences in Jafar concordance. SE chose 'invested' to convey bestowal of advantage/benefit, fitting the sense of conferring dignity.",
+      "cross_refs": []
+    },
+    {
+      "term": "دنیا",
+      "transliteration": "d-n-y",
+      "literal": "this world; earthly life; temporal realm",
+      "se_rendering": "world",
+      "note": "Standard rendering as 'world' aligns with typical corpus usage. Contextually emphasizes transience alongside 'forgotten' to assert spiritual permanence.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 249,
+          "snippet": "this world"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 38,
+          "snippet": "know"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 244,
+          "snippet": "knowest"
+        }
+      ]
+    },
+    {
+      "term": "مفقود",
+      "transliteration": "f-q-d",
+      "literal": "to lose; to miss; lost; missing",
+      "se_rendering": "forgotten",
+      "note": "Root f-q-d usually renders 'lost' (primary); 'forgotten' here adds temporal dimension. SE selected 'forgotten' to intensify the ephemeral quality of worldly things.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 13,
+          "snippet": "lost"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 150,
+          "snippet": "abnegation"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 16,
+          "snippet": "passing away"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 805,
+          "snippet": "hath known"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 149,
+          "snippet": "in adversity"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 74,
+          "snippet": "loss"
+        }
+      ]
+    },
+    {
+      "term": "العزّة",
+      "transliteration": "ʿ-z-z",
+      "literal": "glory; might; honor; dignity; power; majesty",
+      "se_rendering": "honor",
+      "note": "Root ʿ-z-z renders primarily as 'glory' or 'honor.' Here 'honor' maintains consistency with preceding 'high honor' while reinforcing that dignity transfers exclusively to the faithful.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 245,
+          "snippet": "glory"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 491,
+          "snippet": "exalted"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 99,
+          "snippet": "Dear"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 38,
+          "snippet": "dearly beloved"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 37,
+          "snippet": "Gracious"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 162,
+          "snippet": "Mighty"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 789,
+          "snippet": "Thy glory"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 158,
+          "snippet": "on thy glory"
+        }
+      ]
+    },
+    {
+      "term": "ربّک",
+      "transliteration": "r-b-b",
+      "literal": "divine; of God; lordly",
+      "se_rendering": "Lord",
+      "note": "Root r-b-b typically 'Lord' or 'lordship.' SE's 'thy Lord' personalizes divine relationship, essential for addressing the recipient of honor.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 2,
+          "snippet": "Holy"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 45,
+          "snippet": "Lord"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 69,
+          "snippet": "lordship"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 201,
+          "snippet": "My Lord's"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 162,
+          "snippet": "Divine might"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 16,
+          "snippet": "divine knowledge"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 205,
+          "snippet": "divine wisdom"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 102,
+          "snippet": "thy Lord, the Lord of all mankind"
+        }
+      ]
+    },
+    {
+      "term": "الکریم",
+      "transliteration": "k-r-m",
+      "literal": "Carmel (Mount Carmel); vineyard, fruitful field",
+      "se_rendering": "Most Bountiful",
+      "note": "Root k-r-m (Carmel/bounteous). SE chose 'Most Bountiful' over Carmel epithet, linking divine generosity directly to the honor bestowed rather than geographic reference.",
+      "cross_refs": [
+        {
+          "work": "tablet-of-carmel",
+          "para": 4,
+          "snippet": "O Carmel"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 211,
+          "snippet": "Carmel"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 50,
+          "snippet": "the All-Bountiful"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 26,
+          "snippet": "the Gracious"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 144,
+          "snippet": "generosity"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 662,
+          "snippet": "the God of bounty and mercy"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 657,
+          "snippet": "bounty"
+        }
+      ]
+    }
+  ],
+  "section_index": "CXL.4",
+  "section": "CXL",
+  "section_para": 4
 }

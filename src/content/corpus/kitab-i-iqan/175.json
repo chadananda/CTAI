@@ -1,10 +1,585 @@
 {
   "work": "Kitab-i-Iqan",
   "slug": "kitab-i-iqan",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 175,
   "source_text": "حال قول حضرت امير را ادراک نما که فرموده:  \"کَشفُ سُبُحاتِ الجَلالِ مِن غَيرِ إشارَةٍ.\"  و از جمله سبحات مجلّله علمای عصر و فقهای زمان ظهورند که جميع، نظر به عدم ادراک و اشتغال و حبّ به رياست ظاهره، تسليم امراللّه نمی نمايند بلکه گوش نمی دهند تا نغمه الهی را بشنوند.  بل \"يَجعَلُونَ اَصَابِعَهُم فِی آذَانِهِم.\"  و عباد هم چون ايشان را مِن دون اللّه وليّ خود اخذ نمودهاند منتظر ردّ و قبول آن خشب های مسنّده هستند زيرا از خود بصر و سمع و قلبی ندارند که تميز و تفصيل دهند ميانه حقّ و باطل.",
   "translation": "And, now, strive thou to comprehend the meaning of this saying of ‘Alí, the Commander of the Faithful: “Piercing the veils of glory, unaided.” Among these “veils of glory” are the divines and doctors living in the days of the Manifestation of God, who, because of their want of discernment and their love and eagerness for leadership, have failed to submit to the Cause of God, nay, have even refused to incline their ears unto the divine Melody. “They have thrust their fingers into their ears.” And the people also, utterly ignoring God and taking them for their masters, have placed themselves unreservedly under the authority of these pompous and hypocritical leaders, for they have no sight, no hearing, no heart, of their own to distinguish truth from falsehood.",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "piercing-veils-of-glory",
+  "alignment": [
+    {
+      "ar": "حال",
+      "en": "now"
+    },
+    {
+      "ar": "قول",
+      "en": "saying"
+    },
+    {
+      "ar": "حضرت",
+      "en": "the"
+    },
+    {
+      "ar": "امير",
+      "en": "Commander of the Faithful"
+    },
+    {
+      "ar": "ادراک",
+      "en": "comprehend"
+    },
+    {
+      "ar": "نما",
+      "en": "strive thou"
+    },
+    {
+      "ar": "فرموده",
+      "en": "meaning"
+    },
+    {
+      "ar": "کَشفُ",
+      "en": "Piercing"
+    },
+    {
+      "ar": "سُبُحاتِ",
+      "en": "veils"
+    },
+    {
+      "ar": "الجَلالِ",
+      "en": "glory"
+    },
+    {
+      "ar": "مِن غَيرِ",
+      "en": "unaided"
+    },
+    {
+      "ar": "سبحات",
+      "en": "veils of glory"
+    },
+    {
+      "ar": "علمای",
+      "en": "divines"
+    },
+    {
+      "ar": "عصر",
+      "en": "days"
+    },
+    {
+      "ar": "فقهای",
+      "en": "doctors"
+    },
+    {
+      "ar": "ظهور",
+      "en": "Manifestation of God"
+    },
+    {
+      "ar": "جميع",
+      "en": "have"
+    },
+    {
+      "ar": "نظر",
+      "en": "because"
+    },
+    {
+      "ar": "عدم",
+      "en": "want"
+    },
+    {
+      "ar": "ادراک",
+      "en": "discernment"
+    },
+    {
+      "ar": "اشتغال",
+      "en": "eagerness"
+    },
+    {
+      "ar": "حبّ",
+      "en": "love"
+    },
+    {
+      "ar": "رياست",
+      "en": "leadership"
+    },
+    {
+      "ar": "تسليم",
+      "en": "submit"
+    },
+    {
+      "ar": "امراللّه",
+      "en": "Cause of God"
+    },
+    {
+      "ar": "نمی نمايند",
+      "en": "failed"
+    },
+    {
+      "ar": "بلکه",
+      "en": "nay"
+    },
+    {
+      "ar": "گوش",
+      "en": "ears"
+    },
+    {
+      "ar": "نمی دهند",
+      "en": "refused to incline"
+    },
+    {
+      "ar": "نغمه",
+      "en": "Melody"
+    },
+    {
+      "ar": "الهی",
+      "en": "divine"
+    },
+    {
+      "ar": "بشنوند",
+      "en": "incline"
+    },
+    {
+      "ar": "يَجعَلُونَ",
+      "en": "thrust"
+    },
+    {
+      "ar": "اَصَابِعَهُم",
+      "en": "fingers"
+    },
+    {
+      "ar": "فِی",
+      "en": "into"
+    },
+    {
+      "ar": "عباد",
+      "en": "people"
+    },
+    {
+      "ar": "هم",
+      "en": "also"
+    },
+    {
+      "ar": "چون",
+      "en": "utterly"
+    },
+    {
+      "ar": "ايشان",
+      "en": "them"
+    },
+    {
+      "ar": "مِن دون اللّه",
+      "en": "ignoring God"
+    },
+    {
+      "ar": "وليّ",
+      "en": "masters"
+    },
+    {
+      "ar": "اخذ نمودهاند",
+      "en": "taking"
+    },
+    {
+      "ar": "منتظر",
+      "en": "placed"
+    },
+    {
+      "ar": "ردّ و قبول",
+      "en": "authority"
+    },
+    {
+      "ar": "خشب",
+      "en": "pompous"
+    },
+    {
+      "ar": "مسنّده",
+      "en": "hypocritical leaders"
+    },
+    {
+      "ar": "زيرا",
+      "en": "for"
+    },
+    {
+      "ar": "از خود",
+      "en": "of their own"
+    },
+    {
+      "ar": "بصر",
+      "en": "sight"
+    },
+    {
+      "ar": "سمع",
+      "en": "hearing"
+    },
+    {
+      "ar": "قلبی",
+      "en": "heart"
+    },
+    {
+      "ar": "ندارند",
+      "en": "no"
+    },
+    {
+      "ar": "تميز",
+      "en": "distinguish"
+    },
+    {
+      "ar": "ميانه",
+      "en": "from"
+    },
+    {
+      "ar": "حقّ",
+      "en": "truth"
+    },
+    {
+      "ar": "باطل",
+      "en": "falsehood"
+    }
+  ],
+  "terms": [
+    {
+      "term": "سبحات",
+      "transliteration": "s-b-ḥ",
+      "literal": "glorified; the All-Praised; exalted",
+      "se_rendering": "veils of glory",
+      "note": "Root s-b-ḥ typically renders as 'All-Praised' or 'Breath of the All-Glorious'; here 'veils of glory' is unique, addressing the mystical obscuration of divine reality through ecclesiastical intermediaries.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 211,
+          "snippet": "the All-Praised"
+        },
+        {
+          "work": "gleanings",
+          "para": 212,
+          "snippet": "the Breath of the All-Glorious"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 13,
+          "snippet": "the breezes of the All-Glorious"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 42,
+          "snippet": "Gracious God"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 62,
+          "snippet": "Glorified art Thou"
+        },
+        {
+          "work": "gleanings",
+          "para": 112,
+          "snippet": "Glory be to Thee"
+        },
+        {
+          "work": "gleanings",
+          "para": 1,
+          "snippet": "Lauded and glorified art Thou"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 15,
+          "snippet": "veil of vain imaginings"
+        }
+      ]
+    },
+    {
+      "term": "علمای",
+      "transliteration": "ʿ-l-m",
+      "literal": "world; universe; the worlds",
+      "se_rendering": "divines",
+      "note": "Root ʿ-l-m usually renders as 'world' or 'knowledge'; here SE uses 'divines,' emphasizing institutional religious authority rather than abstract knowing, crucial to the passage's critique of clerical obstruction.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 198,
+          "snippet": "world"
+        },
+        {
+          "work": "gleanings",
+          "para": 657,
+          "snippet": "all worlds"
+        },
+        {
+          "work": "gleanings",
+          "para": 182,
+          "snippet": "mankind"
+        },
+        {
+          "work": "gleanings",
+          "para": 183,
+          "snippet": "the whole world"
+        },
+        {
+          "work": "gleanings",
+          "para": 226,
+          "snippet": "all earthly defilements"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 28,
+          "snippet": "knowledge"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 42,
+          "snippet": "banner"
+        },
+        {
+          "work": "gleanings",
+          "para": 38,
+          "snippet": "understanding"
+        }
+      ]
+    },
+    {
+      "term": "تسليم",
+      "transliteration": "s-l-m",
+      "literal": "resignation; submission; surrender; submissiveness",
+      "se_rendering": "submit",
+      "note": "Root s-l-m typically 'resignation' or 'resigned'; here rendered as active verb 'submit,' intensifying the willful rejection by these leaders into an explicit refusal of obedience.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 291,
+          "snippet": "resignation"
+        },
+        {
+          "work": "gleanings",
+          "para": 679,
+          "snippet": "resigned"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 87,
+          "snippet": "King of Islam"
+        },
+        {
+          "work": "gleanings",
+          "para": 154,
+          "snippet": "yielded up His breath"
+        },
+        {
+          "work": "gleanings",
+          "para": 306,
+          "snippet": "asked"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 260,
+          "snippet": "salutations"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 256,
+          "snippet": "the abode of peace"
+        },
+        {
+          "work": "gleanings",
+          "para": 446,
+          "snippet": "peace"
+        }
+      ]
+    },
+    {
+      "term": "امراللّه",
+      "transliteration": "ʾ-m-r",
+      "literal": "command; cause; matter; affair",
+      "se_rendering": "Cause of God",
+      "note": "Root ʾ-m-r standardly 'His Cause' or 'His command'; SE renders 'Cause of God' here, emphasizing the religious movement itself as the divine imperative to which submission is demanded.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "His Cause"
+        },
+        {
+          "work": "gleanings",
+          "para": 586,
+          "snippet": "His command"
+        },
+        {
+          "work": "gleanings",
+          "para": 691,
+          "snippet": "His Revelation"
+        },
+        {
+          "work": "gleanings",
+          "para": 723,
+          "snippet": "Cause"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 797,
+          "snippet": "Thy Cause"
+        },
+        {
+          "work": "gleanings",
+          "para": 8,
+          "snippet": "Revelation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 597,
+          "snippet": "service"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 167,
+          "snippet": "things"
+        }
+      ]
+    },
+    {
+      "term": "بصر",
+      "transliteration": "b-ṣ-r",
+      "literal": "sight; insight; discernment; spiritual perception",
+      "se_rendering": "sight",
+      "note": "Root b-ṣ-r standardly 'discerning' or 'eye of insight'; here 'sight,' employing simple sensory terminology to reinforce the parallel triad of sight-hearing-heart and the masses' spiritual blindness.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 77,
+          "snippet": "hearing ears, and sharp sight"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 667,
+          "snippet": "the All-Seeing"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 3,
+          "snippet": "proofs"
+        },
+        {
+          "work": "gleanings",
+          "para": 75,
+          "snippet": "eyes"
+        },
+        {
+          "work": "gleanings",
+          "para": 67,
+          "snippet": "insight"
+        },
+        {
+          "work": "gleanings",
+          "para": 563,
+          "snippet": "perceive"
+        },
+        {
+          "work": "gleanings",
+          "para": 689,
+          "snippet": "view"
+        },
+        {
+          "work": "gleanings",
+          "para": 388,
+          "snippet": "discerning"
+        }
+      ]
+    },
+    {
+      "term": "سمع",
+      "transliteration": "s-m-ʿ",
+      "literal": "heard, hearkened to, acceptable, worthy of attention",
+      "se_rendering": "hearing",
+      "note": "Root s-m-ʿ typically 'worthy of attention' or 'Hearken'; here 'hearing,' maintaining parallel sensory register with 'sight' and 'heart' to denote comprehensive spiritual incapacity.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 97,
+          "snippet": "Incline"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 100,
+          "snippet": "Hearken"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 311,
+          "snippet": "hast inclined mine ear to"
+        },
+        {
+          "work": "gleanings",
+          "para": 452,
+          "snippet": "have failed to incline your ears unto"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 104,
+          "snippet": "We have also heard"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 48,
+          "snippet": "I have heard"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 29,
+          "snippet": "We have learned"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 85,
+          "snippet": "We heard"
+        }
+      ]
+    },
+    {
+      "term": "تفصيل",
+      "transliteration": "f-s-l",
+      "literal": "detail; distinction; differentiation; to detail; to separate",
+      "se_rendering": "distinguish",
+      "note": "Root f-s-l usually 'discrimination' or 'distinction and separation'; SE renders 'distinguish' here, using simple verb form rather than abstract noun, emphasizing the active cognitive faculty required.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 11,
+          "snippet": "hath been severed"
+        },
+        {
+          "work": "gleanings",
+          "para": 129,
+          "snippet": "distinction and separation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 615,
+          "snippet": "divided between"
+        },
+        {
+          "work": "gleanings",
+          "para": 356,
+          "snippet": "we have expounded"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 73,
+          "snippet": "discriminating Word"
+        },
+        {
+          "work": "gleanings",
+          "para": 101,
+          "snippet": "station of distinction"
+        },
+        {
+          "work": "gleanings",
+          "para": 345,
+          "snippet": "detail"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 227,
+          "snippet": "distinguished"
+        }
+      ]
+    }
+  ],
+  "section_index": "175",
+  "section": "175",
+  "section_para": 1
 }

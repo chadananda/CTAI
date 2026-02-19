@@ -1,10 +1,525 @@
 {
   "work": "Epistle to the Son of the Wolf",
   "slug": "epistle-to-the-son-of-the-wolf",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 263,
   "source_text": "و قال - صلّی اللّه عليه و سلّم - الا اخبرکم بمدينة علی شاطئ البحر بيضاء حسن بياضها عند اللّه تعالی يقال لها عکّاء و انّ من قرصه برغوثٌ من براغيثها کان عند اللّه افضل من طعنة نافذة فی سبيل اللّه * الا و انّ من اذّن فيها کان له مدّ صوته فی الجنّة * و من قعد فيها سبعة ايّام مقابل العدوّ حشره اللّه مع الخضر - عليه السّلام - و امّنه اللّه من الفزع الاکبر يوم القيامة * و قال - صلّی اللّه تعالی عليه و سلّم - الا و انّ فی الجنّة ملوکا و سادات و فقراء عکّاء ملوک الجنّة و ساداتها * و انّ شهرا فی عکّاء افضل من الف سنة فی غيرها *",
   "translation": "And He - may the blessings of God and His salutations be upon Him - hath said: \"I announce unto you a city, on the shores of the sea, white, whose whiteness is pleasing unto God - exalted be He! It is called ‘Akká. He that hath been bitten by one of its fleas is better, in the estimation of God, than he who hath received a grievous blow in the path of God. And he that raiseth therein the call to prayer, his voice will be lifted up unto Paradise. And he that remaineth therein for seven days in the face of the enemy, God will gather him with Khidr - peace be upon Him - and God will protect him from the most great terror on the Day of Resurrection.\" And He - may the blessings of God, - exalted be He - and His salutations be upon Him - hath said: \"There are kings and princes in Paradise. The poor of ‘Akká are the kings of Paradise and the princes thereof. A month in ‘Akká is better than a thousand years elsewhere.\"",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "poor-akka-kings-paradise",
+  "alignment": [
+    {
+      "ar": "قال",
+      "en": "hath said"
+    },
+    {
+      "ar": "صلّی",
+      "en": "blessings"
+    },
+    {
+      "ar": "اللّه",
+      "en": "God"
+    },
+    {
+      "ar": "عليه",
+      "en": "upon Him"
+    },
+    {
+      "ar": "سلّم",
+      "en": "salutations"
+    },
+    {
+      "ar": "الا",
+      "en": "I announce"
+    },
+    {
+      "ar": "اخبرکم",
+      "en": "unto you"
+    },
+    {
+      "ar": "بمدينة",
+      "en": "a city"
+    },
+    {
+      "ar": "علی",
+      "en": "on"
+    },
+    {
+      "ar": "شاطئ",
+      "en": "shores"
+    },
+    {
+      "ar": "البحر",
+      "en": "the sea"
+    },
+    {
+      "ar": "بيضاء",
+      "en": "white"
+    },
+    {
+      "ar": "حسن",
+      "en": "pleasing"
+    },
+    {
+      "ar": "بياضها",
+      "en": "whiteness"
+    },
+    {
+      "ar": "عند",
+      "en": "unto"
+    },
+    {
+      "ar": "تعالی",
+      "en": "exalted be He"
+    },
+    {
+      "ar": "يقال",
+      "en": "called"
+    },
+    {
+      "ar": "لها",
+      "en": "It"
+    },
+    {
+      "ar": "انّ",
+      "en": "that"
+    },
+    {
+      "ar": "من",
+      "en": "He"
+    },
+    {
+      "ar": "قرصه",
+      "en": "hath been bitten"
+    },
+    {
+      "ar": "برغوثٌ",
+      "en": "one of its fleas"
+    },
+    {
+      "ar": "من براغيثها",
+      "en": "by one"
+    },
+    {
+      "ar": "کان",
+      "en": "is"
+    },
+    {
+      "ar": "افضل",
+      "en": "better"
+    },
+    {
+      "ar": "من",
+      "en": "than"
+    },
+    {
+      "ar": "طعنة",
+      "en": "blow"
+    },
+    {
+      "ar": "نافذة",
+      "en": "grievous"
+    },
+    {
+      "ar": "فی",
+      "en": "in"
+    },
+    {
+      "ar": "سبيل",
+      "en": "the path"
+    },
+    {
+      "ar": "من",
+      "en": "he that"
+    },
+    {
+      "ar": "اذّن",
+      "en": "raiseth"
+    },
+    {
+      "ar": "فيها",
+      "en": "therein"
+    },
+    {
+      "ar": "له",
+      "en": "his"
+    },
+    {
+      "ar": "مدّ",
+      "en": "will be lifted up"
+    },
+    {
+      "ar": "صوته",
+      "en": "voice"
+    },
+    {
+      "ar": "الجنّة",
+      "en": "Paradise"
+    },
+    {
+      "ar": "قعد",
+      "en": "remaineth"
+    },
+    {
+      "ar": "سبعة",
+      "en": "seven"
+    },
+    {
+      "ar": "ايّام",
+      "en": "days"
+    },
+    {
+      "ar": "مقابل",
+      "en": "in the face of"
+    },
+    {
+      "ar": "العدوّ",
+      "en": "the enemy"
+    },
+    {
+      "ar": "حشره",
+      "en": "will gather him"
+    },
+    {
+      "ar": "مع",
+      "en": "with"
+    },
+    {
+      "ar": "الخضر",
+      "en": "Khidr"
+    },
+    {
+      "ar": "السّلام",
+      "en": "peace"
+    },
+    {
+      "ar": "امّنه",
+      "en": "will protect him"
+    },
+    {
+      "ar": "من",
+      "en": "from"
+    },
+    {
+      "ar": "الفزع",
+      "en": "terror"
+    },
+    {
+      "ar": "الاکبر",
+      "en": "most great"
+    },
+    {
+      "ar": "يوم",
+      "en": "Day"
+    },
+    {
+      "ar": "القيامة",
+      "en": "Resurrection"
+    },
+    {
+      "ar": "ملوکا",
+      "en": "kings"
+    },
+    {
+      "ar": "سادات",
+      "en": "princes"
+    },
+    {
+      "ar": "فقراء",
+      "en": "poor"
+    },
+    {
+      "ar": "ملوک",
+      "en": "the kings"
+    },
+    {
+      "ar": "الجنّة",
+      "en": "of Paradise"
+    },
+    {
+      "ar": "ساداتها",
+      "en": "the princes thereof"
+    },
+    {
+      "ar": "شهرا",
+      "en": "month"
+    },
+    {
+      "ar": "الف",
+      "en": "thousand"
+    },
+    {
+      "ar": "سنة",
+      "en": "years"
+    },
+    {
+      "ar": "غيرها",
+      "en": "elsewhere"
+    }
+  ],
+  "terms": [
+    {
+      "term": "اخبرکم",
+      "transliteration": "kh-b-r",
+      "literal": "all-knowing; aware; well-informed; omniscient",
+      "se_rendering": "I announce unto you",
+      "note": "Root خ-ب-ر typically rendered 'all-knowing' or 'the All-Informed' across corpus. Here SE renders imperative form as 'announce unto you,' capturing the prophetic speech act rather than divine attribute.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 528,
+          "snippet": "all-knowing"
+        },
+        {
+          "work": "gleanings",
+          "para": 700,
+          "snippet": "the All-Informed"
+        },
+        {
+          "work": "gleanings",
+          "para": 261,
+          "snippet": "informed"
+        },
+        {
+          "work": "gleanings",
+          "para": 704,
+          "snippet": "warneth you"
+        },
+        {
+          "work": "gleanings",
+          "para": 713,
+          "snippet": "warning has been given"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 107,
+          "snippet": "traditions and sayings"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 282,
+          "snippet": "in the traditions"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 92,
+          "snippet": "Proclaim"
+        }
+      ]
+    },
+    {
+      "term": "حسن",
+      "transliteration": "h-s-n",
+      "literal": "goodness; beauty; excellence; good deed",
+      "se_rendering": "pleasing",
+      "note": "Root ح-س-ن spans 'goodness,' 'excellence,' and proper names. SE renders 'pleasing' here—subordinating beauty to divine approbation, unique among corpus renderings emphasizing objective excellence.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 615,
+          "snippet": "most excellent Titles"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 2,
+          "snippet": "kindly"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 21,
+          "snippet": "improve the character"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 120,
+          "snippet": "good deeds"
+        },
+        {
+          "work": "gleanings",
+          "para": 473,
+          "snippet": "show kindness"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 83,
+          "snippet": "the Best of creators"
+        },
+        {
+          "work": "gleanings",
+          "para": 25,
+          "snippet": "Imám Ḥusayn"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 248,
+          "snippet": "Mullá Husayn"
+        }
+      ]
+    },
+    {
+      "term": "افضل",
+      "transliteration": "f-d-l",
+      "literal": "grace; bounty; generosity; excellence",
+      "se_rendering": "better",
+      "note": "Root ف-ض-ل typically 'grace' or 'gracious favor.' SE renders 'better' twice in this passage—using comparative form rather than noun, shifting from bounty-language to comparative estimation.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 50,
+          "snippet": "the Gracious, the All-Bountiful"
+        },
+        {
+          "work": "gleanings",
+          "para": 10,
+          "snippet": "most excellent favors"
+        },
+        {
+          "work": "gleanings",
+          "para": 60,
+          "snippet": "grace"
+        },
+        {
+          "work": "gleanings",
+          "para": 234,
+          "snippet": "His gracious favor"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "graciously"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 92,
+          "snippet": "realms"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 278,
+          "snippet": "realm"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 782,
+          "snippet": "through Thy grace"
+        }
+      ]
+    },
+    {
+      "term": "اذّن",
+      "transliteration": "ʾ-dh-n",
+      "literal": "ear; permission; leave; to permit; to allow",
+      "se_rendering": "raiseth therein the call to prayer",
+      "note": "Root ا-ذ-ن usually 'ear' or 'permission.' SE expands 'he that raiseth therein the call to prayer' from bare infinitive—interpreting adhana as the Islamic call itself, not merely announcing.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 726,
+          "snippet": "ear"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 356,
+          "snippet": "mine ear"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 273,
+          "snippet": "by Thy leave"
+        }
+      ]
+    },
+    {
+      "term": "ملوکا",
+      "transliteration": "m-l-k",
+      "literal": "kingdom; dominion; realm; sovereignty",
+      "se_rendering": "kings",
+      "note": "Root م-ل-ك yields 'kingdom,' 'realm,' 'heaven' across corpus. SE renders accusative plural 'kings'—using concrete social rank rather than abstract sovereignty, emphasizing paradox of Akká's poor.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-ahd",
+          "para": 16,
+          "snippet": "heaven"
+        },
+        {
+          "work": "gleanings",
+          "para": 394,
+          "snippet": "realm"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 71,
+          "snippet": "kingdom"
+        },
+        {
+          "work": "gleanings",
+          "para": 313,
+          "snippet": "heavenly gem"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 69,
+          "snippet": "realms"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 28,
+          "snippet": "righteous"
+        },
+        {
+          "work": "gleanings",
+          "para": 171,
+          "snippet": "by the heavenly power"
+        },
+        {
+          "work": "gleanings",
+          "para": 59,
+          "snippet": "Lord"
+        }
+      ]
+    },
+    {
+      "term": "فقراء",
+      "transliteration": "f-q-r",
+      "literal": "poor; needy; the poor one; pauper",
+      "se_rendering": "poor",
+      "note": "Root ف-ق-ر typically 'poor' or 'needy.' SE renders 'poor' directly—maintaining humility register against contrasting 'kings' in same clause, preserving paradoxical exaltation of material poverty.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 186,
+          "snippet": "needy"
+        },
+        {
+          "work": "gleanings",
+          "para": 665,
+          "snippet": "poor"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 22,
+          "snippet": "instance"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 270,
+          "snippet": "passages"
+        },
+        {
+          "work": "gleanings",
+          "para": 594,
+          "snippet": "to the poor"
+        },
+        {
+          "work": "gleanings",
+          "para": 268,
+          "snippet": "paupers"
+        }
+      ]
+    }
+  ],
+  "section_index": "263",
+  "section": "263",
+  "section_para": 1
 }

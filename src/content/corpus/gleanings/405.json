@@ -1,10 +1,573 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 405,
   "source_text": "منادی احدیّه از شطر الوهیّه ندا میفرماید ای احبّا ذیل مقدّس را بطین دنیا میالائید و به ما اراد النّفس و الهوی تکلّم مکنید قسم بآفتاب افق امر که از سماء سجن بکمال انوار و ضیاء مشهود است مقبلین قبلهٴ وجود الیوم باید از غیب و شهود مقدّس و منزّه باشند اگر بتبلیغ مشغول شوند باید بتوجّه خالص و کمال انقطاع و استغنا و علوّ همّت و تقدیس فطرت توجّه باشطار بنفحات مختار نمایند ینبغی لهؤلآء ان یکون زادهم التّوکّل علی الله و لباسهم حبّ ربّهم العلیّ الأبهی تا کلمات آن نفوس مؤثّر شود نفوسی که الیوم بمشتهیات نفسیّه و زخارف دنیای فانیه",
   "translation": "The voice of the Divine Herald, proceeding out of the throne of God, declareth: O ye My loved ones! Suffer not the hem of My sacred vesture to be smirched and mired with the things of this world, and follow not the promptings of your evil and corrupt desires. The Daystar of Divine Revelation, that shineth in the plenitude of its glory in the heaven of this Prison, beareth Me witness. They whose hearts are turned towards Him Who is the Object of the adoration of the entire creation must needs, in this Day, pass beyond and be sanctified from all created things, visible and invisible. If they arise to teach My Cause, they must let the breath of Him Who is the Unconstrained, stir them and must spread it abroad on the earth with high resolve, with minds that are wholly centered in Him, and with hearts that are completely detached from and independent of all things, and with souls that are sanctified from the world and its vanities. It behooveth them to choose as the best provision for their journey reliance upon God, and to clothe themselves with the love of their Lord, the Most Exalted, the All-Glorious. If they do so, their words shall influence their hearers.",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "hem-sacred-vesture-smirched",
+  "alignment": [
+    {
+      "ar": "منادی",
+      "en": "voice"
+    },
+    {
+      "ar": "احدیّه",
+      "en": "Divine Herald"
+    },
+    {
+      "ar": "شطر",
+      "en": "throne"
+    },
+    {
+      "ar": "الوهیّه",
+      "en": "God"
+    },
+    {
+      "ar": "ندا",
+      "en": "declareth"
+    },
+    {
+      "ar": "احبّا",
+      "en": "My loved ones"
+    },
+    {
+      "ar": "ذیل",
+      "en": "hem"
+    },
+    {
+      "ar": "مقدّس",
+      "en": "sacred"
+    },
+    {
+      "ar": "طین",
+      "en": "mired"
+    },
+    {
+      "ar": "دنیا",
+      "en": "this world"
+    },
+    {
+      "ar": "میالائید",
+      "en": "smirched"
+    },
+    {
+      "ar": "اراد",
+      "en": "promptings"
+    },
+    {
+      "ar": "النّفس",
+      "en": "desires"
+    },
+    {
+      "ar": "الهوی",
+      "en": "evil and corrupt"
+    },
+    {
+      "ar": "تکلّم",
+      "en": "follow"
+    },
+    {
+      "ar": "مکنید",
+      "en": "not"
+    },
+    {
+      "ar": "قسم",
+      "en": "witness"
+    },
+    {
+      "ar": "آفتاب",
+      "en": "Daystar"
+    },
+    {
+      "ar": "افق",
+      "en": "heaven"
+    },
+    {
+      "ar": "امر",
+      "en": "Divine Revelation"
+    },
+    {
+      "ar": "سجن",
+      "en": "Prison"
+    },
+    {
+      "ar": "کمال",
+      "en": "plenitude"
+    },
+    {
+      "ar": "انوار",
+      "en": "glory"
+    },
+    {
+      "ar": "ضیاء",
+      "en": "shineth"
+    },
+    {
+      "ar": "مشهود",
+      "en": "beareth Me witness"
+    },
+    {
+      "ar": "مقبلین",
+      "en": "hearts are turned"
+    },
+    {
+      "ar": "قبلهٴ",
+      "en": "Object of the adoration"
+    },
+    {
+      "ar": "وجود",
+      "en": "entire creation"
+    },
+    {
+      "ar": "الیوم",
+      "en": "this Day"
+    },
+    {
+      "ar": "غیب",
+      "en": "invisible"
+    },
+    {
+      "ar": "شهود",
+      "en": "visible"
+    },
+    {
+      "ar": "منزّه",
+      "en": "sanctified"
+    },
+    {
+      "ar": "تبلیغ",
+      "en": "teach"
+    },
+    {
+      "ar": "مشغول",
+      "en": "arise"
+    },
+    {
+      "ar": "توجّه",
+      "en": "centered"
+    },
+    {
+      "ar": "خالص",
+      "en": "wholly"
+    },
+    {
+      "ar": "انقطاع",
+      "en": "detached"
+    },
+    {
+      "ar": "استغنا",
+      "en": "independent"
+    },
+    {
+      "ar": "علوّ",
+      "en": "high"
+    },
+    {
+      "ar": "همّت",
+      "en": "resolve"
+    },
+    {
+      "ar": "فطرت",
+      "en": "souls"
+    },
+    {
+      "ar": "بنفحات",
+      "en": "breath"
+    },
+    {
+      "ar": "مختار",
+      "en": "Unconstrained"
+    },
+    {
+      "ar": "ینبغی",
+      "en": "behooveth"
+    },
+    {
+      "ar": "لهؤلآء",
+      "en": "them"
+    },
+    {
+      "ar": "زادهم",
+      "en": "provision"
+    },
+    {
+      "ar": "التّوکّل",
+      "en": "reliance"
+    },
+    {
+      "ar": "لباسهم",
+      "en": "clothe"
+    },
+    {
+      "ar": "حبّ",
+      "en": "love"
+    },
+    {
+      "ar": "ربّهم",
+      "en": "their Lord"
+    },
+    {
+      "ar": "العلیّ",
+      "en": "Most Exalted"
+    },
+    {
+      "ar": "الأبهی",
+      "en": "All-Glorious"
+    },
+    {
+      "ar": "کلمات",
+      "en": "words"
+    },
+    {
+      "ar": "نفوس",
+      "en": "hearers"
+    },
+    {
+      "ar": "مؤثّر",
+      "en": "influence"
+    },
+    {
+      "ar": "مشتهیات",
+      "en": "vanities"
+    },
+    {
+      "ar": "نفسیّه",
+      "en": "world"
+    },
+    {
+      "ar": "زخارف",
+      "en": "things"
+    }
+  ],
+  "terms": [
+    {
+      "term": "احبّا",
+      "transliteration": "ḥ-b-b",
+      "literal": "love; affection",
+      "se_rendering": "loved ones",
+      "note": "Standard rendering as 'loved ones' here matches 92-occurrence pattern. Frequent in intimate Bahá'u'lláh address, establishing familial covenant tone.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 3,
+          "snippet": "beloved of the Lord"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 53,
+          "snippet": "loved ones of the Lord"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 39,
+          "snippet": "His loved ones"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 10,
+          "snippet": "love for Thee"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 12,
+          "snippet": "love"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 26,
+          "snippet": "Thy loved ones"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 475,
+          "snippet": "Thy dear ones"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 47,
+          "snippet": "my Beloved"
+        }
+      ]
+    },
+    {
+      "term": "مقدّس",
+      "transliteration": "q-d-s",
+      "literal": "holy, sacred, sanctified",
+      "se_rendering": "sacred",
+      "note": "Rendered as 'sacred' (adjective modifying 'vesture'). Among 47 occurrences, SE varies between 'sacred', 'hallowed', and 'spirit of holiness' depending on grammatical context.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 2,
+          "snippet": "Sacred"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 81,
+          "snippet": "hallowed"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 35,
+          "snippet": "spirit of holiness"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 448,
+          "snippet": "Sanctuary"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 13,
+          "snippet": "Holy Mariner"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 6,
+          "snippet": "sacred strand"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 26,
+          "snippet": "Celestial Concourse"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 189,
+          "snippet": "Most Holy"
+        }
+      ]
+    },
+    {
+      "term": "امر",
+      "transliteration": "ʾ-m-r",
+      "literal": "command; cause; matter; affair",
+      "se_rendering": "Cause",
+      "note": "Translated as 'Cause' here—the dominant rendering (75 occ.). Specifically refers to Bahá'u'lláh's religious mission as unified theological concept rather than mere 'command' or 'matter'.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "His Cause"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 797,
+          "snippet": "Thy Cause"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 597,
+          "snippet": "service"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 167,
+          "snippet": "things"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "commanded"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 236,
+          "snippet": "commissioned"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 785,
+          "snippet": "Thy Revelation"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 38,
+          "snippet": "for the protection of the Cause"
+        }
+      ]
+    },
+    {
+      "term": "خالص",
+      "transliteration": "kh-l-s",
+      "literal": "sincere; devoted; pure one",
+      "se_rendering": "wholly centered",
+      "note": "Used adverbially ('wholly') rather than nominally. Among 20 occurrences, SE typically renders 'sincere' or 'devoted'. Here emphasizes total mental concentration as spiritual discipline.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 187,
+          "snippet": "devoted"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 1,
+          "snippet": "the sincere"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 44,
+          "snippet": "insincere"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 421,
+          "snippet": "reserved"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 15,
+          "snippet": "wholly devoted"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 72,
+          "snippet": "pure"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 781,
+          "snippet": "purely"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 21,
+          "snippet": "wholly"
+        }
+      ]
+    },
+    {
+      "term": "انقطاع",
+      "transliteration": "q-t-ʿ",
+      "literal": "to be severed; to be cut off; to detach oneself; to abstain",
+      "se_rendering": "detached from",
+      "note": "Rendered 'detached from' matching 33-occurrence pattern. SE consistently chooses this passive construction over alternative 'have cut themselves off', maintaining emphasis on severing external attachments.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 413,
+          "snippet": "detached themselves"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 427,
+          "snippet": "sundered"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 488,
+          "snippet": "have cut themselves off"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 11,
+          "snippet": "decisive"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 16,
+          "snippet": "detachment"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 276,
+          "snippet": "severed"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 340,
+          "snippet": "them that have rid themselves of all attachment"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 218,
+          "snippet": "renounced"
+        }
+      ]
+    },
+    {
+      "term": "علوّ",
+      "transliteration": "ʿ-l-w",
+      "literal": "highest; most high; supreme",
+      "se_rendering": "high resolve",
+      "note": "Rendered 'high resolve' (noun phrase) rather than expected 'most high' or 'supreme' (74 occ.). Grammatically 'علوّ همّت' (elevation of purpose) becomes motivational rather than attributive.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 1,
+          "snippet": "the Most High"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 148,
+          "snippet": "the Most Sublime Pen"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 390,
+          "snippet": "the Most Exalted, the Most High"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 68,
+          "snippet": "the Pen of Glory"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 1,
+          "snippet": "the Realm of Glory"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 257,
+          "snippet": "the Báb, the Lord, the most exalted"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 21,
+          "snippet": "sublime"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 143,
+          "snippet": "exalted be He"
+        }
+      ]
+    },
+    {
+      "term": "الابهی",
+      "transliteration": "b-h-y",
+      "literal": "splendor; glory; magnificence; Bahá (Proper Name in Bahá'í texts)",
+      "se_rendering": "All-Glorious",
+      "note": "Translated 'All-Glorious'—one of 17 renderings. Juxtaposed with 'Most Exalted', creating dual affirmation. Avoids proper name 'Bahá' (also 17 occ.) in favor of descriptive epithet here.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 280,
+          "snippet": "Bahá"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 59,
+          "snippet": "Glory"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 51,
+          "snippet": "Abhá"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 271,
+          "snippet": "All-Glorious"
+        }
+      ]
+    }
+  ],
+  "section_index": "C.1",
+  "section": "C",
+  "section_para": 1
 }

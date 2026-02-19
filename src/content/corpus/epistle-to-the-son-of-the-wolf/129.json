@@ -1,10 +1,786 @@
 {
   "work": "Epistle to the Son of the Wolf",
   "slug": "epistle-to-the-son-of-the-wolf",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 129,
   "source_text": "يا شيخ اين آيات محکمات در يکی از الواح از قلم ابهی نازل * يا عبد اسمع نداء المظلوم الّذی حمل الشّدائد و البلايا فی سبيل اللّه مالک الاسماء الی ان سجن فی ارض الطّاء انّه دعا النّاس الی الجنّة العليا و هم اخذوه و داروا به فی المدن و الدّيار * کم من ليل طار النّوم من عيون احبّائی حبّا لنفسی و کم من يوم قام عَلَیَّ الاحزاب * مرّة رأيت نفسی علی اعلی الجبال و اخری فی سجن الطّاء فی السّلاسل و الاغلال * لعمر اللّه قد کنت شاکرا ناطقا ذاکرا متوجّها راضيا خاضعا خاشعا فی کلّ الاحوال * کذلک مضت ايّامی الی ان انتهت الی هذا السّجن الّذی به تزلزلت الارض و ناحت السّموات * طوبی لعبد نبذ الظّنون اذ اتی المکنون برايات الآيات * انّا اخبرنا النّاس بهذا الظّهور الاعظم و لکن القوم فی سکر عجاب *",
   "translation": "O Shaykh! These perspicuous verses have been sent down in one of the Tablets by the Abhá Pen: \"Hearken, O servant, unto the voice of this Wronged One, Who hath endured grievous vexations and trials in the path of God, the Lord of all Names, until such time as He was cast into prison, in the Land of Ta (Ṭihrán). He summoned men unto the most sublime Paradise, and yet they seized Him and paraded Him through cities and countries. How many the nights during which slumber fled from the eyes of My loved ones, because of their love for Me; and how numerous the days whereon I had to face the assaults of the peoples against Me! At one time I found Myself on the heights of mountains; at another in the depths of the prison of Ta (Ṭihrán), in chains and fetters. By the righteousness of God! I was at all times thankful unto Him, uttering His praise, engaged in remembering Him, directed towards Him, satisfied with His pleasure, and lowly and submissive before Him. So passed My days, until they ended in this Prison (‘Akká) which hath made the earth to tremble and the heavens to sigh. Happy that one who hath cast away his vain imaginings, when He Who was hid came with the standards of His signs. We, verily, have announced unto men this Most Great Revelation, and yet the people are in a state of strange stupor.\"",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "wronged-one-sublime-paradise",
+  "alignment": [
+    {
+      "ar": "يا",
+      "en": "O"
+    },
+    {
+      "ar": "شيخ",
+      "en": "Shaykh"
+    },
+    {
+      "ar": "اين",
+      "en": "These"
+    },
+    {
+      "ar": "آيات",
+      "en": "verses"
+    },
+    {
+      "ar": "محکمات",
+      "en": "perspicuous"
+    },
+    {
+      "ar": "يکی",
+      "en": "one"
+    },
+    {
+      "ar": "الواح",
+      "en": "Tablets"
+    },
+    {
+      "ar": "قلم",
+      "en": "Pen"
+    },
+    {
+      "ar": "ابهی",
+      "en": "Abhá"
+    },
+    {
+      "ar": "نازل",
+      "en": "sent down"
+    },
+    {
+      "ar": "عبد",
+      "en": "servant"
+    },
+    {
+      "ar": "اسمع",
+      "en": "Hearken"
+    },
+    {
+      "ar": "نداء",
+      "en": "voice"
+    },
+    {
+      "ar": "المظلوم",
+      "en": "Wronged One"
+    },
+    {
+      "ar": "الّذی",
+      "en": "Who"
+    },
+    {
+      "ar": "حمل",
+      "en": "endured"
+    },
+    {
+      "ar": "الشّدائد",
+      "en": "grievous vexations"
+    },
+    {
+      "ar": "البلايا",
+      "en": "trials"
+    },
+    {
+      "ar": "سبيل",
+      "en": "path"
+    },
+    {
+      "ar": "اللّه",
+      "en": "God"
+    },
+    {
+      "ar": "مالک",
+      "en": "Lord"
+    },
+    {
+      "ar": "الاسماء",
+      "en": "Names"
+    },
+    {
+      "ar": "الی ان",
+      "en": "until"
+    },
+    {
+      "ar": "سجن",
+      "en": "prison"
+    },
+    {
+      "ar": "ارض",
+      "en": "Land"
+    },
+    {
+      "ar": "الطّاء",
+      "en": "Ta"
+    },
+    {
+      "ar": "دعا",
+      "en": "summoned"
+    },
+    {
+      "ar": "النّاس",
+      "en": "men"
+    },
+    {
+      "ar": "الجنّة",
+      "en": "Paradise"
+    },
+    {
+      "ar": "العليا",
+      "en": "most sublime"
+    },
+    {
+      "ar": "اخذوه",
+      "en": "seized Him"
+    },
+    {
+      "ar": "داروا",
+      "en": "paraded"
+    },
+    {
+      "ar": "به",
+      "en": "Him"
+    },
+    {
+      "ar": "المدن",
+      "en": "cities"
+    },
+    {
+      "ar": "الدّيار",
+      "en": "countries"
+    },
+    {
+      "ar": "کم",
+      "en": "How many"
+    },
+    {
+      "ar": "ليل",
+      "en": "nights"
+    },
+    {
+      "ar": "طار",
+      "en": "fled"
+    },
+    {
+      "ar": "النّوم",
+      "en": "slumber"
+    },
+    {
+      "ar": "عيون",
+      "en": "eyes"
+    },
+    {
+      "ar": "احبّائی",
+      "en": "My loved ones"
+    },
+    {
+      "ar": "حبّا",
+      "en": "love"
+    },
+    {
+      "ar": "لنفسی",
+      "en": "for Me"
+    },
+    {
+      "ar": "کم",
+      "en": "how numerous"
+    },
+    {
+      "ar": "يوم",
+      "en": "days"
+    },
+    {
+      "ar": "قام",
+      "en": "assaults"
+    },
+    {
+      "ar": "الاحزاب",
+      "en": "peoples"
+    },
+    {
+      "ar": "مرّة",
+      "en": "At one time"
+    },
+    {
+      "ar": "رأيت",
+      "en": "found"
+    },
+    {
+      "ar": "نفسی",
+      "en": "Myself"
+    },
+    {
+      "ar": "علی",
+      "en": "on"
+    },
+    {
+      "ar": "اعلی",
+      "en": "heights"
+    },
+    {
+      "ar": "الجبال",
+      "en": "mountains"
+    },
+    {
+      "ar": "اخری",
+      "en": "at another"
+    },
+    {
+      "ar": "السّلاسل",
+      "en": "chains"
+    },
+    {
+      "ar": "الاغلال",
+      "en": "fetters"
+    },
+    {
+      "ar": "لعمر",
+      "en": "By the righteousness"
+    },
+    {
+      "ar": "کنت",
+      "en": "was"
+    },
+    {
+      "ar": "شاکرا",
+      "en": "thankful"
+    },
+    {
+      "ar": "ناطقا",
+      "en": "uttering"
+    },
+    {
+      "ar": "ذاکرا",
+      "en": "engaged in remembering"
+    },
+    {
+      "ar": "متوجّها",
+      "en": "directed"
+    },
+    {
+      "ar": "راضيا",
+      "en": "satisfied"
+    },
+    {
+      "ar": "خاضعا",
+      "en": "lowly"
+    },
+    {
+      "ar": "خاشعا",
+      "en": "submissive"
+    },
+    {
+      "ar": "کلّ",
+      "en": "at all times"
+    },
+    {
+      "ar": "کذلک",
+      "en": "So"
+    },
+    {
+      "ar": "مضت",
+      "en": "passed"
+    },
+    {
+      "ar": "ايّامی",
+      "en": "My days"
+    },
+    {
+      "ar": "انتهت",
+      "en": "ended"
+    },
+    {
+      "ar": "هذا",
+      "en": "this"
+    },
+    {
+      "ar": "السّجن",
+      "en": "Prison"
+    },
+    {
+      "ar": "به",
+      "en": "which"
+    },
+    {
+      "ar": "تزلزلت",
+      "en": "tremble"
+    },
+    {
+      "ar": "الارض",
+      "en": "earth"
+    },
+    {
+      "ar": "ناحت",
+      "en": "sigh"
+    },
+    {
+      "ar": "السّموات",
+      "en": "heavens"
+    },
+    {
+      "ar": "طوبی",
+      "en": "Happy"
+    },
+    {
+      "ar": "لعبد",
+      "en": "that one"
+    },
+    {
+      "ar": "نبذ",
+      "en": "cast away"
+    },
+    {
+      "ar": "الظّنون",
+      "en": "vain imaginings"
+    },
+    {
+      "ar": "اذ",
+      "en": "when"
+    },
+    {
+      "ar": "اتی",
+      "en": "came"
+    },
+    {
+      "ar": "المکنون",
+      "en": "He Who was hid"
+    },
+    {
+      "ar": "برايات",
+      "en": "with the standards"
+    },
+    {
+      "ar": "الآيات",
+      "en": "signs"
+    },
+    {
+      "ar": "انّا",
+      "en": "We"
+    },
+    {
+      "ar": "اخبرنا",
+      "en": "announced"
+    },
+    {
+      "ar": "الظّهور",
+      "en": "Revelation"
+    },
+    {
+      "ar": "الاعظم",
+      "en": "Most Great"
+    },
+    {
+      "ar": "لکن",
+      "en": "yet"
+    },
+    {
+      "ar": "القوم",
+      "en": "people"
+    },
+    {
+      "ar": "سکر",
+      "en": "stupor"
+    },
+    {
+      "ar": "عجاب",
+      "en": "strange"
+    }
+  ],
+  "terms": [
+    {
+      "term": "محکمات",
+      "transliteration": "h-k-m",
+      "literal": "government; rule; governance; wisdom",
+      "se_rendering": "perspicuous verses",
+      "note": "Root ح-ك-م usually renders as 'rule' or 'government' (69 occurrences); here 'perspicuous verses' — privileging semantic clarity over governance connotations, an interpretive choice favoring textual intelligibility.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-ahd",
+          "para": 6,
+          "snippet": "rule"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "government"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 849,
+          "snippet": "signs of Thy sovereignty"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 160,
+          "snippet": "meaning of return"
+        },
+        {
+          "work": "gleanings",
+          "para": 224,
+          "snippet": "mysteries"
+        },
+        {
+          "work": "gleanings",
+          "para": 636,
+          "snippet": "rule of the sword"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 182,
+          "snippet": "mystery of the former verse"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 46,
+          "snippet": "conclusive"
+        }
+      ]
+    },
+    {
+      "term": "نازل",
+      "transliteration": "n-z-l",
+      "literal": "to descend, to be revealed",
+      "se_rendering": "sent down",
+      "note": "Consistently 'sent down' or 'revealed' (88 occurrences); here 'sent down' — maintaining standard rendering. This passage exemplifies SE's preferred formulation emphasizing divine descent.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 643,
+          "snippet": "sent down"
+        },
+        {
+          "work": "gleanings",
+          "para": 218,
+          "snippet": "revealed"
+        },
+        {
+          "work": "gleanings",
+          "para": 656,
+          "snippet": "descended"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 175,
+          "snippet": "didst send down"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 34,
+          "snippet": "Descend"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 47,
+          "snippet": "pour forth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 330,
+          "snippet": "send down"
+        },
+        {
+          "work": "gleanings",
+          "para": 604,
+          "snippet": "have been sent down"
+        }
+      ]
+    },
+    {
+      "term": "المظلوم",
+      "transliteration": "z-l-m",
+      "literal": "wrongedness, oppression, meekness; state of being wronged or oppressed",
+      "se_rendering": "Wronged One",
+      "note": "Typically 'afflicted' or 'wronged'; here 'Wronged One' (capitalized) — elevating oppression to cosmic principle through nominalization unique to this passage's Bahá'u'lláh context.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 498,
+          "snippet": "afflicted with countless tribulations"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 49,
+          "snippet": "meekness"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 116,
+          "snippet": "injury"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 3,
+          "snippet": "Wronged One"
+        },
+        {
+          "work": "gleanings",
+          "para": 221,
+          "snippet": "oppression"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 9,
+          "snippet": "Darkness"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 33,
+          "snippet": "tyranny"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 573,
+          "snippet": "oppressed"
+        }
+      ]
+    },
+    {
+      "term": "العليا",
+      "transliteration": "ʿ-l-w",
+      "literal": "highest; most high; supreme",
+      "se_rendering": "most sublime",
+      "note": "Typically 'the Most High' or 'supreme' (74 occurrences); here 'most sublime' — preserving hierarchy while emphasizing aesthetic transcendence rather than absolute supremacy.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 1,
+          "snippet": "the Most High"
+        },
+        {
+          "work": "gleanings",
+          "para": 232,
+          "snippet": "supreme"
+        },
+        {
+          "work": "gleanings",
+          "para": 616,
+          "snippet": "the realms above"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 390,
+          "snippet": "the Most Exalted, the Most High"
+        },
+        {
+          "work": "gleanings",
+          "para": 393,
+          "snippet": "The Pen of the Most High"
+        },
+        {
+          "work": "gleanings",
+          "para": 697,
+          "snippet": "the Dayspring of Glory"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 1,
+          "snippet": "the Realm of Glory"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 257,
+          "snippet": "the Báb, the Lord, the most exalted"
+        }
+      ]
+    },
+    {
+      "term": "احبّائی",
+      "transliteration": "ḥ-b-b",
+      "literal": "love; affection",
+      "se_rendering": "loved ones",
+      "note": "'Loved ones' standard across 92 occurrences; here 'loved ones' — consistent rendering. SE's possessive 'My' appropriates the Persian pronominal suffix into possessive English structure.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 3,
+          "snippet": "beloved of the Lord"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 53,
+          "snippet": "loved ones of the Lord"
+        },
+        {
+          "work": "gleanings",
+          "para": 341,
+          "snippet": "loved ones of God"
+        },
+        {
+          "work": "gleanings",
+          "para": 689,
+          "snippet": "beloved of the one true God"
+        },
+        {
+          "work": "gleanings",
+          "para": 640,
+          "snippet": "loved ones"
+        },
+        {
+          "work": "gleanings",
+          "para": 690,
+          "snippet": "beloved of God"
+        },
+        {
+          "work": "gleanings",
+          "para": 477,
+          "snippet": "His loved ones"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 10,
+          "snippet": "love for Thee"
+        }
+      ]
+    },
+    {
+      "term": "الظّهور",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "Revelation",
+      "note": "'Manifestation' predominates (96 occurrences); here 'Revelation' — SE employs the more revelatory term, heightening eschatological weight and aligning with Christian apocalyptic language.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 53,
+          "snippet": "Manifestation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 160,
+          "snippet": "Author of all Manifestations"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 136,
+          "snippet": "evident"
+        },
+        {
+          "work": "gleanings",
+          "para": 222,
+          "snippet": "material"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 196,
+          "snippet": "Manifestations of God"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 255,
+          "snippet": "Manifestations"
+        }
+      ]
+    },
+    {
+      "term": "الاعظم",
+      "transliteration": "ʿ-z̟-m",
+      "literal": "greatest; supreme; mightiest",
+      "se_rendering": "Most Great",
+      "note": "Root ع-ظ-م appears across multiple renderings ('supreme,' 'greatest,' 'most mighty'); here 'Most Great' — SE's signature capitalized compound, used for Bahá'u'lláh's Revelation, establishing theological superlative.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 56,
+          "snippet": "supreme"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 269,
+          "snippet": "Most Great"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 734,
+          "snippet": "Most Great Name"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 3,
+          "snippet": "greatest"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 6,
+          "snippet": "greater"
+        },
+        {
+          "work": "gleanings",
+          "para": 10,
+          "snippet": "most mighty"
+        },
+        {
+          "work": "gleanings",
+          "para": 392,
+          "snippet": "great"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 9,
+          "snippet": "mighty"
+        }
+      ]
+    },
+    {
+      "term": "القوم",
+      "transliteration": "q-w-m",
+      "literal": "rising; standing; uprising; resurrection",
+      "se_rendering": "peoples",
+      "note": "Root ق-و-م primarily 'rise/uprising/Resurrection' (109 occurrences); here 'peoples' — a concrete collective rather than theological abstraction, grounding the passage in historical opposition.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 152,
+          "snippet": "Day of Resurrection"
+        },
+        {
+          "work": "gleanings",
+          "para": 437,
+          "snippet": "arise"
+        },
+        {
+          "work": "gleanings",
+          "para": 513,
+          "snippet": "dedicateth"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 153,
+          "snippet": "Resurrection"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "peoples"
+        },
+        {
+          "work": "gleanings",
+          "para": 693,
+          "snippet": "commandments"
+        },
+        {
+          "work": "gleanings",
+          "para": 628,
+          "snippet": "My commandments"
+        },
+        {
+          "work": "gleanings",
+          "para": 518,
+          "snippet": "steadfast"
+        }
+      ]
+    }
+  ],
+  "section_index": "129",
+  "section": "129",
+  "section_para": 1
 }

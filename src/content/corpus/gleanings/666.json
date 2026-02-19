@@ -1,10 +1,668 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 666,
   "source_text": "إنّا نحبّ أن نری کلّ واحد منکم مبدأ کلّ خیر ومشرق الصّلاح بین العالمین آثروا إخوانکم علی أنفسکم فانظروا إلی هیکل الله في الأرض إنّه أنفق نفسه لاصلاح العالم إنّه لهو المنفق العزیز المنیع إن ظهرت کدورة بینکم فانظروني أمام وجوهکم وغضّوا البصر عمّا ظهر خالصًا لوجهي وحبًّا لأمري المشرق المنیر إنّا نحبّ أن نراکم في کلّ الأحیان في جنّة رضائي بالرَّوح والرّیحان ونجد منکم عرف الألفة والوداد والمحبّة والاتّحاد کذلک ینصحکم العالم الأمین إنّا نکون بینکم في کلّ الأوان إذا وجدنا عرف الوداد نفرح ولا نحبّ أن نجد سواه یشهد بذلک کلّ عارف بصیر...",
   "translation": "It is Our wish and desire that every one of you may become a source of all goodness unto men, and an example of uprightness to mankind. Beware lest ye prefer yourselves above your neighbors. Fix your gaze upon Him Who is the Temple of God amongst men. He, in truth, hath offered up His life as a ransom for the redemption of the world. He, verily, is the All-Bountiful, the Gracious, the Most High. If any differences arise amongst you, behold Me standing before your face, and overlook the faults of one another for My name’s sake and as a token of your love for My manifest and resplendent Cause. We love to see you at all times consorting in amity and concord within the paradise of My good-pleasure, and to inhale from your acts the fragrance of friendliness and unity, of loving-kindness and fellowship. Thus counseleth you the All-Knowing, the Faithful. We shall always be with you; if We inhale the perfume of your fellowship, Our heart will assuredly rejoice, for naught else can satisfy Us. To this beareth witness every man of true understanding.",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "temple-god-amongst-men",
+  "alignment": [
+    {
+      "ar": "إنّا",
+      "en": "It is Our"
+    },
+    {
+      "ar": "نحبّ",
+      "en": "wish and desire"
+    },
+    {
+      "ar": "أن",
+      "en": "that"
+    },
+    {
+      "ar": "نری",
+      "en": "may become"
+    },
+    {
+      "ar": "کلّ",
+      "en": "every"
+    },
+    {
+      "ar": "واحد",
+      "en": "one"
+    },
+    {
+      "ar": "منکم",
+      "en": "of you"
+    },
+    {
+      "ar": "مبدأ",
+      "en": "source"
+    },
+    {
+      "ar": "کلّ",
+      "en": "all"
+    },
+    {
+      "ar": "خیر",
+      "en": "goodness"
+    },
+    {
+      "ar": "مشرق",
+      "en": "example"
+    },
+    {
+      "ar": "الصّلاح",
+      "en": "uprightness"
+    },
+    {
+      "ar": "بین",
+      "en": "unto"
+    },
+    {
+      "ar": "العالمین",
+      "en": "mankind"
+    },
+    {
+      "ar": "آثروا",
+      "en": "prefer"
+    },
+    {
+      "ar": "إخوانکم",
+      "en": "neighbors"
+    },
+    {
+      "ar": "علی",
+      "en": "above"
+    },
+    {
+      "ar": "أنفسکم",
+      "en": "yourselves"
+    },
+    {
+      "ar": "فانظروا",
+      "en": "Fix your gaze"
+    },
+    {
+      "ar": "إلی",
+      "en": "upon"
+    },
+    {
+      "ar": "هیکل",
+      "en": "Temple"
+    },
+    {
+      "ar": "الله",
+      "en": "God"
+    },
+    {
+      "ar": "الأرض",
+      "en": "amongst men"
+    },
+    {
+      "ar": "إنّه",
+      "en": "He"
+    },
+    {
+      "ar": "أنفق",
+      "en": "offered up"
+    },
+    {
+      "ar": "نفسه",
+      "en": "His life"
+    },
+    {
+      "ar": "لاصلاح",
+      "en": "for the redemption"
+    },
+    {
+      "ar": "العالم",
+      "en": "the world"
+    },
+    {
+      "ar": "المنفق",
+      "en": "All-Bountiful"
+    },
+    {
+      "ar": "العزیز",
+      "en": "Gracious"
+    },
+    {
+      "ar": "المنیع",
+      "en": "Most High"
+    },
+    {
+      "ar": "إن",
+      "en": "If"
+    },
+    {
+      "ar": "ظهرت",
+      "en": "arise"
+    },
+    {
+      "ar": "کدورة",
+      "en": "differences"
+    },
+    {
+      "ar": "بینکم",
+      "en": "amongst you"
+    },
+    {
+      "ar": "فانظروني",
+      "en": "behold Me"
+    },
+    {
+      "ar": "أمام",
+      "en": "before"
+    },
+    {
+      "ar": "وجوهکم",
+      "en": "your face"
+    },
+    {
+      "ar": "وغضّوا",
+      "en": "overlook"
+    },
+    {
+      "ar": "البصر",
+      "en": "the faults"
+    },
+    {
+      "ar": "عمّا",
+      "en": "of one another"
+    },
+    {
+      "ar": "ظهر",
+      "en": "for"
+    },
+    {
+      "ar": "خالصًا",
+      "en": "sake"
+    },
+    {
+      "ar": "لأمري",
+      "en": "My"
+    },
+    {
+      "ar": "المشرق",
+      "en": "manifest"
+    },
+    {
+      "ar": "المنیر",
+      "en": "resplendent Cause"
+    },
+    {
+      "ar": "نراکم",
+      "en": "see you"
+    },
+    {
+      "ar": "الأحیان",
+      "en": "times"
+    },
+    {
+      "ar": "في",
+      "en": "at"
+    },
+    {
+      "ar": "جنّة",
+      "en": "paradise"
+    },
+    {
+      "ar": "رضائي",
+      "en": "My good-pleasure"
+    },
+    {
+      "ar": "والرّیحان",
+      "en": "concord"
+    },
+    {
+      "ar": "ونجد",
+      "en": "inhale"
+    },
+    {
+      "ar": "منکم",
+      "en": "from your acts"
+    },
+    {
+      "ar": "عرف",
+      "en": "fragrance"
+    },
+    {
+      "ar": "الألفة",
+      "en": "friendliness"
+    },
+    {
+      "ar": "والوداد",
+      "en": "unity"
+    },
+    {
+      "ar": "والمحبّة",
+      "en": "loving-kindness"
+    },
+    {
+      "ar": "والاتّحاد",
+      "en": "fellowship"
+    },
+    {
+      "ar": "کذلک",
+      "en": "Thus"
+    },
+    {
+      "ar": "ینصحکم",
+      "en": "counseleth you"
+    },
+    {
+      "ar": "العالم",
+      "en": "All-Knowing"
+    },
+    {
+      "ar": "الأمین",
+      "en": "Faithful"
+    },
+    {
+      "ar": "نکون",
+      "en": "be"
+    },
+    {
+      "ar": "کلّ",
+      "en": "always"
+    },
+    {
+      "ar": "الأوان",
+      "en": "with you"
+    },
+    {
+      "ar": "إذا",
+      "en": "if"
+    },
+    {
+      "ar": "وجدنا",
+      "en": "We inhale"
+    },
+    {
+      "ar": "عرف",
+      "en": "perfume"
+    },
+    {
+      "ar": "نفرح",
+      "en": "rejoice"
+    },
+    {
+      "ar": "ولا",
+      "en": "naught"
+    },
+    {
+      "ar": "نحبّ",
+      "en": "can satisfy"
+    },
+    {
+      "ar": "أن",
+      "en": "Us"
+    },
+    {
+      "ar": "نجد",
+      "en": "else"
+    },
+    {
+      "ar": "یشهد",
+      "en": "beareth witness"
+    },
+    {
+      "ar": "بذلک",
+      "en": "To this"
+    },
+    {
+      "ar": "عارف",
+      "en": "man"
+    },
+    {
+      "ar": "بصیر",
+      "en": "true understanding"
+    }
+  ],
+  "terms": [
+    {
+      "term": "واحد",
+      "transliteration": "w-h-d",
+      "literal": "Divine unity; monotheism; belief in the oneness of God",
+      "se_rendering": "one",
+      "note": "Root usually 'unity' or 'Divine unity' (56 occ). 'One' here instantiates unity in singular human capacity—particularizes the universal theological principle.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 69,
+          "snippet": "Tawhid"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 167,
+          "snippet": "one"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 682,
+          "snippet": "once"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 49,
+          "snippet": "alone"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 647,
+          "snippet": "Thy unity"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 285,
+          "snippet": "Thy oneness"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 249,
+          "snippet": "unique"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 1,
+          "snippet": "the One"
+        }
+      ]
+    },
+    {
+      "term": "هیکل",
+      "transliteration": "h-k-l",
+      "literal": "temple; structure; form; body",
+      "se_rendering": "Temple",
+      "note": "Consistently 'Temple' across 20 occurrences. Here applied to the Manifestation as embodiment of divinity—SE's most common rendering choice.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "Temple"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 96,
+          "snippet": "Súratu'l-Haykal"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 10,
+          "snippet": "person"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 154,
+          "snippet": "Being"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 28,
+          "snippet": "body"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 196,
+          "snippet": "temples"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 82,
+          "snippet": "thy temple"
+        }
+      ]
+    },
+    {
+      "term": "العزیز",
+      "transliteration": "ʿ-z-z",
+      "literal": "glory; might; honor; dignity; power; majesty",
+      "se_rendering": "Gracious",
+      "note": "Typically 'glory' or 'might' (49 occ). 'Gracious' here uniquely softens the term, creating tenderness alongside majesty in describing the divine.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 245,
+          "snippet": "glory"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 491,
+          "snippet": "exalted"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 99,
+          "snippet": "Dear"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 38,
+          "snippet": "dearly beloved"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 37,
+          "snippet": "Gracious"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 162,
+          "snippet": "Mighty"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 789,
+          "snippet": "Thy glory"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 158,
+          "snippet": "on thy glory"
+        }
+      ]
+    },
+    {
+      "term": "لامری",
+      "transliteration": "ʾ-m-r",
+      "literal": "command; cause; matter; affair",
+      "se_rendering": "My manifest and resplendent Cause",
+      "note": "Regularly 'His Cause' or 'His Revelation' (75 occ). Here 'My manifest and resplendent Cause' emphasizes collective Revelation and immediate relationship to addressees.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "His Cause"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 797,
+          "snippet": "Thy Cause"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 597,
+          "snippet": "service"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 167,
+          "snippet": "things"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "commanded"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 236,
+          "snippet": "commissioned"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 785,
+          "snippet": "Thy Revelation"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 38,
+          "snippet": "for the protection of the Cause"
+        }
+      ]
+    },
+    {
+      "term": "المنیر",
+      "transliteration": "n-w-r",
+      "literal": "light; illumination",
+      "se_rendering": "resplendent",
+      "note": "Usually 'light' or 'Orb of Light' (78 occ). 'Resplendent' modifies the Cause rather than emanating light—a descriptive rather than metaphorical turn.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 3,
+          "snippet": "light"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 114,
+          "snippet": "with the light"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 109,
+          "snippet": "Thy light"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 246,
+          "snippet": "Illumine"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 180,
+          "snippet": "fire"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 10,
+          "snippet": "flame of fire"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 39,
+          "snippet": "lights"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 312,
+          "snippet": "splendors"
+        }
+      ]
+    },
+    {
+      "term": "بالروح",
+      "transliteration": "r-w-h",
+      "literal": "to go; to depart; to rest; spirit; soul",
+      "se_rendering": "spirit",
+      "note": "Spans 'spirit' through 'spiritual' across 34 occurrences. 'Spirit' here grounds mystical communion in pneumatic experience within paradise of pleasure.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 702,
+          "snippet": "my spirit"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 201,
+          "snippet": "the Spirit"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 121,
+          "snippet": "spiritual"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 215,
+          "snippet": "spiritually-minded"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 20,
+          "snippet": "a breath of My own Spirit"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 100,
+          "snippet": "spirit"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 22,
+          "snippet": "in a spirit"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 17,
+          "snippet": "with My spirit"
+        }
+      ]
+    },
+    {
+      "term": "عرف",
+      "transliteration": "ʿ-r-f",
+      "literal": "to confess; to acknowledge; to recognize",
+      "se_rendering": "fragrance",
+      "note": "Root typically 'testifieth' or 'acknowledged' (82 occ). 'Fragrance' metaphorizes recognition into sensory virtue—unique olfactory rendering absent from concordance data.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 601,
+          "snippet": "testifieth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 729,
+          "snippet": "hath acknowledged"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 582,
+          "snippet": "have recognized"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 228,
+          "snippet": "acknowledged"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 744,
+          "snippet": "understanding"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 5,
+          "snippet": "acknowledging"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 4,
+          "snippet": "fragrance of His garment"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 114,
+          "snippet": "Thy knowledge"
+        }
+      ]
+    }
+  ],
+  "section_index": "CXLVI.1",
+  "section": "CXLVI",
+  "section_para": 1
 }

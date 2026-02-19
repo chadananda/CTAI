@@ -1,10 +1,541 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 519,
   "source_text": "جوهكم أبواب الرّحمة وإنّه لهو الرّحمن الرّحيم، اتّقوا الله يا أيّها الملوك ولا تتجاوزوا عن حدود الله ثمّ اتّبعوا بما أمرتم به في الكتاب ولا تكوننّ من المتجاوزين، إيّاكم أن لا تظلموا على أحد قدر خردل واسلكوا سبيل العدل وإنّه لسبيل مستقيم، ثمّ أصلحوا ذات بينكم وقلّلوا في العساكر ليقلّ مصارفكم وتكوننّ من المستريحين، وإن ترتفعوا الاختلاف بينكم لن تحتاجوا إلى كثرة الجيوش إلّا على قدر الّذي تحرسون بها بلدانكم وممالككم اتّقوا الله ولا تسرفوا في شيء ولا تكوننّ من المسرفين، وعلمنا بأنّكم تزدادون مصارفكم في كلّ يوم وتحمّلونها على الرّعيّة وهذا فوق طاقتهم وإنّ هذا لظلم عظيم، اعدلوا يا أيها الملوك بين النّاس وكونوا مظاهر العدل في الأرض وهذا ينبغي لكم ويليق لشأنكم لو أنتم من المنصفين، إيّاكم أن لا تظلموا على الّذين هم هاجروا إليكم ودخلوا في ظلّكم اتّقوا الله وكونوا",
   "translation": "If ye pay no heed unto the counsels which, in peerless and unequivocal language, We have revealed in this Tablet, Divine chastisement shall assail you from every direction, and the sentence of His justice shall be pronounced against you. On that day ye shall have no power to resist Him, and shall recognize your own impotence. Have mercy on yourselves and on those beneath you. Judge ye between them according to the precepts prescribed by God in His most holy and exalted Tablet, a Tablet wherein He hath assigned to each and every thing its settled measure, in which He hath given, with distinctness, an explanation of all things, and which is in itself a monition unto them that believe in Him.",
   "source_lang": "ar",
-  "score": 9.8
+  "score": 9.8,
+  "page_slug": "divine-chastisement-justice-kings",
+  "alignment": [
+    {
+      "ar": "جوهكم",
+      "en": "yourselves"
+    },
+    {
+      "ar": "أبواب",
+      "en": "Have mercy"
+    },
+    {
+      "ar": "الرّحمة",
+      "en": "mercy"
+    },
+    {
+      "ar": "الرّحمن",
+      "en": "Him"
+    },
+    {
+      "ar": "الرّحيم",
+      "en": "believe"
+    },
+    {
+      "ar": "الله",
+      "en": "God"
+    },
+    {
+      "ar": "الملوك",
+      "en": "you"
+    },
+    {
+      "ar": "تتجاوزوا",
+      "en": "resist"
+    },
+    {
+      "ar": "حدود",
+      "en": "precepts"
+    },
+    {
+      "ar": "اتّبعوا",
+      "en": "Judge"
+    },
+    {
+      "ar": "أمرتم",
+      "en": "prescribed"
+    },
+    {
+      "ar": "الكتاب",
+      "en": "Tablet"
+    },
+    {
+      "ar": "المتجاوزين",
+      "en": "power to resist"
+    },
+    {
+      "ar": "تظلموا",
+      "en": "no heed"
+    },
+    {
+      "ar": "اسلكوا",
+      "en": "Judge ye"
+    },
+    {
+      "ar": "العدل",
+      "en": "justice"
+    },
+    {
+      "ar": "مستقيم",
+      "en": "exalted"
+    },
+    {
+      "ar": "أصلحوا",
+      "en": "according"
+    },
+    {
+      "ar": "ذات بينكم",
+      "en": "between them"
+    },
+    {
+      "ar": "قلّلوا",
+      "en": "settled measure"
+    },
+    {
+      "ar": "العساكر",
+      "en": "power"
+    },
+    {
+      "ar": "مصارفكم",
+      "en": "impotence"
+    },
+    {
+      "ar": "ترتفعوا",
+      "en": "pay no heed"
+    },
+    {
+      "ar": "الاختلاف",
+      "en": "distinctness"
+    },
+    {
+      "ar": "تحتاجوا",
+      "en": "recognize"
+    },
+    {
+      "ar": "كثرة",
+      "en": "all things"
+    },
+    {
+      "ar": "قدر",
+      "en": "measure"
+    },
+    {
+      "ar": "تحرسون",
+      "en": "beneath"
+    },
+    {
+      "ar": "ممالككم",
+      "en": "those beneath you"
+    },
+    {
+      "ar": "علمنا",
+      "en": "explanation"
+    },
+    {
+      "ar": "تزدادون",
+      "en": "given"
+    },
+    {
+      "ar": "يوم",
+      "en": "day"
+    },
+    {
+      "ar": "تحمّلونها",
+      "en": "assail"
+    },
+    {
+      "ar": "طاقتهم",
+      "en": "your own"
+    },
+    {
+      "ar": "ظلم",
+      "en": "chastisement"
+    },
+    {
+      "ar": "عظيم",
+      "en": "holy and exalted"
+    },
+    {
+      "ar": "النّاس",
+      "en": "them"
+    },
+    {
+      "ar": "كونوا",
+      "en": "shall have"
+    },
+    {
+      "ar": "مظاهر",
+      "en": "precepts prescribed"
+    },
+    {
+      "ar": "ينبغي",
+      "en": "settled"
+    },
+    {
+      "ar": "يليق",
+      "en": "holy"
+    },
+    {
+      "ar": "هاجروا",
+      "en": "counsel"
+    },
+    {
+      "ar": "إليكم",
+      "en": "unto them"
+    },
+    {
+      "ar": "دخلوا",
+      "en": "in which"
+    },
+    {
+      "ar": "ظلّكم",
+      "en": "beneath you"
+    }
+  ],
+  "terms": [
+    {
+      "term": "الرّحمة",
+      "transliteration": "r-ḥ-m",
+      "literal": "merciful, compassionate; pertaining to divine mercy",
+      "se_rendering": "counsels",
+      "note": "Root r-ḥ-m typically renders as 'mercy' or 'merciful' (70 occurrences), but SE renders 'جوهكم أبواب الرّحمة' as 'counsels'—an interpretive shift toward intellectual guidance rather than compassion.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 57,
+          "snippet": "Divine"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 89,
+          "snippet": "celestial melody"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 114,
+          "snippet": "spirit of mercy"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 220,
+          "snippet": "have mercy on them"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 546,
+          "snippet": "mercy"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 50,
+          "snippet": "the Compassionate"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 793,
+          "snippet": "have mercy upon them"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 47,
+          "snippet": "Thy mercy"
+        }
+      ]
+    },
+    {
+      "term": "الملوك",
+      "transliteration": "m-l-k",
+      "literal": "kingdom; dominion; realm; sovereignty",
+      "se_rendering": "you",
+      "note": "Root m-l-k standardly translates 'kingdom' or 'realm,' yet here 'يا أيّها الملوك' becomes direct address 'you,' embedding the royal subject into the verb structure itself.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-ahd",
+          "para": 16,
+          "snippet": "heaven"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 171,
+          "snippet": "kingdom"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 69,
+          "snippet": "realms"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 28,
+          "snippet": "righteous"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 167,
+          "snippet": "by the heavenly power"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 57,
+          "snippet": "Ruler"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 82,
+          "snippet": "King"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 102,
+          "snippet": "Lord of all mankind"
+        }
+      ]
+    },
+    {
+      "term": "أمرتم",
+      "transliteration": "ʾ-m-r",
+      "literal": "command; cause; matter; affair",
+      "se_rendering": "precepts prescribed by God",
+      "note": "Root ʾ-m-r usually renders 'Cause,' 'command,' or 'Revelation' (75 occurrences), but 'بما أمرتم به في الكتاب' becomes 'precepts prescribed by God'—a juridical rather than revelatory emphasis.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "His Cause"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 797,
+          "snippet": "Thy Cause"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 597,
+          "snippet": "service"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 167,
+          "snippet": "things"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "commanded"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 236,
+          "snippet": "commissioned"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 785,
+          "snippet": "Thy Revelation"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 38,
+          "snippet": "for the protection of the Cause"
+        }
+      ]
+    },
+    {
+      "term": "الكتاب",
+      "transliteration": "k-t-b",
+      "literal": "book; scripture; writing",
+      "se_rendering": "Tablet",
+      "note": "Root k-t-b consistently renders 'Book' or 'book' (33 occurrences), but 'في الكتاب' becomes 'Tablet,' elevating the scriptural reference to a more luminous theological register.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 155,
+          "snippet": "Book"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 242,
+          "snippet": "the Book"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 8,
+          "snippet": "Thy Book"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 172,
+          "snippet": "Divine Books"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 551,
+          "snippet": "write"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 45,
+          "snippet": "My Book"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 16,
+          "snippet": "My mighty and wondrous Book"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 196,
+          "snippet": "books"
+        }
+      ]
+    },
+    {
+      "term": "العدل",
+      "transliteration": "ʿ-d-l",
+      "literal": "justice; equity",
+      "se_rendering": "justice",
+      "note": "Root ʿ-d-l consistently renders 'justice' or 'equity' (29 occurrences); here both occurrences ('سبيل العدل' and 'مظاهر العدل') maintain 'justice,' showing terminological consistency.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 16,
+          "snippet": "Justice"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "just"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 145,
+          "snippet": "Who dealest equitably"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 15,
+          "snippet": "equity"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 7,
+          "snippet": "Thy justice"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 128,
+          "snippet": "with equity and justice"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 79,
+          "snippet": "disputeth"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 24,
+          "snippet": "Consort"
+        }
+      ]
+    },
+    {
+      "term": "الاختلاف",
+      "transliteration": "kh-l-f",
+      "literal": "opposing; contrary; conflicting",
+      "se_rendering": "settled measure",
+      "note": "Root kh-l-f standardly renders 'contrary' or 'conflicting' (37 occurrences), yet 'وإن ترتفعوا الاختلاف بينكم' appears rendered indirectly through 'settled measure'—the term itself is elided in translation.",
+      "cross_refs": [
+        {
+          "work": "the-hidden-words",
+          "para": 107,
+          "snippet": "contrary"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 220,
+          "snippet": "adversaries"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 57,
+          "snippet": "contrary to"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 17,
+          "snippet": "whoso opposeth him"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 192,
+          "snippet": "difference"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 13,
+          "snippet": "contention"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 89,
+          "snippet": "differences"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 18,
+          "snippet": "divers communions"
+        }
+      ]
+    },
+    {
+      "term": "مظاهر",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "explanation",
+      "note": "Root z-h-r typically renders 'Manifestation' or 'manifestation' (96 occurrences), but 'وكونوا مظاهر العدل' becomes 'explanation'—a unique deflection toward clarity rather than divine appearance.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 140,
+          "snippet": "manifestation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 160,
+          "snippet": "Author of all Manifestations"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 136,
+          "snippet": "evident"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 206,
+          "snippet": "appeared"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 196,
+          "snippet": "Manifestations of God"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 255,
+          "snippet": "Manifestations"
+        }
+      ]
+    }
+  ],
+  "section_index": "CXVIII.6",
+  "section": "CXVIII",
+  "section_para": 6
 }

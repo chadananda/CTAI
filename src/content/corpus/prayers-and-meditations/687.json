@@ -1,10 +1,49 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 687,
   "source_text": "إِنَّا كُلٌّ لِلَّهِ قانِتُونَ",
   "translation": "We all, verily, bow down before God.",
   "source_lang": "ar",
-  "score": 9.9
+  "score": 9.9,
+  "page_slug": "bow-down-before-god",
+  "alignment": [
+    {
+      "ar": "قانِتُونَ",
+      "en": "bow down"
+    }
+  ],
+  "terms": [
+    {
+      "term": "لِلَّهِ",
+      "transliteration": "l-l-h",
+      "literal": "to God; for God; God's",
+      "se_rendering": "before God",
+      "note": "Jafar data shows SE typically renders as 'to God' or 'God's' (4 occ); here rendered 'before God' to align with the posture of devotion expressed by قانِتُونَ.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 2,
+          "snippet": "to God"
+        },
+        {
+          "work": "gleanings",
+          "para": 79,
+          "snippet": "God's"
+        }
+      ]
+    },
+    {
+      "term": "قانِتُونَ",
+      "transliteration": "q-n-t",
+      "literal": "obedient, devout, worshipping, submissive",
+      "se_rendering": "bow down",
+      "note": "Root q-n-t denotes obedience, devotion, submission; SE renders as 'bow down' — an active physical metaphor rather than abstract obedience, uniquely somatic in this passage.",
+      "cross_refs": []
+    }
+  ],
+  "section_index": "CLXVII.6",
+  "section": "CLXVII",
+  "section_para": 6
 }

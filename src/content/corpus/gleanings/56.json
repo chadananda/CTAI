@@ -1,10 +1,534 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 56,
   "source_text": "الأَعْظَمَ لِحَيوَةِ الْعَالَمِينَ، قُلْ تِلْكَ جَنَّةٌ رُقِمَ عَلَى أَوْرَاقِ مَا غُرِسَ فِيها مِنْ رَحِيقِ الْبَيَانِ قَدْ ظَهَرَ الْمَكْنُونُ بِقُدْرَةٍ وَسُلْطَانٍ، إِنَّهَا لَجَنَّةٌ تَسْمَعُ مِنْ حَفِيفِ أَشْجَارِهَا يَا مَلأَ الأَرْضِ وَالسَّمَآءِ قَدْ ظَهَرَ مَا لا ظَهَرَ مِنْ قَبْلُ وَأَتَى مَنْ كَانَ غَيْبًا مَسْتُورًا فِي أَزَلِ الآزَالِ، وَمِنْ هَزِيزِ أَرْيَاحِهَا قَدْ أَتَى الْمَالِكُ وَالْمُلْكُ للهِ ومِنْ خَرِيرِ مَائِهَا قَدْ قَرَّتِ الْعُيُونُ بِمَا كَشَفَ الْغَيْبُ الْمَكْنُونُ عَنْ وَجْهِ الْجَمَالِ سِتْرُ الْجَلالِ وَنَادَتْ فِيْهَا الْحُورِيَّاتُ",
   "translation": "Say: This is the Paradise on whose foliage the wine of utterance hath imprinted the testimony: “He that was hidden from the eyes of men is revealed, girded with sovereignty and power!” This is the Paradise, the rustling of whose leaves proclaims: “O ye that inhabit the heavens and the earth! There hath appeared what hath never previously appeared. He Who, from everlasting, had concealed His Face from the sight of creation is now come.” From the whispering breeze that wafteth amidst its branches there cometh the cry: “He Who is the sovereign Lord of all is made manifest. The Kingdom is God’s,” while from its streaming waters can be heard the murmur: “All eyes are gladdened, for He Whom none hath beheld, Whose secret no one hath discovered, hath lifted the veil of glory, and uncovered the countenance of Beauty.”",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "hidden-face-revealed-beauty",
+  "alignment": [
+    {
+      "ar": "قُلْ",
+      "en": "Say"
+    },
+    {
+      "ar": "تِلْكَ",
+      "en": "This"
+    },
+    {
+      "ar": "أَوْرَاقِ",
+      "en": "foliage"
+    },
+    {
+      "ar": "غُرِسَ",
+      "en": "imprinted"
+    },
+    {
+      "ar": "فِيها",
+      "en": "whose"
+    },
+    {
+      "ar": "رَحِيقِ",
+      "en": "wine"
+    },
+    {
+      "ar": "الْبَيَانِ",
+      "en": "utterance"
+    },
+    {
+      "ar": "ظَهَرَ",
+      "en": "revealed"
+    },
+    {
+      "ar": "الْمَكْنُونُ",
+      "en": "hidden"
+    },
+    {
+      "ar": "بِقُدْرَةٍ",
+      "en": "sovereignty"
+    },
+    {
+      "ar": "وَسُلْطَانٍ",
+      "en": "power"
+    },
+    {
+      "ar": "تَسْمَعُ",
+      "en": "proclaims"
+    },
+    {
+      "ar": "حَفِيفِ",
+      "en": "rustling"
+    },
+    {
+      "ar": "أَشْجَارِهَا",
+      "en": "leaves"
+    },
+    {
+      "ar": "مَلأَ",
+      "en": "ye that inhabit"
+    },
+    {
+      "ar": "الأَرْضِ",
+      "en": "the earth"
+    },
+    {
+      "ar": "ظَهَرَ",
+      "en": "appeared"
+    },
+    {
+      "ar": "قَبْلُ",
+      "en": "previously"
+    },
+    {
+      "ar": "أَتَى",
+      "en": "come"
+    },
+    {
+      "ar": "كَانَ",
+      "en": "had"
+    },
+    {
+      "ar": "غَيْبًا",
+      "en": "concealed"
+    },
+    {
+      "ar": "مَسْتُورًا",
+      "en": "His Face"
+    },
+    {
+      "ar": "أَزَلِ الآزَالِ",
+      "en": "everlasting"
+    },
+    {
+      "ar": "هَزِيزِ",
+      "en": "whispering"
+    },
+    {
+      "ar": "أَرْيَاحِهَا",
+      "en": "breeze"
+    },
+    {
+      "ar": "الْمَالِكُ",
+      "en": "sovereign Lord"
+    },
+    {
+      "ar": "الْمُلْكُ",
+      "en": "Kingdom"
+    },
+    {
+      "ar": "خَرِيرِ",
+      "en": "streaming"
+    },
+    {
+      "ar": "مَائِهَا",
+      "en": "waters"
+    },
+    {
+      "ar": "الْعُيُونُ",
+      "en": "eyes"
+    },
+    {
+      "ar": "كَشَفَ",
+      "en": "lifted"
+    },
+    {
+      "ar": "الْغَيْبُ",
+      "en": "none hath beheld"
+    },
+    {
+      "ar": "وَجْهِ",
+      "en": "countenance"
+    },
+    {
+      "ar": "الْجَمَالِ",
+      "en": "Beauty"
+    },
+    {
+      "ar": "سِتْرُ",
+      "en": "veil"
+    },
+    {
+      "ar": "الْجَلالِ",
+      "en": "glory"
+    }
+  ],
+  "terms": [
+    {
+      "term": "الْبَيَانِ",
+      "transliteration": "b-y-n",
+      "literal": "to manifest; to make clear; clear, evident",
+      "se_rendering": "utterance",
+      "note": "Typically 'the Bayán' as proper noun across 87 occurrences; here rendered 'utterance' as common noun, indicating divine speech in revelatory sense rather than the Bábi text.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 231,
+          "snippet": "clear verses"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 3,
+          "snippet": "proofs"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 12,
+          "snippet": "clear proofs"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 101,
+          "snippet": "Bayán"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 84,
+          "snippet": "palpable smoke"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 120,
+          "snippet": "evil"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 178,
+          "snippet": "evident error"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 189,
+          "snippet": "meaning"
+        }
+      ]
+    },
+    {
+      "term": "ظَهَرَ",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "revealed",
+      "note": "Root appears as 'Manifestation' (nominal) in 96 occurrences; here rendered 'revealed' and 'appeared' (verbal), capturing the dynamic unveiling of the Hidden One.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 140,
+          "snippet": "manifestation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 160,
+          "snippet": "Author of all Manifestations"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 136,
+          "snippet": "evident"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 206,
+          "snippet": "appeared"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 196,
+          "snippet": "Manifestations of God"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 255,
+          "snippet": "Manifestations"
+        }
+      ]
+    },
+    {
+      "term": "الْمَكْنُونُ",
+      "transliteration": "k-n-n",
+      "literal": "to do; to make; to perform",
+      "se_rendering": "hidden",
+      "note": "Root k-n-n typically means 'to do/make'; here rendered 'hidden' through association with concealment, following Qur'anic usage for the unknowable divine secret.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 136,
+          "snippet": "interpret"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 240,
+          "snippet": "observest"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 24,
+          "snippet": "wear the guise"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 110,
+          "snippet": "quench"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 8,
+          "snippet": "hid"
+        },
+        {
+          "work": "tablet-of-carmel",
+          "para": 5,
+          "snippet": "been wrapped"
+        },
+        {
+          "work": "tablet-of-carmel",
+          "para": 4,
+          "snippet": "hidden"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 9,
+          "snippet": "lieth concealed"
+        }
+      ]
+    },
+    {
+      "term": "وَسُلْطَانٍ",
+      "transliteration": "s-l-ṭ",
+      "literal": "dominion; authority; power; sovereignty; control",
+      "se_rendering": "power",
+      "note": "Consistently 'sovereignty' or 'dominion' across 43 occurrences; rendered 'power' here, pairing with 'sovereignty' in prior phrase for doctrinal symmetry in manifestation theology.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 118,
+          "snippet": "sovereignty"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 151,
+          "snippet": "dominion"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 1,
+          "snippet": "Thy sovereignty"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 184,
+          "snippet": "by Thy sovereignty"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 416,
+          "snippet": "Lord"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 13,
+          "snippet": "O King"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 242,
+          "snippet": "king"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 157,
+          "snippet": "the Sháh"
+        }
+      ]
+    },
+    {
+      "term": "مَسْتُورًا",
+      "transliteration": "s-t-r",
+      "literal": "to veil; to conceal; to cover; veil; covering",
+      "se_rendering": "concealed",
+      "note": "Root s-t-r usually 'veil' or 'concealment' across 22 occurrences; rendered 'concealed' in participial form, emphasizing the prior hidden state before revelation.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 8,
+          "snippet": "concealed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 17,
+          "snippet": "hidden"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 35,
+          "snippet": "star"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 46,
+          "snippet": "tabernacle"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 45,
+          "snippet": "Concealer"
+        }
+      ]
+    },
+    {
+      "term": "وَجْهِ",
+      "transliteration": "w-j-h",
+      "literal": "face; countenance; direction; aspect",
+      "se_rendering": "countenance",
+      "note": "Root typically 'faces,' 'eyes,' or 'turned' across 64 occurrences; rendered 'countenance' here—a rare elevated diction choice marking the sublime object of revelation.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 503,
+          "snippet": "their faces"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 246,
+          "snippet": "faces"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 162,
+          "snippet": "turned"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 306,
+          "snippet": "set their faces"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 16,
+          "snippet": "unto Mine"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 498,
+          "snippet": "his face"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 636,
+          "snippet": "towards"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 470,
+          "snippet": "fixed"
+        }
+      ]
+    },
+    {
+      "term": "الْجَمَالِ",
+      "transliteration": "j-m-l",
+      "literal": "beauty; comeliness",
+      "se_rendering": "Beauty",
+      "note": "Capitalized 'Beauty' referring to divine attribute; appears in 38 occurrences with both nominal and attributed renderings; here explicitly 'countenance of Beauty' personifying the manifestation.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 11,
+          "snippet": "beauty"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 193,
+          "snippet": "Among others"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 67,
+          "snippet": "Among"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 208,
+          "snippet": "Among the sciences"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 268,
+          "snippet": "Among them"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 118,
+          "snippet": "following"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 246,
+          "snippet": "Amongst"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 88,
+          "snippet": "for a beauty"
+        }
+      ]
+    },
+    {
+      "term": "الْجَلالِ",
+      "transliteration": "j-l-l",
+      "literal": "majesty; glory; exaltation; magnificence",
+      "se_rendering": "glory",
+      "note": "Root j-l-l rendered variously as 'majesty,' 'glory,' or 'All-Glorious' across 20 occurrences; 'veil of glory' here creates paradox: majesty simultaneously conceals and reveals.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 24,
+          "snippet": "majestic"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 4,
+          "snippet": "distinguished"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 103,
+          "snippet": "All-Glorious"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 56,
+          "snippet": "His glory"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 15,
+          "snippet": "majesty"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 612,
+          "snippet": "Thy glory"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 208,
+          "snippet": "sublime utterance"
+        }
+      ]
+    }
+  ],
+  "section_index": "XIV.11",
+  "section": "XIV",
+  "section_para": 11
 }

@@ -1,10 +1,429 @@
 {
   "work": "The Hidden Words",
   "slug": "the-hidden-words",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 107,
   "source_text": "(٣٢) ﴿ ای بيگانهء با يگانه ﴾\nشمع دلت برافروخته دست قدرت منست آن را ببادهای مخالف نفس و هوی خاموش مکن و طبيب جميع علّتهای تو ذکر منست فراموشش منما * حبّ مرا سرمايه خود کن و چون بصر و جان عزيزش دار*",
   "translation": "(32) O BEFRIENDED STRANGER!\nThe candle of thine heart is lighted by the hand of My power, quench it not with the contrary winds of self and passion. The healer of all thine ills is remembrance of Me, forget it not. Make My love thy treasure and cherish it even as thy very sight and life.",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "candle-heart-lighted-power",
+  "alignment": [
+    {
+      "ar": "بيگانهء",
+      "en": "STRANGER"
+    },
+    {
+      "ar": "با يگانه",
+      "en": "BEFRIENDED"
+    },
+    {
+      "ar": "شمع",
+      "en": "candle"
+    },
+    {
+      "ar": "دلت",
+      "en": "thine heart"
+    },
+    {
+      "ar": "برافروخته",
+      "en": "lighted"
+    },
+    {
+      "ar": "دست",
+      "en": "hand"
+    },
+    {
+      "ar": "قدرت",
+      "en": "power"
+    },
+    {
+      "ar": "منست",
+      "en": "My"
+    },
+    {
+      "ar": "بادهای",
+      "en": "winds"
+    },
+    {
+      "ar": "مخالف",
+      "en": "contrary"
+    },
+    {
+      "ar": "نفس",
+      "en": "self"
+    },
+    {
+      "ar": "هوی",
+      "en": "passion"
+    },
+    {
+      "ar": "خاموش مکن",
+      "en": "quench it not"
+    },
+    {
+      "ar": "طبيب",
+      "en": "healer"
+    },
+    {
+      "ar": "جميع",
+      "en": "all"
+    },
+    {
+      "ar": "علّتهای",
+      "en": "ills"
+    },
+    {
+      "ar": "تو",
+      "en": "thine"
+    },
+    {
+      "ar": "ذکر",
+      "en": "remembrance"
+    },
+    {
+      "ar": "من",
+      "en": "Me"
+    },
+    {
+      "ar": "فراموشش منما",
+      "en": "forget it not"
+    },
+    {
+      "ar": "حبّ",
+      "en": "love"
+    },
+    {
+      "ar": "سرمايه",
+      "en": "treasure"
+    },
+    {
+      "ar": "خود",
+      "en": "thy"
+    },
+    {
+      "ar": "کن",
+      "en": "Make"
+    },
+    {
+      "ar": "بصر",
+      "en": "sight"
+    },
+    {
+      "ar": "جان",
+      "en": "life"
+    },
+    {
+      "ar": "عزيزش دار",
+      "en": "cherish it"
+    }
+  ],
+  "terms": [
+    {
+      "term": "برافروخته",
+      "transliteration": "f-r-kh",
+      "literal": "to kindle; to light; to raise; to establish",
+      "se_rendering": "lighted",
+      "note": "Root f-r-kh typically rendered 'pitched' or 'waving' in spatial contexts; 'lighted' here transfers the verb to metaphorical illumination of the heart.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 161,
+          "snippet": "lighted"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 121,
+          "snippet": "pitched"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 54,
+          "snippet": "waving"
+        }
+      ]
+    },
+    {
+      "term": "قدرت",
+      "transliteration": "q-d-r",
+      "literal": "power; might; decree; measure; worth",
+      "se_rendering": "power",
+      "note": "Dominant rendering across 100 occurrences is 'power'; here SE chooses 'power' to emphasize divine agency kindling the heart's candle.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 171,
+          "snippet": "a while"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 339,
+          "snippet": "Thy power"
+        },
+        {
+          "work": "gleanings",
+          "para": 138,
+          "snippet": "hath been decreed"
+        },
+        {
+          "work": "gleanings",
+          "para": 662,
+          "snippet": "hath decreed"
+        },
+        {
+          "work": "gleanings",
+          "para": 496,
+          "snippet": "forbearing towards"
+        },
+        {
+          "work": "gleanings",
+          "para": 111,
+          "snippet": "schools"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 12,
+          "snippet": "God of power"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 35,
+          "snippet": "Potent"
+        }
+      ]
+    },
+    {
+      "term": "مخالف",
+      "transliteration": "kh-l-f",
+      "literal": "opposing; contrary; conflicting",
+      "se_rendering": "contrary",
+      "note": "'Contrary' is SE's standard choice; applied here to winds of self and passion to create vivid theological opposition.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 189,
+          "snippet": "in conflict with"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 220,
+          "snippet": "adversaries"
+        },
+        {
+          "work": "gleanings",
+          "para": 495,
+          "snippet": "counter to"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 57,
+          "snippet": "contrary to"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 17,
+          "snippet": "whoso opposeth him"
+        },
+        {
+          "work": "gleanings",
+          "para": 468,
+          "snippet": "opposed"
+        },
+        {
+          "work": "gleanings",
+          "para": 462,
+          "snippet": "thou hast violated"
+        },
+        {
+          "work": "gleanings",
+          "para": 242,
+          "snippet": "conflict"
+        }
+      ]
+    },
+    {
+      "term": "ذکر",
+      "transliteration": "dh-k-r",
+      "literal": "remembrance; mention; memory",
+      "se_rendering": "remembrance",
+      "note": "Consistently 'remembrance' across 57 occurrences; SE preserves this rendering as the spiritual remedy for all spiritual ailments.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 597,
+          "snippet": "remembrance"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 54,
+          "snippet": "mention"
+        },
+        {
+          "work": "gleanings",
+          "para": 237,
+          "snippet": "Then it was recalled"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 117,
+          "snippet": "Time and again have I declared"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 39,
+          "snippet": "deliberate"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 274,
+          "snippet": "aforementioned"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 34,
+          "snippet": "confined in that"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 4,
+          "snippet": "mentioned"
+        }
+      ]
+    },
+    {
+      "term": "منما",
+      "transliteration": "n-m-w",
+      "literal": "to show, display, exhibit; to grow, develop",
+      "se_rendering": "forget",
+      "note": "Root n-m-w yields 'share', 'inspire', 'behold' elsewhere; 'forget' here captures the prohibitive sense, marking departure from positive renderings.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 22,
+          "snippet": "share"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 24,
+          "snippet": "consort"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 126,
+          "snippet": "borne"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 101,
+          "snippet": "inspire"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 170,
+          "snippet": "behold"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 31,
+          "snippet": "withhold not"
+        },
+        {
+          "work": "gleanings",
+          "para": 333,
+          "snippet": "extinguish"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 14,
+          "snippet": "be made"
+        }
+      ]
+    },
+    {
+      "term": "بصر",
+      "transliteration": "b-ṣ-r",
+      "literal": "sight; insight; discernment; spiritual perception",
+      "se_rendering": "sight",
+      "note": "Typically rendered 'eye of insight' or 'discerning eye'; 'sight' here provides concrete physicality parallel to 'life', emphasizing human faculties.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 27,
+          "snippet": "discerning"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 278,
+          "snippet": "eye of insight"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 16,
+          "snippet": "eye of God"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 116,
+          "snippet": "discerning eye"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 77,
+          "snippet": "hearing ears, and sharp sight"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 667,
+          "snippet": "the All-Seeing"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 231,
+          "snippet": "clear"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 3,
+          "snippet": "proofs"
+        }
+      ]
+    },
+    {
+      "term": "جان",
+      "transliteration": "j-y-n",
+      "literal": "soul; life; spirit",
+      "se_rendering": "life",
+      "note": "Standard 'soul' or 'life' rendering; 'life' chosen here for parallelism with 'sight' and to ground spiritual realities in lived experience.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 141,
+          "snippet": "soul"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 11,
+          "snippet": "life"
+        },
+        {
+          "work": "gleanings",
+          "para": 177,
+          "snippet": "hearts"
+        },
+        {
+          "work": "gleanings",
+          "para": 332,
+          "snippet": "soul-stirring"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 121,
+          "snippet": "lives"
+        }
+      ]
+    }
+  ],
+  "section_index": "211",
+  "section": "211",
+  "section_para": 1
 }

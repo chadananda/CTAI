@@ -1,10 +1,584 @@
 {
   "work": "Kitab-i-Iqan",
   "slug": "kitab-i-iqan",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 125,
   "source_text": "و اين مطلب در همه اعصار در حين ظهور مظاهر حقّ بوده.چنانچه عيسی می فرمايد:  \"لا بدّ لکُم بِاَن تُولَدوا مَرّةً اُخری.\"  و در مقام ديگر می فرمايد :  \"مَن لَم يُولَد مِنَ الماء وَ الرُّوح لا يَقدرُ اَن يَدخُلَ مَلَکوتَ اللّه.  المَولودُ مِنَ الجَسَدِ جَسَدٌ هُوَ وَ المَولُودُ مِن الرُّوحِ هُوَ رُوحٌ.\" که ترجمه آن اين است :\nنفسی که زنده نشده است از ماء معرفت الهی و روح قدسی عيسوی، قابل ورود و دخول در ملکوت ربّانی نيست زيرا هرچه از جسد ظاهر شد و تولّد يافت پس اوست جسد، و متولّد شده از روح که نفس عيسوی باشد پس اوست روح. خلاصه معنی آنکه هر عبادی که از روح و نفخه مظاهرقدسيّه در هر ظهور متولّد و زنده شدند بر آنها حکم حيات و بعث و ورود در جنّت محبّت الهيّه می شود و من دون آن حکم غير آن که موت و غفلت و ورود در نار کفر و غضب الهی است می شود. و در جميع کتب و الواح و صحائف، مردمی که از جام های لطيف معارف نچشيدهاند و به فيض روح القدس وقت قلوب ايشان فائز نشده، بر آنها حکم موت و نار و عدم بصر و قلب و سمع شده.  چنانچه از قبل ذکر شده:  \"لَهم قُلُوبٌ لا يَفقَهُونَ بِهَا.\"",
   "translation": "Such things have come to pass in the days of every Manifestation of God. Even as Jesus said: “Ye must be born again.” Again He saith: “Except a man be born of water and of the Spirit, he cannot enter into the Kingdom of God. That which is born of the flesh is flesh; and that which is born of the Spirit is spirit.” The purport of these words is that whosoever in every dispensation is born of the Spirit and is quickened by the breath of the Manifestation of Holiness, he verily is of those that have attained unto “life” and “resurrection” and have entered into the “paradise” of the love of God. And whosoever is not of them, is condemned to “death” and “deprivation,” to the “fire” of unbelief, and to the “wrath” of God. In all the scriptures, the books and chronicles, the sentence of death, of fire, of blindness, of want of understanding and hearing, hath been pronounced against those whose lips have tasted not the ethereal cup of true knowledge, and whose hearts have been deprived of the grace of the holy Spirit in their day. Even as it hath been previously recorded: “Hearts have they with which they understand not.”",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "born-again-spirit-kingdom-god",
+  "alignment": [
+    {
+      "ar": "اين",
+      "en": "Such things"
+    },
+    {
+      "ar": "مطلب",
+      "en": "things"
+    },
+    {
+      "ar": "همه",
+      "en": "every"
+    },
+    {
+      "ar": "اعصار",
+      "en": "days"
+    },
+    {
+      "ar": "حين",
+      "en": "in the days"
+    },
+    {
+      "ar": "ظهور",
+      "en": "Manifestation"
+    },
+    {
+      "ar": "حقّ",
+      "en": "God"
+    },
+    {
+      "ar": "بوده",
+      "en": "have come to pass"
+    },
+    {
+      "ar": "چنانچه",
+      "en": "Even as"
+    },
+    {
+      "ar": "عيسی",
+      "en": "Jesus"
+    },
+    {
+      "ar": "می فرمايد",
+      "en": "said"
+    },
+    {
+      "ar": "لا بدّ لکُم بِاَن تُولَدوا مَرّةً اُخری",
+      "en": "Ye must be born again"
+    },
+    {
+      "ar": "مقام",
+      "en": "Again"
+    },
+    {
+      "ar": "المَولودُ مِنَ الجَسَدِ جَسَدٌ هُوَ",
+      "en": "That which is born of the flesh is flesh"
+    },
+    {
+      "ar": "ترجمه",
+      "en": "purport"
+    },
+    {
+      "ar": "نفسی",
+      "en": "whosoever"
+    },
+    {
+      "ar": "زنده نشده است",
+      "en": "is quickened"
+    },
+    {
+      "ar": "ماء",
+      "en": "water"
+    },
+    {
+      "ar": "معرفت",
+      "en": "knowledge"
+    },
+    {
+      "ar": "روح",
+      "en": "Spirit"
+    },
+    {
+      "ar": "قدسی",
+      "en": "holy"
+    },
+    {
+      "ar": "قابل",
+      "en": "enter"
+    },
+    {
+      "ar": "ورود",
+      "en": "entered"
+    },
+    {
+      "ar": "ملکوت",
+      "en": "Kingdom"
+    },
+    {
+      "ar": "ربّانی",
+      "en": "of God"
+    },
+    {
+      "ar": "هرچه",
+      "en": "That which"
+    },
+    {
+      "ar": "جسد",
+      "en": "flesh"
+    },
+    {
+      "ar": "ظاهر شد",
+      "en": "born"
+    },
+    {
+      "ar": "آنکه",
+      "en": "that"
+    },
+    {
+      "ar": "نفخه",
+      "en": "breath"
+    },
+    {
+      "ar": "مظاهرقدسيّه",
+      "en": "Manifestation of Holiness"
+    },
+    {
+      "ar": "ظهور",
+      "en": "dispensation"
+    },
+    {
+      "ar": "زنده شدند",
+      "en": "quickened"
+    },
+    {
+      "ar": "حکم",
+      "en": "attained"
+    },
+    {
+      "ar": "حيات",
+      "en": "life"
+    },
+    {
+      "ar": "بعث",
+      "en": "resurrection"
+    },
+    {
+      "ar": "جنّت",
+      "en": "paradise"
+    },
+    {
+      "ar": "محبّت",
+      "en": "love"
+    },
+    {
+      "ar": "می شود",
+      "en": "have attained"
+    },
+    {
+      "ar": "من دون آن",
+      "en": "whosoever is not of them"
+    },
+    {
+      "ar": "موت",
+      "en": "death"
+    },
+    {
+      "ar": "غفلت",
+      "en": "deprivation"
+    },
+    {
+      "ar": "نار",
+      "en": "fire"
+    },
+    {
+      "ar": "کفر",
+      "en": "unbelief"
+    },
+    {
+      "ar": "غضب",
+      "en": "wrath"
+    },
+    {
+      "ar": "جميع",
+      "en": "all"
+    },
+    {
+      "ar": "کتب",
+      "en": "scriptures"
+    },
+    {
+      "ar": "الواح",
+      "en": "books"
+    },
+    {
+      "ar": "صحائف",
+      "en": "chronicles"
+    },
+    {
+      "ar": "مردمی",
+      "en": "those"
+    },
+    {
+      "ar": "جام",
+      "en": "cup"
+    },
+    {
+      "ar": "لطيف",
+      "en": "ethereal"
+    },
+    {
+      "ar": "نچشيدهاند",
+      "en": "tasted not"
+    },
+    {
+      "ar": "فيض",
+      "en": "grace"
+    },
+    {
+      "ar": "روح القدس",
+      "en": "holy Spirit"
+    },
+    {
+      "ar": "وقت",
+      "en": "in their day"
+    },
+    {
+      "ar": "قلوب",
+      "en": "hearts"
+    },
+    {
+      "ar": "ايشان",
+      "en": "their"
+    },
+    {
+      "ar": "فائز نشده",
+      "en": "deprived"
+    },
+    {
+      "ar": "حکم",
+      "en": "sentence"
+    },
+    {
+      "ar": "عدم",
+      "en": "want"
+    },
+    {
+      "ar": "بصر",
+      "en": "blindness"
+    },
+    {
+      "ar": "قلب",
+      "en": "understanding"
+    },
+    {
+      "ar": "سمع",
+      "en": "hearing"
+    },
+    {
+      "ar": "شده",
+      "en": "pronounced"
+    },
+    {
+      "ar": "از قبل",
+      "en": "previously"
+    },
+    {
+      "ar": "ذکر شده",
+      "en": "recorded"
+    },
+    {
+      "ar": "لَهم قُلُوبٌ لا يَفقَهُونَ بِهَا",
+      "en": "Hearts have they with which they understand not"
+    }
+  ],
+  "terms": [
+    {
+      "term": "ظهور",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "Manifestation",
+      "note": "Consistently rendered 'Manifestation' across 96 occurrences; here applied to both Jesus and all successive divine revelations to establish cyclical spiritual truth.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 53,
+          "snippet": "Manifestation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 160,
+          "snippet": "Author of all Manifestations"
+        },
+        {
+          "work": "gleanings",
+          "para": 222,
+          "snippet": "material"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 206,
+          "snippet": "appeared"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 255,
+          "snippet": "Manifestations"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 791,
+          "snippet": "tokens of Thy handiwork"
+        }
+      ]
+    },
+    {
+      "term": "ملکوت",
+      "transliteration": "m-l-k",
+      "literal": "kingdom; dominion; realm; sovereignty",
+      "se_rendering": "Kingdom",
+      "note": "Usually 'Kingdom' or 'realm' (70 occ.); consistently 'Kingdom of God' here, denoting divine sovereignty accessible only through spiritual transformation.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-ahd",
+          "para": 16,
+          "snippet": "heaven"
+        },
+        {
+          "work": "gleanings",
+          "para": 394,
+          "snippet": "realm"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 171,
+          "snippet": "kingdom"
+        },
+        {
+          "work": "gleanings",
+          "para": 313,
+          "snippet": "heavenly gem"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 28,
+          "snippet": "righteous"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 167,
+          "snippet": "by the heavenly power"
+        },
+        {
+          "work": "gleanings",
+          "para": 59,
+          "snippet": "Lord"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 57,
+          "snippet": "Ruler"
+        }
+      ]
+    },
+    {
+      "term": "معرفت",
+      "transliteration": "ʿ-r-f",
+      "literal": "to confess; to acknowledge; to recognize",
+      "se_rendering": "knowledge",
+      "note": "Typically 'testifieth', 'acknowledged', 'recognized' (82 occ.); here 'knowledge' emphasizes experiential divine gnosis essential for spiritual rebirth.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 601,
+          "snippet": "testifieth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 729,
+          "snippet": "hath acknowledged"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 582,
+          "snippet": "have recognized"
+        },
+        {
+          "work": "gleanings",
+          "para": 568,
+          "snippet": "acknowledged"
+        },
+        {
+          "work": "gleanings",
+          "para": 295,
+          "snippet": "made objections"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 744,
+          "snippet": "understanding"
+        },
+        {
+          "work": "gleanings",
+          "para": 87,
+          "snippet": "knowledge"
+        },
+        {
+          "work": "gleanings",
+          "para": 2,
+          "snippet": "perception"
+        }
+      ]
+    },
+    {
+      "term": "قدسی",
+      "transliteration": "q-d-s",
+      "literal": "holy, sacred, sanctified",
+      "se_rendering": "Holiness",
+      "note": "Rendered 'sacred', 'hallowed', 'spirit of holiness' (47 occ.); 'Manifestation of Holiness' here denotes the sanctified station of divine messengers.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 2,
+          "snippet": "Sacred"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 81,
+          "snippet": "hallowed"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 35,
+          "snippet": "spirit of holiness"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 448,
+          "snippet": "Sanctuary"
+        },
+        {
+          "work": "gleanings",
+          "para": 585,
+          "snippet": "holy Paradise"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 13,
+          "snippet": "Holy Mariner"
+        },
+        {
+          "work": "gleanings",
+          "para": 584,
+          "snippet": "Holy Veil"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 6,
+          "snippet": "sacred strand"
+        }
+      ]
+    },
+    {
+      "term": "حکم",
+      "transliteration": "h-k-m",
+      "literal": "government; rule; governance; wisdom",
+      "se_rendering": "sentence",
+      "note": "Typically 'rule', 'government', 'mysteries' (69 occ.); 'sentence' here reflects juridical proclamation of spiritual fate based on receptivity.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-ahd",
+          "para": 6,
+          "snippet": "rule"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "government"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 849,
+          "snippet": "signs of Thy sovereignty"
+        },
+        {
+          "work": "gleanings",
+          "para": 224,
+          "snippet": "mysteries"
+        },
+        {
+          "work": "gleanings",
+          "para": 636,
+          "snippet": "rule of the sword"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 129,
+          "snippet": "perspicuous verses"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 157,
+          "snippet": "justice"
+        },
+        {
+          "work": "gleanings",
+          "para": 139,
+          "snippet": "the face of wisdom"
+        }
+      ]
+    },
+    {
+      "term": "غفلت",
+      "transliteration": "gh-f-l",
+      "literal": "heedlessness; negligence; inattention",
+      "se_rendering": "deprivation",
+      "note": "Usually 'heedless', 'negligence', 'gone astray' (39 occ.); 'deprivation' here emphasizes active loss rather than passive inattention.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 158,
+          "snippet": "O heedless one"
+        },
+        {
+          "work": "gleanings",
+          "para": 132,
+          "snippet": "heedless"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 134,
+          "snippet": "thou who hast gone astray"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 156,
+          "snippet": "thou who art gone astray"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 6,
+          "snippet": "my heedlessness"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 90,
+          "snippet": "Essence of Negligence"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 95,
+          "snippet": "couch of heedlessness"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 152,
+          "snippet": "Children of Negligence"
+        }
+      ]
+    }
+  ],
+  "section_index": "125",
+  "section": "125",
+  "section_para": 1
 }

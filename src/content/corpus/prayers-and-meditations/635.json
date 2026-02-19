@@ -1,10 +1,292 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 635,
   "source_text": "ما لَمْ أَجِدْ سَبِيلاً إِلاَّ ما بَيَّنْتَهُ لأَصْفِيائِكَ؟ يَشْهَدُ كُلُّ الذَّرَّاتِ بِأَنَّكَ أَنْتَ اللَّهُ لا إِلهَ إِلاَّ أَنْتَ لَمْ تَزَلْ كُنْتَ مُقْتَدِرًا عَلَى ما تَشآءُ وَحاكِمًا عَلَى ما تُرِيْدُ، قَدِّرْ لِي يا إِلهِي",
   "translation": "Whither shall I turn, O my God, powerless as I am to discover any other way except the way Thou didst set before Thy chosen Ones? All the atoms of the earth proclaim Thee to be God, and testify that there is none other God besides Thee. Thou hast from eternity been powerful to do what Thou hast willed, and to ordain what Thou hast pleased.",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "atoms-proclaim-god",
+  "alignment": [
+    {
+      "ar": "ما",
+      "en": "Whither"
+    },
+    {
+      "ar": "لَمْ أَجِدْ",
+      "en": "powerless"
+    },
+    {
+      "ar": "سَبِيلاً",
+      "en": "way"
+    },
+    {
+      "ar": "ما",
+      "en": "what"
+    },
+    {
+      "ar": "لأَصْفِيائِكَ",
+      "en": "Thy chosen Ones"
+    },
+    {
+      "ar": "يَشْهَدُ",
+      "en": "testify"
+    },
+    {
+      "ar": "أَنْتَ",
+      "en": "Thou"
+    },
+    {
+      "ar": "لَمْ تَزَلْ",
+      "en": "from eternity"
+    },
+    {
+      "ar": "كُنْتَ",
+      "en": "been"
+    },
+    {
+      "ar": "مُقْتَدِرًا",
+      "en": "powerful"
+    },
+    {
+      "ar": "عَلَى",
+      "en": "to do"
+    },
+    {
+      "ar": "ما تَشآءُ",
+      "en": "what Thou hast willed"
+    },
+    {
+      "ar": "وَحاكِمًا",
+      "en": "to ordain"
+    },
+    {
+      "ar": "ما تُرِيْدُ",
+      "en": "what Thou hast pleased"
+    },
+    {
+      "ar": "لِي",
+      "en": ""
+    },
+    {
+      "ar": "يا إِلهِي",
+      "en": "O my God"
+    }
+  ],
+  "terms": [
+    {
+      "term": "سَبِيلاً",
+      "transliteration": "s-b-l",
+      "literal": "path; way; road; cause; means",
+      "se_rendering": "way",
+      "note": "Typically 'path' or 'Thy ways' (18 occurrences); rendered 'way' here—spare diction emphasizing singular divine guidance rather than plurality.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 26,
+          "snippet": "Thy ways"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 144,
+          "snippet": "Thy path"
+        },
+        {
+          "work": "gleanings",
+          "para": 17,
+          "snippet": "path"
+        },
+        {
+          "work": "gleanings",
+          "para": 97,
+          "snippet": "door"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 18,
+          "snippet": "manifold systems of religious belief"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 124,
+          "snippet": "the way of God"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 13,
+          "snippet": "the path of God"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 12,
+          "snippet": "the paths of delusion"
+        }
+      ]
+    },
+    {
+      "term": "بَيَّنْتَهُ",
+      "transliteration": "b-y-n",
+      "literal": "to manifest; to make clear; clear, evident",
+      "se_rendering": "set before",
+      "note": "Root b-y-n usually 'manifest' or 'clear verses'; 'set before' here captures active revelation to chosen ones more dynamically than static manifestation.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 223,
+          "snippet": "the Expounder, the Most Manifest"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 231,
+          "snippet": "clear verses"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 3,
+          "snippet": "proofs"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 12,
+          "snippet": "clear proofs"
+        },
+        {
+          "work": "gleanings",
+          "para": 563,
+          "snippet": "Dawning-Place of the proofs"
+        },
+        {
+          "work": "gleanings",
+          "para": 292,
+          "snippet": "the Bayán"
+        },
+        {
+          "work": "gleanings",
+          "para": 636,
+          "snippet": "utterance"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 101,
+          "snippet": "Bayán"
+        }
+      ]
+    },
+    {
+      "term": "يَشْهَدُ",
+      "transliteration": "sh-h-d",
+      "literal": "witnessed; observed; seen; evident; manifest",
+      "se_rendering": "proclaim",
+      "note": "Root sh-h-d renders as 'manifest', 'evident', or 'testify' (74 occ); 'proclaim' here adds active voice urgency—atoms actively witness, not merely show.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 607,
+          "snippet": "manifest"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 35,
+          "snippet": "evident"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 6,
+          "snippet": "I testify"
+        },
+        {
+          "work": "gleanings",
+          "para": 298,
+          "snippet": "witness"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 138,
+          "snippet": "martyrdom"
+        },
+        {
+          "work": "gleanings",
+          "para": 134,
+          "snippet": "God witnesseth"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 57,
+          "snippet": "beheld"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 156,
+          "snippet": "bear witness"
+        }
+      ]
+    },
+    {
+      "term": "الذَّرَّاتِ",
+      "transliteration": "dh-r-r",
+      "literal": "atom, particle, mote",
+      "se_rendering": "atoms of the earth",
+      "note": "Rare term (3 occurrences total); SE renders consistently 'atoms'; this passage uniquely specifies 'atoms of the earth' grounding cosmic witness in material reality.",
+      "cross_refs": [
+        {
+          "work": "tablet-of-carmel",
+          "para": 5,
+          "snippet": "atoms"
+        }
+      ]
+    },
+    {
+      "term": "مُقْتَدِرًا",
+      "transliteration": "q-d-r",
+      "literal": "power; might; decree; measure; worth",
+      "se_rendering": "powerful",
+      "note": "Root q-d-r spans 'power', 'decree', 'forbearing' (100 occ); 'powerful' here emphasizes eternal divine capacity—capacity stressed over decree or forbearance.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 171,
+          "snippet": "a while"
+        },
+        {
+          "work": "gleanings",
+          "para": 138,
+          "snippet": "hath been decreed"
+        },
+        {
+          "work": "gleanings",
+          "para": 662,
+          "snippet": "hath decreed"
+        },
+        {
+          "work": "gleanings",
+          "para": 496,
+          "snippet": "forbearing towards"
+        },
+        {
+          "work": "gleanings",
+          "para": 111,
+          "snippet": "schools"
+        },
+        {
+          "work": "gleanings",
+          "para": 532,
+          "snippet": "can"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 4,
+          "snippet": "for a moment"
+        },
+        {
+          "work": "gleanings",
+          "para": 112,
+          "snippet": "Thy might"
+        }
+      ]
+    }
+  ],
+  "section_index": "CL.6",
+  "section": "CL",
+  "section_para": 6
 }

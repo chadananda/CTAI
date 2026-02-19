@@ -1,10 +1,525 @@
 {
   "work": "Epistle to the Son of the Wolf",
   "slug": "epistle-to-the-son-of-the-wolf",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 82,
   "source_text": "قد فاحت نفحات الرّحمن فی الامکان طوبی لمن وجد عرفها و اقبل اليها بقلب سليم * زيّن هيکلک بطراز اسمی و لسانک بذکری و قلبک بحبّی العزيز المنيع * ما اردنا لک الّا ما هو خير لک ممّا عندک و من خزائن الارض کلّها انّ ربّک هو العليم الخبير * قم بين العباد باسمی و قل يا ملأ الارض اقبلوا الی من اقبل اليکم انّه لوجه اللّه بينکم و حجّته فيکم و دليله لکم قد جاءکم بآيات عجز عنها العالمون * انّ شجرة الطّور تنطق فی صدر العالم و روح القدس ينادی بين الامم قد اتی المقصود بسلطان مبين *",
   "translation": "\"The breezes of the Most Merciful have passed over all created things; happy the man that hath discovered their fragrance, and set himself towards them with a sound heart. Attire thy temple with the ornament of My Name, and thy tongue with remembrance of Me, and thine heart with love for Me, the Almighty, the Most High. We have desired for thee naught except that which is better for thee than what thou dost possess and all the treasures of the earth. Thy Lord, verily, is knowing, informed of all. Arise, in My Name, amongst My servants, and say: \\‘O ye peoples of the earth! Turn yourselves towards Him Who hath turned towards you. He, verily, is the Face of God amongst you, and His Testimony and His Guide unto you. He hath come to you with signs which none can produce.' The voice of the Burning Bush is raised in the midmost heart of the world, and the Holy Spirit calleth aloud among the nations: \\‘Lo, the Desired One is come with manifest dominion!'",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "burning-bush-manifest-dominion",
+  "alignment": [
+    {
+      "ar": "فاحت",
+      "en": "have passed over"
+    },
+    {
+      "ar": "نفحات",
+      "en": "breezes"
+    },
+    {
+      "ar": "الرّحمن",
+      "en": "the Most Merciful"
+    },
+    {
+      "ar": "الامکان",
+      "en": "all created things"
+    },
+    {
+      "ar": "طوبی",
+      "en": "happy"
+    },
+    {
+      "ar": "لمن",
+      "en": "the man that"
+    },
+    {
+      "ar": "وجد",
+      "en": "hath discovered"
+    },
+    {
+      "ar": "عرفها",
+      "en": "their fragrance"
+    },
+    {
+      "ar": "اقبل",
+      "en": "set himself"
+    },
+    {
+      "ar": "اليها",
+      "en": "towards them"
+    },
+    {
+      "ar": "بقلب",
+      "en": "with a"
+    },
+    {
+      "ar": "سليم",
+      "en": "sound heart"
+    },
+    {
+      "ar": "زيّن",
+      "en": "Attire"
+    },
+    {
+      "ar": "هيکلک",
+      "en": "thy temple"
+    },
+    {
+      "ar": "بطراز",
+      "en": "with the ornament"
+    },
+    {
+      "ar": "اسمی",
+      "en": "My Name"
+    },
+    {
+      "ar": "لسانک",
+      "en": "thy tongue"
+    },
+    {
+      "ar": "بذکری",
+      "en": "with remembrance of Me"
+    },
+    {
+      "ar": "قلبک",
+      "en": "thine heart"
+    },
+    {
+      "ar": "بحبّی",
+      "en": "with love for Me"
+    },
+    {
+      "ar": "العزيز",
+      "en": "the Almighty"
+    },
+    {
+      "ar": "المنيع",
+      "en": "the Most High"
+    },
+    {
+      "ar": "اردنا",
+      "en": "have desired"
+    },
+    {
+      "ar": "لک",
+      "en": "for thee"
+    },
+    {
+      "ar": "الّا",
+      "en": "except"
+    },
+    {
+      "ar": "خير",
+      "en": "better"
+    },
+    {
+      "ar": "ممّا",
+      "en": "than what"
+    },
+    {
+      "ar": "عندک",
+      "en": "thou dost possess"
+    },
+    {
+      "ar": "خزائن",
+      "en": "the treasures"
+    },
+    {
+      "ar": "الارض",
+      "en": "the earth"
+    },
+    {
+      "ar": "کلّها",
+      "en": "all"
+    },
+    {
+      "ar": "ربّک",
+      "en": "Thy Lord"
+    },
+    {
+      "ar": "العليم",
+      "en": "knowing"
+    },
+    {
+      "ar": "الخبير",
+      "en": "informed of all"
+    },
+    {
+      "ar": "قم",
+      "en": "Arise"
+    },
+    {
+      "ar": "العباد",
+      "en": "My servants"
+    },
+    {
+      "ar": "باسمی",
+      "en": "in My Name"
+    },
+    {
+      "ar": "قل",
+      "en": "say"
+    },
+    {
+      "ar": "ملأ",
+      "en": "peoples"
+    },
+    {
+      "ar": "الارض",
+      "en": "of the earth"
+    },
+    {
+      "ar": "اقبلوا",
+      "en": "Turn yourselves"
+    },
+    {
+      "ar": "اقبل",
+      "en": "hath turned"
+    },
+    {
+      "ar": "اليکم",
+      "en": "towards you"
+    },
+    {
+      "ar": "لوجه",
+      "en": "the Face"
+    },
+    {
+      "ar": "اللّه",
+      "en": "of God"
+    },
+    {
+      "ar": "بينکم",
+      "en": "amongst you"
+    },
+    {
+      "ar": "حجّته",
+      "en": "His Testimony"
+    },
+    {
+      "ar": "فيکم",
+      "en": ""
+    },
+    {
+      "ar": "دليله",
+      "en": "His Guide"
+    },
+    {
+      "ar": "لکم",
+      "en": "unto you"
+    },
+    {
+      "ar": "جاءکم",
+      "en": "come to you"
+    },
+    {
+      "ar": "بآيات",
+      "en": "with signs"
+    },
+    {
+      "ar": "عجز",
+      "en": "none can produce"
+    },
+    {
+      "ar": "عنها",
+      "en": ""
+    },
+    {
+      "ar": "العالمون",
+      "en": ""
+    },
+    {
+      "ar": "شجرة",
+      "en": "Bush"
+    },
+    {
+      "ar": "الطّور",
+      "en": "Burning"
+    },
+    {
+      "ar": "تنطق",
+      "en": "is raised"
+    },
+    {
+      "ar": "صدر",
+      "en": "midmost heart"
+    },
+    {
+      "ar": "العالم",
+      "en": "of the world"
+    },
+    {
+      "ar": "روح",
+      "en": "Spirit"
+    },
+    {
+      "ar": "القدس",
+      "en": "Holy"
+    },
+    {
+      "ar": "ينادی",
+      "en": "calleth aloud"
+    },
+    {
+      "ar": "الامم",
+      "en": "the nations"
+    },
+    {
+      "ar": "اتی",
+      "en": "is come"
+    },
+    {
+      "ar": "المقصود",
+      "en": "the Desired One"
+    },
+    {
+      "ar": "بسلطان",
+      "en": "with"
+    },
+    {
+      "ar": "مبين",
+      "en": "manifest dominion"
+    }
+  ],
+  "terms": [
+    {
+      "term": "عرفها",
+      "transliteration": "ʿ-r-f",
+      "literal": "to confess; to acknowledge; to recognize",
+      "se_rendering": "discovered",
+      "note": "Usually 'acknowledged' or 'have recognized' across 82 occurrences. 'Discovered' here conveys active finding rather than passive acknowledgment.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 601,
+          "snippet": "testifieth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 729,
+          "snippet": "hath acknowledged"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 582,
+          "snippet": "have recognized"
+        },
+        {
+          "work": "gleanings",
+          "para": 568,
+          "snippet": "acknowledged"
+        },
+        {
+          "work": "gleanings",
+          "para": 295,
+          "snippet": "made objections"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 744,
+          "snippet": "understanding"
+        },
+        {
+          "work": "gleanings",
+          "para": 87,
+          "snippet": "knowledge"
+        },
+        {
+          "work": "gleanings",
+          "para": 2,
+          "snippet": "perception"
+        }
+      ]
+    },
+    {
+      "term": "هيکلک",
+      "transliteration": "h-k-l",
+      "literal": "temple; structure; form; body",
+      "se_rendering": "temple",
+      "note": "Typically 'Temple' or 'Súratu'l-Haykal' across 20 occurrences. 'Temple' here follows standard usage but precedes instructions for spiritual adornment.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "Temple"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 10,
+          "snippet": "person"
+        },
+        {
+          "work": "gleanings",
+          "para": 168,
+          "snippet": "beauty of the immortal Being"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 154,
+          "snippet": "Being"
+        },
+        {
+          "work": "gleanings",
+          "para": 326,
+          "snippet": "human temple"
+        },
+        {
+          "work": "gleanings",
+          "para": 101,
+          "snippet": "individuality"
+        }
+      ]
+    },
+    {
+      "term": "بينکم",
+      "transliteration": "b-y-n",
+      "literal": "to manifest; to make clear; clear, evident",
+      "se_rendering": "amongst",
+      "note": "Typically 'proofs' or 'clear verses' across 87 occurrences. 'Amongst' here serves preposition function rather than noun referring to divine attestations.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 223,
+          "snippet": "the Expounder, the Most Manifest"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 231,
+          "snippet": "clear verses"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 3,
+          "snippet": "proofs"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 12,
+          "snippet": "clear proofs"
+        },
+        {
+          "work": "gleanings",
+          "para": 563,
+          "snippet": "Dawning-Place of the proofs"
+        },
+        {
+          "work": "gleanings",
+          "para": 292,
+          "snippet": "the Bayán"
+        },
+        {
+          "work": "gleanings",
+          "para": 636,
+          "snippet": "utterance"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 101,
+          "snippet": "Bayán"
+        }
+      ]
+    },
+    {
+      "term": "المقصود",
+      "transliteration": "q-s-d",
+      "literal": "intention; purpose; aim; goal; to seek; to direct oneself",
+      "se_rendering": "the Desired One",
+      "note": "Typically 'purpose' or 'aim' across 32 occurrences. 'Desired One' here personalizes abstract concept into messianic referent.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 602,
+          "snippet": "goal"
+        },
+        {
+          "work": "gleanings",
+          "para": 672,
+          "snippet": "direct"
+        },
+        {
+          "work": "gleanings",
+          "para": 683,
+          "snippet": "hasten to embrace"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 43,
+          "snippet": "purpose"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 47,
+          "snippet": "my heart's Desire"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 664,
+          "snippet": "the Goal of my desire"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 704,
+          "snippet": "my Desire"
+        },
+        {
+          "work": "gleanings",
+          "para": 234,
+          "snippet": "the heart's desire"
+        }
+      ]
+    },
+    {
+      "term": "بسلطان",
+      "transliteration": "s-l-ṭ",
+      "literal": "dominion; authority; power; sovereignty; control",
+      "se_rendering": "dominion",
+      "note": "Typically 'sovereignty' or 'dominion' across 43 occurrences. 'Manifest dominion' here combines the preposition rendering with manifest power display.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 369,
+          "snippet": "sovereignty"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 151,
+          "snippet": "dominion"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 1,
+          "snippet": "Thy sovereignty"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 184,
+          "snippet": "by Thy sovereignty"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 416,
+          "snippet": "Lord"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 242,
+          "snippet": "king"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 1,
+          "snippet": "the King"
+        },
+        {
+          "work": "gleanings",
+          "para": 472,
+          "snippet": "King (Sulṭán 'Abdu'l-'Azíz)"
+        }
+      ]
+    }
+  ],
+  "section_index": "82",
+  "section": "82",
+  "section_para": 1
 }

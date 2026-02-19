@@ -1,10 +1,581 @@
 {
   "work": "Kitab-i-Iqan",
   "slug": "kitab-i-iqan",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 91,
   "source_text": "و اگر از ايشان سؤال شود از شرائط ظهور انبيای بعد که در کتب قبل است، از جمله آنها علامات ظهور و اشراق شمس محمّدی است چنانچه مذکور شد و بر حسب ظاهر هيچ يک ظاهر نشد، مع ذلک به چه دليل و برهان نصاری و امثال آنها را ردّ می نمائيد و حکم بر کفر آنها نموده ايد، چون عاجز از جواب می شوند تمسّک به اين نمايند که اين کتب تحريف شده و من عنداللّه نبوده و نيست و حال آنکه خود عبارات آيه شهادت می دهد بر اينکه من عنداللّه است.  و مضمون همين آيه در قرآن هم موجود است، لو انتم تعرفون.  براستی می گويم مقصود از تحريف را در اين مدّت ادراک  ننمودهاند.",
   "translation": "Were they to be questioned concerning those signs that must needs herald the revelation and rise of the sun of the Muhammadan Dispensation, to which We have already referred, none of which have been literally fulfilled, and were it to be said to them: “Wherefore have ye rejected the claims advanced by Christians and the peoples of other faiths and regard them as infidels,” knowing not what answer to give, they will reply: “These Books have been corrupted and are not, and never have been, of God.” Reflect: the words of the verses themselves eloquently testify to the truth that they are of God. A similar verse hath been also revealed in the Qur’án, were ye of them that comprehend. Verily I say, throughout all this period they have utterly failed to comprehend what is meant by corrupting the text.",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "signs-corrupted-books-comprehend",
+  "alignment": [
+    {
+      "ar": "اگر",
+      "en": "Were"
+    },
+    {
+      "ar": "از ايشان",
+      "en": "they"
+    },
+    {
+      "ar": "سؤال",
+      "en": "questioned"
+    },
+    {
+      "ar": "شود",
+      "en": "to be questioned"
+    },
+    {
+      "ar": "شرائط",
+      "en": "signs"
+    },
+    {
+      "ar": "ظهور",
+      "en": "revelation"
+    },
+    {
+      "ar": "انبيای",
+      "en": "herald"
+    },
+    {
+      "ar": "بعد",
+      "en": "rise"
+    },
+    {
+      "ar": "کتب",
+      "en": "Books"
+    },
+    {
+      "ar": "قبل",
+      "en": "already"
+    },
+    {
+      "ar": "علامات",
+      "en": "those signs"
+    },
+    {
+      "ar": "شمس",
+      "en": "sun"
+    },
+    {
+      "ar": "محمّدی",
+      "en": "Muhammadan Dispensation"
+    },
+    {
+      "ar": "چنانچه",
+      "en": "to which"
+    },
+    {
+      "ar": "مذکور",
+      "en": "referred"
+    },
+    {
+      "ar": "شد",
+      "en": "have"
+    },
+    {
+      "ar": "بر حسب",
+      "en": "literally"
+    },
+    {
+      "ar": "ظاهر",
+      "en": "fulfilled"
+    },
+    {
+      "ar": "هيچ يک",
+      "en": "none of which"
+    },
+    {
+      "ar": "نشد",
+      "en": "have been"
+    },
+    {
+      "ar": "مع ذلک",
+      "en": "were it"
+    },
+    {
+      "ar": "چه",
+      "en": "what"
+    },
+    {
+      "ar": "دليل",
+      "en": "Wherefore"
+    },
+    {
+      "ar": "برهان",
+      "en": "answer"
+    },
+    {
+      "ar": "نصاری",
+      "en": "Christians"
+    },
+    {
+      "ar": "امثال",
+      "en": "peoples of other faiths"
+    },
+    {
+      "ar": "آنها",
+      "en": "them"
+    },
+    {
+      "ar": "ردّ",
+      "en": "rejected"
+    },
+    {
+      "ar": "می نمائيد",
+      "en": "have ye rejected"
+    },
+    {
+      "ar": "حکم",
+      "en": "regard"
+    },
+    {
+      "ar": "کفر",
+      "en": "infidels"
+    },
+    {
+      "ar": "نموده ايد",
+      "en": "regard them"
+    },
+    {
+      "ar": "عاجز",
+      "en": "knowing not"
+    },
+    {
+      "ar": "جواب",
+      "en": "answer to give"
+    },
+    {
+      "ar": "می شوند",
+      "en": "will reply"
+    },
+    {
+      "ar": "تمسّک",
+      "en": "reply"
+    },
+    {
+      "ar": "اين",
+      "en": "These"
+    },
+    {
+      "ar": "تحريف",
+      "en": "corrupted"
+    },
+    {
+      "ar": "من عنداللّه",
+      "en": "of God"
+    },
+    {
+      "ar": "نبوده",
+      "en": "never have been"
+    },
+    {
+      "ar": "نيست",
+      "en": "are not"
+    },
+    {
+      "ar": "حال آنکه",
+      "en": "Reflect"
+    },
+    {
+      "ar": "خود",
+      "en": "themselves"
+    },
+    {
+      "ar": "عبارات",
+      "en": "words"
+    },
+    {
+      "ar": "آيه",
+      "en": "verses"
+    },
+    {
+      "ar": "شهادت",
+      "en": "testify"
+    },
+    {
+      "ar": "است",
+      "en": "are"
+    },
+    {
+      "ar": "مضمون",
+      "en": "verse"
+    },
+    {
+      "ar": "همين",
+      "en": "similar"
+    },
+    {
+      "ar": "هم",
+      "en": "also"
+    },
+    {
+      "ar": "موجود",
+      "en": "revealed"
+    },
+    {
+      "ar": "لو انتم تعرفون",
+      "en": "were ye of them that comprehend"
+    },
+    {
+      "ar": "براستی",
+      "en": "Verily"
+    },
+    {
+      "ar": "می گويم",
+      "en": "I say"
+    },
+    {
+      "ar": "مقصود",
+      "en": "what is meant"
+    },
+    {
+      "ar": "در",
+      "en": "throughout"
+    },
+    {
+      "ar": "اين",
+      "en": "this"
+    },
+    {
+      "ar": "مدّت",
+      "en": "period"
+    },
+    {
+      "ar": "ادراک",
+      "en": "comprehend"
+    },
+    {
+      "ar": "ننمودهاند",
+      "en": "failed to comprehend"
+    }
+  ],
+  "terms": [
+    {
+      "term": "ظهور",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "revelation and rise",
+      "note": "Standard rendering 'Manifestation' dominates 96 occurrences. 'revelation and rise' here expands into two English words, emphasizing temporal process over ontological status.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 53,
+          "snippet": "Manifestation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 160,
+          "snippet": "Author of all Manifestations"
+        },
+        {
+          "work": "gleanings",
+          "para": 222,
+          "snippet": "material"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 206,
+          "snippet": "appeared"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 255,
+          "snippet": "Manifestations"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 791,
+          "snippet": "tokens of Thy handiwork"
+        }
+      ]
+    },
+    {
+      "term": "علامات",
+      "transliteration": "ʿ-l-m",
+      "literal": "world; universe; the worlds",
+      "se_rendering": "signs",
+      "note": "Typically 'world' or 'knowledge' across 141 occurrences. Here 'signs' — a rare rendering privileging prophetic indicator meaning rather than cosmological sense.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 198,
+          "snippet": "world"
+        },
+        {
+          "work": "gleanings",
+          "para": 657,
+          "snippet": "all worlds"
+        },
+        {
+          "work": "gleanings",
+          "para": 182,
+          "snippet": "mankind"
+        },
+        {
+          "work": "gleanings",
+          "para": 183,
+          "snippet": "the whole world"
+        },
+        {
+          "work": "gleanings",
+          "para": 226,
+          "snippet": "all earthly defilements"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 28,
+          "snippet": "knowledge"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 42,
+          "snippet": "banner"
+        },
+        {
+          "work": "gleanings",
+          "para": 38,
+          "snippet": "understanding"
+        }
+      ]
+    },
+    {
+      "term": "تحريف",
+      "transliteration": "h-r-f",
+      "literal": "letter; character; edge",
+      "se_rendering": "corrupted",
+      "note": "Root normally 'falsification' or 'alteration' across 32 occurrences. 'corrupted' here uses past participle form, emphasizing completed corrupt state rather than ongoing corruption process.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 46,
+          "snippet": "letters"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 5,
+          "snippet": "passed out"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 6,
+          "snippet": "falsifying"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 41,
+          "snippet": "falsification"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 11,
+          "snippet": "his boundless transgression"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 179,
+          "snippet": "setting down"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 38,
+          "snippet": "write"
+        },
+        {
+          "work": "gleanings",
+          "para": 609,
+          "snippet": "Letter"
+        }
+      ]
+    },
+    {
+      "term": "عنداللّه",
+      "transliteration": "ʿ-n-d",
+      "literal": "obstinacy; opposition; enmity",
+      "se_rendering": "of God",
+      "note": "Typically rendered 'from God' or 'from Me' across 15 occurrences. 'of God' here employs possessive construction instead, subtly shifting from provenance to inherent divine origin.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 13,
+          "snippet": "from Me"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 66,
+          "snippet": "from God"
+        },
+        {
+          "work": "gleanings",
+          "para": 278,
+          "snippet": "they possess"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 53,
+          "snippet": "the things they possess"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 71,
+          "snippet": "with what they possess"
+        },
+        {
+          "work": "gleanings",
+          "para": 535,
+          "snippet": "ye possess"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 91,
+          "snippet": "possessest"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 190,
+          "snippet": "pertaineth unto Him"
+        }
+      ]
+    },
+    {
+      "term": "شهادت",
+      "transliteration": "sh-h-d",
+      "literal": "witnessed; observed; seen; evident; manifest",
+      "se_rendering": "testify",
+      "note": "Usually 'manifest' or 'testify' across 74 occurrences. 'eloquently testify' adds intensity; SE strengthens the witnessing verb rather than rendering as noun 'testimony'.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 607,
+          "snippet": "manifest"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 811,
+          "snippet": "I bear witness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 6,
+          "snippet": "I testify"
+        },
+        {
+          "work": "gleanings",
+          "para": 298,
+          "snippet": "witness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 253,
+          "snippet": "martyrdom"
+        },
+        {
+          "work": "gleanings",
+          "para": 134,
+          "snippet": "God witnesseth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 230,
+          "snippet": "God testifieth"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 57,
+          "snippet": "beheld"
+        }
+      ]
+    },
+    {
+      "term": "مقصود",
+      "transliteration": "q-s-d",
+      "literal": "intention; purpose; aim; goal; to seek; to direct oneself",
+      "se_rendering": "meant",
+      "note": "Often 'purpose' or 'aim' across 32 occurrences. 'meant' here renders noun as past participle verb, shifting from abstract intention to interpretive meaning.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 204,
+          "snippet": "Seek"
+        },
+        {
+          "work": "gleanings",
+          "para": 602,
+          "snippet": "goal"
+        },
+        {
+          "work": "gleanings",
+          "para": 672,
+          "snippet": "direct"
+        },
+        {
+          "work": "gleanings",
+          "para": 683,
+          "snippet": "hasten to embrace"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 64,
+          "snippet": "aim"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 43,
+          "snippet": "purpose"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 47,
+          "snippet": "my heart's Desire"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 5,
+          "snippet": "my Desire"
+        }
+      ]
+    },
+    {
+      "term": "ادراک",
+      "transliteration": "d-r-y",
+      "literal": "veiling; concealment",
+      "se_rendering": "comprehend",
+      "note": "Usually 'comprehend' or 'understanding' across 10 occurrences. 'comprehend' maintains consistency, but the negation 'failed to comprehend' strengthens human cognitive limitation.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 206,
+          "snippet": "I know not"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 99,
+          "snippet": "shining"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 32,
+          "snippet": "possessed of"
+        },
+        {
+          "work": "gleanings",
+          "para": 404,
+          "snippet": "hath"
+        }
+      ]
+    }
+  ],
+  "section_index": "91",
+  "section": "91",
+  "section_para": 1
 }

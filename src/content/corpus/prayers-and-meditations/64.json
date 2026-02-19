@@ -1,10 +1,324 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 64,
   "source_text": "أَنْتَ الْمُقْتَدِرُ عَلَى ما تَشاءُ وَإِنَّكَ أَنْتَ المَلِكَ العَزِيزُ المُهَيْمِنُ القَيُّومُ.",
   "translation": "Potent art Thou to do Thy pleasure. Thou art, verily, the Supreme Ruler, the Almighty, the Help in Peril, the Self-Subsisting.",
   "source_lang": "ar",
-  "score": 9.9
+  "score": 9.9,
+  "page_slug": "supreme-ruler-almighty-self-subsisting",
+  "alignment": [
+    {
+      "ar": "أَنْتَ",
+      "en": "Thou"
+    },
+    {
+      "ar": "الْمُقْتَدِرُ",
+      "en": "Potent"
+    },
+    {
+      "ar": "عَلَى",
+      "en": "to do"
+    },
+    {
+      "ar": "تَشاءُ",
+      "en": "Thy pleasure"
+    },
+    {
+      "ar": "أَنْتَ",
+      "en": "art"
+    },
+    {
+      "ar": "المَلِكَ",
+      "en": "the Supreme Ruler"
+    },
+    {
+      "ar": "العَزِيزُ",
+      "en": "the Almighty"
+    },
+    {
+      "ar": "المُهَيْمِنُ",
+      "en": "the Help in Peril"
+    }
+  ],
+  "terms": [
+    {
+      "term": "المُقْتَدِرُ",
+      "transliteration": "q-d-r",
+      "literal": "power; might; decree; measure; worth",
+      "se_rendering": "Potent",
+      "note": "Root q-d-r typically renders as 'Thy power' or 'decreed'. Here 'Potent' (adjectival) shifts to direct potency attribution rather than power-as-noun or decree.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 171,
+          "snippet": "a while"
+        },
+        {
+          "work": "gleanings",
+          "para": 138,
+          "snippet": "hath been decreed"
+        },
+        {
+          "work": "gleanings",
+          "para": 662,
+          "snippet": "hath decreed"
+        },
+        {
+          "work": "gleanings",
+          "para": 496,
+          "snippet": "forbearing towards"
+        },
+        {
+          "work": "gleanings",
+          "para": 111,
+          "snippet": "schools"
+        },
+        {
+          "work": "gleanings",
+          "para": 532,
+          "snippet": "can"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 4,
+          "snippet": "for a moment"
+        },
+        {
+          "work": "gleanings",
+          "para": 112,
+          "snippet": "Thy might"
+        }
+      ]
+    },
+    {
+      "term": "تَشاءُ",
+      "transliteration": "sh-y-ʾ",
+      "literal": "thing; something",
+      "se_rendering": "Thy pleasure",
+      "note": "Root sh-y-ʾ usually 'thing' or 'things'. 'Thy pleasure' here abstracts from materiality—SE renders the volitional sense rather than nominal object.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 708,
+          "snippet": "nothingness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 37,
+          "snippet": "something"
+        },
+        {
+          "work": "gleanings",
+          "para": 368,
+          "snippet": "thing"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 15,
+          "snippet": "earthly things"
+        },
+        {
+          "work": "gleanings",
+          "para": 153,
+          "snippet": "transitory things"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 35,
+          "snippet": "all things"
+        },
+        {
+          "work": "gleanings",
+          "para": 161,
+          "snippet": "created things"
+        },
+        {
+          "work": "gleanings",
+          "para": 154,
+          "snippet": "creation"
+        }
+      ]
+    },
+    {
+      "term": "المَلِكُ",
+      "transliteration": "m-l-k",
+      "literal": "kingdom; dominion; realm; sovereignty",
+      "se_rendering": "the Supreme Ruler",
+      "note": "Root m-l-k yields 'kingdom', 'realm', 'Kingdom'. 'Supreme Ruler' personalizes sovereignty; SE moves from domain-noun to agent-noun, emphasizing divine personhood.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-ahd",
+          "para": 16,
+          "snippet": "heaven"
+        },
+        {
+          "work": "gleanings",
+          "para": 394,
+          "snippet": "realm"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 171,
+          "snippet": "kingdom"
+        },
+        {
+          "work": "gleanings",
+          "para": 313,
+          "snippet": "heavenly gem"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 69,
+          "snippet": "realms"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 28,
+          "snippet": "righteous"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 167,
+          "snippet": "by the heavenly power"
+        },
+        {
+          "work": "gleanings",
+          "para": 59,
+          "snippet": "Lord"
+        }
+      ]
+    },
+    {
+      "term": "العَزِيزُ",
+      "transliteration": "ʿ-z-z",
+      "literal": "glory; might; honor; dignity; power; majesty",
+      "se_rendering": "the Almighty",
+      "note": "Root ʿ-z-z standardly 'glory' or 'Honor'. 'Almighty' inverts the semantic field entirely—power-through-honor becomes omnipotence; rare interpretive leap.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 185,
+          "snippet": "glory"
+        },
+        {
+          "work": "gleanings",
+          "para": 642,
+          "snippet": "honor"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 99,
+          "snippet": "Dear"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 38,
+          "snippet": "dearly beloved"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 37,
+          "snippet": "Gracious"
+        },
+        {
+          "work": "gleanings",
+          "para": 260,
+          "snippet": "All-Glorious"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 162,
+          "snippet": "Mighty"
+        },
+        {
+          "work": "gleanings",
+          "para": 660,
+          "snippet": "powerful"
+        }
+      ]
+    },
+    {
+      "term": "المُهَيْمِنُ",
+      "transliteration": "h-y-m",
+      "literal": "the Protector; the Overseer; the Guardian",
+      "se_rendering": "the Help in Peril",
+      "note": "Root h-y-m appears only 4 times in corpus; SE renders here as 'Help in Peril' contra typical 'Protector'/'Guardian'. Crisis-centered reading emphasizes rescue over guardianship.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 37,
+          "snippet": "the Help in Peril"
+        },
+        {
+          "work": "gleanings",
+          "para": 180,
+          "snippet": "the Protector"
+        },
+        {
+          "work": "gleanings",
+          "para": 300,
+          "snippet": "the Guardian"
+        },
+        {
+          "work": "gleanings",
+          "para": 610,
+          "snippet": "the Supreme Protector"
+        }
+      ]
+    },
+    {
+      "term": "القَيُّومُ",
+      "transliteration": "q-w-m",
+      "literal": "rising; standing; uprising; resurrection",
+      "se_rendering": "the Self-Subsisting",
+      "note": "Root q-w-m fundamentally 'Resurrection'/'arise' (109 occ). 'Self-Subsisting' imports Neo-Platonic emanation doctrine—existence-through-itself rather than eschatological rising.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 152,
+          "snippet": "Day of Resurrection"
+        },
+        {
+          "work": "gleanings",
+          "para": 437,
+          "snippet": "arise"
+        },
+        {
+          "work": "gleanings",
+          "para": 513,
+          "snippet": "dedicateth"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 153,
+          "snippet": "Resurrection"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 74,
+          "snippet": "rise"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "peoples"
+        },
+        {
+          "work": "gleanings",
+          "para": 693,
+          "snippet": "commandments"
+        },
+        {
+          "work": "gleanings",
+          "para": 628,
+          "snippet": "My commandments"
+        }
+      ]
+    }
+  ],
+  "section_index": "XX.3",
+  "section": "XX",
+  "section_para": 3
 }

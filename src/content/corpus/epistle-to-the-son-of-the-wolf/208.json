@@ -1,10 +1,491 @@
 {
   "work": "Epistle to the Son of the Wolf",
   "slug": "epistle-to-the-son-of-the-wolf",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 208,
   "source_text": "يوئيل ميفرمايد [ لانّ يوم الرّبّ عظيم و مخوف جدّا فمن يطيقه ] اوّل در بيان جليل مرقوم در انجيل ميفرمايد [ احدی بحين ظهور اگاه نه لم يحط به الّا اللّه العليم الخبير ] و در ثانی عظمت ظهور را ذکر مينمايد * و همچنين در فرقان ميفرمايد ﴿عَمَّ يَتَسَاءَلُونَ عَنِ النَّبَأِ العَظِيم﴾ اينست ان نبايکه عظمتش در اکثری از کتب قبل و بعد مذکور * اينست ان نبايکه ارتعدت به فرائص العالم الّا من شاء اللّه الحافظ النّاصر المعين * چنانچه بابصار ظاهره مشاهده شد که جميع عباد و من فی البلاد منقلب و متحيّر گشتند الّا من شاء اللّه *",
   "translation": "Joel saith: \"For the Day of the Lord is great and very terrible; and who can abide it?\" Firstly, in the sublime utterance set forth in the Gospel He saith that none is aware of the time of the Revelation, that none knoweth it except God, the All-Knowing, Who is cognizant of all. Secondly, He setteth forth the greatness of the Revelation. Likewise, in the Qur’án He saith: \"Of what ask they of one another? Of the Great Announcement.\" This is the Announcement, the greatness of which hath been mentioned in most of the Books of old and of more recent times. This is the Announcement that hath caused the limbs of mankind to quake, except such as God, the Protector, the Helper, the Succorer, hath willed to exempt. Men have indeed with their own eyes witnessed how all men and all things have been thrown into confusion and been sore perplexed, save those whom God hath chosen to exempt.",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "great-announcement-mankind-quake",
+  "alignment": [
+    {
+      "ar": "يوئيل",
+      "en": "Joel"
+    },
+    {
+      "ar": "ميفرمايد",
+      "en": "saith"
+    },
+    {
+      "ar": "لانّ",
+      "en": "For"
+    },
+    {
+      "ar": "يوم",
+      "en": "the Day"
+    },
+    {
+      "ar": "الرّبّ",
+      "en": "the Lord"
+    },
+    {
+      "ar": "عظيم",
+      "en": "great"
+    },
+    {
+      "ar": "مخوف",
+      "en": "terrible"
+    },
+    {
+      "ar": "جدّا",
+      "en": "very"
+    },
+    {
+      "ar": "فمن",
+      "en": "and who"
+    },
+    {
+      "ar": "يطيقه",
+      "en": "can abide it"
+    },
+    {
+      "ar": "اوّل",
+      "en": "Firstly"
+    },
+    {
+      "ar": "بيان",
+      "en": "utterance"
+    },
+    {
+      "ar": "جليل",
+      "en": "sublime"
+    },
+    {
+      "ar": "مرقوم",
+      "en": "set forth"
+    },
+    {
+      "ar": "انجيل",
+      "en": "Gospel"
+    },
+    {
+      "ar": "ميفرمايد",
+      "en": "He saith"
+    },
+    {
+      "ar": "احدی",
+      "en": "none"
+    },
+    {
+      "ar": "بحين",
+      "en": "the time"
+    },
+    {
+      "ar": "ظهور",
+      "en": "the Revelation"
+    },
+    {
+      "ar": "اگاه",
+      "en": "aware"
+    },
+    {
+      "ar": "لم يحط به",
+      "en": "knoweth it"
+    },
+    {
+      "ar": "الّا",
+      "en": "except"
+    },
+    {
+      "ar": "اللّه",
+      "en": "God"
+    },
+    {
+      "ar": "العليم",
+      "en": "the All-Knowing"
+    },
+    {
+      "ar": "الخبير",
+      "en": "cognizant"
+    },
+    {
+      "ar": "ثانی",
+      "en": "Secondly"
+    },
+    {
+      "ar": "عظمت",
+      "en": "the greatness"
+    },
+    {
+      "ar": "ذکر",
+      "en": "setteth forth"
+    },
+    {
+      "ar": "همچنين",
+      "en": "Likewise"
+    },
+    {
+      "ar": "اينست",
+      "en": "This is"
+    },
+    {
+      "ar": "ان نبا",
+      "en": "the Announcement"
+    },
+    {
+      "ar": "يکه",
+      "en": "that"
+    },
+    {
+      "ar": "اکثری",
+      "en": "most"
+    },
+    {
+      "ar": "کتب",
+      "en": "the Books"
+    },
+    {
+      "ar": "قبل",
+      "en": "of old"
+    },
+    {
+      "ar": "بعد",
+      "en": "of more recent times"
+    },
+    {
+      "ar": "مذکور",
+      "en": "mentioned"
+    },
+    {
+      "ar": "ارتعدت",
+      "en": "quake"
+    },
+    {
+      "ar": "به",
+      "en": "hath caused"
+    },
+    {
+      "ar": "فرائص",
+      "en": "the limbs"
+    },
+    {
+      "ar": "العالم",
+      "en": "mankind"
+    },
+    {
+      "ar": "من شاء اللّه",
+      "en": "whom God"
+    },
+    {
+      "ar": "الحافظ",
+      "en": "the Protector"
+    },
+    {
+      "ar": "النّاصر",
+      "en": "the Helper"
+    },
+    {
+      "ar": "المعين",
+      "en": "the Succorer"
+    },
+    {
+      "ar": "شاء",
+      "en": "willed"
+    },
+    {
+      "ar": "چنانچه",
+      "en": "indeed"
+    },
+    {
+      "ar": "بابصار",
+      "en": "with their own eyes"
+    },
+    {
+      "ar": "ظاهره",
+      "en": "witnessed"
+    },
+    {
+      "ar": "که",
+      "en": "how"
+    },
+    {
+      "ar": "جميع",
+      "en": "all"
+    },
+    {
+      "ar": "عباد",
+      "en": "men"
+    },
+    {
+      "ar": "من فی البلاد",
+      "en": "all things"
+    },
+    {
+      "ar": "منقلب",
+      "en": "thrown into confusion"
+    },
+    {
+      "ar": "متحيّر",
+      "en": "perplexed"
+    },
+    {
+      "ar": "گشتند",
+      "en": "been"
+    },
+    {
+      "ar": "الّا من شاء اللّه",
+      "en": "save those whom God hath chosen to exempt"
+    }
+  ],
+  "terms": [
+    {
+      "term": "عظيم",
+      "transliteration": "sh-d-d",
+      "literal": "strong; severe; intense; violent",
+      "se_rendering": "great",
+      "note": "Typically 'greatest', 'supreme', 'Most Great' across 35 occurrences. Here rendered as simple 'great' twice—a remarkable simplification for arguably the passage's most emphatic concept.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 38,
+          "snippet": "very great"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 5,
+          "snippet": "great"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 30,
+          "snippet": "most turbulent"
+        },
+        {
+          "work": "gleanings",
+          "para": 94,
+          "snippet": "more intense manifestation"
+        },
+        {
+          "work": "gleanings",
+          "para": 256,
+          "snippet": "most severe in punishment"
+        },
+        {
+          "work": "gleanings",
+          "para": 248,
+          "snippet": "reached manhood"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 141,
+          "snippet": "uttered"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 53,
+          "snippet": "arose"
+        }
+      ]
+    },
+    {
+      "term": "ظهور",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "Revelation",
+      "note": "Generally 'Manifestation' (capitalized) across 96 occurrences. Rendered as 'Revelation' here—only one of SE's rare deviations toward eschatological language rather than Bahá'í technical term.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 53,
+          "snippet": "Manifestation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 160,
+          "snippet": "Author of all Manifestations"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 136,
+          "snippet": "evident"
+        },
+        {
+          "work": "gleanings",
+          "para": 222,
+          "snippet": "material"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 196,
+          "snippet": "Manifestations of God"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 255,
+          "snippet": "Manifestations"
+        }
+      ]
+    },
+    {
+      "term": "بابصار",
+      "transliteration": "b-ṣ-r",
+      "literal": "sight; insight; discernment; spiritual perception",
+      "se_rendering": "with their own eyes",
+      "note": "Typically 'eye', 'discerning eye', 'eye of insight' across 27 occurrences. Here 'with their own eyes'—the only rendering that emphasizes personal, corporeal witness rather than spiritual perception.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 27,
+          "snippet": "discerning"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 278,
+          "snippet": "eye of insight"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 16,
+          "snippet": "eye of God"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 116,
+          "snippet": "discerning eye"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 667,
+          "snippet": "the All-Seeing"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 231,
+          "snippet": "clear"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 3,
+          "snippet": "proofs"
+        },
+        {
+          "work": "gleanings",
+          "para": 75,
+          "snippet": "eyes"
+        }
+      ]
+    },
+    {
+      "term": "عباد",
+      "transliteration": "ʿ-b-d",
+      "literal": "servant; slave; worshipper",
+      "se_rendering": "men",
+      "note": "Ordinarily 'servants', 'Thy servants' across 68 occurrences. Here simply 'men'—the only instance where social hierarchy is flattened to generic humanity.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 279,
+          "snippet": "Thy servants"
+        },
+        {
+          "work": "gleanings",
+          "para": 686,
+          "snippet": "servants"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 27,
+          "snippet": "'Abdu'l‑Bahá"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 204,
+          "snippet": "Thy servant"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 663,
+          "snippet": "servant"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 10,
+          "snippet": "this wronged servant of Thine"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 47,
+          "snippet": "this servant of Thine"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 50,
+          "snippet": "the servants"
+        }
+      ]
+    },
+    {
+      "term": "منقلب",
+      "transliteration": "q-l-b",
+      "literal": "heart; to turn; to overturn",
+      "se_rendering": "thrown into confusion",
+      "note": "Primarily 'hearts', 'agitation', 'cataclysms' across 60 occurrences. Here 'thrown into confusion'—a unique passive construction emphasizing external force rather than internal state.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 547,
+          "snippet": "hearts"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 432,
+          "snippet": "their hearts"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 652,
+          "snippet": "heart"
+        },
+        {
+          "work": "gleanings",
+          "para": 228,
+          "snippet": "agitation"
+        },
+        {
+          "work": "gleanings",
+          "para": 350,
+          "snippet": "cataclysms"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 777,
+          "snippet": "commotion"
+        },
+        {
+          "work": "gleanings",
+          "para": 439,
+          "snippet": "discord"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 13,
+          "snippet": "tumult"
+        }
+      ]
+    }
+  ],
+  "section_index": "208",
+  "section": "208",
+  "section_para": 1
 }

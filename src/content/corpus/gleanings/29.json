@@ -1,10 +1,334 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 29,
   "source_text": "ملأ الأعلى يا كرمل أنزلي بما أقبل إليك وجه الله مالك ملكوت الأسماء وفاطر السّماء إِذًا أخذها اهتزاز السّرور ونادت بأعلى النِّداء نفسي لإقبالك الفداء ولعنايتك الفداء ولتوجّهك الفداء قد أهلكني يا مَطْلَع الحيوة فراقك وأحرقني هجرك لك الحمد بما أسمعتني ندائك وشرّفتني بقُدومك وأحييتني من نفحات أيّامك وصرير قلمك الّذي جعلته صورا بين عبادك فلمّا جاء أمرك المُبرم نفخت فيه إِذًا قامت القيمة الكبرى وظهرت الأسرار المكنونة في خزائن مالك الأشياء فلمّا بلغ ندائ",
   "translation": "Seized with transports of joy, and raising high her voice, she thus exclaimed: “May my life be a sacrifice to Thee, inasmuch as Thou hast fixed Thy gaze upon me, hast bestowed upon me Thy bounty, and hast directed towards me Thy steps. Separation from Thee, O Thou Source of everlasting life, hath well nigh consumed me, and my remoteness from Thy presence hath burned away my soul. All praise be to Thee for having enabled me to hearken to Thy call, for having honored me with Thy footsteps, and for having quickened my soul through the vitalizing fragrance of Thy Day and the shrilling voice of Thy Pen, a voice Thou didst ordain as Thy trumpet-call amidst Thy people. And when the hour at which Thy resistless Faith was to be made manifest did strike, Thou didst breathe a breath of Thy spirit into Thy Pen, and lo, the entire creation shook to its very foundations, unveiling to mankind such mysteries as lay hidden within the treasuries of Him Who is the Possessor of all created things.”",
   "source_lang": "ar",
-  "score": 9.9
+  "score": 9.9,
+  "page_slug": "carmel-transports-joy-resurrection",
+  "alignment": [
+    {
+      "ar": "أقبل",
+      "en": "fixed Thy gaze"
+    },
+    {
+      "ar": "إليك",
+      "en": "upon me"
+    },
+    {
+      "ar": "أخذها",
+      "en": "Seized"
+    },
+    {
+      "ar": "اهتزاز",
+      "en": "transports"
+    },
+    {
+      "ar": "السّرور",
+      "en": "joy"
+    },
+    {
+      "ar": "نادت",
+      "en": "exclaimed"
+    },
+    {
+      "ar": "بأعلى",
+      "en": "raising high"
+    },
+    {
+      "ar": "نفسي",
+      "en": "my life"
+    },
+    {
+      "ar": "لإقبالك",
+      "en": "Thou hast fixed Thy gaze upon me"
+    },
+    {
+      "ar": "الفداء",
+      "en": "sacrifice"
+    },
+    {
+      "ar": "ولعنايتك",
+      "en": "hast bestowed upon me Thy bounty"
+    },
+    {
+      "ar": "ولتوجّهك",
+      "en": "hast directed towards me Thy steps"
+    },
+    {
+      "ar": "أهلكني",
+      "en": "consumed me"
+    },
+    {
+      "ar": "مَطْلَع",
+      "en": "Source"
+    },
+    {
+      "ar": "الحيوة",
+      "en": "everlasting life"
+    },
+    {
+      "ar": "فراقك",
+      "en": "Separation from Thee"
+    },
+    {
+      "ar": "أحرقني",
+      "en": "burned away"
+    },
+    {
+      "ar": "هجرك",
+      "en": "my remoteness from Thy presence"
+    },
+    {
+      "ar": "الحمد",
+      "en": "praise"
+    },
+    {
+      "ar": "أسمعتني",
+      "en": "enabled me to hearken"
+    },
+    {
+      "ar": "ندائك",
+      "en": "Thy call"
+    },
+    {
+      "ar": "شرّفتني",
+      "en": "honored me"
+    },
+    {
+      "ar": "بقُدومك",
+      "en": "with Thy footsteps"
+    },
+    {
+      "ar": "أحييتني",
+      "en": "quickened my soul"
+    },
+    {
+      "ar": "نفحات",
+      "en": "vitalizing fragrance"
+    },
+    {
+      "ar": "أيّامك",
+      "en": "Thy Day"
+    },
+    {
+      "ar": "صرير",
+      "en": "shrilling voice"
+    },
+    {
+      "ar": "قلمك",
+      "en": "Thy Pen"
+    },
+    {
+      "ar": "جعلته",
+      "en": "didst ordain"
+    },
+    {
+      "ar": "صورا",
+      "en": "trumpet-call"
+    },
+    {
+      "ar": "عبادك",
+      "en": "Thy people"
+    },
+    {
+      "ar": "جاء",
+      "en": "did strike"
+    },
+    {
+      "ar": "أمرك",
+      "en": "Faith"
+    },
+    {
+      "ar": "المُبرم",
+      "en": "resistless"
+    },
+    {
+      "ar": "نفخت",
+      "en": "didst breathe a breath"
+    },
+    {
+      "ar": "فيه",
+      "en": "into Thy Pen"
+    },
+    {
+      "ar": "قامت",
+      "en": "shook"
+    },
+    {
+      "ar": "القيمة",
+      "en": "creation"
+    },
+    {
+      "ar": "الكبرى",
+      "en": "entire"
+    },
+    {
+      "ar": "ظهرت",
+      "en": "unveiling"
+    },
+    {
+      "ar": "الأسرار",
+      "en": "mysteries"
+    },
+    {
+      "ar": "المكنونة",
+      "en": "hidden"
+    },
+    {
+      "ar": "خزائن",
+      "en": "treasuries"
+    },
+    {
+      "ar": "مالك",
+      "en": "Possessor"
+    },
+    {
+      "ar": "الأشياء",
+      "en": "all created things"
+    },
+    {
+      "ar": "ندائ",
+      "en": "call"
+    }
+  ],
+  "terms": [
+    {
+      "term": "الفداء",
+      "transliteration": "f-d-y",
+      "literal": "to sacrifice; to ransom; to redeem",
+      "se_rendering": "a sacrifice",
+      "note": "Root f-d-y standardly renders 'sacrifice' or 'ransom.' SE repeats 'a sacrifice' thrice in anaphora, intensifying devotional self-offering through structural repetition.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 808,
+          "snippet": "sacrifice"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 257,
+          "snippet": "sacrifice unto Him"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 17,
+          "snippet": "whose soul be glorified"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 74,
+          "snippet": "may the life of all be a sacrifice unto Him"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 270,
+          "snippet": "to renew"
+        }
+      ]
+    },
+    {
+      "term": "فراقك",
+      "transliteration": "f-r-q",
+      "literal": "faction; sect; group; company",
+      "se_rendering": "Separation from Thee",
+      "note": "Root f-r-q typically means 'sect' or 'faction.' SE renders فراقك as 'Separation,' reinterpreting divisive terminology as ontological distance from the divine.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 6,
+          "snippet": "sect"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 20,
+          "snippet": "the cause of division"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 1,
+          "snippet": "separation"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 32,
+          "snippet": "that separate"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 217,
+          "snippet": "scattered"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 36,
+          "snippet": "cannot distinguish"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 14,
+          "snippet": "separation from Thee"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 827,
+          "snippet": "separation from Whom"
+        }
+      ]
+    },
+    {
+      "term": "قلمك",
+      "transliteration": "q-l-m",
+      "literal": "pen; writing instrument",
+      "se_rendering": "Thy Pen",
+      "note": "Root q-l-m consistently appears as 'Pen' across corpus. SE maintains 'Thy Pen' here, sustaining the metaphysical instrument's agency in creation.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 100,
+          "snippet": "the Pen of the Most High"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 68,
+          "snippet": "the Pen of Glory"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 182,
+          "snippet": "the Most Sublime Pen"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 257,
+          "snippet": "the pen of the Primal Point"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 30,
+          "snippet": "thine heart"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 280,
+          "snippet": "Pen"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 159,
+          "snippet": "My Supreme Pen"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 85,
+          "snippet": "standards"
+        }
+      ]
+    }
+  ],
+  "section_index": "XI.2",
+  "section": "XI",
+  "section_para": 2
 }

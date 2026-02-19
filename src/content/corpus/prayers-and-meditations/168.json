@@ -1,10 +1,517 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 168,
   "source_text": "بِاسْمِكَ فِيْ مَلَكُوتِ أَسْمائِكَ وَرَبَّيْتَهُ تَحْتَ جَناحِ فَضْلِكَ وَأَلْطافِكَ، إِذًا تَراهُ مُسْرِعًا إِلى شَطْرِ مَواهِبِكَ وَراكِضًا إِلَيكَ طَلَبًا لِعَطائِكَ، زَيِّنْهُ يا إِلهِي بِرِدآءِ مَكْرُمَتِكَ وَثَوْبِ جُودِكَ وَكَرَمِكَ لِيَجِدَنَّ مِنْهُ الأَشْيآءُ تَضَوُّعاتِ قَمِيصِ حُبِّكَ، ثُمَّ زَيِّنْ رَأْسَهُ بِإِكْلِيلِ ذِكْرِكَ عَلَى شَأْنٍ يَكُونُ مَعْرُوفًا بَيْنَ العِبادِ بِحُبِّكَ وَالاسْتِقامَةِ فِيْ أَمْرِكَ، ثُمَّ أَيِّدْهُ فِيْ كُلِّ الأَحْوالِ عَلَى نُصْرَتِكَ وَذِكْرِكَ وَثَنَائِكَ بَيْنَ خَلْقِكَ، وَعِزَّتِكَ يا",
   "translation": "Praised be Thou, O Lord my God! This is Thy servant whom Thou hast in the kingdom of Thy names called by Thine own name, and whom Thou hast reared under the wings of Thy grace and favors. Thou seest him, therefore, hastening in the direction of Thy gifts, and rushing forth towards Thee seeking after Thy bounty. Attire him, O my God, with the mantle of Thy favor and the robe of Thy munificence and generosity, that all created things may perceive from him the sweet smell of the raiment of Thy love. Adorn, then, his head with the crown of Thy remembrance, in such wise that his fame may be noised abroad among Thy servants as one who loveth Thee and cleaveth steadfastly to Thy Cause. Assist him, moreover, at all times and under all conditions to help Thee and to remember Thee, and to extol Thy virtues amidst Thy creatures.",
   "source_lang": "ar",
-  "score": 9.7
+  "score": 9.7,
+  "page_slug": "crown-remembrance-raiment-love",
+  "alignment": [
+    {
+      "ar": "بِاسْمِكَ",
+      "en": "by Thine own name"
+    },
+    {
+      "ar": "مَلَكُوتِ",
+      "en": "kingdom"
+    },
+    {
+      "ar": "أَسْمائِكَ",
+      "en": "Thy names"
+    },
+    {
+      "ar": "تَحْتَ",
+      "en": "under"
+    },
+    {
+      "ar": "جَناحِ",
+      "en": "wings"
+    },
+    {
+      "ar": "فَضْلِكَ",
+      "en": "Thy grace"
+    },
+    {
+      "ar": "أَلْطافِكَ",
+      "en": "favors"
+    },
+    {
+      "ar": "إِذًا",
+      "en": "therefore"
+    },
+    {
+      "ar": "تَراهُ",
+      "en": "seest him"
+    },
+    {
+      "ar": "مُسْرِعًا",
+      "en": "hastening"
+    },
+    {
+      "ar": "إِلى شَطْرِ",
+      "en": "in the direction of"
+    },
+    {
+      "ar": "مَواهِبِكَ",
+      "en": "Thy gifts"
+    },
+    {
+      "ar": "راكِضًا",
+      "en": "rushing forth"
+    },
+    {
+      "ar": "إِلَيكَ",
+      "en": "towards Thee"
+    },
+    {
+      "ar": "طَلَبًا",
+      "en": "seeking"
+    },
+    {
+      "ar": "لِعَطائِكَ",
+      "en": "Thy bounty"
+    },
+    {
+      "ar": "يا إِلهِي",
+      "en": "O my God"
+    },
+    {
+      "ar": "بِرِدآءِ",
+      "en": "with the mantle"
+    },
+    {
+      "ar": "مَكْرُمَتِكَ",
+      "en": "Thy favor"
+    },
+    {
+      "ar": "ثَوْبِ",
+      "en": "robe"
+    },
+    {
+      "ar": "جُودِكَ",
+      "en": "Thy munificence"
+    },
+    {
+      "ar": "كَرَمِكَ",
+      "en": "generosity"
+    },
+    {
+      "ar": "مِنْهُ",
+      "en": "from him"
+    },
+    {
+      "ar": "الأَشْيآءُ",
+      "en": "all created things"
+    },
+    {
+      "ar": "قَمِيصِ",
+      "en": "raiment"
+    },
+    {
+      "ar": "رَأْسَهُ",
+      "en": "his head"
+    },
+    {
+      "ar": "بِإِكْلِيلِ",
+      "en": "with the crown"
+    },
+    {
+      "ar": "ذِكْرِكَ",
+      "en": "Thy remembrance"
+    },
+    {
+      "ar": "عَلَى شَأْنٍ",
+      "en": "in such wise"
+    },
+    {
+      "ar": "يَكُونُ",
+      "en": "may be"
+    },
+    {
+      "ar": "مَعْرُوفًا",
+      "en": "noised abroad"
+    },
+    {
+      "ar": "بَيْنَ",
+      "en": "among"
+    },
+    {
+      "ar": "العِبادِ",
+      "en": "Thy servants"
+    },
+    {
+      "ar": "الاسْتِقامَةِ",
+      "en": "cleaveth steadfastly"
+    },
+    {
+      "ar": "فِيْ أَمْرِكَ",
+      "en": "to Thy Cause"
+    },
+    {
+      "ar": "عَلَى نُصْرَتِكَ",
+      "en": "to help Thee"
+    },
+    {
+      "ar": "وَذِكْرِكَ",
+      "en": "to remember Thee"
+    },
+    {
+      "ar": "ثَنَائِكَ",
+      "en": "to extol Thy virtues"
+    },
+    {
+      "ar": "خَلْقِكَ",
+      "en": "Thy creatures"
+    }
+  ],
+  "terms": [
+    {
+      "term": "مَلَكُوتِ",
+      "transliteration": "m-l-k",
+      "literal": "kingdom; dominion; realm; sovereignty",
+      "se_rendering": "kingdom",
+      "note": "SE typically renders as 'realm' or 'Kingdom' across 70 occurrences; 'kingdom' here aligns with common rendering but in lower case within subordinate clause structure.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-ahd",
+          "para": 16,
+          "snippet": "heaven"
+        },
+        {
+          "work": "gleanings",
+          "para": 394,
+          "snippet": "realm"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 171,
+          "snippet": "kingdom"
+        },
+        {
+          "work": "gleanings",
+          "para": 313,
+          "snippet": "heavenly gem"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 69,
+          "snippet": "realms"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 28,
+          "snippet": "righteous"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 167,
+          "snippet": "by the heavenly power"
+        },
+        {
+          "work": "gleanings",
+          "para": 59,
+          "snippet": "Lord"
+        }
+      ]
+    },
+    {
+      "term": "زَيِّنْهُ",
+      "transliteration": "z-y-n",
+      "literal": "to adorn; ornament; beauty",
+      "se_rendering": "Attire",
+      "note": "Renders as 'Attire', 'Adorn' across 29 occurrences. Repetition (twice in this passage: 'Attire him' then 'Adorn his head') emphasizes metaphorical decoration of the servant.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 15,
+          "snippet": "Attire"
+        },
+        {
+          "work": "gleanings",
+          "para": 639,
+          "snippet": "adorned"
+        },
+        {
+          "work": "gleanings",
+          "para": 608,
+          "snippet": "adorning"
+        },
+        {
+          "work": "gleanings",
+          "para": 216,
+          "snippet": "adorned thee"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 102,
+          "snippet": "adorn"
+        },
+        {
+          "work": "gleanings",
+          "para": 179,
+          "snippet": "adorn them"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 199,
+          "snippet": "doth but add unto their loss"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 134,
+          "snippet": "Beware"
+        }
+      ]
+    },
+    {
+      "term": "الأَشْيآءُ",
+      "transliteration": "sh-y-ʾ",
+      "literal": "thing; something",
+      "se_rendering": "all created things",
+      "note": "Usually 'things' or 'earthly things' (41 occ); here 'all created things' extends sensory perception universally—nothing escapes the fragrance of this divine love manifested.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 708,
+          "snippet": "nothingness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 37,
+          "snippet": "something"
+        },
+        {
+          "work": "gleanings",
+          "para": 368,
+          "snippet": "thing"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 15,
+          "snippet": "earthly things"
+        },
+        {
+          "work": "gleanings",
+          "para": 153,
+          "snippet": "transitory things"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 35,
+          "snippet": "all things"
+        },
+        {
+          "work": "gleanings",
+          "para": 161,
+          "snippet": "created things"
+        },
+        {
+          "work": "gleanings",
+          "para": 154,
+          "snippet": "creation"
+        }
+      ]
+    },
+    {
+      "term": "حُبِّكَ",
+      "transliteration": "ḥ-b-b",
+      "literal": "love; affection",
+      "se_rendering": "love",
+      "note": "Consistently 'love' across corpus. 'Raiment of Thy love' is the most concretely sensory deployment of this term in Bahá'í prayer literature, emphasizing divine affection made perceptible.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 3,
+          "snippet": "beloved of the Lord"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 53,
+          "snippet": "loved ones of the Lord"
+        },
+        {
+          "work": "gleanings",
+          "para": 341,
+          "snippet": "loved ones of God"
+        },
+        {
+          "work": "gleanings",
+          "para": 689,
+          "snippet": "beloved of the one true God"
+        },
+        {
+          "work": "gleanings",
+          "para": 640,
+          "snippet": "loved ones"
+        },
+        {
+          "work": "gleanings",
+          "para": 690,
+          "snippet": "beloved of God"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 39,
+          "snippet": "His loved ones"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 10,
+          "snippet": "love for Thee"
+        }
+      ]
+    },
+    {
+      "term": "ذِكْرِكَ",
+      "transliteration": "dh-k-r",
+      "literal": "remembrance; mention; memory",
+      "se_rendering": "remembrance",
+      "note": "Standard rendering 'remembrance' appears three times in this passage alone, anchoring commemoration, mental recollection, and oral praise as unified spiritual practice.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 597,
+          "snippet": "remembrance"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 54,
+          "snippet": "mention"
+        },
+        {
+          "work": "gleanings",
+          "para": 237,
+          "snippet": "Then it was recalled"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 117,
+          "snippet": "Time and again have I declared"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 39,
+          "snippet": "deliberate"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 274,
+          "snippet": "aforementioned"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 112,
+          "snippet": "recorded"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 34,
+          "snippet": "confined in that"
+        }
+      ]
+    },
+    {
+      "term": "أَمْرِكَ",
+      "transliteration": "ʾ-m-r",
+      "literal": "command; cause; matter; affair",
+      "se_rendering": "Cause",
+      "note": "SE typically 'Cause' or 'command' across 75 occurrences; 'Thy Cause' here carries the Bahá'í technical sense of the divine mission as specific, historical religious movement.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "His Cause"
+        },
+        {
+          "work": "gleanings",
+          "para": 586,
+          "snippet": "His command"
+        },
+        {
+          "work": "gleanings",
+          "para": 691,
+          "snippet": "His Revelation"
+        },
+        {
+          "work": "gleanings",
+          "para": 723,
+          "snippet": "Cause"
+        },
+        {
+          "work": "gleanings",
+          "para": 8,
+          "snippet": "Revelation"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 167,
+          "snippet": "things"
+        },
+        {
+          "work": "gleanings",
+          "para": 524,
+          "snippet": "your affairs"
+        },
+        {
+          "work": "gleanings",
+          "para": 495,
+          "snippet": "affairs"
+        }
+      ]
+    },
+    {
+      "term": "نُصْرَتِكَ",
+      "transliteration": "n-s-r",
+      "literal": "aid, help, succor, victory, support",
+      "se_rendering": "help Thee",
+      "note": "SE renders as 'assist Thee', 'aid' across 39 occurrences; 'help Thee' here is intimate and direct, naming active service as spiritual condition.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 180,
+          "snippet": "extended Our aid"
+        },
+        {
+          "work": "gleanings",
+          "para": 419,
+          "snippet": "triumph of this"
+        },
+        {
+          "work": "gleanings",
+          "para": 564,
+          "snippet": "Help ye"
+        },
+        {
+          "work": "gleanings",
+          "para": 428,
+          "snippet": "aid"
+        },
+        {
+          "work": "gleanings",
+          "para": 699,
+          "snippet": "triumph"
+        },
+        {
+          "work": "gleanings",
+          "para": 663,
+          "snippet": "service"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 35,
+          "snippet": "We shall render Thee victorious"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 47,
+          "snippet": "helper"
+        }
+      ]
+    }
+  ],
+  "section_index": "XLIV.5",
+  "section": "XLIV",
+  "section_para": 5
 }

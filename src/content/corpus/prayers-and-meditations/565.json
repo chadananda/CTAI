@@ -1,10 +1,177 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 565,
   "source_text": "إِلاَّ أَنْتَ المُتَعالِ العَزِيزُ المَنَّانُ.",
   "translation": "There is none other God but Thee, the Almighty, the Beneficent.",
   "source_lang": "ar",
-  "score": 9.9
+  "score": 9.9,
+  "page_slug": "almighty-beneficent",
+  "alignment": [
+    {
+      "ar": "أَنْتَ",
+      "en": "Thee"
+    },
+    {
+      "ar": "المُتَعالِ",
+      "en": "God"
+    },
+    {
+      "ar": "العَزِيزُ",
+      "en": "the Almighty"
+    }
+  ],
+  "terms": [
+    {
+      "term": "المُتَعالِ",
+      "transliteration": "ʿ-l-w",
+      "literal": "highest; most high; supreme",
+      "se_rendering": "the Almighty",
+      "note": "Predominantly rendered 'the Most High' or 'supreme' across 74 occurrences. 'Almighty' here deviates sharply, prioritizing power over transcendence.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 1,
+          "snippet": "the Most High"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 148,
+          "snippet": "the Most Sublime Pen"
+        },
+        {
+          "work": "gleanings",
+          "para": 232,
+          "snippet": "supreme"
+        },
+        {
+          "work": "gleanings",
+          "para": 616,
+          "snippet": "the realms above"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 68,
+          "snippet": "the Pen of Glory"
+        },
+        {
+          "work": "gleanings",
+          "para": 393,
+          "snippet": "The Pen of the Most High"
+        },
+        {
+          "work": "gleanings",
+          "para": 697,
+          "snippet": "the Dayspring of Glory"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 1,
+          "snippet": "the Realm of Glory"
+        }
+      ]
+    },
+    {
+      "term": "العَزِيزُ",
+      "transliteration": "ʿ-z-z",
+      "literal": "glory; might; honor; dignity; power; majesty",
+      "se_rendering": "the Beneficent",
+      "note": "Typically 'glory' or 'exalted' in 49 instances. Rendered 'the Beneficent' here—unique attribution that shifts emphasis from divine might to gracious bestowal.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 185,
+          "snippet": "glory"
+        },
+        {
+          "work": "gleanings",
+          "para": 642,
+          "snippet": "honor"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 99,
+          "snippet": "Dear"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 38,
+          "snippet": "dearly beloved"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 37,
+          "snippet": "Gracious"
+        },
+        {
+          "work": "gleanings",
+          "para": 260,
+          "snippet": "All-Glorious"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 162,
+          "snippet": "Mighty"
+        },
+        {
+          "work": "gleanings",
+          "para": 660,
+          "snippet": "powerful"
+        }
+      ]
+    },
+    {
+      "term": "المَنَّانُ",
+      "transliteration": "m-n-n",
+      "literal": "to grant, bestow favor; grace, bounty, kindness",
+      "se_rendering": "the Beneficent",
+      "note": "Standard rendering is 'the Beneficent' across 17 occurrences. SE's choice here is consistent with the root's semantic range of grace and bounty.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 27,
+          "snippet": "hath graciously favoured"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 29,
+          "snippet": "beyond which there is no passing"
+        },
+        {
+          "work": "gleanings",
+          "para": 165,
+          "snippet": "Mine"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 39,
+          "snippet": "honesty"
+        },
+        {
+          "work": "gleanings",
+          "para": 621,
+          "snippet": "trustworthiness"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 32,
+          "snippet": "my Refuge"
+        },
+        {
+          "work": "gleanings",
+          "para": 582,
+          "snippet": "in the sight of God the All-Glorious"
+        },
+        {
+          "work": "gleanings",
+          "para": 351,
+          "snippet": "towards the Most Great Revelation"
+        }
+      ]
+    }
+  ],
+  "section_index": "CXXVIII.5",
+  "section": "CXXVIII",
+  "section_para": 5
 }

@@ -1,10 +1,241 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 459,
   "source_text": "لا إِلهَ إِلاَّ أَنْتَ وَإِنَّكَ أَنْتَ مَحْبُوبِي فِي الدُّنْيَا وَالآخِرَةِ وَإِنَّكَ أَنْتَ مَقْصُودُ العَارِفِينَ وَالحَمْدُ",
   "translation": "No God is there beside Thee, Thou alone art my Beloved in this world and in the world which is to come. Thou alone art the Desire of all them that have recognized Thee.",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "beloved-desire-recognized",
+  "alignment": [
+    {
+      "ar": "لا",
+      "en": "No"
+    },
+    {
+      "ar": "إِلهَ",
+      "en": "God"
+    },
+    {
+      "ar": "أَنْتَ",
+      "en": "Thee"
+    },
+    {
+      "ar": "مَحْبُوبِي",
+      "en": "my Beloved"
+    },
+    {
+      "ar": "الآخِرَةِ",
+      "en": "the world which is to come"
+    },
+    {
+      "ar": "مَقْصُودُ",
+      "en": "Desire"
+    },
+    {
+      "ar": "العَارِفِينَ",
+      "en": "all them that have recognized"
+    },
+    {
+      "ar": "الحَمْدُ",
+      "en": ""
+    }
+  ],
+  "terms": [
+    {
+      "term": "مَحْبُوبِي",
+      "transliteration": "ḥ-b-b",
+      "literal": "love; affection",
+      "se_rendering": "my Beloved",
+      "note": "Root ḥ-b-b typically rendered as 'beloved of the Lord' or 'loved ones' in plural contexts. Singular possessive 'my Beloved' emphasizes intimate personal devotion rather than collective status.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 3,
+          "snippet": "beloved of the Lord"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 53,
+          "snippet": "loved ones of the Lord"
+        },
+        {
+          "work": "gleanings",
+          "para": 341,
+          "snippet": "loved ones of God"
+        },
+        {
+          "work": "gleanings",
+          "para": 689,
+          "snippet": "beloved of the one true God"
+        },
+        {
+          "work": "gleanings",
+          "para": 640,
+          "snippet": "loved ones"
+        },
+        {
+          "work": "gleanings",
+          "para": 690,
+          "snippet": "beloved of God"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 39,
+          "snippet": "His loved ones"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 10,
+          "snippet": "love for Thee"
+        }
+      ]
+    },
+    {
+      "term": "الدُّنْيَا",
+      "transliteration": "d-n-y",
+      "literal": "this world; earthly life; temporal realm",
+      "se_rendering": "this world",
+      "note": "Root d-n-y typically 'this world' or 'earthly things'. SE maintains standard rendering; establishes temporal duality with hereafter in paired construction.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 248,
+          "snippet": "this life"
+        },
+        {
+          "work": "gleanings",
+          "para": 661,
+          "snippet": "world"
+        },
+        {
+          "work": "gleanings",
+          "para": 663,
+          "snippet": "this world"
+        },
+        {
+          "work": "gleanings",
+          "para": 699,
+          "snippet": "earthly things"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 38,
+          "snippet": "know"
+        },
+        {
+          "work": "gleanings",
+          "para": 715,
+          "snippet": "described"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 244,
+          "snippet": "knowest"
+        }
+      ]
+    },
+    {
+      "term": "مَقْصُودُ",
+      "transliteration": "q-s-d",
+      "literal": "intention; purpose; aim; goal; to seek; to direct oneself",
+      "se_rendering": "Desire",
+      "note": "Root q-s-d displays wide semantic range: 'Seek', 'goal', 'aim', 'purpose'. 'Desire' here personalizes the abstract goal, rendering it as an emotional/volitional yearning rather than detached intention.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 204,
+          "snippet": "Seek"
+        },
+        {
+          "work": "gleanings",
+          "para": 602,
+          "snippet": "goal"
+        },
+        {
+          "work": "gleanings",
+          "para": 672,
+          "snippet": "direct"
+        },
+        {
+          "work": "gleanings",
+          "para": 683,
+          "snippet": "hasten to embrace"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 64,
+          "snippet": "aim"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 43,
+          "snippet": "purpose"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 47,
+          "snippet": "my heart's Desire"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 5,
+          "snippet": "my Desire"
+        }
+      ]
+    },
+    {
+      "term": "العَارِفِينَ",
+      "transliteration": "ʿ-r-f",
+      "literal": "to confess; to acknowledge; to recognize",
+      "se_rendering": "have recognized Thee",
+      "note": "Root ʿ-r-f usually 'acknowledged' or 'testifieth'. Here 'have recognized Thee' stresses recognition as active cognition of divine reality, matching SE's broader pattern across 82 occurrences.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 135,
+          "snippet": "hath acknowledged"
+        },
+        {
+          "work": "gleanings",
+          "para": 568,
+          "snippet": "acknowledged"
+        },
+        {
+          "work": "gleanings",
+          "para": 295,
+          "snippet": "made objections"
+        },
+        {
+          "work": "gleanings",
+          "para": 87,
+          "snippet": "knowledge"
+        },
+        {
+          "work": "gleanings",
+          "para": 2,
+          "snippet": "perception"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 5,
+          "snippet": "acknowledging"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 4,
+          "snippet": "fragrance of His garment"
+        },
+        {
+          "work": "gleanings",
+          "para": 214,
+          "snippet": "acknowledge"
+        }
+      ]
+    }
+  ],
+  "section_index": "CVII.3",
+  "section": "CVII",
+  "section_para": 3
 }

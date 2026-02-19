@@ -1,10 +1,639 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 222,
   "source_text": "إِلى شَطْرِ فَضْلِكَ وَمَواهِبِكَ وَلا تَحْرِمْ عِبادَكَ الْمُخْلِصِيْنَ عَنْ بَدائِعِ فَضْلِكَ وَإِفْضالِكَ، أَيْ رَبِّ أَنْتَ الْغَفُورُ وَأَنْتَ الْكرِيْمُ وَأَنْتَ المُقْتَدِرُ عَلَى ما تَشاءُ وَما سِواكَ عُجَزَآءُ لَدَی ظُهُوراتِ قُدْرَتِكَ وَفُقَدآءُ لَدَى آثارِ غَنائِكَ وَعُدَمآءُ عِنْدَ ظُهُوراتِ عِزِّ سَلْطَنَتِكَ وَضُعَفآءُ عِنْدَ شُؤُوناتِ قُدْرَتِكَ، أَيْ رَبِّ هَلْ دُوْنَكَ مِنْ مَهْرَبٍ لِنَهْرُبَ إِلَيْهِ أَوْ سِواكَ مِنْ مَلْجَأٍ لأَسْرُعَ إِلَيْهِ، لا وَعِزَّتِكَ لا عاصِمَ إِلاَّ أَنْتَ وَلا مَفَرَّ إِلاَّ أَنْتَ وَلا مَهْرَبَ إِلاَّ إِلَيْكَ، أَيْ رَبِّ أَذِقْنِيْ حَلاوَةَ ذِكْرِكَ وَثَنائِكَ فَوَعِزَّتِكَ مَنْ ذاقَ حَلاوَتَهُ انْقَطَعَ عَنِ الدُّنْيا وَما خُلِقَ فِيْها وَتَوَجَّهَ إِلَيْكَ مُطَهَّرًا عَنْ ذِكْرِ دُوْنِكَ، يا إِلهِي فَأَلْهِمْنِيْ مِنْ بَدَائِعِ",
   "translation": "Cast not away, O my Lord, him that hath turned towards Thee, nor suffer him who hath drawn nigh unto Thee to be removed far from Thy court. Dash not the hopes of the suppliant who hath longingly stretched out his hands to seek Thy grace and favors, and deprive not Thy sincere servants of the wonders of Thy tender mercies and loving-kindness. Forgiving and Most Bountiful art Thou, O my Lord! Power hast Thou to do what Thou pleasest. All else but Thee are impotent before the revelations of Thy might, are as lost in the face of the evidences of Thy wealth, are as nothing when compared with the manifestations of Thy transcendent sovereignty, and are destitute of all strength when face to face with the signs and tokens of Thy power. What refuge is there beside Thee, O my Lord, to which I can flee, and where is there a haven to which I can hasten? Nay, the power of Thy might beareth me witness! No protector is there but Thee, no place to flee to except Thee, no refuge to seek save Thee. Cause me to taste, O my Lord, the divine sweetness of Thy remembrance and praise. I swear by Thy might! Whosoever tasteth of its sweetness will rid himself of all attachment to the world and all that is therein, and will set his face towards Thee, cleansed from the remembrance of any one except Thee.",
   "source_lang": "ar",
-  "score": 9.4
+  "score": 9.4,
+  "page_slug": "taste-divine-sweetness-remembrance",
+  "alignment": [
+    {
+      "ar": "إِلى",
+      "en": "towards"
+    },
+    {
+      "ar": "فَضْلِكَ",
+      "en": "Thy grace"
+    },
+    {
+      "ar": "وَمَواهِبِكَ",
+      "en": "and favors"
+    },
+    {
+      "ar": "وَلا",
+      "en": "nor"
+    },
+    {
+      "ar": "تَحْرِمْ",
+      "en": "deprive"
+    },
+    {
+      "ar": "عِبادَكَ",
+      "en": "Thy sincere servants"
+    },
+    {
+      "ar": "الْمُخْلِصِيْنَ",
+      "en": "sincere"
+    },
+    {
+      "ar": "عَنْ",
+      "en": "of"
+    },
+    {
+      "ar": "بَدائِعِ",
+      "en": "the wonders"
+    },
+    {
+      "ar": "فَضْلِكَ",
+      "en": "Thy tender mercies"
+    },
+    {
+      "ar": "وَإِفْضالِكَ",
+      "en": "and loving-kindness"
+    },
+    {
+      "ar": "أَيْ",
+      "en": "O"
+    },
+    {
+      "ar": "أَنْتَ",
+      "en": "art Thou"
+    },
+    {
+      "ar": "الْغَفُورُ",
+      "en": "Forgiving"
+    },
+    {
+      "ar": "وَأَنْتَ",
+      "en": "and"
+    },
+    {
+      "ar": "الْكرِيْمُ",
+      "en": "Most Bountiful"
+    },
+    {
+      "ar": "وَأَنْتَ",
+      "en": "Thou"
+    },
+    {
+      "ar": "المُقْتَدِرُ",
+      "en": "Power hast"
+    },
+    {
+      "ar": "عَلَى",
+      "en": "to do"
+    },
+    {
+      "ar": "ما",
+      "en": "what"
+    },
+    {
+      "ar": "تَشاءُ",
+      "en": "Thou pleasest"
+    },
+    {
+      "ar": "وَما",
+      "en": "All"
+    },
+    {
+      "ar": "سِواكَ",
+      "en": "else but Thee"
+    },
+    {
+      "ar": "عُجَزَآءُ",
+      "en": "impotent"
+    },
+    {
+      "ar": "لَدَی",
+      "en": "before"
+    },
+    {
+      "ar": "ظُهُوراتِ",
+      "en": "the revelations"
+    },
+    {
+      "ar": "قُدْرَتِكَ",
+      "en": "of Thy might"
+    },
+    {
+      "ar": "وَفُقَدآءُ",
+      "en": "as lost"
+    },
+    {
+      "ar": "لَدَى",
+      "en": "in the face"
+    },
+    {
+      "ar": "آثارِ",
+      "en": "the evidences"
+    },
+    {
+      "ar": "غَنائِكَ",
+      "en": "of Thy wealth"
+    },
+    {
+      "ar": "وَعُدَمآءُ",
+      "en": "as nothing"
+    },
+    {
+      "ar": "عِنْدَ",
+      "en": "when compared with"
+    },
+    {
+      "ar": "ظُهُوراتِ",
+      "en": "the manifestations"
+    },
+    {
+      "ar": "سَلْطَنَتِكَ",
+      "en": "sovereignty"
+    },
+    {
+      "ar": "وَضُعَفآءُ",
+      "en": "destitute of all strength"
+    },
+    {
+      "ar": "عِنْدَ",
+      "en": "when face to face with"
+    },
+    {
+      "ar": "شُؤُوناتِ",
+      "en": "the signs and tokens"
+    },
+    {
+      "ar": "قُدْرَتِكَ",
+      "en": "of Thy power"
+    },
+    {
+      "ar": "هَلْ",
+      "en": "What"
+    },
+    {
+      "ar": "دُوْنَكَ",
+      "en": "beside Thee"
+    },
+    {
+      "ar": "مِنْ",
+      "en": "is there"
+    },
+    {
+      "ar": "مَهْرَبٍ",
+      "en": "refuge"
+    },
+    {
+      "ar": "لِنَهْرُبَ",
+      "en": "I can flee"
+    },
+    {
+      "ar": "إِلَيْهِ",
+      "en": "to which"
+    },
+    {
+      "ar": "أَوْ",
+      "en": "and where"
+    },
+    {
+      "ar": "مِنْ",
+      "en": "a"
+    },
+    {
+      "ar": "مَلْجَأٍ",
+      "en": "haven"
+    },
+    {
+      "ar": "لأَسْرُعَ",
+      "en": "I can hasten"
+    },
+    {
+      "ar": "لا",
+      "en": "Nay"
+    },
+    {
+      "ar": "لا",
+      "en": "No"
+    },
+    {
+      "ar": "عاصِمَ",
+      "en": "protector"
+    },
+    {
+      "ar": "أَنْتَ",
+      "en": "Thee"
+    },
+    {
+      "ar": "وَلا",
+      "en": "no"
+    },
+    {
+      "ar": "مَهْرَبَ",
+      "en": "refuge to seek"
+    },
+    {
+      "ar": "أَذِقْنِيْ",
+      "en": "Cause me to taste"
+    },
+    {
+      "ar": "حَلاوَةَ",
+      "en": "the divine sweetness"
+    },
+    {
+      "ar": "ذِكْرِكَ",
+      "en": "of Thy remembrance"
+    },
+    {
+      "ar": "وَثَنائِكَ",
+      "en": "and praise"
+    },
+    {
+      "ar": "مَنْ",
+      "en": "Whosoever"
+    },
+    {
+      "ar": "ذاقَ",
+      "en": "tasteth"
+    },
+    {
+      "ar": "حَلاوَتَهُ",
+      "en": "of its sweetness"
+    },
+    {
+      "ar": "انْقَطَعَ",
+      "en": "will rid himself"
+    },
+    {
+      "ar": "وَما",
+      "en": "and all that"
+    },
+    {
+      "ar": "خُلِقَ",
+      "en": "is"
+    },
+    {
+      "ar": "فِيْها",
+      "en": "therein"
+    },
+    {
+      "ar": "إِلَيْكَ",
+      "en": "towards Thee"
+    },
+    {
+      "ar": "عَنْ",
+      "en": "from"
+    },
+    {
+      "ar": "ذِكْرِ",
+      "en": "the remembrance"
+    },
+    {
+      "ar": "دُوْنِكَ",
+      "en": "of any one except Thee"
+    },
+    {
+      "ar": "إِلهِي",
+      "en": "my"
+    },
+    {
+      "ar": "فَأَلْهِمْنِيْ",
+      "en": "Cause me"
+    }
+  ],
+  "terms": [
+    {
+      "term": "الغفور",
+      "transliteration": "gh-f-r",
+      "literal": "to forgive; forgiveness",
+      "se_rendering": "Forgiving",
+      "note": "Root غ-ف-ر typically rendered 'the Ever-Forgiving' or 'the Forgiving' in Jafar data. Here SE isolates the single epithet 'Forgiving' in direct address, stressing God's merciful character at prayer's opening.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 13,
+          "snippet": "wronged"
+        },
+        {
+          "work": "gleanings",
+          "para": 217,
+          "snippet": "forgive"
+        },
+        {
+          "work": "gleanings",
+          "para": 652,
+          "snippet": "forgiveness"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 35,
+          "snippet": "Thy forgiveness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 192,
+          "snippet": "pardon"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 682,
+          "snippet": "forgivest"
+        }
+      ]
+    },
+    {
+      "term": "الكريم",
+      "transliteration": "k-r-m",
+      "literal": "Carmel (Mount Carmel); vineyard, fruitful field",
+      "se_rendering": "Most Bountiful",
+      "note": "Jafar shows this root primarily means Mount Carmel or fruitful field, yet SE renders 'Most Bountiful'—following theological tradition where كريم means generous. This represents consistent semantic enrichment rather than literal geography.",
+      "cross_refs": [
+        {
+          "work": "tablet-of-carmel",
+          "para": 4,
+          "snippet": "O Carmel"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 211,
+          "snippet": "Carmel"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 50,
+          "snippet": "the All-Bountiful"
+        },
+        {
+          "work": "gleanings",
+          "para": 234,
+          "snippet": "of immense bounteous grace"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 26,
+          "snippet": "the Gracious"
+        },
+        {
+          "work": "gleanings",
+          "para": 608,
+          "snippet": "the All-Forgiving, the Gracious"
+        },
+        {
+          "work": "gleanings",
+          "para": 642,
+          "snippet": "the Mighty, the Generous"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 144,
+          "snippet": "generosity"
+        }
+      ]
+    },
+    {
+      "term": "المقتدر",
+      "transliteration": "q-d-r",
+      "literal": "power; might; decree; measure; worth",
+      "se_rendering": "Power",
+      "note": "Typically 'Thy power' or 'hath decreed' across 100 occurrences. Here SE uses 'Power hast Thou to do'—an inversion emphasizing volitional omnipotence, not mere capability or decree.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 171,
+          "snippet": "a while"
+        },
+        {
+          "work": "gleanings",
+          "para": 138,
+          "snippet": "hath been decreed"
+        },
+        {
+          "work": "gleanings",
+          "para": 662,
+          "snippet": "hath decreed"
+        },
+        {
+          "work": "gleanings",
+          "para": 496,
+          "snippet": "forbearing towards"
+        },
+        {
+          "work": "gleanings",
+          "para": 111,
+          "snippet": "schools"
+        },
+        {
+          "work": "gleanings",
+          "para": 532,
+          "snippet": "can"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 4,
+          "snippet": "for a moment"
+        },
+        {
+          "work": "gleanings",
+          "para": 112,
+          "snippet": "Thy might"
+        }
+      ]
+    },
+    {
+      "term": "ظهورات",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "revelations",
+      "note": "Root ظ-ه-ر usually 'Manifestation' or 'manifestation' (96 occ). SE renders 'revelations' here, choosing an epistemological term over metaphysical appearing—emphasizing disclosure rather than theophany.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 53,
+          "snippet": "Manifestation"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 136,
+          "snippet": "evident"
+        },
+        {
+          "work": "gleanings",
+          "para": 222,
+          "snippet": "material"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 206,
+          "snippet": "appeared"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 196,
+          "snippet": "Manifestations of God"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 32,
+          "snippet": "overwhelm the soul"
+        }
+      ]
+    },
+    {
+      "term": "ذكرك",
+      "transliteration": "dh-k-r",
+      "literal": "remembrance; mention; memory",
+      "se_rendering": "remembrance",
+      "note": "Root ذ-ك-ر typically 'remembrance' (57 occ), occasionally 'mention' or 'memory'. SE maintains 'remembrance' here, preserving the Sufi spiritual sense of divine recall as mystical practice.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 597,
+          "snippet": "remembrance"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 54,
+          "snippet": "mention"
+        },
+        {
+          "work": "gleanings",
+          "para": 237,
+          "snippet": "Then it was recalled"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 117,
+          "snippet": "Time and again have I declared"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 39,
+          "snippet": "deliberate"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 274,
+          "snippet": "aforementioned"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 112,
+          "snippet": "recorded"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 34,
+          "snippet": "confined in that"
+        }
+      ]
+    },
+    {
+      "term": "انقطع",
+      "transliteration": "q-t-ʿ",
+      "literal": "to be severed; to be cut off; to detach oneself; to abstain",
+      "se_rendering": "rid himself",
+      "note": "Typically 'detached themselves' or 'sundered' (33 occ). SE renders 'rid himself'—a lighter, more psychological metaphor than severance, capturing inner detachment from material attachment.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 662,
+          "snippet": "detacheth himself"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 11,
+          "snippet": "decisive"
+        },
+        {
+          "work": "gleanings",
+          "para": 310,
+          "snippet": "cut into pieces"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 16,
+          "snippet": "detachment"
+        },
+        {
+          "work": "gleanings",
+          "para": 255,
+          "snippet": "detached"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 218,
+          "snippet": "renounced"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 682,
+          "snippet": "wholly detached"
+        },
+        {
+          "work": "gleanings",
+          "para": 490,
+          "snippet": "cut off"
+        }
+      ]
+    },
+    {
+      "term": "مطهرا",
+      "transliteration": "t-h-r",
+      "literal": "to purify; to cleanse",
+      "se_rendering": "cleansed",
+      "note": "Root ط-ه-ر renders 'purified' or 'purify' across 20 occ. SE uses 'cleansed'—a gentler, more immediate action than purification, suggesting ritual or hygienic clarity.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 578,
+          "snippet": "purified"
+        },
+        {
+          "work": "gleanings",
+          "para": 466,
+          "snippet": "Tihrán"
+        },
+        {
+          "work": "gleanings",
+          "para": 589,
+          "snippet": "Essence of Purity"
+        },
+        {
+          "work": "gleanings",
+          "para": 212,
+          "snippet": "most holy habitation"
+        },
+        {
+          "work": "gleanings",
+          "para": 617,
+          "snippet": "purify"
+        },
+        {
+          "work": "gleanings",
+          "para": 726,
+          "snippet": "pure and undefiled"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 170,
+          "snippet": "Purge"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 223,
+          "snippet": "pure heart"
+        }
+      ]
+    }
+  ],
+  "section_index": "LVI.6",
+  "section": "LVI",
+  "section_para": 6
 }

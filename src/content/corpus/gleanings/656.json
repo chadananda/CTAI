@@ -1,10 +1,697 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 656,
   "source_text": "عطائک و نزلت امطار جودک علی حقایق خلقک\nای ربّ انا الّذی اقررت بکلّ العصیان و اعترفت بما لا اعترف به اهل الامکان سرعت الی شاطئ غفرانک و سکنت فی ظلّ خیام مکرمتک اسألک یا مالک القدم و المهیمن علی العالم بأن تظهر منّی ما تطیر به الأرواح فی هوآء حبّک و النّفوس فی فضآء انسک ثمّ قدّر لی قوّة بسلطانک لأقلّب بها الممکنات الی مطلع ظهورک و مشرق وحیک ای ربّ فاجعلنی بکلّی فانیاً فی رضائک و قائماً علی خدمتک لأنّی احبّ الحیوة لأطوف حول سرادق امرک و خیام عظمتک ترانی یا الهی منقطعاً الیک و خاضعاً لدیک فافعل بی ما انت اهله و ینبغی لجلالک و یلیق",
   "translation": "I am he, O my Lord, that hath confessed to Thee the multitude of his evil doings, that hath acknowledged what no man hath acknowledged. I have made haste to attain unto the ocean of Thy forgiveness, and have sought shelter beneath the shadow of Thy most gracious favor. Grant, I beseech Thee, O Thou Who art the Everlasting King and the Sovereign Protector of all men, that I may be enabled to manifest that which shall cause the hearts and souls of men to soar in the limitless immensity of Thy love, and to commune with Thy Spirit. Strengthen me through the power of Thy sovereignty, that I may turn all created things towards the Dayspring of Thy Manifestation and the Source of Thy Revelation. Aid me, O my Lord, to surrender myself wholly to Thy Will, and to arise and serve Thee, for I cherish this earthly life for no other purpose than to compass the Tabernacle of Thy Revelation and the Seat of Thy Glory. Thou seest me, O my God, detached from all else but Thee, and humble and subservient to Thy Will. Deal with me as it beseemeth Thee, and as it befitteth Thy highness and great glory.",
   "source_lang": "ar",
-  "score": 9.9
+  "score": 9.9,
+  "page_slug": "surrender-wholly-to-thy-will",
+  "alignment": [
+    {
+      "ar": "عطائک",
+      "en": "Thy most gracious favor"
+    },
+    {
+      "ar": "نزلت",
+      "en": "sought shelter beneath"
+    },
+    {
+      "ar": "امطار",
+      "en": "ocean"
+    },
+    {
+      "ar": "جودک",
+      "en": "Thy forgiveness"
+    },
+    {
+      "ar": "حقایق",
+      "en": "hearts and souls"
+    },
+    {
+      "ar": "خلقک",
+      "en": "men"
+    },
+    {
+      "ar": "ربّ",
+      "en": "my Lord"
+    },
+    {
+      "ar": "انا",
+      "en": "I am"
+    },
+    {
+      "ar": "الّذی",
+      "en": "he"
+    },
+    {
+      "ar": "اقررت",
+      "en": "hath confessed"
+    },
+    {
+      "ar": "بکلّ",
+      "en": "the multitude"
+    },
+    {
+      "ar": "العصیان",
+      "en": "his evil doings"
+    },
+    {
+      "ar": "اعترفت",
+      "en": "hath acknowledged"
+    },
+    {
+      "ar": "ما",
+      "en": "what"
+    },
+    {
+      "ar": "لا",
+      "en": "no"
+    },
+    {
+      "ar": "اعترف",
+      "en": "acknowledged"
+    },
+    {
+      "ar": "اهل",
+      "en": "man"
+    },
+    {
+      "ar": "سرعت",
+      "en": "have made haste"
+    },
+    {
+      "ar": "الی",
+      "en": "to attain unto"
+    },
+    {
+      "ar": "سکنت",
+      "en": "sought shelter"
+    },
+    {
+      "ar": "فی",
+      "en": "beneath"
+    },
+    {
+      "ar": "ظلّ",
+      "en": "shadow"
+    },
+    {
+      "ar": "خیام",
+      "en": "favor"
+    },
+    {
+      "ar": "مکرمتک",
+      "en": "most gracious"
+    },
+    {
+      "ar": "اسألک",
+      "en": "I beseech Thee"
+    },
+    {
+      "ar": "مالک",
+      "en": "King"
+    },
+    {
+      "ar": "القدم",
+      "en": "Everlasting"
+    },
+    {
+      "ar": "المهیمن",
+      "en": "Protector"
+    },
+    {
+      "ar": "علی",
+      "en": "of"
+    },
+    {
+      "ar": "العالم",
+      "en": "all men"
+    },
+    {
+      "ar": "بأن",
+      "en": "that"
+    },
+    {
+      "ar": "تظهر",
+      "en": "may be enabled to manifest"
+    },
+    {
+      "ar": "منّی",
+      "en": "I"
+    },
+    {
+      "ar": "تطیر",
+      "en": "soar"
+    },
+    {
+      "ar": "به",
+      "en": "that which"
+    },
+    {
+      "ar": "الأرواح",
+      "en": "souls"
+    },
+    {
+      "ar": "فی",
+      "en": "in"
+    },
+    {
+      "ar": "هوآء",
+      "en": "immensity"
+    },
+    {
+      "ar": "حبّک",
+      "en": "Thy love"
+    },
+    {
+      "ar": "النّفوس",
+      "en": "hearts"
+    },
+    {
+      "ar": "فضآء",
+      "en": "limitless"
+    },
+    {
+      "ar": "انسک",
+      "en": "commune with Thy Spirit"
+    },
+    {
+      "ar": "ثمّ",
+      "en": "then"
+    },
+    {
+      "ar": "قدّر",
+      "en": "Strengthen"
+    },
+    {
+      "ar": "لی",
+      "en": "me"
+    },
+    {
+      "ar": "قوّة",
+      "en": "power"
+    },
+    {
+      "ar": "بسلطانک",
+      "en": "Thy sovereignty"
+    },
+    {
+      "ar": "لأقلّب",
+      "en": "turn"
+    },
+    {
+      "ar": "بها",
+      "en": "through"
+    },
+    {
+      "ar": "الممکنات",
+      "en": "all created things"
+    },
+    {
+      "ar": "الی",
+      "en": "towards"
+    },
+    {
+      "ar": "مطلع",
+      "en": "Dayspring"
+    },
+    {
+      "ar": "ظهورک",
+      "en": "Thy Manifestation"
+    },
+    {
+      "ar": "مشرق",
+      "en": "Source"
+    },
+    {
+      "ar": "وحیک",
+      "en": "Thy Revelation"
+    },
+    {
+      "ar": "فاجعلنی",
+      "en": "Aid me"
+    },
+    {
+      "ar": "بکلّی",
+      "en": "wholly"
+    },
+    {
+      "ar": "فانیاً",
+      "en": "surrender"
+    },
+    {
+      "ar": "رضائک",
+      "en": "Thy Will"
+    },
+    {
+      "ar": "قائماً",
+      "en": "arise"
+    },
+    {
+      "ar": "علی",
+      "en": "and"
+    },
+    {
+      "ar": "خدمتک",
+      "en": "serve Thee"
+    },
+    {
+      "ar": "لأنّی",
+      "en": "for"
+    },
+    {
+      "ar": "احبّ",
+      "en": "cherish"
+    },
+    {
+      "ar": "الحیوة",
+      "en": "this earthly life"
+    },
+    {
+      "ar": "لأطوف",
+      "en": "compass"
+    },
+    {
+      "ar": "سرادق",
+      "en": "Tabernacle"
+    },
+    {
+      "ar": "خیام",
+      "en": "Seat"
+    },
+    {
+      "ar": "عظمتک",
+      "en": "Thy Glory"
+    },
+    {
+      "ar": "ترانی",
+      "en": "Thou seest me"
+    },
+    {
+      "ar": "یا",
+      "en": "O"
+    },
+    {
+      "ar": "الهی",
+      "en": "my God"
+    },
+    {
+      "ar": "منقطعاً",
+      "en": "detached"
+    },
+    {
+      "ar": "الیک",
+      "en": "from all else but Thee"
+    },
+    {
+      "ar": "خاضعاً",
+      "en": "humble and subservient"
+    },
+    {
+      "ar": "لدیک",
+      "en": "to Thy Will"
+    },
+    {
+      "ar": "فافعل",
+      "en": "Deal"
+    },
+    {
+      "ar": "بی",
+      "en": "with me"
+    },
+    {
+      "ar": "ما",
+      "en": "as"
+    },
+    {
+      "ar": "انت",
+      "en": "Thee"
+    },
+    {
+      "ar": "اهله",
+      "en": "beseemeth"
+    },
+    {
+      "ar": "ینبغی",
+      "en": "befitteth"
+    },
+    {
+      "ar": "لجلالک",
+      "en": "Thy highness"
+    },
+    {
+      "ar": "یلیق",
+      "en": "great glory"
+    }
+  ],
+  "terms": [
+    {
+      "term": "تظهر",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "manifest",
+      "note": "Typically 'Manifestation' or 'manifestation' (96 occ). Here 'manifest' as active verb, subordinate clause structure emphasizing the dynamism of revelation through human agency.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 140,
+          "snippet": "manifestation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 160,
+          "snippet": "Author of all Manifestations"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 136,
+          "snippet": "evident"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 206,
+          "snippet": "appeared"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 196,
+          "snippet": "Manifestations of God"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 255,
+          "snippet": "Manifestations"
+        }
+      ]
+    },
+    {
+      "term": "قدّر",
+      "transliteration": "q-d-r",
+      "literal": "power; might; decree; measure; worth",
+      "se_rendering": "Strengthen",
+      "note": "Usually 'Thy power' or 'hath decreed' (100 occ). Here rendered 'Strengthen'—a causative-imperative sense highlighting divine empowerment rather than predestination or measurement.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 171,
+          "snippet": "a while"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 339,
+          "snippet": "Thy power"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 12,
+          "snippet": "God of power"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 35,
+          "snippet": "Potent"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 282,
+          "snippet": "Almighty"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 177,
+          "snippet": "ordain"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 4,
+          "snippet": "for a moment"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 30,
+          "snippet": "didst ordain"
+        }
+      ]
+    },
+    {
+      "term": "الممکنات",
+      "transliteration": "k-w-n",
+      "literal": "to do; to make; to perform; to be",
+      "se_rendering": "all created things",
+      "note": "Normally 'that have gone on before you' or 'were greater' (57 occ). Here 'all created things'—SE adopts a literal metaphysical reading of 'possible beings' as ontological category.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 39,
+          "snippet": "to gather"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 159,
+          "snippet": "earn"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 70,
+          "snippet": "said"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 159,
+          "snippet": "had before"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 242,
+          "snippet": "plead"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 118,
+          "snippet": "is abashed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 250,
+          "snippet": "converteth"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 56,
+          "snippet": "refrain"
+        }
+      ]
+    },
+    {
+      "term": "مطلع",
+      "transliteration": "t-l-ʿ",
+      "literal": "rising; appearance; countenance; manifestation",
+      "se_rendering": "Dayspring",
+      "note": "Typically 'Manifestations' or 'countenances' (32 occ). Here 'Dayspring'—a luminous temporal metaphor unique to this passage, encoding the dawn-like emergence of revelation.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 47,
+          "snippet": "lives"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 856,
+          "snippet": "countenances"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "sources of command"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 16,
+          "snippet": "embodiments"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 21,
+          "snippet": "daysprings"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 24,
+          "snippet": "exponents"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 276,
+          "snippet": "Revealer"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 26,
+          "snippet": "Dayspring"
+        }
+      ]
+    },
+    {
+      "term": "رضائک",
+      "transliteration": "r-d-y",
+      "literal": "good-pleasure, consent, satisfaction",
+      "se_rendering": "Thy Will",
+      "note": "Generally 'Thy pleasure' or 'Thy good-pleasure' (30 occ). Here rendered as 'Thy Will'—a shift from satisfaction-consent to volitional submission and surrender.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 621,
+          "snippet": "Thy pleasure"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 410,
+          "snippet": "Thy good-pleasure"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 46,
+          "snippet": "content"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 28,
+          "snippet": "is pleased with"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 41,
+          "snippet": "pleasure"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 109,
+          "snippet": "paradise"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 10,
+          "snippet": "Ridván"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 263,
+          "snippet": "Sadrih of the Ridván"
+        }
+      ]
+    },
+    {
+      "term": "امرک",
+      "transliteration": "ʾ-m-r",
+      "literal": "command; cause; matter; affair",
+      "se_rendering": "Thy Revelation",
+      "note": "Usually 'His Cause' or 'His command' (75 occ). Here 'Thy Revelation'—a theological substitution elevating the personal divine utterance over administrative causality.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "His Cause"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 797,
+          "snippet": "Thy Cause"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 597,
+          "snippet": "service"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 167,
+          "snippet": "things"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "commanded"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 236,
+          "snippet": "commissioned"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 785,
+          "snippet": "Thy Revelation"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 38,
+          "snippet": "for the protection of the Cause"
+        }
+      ]
+    },
+    {
+      "term": "منقطعاً",
+      "transliteration": "q-t-ʿ",
+      "literal": "to be severed; to be cut off; to detach oneself; to abstain",
+      "se_rendering": "detached",
+      "note": "Commonly 'detached' or 'sundered' (33 occ). Here 'detached from all else but Thee'—SE preserves the term but frames it contextually as exclusive devotion, not mere severance.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 413,
+          "snippet": "detached themselves"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 427,
+          "snippet": "sundered"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 488,
+          "snippet": "have cut themselves off"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 11,
+          "snippet": "decisive"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 16,
+          "snippet": "detachment"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 276,
+          "snippet": "severed"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 340,
+          "snippet": "them that have rid themselves of all attachment"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 218,
+          "snippet": "renounced"
+        }
+      ]
+    }
+  ],
+  "section_index": "CXLII.8",
+  "section": "CXLII",
+  "section_para": 8
 }

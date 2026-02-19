@@ -1,10 +1,334 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 614,
   "source_text": "ئِكَ، لَكَ الحَمْدُ يا إِلهِي عَلَى ما أَصْبَحْنا مُسْتَضِيْئًا بِنُورِ عِرْفانِكَ، أَيْ رَبِّ فَأَنْزِلْ عَلَيْنَا ما يَجْعَلُنا غَنِيًّا عَمَّا سِواكَ وَمُنْقَطِعًا عَنْ دُونِكَ، ثُمَّ اكْتُبْ لِيْ وَلأحِبَّتِيْ وَذَوِيْ قَرابَتِيْ مِنْ كُلِّ ذَكَرٍ وَأُنْثى خَيْرَ الآخِرَةِ وَالأُولی، ثُمَّ اعْصِمْنا يا مَحْبُوبَ الإِبْداعِ وَمَقْصُودَ الاخْتِراعِ بِعِصْمَتِكَ الكُبْرى مِنَ الَّذِينَ جَعَلْتَهُمْ مَظاهِرَ الخَنَّاسِ وَيُوَسْوِسُونَ فِي صُدُورِ النَّاسِ، إِنَّكَ أَنْتَ المُقْتَدِرُ عَلَى ما تَشآءُ وَإِنَّكَ أَنْتَ المُقْتَدِرُ المُهَيْمِنُ القَيُّومُ، صَلِّ اللَّهُمَّ يا إِلهِي عَلَى مَنْ جَعَلْتَهُ قَيُّومًا",
   "translation": "Praise be unto Thee, O my God, that we have wakened to the splendors of the light of Thy knowledge. Send down, then, upon us, O my Lord, what will enable us to dispense with anyone but Thee, and will rid us of all attachment to aught except Thyself. Write down, moreover, for me, and for such as are dear to me, and for my kindred, man and woman alike, the good of this world and the world to come. Keep us safe, then, through Thine unfailing protection, O Thou the Beloved of the entire creation and the Desire of the whole universe, from them whom Thou hast made to be the manifestations of the Evil Whisperer, who whisper in men’s breasts. Potent art Thou to do Thy pleasure. Thou art, verily, the Almighty, the Help in Peril, the Self-Subsisting.",
   "source_lang": "ar",
-  "score": 9.9
+  "score": 9.9,
+  "page_slug": "beloved-entire-creation",
+  "alignment": [
+    {
+      "ar": "الحَمْدُ",
+      "en": "Praise"
+    },
+    {
+      "ar": "إِلهِي",
+      "en": "my God"
+    },
+    {
+      "ar": "أَصْبَحْنا",
+      "en": "we have wakened"
+    },
+    {
+      "ar": "مُسْتَضِيْئًا",
+      "en": "to the splendors"
+    },
+    {
+      "ar": "بِنُورِ",
+      "en": "of the light"
+    },
+    {
+      "ar": "عِرْفانِكَ",
+      "en": "of Thy knowledge"
+    },
+    {
+      "ar": "أَنْزِلْ",
+      "en": "Send down"
+    },
+    {
+      "ar": "عَلَيْنَا",
+      "en": "upon us"
+    },
+    {
+      "ar": "يَجْعَلُنا",
+      "en": "will enable us"
+    },
+    {
+      "ar": "مُنْقَطِعًا",
+      "en": "will rid us of all attachment"
+    },
+    {
+      "ar": "عَنْ دُونِكَ",
+      "en": "to aught except Thyself"
+    },
+    {
+      "ar": "اكْتُبْ",
+      "en": "Write down"
+    },
+    {
+      "ar": "لِيْ",
+      "en": "for me"
+    },
+    {
+      "ar": "وَذَوِيْ قَرابَتِيْ",
+      "en": "and for my kindred"
+    },
+    {
+      "ar": "ذَكَرٍ",
+      "en": "man"
+    },
+    {
+      "ar": "وَأُنْثى",
+      "en": "and woman"
+    },
+    {
+      "ar": "خَيْرَ",
+      "en": "the good"
+    },
+    {
+      "ar": "الآخِرَةِ",
+      "en": "the world to come"
+    },
+    {
+      "ar": "وَالأُولی",
+      "en": "this world"
+    },
+    {
+      "ar": "اعْصِمْنا",
+      "en": "Keep us safe"
+    },
+    {
+      "ar": "مَحْبُوبَ الإِبْداعِ",
+      "en": "the Beloved of the entire creation"
+    },
+    {
+      "ar": "وَمَقْصُودَ الاخْتِراعِ",
+      "en": "and the Desire of the whole universe"
+    },
+    {
+      "ar": "بِعِصْمَتِكَ الكُبْرى",
+      "en": "through Thine unfailing protection"
+    },
+    {
+      "ar": "جَعَلْتَهُمْ",
+      "en": "Thou hast made"
+    },
+    {
+      "ar": "مَظاهِرَ",
+      "en": "to be the manifestations"
+    },
+    {
+      "ar": "يُوَسْوِسُونَ",
+      "en": "who whisper"
+    },
+    {
+      "ar": "المُقْتَدِرُ",
+      "en": "Potent"
+    },
+    {
+      "ar": "عَلَى ما تَشآءُ",
+      "en": "to do Thy pleasure"
+    },
+    {
+      "ar": "المُقْتَدِرُ",
+      "en": "the Almighty"
+    },
+    {
+      "ar": "المُهَيْمِنُ",
+      "en": "the Help in Peril"
+    }
+  ],
+  "terms": [
+    {
+      "term": "عِرْفانِكَ",
+      "transliteration": "ʿ-r-f",
+      "literal": "to confess; to acknowledge; to recognize",
+      "se_rendering": "the light of Thy knowledge",
+      "note": "Root (ʿ-r-f) typically 'acknowledged,' 'recognized,' 'testifieth' (82 occ). SE's 'knowledge' here abstracts ʿerfān into epistemological term rather than relational acknowledgment, aligning with mystical usage in Sufi tradition.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 135,
+          "snippet": "hath acknowledged"
+        },
+        {
+          "work": "gleanings",
+          "para": 568,
+          "snippet": "acknowledged"
+        },
+        {
+          "work": "gleanings",
+          "para": 295,
+          "snippet": "made objections"
+        },
+        {
+          "work": "gleanings",
+          "para": 87,
+          "snippet": "knowledge"
+        },
+        {
+          "work": "gleanings",
+          "para": 2,
+          "snippet": "perception"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 5,
+          "snippet": "acknowledging"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 4,
+          "snippet": "fragrance of His garment"
+        },
+        {
+          "work": "gleanings",
+          "para": 214,
+          "snippet": "acknowledge"
+        }
+      ]
+    },
+    {
+      "term": "مَظاهِرَ",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "manifestations",
+      "note": "Root (z-h-r) covers 'manifestation,' 'evident,' 'revealed' across 96 occurrences. 'Manifestations' selection maintains Bahá'í theological vocabulary where divine qualities appear through specific agents or beings.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 53,
+          "snippet": "Manifestation"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 136,
+          "snippet": "evident"
+        },
+        {
+          "work": "gleanings",
+          "para": 222,
+          "snippet": "material"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 206,
+          "snippet": "appeared"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 196,
+          "snippet": "Manifestations of God"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 32,
+          "snippet": "overwhelm the soul"
+        }
+      ]
+    },
+    {
+      "term": "المُقْتَدِرُ",
+      "transliteration": "q-d-r",
+      "literal": "power; might; decree; measure; worth",
+      "se_rendering": "Potent",
+      "note": "Among 100 renderings of (q-d-r), 'Thy power' and similar dominates. 'Potent' here is rare, more poetic and archaic in English, suggesting SE's choice reflects the prayer's liturgical register.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 171,
+          "snippet": "a while"
+        },
+        {
+          "work": "gleanings",
+          "para": 138,
+          "snippet": "hath been decreed"
+        },
+        {
+          "work": "gleanings",
+          "para": 662,
+          "snippet": "hath decreed"
+        },
+        {
+          "work": "gleanings",
+          "para": 496,
+          "snippet": "forbearing towards"
+        },
+        {
+          "work": "gleanings",
+          "para": 111,
+          "snippet": "schools"
+        },
+        {
+          "work": "gleanings",
+          "para": 532,
+          "snippet": "can"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 4,
+          "snippet": "for a moment"
+        },
+        {
+          "work": "gleanings",
+          "para": 112,
+          "snippet": "Thy might"
+        }
+      ]
+    },
+    {
+      "term": "القَيُّومُ",
+      "transliteration": "q-w-m",
+      "literal": "rising; standing; uprising; resurrection",
+      "se_rendering": "the Self-Subsisting",
+      "note": "Root (q-w-m) predominantly carries 'Resurrection,' 'uprising' meanings across 109 occurrences. Here SE selects 'Self-Subsisting,' a metaphysical attribute distinct from eschatological sense, revealing theological rather than etymological priority.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 152,
+          "snippet": "Day of Resurrection"
+        },
+        {
+          "work": "gleanings",
+          "para": 437,
+          "snippet": "arise"
+        },
+        {
+          "work": "gleanings",
+          "para": 513,
+          "snippet": "dedicateth"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 153,
+          "snippet": "Resurrection"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 74,
+          "snippet": "rise"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "peoples"
+        },
+        {
+          "work": "gleanings",
+          "para": 693,
+          "snippet": "commandments"
+        },
+        {
+          "work": "gleanings",
+          "para": 628,
+          "snippet": "My commandments"
+        }
+      ]
+    }
+  ],
+  "section_index": "CXLIV.2",
+  "section": "CXLIV",
+  "section_para": 2
 }

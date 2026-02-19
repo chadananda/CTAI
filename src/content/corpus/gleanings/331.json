@@ -1,10 +1,466 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 331,
   "source_text": "را یک دانند و جوهر توحید آنکه مطلع ظهور حقّ را با غیب منیع لایدرک یک دانی باین معنی که افعال و اعمال و اوامر و نواهی او را از او دانی من غیر فصل و وصل و ذکر و اشارة اینست منتها مقامات مراتب توحید طوبی لمن فاز به و کان من الرّاسخین...",
   "translation": "The essence of belief in Divine unity consisteth in regarding Him Who is the Manifestation of God and Him Who is the invisible, the inaccessible, the unknowable Essence as one and the same. By this is meant that whatever pertaineth to the former, all His acts and doings, whatever He ordaineth or forbiddeth, should be considered, in all their aspects, and under all circumstances, and without any reservation, as identical with the Will of God Himself. This is the loftiest station to which a true believer in the unity of God can ever hope to attain. Blessed is the man that reacheth this station, and is of them that are steadfast in their belief.",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "essence-belief-divine-unity",
+  "alignment": [
+    {
+      "ar": "یک",
+      "en": "one and the same"
+    },
+    {
+      "ar": "دانند",
+      "en": "regarding"
+    },
+    {
+      "ar": "جوهر",
+      "en": "essence"
+    },
+    {
+      "ar": "توحید",
+      "en": "belief in Divine unity"
+    },
+    {
+      "ar": "آنکه",
+      "en": "in"
+    },
+    {
+      "ar": "مطلع",
+      "en": "Manifestation"
+    },
+    {
+      "ar": "حقّ",
+      "en": "God"
+    },
+    {
+      "ar": "غیب",
+      "en": "invisible"
+    },
+    {
+      "ar": "منیع",
+      "en": "inaccessible"
+    },
+    {
+      "ar": "لایدرک",
+      "en": "unknowable"
+    },
+    {
+      "ar": "معنی",
+      "en": "meant"
+    },
+    {
+      "ar": "افعال",
+      "en": "acts"
+    },
+    {
+      "ar": "اعمال",
+      "en": "doings"
+    },
+    {
+      "ar": "اوامر",
+      "en": "ordaineth"
+    },
+    {
+      "ar": "نواهی",
+      "en": "forbiddeth"
+    },
+    {
+      "ar": "او",
+      "en": "He"
+    },
+    {
+      "ar": "من غیر",
+      "en": "without any"
+    },
+    {
+      "ar": "فصل",
+      "en": "reservation"
+    },
+    {
+      "ar": "وصل",
+      "en": "identical"
+    },
+    {
+      "ar": "ذکر",
+      "en": "considered"
+    },
+    {
+      "ar": "اشارة",
+      "en": "aspects"
+    },
+    {
+      "ar": "اینست",
+      "en": "This is"
+    },
+    {
+      "ar": "منتها",
+      "en": "loftiest"
+    },
+    {
+      "ar": "مقامات",
+      "en": "station"
+    },
+    {
+      "ar": "طوبی",
+      "en": "Blessed"
+    },
+    {
+      "ar": "لمن",
+      "en": "the man"
+    },
+    {
+      "ar": "فاز به",
+      "en": "reacheth this"
+    },
+    {
+      "ar": "کان",
+      "en": "is"
+    },
+    {
+      "ar": "الرّاسخین",
+      "en": "steadfast"
+    }
+  ],
+  "terms": [
+    {
+      "term": "جوهر",
+      "transliteration": "j-w-h-r",
+      "literal": "jewel; essence; gem; substance",
+      "se_rendering": "essence",
+      "note": "Typically 'essence' (10 occ); here SE privileges philosophical substance over 'gem'/'jewel' renderings, establishing metaphysical precision for Divine unity discourse.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 2,
+          "snippet": "essence"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 22,
+          "snippet": "jewel"
+        }
+      ]
+    },
+    {
+      "term": "توحید",
+      "transliteration": "w-h-d",
+      "literal": "Divine unity; monotheism; belief in the oneness of God",
+      "se_rendering": "Divine unity",
+      "note": "Consistently 'Divine unity' or 'unity' across 56 occurrences; this rendering maintains SE's uniform approach to the root concept without variation.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 69,
+          "snippet": "Tawhid"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 167,
+          "snippet": "one"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 682,
+          "snippet": "once"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 49,
+          "snippet": "alone"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 647,
+          "snippet": "Thy unity"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 285,
+          "snippet": "Thy oneness"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 249,
+          "snippet": "unique"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 1,
+          "snippet": "the One"
+        }
+      ]
+    },
+    {
+      "term": "مطلع",
+      "transliteration": "t-l-ʿ",
+      "literal": "rising; appearance; countenance; manifestation",
+      "se_rendering": "Manifestation",
+      "note": "Usually 'Manifestations' or 'sources of command'; SE deploys singular 'Manifestation' here to parallel 'Manifestation of God,' enforcing theological parallelism between Manifestation and Essence.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 47,
+          "snippet": "lives"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 856,
+          "snippet": "countenances"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "sources of command"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 16,
+          "snippet": "embodiments"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 21,
+          "snippet": "daysprings"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 24,
+          "snippet": "exponents"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 276,
+          "snippet": "Revealer"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 26,
+          "snippet": "Dayspring"
+        }
+      ]
+    },
+    {
+      "term": "ظهور",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "Manifestation",
+      "note": "Standard 'Manifestation' (96 occ); paired with مطلع to create SE's signature dual formula contrasting appearance and hiddenness in Bahá'í theology.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 140,
+          "snippet": "manifestation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 160,
+          "snippet": "Author of all Manifestations"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 136,
+          "snippet": "evident"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 206,
+          "snippet": "appeared"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 196,
+          "snippet": "Manifestations of God"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 255,
+          "snippet": "Manifestations"
+        }
+      ]
+    },
+    {
+      "term": "فصل",
+      "transliteration": "f-s-l",
+      "literal": "detail; distinction; differentiation; to detail; to separate",
+      "se_rendering": "distinction and separation",
+      "note": "Typically 'distinction and separation' (18 occ); SE expands the Arabic negation 'from غیر fصل' into explicit phrase 'without any reservation,' glossing over the technical philosophical distinction implied.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 11,
+          "snippet": "hath been severed"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 615,
+          "snippet": "divided between"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 73,
+          "snippet": "discriminating Word"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 194,
+          "snippet": "station of distinction"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 254,
+          "snippet": "separated and distinguished"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 227,
+          "snippet": "distinguished"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 81,
+          "snippet": "one step away"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 179,
+          "snippet": "interval"
+        }
+      ]
+    },
+    {
+      "term": "وصل",
+      "transliteration": "w-ṣ-l",
+      "literal": "reunion; union; meeting; connection",
+      "se_rendering": "union",
+      "note": "Usually 'reunion' or 'union' in mystical contexts (6 occ); here rendered as 'reservation' within the negation, subordinating mystical connotation to logical argument about undifferentiated will.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 94,
+          "snippet": "cup of reunion"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 18,
+          "snippet": "reached"
+        }
+      ]
+    },
+    {
+      "term": "ذکر",
+      "transliteration": "dh-k-r",
+      "literal": "remembrance; mention; memory",
+      "se_rendering": "mention",
+      "note": "Standard 'remembrance' or 'mention' (57 occ); placed in negation as 'mention' to denote absence of verbal or conceptual mediation between acts and divine will.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 54,
+          "snippet": "mention"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 117,
+          "snippet": "Time and again have I declared"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 39,
+          "snippet": "deliberate"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 274,
+          "snippet": "aforementioned"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 112,
+          "snippet": "recorded"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 34,
+          "snippet": "confined in that"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 4,
+          "snippet": "mentioned"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 6,
+          "snippet": "to remember Thee"
+        }
+      ]
+    },
+    {
+      "term": "مقامات",
+      "transliteration": "q-w-m",
+      "literal": "rising; standing; uprising; resurrection",
+      "se_rendering": "station",
+      "note": "Typically 'stations' or 'Resurrection' (109 occ); here 'station' singular emphasizes the apex of spiritual attainment rather than plural mystical degrees or eschatological resurrection.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 152,
+          "snippet": "Day of Resurrection"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 153,
+          "snippet": "Resurrection"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 74,
+          "snippet": "rise"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "peoples"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 26,
+          "snippet": "steadfast"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 38,
+          "snippet": "steadfast in faith"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 628,
+          "snippet": "stood fast"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 198,
+          "snippet": "station"
+        }
+      ]
+    }
+  ],
+  "section_index": "LXXXIV.4",
+  "section": "LXXXIV",
+  "section_para": 4
 }

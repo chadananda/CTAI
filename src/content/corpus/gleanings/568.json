@@ -1,10 +1,496 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 568,
   "source_text": "وأظهرنا الأمر وبلّغناه إلی مقام کلّ اعترفوا بسلطنة الله وقدرته إلّا الّذین کان في صدورهم غلّ الغلام وکانوا من المشرکین ومع هذا الظّهور الّذي أحاط الممکنات وهذا الإشراق الّذي ما سمعوا شبهه في الآفاق اعترضوا عَلَيَّ ملأ البیان ومنهم من أعرض عن الصّراط وکفر بالّذي آمن به وبغی علی الله المقتدر المهیمن العليّ العظیم ومنهم من توقّف لدی الصّراط وعلّق أمر الله بساذجه بتصدیق الّذي خلق بقولي وبذلک حبط أعماله وما کان من الشّاعرین ومنهم من قاس نفس الله بنفسه وغرّته الأسمآء إلی مقام حارب بوجهي وافتی علی قتلي ونسبني بکلّ ما کان في نفسه",
   "translation": "And yet, notwithstanding this Revelation whose influence hath pervaded all created things, and despite the brightness of this Light, the like of which none of them hath ever beheld, witness how the people of the Bayán have denied and contended with Me. Some have turned away from the Path of God, rejected the authority of Him in Whom they had believed, and acted insolently towards God, the Most Powerful, the Supreme Protector, the Most Exalted, the Most Great. Others hesitated and halted in His Path, and regarded the Cause of the Creator, in its inmost truth, as invalid unless substantiated by the approval of him who was created through the operation of My Will. Thus have their works come to naught, and yet they failed to perceive it. Among them is he who sought to measure God with the measure of his own self, and was so misled by the names of God as to rise up against Me, who condemned Me as one that deserved to be put to death, and who imputed to Me the very offenses of which he himself was guilty.\nWherefore, do I plead My grief and My sorrow to Him Who created Me and entrusted Me with His Message.",
   "source_lang": "ar",
-  "score": 9.8
+  "score": 9.8,
+  "page_slug": "people-bayán-denied-contended",
+  "alignment": [
+    {
+      "ar": "أظهرنا",
+      "en": "Revelation"
+    },
+    {
+      "ar": "بلّغناه",
+      "en": "pervaded"
+    },
+    {
+      "ar": "مقام",
+      "en": "all"
+    },
+    {
+      "ar": "اعترفوا",
+      "en": "created"
+    },
+    {
+      "ar": "سلطنة",
+      "en": "things"
+    },
+    {
+      "ar": "الله",
+      "en": "God"
+    },
+    {
+      "ar": "قدرته",
+      "en": "authority"
+    },
+    {
+      "ar": "الّذین",
+      "en": "who"
+    },
+    {
+      "ar": "کان",
+      "en": "was"
+    },
+    {
+      "ar": "صدورهم",
+      "en": "they"
+    },
+    {
+      "ar": "غلّ",
+      "en": "denied"
+    },
+    {
+      "ar": "الغلام",
+      "en": "contended"
+    },
+    {
+      "ar": "المشرکین",
+      "en": "insolently"
+    },
+    {
+      "ar": "الممکنات",
+      "en": "created things"
+    },
+    {
+      "ar": "الإشراق",
+      "en": "brightness of this Light"
+    },
+    {
+      "ar": "سمعوا",
+      "en": "beheld"
+    },
+    {
+      "ar": "شبهه",
+      "en": "like"
+    },
+    {
+      "ar": "الآفاق",
+      "en": "them"
+    },
+    {
+      "ar": "اعترضوا",
+      "en": "denied and contended"
+    },
+    {
+      "ar": "ملأ",
+      "en": "people"
+    },
+    {
+      "ar": "البیان",
+      "en": "Bayán"
+    },
+    {
+      "ar": "منهم",
+      "en": "Some"
+    },
+    {
+      "ar": "أعرض",
+      "en": "turned away"
+    },
+    {
+      "ar": "الصّراط",
+      "en": "Path"
+    },
+    {
+      "ar": "کفر",
+      "en": "rejected"
+    },
+    {
+      "ar": "آمن",
+      "en": "believed"
+    },
+    {
+      "ar": "بغی",
+      "en": "acted insolently"
+    },
+    {
+      "ar": "المقتدر",
+      "en": "Most Powerful"
+    },
+    {
+      "ar": "المهیمن",
+      "en": "Supreme Protector"
+    },
+    {
+      "ar": "العليّ",
+      "en": "Most Exalted"
+    },
+    {
+      "ar": "العظیم",
+      "en": "Most Great"
+    },
+    {
+      "ar": "توقّف",
+      "en": "hesitated and halted"
+    },
+    {
+      "ar": "لدی",
+      "en": "in"
+    },
+    {
+      "ar": "علّق",
+      "en": "regarded"
+    },
+    {
+      "ar": "أمر",
+      "en": "Cause"
+    },
+    {
+      "ar": "ساذجه",
+      "en": "inmost truth"
+    },
+    {
+      "ar": "بتصدیق",
+      "en": "substantiated by the approval"
+    },
+    {
+      "ar": "بقولي",
+      "en": "through the operation of My Will"
+    },
+    {
+      "ar": "حبط",
+      "en": "come to naught"
+    },
+    {
+      "ar": "أعماله",
+      "en": "works"
+    },
+    {
+      "ar": "الشّاعرین",
+      "en": "perceive"
+    },
+    {
+      "ar": "قاس",
+      "en": "measure"
+    },
+    {
+      "ar": "بنفسه",
+      "en": "with the measure of his own self"
+    },
+    {
+      "ar": "غرّته",
+      "en": "misled"
+    },
+    {
+      "ar": "الأسمآء",
+      "en": "names"
+    },
+    {
+      "ar": "حارب",
+      "en": "rise up against"
+    },
+    {
+      "ar": "بوجهي",
+      "en": "Me"
+    },
+    {
+      "ar": "افتی",
+      "en": "condemned"
+    },
+    {
+      "ar": "قتلي",
+      "en": "put to death"
+    },
+    {
+      "ar": "نسبني",
+      "en": "imputed to Me"
+    },
+    {
+      "ar": "ما",
+      "en": "offenses"
+    }
+  ],
+  "terms": [
+    {
+      "term": "واظهرنا",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "this Revelation",
+      "note": "Root ظ-ه-ر usually rendered 'Manifestation' or 'manifestation' (96 occ). Here SE chooses 'Revelation'—a substantive choice prioritizing disclosure over luminous appearance.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 140,
+          "snippet": "manifestation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 160,
+          "snippet": "Author of all Manifestations"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 136,
+          "snippet": "evident"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 206,
+          "snippet": "appeared"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 196,
+          "snippet": "Manifestations of God"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 255,
+          "snippet": "Manifestations"
+        }
+      ]
+    },
+    {
+      "term": "الإشراق",
+      "transliteration": "sh-r-q",
+      "literal": "radiance; splendor; dawn; illumination",
+      "se_rendering": "the brightness of this Light",
+      "note": "Root sh-r-q typically 'radiance' or 'Daystar' (63 occ). SE renders 'brightness of this Light'—a more abstract luminosity that distances from the mystical 'dawn' connotation.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 47,
+          "snippet": "Ishraq"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 28,
+          "snippet": "radiance"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 83,
+          "snippet": "Daystar"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 41,
+          "snippet": "dawning"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 116,
+          "snippet": "shone"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 2,
+          "snippet": "shining"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 14,
+          "snippet": "Dawning Place"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 186,
+          "snippet": "dayspring"
+        }
+      ]
+    },
+    {
+      "term": "الصّراط",
+      "transliteration": "s-r-t",
+      "literal": "path, way, straight path",
+      "se_rendering": "the Path of God",
+      "note": "Root s-r-t consistently 'Path' or 'straight Path' (16 occ). SE varies with 'Path of God' and 'His Path' across passage; here 'the Path' emphasizes singular divine direction.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 146,
+          "snippet": "Path of certitude"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 237,
+          "snippet": "Straight Path"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 261,
+          "snippet": "way of God"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 43,
+          "snippet": "way of certitude and truth"
+        }
+      ]
+    },
+    {
+      "term": "الأسمآء",
+      "transliteration": "s-m-y",
+      "literal": "to name, to nominate, to designate, to appoint",
+      "se_rendering": "the names of God",
+      "note": "Root s-m-y typically 'Names' or 'Titles' (20 occ). SE renders 'names of God'—lowercase and possessive, less elevated than his usual 'Most excellent Titles' formula.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 20,
+          "snippet": "nominated and appointed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 3,
+          "snippet": "names"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 103,
+          "snippet": "thy name"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 91,
+          "snippet": "My name"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 35,
+          "snippet": "by Thy name"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 107,
+          "snippet": "in the Most Great Name"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 99,
+          "snippet": "the One so named"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 622,
+          "snippet": "through Whose names"
+        }
+      ]
+    },
+    {
+      "term": "بوجهي",
+      "transliteration": "w-j-h",
+      "literal": "face; countenance; direction; aspect",
+      "se_rendering": "against Me",
+      "note": "Root w-j-h typically 'faces' or 'turned' (64 occ). SE renders 'against Me'—a semantic shift from corporeal/directional sense to adversarial stance, intensifying the violation.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 503,
+          "snippet": "their faces"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 246,
+          "snippet": "faces"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 162,
+          "snippet": "turned"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 306,
+          "snippet": "set their faces"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 16,
+          "snippet": "unto Mine"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 498,
+          "snippet": "his face"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 636,
+          "snippet": "towards"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 470,
+          "snippet": "fixed"
+        }
+      ]
+    },
+    {
+      "term": "قتلی",
+      "transliteration": "q-t-l",
+      "literal": "slayer; killer; murderer",
+      "se_rendering": "to be put to death",
+      "note": "Root q-t-l rarely appears in corpus (15 occ). SE renders 'to be put to death'—a periphrastic passive that obscures the agent and softens direct condemnation language.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 58,
+          "snippet": "slaughter of the soul"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 251,
+          "snippet": "worthy of attention"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 233,
+          "snippet": "inadmissible"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 127,
+          "snippet": "praised"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 70,
+          "snippet": "said"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 62,
+          "snippet": "killing"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 43,
+          "snippet": "the law of slaughter"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 46,
+          "snippet": "planted"
+        }
+      ]
+    }
+  ],
+  "section_index": "CXXVII.4",
+  "section": "CXXVII",
+  "section_para": 4
 }

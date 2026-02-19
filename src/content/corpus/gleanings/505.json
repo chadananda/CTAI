@@ -1,10 +1,507 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 505,
   "source_text": "الأرضین ای ذبیح بصر حدید باید و قلب محکم و رجل نحاس شاید تا بوساوس جنود نفسیّه نلغزد اینست حکم محکم که بارادهٴ مالک قدم از قلم اسم اعظم جاری و نازل شده ان احفظه کما تحفظ عینک و کن من الشّاکرین در لیالی و ایّام بخدمت حقّ مشغول باش و از دونش منقطع لعمری ما تراه الیوم سیفنی و تجد نفسک فی اعلی المقام لو تکون مستقیماً علی ما امرک مولاک انّ الیه منقلبک و مثواک.",
   "translation": "Sharp must be thy sight, O Ḏhabíḥ, and adamant thy soul, and brass-like thy feet, if thou wishest to be unshaken by the assaults of the selfish desires that whisper in men’s breasts. This is the firm injunction which the Pen of the Most Great Name hath, by virtue of the Will of the Ancient King, been moved to reveal. Keep it as the apple of thine eye, and be thou of the thankful. Strive thou day and night to serve the Cause of Him Who is the Eternal Truth, and be thou detached from all else but Him. By Myself! Whatever thou seest in this Day shall perish. Supremely lofty will be thy station, if thou remainest steadfast in the Cause of thy Lord. Towards Him are thy busy movements directed, and in Him is thy final resting-place.",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "supremely-lofty-station",
+  "alignment": [
+    {
+      "ar": "ای",
+      "en": "O"
+    },
+    {
+      "ar": "بصر",
+      "en": "sight"
+    },
+    {
+      "ar": "حدید",
+      "en": "Sharp"
+    },
+    {
+      "ar": "باید",
+      "en": "must be"
+    },
+    {
+      "ar": "قلب",
+      "en": "soul"
+    },
+    {
+      "ar": "محکم",
+      "en": "adamant"
+    },
+    {
+      "ar": "رجل",
+      "en": "feet"
+    },
+    {
+      "ar": "نحاس",
+      "en": "brass-like"
+    },
+    {
+      "ar": "شاید",
+      "en": "if"
+    },
+    {
+      "ar": "بوساوس",
+      "en": "whisper"
+    },
+    {
+      "ar": "جنود",
+      "en": "assaults"
+    },
+    {
+      "ar": "نفسیّه",
+      "en": "selfish desires"
+    },
+    {
+      "ar": "نلغزد",
+      "en": "unshaken"
+    },
+    {
+      "ar": "اینست",
+      "en": "This is"
+    },
+    {
+      "ar": "حکم",
+      "en": "injunction"
+    },
+    {
+      "ar": "محکم",
+      "en": "firm"
+    },
+    {
+      "ar": "بارادهٴ",
+      "en": "by virtue of the Will"
+    },
+    {
+      "ar": "مالک",
+      "en": "King"
+    },
+    {
+      "ar": "قدم",
+      "en": "Ancient"
+    },
+    {
+      "ar": "قلم",
+      "en": "Pen"
+    },
+    {
+      "ar": "اسم اعظم",
+      "en": "Most Great Name"
+    },
+    {
+      "ar": "جاری",
+      "en": "moved"
+    },
+    {
+      "ar": "نازل",
+      "en": "reveal"
+    },
+    {
+      "ar": "شده",
+      "en": "hath"
+    },
+    {
+      "ar": "ان",
+      "en": "it"
+    },
+    {
+      "ar": "احفظه",
+      "en": "Keep"
+    },
+    {
+      "ar": "کما",
+      "en": "as"
+    },
+    {
+      "ar": "عینک",
+      "en": "apple of thine eye"
+    },
+    {
+      "ar": "کن",
+      "en": "be"
+    },
+    {
+      "ar": "من",
+      "en": "of"
+    },
+    {
+      "ar": "الشّاکرین",
+      "en": "thankful"
+    },
+    {
+      "ar": "لیالی",
+      "en": "night"
+    },
+    {
+      "ar": "ایّام",
+      "en": "day"
+    },
+    {
+      "ar": "بخدمت",
+      "en": "serve"
+    },
+    {
+      "ar": "حقّ",
+      "en": "Eternal Truth"
+    },
+    {
+      "ar": "مشغول",
+      "en": "Strive"
+    },
+    {
+      "ar": "منقطع",
+      "en": "detached"
+    },
+    {
+      "ar": "لعمری",
+      "en": "By Myself"
+    },
+    {
+      "ar": "ما",
+      "en": "Whatever"
+    },
+    {
+      "ar": "تراه",
+      "en": "thou seest"
+    },
+    {
+      "ar": "الیوم",
+      "en": "this Day"
+    },
+    {
+      "ar": "سیفنی",
+      "en": "perish"
+    },
+    {
+      "ar": "تجد",
+      "en": "will be"
+    },
+    {
+      "ar": "نفسک",
+      "en": "thy"
+    },
+    {
+      "ar": "فی",
+      "en": "in"
+    },
+    {
+      "ar": "اعلی",
+      "en": "Supremely lofty"
+    },
+    {
+      "ar": "المقام",
+      "en": "station"
+    },
+    {
+      "ar": "تکون",
+      "en": "thou remainest"
+    },
+    {
+      "ar": "مستقیماً",
+      "en": "steadfast"
+    },
+    {
+      "ar": "ما",
+      "en": "Cause"
+    },
+    {
+      "ar": "مولاک",
+      "en": "thy Lord"
+    },
+    {
+      "ar": "انّ",
+      "en": "are"
+    },
+    {
+      "ar": "الیه",
+      "en": "Towards Him"
+    },
+    {
+      "ar": "منقلبک",
+      "en": "thy busy movements"
+    },
+    {
+      "ar": "مثواک",
+      "en": "thy final resting-place"
+    }
+  ],
+  "terms": [
+    {
+      "term": "محکم",
+      "transliteration": "h-k-m",
+      "literal": "government; rule; governance; wisdom",
+      "se_rendering": "firm injunction",
+      "note": "Typically rendered 'rule', 'government', or 'governance' (69 occurrences). Here 'firm injunction' uniquely emphasizes divine decree rather than sovereign authority—a rare nominalization shift.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-ahd",
+          "para": 6,
+          "snippet": "rule"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "government"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 849,
+          "snippet": "signs of Thy sovereignty"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 160,
+          "snippet": "meaning of return"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 182,
+          "snippet": "mystery of the former verse"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 129,
+          "snippet": "perspicuous verses"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 46,
+          "snippet": "conclusive"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 220,
+          "snippet": "impregnable stronghold"
+        }
+      ]
+    },
+    {
+      "term": "قدم",
+      "transliteration": "q-d-m",
+      "literal": "ancientness; antiquity; foot; to come forward",
+      "se_rendering": "Ancient King",
+      "note": "Usually 'Ancient Beauty', 'Ancient of Days', or 'Ancient King' (29 occurrences). 'Ancient King' here directly parallels the 'Will of the Ancient King', making the possessive relationship explicit through consistent nomenclature.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 146,
+          "snippet": "certitude"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 127,
+          "snippet": "eternity"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 116,
+          "snippet": "by Thine Ancient Beauty"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 2,
+          "snippet": "the ancient sea"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 263,
+          "snippet": "rose"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 670,
+          "snippet": "feet"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 749,
+          "snippet": "their feet"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 1,
+          "snippet": "the Most Ancient"
+        }
+      ]
+    },
+    {
+      "term": "اعظم",
+      "transliteration": "ʿ-z̟-m",
+      "literal": "greatest; supreme; mightiest",
+      "se_rendering": "Most Great Name",
+      "note": "Consistently 'Most Great' (63 occurrences). 'Most Great Name' preserves the superlative while foregrounding the divine Name's role as the Pen's animating principle—entirely standard application.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 269,
+          "snippet": "Most Great"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 734,
+          "snippet": "Most Great Name"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 3,
+          "snippet": "greatest"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 6,
+          "snippet": "greater"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 209,
+          "snippet": "Great"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 9,
+          "snippet": "mighty"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 262,
+          "snippet": "glorious"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 88,
+          "snippet": "the Most Great"
+        }
+      ]
+    },
+    {
+      "term": "منقطع",
+      "transliteration": "q-t-ʿ",
+      "literal": "to be severed; to be cut off; to detach oneself; to abstain",
+      "se_rendering": "detached",
+      "note": "Typically 'detached themselves', 'sundered', or 'have cut themselves off' (33 occurrences). Simple 'detached' here strips verbal agency for passive instruction—rarer, more imperative tone.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 413,
+          "snippet": "detached themselves"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 427,
+          "snippet": "sundered"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 488,
+          "snippet": "have cut themselves off"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 11,
+          "snippet": "decisive"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 16,
+          "snippet": "detachment"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 276,
+          "snippet": "severed"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 340,
+          "snippet": "them that have rid themselves of all attachment"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 218,
+          "snippet": "renounced"
+        }
+      ]
+    },
+    {
+      "term": "سیفنی",
+      "transliteration": "s-y-f",
+      "literal": "sword",
+      "se_rendering": "shall perish",
+      "note": "Consistently 'sword' or 'the sword' (8 occurrences). 'Shall perish' renders the metaphorical cutting/destruction action rather than the literal weapon, making the existential consequence explicit rather than figurative.",
+      "cross_refs": [
+        {
+          "work": "the-hidden-words",
+          "para": 149,
+          "snippet": "sword"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 93,
+          "snippet": "with the sword"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 107,
+          "snippet": "swords"
+        }
+      ]
+    },
+    {
+      "term": "اعلی",
+      "transliteration": "ʿ-l-w",
+      "literal": "highest; most high; supreme",
+      "se_rendering": "Supremely lofty",
+      "note": "Usually 'the Most High' or 'supreme' (74 occurrences). 'Supremely lofty' here adds the adverbial 'Supremely' modifying station, creating a climactic emphasis unusual in SE's corpus renderings of this root.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 1,
+          "snippet": "the Most High"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 148,
+          "snippet": "the Most Sublime Pen"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 390,
+          "snippet": "the Most Exalted, the Most High"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 68,
+          "snippet": "the Pen of Glory"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 1,
+          "snippet": "the Realm of Glory"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 257,
+          "snippet": "the Báb, the Lord, the most exalted"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 21,
+          "snippet": "sublime"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 143,
+          "snippet": "exalted be He"
+        }
+      ]
+    }
+  ],
+  "section_index": "CXV.13",
+  "section": "CXV",
+  "section_para": 13
 }

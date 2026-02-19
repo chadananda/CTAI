@@ -1,10 +1,631 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 66,
   "source_text": "(من الواح ذبيح) قل الأمر يقول، الملك يومئذ لله. لسان القدرة يقول، السلطنة يومئذ لله\nقل الأمر يقول الملك يومئذ لله لسان القدرة يقول السّلطنة يومئذ لله ورقاءُ العماء على غصن البقاء تغنّ العظمة للّه الواحد الجبّار حمامة الأمر ترنّ على أفنان الرّضوان الكرم يومئذ لله الواحد الغفّار ديك العرش في أجمة القدس يدلع بأنّ الغلبة يومئذ لله الفرد المقتدر القهّار قلب كلّ شيء في كلّ شيء ينادي العفو يومئذ للّه الأحد الفرد المهيمن السّتّار روح البهاء فوق الرأس مقام الّذي لن يشار بإشارة الممكنات ينطق تاللّه قد ظهر ساذج القدم ذو العظمة والإقتدار لا إله إلّا هو العزيز المقتدر المتعالي العليم المحيط البصير الخبير المهيمن النوّار",
   "translation": "The Pen of Revelation exclaimeth: “On this Day the Kingdom is God’s!” The Tongue of Power is calling: “On this Day all sovereignty is, in very deed, with God!” The Phoenix of the realms above crieth out from the immortal Branch: “The glory of all greatness belongeth to God, the Incomparable, the All-Compelling!” The Mystic Dove proclaimeth from its blissful bower, in the everlasting Paradise: “The source of all bounty is derived, in this Day, from God, the One, the Forgiving!” The Bird of the Throne warbleth its melody in its retreats of holiness: “Supreme ascendancy is to be attributed, this Day, to none except God, Him Who hath no peer nor equal, Who is the Most Powerful, the All-Subduing!” The inmost essence of all things voiceth in all things the testimony: “All forgiveness floweth, in this Day, from God, Him to Whom none can compare, with Whom no partners can be joined, the Sovereign Protector of all men, and the Concealer of their sins!” The Quintessence of Glory hath lifted up its voice above My head, and crieth from such heights as neither pen nor tongue can in any degree describe: “God is my witness! He, the Ancient of everlasting days is come, girded with majesty and power. There is none other God but Him, the All-Glorious, the Almighty, the All-Highest, the All-Wise, the All-Pervading, the All-Seeing, the All-Informed, the Sovereign Protector, the Source of eternal light!”",
   "source_lang": "ar",
-  "score": 9.7
+  "score": 9.7,
+  "page_slug": "kingdom-god-this-day",
+  "alignment": [
+    {
+      "ar": "قل",
+      "en": "exclaimeth"
+    },
+    {
+      "ar": "الأمر",
+      "en": "The Pen of Revelation"
+    },
+    {
+      "ar": "الملك",
+      "en": "the Kingdom"
+    },
+    {
+      "ar": "يومئذ",
+      "en": "On this Day"
+    },
+    {
+      "ar": "لسان",
+      "en": "The Tongue"
+    },
+    {
+      "ar": "القدرة",
+      "en": "of Power"
+    },
+    {
+      "ar": "يقول",
+      "en": "is calling"
+    },
+    {
+      "ar": "السّلطنة",
+      "en": "all sovereignty"
+    },
+    {
+      "ar": "يومئذ",
+      "en": "in this Day"
+    },
+    {
+      "ar": "لله",
+      "en": "with God"
+    },
+    {
+      "ar": "ورقاءُ",
+      "en": "The Phoenix"
+    },
+    {
+      "ar": "العماء",
+      "en": "of the realms above"
+    },
+    {
+      "ar": "على",
+      "en": "from"
+    },
+    {
+      "ar": "غصن",
+      "en": "Branch"
+    },
+    {
+      "ar": "البقاء",
+      "en": "the immortal"
+    },
+    {
+      "ar": "تغنّ",
+      "en": "crieth out"
+    },
+    {
+      "ar": "العظمة",
+      "en": "The glory of all greatness"
+    },
+    {
+      "ar": "للّه",
+      "en": "to God"
+    },
+    {
+      "ar": "الواحد",
+      "en": "the One"
+    },
+    {
+      "ar": "الجبّار",
+      "en": "the All-Compelling"
+    },
+    {
+      "ar": "حمامة",
+      "en": "The Mystic Dove"
+    },
+    {
+      "ar": "الأمر",
+      "en": "Dove"
+    },
+    {
+      "ar": "ترنّ",
+      "en": "proclaimeth"
+    },
+    {
+      "ar": "أفنان",
+      "en": "bower"
+    },
+    {
+      "ar": "الرّضوان",
+      "en": "Paradise"
+    },
+    {
+      "ar": "الكرم",
+      "en": "The source of all bounty"
+    },
+    {
+      "ar": "لله",
+      "en": "from God"
+    },
+    {
+      "ar": "الغفّار",
+      "en": "the Forgiving"
+    },
+    {
+      "ar": "ديك",
+      "en": "The Bird"
+    },
+    {
+      "ar": "العرش",
+      "en": "of the Throne"
+    },
+    {
+      "ar": "أجمة",
+      "en": "retreats"
+    },
+    {
+      "ar": "القدس",
+      "en": "of holiness"
+    },
+    {
+      "ar": "يدلع",
+      "en": "warbleth"
+    },
+    {
+      "ar": "الغلبة",
+      "en": "Supreme ascendancy"
+    },
+    {
+      "ar": "يومئذ",
+      "en": "this Day"
+    },
+    {
+      "ar": "لله",
+      "en": "to none except God"
+    },
+    {
+      "ar": "الفرد",
+      "en": "Him Who hath no peer nor equal"
+    },
+    {
+      "ar": "المقتدر",
+      "en": "the Most Powerful"
+    },
+    {
+      "ar": "القهّار",
+      "en": "the All-Subduing"
+    },
+    {
+      "ar": "قلب",
+      "en": "The inmost essence"
+    },
+    {
+      "ar": "كلّ",
+      "en": "of all"
+    },
+    {
+      "ar": "شيء",
+      "en": "things"
+    },
+    {
+      "ar": "ينادي",
+      "en": "voiceth"
+    },
+    {
+      "ar": "العفو",
+      "en": "All forgiveness"
+    },
+    {
+      "ar": "الأحد",
+      "en": "Him to Whom none can compare"
+    },
+    {
+      "ar": "الفرد",
+      "en": "with Whom no partners can be joined"
+    },
+    {
+      "ar": "المهيمن",
+      "en": "the Sovereign Protector"
+    },
+    {
+      "ar": "السّتّار",
+      "en": "the Concealer of their sins"
+    },
+    {
+      "ar": "روح",
+      "en": "The Quintessence"
+    },
+    {
+      "ar": "البهاء",
+      "en": "of Glory"
+    },
+    {
+      "ar": "فوق",
+      "en": "above"
+    },
+    {
+      "ar": "الرأس",
+      "en": "My head"
+    },
+    {
+      "ar": "مقام",
+      "en": "such heights"
+    },
+    {
+      "ar": "ينطق",
+      "en": "crieth"
+    },
+    {
+      "ar": "تاللّه",
+      "en": "God is my witness"
+    },
+    {
+      "ar": "ظهر",
+      "en": "is come"
+    },
+    {
+      "ar": "ساذج",
+      "en": "the Ancient"
+    },
+    {
+      "ar": "القدم",
+      "en": "of everlasting days"
+    },
+    {
+      "ar": "ذو",
+      "en": "girded with"
+    },
+    {
+      "ar": "العظمة",
+      "en": "majesty"
+    },
+    {
+      "ar": "الإقتدار",
+      "en": "and power"
+    },
+    {
+      "ar": "لا إله إلّا هو",
+      "en": "There is none other God but Him"
+    },
+    {
+      "ar": "العزيز",
+      "en": "the All-Glorious"
+    },
+    {
+      "ar": "المقتدر",
+      "en": "the Almighty"
+    },
+    {
+      "ar": "المتعالي",
+      "en": "the All-Highest"
+    },
+    {
+      "ar": "العليم",
+      "en": "the All-Wise"
+    },
+    {
+      "ar": "المحيط",
+      "en": "the All-Pervading"
+    },
+    {
+      "ar": "البصير",
+      "en": "the All-Seeing"
+    },
+    {
+      "ar": "الخبير",
+      "en": "the All-Informed"
+    },
+    {
+      "ar": "النوّار",
+      "en": "the Source of eternal light"
+    }
+  ],
+  "terms": [
+    {
+      "term": "الأمر",
+      "transliteration": "ʾ-m-m",
+      "literal": "mother; to lead; to head; matter; affair",
+      "se_rendering": "Pen of Revelation; Mystic Dove; Bird of the Throne",
+      "note": "Typically 'kingdom; dominion' (70 occ). Here rendered as personified divine entities—'Pen,' 'Mystic Dove,' 'Bird of the Throne'—reflecting SE's hermeneutical elevation of Bahá'u'lláh's station.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 257,
+          "snippet": "command"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 393,
+          "snippet": "Cause"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 13,
+          "snippet": "peoples"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 127,
+          "snippet": "nations"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 137,
+          "snippet": "before"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 178,
+          "snippet": "Imams"
+        }
+      ]
+    },
+    {
+      "term": "السلطنة",
+      "transliteration": "s-l-ṭ",
+      "literal": "dominion; authority; power; sovereignty; control",
+      "se_rendering": "sovereignty",
+      "note": "Consistently 'sovereignty' across 43 occurrences. Maintains uniform rendering here, emphasizing divine authority in this eschatological proclamation.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 118,
+          "snippet": "sovereignty"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 151,
+          "snippet": "dominion"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 1,
+          "snippet": "Thy sovereignty"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 184,
+          "snippet": "by Thy sovereignty"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 416,
+          "snippet": "Lord"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 13,
+          "snippet": "O King"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 242,
+          "snippet": "king"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 157,
+          "snippet": "the Sháh"
+        }
+      ]
+    },
+    {
+      "term": "العظمة",
+      "transliteration": "ʿ-z̟-m",
+      "literal": "greatest; supreme; mightiest",
+      "se_rendering": "glory; majesty",
+      "note": "Usually 'greatest; supreme; Most Great' (63 occ). Rendered as 'glory; majesty' here, aligning with aesthetic grandeur vocabulary appropriate to this hymnic passage.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 269,
+          "snippet": "Most Great"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 734,
+          "snippet": "Most Great Name"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 3,
+          "snippet": "greatest"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 6,
+          "snippet": "greater"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 209,
+          "snippet": "Great"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 9,
+          "snippet": "mighty"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 262,
+          "snippet": "glorious"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 88,
+          "snippet": "the Most Great"
+        }
+      ]
+    },
+    {
+      "term": "الفرد",
+      "transliteration": "f-r-d",
+      "literal": "unique; singular; incomparable",
+      "se_rendering": "the Unique; Him Who hath no peer",
+      "note": "Typically 'unique; singular' (23 occ). Expanded to 'Him Who hath no peer nor equal' contextually; preserves uniqueness theme while articulating absolute incomparability.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 2,
+          "snippet": "wondrous"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 249,
+          "snippet": "unique"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 49,
+          "snippet": "alone"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 658,
+          "snippet": "Thy oneness"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 153,
+          "snippet": "Thy singleness"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 56,
+          "snippet": "court of Thy glory"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 89,
+          "snippet": "oneness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 5,
+          "snippet": "Thy unity and Thy oneness"
+        }
+      ]
+    },
+    {
+      "term": "قلب",
+      "transliteration": "q-l-b",
+      "literal": "heart; to turn; to overturn",
+      "se_rendering": "inmost essence",
+      "note": "Typically 'heart; hearts' (60 occ). 'Inmost essence of all things' here extends from psychological to metaphysical register, reflecting cosmological penetration.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 187,
+          "snippet": "hearts"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 432,
+          "snippet": "their hearts"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 652,
+          "snippet": "heart"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 777,
+          "snippet": "commotion"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 13,
+          "snippet": "tumult"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 30,
+          "snippet": "thine heart"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 4,
+          "snippet": "with a pure heart"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 82,
+          "snippet": "with a sound heart"
+        }
+      ]
+    },
+    {
+      "term": "ظهر",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "is come",
+      "note": "Normally 'Manifestation; manifestation' (96 occ). Here 'is come' emphasizes arrival and actualization rather than abstract manifestation concept, suiting eschatological timing.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 140,
+          "snippet": "manifestation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 160,
+          "snippet": "Author of all Manifestations"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 136,
+          "snippet": "evident"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 206,
+          "snippet": "appeared"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 196,
+          "snippet": "Manifestations of God"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 255,
+          "snippet": "Manifestations"
+        }
+      ]
+    },
+    {
+      "term": "القدم",
+      "transliteration": "q-d-m",
+      "literal": "ancientness; antiquity; foot; to come forward",
+      "se_rendering": "Ancient of everlasting days",
+      "note": "Usually 'Ancient Beauty; Ancient of Days' (29 occ). 'Ancient of everlasting days' here combines antiquity with temporal extension, intensifying divine eternality.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 146,
+          "snippet": "certitude"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 127,
+          "snippet": "eternity"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 116,
+          "snippet": "by Thine Ancient Beauty"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 2,
+          "snippet": "the ancient sea"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 263,
+          "snippet": "rose"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 670,
+          "snippet": "feet"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 749,
+          "snippet": "their feet"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 1,
+          "snippet": "the Most Ancient"
+        }
+      ]
+    }
+  ],
+  "section_index": "XV.1",
+  "section": "XV",
+  "section_para": 1
 }

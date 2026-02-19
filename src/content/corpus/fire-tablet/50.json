@@ -1,10 +1,234 @@
 {
   "work": "Fire Tablet",
   "slug": "fire-tablet",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 50,
   "source_text": "لَوْ يَقْرَؤُهُ العِبَادُ طُرًّا وَيَتَفَكَّرُوْنَ فِيْهِ لَيُضْرِمُ فِي كُلِّ عِرْقٍ مِنْ عُرُوْقِهِمْ نَارًا يَشْتَعِلُ مِنْهَا العَالَمِينَ *",
   "translation": "Should all the servants read and ponder this, there shall be kindled in their veins a fire that shall set aflame the worlds.",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "fire-set-aflame-worlds",
+  "alignment": [
+    {
+      "ar": "يَقْرَؤُهُ",
+      "en": "read"
+    },
+    {
+      "ar": "العِبَادُ",
+      "en": "servants"
+    },
+    {
+      "ar": "فِيْهِ",
+      "en": "this"
+    },
+    {
+      "ar": "يُضْرِمُ",
+      "en": "kindled"
+    },
+    {
+      "ar": "عِرْقٍ",
+      "en": "veins"
+    },
+    {
+      "ar": "عُرُوْقِهِمْ",
+      "en": "their veins"
+    },
+    {
+      "ar": "نَارًا",
+      "en": "fire"
+    },
+    {
+      "ar": "يَشْتَعِلُ",
+      "en": "set aflame"
+    },
+    {
+      "ar": "العَالَمِينَ",
+      "en": "worlds"
+    }
+  ],
+  "terms": [
+    {
+      "term": "العِبَادُ",
+      "transliteration": "ʿ-b-d",
+      "literal": "servant; slave; worshipper",
+      "se_rendering": "servants",
+      "note": "Consistently rendered 'servants' across 68 occurrences. This passage uses the standard formulation without the possessive 'Thy' found in many instances.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 279,
+          "snippet": "Thy servants"
+        },
+        {
+          "work": "gleanings",
+          "para": 686,
+          "snippet": "servants"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 27,
+          "snippet": "'Abdu'l‑Bahá"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 204,
+          "snippet": "Thy servant"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 260,
+          "snippet": "'Abdu'l-'Azíz"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 663,
+          "snippet": "servant"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 10,
+          "snippet": "this wronged servant of Thine"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 47,
+          "snippet": "this servant of Thine"
+        }
+      ]
+    },
+    {
+      "term": "طُرًّا",
+      "transliteration": "t-r-ā",
+      "literal": "all; all together; -ward",
+      "se_rendering": "all",
+      "note": "Rare term with only 4 occurrences total. SE renders it 'all' here, whereas other contexts show 'ornament,' 'vesture,' 'adornment'—this is the most literal semantic choice.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 717,
+          "snippet": "ornament"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 10,
+          "snippet": "all"
+        }
+      ]
+    },
+    {
+      "term": "عِرْقٍ",
+      "transliteration": "ʿ-r-q",
+      "literal": "Iraq; sweat",
+      "se_rendering": "veins",
+      "note": "Highly variable across 19 occurrences: ''Iráq,' 'Arabian,' 'necks,' 'leaves,' 'Thy dawning,' 'blood boileth.' The rendering 'veins' is unique to this passage, revealing SE's metaphorical interpretation of physiological penetration.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 87,
+          "snippet": "'Iráq"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 31,
+          "snippet": "Arabian"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 834,
+          "snippet": "blood boileth"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 236,
+          "snippet": "veins"
+        }
+      ]
+    },
+    {
+      "term": "نَارًا",
+      "transliteration": "n-y-r",
+      "literal": "fires; blazes",
+      "se_rendering": "fire",
+      "note": "Root n-y-r typically renders as 'Daystar,' 'Day-Star,' or 'Luminary' across 11 occurrences. The literal 'fire' rendering here is exceptional, preserving the material sense rather than spiritual abstraction.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 226,
+          "snippet": "Daystar"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 109,
+          "snippet": "Day-Star"
+        },
+        {
+          "work": "gleanings",
+          "para": 440,
+          "snippet": "Luminary"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 118,
+          "snippet": "Twin Lights"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 822,
+          "snippet": "fire"
+        }
+      ]
+    },
+    {
+      "term": "العَالَمِينَ",
+      "transliteration": "ʿ-l-m",
+      "literal": "world; universe; the worlds",
+      "se_rendering": "the worlds",
+      "note": "Widely variable across 141 occurrences: 'world,' 'all worlds,' 'mankind,' 'the whole world,' 'all earthly defilements,' 'knowledge.' 'The worlds' here uses the plural form, emphasizing universal cosmic scope rather than singular dominion.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 198,
+          "snippet": "world"
+        },
+        {
+          "work": "gleanings",
+          "para": 657,
+          "snippet": "all worlds"
+        },
+        {
+          "work": "gleanings",
+          "para": 182,
+          "snippet": "mankind"
+        },
+        {
+          "work": "gleanings",
+          "para": 183,
+          "snippet": "the whole world"
+        },
+        {
+          "work": "gleanings",
+          "para": 226,
+          "snippet": "all earthly defilements"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 28,
+          "snippet": "knowledge"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 122,
+          "snippet": "commentators"
+        },
+        {
+          "work": "gleanings",
+          "para": 38,
+          "snippet": "understanding"
+        }
+      ]
+    }
+  ],
+  "section_index": "51",
+  "section": "51",
+  "section_para": 1
 }

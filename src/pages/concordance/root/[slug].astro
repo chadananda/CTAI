@@ -172,7 +172,7 @@ Astro.response.headers.set('Cache-Control', 'public, max-age=86400, s-maxage=604
         const examples = fg.rows.slice(0, 3);
 
         return (
-          <div class="p-4 rounded-lg bg-ink-800/30 border border-ink-700/30">
+          <div class="p-4 rounded-lg bg-ink-800/50 border border-ink-700/50">
             <div class="flex flex-wrap items-baseline gap-2 mb-2">
               <span class="text-xl font-arabic text-ink-100" dir="rtl" lang="ar">{fg.form}</span>
               {fg.translit && <span class="text-ink-400 italic">({fg.translit})</span>}
@@ -232,7 +232,7 @@ Astro.response.headers.set('Cache-Control', 'public, max-age=86400, s-maxage=604
             const pct = ((r.count / totalOcc) * 100).toFixed(0);
             const formList = Array.from(r.forms);
             return (
-              <tr class="border-b border-ink-800/30">
+              <tr class="border-b border-ink-700/30">
                 <td class="py-2 pr-4">
                   <a
                     href={`/concordance/english/${slugify(r.display)}/`}
@@ -244,7 +244,7 @@ Astro.response.headers.set('Cache-Control', 'public, max-age=86400, s-maxage=604
                 <td class="py-2 pr-4 font-mono text-ink-500">{r.count}</td>
                 <td class="py-2 pr-4">
                   <div class="flex items-center gap-2">
-                    <div class="w-16 h-1.5 rounded-full bg-ink-800/60 overflow-hidden">
+                    <div class="w-16 h-1.5 rounded-full bg-ink-700/60 overflow-hidden">
                       <div class="h-full bg-gold-400/60 rounded-full" style={`width: ${pct}%`}></div>
                     </div>
                     <span class="text-[10px] text-ink-500">{pct}%</span>
@@ -279,7 +279,7 @@ Astro.response.headers.set('Cache-Control', 'public, max-age=86400, s-maxage=604
           const url = pairToUrl(row.pair_id);
           const display = pairToDisplay(row.pair_id);
           return (
-            <div class="flex items-start gap-3 py-1.5 border-b border-ink-800/20 text-sm">
+            <div class="flex items-start gap-3 py-1.5 border-b border-ink-700/20 text-sm">
               <span class="font-arabic text-ink-300 w-24 text-right flex-shrink-0" dir="rtl" lang="ar">{row.form}</span>
               <span class="text-ink-400 flex-1">{row.en}</span>
               {url ? (
@@ -305,8 +305,8 @@ Astro.response.headers.set('Cache-Control', 'public, max-age=86400, s-maxage=604
           <a
             href={`/concordance/root/${r.slug}/`}
             class="inline-flex items-center gap-2 px-3 py-1.5 rounded-md
-                   bg-ink-800/40 border border-ink-700/30
-                   hover:border-gold-400/30 hover:bg-ink-800/60 transition-all"
+                   bg-ink-800/60 border border-ink-700/50
+                   hover:border-gold-400/30 hover:bg-ink-800/80 transition-all"
           >
             <span class="font-arabic text-ink-200" dir="rtl" lang="ar">{r.root}</span>
             <span class="text-xs text-ink-400">({r.transliteration})</span>

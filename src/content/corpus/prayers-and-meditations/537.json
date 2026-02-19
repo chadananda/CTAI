@@ -1,10 +1,307 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 537,
   "source_text": "سُبْحَانَكَ اللَّهُمَّ يا إِلهِي تَرَى وَتَعْلَمُ بِأَنِّي ما دَعَوتُ عبادَكَ إِلاَّ إِلى شَطْرِ مَواهِبِكَ وَما أَمَرْتُهُمْ إِلاَّ ما أُمِرْتُ بِهِ فِي مُحْكَمِ كِتابِكَ الَّذِيْ نُزِّلَ مِنْ قَدَرِكَ المَحْتُومِ وَقَضائِكَ المَرْقُومِ.",
   "translation": "Praise be to Thee, O Lord my God! Thou seest and knowest that I have called upon Thy servants to turn nowhere except in the direction of Thy bestowals, and have bidden them observe naught save the things Thou didst prescribe in Thy Perspicuous Book, the Book which hath been sent down according to Thine inscrutable decree and irrevocable purpose.",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "perspicuous-book-inscrutable-decree",
+  "alignment": [
+    {
+      "ar": "سُبْحَانَكَ",
+      "en": "Praise be to Thee"
+    },
+    {
+      "ar": "إِلهِي",
+      "en": "my God"
+    },
+    {
+      "ar": "تَرَى",
+      "en": "seest"
+    },
+    {
+      "ar": "تَعْلَمُ",
+      "en": "knowest"
+    },
+    {
+      "ar": "دَعَوتُ",
+      "en": "called upon"
+    },
+    {
+      "ar": "عبادَكَ",
+      "en": "Thy servants"
+    },
+    {
+      "ar": "شَطْرِ",
+      "en": "direction"
+    },
+    {
+      "ar": "مَواهِبِكَ",
+      "en": "Thy bestowals"
+    },
+    {
+      "ar": "أَمَرْتُهُمْ",
+      "en": "bidden them"
+    },
+    {
+      "ar": "أُمِرْتُ",
+      "en": "didst prescribe"
+    },
+    {
+      "ar": "مُحْكَمِ",
+      "en": "Perspicuous"
+    },
+    {
+      "ar": "كِتابِكَ",
+      "en": "Book"
+    },
+    {
+      "ar": "قَدَرِكَ",
+      "en": "decree"
+    },
+    {
+      "ar": "المَحْتُومِ",
+      "en": "inscrutable"
+    },
+    {
+      "ar": "قَضائِكَ",
+      "en": "purpose"
+    },
+    {
+      "ar": "المَرْقُومِ",
+      "en": "irrevocable"
+    }
+  ],
+  "terms": [
+    {
+      "term": "مَواهِبِكَ",
+      "transliteration": "w-h-b",
+      "literal": "gift; grant; bestowal",
+      "se_rendering": "bestowals",
+      "note": "Consistently 'gifts' or 'bestowals' across 26 occurrences. Here 'bestowals' maintains the abstract divine generosity sense; SE's choice emphasizes continuous divine giving rather than discrete gifts.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 56,
+          "snippet": "gift"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 98,
+          "snippet": "the Bestower"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 15,
+          "snippet": "Possessor of all gifts"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 243,
+          "snippet": "Vahhab"
+        }
+      ]
+    },
+    {
+      "term": "أَمَرْتُهُمْ",
+      "transliteration": "ʾ-m-r",
+      "literal": "command; cause; matter; affair",
+      "se_rendering": "prescribed",
+      "note": "Root ʾ-m-r standardly 'His Cause' or 'command' (75 occ). 'Prescribed' here shifts toward legislative/normative sense rather than causative or revelatory; emphasizes divine ordinance through scripture.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "His Cause"
+        },
+        {
+          "work": "gleanings",
+          "para": 586,
+          "snippet": "His command"
+        },
+        {
+          "work": "gleanings",
+          "para": 691,
+          "snippet": "His Revelation"
+        },
+        {
+          "work": "gleanings",
+          "para": 723,
+          "snippet": "Cause"
+        },
+        {
+          "work": "gleanings",
+          "para": 8,
+          "snippet": "Revelation"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 167,
+          "snippet": "things"
+        },
+        {
+          "work": "gleanings",
+          "para": 524,
+          "snippet": "your affairs"
+        },
+        {
+          "work": "gleanings",
+          "para": 495,
+          "snippet": "affairs"
+        }
+      ]
+    },
+    {
+      "term": "مُحْكَمِ",
+      "transliteration": "h-k-m",
+      "literal": "government; rule; governance; wisdom",
+      "se_rendering": "Perspicuous",
+      "note": "Root h-k-m typically renders as 'rule' or 'government.' 'Perspicuous' (clear, evident) here reflects the epithet of Qur'anic language (kitāb muḥkam), marking SE's interpretive translation strategy rather than literal equivalence.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-ahd",
+          "para": 6,
+          "snippet": "rule"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "government"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 160,
+          "snippet": "meaning of return"
+        },
+        {
+          "work": "gleanings",
+          "para": 224,
+          "snippet": "mysteries"
+        },
+        {
+          "work": "gleanings",
+          "para": 636,
+          "snippet": "rule of the sword"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 182,
+          "snippet": "mystery of the former verse"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 129,
+          "snippet": "perspicuous verses"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 46,
+          "snippet": "conclusive"
+        }
+      ]
+    },
+    {
+      "term": "نُزِّلَ",
+      "transliteration": "n-z-l",
+      "literal": "to descend, to be revealed",
+      "se_rendering": "sent down",
+      "note": "Standard rendering 'sent down' across 88 occurrences. Maintains the revelation terminology established in Islamic discourse; consistent with SE's Qur'anic vocabulary preservation.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 643,
+          "snippet": "sent down"
+        },
+        {
+          "work": "gleanings",
+          "para": 218,
+          "snippet": "revealed"
+        },
+        {
+          "work": "gleanings",
+          "para": 656,
+          "snippet": "descended"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 34,
+          "snippet": "Descend"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 40,
+          "snippet": "were revealed"
+        },
+        {
+          "work": "gleanings",
+          "para": 604,
+          "snippet": "have been sent down"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 16,
+          "snippet": "hath been sent down"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 171,
+          "snippet": "which have been sent down"
+        }
+      ]
+    },
+    {
+      "term": "قَدَرِكَ",
+      "transliteration": "q-d-r",
+      "literal": "power; might; decree; measure; worth",
+      "se_rendering": "decree",
+      "note": "Root q-d-r carries 'power,' 'decree,' 'measure.' Rendered 'decree' here; SE chooses the volitional sense over 'Thy power' to emphasize divine will and determination in revelation.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 171,
+          "snippet": "a while"
+        },
+        {
+          "work": "gleanings",
+          "para": 138,
+          "snippet": "hath been decreed"
+        },
+        {
+          "work": "gleanings",
+          "para": 662,
+          "snippet": "hath decreed"
+        },
+        {
+          "work": "gleanings",
+          "para": 496,
+          "snippet": "forbearing towards"
+        },
+        {
+          "work": "gleanings",
+          "para": 111,
+          "snippet": "schools"
+        },
+        {
+          "work": "gleanings",
+          "para": 532,
+          "snippet": "can"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 4,
+          "snippet": "for a moment"
+        },
+        {
+          "work": "gleanings",
+          "para": 112,
+          "snippet": "Thy might"
+        }
+      ]
+    }
+  ],
+  "section_index": "CXXII.1",
+  "section": "CXXII",
+  "section_para": 1
 }

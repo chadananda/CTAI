@@ -1,10 +1,625 @@
 {
   "work": "Epistle to the Son of the Wolf",
   "slug": "epistle-to-the-son-of-the-wolf",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 261,
   "source_text": "و قال ابن مسعود رضی اللّه عنه انّ النّبيّ - صلّی اللّه عليه و سلّم - قال الا انّ افضل السّواحل عسقلان و انّ عکّاء افضل من عسقلان و فضل عکّاء علی عسقلان و علی جميع السّواحل کفضل محمّد علی جميع الانبياء الا اخبرکم بمدينة بين جبلين فی الشّام فی وسط المرج يقال لها عکّاء الا و انّ من دخلها راغبا فيها و فی زيارتها غفر اللّه له ما تقدّم من ذنبه و ما تاخّر و من خرج منها غير زائر الا لم يبارک اللّه له فی خروجه * الا و انّ فيها عينا يقال لها عين البقر من شرب منها شربة ملأ اللّه قلبه نورا و امّنه من العذاب الاکبر يوم القيامة *",
   "translation": "Ibn-i-Mas'ud - may God be pleased with him - hath stated: \"The Prophet - may the blessings of God and His salutations be upon Him - hath said: \\‘Of all shores the best is the shore of Askelon, and ‘Akká is, verily, better than Askelon, and the merit of ‘Akká above that of Askelon and all other shores is as the merit of Muḥammad above that of all other Prophets. I bring you tidings of a city betwixt two mountains in Syria, in the middle of a meadow, which is called ‘Akká. Verily, he that entereth therein, longing for it and eager to visit it, God will forgive his sins, both of the past and of the future. And he that departeth from it, other than as a pilgrim, God will not bless his departure. In it is a spring called the Spring of the Cow. Whoso drinketh a draught therefrom, God will fill his heart with light, and will protect him from the most great terror on the Day of Resurrection.'\"",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "spring-cow-forgiveness-akka",
+  "alignment": [
+    {
+      "ar": "قال",
+      "en": "hath stated"
+    },
+    {
+      "ar": "ابن مسعود",
+      "en": "Ibn-i-Mas'ud"
+    },
+    {
+      "ar": "رضی",
+      "en": "may God be pleased"
+    },
+    {
+      "ar": "اللّه",
+      "en": "God"
+    },
+    {
+      "ar": "عنه",
+      "en": "with him"
+    },
+    {
+      "ar": "انّ",
+      "en": "that"
+    },
+    {
+      "ar": "النّبيّ",
+      "en": "The Prophet"
+    },
+    {
+      "ar": "صلّی",
+      "en": "may the blessings"
+    },
+    {
+      "ar": "اللّه",
+      "en": "of God"
+    },
+    {
+      "ar": "عليه",
+      "en": "upon Him"
+    },
+    {
+      "ar": "سلّم",
+      "en": "His salutations"
+    },
+    {
+      "ar": "قال",
+      "en": "hath said"
+    },
+    {
+      "ar": "افضل",
+      "en": "the best"
+    },
+    {
+      "ar": "السّواحل",
+      "en": "shores"
+    },
+    {
+      "ar": "عسقلان",
+      "en": "Askelon"
+    },
+    {
+      "ar": "افضل",
+      "en": "better"
+    },
+    {
+      "ar": "فضل",
+      "en": "the merit"
+    },
+    {
+      "ar": "علی",
+      "en": "above"
+    },
+    {
+      "ar": "عسقلان",
+      "en": "that of Askelon"
+    },
+    {
+      "ar": "جميع",
+      "en": "all other"
+    },
+    {
+      "ar": "کفضل",
+      "en": "as the merit"
+    },
+    {
+      "ar": "محمّد",
+      "en": "Muḥammad"
+    },
+    {
+      "ar": "الانبياء",
+      "en": "Prophets"
+    },
+    {
+      "ar": "اخبرکم",
+      "en": "I bring you tidings"
+    },
+    {
+      "ar": "بمدينة",
+      "en": "of a city"
+    },
+    {
+      "ar": "بين",
+      "en": "betwixt"
+    },
+    {
+      "ar": "جبلين",
+      "en": "two mountains"
+    },
+    {
+      "ar": "الشّام",
+      "en": "Syria"
+    },
+    {
+      "ar": "وسط",
+      "en": "the middle"
+    },
+    {
+      "ar": "المرج",
+      "en": "a meadow"
+    },
+    {
+      "ar": "يقال",
+      "en": "is called"
+    },
+    {
+      "ar": "لها",
+      "en": "which"
+    },
+    {
+      "ar": "من",
+      "en": "he that"
+    },
+    {
+      "ar": "دخلها",
+      "en": "entereth therein"
+    },
+    {
+      "ar": "راغبا",
+      "en": "longing"
+    },
+    {
+      "ar": "فيها",
+      "en": "for it"
+    },
+    {
+      "ar": "زيارتها",
+      "en": "to visit it"
+    },
+    {
+      "ar": "غفر",
+      "en": "will forgive"
+    },
+    {
+      "ar": "له",
+      "en": "his"
+    },
+    {
+      "ar": "ما",
+      "en": "sins"
+    },
+    {
+      "ar": "تقدّم",
+      "en": "of the past"
+    },
+    {
+      "ar": "من",
+      "en": "of"
+    },
+    {
+      "ar": "ذنبه",
+      "en": "his sins"
+    },
+    {
+      "ar": "تاخّر",
+      "en": "of the future"
+    },
+    {
+      "ar": "خرج",
+      "en": "departeth"
+    },
+    {
+      "ar": "منها",
+      "en": "from it"
+    },
+    {
+      "ar": "غير",
+      "en": "other than"
+    },
+    {
+      "ar": "زائر",
+      "en": "as a pilgrim"
+    },
+    {
+      "ar": "لم",
+      "en": "will not"
+    },
+    {
+      "ar": "يبارک",
+      "en": "bless"
+    },
+    {
+      "ar": "خروجه",
+      "en": "departure"
+    },
+    {
+      "ar": "فيها",
+      "en": "In it"
+    },
+    {
+      "ar": "عينا",
+      "en": "a spring"
+    },
+    {
+      "ar": "يقال",
+      "en": "called"
+    },
+    {
+      "ar": "عين البقر",
+      "en": "the Spring of the Cow"
+    },
+    {
+      "ar": "من",
+      "en": "Whoso"
+    },
+    {
+      "ar": "شرب",
+      "en": "drinketh"
+    },
+    {
+      "ar": "منها",
+      "en": "therefrom"
+    },
+    {
+      "ar": "شربة",
+      "en": "a draught"
+    },
+    {
+      "ar": "ملأ",
+      "en": "will fill"
+    },
+    {
+      "ar": "قلبه",
+      "en": "his heart"
+    },
+    {
+      "ar": "نورا",
+      "en": "with light"
+    },
+    {
+      "ar": "امّنه",
+      "en": "will protect him"
+    },
+    {
+      "ar": "من",
+      "en": "from"
+    },
+    {
+      "ar": "العذاب الاکبر",
+      "en": "the most great terror"
+    },
+    {
+      "ar": "يوم القيامة",
+      "en": "the Day of Resurrection"
+    }
+  ],
+  "terms": [
+    {
+      "term": "افضل",
+      "transliteration": "f-d-l",
+      "literal": "grace; bounty; generosity; excellence",
+      "se_rendering": "merit",
+      "note": "Typically 'grace' or 'All-Bounteous' (36 occurrences); SE selects 'merit' for the comparative excellence between 'Akká and other shores.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 50,
+          "snippet": "the Gracious, the All-Bountiful"
+        },
+        {
+          "work": "gleanings",
+          "para": 10,
+          "snippet": "most excellent favors"
+        },
+        {
+          "work": "gleanings",
+          "para": 60,
+          "snippet": "grace"
+        },
+        {
+          "work": "gleanings",
+          "para": 234,
+          "snippet": "His gracious favor"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "graciously"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 92,
+          "snippet": "realms"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 278,
+          "snippet": "realm"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 782,
+          "snippet": "through Thy grace"
+        }
+      ]
+    },
+    {
+      "term": "یبارک",
+      "transliteration": "b-r-k",
+      "literal": "blessed; auspicious; fruitful",
+      "se_rendering": "bless",
+      "note": "Standard rendering 'blessed' or 'hallowed' (38 occurrences); SE uses 'bless' (verb form) to match the conditional promise structure.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 210,
+          "snippet": "blessed"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 57,
+          "snippet": "hallowed"
+        },
+        {
+          "work": "gleanings",
+          "para": 232,
+          "snippet": "shining"
+        },
+        {
+          "work": "gleanings",
+          "para": 726,
+          "snippet": "holy"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 16,
+          "snippet": "Sacred"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 2,
+          "snippet": "blest"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 27,
+          "snippet": "blessing"
+        },
+        {
+          "work": "tablet-of-carmel",
+          "para": 5,
+          "snippet": "Sanctified be"
+        }
+      ]
+    },
+    {
+      "term": "عینا",
+      "transliteration": "ʿ-y-n",
+      "literal": "eye; fountain; spring; essence",
+      "se_rendering": "spring",
+      "note": "Usually 'eye' or 'with Thine eye' (25 occurrences); SE uses 'spring' to capture the hydrological sense of ʿ-y-n (fountain/spring).",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 33,
+          "snippet": "with Thine eye"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 12,
+          "snippet": "with the watchful eye of Thy loving-kindness"
+        },
+        {
+          "work": "gleanings",
+          "para": 167,
+          "snippet": "with your eyes"
+        },
+        {
+          "work": "gleanings",
+          "para": 598,
+          "snippet": "helpers"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 32,
+          "snippet": "my Aider"
+        },
+        {
+          "work": "gleanings",
+          "para": 124,
+          "snippet": "covenants"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 18,
+          "snippet": "appointed"
+        },
+        {
+          "work": "gleanings",
+          "para": 609,
+          "snippet": "eyes"
+        }
+      ]
+    },
+    {
+      "term": "قلبه",
+      "transliteration": "q-l-b",
+      "literal": "heart; to turn; to overturn",
+      "se_rendering": "heart",
+      "note": "Usually 'hearts' or 'their hearts' (60 occurrences); singular 'heart' here suits the individual recipient of the spring's grace.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 547,
+          "snippet": "hearts"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 432,
+          "snippet": "their hearts"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 652,
+          "snippet": "heart"
+        },
+        {
+          "work": "gleanings",
+          "para": 228,
+          "snippet": "agitation"
+        },
+        {
+          "work": "gleanings",
+          "para": 350,
+          "snippet": "cataclysms"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 777,
+          "snippet": "commotion"
+        },
+        {
+          "work": "gleanings",
+          "para": 439,
+          "snippet": "discord"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 13,
+          "snippet": "tumult"
+        }
+      ]
+    },
+    {
+      "term": "نورا",
+      "transliteration": "n-w-r",
+      "literal": "light; illumination",
+      "se_rendering": "light",
+      "note": "Typically 'light' or 'Orb of Light' (78 occurrences); here 'light' maintains consistency with common rendering of heart-illumination metaphor.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 583,
+          "snippet": "light"
+        },
+        {
+          "work": "gleanings",
+          "para": 230,
+          "snippet": "Orb of Light"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 114,
+          "snippet": "with the light"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 109,
+          "snippet": "Thy light"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 246,
+          "snippet": "Illumine"
+        },
+        {
+          "work": "gleanings",
+          "para": 235,
+          "snippet": "glory"
+        },
+        {
+          "work": "gleanings",
+          "para": 597,
+          "snippet": "fire"
+        },
+        {
+          "work": "gleanings",
+          "para": 458,
+          "snippet": "fire of God"
+        }
+      ]
+    },
+    {
+      "term": "امّنه",
+      "transliteration": "ʾ-m-n",
+      "literal": "to believe; to have faith; to be secure",
+      "se_rendering": "protect",
+      "note": "Normally 'believed' or 'believe' (62 occurrences); SE renders as 'protect' here, choosing the security sense of the root ʾ-m-n over faith.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 585,
+          "snippet": "believed"
+        },
+        {
+          "work": "gleanings",
+          "para": 268,
+          "snippet": "believe"
+        },
+        {
+          "work": "gleanings",
+          "para": 251,
+          "snippet": "have believed"
+        },
+        {
+          "work": "gleanings",
+          "para": 260,
+          "snippet": "I truly believe"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 12,
+          "snippet": "trusted servants"
+        },
+        {
+          "work": "gleanings",
+          "para": 496,
+          "snippet": "trustworthy ones of God among His servants"
+        },
+        {
+          "work": "gleanings",
+          "para": 621,
+          "snippet": "trustees"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 25,
+          "snippet": "believers"
+        }
+      ]
+    },
+    {
+      "term": "الاکبر",
+      "transliteration": "k-b-r",
+      "literal": "great; grand; mighty; large",
+      "se_rendering": "most great",
+      "note": "Standard patterns 'Great City' or 'Most Great' (34 occurrences); SE renders 'most great terror' to emphasize eschatological magnitude.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 351,
+          "snippet": "Most Great"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 64,
+          "snippet": "Great God"
+        },
+        {
+          "work": "gleanings",
+          "para": 10,
+          "snippet": "most mighty grace"
+        },
+        {
+          "work": "gleanings",
+          "para": 23,
+          "snippet": "most grievous veil"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "Greater Branch"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 60,
+          "snippet": "great"
+        },
+        {
+          "work": "gleanings",
+          "para": 318,
+          "snippet": "mighty"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 48,
+          "snippet": "pride"
+        }
+      ]
+    }
+  ],
+  "section_index": "261",
+  "section": "261",
+  "section_para": 1
 }

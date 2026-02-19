@@ -1,10 +1,462 @@
 {
   "work": "The Hidden Words",
   "slug": "the-hidden-words",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 144,
   "source_text": "(٦٧) ﴿ ای پسران وهم ﴾\nبدانيد چون صبح نورانی از افق قدس صمدانی بردمد البتّه اسرار و اعمال شيطانی که در ليل ظلمانی معمول شده ظاهر شود و بر عالميان هويدا گردد *",
   "translation": "(67) O CHILDREN OF FANCY!\nKnow, verily, that while the radiant dawn breaketh above the horizon of eternal holiness, the satanic secrets and deeds done in the gloom of night shall be laid bare and manifest before the peoples of the world",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "satanic-secrets-laid-bare",
+  "alignment": [
+    {
+      "ar": "پسران",
+      "en": "CHILDREN"
+    },
+    {
+      "ar": "وهم",
+      "en": "FANCY"
+    },
+    {
+      "ar": "بدانيد",
+      "en": "Know"
+    },
+    {
+      "ar": "صبح",
+      "en": "dawn"
+    },
+    {
+      "ar": "نورانی",
+      "en": "radiant"
+    },
+    {
+      "ar": "افق",
+      "en": "horizon"
+    },
+    {
+      "ar": "قدس",
+      "en": "holiness"
+    },
+    {
+      "ar": "صمدانی",
+      "en": "eternal"
+    },
+    {
+      "ar": "بردمد",
+      "en": "breaketh"
+    },
+    {
+      "ar": "اسرار",
+      "en": "secrets"
+    },
+    {
+      "ar": "اعمال",
+      "en": "deeds"
+    },
+    {
+      "ar": "شيطانی",
+      "en": "satanic"
+    },
+    {
+      "ar": "ليل",
+      "en": "night"
+    },
+    {
+      "ar": "ظلمانی",
+      "en": "gloom"
+    },
+    {
+      "ar": "معمول",
+      "en": "done"
+    },
+    {
+      "ar": "ظاهر",
+      "en": "manifest"
+    },
+    {
+      "ar": "عالميان",
+      "en": "peoples of the world"
+    },
+    {
+      "ar": "هويدا",
+      "en": "laid bare"
+    }
+  ],
+  "terms": [
+    {
+      "term": "وهم",
+      "transliteration": "w-h-m",
+      "literal": "to imagine, suppose; fancy, idle imagination",
+      "se_rendering": "Fancy",
+      "note": "Standard rendering as 'idle fancy' or 'idle fancies' across 16 occurrences. SE selects the capitalized nominalized form 'Fancy' here, elevating it to an addressee category alongside mystical ranks.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 30,
+          "snippet": "idle fancy"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 76,
+          "snippet": "idle fancies"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 240,
+          "snippet": "superstitions"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 261,
+          "snippet": "vain imaginings"
+        },
+        {
+          "work": "gleanings",
+          "para": 80,
+          "snippet": "vain imaginations"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 255,
+          "snippet": "idle imaginings"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 12,
+          "snippet": "delusion"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 420,
+          "snippet": "anguish"
+        }
+      ]
+    },
+    {
+      "term": "صبح",
+      "transliteration": "s-b-h",
+      "literal": "morning, dawn; daybreak",
+      "se_rendering": "dawn",
+      "note": "Typically 'morning' or 'break of day' across 18 occurrences. 'Dawn' here emphasizes eschatological rupture and renewal over quotidian daybreak.",
+      "cross_refs": [
+        {
+          "work": "fire-tablet",
+          "para": 22,
+          "snippet": "dawning light"
+        },
+        {
+          "work": "gleanings",
+          "para": 211,
+          "snippet": "morning"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 185,
+          "snippet": "break of day"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 661,
+          "snippet": "wakened"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 26,
+          "snippet": "Thy Light"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 378,
+          "snippet": "every lamp"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 20,
+          "snippet": "lamp"
+        },
+        {
+          "work": "gleanings",
+          "para": 48,
+          "snippet": "lamp of guidance"
+        }
+      ]
+    },
+    {
+      "term": "نورانی",
+      "transliteration": "n-w-r",
+      "literal": "light; illumination",
+      "se_rendering": "radiant",
+      "note": "Usually 'light' or 'Orb of Light' (78 occ.). 'Radiant' modifies the noun directly, creating adjectival brilliance rather than nominal luminosity.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 3,
+          "snippet": "light"
+        },
+        {
+          "work": "gleanings",
+          "para": 230,
+          "snippet": "Orb of Light"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 114,
+          "snippet": "with the light"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 109,
+          "snippet": "Thy light"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 246,
+          "snippet": "Illumine"
+        },
+        {
+          "work": "gleanings",
+          "para": 235,
+          "snippet": "glory"
+        },
+        {
+          "work": "gleanings",
+          "para": 597,
+          "snippet": "fire"
+        },
+        {
+          "work": "gleanings",
+          "para": 458,
+          "snippet": "fire of God"
+        }
+      ]
+    },
+    {
+      "term": "اسرار",
+      "transliteration": "s-r-r",
+      "literal": "throne; couch; seat of authority",
+      "se_rendering": "secrets",
+      "note": "Root meaning 'throne/seat of authority' but rendered variously: 'mystery,' 'Secret,' 'lamp' across 40 occurrences. 'Secrets' here emphasizes hidden knowledge exposed, departing from mystical throne-imagery.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 145,
+          "snippet": "couch"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 256,
+          "snippet": "throne"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 185,
+          "snippet": "lamp"
+        },
+        {
+          "work": "tablet-of-carmel",
+          "para": 2,
+          "snippet": "joy"
+        },
+        {
+          "work": "gleanings",
+          "para": 218,
+          "snippet": "mystery"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 831,
+          "snippet": "Secret"
+        },
+        {
+          "work": "gleanings",
+          "para": 727,
+          "snippet": "gladness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 8,
+          "snippet": "by the mysteries"
+        }
+      ]
+    },
+    {
+      "term": "اعمال",
+      "transliteration": "ʿ-m-l",
+      "literal": "to work; to act; to do; to perform",
+      "se_rendering": "deeds",
+      "note": "Common as 'works,' 'actions,' or 'workers' (44 occ.). 'Deeds' here stresses concrete moral acts rendered transparent under divine light.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 255,
+          "snippet": "workers"
+        },
+        {
+          "work": "gleanings",
+          "para": 502,
+          "snippet": "do"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 24,
+          "snippet": "Consort"
+        },
+        {
+          "work": "gleanings",
+          "para": 607,
+          "snippet": "virtues and attributes"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 782,
+          "snippet": "works"
+        },
+        {
+          "work": "gleanings",
+          "para": 646,
+          "snippet": "actions"
+        },
+        {
+          "work": "gleanings",
+          "para": 564,
+          "snippet": "deeds"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 286,
+          "snippet": "God doeth unto them as they do unto themselves"
+        }
+      ]
+    },
+    {
+      "term": "ظلمانی",
+      "transliteration": "z-l-m",
+      "literal": "wrongedness, oppression, meekness; state of being wronged or oppressed",
+      "se_rendering": "gloom",
+      "note": "Root denotes 'wrongedness, oppression' with SE renderings including 'Wronged One,' 'afflicted,' 'wronged.' 'Gloom' is uniquely material/atmospheric, not relational or juridical.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 498,
+          "snippet": "afflicted with countless tribulations"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 49,
+          "snippet": "meekness"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 116,
+          "snippet": "injury"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 36,
+          "snippet": "Wronged One"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 253,
+          "snippet": "wronged"
+        },
+        {
+          "work": "gleanings",
+          "para": 221,
+          "snippet": "oppression"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 9,
+          "snippet": "Darkness"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 33,
+          "snippet": "tyranny"
+        }
+      ]
+    },
+    {
+      "term": "عالميان",
+      "transliteration": "ʿ-l-m",
+      "literal": "world; universe; the worlds",
+      "se_rendering": "peoples of the world",
+      "note": "Standard 'world,' 'all worlds,' 'mankind' (141 occ.). 'Peoples of the world' specifies human collective consciousness as the witness to exposure.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 198,
+          "snippet": "world"
+        },
+        {
+          "work": "gleanings",
+          "para": 657,
+          "snippet": "all worlds"
+        },
+        {
+          "work": "gleanings",
+          "para": 182,
+          "snippet": "mankind"
+        },
+        {
+          "work": "gleanings",
+          "para": 183,
+          "snippet": "the whole world"
+        },
+        {
+          "work": "gleanings",
+          "para": 226,
+          "snippet": "all earthly defilements"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 28,
+          "snippet": "knowledge"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 122,
+          "snippet": "commentators"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 42,
+          "snippet": "banner"
+        }
+      ]
+    },
+    {
+      "term": "هویدا",
+      "transliteration": "h-w-d",
+      "literal": "cradle; bed; couch; resting place",
+      "se_rendering": "manifest",
+      "note": "Root means 'cradle, bed, couch' (9 occ.), normally rendered as 'My couch' or 'thy bed.' 'Manifest' here abandons material imagery for pure revelation—a semantic leap.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 13,
+          "snippet": "My couch"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 9,
+          "snippet": "Húd"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 5,
+          "snippet": "Súrih Húd"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 110,
+          "snippet": "manifest"
+        }
+      ]
+    }
+  ],
+  "section_index": "283",
+  "section": "283",
+  "section_para": 1
 }

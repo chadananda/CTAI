@@ -1,10 +1,690 @@
 {
   "work": "Kitab-i-Iqan",
   "slug": "kitab-i-iqan",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 56,
   "source_text": "اگر قدری تأمّل رود در همين مطلب و بيان، ابواب های معانی و تبيان مفتوح بينيد و جميع علم و  اسرار آن را بی حجاب مشاهده فرمائيد.  و نيست اين امور مگر برای تربيت و خلاصی نفوس از قفس نفس و هوی و الّا آن سلطان حقيقی لم يزل به ذات خود غنيّ بوده از معرفت موجودات و لا يزال به کينونت خود مستغنی خواهد بود از  عبادت ممکنات.  يک نسيم از غنای او جميع عالم را به خلَع غنا مفتخر نمايد و يک قطره از بحر جود او همه هستی را به حيات باقيه مشرّف فرمايد.  و ليکن چون مقصود امتياز حقّ از باطل و شمس از ظلّ است، اين است که در کلّ حين امتحان های مُنزله از جانب ربّ العزّه چون غيث هاطل جاری است.",
   "translation": "Were you to ponder, but for a while, these utterances in your heart, you would surely find the portals of understanding unlocked before your face, and would behold all knowledge and the mysteries thereof unveiled before your eyes. Such things take place only that the souls of men may develop and be delivered from the prison-cage of self and desire. Otherwise, that ideal King hath, throughout eternity, been in His Essence independent of the comprehension of all beings, and will continue, for ever, in His own Being to be exalted above the adoration of every soul. A single breeze of His affluence doth suffice to adorn all mankind with the robe of wealth; and one drop out of the ocean of His bountiful grace is enough to confer upon all beings the glory of everlasting life. But inasmuch as the divine Purpose hath decreed that the true should be known from the false, and the sun from the shadow, He hath, therefore, in every season sent down upon mankind the showers of tests from His realm of glory.",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "portals-understanding-unlocked",
+  "alignment": [
+    {
+      "ar": "قدری",
+      "en": "but for a while"
+    },
+    {
+      "ar": "تأمّل",
+      "en": "ponder"
+    },
+    {
+      "ar": "رود",
+      "en": "you"
+    },
+    {
+      "ar": "در",
+      "en": "in"
+    },
+    {
+      "ar": "مطلب",
+      "en": "utterances"
+    },
+    {
+      "ar": "ابواب",
+      "en": "portals"
+    },
+    {
+      "ar": "معانی",
+      "en": "understanding"
+    },
+    {
+      "ar": "مفتوح",
+      "en": "unlocked"
+    },
+    {
+      "ar": "بينيد",
+      "en": "find"
+    },
+    {
+      "ar": "جميع",
+      "en": "all"
+    },
+    {
+      "ar": "علم",
+      "en": "knowledge"
+    },
+    {
+      "ar": "اسرار",
+      "en": "mysteries"
+    },
+    {
+      "ar": "بی حجاب",
+      "en": "unveiled"
+    },
+    {
+      "ar": "مشاهده",
+      "en": "behold"
+    },
+    {
+      "ar": "فرمائيد",
+      "en": "would"
+    },
+    {
+      "ar": "نيست",
+      "en": "take place"
+    },
+    {
+      "ar": "امور",
+      "en": "things"
+    },
+    {
+      "ar": "برای",
+      "en": "only that"
+    },
+    {
+      "ar": "تربيت",
+      "en": "develop"
+    },
+    {
+      "ar": "خلاصی",
+      "en": "delivered"
+    },
+    {
+      "ar": "نفوس",
+      "en": "souls"
+    },
+    {
+      "ar": "قفس",
+      "en": "prison-cage"
+    },
+    {
+      "ar": "نفس",
+      "en": "self"
+    },
+    {
+      "ar": "هوی",
+      "en": "desire"
+    },
+    {
+      "ar": "سلطان",
+      "en": "King"
+    },
+    {
+      "ar": "حقيقی",
+      "en": "ideal"
+    },
+    {
+      "ar": "لم يزل",
+      "en": "throughout eternity"
+    },
+    {
+      "ar": "ذات",
+      "en": "Essence"
+    },
+    {
+      "ar": "خود",
+      "en": "His"
+    },
+    {
+      "ar": "غنيّ",
+      "en": "independent"
+    },
+    {
+      "ar": "بوده",
+      "en": "been"
+    },
+    {
+      "ar": "معرفت",
+      "en": "comprehension"
+    },
+    {
+      "ar": "موجودات",
+      "en": "beings"
+    },
+    {
+      "ar": "لا يزال",
+      "en": "will continue, for ever"
+    },
+    {
+      "ar": "کينونت",
+      "en": "Being"
+    },
+    {
+      "ar": "مستغنی",
+      "en": "exalted"
+    },
+    {
+      "ar": "خواهد بود",
+      "en": "will"
+    },
+    {
+      "ar": "عبادت",
+      "en": "adoration"
+    },
+    {
+      "ar": "ممکنات",
+      "en": "soul"
+    },
+    {
+      "ar": "يک",
+      "en": "A single"
+    },
+    {
+      "ar": "نسيم",
+      "en": "breeze"
+    },
+    {
+      "ar": "غنای",
+      "en": "affluence"
+    },
+    {
+      "ar": "عالم",
+      "en": "mankind"
+    },
+    {
+      "ar": "خلَع",
+      "en": "robe"
+    },
+    {
+      "ar": "غنا",
+      "en": "wealth"
+    },
+    {
+      "ar": "مفتخر",
+      "en": "adorn"
+    },
+    {
+      "ar": "نمايد",
+      "en": "doth suffice"
+    },
+    {
+      "ar": "قطره",
+      "en": "drop"
+    },
+    {
+      "ar": "بحر",
+      "en": "ocean"
+    },
+    {
+      "ar": "جود",
+      "en": "bountiful grace"
+    },
+    {
+      "ar": "حيات",
+      "en": "life"
+    },
+    {
+      "ar": "باقيه",
+      "en": "everlasting"
+    },
+    {
+      "ar": "مشرّف",
+      "en": "confer"
+    },
+    {
+      "ar": "فرمايد",
+      "en": "enough"
+    },
+    {
+      "ar": "ليکن",
+      "en": "But"
+    },
+    {
+      "ar": "مقصود",
+      "en": "Purpose"
+    },
+    {
+      "ar": "امتياز",
+      "en": "known"
+    },
+    {
+      "ar": "حقّ",
+      "en": "true"
+    },
+    {
+      "ar": "باطل",
+      "en": "false"
+    },
+    {
+      "ar": "شمس",
+      "en": "sun"
+    },
+    {
+      "ar": "ظلّ",
+      "en": "shadow"
+    },
+    {
+      "ar": "است",
+      "en": "is"
+    },
+    {
+      "ar": "کلّ",
+      "en": "every"
+    },
+    {
+      "ar": "حين",
+      "en": "season"
+    },
+    {
+      "ar": "امتحان",
+      "en": "tests"
+    },
+    {
+      "ar": "مُنزله",
+      "en": "sent down"
+    },
+    {
+      "ar": "جانب",
+      "en": "realm"
+    },
+    {
+      "ar": "ربّ العزّه",
+      "en": "glory"
+    },
+    {
+      "ar": "غيث",
+      "en": "showers"
+    },
+    {
+      "ar": "جاری",
+      "en": "upon"
+    }
+  ],
+  "terms": [
+    {
+      "term": "مطلب",
+      "transliteration": "t-l-b",
+      "literal": "seeker, one who seeks; those who seek",
+      "se_rendering": "these utterances",
+      "note": "Root typically rendered as 'seekers' or 'those who seek' across 20 occurrences. Here SE deviates to 'utterances,' treating the root's sense of 'that which is sought' to mean disclosed matters rather than seeking persons.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 128,
+          "snippet": "seekers"
+        },
+        {
+          "work": "gleanings",
+          "para": 575,
+          "snippet": "the seekers"
+        },
+        {
+          "work": "gleanings",
+          "para": 301,
+          "snippet": "seeketh"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 667,
+          "snippet": "We beg of Thee"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 665,
+          "snippet": "we still seek"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 53,
+          "snippet": "we beg"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 659,
+          "snippet": "we beseech Thee"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 705,
+          "snippet": "I beseech"
+        }
+      ]
+    },
+    {
+      "term": "بيان",
+      "transliteration": "b-y-n",
+      "literal": "to manifest; to make clear; clear, evident",
+      "se_rendering": "understanding",
+      "note": "Standard renderings include 'the Expounder,' 'clear verses,' 'proofs' across 87 occurrences. Unique here as 'understanding'—SE interprets the manifestative sense (بيان = to make clear) as the faculty of understanding itself.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 223,
+          "snippet": "the Expounder, the Most Manifest"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 3,
+          "snippet": "proofs"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 12,
+          "snippet": "clear proofs"
+        },
+        {
+          "work": "gleanings",
+          "para": 563,
+          "snippet": "Dawning-Place of the proofs"
+        },
+        {
+          "work": "gleanings",
+          "para": 292,
+          "snippet": "the Bayán"
+        },
+        {
+          "work": "gleanings",
+          "para": 636,
+          "snippet": "utterance"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 120,
+          "snippet": "evil"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 178,
+          "snippet": "evident error"
+        }
+      ]
+    },
+    {
+      "term": "اسرار",
+      "transliteration": "s-r-r",
+      "literal": "throne; couch; seat of authority",
+      "se_rendering": "the mysteries thereof",
+      "note": "Typically 'mystery' or 'mysteries' across 40 occurrences, though root s-r-r originally means throne or couch. SE maintains the mystical sense here with 'mysteries thereof,' consistent with Baháʼí theological vocabulary.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 185,
+          "snippet": "lamp"
+        },
+        {
+          "work": "tablet-of-carmel",
+          "para": 2,
+          "snippet": "joy"
+        },
+        {
+          "work": "gleanings",
+          "para": 218,
+          "snippet": "mystery"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 831,
+          "snippet": "Secret"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 37,
+          "snippet": "in the gladness"
+        },
+        {
+          "work": "gleanings",
+          "para": 727,
+          "snippet": "gladness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 8,
+          "snippet": "by the mysteries"
+        },
+        {
+          "work": "gleanings",
+          "para": 318,
+          "snippet": "mysteries"
+        }
+      ]
+    },
+    {
+      "term": "حجاب",
+      "transliteration": "ḥ-j-b",
+      "literal": "to veil oneself, to be veiled",
+      "se_rendering": "unveiled",
+      "note": "Usually 'veil' or 'veiling' across 37 occurrences. Here rendered as 'unveiled'—the passive construction and negation (بی حجاب = without veil) force SE to convert the noun into an adjectival sense describing revelation rather than concealment.",
+      "cross_refs": [
+        {
+          "work": "the-hidden-words",
+          "para": 33,
+          "snippet": "veil thyself"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 234,
+          "snippet": "veiling yourselves"
+        },
+        {
+          "work": "gleanings",
+          "para": 198,
+          "snippet": "veil yourselves"
+        },
+        {
+          "work": "gleanings",
+          "para": 23,
+          "snippet": "most grievous veil"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 22,
+          "snippet": "veiled"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 533,
+          "snippet": "the veil"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 150,
+          "snippet": "the veil of heedlessness"
+        },
+        {
+          "work": "gleanings",
+          "para": 138,
+          "snippet": "the veil of her face"
+        }
+      ]
+    },
+    {
+      "term": "نفوس",
+      "transliteration": "n-f-s",
+      "literal": "self; soul; psyche",
+      "se_rendering": "the souls of men",
+      "note": "Typically 'self,' 'Self,' or reflexive pronouns across 43 occurrences. Here 'the souls of men' preserves the psychological dimension while shifting from individual interiority to collective spiritual capacity for development.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 114,
+          "snippet": "over Mine own Self"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 789,
+          "snippet": "myself to be only nothing"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 70,
+          "snippet": "This is the station in which I have no power"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 71,
+          "snippet": "his own entity in the kingdom of his self"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 572,
+          "snippet": "Thy Self at all times"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 109,
+          "snippet": "those"
+        },
+        {
+          "work": "gleanings",
+          "para": 205,
+          "snippet": "souls"
+        },
+        {
+          "work": "gleanings",
+          "para": 297,
+          "snippet": "their powerlessness"
+        }
+      ]
+    },
+    {
+      "term": "حقيقی",
+      "transliteration": "h-q-q",
+      "literal": "truth; right; that which is true or just",
+      "se_rendering": "ideal King",
+      "note": "Usually 'the True One,' 'the Truth,' or 'Sun of Truth' across 43 occurrences. Here modifies 'King' as 'ideal'—SE opts for aspirational/platonic sense rather than truth-asserting renderings, abstracting the ontological claim.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 651,
+          "snippet": "the True One"
+        },
+        {
+          "work": "gleanings",
+          "para": 85,
+          "snippet": "the Truth"
+        },
+        {
+          "work": "gleanings",
+          "para": 328,
+          "snippet": "the one true God"
+        },
+        {
+          "work": "gleanings",
+          "para": 707,
+          "snippet": "Him"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 52,
+          "snippet": "Sun of Truth"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 9,
+          "snippet": "evident"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "betrayal of truth"
+        },
+        {
+          "work": "gleanings",
+          "para": 100,
+          "snippet": "clear"
+        }
+      ]
+    },
+    {
+      "term": "غنی",
+      "transliteration": "gh-n-y",
+      "literal": "to be independent of; to be in no need of; to dispense with",
+      "se_rendering": "independent",
+      "note": "Root typically 'independent of' or 'in no need of' across 20 occurrences. Here 'independent' preserves the self-sufficiency sense; SE avoids alternative metaphorical renderings like 'Self-Sufficing' or 'All-Possessing' in favor of philosophical clarity.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 27,
+          "snippet": "in no need of"
+        },
+        {
+          "work": "gleanings",
+          "para": 685,
+          "snippet": "rid yourselves of attachment"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 660,
+          "snippet": "the All-Possessing"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 77,
+          "snippet": "treasure"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 155,
+          "snippet": "Self-Sufficing"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 115,
+          "snippet": "the All-Bounteous"
+        },
+        {
+          "work": "gleanings",
+          "para": 179,
+          "snippet": "the Self-Subsisting"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 128,
+          "snippet": "riches"
+        }
+      ]
+    },
+    {
+      "term": "منزله",
+      "transliteration": "n-z-l",
+      "literal": "to descend, to be revealed",
+      "se_rendering": "sent down",
+      "note": "Standard 'sent down' or 'revealed' across 88 occurrences. Consistent here, maintaining the descent metaphor for divine action, though context emphasizes trials rather than knowledge-bearing revelations.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 643,
+          "snippet": "sent down"
+        },
+        {
+          "work": "gleanings",
+          "para": 218,
+          "snippet": "revealed"
+        },
+        {
+          "work": "gleanings",
+          "para": 656,
+          "snippet": "descended"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 175,
+          "snippet": "didst send down"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 34,
+          "snippet": "Descend"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 47,
+          "snippet": "pour forth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 330,
+          "snippet": "send down"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 40,
+          "snippet": "were revealed"
+        }
+      ]
+    }
+  ],
+  "section_index": "56",
+  "section": "56",
+  "section_para": 1
 }

@@ -1,10 +1,491 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 769,
   "source_text": "خِرَةِ وَالأَولی، أَللَّهُمَّ إِنِّيْ أَسْئَلُكَ بِالحَرْفِ الَّتِي إِذا خَرَجَتْ مِنْ فَمِ مَشِيَّتِكَ ماجَتِ البِحارُ وَهاجَتِ الأَرْياحُ وَظَهَرَتِ الأَثْمارُ وَتَطاوَلَتِ الأَشْجارُ وَمَحَتِ الآثارُ وَخُرِقَتِ الأَسْتارُ وَسَرُعَ المُخْلِصُونَ إِلى أَنْوارِ وَجْهِ رَبِّهِمِ المُخْتارِ أَنْ تُعَرِّفَنِي ما كانَ مَكْنُونًا فِي كَنائِزِ عِرْفانِكَ وَمَسْتُورًا فِي خَزائِنِ عِلْمِكَ، تَرَانِي يا إِلهِي مُتَمَسِّكًا بِاسْمِكَ الأَقْدَسِ الأَنْوَرِ الأَعَزِّ الأَعْظَمِ العَلِيِّ الأَبْهى وَمُتَشَبِّثًا",
   "translation": "I beseech Thee, O my God, by that Letter which, as soon as it proceeded out of the mouth of Thy will, hath caused the oceans to surge, and the winds to blow, and the fruits to be revealed, and the trees to spring forth, and all past traces to vanish, and all veils to be rent asunder, and them who are devoted to Thee to hasten unto the light of the countenance of their Lord, the Unconstrained, to make known unto me what lay hid in the treasuries of Thy knowledge and concealed within the repositories of Thy wisdom. Thou seest me, O my God, holding to Thy Name, the Most Holy, the Most Luminous, the Most Mighty, the Most Great, the Most Exalted, the Most Glorious, and clinging to the hem of the robe to which have clung all in this world and in the world to come.",
   "source_lang": "ar",
-  "score": 9.5
+  "score": 9.5,
+  "page_slug": "letter-proceeded-mouth-will",
+  "alignment": [
+    {
+      "ar": "خِرَةِ",
+      "en": "the world to come"
+    },
+    {
+      "ar": "الأَولی",
+      "en": "this world"
+    },
+    {
+      "ar": "أَسْئَلُكَ",
+      "en": "beseech Thee"
+    },
+    {
+      "ar": "بِالحَرْفِ",
+      "en": "by that Letter"
+    },
+    {
+      "ar": "إِذا",
+      "en": "as soon as"
+    },
+    {
+      "ar": "خَرَجَتْ",
+      "en": "proceeded out"
+    },
+    {
+      "ar": "مِنْ فَمِ",
+      "en": "of the mouth of"
+    },
+    {
+      "ar": "ماجَتِ",
+      "en": "surge"
+    },
+    {
+      "ar": "البِحارُ",
+      "en": "the oceans"
+    },
+    {
+      "ar": "هاجَتِ",
+      "en": "blow"
+    },
+    {
+      "ar": "الأَرْياحُ",
+      "en": "the winds"
+    },
+    {
+      "ar": "ظَهَرَتِ",
+      "en": "be revealed"
+    },
+    {
+      "ar": "الأَثْمارُ",
+      "en": "the fruits"
+    },
+    {
+      "ar": "تَطاوَلَتِ",
+      "en": "spring forth"
+    },
+    {
+      "ar": "الأَشْجارُ",
+      "en": "the trees"
+    },
+    {
+      "ar": "مَحَتِ",
+      "en": "vanish"
+    },
+    {
+      "ar": "الآثارُ",
+      "en": "all past traces"
+    },
+    {
+      "ar": "خُرِقَتِ",
+      "en": "be rent asunder"
+    },
+    {
+      "ar": "الأَسْتارُ",
+      "en": "all veils"
+    },
+    {
+      "ar": "سَرُعَ",
+      "en": "hasten"
+    },
+    {
+      "ar": "المُخْلِصُونَ",
+      "en": "them who are devoted to Thee"
+    },
+    {
+      "ar": "إِلى",
+      "en": "unto"
+    },
+    {
+      "ar": "أَنْوارِ",
+      "en": "the light"
+    },
+    {
+      "ar": "وَجْهِ",
+      "en": "the countenance"
+    },
+    {
+      "ar": "المُخْتارِ",
+      "en": "the Unconstrained"
+    },
+    {
+      "ar": "ما",
+      "en": "what"
+    },
+    {
+      "ar": "كانَ",
+      "en": "lay"
+    },
+    {
+      "ar": "مَكْنُونًا",
+      "en": "hid"
+    },
+    {
+      "ar": "فِي",
+      "en": "in"
+    },
+    {
+      "ar": "كَنائِزِ",
+      "en": "the treasuries"
+    },
+    {
+      "ar": "عِرْفانِكَ",
+      "en": "Thy knowledge"
+    },
+    {
+      "ar": "مَسْتُورًا",
+      "en": "concealed"
+    },
+    {
+      "ar": "خَزائِنِ",
+      "en": "the repositories"
+    },
+    {
+      "ar": "عِلْمِكَ",
+      "en": "Thy wisdom"
+    },
+    {
+      "ar": "يا إِلهِي",
+      "en": "O my God"
+    },
+    {
+      "ar": "بِاسْمِكَ",
+      "en": "to Thy Name"
+    },
+    {
+      "ar": "الأَقْدَسِ",
+      "en": "the Most Holy"
+    },
+    {
+      "ar": "الأَنْوَرِ",
+      "en": "the Most Luminous"
+    },
+    {
+      "ar": "الأَعْظَمِ",
+      "en": "the Most Great"
+    },
+    {
+      "ar": "الأَبْهى",
+      "en": "the Most Glorious"
+    }
+  ],
+  "terms": [
+    {
+      "term": "بِالحَرْفِ",
+      "transliteration": "h-r-f",
+      "literal": "letter; character; edge",
+      "se_rendering": "Letter",
+      "note": "Root typically renders as 'letters', 'falsifying', 'alteration'. Here capitalized as 'Letter' — singular, metaphysical — suggesting the creative Word rather than orthographic marks.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 46,
+          "snippet": "letters"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 5,
+          "snippet": "passed out"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 6,
+          "snippet": "falsifying"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 41,
+          "snippet": "falsification"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 92,
+          "snippet": "alteration"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 97,
+          "snippet": "perverted"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 11,
+          "snippet": "his boundless transgression"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 179,
+          "snippet": "setting down"
+        }
+      ]
+    },
+    {
+      "term": "خَرَجَتْ",
+      "transliteration": "kh-r-j",
+      "literal": "bringing out, taking out, expulsion, extraction",
+      "se_rendering": "proceeded out",
+      "note": "Root kh-r-j typically yields 'expulsion', 'went forth', 'come ye out'. 'Proceeded out' emphasizes emanation and orderly procession rather than violent extraction.",
+      "cross_refs": [
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 25,
+          "snippet": "the maid of heaven looked out"
+        },
+        {
+          "work": "gleanings",
+          "para": 588,
+          "snippet": "Step out of Thy holy chamber"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 43,
+          "snippet": "Unsheathe the sword of your tongue"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 84,
+          "snippet": "Come ye out of them by My leave"
+        },
+        {
+          "work": "gleanings",
+          "para": 243,
+          "snippet": "Our expulsion"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 36,
+          "snippet": "went forth"
+        },
+        {
+          "work": "gleanings",
+          "para": 308,
+          "snippet": "concealed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 127,
+          "snippet": "foreign"
+        }
+      ]
+    },
+    {
+      "term": "مَشِيَّتِكَ",
+      "transliteration": "sh-y-ʾ",
+      "literal": "thing; something",
+      "se_rendering": "Thy will",
+      "note": "Root sh-y-ʾ normally renders 'nothingness', 'earthly things', 'all things'. Here 'Thy will' — a unique divine semantic shift absent in the 41 corpus occurrences.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 708,
+          "snippet": "nothingness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 37,
+          "snippet": "something"
+        },
+        {
+          "work": "gleanings",
+          "para": 368,
+          "snippet": "thing"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 15,
+          "snippet": "earthly things"
+        },
+        {
+          "work": "gleanings",
+          "para": 153,
+          "snippet": "transitory things"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 35,
+          "snippet": "all things"
+        },
+        {
+          "work": "gleanings",
+          "para": 161,
+          "snippet": "created things"
+        },
+        {
+          "work": "gleanings",
+          "para": 154,
+          "snippet": "creation"
+        }
+      ]
+    },
+    {
+      "term": "المُخْلِصُونَ",
+      "transliteration": "kh-l-s",
+      "literal": "sincere; devoted; pure one",
+      "se_rendering": "devoted",
+      "note": "Root kh-l-s regularly 'devoted', 'sincere'. SE selects 'devoted' — emphasizing relational commitment over moral purity across 20 corpus instances.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 187,
+          "snippet": "devoted"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 1,
+          "snippet": "the sincere"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 44,
+          "snippet": "insincere"
+        },
+        {
+          "work": "gleanings",
+          "para": 233,
+          "snippet": "the sincere lovers of God"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 72,
+          "snippet": "pure"
+        },
+        {
+          "work": "gleanings",
+          "para": 667,
+          "snippet": "purely"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 191,
+          "snippet": "free thyself"
+        }
+      ]
+    },
+    {
+      "term": "عِرْفانِكَ",
+      "transliteration": "ʿ-r-f",
+      "literal": "to confess; to acknowledge; to recognize",
+      "se_rendering": "Thy knowledge",
+      "note": "Root ʿ-r-f typically 'acknowledged', 'recognized', 'testifieth'. Rendered as 'knowledge' here — an epistemic rather than volitional sense, reflecting the para-mystical context.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 135,
+          "snippet": "hath acknowledged"
+        },
+        {
+          "work": "gleanings",
+          "para": 568,
+          "snippet": "acknowledged"
+        },
+        {
+          "work": "gleanings",
+          "para": 295,
+          "snippet": "made objections"
+        },
+        {
+          "work": "gleanings",
+          "para": 87,
+          "snippet": "knowledge"
+        },
+        {
+          "work": "gleanings",
+          "para": 2,
+          "snippet": "perception"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 5,
+          "snippet": "acknowledging"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 4,
+          "snippet": "fragrance of His garment"
+        },
+        {
+          "work": "gleanings",
+          "para": 214,
+          "snippet": "acknowledge"
+        }
+      ]
+    },
+    {
+      "term": "خَزائِنِ",
+      "transliteration": "kh-z-n",
+      "literal": "to store, to treasure; storehouse, depository, treasury",
+      "se_rendering": "repositories",
+      "note": "Root kh-z-n consistently yields 'repositories', 'treasuries', 'treasury'. SE selects 'repositories' — a term appearing in 19 occurrences denoting structured divine knowledge-holding.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 199,
+          "snippet": "depositories"
+        },
+        {
+          "work": "gleanings",
+          "para": 93,
+          "snippet": "repositories"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 58,
+          "snippet": "treasuries"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 1,
+          "snippet": "treasury"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 204,
+          "snippet": "custodians of the treasures"
+        },
+        {
+          "work": "gleanings",
+          "para": 630,
+          "snippet": "treasured"
+        },
+        {
+          "work": "gleanings",
+          "para": 677,
+          "snippet": "My treasure"
+        }
+      ]
+    },
+    {
+      "term": "الأَبْهى",
+      "transliteration": "b-h-y",
+      "literal": "splendor; glory; magnificence; Bahá (Proper Name in Bahá'í texts)",
+      "se_rendering": "Most Glorious",
+      "note": "Root b-h-y encompasses both proper name 'Bahá' and appellative 'glory'. SE renders 'Most Glorious' here rather than the proper name — preserving mystical predication over theo-nomenclature.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 89,
+          "snippet": "Bahá"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 59,
+          "snippet": "Glory"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 51,
+          "snippet": "Abhá"
+        },
+        {
+          "work": "gleanings",
+          "para": 645,
+          "snippet": "All-Glorious"
+        }
+      ]
+    }
+  ],
+  "section_index": "CLXXVII.10",
+  "section": "CLXXVII",
+  "section_para": 10
 }

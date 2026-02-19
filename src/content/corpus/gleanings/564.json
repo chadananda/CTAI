@@ -1,10 +1,527 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 564,
   "source_text": "ای دوستان باخلاق مرضیّه و اعمال طیّبه حقّ جلّ جلاله را نصرت نمائید الیوم هر نفسی ارادهٴ نصرت نماید باید به ما له ناظر نباشد بل به ما عند الله لیس له ان ینظر الی ما ینفعه بل بما ترتفع به کلمة الله المطاعة قلب باید از شئونات نفس و هوی مقدّس باشد چه که سلاح فتح و سبب اوّلیّهٴ نصر تقوی الله بوده و هست او است درعی که هیکل امر را حفظ میکند و حزب الله را نصرت مینماید لازال رایت تقوی مظفّر بوده و از اقوی جنود عالم محسوب بها فتح المقرّبون مدن القلوب باذن الله ربّ الجنود...",
   "translation": "O friends! Help ye the one true God, exalted be His glory, by your goodly deeds, by such conduct and character as shall be acceptable in His sight. He that seeketh to be a helper of God in this Day, let him close his eyes to whatever he may possess, and open them to the things of God. Let him cease to occupy himself with that which profiteth him, and concern himself with that which shall exalt the all-compelling name of the Almighty. He should cleanse his heart from all evil passions and corrupt desires, for the fear of God is the weapon that can render him victorious, the primary instrument whereby he can achieve his purpose. The fear of God is the shield that defendeth His Cause, the buckler that enableth His people to attain to victory. It is a standard that no man can abase, a force that no power can rival. By its aid, and by the leave of Him Who is the Lord of Hosts, they that have drawn nigh unto God have been able to subdue and conquer the citadels of the hearts of men.",
   "source_lang": "ar",
-  "score": 9.7
+  "score": 9.7,
+  "page_slug": "fear-of-god-weapon-victory",
+  "alignment": [
+    {
+      "ar": "ای",
+      "en": "O"
+    },
+    {
+      "ar": "دوستان",
+      "en": "friends"
+    },
+    {
+      "ar": "باخلاق",
+      "en": "conduct and character"
+    },
+    {
+      "ar": "مرضیّه",
+      "en": "acceptable"
+    },
+    {
+      "ar": "اعمال",
+      "en": "deeds"
+    },
+    {
+      "ar": "طیّبه",
+      "en": "goodly"
+    },
+    {
+      "ar": "حقّ",
+      "en": "God"
+    },
+    {
+      "ar": "جلّ جلاله",
+      "en": "exalted be His glory"
+    },
+    {
+      "ar": "نصرت",
+      "en": "Help"
+    },
+    {
+      "ar": "الیوم",
+      "en": "this Day"
+    },
+    {
+      "ar": "هر",
+      "en": "He"
+    },
+    {
+      "ar": "نفسی",
+      "en": "that"
+    },
+    {
+      "ar": "ارادهٴ",
+      "en": "seeketh"
+    },
+    {
+      "ar": "نصرت نماید",
+      "en": "helper"
+    },
+    {
+      "ar": "باید",
+      "en": "let him"
+    },
+    {
+      "ar": "به ما له",
+      "en": "whatever he may possess"
+    },
+    {
+      "ar": "ناظر",
+      "en": "close his eyes"
+    },
+    {
+      "ar": "نباشد",
+      "en": "close"
+    },
+    {
+      "ar": "به ما عند الله",
+      "en": "the things of God"
+    },
+    {
+      "ar": "لیس له ان ینظر",
+      "en": "Let him cease to occupy himself"
+    },
+    {
+      "ar": "الی ما ینفعه",
+      "en": "with that which profiteth him"
+    },
+    {
+      "ar": "بما ترتفع به",
+      "en": "with that which shall exalt"
+    },
+    {
+      "ar": "کلمة الله",
+      "en": "name of the Almighty"
+    },
+    {
+      "ar": "المطاعة",
+      "en": "all-compelling"
+    },
+    {
+      "ar": "قلب",
+      "en": "heart"
+    },
+    {
+      "ar": "باید",
+      "en": "should"
+    },
+    {
+      "ar": "از شئونات",
+      "en": "from"
+    },
+    {
+      "ar": "نفس",
+      "en": "evil passions"
+    },
+    {
+      "ar": "هوی",
+      "en": "corrupt desires"
+    },
+    {
+      "ar": "مقدّس",
+      "en": "cleanse"
+    },
+    {
+      "ar": "چه که",
+      "en": "for"
+    },
+    {
+      "ar": "سلاح",
+      "en": "weapon"
+    },
+    {
+      "ar": "فتح",
+      "en": "victorious"
+    },
+    {
+      "ar": "سبب اوّلیّهٴ",
+      "en": "primary instrument"
+    },
+    {
+      "ar": "نصر",
+      "en": "achieve his purpose"
+    },
+    {
+      "ar": "تقوی الله",
+      "en": "fear of God"
+    },
+    {
+      "ar": "بوده",
+      "en": "is"
+    },
+    {
+      "ar": "او",
+      "en": "It"
+    },
+    {
+      "ar": "درعی",
+      "en": "shield"
+    },
+    {
+      "ar": "هیکل",
+      "en": "Cause"
+    },
+    {
+      "ar": "حفظ",
+      "en": "defendeth"
+    },
+    {
+      "ar": "حزب الله",
+      "en": "His people"
+    },
+    {
+      "ar": "نصرت مینماید",
+      "en": "attain to victory"
+    },
+    {
+      "ar": "لازال",
+      "en": "no man can abase"
+    },
+    {
+      "ar": "رایت",
+      "en": "standard"
+    },
+    {
+      "ar": "از اقوی",
+      "en": "no power can rival"
+    },
+    {
+      "ar": "جنود",
+      "en": "force"
+    },
+    {
+      "ar": "عالم",
+      "en": "power"
+    },
+    {
+      "ar": "بها",
+      "en": "By its aid"
+    },
+    {
+      "ar": "فتح",
+      "en": "subdue and conquer"
+    },
+    {
+      "ar": "المقرّبون",
+      "en": "they that have drawn nigh unto God"
+    },
+    {
+      "ar": "مدن",
+      "en": "citadels"
+    },
+    {
+      "ar": "القلوب",
+      "en": "hearts"
+    },
+    {
+      "ar": "باذن الله",
+      "en": "by the leave"
+    },
+    {
+      "ar": "ربّ الجنود",
+      "en": "Lord of Hosts"
+    }
+  ],
+  "terms": [
+    {
+      "term": "قلب",
+      "transliteration": "q-l-b",
+      "literal": "heart; to turn; to overturn",
+      "se_rendering": "hearts",
+      "note": "Rendered as 'hearts' (plural) in final clause. Root appears 60 times; SE typically uses 'heart' (singular) or 'hearts,' here emphasizing the plurality of human hearts as targets of spiritual conquest.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 187,
+          "snippet": "hearts"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 432,
+          "snippet": "their hearts"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 652,
+          "snippet": "heart"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 777,
+          "snippet": "commotion"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 13,
+          "snippet": "tumult"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 30,
+          "snippet": "thine heart"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 4,
+          "snippet": "with a pure heart"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 82,
+          "snippet": "with a sound heart"
+        }
+      ]
+    },
+    {
+      "term": "مقدّس",
+      "transliteration": "q-d-s",
+      "literal": "holy, sacred, sanctified",
+      "se_rendering": "cleanse",
+      "note": "In context 'cleanse his heart,' rendered implicitly through 'should cleanse' rather than explicit 'sacred/holy.' Jafar shows 'sacred' as primary (47 occ); SE here shifts to imperative action rather than descriptive sanctity.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 2,
+          "snippet": "Sacred"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 81,
+          "snippet": "hallowed"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 35,
+          "snippet": "spirit of holiness"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 448,
+          "snippet": "Sanctuary"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 13,
+          "snippet": "Holy Mariner"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 6,
+          "snippet": "sacred strand"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 26,
+          "snippet": "Celestial Concourse"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 189,
+          "snippet": "Most Holy"
+        }
+      ]
+    },
+    {
+      "term": "هیکل",
+      "transliteration": "h-k-l",
+      "literal": "temple; structure; form; body",
+      "se_rendering": "Cause",
+      "note": "Translated as 'Cause' in 'hast defended His Cause.' Jafar data shows primary renderings as 'Temple' (20 occ); here SE uses institutional metaphor rather than architectural, metaphorically equating divine purpose with a structure requiring defense.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "Temple"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 96,
+          "snippet": "Súratu'l-Haykal"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 10,
+          "snippet": "person"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 154,
+          "snippet": "Being"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 28,
+          "snippet": "body"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 196,
+          "snippet": "temples"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 82,
+          "snippet": "thy temple"
+        }
+      ]
+    },
+    {
+      "term": "امر",
+      "transliteration": "ʾ-m-r",
+      "literal": "command; cause; matter; affair",
+      "se_rendering": "His Cause",
+      "note": "Translated as 'His Cause' here. Typical renderings include 'His command' and 'His Revelation' (75 occ); this passage uses the institutional sense emphasizing the divine purpose rather than direct command.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "His Cause"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 797,
+          "snippet": "Thy Cause"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 597,
+          "snippet": "service"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 167,
+          "snippet": "things"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "commanded"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 236,
+          "snippet": "commissioned"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 785,
+          "snippet": "Thy Revelation"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 38,
+          "snippet": "for the protection of the Cause"
+        }
+      ]
+    },
+    {
+      "term": "رایت",
+      "transliteration": "r-ʾ-y",
+      "literal": "to see; to perceive; to look",
+      "se_rendering": "standard",
+      "note": "Rendered 'standard' (military banner). Jafar shows 31 occurrences primarily as perception verbs ('seest'); this passage uniquely employs the noun sense, creating martial imagery for constancy of divine protection.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 157,
+          "snippet": "scornfully"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 23,
+          "snippet": "from"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 233,
+          "snippet": "by"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 33,
+          "snippet": "seest them"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 491,
+          "snippet": "behold them"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 168,
+          "snippet": "seest him"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 70,
+          "snippet": "we have seen"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 198,
+          "snippet": "we beheld"
+        }
+      ]
+    },
+    {
+      "term": "جنود",
+      "transliteration": "j-n-d",
+      "literal": "hosts, armies, troops",
+      "se_rendering": "hosts",
+      "note": "Translated as 'hosts' and 'Hosts.' Jafar shows consistent rendering as 'hosts' (23 occ) often with religious qualifier; here applied both to divine armies and as abstract force, maintaining etymological fidelity.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "by the Hosts"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 10,
+          "snippet": "with the everlasting hosts"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 196,
+          "snippet": "with the hosts"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 29,
+          "snippet": "hosts of wrongful doers"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 104,
+          "snippet": "hosts of the infidels"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 473,
+          "snippet": "hosts of the earth nor those of heaven"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 813,
+          "snippet": "hosts of the world"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 136,
+          "snippet": "hosts"
+        }
+      ]
+    }
+  ],
+  "section_index": "CXXVI.4",
+  "section": "CXXVI",
+  "section_para": 4
 }

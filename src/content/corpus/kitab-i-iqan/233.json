@@ -1,10 +1,642 @@
 {
   "work": "Kitab-i-Iqan",
   "slug": "kitab-i-iqan",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 233,
   "source_text": "باری،  اين سخن به غايت لغو و غير مقبول است.  همه از روی کبر و غرور گفته می شود که مردم را از رياض رضای الهی دور کنند و زمام آنها را محکم حفظ نمايند.  با اينکه نزد حقّ اين عوام از علمای ايشان که از حقّ اعراض نمودهاند به غايت مقبول تر و پسنديده ترند.  و فهم کلمات الهيّه و درک بيانات حمامات معنويّه هيچ دخلی به علم ظاهری ندارد.  اين منوط به صفای قلب و تزکيه نفوس و فراغت روح است.  چنانچه حال عبادی چند موجودند که حرفی از رسوم علم نديدهاند و بر رفرف علم جالسند و از سحاب فيض الهی رياض قلوبشان به گل های حکمت و لاله های معرفت تزيين يافته.  فَطُوبی لِلمُخلِصينَ مِن اَنوارِ يَومٍ عَظيمٍ.",
   "translation": "Such contention is utterly fallacious and inadmissible. It is actuated solely by arrogance and pride. Its motive is to lead the people astray from the Ridván of divine good-pleasure and to tighten the reins of their authority over the people. And yet, in the sight of God, these common people are infinitely superior and exalted above their religious leaders who have turned away from the one true God. The understanding of His words and the comprehension of the utterances of the Birds of Heaven are in no wise dependent upon human learning. They depend solely upon purity of heart, chastity of soul, and freedom of spirit. This is evidenced by those who, today, though without a single letter of the accepted standards of learning, are occupying the loftiest seats of knowledge; and the garden of their hearts is adorned, through the showers of divine grace, with the roses of wisdom and the tulips of understanding. Well is it with the sincere in heart for their share of the light of a mighty Day!",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "purity-heart-understanding-divine-words",
+  "alignment": [
+    {
+      "ar": "باری",
+      "en": "And yet"
+    },
+    {
+      "ar": "اين",
+      "en": "Such"
+    },
+    {
+      "ar": "سخن",
+      "en": "contention"
+    },
+    {
+      "ar": "غايت",
+      "en": "utterly"
+    },
+    {
+      "ar": "لغو",
+      "en": "fallacious"
+    },
+    {
+      "ar": "غير مقبول",
+      "en": "inadmissible"
+    },
+    {
+      "ar": "همه",
+      "en": "solely"
+    },
+    {
+      "ar": "کبر",
+      "en": "arrogance"
+    },
+    {
+      "ar": "غرور",
+      "en": "pride"
+    },
+    {
+      "ar": "گفته می شود",
+      "en": "actuated"
+    },
+    {
+      "ar": "مردم",
+      "en": "people"
+    },
+    {
+      "ar": "رياض",
+      "en": "Ridván"
+    },
+    {
+      "ar": "رضای الهی",
+      "en": "divine good-pleasure"
+    },
+    {
+      "ar": "دور کنند",
+      "en": "astray"
+    },
+    {
+      "ar": "زمام",
+      "en": "reins"
+    },
+    {
+      "ar": "آنها",
+      "en": "their"
+    },
+    {
+      "ar": "محکم",
+      "en": "tighten"
+    },
+    {
+      "ar": "حفظ نمايند",
+      "en": "authority"
+    },
+    {
+      "ar": "نزد",
+      "en": "in the sight of"
+    },
+    {
+      "ar": "حقّ",
+      "en": "God"
+    },
+    {
+      "ar": "عوام",
+      "en": "common people"
+    },
+    {
+      "ar": "علمای",
+      "en": "religious leaders"
+    },
+    {
+      "ar": "اعراض نمودهاند",
+      "en": "turned away"
+    },
+    {
+      "ar": "غايت",
+      "en": "infinitely"
+    },
+    {
+      "ar": "مقبول تر",
+      "en": "superior"
+    },
+    {
+      "ar": "پسنديده ترند",
+      "en": "exalted"
+    },
+    {
+      "ar": "فهم",
+      "en": "understanding"
+    },
+    {
+      "ar": "کلمات الهيّه",
+      "en": "His words"
+    },
+    {
+      "ar": "درک",
+      "en": "comprehension"
+    },
+    {
+      "ar": "بيانات",
+      "en": "utterances"
+    },
+    {
+      "ar": "حمامات معنويّه",
+      "en": "Birds of Heaven"
+    },
+    {
+      "ar": "هيچ",
+      "en": "in no wise"
+    },
+    {
+      "ar": "دخلی",
+      "en": "dependent"
+    },
+    {
+      "ar": "علم ظاهری",
+      "en": "human learning"
+    },
+    {
+      "ar": "ندارد",
+      "en": "no"
+    },
+    {
+      "ar": "منوط",
+      "en": "depend"
+    },
+    {
+      "ar": "صفای قلب",
+      "en": "purity of heart"
+    },
+    {
+      "ar": "تزکيه نفوس",
+      "en": "chastity of soul"
+    },
+    {
+      "ar": "فراغت روح",
+      "en": "freedom of spirit"
+    },
+    {
+      "ar": "چنانچه",
+      "en": "evidenced"
+    },
+    {
+      "ar": "حال",
+      "en": "today"
+    },
+    {
+      "ar": "عبادی چند",
+      "en": "those"
+    },
+    {
+      "ar": "موجودند",
+      "en": "are"
+    },
+    {
+      "ar": "حرفی",
+      "en": "a single letter"
+    },
+    {
+      "ar": "رسوم علم",
+      "en": "accepted standards of learning"
+    },
+    {
+      "ar": "نديدهاند",
+      "en": "without"
+    },
+    {
+      "ar": "رفرف علم",
+      "en": "loftiest seats of knowledge"
+    },
+    {
+      "ar": "جالسند",
+      "en": "occupying"
+    },
+    {
+      "ar": "سحاب",
+      "en": "showers"
+    },
+    {
+      "ar": "فيض الهی",
+      "en": "divine grace"
+    },
+    {
+      "ar": "رياض قلوبشان",
+      "en": "garden of their hearts"
+    },
+    {
+      "ar": "گل های حکمت",
+      "en": "roses of wisdom"
+    },
+    {
+      "ar": "لاله های معرفت",
+      "en": "tulips of understanding"
+    },
+    {
+      "ar": "تزيين يافته",
+      "en": "adorned"
+    },
+    {
+      "ar": "فَطُوبی",
+      "en": "Well"
+    },
+    {
+      "ar": "لِلمُخلِصينَ",
+      "en": "sincere in heart"
+    },
+    {
+      "ar": "مِن اَنوارِ",
+      "en": "light"
+    },
+    {
+      "ar": "يَومٍ عَظيمٍ",
+      "en": "mighty Day"
+    }
+  ],
+  "terms": [
+    {
+      "term": "الهی",
+      "transliteration": "ʾ-l-h",
+      "literal": "God; Allah",
+      "se_rendering": "divine",
+      "note": "Consistently 'God' or divine possession (53 occurrences). 'Divine' as adjective maintains theistic referent while qualifying the grace-shower.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 294,
+          "snippet": "God"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 10,
+          "snippet": "O God, my God"
+        },
+        {
+          "work": "gleanings",
+          "para": 341,
+          "snippet": "of God"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 11,
+          "snippet": "My God"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 645,
+          "snippet": "My God, Thou Whom I adore and worship"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 658,
+          "snippet": "My God, Whom I worship and adore"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 662,
+          "snippet": "O my God, the God of bounty and mercy"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 704,
+          "snippet": "My God, my Adored One, my King, my Desire"
+        }
+      ]
+    },
+    {
+      "term": "علمای",
+      "transliteration": "ʿ-l-m",
+      "literal": "world; universe; the worlds",
+      "se_rendering": "religious leaders",
+      "note": "Root typically rendered as 'knowledge' (141 occurrences). Here 'religious leaders' contextualizes abstract learning as institutional authority figures being critiqued.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 198,
+          "snippet": "world"
+        },
+        {
+          "work": "gleanings",
+          "para": 657,
+          "snippet": "all worlds"
+        },
+        {
+          "work": "gleanings",
+          "para": 182,
+          "snippet": "mankind"
+        },
+        {
+          "work": "gleanings",
+          "para": 183,
+          "snippet": "the whole world"
+        },
+        {
+          "work": "gleanings",
+          "para": 226,
+          "snippet": "all earthly defilements"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 28,
+          "snippet": "knowledge"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 42,
+          "snippet": "banner"
+        },
+        {
+          "work": "gleanings",
+          "para": 38,
+          "snippet": "understanding"
+        }
+      ]
+    },
+    {
+      "term": "کلمات",
+      "transliteration": "k-l-m",
+      "literal": "words; utterances; locutions",
+      "se_rendering": "words",
+      "note": "Standard rendering 'words' across 58 occurrences. Here affirmed as primary mode of divine communication accessible independent of formal learning.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 6,
+          "snippet": "words"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 38,
+          "snippet": "His Word"
+        },
+        {
+          "work": "gleanings",
+          "para": 353,
+          "snippet": "the Word of God"
+        },
+        {
+          "work": "gleanings",
+          "para": 603,
+          "snippet": "a jewel"
+        },
+        {
+          "work": "gleanings",
+          "para": 441,
+          "snippet": "a word"
+        },
+        {
+          "work": "gleanings",
+          "para": 689,
+          "snippet": "the sayings"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 48,
+          "snippet": "Thy Word"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 2,
+          "snippet": "the Word"
+        }
+      ]
+    },
+    {
+      "term": "بيانات",
+      "transliteration": "b-y-n",
+      "literal": "to manifest; to make clear; clear, evident",
+      "se_rendering": "utterances",
+      "note": "Usually 'the Bayán' or 'proofs' (87 occurrences). 'Utterances' here emphasizes divine speech as utterance rather than doctrinal text.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 223,
+          "snippet": "the Expounder, the Most Manifest"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 3,
+          "snippet": "proofs"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 12,
+          "snippet": "clear proofs"
+        },
+        {
+          "work": "gleanings",
+          "para": 563,
+          "snippet": "Dawning-Place of the proofs"
+        },
+        {
+          "work": "gleanings",
+          "para": 292,
+          "snippet": "the Bayán"
+        },
+        {
+          "work": "gleanings",
+          "para": 636,
+          "snippet": "utterance"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 120,
+          "snippet": "evil"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 178,
+          "snippet": "evident error"
+        }
+      ]
+    },
+    {
+      "term": "دخلی",
+      "transliteration": "d-kh-l",
+      "literal": "to enter; to admit; to bring in",
+      "se_rendering": "dependent",
+      "note": "Root normally 'enter' or 'admit' (25 occurrences). 'Dependent' appears unique here, translating Arabic negative construction into relational rather than spatial metaphor.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 12,
+          "snippet": "shelter them"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 793,
+          "snippet": "admit them"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 361,
+          "snippet": "brought them"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 28,
+          "snippet": "interfere"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 33,
+          "snippet": "entered"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 174,
+          "snippet": "begun"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 204,
+          "snippet": "enter"
+        },
+        {
+          "work": "gleanings",
+          "para": 58,
+          "snippet": "have entered"
+        }
+      ]
+    },
+    {
+      "term": "ظاهری",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "human learning",
+      "note": "Root generally 'Manifestation' or 'manifestation' across 96 instances. 'Human learning' here denotes exoteric, external knowledge contrasted with spiritual understanding.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 53,
+          "snippet": "Manifestation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 160,
+          "snippet": "Author of all Manifestations"
+        },
+        {
+          "work": "gleanings",
+          "para": 222,
+          "snippet": "material"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 206,
+          "snippet": "appeared"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 255,
+          "snippet": "Manifestations"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 791,
+          "snippet": "tokens of Thy handiwork"
+        }
+      ]
+    },
+    {
+      "term": "عبادی",
+      "transliteration": "ʿ-b-d",
+      "literal": "servant; slave; worshipper",
+      "se_rendering": "those",
+      "note": "Root typically 'servants' (68 occurrences). 'Those' here depersonalizes to universal principle, obscuring the servant-worshipper semantics of root.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 279,
+          "snippet": "Thy servants"
+        },
+        {
+          "work": "gleanings",
+          "para": 686,
+          "snippet": "servants"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 27,
+          "snippet": "'Abdu'l‑Bahá"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 204,
+          "snippet": "Thy servant"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 260,
+          "snippet": "'Abdu'l-'Azíz"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 663,
+          "snippet": "servant"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 10,
+          "snippet": "this wronged servant of Thine"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 47,
+          "snippet": "this servant of Thine"
+        }
+      ]
+    },
+    {
+      "term": "معرفت",
+      "transliteration": "ʿ-r-f",
+      "literal": "to confess; to acknowledge; to recognize",
+      "se_rendering": "understanding",
+      "note": "Typically 'recognition' or 'acknowledge' forms (82 occurrences). 'Understanding' shifts sense from intellectual recognition to gnostic comprehension.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 601,
+          "snippet": "testifieth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 729,
+          "snippet": "hath acknowledged"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 582,
+          "snippet": "have recognized"
+        },
+        {
+          "work": "gleanings",
+          "para": 568,
+          "snippet": "acknowledged"
+        },
+        {
+          "work": "gleanings",
+          "para": 295,
+          "snippet": "made objections"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 744,
+          "snippet": "understanding"
+        },
+        {
+          "work": "gleanings",
+          "para": 87,
+          "snippet": "knowledge"
+        },
+        {
+          "work": "gleanings",
+          "para": 2,
+          "snippet": "perception"
+        }
+      ]
+    }
+  ],
+  "section_index": "233",
+  "section": "233",
+  "section_para": 1
 }

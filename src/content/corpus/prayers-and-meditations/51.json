@@ -1,10 +1,169 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 51,
   "source_text": "وَالشُّكْرُ لَكَ يا مَنْ بِيَدِهِ مَلَكُوتُ الوُجُودِ.",
   "translation": "Lauded and glorified art Thou, in Whose hand is the empire of all things!",
   "source_lang": "ar",
-  "score": 9.8
+  "score": 9.8,
+  "page_slug": "empire-all-things",
+  "alignment": [
+    {
+      "ar": "لَكَ",
+      "en": "art Thou"
+    },
+    {
+      "ar": "بِيَدِهِ",
+      "en": "in Whose hand"
+    },
+    {
+      "ar": "مَلَكُوتُ",
+      "en": "empire"
+    },
+    {
+      "ar": "الوُجُودِ",
+      "en": "all things"
+    }
+  ],
+  "terms": [
+    {
+      "term": "والشُّكْرُ",
+      "transliteration": "sh-k-r",
+      "literal": "manifest; evident; apparent; clear",
+      "se_rendering": "Lauded and glorified",
+      "note": "Root typically means 'manifest' or 'clear,' but SE renders as 'Lauded and glorified' here—departing entirely from manifestation semantics to express active thanksgiving and praise.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 142,
+          "snippet": "reveal"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 84,
+          "snippet": "palpable"
+        },
+        {
+          "work": "gleanings",
+          "para": 206,
+          "snippet": "Render thanks"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 73,
+          "snippet": "thanks"
+        }
+      ]
+    },
+    {
+      "term": "بِيَدِهِ",
+      "transliteration": "y-d",
+      "literal": "hand; power; control",
+      "se_rendering": "hand",
+      "note": "No recorded SE renderings in Jafar data (0 occ.), yet SE renders as 'hand' here—a literal, metaphorical reading of divine control and power.",
+      "cross_refs": []
+    },
+    {
+      "term": "مَلَكُوتُ",
+      "transliteration": "m-l-k",
+      "literal": "kingdom; dominion; realm; sovereignty",
+      "se_rendering": "empire",
+      "note": "Usually 'Kingdom,' 'realm,' or 'dominion' across 70 occurrences. 'Empire' here conveys sovereignty and vastness, a fitting synonym within SE's consistent range for this term.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-ahd",
+          "para": 16,
+          "snippet": "heaven"
+        },
+        {
+          "work": "gleanings",
+          "para": 394,
+          "snippet": "realm"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 171,
+          "snippet": "kingdom"
+        },
+        {
+          "work": "gleanings",
+          "para": 313,
+          "snippet": "heavenly gem"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 69,
+          "snippet": "realms"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 28,
+          "snippet": "righteous"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 167,
+          "snippet": "by the heavenly power"
+        },
+        {
+          "work": "gleanings",
+          "para": 59,
+          "snippet": "Lord"
+        }
+      ]
+    },
+    {
+      "term": "الوُجُودِ",
+      "transliteration": "w-j-d",
+      "literal": "to find; to discover; to obtain",
+      "se_rendering": "all things",
+      "note": "Root w-j-d typically yields 'being' or 'point of creation,' but SE renders as 'all things' here—a comprehensive abstraction replacing existential specificity with totality.",
+      "cross_refs": [
+        {
+          "work": "the-hidden-words",
+          "para": 91,
+          "snippet": "adorned"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 27,
+          "snippet": "found"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 215,
+          "snippet": "mentioned"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 69,
+          "snippet": "aware"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 6,
+          "snippet": "being"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 214,
+          "snippet": "is led"
+        },
+        {
+          "work": "gleanings",
+          "para": 436,
+          "snippet": "The Great Being"
+        },
+        {
+          "work": "gleanings",
+          "para": 4,
+          "snippet": "created things"
+        }
+      ]
+    }
+  ],
+  "section_index": "XVI.3",
+  "section": "XVI",
+  "section_para": 3
 }

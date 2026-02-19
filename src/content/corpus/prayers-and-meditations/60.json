@@ -1,10 +1,404 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 60,
   "source_text": "نْتَ العَزِيزُ الحَكِيمُ، أَيْ رَبِّ أَنَا الفَقِيرُ قَدْ تَشَبَّثْتُ بِذَيْلِ غَنائِكَ وَالمَرِيضُ قَدْ تَمَسَّكْتُ بِعُرْوَةِ شِفائِكَ، خَلِّصْنِيْ مِنْ دآءِ الَّذِيْ أَحَاطَنِي وَغَسِّلْنِي فِيْ بَحْرِ رَحْمَتِكَ وَإِحْسَانِكَ، ثُمَّ أَلْبِسْنِي ثَوْبَ العافِيَةِ بِعَفْوِكَ وَأَلْطافِكَ ثُمَّ اجْعَلْنِي ناظِرًا إِلَيْكَ وَمُنْقَطِعًا عَنْ دُونِكَ، أَيْ رَبِّ وَفِّقْنِيْ عَلَى ما أَنْتَ تُحِبُّ وَتَرْضَى",
   "translation": "I am but a poor creature, O my Lord; I have clung to the hem of Thy riches. I am sore sick; I have held fast the cord of Thy healing. Deliver me from the ills that have encircled me, and wash me thoroughly with the waters of Thy graciousness and mercy, and attire me with the raiment of wholesomeness, through Thy forgiveness and bounty. Fix, then, mine eyes upon Thee, and rid me of all attachment to aught else except Thyself. Aid me to do what Thou desirest, and to fulfill what Thou pleasest.",
   "source_lang": "ar",
-  "score": 9.7
+  "score": 9.7,
+  "page_slug": "poor-creature-clung-hem-riches",
+  "alignment": [
+    {
+      "ar": "العَزِيزُ",
+      "en": "Thou"
+    },
+    {
+      "ar": "الفَقِيرُ",
+      "en": "poor creature"
+    },
+    {
+      "ar": "بِذَيْلِ",
+      "en": "to the hem"
+    },
+    {
+      "ar": "غَنائِكَ",
+      "en": "Thy riches"
+    },
+    {
+      "ar": "المَرِيضُ",
+      "en": "sore sick"
+    },
+    {
+      "ar": "بِعُرْوَةِ",
+      "en": "the cord"
+    },
+    {
+      "ar": "شِفائِكَ",
+      "en": "Thy healing"
+    },
+    {
+      "ar": "دآءِ",
+      "en": "ills"
+    },
+    {
+      "ar": "أَحَاطَنِي",
+      "en": "encircled me"
+    },
+    {
+      "ar": "بَحْرِ",
+      "en": "waters"
+    },
+    {
+      "ar": "رَحْمَتِكَ",
+      "en": "Thy graciousness and mercy"
+    },
+    {
+      "ar": "إِحْسَانِكَ",
+      "en": "mercy"
+    },
+    {
+      "ar": "أَلْبِسْنِي",
+      "en": "attire me"
+    },
+    {
+      "ar": "ثَوْبَ",
+      "en": "raiment"
+    },
+    {
+      "ar": "العافِيَةِ",
+      "en": "wholesomeness"
+    },
+    {
+      "ar": "بِعَفْوِكَ",
+      "en": "Thy forgiveness"
+    },
+    {
+      "ar": "أَلْطافِكَ",
+      "en": "bounty"
+    },
+    {
+      "ar": "اجْعَلْنِي",
+      "en": "Fix"
+    },
+    {
+      "ar": "ناظِرًا",
+      "en": "mine eyes"
+    },
+    {
+      "ar": "إِلَيْكَ",
+      "en": "upon Thee"
+    },
+    {
+      "ar": "مُنْقَطِعًا",
+      "en": "rid me of all attachment"
+    },
+    {
+      "ar": "عَنْ دُونِكَ",
+      "en": "to aught else except Thyself"
+    },
+    {
+      "ar": "تَرْضَى",
+      "en": "pleasest"
+    }
+  ],
+  "terms": [
+    {
+      "term": "العَزِيزُ",
+      "transliteration": "ʿ-z-z",
+      "literal": "glory; might; honor; dignity; power; majesty",
+      "se_rendering": "the Mighty",
+      "note": "Usually 'glory' or 'honor' (49 occurrences); 'Mighty' here emphasizes divine power over majesty, a semantic subset choice.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 185,
+          "snippet": "glory"
+        },
+        {
+          "work": "gleanings",
+          "para": 642,
+          "snippet": "honor"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 99,
+          "snippet": "Dear"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 38,
+          "snippet": "dearly beloved"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 37,
+          "snippet": "Gracious"
+        },
+        {
+          "work": "gleanings",
+          "para": 260,
+          "snippet": "All-Glorious"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 162,
+          "snippet": "Mighty"
+        },
+        {
+          "work": "gleanings",
+          "para": 660,
+          "snippet": "powerful"
+        }
+      ]
+    },
+    {
+      "term": "الحَكِيمُ",
+      "transliteration": "h-k-m",
+      "literal": "government; rule; governance; wisdom",
+      "se_rendering": "the All-Wise",
+      "note": "Typically 'wisdom' or 'rule' across corpus; here rendered 'All-Wise' as abstract attribute, consistent with SE's divine epithet pattern.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-ahd",
+          "para": 6,
+          "snippet": "rule"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "government"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 160,
+          "snippet": "meaning of return"
+        },
+        {
+          "work": "gleanings",
+          "para": 224,
+          "snippet": "mysteries"
+        },
+        {
+          "work": "gleanings",
+          "para": 636,
+          "snippet": "rule of the sword"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 182,
+          "snippet": "mystery of the former verse"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 129,
+          "snippet": "perspicuous verses"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 46,
+          "snippet": "conclusive"
+        }
+      ]
+    },
+    {
+      "term": "الفَقِيرُ",
+      "transliteration": "f-q-r",
+      "literal": "poor; needy; the poor one; pauper",
+      "se_rendering": "a poor creature",
+      "note": "Standard 'poor' rendering appears here; demonstrates SE's literalism with economic metaphor for spiritual dependence.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 186,
+          "snippet": "needy"
+        },
+        {
+          "work": "gleanings",
+          "para": 665,
+          "snippet": "poor"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 22,
+          "snippet": "instance"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 214,
+          "snippet": "passages"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 149,
+          "snippet": "to the poor"
+        },
+        {
+          "work": "gleanings",
+          "para": 268,
+          "snippet": "paupers"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 93,
+          "snippet": "the poor"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 90,
+          "snippet": "the poor and the destitute"
+        }
+      ]
+    },
+    {
+      "term": "رَحْمَتِكَ",
+      "transliteration": "r-ḥ-m",
+      "literal": "merciful, compassionate; pertaining to divine mercy",
+      "se_rendering": "Thy graciousness and mercy",
+      "note": "Corpus shows 'Divine glory', 'celestial melody' (70 renderings); here 'graciousness and mercy' uniquely paraphrases root meaning directly.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 673,
+          "snippet": "Divine glory"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 57,
+          "snippet": "Divine"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 89,
+          "snippet": "celestial melody"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 114,
+          "snippet": "spirit of mercy"
+        },
+        {
+          "work": "gleanings",
+          "para": 372,
+          "snippet": "merciful"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 220,
+          "snippet": "have mercy on them"
+        },
+        {
+          "work": "gleanings",
+          "para": 12,
+          "snippet": "mercy"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 50,
+          "snippet": "the Compassionate"
+        }
+      ]
+    },
+    {
+      "term": "ناظِرًا",
+      "transliteration": "n-dh-r",
+      "literal": "sight; view; spectacle; appearance",
+      "se_rendering": "mine eyes",
+      "note": "Typically references eschatological anticipation ('expectantly awaited', 'anticipating'); here SE literalizes to 'mine eyes', losing mystical dimension.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 351,
+          "snippet": "towards the Most Great Revelation"
+        },
+        {
+          "work": "gleanings",
+          "para": 150,
+          "snippet": "anticipating"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 5,
+          "snippet": "peer"
+        },
+        {
+          "work": "gleanings",
+          "para": 201,
+          "snippet": "counterpart"
+        },
+        {
+          "work": "gleanings",
+          "para": 385,
+          "snippet": "comparison"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 2,
+          "snippet": "unique"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 17,
+          "snippet": "the eyes"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 107,
+          "snippet": "Consider"
+        }
+      ]
+    },
+    {
+      "term": "وَفِّقْنِيْ",
+      "transliteration": "w-f-q",
+      "literal": "accord, agreement, harmony; to agree, accord with",
+      "se_rendering": "Aid me",
+      "note": "Typical 'in concert with', 'accord' renderings; here imperative 'Aid me' shifts passive harmony to active divine assistance.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 7,
+          "snippet": "in concert with"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 10,
+          "snippet": "assist me"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 19,
+          "snippet": "by the agreement"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 56,
+          "snippet": "in concert"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 26,
+          "snippet": "Assist"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 251,
+          "snippet": "agree with"
+        },
+        {
+          "work": "gleanings",
+          "para": 122,
+          "snippet": "resemblance"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 42,
+          "snippet": "conformable"
+        }
+      ]
+    }
+  ],
+  "section_index": "XIX.2",
+  "section": "XIX",
+  "section_para": 2
 }

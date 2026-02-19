@@ -1,10 +1,677 @@
 {
   "work": "Epistle to the Son of the Wolf",
   "slug": "epistle-to-the-son-of-the-wolf",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 158,
   "source_text": "يا غافل لا تطمئنّ بعزّک و اقتدارک مثلک کمثل بقيّة اثر الشّمس علی رؤوس الجبال سوف يدرکها الزّوال من لدی اللّه الغنيّ المتعال قد اخذ عزّک و عزّ امثالک و هذا ما حکم به من عنده امّ الالواح * اين من حارب اللّه و اين من جادل بآياته و اين من اعرض عن سلطانه و اين الّذين قتلوا اصفياءه و سفکوا دماء اوليائه ؟ تفکّر لعلّ تجد نفحات اعمالک يا ايّها الجاهل المرتاب * بکم ناح الرّسول و صاحت البتول و خربت الدّيار و اخذت الظّلمة کلّ الاقطار * يا معشر العلماء بکم انحطّ شأن الملّة و نکس علم الاسلام و ثلّ عرشه العظيم * کلّما اراد مميّزٌ ان يتمسّک بما يرتفع به شأن الاسلام ارتفعت ضوضاؤکم بذلک منع عمّا اراد و بقی الملک فی خسران کبير *",
   "translation": "\"O heedless one! Rely not on thy glory, and thy power. Thou art even as the last trace of sunlight upon the mountain-top. Soon will it fade away as decreed by God, the All-Possessing, the Most High. Thy glory and the glory of such as are like thee have been taken away, and this verily is what hath been ordained by the One with Whom is the Mother Tablet. Where is he to be found who contended with God, and whither is gone he that gainsaid His signs, and turned aside from His sovereignty? Where are they who have slain His chosen ones and spilt the blood of His holy ones? Reflect, that haply thou mayest perceive the breaths of thine acts, O foolish doubter! Because of you the Apostle (Muḥammad) lamented, and the Chaste One (Fáṭimih) cried out, and the countries were laid waste, and darkness fell upon all regions. O concourse of divines! Because of you the people were abased, and the banner of Islam was hauled down, and its mighty throne subverted. Every time a man of discernment hath sought to hold fast unto that which would exalt Islam, ye raised a clamor, and thereby was he deterred from achieving his purpose, while the land remained fallen in clear ruin.",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "glory-fades-mountain-top",
+  "alignment": [
+    {
+      "ar": "غافل",
+      "en": "heedless one"
+    },
+    {
+      "ar": "لا تطمئنّ",
+      "en": "Rely not"
+    },
+    {
+      "ar": "بعزّک",
+      "en": "on thy glory"
+    },
+    {
+      "ar": "اقتدارک",
+      "en": "thy power"
+    },
+    {
+      "ar": "مثلک",
+      "en": "Thou art even"
+    },
+    {
+      "ar": "کمثل",
+      "en": "as"
+    },
+    {
+      "ar": "بقيّة",
+      "en": "last trace"
+    },
+    {
+      "ar": "اثر",
+      "en": "trace"
+    },
+    {
+      "ar": "الشّمس",
+      "en": "sunlight"
+    },
+    {
+      "ar": "علی",
+      "en": "upon"
+    },
+    {
+      "ar": "رؤوس",
+      "en": "mountain-top"
+    },
+    {
+      "ar": "الجبال",
+      "en": "mountain"
+    },
+    {
+      "ar": "سوف",
+      "en": "Soon will"
+    },
+    {
+      "ar": "يدرکها",
+      "en": "it fade away"
+    },
+    {
+      "ar": "الزّوال",
+      "en": "fade away"
+    },
+    {
+      "ar": "من لدی",
+      "en": "by"
+    },
+    {
+      "ar": "اللّه",
+      "en": "God"
+    },
+    {
+      "ar": "الغنيّ",
+      "en": "All-Possessing"
+    },
+    {
+      "ar": "المتعال",
+      "en": "Most High"
+    },
+    {
+      "ar": "قد اخذ",
+      "en": "have been taken away"
+    },
+    {
+      "ar": "عزّک",
+      "en": "Thy glory"
+    },
+    {
+      "ar": "عزّ",
+      "en": "glory"
+    },
+    {
+      "ar": "امثالک",
+      "en": "such as are like thee"
+    },
+    {
+      "ar": "هذا",
+      "en": "this"
+    },
+    {
+      "ar": "ما حکم به",
+      "en": "what hath been ordained"
+    },
+    {
+      "ar": "من عنده",
+      "en": "by the One with Whom is"
+    },
+    {
+      "ar": "امّ الالواح",
+      "en": "Mother Tablet"
+    },
+    {
+      "ar": "اين",
+      "en": "Where is"
+    },
+    {
+      "ar": "من حارب",
+      "en": "who contended with"
+    },
+    {
+      "ar": "اين",
+      "en": "whither"
+    },
+    {
+      "ar": "من جادل",
+      "en": "he that gainsaid"
+    },
+    {
+      "ar": "بآياته",
+      "en": "His signs"
+    },
+    {
+      "ar": "اعرض",
+      "en": "turned aside"
+    },
+    {
+      "ar": "عن سلطانه",
+      "en": "from His sovereignty"
+    },
+    {
+      "ar": "الّذين",
+      "en": "they who"
+    },
+    {
+      "ar": "قتلوا",
+      "en": "have slain"
+    },
+    {
+      "ar": "اصفياءه",
+      "en": "His chosen ones"
+    },
+    {
+      "ar": "سفکوا",
+      "en": "spilt"
+    },
+    {
+      "ar": "دماء",
+      "en": "blood"
+    },
+    {
+      "ar": "اوليائه",
+      "en": "His holy ones"
+    },
+    {
+      "ar": "تفکّر",
+      "en": "Reflect"
+    },
+    {
+      "ar": "لعلّ",
+      "en": "that haply"
+    },
+    {
+      "ar": "تجد",
+      "en": "thou mayest perceive"
+    },
+    {
+      "ar": "نفحات",
+      "en": "breaths"
+    },
+    {
+      "ar": "اعمالک",
+      "en": "thine acts"
+    },
+    {
+      "ar": "يا ايّها",
+      "en": "O"
+    },
+    {
+      "ar": "الجاهل",
+      "en": "foolish"
+    },
+    {
+      "ar": "المرتاب",
+      "en": "doubter"
+    },
+    {
+      "ar": "بکم",
+      "en": "Because of you"
+    },
+    {
+      "ar": "ناح",
+      "en": "lamented"
+    },
+    {
+      "ar": "الرّسول",
+      "en": "Apostle"
+    },
+    {
+      "ar": "صاحت",
+      "en": "cried out"
+    },
+    {
+      "ar": "البتول",
+      "en": "Chaste One"
+    },
+    {
+      "ar": "خربت",
+      "en": "were laid waste"
+    },
+    {
+      "ar": "الدّيار",
+      "en": "countries"
+    },
+    {
+      "ar": "اخذت",
+      "en": "fell"
+    },
+    {
+      "ar": "الظّلمة",
+      "en": "darkness"
+    },
+    {
+      "ar": "کلّ",
+      "en": "all"
+    },
+    {
+      "ar": "الاقطار",
+      "en": "regions"
+    },
+    {
+      "ar": "يا معشر",
+      "en": "O concourse"
+    },
+    {
+      "ar": "العلماء",
+      "en": "divines"
+    },
+    {
+      "ar": "انحطّ",
+      "en": "were abased"
+    },
+    {
+      "ar": "شأن",
+      "en": "people"
+    },
+    {
+      "ar": "نکس",
+      "en": "was hauled down"
+    },
+    {
+      "ar": "علم",
+      "en": "banner"
+    },
+    {
+      "ar": "الاسلام",
+      "en": "Islam"
+    },
+    {
+      "ar": "ثلّ",
+      "en": "subverted"
+    },
+    {
+      "ar": "عرشه",
+      "en": "throne"
+    },
+    {
+      "ar": "العظيم",
+      "en": "mighty"
+    },
+    {
+      "ar": "کلّما",
+      "en": "Every time"
+    },
+    {
+      "ar": "اراد",
+      "en": "hath sought"
+    },
+    {
+      "ar": "مميّزٌ",
+      "en": "man of discernment"
+    },
+    {
+      "ar": "ان يتمسّک",
+      "en": "to hold fast"
+    },
+    {
+      "ar": "بما",
+      "en": "unto that which"
+    },
+    {
+      "ar": "يرتفع به",
+      "en": "would exalt"
+    },
+    {
+      "ar": "ارتفعت",
+      "en": "ye raised"
+    },
+    {
+      "ar": "ضوضاؤکم",
+      "en": "clamor"
+    },
+    {
+      "ar": "بذلک",
+      "en": "thereby"
+    },
+    {
+      "ar": "منع",
+      "en": "was he deterred"
+    },
+    {
+      "ar": "عمّا اراد",
+      "en": "from achieving his purpose"
+    },
+    {
+      "ar": "بقی",
+      "en": "remained"
+    },
+    {
+      "ar": "الملک",
+      "en": "land"
+    },
+    {
+      "ar": "فی خسران",
+      "en": "in clear ruin"
+    },
+    {
+      "ar": "کبير",
+      "en": "clear"
+    }
+  ],
+  "terms": [
+    {
+      "term": "غافل",
+      "transliteration": "gh-f-l",
+      "literal": "heedlessness; negligence; inattention",
+      "se_rendering": "O heedless one",
+      "note": "Typically 'heedless' across 39 occurrences. Here rendered as vocative 'O heedless one' — SE preserves direct address while maintaining the root sense of negligence.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 132,
+          "snippet": "heedless"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 90,
+          "snippet": "Essence of Negligence"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 95,
+          "snippet": "couch of heedlessness"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 152,
+          "snippet": "Children of Negligence"
+        },
+        {
+          "work": "gleanings",
+          "para": 214,
+          "snippet": "who have been heedless"
+        },
+        {
+          "work": "gleanings",
+          "para": 413,
+          "snippet": "the heedless"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 273,
+          "snippet": "wayward"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 136,
+          "snippet": "heedless ones"
+        }
+      ]
+    },
+    {
+      "term": "اقتدارک",
+      "transliteration": "q-d-r",
+      "literal": "power; might; decree; measure; worth",
+      "se_rendering": "thy power",
+      "note": "Usually 'power' or 'hath decreed' (100 occ). Here 'thy power' aligns with the possessive construction; SE chooses the concrete sense over juridical meanings.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 339,
+          "snippet": "Thy power"
+        },
+        {
+          "work": "gleanings",
+          "para": 138,
+          "snippet": "hath been decreed"
+        },
+        {
+          "work": "gleanings",
+          "para": 662,
+          "snippet": "hath decreed"
+        },
+        {
+          "work": "gleanings",
+          "para": 496,
+          "snippet": "forbearing towards"
+        },
+        {
+          "work": "gleanings",
+          "para": 111,
+          "snippet": "schools"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 12,
+          "snippet": "God of power"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 35,
+          "snippet": "Potent"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 282,
+          "snippet": "Almighty"
+        }
+      ]
+    },
+    {
+      "term": "بقيّة",
+      "transliteration": "b-q-y",
+      "literal": "remaining; everlasting; eternal; immortal",
+      "se_rendering": "the last trace",
+      "note": "Typically rendered 'everlasting' or 'eternal' (32 occ), denoting permanence. Here 'the last trace' reverses semantics — it captures impermanence, the fading rather than the eternal.",
+      "cross_refs": [
+        {
+          "work": "the-hidden-words",
+          "para": 88,
+          "snippet": "everlasting beauty"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 98,
+          "snippet": "everlasting candle"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 117,
+          "snippet": "immortal sovereignty"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 110,
+          "snippet": "everlasting torch of divine guidance"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 56,
+          "snippet": "refrain"
+        },
+        {
+          "work": "gleanings",
+          "para": 148,
+          "snippet": "everlasting"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 259,
+          "snippet": "O thou Remnant of God"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 798,
+          "snippet": "eternity"
+        }
+      ]
+    },
+    {
+      "term": "المتعال",
+      "transliteration": "ʿ-l-w",
+      "literal": "highest; most high; supreme",
+      "se_rendering": "the Most High",
+      "note": "Consistently 'the Most High' across 74 occurrences. SE maintains this established formula despite multiple alternatives available in the Jafar data.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 1,
+          "snippet": "the Most High"
+        },
+        {
+          "work": "gleanings",
+          "para": 232,
+          "snippet": "supreme"
+        },
+        {
+          "work": "gleanings",
+          "para": 616,
+          "snippet": "the realms above"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 390,
+          "snippet": "the Most Exalted, the Most High"
+        },
+        {
+          "work": "gleanings",
+          "para": 393,
+          "snippet": "The Pen of the Most High"
+        },
+        {
+          "work": "gleanings",
+          "para": 697,
+          "snippet": "the Dayspring of Glory"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 1,
+          "snippet": "the Realm of Glory"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 257,
+          "snippet": "the Báb, the Lord, the most exalted"
+        }
+      ]
+    },
+    {
+      "term": "اعرض",
+      "transliteration": "ʿ-r-d",
+      "literal": "to turn away; to avert; to abstain; heedless",
+      "se_rendering": "turned aside",
+      "note": "Regularly 'turned away' or 'turned aside' (47 occ). Here 'turned aside' fits the context of rejecting sovereignty; SE selects the volitional sense of aversion.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 182,
+          "snippet": "turned away"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 505,
+          "snippet": "turned their backs"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 89,
+          "snippet": "objections"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 431,
+          "snippet": "have turned back"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 104,
+          "snippet": "are turned back"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 14,
+          "snippet": "turns away"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 487,
+          "snippet": "turned back"
+        },
+        {
+          "work": "gleanings",
+          "para": 108,
+          "snippet": "rejection"
+        }
+      ]
+    },
+    {
+      "term": "العلماء",
+      "transliteration": "ʿ-l-m",
+      "literal": "world; universe; the worlds",
+      "se_rendering": "divines",
+      "note": "Root typically means 'world' or 'knowledge' (141 occ). Here 'divines' — a context-driven choice reflecting the religious scholars being addressed, not the standard abstract renderings.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 198,
+          "snippet": "world"
+        },
+        {
+          "work": "gleanings",
+          "para": 657,
+          "snippet": "all worlds"
+        },
+        {
+          "work": "gleanings",
+          "para": 182,
+          "snippet": "mankind"
+        },
+        {
+          "work": "gleanings",
+          "para": 183,
+          "snippet": "the whole world"
+        },
+        {
+          "work": "gleanings",
+          "para": 226,
+          "snippet": "all earthly defilements"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 76,
+          "snippet": "Knowledge"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 122,
+          "snippet": "commentators"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 42,
+          "snippet": "banner"
+        }
+      ]
+    },
+    {
+      "term": "خسران",
+      "transliteration": "kh-s-r",
+      "literal": "loss; ruin; to suffer loss",
+      "se_rendering": "clear ruin",
+      "note": "Usually 'grievous loss' or 'those who perish' (20 occ). Here 'clear ruin' emphasizes the manifest, visible state of desolation; SE substitutes 'clear' for typical intensifiers like 'grievous'.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 195,
+          "snippet": "grievous loss"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 10,
+          "snippet": "bloodthirsty"
+        },
+        {
+          "work": "gleanings",
+          "para": 225,
+          "snippet": "those who perish"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 54,
+          "snippet": "lost"
+        }
+      ]
+    }
+  ],
+  "section_index": "158",
+  "section": "158",
+  "section_para": 1
 }

@@ -1,10 +1,584 @@
 {
   "work": "Epistle to the Son of the Wolf",
   "slug": "epistle-to-the-son-of-the-wolf",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 157,
   "source_text": "هل السّلطان اطّلع و غضّ الطّرف عن فعلک ام اخذه الرّعب بما عوت شرذمة من الذّئاب الّذين نبذوا صراط اللّه وراءهم و اخذوا سبيلک من دون بيّنة و لا کتاب ؟ انّا سمعنا بانّ ممالک الايران تزيّنت بطراز العدل فلمّا تفرّسنا وجدناها مطالع الظّلم و مشارق الاعتساف * انّا نری العدل تحت مخالب الظّلم نسأل اللّه ان يخلّصه بقوّة من عنده و سلطان من لدنه انّه هو المهيمن علی من فی الارضين و السّموات * ليس لاحد ان يعترض علی نفس فيما ورد علی امر اللّه ينبغی لکلّ من توجّه الی الافق الاعلی ان يتمسّک بحبل الاصطبار و يتوکّل علی اللّه المهيمن المختار * يا احبّاء اللّه اشربوا من عين الحکمة و طيروا فی هواء الحکمة و تکلّموا بالحکمة و البيان کذلک يامرکم ربّکم العزيز العلّام * *",
   "translation": "\"Hath the Sháh been informed, and chosen to close his eyes to thine acts? Or hath he been seized with fear at the howling of a pack of wolves who have cast the path of God behind their backs and followed in thy way without any clear proof or Book? We have heard that the provinces of Persia have been adorned with the adornment of justice. When We observed closely, however, We found them to be the dawning-places of tyranny and the daysprings of injustice. We behold justice in the clutches of tyranny. We beseech God to set it free through the power of His might and His sovereignty. He, verily, overshadoweth all that is in the heavens and on earth. To none is given the right to protest against any one concerning that which hath befallen the Cause of God. It behooveth whosoever hath set his face towards the Most Sublime Horizon to cleave tenaciously unto the cord of patience, and to put his reliance in God, the Help in Peril, the Unconstrained. O ye loved ones of God! Drink your fill from the well-spring of wisdom, and soar ye in the atmosphere of wisdom, and speak forth with wisdom and eloquence. Thus biddeth you your Lord, the Almighty, the All-Knowing.",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "justice-clutches-tyranny",
+  "alignment": [
+    {
+      "ar": "السّلطان",
+      "en": "the Sháh"
+    },
+    {
+      "ar": "اطّلع",
+      "en": "been informed"
+    },
+    {
+      "ar": "غضّ",
+      "en": "close"
+    },
+    {
+      "ar": "الطّرف",
+      "en": "his eyes"
+    },
+    {
+      "ar": "فعلک",
+      "en": "thine acts"
+    },
+    {
+      "ar": "اخذه",
+      "en": "hath he been seized"
+    },
+    {
+      "ar": "الرّعب",
+      "en": "with fear"
+    },
+    {
+      "ar": "عوت",
+      "en": "howling"
+    },
+    {
+      "ar": "شرذمة",
+      "en": "a pack"
+    },
+    {
+      "ar": "الذّئاب",
+      "en": "of wolves"
+    },
+    {
+      "ar": "نبذوا",
+      "en": "have cast"
+    },
+    {
+      "ar": "صراط",
+      "en": "the path"
+    },
+    {
+      "ar": "اللّه",
+      "en": "of God"
+    },
+    {
+      "ar": "وراءهم",
+      "en": "behind their backs"
+    },
+    {
+      "ar": "اخذوا",
+      "en": "followed"
+    },
+    {
+      "ar": "سبيلک",
+      "en": "in thy way"
+    },
+    {
+      "ar": "بيّنة",
+      "en": "clear proof"
+    },
+    {
+      "ar": "کتاب",
+      "en": "Book"
+    },
+    {
+      "ar": "سمعنا",
+      "en": "have heard"
+    },
+    {
+      "ar": "ممالک",
+      "en": "the provinces"
+    },
+    {
+      "ar": "الايران",
+      "en": "of Persia"
+    },
+    {
+      "ar": "تزيّنت",
+      "en": "have been adorned"
+    },
+    {
+      "ar": "بطراز",
+      "en": "with the adornment"
+    },
+    {
+      "ar": "العدل",
+      "en": "of justice"
+    },
+    {
+      "ar": "تفرّسنا",
+      "en": "observed closely"
+    },
+    {
+      "ar": "وجدناها",
+      "en": "We found them"
+    },
+    {
+      "ar": "مطالع",
+      "en": "the dawning-places"
+    },
+    {
+      "ar": "الظّلم",
+      "en": "of tyranny"
+    },
+    {
+      "ar": "مشارق",
+      "en": "the daysprings"
+    },
+    {
+      "ar": "الاعتساف",
+      "en": "of injustice"
+    },
+    {
+      "ar": "نری",
+      "en": "behold"
+    },
+    {
+      "ar": "العدل",
+      "en": "justice"
+    },
+    {
+      "ar": "مخالب",
+      "en": "the clutches"
+    },
+    {
+      "ar": "نسأل",
+      "en": "beseech"
+    },
+    {
+      "ar": "اللّه",
+      "en": "God"
+    },
+    {
+      "ar": "يخلّصه",
+      "en": "to set it free"
+    },
+    {
+      "ar": "بقوّة",
+      "en": "through the power"
+    },
+    {
+      "ar": "عنده",
+      "en": "of His might"
+    },
+    {
+      "ar": "سلطان",
+      "en": "His sovereignty"
+    },
+    {
+      "ar": "المهيمن",
+      "en": "overshadoweth"
+    },
+    {
+      "ar": "الارضين",
+      "en": "on earth"
+    },
+    {
+      "ar": "السّموات",
+      "en": "the heavens"
+    },
+    {
+      "ar": "ليس لاحد",
+      "en": "To none is given"
+    },
+    {
+      "ar": "يعترض",
+      "en": "to protest"
+    },
+    {
+      "ar": "نفس",
+      "en": "any one"
+    },
+    {
+      "ar": "ورد",
+      "en": "hath befallen"
+    },
+    {
+      "ar": "امر اللّه",
+      "en": "the Cause of God"
+    },
+    {
+      "ar": "ينبغی",
+      "en": "It behooveth"
+    },
+    {
+      "ar": "توجّه",
+      "en": "hath set his face"
+    },
+    {
+      "ar": "الافق الاعلی",
+      "en": "the Most Sublime Horizon"
+    },
+    {
+      "ar": "يتمسّک",
+      "en": "to cleave"
+    },
+    {
+      "ar": "بحبل",
+      "en": "unto the cord"
+    },
+    {
+      "ar": "الاصطبار",
+      "en": "of patience"
+    },
+    {
+      "ar": "يتوکّل",
+      "en": "to put his reliance"
+    },
+    {
+      "ar": "المختار",
+      "en": "the Unconstrained"
+    },
+    {
+      "ar": "احبّاء",
+      "en": "loved ones"
+    },
+    {
+      "ar": "اشربوا",
+      "en": "Drink"
+    },
+    {
+      "ar": "عين",
+      "en": "the well-spring"
+    },
+    {
+      "ar": "الحکمة",
+      "en": "of wisdom"
+    },
+    {
+      "ar": "طيروا",
+      "en": "soar"
+    },
+    {
+      "ar": "هواء",
+      "en": "the atmosphere"
+    },
+    {
+      "ar": "تکلّموا",
+      "en": "speak forth"
+    },
+    {
+      "ar": "بالحکمة",
+      "en": "with wisdom"
+    },
+    {
+      "ar": "البيان",
+      "en": "eloquence"
+    },
+    {
+      "ar": "يامرکم",
+      "en": "biddeth you"
+    },
+    {
+      "ar": "ربّکم",
+      "en": "your Lord"
+    },
+    {
+      "ar": "العزيز",
+      "en": "the Almighty"
+    },
+    {
+      "ar": "العلّام",
+      "en": "the All-Knowing"
+    }
+  ],
+  "terms": [
+    {
+      "term": "السلطان",
+      "transliteration": "s-l-ṭ",
+      "literal": "dominion; authority; power; sovereignty; control",
+      "se_rendering": "sovereignty",
+      "note": "Root s-l-ṭ renders typically as 'sovereignty, dominion'; paired with 'might' to emphasize divine authority superior to earthly rulers like the Sháh.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 369,
+          "snippet": "sovereignty"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 151,
+          "snippet": "dominion"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 1,
+          "snippet": "Thy sovereignty"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 184,
+          "snippet": "by Thy sovereignty"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 416,
+          "snippet": "Lord"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 242,
+          "snippet": "king"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 1,
+          "snippet": "the King"
+        },
+        {
+          "work": "gleanings",
+          "para": 472,
+          "snippet": "King (Sulṭán 'Abdu'l-'Azíz)"
+        }
+      ]
+    },
+    {
+      "term": "بيّنة",
+      "transliteration": "b-y-n",
+      "literal": "to manifest; to make clear; clear, evident",
+      "se_rendering": "clear proof",
+      "note": "Root b-y-n produces varied renderings (Bayán, proofs, Manifest); 'clear proof' here privileges evidential meaning, rejecting followers of the subject's path without scriptural basis.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 223,
+          "snippet": "the Expounder, the Most Manifest"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 231,
+          "snippet": "clear verses"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 3,
+          "snippet": "proofs"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 12,
+          "snippet": "clear proofs"
+        },
+        {
+          "work": "gleanings",
+          "para": 563,
+          "snippet": "Dawning-Place of the proofs"
+        },
+        {
+          "work": "gleanings",
+          "para": 292,
+          "snippet": "the Bayán"
+        },
+        {
+          "work": "gleanings",
+          "para": 636,
+          "snippet": "utterance"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 101,
+          "snippet": "Bayán"
+        }
+      ]
+    },
+    {
+      "term": "العدل",
+      "transliteration": "ʿ-d-l",
+      "literal": "justice; equity",
+      "se_rendering": "justice",
+      "note": "Root ʿ-d-l means 'justice, equity'; repeated twice—as commodity being oppressed, then as ideal to uphold—anchoring passage's moral argument.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 25,
+          "snippet": "Justice"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "just"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 145,
+          "snippet": "Who dealest equitably"
+        },
+        {
+          "work": "gleanings",
+          "para": 21,
+          "snippet": "with justice and equity"
+        },
+        {
+          "work": "gleanings",
+          "para": 538,
+          "snippet": "as numerous as"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 79,
+          "snippet": "disputeth"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 24,
+          "snippet": "Consort"
+        },
+        {
+          "work": "gleanings",
+          "para": 189,
+          "snippet": "the Just"
+        }
+      ]
+    },
+    {
+      "term": "الظّلم",
+      "transliteration": "z-l-m",
+      "literal": "wrongedness, oppression, meekness; state of being wronged or oppressed",
+      "se_rendering": "tyranny",
+      "note": "Root typically renders as 'wrongedness, oppression'; SE uses 'tyranny' here, shifting toward political rather than existential oppression, intensifying the critique of Persian governance.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 498,
+          "snippet": "afflicted with countless tribulations"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 49,
+          "snippet": "meekness"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 116,
+          "snippet": "injury"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 3,
+          "snippet": "Wronged One"
+        },
+        {
+          "work": "gleanings",
+          "para": 221,
+          "snippet": "oppression"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 9,
+          "snippet": "Darkness"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 33,
+          "snippet": "tyranny"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 573,
+          "snippet": "oppressed"
+        }
+      ]
+    },
+    {
+      "term": "الاصطبار",
+      "transliteration": "s-b-r",
+      "literal": "patience; forbearance; endurance; to be patient",
+      "se_rendering": "patience",
+      "note": "Root s-b-r yields 'patience' consistently across 32 occurrences; SE selects this single-word rendering emphasizing steadfastness as the remedy for injustice.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 48,
+          "snippet": "forbearance"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 40,
+          "snippet": "Patience of the worlds"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 49,
+          "snippet": "patience"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 39,
+          "snippet": "Thy patience"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 251,
+          "snippet": "their steadfastness"
+        },
+        {
+          "work": "gleanings",
+          "para": 620,
+          "snippet": "be patient"
+        },
+        {
+          "work": "gleanings",
+          "para": 408,
+          "snippet": "steadfast"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 689,
+          "snippet": "patient"
+        }
+      ]
+    },
+    {
+      "term": "الحکمة",
+      "transliteration": "h-k-m",
+      "literal": "government; rule; governance; wisdom",
+      "se_rendering": "wisdom",
+      "note": "Root h-k-m spans 'rule, governance, wisdom'; SE uses 'wisdom' three times here, privileging intellectual/spiritual over political meaning in final exhortation.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-ahd",
+          "para": 6,
+          "snippet": "rule"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "government"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 849,
+          "snippet": "signs of Thy sovereignty"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 160,
+          "snippet": "meaning of return"
+        },
+        {
+          "work": "gleanings",
+          "para": 224,
+          "snippet": "mysteries"
+        },
+        {
+          "work": "gleanings",
+          "para": 636,
+          "snippet": "rule of the sword"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 182,
+          "snippet": "mystery of the former verse"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 46,
+          "snippet": "conclusive"
+        }
+      ]
+    }
+  ],
+  "section_index": "157",
+  "section": "157",
+  "section_para": 1
 }

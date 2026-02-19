@@ -1,10 +1,599 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 718,
   "source_text": "بگو آبشخور این طیور، صحرائی دیگر و مقامی دیگر است. من یقدر أن یطفيء ما أناره الله بیده البیضآء و من یستطیع أن یخمد ما اشعلته ید قدرة ربّک القویّ الغالب القدیر. اشتعال نار فتنه را ید قدرت خاموش نمود، إنّه هو المقتدر علی ما یشآء بقوله: کن فیکون. قل إنّ جبل سکون أصفیائی لا یتزعزع من أریاح العالم و لا من قواصف الأمم. سبحان ‌الله این قوم را چه بر آن داشت که اولیای حقّ را اسیر نمایند و بحبس فرستند… سوف یرون المخلصون شمس العدل مشرقة من أفق العلآء کذلک یخبرک مولی الوری فی سجنه المتین...",
   "translation": "Say: The springs that sustain the life of these birds are not of this world. Their source is far above the reach and ken of human apprehension. Who is there that can put out the light which the snow-white Hand of God hath lit? Where is he to be found that hath the power to quench the fire which hath been kindled through the might of thy Lord, the All-Powerful, the All-Compelling, the Almighty? It is the Hand of Divine might that hath extinguished the flames of dissension. Powerful is He to do that which He pleaseth. He saith: Be; and it is. Say: The fierce gales and whirlwinds of the world and its peoples can never shake the foundation upon which the rocklike stability of My chosen ones is based. Gracious God! What could have prompted these people to enslave and imprison the loved ones of Him Who is the Eternal Truth?… The day, however, is approaching when the faithful will behold the Daystar of justice shining in its full splendor from the Dayspring of glory. Thus instructeth thee the Lord of all being in this, His grievous Prison.",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "daystar-justice-shining-glory",
+  "alignment": [
+    {
+      "ar": "بگو",
+      "en": "Say"
+    },
+    {
+      "ar": "آبشخور",
+      "en": "springs"
+    },
+    {
+      "ar": "این",
+      "en": "these"
+    },
+    {
+      "ar": "طیور",
+      "en": "birds"
+    },
+    {
+      "ar": "صحرائی",
+      "en": "not of this world"
+    },
+    {
+      "ar": "دیگر",
+      "en": "far above"
+    },
+    {
+      "ar": "مقامی",
+      "en": "source"
+    },
+    {
+      "ar": "یقدر",
+      "en": "is there"
+    },
+    {
+      "ar": "أن",
+      "en": "that"
+    },
+    {
+      "ar": "یطفيء",
+      "en": "put out"
+    },
+    {
+      "ar": "ما",
+      "en": "which"
+    },
+    {
+      "ar": "أناره",
+      "en": "lit"
+    },
+    {
+      "ar": "الله",
+      "en": "God"
+    },
+    {
+      "ar": "بیده",
+      "en": "Hand"
+    },
+    {
+      "ar": "البیضآء",
+      "en": "snow-white"
+    },
+    {
+      "ar": "یستطیع",
+      "en": "hath the power"
+    },
+    {
+      "ar": "یخمد",
+      "en": "quench"
+    },
+    {
+      "ar": "اشعلته",
+      "en": "kindled"
+    },
+    {
+      "ar": "قدرة",
+      "en": "might"
+    },
+    {
+      "ar": "ربّک",
+      "en": "thy Lord"
+    },
+    {
+      "ar": "القویّ",
+      "en": "All-Powerful"
+    },
+    {
+      "ar": "الغالب",
+      "en": "All-Compelling"
+    },
+    {
+      "ar": "القدیر",
+      "en": "Almighty"
+    },
+    {
+      "ar": "اشتعال",
+      "en": "flames"
+    },
+    {
+      "ar": "نار",
+      "en": "fire"
+    },
+    {
+      "ar": "فتنه",
+      "en": "dissension"
+    },
+    {
+      "ar": "خاموش",
+      "en": "extinguished"
+    },
+    {
+      "ar": "نمود",
+      "en": "hath"
+    },
+    {
+      "ar": "المقتدر",
+      "en": "Powerful"
+    },
+    {
+      "ar": "یشآء",
+      "en": "pleaseth"
+    },
+    {
+      "ar": "بقوله",
+      "en": "saith"
+    },
+    {
+      "ar": "کن",
+      "en": "Be"
+    },
+    {
+      "ar": "فیکون",
+      "en": "it is"
+    },
+    {
+      "ar": "جبل",
+      "en": "foundation"
+    },
+    {
+      "ar": "سکون",
+      "en": "stability"
+    },
+    {
+      "ar": "أصفیائی",
+      "en": "My chosen ones"
+    },
+    {
+      "ar": "یتزعزع",
+      "en": "shake"
+    },
+    {
+      "ar": "أریاح",
+      "en": "gales"
+    },
+    {
+      "ar": "العالم",
+      "en": "world"
+    },
+    {
+      "ar": "قواصف",
+      "en": "whirlwinds"
+    },
+    {
+      "ar": "الأمم",
+      "en": "its peoples"
+    },
+    {
+      "ar": "سبحان ‌الله",
+      "en": "Gracious God"
+    },
+    {
+      "ar": "قوم",
+      "en": "people"
+    },
+    {
+      "ar": "اولیای",
+      "en": "loved ones"
+    },
+    {
+      "ar": "حقّ",
+      "en": "Eternal Truth"
+    },
+    {
+      "ar": "اسیر",
+      "en": "enslave"
+    },
+    {
+      "ar": "بحبس",
+      "en": "imprison"
+    },
+    {
+      "ar": "سوف",
+      "en": "approaching"
+    },
+    {
+      "ar": "یرون",
+      "en": "behold"
+    },
+    {
+      "ar": "المخلصون",
+      "en": "faithful"
+    },
+    {
+      "ar": "شمس",
+      "en": "Daystar"
+    },
+    {
+      "ar": "العدل",
+      "en": "justice"
+    },
+    {
+      "ar": "مشرقة",
+      "en": "shining"
+    },
+    {
+      "ar": "أفق",
+      "en": "Dayspring"
+    },
+    {
+      "ar": "العلآء",
+      "en": "glory"
+    },
+    {
+      "ar": "کذلک",
+      "en": "Thus"
+    },
+    {
+      "ar": "یخبرک",
+      "en": "instructeth thee"
+    },
+    {
+      "ar": "مولی",
+      "en": "Lord"
+    },
+    {
+      "ar": "الوری",
+      "en": "all being"
+    },
+    {
+      "ar": "سجنه",
+      "en": "Prison"
+    },
+    {
+      "ar": "المتین",
+      "en": "grievous"
+    }
+  ],
+  "terms": [
+    {
+      "term": "طیور",
+      "transliteration": "t-y-r",
+      "literal": "bird; birds; flying creature",
+      "se_rendering": "birds",
+      "note": "Typically 'bird' or 'Birds' (15 occ). Here part of metaphorical opening contrasting worldly and spiritual sustenance—SE preserves the figurative power through naturalness.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 13,
+          "snippet": "bird"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 39,
+          "snippet": "soared"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 156,
+          "snippet": "soar"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 156,
+          "snippet": "explore"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 205,
+          "snippet": "Birds"
+        }
+      ]
+    },
+    {
+      "term": "البیضآء",
+      "transliteration": "b-y-ḍ",
+      "literal": "white; pure",
+      "se_rendering": "snow-white",
+      "note": "Rare rendering as 'snow-white' (8 occ total); typically 'white'. This poetic intensification emphasizes purity and radiance of God's creative hand in context of undimmable light.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "Most Be..."
+        },
+        {
+          "work": "fire-tablet",
+          "para": 45,
+          "snippet": "hate"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 132,
+          "snippet": "hatred"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 14,
+          "snippet": "snow-white"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 190,
+          "snippet": "white"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 263,
+          "snippet": "whiteness"
+        }
+      ]
+    },
+    {
+      "term": "نار",
+      "transliteration": "n-w-r",
+      "literal": "light; illumination",
+      "se_rendering": "fire",
+      "note": "Usually 'light' or 'Orb of Light' (78 occ), but here rendered as 'fire' describing dissension's flames. SE shifts to elemental imagery within the same passage, matching Arabic نار meaning.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 3,
+          "snippet": "light"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 114,
+          "snippet": "with the light"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 109,
+          "snippet": "Thy light"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 246,
+          "snippet": "Illumine"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 180,
+          "snippet": "fire"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 10,
+          "snippet": "flame of fire"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 39,
+          "snippet": "lights"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 312,
+          "snippet": "splendors"
+        }
+      ]
+    },
+    {
+      "term": "سکون",
+      "transliteration": "s-k-n",
+      "literal": "stillness, rest, quietude, tranquility",
+      "se_rendering": "stability",
+      "note": "Typically 'tranquillity' or 'stillness' (18 occ). Here 'stability' creates contrast with shaking gales—SE chooses firmness over quietude to emphasize unshakeable foundation.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 209,
+          "snippet": "calmly"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 140,
+          "snippet": "serenity"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 185,
+          "snippet": "inmates"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 87,
+          "snippet": "the inhabitants"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 193,
+          "snippet": "inhabitants"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 62,
+          "snippet": "abase Me"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 205,
+          "snippet": "dwell"
+        }
+      ]
+    },
+    {
+      "term": "المخلصون",
+      "transliteration": "kh-l-s",
+      "literal": "sincere; devoted; pure one",
+      "se_rendering": "the faithful",
+      "note": "Typically 'the sincere' or 'devoted' (20 occ). Here 'the faithful' broadens from inner purity to committed belief—SE adjusts for eschatological context of vision.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 187,
+          "snippet": "devoted"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 1,
+          "snippet": "the sincere"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 44,
+          "snippet": "insincere"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 421,
+          "snippet": "reserved"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 15,
+          "snippet": "wholly devoted"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 72,
+          "snippet": "pure"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 781,
+          "snippet": "purely"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 21,
+          "snippet": "wholly"
+        }
+      ]
+    },
+    {
+      "term": "شمس",
+      "transliteration": "sh-m-s",
+      "literal": "sun; daystar; manifestation of divine light",
+      "se_rendering": "Daystar",
+      "note": "Usually 'Sun' or 'Orb' (13 occ). Here 'Daystar' aligns with preceding Dayspring imagery, unifying astronomical metaphor for divine justice's manifestation.",
+      "cross_refs": [
+        {
+          "work": "fire-tablet",
+          "para": 43,
+          "snippet": "Sun"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 33,
+          "snippet": "Prophets"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 234,
+          "snippet": "Sun-like Mirrors"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 191,
+          "snippet": "Luminaries arising from the Daysprings"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 715,
+          "snippet": "suns"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 199,
+          "snippet": "Luminaries of Truth"
+        }
+      ]
+    },
+    {
+      "term": "مشرقة",
+      "transliteration": "sh-r-q",
+      "literal": "radiance; splendor; dawn; illumination",
+      "se_rendering": "shining",
+      "note": "Typically 'radiance' or 'dawning' (63 occ). SE renders as 'shining'—more active and dynamic, emphasizing the immediate perceptibility of justice's revelation.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 47,
+          "snippet": "Ishraq"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 28,
+          "snippet": "radiance"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 83,
+          "snippet": "Daystar"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 41,
+          "snippet": "dawning"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 116,
+          "snippet": "shone"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 2,
+          "snippet": "shining"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 14,
+          "snippet": "Dawning Place"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 186,
+          "snippet": "dayspring"
+        }
+      ]
+    },
+    {
+      "term": "سجنه",
+      "transliteration": "s-j-n",
+      "literal": "prison, imprisonment; to imprison",
+      "se_rendering": "Prison",
+      "note": "Usually 'prison' or 'imprisonment' (21 occ). 'Grievous Prison' (adjective added) heightens pathos—SE emphasizes suffering's severity beyond the lexical root alone.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 36,
+          "snippet": "prison"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 4,
+          "snippet": "Prisoner"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 604,
+          "snippet": "imprisoned"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 100,
+          "snippet": "My prison"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 573,
+          "snippet": "shut up in the fortress-town"
+        }
+      ]
+    }
+  ],
+  "section_index": "CLXIII.2",
+  "section": "CLXIII",
+  "section_para": 2
 }

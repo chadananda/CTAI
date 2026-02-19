@@ -1,0 +1,83 @@
+/* ── CTAI Theme ──
+   Central color definitions. Tailwind classes (ink-800, gold-400 etc.)
+   resolve through these variables, so changing values here repaints the
+   entire site.  RGB-channel format enables Tailwind opacity modifiers
+   (bg-ink-800/50).  Semantic tokens use light-dark() for future light mode.
+*/
+
+:root {
+  color-scheme: dark;
+
+  /* ── Palette: ink (warm neutrals) ── */
+  --ink-950: 12 10 9;
+  --ink-900: 26 23 20;
+  --ink-850: 38 34 30;
+  --ink-800: 54 48 42;
+  --ink-700: 74 66 58;
+  --ink-600: 96 88 80;
+  --ink-500: 128 120 112;
+  --ink-400: 172 166 160;
+  --ink-300: 218 214 210;
+  --ink-200: 234 231 228;
+  --ink-100: 245 245 244;
+
+  /* ── Palette: gold (accent) ── */
+  --gold-50:  253 249 239;
+  --gold-100: 249 240 212;
+  --gold-200: 242 222 168;
+  --gold-300: 234 200 114;
+  --gold-400: 226 173 68;
+  --gold-500: 217 148 44;
+  --gold-600: 192 117 35;
+  --gold-700: 160 87 31;
+  --gold-800: 131 69 32;
+  --gold-900: 108 58 30;
+
+  /* ── Semantic tokens ──
+     light-dark(light-value, dark-value)
+     Currently color-scheme:dark so dark values apply.
+     Flip to color-scheme:light (or auto) to enable light mode. */
+  --page-bg:         light-dark(#faf8f5, #1a1714);
+  --surface:         light-dark(#ffffff, #36302a);
+  --surface-hover:   light-dark(#f5f0e6, #4a423a);
+  --border:          light-dark(#e0d8cc, #4a423a);
+  --border-subtle:   light-dark(#ebe5da, #36302a);
+  --text-heading:    light-dark(#1a1714, #d6d3d1);
+  --text-body:       light-dark(#3d3630, #a8a29e);
+  --text-muted:      light-dark(#78716c, #78716c);
+  --text-faint:      light-dark(#a8a29e, #57504a);
+  --accent:          light-dark(#c07523, #e2ad44);
+  --accent-hover:    light-dark(#a0571f, #eac872);
+  --accent-muted:    light-dark(#d9942c, #e2ad4466);
+  --selection-bg:    light-dark(#e2ad4444, #e2ad4466);
+  --selection-text:  light-dark(#1a1714, #fdf9ef);
+  --focus-ring:      light-dark(#c07523, #e2ad44);
+}
+
+/* ── Global styles using semantic tokens ── */
+html { scroll-behavior: smooth; }
+
+::selection {
+  background: var(--selection-bg);
+  color: var(--selection-text);
+}
+
+:focus-visible {
+  outline: 2px solid var(--focus-ring);
+  outline-offset: 2px;
+}
+
+body {
+  background-color: var(--page-bg);
+  background-image:
+    url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.7' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='0.03'/%3E%3C/svg%3E");
+}
+
+@keyframes grain {
+  0%, 100% { transform: translate(0, 0); }
+  10% { transform: translate(-1%, -1%); }
+  30% { transform: translate(1%, 0%); }
+  50% { transform: translate(-1%, 1%); }
+  70% { transform: translate(1%, -1%); }
+  90% { transform: translate(0%, 1%); }
+}

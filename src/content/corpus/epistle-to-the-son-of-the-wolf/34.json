@@ -1,10 +1,505 @@
 {
   "work": "Epistle to the Son of the Wolf",
   "slug": "epistle-to-the-son-of-the-wolf",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 34,
   "source_text": "و در ايّام و ليالی در سجن مذکور در اعمال و احوال و حرکات حزب بابی تفکّر مينموديم که مع علوّ و سموّ و ادراک ان حزب ايا چه شده که از ايشان چنين عملی ظاهر يعنی جسارت و حرکت ان حزب نسبت بذات شاهانه * و بعد اين مظلوم اراده نمود که بعد از خروج از سجن بتمام همّت در تهذيب ان نفوس قيام نمايد *",
   "translation": "Day and night, while confined in that dungeon, We meditated upon the deeds, the condition, and the conduct of the Bábís, wondering what could have led a people so high-minded, so noble, and of such intelligence, to perpetrate such an audacious and outrageous act against the person of His Majesty. This Wronged One, thereupon, decided to arise, after His release from prison, and undertake, with the utmost vigor, the task of regenerating this people.",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "regenerating-the-people",
+  "alignment": [
+    {
+      "ar": "ايّام",
+      "en": "Day"
+    },
+    {
+      "ar": "ليالی",
+      "en": "night"
+    },
+    {
+      "ar": "سجن",
+      "en": "dungeon"
+    },
+    {
+      "ar": "مذکور",
+      "en": "that"
+    },
+    {
+      "ar": "اعمال",
+      "en": "deeds"
+    },
+    {
+      "ar": "احوال",
+      "en": "condition"
+    },
+    {
+      "ar": "حرکات",
+      "en": "conduct"
+    },
+    {
+      "ar": "حزب",
+      "en": "people"
+    },
+    {
+      "ar": "بابی",
+      "en": "Bábís"
+    },
+    {
+      "ar": "تفکّر",
+      "en": "meditated"
+    },
+    {
+      "ar": "مينموديم",
+      "en": "We"
+    },
+    {
+      "ar": "علوّ",
+      "en": "high-minded"
+    },
+    {
+      "ar": "سموّ",
+      "en": "noble"
+    },
+    {
+      "ar": "ادراک",
+      "en": "intelligence"
+    },
+    {
+      "ar": "ان",
+      "en": "a"
+    },
+    {
+      "ar": "چه",
+      "en": "what"
+    },
+    {
+      "ar": "شده",
+      "en": "led"
+    },
+    {
+      "ar": "ايشان",
+      "en": "a people"
+    },
+    {
+      "ar": "چنين",
+      "en": "such"
+    },
+    {
+      "ar": "عملی",
+      "en": "act"
+    },
+    {
+      "ar": "ظاهر",
+      "en": "perpetrate"
+    },
+    {
+      "ar": "جسارت",
+      "en": "audacious"
+    },
+    {
+      "ar": "حرکت",
+      "en": "outrageous"
+    },
+    {
+      "ar": "نسبت",
+      "en": "against"
+    },
+    {
+      "ar": "ذات",
+      "en": "person"
+    },
+    {
+      "ar": "شاهانه",
+      "en": "His Majesty"
+    },
+    {
+      "ar": "بعد",
+      "en": "after"
+    },
+    {
+      "ar": "مظلوم",
+      "en": "Wronged One"
+    },
+    {
+      "ar": "اراده",
+      "en": "decided"
+    },
+    {
+      "ar": "خروج",
+      "en": "release"
+    },
+    {
+      "ar": "سجن",
+      "en": "prison"
+    },
+    {
+      "ar": "تمام",
+      "en": "utmost"
+    },
+    {
+      "ar": "همّت",
+      "en": "vigor"
+    },
+    {
+      "ar": "تهذيب",
+      "en": "regenerating"
+    },
+    {
+      "ar": "قيام",
+      "en": "arise"
+    },
+    {
+      "ar": "نمايد",
+      "en": "undertake"
+    }
+  ],
+  "terms": [
+    {
+      "term": "علوّ",
+      "transliteration": "ʿ-l-w",
+      "literal": "highest; most high; supreme",
+      "se_rendering": "high-minded",
+      "note": "Normally theological language ('the Most High', 'supreme'); rendered as simple adjective 'high-minded' to describe human intellectual capacity rather than divine attributes.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 1,
+          "snippet": "the Most High"
+        },
+        {
+          "work": "gleanings",
+          "para": 232,
+          "snippet": "supreme"
+        },
+        {
+          "work": "gleanings",
+          "para": 616,
+          "snippet": "the realms above"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 390,
+          "snippet": "the Most Exalted, the Most High"
+        },
+        {
+          "work": "gleanings",
+          "para": 393,
+          "snippet": "The Pen of the Most High"
+        },
+        {
+          "work": "gleanings",
+          "para": 697,
+          "snippet": "the Dayspring of Glory"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 1,
+          "snippet": "the Realm of Glory"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 257,
+          "snippet": "the Báb, the Lord, the most exalted"
+        }
+      ]
+    },
+    {
+      "term": "سموّ",
+      "transliteration": "s-m-w",
+      "literal": "heaven; sky",
+      "se_rendering": "noble",
+      "note": "Typically 'heaven' or 'heavenly' (39 occ); here 'noble' converts celestial-spiritual language into purely ethical-human virtue, flattening transcendent meaning.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 591,
+          "snippet": "heaven"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 594,
+          "snippet": "the heavens"
+        },
+        {
+          "work": "gleanings",
+          "para": 78,
+          "snippet": "heavens"
+        },
+        {
+          "work": "gleanings",
+          "para": 212,
+          "snippet": "breath"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 53,
+          "snippet": "heavenly Grace"
+        },
+        {
+          "work": "gleanings",
+          "para": 417,
+          "snippet": "heavenly Book"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 177,
+          "snippet": "heavenly Books"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 98,
+          "snippet": "heavenly Gospel"
+        }
+      ]
+    },
+    {
+      "term": "ظاهر",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "audacious and outrageous act",
+      "note": "Usually 'Manifestation' or 'manifest' (96 occ); here 'audacious and outrageous act' is a dramatic deviation, rendering an appearance or external deed without theological resonance.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 53,
+          "snippet": "Manifestation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 160,
+          "snippet": "Author of all Manifestations"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 136,
+          "snippet": "evident"
+        },
+        {
+          "work": "gleanings",
+          "para": 222,
+          "snippet": "material"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 196,
+          "snippet": "Manifestations of God"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 255,
+          "snippet": "Manifestations"
+        }
+      ]
+    },
+    {
+      "term": "مظلوم",
+      "transliteration": "z-l-m",
+      "literal": "wrongedness, oppression, meekness; state of being wronged or oppressed",
+      "se_rendering": "Wronged One",
+      "note": "Typically 'Wronged One' (128 occ); here in first-person reflexive context ('این مظلوم'), intensifying speaker's identification with oppression and moral authority to reform.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 498,
+          "snippet": "afflicted with countless tribulations"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 49,
+          "snippet": "meekness"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 116,
+          "snippet": "injury"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 3,
+          "snippet": "Wronged One"
+        },
+        {
+          "work": "gleanings",
+          "para": 221,
+          "snippet": "oppression"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 9,
+          "snippet": "Darkness"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 33,
+          "snippet": "tyranny"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 573,
+          "snippet": "oppressed"
+        }
+      ]
+    },
+    {
+      "term": "خروج",
+      "transliteration": "kh-r-j",
+      "literal": "bringing out, taking out, expulsion, extraction",
+      "se_rendering": "release",
+      "note": "Usually 'expulsion' or 'went forth' (38 occ); here 'release' softens active departure language, making imprisonment more passive than the root's connotation of decisive exit.",
+      "cross_refs": [
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 25,
+          "snippet": "the maid of heaven looked out"
+        },
+        {
+          "work": "gleanings",
+          "para": 588,
+          "snippet": "Step out of Thy holy chamber"
+        },
+        {
+          "work": "gleanings",
+          "para": 243,
+          "snippet": "Our expulsion"
+        },
+        {
+          "work": "gleanings",
+          "para": 308,
+          "snippet": "concealed"
+        },
+        {
+          "work": "gleanings",
+          "para": 310,
+          "snippet": "formed"
+        },
+        {
+          "work": "gleanings",
+          "para": 320,
+          "snippet": "egress"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 104,
+          "snippet": "exit"
+        },
+        {
+          "work": "gleanings",
+          "para": 536,
+          "snippet": "Tear ye asunder"
+        }
+      ]
+    },
+    {
+      "term": "نفوس",
+      "transliteration": "n-f-s",
+      "literal": "self; soul; psyche",
+      "se_rendering": "people",
+      "note": "Typical renderings emphasize 'self' or 'soul' (43 occ); here 'people' removes the spiritual-psychological dimension of individual souls requiring regeneration.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 789,
+          "snippet": "myself to be only nothing"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 71,
+          "snippet": "his own entity in the kingdom of his self"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 572,
+          "snippet": "Thy Self at all times"
+        },
+        {
+          "work": "gleanings",
+          "para": 205,
+          "snippet": "souls"
+        },
+        {
+          "work": "gleanings",
+          "para": 297,
+          "snippet": "their powerlessness"
+        },
+        {
+          "work": "gleanings",
+          "para": 225,
+          "snippet": "such of My followers"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 125,
+          "snippet": "sense of their own powerlessness"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 179,
+          "snippet": "abstained from all that is abhorrent unto Thee"
+        }
+      ]
+    },
+    {
+      "term": "قيام",
+      "transliteration": "q-w-m",
+      "literal": "rising; standing; uprising; resurrection",
+      "se_rendering": "arise",
+      "note": "Usually 'arise' or 'Resurrection' (109 occ); here 'undertake' obscures the root's resonance with spiritual uprising and resurrection of souls through reformation.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 152,
+          "snippet": "Day of Resurrection"
+        },
+        {
+          "work": "gleanings",
+          "para": 437,
+          "snippet": "arise"
+        },
+        {
+          "work": "gleanings",
+          "para": 513,
+          "snippet": "dedicateth"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 153,
+          "snippet": "Resurrection"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "peoples"
+        },
+        {
+          "work": "gleanings",
+          "para": 693,
+          "snippet": "commandments"
+        },
+        {
+          "work": "gleanings",
+          "para": 628,
+          "snippet": "My commandments"
+        },
+        {
+          "work": "gleanings",
+          "para": 518,
+          "snippet": "steadfast"
+        }
+      ]
+    }
+  ],
+  "section_index": "34",
+  "section": "34",
+  "section_para": 1
 }

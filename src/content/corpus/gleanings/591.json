@@ -1,10 +1,476 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 591,
   "source_text": "و‌السّماء تاللّه الحقّ إنّي لحوريّة خلقني البهاء في قصر اسمه الأبهى وزيّن نفسي بطراز الأسماء في الملأ الأعلى وإنّي لقد كنت محفوظة خلف حجبات العصمة و‌مستورة عن أَنْظُرِ البريّة اذا سمعت أبدع الألحان عن شطر أيمن الرّحمن شهدت بأنّ الجنان تحرّكت في نفسها شوقا لإستماعها و‌طلبا للقائها كذلك نزّلنا في قيّوم الأسماء علی لحن البقاء و‌علی لحن الأحلی في هذا اللّوح المبين قل إنّه",
   "translation": "Cry out before the gaze of the dwellers of heaven and of earth: I am the Maid of Heaven, the Offspring begotten by the Spirit of Bahá. My habitation is the Mansion of His Name, the All-Glorious. Before the Concourse on high I was adorned with the ornament of His names. I was wrapt within the veil of an inviolable security, and lay hidden from the eyes of men. Methinks that I heard a Voice of divine and incomparable sweetness, proceeding from the right hand of the God of Mercy, and lo, the whole Paradise stirred and trembled before Me, in its longing to hear its accents, and gaze on the beauty of Him that uttered them. Thus have We revealed in this luminous Tablet, and in the sweetest of languages, the verses which the Tongue of Eternity was moved to utter in the Qayyúmu’l-Asmá’.",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "maid-of-heaven-offspring",
+  "alignment": [
+    {
+      "ar": "السّماء",
+      "en": "heaven"
+    },
+    {
+      "ar": "تاللّه",
+      "en": "before the gaze"
+    },
+    {
+      "ar": "الحقّ",
+      "en": "Cry out"
+    },
+    {
+      "ar": "إنّي",
+      "en": "I am"
+    },
+    {
+      "ar": "لحوريّة",
+      "en": "the Maid of Heaven"
+    },
+    {
+      "ar": "خلقني",
+      "en": "begotten"
+    },
+    {
+      "ar": "البهاء",
+      "en": "the Spirit of Bahá"
+    },
+    {
+      "ar": "قصر",
+      "en": "the Mansion"
+    },
+    {
+      "ar": "اسمه",
+      "en": "His Name"
+    },
+    {
+      "ar": "الأبهى",
+      "en": "the All-Glorious"
+    },
+    {
+      "ar": "زيّن",
+      "en": "adorned"
+    },
+    {
+      "ar": "نفسي",
+      "en": "I"
+    },
+    {
+      "ar": "طراز",
+      "en": "the ornament"
+    },
+    {
+      "ar": "الأسماء",
+      "en": "His names"
+    },
+    {
+      "ar": "الملأ الأعلى",
+      "en": "the Concourse on high"
+    },
+    {
+      "ar": "كنت",
+      "en": "was"
+    },
+    {
+      "ar": "محفوظة",
+      "en": "wrapt"
+    },
+    {
+      "ar": "حجبات",
+      "en": "the veil"
+    },
+    {
+      "ar": "العصمة",
+      "en": "an inviolable security"
+    },
+    {
+      "ar": "مستورة",
+      "en": "hidden"
+    },
+    {
+      "ar": "أَنْظُرِ",
+      "en": "the eyes"
+    },
+    {
+      "ar": "البريّة",
+      "en": "men"
+    },
+    {
+      "ar": "اذا",
+      "en": "Methinks"
+    },
+    {
+      "ar": "سمعت",
+      "en": "heard"
+    },
+    {
+      "ar": "أبدع",
+      "en": "incomparable"
+    },
+    {
+      "ar": "الألحان",
+      "en": "sweetness"
+    },
+    {
+      "ar": "عن",
+      "en": "proceeding from"
+    },
+    {
+      "ar": "شطر",
+      "en": "hand"
+    },
+    {
+      "ar": "أيمن",
+      "en": "the right"
+    },
+    {
+      "ar": "شهدت",
+      "en": "lo"
+    },
+    {
+      "ar": "بأنّ",
+      "en": "that"
+    },
+    {
+      "ar": "الجنان",
+      "en": "the whole Paradise"
+    },
+    {
+      "ar": "تحرّكت",
+      "en": "stirred and trembled"
+    },
+    {
+      "ar": "نفسها",
+      "en": "Me"
+    },
+    {
+      "ar": "شوقا",
+      "en": "in its longing"
+    },
+    {
+      "ar": "لإستماعها",
+      "en": "to hear"
+    },
+    {
+      "ar": "طلبا",
+      "en": "gaze"
+    },
+    {
+      "ar": "للقائها",
+      "en": "on the beauty"
+    },
+    {
+      "ar": "كذلك",
+      "en": "Thus"
+    },
+    {
+      "ar": "نزّلنا",
+      "en": "have We revealed"
+    },
+    {
+      "ar": "لحن البقاء",
+      "en": "the Tongue of Eternity"
+    },
+    {
+      "ar": "لحن الأحلی",
+      "en": "the sweetest of languages"
+    },
+    {
+      "ar": "اللّوح",
+      "en": "Tablet"
+    },
+    {
+      "ar": "المبين",
+      "en": "luminous"
+    },
+    {
+      "ar": "قل",
+      "en": "Cry"
+    },
+    {
+      "ar": "إنّه",
+      "en": "it"
+    }
+  ],
+  "terms": [
+    {
+      "term": "البهاء",
+      "transliteration": "b-h-y",
+      "literal": "splendor; glory; magnificence; Bahá (Proper Name in Bahá'í texts)",
+      "se_rendering": "the Spirit of Bahá",
+      "note": "Proper noun typically untranslated as 'Bahá' across corpus. Here rendered as 'Spirit of Bahá' — interpretive expansion clarifying the metaphysical relationship between the speaker and Bahá's creative power.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 280,
+          "snippet": "Bahá"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 59,
+          "snippet": "Glory"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 51,
+          "snippet": "Abhá"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 271,
+          "snippet": "All-Glorious"
+        }
+      ]
+    },
+    {
+      "term": "الأعلى",
+      "transliteration": "ʿ-l-w",
+      "literal": "highest; most high; supreme",
+      "se_rendering": "on high",
+      "note": "Typically 'the Most High' or 'the Most Exalted' (74 occ). Here 'on high' — adverbial locative usage rather than divine epithet, marking spatial rather than transcendent meaning.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 1,
+          "snippet": "the Most High"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 148,
+          "snippet": "the Most Sublime Pen"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 390,
+          "snippet": "the Most Exalted, the Most High"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 68,
+          "snippet": "the Pen of Glory"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 1,
+          "snippet": "the Realm of Glory"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 257,
+          "snippet": "the Báb, the Lord, the most exalted"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 21,
+          "snippet": "sublime"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 143,
+          "snippet": "exalted be He"
+        }
+      ]
+    },
+    {
+      "term": "ابدع",
+      "transliteration": "b-d-ʿ",
+      "literal": "to create; most wondrous; excel",
+      "se_rendering": "divine and incomparable",
+      "note": "Typically 'most wondrous' or 'creation' (21 occ). Here 'divine and incomparable sweetness' — quality descriptor rather than noun, rendering the superlative as sensory aesthetic.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 2,
+          "snippet": "most wondrous"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 65,
+          "snippet": "creation"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 6,
+          "snippet": "Badí'u'lláh"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 9,
+          "snippet": "horizon of creation"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 191,
+          "snippet": "the eye of the universe"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 4,
+          "snippet": "Mighty, the Wondrous"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 315,
+          "snippet": "kingdoms of creation"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 202,
+          "snippet": "new"
+        }
+      ]
+    },
+    {
+      "term": "شهدت",
+      "transliteration": "sh-h-d",
+      "literal": "witnessed; observed; seen; evident; manifest",
+      "se_rendering": "lo",
+      "note": "Generally 'I testify' or 'I bear witness' (74 occ). Here 'lo' — exclamatory particle replacing juridical witness testimony, shifting from affirmation to vision.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 35,
+          "snippet": "evident"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 811,
+          "snippet": "I bear witness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 6,
+          "snippet": "I testify"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 138,
+          "snippet": "martyrdom"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 230,
+          "snippet": "God testifieth"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 57,
+          "snippet": "beheld"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 117,
+          "snippet": "testify"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 156,
+          "snippet": "bear witness"
+        }
+      ]
+    },
+    {
+      "term": "البقاء",
+      "transliteration": "b-q-y",
+      "literal": "remaining; everlasting; eternal; immortal",
+      "se_rendering": "Eternity",
+      "note": "Usually 'eternal' or 'everlasting' as attribute (32 occ). Here 'Eternity' as personified noun — a tongue or utterance itself, reifying the abstract into an agent.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 2,
+          "snippet": "the Eternal"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 88,
+          "snippet": "everlasting beauty"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 98,
+          "snippet": "everlasting candle"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 117,
+          "snippet": "immortal sovereignty"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 110,
+          "snippet": "everlasting torch of divine guidance"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 56,
+          "snippet": "refrain"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 246,
+          "snippet": "everlasting"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 259,
+          "snippet": "O thou Remnant of God"
+        }
+      ]
+    },
+    {
+      "term": "المبين",
+      "transliteration": "b-y-n",
+      "literal": "to manifest; to make clear; clear, evident",
+      "se_rendering": "luminous",
+      "note": "Usually 'the Most Manifest' or 'clear proofs' (87 occ). Here 'luminous' — sensory rendering emphasizing the Tablet's radiance rather than its clarifying function.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 231,
+          "snippet": "clear verses"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 3,
+          "snippet": "proofs"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 12,
+          "snippet": "clear proofs"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 101,
+          "snippet": "Bayán"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 84,
+          "snippet": "palpable smoke"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 120,
+          "snippet": "evil"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 178,
+          "snippet": "evident error"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 189,
+          "snippet": "meaning"
+        }
+      ]
+    }
+  ],
+  "section_index": "CXXIX.11",
+  "section": "CXXIX",
+  "section_para": 11
 }

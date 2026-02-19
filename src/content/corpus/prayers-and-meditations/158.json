@@ -1,10 +1,331 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 158,
   "source_text": "وَلا تُبْعِدَنِي عَنْ شَاطِئِ قُرْبِكَ، أَيْ رَبِّ دُونُكَ لا يَنْفَعُنِي وَقُرْبُ غَيْرِكَ لا يُغْنِينِي، أَسْئَلُكَ بِغَنائِكَ الَّذِيْ بِهِ اسْتَغْنَيْتُ عَمَّا سِواكَ بِأَنْ تَجْعَلَنِي مِنَ النَّاظِرِينَ إِلَيْكَ وَالقائِمِينَ عَلَى",
   "translation": "Aught else except Thee, O my Lord, profiteth me not, and near access to anyone save Thyself availeth me nothing. I entreat Thee by the plenteousness of Thy riches, whereby Thou didst dispense with all else except Thyself, to number me with such as have set their faces towards Thee, and arisen to serve Thee.",
   "source_lang": "ar",
-  "score": 9.9
+  "score": 9.9,
+  "page_slug": "near-access-thyself",
+  "alignment": [
+    {
+      "ar": "تُبْعِدَنِي",
+      "en": "access"
+    },
+    {
+      "ar": "شَاطِئِ",
+      "en": "near"
+    },
+    {
+      "ar": "قُرْبِكَ",
+      "en": "near access"
+    },
+    {
+      "ar": "دُونُكَ",
+      "en": "Aught else except Thee"
+    },
+    {
+      "ar": "يَنْفَعُنِي",
+      "en": "profiteth me"
+    },
+    {
+      "ar": "غَيْرِكَ",
+      "en": "anyone save Thyself"
+    },
+    {
+      "ar": "يُغْنِينِي",
+      "en": "availeth me"
+    },
+    {
+      "ar": "أَسْئَلُكَ",
+      "en": "I entreat Thee"
+    },
+    {
+      "ar": "غَنائِكَ",
+      "en": "plenteousness"
+    },
+    {
+      "ar": "اسْتَغْنَيْتُ",
+      "en": "Thou didst dispense"
+    },
+    {
+      "ar": "سِواكَ",
+      "en": "all else except Thyself"
+    },
+    {
+      "ar": "تَجْعَلَنِي",
+      "en": "to number me"
+    },
+    {
+      "ar": "إِلَيْكَ",
+      "en": "towards Thee"
+    },
+    {
+      "ar": "القائِمِينَ",
+      "en": "arisen to serve"
+    }
+  ],
+  "terms": [
+    {
+      "term": "شَاطِئِ",
+      "transliteration": "sh-t-ʾ",
+      "literal": "shore; bank; coast",
+      "se_rendering": "shore",
+      "note": "Sole occurrence in corpus rendered 'shore' here; aligns with literal meaning. Root sh-t-ʾ typically yields 'shores' or 'ocean' elsewhere.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 204,
+          "snippet": "shore"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 121,
+          "snippet": "shores"
+        },
+        {
+          "work": "gleanings",
+          "para": 656,
+          "snippet": "ocean"
+        }
+      ]
+    },
+    {
+      "term": "قُرْبِكَ",
+      "transliteration": "q-r-b",
+      "literal": "place of sacrifice; altar",
+      "se_rendering": "Thy nearness",
+      "note": "Rendered 'nearness' here; root q-r-b shows wide variance ('place of sacrifice', 'draw near', 'drawn nigh'). SE chooses intimate relational term.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 3,
+          "snippet": "unto the place of sacrifice"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 35,
+          "snippet": "my kindred"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 159,
+          "snippet": "their kindred"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 163,
+          "snippet": "at hand"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 9,
+          "snippet": "well-nigh"
+        },
+        {
+          "work": "gleanings",
+          "para": 191,
+          "snippet": "near"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 199,
+          "snippet": "draw them nigh unto God"
+        },
+        {
+          "work": "gleanings",
+          "para": 266,
+          "snippet": "draw them nearer unto Thee"
+        }
+      ]
+    },
+    {
+      "term": "دُونُكَ",
+      "transliteration": "d-n-w",
+      "literal": "to know; to understand",
+      "se_rendering": "aught else except Thee",
+      "note": "Root d-n-w typically means 'to know' but rendered contextually as 'aught else except Thee'. Only 6 occurrences across corpus show this semantic flexibility.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 239,
+          "snippet": "well knoweth"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 244,
+          "snippet": "well knowest"
+        },
+        {
+          "work": "gleanings",
+          "para": 244,
+          "snippet": "the world"
+        },
+        {
+          "work": "gleanings",
+          "para": 663,
+          "snippet": "this world"
+        }
+      ]
+    },
+    {
+      "term": "غَيْرِكَ",
+      "transliteration": "gh-y-r",
+      "literal": "without; besides; other than; except",
+      "se_rendering": "anyone save Thyself",
+      "note": "Root gh-y-r usually denotes 'changes' or 'varying' but here rendered 'anyone save Thyself'. Rare doctrinal usage emphasizing exclusivity rather than transformation.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 44,
+          "snippet": "changes"
+        },
+        {
+          "work": "gleanings",
+          "para": 125,
+          "snippet": "change"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 105,
+          "snippet": "varying"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 180,
+          "snippet": "untoward incident"
+        },
+        {
+          "work": "gleanings",
+          "para": 650,
+          "snippet": "counter to"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 61,
+          "snippet": "contrary"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 143,
+          "snippet": "contrary to"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 26,
+          "snippet": "busied with others than"
+        }
+      ]
+    },
+    {
+      "term": "سِواكَ",
+      "transliteration": "s-w-k",
+      "literal": "other than; besides; except; equal; alike",
+      "se_rendering": "all else except Thyself",
+      "note": "Root s-w-k shows zero Jafar occurrences; rendered 'all else except Thyself' here. Indicates rare Shoghi Effendi translational choice for absolute exclusivity.",
+      "cross_refs": []
+    },
+    {
+      "term": "تَجْعَلَنِي",
+      "transliteration": "j-ʿ-l",
+      "literal": "to make; to cause; to render; to appoint",
+      "se_rendering": "number me",
+      "note": "Root j-ʿ-l means 'to make/appoint'; SE chooses 'number me' (count/include) over 'make' or 'ordain'—emphasizing integration into community.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 12,
+          "snippet": "make them"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 25,
+          "snippet": "hath ordained"
+        },
+        {
+          "work": "gleanings",
+          "para": 529,
+          "snippet": "ordained"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 67,
+          "snippet": "hath made thee"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 217,
+          "snippet": "hath chosen thee to be"
+        },
+        {
+          "work": "gleanings",
+          "para": 234,
+          "snippet": "made thee"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 90,
+          "snippet": "allow"
+        },
+        {
+          "work": "gleanings",
+          "para": 664,
+          "snippet": "make"
+        }
+      ]
+    },
+    {
+      "term": "النَّاظِرِينَ",
+      "transliteration": "n-dh-r",
+      "literal": "sight; view; spectacle; appearance",
+      "se_rendering": "such as have set their faces towards Thee",
+      "note": "Root n-dh-r variously 'expectant', 'anticipating', 'peer'; SE renders 'set their faces towards Thee'—spiritual orientation rather than passive expectation.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 351,
+          "snippet": "towards the Most Great Revelation"
+        },
+        {
+          "work": "gleanings",
+          "para": 150,
+          "snippet": "anticipating"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 5,
+          "snippet": "peer"
+        },
+        {
+          "work": "gleanings",
+          "para": 201,
+          "snippet": "counterpart"
+        },
+        {
+          "work": "gleanings",
+          "para": 385,
+          "snippet": "comparison"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 2,
+          "snippet": "unique"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 17,
+          "snippet": "the eyes"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 107,
+          "snippet": "Consider"
+        }
+      ]
+    }
+  ],
+  "section_index": "XLII.2",
+  "section": "XLII",
+  "section_para": 2
 }

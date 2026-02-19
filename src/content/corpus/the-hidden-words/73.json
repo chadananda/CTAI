@@ -1,10 +1,212 @@
 {
   "work": "The Hidden Words",
   "slug": "the-hidden-words",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 73,
   "source_text": "﴿ بنام گوينده توانا ﴾\nای صاحبان هوش و گوش",
   "translation": "﴾ In the Name of the Lord of Utterance, The Mighty ﴿\n(1) O YE PEOPLE THAT HAVE MINDS TO KNOW AND EARS TO HEAR!",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "minds-to-know-ears-to-hear",
+  "alignment": [
+    {
+      "ar": "بنام",
+      "en": "In the Name"
+    },
+    {
+      "ar": "گوينده",
+      "en": "Utterance"
+    },
+    {
+      "ar": "توانا",
+      "en": "Mighty"
+    },
+    {
+      "ar": "صاحبان",
+      "en": "PEOPLE"
+    },
+    {
+      "ar": "هوش",
+      "en": "MINDS"
+    },
+    {
+      "ar": "گوش",
+      "en": "EARS"
+    }
+  ],
+  "terms": [
+    {
+      "term": "بنام",
+      "transliteration": "n-w-m",
+      "literal": "to sleep; to slumber",
+      "se_rendering": "In the Name of",
+      "note": "Root n-w-m typically renders as 'sleep', 'slumber', or the proper noun 'Qayyúmu'l-Asmá'. Here SE deviates entirely to 'Name'—an interpretive rendering that elevates the invocatory formula beyond lexical meaning.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 699,
+          "snippet": "sleepeth not"
+        },
+        {
+          "work": "gleanings",
+          "para": 191,
+          "snippet": "slumber"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 564,
+          "snippet": "sleep"
+        },
+        {
+          "work": "gleanings",
+          "para": 425,
+          "snippet": "Most Great Law"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 259,
+          "snippet": "Qayyúmu'l-Asmá"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 24,
+          "snippet": "the people"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 217,
+          "snippet": "all men"
+        },
+        {
+          "work": "gleanings",
+          "para": 446,
+          "snippet": "among mankind"
+        }
+      ]
+    },
+    {
+      "term": "گوينده",
+      "transliteration": "g-w-y",
+      "literal": "utterance; speaking; the one who speaks",
+      "se_rendering": "Lord of Utterance",
+      "note": "Root g-w-y shows 4 total occurrences with renderings including 'saith' and 'referred unto Him in terms'. Here 'Lord of Utterance' is the singular theological nominalization, capitalizing the speaker's divine authority.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 109,
+          "snippet": "referred unto Him in terms"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 211,
+          "snippet": "saith"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 93,
+          "snippet": "maintain"
+        }
+      ]
+    },
+    {
+      "term": "توانا",
+      "transliteration": "t-w-n",
+      "literal": "to be able, can; power, strength",
+      "se_rendering": "Mighty",
+      "note": "Root t-w-n appears 17 times as 'can', 'Almighty', 'Powerful', or 'weak creatures'. Here 'Mighty' emphasizes divine power as an attribute name rather than capability or strength.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 180,
+          "snippet": "can"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 666,
+          "snippet": "Almighty"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 667,
+          "snippet": "Powerful"
+        },
+        {
+          "work": "gleanings",
+          "para": 140,
+          "snippet": "power"
+        }
+      ]
+    },
+    {
+      "term": "صاحبان",
+      "transliteration": "ṣ-ḥ-b",
+      "literal": "possessor; those who have; companion; followers",
+      "se_rendering": "PEOPLE THAT HAVE",
+      "note": "Root ṣ-ḥ-b typically renders as 'They whose', 'They that have', or 'followers'. SE's 'PEOPLE THAT HAVE' collapses possessor semantics into direct address, making the verse directly vocative.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 10,
+          "snippet": "They whose"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 281,
+          "snippet": "They that have"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 261,
+          "snippet": "Revealer of such utterance"
+        },
+        {
+          "work": "gleanings",
+          "para": 192,
+          "snippet": "O people"
+        },
+        {
+          "work": "gleanings",
+          "para": 563,
+          "snippet": "discerning"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 103,
+          "snippet": "the pure in heart"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 5,
+          "snippet": "men of insight"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 238,
+          "snippet": "his companions"
+        }
+      ]
+    },
+    {
+      "term": "گوش",
+      "transliteration": "g-w-sh",
+      "literal": "ear; hearing; to listen",
+      "se_rendering": "ears to hear",
+      "note": "Root g-w-sh appears only 4 times; here SE renders the full phrase 'ears to hear' rather than isolating 'ear' alone, merging the noun with functional capacity to create a unified appellative structure.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 2,
+          "snippet": "ear"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 153,
+          "snippet": "ears"
+        }
+      ]
+    }
+  ],
+  "section_index": "145",
+  "section": "145",
+  "section_para": 1
 }

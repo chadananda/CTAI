@@ -1,10 +1,702 @@
 {
   "work": "Kitab-i-Iqan",
   "slug": "kitab-i-iqan",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 265,
   "source_text": "حال قدری تفکّر نمائيد، آيا چنين تصرّف و احاطه از احدی در امکان ظاهر شده؟ و جميع اين قلوب منزّهه و نفوس مقدّسه به کمال رضا در موارد قضا شتافتند و در مواقع شکايت، جز شُکر از ايشان ظاهر نه و در مواطن بلا، جز رضا از ايشان مشهود نه.  و اين رتبه هم معلوم است که کلّ اهل ارض چه مقدار غلّ و بغض و عداوت به اين اصحاب داشتند.  چنانچه اذيّت و ايذای آن طلعات قدسی معنوی را  علّت فوز و رستگاری و سبب فلاح و نجاح ابدی می دانستند. آيا هرگز در هيچ تاريخی از عهد آدم تا حال چنين غوغائی در بلاد واقع شد و آيا چنين ضوضائی در ميان عباد ظاهر گشت؟ و با اين همه ايذاء و اذيّت، محلّ لعن جميع ناس شدند و محلّ ملامت جميع عباد.  و گويا صبر در عالم کون از اصطبارشان ظاهر شد و وفا در ارکان عالم از فعلشان موجودگشت.",
   "translation": "Reflect: Who in this world is able to manifest such transcendent power, such pervading influence? All these stainless hearts and sanctified souls have, with absolute resignation, responded to the summons of His decree. Instead of complaining, they rendered thanks unto God, and amidst the darkness of their anguish they revealed naught but radiant acquiescence to His will. It is evident how relentless was the hate, and how bitter the malice and enmity entertained by all the peoples of the earth towards these companions. The persecution and pain they inflicted on these holy and spiritual beings were regarded by them as means unto salvation, prosperity, and everlasting success. Hath the world, since the days of Adam, witnessed such tumult, such violent commotion? Notwithstanding all the torture they suffered, and manifold the afflictions they endured, they became the object of universal opprobrium and execration. Methinks patience was revealed only by virtue of their fortitude, and faithfulness itself was begotten only by their deeds.",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "patience-faithfulness-everlasting-success",
+  "alignment": [
+    {
+      "ar": "حال",
+      "en": "Reflect"
+    },
+    {
+      "ar": "قدری",
+      "en": "such"
+    },
+    {
+      "ar": "آيا",
+      "en": "Who"
+    },
+    {
+      "ar": "تصرّف",
+      "en": "power"
+    },
+    {
+      "ar": "احاطه",
+      "en": "influence"
+    },
+    {
+      "ar": "در امکان",
+      "en": "able"
+    },
+    {
+      "ar": "ظاهر شده",
+      "en": "manifest"
+    },
+    {
+      "ar": "جميع",
+      "en": "All"
+    },
+    {
+      "ar": "اين",
+      "en": "these"
+    },
+    {
+      "ar": "قلوب",
+      "en": "hearts"
+    },
+    {
+      "ar": "منزّهه",
+      "en": "stainless"
+    },
+    {
+      "ar": "نفوس",
+      "en": "souls"
+    },
+    {
+      "ar": "مقدّسه",
+      "en": "sanctified"
+    },
+    {
+      "ar": "به کمال",
+      "en": "absolute"
+    },
+    {
+      "ar": "رضا",
+      "en": "resignation"
+    },
+    {
+      "ar": "موارد",
+      "en": "summons"
+    },
+    {
+      "ar": "قضا",
+      "en": "decree"
+    },
+    {
+      "ar": "شتافتند",
+      "en": "responded"
+    },
+    {
+      "ar": "مواقع",
+      "en": "Instead of"
+    },
+    {
+      "ar": "شکايت",
+      "en": "complaining"
+    },
+    {
+      "ar": "جز",
+      "en": "Instead"
+    },
+    {
+      "ar": "شُکر",
+      "en": "thanks"
+    },
+    {
+      "ar": "ايشان",
+      "en": "they"
+    },
+    {
+      "ar": "ظاهر نه",
+      "en": "rendered"
+    },
+    {
+      "ar": "مواطن",
+      "en": "darkness"
+    },
+    {
+      "ar": "بلا",
+      "en": "anguish"
+    },
+    {
+      "ar": "رضا",
+      "en": "acquiescence"
+    },
+    {
+      "ar": "مشهود نه",
+      "en": "revealed"
+    },
+    {
+      "ar": "رتبه",
+      "en": "evident"
+    },
+    {
+      "ar": "کلّ",
+      "en": "all"
+    },
+    {
+      "ar": "اهل",
+      "en": "peoples"
+    },
+    {
+      "ar": "ارض",
+      "en": "earth"
+    },
+    {
+      "ar": "چه مقدار",
+      "en": "how relentless"
+    },
+    {
+      "ar": "غلّ",
+      "en": "hate"
+    },
+    {
+      "ar": "بغض",
+      "en": "malice"
+    },
+    {
+      "ar": "عداوت",
+      "en": "enmity"
+    },
+    {
+      "ar": "اصحاب",
+      "en": "companions"
+    },
+    {
+      "ar": "داشتند",
+      "en": "entertained"
+    },
+    {
+      "ar": "اذيّت",
+      "en": "persecution"
+    },
+    {
+      "ar": "ايذای",
+      "en": "pain"
+    },
+    {
+      "ar": "طلعات",
+      "en": "beings"
+    },
+    {
+      "ar": "قدسی",
+      "en": "holy"
+    },
+    {
+      "ar": "معنوی",
+      "en": "spiritual"
+    },
+    {
+      "ar": "علّت",
+      "en": "means"
+    },
+    {
+      "ar": "فوز",
+      "en": "salvation"
+    },
+    {
+      "ar": "رستگاری",
+      "en": "prosperity"
+    },
+    {
+      "ar": "فلاح",
+      "en": "success"
+    },
+    {
+      "ar": "نجاح",
+      "en": "everlasting"
+    },
+    {
+      "ar": "می دانستند",
+      "en": "regarded"
+    },
+    {
+      "ar": "هرگز",
+      "en": "since"
+    },
+    {
+      "ar": "تاريخی",
+      "en": "world"
+    },
+    {
+      "ar": "عهد",
+      "en": "days"
+    },
+    {
+      "ar": "آدم",
+      "en": "Adam"
+    },
+    {
+      "ar": "غوغائی",
+      "en": "tumult"
+    },
+    {
+      "ar": "واقع شد",
+      "en": "witnessed"
+    },
+    {
+      "ar": "ضوضائی",
+      "en": "commotion"
+    },
+    {
+      "ar": "با اين همه",
+      "en": "Notwithstanding"
+    },
+    {
+      "ar": "ايذاء",
+      "en": "torture"
+    },
+    {
+      "ar": "اذيّت",
+      "en": "afflictions"
+    },
+    {
+      "ar": "محلّ",
+      "en": "object"
+    },
+    {
+      "ar": "لعن",
+      "en": "opprobrium"
+    },
+    {
+      "ar": "ناس",
+      "en": "universal"
+    },
+    {
+      "ar": "شدند",
+      "en": "became"
+    },
+    {
+      "ar": "ملامت",
+      "en": "execration"
+    },
+    {
+      "ar": "گويا",
+      "en": "Methinks"
+    },
+    {
+      "ar": "صبر",
+      "en": "patience"
+    },
+    {
+      "ar": "عالم",
+      "en": "virtue"
+    },
+    {
+      "ar": "کون",
+      "en": "was revealed"
+    },
+    {
+      "ar": "اصطبارشان",
+      "en": "fortitude"
+    },
+    {
+      "ar": "وفا",
+      "en": "faithfulness"
+    },
+    {
+      "ar": "ارکان",
+      "en": "only"
+    },
+    {
+      "ar": "فعلشان",
+      "en": "deeds"
+    },
+    {
+      "ar": "موجودگشت",
+      "en": "begotten"
+    }
+  ],
+  "terms": [
+    {
+      "term": "ظاهر",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "revealed",
+      "note": "Typically 'Manifestation' or 'manifest' (96 occurrences). Here rendered 'revealed' twice—a semantic shift emphasizing spiritual disclosure over ontological appearance.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 53,
+          "snippet": "Manifestation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 160,
+          "snippet": "Author of all Manifestations"
+        },
+        {
+          "work": "gleanings",
+          "para": 222,
+          "snippet": "material"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 206,
+          "snippet": "appeared"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 255,
+          "snippet": "Manifestations"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 791,
+          "snippet": "tokens of Thy handiwork"
+        }
+      ]
+    },
+    {
+      "term": "قلوب",
+      "transliteration": "q-l-b",
+      "literal": "heart; to turn; to overturn",
+      "se_rendering": "hearts",
+      "note": "Standard 'hearts' rendering (60 occ.), but 'stainless hearts' reflects SE's ethical-spiritual interpretation rather than literal cardiac reference.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 187,
+          "snippet": "hearts"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 432,
+          "snippet": "their hearts"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 652,
+          "snippet": "heart"
+        },
+        {
+          "work": "gleanings",
+          "para": 228,
+          "snippet": "agitation"
+        },
+        {
+          "work": "gleanings",
+          "para": 350,
+          "snippet": "cataclysms"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 777,
+          "snippet": "commotion"
+        },
+        {
+          "work": "gleanings",
+          "para": 439,
+          "snippet": "discord"
+        },
+        {
+          "work": "gleanings",
+          "para": 3,
+          "snippet": "with hearts"
+        }
+      ]
+    },
+    {
+      "term": "نفوس",
+      "transliteration": "n-f-s",
+      "literal": "self; soul; psyche",
+      "se_rendering": "souls",
+      "note": "Root carries 'self; soul; psyche' across 43 occurrences with highly varied renderings. Here 'sanctified souls' uniquely emphasizes spiritual dimension over ego or entity.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 114,
+          "snippet": "over Mine own Self"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 789,
+          "snippet": "myself to be only nothing"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 70,
+          "snippet": "This is the station in which I have no power"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 71,
+          "snippet": "his own entity in the kingdom of his self"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 572,
+          "snippet": "Thy Self at all times"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 109,
+          "snippet": "those"
+        },
+        {
+          "work": "gleanings",
+          "para": 205,
+          "snippet": "souls"
+        },
+        {
+          "work": "gleanings",
+          "para": 297,
+          "snippet": "their powerlessness"
+        }
+      ]
+    },
+    {
+      "term": "مشهود",
+      "transliteration": "sh-h-d",
+      "literal": "witnessed; observed; seen; evident; manifest",
+      "se_rendering": "revealed",
+      "note": "Root spans 'witnessed; evident; manifest' (74 occ.). 'Revealed' here aligns with mystical unveiling rather than passive witnessing—active divine disclosure.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 607,
+          "snippet": "manifest"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 811,
+          "snippet": "I bear witness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 6,
+          "snippet": "I testify"
+        },
+        {
+          "work": "gleanings",
+          "para": 298,
+          "snippet": "witness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 253,
+          "snippet": "martyrdom"
+        },
+        {
+          "work": "gleanings",
+          "para": 134,
+          "snippet": "God witnesseth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 230,
+          "snippet": "God testifieth"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 57,
+          "snippet": "beheld"
+        }
+      ]
+    },
+    {
+      "term": "بغض",
+      "transliteration": "b-gh-dh",
+      "literal": "hatred; enmity; animosity",
+      "se_rendering": "malice",
+      "note": "Consistently 'hate' or 'hatred' across 37 occurrences. Rendered 'malice' here—a synonym shift adding moral dimension beyond mere emotional hostility.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 5,
+          "snippet": "with great enmity"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 45,
+          "snippet": "hate"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 59,
+          "snippet": "hatred"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 18,
+          "snippet": "animosity"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 14,
+          "snippet": "enmity"
+        },
+        {
+          "work": "gleanings",
+          "para": 192,
+          "snippet": "ill-wishers"
+        },
+        {
+          "work": "gleanings",
+          "para": 464,
+          "snippet": "congregation of My ill-wishers"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 117,
+          "snippet": "every hater"
+        }
+      ]
+    },
+    {
+      "term": "عداوت",
+      "transliteration": "ʿ-d-w",
+      "literal": "hostility, aggression, enmity, transgression",
+      "se_rendering": "enmity",
+      "note": "Standard 'enmity' or 'hostility' (34 occ.). Maintained as 'enmity' here, preserving doctrinal terminology for active opposition to divine truth.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 4,
+          "snippet": "hostility"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 309,
+          "snippet": "Thine enemies"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 53,
+          "snippet": "enemies of the Covenant"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 110,
+          "snippet": "his enemy"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 33,
+          "snippet": "Thy foes"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 188,
+          "snippet": "His enemies"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 35,
+          "snippet": "amongst mine enemies"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 52,
+          "snippet": "enemies"
+        }
+      ]
+    },
+    {
+      "term": "طلعات",
+      "transliteration": "t-l-ʿ",
+      "literal": "rising; appearance; countenance; manifestation",
+      "se_rendering": "beings",
+      "note": "Usually 'Manifestations' or 'countenances' (32 occ.). Here 'beings' is reductive—SE may prioritize readability over technical precision in this rhetorical context.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 856,
+          "snippet": "countenances"
+        },
+        {
+          "work": "gleanings",
+          "para": 35,
+          "snippet": "Revealers of the beauty"
+        },
+        {
+          "work": "gleanings",
+          "para": 364,
+          "snippet": "Manifestations"
+        },
+        {
+          "work": "gleanings",
+          "para": 221,
+          "snippet": "instigators"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "sources of command"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 16,
+          "snippet": "embodiments"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 21,
+          "snippet": "daysprings"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 24,
+          "snippet": "exponents"
+        }
+      ]
+    },
+    {
+      "term": "صبر",
+      "transliteration": "s-b-r",
+      "literal": "patience; forbearance; endurance; to be patient",
+      "se_rendering": "patience",
+      "note": "Typically 'patience' or 'forbearance' (32 occ.). SE's choice to render related form 'اصطبارشان' as 'fortitude' preserves lexical distinction from primary term patience.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 48,
+          "snippet": "forbearance"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 40,
+          "snippet": "Patience of the worlds"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 49,
+          "snippet": "patience"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 39,
+          "snippet": "Thy patience"
+        },
+        {
+          "work": "gleanings",
+          "para": 620,
+          "snippet": "be patient"
+        },
+        {
+          "work": "gleanings",
+          "para": 408,
+          "snippet": "steadfast"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 689,
+          "snippet": "patient"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 61,
+          "snippet": "endured patiently"
+        }
+      ]
+    }
+  ],
+  "section_index": "265",
+  "section": "265",
+  "section_para": 1
 }

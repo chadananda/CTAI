@@ -1,10 +1,553 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 167,
   "source_text": "لَ كُلَّ وَاحِدٍ مِنْهُمْ عَلَمَ هِدَايَتِكَ بَيْنَ عِبادِكَ وَإِشْراقَ أَنْوارِ شَمْسِ عِنايَتِكَ بَيْنَ بَرِيَّتِكَ، قَدِ اخْتَصَصْتَهُمْ يا إِلهِي لِمَحَبَّتِكَ وَالحُضُورِ لَدَى عَرْشِ عَظَمَتِكَ هذا مَقامٌ ما سَبَقَهُمْ أَحَدٌ فِيْ ذلِكَ، كَمْ مِنْ لَيالٍ يا إِلهِي ما نامُوا لِذِكْرِكَ وَكَمْ مِنْ أَيَّامٍ ناحُوا بِما وَرَدَ عَلَيْكَ مِنْ أَعْدائِكَ، أَسْئَلُكَ يا مالِكَ المُلُوكِ وَرافِعَ المَمْلُوكِ بِأَنْ تُؤَيِّدَهُمْ عَلَى نُصْرَةِ أَمْرِكَ وَإِعْلآءِ كَلِمَتِكَ عَلَى شَأْنٍ يَنْتَشِرُ بِهِمْ ذِكْرُكَ بَيْنَ خَلْقِكَ وَثَنائُكَ فِيْ مَمْلَكَتِكَ إِنَّكَ أَنْتَ الْمُقْتَدِرُ المُتَعالِ الْغَفُورُ الْكَرِيمُ، سُبْحانَكَ اللَّهُمَّ يا إِلهِي هذا عَبْدُكَ الَّذِيْ سَمَّيْتَهُ",
   "translation": "I beseech Thee, O Thou Who art the Lord of all being and the Enlightener of all things visible and invisible, to grant that every one of them may become an ensign of Thy guidance among Thy servants, and a revelation of the splendors of the Daystar of Thy loving-kindness amidst Thy creatures. Thou hast, O my God, chosen them to love Thee, and to stand before the throne of Thy majesty. No other station hath excelled the station to which Thou hast called them. How many the nights, O my God, when sleep failed to overtake them because of their remembrance of Thee, and how numerous the days which they spent in lamentation over the things that have befallen Thee at the hands of Thine enemies! I entreat Thee, O Thou Who art the Ruler of rulers, and the Uplifter of the downtrodden, to aid them so to assist Thy Cause and exalt Thy word that through them Thy praise may be shed abroad amidst Thy creatures, and Thy virtues recounted throughout Thy realm. Thou art, verily, the Almighty, the Most Exalted, the Ever-Forgiving, the Most Generous.",
   "source_lang": "ar",
-  "score": 9.7
+  "score": 9.7,
+  "page_slug": "ensign-guidance-servants",
+  "alignment": [
+    {
+      "ar": "وَاحِدٍ",
+      "en": "every one"
+    },
+    {
+      "ar": "مِنْهُمْ",
+      "en": "of them"
+    },
+    {
+      "ar": "عَلَمَ",
+      "en": "an ensign"
+    },
+    {
+      "ar": "هِدَايَتِكَ",
+      "en": "Thy guidance"
+    },
+    {
+      "ar": "بَيْنَ",
+      "en": "among"
+    },
+    {
+      "ar": "عِبادِكَ",
+      "en": "Thy servants"
+    },
+    {
+      "ar": "إِشْراقَ",
+      "en": "a revelation"
+    },
+    {
+      "ar": "أَنْوارِ",
+      "en": "the splendors"
+    },
+    {
+      "ar": "شَمْسِ",
+      "en": "the Daystar"
+    },
+    {
+      "ar": "عِنايَتِكَ",
+      "en": "Thy loving-kindness"
+    },
+    {
+      "ar": "اخْتَصَصْتَهُمْ",
+      "en": "chosen them"
+    },
+    {
+      "ar": "إِلهِي",
+      "en": "my God"
+    },
+    {
+      "ar": "الحُضُورِ",
+      "en": "to stand"
+    },
+    {
+      "ar": "لَدَى",
+      "en": "before"
+    },
+    {
+      "ar": "عَرْشِ",
+      "en": "the throne"
+    },
+    {
+      "ar": "عَظَمَتِكَ",
+      "en": "Thy majesty"
+    },
+    {
+      "ar": "مَقامٌ",
+      "en": "station"
+    },
+    {
+      "ar": "سَبَقَهُمْ",
+      "en": "excelled"
+    },
+    {
+      "ar": "أَحَدٌ",
+      "en": "other"
+    },
+    {
+      "ar": "كَمْ",
+      "en": "How many"
+    },
+    {
+      "ar": "لَيالٍ",
+      "en": "the nights"
+    },
+    {
+      "ar": "نامُوا",
+      "en": "sleep"
+    },
+    {
+      "ar": "لِذِكْرِكَ",
+      "en": "their remembrance of Thee"
+    },
+    {
+      "ar": "ناحُوا",
+      "en": "lamentation"
+    },
+    {
+      "ar": "وَرَدَ",
+      "en": "have befallen"
+    },
+    {
+      "ar": "عَلَيْكَ",
+      "en": "Thee"
+    },
+    {
+      "ar": "أَعْدائِكَ",
+      "en": "Thine enemies"
+    },
+    {
+      "ar": "أَسْئَلُكَ",
+      "en": "I entreat Thee"
+    },
+    {
+      "ar": "مالِكَ",
+      "en": "the Ruler"
+    },
+    {
+      "ar": "المُلُوكِ",
+      "en": "of rulers"
+    },
+    {
+      "ar": "رافِعَ",
+      "en": "the Uplifter"
+    },
+    {
+      "ar": "المَمْلُوكِ",
+      "en": "of the downtrodden"
+    },
+    {
+      "ar": "نُصْرَةِ",
+      "en": "to assist"
+    },
+    {
+      "ar": "أَمْرِكَ",
+      "en": "Thy Cause"
+    },
+    {
+      "ar": "إِعْلآءِ",
+      "en": "exalt"
+    },
+    {
+      "ar": "كَلِمَتِكَ",
+      "en": "Thy word"
+    },
+    {
+      "ar": "شَأْنٍ",
+      "en": "that"
+    },
+    {
+      "ar": "يَنْتَشِرُ",
+      "en": "may be shed abroad"
+    },
+    {
+      "ar": "ذِكْرُكَ",
+      "en": "Thy praise"
+    },
+    {
+      "ar": "خَلْقِكَ",
+      "en": "Thy creatures"
+    },
+    {
+      "ar": "ثَنائُكَ",
+      "en": "Thy virtues"
+    },
+    {
+      "ar": "مَمْلَكَتِكَ",
+      "en": "Thy realm"
+    },
+    {
+      "ar": "الْمُقْتَدِرُ",
+      "en": "the Almighty"
+    },
+    {
+      "ar": "المُتَعالِ",
+      "en": "the Most Exalted"
+    },
+    {
+      "ar": "الْغَفُورُ",
+      "en": "the Ever-Forgiving"
+    },
+    {
+      "ar": "الْكَرِيمُ",
+      "en": "the Most Generous"
+    },
+    {
+      "ar": "سُبْحانَكَ",
+      "en": "verily"
+    },
+    {
+      "ar": "عَبْدُكَ",
+      "en": "servant"
+    }
+  ],
+  "terms": [
+    {
+      "term": "عَلَمَ",
+      "transliteration": "ʿ-l-m",
+      "literal": "world; universe; the worlds",
+      "se_rendering": "ensign",
+      "note": "Usually rendered 'world' or 'knowledge' across 141 occurrences; here SE uses 'ensign'—a banner or sign—capturing the metaphorical sense of becoming a visible standard of guidance.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 198,
+          "snippet": "world"
+        },
+        {
+          "work": "gleanings",
+          "para": 657,
+          "snippet": "all worlds"
+        },
+        {
+          "work": "gleanings",
+          "para": 182,
+          "snippet": "mankind"
+        },
+        {
+          "work": "gleanings",
+          "para": 183,
+          "snippet": "the whole world"
+        },
+        {
+          "work": "gleanings",
+          "para": 226,
+          "snippet": "all earthly defilements"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 28,
+          "snippet": "knowledge"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 122,
+          "snippet": "commentators"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 42,
+          "snippet": "banner"
+        }
+      ]
+    },
+    {
+      "term": "مَقامٌ",
+      "transliteration": "q-w-m",
+      "literal": "rising; standing; uprising; resurrection",
+      "se_rendering": "station",
+      "note": "Root typically yields 'Resurrection' or 'Day' (109 occ); here 'station' emphasizes spiritual rank and standing rather than eschatological event, fitting the devotional context.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 152,
+          "snippet": "Day of Resurrection"
+        },
+        {
+          "work": "gleanings",
+          "para": 437,
+          "snippet": "arise"
+        },
+        {
+          "work": "gleanings",
+          "para": 513,
+          "snippet": "dedicateth"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 153,
+          "snippet": "Resurrection"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 74,
+          "snippet": "rise"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "peoples"
+        },
+        {
+          "work": "gleanings",
+          "para": 693,
+          "snippet": "commandments"
+        },
+        {
+          "work": "gleanings",
+          "para": 628,
+          "snippet": "My commandments"
+        }
+      ]
+    },
+    {
+      "term": "أَمْرِكَ",
+      "transliteration": "ʾ-m-r",
+      "literal": "command; cause; matter; affair",
+      "se_rendering": "Cause",
+      "note": "Consistently rendered 'Cause' (75 occ) throughout the corpus; SE maintains this usage, treating it as a proper noun for the divine purpose or revelation.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "His Cause"
+        },
+        {
+          "work": "gleanings",
+          "para": 586,
+          "snippet": "His command"
+        },
+        {
+          "work": "gleanings",
+          "para": 691,
+          "snippet": "His Revelation"
+        },
+        {
+          "work": "gleanings",
+          "para": 723,
+          "snippet": "Cause"
+        },
+        {
+          "work": "gleanings",
+          "para": 8,
+          "snippet": "Revelation"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 167,
+          "snippet": "things"
+        },
+        {
+          "work": "gleanings",
+          "para": 524,
+          "snippet": "your affairs"
+        },
+        {
+          "work": "gleanings",
+          "para": 495,
+          "snippet": "affairs"
+        }
+      ]
+    },
+    {
+      "term": "كَلِمَتِكَ",
+      "transliteration": "k-l-m",
+      "literal": "words; utterances; locutions",
+      "se_rendering": "word",
+      "note": "Root word typically 'words' or 'His Word' (58 occ); here singular 'word' suggests a unified divine utterance central to exaltation and proclamation.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 6,
+          "snippet": "words"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 38,
+          "snippet": "His Word"
+        },
+        {
+          "work": "gleanings",
+          "para": 353,
+          "snippet": "the Word of God"
+        },
+        {
+          "work": "gleanings",
+          "para": 603,
+          "snippet": "a jewel"
+        },
+        {
+          "work": "gleanings",
+          "para": 441,
+          "snippet": "a word"
+        },
+        {
+          "work": "gleanings",
+          "para": 689,
+          "snippet": "the sayings"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 48,
+          "snippet": "Thy Word"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 2,
+          "snippet": "the Word"
+        }
+      ]
+    },
+    {
+      "term": "خَلْقِكَ",
+      "transliteration": "kh-l-q",
+      "literal": "character; moral traits; disposition; conduct",
+      "se_rendering": "creatures",
+      "note": "Root denotes 'character' or 'spiritual characteristics' (49 occ); here 'creatures' reflects the direct object sense, creatures as the recipients of divine praise.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 28,
+          "snippet": "character"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 50,
+          "snippet": "spiritual characteristics"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 195,
+          "snippet": "virtues"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 54,
+          "snippet": "created her"
+        },
+        {
+          "work": "gleanings",
+          "para": 451,
+          "snippet": "His Apostle"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 2,
+          "snippet": "His creation"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 40,
+          "snippet": "wert created"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 23,
+          "snippet": "created thee"
+        }
+      ]
+    },
+    {
+      "term": "المُقْتَدِرُ",
+      "transliteration": "q-d-r",
+      "literal": "power; might; decree; measure; worth",
+      "se_rendering": "Almighty",
+      "note": "Usually 'power,' 'might,' or 'decreed' (100 occ); here rendered 'Almighty,' a standard divine attribute epithet distinctly different from causal/decretal senses.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 171,
+          "snippet": "a while"
+        },
+        {
+          "work": "gleanings",
+          "para": 138,
+          "snippet": "hath been decreed"
+        },
+        {
+          "work": "gleanings",
+          "para": 662,
+          "snippet": "hath decreed"
+        },
+        {
+          "work": "gleanings",
+          "para": 496,
+          "snippet": "forbearing towards"
+        },
+        {
+          "work": "gleanings",
+          "para": 111,
+          "snippet": "schools"
+        },
+        {
+          "work": "gleanings",
+          "para": 532,
+          "snippet": "can"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 4,
+          "snippet": "for a moment"
+        },
+        {
+          "work": "gleanings",
+          "para": 112,
+          "snippet": "Thy might"
+        }
+      ]
+    },
+    {
+      "term": "الْكَرِيمُ",
+      "transliteration": "k-r-m",
+      "literal": "Carmel (Mount Carmel); vineyard, fruitful field",
+      "se_rendering": "Most Generous",
+      "note": "Root suggests 'Carmel' or 'bounteous' (21 occ); here SE selects 'Most Generous,' the virtue form, complementing 'Ever-Forgiving' in the closing doxology.",
+      "cross_refs": [
+        {
+          "work": "tablet-of-carmel",
+          "para": 4,
+          "snippet": "O Carmel"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 211,
+          "snippet": "Carmel"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 50,
+          "snippet": "the All-Bountiful"
+        },
+        {
+          "work": "gleanings",
+          "para": 234,
+          "snippet": "of immense bounteous grace"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 26,
+          "snippet": "the Gracious"
+        },
+        {
+          "work": "gleanings",
+          "para": 608,
+          "snippet": "the All-Forgiving, the Gracious"
+        },
+        {
+          "work": "gleanings",
+          "para": 642,
+          "snippet": "the Mighty, the Generous"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 144,
+          "snippet": "generosity"
+        }
+      ]
+    }
+  ],
+  "section_index": "XLIV.4",
+  "section": "XLIV",
+  "section_para": 4
 }

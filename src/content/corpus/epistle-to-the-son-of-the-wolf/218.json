@@ -1,10 +1,594 @@
 {
   "work": "Epistle to the Son of the Wolf",
   "slug": "epistle-to-the-son-of-the-wolf",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 218,
   "source_text": "و همچنين در لوح فؤاد و لوح پاريس و الواح اخری نازل شده انچه که هر صاحب انصافی شهادت ميدهد بر قدرت و عظمت و علم حقّ جلّ جلاله * اگر بعدل ملاحظه نمايند بر سرّ اين ايه مبارکه ﴿لَا رَطْبٍ وَ لَا يَابِسٍ إِلَّا فِی کِتَابٍ مُبِينٍ﴾ اگاه ميشوند و ادراک مينمايند * و لکنّ اليوم منع النّاس اعراضهم عن ادراک ما نزّل بالحقّ من لدن منزل قديم * سبحان اللّه آيات باهرات از جميع جهات احاطه نموده مع ذلک اکثری از عباد از مشاهده و اگاهی ان محرومند * از حقّ ميطلبم توفيق عطا فرمايد تا جميع بر لالی مستوره در اصداف بحر اعظم اگاه شوند و به لک الحمد يا اله العالم ناطق گردند *",
   "translation": "And likewise, in the Lawh-i-Fu'ad, and in the Tablet of the King of Paris (Napoleon III), and in other Tablets, there hath been revealed that which will lead every fair-minded person to testify unto the power, and the majesty, and the wisdom of God - exalted be His glory. Were men to observe with the eye of justice, they would be made aware of the secret of this blessed verse: \"Neither is there a thing green or sere, but it is noted in a distinct writing,\" and would comprehend it. On this day, however, men's repudiation of the truth hath prevented them from understanding what hath been sent down in truth by Him Who is the Revealer, the Ancient of Days. Gracious God! Perspicuous signs have appeared on every side, and yet men are, for the most part, deprived of the privilege of beholding and of comprehending them. We beseech God to bestow His aid, that all men may recognize the pearls that lie hid within the shells of the Most Great Ocean, and exclaim: \"Praised be Thou, O God of the world!\"",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "pearls-hidden-shells-ocean",
+  "alignment": [
+    {
+      "ar": "همچنين",
+      "en": "likewise"
+    },
+    {
+      "ar": "لوح",
+      "en": "Lawh"
+    },
+    {
+      "ar": "فؤاد",
+      "en": "Fu'ad"
+    },
+    {
+      "ar": "لوح",
+      "en": "Tablet"
+    },
+    {
+      "ar": "پاريس",
+      "en": "Paris"
+    },
+    {
+      "ar": "الواح",
+      "en": "Tablets"
+    },
+    {
+      "ar": "اخری",
+      "en": "other"
+    },
+    {
+      "ar": "نازل",
+      "en": "revealed"
+    },
+    {
+      "ar": "شده",
+      "en": "been"
+    },
+    {
+      "ar": "انچه",
+      "en": "that which"
+    },
+    {
+      "ar": "هر",
+      "en": "every"
+    },
+    {
+      "ar": "صاحب",
+      "en": "fair-minded"
+    },
+    {
+      "ar": "انصافی",
+      "en": "person"
+    },
+    {
+      "ar": "شهادت",
+      "en": "testify"
+    },
+    {
+      "ar": "ميدهد",
+      "en": "lead"
+    },
+    {
+      "ar": "قدرت",
+      "en": "power"
+    },
+    {
+      "ar": "عظمت",
+      "en": "majesty"
+    },
+    {
+      "ar": "علم",
+      "en": "wisdom"
+    },
+    {
+      "ar": "حقّ",
+      "en": "God"
+    },
+    {
+      "ar": "جلّ جلاله",
+      "en": "exalted be His glory"
+    },
+    {
+      "ar": "بعدل",
+      "en": "with the eye of justice"
+    },
+    {
+      "ar": "ملاحظه",
+      "en": "observe"
+    },
+    {
+      "ar": "سرّ",
+      "en": "secret"
+    },
+    {
+      "ar": "ايه",
+      "en": "verse"
+    },
+    {
+      "ar": "مبارکه",
+      "en": "blessed"
+    },
+    {
+      "ar": "اگاه",
+      "en": "aware"
+    },
+    {
+      "ar": "ميشوند",
+      "en": "made"
+    },
+    {
+      "ar": "ادراک",
+      "en": "comprehend"
+    },
+    {
+      "ar": "مينمايند",
+      "en": "would"
+    },
+    {
+      "ar": "لکنّ",
+      "en": "however"
+    },
+    {
+      "ar": "اليوم",
+      "en": "On this day"
+    },
+    {
+      "ar": "منع",
+      "en": "prevented"
+    },
+    {
+      "ar": "النّاس",
+      "en": "men"
+    },
+    {
+      "ar": "اعراضهم",
+      "en": "repudiation"
+    },
+    {
+      "ar": "ادراک",
+      "en": "understanding"
+    },
+    {
+      "ar": "ما",
+      "en": "what"
+    },
+    {
+      "ar": "نزّل",
+      "en": "sent down"
+    },
+    {
+      "ar": "بالحقّ",
+      "en": "in truth"
+    },
+    {
+      "ar": "لدن",
+      "en": "by"
+    },
+    {
+      "ar": "منزل",
+      "en": "Revealer"
+    },
+    {
+      "ar": "قديم",
+      "en": "Ancient of Days"
+    },
+    {
+      "ar": "سبحان اللّه",
+      "en": "Gracious God"
+    },
+    {
+      "ar": "آيات",
+      "en": "signs"
+    },
+    {
+      "ar": "باهرات",
+      "en": "Perspicuous"
+    },
+    {
+      "ar": "جهات",
+      "en": "side"
+    },
+    {
+      "ar": "احاطه",
+      "en": "appeared"
+    },
+    {
+      "ar": "نموده",
+      "en": "have"
+    },
+    {
+      "ar": "مع ذلک",
+      "en": "and yet"
+    },
+    {
+      "ar": "اکثری",
+      "en": "for the most part"
+    },
+    {
+      "ar": "مشاهده",
+      "en": "beholding"
+    },
+    {
+      "ar": "اگاهی",
+      "en": "comprehending"
+    },
+    {
+      "ar": "محرومند",
+      "en": "deprived"
+    },
+    {
+      "ar": "ميطلبم",
+      "en": "beseech"
+    },
+    {
+      "ar": "توفيق",
+      "en": "aid"
+    },
+    {
+      "ar": "عطا",
+      "en": "bestow"
+    },
+    {
+      "ar": "فرمايد",
+      "en": "may"
+    },
+    {
+      "ar": "جميع",
+      "en": "all"
+    },
+    {
+      "ar": "لالی",
+      "en": "pearls"
+    },
+    {
+      "ar": "مستوره",
+      "en": "hid"
+    },
+    {
+      "ar": "اصداف",
+      "en": "shells"
+    },
+    {
+      "ar": "بحر اعظم",
+      "en": "Most Great Ocean"
+    },
+    {
+      "ar": "اگاه",
+      "en": "recognize"
+    },
+    {
+      "ar": "به",
+      "en": "exclaim"
+    },
+    {
+      "ar": "الحمد",
+      "en": "Praised"
+    },
+    {
+      "ar": "اله العالم",
+      "en": "God of the world"
+    },
+    {
+      "ar": "ناطق",
+      "en": "Thou"
+    },
+    {
+      "ar": "گردند",
+      "en": "be"
+    }
+  ],
+  "terms": [
+    {
+      "term": "شهادت",
+      "transliteration": "sh-h-d",
+      "literal": "witnessed; observed; seen; evident; manifest",
+      "se_rendering": "testify",
+      "note": "Root ش-ه-د usually 'manifest' or 'evident' (74 occ). 'Testify' here captures the active witnessing sense required by the context of fair-minded observers.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 607,
+          "snippet": "manifest"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 35,
+          "snippet": "evident"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 811,
+          "snippet": "I bear witness"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 836,
+          "snippet": "I testify"
+        },
+        {
+          "work": "gleanings",
+          "para": 298,
+          "snippet": "witness"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 138,
+          "snippet": "martyrdom"
+        },
+        {
+          "work": "gleanings",
+          "para": 134,
+          "snippet": "God witnesseth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 230,
+          "snippet": "God testifieth"
+        }
+      ]
+    },
+    {
+      "term": "عظمت",
+      "transliteration": "ʿ-z̟-m",
+      "literal": "greatest; supreme; mightiest",
+      "se_rendering": "majesty",
+      "note": "Root ع-ظ-م standardly 'Most Great' (63 occ). SE renders 'majesty' here, selecting the grandeur sense over the superlative form typical elsewhere.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 56,
+          "snippet": "supreme"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 269,
+          "snippet": "Most Great"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 734,
+          "snippet": "Most Great Name"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 3,
+          "snippet": "greatest"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 6,
+          "snippet": "greater"
+        },
+        {
+          "work": "gleanings",
+          "para": 10,
+          "snippet": "most mighty"
+        },
+        {
+          "work": "gleanings",
+          "para": 392,
+          "snippet": "great"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 9,
+          "snippet": "mighty"
+        }
+      ]
+    },
+    {
+      "term": "علم",
+      "transliteration": "ʿ-l-m",
+      "literal": "world; universe; the worlds",
+      "se_rendering": "wisdom",
+      "note": "Root ع-ل-م most commonly 'world' or 'mankind' (141 occ). Rendered 'wisdom' here, aligning with its role in the triad 'power, majesty, and wisdom' describing divine attributes.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 198,
+          "snippet": "world"
+        },
+        {
+          "work": "gleanings",
+          "para": 657,
+          "snippet": "all worlds"
+        },
+        {
+          "work": "gleanings",
+          "para": 182,
+          "snippet": "mankind"
+        },
+        {
+          "work": "gleanings",
+          "para": 183,
+          "snippet": "the whole world"
+        },
+        {
+          "work": "gleanings",
+          "para": 226,
+          "snippet": "all earthly defilements"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 76,
+          "snippet": "Knowledge"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 122,
+          "snippet": "commentators"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 42,
+          "snippet": "banner"
+        }
+      ]
+    },
+    {
+      "term": "مبارکه",
+      "transliteration": "b-r-k",
+      "literal": "blessed; auspicious; fruitful",
+      "se_rendering": "blessed",
+      "note": "Root ب-ر-ك appears 38 times. 'Blessed' is the most frequent rendering; here it directly qualifies the Qur'anic verse, maintaining semantic clarity.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 210,
+          "snippet": "blessed"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 57,
+          "snippet": "hallowed"
+        },
+        {
+          "work": "gleanings",
+          "para": 232,
+          "snippet": "shining"
+        },
+        {
+          "work": "gleanings",
+          "para": 726,
+          "snippet": "holy"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 16,
+          "snippet": "Sacred"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 2,
+          "snippet": "blest"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 27,
+          "snippet": "blessing"
+        },
+        {
+          "work": "tablet-of-carmel",
+          "para": 5,
+          "snippet": "Sanctified be"
+        }
+      ]
+    },
+    {
+      "term": "اعراضهم",
+      "transliteration": "ʿ-r-d",
+      "literal": "to turn away; to avert; to abstain; heedless",
+      "se_rendering": "repudiation",
+      "note": "Root ع-ر-ض typically 'turned away' (47 occ). 'Repudiation' here intensifies the semantic force, conveying deliberate rejection rather than mere aversion.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 182,
+          "snippet": "turned away"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 505,
+          "snippet": "turned their backs"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 89,
+          "snippet": "objections"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 431,
+          "snippet": "have turned back"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 104,
+          "snippet": "are turned back"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 14,
+          "snippet": "turns away"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 487,
+          "snippet": "turned back"
+        },
+        {
+          "work": "gleanings",
+          "para": 108,
+          "snippet": "rejection"
+        }
+      ]
+    },
+    {
+      "term": "محرومند",
+      "transliteration": "h-r-m",
+      "literal": "sanctity, inviolability, dignity, honor, respect",
+      "se_rendering": "deprived",
+      "note": "Root ح-ر-م usually involves 'sanctity' or negation (25 occ). 'Deprived' renders the passive voice sense, emphasizing loss of privilege rather than violation of inviolability.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 216,
+          "snippet": "thy sanctity"
+        },
+        {
+          "work": "gleanings",
+          "para": 215,
+          "snippet": "thy right"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 191,
+          "snippet": "Deny me not"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 293,
+          "snippet": "withhold not from me"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 23,
+          "snippet": "depriveth himself"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 785,
+          "snippet": "Thy Cause"
+        },
+        {
+          "work": "gleanings",
+          "para": 507,
+          "snippet": "violated our honor"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 484,
+          "snippet": "suffer not yourselves to be kept back"
+        }
+      ]
+    },
+    {
+      "term": "لالی",
+      "transliteration": "l-ʾ-l",
+      "literal": "pearls; gems; precious things",
+      "se_rendering": "pearls",
+      "note": "Not a root in the concordance; a rare poetic term for pearls, rendered literally to preserve the extended metaphor of hidden treasures within the ocean.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 67,
+          "snippet": "pearls"
+        }
+      ]
+    }
+  ],
+  "section_index": "218",
+  "section": "218",
+  "section_para": 1
 }

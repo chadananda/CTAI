@@ -1,10 +1,395 @@
 {
   "work": "Kitab-i-Iqan",
   "slug": "kitab-i-iqan",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 30,
   "source_text": "حال اگر مقصود از اين ضيق را همچو ادراک نمايند که عالم ضيق به هم رساند و يا امورات ديگر که به خيال خود توهّم نمايند هرگز مشهود نگردد و البتّه گويند که اين شرط ظهور نيافته چنانچه گفتهاند و می گويند.  باری، مقصود از ضيق، ضيق از معارف الهيّه و ادراک کلمات ربّانيّه است که در ايّام غروب شمس و مرايای او عباد در تنگی و سختی افتند و ندانند به که توجّه نمايند چنانچه مذکور شد.  کَذلکَ نُعَلِّمُکَ مِن تَأويلِ الاَحاديثِ وَ نُلقی عَلَيکَ مِن اَسرارِ الحِکمَةِ لِتَطَّلِعَ بِما هُو المَقصودُ وَ تَکُونَ مِنَ الّذينَ هُم شَرِبُوا مِن کَأسِ العلمِ و العِرفان.  و قوله:  \"تُظلَمُ الشَّمسُ وَالقَمَرُ لا يُعطی ضَوءَهُ وَ الکَواکبُ تَتَساقَطُ مِنَ السَّماء.\"",
   "translation": "Were this “oppression” (which literally meaneth pressure) to be interpreted that the earth is to become contracted, or were men’s idle fancy to conceive similar calamities to befall mankind, it is clear and manifest that no such happenings can ever come to pass. They will assuredly protest that this pre-requisite of divine revelation hath not been made manifest. Such hath been and still is their contention. Whereas, by “oppression” is meant the want of capacity to acquire spiritual knowledge and apprehend the Word of God. By it is meant that when the Day-star of Truth hath set, and the mirrors that reflect His light have departed, mankind will become afflicted with “oppression” and hardship, knowing not whither to turn for guidance. Thus We instruct thee in the interpretation of the traditions, and reveal unto thee the mysteries of divine wisdom, that haply thou mayest comprehend the meaning thereof, and be of them that have quaffed the cup of divine knowledge and understanding.",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "oppression-want-spiritual-knowledge",
+  "alignment": [
+    {
+      "ar": "حال",
+      "en": "Whereas"
+    },
+    {
+      "ar": "اگر",
+      "en": "Were"
+    },
+    {
+      "ar": "مقصود",
+      "en": "meaning"
+    },
+    {
+      "ar": "از",
+      "en": "by"
+    },
+    {
+      "ar": "اين",
+      "en": "this"
+    },
+    {
+      "ar": "ضيق",
+      "en": "oppression"
+    },
+    {
+      "ar": "همچو",
+      "en": "similar"
+    },
+    {
+      "ar": "ادراک",
+      "en": "interpreted"
+    },
+    {
+      "ar": "نمايند",
+      "en": "to be"
+    },
+    {
+      "ar": "که",
+      "en": "that"
+    },
+    {
+      "ar": "عالم",
+      "en": "the earth"
+    },
+    {
+      "ar": "ضيق",
+      "en": "contracted"
+    },
+    {
+      "ar": "به هم رساند",
+      "en": "to become"
+    },
+    {
+      "ar": "يا",
+      "en": "or"
+    },
+    {
+      "ar": "امورات",
+      "en": "calamities"
+    },
+    {
+      "ar": "خيال",
+      "en": "fancy"
+    },
+    {
+      "ar": "توهّم",
+      "en": "conceive"
+    },
+    {
+      "ar": "هرگز",
+      "en": "ever"
+    },
+    {
+      "ar": "مشهود",
+      "en": "come to pass"
+    },
+    {
+      "ar": "نگردد",
+      "en": "no such happenings can"
+    },
+    {
+      "ar": "البتّه",
+      "en": "assuredly"
+    },
+    {
+      "ar": "گويند",
+      "en": "protest"
+    },
+    {
+      "ar": "شرط",
+      "en": "pre-requisite"
+    },
+    {
+      "ar": "ظهور",
+      "en": "divine revelation"
+    },
+    {
+      "ar": "نيافته",
+      "en": "hath not been made manifest"
+    },
+    {
+      "ar": "چنانچه",
+      "en": "Such"
+    },
+    {
+      "ar": "گفتهاند",
+      "en": "hath been"
+    },
+    {
+      "ar": "می گويند",
+      "en": "still is their contention"
+    },
+    {
+      "ar": "مقصود",
+      "en": "is meant"
+    },
+    {
+      "ar": "ضيق",
+      "en": "want"
+    },
+    {
+      "ar": "معارف",
+      "en": "knowledge"
+    },
+    {
+      "ar": "الهيّه",
+      "en": "spiritual"
+    },
+    {
+      "ar": "ادراک",
+      "en": "acquire"
+    },
+    {
+      "ar": "کلمات",
+      "en": "the Word"
+    },
+    {
+      "ar": "ربّانيّه",
+      "en": "of God"
+    },
+    {
+      "ar": "ايّام",
+      "en": "the Day"
+    },
+    {
+      "ar": "غروب",
+      "en": "set"
+    },
+    {
+      "ar": "شمس",
+      "en": "Day-star of Truth"
+    },
+    {
+      "ar": "مرايای",
+      "en": "mirrors"
+    },
+    {
+      "ar": "او",
+      "en": "His"
+    },
+    {
+      "ar": "عباد",
+      "en": "mankind"
+    },
+    {
+      "ar": "سختی",
+      "en": "hardship"
+    },
+    {
+      "ar": "افتند",
+      "en": "become afflicted"
+    },
+    {
+      "ar": "ندانند",
+      "en": "knowing not"
+    },
+    {
+      "ar": "به که",
+      "en": "whither"
+    },
+    {
+      "ar": "توجّه",
+      "en": "to turn"
+    },
+    {
+      "ar": "نمايند",
+      "en": "for guidance"
+    },
+    {
+      "ar": "چنانچه",
+      "en": "Thus"
+    },
+    {
+      "ar": "مذکور",
+      "en": "instruct"
+    },
+    {
+      "ar": "شد",
+      "en": "thee"
+    },
+    {
+      "ar": "تَأويلِ",
+      "en": "the interpretation"
+    },
+    {
+      "ar": "الاَحاديثِ",
+      "en": "of the traditions"
+    },
+    {
+      "ar": "نُلقی",
+      "en": "reveal"
+    },
+    {
+      "ar": "عَلَيکَ",
+      "en": "unto thee"
+    },
+    {
+      "ar": "اَسرارِ",
+      "en": "the mysteries"
+    },
+    {
+      "ar": "الحِکمَةِ",
+      "en": "of divine wisdom"
+    },
+    {
+      "ar": "بِما",
+      "en": "the meaning thereof"
+    },
+    {
+      "ar": "هُو",
+      "en": "thereof"
+    },
+    {
+      "ar": "المَقصودُ",
+      "en": "the meaning"
+    },
+    {
+      "ar": "تَکُونَ",
+      "en": "be"
+    },
+    {
+      "ar": "الّذينَ",
+      "en": "them that"
+    },
+    {
+      "ar": "شَرِبُوا",
+      "en": "have quaffed"
+    },
+    {
+      "ar": "کَأسِ",
+      "en": "the cup"
+    },
+    {
+      "ar": "العلمِ",
+      "en": "of divine knowledge"
+    },
+    {
+      "ar": "العِرفان",
+      "en": "and understanding"
+    },
+    {
+      "ar": "لا",
+      "en": "not"
+    },
+    {
+      "ar": "يُعطی",
+      "en": "departed"
+    },
+    {
+      "ar": "ضَوءَهُ",
+      "en": "reflect His light"
+    },
+    {
+      "ar": "تَتَساقَطُ",
+      "en": "fall"
+    }
+  ],
+  "terms": [
+    {
+      "term": "ضيق",
+      "transliteration": "t-n-j",
+      "literal": "narrow; tight; strait; oppression; distress",
+      "se_rendering": "oppression",
+      "note": "Typically rendered as 'straitness' or 'constraint' (noun form). SE here translates as 'oppression,' then parenthetically clarifies '(which literally meaneth pressure)' to bridge the literal-spiritual semantic gap.",
+      "cross_refs": []
+    },
+    {
+      "term": "مرایای",
+      "transliteration": "r-ʿ-y",
+      "literal": "to guard, watch over, regard, heed, respect, maintain",
+      "se_rendering": "mirrors that reflect His light",
+      "note": "Jafar shows root ر-ع-ي renders as 'returned,' 'shepherds,' 'habitations.' SE's 'mirrors that reflect His light' is entirely metaphorical—no literal lexical basis—revealing SE's allegorical interpretive method.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 240,
+          "snippet": "returned"
+        },
+        {
+          "work": "gleanings",
+          "para": 245,
+          "snippet": "shall return"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 199,
+          "snippet": "will exalt them"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 55,
+          "snippet": "will profit"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 90,
+          "snippet": "shepherds"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 211,
+          "snippet": "habitations of the shepherds"
+        },
+        {
+          "work": "gleanings",
+          "para": 121,
+          "snippet": "mirrors"
+        }
+      ]
+    },
+    {
+      "term": "العرفان",
+      "transliteration": "ʿ-r-f",
+      "literal": "to confess; to acknowledge; to recognize",
+      "se_rendering": "understanding",
+      "note": "Root ع-ر-ف typically 'testify/acknowledge/recognize' per Jafar (82 occ). SE renders here as 'understanding,' emphasizing epistemological mastery over relational recognition, aligning with the knowledge-acquisition theme.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 601,
+          "snippet": "testifieth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 729,
+          "snippet": "hath acknowledged"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 582,
+          "snippet": "have recognized"
+        },
+        {
+          "work": "gleanings",
+          "para": 568,
+          "snippet": "acknowledged"
+        },
+        {
+          "work": "gleanings",
+          "para": 295,
+          "snippet": "made objections"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 744,
+          "snippet": "understanding"
+        },
+        {
+          "work": "gleanings",
+          "para": 87,
+          "snippet": "knowledge"
+        },
+        {
+          "work": "gleanings",
+          "para": 2,
+          "snippet": "perception"
+        }
+      ]
+    }
+  ],
+  "section_index": "30",
+  "section": "30",
+  "section_para": 1
 }

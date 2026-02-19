@@ -1,10 +1,542 @@
 {
   "work": "Will and Testament",
   "slug": "will-and-testament",
-  "author": "'Abdu'l-Baha",
+  "author": "‘Abdu’l-Bahá",
   "pair_index": 1,
   "source_text": "حمداً لمن صان هیکل امره بدرع المیثاق عن سهام الشّبهات و حمی حمی شریعته السّمحآء و وقی محجّته البیضآء بجنود عهوده من هجوم عصبة ناقضة و ثلّة هادمة للبنیان و حرس الحصن الحصین و دینه المبین برجال لا تأخذهم لومة لائم و لا تلهیهم تجارة و لا عزّة و لا سلطة عن عهد اللّه و میثاقه الثّابت بآیات بیّنات من اثر القلم الأعلی فی لوح حفیظ",
   "translation": "All praise to Him Who, by the Shield of His Covenant, hath guarded the Temple of His Cause from the darts of doubtfulness; Who by the Hosts of His Testament hath preserved the Sanctuary of His Most Beneficent Law and protected His Straight and Luminous Path, staying thereby the onslaught of the company of Covenant-breakers, that have threatened to subvert His Divine Edifice; Who hath watched over His Mighty Stronghold and All-Glorious Faith, through the aid of men whom the slander of the slanderer affecteth not, whom no earthly calling, glory and power can turn aside from the Covenant of God and His Testament, established firmly by His clear and manifest words, writ and revealed by His All-Glorious Pen and recorded in the Preserved Tablet.",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "shield-covenant-temple-cause",
+  "alignment": [
+    {
+      "ar": "حمداً",
+      "en": "All praise"
+    },
+    {
+      "ar": "لمن",
+      "en": "to Him Who"
+    },
+    {
+      "ar": "صان",
+      "en": "hath guarded"
+    },
+    {
+      "ar": "هیکل",
+      "en": "the Temple"
+    },
+    {
+      "ar": "امره",
+      "en": "His Cause"
+    },
+    {
+      "ar": "بدرع",
+      "en": "by the Shield"
+    },
+    {
+      "ar": "المیثاق",
+      "en": "His Covenant"
+    },
+    {
+      "ar": "سهام",
+      "en": "the darts"
+    },
+    {
+      "ar": "الشّبهات",
+      "en": "doubtfulness"
+    },
+    {
+      "ar": "حمی",
+      "en": "hath preserved"
+    },
+    {
+      "ar": "حمی",
+      "en": "the Sanctuary"
+    },
+    {
+      "ar": "شریعته",
+      "en": "His"
+    },
+    {
+      "ar": "السّمحآء",
+      "en": "Most Beneficent Law"
+    },
+    {
+      "ar": "وقی",
+      "en": "protected"
+    },
+    {
+      "ar": "البیضآء",
+      "en": "Straight and Luminous Path"
+    },
+    {
+      "ar": "بجنود",
+      "en": "by the Hosts"
+    },
+    {
+      "ar": "عهوده",
+      "en": "His Testament"
+    },
+    {
+      "ar": "هجوم",
+      "en": "the onslaught"
+    },
+    {
+      "ar": "عصبة",
+      "en": "the company"
+    },
+    {
+      "ar": "ناقضة",
+      "en": "Covenant-breakers"
+    },
+    {
+      "ar": "ثلّة",
+      "en": "that"
+    },
+    {
+      "ar": "هادمة",
+      "en": "subvert"
+    },
+    {
+      "ar": "للبنیان",
+      "en": "His Divine Edifice"
+    },
+    {
+      "ar": "حرس",
+      "en": "hath watched over"
+    },
+    {
+      "ar": "الحصن الحصین",
+      "en": "His Mighty Stronghold"
+    },
+    {
+      "ar": "المبین",
+      "en": "All-Glorious Faith"
+    },
+    {
+      "ar": "برجال",
+      "en": "through the aid of men"
+    },
+    {
+      "ar": "تأخذهم",
+      "en": "affecteth"
+    },
+    {
+      "ar": "لومة",
+      "en": "the slander"
+    },
+    {
+      "ar": "لائم",
+      "en": "the slanderer"
+    },
+    {
+      "ar": "تلهیهم",
+      "en": "can turn aside"
+    },
+    {
+      "ar": "تجارة",
+      "en": "earthly calling"
+    },
+    {
+      "ar": "عزّة",
+      "en": "glory"
+    },
+    {
+      "ar": "سلطة",
+      "en": "power"
+    },
+    {
+      "ar": "عهد",
+      "en": "the Covenant"
+    },
+    {
+      "ar": "اللّه",
+      "en": "God"
+    },
+    {
+      "ar": "الثّابت",
+      "en": "established firmly"
+    },
+    {
+      "ar": "بآیات",
+      "en": "by His"
+    },
+    {
+      "ar": "بیّنات",
+      "en": "clear and manifest words"
+    },
+    {
+      "ar": "اثر",
+      "en": "writ"
+    },
+    {
+      "ar": "القلم الأعلی",
+      "en": "His All-Glorious Pen"
+    },
+    {
+      "ar": "لوح",
+      "en": "Tablet"
+    },
+    {
+      "ar": "حفیظ",
+      "en": "Preserved"
+    }
+  ],
+  "terms": [
+    {
+      "term": "هیکل",
+      "transliteration": "h-k-l",
+      "literal": "temple; structure; form; body",
+      "se_rendering": "Temple",
+      "note": "Typically 'Temple' in SE's corpus (20 occurrences). Consistently applied here in the metaphorical sense of the Cause's institutional structure.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 96,
+          "snippet": "Súratu'l-Haykal"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 10,
+          "snippet": "person"
+        },
+        {
+          "work": "gleanings",
+          "para": 168,
+          "snippet": "beauty of the immortal Being"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 154,
+          "snippet": "Being"
+        },
+        {
+          "work": "gleanings",
+          "para": 326,
+          "snippet": "human temple"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 15,
+          "snippet": "temple"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 28,
+          "snippet": "body"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 196,
+          "snippet": "temples"
+        }
+      ]
+    },
+    {
+      "term": "امره",
+      "transliteration": "ʾ-m-r",
+      "literal": "command; cause; matter; affair",
+      "se_rendering": "His Cause",
+      "note": "Most frequent rendering is 'His Cause' (75 occurrences). SE deploys this here to frame the divine will as an active, defensive entity requiring guardianship.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 586,
+          "snippet": "His command"
+        },
+        {
+          "work": "gleanings",
+          "para": 635,
+          "snippet": "His Cause"
+        },
+        {
+          "work": "gleanings",
+          "para": 691,
+          "snippet": "His Revelation"
+        },
+        {
+          "work": "gleanings",
+          "para": 723,
+          "snippet": "Cause"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 797,
+          "snippet": "Thy Cause"
+        },
+        {
+          "work": "gleanings",
+          "para": 8,
+          "snippet": "Revelation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 597,
+          "snippet": "service"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 167,
+          "snippet": "things"
+        }
+      ]
+    },
+    {
+      "term": "سهام",
+      "transliteration": "s-h-m",
+      "literal": "arrow; dart; shaft; portion; share",
+      "se_rendering": "darts",
+      "note": "Usually 'arrows' or 'darts' (11 occurrences). 'Darts' selected here for metrical elegance in the Shield-Covenant metaphor; less martial than 'arrows.'",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 426,
+          "snippet": "arrows"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 405,
+          "snippet": "darts"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 604,
+          "snippet": "for the darts of Thine adversaries"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 304,
+          "snippet": "for the arrows of destiny"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 387,
+          "snippet": "for the arrows of afflictions"
+        }
+      ]
+    },
+    {
+      "term": "الشبهات",
+      "transliteration": "sh-b-h",
+      "literal": "doubt; uncertainty; suspicion; resemblance; semblance",
+      "se_rendering": "doubtfulness",
+      "note": "Primarily 'doubt' or 'doubtfulness' (30 occurrences). SE chooses the noun form 'doubtfulness' rather than plural 'doubts' to emphasize the abstract danger.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 159,
+          "snippet": "doubt"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 387,
+          "snippet": "calumnies"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 311,
+          "snippet": "doubts"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 35,
+          "snippet": "night"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 126,
+          "snippet": "equal"
+        },
+        {
+          "work": "gleanings",
+          "para": 707,
+          "snippet": "comparisons"
+        },
+        {
+          "work": "gleanings",
+          "para": 568,
+          "snippet": "the like of which"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 170,
+          "snippet": "confounded"
+        }
+      ]
+    },
+    {
+      "term": "ناقضة",
+      "transliteration": "n-q-d",
+      "literal": "breaker; violator; one who breaks (covenant); covenant-breaker",
+      "se_rendering": "Covenant-breakers",
+      "note": "Standard rendering is 'Covenant-breakers' (33 occurrences). Here employed as active participle to depict the breaking party as a militant threat, not merely as a designation.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 32,
+          "snippet": "imperfect"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 6,
+          "snippet": "broken"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 194,
+          "snippet": "breaking"
+        }
+      ]
+    },
+    {
+      "term": "دینه",
+      "transliteration": "d-y-n",
+      "literal": "religion; faith; creed",
+      "se_rendering": "Faith",
+      "note": "Equally splits between 'Faith' and 'His Cause' in corpus (45 occurrences). SE selects 'Faith' here for spiritual resonance over institutional terminology.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 18,
+          "snippet": "Faith"
+        },
+        {
+          "work": "gleanings",
+          "para": 436,
+          "snippet": "Religion"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 221,
+          "snippet": "Revelation"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 143,
+          "snippet": "and the like"
+        },
+        {
+          "work": "gleanings",
+          "para": 14,
+          "snippet": "without"
+        },
+        {
+          "work": "gleanings",
+          "para": 388,
+          "snippet": "apart from"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 52,
+          "snippet": "Dispensations"
+        },
+        {
+          "work": "gleanings",
+          "para": 174,
+          "snippet": "religions"
+        }
+      ]
+    },
+    {
+      "term": "القلم",
+      "transliteration": "q-l-m",
+      "literal": "pen; writing instrument",
+      "se_rendering": "His All-Glorious Pen",
+      "note": "Varies across 'the Pen of the Most High,' 'the Sublime Pen,' 'Pen of Glory' (25 occurrences). SE renders as 'His All-Glorious Pen' — unique superlative construction.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 100,
+          "snippet": "the Pen of the Most High"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 68,
+          "snippet": "the Pen of Glory"
+        },
+        {
+          "work": "gleanings",
+          "para": 619,
+          "snippet": "My Pen"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 182,
+          "snippet": "the Most Sublime Pen"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 257,
+          "snippet": "the pen of the Primal Point"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 30,
+          "snippet": "thine heart"
+        },
+        {
+          "work": "gleanings",
+          "para": 393,
+          "snippet": "Pen of the Most High"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 280,
+          "snippet": "Pen"
+        }
+      ]
+    },
+    {
+      "term": "حفیظ",
+      "transliteration": "h-f-z",
+      "literal": "guardian; preserver; keeper",
+      "se_rendering": "Preserved",
+      "note": "Root typically yields 'guardian,' 'guard,' 'Shield' (45 occurrences). SE uses passive 'Preserved' to mirror the protective covenant theology established at passage's opening.",
+      "cross_refs": [
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 22,
+          "snippet": "Guardian"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 193,
+          "snippet": "Keep"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 90,
+          "snippet": "Watch"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 102,
+          "snippet": "Preserve"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 625,
+          "snippet": "the Preserver"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 165,
+          "snippet": "protected"
+        },
+        {
+          "work": "gleanings",
+          "para": 265,
+          "snippet": "be sheltered"
+        },
+        {
+          "work": "gleanings",
+          "para": 300,
+          "snippet": "preserved"
+        }
+      ]
+    }
+  ],
+  "section_index": "1.1",
+  "section": "1",
+  "section_para": 1
 }

@@ -1,10 +1,504 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 31,
   "source_text": "عرشه وتشرّف بقدومه وفاز بلقائه وفيه ارتفع ندائه وصعدت زفراته يا كرمل بشّري صهيون قولي أتى المكنون بسلطان غلب العالم وبنور ساطع به أشرقت الأرض ومن عليها إِيَّاكِ أن تكوني متوقّفة في مقامك أسرعي ثمّ طوفي مدينة اللّه الّتي نزلت من السّماء وكعبة اللّه الّتي كانت مطاف المقرّبين والمخلصين والملائكة العالين وأحبّ أن أبشّر كلّ بقعة من بقاع الأرض وكلّ مدينة من مدائنها بهذا الظّهور الّذي به انجذب فؤاد الطّور ونادت السّدرة الملك والملكوت للّه ربّ الأرباب هذا يوم فيه بشّر البحر والبَرّ وأخبر بما يظهر من بعد من عنايات اللّه المكنونة المستورة عن العقول والأبصار سوف تجري سفينة اللّه عليكِ ويظهر أهل البهاء الّذين ذكرهم",
   "translation": "“Call out to Zion, O Carmel, and announce the joyful tidings: He that was hidden from mortal eyes is come! His all-conquering sovereignty is manifest; His all-encompassing splendor is revealed. Beware lest thou hesitate or halt. Hasten forth and circumambulate the City of God that hath descended from heaven, the celestial Kaaba round which have circled in adoration the favored of God, the pure in heart, and the company of the most exalted angels. Oh, how I long to announce unto every spot on the surface of the earth, and to carry to each one of its cities, the glad-tidings of this Revelation — a Revelation to which the heart of Sinai hath been attracted, and in whose name the Burning Bush is calling: ‘Unto God, the Lord of Lords, belong the kingdoms of earth and heaven.’ Verily this is the Day in which both land and sea rejoice at this announcement, the Day for which have been laid up those things which God, through a bounty beyond the ken of mortal mind or heart, hath destined for revelation. Erelong will God sail His Ark upon thee, and will manifest the people of Bahá who have been mentioned in the Book of Names.”",
   "source_lang": "ar",
-  "score": 9.3
+  "score": 9.3,
+  "page_slug": "hidden-come-all-conquering-sovereignty",
+  "alignment": [
+    {
+      "ar": "عرشه",
+      "en": "Carmel"
+    },
+    {
+      "ar": "تشرّف",
+      "en": "exalted"
+    },
+    {
+      "ar": "بقدومه",
+      "en": "is come"
+    },
+    {
+      "ar": "فاز",
+      "en": "favored"
+    },
+    {
+      "ar": "بلقائه",
+      "en": "manifest"
+    },
+    {
+      "ar": "ارتفع",
+      "en": "calling"
+    },
+    {
+      "ar": "ندائه",
+      "en": "announce"
+    },
+    {
+      "ar": "زفراته",
+      "en": "heart"
+    },
+    {
+      "ar": "بشّري",
+      "en": "announce the joyful tidings"
+    },
+    {
+      "ar": "صهيون",
+      "en": "Zion"
+    },
+    {
+      "ar": "قولي",
+      "en": "Call out"
+    },
+    {
+      "ar": "المكنون",
+      "en": "hidden"
+    },
+    {
+      "ar": "بسلطان",
+      "en": "sovereignty"
+    },
+    {
+      "ar": "غلب",
+      "en": "all-conquering"
+    },
+    {
+      "ar": "العالم",
+      "en": "mortal"
+    },
+    {
+      "ar": "بنور",
+      "en": "splendor"
+    },
+    {
+      "ar": "ساطع",
+      "en": "all-encompassing"
+    },
+    {
+      "ar": "أشرقت",
+      "en": "revealed"
+    },
+    {
+      "ar": "الأرض",
+      "en": "earth"
+    },
+    {
+      "ar": "تكوني",
+      "en": "thou"
+    },
+    {
+      "ar": "متوقّفة",
+      "en": "halt"
+    },
+    {
+      "ar": "مقامك",
+      "en": "hesitate"
+    },
+    {
+      "ar": "أسرعي",
+      "en": "Hasten forth"
+    },
+    {
+      "ar": "طوفي",
+      "en": "circumambulate"
+    },
+    {
+      "ar": "مدينة",
+      "en": "City"
+    },
+    {
+      "ar": "اللّه",
+      "en": "God"
+    },
+    {
+      "ar": "نزلت",
+      "en": "descended"
+    },
+    {
+      "ar": "السّماء",
+      "en": "heaven"
+    },
+    {
+      "ar": "كعبة",
+      "en": "Kaaba"
+    },
+    {
+      "ar": "مطاف",
+      "en": "circled"
+    },
+    {
+      "ar": "المقرّبين",
+      "en": "favored of God"
+    },
+    {
+      "ar": "المخلصين",
+      "en": "pure in heart"
+    },
+    {
+      "ar": "الملائكة",
+      "en": "angels"
+    },
+    {
+      "ar": "العالين",
+      "en": "most exalted"
+    },
+    {
+      "ar": "أحبّ",
+      "en": "long"
+    },
+    {
+      "ar": "بقعة",
+      "en": "spot"
+    },
+    {
+      "ar": "بقاع",
+      "en": "surface"
+    },
+    {
+      "ar": "مدينة",
+      "en": "cities"
+    },
+    {
+      "ar": "مدائنها",
+      "en": "each one"
+    },
+    {
+      "ar": "الظّهور",
+      "en": "Revelation"
+    },
+    {
+      "ar": "انجذب",
+      "en": "attracted"
+    },
+    {
+      "ar": "الطّور",
+      "en": "Sinai"
+    },
+    {
+      "ar": "السّدرة",
+      "en": "Burning Bush"
+    },
+    {
+      "ar": "الملك",
+      "en": "kingdoms"
+    },
+    {
+      "ar": "الملكوت",
+      "en": "earth and heaven"
+    },
+    {
+      "ar": "ربّ",
+      "en": "Lord"
+    },
+    {
+      "ar": "الأرباب",
+      "en": "Lords"
+    },
+    {
+      "ar": "يوم",
+      "en": "Day"
+    },
+    {
+      "ar": "بشّر",
+      "en": "rejoice"
+    },
+    {
+      "ar": "البحر",
+      "en": "sea"
+    },
+    {
+      "ar": "البَرّ",
+      "en": "land"
+    },
+    {
+      "ar": "أخبر",
+      "en": "announcement"
+    },
+    {
+      "ar": "يظهر",
+      "en": "revelation"
+    },
+    {
+      "ar": "عنايات",
+      "en": "bounty"
+    },
+    {
+      "ar": "المكنونة",
+      "en": "laid up"
+    },
+    {
+      "ar": "المستورة",
+      "en": "beyond the ken"
+    },
+    {
+      "ar": "العقول",
+      "en": "mind"
+    },
+    {
+      "ar": "سوف",
+      "en": "Erelong"
+    },
+    {
+      "ar": "تجري",
+      "en": "sail"
+    },
+    {
+      "ar": "سفينة",
+      "en": "Ark"
+    },
+    {
+      "ar": "عليكِ",
+      "en": "upon thee"
+    },
+    {
+      "ar": "أهل",
+      "en": "people"
+    },
+    {
+      "ar": "البهاء",
+      "en": "Bahá"
+    },
+    {
+      "ar": "ذكرهم",
+      "en": "mentioned"
+    }
+  ],
+  "terms": [
+    {
+      "term": "المكنون",
+      "transliteration": "k-n-n",
+      "literal": "to do; to make; to perform",
+      "se_rendering": "hidden from mortal eyes",
+      "note": "Typically 'hidden' or 'concealed' across 96+ occurrences of ظ-ه-ر root. SE's 'hidden from mortal eyes' emphasizes epistemological concealment from human perception rather than mere absence.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 136,
+          "snippet": "interpret"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 240,
+          "snippet": "observest"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 24,
+          "snippet": "wear the guise"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 110,
+          "snippet": "quench"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 8,
+          "snippet": "hid"
+        },
+        {
+          "work": "tablet-of-carmel",
+          "para": 5,
+          "snippet": "been wrapped"
+        },
+        {
+          "work": "tablet-of-carmel",
+          "para": 4,
+          "snippet": "hidden"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 9,
+          "snippet": "lieth concealed"
+        }
+      ]
+    },
+    {
+      "term": "المقرّبين",
+      "transliteration": "q-r-b",
+      "literal": "place of sacrifice; altar",
+      "se_rendering": "the favored of God",
+      "note": "ق-ر-ب root typically means 'draw near,' 'drawing nigh.' SE's 'favored of God' abandons proximity semantics entirely for hierarchical status—interpretive rather than literal.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 3,
+          "snippet": "unto the place of sacrifice"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 35,
+          "snippet": "my kindred"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 159,
+          "snippet": "their kindred"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 101,
+          "snippet": "draw near unto"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 430,
+          "snippet": "drawn nigh"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 98,
+          "snippet": "drawing near"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 245,
+          "snippet": "draweth near"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 163,
+          "snippet": "at hand"
+        }
+      ]
+    },
+    {
+      "term": "الظّهور",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "Revelation",
+      "note": "Core mystical term rendered 96 times as 'Manifestation' or 'manifestation.' Here 'Revelation' stresses disclosure of divine will over ontological appearance, reflecting Bahá'u'lláh's station.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 140,
+          "snippet": "manifestation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 160,
+          "snippet": "Author of all Manifestations"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 136,
+          "snippet": "evident"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 206,
+          "snippet": "appeared"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 196,
+          "snippet": "Manifestations of God"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 255,
+          "snippet": "Manifestations"
+        }
+      ]
+    },
+    {
+      "term": "المستورة",
+      "transliteration": "s-t-r",
+      "literal": "to veil; to conceal; to cover; veil; covering",
+      "se_rendering": "beyond the ken of mortal mind or heart",
+      "note": "From س-ت-ر root meaning 'conceal,' 'veil,' rendered 22 times. 'Beyond the ken of mortal mind or heart' expands to epistemological limitation; the original stresses concealment as state.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 8,
+          "snippet": "concealed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 17,
+          "snippet": "hidden"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 35,
+          "snippet": "star"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 46,
+          "snippet": "tabernacle"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 45,
+          "snippet": "Concealer"
+        }
+      ]
+    },
+    {
+      "term": "ذكرهم",
+      "transliteration": "dh-k-r",
+      "literal": "remembrance; mention; memory",
+      "se_rendering": "mentioned in the Book of Names",
+      "note": "Root ذ-ك-ر rendered 57 times as 'remembrance,' 'mention,' 'memory.' 'Mentioned in the Book of Names' shifts from passive recollection to active record-keeping, implies authoritative documentation.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 54,
+          "snippet": "mention"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 117,
+          "snippet": "Time and again have I declared"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 39,
+          "snippet": "deliberate"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 274,
+          "snippet": "aforementioned"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 112,
+          "snippet": "recorded"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 34,
+          "snippet": "confined in that"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 4,
+          "snippet": "mentioned"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 6,
+          "snippet": "to remember Thee"
+        }
+      ]
+    }
+  ],
+  "section_index": "XI.4",
+  "section": "XI",
+  "section_para": 4
 }

@@ -1,10 +1,375 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 50,
   "source_text": "ِذَيْلِ عِنايَتِكَ، يا مَنْ بِيَدِكَ مَلَكُوتُ الأَسْمآءِ فَارْحَمْنِي وَمَنْ مَعِي بِبَدائِعِ رَحْمَتِكَ وَقُوَّتِكَ، ثُمَّ احْفَظْنا يا إِلهِي مِنْ شَرِّ أَعْدائِكَ، ثُمَّ اجْعَلْنا ناصِرِينَ لِدِينِكَ وَحافِظِينَ لأَمْرِكَ وَناطِقِينَ بِثَنائِكَ، إِنَّكَ أَنْتَ الَّذِيْ لَمْ تَزَلْ كُنْتَ فِيْ عُلُوِّ تَوْحِيدِكَ وَلا تَزالُ تَكُونُ بِمِثْلِ ما قَدْ كُنْتَ، لا يَعْزُبُ عَنْ عِلْمِكَ مِنْ شَيْءٍ وَلا يُعْجِزُكَ مِنْ شَيْءٍ، لا إِلهَ إِلاَّ أَنْتَ المُقْتَدِرُ المُعْتَمَدُ المُتَعالِي الْعَزِيزُ الْمَحْبُوبُ، وَالْحَمْدُ",
   "translation": "Have mercy upon me and upon all them that are in my company, through the wonders of Thy grace and power. Shield us, then, O my God, from the mischief of Thine enemies, and assist us to help Thy Faith, and to protect Thy Cause, and to celebrate Thy glory. Thou art, verily, He Who from everlasting hath inhabited the inaccessible heights of His unity, and will continue to remain the same for ever and ever. Nothing whatsoever escapeth Thy knowledge, nor is there anything that can frustrate Thee. No God is there beside Thee, the Almighty, the Ever-Faithful, the Most Exalted, the All-Glorious, the Best-Beloved.",
   "source_lang": "ar",
-  "score": 9.6
+  "score": 9.6,
+  "page_slug": "almighty-ever-faithful-exalted",
+  "alignment": [
+    {
+      "ar": "عِنايَتِكَ",
+      "en": "Thy grace"
+    },
+    {
+      "ar": "فَارْحَمْنِي",
+      "en": "Have mercy upon me"
+    },
+    {
+      "ar": "مَعِي",
+      "en": "in my company"
+    },
+    {
+      "ar": "بِبَدائِعِ",
+      "en": "through the wonders"
+    },
+    {
+      "ar": "احْفَظْنا",
+      "en": "Shield us"
+    },
+    {
+      "ar": "إِلهِي",
+      "en": "my God"
+    },
+    {
+      "ar": "أَعْدائِكَ",
+      "en": "Thine enemies"
+    },
+    {
+      "ar": "اجْعَلْنا",
+      "en": "assist us"
+    },
+    {
+      "ar": "ناصِرِينَ",
+      "en": "to help"
+    },
+    {
+      "ar": "لِدِينِكَ",
+      "en": "Thy Faith"
+    },
+    {
+      "ar": "حافِظِينَ",
+      "en": "to protect"
+    },
+    {
+      "ar": "لأَمْرِكَ",
+      "en": "Thy Cause"
+    },
+    {
+      "ar": "ناطِقِينَ",
+      "en": "to celebrate"
+    },
+    {
+      "ar": "بِثَنائِكَ",
+      "en": "Thy glory"
+    },
+    {
+      "ar": "أَنْتَ",
+      "en": "He"
+    },
+    {
+      "ar": "لَمْ تَزَلْ كُنْتَ",
+      "en": "from everlasting hath inhabited"
+    },
+    {
+      "ar": "تَوْحِيدِكَ",
+      "en": "His unity"
+    },
+    {
+      "ar": "لا تَزالُ تَكُونُ",
+      "en": "will continue to remain"
+    },
+    {
+      "ar": "بِمِثْلِ ما قَدْ كُنْتَ",
+      "en": "the same for ever and ever"
+    },
+    {
+      "ar": "لا يَعْزُبُ",
+      "en": "Nothing whatsoever escapeth"
+    },
+    {
+      "ar": "عِلْمِكَ",
+      "en": "Thy knowledge"
+    },
+    {
+      "ar": "شَيْءٍ",
+      "en": "anything"
+    },
+    {
+      "ar": "لا يُعْجِزُكَ",
+      "en": "nor is there anything that can frustrate"
+    },
+    {
+      "ar": "المُقْتَدِرُ",
+      "en": "the Almighty"
+    },
+    {
+      "ar": "المُعْتَمَدُ",
+      "en": "the Ever-Faithful"
+    },
+    {
+      "ar": "المُتَعالِي",
+      "en": "the Most Exalted"
+    },
+    {
+      "ar": "الْعَزِيزُ",
+      "en": "the All-Glorious"
+    },
+    {
+      "ar": "الْمَحْبُوبُ",
+      "en": "the Best-Beloved"
+    }
+  ],
+  "terms": [
+    {
+      "term": "ملكوت",
+      "transliteration": "m-l-k",
+      "literal": "kingdom; dominion; realm; sovereignty",
+      "se_rendering": "kingdom",
+      "note": "Typically 'kingdom', 'realm', 'Kingdom' across 70 occurrences. Here unusually rendered with implicit 'of names' pairing—SE's sole instance linking dominion directly to the Names themselves.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-ahd",
+          "para": 16,
+          "snippet": "heaven"
+        },
+        {
+          "work": "gleanings",
+          "para": 394,
+          "snippet": "realm"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 171,
+          "snippet": "kingdom"
+        },
+        {
+          "work": "gleanings",
+          "para": 313,
+          "snippet": "heavenly gem"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 69,
+          "snippet": "realms"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 28,
+          "snippet": "righteous"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 167,
+          "snippet": "by the heavenly power"
+        },
+        {
+          "work": "gleanings",
+          "para": 59,
+          "snippet": "Lord"
+        }
+      ]
+    },
+    {
+      "term": "أعدائك",
+      "transliteration": "ʿ-d-w",
+      "literal": "hostility, aggression, enmity, transgression",
+      "se_rendering": "enemies",
+      "note": "Consistently rendered 'enemies' or 'Thine enemies' across 34 occurrences. This passage contains no deviation—direct protective supplication against adversaries.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 4,
+          "snippet": "hostility"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 53,
+          "snippet": "enemies of the Covenant"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 110,
+          "snippet": "his enemy"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 33,
+          "snippet": "Thy foes"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 35,
+          "snippet": "amongst mine enemies"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 100,
+          "snippet": "his enemies"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 52,
+          "snippet": "enemies"
+        },
+        {
+          "work": "gleanings",
+          "para": 184,
+          "snippet": "Mine enemies"
+        }
+      ]
+    },
+    {
+      "term": "توحيدك",
+      "transliteration": "w-h-d",
+      "literal": "Divine unity; monotheism; belief in the oneness of God",
+      "se_rendering": "unity",
+      "note": "Standard rendering 'unity' aligns with Jafar data pattern. 'Inaccessible heights of His unity' preserves the mystical verticality of الاsم while maintaining monotheistic doctrine.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 546,
+          "snippet": "unity"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 69,
+          "snippet": "Tawhid"
+        },
+        {
+          "work": "gleanings",
+          "para": 103,
+          "snippet": "oneness"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 682,
+          "snippet": "once"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 49,
+          "snippet": "alone"
+        },
+        {
+          "work": "gleanings",
+          "para": 386,
+          "snippet": "His oneness"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 249,
+          "snippet": "unique"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 1,
+          "snippet": "the One"
+        }
+      ]
+    },
+    {
+      "term": "المقتدر",
+      "transliteration": "q-d-r",
+      "literal": "power; might; decree; measure; worth",
+      "se_rendering": "Almighty",
+      "note": "Rendered 'Almighty' in this passage. Jafar shows 100 occurrences with wide variance; SE selected this superlative form to emphasize divine omnipotence in opening invocation.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 171,
+          "snippet": "a while"
+        },
+        {
+          "work": "gleanings",
+          "para": 138,
+          "snippet": "hath been decreed"
+        },
+        {
+          "work": "gleanings",
+          "para": 662,
+          "snippet": "hath decreed"
+        },
+        {
+          "work": "gleanings",
+          "para": 496,
+          "snippet": "forbearing towards"
+        },
+        {
+          "work": "gleanings",
+          "para": 111,
+          "snippet": "schools"
+        },
+        {
+          "work": "gleanings",
+          "para": 532,
+          "snippet": "can"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 4,
+          "snippet": "for a moment"
+        },
+        {
+          "work": "gleanings",
+          "para": 112,
+          "snippet": "Thy might"
+        }
+      ]
+    },
+    {
+      "term": "المحبوب",
+      "transliteration": "ḥ-b-b",
+      "literal": "love; affection",
+      "se_rendering": "Best-Beloved",
+      "note": "Final epithet as 'Best-Beloved' uniquely emphasizes reciprocal divine affection. Jafar shows 92 occurrences favoring 'beloved'—the superlative form occurs rarely and marks the passage's spiritual climax.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 3,
+          "snippet": "beloved of the Lord"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 53,
+          "snippet": "loved ones of the Lord"
+        },
+        {
+          "work": "gleanings",
+          "para": 341,
+          "snippet": "loved ones of God"
+        },
+        {
+          "work": "gleanings",
+          "para": 689,
+          "snippet": "beloved of the one true God"
+        },
+        {
+          "work": "gleanings",
+          "para": 640,
+          "snippet": "loved ones"
+        },
+        {
+          "work": "gleanings",
+          "para": 690,
+          "snippet": "beloved of God"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 39,
+          "snippet": "His loved ones"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 10,
+          "snippet": "love for Thee"
+        }
+      ]
+    }
+  ],
+  "section_index": "XVI.2",
+  "section": "XVI",
+  "section_para": 2
 }

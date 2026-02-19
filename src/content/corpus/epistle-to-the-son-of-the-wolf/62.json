@@ -1,10 +1,674 @@
 {
   "work": "Epistle to the Son of the Wolf",
   "slug": "epistle-to-the-son-of-the-wolf",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 62,
   "source_text": "سبحانک اللّهمّ يا الهی تری ما ورد علی المظلوم من الّذين ما عاشرونی و قاموا علی ضرّی و مسکنتي بحيث عجزت الاقلام عن ذکره و الألسن عن بيانه و الالواح عن حمله * تسمع حنين قلبی و ضجيج کينونتی و ما ورد علی امنائک فی بلادک و اصفيائک فی مملکتک من الّذين نقضوا عهدک و ميثاقک * ای ربّ اسالک بضجيج العشّاق فی الآفاق و بحنينهم فی بعدهم عن ساحة قربک و بالدّماء الّتی سفکت فی حبّک و بالاکباد الّتی ذابت فی سبيلک ان تحفظ اولياءک من ظلم الّذين غفلوا من اسرار اسمک المختار * ای ربّ ايّدهم بقدرتک الّتی غلبت الاشياء و وفّقهم علی الصّبر و الاصطبار انّک انت المقتدر العزيز الوهّاب * لا اله الّا انت الکريم الفيّاض",
   "translation": "Glorified art Thou, O Lord my God! Thou seest what hath befallen this Wronged One at the hands of them that have not associated with Me, and who have arisen to harm and abase Me, in a manner which no pen can describe, nor tongue recount, nor can any Tablet sustain its weight. Thou hearest the cry of Mine heart, and the groaning of Mine inmost being, and the things that have befallen Thy trusted ones in Thy cities and Thy chosen ones in Thy land, at the hands of such as have broken Thy Covenant and Thy Testament. I beseech Thee, O my Lord, by the sighs of Thy lovers throughout the world, and by their lamentation in their remoteness from the court of Thy presence, and by the blood that hath been shed for love of Thee, and by the hearts that have melted in Thy path, to protect Thy loved ones from the cruelty of such as have remained unaware of the mysteries of Thy Name, the Unconstrained. Assist them, O my Lord, by Thy power that hath prevailed over all things, and aid them to be patient and long-suffering. Thou art the All-Powerful, the Almighty, the All-Bountiful. No God is there but Thee, the Generous, the Lord of grace abounding.",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "wronged-one-cry-heart",
+  "alignment": [
+    {
+      "ar": "سبحانک",
+      "en": "Glorified art Thou"
+    },
+    {
+      "ar": "اللّهمّ",
+      "en": "O Lord"
+    },
+    {
+      "ar": "الهی",
+      "en": "my God"
+    },
+    {
+      "ar": "تری",
+      "en": "seest"
+    },
+    {
+      "ar": "ما",
+      "en": "what"
+    },
+    {
+      "ar": "ورد",
+      "en": "hath befallen"
+    },
+    {
+      "ar": "المظلوم",
+      "en": "this Wronged One"
+    },
+    {
+      "ar": "الّذين",
+      "en": "them that"
+    },
+    {
+      "ar": "ما عاشرونی",
+      "en": "have not associated with Me"
+    },
+    {
+      "ar": "قاموا",
+      "en": "have arisen"
+    },
+    {
+      "ar": "ضرّی",
+      "en": "harm"
+    },
+    {
+      "ar": "مسکنتي",
+      "en": "abase Me"
+    },
+    {
+      "ar": "بحيث",
+      "en": "in a manner which"
+    },
+    {
+      "ar": "عجزت",
+      "en": "no"
+    },
+    {
+      "ar": "الاقلام",
+      "en": "pen"
+    },
+    {
+      "ar": "ذکره",
+      "en": "describe"
+    },
+    {
+      "ar": "الألسن",
+      "en": "tongue"
+    },
+    {
+      "ar": "بيانه",
+      "en": "recount"
+    },
+    {
+      "ar": "الالواح",
+      "en": "Tablet"
+    },
+    {
+      "ar": "حمله",
+      "en": "sustain its weight"
+    },
+    {
+      "ar": "تسمع",
+      "en": "hearest"
+    },
+    {
+      "ar": "حنين",
+      "en": "cry"
+    },
+    {
+      "ar": "قلبی",
+      "en": "Mine heart"
+    },
+    {
+      "ar": "ضجيج",
+      "en": "groaning"
+    },
+    {
+      "ar": "کينونتی",
+      "en": "Mine inmost being"
+    },
+    {
+      "ar": "امنائک",
+      "en": "Thy trusted ones"
+    },
+    {
+      "ar": "بلادک",
+      "en": "Thy cities"
+    },
+    {
+      "ar": "اصفيائک",
+      "en": "Thy chosen ones"
+    },
+    {
+      "ar": "مملکتک",
+      "en": "Thy land"
+    },
+    {
+      "ar": "نقضوا",
+      "en": "have broken"
+    },
+    {
+      "ar": "عهدک",
+      "en": "Thy Covenant"
+    },
+    {
+      "ar": "ميثاقک",
+      "en": "Thy Testament"
+    },
+    {
+      "ar": "ربّ",
+      "en": "my Lord"
+    },
+    {
+      "ar": "اسالک",
+      "en": "beseech Thee"
+    },
+    {
+      "ar": "بضجيج",
+      "en": "by the sighs"
+    },
+    {
+      "ar": "العشّاق",
+      "en": "Thy lovers"
+    },
+    {
+      "ar": "الآفاق",
+      "en": "throughout the world"
+    },
+    {
+      "ar": "بحنينهم",
+      "en": "by their lamentation"
+    },
+    {
+      "ar": "بعدهم",
+      "en": "in their remoteness"
+    },
+    {
+      "ar": "ساحة قربک",
+      "en": "the court of Thy presence"
+    },
+    {
+      "ar": "بالدّماء",
+      "en": "by the blood"
+    },
+    {
+      "ar": "الّتی سفکت",
+      "en": "that hath been shed"
+    },
+    {
+      "ar": "حبّک",
+      "en": "love of Thee"
+    },
+    {
+      "ar": "بالاکباد",
+      "en": "by the hearts"
+    },
+    {
+      "ar": "ذابت",
+      "en": "have melted"
+    },
+    {
+      "ar": "سبيلک",
+      "en": "Thy path"
+    },
+    {
+      "ar": "تحفظ",
+      "en": "to protect"
+    },
+    {
+      "ar": "اولياءک",
+      "en": "Thy loved ones"
+    },
+    {
+      "ar": "ظلم",
+      "en": "the cruelty"
+    },
+    {
+      "ar": "غفلوا",
+      "en": "have remained unaware"
+    },
+    {
+      "ar": "اسرار",
+      "en": "the mysteries"
+    },
+    {
+      "ar": "اسمک المختار",
+      "en": "Thy Name, the Unconstrained"
+    },
+    {
+      "ar": "ايّدهم",
+      "en": "Assist them"
+    },
+    {
+      "ar": "بقدرتک",
+      "en": "by Thy power"
+    },
+    {
+      "ar": "غلبت",
+      "en": "hath prevailed over"
+    },
+    {
+      "ar": "الاشياء",
+      "en": "all things"
+    },
+    {
+      "ar": "وفّقهم",
+      "en": "aid them"
+    },
+    {
+      "ar": "الصّبر",
+      "en": "patient"
+    },
+    {
+      "ar": "الاصطبار",
+      "en": "long-suffering"
+    },
+    {
+      "ar": "انّک",
+      "en": "Thou art"
+    },
+    {
+      "ar": "المقتدر",
+      "en": "the All-Powerful"
+    },
+    {
+      "ar": "العزيز",
+      "en": "the Almighty"
+    },
+    {
+      "ar": "الوهّاب",
+      "en": "the All-Bountiful"
+    },
+    {
+      "ar": "لا اله الّا انت",
+      "en": "No God is there but Thee"
+    },
+    {
+      "ar": "الکريم",
+      "en": "the Generous"
+    },
+    {
+      "ar": "الفيّاض",
+      "en": "the Lord of grace abounding"
+    }
+  ],
+  "terms": [
+    {
+      "term": "المظلوم",
+      "transliteration": "z-l-m",
+      "literal": "wrongedness, oppression, meekness; state of being wronged or oppressed",
+      "se_rendering": "Wronged One",
+      "note": "Most frequent rendering is 'Wronged One' (128 occurrences). Here SE uses the same singular form, positioning the speaker as the archetypal wronged figure in Bahá'í theology.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 498,
+          "snippet": "afflicted with countless tribulations"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 49,
+          "snippet": "meekness"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 116,
+          "snippet": "injury"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 3,
+          "snippet": "Wronged One"
+        },
+        {
+          "work": "gleanings",
+          "para": 221,
+          "snippet": "oppression"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 9,
+          "snippet": "Darkness"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 33,
+          "snippet": "tyranny"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 573,
+          "snippet": "oppressed"
+        }
+      ]
+    },
+    {
+      "term": "قاموا",
+      "transliteration": "q-w-m",
+      "literal": "rising; standing; uprising; resurrection",
+      "se_rendering": "have arisen",
+      "note": "Root typically rendered 'arise', 'Resurrection', 'Day of Resurrection' across 109 occurrences. Here 'have arisen' emphasizes active, hostile uprising against the speaker.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 152,
+          "snippet": "Day of Resurrection"
+        },
+        {
+          "work": "gleanings",
+          "para": 437,
+          "snippet": "arise"
+        },
+        {
+          "work": "gleanings",
+          "para": 513,
+          "snippet": "dedicateth"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 153,
+          "snippet": "Resurrection"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "peoples"
+        },
+        {
+          "work": "gleanings",
+          "para": 693,
+          "snippet": "commandments"
+        },
+        {
+          "work": "gleanings",
+          "para": 628,
+          "snippet": "My commandments"
+        },
+        {
+          "work": "gleanings",
+          "para": 518,
+          "snippet": "steadfast"
+        }
+      ]
+    },
+    {
+      "term": "بيانه",
+      "transliteration": "b-y-n",
+      "literal": "to manifest; to make clear; clear, evident",
+      "se_rendering": "recount",
+      "note": "Root encompasses 'manifest', 'clear', and 'the Bayán' across 87 occurrences. SE renders 'recount'—a unique choice emphasizing tongue's incapacity rather than clarity or manifestation.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 223,
+          "snippet": "the Expounder, the Most Manifest"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 231,
+          "snippet": "clear verses"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 3,
+          "snippet": "proofs"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 12,
+          "snippet": "clear proofs"
+        },
+        {
+          "work": "gleanings",
+          "para": 563,
+          "snippet": "Dawning-Place of the proofs"
+        },
+        {
+          "work": "gleanings",
+          "para": 292,
+          "snippet": "the Bayán"
+        },
+        {
+          "work": "gleanings",
+          "para": 636,
+          "snippet": "utterance"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 101,
+          "snippet": "Bayán"
+        }
+      ]
+    },
+    {
+      "term": "امنائک",
+      "transliteration": "ʾ-m-n",
+      "literal": "to believe; to have faith; to be secure",
+      "se_rendering": "trusted ones",
+      "note": "Typically 'trusted servants' or 'believed' across 62 occurrences. SE chooses 'trusted ones'—a simpler, more direct form suited to the prayer's direct address.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 585,
+          "snippet": "believed"
+        },
+        {
+          "work": "gleanings",
+          "para": 268,
+          "snippet": "believe"
+        },
+        {
+          "work": "gleanings",
+          "para": 251,
+          "snippet": "have believed"
+        },
+        {
+          "work": "gleanings",
+          "para": 260,
+          "snippet": "I truly believe"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 12,
+          "snippet": "trusted servants"
+        },
+        {
+          "work": "gleanings",
+          "para": 496,
+          "snippet": "trustworthy ones of God among His servants"
+        },
+        {
+          "work": "gleanings",
+          "para": 621,
+          "snippet": "trustees"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 25,
+          "snippet": "believers"
+        }
+      ]
+    },
+    {
+      "term": "حبّک",
+      "transliteration": "ḥ-b-b",
+      "literal": "love; affection",
+      "se_rendering": "love of Thee",
+      "note": "Standard rendering 'love' appears in multiple forms (92 occurrences): 'beloved of the Lord', 'loved ones'. Here 'love of Thee' shifts to divine love as object of human sacrifice.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 3,
+          "snippet": "beloved of the Lord"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 53,
+          "snippet": "loved ones of the Lord"
+        },
+        {
+          "work": "gleanings",
+          "para": 341,
+          "snippet": "loved ones of God"
+        },
+        {
+          "work": "gleanings",
+          "para": 689,
+          "snippet": "beloved of the one true God"
+        },
+        {
+          "work": "gleanings",
+          "para": 640,
+          "snippet": "loved ones"
+        },
+        {
+          "work": "gleanings",
+          "para": 690,
+          "snippet": "beloved of God"
+        },
+        {
+          "work": "gleanings",
+          "para": 477,
+          "snippet": "His loved ones"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 10,
+          "snippet": "love for Thee"
+        }
+      ]
+    },
+    {
+      "term": "غفلوا",
+      "transliteration": "gh-f-l",
+      "literal": "heedlessness; negligence; inattention",
+      "se_rendering": "remained unaware",
+      "note": "Standard 'heedless' appears across 39 occurrences. SE selects 'remained unaware'—a fuller phrase suggesting persistent negligence rather than momentary inattention.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 132,
+          "snippet": "heedless"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 90,
+          "snippet": "Essence of Negligence"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 95,
+          "snippet": "couch of heedlessness"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 152,
+          "snippet": "Children of Negligence"
+        },
+        {
+          "work": "gleanings",
+          "para": 214,
+          "snippet": "who have been heedless"
+        },
+        {
+          "work": "gleanings",
+          "para": 413,
+          "snippet": "the heedless"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 273,
+          "snippet": "wayward"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 136,
+          "snippet": "heedless ones"
+        }
+      ]
+    },
+    {
+      "term": "اسرار",
+      "transliteration": "s-r-r",
+      "literal": "throne; couch; seat of authority",
+      "se_rendering": "mysteries",
+      "note": "Frequently 'mystery', 'mysteries', 'throne', 'couch' across 40 occurrences. Here 'mysteries' aligns with mystical discourse, though the root originally meant throne/seat of authority.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 145,
+          "snippet": "couch"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 256,
+          "snippet": "throne"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 185,
+          "snippet": "lamp"
+        },
+        {
+          "work": "tablet-of-carmel",
+          "para": 2,
+          "snippet": "joy"
+        },
+        {
+          "work": "gleanings",
+          "para": 218,
+          "snippet": "mystery"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 831,
+          "snippet": "Secret"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 37,
+          "snippet": "in the gladness"
+        },
+        {
+          "work": "gleanings",
+          "para": 727,
+          "snippet": "gladness"
+        }
+      ]
+    },
+    {
+      "term": "بقدرتک",
+      "transliteration": "q-d-r",
+      "literal": "power; might; decree; measure; worth",
+      "se_rendering": "Thy power",
+      "note": "Consistently 'Thy power' across 100 occurrences. SE maintains this rendering, invoking divine might as the only counter to human oppression.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 339,
+          "snippet": "Thy power"
+        },
+        {
+          "work": "gleanings",
+          "para": 138,
+          "snippet": "hath been decreed"
+        },
+        {
+          "work": "gleanings",
+          "para": 662,
+          "snippet": "hath decreed"
+        },
+        {
+          "work": "gleanings",
+          "para": 496,
+          "snippet": "forbearing towards"
+        },
+        {
+          "work": "gleanings",
+          "para": 111,
+          "snippet": "schools"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 12,
+          "snippet": "God of power"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 35,
+          "snippet": "Potent"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 282,
+          "snippet": "Almighty"
+        }
+      ]
+    }
+  ],
+  "section_index": "62",
+  "section": "62",
+  "section_para": 1
 }

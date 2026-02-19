@@ -1,10 +1,363 @@
 {
   "work": "The Hidden Words",
   "slug": "the-hidden-words",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 87,
   "source_text": "(١٣) ﴿ ای پسران من ﴾\nترسم که از نغمه ورقاء فيض نبرده بديار فنا راجع شويد و جمال گُل نديده بآب و گِل باز گرديد *",
   "translation": "(13) O MY CHILDREN!\nI fear lest, bereft of the melody of the dove of heaven, ye will sink back to the shades of utter loss, and, never having gazed upon the beauty of the rose, return to water and clay.",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "melody-dove-beauty-rose",
+  "alignment": [
+    {
+      "ar": "ای",
+      "en": "O"
+    },
+    {
+      "ar": "پسران",
+      "en": "CHILDREN"
+    },
+    {
+      "ar": "من",
+      "en": "MY"
+    },
+    {
+      "ar": "ترسم",
+      "en": "I fear"
+    },
+    {
+      "ar": "که",
+      "en": "lest"
+    },
+    {
+      "ar": "از",
+      "en": "of"
+    },
+    {
+      "ar": "نغمه",
+      "en": "the melody"
+    },
+    {
+      "ar": "ورقاء",
+      "en": "the dove"
+    },
+    {
+      "ar": "فيض",
+      "en": "heaven"
+    },
+    {
+      "ar": "نبرده",
+      "en": "bereft"
+    },
+    {
+      "ar": "بديار",
+      "en": "to the shades"
+    },
+    {
+      "ar": "فنا",
+      "en": "utter loss"
+    },
+    {
+      "ar": "راجع شويد",
+      "en": "ye will sink back"
+    },
+    {
+      "ar": "جمال",
+      "en": "the beauty"
+    },
+    {
+      "ar": "گُل",
+      "en": "the rose"
+    },
+    {
+      "ar": "نديده",
+      "en": "never having gazed upon"
+    },
+    {
+      "ar": "بآب",
+      "en": "to water"
+    },
+    {
+      "ar": "گِل",
+      "en": "clay"
+    },
+    {
+      "ar": "باز گرديد",
+      "en": "return"
+    }
+  ],
+  "terms": [
+    {
+      "term": "نغمه",
+      "transliteration": "n-gh-m",
+      "literal": "melody; tone; note",
+      "se_rendering": "melody",
+      "note": "Standard rendering as 'melody' (10 occ. pattern). Here modifies spiritual absence—reinforces lyrical, auditory dimension of divine connection.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 207,
+          "snippet": "melodies"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 141,
+          "snippet": "strain"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 179,
+          "snippet": "melody"
+        }
+      ]
+    },
+    {
+      "term": "ورقاء",
+      "transliteration": "w-r-q",
+      "literal": "leaf, page, sheet, parchment, document",
+      "se_rendering": "dove",
+      "note": "Typically 'written paper' or 'Scroll' (28 occ. pattern). 'Dove' is exceptional—SE renders the symbolic bird meaning, not literal leaf/parchment root.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 30,
+          "snippet": "written paper"
+        },
+        {
+          "work": "tablet-of-ahmad",
+          "para": 2,
+          "snippet": "Nightingale"
+        },
+        {
+          "work": "gleanings",
+          "para": 494,
+          "snippet": "snow-white Scroll"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 38,
+          "snippet": "lines"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 751,
+          "snippet": "leaf"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 34,
+          "snippet": "leaves"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 34,
+          "snippet": "scrolls"
+        },
+        {
+          "work": "gleanings",
+          "para": 56,
+          "snippet": "foliage"
+        }
+      ]
+    },
+    {
+      "term": "فیض",
+      "transliteration": "f-y-d",
+      "literal": "flood; abundance; overflow; emanation; grace",
+      "se_rendering": "grace",
+      "note": "Usually 'grace' or 'emanation' (13 occ. pattern). Here 'grace' alone—simpler than 'mighty grace' or 'grace of the Divine Presence' variants.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 10,
+          "snippet": "with"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 17,
+          "snippet": "emanating from"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 24,
+          "snippet": "grace"
+        },
+        {
+          "work": "gleanings",
+          "para": 10,
+          "snippet": "mighty grace"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 154,
+          "snippet": "grace of the Divine Presence"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 160,
+          "snippet": "the All-Bountiful, the All-Generous"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 31,
+          "snippet": "bounties"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 88,
+          "snippet": "sacred bounties"
+        }
+      ]
+    },
+    {
+      "term": "راجع",
+      "transliteration": "r-j-ʿ",
+      "literal": "return; reference; place of return; resort",
+      "se_rendering": "return",
+      "note": "Standard 'return' (16 occ. pattern). Both instances in this passage ('sink back', 'return') maintain semantic consistency for cyclical spiritual decline.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 367,
+          "snippet": "target"
+        },
+        {
+          "work": "gleanings",
+          "para": 319,
+          "snippet": "return"
+        },
+        {
+          "work": "gleanings",
+          "para": 726,
+          "snippet": "to Him shall we return"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 53,
+          "snippet": "returned"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 530,
+          "snippet": "cause them to return"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 709,
+          "snippet": "return me"
+        },
+        {
+          "work": "gleanings",
+          "para": 683,
+          "snippet": "Retrace"
+        },
+        {
+          "work": "gleanings",
+          "para": 193,
+          "snippet": "will ultimately be united"
+        }
+      ]
+    },
+    {
+      "term": "جمال",
+      "transliteration": "j-m-l",
+      "literal": "beauty; comeliness",
+      "se_rendering": "beauty",
+      "note": "Predominantly 'Beauty' or 'beauty' (38 occ. pattern). Lowercase 'beauty' here marks it as sensory rather than metaphysical attribute of God.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 296,
+          "snippet": "Beauty"
+        },
+        {
+          "work": "gleanings",
+          "para": 183,
+          "snippet": "Ancient Beauty"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 193,
+          "snippet": "Among others"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 67,
+          "snippet": "Among"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 208,
+          "snippet": "Among the sciences"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 268,
+          "snippet": "Among them"
+        },
+        {
+          "work": "gleanings",
+          "para": 359,
+          "snippet": "Amongst"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 118,
+          "snippet": "following"
+        }
+      ]
+    },
+    {
+      "term": "ندیده",
+      "transliteration": "d-ā-d",
+      "literal": "to give; to grant; to present; justice; judgment",
+      "se_rendering": "gazed",
+      "note": "Root meaning 'to give/justice' yields 'gazed' here—SE deviates from typical 'hath prepared' or 'imputed' renderings to match Persian negated past participle sense.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 220,
+          "snippet": "will readily admit"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 261,
+          "snippet": "be regarded as"
+        },
+        {
+          "work": "gleanings",
+          "para": 140,
+          "snippet": "hath delivered"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 7,
+          "snippet": "hath prepared"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 108,
+          "snippet": "imputed"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 54,
+          "snippet": "saw"
+        },
+        {
+          "work": "gleanings",
+          "para": 111,
+          "snippet": "acquainted"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 141,
+          "snippet": "hast seen"
+        }
+      ]
+    }
+  ],
+  "section_index": "172",
+  "section": "172",
+  "section_para": 1
 }

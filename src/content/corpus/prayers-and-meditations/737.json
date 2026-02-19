@@ -1,10 +1,593 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 737,
   "source_text": "ْصِيها إِلاَّ عِلْمُكَ يا مالِكَ الأَسْمآءِ تَرَى وَتُشاهِدُ إِعْراضَهُمْ عَنْ مَشْرِقِ ذاتِكَ وَاعْتِراضَهُمْ عَلَى مَنْبَعِ عِلْمِكَ وَآياتِكَ، قَدْ أَخَذَتْهُمُ العِزَّةُ بِالإِثْمِ عَلَى شَأْنٍ أَنْكَرُوا ظُهُوراتِكَ وَبُرُوزاتِكَ وَآثارَكَ الَّتِي يَرى كُلُّ بَصِيرٍ عَلَى كُلِّ شَيْءٍ ما يَشْهَدُ بِعَظَمَتِكَ وَسُلْطانِكَ وَيَعْتَرِفُ بِظُهُورِكَ وَاقْتِدارِكَ وَقالُوا فِي حَقِّهِ مَا ناحَ بِهِ سُكَّانُ سُرادِقِ الأَبْهى وَالمَلإِ الأَعْلى وَذابَتْ مِنْ أَقْوالِهِمْ أَكْبادُ أَصْفِيآئِكَ وَقُلُوبُ أَوْليائِكَ وَأَخَذَتْهُمُ الغَفْلَةُ عَلَى شَأْنٍ نَبَذُوا آياتِكَ الكُبْرى وَأَخَذُوا أَوْهامَهُمْ يا مالِكَ الأَسْماءِ وَمَليْكَ العَرْشِ وَالثَّری، وَأَنْتَ الَّذِيْ يا إِلهِي وَمَحْبُوبَ فُؤآدِي زَيَّنْتَ بِذِكْرِ هذَا الْيَوْمِ لَوْحَكَ الَّذِيْ ما اَطَّلَعَ بِهِ إِلاَّ نَفْسُكَ وَسَمَّيْتَهُ بِيَوْمِ اللَّهِ لِئَلا يُرى فِيْهِ إِلاَّ نَفْسُكَ العُلْيا وَلا يُذْكرَ فيْهِ إِلاَّ ذِكْرُكَ الأَحْلی، فَلَمَّا ظَهَرَ أَخَذَتِ الزَّلازِلُ أَرْكانَ القَبآئِلِ وانْصَعَقَ",
   "translation": "Thou seest, then, O Thou Who art the Beloved of the world and the Revealer of the Most Great Name, how He hath come down with the kingdom of His signs, and in a manner that hath caused the atoms of the earth to testify that the whole world hath been filled with these signs. And yet, notwithstanding this most manifest and all-glorious Revelation, and these signs which none can appraise except Thee, O Thou the King of names, Thou beholdest how they have broken off from Him Who is the Dayspring of Thine Essence, and have caviled at the One Who is the Fountainhead of Thy wisdom and of Thine utterance. They were so seized with thirst for fame, that they rejected Thy tokens, and Thy testimonies, and Thy signs, which every man of insight perceiveth in whatsoever declareth Thy greatness, and Thy sovereignty, and acknowledgeth Thy Revelation and Thy might. They have so traduced Him as to cause the inmates of the all-glorious Tabernacle and the Concourse on high to lament, and have uttered such calumnies against Him that the souls of Thy chosen Ones and the hearts of them that are dear to Thee have melted. They have erred so grievously that they cast away Thy most resplendent signs, and clung to their idle fancies, O Thou Who art the Possessor of Names and the Lord of the Throne on high and of earth below!",
   "source_lang": "ar",
-  "score": 9.6
+  "score": 9.6,
+  "page_slug": "atoms-earth-testify-signs",
+  "alignment": [
+    {
+      "ar": "عِلْمُكَ",
+      "en": "Thee"
+    },
+    {
+      "ar": "مالِكَ",
+      "en": "King"
+    },
+    {
+      "ar": "الأَسْمآءِ",
+      "en": "names"
+    },
+    {
+      "ar": "تَرَى",
+      "en": "beholdest"
+    },
+    {
+      "ar": "تُشاهِدُ",
+      "en": "seest"
+    },
+    {
+      "ar": "إِعْراضَهُمْ",
+      "en": "broken off"
+    },
+    {
+      "ar": "مَشْرِقِ",
+      "en": "Dayspring"
+    },
+    {
+      "ar": "ذاتِكَ",
+      "en": "Essence"
+    },
+    {
+      "ar": "اعْتِراضَهُمْ",
+      "en": "caviled"
+    },
+    {
+      "ar": "مَنْبَعِ",
+      "en": "Fountainhead"
+    },
+    {
+      "ar": "عِلْمِكَ",
+      "en": "wisdom"
+    },
+    {
+      "ar": "آياتِكَ",
+      "en": "utterance"
+    },
+    {
+      "ar": "أَخَذَتْهُمُ",
+      "en": "seized"
+    },
+    {
+      "ar": "بِالإِثْمِ",
+      "en": "thirst for fame"
+    },
+    {
+      "ar": "شَأْنٍ",
+      "en": "that"
+    },
+    {
+      "ar": "أَنْكَرُوا",
+      "en": "rejected"
+    },
+    {
+      "ar": "ظُهُوراتِكَ",
+      "en": "tokens"
+    },
+    {
+      "ar": "بُرُوزاتِكَ",
+      "en": "testimonies"
+    },
+    {
+      "ar": "آثارَكَ",
+      "en": "signs"
+    },
+    {
+      "ar": "بَصِيرٍ",
+      "en": "man of insight"
+    },
+    {
+      "ar": "شَيْءٍ",
+      "en": "whatsoever"
+    },
+    {
+      "ar": "يَشْهَدُ",
+      "en": "declareth"
+    },
+    {
+      "ar": "بِعَظَمَتِكَ",
+      "en": "greatness"
+    },
+    {
+      "ar": "سُلْطانِكَ",
+      "en": "sovereignty"
+    },
+    {
+      "ar": "يَعْتَرِفُ",
+      "en": "acknowledgeth"
+    },
+    {
+      "ar": "بِظُهُورِكَ",
+      "en": "Revelation"
+    },
+    {
+      "ar": "اقْتِدارِكَ",
+      "en": "might"
+    },
+    {
+      "ar": "قالُوا",
+      "en": "uttered"
+    },
+    {
+      "ar": "ناحَ",
+      "en": "lament"
+    },
+    {
+      "ar": "سُرادِقِ",
+      "en": "Tabernacle"
+    },
+    {
+      "ar": "الأَبْهى",
+      "en": "all-glorious"
+    },
+    {
+      "ar": "المَلإِ الأَعْلى",
+      "en": "Concourse on high"
+    },
+    {
+      "ar": "ذابَتْ",
+      "en": "melted"
+    },
+    {
+      "ar": "أَقْوالِهِمْ",
+      "en": "calumnies"
+    },
+    {
+      "ar": "أَكْبادُ",
+      "en": "souls"
+    },
+    {
+      "ar": "أَصْفِيآئِكَ",
+      "en": "chosen Ones"
+    },
+    {
+      "ar": "قُلُوبُ",
+      "en": "hearts"
+    },
+    {
+      "ar": "أَوْليائِكَ",
+      "en": "them that are dear to Thee"
+    },
+    {
+      "ar": "أَخَذَتْهُمُ",
+      "en": "erred"
+    },
+    {
+      "ar": "الغَفْلَةُ",
+      "en": "grievously"
+    },
+    {
+      "ar": "نَبَذُوا",
+      "en": "cast away"
+    },
+    {
+      "ar": "آياتِكَ الكُبْرى",
+      "en": "most resplendent signs"
+    },
+    {
+      "ar": "أَخَذُوا",
+      "en": "clung"
+    },
+    {
+      "ar": "أَوْهامَهُمْ",
+      "en": "idle fancies"
+    },
+    {
+      "ar": "مَليْكَ",
+      "en": "Lord"
+    },
+    {
+      "ar": "العَرْشِ",
+      "en": "Throne on high"
+    },
+    {
+      "ar": "إِلهِي",
+      "en": "Beloved of the world"
+    },
+    {
+      "ar": "مَحْبُوبَ",
+      "en": "Beloved"
+    },
+    {
+      "ar": "بِذِكْرِ",
+      "en": "kingdom"
+    },
+    {
+      "ar": "هذَا الْيَوْمِ",
+      "en": "His signs"
+    },
+    {
+      "ar": "لَوْحَكَ",
+      "en": "filled"
+    },
+    {
+      "ar": "نَفْسُكَ",
+      "en": "none"
+    },
+    {
+      "ar": "نَفْسُكَ العُلْيا",
+      "en": "most manifest"
+    },
+    {
+      "ar": "ذِكْرُكَ الأَحْلی",
+      "en": "all-glorious Revelation"
+    },
+    {
+      "ar": "ظَهَرَ",
+      "en": "come down"
+    },
+    {
+      "ar": "أَخَذَتِ",
+      "en": "caused"
+    },
+    {
+      "ar": "أَرْكانَ",
+      "en": "atoms"
+    },
+    {
+      "ar": "القَبآئِلِ",
+      "en": "earth"
+    }
+  ],
+  "terms": [
+    {
+      "term": "مشرق",
+      "transliteration": "sh-r-q",
+      "literal": "radiance; splendor; dawn; illumination",
+      "se_rendering": "Dayspring",
+      "note": "Typically 'radiance', 'Ishraq', 'Daystar', or 'revelation' (63 occurrences). 'Dayspring' here renders the metaphorical dawn of divine essence uniquely.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 47,
+          "snippet": "Ishraq"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 28,
+          "snippet": "radiance"
+        },
+        {
+          "work": "gleanings",
+          "para": 382,
+          "snippet": "revelation"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 41,
+          "snippet": "dawning"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 116,
+          "snippet": "shone"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 2,
+          "snippet": "shining"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 14,
+          "snippet": "Dawning Place"
+        },
+        {
+          "work": "gleanings",
+          "para": 126,
+          "snippet": "Dayspring"
+        }
+      ]
+    },
+    {
+      "term": "العِزَّة",
+      "transliteration": "ʿ-z-z",
+      "literal": "glory; might; honor; dignity; power; majesty",
+      "se_rendering": "thirst for fame",
+      "note": "Usually 'glory', 'honor', 'might' (49 occurrences). 'Thirst for fame' radically recontextualizes the root as human ambition, not divine attribute.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 185,
+          "snippet": "glory"
+        },
+        {
+          "work": "gleanings",
+          "para": 642,
+          "snippet": "honor"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 99,
+          "snippet": "Dear"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 38,
+          "snippet": "dearly beloved"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 37,
+          "snippet": "Gracious"
+        },
+        {
+          "work": "gleanings",
+          "para": 260,
+          "snippet": "All-Glorious"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 162,
+          "snippet": "Mighty"
+        },
+        {
+          "work": "gleanings",
+          "para": 660,
+          "snippet": "powerful"
+        }
+      ]
+    },
+    {
+      "term": "ظهوراتک",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "tokens",
+      "note": "Standard rendering 'Manifestation' across 96 occurrences, but here 'tokens' emphasizes tangible signs of rejection rather than transcendent appearance.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 53,
+          "snippet": "Manifestation"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 136,
+          "snippet": "evident"
+        },
+        {
+          "work": "gleanings",
+          "para": 222,
+          "snippet": "material"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 206,
+          "snippet": "appeared"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 196,
+          "snippet": "Manifestations of God"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 32,
+          "snippet": "overwhelm the soul"
+        }
+      ]
+    },
+    {
+      "term": "یشهد",
+      "transliteration": "sh-h-d",
+      "literal": "witnessed; observed; seen; evident; manifest",
+      "se_rendering": "declareth",
+      "note": "Predominantly 'manifest', 'evident', 'I testify' (74 occurrences). 'Declareth' personalizes the witness as active proclamation rather than passive manifestation.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 607,
+          "snippet": "manifest"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 35,
+          "snippet": "evident"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 6,
+          "snippet": "I testify"
+        },
+        {
+          "work": "gleanings",
+          "para": 298,
+          "snippet": "witness"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 138,
+          "snippet": "martyrdom"
+        },
+        {
+          "work": "gleanings",
+          "para": 134,
+          "snippet": "God witnesseth"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 57,
+          "snippet": "beheld"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 156,
+          "snippet": "bear witness"
+        }
+      ]
+    },
+    {
+      "term": "الأعلی",
+      "transliteration": "ʿ-l-w",
+      "literal": "highest; most high; supreme",
+      "se_rendering": "all-glorious",
+      "note": "Consistently 'the Most High', 'supreme', 'most exalted' (74 occurrences). 'All-glorious Tabernacle' applies the superlative to celestial realm in unique adjectival form.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 1,
+          "snippet": "the Most High"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 148,
+          "snippet": "the Most Sublime Pen"
+        },
+        {
+          "work": "gleanings",
+          "para": 232,
+          "snippet": "supreme"
+        },
+        {
+          "work": "gleanings",
+          "para": 616,
+          "snippet": "the realms above"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 68,
+          "snippet": "the Pen of Glory"
+        },
+        {
+          "work": "gleanings",
+          "para": 393,
+          "snippet": "The Pen of the Most High"
+        },
+        {
+          "work": "gleanings",
+          "para": 697,
+          "snippet": "the Dayspring of Glory"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 1,
+          "snippet": "the Realm of Glory"
+        }
+      ]
+    },
+    {
+      "term": "الغفله",
+      "transliteration": "gh-f-l",
+      "literal": "heedlessness; negligence; inattention",
+      "se_rendering": "erred so grievously",
+      "note": "Typically 'heedlessness', 'negligence' (39 occurrences). 'Erred so grievously' shifts focus from spiritual inattention to moral transgression—an interpretive move.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 158,
+          "snippet": "O heedless one"
+        },
+        {
+          "work": "gleanings",
+          "para": 132,
+          "snippet": "heedless"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 134,
+          "snippet": "thou who hast gone astray"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 156,
+          "snippet": "thou who art gone astray"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 6,
+          "snippet": "my heedlessness"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 90,
+          "snippet": "Essence of Negligence"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 95,
+          "snippet": "couch of heedlessness"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 152,
+          "snippet": "Children of Negligence"
+        }
+      ]
+    },
+    {
+      "term": "الكبری",
+      "transliteration": "k-b-r",
+      "literal": "great; grand; mighty; large",
+      "se_rendering": "most resplendent",
+      "note": "Usually 'great', 'Most Great', 'mighty' (34 occurrences). 'Most resplendent' here elevates from magnitude to radiant brilliance, a singular aesthetic rendering.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 181,
+          "snippet": "Great City"
+        },
+        {
+          "work": "gleanings",
+          "para": 351,
+          "snippet": "Most Great"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 64,
+          "snippet": "Great God"
+        },
+        {
+          "work": "gleanings",
+          "para": 10,
+          "snippet": "most mighty grace"
+        },
+        {
+          "work": "gleanings",
+          "para": 23,
+          "snippet": "most grievous veil"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "Greater Branch"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 188,
+          "snippet": "weighty"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 60,
+          "snippet": "great"
+        }
+      ]
+    }
+  ],
+  "section_index": "CLXXVI.27",
+  "section": "CLXXVI",
+  "section_para": 27
 }

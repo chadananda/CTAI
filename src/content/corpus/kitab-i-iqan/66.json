@@ -1,10 +1,609 @@
 {
   "work": "Kitab-i-Iqan",
   "slug": "kitab-i-iqan",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 66,
   "source_text": "و قوله :  \"حينَئِذٍ تَظهَرُ عَلامَةُ ابنِ الإنسانِ فِی السَّماء.\" می فرمايد:  بعد از کسوف شمس معارف الهيّه و سقوط نجوم احکام مثبته و خسوف قمر علم که مربّی عباد است و انعدام اعلام هدايت و فلاح و ظلمت صبح صدق و صلاح، ظاهر می شود  علامت ابن الانسان در آسمان.  و مقصود از سماء، سماء ظاهره است که قريب ظهور آن فَلَک سماوات معدلت و جريان فُلک هدايت بر بحر عظمت، در آسمان نجمی بر حسب ظاهر پيدا می شود که مبشّر است خلق سماوات را به ظهور آن نيّر اعظم.  و همچنين در آسمان معنی نجمی ظاهر می شود که مبشّر است اهل ارض را به آن فجر اقوم اکرم.  و اين دو علامت در سماء ظاهره و سماء باطنه قبل از ظهور هر نبيّ ظاهر گشته چنانچه شنيدهاند.",
   "translation": "And now, concerning His words: “And then shall appear the sign of the Son of man in heaven.” By these words it is meant that when the sun of the heavenly teachings hath been eclipsed, the stars of the divinely-established laws have fallen, and the moon of true knowledge—the educator of mankind—hath been obscured; when the standards of guidance and felicity have been reversed, and the morn of truth and righteousness hath sunk in night, then shall the sign of the Son of man appear in heaven. By “heaven” is meant the visible heaven, inasmuch as when the hour draweth nigh on which the Day-star of the heaven of justice shall be made manifest, and the Ark of divine guidance shall sail upon the sea of glory, a star will appear in the heaven, heralding unto its people the advent of that most great light. In like manner, in the invisible heaven a star shall be made manifest who, unto the peoples of the earth, shall act as a harbinger of the break of that true and exalted Morn. These twofold signs, in the visible and the invisible heaven, have announced the Revelation of each of the Prophets of God, as is commonly believed.",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "sign-son-of-man-heaven",
+  "alignment": [
+    {
+      "ar": "قوله",
+      "en": "His words"
+    },
+    {
+      "ar": "حينَئِذٍ",
+      "en": "then"
+    },
+    {
+      "ar": "تَظهَرُ",
+      "en": "shall appear"
+    },
+    {
+      "ar": "عَلامَةُ",
+      "en": "the sign"
+    },
+    {
+      "ar": "ابنِ الإنسانِ",
+      "en": "of the Son of man"
+    },
+    {
+      "ar": "می فرمايد",
+      "en": "it is meant"
+    },
+    {
+      "ar": "بعد از",
+      "en": "when"
+    },
+    {
+      "ar": "کسوف",
+      "en": "been eclipsed"
+    },
+    {
+      "ar": "شمس",
+      "en": "the sun"
+    },
+    {
+      "ar": "معارف",
+      "en": "teachings"
+    },
+    {
+      "ar": "الهيّه",
+      "en": "heavenly"
+    },
+    {
+      "ar": "سقوط",
+      "en": "have fallen"
+    },
+    {
+      "ar": "نجوم",
+      "en": "the stars"
+    },
+    {
+      "ar": "احکام",
+      "en": "laws"
+    },
+    {
+      "ar": "مثبته",
+      "en": "divinely-established"
+    },
+    {
+      "ar": "خسوف",
+      "en": "hath been obscured"
+    },
+    {
+      "ar": "قمر",
+      "en": "the moon"
+    },
+    {
+      "ar": "علم",
+      "en": "knowledge"
+    },
+    {
+      "ar": "مربّی",
+      "en": "educator"
+    },
+    {
+      "ar": "عباد",
+      "en": "mankind"
+    },
+    {
+      "ar": "انعدام",
+      "en": "have been reversed"
+    },
+    {
+      "ar": "اعلام",
+      "en": "the standards"
+    },
+    {
+      "ar": "هدايت",
+      "en": "guidance"
+    },
+    {
+      "ar": "فلاح",
+      "en": "felicity"
+    },
+    {
+      "ar": "ظلمت",
+      "en": "sunk in night"
+    },
+    {
+      "ar": "صبح",
+      "en": "the morn"
+    },
+    {
+      "ar": "صدق",
+      "en": "truth"
+    },
+    {
+      "ar": "صلاح",
+      "en": "righteousness"
+    },
+    {
+      "ar": "ابن الانسان",
+      "en": "the Son of man"
+    },
+    {
+      "ar": "آسمان",
+      "en": "heaven"
+    },
+    {
+      "ar": "مقصود",
+      "en": "is meant"
+    },
+    {
+      "ar": "سماء ظاهره",
+      "en": "the visible heaven"
+    },
+    {
+      "ar": "قريب",
+      "en": "draweth nigh"
+    },
+    {
+      "ar": "ظهور",
+      "en": "be made manifest"
+    },
+    {
+      "ar": "فَلَک",
+      "en": "Day-star"
+    },
+    {
+      "ar": "جريان",
+      "en": "shall sail"
+    },
+    {
+      "ar": "فُلک",
+      "en": "Ark"
+    },
+    {
+      "ar": "هدايت",
+      "en": "divine guidance"
+    },
+    {
+      "ar": "بحر",
+      "en": "the sea"
+    },
+    {
+      "ar": "عظمت",
+      "en": "glory"
+    },
+    {
+      "ar": "نجمی",
+      "en": "a star"
+    },
+    {
+      "ar": "حسب ظاهر",
+      "en": "in the heaven"
+    },
+    {
+      "ar": "پيدا می شود",
+      "en": "will appear"
+    },
+    {
+      "ar": "مبشّر",
+      "en": "heralding"
+    },
+    {
+      "ar": "خلق",
+      "en": "its people"
+    },
+    {
+      "ar": "سماوات",
+      "en": "unto"
+    },
+    {
+      "ar": "نيّر اعظم",
+      "en": "that most great light"
+    },
+    {
+      "ar": "همچنين",
+      "en": "In like manner"
+    },
+    {
+      "ar": "آسمان معنی",
+      "en": "the invisible heaven"
+    },
+    {
+      "ar": "ظاهر می شود",
+      "en": "shall be made manifest"
+    },
+    {
+      "ar": "مبشّر",
+      "en": "harbinger"
+    },
+    {
+      "ar": "اهل ارض",
+      "en": "the peoples of the earth"
+    },
+    {
+      "ar": "فجر",
+      "en": "Morn"
+    },
+    {
+      "ar": "اقوم",
+      "en": "true"
+    },
+    {
+      "ar": "اکرم",
+      "en": "exalted"
+    },
+    {
+      "ar": "دو علامت",
+      "en": "twofold signs"
+    },
+    {
+      "ar": "سماء ظاهره",
+      "en": "the visible"
+    },
+    {
+      "ar": "قبل از",
+      "en": "announced"
+    },
+    {
+      "ar": "ظهور",
+      "en": "the Revelation"
+    },
+    {
+      "ar": "هر",
+      "en": "each"
+    },
+    {
+      "ar": "نبيّ",
+      "en": "the Prophets"
+    },
+    {
+      "ar": "شنيدهاند",
+      "en": "commonly believed"
+    }
+  ],
+  "terms": [
+    {
+      "term": "تظهر",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "appear",
+      "note": "Typically 'Manifestation' or 'manifestation' (96 occurrences). Here rendered as 'appear' and 'made manifest'—preserving eschatological immediacy rather than theological abstraction.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 53,
+          "snippet": "Manifestation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 160,
+          "snippet": "Author of all Manifestations"
+        },
+        {
+          "work": "gleanings",
+          "para": 222,
+          "snippet": "material"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 206,
+          "snippet": "appeared"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 255,
+          "snippet": "Manifestations"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 791,
+          "snippet": "tokens of Thy handiwork"
+        }
+      ]
+    },
+    {
+      "term": "علم",
+      "transliteration": "ʿ-l-m",
+      "literal": "world; universe; the worlds",
+      "se_rendering": "knowledge",
+      "note": "Root usually 'world' or 'knowledge' (141 occurrences). Here 'true knowledge' contextualizes the epistemic meaning—the moon of learning, educator of mankind.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 198,
+          "snippet": "world"
+        },
+        {
+          "work": "gleanings",
+          "para": 657,
+          "snippet": "all worlds"
+        },
+        {
+          "work": "gleanings",
+          "para": 182,
+          "snippet": "mankind"
+        },
+        {
+          "work": "gleanings",
+          "para": 183,
+          "snippet": "the whole world"
+        },
+        {
+          "work": "gleanings",
+          "para": 226,
+          "snippet": "all earthly defilements"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 28,
+          "snippet": "knowledge"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 42,
+          "snippet": "banner"
+        },
+        {
+          "work": "gleanings",
+          "para": 38,
+          "snippet": "understanding"
+        }
+      ]
+    },
+    {
+      "term": "صدق",
+      "transliteration": "s-d-q",
+      "literal": "to confirm; to verify; to acknowledge; to testify to truth",
+      "se_rendering": "truth",
+      "note": "Typically 'truth' or 'truthful' (25 occurrences). 'Truth' here in 'morn of truth and righteousness'—a coordinate pairing within moral-temporal decline.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 39,
+          "snippet": "confirmed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 134,
+          "snippet": "the truthful"
+        },
+        {
+          "work": "gleanings",
+          "para": 461,
+          "snippet": "truth"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 28,
+          "snippet": "truthfulness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 143,
+          "snippet": "fidelity"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 268,
+          "snippet": "spoken the truth"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 665,
+          "snippet": "seat of truth"
+        },
+        {
+          "work": "gleanings",
+          "para": 364,
+          "snippet": "unquestionable sincerity"
+        }
+      ]
+    },
+    {
+      "term": "بحر",
+      "transliteration": "b-ḥ-r",
+      "literal": "sea; ocean",
+      "se_rendering": "sea",
+      "note": "Typically 'ocean' or 'seas' (18 occurrences). 'Sea' here maintains singularity—'the sea of glory'—a unique metaphorical pairing emphasizing majestic vastness.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 2,
+          "snippet": "two Seas"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 32,
+          "snippet": "ocean"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 769,
+          "snippet": "oceans"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 119,
+          "snippet": "seas"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 353,
+          "snippet": "ocean of Thy wrath"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 32,
+          "snippet": "sea of grace"
+        },
+        {
+          "work": "gleanings",
+          "para": 12,
+          "snippet": "Ocean of God's mercy"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 666,
+          "snippet": "unto the ocean"
+        }
+      ]
+    },
+    {
+      "term": "عظمت",
+      "transliteration": "ʿ-z̟-m",
+      "literal": "greatest; supreme; mightiest",
+      "se_rendering": "glory",
+      "note": "Typically 'Most Great' or 'greatest' (63 occurrences). 'Glory' here—a singular shift to aesthetic-spiritual splendor rather than supremacy.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 56,
+          "snippet": "supreme"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 269,
+          "snippet": "Most Great"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 734,
+          "snippet": "Most Great Name"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 3,
+          "snippet": "greatest"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 6,
+          "snippet": "greater"
+        },
+        {
+          "work": "gleanings",
+          "para": 10,
+          "snippet": "most mighty"
+        },
+        {
+          "work": "gleanings",
+          "para": 392,
+          "snippet": "great"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 9,
+          "snippet": "mighty"
+        }
+      ]
+    },
+    {
+      "term": "مبشّر",
+      "transliteration": "b-sh-r",
+      "literal": "human; mankind; human nature",
+      "se_rendering": "harbinger",
+      "note": "Jafar lists 'human,' 'human race,' 'announce,' and 'SON OF MAN' (26 occurrences). Here 'harbinger'—SE interprets the active sense of bringing good news rather than the passive sense of humanity.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 711,
+          "snippet": "law"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 9,
+          "snippet": "testimony written by Mírzá Shu'á'u'lláh"
+        },
+        {
+          "work": "gleanings",
+          "para": 719,
+          "snippet": "human race"
+        },
+        {
+          "work": "tablet-of-carmel",
+          "para": 4,
+          "snippet": "announce"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 8,
+          "snippet": "SON OF MAN"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 755,
+          "snippet": "herald"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 231,
+          "snippet": "Forerunner"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 210,
+          "snippet": "that bringest good tidings"
+        }
+      ]
+    },
+    {
+      "term": "اقوم",
+      "transliteration": "q-w-m",
+      "literal": "rising; standing; uprising; resurrection",
+      "se_rendering": "Morn",
+      "note": "Typically 'Resurrection' or 'Day of Resurrection' (109 occurrences). Rendered 'Morn' here—a unique shift to temporal immediacy within the metaphor of dawn breaking.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 437,
+          "snippet": "arise"
+        },
+        {
+          "work": "gleanings",
+          "para": 513,
+          "snippet": "dedicateth"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 74,
+          "snippet": "rise"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "peoples"
+        },
+        {
+          "work": "gleanings",
+          "para": 693,
+          "snippet": "commandments"
+        },
+        {
+          "work": "gleanings",
+          "para": 628,
+          "snippet": "My commandments"
+        },
+        {
+          "work": "gleanings",
+          "para": 518,
+          "snippet": "steadfast"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 38,
+          "snippet": "steadfast in faith"
+        }
+      ]
+    }
+  ],
+  "section_index": "66",
+  "section": "66",
+  "section_para": 1
 }

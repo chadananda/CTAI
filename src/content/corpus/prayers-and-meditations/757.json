@@ -1,10 +1,573 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 757,
   "source_text": "عَنِ الَّذِينَ حَمَلُوا الشَّدآئِدَ فِي سَبِيلِكَ وَذاقُوا كَأْسَ البَلايا فِي حُبِّكَ وَدَخَلُوا السِّجْنَ بِاسْمِكَ وَوَرَدَ عَلَيْهِمْ ما لا وَرَدَ عَلَى خَلْقِكَ وَبَرِيَّتِكَ، أَيْ رَبِّ إِنَّهُمْ عِبادُكَ الَّذِينَ أَجابُوا إِذِ ارْتَفَعَ نِدآئُكَ وَتَوَجَّهُوا إِذْ أَشْرَقَتْ أَنْوارُ وَجْهِكَ وَأَقْبَلُوا إِذْ لاحَ أُفُقُكَ الأَعْلى بَاسْمِكَ الَّذِيْ بِهِ انْصَعَقَ مَنْ فِي أَرْضِكَ وَسَمائِكَ، أَيْ رَبِّ قَدِّرْ لَهُمْ ما قَدَّرْتَهُ لأَصْفِيائِكَ الَّذِينَ اسْتَقْبَلُوا سِهَامَ المُشْرِكينَ فِي أَمْرِكَ وَحُبِّكَ وَسَرُعُوا إِلى مَشْرِقِ البَلآءِ بِاسْمِكَ وَذِكْرِكَ، أَنْتَ الَّذِيْ يا إِلهِي وَعَدْتَ فِي مُحْكَمِ آياتِكَ بِأَنْ تَذْكُرَهُمْ فِي كِتابِكَ جَزآءَ أَعْمالِهِمْ فِي أَيَّامِكَ، صَلِّ اللَّهُمَّ عَلَيْهِمْ وَكَبِّرِ اللَّهُمَّ عَلَى وُجُوهِهِمْ بِتَكْبِيرٍ أَشْرَقَتْ شَمْسُهُ مِنْ أُفُقِ",
   "translation": "I beg of Thee, O Thou in Whose hands are the kingdoms of earth and heaven, and in Whose grasp lie all who dwell in the dominions of Thy Revelation and Thy creation, not to withhold the glance of Thy favors from such as have sustained tribulations in Thy path, and tasted of the cup of woe in their love towards Thee, and have been cast into prison in Thy name, and endured what none of Thy creatures and Thy people have endured. They are Thy servants, O my Lord, who have responded to Thee as soon as Thou didst send out Thy summons, and have set their faces towards Thee when the light of Thy countenance was lifted upon them, and turned unto Thee at the time when Thy most exalted horizon shone forth with the brightness of Thy name through which all who are in Thy heaven and on Thy earth swooned away. Ordain for them, O my Lord, what Thou didst ordain for Thy chosen ones who have welcomed the darts of the infidels in Thy Cause and for love of Thee, and hasted to attain the orient of tribulation with Thy name on their lips and Thy remembrance in their hearts. Thou art the One, O my God, Who hath promised in Thy perspicuous utterances to remember them in Thy Book as a recompense for their works in Thy days.",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "tribulations-thy-path",
+  "alignment": [
+    {
+      "ar": "عَنِ",
+      "en": "not to withhold"
+    },
+    {
+      "ar": "حَمَلُوا",
+      "en": "have sustained"
+    },
+    {
+      "ar": "سَبِيلِكَ",
+      "en": "Thy path"
+    },
+    {
+      "ar": "ذاقُوا",
+      "en": "tasted"
+    },
+    {
+      "ar": "كَأْسَ",
+      "en": "cup"
+    },
+    {
+      "ar": "البَلايا",
+      "en": "woe"
+    },
+    {
+      "ar": "دَخَلُوا",
+      "en": "have been cast"
+    },
+    {
+      "ar": "بِاسْمِكَ",
+      "en": "in Thy name"
+    },
+    {
+      "ar": "وَرَدَ",
+      "en": "endured"
+    },
+    {
+      "ar": "خَلْقِكَ",
+      "en": "Thy creatures"
+    },
+    {
+      "ar": "عِبادُكَ",
+      "en": "Thy servants"
+    },
+    {
+      "ar": "أَجابُوا",
+      "en": "have responded"
+    },
+    {
+      "ar": "ارْتَفَعَ",
+      "en": "didst send out"
+    },
+    {
+      "ar": "نِدآئُكَ",
+      "en": "Thy summons"
+    },
+    {
+      "ar": "أَشْرَقَتْ",
+      "en": "was lifted"
+    },
+    {
+      "ar": "أَنْوارُ",
+      "en": "light"
+    },
+    {
+      "ar": "وَجْهِكَ",
+      "en": "Thy countenance"
+    },
+    {
+      "ar": "أَقْبَلُوا",
+      "en": "turned unto Thee"
+    },
+    {
+      "ar": "لاحَ",
+      "en": "shone forth"
+    },
+    {
+      "ar": "أُفُقُكَ الأَعْلى",
+      "en": "Thy most exalted horizon"
+    },
+    {
+      "ar": "بَاسْمِكَ",
+      "en": "Thy name"
+    },
+    {
+      "ar": "انْصَعَقَ",
+      "en": "swooned away"
+    },
+    {
+      "ar": "أَرْضِكَ",
+      "en": "Thy earth"
+    },
+    {
+      "ar": "سَمائِكَ",
+      "en": "Thy heaven"
+    },
+    {
+      "ar": "لأَصْفِيائِكَ",
+      "en": "for Thy chosen ones"
+    },
+    {
+      "ar": "اسْتَقْبَلُوا",
+      "en": "have welcomed"
+    },
+    {
+      "ar": "سِهَامَ",
+      "en": "darts"
+    },
+    {
+      "ar": "المُشْرِكينَ",
+      "en": "infidels"
+    },
+    {
+      "ar": "أَمْرِكَ",
+      "en": "Thy Cause"
+    },
+    {
+      "ar": "سَرُعُوا",
+      "en": "hasted"
+    },
+    {
+      "ar": "مَشْرِقِ",
+      "en": "orient"
+    },
+    {
+      "ar": "البَلآءِ",
+      "en": "tribulation"
+    },
+    {
+      "ar": "ذِكْرِكَ",
+      "en": "Thy remembrance"
+    },
+    {
+      "ar": "إِلهِي",
+      "en": "my God"
+    },
+    {
+      "ar": "وَعَدْتَ",
+      "en": "hath promised"
+    },
+    {
+      "ar": "مُحْكَمِ",
+      "en": "perspicuous"
+    },
+    {
+      "ar": "آياتِكَ",
+      "en": "utterances"
+    },
+    {
+      "ar": "تَذْكُرَهُمْ",
+      "en": "remember them"
+    },
+    {
+      "ar": "كِتابِكَ",
+      "en": "Thy Book"
+    },
+    {
+      "ar": "جَزآءَ",
+      "en": "recompense"
+    },
+    {
+      "ar": "أَعْمالِهِمْ",
+      "en": "their works"
+    },
+    {
+      "ar": "تَكْبِيرٍ",
+      "en": "brightness"
+    }
+  ],
+  "terms": [
+    {
+      "term": "الشَّدآئِدَ",
+      "transliteration": "sh-d-d",
+      "literal": "strong; severe; intense; violent",
+      "se_rendering": "tribulations",
+      "note": "Typically 'great,' 'severe,' or 'intense' across 35 occurrences. 'Tribulations' here shifts toward specific ordeal-language, matching the prayer's martyrological focus.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 38,
+          "snippet": "very great"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 5,
+          "snippet": "great"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 30,
+          "snippet": "most turbulent"
+        },
+        {
+          "work": "gleanings",
+          "para": 94,
+          "snippet": "more intense manifestation"
+        },
+        {
+          "work": "gleanings",
+          "para": 256,
+          "snippet": "most severe in punishment"
+        },
+        {
+          "work": "gleanings",
+          "para": 248,
+          "snippet": "reached manhood"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 141,
+          "snippet": "uttered"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 53,
+          "snippet": "arose"
+        }
+      ]
+    },
+    {
+      "term": "البَلايا",
+      "transliteration": "b-l-ʾ",
+      "literal": "affliction; trial; calamity",
+      "se_rendering": "woe",
+      "note": "Standard rendering 'trials' or 'afflictions' across 27 occurrences. 'Woe' privileges emotional weight and biblical resonance, intensifying the cup metaphor.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 4,
+          "snippet": "trials"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 137,
+          "snippet": "Troubles"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 179,
+          "snippet": "tribulations"
+        },
+        {
+          "work": "gleanings",
+          "para": 660,
+          "snippet": "afflictions"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 28,
+          "snippet": "afflicted"
+        },
+        {
+          "work": "gleanings",
+          "para": 640,
+          "snippet": "subjected"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 145,
+          "snippet": "sick"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 92,
+          "snippet": "Yea"
+        }
+      ]
+    },
+    {
+      "term": "السِّجْنَ",
+      "transliteration": "s-j-n",
+      "literal": "prison, imprisonment; to imprison",
+      "se_rendering": "prison",
+      "note": "Consistent rendering as 'prison' or 'imprisonment' (21 occurrences). Use remains faithful to lexicon, though SE renders 'imprisonment' elsewhere — contextual variant.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 448,
+          "snippet": "My imprisonment"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 36,
+          "snippet": "prison"
+        },
+        {
+          "work": "gleanings",
+          "para": 184,
+          "snippet": "imprisonment"
+        },
+        {
+          "work": "gleanings",
+          "para": 225,
+          "snippet": "captivity"
+        },
+        {
+          "work": "gleanings",
+          "para": 410,
+          "snippet": "prisoner"
+        },
+        {
+          "work": "gleanings",
+          "para": 659,
+          "snippet": "imprisoned"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 100,
+          "snippet": "My prison"
+        }
+      ]
+    },
+    {
+      "term": "أَشْرَقَتْ",
+      "transliteration": "sh-r-q",
+      "literal": "radiance; splendor; dawn; illumination",
+      "se_rendering": "shone forth",
+      "note": "Root شرق typically 'radiance,' 'revelation,' or 'Daystar' across 63 occurrences. 'Shone forth' here is more abstract, emphasizing temporal immediacy over celestial imagery.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 47,
+          "snippet": "Ishraq"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 28,
+          "snippet": "radiance"
+        },
+        {
+          "work": "gleanings",
+          "para": 382,
+          "snippet": "revelation"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 41,
+          "snippet": "dawning"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 116,
+          "snippet": "shone"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 2,
+          "snippet": "shining"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 14,
+          "snippet": "Dawning Place"
+        },
+        {
+          "work": "gleanings",
+          "para": 126,
+          "snippet": "Dayspring"
+        }
+      ]
+    },
+    {
+      "term": "الأَعْلى",
+      "transliteration": "ʿ-l-w",
+      "literal": "highest; most high; supreme",
+      "se_rendering": "most exalted",
+      "note": "Usually 'the Most High,' 'the Most Sublime,' or 'supreme' (74 occurrences). 'Most exalted horizon' recontextualizes as spatial metaphor rather than divine epithet.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 1,
+          "snippet": "the Most High"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 148,
+          "snippet": "the Most Sublime Pen"
+        },
+        {
+          "work": "gleanings",
+          "para": 232,
+          "snippet": "supreme"
+        },
+        {
+          "work": "gleanings",
+          "para": 616,
+          "snippet": "the realms above"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 68,
+          "snippet": "the Pen of Glory"
+        },
+        {
+          "work": "gleanings",
+          "para": 393,
+          "snippet": "The Pen of the Most High"
+        },
+        {
+          "work": "gleanings",
+          "para": 697,
+          "snippet": "the Dayspring of Glory"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 1,
+          "snippet": "the Realm of Glory"
+        }
+      ]
+    },
+    {
+      "term": "أَمْرِكَ",
+      "transliteration": "ʾ-m-r",
+      "literal": "command; cause; matter; affair",
+      "se_rendering": "Cause",
+      "note": "Predominantly 'His Cause,' 'His command,' or 'Thy Cause' (75 occurrences). 'Cause' here maintains consistency with Bahá'í theological terminology for the divine mission.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "His Cause"
+        },
+        {
+          "work": "gleanings",
+          "para": 586,
+          "snippet": "His command"
+        },
+        {
+          "work": "gleanings",
+          "para": 691,
+          "snippet": "His Revelation"
+        },
+        {
+          "work": "gleanings",
+          "para": 723,
+          "snippet": "Cause"
+        },
+        {
+          "work": "gleanings",
+          "para": 8,
+          "snippet": "Revelation"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 167,
+          "snippet": "things"
+        },
+        {
+          "work": "gleanings",
+          "para": 524,
+          "snippet": "your affairs"
+        },
+        {
+          "work": "gleanings",
+          "para": 495,
+          "snippet": "affairs"
+        }
+      ]
+    },
+    {
+      "term": "مُحْكَمِ",
+      "transliteration": "h-k-m",
+      "literal": "government; rule; governance; wisdom",
+      "se_rendering": "perspicuous",
+      "note": "Root حكم renders as 'rule,' 'government,' or 'mysteries' (69 occurrences). 'Perspicuous' is unique — emphasizing clarity of utterance rather than governance or wisdom.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-ahd",
+          "para": 6,
+          "snippet": "rule"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "government"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 160,
+          "snippet": "meaning of return"
+        },
+        {
+          "work": "gleanings",
+          "para": 224,
+          "snippet": "mysteries"
+        },
+        {
+          "work": "gleanings",
+          "para": 636,
+          "snippet": "rule of the sword"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 182,
+          "snippet": "mystery of the former verse"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 129,
+          "snippet": "perspicuous verses"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 46,
+          "snippet": "conclusive"
+        }
+      ]
+    },
+    {
+      "term": "أَعْمالِهِمْ",
+      "transliteration": "ʿ-m-l",
+      "literal": "to work; to act; to do; to perform",
+      "se_rendering": "works",
+      "note": "Root عمل typically 'works,' 'actions,' or 'do' (44 occurrences). 'Works' selection aligns eschatological framing — deeds recorded for divine recompense in the eschaton.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 255,
+          "snippet": "workers"
+        },
+        {
+          "work": "gleanings",
+          "para": 502,
+          "snippet": "do"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 24,
+          "snippet": "Consort"
+        },
+        {
+          "work": "gleanings",
+          "para": 607,
+          "snippet": "virtues and attributes"
+        },
+        {
+          "work": "gleanings",
+          "para": 646,
+          "snippet": "actions"
+        },
+        {
+          "work": "gleanings",
+          "para": 564,
+          "snippet": "deeds"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 286,
+          "snippet": "God doeth unto them as they do unto themselves"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 94,
+          "snippet": "knew that they did so"
+        }
+      ]
+    }
+  ],
+  "section_index": "CLXXVI.47",
+  "section": "CLXXVI",
+  "section_para": 47
 }

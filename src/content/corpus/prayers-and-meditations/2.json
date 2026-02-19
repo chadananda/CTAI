@@ -1,10 +1,244 @@
 {
   "work": "Prayers and Meditations",
   "slug": "prayers-and-meditations",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 2,
   "source_text": "بِ إِلَيْكَ، كأَنَّ فِي قُلُوبِهِمْ أَضاءَ سِرَاجُ حُبِّكَ وَمِصْباحُ وُدِّكَ. لا يُقَلِّبُهُمُ البَلايا عَنْ أَمْرِكَ، وَلا القَضَايا عَنْ رِضائِكَ.",
   "translation": "Methinks, the lamp of Thy love is burning in their hearts, and the light of Thy tenderness is lit within their breasts. Adversities are incapable of estranging them from Thy Cause, and the vicissitudes of fortune can never cause them to stray from Thy pleasure.",
   "source_lang": "ar",
-  "score": 9.6
+  "score": 9.6,
+  "page_slug": "lamp-of-love-burning-hearts",
+  "alignment": [
+    {
+      "ar": "قُلُوبِهِمْ",
+      "en": "their hearts"
+    },
+    {
+      "ar": "أَضاءَ",
+      "en": "is burning"
+    },
+    {
+      "ar": "سِرَاجُ",
+      "en": "the lamp"
+    },
+    {
+      "ar": "مِصْباحُ",
+      "en": "the light"
+    },
+    {
+      "ar": "لا",
+      "en": "incapable"
+    },
+    {
+      "ar": "البَلايا",
+      "en": "Adversities"
+    },
+    {
+      "ar": "أَمْرِكَ",
+      "en": "Thy Cause"
+    },
+    {
+      "ar": "القَضَايا",
+      "en": "the vicissitudes of fortune"
+    },
+    {
+      "ar": "رِضائِكَ",
+      "en": "Thy pleasure"
+    }
+  ],
+  "terms": [
+    {
+      "term": "أَضاءَ",
+      "transliteration": "d-w-ʾ",
+      "literal": "to shine; to be illuminated; to light up",
+      "se_rendering": "is burning",
+      "note": "Rare rendering (5 total occurrences). 'is burning' captures active, present illumination rather than SE's more common 'shone forth' or 'illumined'.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 458,
+          "snippet": "illumined"
+        }
+      ]
+    },
+    {
+      "term": "سِرَاجُ",
+      "transliteration": "s-r-j",
+      "literal": "lamp; light; illuminator",
+      "se_rendering": "lamp",
+      "note": "Among 10 occurrences typically rendered 'Lamp' or 'light'. Here lowercase 'lamp' establishes metaphorical register before capital usage elsewhere.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 142,
+          "snippet": "songs"
+        },
+        {
+          "work": "gleanings",
+          "para": 308,
+          "snippet": "lamp"
+        },
+        {
+          "work": "gleanings",
+          "para": 684,
+          "snippet": "Lamp of Divine glory"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 121,
+          "snippet": "light of Qur'ánic Revelation"
+        }
+      ]
+    },
+    {
+      "term": "البَلايا",
+      "transliteration": "b-l-ʾ",
+      "literal": "affliction; trial; calamity",
+      "se_rendering": "Adversities",
+      "note": "Typically 'trials' or 'tribulations' across 27 occurrences. 'Adversities' here suggests external opposition rather than internal testing.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 4,
+          "snippet": "trials"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 137,
+          "snippet": "Troubles"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 179,
+          "snippet": "tribulations"
+        },
+        {
+          "work": "gleanings",
+          "para": 660,
+          "snippet": "afflictions"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 28,
+          "snippet": "afflicted"
+        },
+        {
+          "work": "gleanings",
+          "para": 640,
+          "snippet": "subjected"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 145,
+          "snippet": "sick"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 92,
+          "snippet": "Yea"
+        }
+      ]
+    },
+    {
+      "term": "أَمْرِكَ",
+      "transliteration": "ʾ-m-r",
+      "literal": "command; cause; matter; affair",
+      "se_rendering": "Thy Cause",
+      "note": "Most frequent rendering 'His Cause' or 'Thy Cause' across 75 occurrences. Capital 'Cause' here emphasizes institutional or spiritual mission.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 1,
+          "snippet": "His Cause"
+        },
+        {
+          "work": "gleanings",
+          "para": 586,
+          "snippet": "His command"
+        },
+        {
+          "work": "gleanings",
+          "para": 691,
+          "snippet": "His Revelation"
+        },
+        {
+          "work": "gleanings",
+          "para": 723,
+          "snippet": "Cause"
+        },
+        {
+          "work": "gleanings",
+          "para": 8,
+          "snippet": "Revelation"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 167,
+          "snippet": "things"
+        },
+        {
+          "work": "gleanings",
+          "para": 524,
+          "snippet": "your affairs"
+        },
+        {
+          "work": "gleanings",
+          "para": 495,
+          "snippet": "affairs"
+        }
+      ]
+    },
+    {
+      "term": "رِضائِكَ",
+      "transliteration": "r-d-y",
+      "literal": "good-pleasure, consent, satisfaction",
+      "se_rendering": "Thy pleasure",
+      "note": "Standard 'Thy pleasure' aligns with 30-occurrence pattern. Grammatical object position ('from Thy pleasure') strengthens divine satisfaction as relational concept.",
+      "cross_refs": [
+        {
+          "work": "the-hidden-words",
+          "para": 46,
+          "snippet": "content"
+        },
+        {
+          "work": "gleanings",
+          "para": 165,
+          "snippet": "consent"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 28,
+          "snippet": "is pleased with"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 41,
+          "snippet": "pleasure"
+        },
+        {
+          "work": "gleanings",
+          "para": 564,
+          "snippet": "goodly deeds"
+        },
+        {
+          "work": "gleanings",
+          "para": 598,
+          "snippet": "praiseworthy"
+        },
+        {
+          "work": "gleanings",
+          "para": 625,
+          "snippet": "approved"
+        },
+        {
+          "work": "gleanings",
+          "para": 58,
+          "snippet": "Ridván"
+        }
+      ]
+    }
+  ],
+  "section_index": "I.2",
+  "section": "I",
+  "section_para": 2
 }

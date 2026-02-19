@@ -1,10 +1,703 @@
 {
   "work": "Gleanings",
   "slug": "gleanings",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 680,
   "source_text": "ای مؤمن مهاجر عطش و ظمأ غفلت را از سلسبيل قدس عنايت تسکين ده و شام تيره بعد را بصبح منير قرب منوّر گردان بيت محبّت باقی را بظلم شهوت فانی و خراب مکن و جمال غلام روحانی را بحجبات تيره نفسانی مپوش . تقوای خالص پيشه کن و از ما سوی اللّه انديشه منما و معين قلب منير را بخاشاک حرص و هوی مسدود مکن و چشمه جاريه دل را از جريان باز مدار بحق متمسّک شو و بحبل عنايت او متوسّل باش چه که دون او احدی را از فقر بغنا نرساند و از ذلّت نفس نجات نبخشد",
   "translation": "O banished and faithful friend! Quench the thirst of heedlessness with the sanctified waters of My grace, and chase the gloom of remoteness through the morning-light of My Divine presence. Suffer not the habitation wherein dwelleth My undying love for thee to be destroyed through the tyranny of covetous desires, and overcloud not the beauty of the heavenly Youth with the dust of self and passion. Clothe thyself with the essence of righteousness, and let thine heart be afraid of none except God. Obstruct not the luminous spring of thy soul with the thorns and brambles of vain and inordinate affections, and impede not the flow of the living waters that stream from the fountain of thine heart. Set all thy hope in God, and cleave tenaciously to His unfailing mercy. Who else but Him can enrich the destitute, and deliver the fallen from his abasement?",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "quench-thirst-heedlessness",
+  "alignment": [
+    {
+      "ar": "مؤمن",
+      "en": "faithful"
+    },
+    {
+      "ar": "مهاجر",
+      "en": "banished"
+    },
+    {
+      "ar": "عطش",
+      "en": "thirst"
+    },
+    {
+      "ar": "غفلت",
+      "en": "heedlessness"
+    },
+    {
+      "ar": "سلسبيل",
+      "en": "waters"
+    },
+    {
+      "ar": "قدس",
+      "en": "sanctified"
+    },
+    {
+      "ar": "عنايت",
+      "en": "grace"
+    },
+    {
+      "ar": "تسکين",
+      "en": "Quench"
+    },
+    {
+      "ar": "شام",
+      "en": "gloom"
+    },
+    {
+      "ar": "بعد",
+      "en": "remoteness"
+    },
+    {
+      "ar": "صبح",
+      "en": "morning-light"
+    },
+    {
+      "ar": "قرب",
+      "en": "presence"
+    },
+    {
+      "ar": "منوّر",
+      "en": "Divine"
+    },
+    {
+      "ar": "بيت",
+      "en": "habitation"
+    },
+    {
+      "ar": "محبّت",
+      "en": "love"
+    },
+    {
+      "ar": "باقی",
+      "en": "undying"
+    },
+    {
+      "ar": "ظلم",
+      "en": "tyranny"
+    },
+    {
+      "ar": "شهوت",
+      "en": "covetous desires"
+    },
+    {
+      "ar": "فانی",
+      "en": "covetous"
+    },
+    {
+      "ar": "خراب",
+      "en": "destroyed"
+    },
+    {
+      "ar": "جمال",
+      "en": "beauty"
+    },
+    {
+      "ar": "غلام",
+      "en": "Youth"
+    },
+    {
+      "ar": "روحانی",
+      "en": "heavenly"
+    },
+    {
+      "ar": "حجبات",
+      "en": "dust"
+    },
+    {
+      "ar": "نفسانی",
+      "en": "self and passion"
+    },
+    {
+      "ar": "تقوای",
+      "en": "righteousness"
+    },
+    {
+      "ar": "خالص",
+      "en": "essence"
+    },
+    {
+      "ar": "پيشه",
+      "en": "Clothe"
+    },
+    {
+      "ar": "ما سوی اللّه",
+      "en": "none except God"
+    },
+    {
+      "ar": "انديشه",
+      "en": "afraid"
+    },
+    {
+      "ar": "معين",
+      "en": "spring"
+    },
+    {
+      "ar": "قلب",
+      "en": "soul"
+    },
+    {
+      "ar": "خاشاک",
+      "en": "thorns and brambles"
+    },
+    {
+      "ar": "حرص",
+      "en": "vain and inordinate affections"
+    },
+    {
+      "ar": "مسدود",
+      "en": "Obstruct"
+    },
+    {
+      "ar": "چشمه",
+      "en": "fountain"
+    },
+    {
+      "ar": "جاريه",
+      "en": "living waters"
+    },
+    {
+      "ar": "دل",
+      "en": "heart"
+    },
+    {
+      "ar": "جريان",
+      "en": "flow"
+    },
+    {
+      "ar": "حق",
+      "en": "God"
+    },
+    {
+      "ar": "متمسّک",
+      "en": "Set all thy hope"
+    },
+    {
+      "ar": "حبل",
+      "en": "unfailing mercy"
+    },
+    {
+      "ar": "متوسّل",
+      "en": "cleave tenaciously"
+    },
+    {
+      "ar": "دون",
+      "en": "else but"
+    },
+    {
+      "ar": "احدی",
+      "en": "Who"
+    },
+    {
+      "ar": "فقر",
+      "en": "destitute"
+    },
+    {
+      "ar": "غنا",
+      "en": "enrich"
+    },
+    {
+      "ar": "ذلّت",
+      "en": "abasement"
+    },
+    {
+      "ar": "نفس",
+      "en": "fallen"
+    },
+    {
+      "ar": "نجات",
+      "en": "deliver"
+    }
+  ],
+  "terms": [
+    {
+      "term": "غفلت",
+      "transliteration": "gh-f-l",
+      "literal": "heedlessness; negligence; inattention",
+      "se_rendering": "heedlessness",
+      "note": "Corpus shows 'heedless' and 'O heedless one' as dominant renderings. 'Heedlessness' here as abstract noun marks the condition needing remedy, aligning with error-state semantics.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 158,
+          "snippet": "O heedless one"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 134,
+          "snippet": "thou who hast gone astray"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 156,
+          "snippet": "thou who art gone astray"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 178,
+          "snippet": "heedless"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 6,
+          "snippet": "my heedlessness"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 90,
+          "snippet": "Essence of Negligence"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 95,
+          "snippet": "couch of heedlessness"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 152,
+          "snippet": "Children of Negligence"
+        }
+      ]
+    },
+    {
+      "term": "قدس",
+      "transliteration": "q-d-s",
+      "literal": "holy, sacred, sanctified",
+      "se_rendering": "sanctified",
+      "note": "Typically 'sacred' or 'hallowed' (47 corpus instances). 'Sanctified' modifies waters directly, emphasizing transformative grace rather than inherent holiness.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 2,
+          "snippet": "Sacred"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 81,
+          "snippet": "hallowed"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 35,
+          "snippet": "spirit of holiness"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 448,
+          "snippet": "Sanctuary"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 13,
+          "snippet": "Holy Mariner"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 6,
+          "snippet": "sacred strand"
+        },
+        {
+          "work": "tablet-of-the-holy-mariner",
+          "para": 26,
+          "snippet": "Celestial Concourse"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 189,
+          "snippet": "Most Holy"
+        }
+      ]
+    },
+    {
+      "term": "تسکين",
+      "transliteration": "s-k-n",
+      "literal": "stillness, rest, quietude, tranquility",
+      "se_rendering": "Quench",
+      "note": "Renders 'stillness, rest, quietude, tranquility' across corpus. Here imperative 'Quench' conveys dynamic cessation of thirst, departing from static stillness-renderings.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 209,
+          "snippet": "calmly"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 140,
+          "snippet": "serenity"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 185,
+          "snippet": "inmates"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 87,
+          "snippet": "the inhabitants"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 193,
+          "snippet": "inhabitants"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 62,
+          "snippet": "abase Me"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 205,
+          "snippet": "dwell"
+        }
+      ]
+    },
+    {
+      "term": "بظلم",
+      "transliteration": "z-l-m",
+      "literal": "wrongedness, oppression, meekness; state of being wronged or oppressed",
+      "se_rendering": "tyranny",
+      "note": "Corpus primarily renders as 'wrongedness, oppression, meekness, afflicted'. 'Tyranny' here uniquely personifies covetousness as external oppressive force rather than interior state.",
+      "cross_refs": [
+        {
+          "work": "fire-tablet",
+          "para": 49,
+          "snippet": "meekness"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 116,
+          "snippet": "injury"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 36,
+          "snippet": "Wronged One"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 253,
+          "snippet": "wronged"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 9,
+          "snippet": "Darkness"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 33,
+          "snippet": "tyranny"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 573,
+          "snippet": "oppressed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 181,
+          "snippet": "wronged ones"
+        }
+      ]
+    },
+    {
+      "term": "جمال",
+      "transliteration": "j-m-l",
+      "literal": "beauty; comeliness",
+      "se_rendering": "beauty",
+      "note": "Most frequent rendering 'Beauty' (capitalized, denoting Divine attribute). Here lowercase 'beauty' describes the heavenly Youth's appearance, subordinate rather than absolute.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 11,
+          "snippet": "beauty"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 193,
+          "snippet": "Among others"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 67,
+          "snippet": "Among"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 208,
+          "snippet": "Among the sciences"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 268,
+          "snippet": "Among them"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 118,
+          "snippet": "following"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 246,
+          "snippet": "Amongst"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 88,
+          "snippet": "for a beauty"
+        }
+      ]
+    },
+    {
+      "term": "روحانی",
+      "transliteration": "r-w-h",
+      "literal": "to go; to depart; to rest; spirit; soul",
+      "se_rendering": "heavenly",
+      "note": "Corpus splits between 'spiritual' and mystical terms like 'My Well-Beloved, spirit'. 'Heavenly Youth' reinterprets the epithet through Christological resonance absent elsewhere.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 702,
+          "snippet": "my spirit"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 201,
+          "snippet": "the Spirit"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 121,
+          "snippet": "spiritual"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 215,
+          "snippet": "spiritually-minded"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 20,
+          "snippet": "a breath of My own Spirit"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 100,
+          "snippet": "spirit"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 22,
+          "snippet": "in a spirit"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 17,
+          "snippet": "with My spirit"
+        }
+      ]
+    },
+    {
+      "term": "خالص",
+      "transliteration": "kh-l-s",
+      "literal": "sincere; devoted; pure one",
+      "se_rendering": "essence",
+      "note": "Usually 'sincere, devoted' or 'the sincere ones'. Singular 'essence' here abstracts virtue into ontological substance rather than dispositional quality.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 187,
+          "snippet": "devoted"
+        },
+        {
+          "work": "fire-tablet",
+          "para": 1,
+          "snippet": "the sincere"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 44,
+          "snippet": "insincere"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 421,
+          "snippet": "reserved"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 15,
+          "snippet": "wholly devoted"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 72,
+          "snippet": "pure"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 781,
+          "snippet": "purely"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 21,
+          "snippet": "wholly"
+        }
+      ]
+    },
+    {
+      "term": "معين",
+      "transliteration": "ʿ-y-n",
+      "literal": "eye; fountain; spring; essence",
+      "se_rendering": "spring",
+      "note": "Polysemous: 'eye, fountain, spring, essence'. SE renders 'spring' here, echoing 'fountain of thine heart' below, doubling aquatic imagery across parallel constructions.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 33,
+          "snippet": "with Thine eye"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 12,
+          "snippet": "with the watchful eye of Thy loving-kindness"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 243,
+          "snippet": "appointed certain ones"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 14,
+          "snippet": "waters of detachment"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 32,
+          "snippet": "my Aider"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 18,
+          "snippet": "appointed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 77,
+          "snippet": "eyes"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 111,
+          "snippet": "luminous and crystal Springs"
+        }
+      ]
+    },
+    {
+      "term": "بحق",
+      "transliteration": "h-q-q",
+      "literal": "truth; right; that which is true or just",
+      "se_rendering": "God",
+      "note": "Polychromatic: 'the True One, the Truth, the one true God, Sun of Truth'. Here collapsed to bare 'God', stripping mystical luminosity for direct reference.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 238,
+          "snippet": "the True One"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 52,
+          "snippet": "Sun of Truth"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 103,
+          "snippet": "Luminaries of Truth"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 113,
+          "snippet": "was realized"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 215,
+          "snippet": "realization"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 9,
+          "snippet": "evident"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 8,
+          "snippet": "betrayal of truth"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 195,
+          "snippet": "incontrovertible"
+        }
+      ]
+    },
+    {
+      "term": "متمسّک",
+      "transliteration": "m-s-k",
+      "literal": "musk; to seize; grip",
+      "se_rendering": "cleave tenaciously",
+      "note": "Core renderings 'holding fast unto, cleave, clung' emphasize gripping. 'Cleave tenaciously' intensifies with 'tenaciously', stressing fervent adhesion beyond mere holding.",
+      "cross_refs": [
+        {
+          "work": "kitab-i-iqan",
+          "para": 188,
+          "snippet": "musk"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 5,
+          "snippet": "holding fast unto"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 64,
+          "snippet": "holding fast"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 9,
+          "snippet": "clung"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 161,
+          "snippet": "cleave unto"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 37,
+          "snippet": "cling unto"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 25,
+          "snippet": "clung to"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 518,
+          "snippet": "cleaving fast"
+        }
+      ]
+    }
+  ],
+  "section_index": "CLIII.1",
+  "section": "CLIII",
+  "section_para": 1
 }

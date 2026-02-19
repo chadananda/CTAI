@@ -1,10 +1,273 @@
 {
   "work": "The Hidden Words",
   "slug": "the-hidden-words",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 25,
   "source_text": "(٢٤) ﴿ يَا ابْنَ الإِنْسانِ ﴾\nلَا تَتَعَدَّ عَنْ حَدِّكَ وَلا تَدَّعِ مَا لَا يَنْبَغِي لِنَفْسِكَ، اسْجُدْ لِطَلْعَةِ رَبِّكَ ذِي الْقُدْرَةِ وَالإِقْتِدَارِ.",
   "translation": "(24) O SON OF MAN!\nTransgress not thy limits, nor claim that which beseemeth thee not. Prostrate thyself before the countenance of thy God, the Lord of might and power.",
   "source_lang": "ar",
-  "score": 10
+  "score": 10,
+  "page_slug": "transgress-not-thy-limits",
+  "alignment": [
+    {
+      "ar": "يَا",
+      "en": "O"
+    },
+    {
+      "ar": "ابْنَ",
+      "en": "SON"
+    },
+    {
+      "ar": "الإِنْسانِ",
+      "en": "MAN"
+    },
+    {
+      "ar": "مَا",
+      "en": "that which"
+    },
+    {
+      "ar": "لَا يَنْبَغِي",
+      "en": "beseemeth thee not"
+    },
+    {
+      "ar": "لِنَفْسِكَ",
+      "en": "thee"
+    },
+    {
+      "ar": "اسْجُدْ",
+      "en": "Prostrate thyself"
+    },
+    {
+      "ar": "لِطَلْعَةِ",
+      "en": "before the countenance"
+    },
+    {
+      "ar": "ذِي الْقُدْرَةِ",
+      "en": "of might"
+    },
+    {
+      "ar": "وَالإِقْتِدَارِ",
+      "en": "and power"
+    }
+  ],
+  "terms": [
+    {
+      "term": "حَدِّكَ",
+      "transliteration": "h-d-d",
+      "literal": "iron; sharp, keen, acute",
+      "se_rendering": "limits",
+      "note": "Root ح-د-د yields 'keen,' 'sharp,' 'penetrating' typically; 'limits' here invokes the sense of 'bounded constraint' — unique metaphorical extension in SE's renderings.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 10,
+          "snippet": "keen"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 77,
+          "snippet": "sharp"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 134,
+          "snippet": "handiwork"
+        },
+        {
+          "work": "gleanings",
+          "para": 384,
+          "snippet": "penetrating"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 163,
+          "snippet": "veils of limitation"
+        },
+        {
+          "work": "kitab-i-iqan",
+          "para": 154,
+          "snippet": "limited"
+        },
+        {
+          "work": "gleanings",
+          "para": 308,
+          "snippet": "iron"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 228,
+          "snippet": "capacity"
+        }
+      ]
+    },
+    {
+      "term": "تَدَّعِ",
+      "transliteration": "d-ʿ-w",
+      "literal": "call, invocation, summons; to call, invite, summon",
+      "se_rendering": "claim",
+      "note": "Root د-ع-و normally 'supplicated,' 'called upon,' 'summoned' (33 occ); rendered 'claim' here—a marked semantic shift toward presumption rather than invocation.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 839,
+          "snippet": "supplicated Thee"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 199,
+          "snippet": "summoned"
+        },
+        {
+          "work": "gleanings",
+          "para": 407,
+          "snippet": "summon"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 537,
+          "snippet": "called upon Thy servants"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 36,
+          "snippet": "I call upon Thee"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 48,
+          "snippet": "allowed me"
+        },
+        {
+          "work": "gleanings",
+          "para": 671,
+          "snippet": "profess"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 128,
+          "snippet": "entreat"
+        }
+      ]
+    },
+    {
+      "term": "يَنْبَغِي",
+      "transliteration": "n-b-gh",
+      "literal": "it is proper; it is fitting; it is necessary; it behooves",
+      "se_rendering": "beseemeth",
+      "note": "Sparse root (3 occ total); SE uses 'beseemeth' (archaic English for 'is fitting/proper'), maintaining propriety language aligned with normative rendering 'is meet.'",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 239,
+          "snippet": "behooves"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 13,
+          "snippet": "is meet"
+        }
+      ]
+    },
+    {
+      "term": "اسْجُدْ",
+      "transliteration": "kh-d-m",
+      "literal": "service; servitude; to serve",
+      "se_rendering": "Prostrate",
+      "note": "Jafar lists root خ-د-م ('service'), but source shows root س-ج-د; SE renders 'Prostrate'—the traditional devotional posture, grounded in Qur'anic usage.",
+      "cross_refs": [
+        {
+          "work": "will-and-testament",
+          "para": 3,
+          "snippet": "service"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 424,
+          "snippet": "serve"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 19,
+          "snippet": "in the important services"
+        },
+        {
+          "work": "gleanings",
+          "para": 653,
+          "snippet": "with the services"
+        },
+        {
+          "work": "gleanings",
+          "para": 513,
+          "snippet": "to the service"
+        },
+        {
+          "work": "gleanings",
+          "para": 723,
+          "snippet": "in service"
+        },
+        {
+          "work": "gleanings",
+          "para": 205,
+          "snippet": "in the service"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 46,
+          "snippet": "to serve Him"
+        }
+      ]
+    },
+    {
+      "term": "الْقُدْرَةِ",
+      "transliteration": "q-d-r",
+      "literal": "power; might; decree; measure; worth",
+      "se_rendering": "might",
+      "note": "Root ق-د-ر ('power, might, decree') with 100 occurrences; 'might' here is conservative, standard rendering—paired with 'power' for parallelism rather than 'decree' or 'measure.'",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 171,
+          "snippet": "a while"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 339,
+          "snippet": "Thy power"
+        },
+        {
+          "work": "gleanings",
+          "para": 138,
+          "snippet": "hath been decreed"
+        },
+        {
+          "work": "gleanings",
+          "para": 662,
+          "snippet": "hath decreed"
+        },
+        {
+          "work": "gleanings",
+          "para": 496,
+          "snippet": "forbearing towards"
+        },
+        {
+          "work": "gleanings",
+          "para": 111,
+          "snippet": "schools"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 12,
+          "snippet": "God of power"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 35,
+          "snippet": "Potent"
+        }
+      ]
+    }
+  ],
+  "section_index": "49",
+  "section": "49",
+  "section_para": 1
 }

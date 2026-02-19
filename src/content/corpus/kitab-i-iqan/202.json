@@ -1,10 +1,332 @@
 {
   "work": "Kitab-i-Iqan",
   "slug": "kitab-i-iqan",
-  "author": "Baha'u'llah",
+  "author": "Bahá'u'lláh",
   "pair_index": 202,
   "source_text": "باری، چون معنی علم را ادراک ننمودهاند و افکار مجعوله خود را که ناشی از مظاهر جهل شده، اسم آن را علم گذاشته، بر مبدء علوم وارد آوردهاند آنچه ديده‌ايد و شنيده‌ايد.",
   "translation": "Inasmuch as they have not apprehended the meaning of Knowledge, and have called by that name those images fashioned by their own fancy and which have sprung from the embodiments of ignorance, they therefore have inflicted upon the Source of Knowledge that which thou hast heard and witnessed.",
   "source_lang": "fa",
-  "score": 10
+  "score": 10,
+  "page_slug": "inflicted-source-of-knowledge",
+  "alignment": [
+    {
+      "ar": "باری",
+      "en": "Inasmuch"
+    },
+    {
+      "ar": "چون",
+      "en": "as"
+    },
+    {
+      "ar": "معنی",
+      "en": "meaning"
+    },
+    {
+      "ar": "علم",
+      "en": "Knowledge"
+    },
+    {
+      "ar": "ادراک",
+      "en": "apprehended"
+    },
+    {
+      "ar": "ننمودهاند",
+      "en": "have not"
+    },
+    {
+      "ar": "افکار",
+      "en": "images"
+    },
+    {
+      "ar": "مجعوله",
+      "en": "fashioned"
+    },
+    {
+      "ar": "خود",
+      "en": "their own"
+    },
+    {
+      "ar": "که",
+      "en": "which"
+    },
+    {
+      "ar": "ناشی",
+      "en": "sprung"
+    },
+    {
+      "ar": "مظاهر",
+      "en": "embodiments"
+    },
+    {
+      "ar": "جهل",
+      "en": "ignorance"
+    },
+    {
+      "ar": "شده",
+      "en": "have"
+    },
+    {
+      "ar": "اسم",
+      "en": "name"
+    },
+    {
+      "ar": "آن",
+      "en": "that"
+    },
+    {
+      "ar": "گذاشته",
+      "en": "called"
+    },
+    {
+      "ar": "مبدء",
+      "en": "Source"
+    },
+    {
+      "ar": "وارد آوردهاند",
+      "en": "inflicted"
+    },
+    {
+      "ar": "آنچه",
+      "en": "that which"
+    }
+  ],
+  "terms": [
+    {
+      "term": "معنی",
+      "transliteration": "m-ʿ-n",
+      "literal": "meaning; sense; significance",
+      "se_rendering": "meaning",
+      "note": "Standard rendering 'meaning' appears here. Rare deviation from SE's mystical renderings like 'O mystic nightingale' seen elsewhere in corpus.",
+      "cross_refs": [
+        {
+          "work": "the-hidden-words",
+          "para": 75,
+          "snippet": "O mystic nightingale"
+        },
+        {
+          "work": "gleanings",
+          "para": 672,
+          "snippet": "to the rose-garden of unfading splendor"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 89,
+          "snippet": "nightingale of holiness"
+        }
+      ]
+    },
+    {
+      "term": "ادراک",
+      "transliteration": "d-r-y",
+      "literal": "veiling; concealment",
+      "se_rendering": "apprehended",
+      "note": "Root typically renders as 'comprehend' or 'understanding' (10 occurrences). Here 'apprehended' adds forensic force — catching a thief of truth.",
+      "cross_refs": [
+        {
+          "work": "prayers-and-meditations",
+          "para": 206,
+          "snippet": "I know not"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 99,
+          "snippet": "shining"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 32,
+          "snippet": "possessed of"
+        },
+        {
+          "work": "gleanings",
+          "para": 404,
+          "snippet": "hath"
+        }
+      ]
+    },
+    {
+      "term": "افکار",
+      "transliteration": "f-k-r",
+      "literal": "thoughts; ideas; fancies; opinions",
+      "se_rendering": "images fashioned",
+      "note": "Rendered 'images fashioned' — SE's only composite construction for this root. Typically single words like 'minds' or 'Meditate' across 13 occurrences.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 179,
+          "snippet": "minds"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 175,
+          "snippet": "Meditate"
+        },
+        {
+          "work": "gleanings",
+          "para": 172,
+          "snippet": "busy yourselves"
+        },
+        {
+          "work": "gleanings",
+          "para": 305,
+          "snippet": "ponder"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 123,
+          "snippet": "Remember"
+        }
+      ]
+    },
+    {
+      "term": "مظاهر",
+      "transliteration": "z-h-r",
+      "literal": "manifestation; appearance; to appear; to manifest",
+      "se_rendering": "embodiments",
+      "note": "Rendered 'embodiments' here rather than 'Manifestation' (primary rendering, 96 occurrences). Applied to ignorance creates theological irony — ignorance given form.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 53,
+          "snippet": "Manifestation"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 160,
+          "snippet": "Author of all Manifestations"
+        },
+        {
+          "work": "gleanings",
+          "para": 222,
+          "snippet": "material"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 11,
+          "snippet": "revealed"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 206,
+          "snippet": "appeared"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 8,
+          "snippet": "daysprings of authority and sources of command"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 255,
+          "snippet": "Manifestations"
+        },
+        {
+          "work": "prayers-and-meditations",
+          "para": 791,
+          "snippet": "tokens of Thy handiwork"
+        }
+      ]
+    },
+    {
+      "term": "جهل",
+      "transliteration": "j-h-l",
+      "literal": "ignorant; foolish; the ignorant ones",
+      "se_rendering": "ignorance",
+      "note": "Rendered 'ignorance' abstractly rather than 'foolish ones' or 'fool' (agent nouns dominate corpus). Rare nominalization emphasizes epistemic failure over personal state.",
+      "cross_refs": [
+        {
+          "work": "gleanings",
+          "para": 221,
+          "snippet": "foolish"
+        },
+        {
+          "work": "the-hidden-words",
+          "para": 99,
+          "snippet": "FOOLISH, YET HAVE A NAME TO BE WISE"
+        },
+        {
+          "work": "gleanings",
+          "para": 237,
+          "snippet": "of those who are ignorant"
+        },
+        {
+          "work": "gleanings",
+          "para": 543,
+          "snippet": "among the foolish"
+        },
+        {
+          "work": "gleanings",
+          "para": 719,
+          "snippet": "fool"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 7,
+          "snippet": "ignorance"
+        },
+        {
+          "work": "kitab-i-ahd",
+          "para": 5,
+          "snippet": "the ignorant"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 237,
+          "snippet": "fanaticism"
+        }
+      ]
+    },
+    {
+      "term": "وارد",
+      "transliteration": "w-r-d",
+      "literal": "to enter, to come, to befall, to arrive",
+      "se_rendering": "inflicted upon",
+      "note": "Rendered 'inflicted upon' — uniquely active-hostile compared to passive forms like 'befallen' and 'hath befallen' dominating the 36 occurrences. Sharp departure emphasizing human agency.",
+      "cross_refs": [
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 126,
+          "snippet": "hath touched"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 61,
+          "snippet": "befallen"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 113,
+          "snippet": "came"
+        },
+        {
+          "work": "epistle-to-the-son-of-the-wolf",
+          "para": 183,
+          "snippet": "befell"
+        },
+        {
+          "work": "gleanings",
+          "para": 557,
+          "snippet": "will discern"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 30,
+          "snippet": "brought forth"
+        },
+        {
+          "work": "gleanings",
+          "para": 489,
+          "snippet": "hath befallen"
+        },
+        {
+          "work": "will-and-testament",
+          "para": 49,
+          "snippet": "approaching"
+        }
+      ]
+    }
+  ],
+  "section_index": "202",
+  "section": "202",
+  "section_para": 1
 }
