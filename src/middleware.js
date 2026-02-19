@@ -1,8 +1,8 @@
 import { getSessionToken, getSession, hashApiKey, resolveApiKey, getUser } from './lib/auth.js';
 
 export async function onRequest({ request, locals, url }, next) {
-  // Only gate /api/* routes (except /api/auth/* which handles login)
-  if (!url.pathname.startsWith('/api/') || url.pathname.startsWith('/api/auth/')) {
+  // Only gate /api/* routes (except /api/auth/* and /api/research which are public)
+  if (!url.pathname.startsWith('/api/') || url.pathname.startsWith('/api/auth/') || url.pathname.startsWith('/api/research')) {
     return next();
   }
 

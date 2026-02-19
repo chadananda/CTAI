@@ -10,104 +10,292 @@
   "page_slug": "speech-of-him-that-speaketh-truth",
   "alignment": [
     {
-      "ar": "يا",
-      "en": "O"
-    },
-    {
-      "ar": "السّلطان",
-      "en": "King"
-    },
-    {
-      "ar": "اسمع",
-      "en": "Hearken"
-    },
-    {
-      "ar": "قول",
-      "en": "speech"
-    },
-    {
-      "ar": "من",
-      "en": "Him"
-    },
-    {
-      "ar": "ينطق",
-      "en": "speaketh"
-    },
-    {
-      "ar": "بالحقّ",
-      "en": "the truth"
-    },
-    {
-      "ar": "لا يريد",
-      "en": "doth not ask"
-    },
-    {
-      "ar": "منك",
-      "en": "thee"
-    },
-    {
-      "ar": "جزاء",
-      "en": "recompense"
-    },
-    {
-      "ar": "أعطاك",
-      "en": "bestow upon thee"
-    },
-    {
-      "ar": "الله",
-      "en": "God"
-    },
-    {
-      "ar": "كان",
-      "en": "is"
-    },
-    {
-      "ar": "على",
-      "en": "treadeth"
-    },
-    {
-      "ar": "قسطاس",
-      "en": "unerringly"
-    },
-    {
-      "ar": "حقّ",
-      "en": "straight"
-    },
-    {
-      "ar": "مستقيم",
-      "en": "Path"
-    },
-    {
-      "ar": "يدعوك",
-      "en": "summoneth thee"
+      "ar": "قول من",
+      "en": "the speech of Him",
+      "src": [
+        26,
+        32
+      ],
+      "tgt": [
+        43,
+        60
+      ]
     },
     {
       "ar": "ربّك",
-      "en": "thy Lord"
+      "en": "God, thy Lord",
+      "src": [
+        122,
+        126
+      ],
+      "tgt": [
+        264,
+        277
+      ]
     },
     {
-      "ar": "يهديك",
-      "en": "showeth thee"
+      "ar": "سبل الرّشد",
+      "en": "the right course",
+      "src": [
+        134,
+        144
+      ],
+      "tgt": [
+        296,
+        312
+      ]
     },
     {
-      "ar": "سبل",
-      "en": "way"
+      "ar": "على قسطاس حقّ",
+      "en": "unerringly treadeth the straight Path",
+      "src": [
+        84,
+        97
+      ],
+      "tgt": [
+        192,
+        229
+      ]
     },
     {
-      "ar": "الرّشد",
-      "en": "right course"
+      "ar": "أن",
+      "en": "Hearken",
+      "src": [
+        0,
+        2
+      ],
+      "tgt": [
+        0,
+        7
+      ]
     },
     {
-      "ar": "الفلاح",
-      "en": "true felicity"
+      "ar": "يا",
+      "en": "O",
+      "src": [
+        3,
+        5
+      ],
+      "tgt": [
+        9,
+        10
+      ]
+    },
+    {
+      "ar": "أيّها",
+      "en": "King",
+      "src": [
+        6,
+        11
+      ],
+      "tgt": [
+        11,
+        15
+      ]
+    },
+    {
+      "ar": "ينطق",
+      "en": "speaketh",
+      "src": [
+        33,
+        37
+      ],
+      "tgt": [
+        66,
+        74
+      ]
+    },
+    {
+      "ar": "بالحقّ",
+      "en": "the truth",
+      "src": [
+        38,
+        44
+      ],
+      "tgt": [
+        75,
+        84
+      ]
+    },
+    {
+      "ar": "ولا",
+      "en": "not",
+      "src": [
+        45,
+        48
+      ],
+      "tgt": [
+        100,
+        103
+      ]
+    },
+    {
+      "ar": "يريد",
+      "en": "ask",
+      "src": [
+        49,
+        53
+      ],
+      "tgt": [
+        104,
+        107
+      ]
+    },
+    {
+      "ar": "منك",
+      "en": "thee",
+      "src": [
+        54,
+        57
+      ],
+      "tgt": [
+        108,
+        112
+      ]
+    },
+    {
+      "ar": "جزاء",
+      "en": "recompense",
+      "src": [
+        58,
+        62
+      ],
+      "tgt": [
+        116,
+        126
+      ]
+    },
+    {
+      "ar": "عمّا",
+      "en": "with the things",
+      "src": [
+        63,
+        67
+      ],
+      "tgt": [
+        131,
+        146
+      ]
+    },
+    {
+      "ar": "أعطاك",
+      "en": "bestow",
+      "src": [
+        68,
+        73
+      ],
+      "tgt": [
+        166,
+        172
+      ]
+    },
+    {
+      "ar": "الله",
+      "en": "God",
+      "src": [
+        74,
+        78
+      ],
+      "tgt": [
+        147,
+        150
+      ]
+    },
+    {
+      "ar": "وكان",
+      "en": "hath",
+      "src": [
+        79,
+        83
+      ],
+      "tgt": [
+        151,
+        155
+      ]
+    },
+    {
+      "ar": "ويدعوك",
+      "en": "summoneth",
+      "src": [
+        106,
+        112
+      ],
+      "tgt": [
+        244,
+        253
+      ]
+    },
+    {
+      "ar": "إلى",
+      "en": "unto",
+      "src": [
+        113,
+        116
+      ],
+      "tgt": [
+        259,
+        263
+      ]
+    },
+    {
+      "ar": "ويهديك",
+      "en": "showeth",
+      "src": [
+        127,
+        133
+      ],
+      "tgt": [
+        283,
+        290
+      ]
+    },
+    {
+      "ar": "والفلاح",
+      "en": "true felicity",
+      "src": [
+        145,
+        152
+      ],
+      "tgt": [
+        338,
+        351
+      ]
     },
     {
       "ar": "لتكون",
-      "en": "that haply thou mayest be"
+      "en": "haply",
+      "src": [
+        153,
+        158
+      ],
+      "tgt": [
+        358,
+        363
+      ]
     },
     {
-      "ar": "من المفلحين",
-      "en": "of them with whom it shall be well"
+      "ar": "من",
+      "en": "of",
+      "src": [
+        159,
+        161
+      ],
+      "tgt": [
+        379,
+        381
+      ]
+    },
+    {
+      "ar": "المفلحين",
+      "en": "them",
+      "src": [
+        162,
+        170
+      ],
+      "tgt": [
+        382,
+        386
+      ]
     }
   ],
   "terms": [

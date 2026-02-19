@@ -4,18 +4,34 @@
   "author": "Bahá'u'lláh",
   "pair_index": 289,
   "source_text": "المنزول من الباء و الهاء",
-  "translation": "Revealed by the \u201cBá\u201d and the \u201cHá.\u201d",
+  "translation": "Revealed by the “Bá” and the “Há.”",
   "source_lang": "fa",
   "score": 0,
   "page_slug": "revealed-by-ba-and-ha",
   "alignment": [
     {
-      "ar": "المنزول من",
-      "en": "Revealed by"
+      "ar": "المنزول من الباء",
+      "en": "Revealed by the “Bá”",
+      "src": [
+        0,
+        16
+      ],
+      "tgt": [
+        0,
+        20
+      ]
     },
     {
-      "ar": "الباء و الهاء",
-      "en": "the \u201cBá\u201d and the \u201cHá\u201d"
+      "ar": "و الهاء",
+      "en": "and the “Há.”",
+      "src": [
+        17,
+        24
+      ],
+      "tgt": [
+        21,
+        34
+      ]
     }
   ],
   "terms": [],

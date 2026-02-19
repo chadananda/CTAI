@@ -10,188 +10,424 @@
   "page_slug": "man-supreme-talisman-education",
   "alignment": [
     {
-      "ar": "انسان",
-      "en": "Man"
+      "ar": "انسان طلسم اعظم",
+      "en": "Man is the supreme Talisman",
+      "src": [
+        0,
+        15
+      ],
+      "tgt": [
+        0,
+        27
+      ]
     },
     {
-      "ar": "طلسم",
-      "en": "Talisman"
+      "ar": "عدم تربیت",
+      "en": "Lack of a proper education",
+      "src": [
+        25,
+        34
+      ],
+      "tgt": [
+        29,
+        55
+      ]
     },
     {
-      "ar": "اعظم",
-      "en": "supreme"
+      "ar": "بیک کلمه",
+      "en": "Through a word",
+      "src": [
+        71,
+        79
+      ],
+      "tgt": [
+        126,
+        140
+      ]
     },
     {
-      "ar": "است",
-      "en": "is"
+      "ar": "بکلمهٴ اخری",
+      "en": "by one word more",
+      "src": [
+        92,
+        103
+      ],
+      "tgt": [
+        202,
+        218
+      ]
     },
     {
-      "ar": "ولکن",
-      "en": "however"
-    },
-    {
-      "ar": "عدم",
-      "en": "Lack"
-    },
-    {
-      "ar": "تربیت",
-      "en": "proper education"
-    },
-    {
-      "ar": "او",
-      "en": "him"
-    },
-    {
-      "ar": "محروم",
-      "en": "deprived"
-    },
-    {
-      "ar": "نموده",
-      "en": "hath"
-    },
-    {
-      "ar": "آنچه",
-      "en": "that which"
-    },
-    {
-      "ar": "با",
-      "en": "doth"
-    },
-    {
-      "ar": "است",
-      "en": "possess"
-    },
-    {
-      "ar": "بیک",
-      "en": "by one"
-    },
-    {
-      "ar": "کلمه",
-      "en": "word"
-    },
-    {
-      "ar": "خلق",
-      "en": "called into being"
-    },
-    {
-      "ar": "فرمود",
-      "en": "was"
-    },
-    {
-      "ar": "بکلمهٴ",
-      "en": "by one word"
-    },
-    {
-      "ar": "اخری",
-      "en": "more"
-    },
-    {
-      "ar": "مقام",
-      "en": "Source"
-    },
-    {
-      "ar": "تعلیم",
-      "en": "education"
-    },
-    {
-      "ar": "هدایت",
-      "en": "guided"
-    },
-    {
-      "ar": "نمود",
-      "en": "he was"
+      "ar": "بمقام تعلیم هدایت",
+      "en": "to recognize the Source of his education",
+      "src": [
+        104,
+        121
+      ],
+      "tgt": [
+        233,
+        273
+      ]
     },
     {
       "ar": "بکلمهٴ دیگر",
-      "en": "by yet another word"
+      "en": "by yet another word",
+      "src": [
+        129,
+        140
+      ],
+      "tgt": [
+        275,
+        294
+      ]
     },
     {
-      "ar": "مراتب",
-      "en": "station"
+      "ar": "مراتب و مقاماتش",
+      "en": "his station and destiny",
+      "src": [
+        141,
+        156
+      ],
+      "tgt": [
+        295,
+        318
+      ]
     },
     {
-      "ar": "مقاماتش",
-      "en": "destiny"
+      "ar": "حضرت موجود",
+      "en": "The Great Being",
+      "src": [
+        170,
+        180
+      ],
+      "tgt": [
+        337,
+        352
+      ]
+    },
+    {
+      "ar": "بمثابهٴ معدن",
+      "en": "as a mine",
+      "src": [
+        199,
+        211
+      ],
+      "tgt": [
+        371,
+        380
+      ]
+    },
+    {
+      "ar": "دارای احجار کریمه",
+      "en": "rich in gems of inestimable value",
+      "src": [
+        215,
+        232
+      ],
+      "tgt": [
+        381,
+        414
+      ]
+    },
+    {
+      "ar": "بعرصهٴ شهود",
+      "en": "its treasures",
+      "src": [
+        264,
+        275
+      ],
+      "tgt": [
+        457,
+        470
+      ]
+    },
+    {
+      "ar": "عالم انسانی",
+      "en": "mankind",
+      "src": [
+        282,
+        293
+      ],
+      "tgt": [
+        483,
+        490
+      ]
+    },
+    {
+      "ar": "است",
+      "en": "hath",
+      "src": [
+        16,
+        19
+      ],
+      "tgt": [
+        56,
+        60
+      ]
+    },
+    {
+      "ar": "ولکن",
+      "en": "however",
+      "src": [
+        20,
+        24
+      ],
+      "tgt": [
+        62,
+        69
+      ]
+    },
+    {
+      "ar": "او",
+      "en": "him",
+      "src": [
+        35,
+        37
+      ],
+      "tgt": [
+        80,
+        83
+      ]
+    },
+    {
+      "ar": "از",
+      "en": "of",
+      "src": [
+        41,
+        43
+      ],
+      "tgt": [
+        84,
+        86
+      ]
+    },
+    {
+      "ar": "آنچه",
+      "en": "that which",
+      "src": [
+        44,
+        48
+      ],
+      "tgt": [
+        87,
+        97
+      ]
+    },
+    {
+      "ar": "با",
+      "en": "he",
+      "src": [
+        49,
+        51
+      ],
+      "tgt": [
+        98,
+        100
+      ]
+    },
+    {
+      "ar": "است",
+      "en": "doth",
+      "src": [
+        55,
+        58
+      ],
+      "tgt": [
+        101,
+        105
+      ]
+    },
+    {
+      "ar": "محروم",
+      "en": "deprived",
+      "src": [
+        59,
+        64
+      ],
+      "tgt": [
+        71,
+        79
+      ]
+    },
+    {
+      "ar": "خلق",
+      "en": "proceeding out",
+      "src": [
+        80,
+        83
+      ],
+      "tgt": [
+        141,
+        155
+      ]
+    },
+    {
+      "ar": "فرمود",
+      "en": "called",
+      "src": [
+        84,
+        89
+      ],
+      "tgt": [
+        183,
+        189
+      ]
+    },
+    {
+      "ar": "نمود",
+      "en": "guided",
+      "src": [
+        122,
+        126
+      ],
+      "tgt": [
+        226,
+        232
+      ]
+    },
+    {
+      "ar": "را",
+      "en": "were",
+      "src": [
+        157,
+        159
+      ],
+      "tgt": [
+        319,
+        323
+      ]
     },
     {
       "ar": "حفظ",
-      "en": "safeguarded"
-    },
-    {
-      "ar": "حضرت",
-      "en": "Great Being"
-    },
-    {
-      "ar": "موجود",
-      "en": "Being"
+      "en": "safeguarded",
+      "src": [
+        160,
+        163
+      ],
+      "tgt": [
+        324,
+        335
+      ]
     },
     {
       "ar": "میفرماید",
-      "en": "saith"
+      "en": "saith",
+      "src": [
+        181,
+        189
+      ],
+      "tgt": [
+        353,
+        358
+      ]
     },
     {
       "ar": "انسان",
-      "en": "man"
-    },
-    {
-      "ar": "بمثابهٴ",
-      "en": "as"
-    },
-    {
-      "ar": "معدن",
-      "en": "mine"
-    },
-    {
-      "ar": "دارای",
-      "en": "rich"
-    },
-    {
-      "ar": "احجار",
-      "en": "gems"
-    },
-    {
-      "ar": "کریمه",
-      "en": "inestimable value"
+      "en": "man",
+      "src": [
+        190,
+        195
+      ],
+      "tgt": [
+        367,
+        370
+      ]
     },
     {
       "ar": "مشاهده",
-      "en": "Regard"
+      "en": "Regard",
+      "src": [
+        237,
+        243
+      ],
+      "tgt": [
+        360,
+        366
+      ]
     },
     {
       "ar": "بتربیت",
-      "en": "Education"
+      "en": "Education",
+      "src": [
+        248,
+        254
+      ],
+      "tgt": [
+        416,
+        425
+      ]
     },
     {
       "ar": "جواهر",
-      "en": "treasures"
+      "en": "reveal",
+      "src": [
+        255,
+        260
+      ],
+      "tgt": [
+        450,
+        456
+      ]
     },
     {
       "ar": "آن",
-      "en": "its"
+      "en": "it",
+      "src": [
+        261,
+        263
+      ],
+      "tgt": [
+        444,
+        446
+      ]
     },
     {
-      "ar": "بعرصهٴ",
-      "en": "to reveal"
+      "ar": "و",
+      "en": "and",
+      "src": [
+        280,
+        281
+      ],
+      "tgt": [
+        472,
+        475
+      ]
     },
     {
-      "ar": "شهود",
-      "en": "reveal"
+      "ar": "از",
+      "en": "to",
+      "src": [
+        294,
+        296
+      ],
+      "tgt": [
+        491,
+        493
+      ]
     },
     {
-      "ar": "آید",
-      "en": "cause it"
-    },
-    {
-      "ar": "عالم",
-      "en": "mankind"
+      "ar": "آن",
+      "en": "therefrom",
+      "src": [
+        297,
+        299
+      ],
+      "tgt": [
+        502,
+        511
+      ]
     },
     {
       "ar": "منتفع",
-      "en": "benefit"
-    },
-    {
-      "ar": "گردد",
-      "en": "can"
+      "en": "benefit",
+      "src": [
+        300,
+        305
+      ],
+      "tgt": [
+        494,
+        501
+      ]
     }
   ],
   "terms": [

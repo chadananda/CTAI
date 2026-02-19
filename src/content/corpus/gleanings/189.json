@@ -10,120 +10,424 @@
   "page_slug": "kiss-hands-well-beloved",
   "alignment": [
     {
-      "ar": "تالله",
-      "en": "God is my witness"
-    },
-    {
-      "ar": "لو",
-      "en": "Had"
-    },
-    {
-      "ar": "لم یكن",
-      "en": "it not been"
-    },
-    {
-      "ar": "مخالفًا",
-      "en": "in conflict"
-    },
-    {
-      "ar": "نزل",
-      "en": "decreed"
-    },
-    {
-      "ar": "الألواح",
-      "en": "the Tablets"
-    },
-    {
-      "ar": "لقبّلت",
-      "en": "would have gladly kissed"
-    },
-    {
-      "ar": "ید",
-      "en": "the hands"
-    },
-    {
-      "ar": "الّذي",
-      "en": "whosoever"
-    },
-    {
-      "ar": "یسفك",
-      "en": "shed"
-    },
-    {
-      "ar": "دمي",
-      "en": "my blood"
-    },
-    {
-      "ar": "سبیل",
-      "en": "the path"
+      "ar": "في الألواح",
+      "en": "the Tablets",
+      "src": [
+        32,
+        42
+      ],
+      "tgt": [
+        63,
+        74
+      ]
     },
     {
       "ar": "محبوب العالمین",
-      "en": "the Well-Beloved"
+      "en": "the Well-Beloved",
+      "src": [
+        76,
+        90
+      ],
+      "tgt": [
+        188,
+        204
+      ]
     },
     {
-      "ar": "قدّرت",
-      "en": "would, moreover, have bestowed"
+      "ar": "نقمة الله",
+      "en": "the wrath of the Almighty",
+      "src": [
+        145,
+        154
+      ],
+      "tgt": [
+        372,
+        397
+      ]
     },
     {
-      "ar": "ملّکني",
-      "en": "allowed me to possess"
-    },
-    {
-      "ar": "الله",
-      "en": "God"
-    },
-    {
-      "ar": "إرثًا",
-      "en": "a share"
+      "ar": "تالله",
+      "en": "God is my witness",
+      "src": [
+        0,
+        5
+      ],
+      "tgt": [
+        0,
+        17
+      ]
     },
     {
       "ar": "لو",
-      "en": "though"
+      "en": "Had",
+      "src": [
+        6,
+        8
+      ],
+      "tgt": [
+        19,
+        22
+      ]
     },
     {
-      "ar": "إنّه",
-      "en": "he"
+      "ar": "لم",
+      "en": "not",
+      "src": [
+        9,
+        11
+      ],
+      "tgt": [
+        26,
+        29
+      ]
     },
     {
-      "ar": "یستحقّ",
-      "en": "deserved"
+      "ar": "یكن",
+      "en": "been",
+      "src": [
+        12,
+        15
+      ],
+      "tgt": [
+        30,
+        34
+      ]
     },
     {
-      "ar": "نقمة",
-      "en": "the wrath"
+      "ar": "مخالفًا",
+      "en": "conflict",
+      "src": [
+        16,
+        23
+      ],
+      "tgt": [
+        38,
+        46
+      ]
+    },
+    {
+      "ar": "بما",
+      "en": "that which",
+      "src": [
+        24,
+        27
+      ],
+      "tgt": [
+        52,
+        62
+      ]
+    },
+    {
+      "ar": "نزل",
+      "en": "decreed",
+      "src": [
+        28,
+        31
+      ],
+      "tgt": [
+        87,
+        94
+      ]
+    },
+    {
+      "ar": "لقبّلت",
+      "en": "gladly kissed",
+      "src": [
+        43,
+        49
+      ],
+      "tgt": [
+        109,
+        122
+      ]
+    },
+    {
+      "ar": "ید",
+      "en": "hands",
+      "src": [
+        50,
+        52
+      ],
+      "tgt": [
+        127,
+        132
+      ]
+    },
+    {
+      "ar": "الّذي",
+      "en": "whosoever",
+      "src": [
+        53,
+        58
+      ],
+      "tgt": [
+        136,
+        145
+      ]
+    },
+    {
+      "ar": "یسفك",
+      "en": "attempted to shed",
+      "src": [
+        59,
+        63
+      ],
+      "tgt": [
+        146,
+        163
+      ]
+    },
+    {
+      "ar": "دمي",
+      "en": "blood",
+      "src": [
+        64,
+        67
+      ],
+      "tgt": [
+        167,
+        172
+      ]
+    },
+    {
+      "ar": "في",
+      "en": "in",
+      "src": [
+        68,
+        70
+      ],
+      "tgt": [
+        173,
+        175
+      ]
+    },
+    {
+      "ar": "سبیل",
+      "en": "path",
+      "src": [
+        71,
+        75
+      ],
+      "tgt": [
+        180,
+        184
+      ]
+    },
+    {
+      "ar": "وقدّرت",
+      "en": "bestowed",
+      "src": [
+        91,
+        97
+      ],
+      "tgt": [
+        230,
+        238
+      ]
+    },
+    {
+      "ar": "عمّا",
+      "en": "such",
+      "src": [
+        98,
+        102
+      ],
+      "tgt": [
+        259,
+        263
+      ]
+    },
+    {
+      "ar": "ملّکني",
+      "en": "allowed",
+      "src": [
+        103,
+        109
+      ],
+      "tgt": [
+        289,
+        296
+      ]
     },
     {
       "ar": "الله",
-      "en": "the Almighty"
+      "en": "God",
+      "src": [
+        110,
+        114
+      ],
+      "tgt": [
+        281,
+        284
+      ]
     },
     {
-      "ar": "سخطه",
-      "en": "His malediction"
+      "ar": "له",
+      "en": "him",
+      "src": [
+        115,
+        117
+      ],
+      "tgt": [
+        244,
+        247
+      ]
+    },
+    {
+      "ar": "إرثًا",
+      "en": "share",
+      "src": [
+        118,
+        123
+      ],
+      "tgt": [
+        250,
+        255
+      ]
+    },
+    {
+      "ar": "ولو",
+      "en": "even",
+      "src": [
+        124,
+        127
+      ],
+      "tgt": [
+        312,
+        316
+      ]
+    },
+    {
+      "ar": "إنّه",
+      "en": "he",
+      "src": [
+        128,
+        132
+      ],
+      "tgt": [
+        324,
+        326
+      ]
+    },
+    {
+      "ar": "یستحقّ",
+      "en": "provoked",
+      "src": [
+        133,
+        139
+      ],
+      "tgt": [
+        363,
+        371
+      ]
+    },
+    {
+      "ar": "بذلك",
+      "en": "this act",
+      "src": [
+        140,
+        144
+      ],
+      "tgt": [
+        343,
+        351
+      ]
+    },
+    {
+      "ar": "وسخطه",
+      "en": "malediction",
+      "src": [
+        155,
+        160
+      ],
+      "tgt": [
+        412,
+        423
+      ]
+    },
+    {
+      "ar": "ثمّ",
+      "en": "and",
+      "src": [
+        161,
+        164
+      ],
+      "tgt": [
+        425,
+        428
+      ]
     },
     {
       "ar": "قهره",
-      "en": "tormented"
+      "en": "tormented",
+      "src": [
+        165,
+        169
+      ],
+      "tgt": [
+        444,
+        453
+      ]
     },
     {
-      "ar": "غضبه",
-      "en": "incurred"
+      "ar": "وغضبه",
+      "en": "incurred His",
+      "src": [
+        170,
+        175
+      ],
+      "tgt": [
+        399,
+        411
+      ]
     },
     {
       "ar": "بدوام",
-      "en": "throughout the eternity"
+      "en": "throughout the eternity",
+      "src": [
+        176,
+        181
+      ],
+      "tgt": [
+        454,
+        477
+      ]
     },
     {
       "ar": "الملك",
-      "en": "the All-Possessing"
+      "en": "All-Possessing",
+      "src": [
+        187,
+        192
+      ],
+      "tgt": [
+        490,
+        504
+      ]
     },
     {
       "ar": "العادل",
-      "en": "the Equitable"
+      "en": "Equitable",
+      "src": [
+        193,
+        199
+      ],
+      "tgt": [
+        510,
+        519
+      ]
     },
     {
-      "ar": "الحكیم",
-      "en": "the All-Wise"
+      "ar": "الحكیم...",
+      "en": "All-Wise",
+      "src": [
+        200,
+        209
+      ],
+      "tgt": [
+        525,
+        533
+      ]
     }
   ],
   "terms": [

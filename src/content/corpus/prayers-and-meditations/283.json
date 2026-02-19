@@ -10,100 +10,388 @@
   "page_slug": "dayspring-excellent-titles",
   "alignment": [
     {
-      "ar": "سُبْحَانَكَ",
-      "en": "Praised be Thou"
+      "ar": "يا إِلهِي",
+      "en": "O my God",
+      "src": [
+        12,
+        21
+      ],
+      "tgt": [
+        17,
+        25
+      ]
     },
     {
-      "ar": "إِلهِي",
-      "en": "my God"
+      "ar": "فِي هذا السِّجْنِ",
+      "en": "in this Prison",
+      "src": [
+        42,
+        59
+      ],
+      "tgt": [
+        49,
+        63
+      ]
     },
     {
-      "ar": "تَرَانِي",
-      "en": "Thou seest me"
+      "ar": "فِي سَبِيلِكَ",
+      "en": "for Thy sake",
+      "src": [
+        104,
+        117
+      ],
+      "tgt": [
+        114,
+        126
+      ]
     },
     {
-      "ar": "مَحْبُوسًا",
-      "en": "shut up"
+      "ar": "وَإِظْهارِ أَمْرِكَ،",
+      "en": "the proclamation of Thy Cause",
+      "src": [
+        139,
+        159
+      ],
+      "tgt": [
+        181,
+        210
+      ]
     },
     {
-      "ar": "تَعْلَمُ",
-      "en": "art well aware"
-    },
-    {
-      "ar": "وَرَدْتُ",
-      "en": "have entered"
-    },
-    {
-      "ar": "فِيه",
-      "en": "it"
-    },
-    {
-      "ar": "سَبِيلِكَ",
-      "en": "Thy sake"
-    },
-    {
-      "ar": "إِعلآءِ",
-      "en": "glorification"
-    },
-    {
-      "ar": "كَلِمَتِكَ",
-      "en": "Thy word"
-    },
-    {
-      "ar": "إِظْهارِ",
-      "en": "proclamation"
-    },
-    {
-      "ar": "أَمْرِكَ",
-      "en": "Thy Cause"
-    },
-    {
-      "ar": "أُنادِيكَ",
-      "en": "cry out to Thee"
-    },
-    {
-      "ar": "إِلهَ العالَمِينَ",
-      "en": "Lord of all worlds"
-    },
-    {
-      "ar": "الحِينِ",
-      "en": "moment"
+      "ar": "فِي هذا الحِينِ",
+      "en": "this very moment",
+      "src": [
+        191,
+        206
+      ],
+      "tgt": [
+        231,
+        247
+      ]
     },
     {
       "ar": "بِاسْمِكَ المُبِيْنِ",
-      "en": "by Thine undoubted Name"
+      "en": "by Thine undoubted Name",
+      "src": [
+        207,
+        227
+      ],
+      "tgt": [
+        305,
+        328
+      ]
+    },
+    {
+      "ar": "قُلُوبَ عِبادِكَ",
+      "en": "the hearts of Thy servants",
+      "src": [
+        244,
+        260
+      ],
+      "tgt": [
+        341,
+        367
+      ]
+    },
+    {
+      "ar": "سُبْحَانَكَ",
+      "en": "Praised be Thou",
+      "src": [
+        0,
+        11
+      ],
+      "tgt": [
+        0,
+        15
+      ]
+    },
+    {
+      "ar": "تَرَانِي",
+      "en": "Thou seest me",
+      "src": [
+        22,
+        30
+      ],
+      "tgt": [
+        27,
+        40
+      ]
+    },
+    {
+      "ar": "مَحْبُوسًا",
+      "en": "shut up",
+      "src": [
+        31,
+        41
+      ],
+      "tgt": [
+        41,
+        48
+      ]
+    },
+    {
+      "ar": "وَتَعْلَمُ",
+      "en": "art well aware",
+      "src": [
+        60,
+        70
+      ],
+      "tgt": [
+        69,
+        83
+      ]
+    },
+    {
+      "ar": "بِأَنِّي",
+      "en": "that",
+      "src": [
+        71,
+        79
+      ],
+      "tgt": [
+        84,
+        88
+      ]
+    },
+    {
+      "ar": "ما",
+      "en": "I",
+      "src": [
+        80,
+        82
+      ],
+      "tgt": [
+        89,
+        90
+      ]
+    },
+    {
+      "ar": "وَرَدْتُ",
+      "en": "have entered",
+      "src": [
+        83,
+        91
+      ],
+      "tgt": [
+        91,
+        103
+      ]
+    },
+    {
+      "ar": "فِيه",
+      "en": "it",
+      "src": [
+        92,
+        96
+      ],
+      "tgt": [
+        104,
+        106
+      ]
+    },
+    {
+      "ar": "إِلاَّ",
+      "en": "solely",
+      "src": [
+        97,
+        103
+      ],
+      "tgt": [
+        107,
+        113
+      ]
+    },
+    {
+      "ar": "وَإِعلآءِ",
+      "en": "and for the sake of the glorification",
+      "src": [
+        118,
+        127
+      ],
+      "tgt": [
+        127,
+        164
+      ]
+    },
+    {
+      "ar": "كَلِمَتِكَ",
+      "en": "of Thy word",
+      "src": [
+        128,
+        138
+      ],
+      "tgt": [
+        165,
+        176
+      ]
+    },
+    {
+      "ar": "أُنادِيكَ",
+      "en": "I cry out",
+      "src": [
+        160,
+        169
+      ],
+      "tgt": [
+        212,
+        221
+      ]
+    },
+    {
+      "ar": "يا",
+      "en": "O",
+      "src": [
+        170,
+        172
+      ],
+      "tgt": [
+        249,
+        250
+      ]
+    },
+    {
+      "ar": "إِلهَ",
+      "en": "Thou",
+      "src": [
+        173,
+        178
+      ],
+      "tgt": [
+        251,
+        255
+      ]
+    },
+    {
+      "ar": "العالَمِينَ",
+      "en": "the Lord of all worlds",
+      "src": [
+        179,
+        190
+      ],
+      "tgt": [
+        264,
+        286
+      ]
+    },
+    {
+      "ar": "بِأَنْ",
+      "en": "beseeching Thee",
+      "src": [
+        228,
+        234
+      ],
+      "tgt": [
+        288,
+        303
+      ]
     },
     {
       "ar": "تَجْذِبَ",
-      "en": "attract"
+      "en": "to attract",
+      "src": [
+        235,
+        243
+      ],
+      "tgt": [
+        330,
+        340
+      ]
     },
     {
-      "ar": "قُلُوبَ",
-      "en": "hearts"
-    },
-    {
-      "ar": "عِبادِكَ",
-      "en": "Thy servants"
+      "ar": "إِلى",
+      "en": "unto",
+      "src": [
+        261,
+        265
+      ],
+      "tgt": [
+        368,
+        372
+      ]
     },
     {
       "ar": "مَطْلَعِ",
-      "en": "Dayspring"
+      "en": "the Dayspring",
+      "src": [
+        266,
+        274
+      ],
+      "tgt": [
+        373,
+        386
+      ]
     },
     {
-      "ar": "أَسْمائِكَ الحُسْنى",
-      "en": "Thy most excellent titles"
+      "ar": "أَسْمائِكَ",
+      "en": "of Thy most excellent titles",
+      "src": [
+        275,
+        285
+      ],
+      "tgt": [
+        387,
+        415
+      ]
     },
     {
-      "ar": "مَشْرِقِ",
-      "en": "Dawning-Place"
+      "ar": "وَمَشْرِقِ",
+      "en": "and the Dawning-Place",
+      "src": [
+        295,
+        305
+      ],
+      "tgt": [
+        416,
+        437
+      ]
     },
     {
-      "ar": "آياتِكَ الكبْری",
-      "en": "Thy most resplendent signs"
+      "ar": "آياتِكَ",
+      "en": "of Thy most resplendent signs",
+      "src": [
+        306,
+        313
+      ],
+      "tgt": [
+        438,
+        467
+      ]
+    },
+    {
+      "ar": "إِلهِي",
+      "en": "Thee",
+      "src": [
+        328,
+        334
+      ],
+      "tgt": [
+        225,
+        229
+      ]
+    },
+    {
+      "ar": "لَوْ",
+      "en": "and",
+      "src": [
+        335,
+        339
+      ],
+      "tgt": [
+        65,
+        68
+      ]
     },
     {
       "ar": "قَلْبِ",
-      "en": "heart"
+      "en": "to",
+      "src": [
+        397,
+        403
+      ],
+      "tgt": [
+        222,
+        224
+      ]
     }
   ],
   "terms": [

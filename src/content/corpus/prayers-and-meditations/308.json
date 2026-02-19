@@ -10,348 +10,1192 @@
   "page_slug": "stronghold-thy-might-power",
   "alignment": [
     {
-      "ar": "سُبْحَانَكَ",
-      "en": "Glorified art Thou"
+      "ar": "بِاسْمِكَ الكافِي",
+      "en": "Thy Name, the Restrainer",
+      "src": [
+        44,
+        61
+      ],
+      "tgt": [
+        53,
+        77
+      ]
     },
     {
-      "ar": "إِلهِي",
-      "en": "my God"
+      "ar": "شَرَّ أَعْدائِكَ",
+      "en": "the maleficence of Thine adversaries",
+      "src": [
+        84,
+        100
+      ],
+      "tgt": [
+        99,
+        135
+      ]
+    },
+    {
+      "ar": "وَبِاسْمِكَ القاهِرِ",
+      "en": "Thy Name, the All-Subduing",
+      "src": [
+        163,
+        183
+      ],
+      "tgt": [
+        215,
+        241
+      ]
+    },
+    {
+      "ar": "مَظْهَرِ نَفْسِكَ",
+      "en": "Thy Previous Manifestation",
+      "src": [
+        225,
+        242
+      ],
+      "tgt": [
+        264,
+        290
+      ]
+    },
+    {
+      "ar": "بِاسْمِكَ الأَبْهی،",
+      "en": "Thy title, the All-Glorious",
+      "src": [
+        267,
+        286
+      ],
+      "tgt": [
+        327,
+        354
+      ]
+    },
+    {
+      "ar": "وَبِاسْمِكَ الآخِذِ",
+      "en": "Thy name, the Chastiser",
+      "src": [
+        287,
+        306
+      ],
+      "tgt": [
+        369,
+        392
+      ]
+    },
+    {
+      "ar": "بِالآياتِ الكُبْرى",
+      "en": "Thy most mighty utterances",
+      "src": [
+        378,
+        396
+      ],
+      "tgt": [
+        457,
+        483
+      ]
+    },
+    {
+      "ar": "هذا المَقامِ الأَسْنی،",
+      "en": "this most exalted station",
+      "src": [
+        413,
+        435
+      ],
+      "tgt": [
+        518,
+        543
+      ]
+    },
+    {
+      "ar": "وَبِاسْمِكَ الغَالِبِ",
+      "en": "Thy Name, the Victorious",
+      "src": [
+        436,
+        457
+      ],
+      "tgt": [
+        571,
+        595
+      ]
+    },
+    {
+      "ar": "أَعَادِي نَفْسِكَ",
+      "en": "Thine enemies",
+      "src": [
+        494,
+        511
+      ],
+      "tgt": [
+        616,
+        629
+      ]
+    },
+    {
+      "ar": "مِنْ بَرِيَّتِكَ،",
+      "en": "among Thy creatures",
+      "src": [
+        525,
+        542
+      ],
+      "tgt": [
+        647,
+        666
+      ]
+    },
+    {
+      "ar": "وَبِاسْمِكَ الهاتِكِ",
+      "en": "Thy Name, the Cleaver",
+      "src": [
+        543,
+        563
+      ],
+      "tgt": [
+        685,
+        706
+      ]
+    },
+    {
+      "ar": "بَيْنَ عِبادِكَ،",
+      "en": "among Thy people",
+      "src": [
+        638,
+        654
+      ],
+      "tgt": [
+        806,
+        822
+      ]
+    },
+    {
+      "ar": "وَبِاسْمِكَ الجَبَّارِ",
+      "en": "Thy Name, the Restorer",
+      "src": [
+        655,
+        677
+      ],
+      "tgt": [
+        833,
+        855
+      ]
+    },
+    {
+      "ar": "قُلُوبَ أَحِبَّتِكَ",
+      "en": "broken hearts of them that love Thee",
+      "src": [
+        694,
+        713
+      ],
+      "tgt": [
+        861,
+        897
+      ]
+    },
+    {
+      "ar": "وَبِاسْمِكَ العَلاَّمِ",
+      "en": "Thy Name, the All-Knowing",
+      "src": [
+        751,
+        773
+      ],
+      "tgt": [
+        958,
+        983
+      ]
+    },
+    {
+      "ar": "بَدائِعِ عِلْمِكَ",
+      "en": "wonders of Thy wisdom",
+      "src": [
+        800,
+        817
+      ],
+      "tgt": [
+        989,
+        1010
+      ]
+    },
+    {
+      "ar": "سُبُلَ رِضائِكَ،",
+      "en": "the ways of Thy pleasure",
+      "src": [
+        865,
+        881
+      ],
+      "tgt": [
+        1070,
+        1094
+      ]
+    },
+    {
+      "ar": "وَبِاسْمِكَ المَانِعِ",
+      "en": "Thy Name, the Withholder",
+      "src": [
+        882,
+        903
+      ],
+      "tgt": [
+        1115,
+        1139
+      ]
+    },
+    {
+      "ar": "ظُلْمَ كُلِّ ظَالِمٍ",
+      "en": "tyranny of the oppressor",
+      "src": [
+        928,
+        948
+      ],
+      "tgt": [
+        1150,
+        1174
+      ]
+    },
+    {
+      "ar": "وَبَغْيَ كُلِّ بَاغٍ",
+      "en": "the wickedness of the evil-doers",
+      "src": [
+        949,
+        969
+      ],
+      "tgt": [
+        1179,
+        1211
+      ]
+    },
+    {
+      "ar": "وَضُرَّ كُلِّ مُضِرٍّ،",
+      "en": "the malice of the stirrers of mischief",
+      "src": [
+        970,
+        992
+      ],
+      "tgt": [
+        1216,
+        1254
+      ]
+    },
+    {
+      "ar": "وَبِاسْمِكَ الحَافِظِ",
+      "en": "Thy Name, the Preserver",
+      "src": [
+        993,
+        1014
+      ],
+      "tgt": [
+        1272,
+        1295
+      ]
+    },
+    {
+      "ar": "حِصْنِ قُدْرَتِكَ",
+      "en": "the stronghold of Thy might",
+      "src": [
+        1039,
+        1056
+      ],
+      "tgt": [
+        1304,
+        1331
+      ]
+    },
+    {
+      "ar": "سِهَامُ الإِشَاراتِ",
+      "en": "the darts of doubt",
+      "src": [
+        1096,
+        1115
+      ],
+      "tgt": [
+        1381,
+        1399
+      ]
+    },
+    {
+      "ar": "عُصَاةِ بَرِيَّتِكَ،",
+      "en": "such as have rebelled against Thee",
+      "src": [
+        1121,
+        1141
+      ],
+      "tgt": [
+        1419,
+        1453
+      ]
+    },
+    {
+      "ar": "هذِهِ الأَيَّامِ",
+      "en": "these days",
+      "src": [
+        1293,
+        1309
+      ],
+      "tgt": [
+        1627,
+        1637
+      ]
+    },
+    {
+      "ar": "قَلَمِ تَقْدِيرِكَ",
+      "en": "Pen of Thy decree",
+      "src": [
+        1333,
+        1351
+      ],
+      "tgt": [
+        1651,
+        1668
+      ]
+    },
+    {
+      "ar": "لَوْحِ الإِمْضآءِ",
+      "en": "in Thine irrevocable Tablet",
+      "src": [
+        1367,
+        1384
+      ],
+      "tgt": [
+        1761,
+        1788
+      ]
+    },
+    {
+      "ar": "وَبِاسْمِكَ السَّخَّارِ",
+      "en": "Thy Name, the Conqueror",
+      "src": [
+        1410,
+        1433
+      ],
+      "tgt": [
+        1814,
+        1837
+      ]
+    },
+    {
+      "ar": "أَهْلَ مَمْلَكَتِكَ",
+      "en": "people of Thy realm",
+      "src": [
+        1451,
+        1470
+      ],
+      "tgt": [
+        1843,
+        1862
+      ]
+    },
+    {
+      "ar": "سُبْحَانَكَ",
+      "en": "Glorified",
+      "src": [
+        0,
+        11
+      ],
+      "tgt": [
+        0,
+        9
+      ]
+    },
+    {
+      "ar": "اللَّهُمَّ",
+      "en": "O Lord my God",
+      "src": [
+        12,
+        22
+      ],
+      "tgt": [
+        20,
+        33
+      ]
     },
     {
       "ar": "أَسْئَلُكَ",
-      "en": "I beseech Thee"
+      "en": "I beseech Thee",
+      "src": [
+        33,
+        43
+      ],
+      "tgt": [
+        35,
+        49
+      ]
     },
     {
-      "ar": "بِاسْمِكَ",
-      "en": "by Thy Name"
-    },
-    {
-      "ar": "الكافِي",
-      "en": "the Restrainer"
+      "ar": "بِأَنْ",
+      "en": "to",
+      "src": [
+        62,
+        68
+      ],
+      "tgt": [
+        79,
+        81
+      ]
     },
     {
       "ar": "تَكفِيَ",
-      "en": "to withhold"
+      "en": "withhold",
+      "src": [
+        69,
+        76
+      ],
+      "tgt": [
+        82,
+        90
+      ]
     },
     {
-      "ar": "أَعْدائِكَ",
-      "en": "Thine adversaries"
+      "ar": "عَنَّا",
+      "en": "from us",
+      "src": [
+        77,
+        83
+      ],
+      "tgt": [
+        91,
+        98
+      ]
+    },
+    {
+      "ar": "الَّذِينَ",
+      "en": "who",
+      "src": [
+        101,
+        110
+      ],
+      "tgt": [
+        136,
+        139
+      ]
     },
     {
       "ar": "كَفَرُوا",
-      "en": "have disbelieved"
+      "en": "have disbelieved",
+      "src": [
+        111,
+        119
+      ],
+      "tgt": [
+        140,
+        156
+      ]
     },
     {
       "ar": "بِبُرْهانِكَ",
-      "en": "in Thy testimony"
+      "en": "in Thy testimony",
+      "src": [
+        120,
+        132
+      ],
+      "tgt": [
+        157,
+        173
+      ]
     },
     {
       "ar": "وَاعْتَرَضُوا",
-      "en": "and caviled"
+      "en": "and caviled",
+      "src": [
+        133,
+        146
+      ],
+      "tgt": [
+        175,
+        186
+      ]
     },
     {
-      "ar": "عَلَى جَمالِكَ",
-      "en": "at Thy beauty"
+      "ar": "عَلَى",
+      "en": "at",
+      "src": [
+        147,
+        152
+      ],
+      "tgt": [
+        187,
+        189
+      ]
     },
     {
-      "ar": "القاهِرِ",
-      "en": "the All-Subduing"
+      "ar": "بِأَنْ",
+      "en": "by",
+      "src": [
+        184,
+        190
+      ],
+      "tgt": [
+        212,
+        214
+      ]
     },
     {
       "ar": "تَقْهَرَ",
-      "en": "Overpower"
+      "en": "Overpower",
+      "src": [
+        191,
+        199
+      ],
+      "tgt": [
+        202,
+        211
+      ]
+    },
+    {
+      "ar": "الَّذِينَ",
+      "en": "such as",
+      "src": [
+        200,
+        209
+      ],
+      "tgt": [
+        243,
+        250
+      ]
     },
     {
       "ar": "ظَلَمُوا",
-      "en": "have wronged"
+      "en": "have wronged",
+      "src": [
+        210,
+        218
+      ],
+      "tgt": [
+        251,
+        263
+      ]
     },
     {
-      "ar": "مَظْهَرِ",
-      "en": "Manifestation"
-    },
-    {
-      "ar": "نَفْسِكَ",
-      "en": "Thy"
-    },
-    {
-      "ar": "الأُولى",
-      "en": "Previous"
+      "ar": "الَّذِيْ",
+      "en": "Who",
+      "src": [
+        251,
+        259
+      ],
+      "tgt": [
+        291,
+        294
+      ]
     },
     {
       "ar": "ظَهَرَ",
-      "en": "appeared"
-    },
-    {
-      "ar": "الأَبْهی",
-      "en": "the All-Glorious"
-    },
-    {
-      "ar": "الآخِذِ",
-      "en": "the Chastiser"
+      "en": "hath now appeared",
+      "src": [
+        260,
+        266
+      ],
+      "tgt": [
+        295,
+        312
+      ]
     },
     {
       "ar": "تَأْخُذَ",
-      "en": "Lay hold"
+      "en": "Lay hold",
+      "src": [
+        314,
+        322
+      ],
+      "tgt": [
+        356,
+        364
+      ]
+    },
+    {
+      "ar": "الَّذِينَ",
+      "en": "that",
+      "src": [
+        323,
+        332
+      ],
+      "tgt": [
+        402,
+        406
+      ]
+    },
+    {
+      "ar": "اتَّخَذُوا",
+      "en": "have treated",
+      "src": [
+        333,
+        343
+      ],
+      "tgt": [
+        407,
+        419
+      ]
     },
     {
       "ar": "أَمْرَكَ",
-      "en": "Thy Cause"
+      "en": "Thy Cause",
+      "src": [
+        344,
+        352
+      ],
+      "tgt": [
+        420,
+        429
+      ]
     },
     {
-      "ar": "يَلْعَبوُنَ",
-      "en": "have jested"
+      "ar": "سُخْرِيًّا",
+      "en": "with scorn",
+      "src": [
+        353,
+        363
+      ],
+      "tgt": [
+        430,
+        440
+      ]
     },
     {
-      "ar": "بِالآياتِ",
-      "en": "at Thy most mighty utterances"
+      "ar": "وَيَلْعَبوُنَ",
+      "en": "have jested",
+      "src": [
+        364,
+        377
+      ],
+      "tgt": [
+        442,
+        453
+      ]
     },
     {
-      "ar": "الكُبْرى",
-      "en": "mighty"
+      "ar": "وَمُنِعُوا",
+      "en": "were",
+      "src": [
+        397,
+        407
+      ],
+      "tgt": [
+        489,
+        493
+      ]
     },
     {
-      "ar": "مُنِعُوا",
-      "en": "were hindered"
+      "ar": "عَنْ",
+      "en": "hindered",
+      "src": [
+        408,
+        412
+      ],
+      "tgt": [
+        494,
+        502
+      ]
     },
     {
-      "ar": "المَقامِ",
-      "en": "station"
+      "ar": "تُغَلِّبَ",
+      "en": "Enable",
+      "src": [
+        465,
+        474
+      ],
+      "tgt": [
+        545,
+        551
+      ]
     },
     {
-      "ar": "الأَسْنی",
-      "en": "most exalted"
-    },
-    {
-      "ar": "الغَالِبِ",
-      "en": "the Victorious"
+      "ar": "أَحِبَّائَكَ",
+      "en": "Thy loved ones",
+      "src": [
+        475,
+        487
+      ],
+      "tgt": [
+        552,
+        566
+      ]
     },
     {
       "ar": "عَلَى",
-      "en": "against"
+      "en": "against",
+      "src": [
+        488,
+        493
+      ],
+      "tgt": [
+        608,
+        615
+      ]
     },
     {
-      "ar": "أَعَادِي",
-      "en": "Thine enemies"
-    },
-    {
-      "ar": "الكَفَرَةِ",
-      "en": "the infidels"
-    },
-    {
-      "ar": "الهاتِكِ",
-      "en": "the Cleaver"
+      "ar": "وَالكَفَرَةِ",
+      "en": "the infidels",
+      "src": [
+        512,
+        524
+      ],
+      "tgt": [
+        634,
+        646
+      ]
     },
     {
       "ar": "تَهْتِكَ",
-      "en": "Rend asunder"
+      "en": "Rend asunder",
+      "src": [
+        571,
+        579
+      ],
+      "tgt": [
+        668,
+        680
+      ]
     },
     {
       "ar": "سِتْرَ",
-      "en": "the veil"
+      "en": "the veil",
+      "src": [
+        580,
+        586
+      ],
+      "tgt": [
+        708,
+        716
+      ]
     },
     {
       "ar": "هَتَكُوا",
-      "en": "have besmirched"
+      "en": "hideth",
+      "src": [
+        597,
+        605
+      ],
+      "tgt": [
+        722,
+        728
+      ]
     },
     {
       "ar": "حُرْمَتَكَ",
-      "en": "Thine honor"
+      "en": "Thine honor",
+      "src": [
+        606,
+        616
+      ],
+      "tgt": [
+        769,
+        780
+      ]
+    },
+    {
+      "ar": "وَضَيَّعُوا",
+      "en": "and undermined",
+      "src": [
+        617,
+        628
+      ],
+      "tgt": [
+        781,
+        795
+      ]
     },
     {
       "ar": "أَمْرَكَ",
-      "en": "Thy Faith"
+      "en": "Thy Faith",
+      "src": [
+        629,
+        637
+      ],
+      "tgt": [
+        796,
+        805
+      ]
     },
     {
-      "ar": "عِبادِكَ",
-      "en": "Thy people"
-    },
-    {
-      "ar": "تَجْبِرَ",
-      "en": "Bind"
-    },
-    {
-      "ar": "قُلُوبَ",
-      "en": "the broken hearts"
-    },
-    {
-      "ar": "تُصْلِحَ",
-      "en": "bless"
+      "ar": "وَتُصْلِحَ",
+      "en": "graciously",
+      "src": [
+        714,
+        724
+      ],
+      "tgt": [
+        903,
+        913
+      ]
     },
     {
       "ar": "أُموُرَهُمْ",
-      "en": "them in their affairs"
+      "en": "bless them in their affairs",
+      "src": [
+        725,
+        736
+      ],
+      "tgt": [
+        914,
+        941
+      ]
     },
     {
-      "ar": "بِعِنايَتِكَ",
-      "en": "graciously"
+      "ar": "تُعَلِّمَهُمْ",
+      "en": "Teach them",
+      "src": [
+        781,
+        794
+      ],
+      "tgt": [
+        943,
+        953
+      ]
     },
     {
-      "ar": "بَدائِعِ",
-      "en": "the wonders"
+      "ar": "لِيَسْتَقِيْمُنَّ",
+      "en": "that they may cleave steadfastly",
+      "src": [
+        818,
+        835
+      ],
+      "tgt": [
+        1012,
+        1044
+      ]
     },
     {
-      "ar": "عِلْمِكَ",
-      "en": "of Thy wisdom"
-    },
-    {
-      "ar": "سُبُلَ",
-      "en": "in the ways"
-    },
-    {
-      "ar": "رِضائِكَ",
-      "en": "of Thy pleasure"
-    },
-    {
-      "ar": "المَانِعِ",
-      "en": "the Withholder"
+      "ar": "وَيَسْلُكُنَّ",
+      "en": "and walk",
+      "src": [
+        851,
+        864
+      ],
+      "tgt": [
+        1058,
+        1066
+      ]
     },
     {
       "ar": "تَمْنَعَ",
-      "en": "Keep them safe"
+      "en": "Keep",
+      "src": [
+        911,
+        919
+      ],
+      "tgt": [
+        1096,
+        1100
+      ]
     },
     {
       "ar": "عَنْهُم",
-      "en": "from"
-    },
-    {
-      "ar": "ظُلْمَ",
-      "en": "the tyranny"
-    },
-    {
-      "ar": "ظَالِمٍ",
-      "en": "of the oppressor"
-    },
-    {
-      "ar": "بَغْيَ",
-      "en": "the wickedness"
-    },
-    {
-      "ar": "بَاغٍ",
-      "en": "of the evil-doers"
-    },
-    {
-      "ar": "الحَافِظِ",
-      "en": "the Preserver"
+      "en": "them",
+      "src": [
+        920,
+        927
+      ],
+      "tgt": [
+        1101,
+        1105
+      ]
     },
     {
       "ar": "تَحْفَظَهُمْ",
-      "en": "Shield them"
+      "en": "Shield them",
+      "src": [
+        1022,
+        1034
+      ],
+      "tgt": [
+        1256,
+        1267
+      ]
     },
     {
-      "ar": "حِصْنِ",
-      "en": "the stronghold"
-    },
-    {
-      "ar": "قُدْرَتِكَ",
-      "en": "of Thy might"
+      "ar": "فِي",
+      "en": "within",
+      "src": [
+        1035,
+        1038
+      ],
+      "tgt": [
+        1297,
+        1303
+      ]
     },
     {
       "ar": "وَاقْتِدارِكَ",
-      "en": "and power"
+      "en": "and power",
+      "src": [
+        1057,
+        1070
+      ],
+      "tgt": [
+        1332,
+        1341
+      ]
+    },
+    {
+      "ar": "لِئَلا",
+      "en": "that haply",
+      "src": [
+        1071,
+        1077
+      ],
+      "tgt": [
+        1343,
+        1353
+      ]
     },
     {
       "ar": "يَرِدَ",
-      "en": "may be protected"
+      "en": "they may be protected",
+      "src": [
+        1078,
+        1084
+      ],
+      "tgt": [
+        1354,
+        1375
+      ]
     },
     {
-      "ar": "سِهَامُ",
-      "en": "the darts"
+      "ar": "عَلَيْهِمْ",
+      "en": "from",
+      "src": [
+        1085,
+        1095
+      ],
+      "tgt": [
+        1376,
+        1380
+      ]
     },
     {
-      "ar": "الإِشَاراتِ",
-      "en": "of doubt"
-    },
-    {
-      "ar": "عُصَاةِ",
-      "en": "such as have rebelled"
+      "ar": "الَّذِيْ",
+      "en": "which",
+      "src": [
+        1154,
+        1162
+      ],
+      "tgt": [
+        1494,
+        1499
+      ]
     },
     {
       "ar": "جَعَلْتَهُ",
-      "en": "Thou hast blessed"
+      "en": "Thou hast",
+      "src": [
+        1163,
+        1173
+      ],
+      "tgt": [
+        1500,
+        1509
+      ]
     },
     {
       "ar": "مُبَارَكًا",
-      "en": "blessed"
+      "en": "blessed",
+      "src": [
+        1174,
+        1184
+      ],
+      "tgt": [
+        1510,
+        1517
+      ]
     },
     {
-      "ar": "أَسْمائِكَ",
-      "en": "all other names"
+      "ar": "بَيْنَ",
+      "en": "above all other names",
+      "src": [
+        1185,
+        1191
+      ],
+      "tgt": [
+        1518,
+        1539
+      ]
     },
     {
-      "ar": "اخْتَصَصْتَهُ",
-      "en": "singled out"
+      "ar": "وَاخْتَصَصْتَهُ",
+      "en": "which Thou hast singled out for Thy favor",
+      "src": [
+        1203,
+        1218
+      ],
+      "tgt": [
+        1541,
+        1582
+      ]
     },
     {
-      "ar": "بِنَفْسِكَ",
-      "en": "for Thy favor"
-    },
-    {
-      "ar": "أَظْهَرْتَ",
-      "en": "didst reveal"
+      "ar": "وَأَظْهَرْتَ",
+      "en": "and by",
+      "src": [
+        1230,
+        1242
+      ],
+      "tgt": [
+        1584,
+        1590
+      ]
     },
     {
       "ar": "جَمَالَكَ",
-      "en": "Thy beauty"
+      "en": "Thou didst reveal Thy beauty",
+      "src": [
+        1248,
+        1257
+      ],
+      "tgt": [
+        1597,
+        1625
+      ]
     },
     {
       "ar": "تُبَارِكَ",
-      "en": "Sanctify"
+      "en": "Sanctify",
+      "src": [
+        1265,
+        1274
+      ],
+      "tgt": [
+        1455,
+        1463
+      ]
     },
     {
       "ar": "عَلَى",
-      "en": "for"
+      "en": "for",
+      "src": [
+        1275,
+        1280
+      ],
+      "tgt": [
+        1464,
+        1467
+      ]
     },
     {
-      "ar": "رُقِمَتْ",
-      "en": "have been preordained"
+      "ar": "أَحِبَّتِكَ",
+      "en": "Thy servants",
+      "src": [
+        1281,
+        1292
+      ],
+      "tgt": [
+        1468,
+        1480
+      ]
     },
     {
-      "ar": "قَلَمِ",
-      "en": "the Pen"
+      "ar": "مِنْ",
+      "en": "of",
+      "src": [
+        1328,
+        1332
+      ],
+      "tgt": [
+        1638,
+        1640
+      ]
     },
     {
-      "ar": "تَقْدِيرِكَ",
-      "en": "of Thy decree"
+      "ar": "وَقُضِيَتْ",
+      "en": "and which, according to Thy will and wisdom, have been preordained",
+      "src": [
+        1352,
+        1362
+      ],
+      "tgt": [
+        1694,
+        1760
+      ]
     },
     {
-      "ar": "قُضِيَتْ",
-      "en": "hath distinctly written"
+      "ar": "تُسَخِّرَ",
+      "en": "Subject",
+      "src": [
+        1441,
+        1450
+      ],
+      "tgt": [
+        1790,
+        1797
+      ]
     },
     {
-      "ar": "لَوْحِ",
-      "en": "Tablet"
+      "ar": "كُلٌّ",
+      "en": "all",
+      "src": [
+        1485,
+        1490
+      ],
+      "tgt": [
+        1869,
+        1872
+      ]
     },
     {
-      "ar": "الإِمْضآءِ",
-      "en": "irrevocable"
-    },
-    {
-      "ar": "بِعِلْمِكَ",
-      "en": "according to Thy will"
-    },
-    {
-      "ar": "وَإِرادَتِكَ",
-      "en": "and wisdom"
-    },
-    {
-      "ar": "أَهْلَ",
-      "en": "the people"
-    },
-    {
-      "ar": "مَمْلَكَتِكَ",
-      "en": "of Thy realm"
+      "ar": "إِلى",
+      "en": "towards",
+      "src": [
+        1491,
+        1495
+      ],
+      "tgt": [
+        1882,
+        1889
+      ]
     },
     {
       "ar": "وَجْهِكَ",
-      "en": "towards Thy face"
+      "en": "Thy face",
+      "src": [
+        1496,
+        1504
+      ],
+      "tgt": [
+        1890,
+        1898
+      ]
     },
     {
-      "ar": "عِنْدَهُمْ",
-      "en": "their all"
+      "ar": "وَيَنْقَطِعُنَّ",
+      "en": "and forsake",
+      "src": [
+        1505,
+        1520
+      ],
+      "tgt": [
+        1899,
+        1910
+      ]
+    },
+    {
+      "ar": "عَمَّا",
+      "en": "their",
+      "src": [
+        1521,
+        1527
+      ],
+      "tgt": [
+        1911,
+        1916
+      ]
+    },
+    {
+      "ar": "حُبًّا",
+      "en": "for love",
+      "src": [
+        1539,
+        1545
+      ],
+      "tgt": [
+        1921,
+        1929
+      ]
     },
     {
       "ar": "لِنَفسِكَ",
-      "en": "of Thee"
+      "en": "of Thee",
+      "src": [
+        1546,
+        1555
+      ],
+      "tgt": [
+        1930,
+        1937
+      ]
     }
   ],
   "terms": [

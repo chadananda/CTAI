@@ -10,164 +10,556 @@
   "page_slug": "afraid-none-except-god",
   "alignment": [
     {
-      "ar": "اعلموا",
-      "en": "Know ye"
-    },
-    {
-      "ar": "بأنّا",
-      "en": "I"
-    },
-    {
-      "ar": "ما نخاف",
-      "en": "am afraid of none"
-    },
-    {
-      "ar": "احد",
-      "en": "none"
-    },
-    {
-      "ar": "الّا",
-      "en": "except"
-    },
-    {
-      "ar": "الله",
-      "en": "God"
-    },
-    {
-      "ar": "وحده",
-      "en": "none but Him"
-    },
-    {
-      "ar": "توكلی",
-      "en": "placed My trust"
-    },
-    {
-      "ar": "علیه",
-      "en": "Him"
-    },
-    {
-      "ar": "اعتصامی",
-      "en": "cleave"
-    },
-    {
-      "ar": "نرید",
-      "en": "wish for"
-    },
-    {
-      "ar": "ما اراد",
-      "en": "the thing He hath wished"
-    },
-    {
-      "ar": "لنا",
-      "en": "for Me"
-    },
-    {
-      "ar": "هذا",
-      "en": "This"
-    },
-    {
-      "ar": "انتم",
-      "en": "ye"
-    },
-    {
-      "ar": "العارفین",
-      "en": "know"
-    },
-    {
-      "ar": "انفقت",
-      "en": "offered up"
-    },
-    {
-      "ar": "روحی",
-      "en": "My soul"
-    },
-    {
-      "ar": "جسدی",
-      "en": "My body"
-    },
-    {
-      "ar": "للّه",
-      "en": "for God"
-    },
-    {
       "ar": "ربّ العالمین",
-      "en": "the Lord of all worlds"
+      "en": "the Lord of all worlds",
+      "src": [
+        180,
+        192
+      ],
+      "tgt": [
+        294,
+        316
+      ]
     },
     {
-      "ar": "من عرف الله",
-      "en": "Whoso hath known God"
+      "ar": "من احد",
+      "en": "of none",
+      "src": [
+        25,
+        31
+      ],
+      "tgt": [
+        25,
+        32
+      ]
     },
     {
-      "ar": "لن یعرف",
-      "en": "shall know none"
+      "ar": "توكلی الّا علیه",
+      "en": "In none but Him",
+      "src": [
+        51,
+        66
+      ],
+      "tgt": [
+        45,
+        60
+      ]
     },
     {
-      "ar": "دونه",
-      "en": "but Him"
+      "ar": "اعتصامی الّا به",
+      "en": "to none will I cleave but Him",
+      "src": [
+        71,
+        86
+      ],
+      "tgt": [
+        85,
+        114
+      ]
     },
     {
-      "ar": "من خاف الله",
-      "en": "he that feareth God"
+      "ar": "من العارفین",
+      "en": "did ye but know it",
+      "src": [
+        141,
+        152
+      ],
+      "tgt": [
+        212,
+        230
+      ]
     },
     {
-      "ar": "لن یخاف",
-      "en": "shall be afraid of no one"
+      "ar": "روحی وجسدی",
+      "en": "My soul and My body",
+      "src": [
+        164,
+        174
+      ],
+      "tgt": [
+        250,
+        269
+      ]
     },
     {
-      "ar": "سواه",
-      "en": "except Him"
-    },
-    {
-      "ar": "یجتمع",
-      "en": "rise up"
-    },
-    {
-      "ar": "علیه",
-      "en": "against him"
-    },
-    {
-      "ar": "كلّ",
-      "en": "the whole"
-    },
-    {
-      "ar": "الأرض",
-      "en": "earth"
-    },
-    {
-      "ar": "اجمعین",
-      "en": "the powers"
-    },
-    {
-      "ar": "ما نقول",
-      "en": "I speak naught"
+      "ar": "في الأرض",
+      "en": "of the whole earth",
+      "src": [
+        266,
+        274
+      ],
+      "tgt": [
+        444,
+        462
+      ]
     },
     {
       "ar": "بما امرت",
-      "en": "at His bidding"
+      "en": "except at His bidding",
+      "src": [
+        296,
+        304
+      ],
+      "tgt": [
+        514,
+        535
+      ]
     },
     {
-      "ar": "نتّبع",
-      "en": "follow"
+      "ar": "ثمّ",
+      "en": "Know",
+      "src": [
+        0,
+        3
+      ],
+      "tgt": [
+        0,
+        4
+      ]
+    },
+    {
+      "ar": "بأنّا",
+      "en": "that I am",
+      "src": [
+        11,
+        16
+      ],
+      "tgt": [
+        8,
+        17
+      ]
+    },
+    {
+      "ar": "ما",
+      "en": "afraid",
+      "src": [
+        17,
+        19
+      ],
+      "tgt": [
+        18,
+        24
+      ]
+    },
+    {
+      "ar": "الّا",
+      "en": "except",
+      "src": [
+        32,
+        36
+      ],
+      "tgt": [
+        33,
+        39
+      ]
+    },
+    {
+      "ar": "الله",
+      "en": "God",
+      "src": [
+        37,
+        41
+      ],
+      "tgt": [
+        40,
+        43
+      ]
+    },
+    {
+      "ar": "وما",
+      "en": "have",
+      "src": [
+        47,
+        50
+      ],
+      "tgt": [
+        61,
+        65
+      ]
+    },
+    {
+      "ar": "وما",
+      "en": "wish",
+      "src": [
+        67,
+        70
+      ],
+      "tgt": [
+        120,
+        124
+      ]
+    },
+    {
+      "ar": "ما",
+      "en": "the thing",
+      "src": [
+        101,
+        103
+      ],
+      "tgt": [
+        143,
+        152
+      ]
+    },
+    {
+      "ar": "اراد",
+      "en": "hath wished",
+      "src": [
+        104,
+        108
+      ],
+      "tgt": [
+        156,
+        167
+      ]
+    },
+    {
+      "ar": "لنا",
+      "en": "for Me",
+      "src": [
+        109,
+        112
+      ],
+      "tgt": [
+        168,
+        174
+      ]
+    },
+    {
+      "ar": "وانّ",
+      "en": "This, indeed",
+      "src": [
+        113,
+        117
+      ],
+      "tgt": [
+        176,
+        188
+      ]
+    },
+    {
+      "ar": "المراد",
+      "en": "My heart’s desire",
+      "src": [
+        126,
+        132
+      ],
+      "tgt": [
+        193,
+        210
+      ]
+    },
+    {
+      "ar": "انّی",
+      "en": "I",
+      "src": [
+        153,
+        157
+      ],
+      "tgt": [
+        232,
+        233
+      ]
+    },
+    {
+      "ar": "انفقت",
+      "en": "have offered up",
+      "src": [
+        158,
+        163
+      ],
+      "tgt": [
+        234,
+        249
+      ]
+    },
+    {
+      "ar": "للّه",
+      "en": "as a sacrifice for God",
+      "src": [
+        175,
+        179
+      ],
+      "tgt": [
+        270,
+        292
+      ]
+    },
+    {
+      "ar": "من",
+      "en": "Whoso",
+      "src": [
+        193,
+        195
+      ],
+      "tgt": [
+        318,
+        323
+      ]
+    },
+    {
+      "ar": "عرف",
+      "en": "hath known",
+      "src": [
+        196,
+        199
+      ],
+      "tgt": [
+        324,
+        334
+      ]
+    },
+    {
+      "ar": "لن",
+      "en": "shall",
+      "src": [
+        205,
+        207
+      ],
+      "tgt": [
+        339,
+        344
+      ]
+    },
+    {
+      "ar": "یعرف",
+      "en": "know",
+      "src": [
+        208,
+        212
+      ],
+      "tgt": [
+        345,
+        349
+      ]
+    },
+    {
+      "ar": "دونه",
+      "en": "none but Him",
+      "src": [
+        213,
+        217
+      ],
+      "tgt": [
+        350,
+        362
+      ]
+    },
+    {
+      "ar": "ومن",
+      "en": "and he that",
+      "src": [
+        218,
+        221
+      ],
+      "tgt": [
+        364,
+        375
+      ]
+    },
+    {
+      "ar": "خاف",
+      "en": "feareth",
+      "src": [
+        222,
+        225
+      ],
+      "tgt": [
+        376,
+        383
+      ]
+    },
+    {
+      "ar": "لن",
+      "en": "shall be",
+      "src": [
+        231,
+        233
+      ],
+      "tgt": [
+        388,
+        396
+      ]
+    },
+    {
+      "ar": "سواه",
+      "en": "no one except Him",
+      "src": [
+        239,
+        243
+      ],
+      "tgt": [
+        407,
+        424
+      ]
+    },
+    {
+      "ar": "ولو",
+      "en": "though",
+      "src": [
+        244,
+        247
+      ],
+      "tgt": [
+        426,
+        432
+      ]
+    },
+    {
+      "ar": "یجتمع",
+      "en": "rise up",
+      "src": [
+        248,
+        253
+      ],
+      "tgt": [
+        463,
+        470
+      ]
+    },
+    {
+      "ar": "علیه",
+      "en": "against him",
+      "src": [
+        254,
+        258
+      ],
+      "tgt": [
+        486,
+        497
+      ]
+    },
+    {
+      "ar": "كلّ",
+      "en": "the powers",
+      "src": [
+        259,
+        262
+      ],
+      "tgt": [
+        433,
+        443
+      ]
+    },
+    {
+      "ar": "اجمعین",
+      "en": "and be arrayed",
+      "src": [
+        275,
+        281
+      ],
+      "tgt": [
+        471,
+        485
+      ]
+    },
+    {
+      "ar": "نقول",
+      "en": "speak",
+      "src": [
+        286,
+        290
+      ],
+      "tgt": [
+        501,
+        506
+      ]
+    },
+    {
+      "ar": "الّا",
+      "en": "naught",
+      "src": [
+        291,
+        295
+      ],
+      "tgt": [
+        507,
+        513
+      ]
+    },
+    {
+      "ar": "وما",
+      "en": "and follow",
+      "src": [
+        305,
+        308
+      ],
+      "tgt": [
+        537,
+        547
+      ]
     },
     {
       "ar": "الحقّ",
-      "en": "His truth"
+      "en": "His truth",
+      "src": [
+        320,
+        325
+      ],
+      "tgt": [
+        603,
+        612
+      ]
     },
     {
-      "ar": "بحول الله",
-      "en": "through the power of God"
+      "ar": "بحول",
+      "en": "through the power",
+      "src": [
+        326,
+        330
+      ],
+      "tgt": [
+        556,
+        573
+      ]
     },
     {
-      "ar": "قوّته",
-      "en": "His might"
+      "ar": "وقوّته",
+      "en": "His might",
+      "src": [
+        336,
+        342
+      ],
+      "tgt": [
+        585,
+        594
+      ]
+    },
+    {
+      "ar": "وانّه",
+      "en": "He, verily",
+      "src": [
+        343,
+        348
+      ],
+      "tgt": [
+        614,
+        624
+      ]
     },
     {
       "ar": "یجزی",
-      "en": "shall recompense"
+      "en": "shall recompense",
+      "src": [
+        349,
+        353
+      ],
+      "tgt": [
+        626,
+        642
+      ]
     },
     {
       "ar": "الصّادقین",
-      "en": "the truthful"
+      "en": "the truthful",
+      "src": [
+        354,
+        363
+      ],
+      "tgt": [
+        643,
+        655
+      ]
     }
   ],
   "terms": [

@@ -1,5 +1,5 @@
 <script>
-  // The 12 works in the SE translation corpus
+  // The 11 works in the SE translation corpus
   const ABBR = {
     'Will and Testament': 'W&T',
     'Epistle to the Son of the Wolf': 'ESW',

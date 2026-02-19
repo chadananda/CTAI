@@ -10,84 +10,340 @@
   "page_slug": "recognize-me-with-my-eyes",
   "alignment": [
     {
-      "ar": "الله",
-      "en": "God"
+      "ar": "بعیني",
+      "en": "My Kingdom",
+      "src": [
+        33,
+        38
+      ],
+      "tgt": [
+        93,
+        103
+      ]
     },
     {
       "ar": "ومن دون ذلک",
-      "en": "otherwise"
-    },
-    {
-      "ar": "لن تعرفوني",
-      "en": "never capable of recognizing Me"
-    },
-    {
-      "ar": "ولو تفکّروا",
-      "en": "though ye ponder"
+      "en": "otherwise",
+      "src": [
+        71,
+        82
+      ],
+      "tgt": [
+        9,
+        18
+      ]
     },
     {
       "ar": "في أمري",
-      "en": "My Cause"
+      "en": "My Cause",
+      "src": [
+        106,
+        113
+      ],
+      "tgt": [
+        73,
+        81
+      ]
     },
     {
-      "ar": "بدوام الملک",
-      "en": "as long as My Kingdom endureth"
+      "ar": "ببقآء الله",
+      "en": "throughout the eternity of God",
+      "src": [
+        142,
+        152
+      ],
+      "tgt": [
+        151,
+        181
+      ]
     },
     {
-      "ar": "وتنظرون",
-      "en": "meditate upon"
-    },
-    {
-      "ar": "الأشیآء",
-      "en": "all created things"
-    },
-    {
-      "ar": "ببقآء",
-      "en": "throughout the eternity"
-    },
-    {
-      "ar": "الملک",
-      "en": "Sovereign Lord"
-    },
-    {
-      "ar": "القادر",
-      "en": "Omnipotent"
-    },
-    {
-      "ar": "الباقي",
-      "en": "Ever-Abiding"
-    },
-    {
-      "ar": "الحکیم",
-      "en": "All-Wise"
-    },
-    {
-      "ar": "کذلک",
-      "en": "Thus"
-    },
-    {
-      "ar": "الأمر",
-      "en": "truth of Our Revelation"
-    },
-    {
-      "ar": "لعلّ",
-      "en": "that haply"
-    },
-    {
-      "ar": "النّاس",
-      "en": "people"
-    },
-    {
-      "ar": "یستشعرنّ",
-      "en": "be roused from their heedlessness"
-    },
-    {
-      "ar": "ویکوننّ",
-      "en": "be"
+      "ar": "في أنفسهم",
+      "en": "from their heedlessness",
+      "src": [
+        222,
+        231
+      ],
+      "tgt": [
+        347,
+        370
+      ]
     },
     {
       "ar": "من العارفین",
-      "en": "of them that understand"
+      "en": "of them that understand",
+      "src": [
+        240,
+        251
+      ],
+      "tgt": [
+        379,
+        402
+      ]
+    },
+    {
+      "ar": "قل",
+      "en": "Ye",
+      "src": [
+        0,
+        2
+      ],
+      "tgt": [
+        0,
+        2
+      ]
+    },
+    {
+      "ar": "قوم",
+      "en": "people",
+      "src": [
+        6,
+        9
+      ],
+      "tgt": [
+        326,
+        332
+      ]
+    },
+    {
+      "ar": "لا",
+      "en": "never",
+      "src": [
+        10,
+        12
+      ],
+      "tgt": [
+        23,
+        28
+      ]
+    },
+    {
+      "ar": "إِلَيَّ",
+      "en": "Me",
+      "src": [
+        20,
+        27
+      ],
+      "tgt": [
+        52,
+        54
+      ]
+    },
+    {
+      "ar": "إن",
+      "en": "though",
+      "src": [
+        39,
+        41
+      ],
+      "tgt": [
+        56,
+        62
+      ]
+    },
+    {
+      "ar": "تریدنّ",
+      "en": "will",
+      "src": [
+        42,
+        48
+      ],
+      "tgt": [
+        3,
+        7
+      ]
+    },
+    {
+      "ar": "أن",
+      "en": "recognizing",
+      "src": [
+        49,
+        51
+      ],
+      "tgt": [
+        40,
+        51
+      ]
+    },
+    {
+      "ar": "تفکّروا",
+      "en": "ponder",
+      "src": [
+        98,
+        105
+      ],
+      "tgt": [
+        66,
+        72
+      ]
+    },
+    {
+      "ar": "بدوام",
+      "en": "as long",
+      "src": [
+        114,
+        119
+      ],
+      "tgt": [
+        82,
+        89
+      ]
+    },
+    {
+      "ar": "الملک",
+      "en": "endureth",
+      "src": [
+        120,
+        125
+      ],
+      "tgt": [
+        104,
+        112
+      ]
+    },
+    {
+      "ar": "وتنظرون",
+      "en": "meditate",
+      "src": [
+        126,
+        133
+      ],
+      "tgt": [
+        118,
+        126
+      ]
+    },
+    {
+      "ar": "الأشیآء",
+      "en": "all created things",
+      "src": [
+        134,
+        141
+      ],
+      "tgt": [
+        132,
+        150
+      ]
+    },
+    {
+      "ar": "الملک",
+      "en": "the Sovereign Lord",
+      "src": [
+        153,
+        158
+      ],
+      "tgt": [
+        183,
+        201
+      ]
+    },
+    {
+      "ar": "القادر",
+      "en": "the Omnipotent",
+      "src": [
+        159,
+        165
+      ],
+      "tgt": [
+        210,
+        224
+      ]
+    },
+    {
+      "ar": "الباقي",
+      "en": "the Ever-Abiding",
+      "src": [
+        166,
+        172
+      ],
+      "tgt": [
+        226,
+        242
+      ]
+    },
+    {
+      "ar": "الحکیم",
+      "en": "the All-Wise",
+      "src": [
+        173,
+        179
+      ],
+      "tgt": [
+        244,
+        256
+      ]
+    },
+    {
+      "ar": "کذلک",
+      "en": "Thus",
+      "src": [
+        180,
+        184
+      ],
+      "tgt": [
+        258,
+        262
+      ]
+    },
+    {
+      "ar": "بَیِّنَّا",
+      "en": "have We manifested",
+      "src": [
+        185,
+        194
+      ],
+      "tgt": [
+        263,
+        281
+      ]
+    },
+    {
+      "ar": "الأمر",
+      "en": "the truth of Our Revelation",
+      "src": [
+        195,
+        200
+      ],
+      "tgt": [
+        282,
+        309
+      ]
+    },
+    {
+      "ar": "لعلّ",
+      "en": "that haply",
+      "src": [
+        201,
+        205
+      ],
+      "tgt": [
+        311,
+        321
+      ]
+    },
+    {
+      "ar": "یستشعرنّ",
+      "en": "may be roused",
+      "src": [
+        213,
+        221
+      ],
+      "tgt": [
+        333,
+        346
+      ]
+    },
+    {
+      "ar": "ویکوننّ",
+      "en": "and be",
+      "src": [
+        232,
+        239
+      ],
+      "tgt": [
+        372,
+        378
+      ]
     }
   ],
   "terms": [

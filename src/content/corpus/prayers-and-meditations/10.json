@@ -10,84 +10,340 @@
   "page_slug": "thou-art-he-whom-all-things-worship",
   "alignment": [
     {
-      "ar": "سُبْحانَكَ",
-      "en": "Magnified be Thy name"
+      "ar": "سُبْحانَكَ اللَّهُمَّ",
+      "en": "Magnified be Thy name",
+      "src": [
+        0,
+        21
+      ],
+      "tgt": [
+        0,
+        21
+      ]
     },
     {
-      "ar": "إِلهِي",
-      "en": "my God"
+      "ar": "يا إِلهِي",
+      "en": "O Lord my God",
+      "src": [
+        22,
+        31
+      ],
+      "tgt": [
+        23,
+        36
+      ]
+    },
+    {
+      "ar": "أَحْبَبْتَ أَنْ تُعْرَفَ",
+      "en": "didst wish to make Thyself known",
+      "src": [
+        128,
+        152
+      ],
+      "tgt": [
+        209,
+        241
+      ]
     },
     {
       "ar": "أَنْتَ",
-      "en": "Thou art"
+      "en": "Thou",
+      "src": [
+        32,
+        38
+      ],
+      "tgt": [
+        38,
+        42
+      ]
+    },
+    {
+      "ar": "الَّذِيْ",
+      "en": "He",
+      "src": [
+        39,
+        47
+      ],
+      "tgt": [
+        47,
+        49
+      ]
     },
     {
       "ar": "كُنْتَ",
-      "en": "Whom"
+      "en": "is",
+      "src": [
+        48,
+        54
+      ],
+      "tgt": [
+        106,
+        108
+      ]
     },
     {
       "ar": "إِلهًا",
-      "en": "worship"
+      "en": "all things worship",
+      "src": [
+        55,
+        61
+      ],
+      "tgt": [
+        55,
+        73
+      ]
+    },
+    {
+      "ar": "وَلا",
+      "en": "and",
+      "src": [
+        62,
+        66
+      ],
+      "tgt": [
+        74,
+        77
+      ]
     },
     {
       "ar": "مَأْلُوهٌ",
-      "en": "worshippeth no one"
+      "en": "Who worshippeth",
+      "src": [
+        67,
+        76
+      ],
+      "tgt": [
+        78,
+        93
+      ]
     },
     {
-      "ar": "مَرْبُوبٌ",
-      "en": "the vassal of none"
+      "ar": "وَرَبًّا",
+      "en": "the Lord",
+      "src": [
+        77,
+        85
+      ],
+      "tgt": [
+        109,
+        117
+      ]
     },
     {
-      "ar": "عَالِمًا",
-      "en": "Who knoweth"
+      "ar": "مَرْبُوبٌ،",
+      "en": "is the vassal",
+      "src": [
+        91,
+        101
+      ],
+      "tgt": [
+        136,
+        149
+      ]
+    },
+    {
+      "ar": "وَعَالِمًا",
+      "en": "Who knoweth",
+      "src": [
+        102,
+        112
+      ],
+      "tgt": [
+        159,
+        170
+      ]
     },
     {
       "ar": "مَعْلُومٌ",
-      "en": "is known of none"
+      "en": "is known",
+      "src": [
+        118,
+        127
+      ],
+      "tgt": [
+        186,
+        194
+      ]
     },
     {
-      "ar": "أَحْبَبْتَ",
-      "en": "didst wish"
-    },
-    {
-      "ar": "تُعْرَفَ",
-      "en": "to make Thyself known"
+      "ar": "تَكَلَّمْتَ",
+      "en": "Thou didst",
+      "src": [
+        153,
+        164
+      ],
+      "tgt": [
+        263,
+        273
+      ]
     },
     {
       "ar": "بِكَلِمَةٍ",
-      "en": "a word of Thy mouth"
+      "en": "a word",
+      "src": [
+        165,
+        175
+      ],
+      "tgt": [
+        283,
+        289
+      ]
+    },
+    {
+      "ar": "بِها",
+      "en": "of Thy mouth",
+      "src": [
+        176,
+        180
+      ],
+      "tgt": [
+        290,
+        302
+      ]
     },
     {
       "ar": "خُلِقَتِ",
-      "en": "bring creation into being"
+      "en": "bring",
+      "src": [
+        181,
+        189
+      ],
+      "tgt": [
+        304,
+        309
+      ]
     },
     {
       "ar": "المُمْكِناتُ",
-      "en": "creation"
+      "en": "creation",
+      "src": [
+        190,
+        202
+      ],
+      "tgt": [
+        310,
+        318
+      ]
     },
     {
-      "ar": "المَوْجُوداتُ",
-      "en": "the universe"
+      "ar": "وَذُوِّتَتِ",
+      "en": "fashion",
+      "src": [
+        203,
+        214
+      ],
+      "tgt": [
+        334,
+        341
+      ]
+    },
+    {
+      "ar": "المَوْجُوداتُ،",
+      "en": "the universe",
+      "src": [
+        215,
+        229
+      ],
+      "tgt": [
+        342,
+        354
+      ]
+    },
+    {
+      "ar": "لا",
+      "en": "There",
+      "src": [
+        230,
+        232
+      ],
+      "tgt": [
+        356,
+        361
+      ]
+    },
+    {
+      "ar": "إِلهَ",
+      "en": "God",
+      "src": [
+        233,
+        238
+      ],
+      "tgt": [
+        376,
+        379
+      ]
+    },
+    {
+      "ar": "إِلاَّ",
+      "en": "except",
+      "src": [
+        239,
+        245
+      ],
+      "tgt": [
+        380,
+        386
+      ]
+    },
+    {
+      "ar": "أَنْتَ",
+      "en": "Thee",
+      "src": [
+        246,
+        252
+      ],
+      "tgt": [
+        387,
+        391
+      ]
     },
     {
       "ar": "الخالِقُ",
-      "en": "the Fashioner"
+      "en": "Creator",
+      "src": [
+        253,
+        261
+      ],
+      "tgt": [
+        412,
+        419
+      ]
     },
     {
       "ar": "الباعِثُ",
-      "en": "the Creator"
+      "en": "Fashioner",
+      "src": [
+        262,
+        270
+      ],
+      "tgt": [
+        397,
+        406
+      ]
     },
     {
       "ar": "المُقْتَدِرُ",
-      "en": "the Almighty"
+      "en": "Almighty",
+      "src": [
+        271,
+        283
+      ],
+      "tgt": [
+        425,
+        433
+      ]
     },
     {
-      "ar": "القَدِيرُ",
-      "en": "the Most Powerful"
-    },
-    {
-      "ar": "أَسْئَلُكَ",
-      "en": ""
+      "ar": "القَدِيرُ،",
+      "en": "the Most Powerful",
+      "src": [
+        284,
+        294
+      ],
+      "tgt": [
+        435,
+        452
+      ]
     }
   ],
   "terms": [

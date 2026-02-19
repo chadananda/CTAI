@@ -11,167 +11,615 @@
   "alignment": [
     {
       "ar": "مع ذلک",
-      "en": "In view of this"
+      "en": "In view of this",
+      "src": [
+        0,
+        6
+      ],
+      "tgt": [
+        0,
+        15
+      ]
     },
     {
-      "ar": "آيا",
-      "en": "is it"
+      "ar": "اين آيات بديعه",
+      "en": "these newly-revealed verses",
+      "src": [
+        20,
+        34
+      ],
+      "tgt": [
+        57,
+        84
+      ]
     },
     {
-      "ar": "جائز",
-      "en": "fair"
-    },
-    {
-      "ar": "است",
-      "en": "is"
-    },
-    {
-      "ar": "اين",
-      "en": "this"
-    },
-    {
-      "ar": "آيات",
-      "en": "verses"
-    },
-    {
-      "ar": "بديعه",
-      "en": "newly-revealed"
-    },
-    {
-      "ar": "که",
-      "en": "which"
-    },
-    {
-      "ar": "احاطه فرمود",
-      "en": "have encompassed"
-    },
-    {
-      "ar": "شرق",
-      "en": "the East"
-    },
-    {
-      "ar": "غرب",
-      "en": "the West"
-    },
-    {
-      "ar": "از آن معرض شوند",
-      "en": "to repudiate"
-    },
-    {
-      "ar": "خود را",
-      "en": "themselves"
+      "ar": "شرق و غرب",
+      "en": "both the East and the West",
+      "src": [
+        50,
+        59
+      ],
+      "tgt": [
+        108,
+        134
+      ]
     },
     {
       "ar": "اهل ايمان",
-      "en": "true belief"
+      "en": "the upholders of true belief",
+      "src": [
+        92,
+        101
+      ],
+      "tgt": [
+        164,
+        192
+      ]
     },
     {
-      "ar": "دانند",
-      "en": "regard"
+      "ar": "مُنزل آيات",
+      "en": "Him Who hath revealed these verses",
+      "src": [
+        129,
+        139
+      ],
+      "tgt": [
+        228,
+        262
+      ]
     },
     {
-      "ar": "يا آنکه",
-      "en": "Should"
-    },
-    {
-      "ar": "مؤمن شوند",
-      "en": "believe"
-    },
-    {
-      "ar": "مُنزل",
-      "en": "hath revealed"
-    },
-    {
-      "ar": "آيات",
-      "en": "these verses"
-    },
-    {
-      "ar": "اين استدلال",
-      "en": "the testimony"
-    },
-    {
-      "ar": "فرموده",
-      "en": "established"
-    },
-    {
-      "ar": "مقرّين",
-      "en": "that have testified"
+      "ar": "به اين استدلال",
+      "en": "Considering the testimony which",
+      "src": [
+        145,
+        159
+      ],
+      "tgt": [
+        264,
+        295
+      ]
     },
     {
       "ar": "اهل ايمان",
-      "en": "true believers"
-    },
-    {
-      "ar": "محسوب نفرمايد",
-      "en": "account"
-    },
-    {
-      "ar": "حاشا ثمّ حاشا",
-      "en": "Far be it from Him"
-    },
-    {
-      "ar": "مقبلين",
-      "en": "them that have turned unto"
-    },
-    {
-      "ar": "مقرّين",
-      "en": "embraced"
+      "en": "as true believers",
+      "src": [
+        187,
+        196
+      ],
+      "tgt": [
+        354,
+        371
+      ]
     },
     {
       "ar": "آيات احديّه",
-      "en": "the truth of the divine verses"
+      "en": "the truth of the divine verses",
+      "src": [
+        245,
+        256
+      ],
+      "tgt": [
+        523,
+        553
+      ]
     },
     {
-      "ar": "ابواب رحمت",
-      "en": "the gates of His mercy"
+      "ar": "ابواب رحمت خود",
+      "en": "the gates of His mercy",
+      "src": [
+        263,
+        277
+      ],
+      "tgt": [
+        460,
+        482
+      ]
+    },
+    {
+      "ar": "به حجّت مثبته",
+      "en": "to His sure testimony",
+      "src": [
+        295,
+        308
+      ],
+      "tgt": [
+        604,
+        625
+      ]
+    },
+    {
+      "ar": "مُثْبِتُ الْحقِّ",
+      "en": "the truth",
+      "src": [
+        336,
+        352
+      ],
+      "tgt": [
+        650,
+        659
+      ]
+    },
+    {
+      "ar": "مُحَقِّقُ الاَمرِ",
+      "en": "His Revelation",
+      "src": [
+        366,
+        383
+      ],
+      "tgt": [
+        695,
+        709
+      ]
+    },
+    {
+      "ar": "آيا",
+      "en": "is it",
+      "src": [
+        7,
+        10
+      ],
+      "tgt": [
+        17,
+        22
+      ]
+    },
+    {
+      "ar": "جائز",
+      "en": "fair",
+      "src": [
+        11,
+        15
+      ],
+      "tgt": [
+        23,
+        27
+      ]
+    },
+    {
+      "ar": "که",
+      "en": "this people",
+      "src": [
+        35,
+        37
+      ],
+      "tgt": [
+        32,
+        43
+      ]
+    },
+    {
+      "ar": "احاطه",
+      "en": "encompassed",
+      "src": [
+        38,
+        43
+      ],
+      "tgt": [
+        96,
+        107
+      ]
+    },
+    {
+      "ar": "فرمود",
+      "en": "have",
+      "src": [
+        44,
+        49
+      ],
+      "tgt": [
+        91,
+        95
+      ]
+    },
+    {
+      "ar": "را،",
+      "en": "to",
+      "src": [
+        60,
+        63
+      ],
+      "tgt": [
+        44,
+        46
+      ]
+    },
+    {
+      "ar": "از",
+      "en": "for",
+      "src": [
+        64,
+        66
+      ],
+      "tgt": [
+        28,
+        31
+      ]
+    },
+    {
+      "ar": "معرض",
+      "en": "repudiate",
+      "src": [
+        70,
+        74
+      ],
+      "tgt": [
+        47,
+        56
+      ]
+    },
+    {
+      "ar": "و",
+      "en": "and",
+      "src": [
+        80,
+        81
+      ],
+      "tgt": [
+        136,
+        139
+      ]
+    },
+    {
+      "ar": "خود",
+      "en": "themselves",
+      "src": [
+        82,
+        85
+      ],
+      "tgt": [
+        150,
+        160
+      ]
+    },
+    {
+      "ar": "را",
+      "en": "as",
+      "src": [
+        86,
+        88
+      ],
+      "tgt": [
+        161,
+        163
+      ]
+    },
+    {
+      "ar": "دانند؟",
+      "en": "regard",
+      "src": [
+        102,
+        108
+      ],
+      "tgt": [
+        143,
+        149
+      ]
+    },
+    {
+      "ar": "و",
+      "en": "or",
+      "src": [
+        109,
+        110
+      ],
+      "tgt": [
+        555,
+        557
+      ]
+    },
+    {
+      "ar": "يا",
+      "en": "rather",
+      "src": [
+        111,
+        113
+      ],
+      "tgt": [
+        210,
+        216
+      ]
+    },
+    {
+      "ar": "آنکه",
+      "en": "Should they",
+      "src": [
+        114,
+        118
+      ],
+      "tgt": [
+        194,
+        205
+      ]
+    },
+    {
+      "ar": "مؤمن",
+      "en": "believe",
+      "src": [
+        119,
+        123
+      ],
+      "tgt": [
+        217,
+        224
+      ]
+    },
+    {
+      "ar": "را؟",
+      "en": "in",
+      "src": [
+        140,
+        143
+      ],
+      "tgt": [
+        225,
+        227
+      ]
+    },
+    {
+      "ar": "که",
+      "en": "how could",
+      "src": [
+        160,
+        162
+      ],
+      "tgt": [
+        325,
+        334
+      ]
+    },
+    {
+      "ar": "خود",
+      "en": "He Himself",
+      "src": [
+        163,
+        166
+      ],
+      "tgt": [
+        296,
+        306
+      ]
+    },
+    {
+      "ar": "فرموده",
+      "en": "hath established",
+      "src": [
+        167,
+        173
+      ],
+      "tgt": [
+        307,
+        323
+      ]
+    },
+    {
+      "ar": "مقرّين",
+      "en": "them that",
+      "src": [
+        174,
+        180
+      ],
+      "tgt": [
+        372,
+        381
+      ]
+    },
+    {
+      "ar": "را",
+      "en": "to its",
+      "src": [
+        181,
+        183
+      ],
+      "tgt": [
+        397,
+        403
+      ]
+    },
+    {
+      "ar": "از",
+      "en": "from",
+      "src": [
+        184,
+        186
+      ],
+      "tgt": [
+        421,
+        425
+      ]
+    },
+    {
+      "ar": "محسوب",
+      "en": "account",
+      "src": [
+        197,
+        202
+      ],
+      "tgt": [
+        346,
+        353
+      ]
+    },
+    {
+      "ar": "نفرمايد؟",
+      "en": "fail",
+      "src": [
+        203,
+        211
+      ],
+      "tgt": [
+        338,
+        342
+      ]
+    },
+    {
+      "ar": "حاشا ثمّ حاشا",
+      "en": "Far be it",
+      "src": [
+        212,
+        225
+      ],
+      "tgt": [
+        411,
+        420
+      ]
+    },
+    {
+      "ar": "که",
+      "en": "that",
+      "src": [
+        226,
+        228
+      ],
+      "tgt": [
+        430,
+        434
+      ]
+    },
+    {
+      "ar": "مقبلين",
+      "en": "them that have turned unto",
+      "src": [
+        229,
+        235
+      ],
+      "tgt": [
+        483,
+        509
+      ]
+    },
+    {
+      "ar": "مقرّين",
+      "en": "embraced",
+      "src": [
+        238,
+        244
+      ],
+      "tgt": [
+        514,
+        522
+      ]
     },
     {
       "ar": "براند",
-      "en": "turn away"
+      "en": "turn away",
+      "src": [
+        278,
+        283
+      ],
+      "tgt": [
+        445,
+        454
+      ]
     },
     {
       "ar": "متمسّکين",
-      "en": "those that have clung"
+      "en": "those that have clung",
+      "src": [
+        286,
+        294
+      ],
+      "tgt": [
+        582,
+        603
+      ]
     },
     {
-      "ar": "حجّت مثبته",
-      "en": "His sure testimony"
+      "ar": "تهديد",
+      "en": "threaten",
+      "src": [
+        312,
+        317
+      ],
+      "tgt": [
+        573,
+        581
+      ]
     },
     {
-      "ar": "تهديد فرمايد",
-      "en": "threaten"
-    },
-    {
-      "ar": "مُثْبِتُ",
-      "en": "establisheth"
+      "ar": "إذ إنَّهُ",
+      "en": "He verily",
+      "src": [
+        326,
+        335
+      ],
+      "tgt": [
+        627,
+        636
+      ]
     },
     {
       "ar": "بِآياتِهِ",
-      "en": "through His verses"
-    },
-    {
-      "ar": "الاَمرِ",
-      "en": "His Revelation"
+      "en": "through His verses",
+      "src": [
+        353,
+        362
+      ],
+      "tgt": [
+        660,
+        678
+      ]
     },
     {
       "ar": "بِکلِماتِهِ",
-      "en": "by His words"
+      "en": "by His words",
+      "src": [
+        384,
+        395
+      ],
+      "tgt": [
+        710,
+        722
+      ]
     },
     {
       "ar": "لَهُوَ",
-      "en": "verily"
+      "en": "is",
+      "src": [
+        407,
+        413
+      ],
+      "tgt": [
+        734,
+        736
+      ]
     },
     {
       "ar": "المُقتَدِرُ",
-      "en": "the Powerful"
+      "en": "Powerful",
+      "src": [
+        414,
+        425
+      ],
+      "tgt": [
+        741,
+        749
+      ]
     },
     {
       "ar": "المُهَيمِنُ",
-      "en": "the Help in peril"
+      "en": "Help in peril",
+      "src": [
+        426,
+        437
+      ],
+      "tgt": [
+        755,
+        768
+      ]
     },
     {
-      "ar": "القَديرُ",
-      "en": "the Almighty"
+      "ar": "القَديرُ.",
+      "en": "Almighty",
+      "src": [
+        438,
+        447
+      ],
+      "tgt": [
+        774,
+        782
+      ]
     }
   ],
   "terms": [

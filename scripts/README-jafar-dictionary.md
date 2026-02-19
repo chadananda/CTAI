@@ -31,7 +31,7 @@ Pre-computed root concordance for Arabic/Persian text lookup. Moves all AI and s
 
 ## The Problem
 
-The corpus is Shoghi Effendi's translations of Baha'i texts: 2,530 source/translation paragraph pairs across 12 works. Users search Arabic/Persian phrases and expect to see every occurrence of each word across the corpus, with the English rendering Shoghi Effendi chose, organized by trilateral root.
+The corpus is Shoghi Effendi's translations of Baha'i texts: 2,530 source/translation paragraph pairs across 11 works. Users search Arabic/Persian phrases and expect to see every occurrence of each word across the corpus, with the English rendering Shoghi Effendi chose, organized by trilateral root.
 
 The original implementation required 2+ AI calls per query (term extraction + per-term lookup via Meilisearch + Claude). This was slow (~5s per query), expensive, and required both Meilisearch and an Anthropic API key at runtime.
 
