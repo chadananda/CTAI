@@ -74,15 +74,24 @@ function phrasePrompt(srcWords, enWords, sourceLang) {
 
 TASK: Link TIGHT GRAMMATICAL PHRASES between the source and translation. This is Pass 1 — single-word links come later.
 
-A phrase is a minimal grammatical unit: إضافة construct (رَبِّ آبَائِكَ → "the Lord of thy fathers"), prepositional phrase (فِي سُبُلِ → "in the paths"), verb+particle (فَتَوَكَّلْ عَلَى → "Rely upon"), possessive (نَغَمَاتِهِ → "His Melody"). Do NOT join independent elements — if there is an "and"/و or a clause boundary, SPLIT into separate phrases.
+CONTEXT: These are Baha'i sacred texts. God/the Manifestation speaks using the royal "We" — first person plural verbs like أَشْهَدْنَاهُمْ → "have We found them". Shoghi Effendi uses archaic English (thou, thy, dost, hath).
 
-CONTEXT: These are Baha'i sacred texts. The speaker is God/the Manifestation using the royal "We" — first person plural verbs like أَشْهَدْنَاهُمْ map to "have We found them" (not third person). Shoghi Effendi uses archaic English (thou, thy, dost, hath).
+Find phrases in this PRIORITY ORDER:
 
-EXAMPLE: For "اللهِ رَبِّكَ وَرَبِّ آبَائِكَ" / "God, thy God and the Lord of thy fathers":
-  - اللهِ → "God" (single word)
-  - رَبِّكَ → "thy God" (possessive suffix كَ makes this independent)
-  - وَرَبِّ آبَائِكَ → "and the Lord of thy fathers" (إضافة: رَبِّ governs آبَائِكَ, و prefix = "and")
-  WRONG: merging رَبِّكَ with وَرَبِّ — these are two separate nouns joined by و.
+1. إضافة (GENITIVE CONSTRUCTS) — the most important. Look for nouns in construct state (kasra/ياء) governing another noun. These produce English "X of Y" phrases.
+   Examples: رَبِّ آبَائِكَ → "the Lord of thy fathers", سُبُلِ ٱلْوَهْمِ → "the paths of delusion"
+   The و prefix starts a NEW phrase: وَرَبِّ آبَائِكَ → "and the Lord of thy fathers" is ONE إضافة phrase, separate from a preceding رَبِّكَ.
+
+2. PREPOSITIONAL PHRASES — preposition + noun/إضافة.
+   Examples: فِي سُبُلِ ٱلْوَهْمِ → "in the paths of delusion", بِعُيُوْنِهِمْ → "with their own eyes"
+
+3. VERB + COMPLEMENT — verb with its direct object or essential particle.
+   Examples: فَتَوَكَّلْ عَلَى → "Rely upon", يَسْمَعُوْا نَغَمَاتِهِ → "hear His Melody"
+
+4. POSSESSIVE SUFFIXES — single words with pronoun suffixes that expand in English.
+   Examples: نَغَمَاتِهِ → "His Melody", بِآذَانِهِمْ → "with their own ears"
+
+Do NOT merge phrases across و (and) or clause boundaries. Each phrase must be ONE grammatical unit.
 
 SOURCE WORDS (${sourceLang === 'ar' ? 'Arabic' : 'Persian'}):
 ${wordList(srcWords)}
