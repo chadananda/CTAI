@@ -48,7 +48,7 @@ import '../styles/fonts.css';
     <link rel="preconnect" href="https://18441963.imgix.net" />
     <!-- Preload critical fonts (body + display + Arabic) for fastest paint -->
     <link rel="preload" href="/fonts/source-serif-4-latin-normal.woff2" as="font" type="font/woff2" crossorigin />
-    <link rel="preload" href="/fonts/cormorant-garamond-latin-normal.woff2" as="font" type="font/woff2" crossorigin />
+    <link rel="preload" href="/fonts/eb-garamond-latin-normal.woff2" as="font" type="font/woff2" crossorigin />
     <link rel="preload" href="/fonts/scheherazade-new-arabic-normal-400.woff2" as="font" type="font/woff2" crossorigin />
     <title>{title} — CTAI</title>
     <!-- Global styles in src/styles/theme.css -->
@@ -67,13 +67,21 @@ import '../styles/fonts.css';
         </a>
         <div class="flex items-center gap-1">
           {[
-            { href: '/works/', label: 'Tablets' },
             { href: '/models/', label: 'Models' },
             { href: '/concordance/', label: 'Concordance' },
-            { href: '/jafar', label: 'Try Jafar' },
-            { href: '/articles/', label: 'Articles' },
-            { href: '/dashboard', label: 'Dashboard' },
-          ].map(link => (
+            { href: '/jafar', label: 'Jafar' },
+            { href: '/works/', label: 'Tablets' },
+            { href: '/quran/', label: "Qur'an", disabled: true },
+            { href: '/scholars/', label: 'Scholars', disabled: true },
+            { href: '/articles/', label: 'Blog' },
+          ].map(link => link.disabled ? (
+            <span
+              class="px-3 py-1.5 text-xs font-mono tracking-wide rounded-md text-ink-600 cursor-default"
+              title="Coming soon"
+            >
+              {link.label}
+            </span>
+          ) : (
             <a
               href={link.href}
               class:list={[

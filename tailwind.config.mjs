@@ -11,7 +11,7 @@ export default {
     extend: {
       fontFamily: {
         serif: ['"Source Serif 4"', 'Georgia', 'serif'],
-        display: ['"Cormorant Garamond"', 'Georgia', 'serif'],
+        display: ['"EB Garamond"', 'Georgia', 'serif'],
         arabic: ['"Scheherazade New"', '"Traditional Arabic"', 'serif'],
         mono: ['"JetBrains Mono"', 'monospace'],
       },

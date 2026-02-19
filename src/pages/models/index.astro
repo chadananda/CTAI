@@ -118,22 +118,4 @@ function curly(s) {
     })}
   </div>
 
-  <style is:global>
-    .cover-perspective {
-      perspective: 800px;
-    }
-    .cover-tilt-right {
-      transform: rotateY(-6deg);
-      filter: drop-shadow(8px 12px 24px rgba(0, 0, 0, 0.5));
-    }
-    .cover-tilt-left {
-      transform: rotateY(6deg);
-      filter: drop-shadow(-8px 12px 24px rgba(0, 0, 0, 0.5));
-    }
-    .group:hover .cover-tilt-right,
-    .group:hover .cover-tilt-left {
-      transform: rotateY(0deg) scale(1.03);
-      filter: drop-shadow(0 16px 32px rgba(0, 0, 0, 0.6));
-    }
-  </style>
 </Base>
