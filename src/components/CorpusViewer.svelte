@@ -21,14 +21,29 @@
 
   // Build segments by finding phrases at their exact positions in the text.
   // No trimming — preserves original spacing and punctuation attachment.
+  // Find phrase in text only at word boundaries (not inside other words)
+  const BOUNDARY = /[\s,.:;!?'"()\[\]{}\u060C\u061B\u061F\u200C\u200D\u2014\u2013\u2018\u2019\u201C\u201D]/;
+  function findWhole(text, phrase, startFrom = 0) {
+    let pos = startFrom;
+    while (pos <= text.length - phrase.length) {
+      const idx = text.indexOf(phrase, pos);
+      if (idx === -1) return -1;
+      const before = idx > 0 ? text[idx - 1] : '';
+      const after = idx + phrase.length < text.length ? text[idx + phrase.length] : '';
+      if ((!before || BOUNDARY.test(before)) && (!after || BOUNDARY.test(after))) return idx;
+      pos = idx + 1;
+    }
+    return -1;
+  }
+
   function buildSegments(text, alignmentArr, field) {
     if (!alignmentArr?.length) return [{ text, idx: -1 }];
-    // Find all phrases and their positions in the full text
+    // Find all phrases at word boundaries in the full text
     const found = [];
     for (let i = 0; i < alignmentArr.length; i++) {
       const phrase = alignmentArr[i][field];
       if (!phrase) continue;
-      const pos = text.indexOf(phrase);
+      const pos = findWhole(text, phrase);
       if (pos === -1) continue;
       found.push({ pos, len: phrase.length, text: phrase, idx: i });
     }
