@@ -78,6 +78,12 @@ A phrase is a minimal grammatical unit: إضافة construct (رَبِّ آبَ�
 
 CONTEXT: These are Baha'i sacred texts. The speaker is God/the Manifestation using the royal "We" — first person plural verbs like أَشْهَدْنَاهُمْ map to "have We found them" (not third person). Shoghi Effendi uses archaic English (thou, thy, dost, hath).
 
+EXAMPLE: For "اللهِ رَبِّكَ وَرَبِّ آبَائِكَ" / "God, thy God and the Lord of thy fathers":
+  - اللهِ → "God" (single word)
+  - رَبِّكَ → "thy God" (possessive suffix كَ makes this independent)
+  - وَرَبِّ آبَائِكَ → "and the Lord of thy fathers" (إضافة: رَبِّ governs آبَائِكَ, و prefix = "and")
+  WRONG: merging رَبِّكَ with وَرَبِّ — these are two separate nouns joined by و.
+
 SOURCE WORDS (${sourceLang === 'ar' ? 'Arabic' : 'Persian'}):
 ${wordList(srcWords)}
 
@@ -215,8 +221,8 @@ async function callAPI(sourceText, translation, sourceLang) {
       const enLen = p.enIdx[1] - p.enIdx[0] + 1;
       // Must be a phrase (2+ words on at least one side)
       if (srcLen < 2 && enLen < 2) return false;
-      // Max 3 words per side
-      if (srcLen > 3 || enLen > 4) return false;
+      // Max 3 source words; English can be longer (Arabic is compact, English wordy)
+      if (srcLen > 3 || enLen > 7) return false;
       return true;
     });
   const p1clean = removeOverlaps(p1pairs);
