@@ -38,27 +38,50 @@
 
   function buildSegments(text, alignmentArr, field) {
     if (!alignmentArr?.length) return [{ text, idx: -1 }];
-    // Find all phrases at word boundaries in the full text
-    const found = [];
+
+    // Position key: 'src' for Arabic, 'tgt' for English
+    const posKey = field === 'ar' ? 'src' : 'tgt';
+
+    const assigned = [];
+    const taken = []; // {start, end} ranges already claimed
+
     for (let i = 0; i < alignmentArr.length; i++) {
       const phrase = alignmentArr[i][field];
       if (!phrase) continue;
-      const pos = findWhole(text, phrase);
-      if (pos === -1) continue;
-      found.push({ pos, len: phrase.length, text: phrase, idx: i });
+
+      // Use stored character positions if available (exact, no ambiguity)
+      const storedPos = alignmentArr[i][posKey];
+      if (storedPos && Array.isArray(storedPos)) {
+        const [start, end] = storedPos;
+        if (start >= 0 && end <= text.length && !taken.some(r => start < r.end && end > r.start)) {
+          assigned.push({ pos: start, len: end - start, text: text.slice(start, end), idx: i });
+          taken.push({ start, end });
+          continue;
+        }
+      }
+
+      // Fallback: search for phrase at word boundaries (for legacy data without positions)
+      let from = 0;
+      let placed = false;
+      while (from <= text.length - phrase.length) {
+        const pos = findWhole(text, phrase, from);
+        if (pos === -1) break;
+        const end = pos + phrase.length;
+        if (!taken.some(r => pos < r.end && end > r.start)) {
+          assigned.push({ pos, len: phrase.length, text: phrase, idx: i });
+          taken.push({ start: pos, end });
+          placed = true;
+          break;
+        }
+        from = pos + 1;
+      }
     }
-    if (found.length === 0) return [{ text, idx: -1 }];
-    // Sort by position, remove overlaps (keep earlier match)
-    found.sort((a, b) => a.pos - b.pos);
-    const clean = [found[0]];
-    for (let i = 1; i < found.length; i++) {
-      const prev = clean[clean.length - 1];
-      if (found[i].pos >= prev.pos + prev.len) clean.push(found[i]);
-    }
-    // Build segments covering the full text — no trimming
+
+    // Build segments covering the full text
+    assigned.sort((a, b) => a.pos - b.pos);
     const segments = [];
     let cursor = 0;
-    for (const f of clean) {
+    for (const f of assigned) {
       if (f.pos > cursor) {
         segments.push({ text: text.slice(cursor, f.pos), idx: -1 });
       }

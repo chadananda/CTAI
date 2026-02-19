@@ -63,16 +63,52 @@ function splitWords(text) {
   return words;
 }
 
-function buildPrompt(sourceText, translation, sourceLang) {
-  const srcWords = splitWords(sourceText);
-  const enWords = splitWords(translation);
+// ── Prompt builders for each pass ──
 
-  const srcList = srcWords.map((w, i) => `[${i}] ${w.word}`).join('\n');
-  const enList = enWords.map((w, i) => `[${i}] ${w.word}`).join('\n');
+function wordList(words) {
+  return words.map((w, i) => `[${i}] ${w.word}`).join('\n');
+}
+
+function phrasePrompt(srcWords, enWords, sourceLang) {
+  return `You are a specialist in Arabic, Persian, and Baha'i sacred texts translated by Shoghi Effendi.
+
+TASK: Link TIGHT GRAMMATICAL PHRASES between the source and translation. This is Pass 1 — single-word links come later.
+
+A phrase is a minimal grammatical unit: إضافة construct (رَبِّ آبَائِكَ → "the Lord of thy fathers"), prepositional phrase (فِي سُبُلِ → "in the paths"), verb+particle (فَتَوَكَّلْ عَلَى → "Rely upon"), possessive (نَغَمَاتِهِ → "His Melody"). Do NOT join independent elements — if there is an "and"/و or a clause boundary, SPLIT into separate phrases.
+
+CONTEXT: These are Baha'i sacred texts. The speaker is God/the Manifestation using the royal "We" — first person plural verbs like أَشْهَدْنَاهُمْ map to "have We found them" (not third person). Shoghi Effendi uses archaic English (thou, thy, dost, hath).
+
+SOURCE WORDS (${sourceLang === 'ar' ? 'Arabic' : 'Persian'}):
+${wordList(srcWords)}
+
+ENGLISH WORDS:
+${wordList(enWords)}
+
+RULES:
+1. Each phrase must be a SINGLE grammatical unit. Max 2-3 words per side. Never join clauses or items separated by "and"/و.
+2. Use inclusive index ranges: {"src": [start, end], "en": [start, end]}.
+3. ZERO OVERLAP: each word index may appear in at most ONE link.
+4. Handle إضافة correctly: the governing noun takes the preposition "of" (e.g., رَبِّ → "the Lord of", not just "Lord").
+5. English may appear ANYWHERE — Shoghi Effendi rearranges clause order.
+6. Do NOT force wrong matches. Leave uncertain words for the next pass.
+7. When a source word maps to a single English word, leave it for the word pass — only link it here if it MUST be grouped with an adjacent word.
+
+Return ONLY a JSON array: [{"src": [3, 4], "en": [5, 8]}, ...]
+No markdown fences, no commentary.`;
+}
+
+function wordPrompt(srcWords, enWords, takenSrc, takenEn, sourceLang) {
+  // Show which indices are available vs taken
+  const srcList = srcWords.map((w, i) => {
+    return takenSrc.has(i) ? `[${i}] ${w.word} (TAKEN)` : `[${i}] ${w.word}`;
+  }).join('\n');
+  const enList = enWords.map((w, i) => {
+    return takenEn.has(i) ? `[${i}] ${w.word} (TAKEN)` : `[${i}] ${w.word}`;
+  }).join('\n');
 
   return `You are a specialist in Arabic, Persian, and Baha'i sacred texts translated by Shoghi Effendi.
 
-TASK: Create a word-level alignment between the indexed source words and indexed English words below. This is a study aid — readers hover over a source word to see which English word(s) it maps to.
+TASK: Link INDIVIDUAL WORDS that were not linked in the previous phrase-linking pass. Only link words marked as available (not TAKEN). This is a study aid — readers hover a source word to see which specific English word Shoghi Effendi used for it.
 
 SOURCE WORDS (${sourceLang === 'ar' ? 'Arabic' : 'Persian'}):
 ${srcList}
@@ -80,30 +116,23 @@ ${srcList}
 ENGLISH WORDS:
 ${enList}
 
-APPROACH — work in two passes:
-
-PASS 1 (phrases): Identify multi-word phrase correspondences first (إضافة constructs, verb+object, noun+adjective). Map source index ranges to English index ranges. The English may appear ANYWHERE — Shoghi Effendi often rearranges clause order.
-
-PASS 2 (remaining words): Go back through BOTH word lists and find every word NOT covered in Pass 1. Map each remaining source word to its English counterpart, and vice versa. After this pass, nearly every word on both sides should be covered.
-
 RULES:
-1. COMPREHENSIVE coverage. Every word with a counterpart on the other side must be mapped. The only words left unmapped should be those with genuinely no match.
-2. Use inclusive index ranges: {"src": [start, end], "en": [start, end]}. For a single word, start === end.
-3. Include particles, conjunctions, prepositions, pronouns when they have clear matches.
-4. Each index should appear in at most ONE mapping (no overlaps).
-5. Do NOT force wrong matches. But DO include every correct match.
+1. ONLY link words that are NOT marked (TAKEN). Never reference a TAKEN index.
+2. Link single source words to single English words: {"src": [i, i], "en": [j, j]}.
+3. You may link a single source word to 2 English words if needed, or vice versa, but prefer 1-to-1.
+4. ZERO OVERLAP with each other and with TAKEN indices.
+5. Be SPECIFIC: if a word appears multiple times, link to the EXACT occurrence that corresponds to this source word based on meaning and sentence position.
+6. Include particles/prepositions/pronouns when they have clear matches.
+7. Do NOT force wrong matches. Only link words you are confident about.
 
-Return ONLY a JSON array: [{"src": [0, 0], "en": [0, 0]}, {"src": [3, 4], "en": [5, 8]}, ...]
+Return ONLY a JSON array: [{"src": [0, 0], "en": [2, 2]}, ...]
 No markdown fences, no commentary.`;
 }
 
 // ── Convert index-based mappings to {ar, en} text pairs ──
 
-function indicesToPairs(mappings, sourceText, translation) {
-  const srcWords = splitWords(sourceText);
-  const enWords = splitWords(translation);
+function indicesToPairs(mappings, sourceText, translation, srcWords, enWords) {
   const pairs = [];
-
   for (const m of mappings) {
     if (!m.src || !m.en || !Array.isArray(m.src) || !Array.isArray(m.en)) continue;
     const [ss, se] = m.src;
@@ -111,23 +140,47 @@ function indicesToPairs(mappings, sourceText, translation) {
     if (typeof ss !== 'number' || typeof se !== 'number' || typeof es !== 'number' || typeof ee !== 'number') continue;
     if (ss < 0 || se >= srcWords.length || es < 0 || ee >= enWords.length) continue;
     if (ss > se || es > ee) continue;
-    if (!srcWords[ss] || !srcWords[se] || !enWords[es] || !enWords[ee]) continue;
 
-    // Extract exact substrings from original texts using character positions
-    const arText = sourceText.slice(srcWords[ss].start, srcWords[se].end);
-    let enText = translation.slice(enWords[es].start, enWords[ee].end);
-    // Strip trailing punctuation for cleaner highlighting
-    enText = enText.replace(/[.,;:!?"']+$/, '');
+    const arStart = srcWords[ss].start;
+    const arEnd = srcWords[se].end;
+    const arText = sourceText.slice(arStart, arEnd);
 
-    if (arText && enText) pairs.push({ ar: arText, en: enText });
+    const enStart = enWords[es].start;
+    let enEnd = enWords[ee].end;
+    let enText = translation.slice(enStart, enEnd);
+    const stripped = enText.replace(/[.,;:!?"']+$/, '');
+    if (stripped) { enEnd = enStart + stripped.length; enText = stripped; }
+
+    if (arText && enText) {
+      pairs.push({ ar: arText, en: enText, src: [arStart, arEnd], tgt: [enStart, enEnd], srcIdx: [ss, se], enIdx: [es, ee] });
+    }
   }
   return pairs;
 }
 
-// ── API call with retry ──
+// ── Strip overlapping pairs (enforce zero overlap on both sides) ──
 
-async function callAPI(sourceText, translation, sourceLang) {
-  const prompt = buildPrompt(sourceText, translation, sourceLang);
+function removeOverlaps(pairs) {
+  const usedSrc = new Set();
+  const usedEn = new Set();
+  const clean = [];
+  for (const p of pairs) {
+    const [ss, se] = p.srcIdx;
+    const [es, ee] = p.enIdx;
+    let overlap = false;
+    for (let i = ss; i <= se; i++) { if (usedSrc.has(i)) { overlap = true; break; } }
+    if (!overlap) for (let i = es; i <= ee; i++) { if (usedEn.has(i)) { overlap = true; break; } }
+    if (overlap) continue;
+    for (let i = ss; i <= se; i++) usedSrc.add(i);
+    for (let i = es; i <= ee; i++) usedEn.add(i);
+    clean.push(p);
+  }
+  return clean;
+}
+
+// ── Single API call with retry ──
+
+async function aiCall(prompt) {
   for (let attempt = 0; attempt < 3; attempt++) {
     try {
       const response = await client.messages.create({
@@ -137,14 +190,9 @@ async function callAPI(sourceText, translation, sourceLang) {
       });
       const text = response.content[0].text.trim();
       const cleaned = text.replace(/^```(?:json)?\s*/i, '').replace(/\s*```$/i, '');
-      const raw = JSON.parse(cleaned);
-      // Convert index mappings to text pairs
-      const pairs = indicesToPairs(raw, sourceText, translation);
-      if (pairs.length === 0) throw new Error('No valid pairs extracted from AI response');
-      return pairs;
+      return JSON.parse(cleaned);
     } catch (err) {
       if (attempt < 2) {
-        console.warn(`  Retry ${attempt + 1}/3: ${err.message}`);
         await new Promise(r => setTimeout(r, 2000 * (attempt + 1)));
       } else {
         throw err;
@@ -153,79 +201,51 @@ async function callAPI(sourceText, translation, sourceLang) {
   }
 }
 
-// ── Fuzzy substring matching (snap AI output to exact substrings) ──
+// ── Multi-pass alignment ──
 
-const norm = s => s.normalize('NFKD')
-  .replace(/[\u064B-\u065F\u0670\u06D6-\u06ED]/g, '') // Arabic tashkil
-  .replace(/[\u0300-\u036F]/g, '') // combining diacritics
-  .replace(/\s+/g, ' ').trim();
+async function callAPI(sourceText, translation, sourceLang) {
+  const srcWords = splitWords(sourceText);
+  const enWords = splitWords(translation);
 
-function mapNormPosToOriginal(original, normalized, normStart, normLen) {
-  let oi = 0, ni = 0;
-  while (ni < normStart && oi < original.length) {
-    const nc = original[oi].normalize('NFKD')
-      .replace(/[\u064B-\u065F\u0670\u06D6-\u06ED]/g, '')
-      .replace(/[\u0300-\u036F]/g, '');
-    ni += nc.length;
-    oi++;
+  // Pass 1: phrases (2+ words on at least one side, max 3 per side)
+  const p1raw = await aiCall(phrasePrompt(srcWords, enWords, sourceLang));
+  const p1pairs = indicesToPairs(Array.isArray(p1raw) ? p1raw : [], sourceText, translation, srcWords, enWords)
+    .filter(p => {
+      const srcLen = p.srcIdx[1] - p.srcIdx[0] + 1;
+      const enLen = p.enIdx[1] - p.enIdx[0] + 1;
+      // Must be a phrase (2+ words on at least one side)
+      if (srcLen < 2 && enLen < 2) return false;
+      // Max 3 words per side
+      if (srcLen > 3 || enLen > 4) return false;
+      return true;
+    });
+  const p1clean = removeOverlaps(p1pairs);
+
+  // Track taken indices
+  const takenSrc = new Set();
+  const takenEn = new Set();
+  for (const p of p1clean) {
+    for (let i = p.srcIdx[0]; i <= p.srcIdx[1]; i++) takenSrc.add(i);
+    for (let i = p.enIdx[0]; i <= p.enIdx[1]; i++) takenEn.add(i);
   }
-  while (oi < original.length && /\s/.test(original[oi])) oi++;
-  const origStart = oi;
-  let consumed = 0;
-  while (consumed < normLen && oi < original.length) {
-    const nc = original[oi].normalize('NFKD')
-      .replace(/[\u064B-\u065F\u0670\u06D6-\u06ED]/g, '')
-      .replace(/[\u0300-\u036F]/g, '');
-    consumed += nc.length;
-    oi++;
-  }
-  if (origStart >= 0 && oi > origStart) {
-    const text = original.slice(origStart, oi).trim();
-    return text;
-  }
-  return null;
+
+  // Pass 2: individual words
+  const p2raw = await aiCall(wordPrompt(srcWords, enWords, takenSrc, takenEn, sourceLang));
+  const p2pairs = indicesToPairs(Array.isArray(p2raw) ? p2raw : [], sourceText, translation, srcWords, enWords);
+  // Filter out any that touch taken indices
+  const p2valid = p2pairs.filter(p => {
+    for (let i = p.srcIdx[0]; i <= p.srcIdx[1]; i++) { if (takenSrc.has(i)) return false; }
+    for (let i = p.enIdx[0]; i <= p.enIdx[1]; i++) { if (takenEn.has(i)) return false; }
+    return true;
+  });
+  const p2clean = removeOverlaps(p2valid);
+
+  const allPairs = [...p1clean, ...p2clean];
+
+  // Strip internal idx fields before returning
+  return allPairs.map(({ ar, en, src, tgt }) => ({ ar, en, src, tgt }));
 }
 
-function fuzzySnap(needle, haystack) {
-  if (!needle || !haystack) return null;
-  if (haystack.includes(needle)) return needle;
-  const normNeedle = norm(needle);
-  const normHay = norm(haystack);
-  const normPos = normHay.indexOf(normNeedle);
-  if (normPos !== -1) {
-    return mapNormPosToOriginal(haystack, normHay, normPos, normNeedle.length);
-  }
-  return null;
-}
-
-// ── Validation ──
-
-function validate(alignment, sourceText, translation) {
-  const errors = [];
-  const usedEn = new Set();
-
-  for (let i = 0; i < alignment.length; i++) {
-    const pair = alignment[i];
-
-    if (!pair.ar) {
-      errors.push(`pair[${i}]: missing ar`);
-      continue;
-    }
-    if (!sourceText.includes(pair.ar)) {
-      errors.push(`pair[${i}]: ar not substring: "${pair.ar.slice(0, 40)}..."`);
-    }
-    if (pair.en) {
-      if (!translation.includes(pair.en)) {
-        errors.push(`pair[${i}]: en not substring: "${pair.en.slice(0, 40)}..."`);
-      }
-      if (usedEn.has(pair.en)) {
-        errors.push(`pair[${i}]: duplicate en: "${pair.en.slice(0, 40)}..."`);
-      }
-      usedEn.add(pair.en);
-    }
-  }
-  return errors;
-}
 
 // ── Process one file ──
 
@@ -236,21 +256,9 @@ async function processFile(filePath) {
   const newAlignment = await callAPI(data.source_text, data.translation, data.source_lang || 'ar');
   if (!Array.isArray(newAlignment)) return { status: 'bad_response' };
 
-  const errors = validate(newAlignment, data.source_text, data.translation);
-
-  // Pairs are constructed from exact character positions, so they should
-  // always be valid substrings. Filter just in case.
-  const cleaned = newAlignment.filter((pair, i) => {
-    if (!pair.ar || !data.source_text.includes(pair.ar)) {
-      if (PARA_FILTER) console.log(`    REJECTED ar[${i}]: "${pair.ar?.slice(0,40)}"`);
-      return false;
-    }
-    if (!pair.en || !data.translation.includes(pair.en)) {
-      if (PARA_FILTER) console.log(`    REJECTED en[${i}]: "${pair.en?.slice(0,40)}"`);
-      return false;
-    }
-    return true;
-  });
+  // Pairs are constructed from exact character positions — just sanity check
+  const cleaned = newAlignment.filter(pair => pair.ar && pair.en);
+  const errors = [];
 
   // Remove duplicate en values (keep first occurrence)
   const seenEn = new Set();
