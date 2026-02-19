@@ -85,7 +85,7 @@ if (root.similar) {
 function pairToUrl(pairId) {
   const parsed = parsePairId(pairId);
   if (!parsed) return null;
-  return `/examples/${parsed.workSlug}/${parsed.paraIndex}/`;
+  return `/models/${parsed.workSlug}/${parsed.paraIndex}/`;
 }
 
 function pairToDisplay(pairId) {

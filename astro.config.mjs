@@ -16,7 +16,7 @@ if (fs.existsSync(corpusDir)) {
     const meta = JSON.parse(fs.readFileSync(metaPath, 'utf-8'));
     if (meta.search_index) {
       for (const entry of meta.search_index) {
-        corpusPages.push(`https://ctai.info/examples/${work}/${entry.s}/`);
+        corpusPages.push(`https://ctai.info/models/${work}/${entry.s}/`);
       }
     }
   }
@@ -36,7 +36,7 @@ if (fs.existsSync(concordanceIndexPath)) {
 }
 
 export default defineConfig({
-  adapter: cloudflare(),
+  adapter: cloudflare({ imageService: 'passthrough' }),
   integrations: [svelte(), tailwind(), sitemap({
     customPages: [...corpusPages, ...concordancePages],
     filter: (page) => {
@@ -57,15 +57,15 @@ export default defineConfig({
         item.priority = 0.5;
         item.changefreq = 'monthly';
       }
-      else if (/\/(examples|works|articles)\/?$/.test(url)) {
+      else if (/\/(models|works|articles)\/?$/.test(url)) {
         item.priority = 0.8;
         item.changefreq = 'monthly';
       }
-      else if (/\/examples\/[^/]+\/?$/.test(url) || /\/works\/[^/]+\/?$/.test(url)) {
+      else if (/\/models\/[^/]+\/?$/.test(url) || /\/works\/[^/]+\/?$/.test(url)) {
         item.priority = 0.6;
         item.changefreq = 'monthly';
       }
-      else if (/\/examples\/[^/]+\/\d+-/.test(url)) {
+      else if (/\/models\/[^/]+\/\d+-/.test(url)) {
         item.priority = 0.5;
         item.changefreq = 'monthly';
       }

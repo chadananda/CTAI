@@ -3,49 +3,34 @@ import Base from './Base.astro';
 
 interface Props {
   title: string;
+  description?: string;
+  canonicalUrl?: string;
+  ogType?: string;
+  ogImage?: string;
   work?: string;
   workSlug?: string;
   paraIndex?: number;
-  totalParas?: number;
 }
 
-const { title, work, workSlug, paraIndex, totalParas } = Astro.props;
-const prevUrl = paraIndex && paraIndex > 1 ? `/corpus/${workSlug}/${paraIndex - 1}` : null;
-const nextUrl = paraIndex && totalParas && paraIndex < totalParas ? `/corpus/${workSlug}/${paraIndex + 1}` : null;
+const { title, description, canonicalUrl, ogType, ogImage, work, workSlug, paraIndex } = Astro.props;
 ---
 
-<Base title={title}>
-  <div class="mb-6">
-    {work && (
-      <nav class="flex items-center gap-3 text-sm text-stone-500 mb-4">
-        <a href="/corpus/" class="hover:text-stone-700">Corpus</a>
-        <span>/</span>
-        <a href={`/corpus/${workSlug}/`} class="hover:text-stone-700">{work}</a>
-        {paraIndex && (
-          <>
-            <span>/</span>
-            <span class="text-stone-700">Paragraph {paraIndex}</span>
-          </>
-        )}
-      </nav>
-    )}
+<Base title={title} description={description} canonicalUrl={canonicalUrl} ogType={ogType} ogImage={ogImage}>
+  <slot name="head" slot="head" />
 
-    {paraIndex && (
-      <div class="flex items-center gap-4 text-sm">
-        {prevUrl ? (
-          <a href={prevUrl} class="text-gold-700 hover:text-gold-900">&larr; prev</a>
-        ) : (
-          <span class="text-stone-300">&larr; prev</span>
-        )}
-        <a href={`/corpus/${workSlug}/`} class="text-stone-500 hover:text-stone-700">all paragraphs</a>
-        {nextUrl ? (
-          <a href={nextUrl} class="text-gold-700 hover:text-gold-900">next &rarr;</a>
-        ) : (
-          <span class="text-stone-300">next &rarr;</span>
-        )}
-      </div>
-    )}
-  </div>
+  {work && (
+    <nav aria-label="Breadcrumb" class="flex items-center gap-2 text-xs font-mono text-ink-500 mb-4">
+      <a href="/models/" class="hover:text-ink-300 transition-colors">Models</a>
+      <span class="text-ink-700" aria-hidden="true">/</span>
+      <a href={`/models/${workSlug}/`} class="hover:text-ink-300 transition-colors">{work}</a>
+      {paraIndex && (
+        <>
+          <span class="text-ink-700" aria-hidden="true">/</span>
+          <span class="text-ink-300" aria-current="page">&sect;{paraIndex}</span>
+        </>
+      )}
+    </nav>
+  )}
 
   <slot />
 </Base>

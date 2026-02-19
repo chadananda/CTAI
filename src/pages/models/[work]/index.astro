@@ -1,0 +1,242 @@
+---
+import Base from '../../../layouts/Base.astro';
+import { coverUrl } from '../../../lib/imgix.js';
+
+export async function getStaticPaths() {
+  // import.meta.glob inside getStaticPaths — Vite resolves at compile time
+  const metaModules = import.meta.glob('/src/content/corpus/*/_meta.json', { eager: true, import: 'default' });
+  const paraModules = import.meta.glob('/src/content/corpus/*/*.json', { eager: true, import: 'default' });
+  const coverModules = import.meta.glob('/covers/*.png', { eager: true, query: '?url', import: 'default' });
+
+  const slugs = [...new Set(
+    Object.keys(metaModules).map(p => p.split('/').slice(-2, -1)[0])
+  )];
+
+  // Build list of all works for the "other works" carousel
+  const allWorks = slugs.map(s => {
+    const m = metaModules[`/src/content/corpus/${s}/_meta.json`] || { title: s, pair_count: 0 };
+    return { slug: s, title: m.title, author: m.author, short_description: m.short_description, pair_count: m.pair_count, year_translated: m.year_translated, hasCover: `/covers/${s}.png` in coverModules };
+  }).sort((a, b) => {
+    const ya = parseInt(String(a.year_translated || '9999').match(/\d+/)?.[0] || '9999');
+    const yb = parseInt(String(b.year_translated || '9999').match(/\d+/)?.[0] || '9999');
+    return ya - yb;
+  });
+
+  return slugs.map(slug => {
+    const meta = metaModules[`/src/content/corpus/${slug}/_meta.json`] || { title: slug, pair_count: 0 };
+
+    // Collect paragraph files for this work
+    const paraFiles = Object.entries(paraModules)
+      .filter(([p]) => p.startsWith(`/src/content/corpus/${slug}/`) && !p.endsWith('_meta.json'))
+      .map(([, data]) => data)
+      .sort((a, b) => a.pair_index - b.pair_index);
+
+    // Group by section
+    const sections = new Map();
+    for (const p of paraFiles) {
+      const sec = p.section || String(p.pair_index);
+      if (!sections.has(sec)) sections.set(sec, []);
+      sections.get(sec).push(p);
+    }
+
+    const hasCover = `/covers/${slug}.png` in coverModules;
+    const otherWorks = allWorks.filter(w => w.slug !== slug);
+
+    return {
+      params: { work: slug },
+      props: { meta, paragraphs: paraFiles, sections: [...sections.entries()], hasCover, otherWorks },
+    };
+  });
+}
+
+const { work } = Astro.params;
+const { meta, paragraphs, sections, hasCover, otherWorks } = Astro.props;
+
+// Author color theming
+const colorMap = {
+  maroon: { bg: 'bg-rose-950/30', border: 'border-rose-800/30', accent: 'text-rose-300', badge: 'bg-rose-900/40 text-rose-300' },
+  blue: { bg: 'bg-blue-950/30', border: 'border-blue-800/30', accent: 'text-blue-300', badge: 'bg-blue-900/40 text-blue-300' },
+  green: { bg: 'bg-emerald-950/30', border: 'border-emerald-800/30', accent: 'text-emerald-300', badge: 'bg-emerald-900/40 text-emerald-300' },
+};
+const colors = colorMap[meta.author_color] || { bg: 'bg-ink-800/30', border: 'border-ink-700/40', accent: 'text-gold-300', badge: 'bg-gold-500/10 text-gold-400' };
+
+function descSlug(p) {
+  return p.page_slug ? `${p.pair_index}-${p.page_slug}` : p.pair_index;
+}
+
+// Count unique sections (prayers)
+const sectionCount = sections.length;
+
+// Smart quotes for public-facing text (both single and double)
+function curly(s) {
+  if (!s) return s;
+  // Double quotes → curly
+  s = s.replace(/"([^"]*?)"/g, '\u201c$1\u201d');
+  // Single quotes: opening (after whitespace, start, or open-paren, before non-space)
+  s = s.replace(/(^|[\s(\u201c])'(?=\S)/gm, '$1\u2018');
+  // Single quotes: remaining → right single quote (apostrophe / closing)
+  s = s.replace(/'/g, '\u2019');
+  return s;
+}
+
+// Format intro HTML: smart quotes + preserve <em> tags
+function formatIntro(s) {
+  if (!s) return '';
+  // Protect <em> tags from quote processing
+  const tags = [];
+  s = s.replace(/<\/?em>/g, (m) => { tags.push(m); return `\x00${tags.length - 1}\x00`; });
+  s = curly(s);
+  // Restore tags
+  s = s.replace(/\x00(\d+)\x00/g, (_, i) => tags[i]);
+  return s;
+}
+---
+
+<Base title={`${meta.title} — Translation Models`}
+      description={`${meta.title} by ${meta.author}: ${paragraphs.length} paragraphs of parallel text with Shoghi Effendi's authorized translation.`}
+      ogImage={hasCover ? coverUrl(work, { width: 800 }) : undefined}>
+  <script slot="head" type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://ctai.org/" },
+      { "@type": "ListItem", "position": 2, "name": "Models", "item": "https://ctai.org/models/" },
+      { "@type": "ListItem", "position": 3, "name": meta.title }
+    ]
+  })} />
+  <!-- Breadcrumb -->
+  <nav class="flex items-center gap-3 text-sm text-ink-500 mb-6">
+    <a href="/models/" class="hover:text-ink-200">Models</a>
+    <span>/</span>
+    <span class="text-ink-200">{curly(meta.title)}</span>
+  </nav>
+
+  <!-- Hero / Introduction -->
+  <header class={`rounded-xl ${colors.bg} ${colors.border} border p-8 mb-10`}>
+    {hasCover && (
+      <div class="float-right ml-6 mb-4 hero-cover-wrapper">
+        <img src={coverUrl(work, { width: 448 })} alt={`${meta.title} cover`}
+             width="224" height="310"
+             class="hero-cover w-48 md:w-56" />
+      </div>
+    )}
+    <h1 class="text-3xl md:text-4xl font-display font-bold italic text-ink-100 mb-1">{curly(meta.title)}</h1>
+    <p class="text-ink-400 mb-4">{curly(meta.author)}</p>
+
+    <div class="flex flex-wrap gap-3 text-xs font-mono mb-5">
+      <span class={`px-2.5 py-1 rounded ${colors.badge}`}>{meta.source_lang === 'ar' ? 'Arabic' : meta.source_lang === 'fa' ? 'Persian' : 'Arabic/Persian'}</span>
+      {meta.year_published && <span class={`px-2.5 py-1 rounded ${colors.badge}`}>Published {meta.year_published}</span>}
+      {meta.year_translated && <span class={`px-2.5 py-1 rounded ${colors.badge}`}>Translated {meta.year_translated}</span>}
+      <span class="px-2.5 py-1 rounded bg-ink-800/60 text-ink-400">{sectionCount} sections &middot; {paragraphs.length} paragraphs</span>
+    </div>
+
+    {meta.introduction && (
+      <div class="mt-2 border-l-2 border-ink-600/30 pl-5">
+        <p class="text-[15px] text-ink-300/90 leading-[1.75] tracking-wide" set:html={formatIntro(meta.introduction)} />
+      </div>
+    )}
+  </header>
+
+  <!-- Sections -->
+  <p class="text-sm text-ink-500 mb-4">
+    Each section below pairs the original {meta.source_lang === 'ar' ? 'Arabic' : meta.source_lang === 'fa' ? 'Persian' : 'Arabic and Persian'} text
+    with Shoghi Effendi&rsquo;s English rendering. Click any passage to view the full parallel text.
+  </p>
+  <div class="space-y-1">
+    {sections.map(([sectionId, paras], sectionIndex) => {
+      const firstPara = paras[0];
+      const firstSnippet = curly(firstPara.translation.replace(/\n/g, ' ').slice(0, 120).trim());
+      const isMultiPara = paras.length > 1;
+
+      return (
+        <details class="group/section" open={sectionIndex < 5}>
+          <summary class="cursor-pointer list-none [&::-webkit-details-marker]:hidden marker:hidden
+                          flex items-baseline gap-3 px-4 py-3 rounded-lg
+                          hover:bg-ink-800/40 transition-colors select-none">
+            <span class={`font-mono text-xs ${colors.accent} shrink-0 w-10 text-right`}>{sectionId}</span>
+            <span class="text-sm text-ink-300 truncate flex-1">{firstSnippet}&hellip;</span>
+            {isMultiPara && <span class="text-xs text-ink-600 font-mono shrink-0">{paras.length}&para;</span>}
+            <span class="text-ink-600 text-xs group-open/section:rotate-90 transition-transform duration-150">&#x25B6;</span>
+          </summary>
+
+          <div class="ml-4 pl-10 border-l border-ink-700/30 space-y-2 pb-4">
+            {paras.map(p => (
+              <a href={`/models/${work}/${descSlug(p)}/`}
+                 class="block rounded-lg border border-ink-700/30 hover:border-gold-500/30
+                        bg-ink-800/20 hover:bg-ink-800/40 transition-all overflow-hidden">
+                <div class="grid grid-cols-1 md:grid-cols-2">
+                  <div dir="rtl" lang={meta.source_lang} class="font-arabic text-base text-ink-400 leading-relaxed p-3 line-clamp-2 text-right border-b md:border-b-0 md:border-r border-ink-700/20">
+                    {p.source_text.slice(0, 200)}
+                  </div>
+                  <div class="text-sm text-ink-300 leading-relaxed p-3 line-clamp-2">
+                    {curly(p.translation.replace(/\n/g, ' ').slice(0, 200))}
+                  </div>
+                </div>
+              </a>
+            ))}
+          </div>
+        </details>
+      );
+    })}
+  </div>
+
+  <!-- Other works carousel -->
+  <section class="mt-16 pt-10 border-t border-ink-700/30">
+    <h2 class="text-sm font-mono tracking-wider text-ink-500 uppercase mb-6">Other Translation Models</h2>
+    <div class="flex gap-4 overflow-x-auto pb-4 -mx-2 px-2 snap-x snap-mandatory scrollbar-thin scrollbar-thumb-ink-700 scrollbar-track-transparent">
+      {otherWorks.map(w => (
+        <a href={`/models/${w.slug}/`}
+           class="group snap-start shrink-0 w-48 rounded-xl border border-ink-700/40
+                  bg-ink-850 hover:border-gold-500/30 hover:bg-ink-800/40 transition-all overflow-hidden">
+          {w.hasCover && (
+            <div class="p-4 pb-2 flex justify-center">
+              <img src={coverUrl(w.slug, { width: 240 })}
+                   alt={`${w.title} cover`}
+                   loading="lazy" width="120" height="164"
+                   class="w-24 h-auto rounded shadow-lg group-hover:scale-105 transition-transform duration-300" />
+            </div>
+          )}
+          <div class="px-4 pb-4 pt-2">
+            <h3 class="font-display text-sm font-semibold italic text-ink-200 group-hover:text-gold-300 transition-colors leading-snug mb-1 line-clamp-2">
+              {curly(w.title)}
+            </h3>
+            <p class="text-xs text-ink-500 mb-2">{curly(w.author)}</p>
+            {w.short_description && (
+              <p class="text-xs text-ink-600 leading-relaxed line-clamp-2">{curly(w.short_description)}</p>
+            )}
+            <p class="text-[10px] text-ink-600 font-mono mt-2">{w.pair_count} &para;</p>
+          </div>
+        </a>
+      ))}
+    </div>
+  </section>
+
+  <style is:global>
+    .hero-cover-wrapper {
+      perspective: 1000px;
+    }
+    .hero-cover {
+      border-radius: 8px;
+      filter: drop-shadow(0 20px 40px rgba(0, 0, 0, 0.5));
+      animation: gentle-sway 8s ease-in-out infinite;
+    }
+    .hero-cover:hover {
+      animation: none;
+      transform: rotateY(-2deg) rotateX(0deg) scale(1.02);
+      filter: drop-shadow(0 24px 48px rgba(0, 0, 0, 0.6));
+      transition: transform 0.4s ease, filter 0.4s ease;
+    }
+    @keyframes gentle-sway {
+      0%, 100% { transform: rotateY(-8deg) rotateX(2deg); }
+      50% { transform: rotateY(-3deg) rotateX(0deg); }
+    }
+    @media (max-width: 768px) {
+      .hero-cover {
+        max-width: 180px;
+        margin: 0 auto;
+        animation: none;
+        transform: rotateY(0) rotateX(0);
+      }
+    }
+  </style>
+</Base>

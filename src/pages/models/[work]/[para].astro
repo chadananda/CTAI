@@ -1,0 +1,165 @@
+---
+import Corpus from '../../../layouts/Corpus.astro';
+import CorpusViewer from '../../../components/CorpusViewer.svelte';
+import CorpusNav from '../../../components/CorpusNav.svelte';
+import { coverUrl } from '../../../lib/imgix.js';
+
+export const prerender = false;
+
+// Eager-load all _meta.json files (small, ~380KB total across 11 works)
+const metaModules = import.meta.glob('/src/content/corpus/*/_meta.json', { eager: true, import: 'default' });
+
+const { work, para } = Astro.params;
+
+// Resolve meta for this work
+const metaKey = `/src/content/corpus/${work}/_meta.json`;
+const meta = metaModules[metaKey];
+if (!meta) return Astro.redirect('/models/', 302);
+
+// Extract pair_index from param (handles both "42" and "42-descriptive-slug")
+const paraIndex = parseInt(para, 10);
+if (!paraIndex || paraIndex < 1) return new Response(null, { status: 404 });
+
+// Load the search index (pre-computed by prebuild-corpus.js)
+const searchIndex = meta.search_index || [];
+
+// Find this paragraph's entry in the search index
+const entry = searchIndex.find(e => e.i === paraIndex);
+if (!entry) return new Response(null, { status: 404 });
+
+// Redirect numeric aliases to canonical descriptive slug
+const canonicalPara = entry.s;
+if (para !== canonicalPara) {
+  return Astro.redirect(`/models/${work}/${canonicalPara}/`, 301);
+}
+
+// Fetch paragraph JSON from static assets (copied by prebuild-corpus.js)
+const origin = Astro.url.origin;
+const paraRes = await fetch(`${origin}/_corpus/${work}/${paraIndex}.json`);
+if (!paraRes.ok) return new Response(null, { status: 404 });
+const p = await paraRes.json();
+
+// Prev/next navigation from search index
+const idx = searchIndex.findIndex(e => e.i === paraIndex);
+const prevEntry = idx > 0 ? searchIndex[idx - 1] : null;
+const nextEntry = idx < searchIndex.length - 1 ? searchIndex[idx + 1] : null;
+const prevSnippet = prevEntry?.t || '';
+const nextSnippet = nextEntry?.t || '';
+const prevUrl = prevEntry ? `/models/${work}/${prevEntry.s}/` : null;
+const nextUrl = nextEntry ? `/models/${work}/${nextEntry.s}/` : null;
+const totalParas = meta.pair_count;
+
+// Page-specific description from translation text
+const descSnippet = p.translation.replace(/\n/g, ' ').slice(0, 150).trim();
+const description = `${meta.title} §${p.pair_index}: "${descSnippet}…" — Arabic-English parallel text with translation notes.`;
+
+// Canonical URL
+const canonicalUrl = `${Astro.site}models/${work}/${canonicalPara}/`;
+
+// JSON-LD: BreadcrumbList
+const breadcrumbLd = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'Models', item: `${Astro.site}models/` },
+    { '@type': 'ListItem', position: 2, name: meta.title, item: `${Astro.site}models/${work}/` },
+    { '@type': 'ListItem', position: 3, name: `§${p.pair_index}` },
+  ],
+};
+
+// JSON-LD: Article
+const articleLd = {
+  '@context': 'https://schema.org',
+  '@type': 'Article',
+  headline: `${meta.title} — §${p.pair_index}`,
+  description,
+  author: { '@type': 'Person', name: p.author },
+  publisher: { '@type': 'Organization', name: 'CTAI — Committee Translation AI' },
+  mainEntityOfPage: canonicalUrl,
+  inLanguage: ['en', p.source_lang === 'ar' ? 'ar' : 'fa'],
+};
+
+// CDN caching: 7 days at edge, 1 day in browser, stale-while-revalidate 1 day
+Astro.response.headers.set('Cache-Control', 'public, max-age=86400, s-maxage=604800, stale-while-revalidate=86400');
+---
+
+<Corpus
+  title={`${meta.title} — §${p.pair_index}`}
+  description={description}
+  canonicalUrl={canonicalUrl}
+  ogType="article"
+  ogImage={coverUrl(work, { width: 800 })}
+  work={meta.title}
+  workSlug={work}
+  paraIndex={p.pair_index}
+>
+  <Fragment slot="head">
+    <script type="application/ld+json" set:html={JSON.stringify(breadcrumbLd)} />
+    <script type="application/ld+json" set:html={JSON.stringify(articleLd)} />
+  </Fragment>
+
+  <script id="search-index" type="application/json" set:html={JSON.stringify(searchIndex)} />
+
+  <CorpusNav
+    workTitle={meta.title}
+    workSlug={work}
+    paraIndex={p.pair_index}
+    totalParas={totalParas}
+    prevSnippet={prevSnippet}
+    nextSnippet={nextSnippet}
+    {prevUrl}
+    {nextUrl}
+    position="top"
+    client:idle
+  />
+
+  <article class="mt-6">
+    <h1 class="text-2xl font-display font-bold italic text-ink-100 mb-2">
+      {meta.title} — &sect;{p.pair_index}
+    </h1>
+    <p class="text-sm text-ink-500 mb-6">
+      {p.source_lang === 'ar' ? 'Arabic' : 'Persian'} source with Shoghi Effendi&rsquo;s
+      authorized English translation. Paragraph {p.pair_index} of {totalParas}.
+    </p>
+
+    <CorpusViewer
+      alignment={p.alignment || []}
+      source_text={p.source_text}
+      translation={p.translation}
+      source_lang={p.source_lang}
+      terms={p.terms || []}
+      workSlug={work}
+      client:idle
+    />
+
+    <footer class="mt-10 pt-6 border-t border-ink-700/40 text-sm text-ink-500">
+      <p>
+        Source: {p.author}, <em>{meta.title}</em>
+        {meta.source_url && (
+          <span>
+            &middot;
+            <a href={meta.source_url} target="_blank" rel="noopener noreferrer"
+               class="text-gold-400 hover:text-gold-300 underline underline-offset-2">
+              View original
+            </a>
+          </span>
+        )}
+      </p>
+    </footer>
+  </article>
+
+  <div class="mt-8">
+    <CorpusNav
+      workTitle={meta.title}
+      workSlug={work}
+      paraIndex={p.pair_index}
+      totalParas={totalParas}
+      prevSnippet={prevSnippet}
+      nextSnippet={nextSnippet}
+      {prevUrl}
+      {nextUrl}
+      position="bottom"
+      client:visible
+    />
+  </div>
+</Corpus>

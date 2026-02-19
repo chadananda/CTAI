@@ -21,28 +21,28 @@
 </script>
 
 {#if grouped().length > 0}
-  <section class="mt-8 pt-6 border-t border-stone-200">
-    <h3 class="text-sm font-semibold text-stone-600 uppercase tracking-wider mb-4">Cross-References</h3>
-    <p class="text-xs text-stone-400 mb-4">Terms in this paragraph also appear in:</p>
+  <section class="mt-8 pt-6 border-t border-ink-700/40">
+    <h3 class="text-xs font-mono tracking-wider text-ink-500 uppercase mb-4">Cross-References</h3>
+    <p class="text-xs text-ink-600 mb-4">Terms in this paragraph also appear in:</p>
 
     <div class="space-y-3">
       {#each grouped() as group}
         <div>
-          <span class="font-arabic text-stone-700" dir="rtl">{group.term}</span>
+          <span class="font-arabic text-gold-300" dir="rtl">{group.term}</span>
           {#if group.transliteration}
-            <span class="text-stone-500 text-xs ml-1">({group.transliteration})</span>
+            <span class="text-ink-500 text-xs font-mono ml-1">({group.transliteration})</span>
           {/if}
-          <span class="text-stone-400 text-xs">:</span>
+          <span class="text-ink-600 text-xs">:</span>
           <span class="ml-2 inline-flex flex-wrap gap-1">
             {#each group.refs.slice(0, 12) as ref}
-              <a href="/corpus/{ref.work}/{ref.para}"
-                 class="text-xs bg-stone-100 text-stone-600 px-2 py-0.5 rounded
-                        hover:bg-gold-100 hover:text-gold-800 transition-colors">
+              <a href="/models/{ref.work}/{ref.para}"
+                 class="text-xs bg-ink-800 text-ink-400 px-2 py-0.5 rounded border border-ink-700/40
+                        hover:border-gold-500/30 hover:text-gold-400 transition-all font-mono">
                 {ref.work} &sect;{ref.para}
               </a>
             {/each}
             {#if group.refs.length > 12}
-              <span class="text-xs text-stone-400">&hellip; +{group.refs.length - 12} more</span>
+              <span class="text-xs text-ink-600 font-mono">&hellip; +{group.refs.length - 12} more</span>
             {/if}
           </span>
         </div>

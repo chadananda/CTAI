@@ -66,7 +66,7 @@ export function parsePairId(pairId) {
 export function paraUrl(pairId) {
   const parsed = parsePairId(pairId);
   if (!parsed) return null;
-  return `/examples/${parsed.workSlug}/${parsed.paraIndex}/`;
+  return `/models/${parsed.workSlug}/${parsed.paraIndex}/`;
 }
 
 /** Convert pair_id to abbreviated display: "ESW §96" */
@@ -98,7 +98,7 @@ export function refStringToUrl(ref) {
   if (!pairIdx) return null;
   // Convert work name to slug
   const slug = work.toLowerCase().replace(/['']/g, '').replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
-  return `/examples/${slug}/${pairIdx}/`;
+  return `/models/${slug}/${pairIdx}/`;
 }
 
 // ── D1/SQLite query helpers ──

@@ -37,7 +37,7 @@
           <p class="text-ink-500 text-xs font-mono tracking-wider uppercase mb-1">Also rendered as:</p>
           <div class="space-y-1.5 mb-2">
             {#each term.cross_refs.slice(0, 3) as ref}
-              <a href="/examples/{ref.work}/{ref.para}/"
+              <a href="/models/{ref.work}/{ref.para}/"
                  class="flex items-baseline gap-2 text-sm px-2 py-1 rounded
                         bg-ink-800/60 border border-ink-700/30
                         hover:border-gold-500/30 hover:bg-ink-800 transition-all group">
@@ -51,7 +51,7 @@
           {#if term.cross_refs.length > 3}
             <div class="flex flex-wrap gap-1.5">
               {#each term.cross_refs.slice(3) as ref}
-                <a href="/examples/{ref.work}/{ref.para}/"
+                <a href="/models/{ref.work}/{ref.para}/"
                    class="text-xs bg-ink-800 text-ink-400 px-2 py-0.5 rounded border border-ink-700/40
                           hover:border-gold-500/30 hover:text-gold-400 transition-all font-mono">
                   {ref.work} &sect;{ref.para}
