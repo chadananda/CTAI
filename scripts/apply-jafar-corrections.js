@@ -67,7 +67,8 @@ let stats = { moved: 0, newRoots: 0, skipped: 0 };
 
 const applyTx = db.transaction(() => {
   for (const c of corrections) {
-    if (!c.correct_root) {
+    if (!c.correct_root || !/[\u0600-\u06FF]/.test(c.correct_root)) {
+      // Skip entries without a valid Arabic/Persian root (e.g., "particle+pronoun")
       stats.skipped++;
       continue;
     }
