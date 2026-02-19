@@ -49,32 +49,79 @@ if (!apiKey && !DRY_RUN) {
 }
 const client = !DRY_RUN ? new Anthropic({ apiKey }) : null;
 
-// ── Prompt ──
+// ── Index-based prompt ──
+// We present both texts as indexed word lists. The AI returns index-range
+// mappings instead of text, so diacritic mismatches are impossible.
+
+function splitWords(text) {
+  const words = [];
+  const re = /\S+/g;
+  let m;
+  while ((m = re.exec(text)) !== null) {
+    words.push({ word: m[0], start: m.index, end: m.index + m[0].length });
+  }
+  return words;
+}
 
 function buildPrompt(sourceText, translation, sourceLang) {
+  const srcWords = splitWords(sourceText);
+  const enWords = splitWords(translation);
+
+  const srcList = srcWords.map((w, i) => `[${i}] ${w.word}`).join('\n');
+  const enList = enWords.map((w, i) => `[${i}] ${w.word}`).join('\n');
+
   return `You are a specialist in Arabic, Persian, and Baha'i sacred texts translated by Shoghi Effendi.
 
-TASK: Create a WORD-LEVEL alignment between the source text and its English translation. This is a study aid — readers hover over an Arabic/Persian word to see which English word(s) Shoghi Effendi used to translate it.
+TASK: Create a word-level alignment between the indexed source words and indexed English words below. This is a study aid — readers hover over a source word to see which English word(s) it maps to.
 
-SOURCE TEXT (${sourceLang === 'ar' ? 'Arabic' : 'Persian'}):
-${sourceText}
+SOURCE WORDS (${sourceLang === 'ar' ? 'Arabic' : 'Persian'}):
+${srcList}
 
-ENGLISH TRANSLATION (by Shoghi Effendi):
-${translation}
+ENGLISH WORDS:
+${enList}
+
+APPROACH — work in two passes:
+
+PASS 1 (phrases): Identify multi-word phrase correspondences first (إضافة constructs, verb+object, noun+adjective). Map source index ranges to English index ranges. The English may appear ANYWHERE — Shoghi Effendi often rearranges clause order.
+
+PASS 2 (remaining words): Go back through BOTH word lists and find every word NOT covered in Pass 1. Map each remaining source word to its English counterpart, and vice versa. After this pass, nearly every word on both sides should be covered.
 
 RULES:
-1. Go through the source text word by word, from start to end.
-2. For each content word (nouns, verbs, adjectives, adverbs), find the EXACT English word(s) that translate it. The English may appear ANYWHERE in the translation — Shoghi Effendi often rearranges clause order.
-3. The "ar" value should be exactly ONE word from the source text (occasionally two if they form an inseparable unit like a proper name or إضافة construct).
-4. The "en" value should be the SHORTEST English substring that captures the rendering — typically 1-3 words. Include articles/prepositions only when they are integral to the rendering (e.g. "the Temple" for هیکل, "His Cause" for امره).
-5. CRITICAL: Every "ar" value must be a character-for-character exact substring of the source text. Every "en" value must be a character-for-character exact substring of the translation. Copy them exactly — same diacritics, same punctuation, same spacing.
-6. Skip particles, conjunctions, and prepositions (و، من، عن، فی، إلی، ب، ل، etc.) unless they carry distinct meaning in the translation.
-7. If a source word has no clear English match, omit it entirely.
-8. Each English substring should appear in at most ONE pair (no duplicates).
-9. Do NOT force matches. A wrong match is far worse than no match.
+1. COMPREHENSIVE coverage. Every word with a counterpart on the other side must be mapped. The only words left unmapped should be those with genuinely no match.
+2. Use inclusive index ranges: {"src": [start, end], "en": [start, end]}. For a single word, start === end.
+3. Include particles, conjunctions, prepositions, pronouns when they have clear matches.
+4. Each index should appear in at most ONE mapping (no overlaps).
+5. Do NOT force wrong matches. But DO include every correct match.
 
-Return ONLY a JSON array of objects: [{"ar": "...", "en": "..."}, ...]
+Return ONLY a JSON array: [{"src": [0, 0], "en": [0, 0]}, {"src": [3, 4], "en": [5, 8]}, ...]
 No markdown fences, no commentary.`;
+}
+
+// ── Convert index-based mappings to {ar, en} text pairs ──
+
+function indicesToPairs(mappings, sourceText, translation) {
+  const srcWords = splitWords(sourceText);
+  const enWords = splitWords(translation);
+  const pairs = [];
+
+  for (const m of mappings) {
+    if (!m.src || !m.en || !Array.isArray(m.src) || !Array.isArray(m.en)) continue;
+    const [ss, se] = m.src;
+    const [es, ee] = m.en;
+    if (typeof ss !== 'number' || typeof se !== 'number' || typeof es !== 'number' || typeof ee !== 'number') continue;
+    if (ss < 0 || se >= srcWords.length || es < 0 || ee >= enWords.length) continue;
+    if (ss > se || es > ee) continue;
+    if (!srcWords[ss] || !srcWords[se] || !enWords[es] || !enWords[ee]) continue;
+
+    // Extract exact substrings from original texts using character positions
+    const arText = sourceText.slice(srcWords[ss].start, srcWords[se].end);
+    let enText = translation.slice(enWords[es].start, enWords[ee].end);
+    // Strip trailing punctuation for cleaner highlighting
+    enText = enText.replace(/[.,;:!?"']+$/, '');
+
+    if (arText && enText) pairs.push({ ar: arText, en: enText });
+  }
+  return pairs;
 }
 
 // ── API call with retry ──
@@ -90,7 +137,11 @@ async function callAPI(sourceText, translation, sourceLang) {
       });
       const text = response.content[0].text.trim();
       const cleaned = text.replace(/^```(?:json)?\s*/i, '').replace(/\s*```$/i, '');
-      return JSON.parse(cleaned);
+      const raw = JSON.parse(cleaned);
+      // Convert index mappings to text pairs
+      const pairs = indicesToPairs(raw, sourceText, translation);
+      if (pairs.length === 0) throw new Error('No valid pairs extracted from AI response');
+      return pairs;
     } catch (err) {
       if (attempt < 2) {
         console.warn(`  Retry ${attempt + 1}/3: ${err.message}`);
@@ -100,6 +151,51 @@ async function callAPI(sourceText, translation, sourceLang) {
       }
     }
   }
+}
+
+// ── Fuzzy substring matching (snap AI output to exact substrings) ──
+
+const norm = s => s.normalize('NFKD')
+  .replace(/[\u064B-\u065F\u0670\u06D6-\u06ED]/g, '') // Arabic tashkil
+  .replace(/[\u0300-\u036F]/g, '') // combining diacritics
+  .replace(/\s+/g, ' ').trim();
+
+function mapNormPosToOriginal(original, normalized, normStart, normLen) {
+  let oi = 0, ni = 0;
+  while (ni < normStart && oi < original.length) {
+    const nc = original[oi].normalize('NFKD')
+      .replace(/[\u064B-\u065F\u0670\u06D6-\u06ED]/g, '')
+      .replace(/[\u0300-\u036F]/g, '');
+    ni += nc.length;
+    oi++;
+  }
+  while (oi < original.length && /\s/.test(original[oi])) oi++;
+  const origStart = oi;
+  let consumed = 0;
+  while (consumed < normLen && oi < original.length) {
+    const nc = original[oi].normalize('NFKD')
+      .replace(/[\u064B-\u065F\u0670\u06D6-\u06ED]/g, '')
+      .replace(/[\u0300-\u036F]/g, '');
+    consumed += nc.length;
+    oi++;
+  }
+  if (origStart >= 0 && oi > origStart) {
+    const text = original.slice(origStart, oi).trim();
+    return text;
+  }
+  return null;
+}
+
+function fuzzySnap(needle, haystack) {
+  if (!needle || !haystack) return null;
+  if (haystack.includes(needle)) return needle;
+  const normNeedle = norm(needle);
+  const normHay = norm(haystack);
+  const normPos = normHay.indexOf(normNeedle);
+  if (normPos !== -1) {
+    return mapNormPosToOriginal(haystack, normHay, normPos, normNeedle.length);
+  }
+  return null;
 }
 
 // ── Validation ──
@@ -142,10 +238,17 @@ async function processFile(filePath) {
 
   const errors = validate(newAlignment, data.source_text, data.translation);
 
-  // Filter out invalid pairs rather than rejecting the whole result
+  // Pairs are constructed from exact character positions, so they should
+  // always be valid substrings. Filter just in case.
   const cleaned = newAlignment.filter((pair, i) => {
-    if (!pair.ar || !data.source_text.includes(pair.ar)) return false;
-    if (pair.en && !data.translation.includes(pair.en)) return false;
+    if (!pair.ar || !data.source_text.includes(pair.ar)) {
+      if (PARA_FILTER) console.log(`    REJECTED ar[${i}]: "${pair.ar?.slice(0,40)}"`);
+      return false;
+    }
+    if (!pair.en || !data.translation.includes(pair.en)) {
+      if (PARA_FILTER) console.log(`    REJECTED en[${i}]: "${pair.en?.slice(0,40)}"`);
+      return false;
+    }
     return true;
   });
 
