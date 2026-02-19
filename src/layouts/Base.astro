@@ -18,6 +18,7 @@ const currentPath = Astro.url.pathname;
 const canonical = canonicalUrl || Astro.url.href;
 
 import '../styles/theme.css';
+import PostHog from '../components/PostHog.astro';
 ---
 
 <!doctype html>
@@ -73,6 +74,7 @@ import '../styles/theme.css';
     </style>
     <title>{title} — CTAI</title>
     <script>if ('serviceWorker' in navigator) navigator.serviceWorker.register('/sw.js');</script>
+    <PostHog />
   </head>
   <body class="min-h-screen text-ink-300 font-serif antialiased">
     <a href="#main" class="sr-only focus:not-sr-only focus:fixed focus:top-2 focus:left-2 focus:z-[100] focus:bg-gold-400 focus:text-ink-900 focus:px-4 focus:py-2 focus:rounded focus:text-sm font-bold">
