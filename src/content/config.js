@@ -11,6 +11,15 @@ const corpus = defineCollection({
     translation: z.string(),
     source_lang: z.string(),
     score: z.number().optional(),
+    page_slug: z.string().optional(),
+    alignment: z
+      .array(
+        z.object({
+          ar: z.string(),
+          en: z.string(),
+        }),
+      )
+      .optional(),
     terms: z
       .array(
         z.object({

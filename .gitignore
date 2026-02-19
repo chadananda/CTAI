@@ -14,3 +14,7 @@ staging/
 covers/
 public/_corpus/
 public/_concordance-index.json
+test-results/
+*.db-shm
+*.db-wal
+*.db.bak

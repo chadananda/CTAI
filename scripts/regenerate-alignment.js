@@ -74,7 +74,7 @@ function phrasePrompt(srcWords, enWords, sourceLang) {
 
 TASK: Link TIGHT GRAMMATICAL PHRASES between the source and translation. This is Pass 1 — single-word links come later.
 
-CONTEXT: These are Baha'i sacred texts. God/the Manifestation speaks using the royal "We" — first person plural verbs like أَشْهَدْنَاهُمْ → "have We found them". Shoghi Effendi uses archaic English (thou, thy, dost, hath).
+CONTEXT: These are Baha'i sacred texts in mixed Arabic and Persian — a single passage may contain both languages freely (Arabic Qur'anic vocabulary, Persian grammatical structures, or vice versa). Do not expect pure Arabic or pure Persian. God/the Manifestation speaks using the royal "We" — first person plural verbs like أَشْهَدْنَاهُمْ → "have We found them". Shoghi Effendi uses archaic English (thou, thy, dost, hath).
 
 Find phrases in this PRIORITY ORDER:
 
@@ -124,6 +124,8 @@ function wordPrompt(srcWords, enWords, takenSrc, takenEn, sourceLang) {
   return `You are a specialist in Arabic, Persian, and Baha'i sacred texts translated by Shoghi Effendi.
 
 TASK: Link INDIVIDUAL WORDS that were not linked in the previous phrase-linking pass. Only link words marked as available (not TAKEN). This is a study aid — readers hover a source word to see which specific English word Shoghi Effendi used for it.
+
+CONTEXT: These are Baha'i sacred texts in mixed Arabic and Persian — a single passage may contain both languages freely. Do not expect pure Arabic or pure Persian.
 
 SOURCE WORDS (${sourceLang === 'ar' ? 'Arabic' : 'Persian'}):
 ${srcList}

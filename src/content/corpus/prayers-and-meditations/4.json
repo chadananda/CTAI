@@ -10,140 +10,388 @@
   "page_slug": "fountainhead-mighty-inspiration",
   "alignment": [
     {
-      "ar": "سُبْحانَكَ",
-      "en": "Unto Thee be praise"
+      "ar": "سُبْحانَكَ اللَّهُمَّ",
+      "en": "Unto Thee be praise",
+      "src": [
+        0,
+        21
+      ],
+      "tgt": [
+        0,
+        19
+      ]
     },
     {
-      "ar": "إِلهِي",
-      "en": "my God"
-    },
-    {
-      "ar": "أَسْئَلُكَ",
-      "en": "I entreat Thee"
+      "ar": "يا إِلهِي",
+      "en": "O Lord my God",
+      "src": [
+        22,
+        31
+      ],
+      "tgt": [
+        21,
+        34
+      ]
     },
     {
       "ar": "بِآياتِكَ",
-      "en": "by Thy signs"
+      "en": "by Thy signs",
+      "src": [
+        43,
+        52
+      ],
+      "tgt": [
+        52,
+        64
+      ]
     },
     {
-      "ar": "أَحاطَتِ",
-      "en": "have encompassed"
+      "ar": "وَبِنُورِ وَجْهِكَ",
+      "en": "by the light of Thy countenance",
+      "src": [
+        84,
+        102
+      ],
+      "tgt": [
+        112,
+        143
+      ]
     },
     {
-      "ar": "المُمْكِناتِ",
-      "en": "the entire creation"
-    },
-    {
-      "ar": "بِنُورِ",
-      "en": "by the light"
-    },
-    {
-      "ar": "وَجْهِكَ",
-      "en": "of Thy countenance"
-    },
-    {
-      "ar": "مِنْهُ",
-      "en": ""
-    },
-    {
-      "ar": "أَشْرَقَتِ",
-      "en": "hath illuminated"
-    },
-    {
-      "ar": "الأَرَضُونَ",
-      "en": "on earth"
-    },
-    {
-      "ar": "بِرَحْمَتِكَ",
-      "en": "by Thy mercy"
-    },
-    {
-      "ar": "سَبَقَتِ",
-      "en": "hath surpassed"
-    },
-    {
-      "ar": "المَوْجُوداتِ",
-      "en": "all created things"
+      "ar": "وَبِرَحْمَتِكَ",
+      "en": "by Thy mercy",
+      "src": [
+        156,
+        170
+      ],
+      "tgt": [
+        207,
+        219
+      ]
     },
     {
       "ar": "وَفَضْلِكَ",
-      "en": "by Thy grace"
+      "en": "by Thy grace",
+      "src": [
+        204,
+        214
+      ],
+      "tgt": [
+        264,
+        276
+      ]
+    },
+    {
+      "ar": "وَمَطْلَعِ وَحْيِكَ",
+      "en": "to the Dayspring of Thy Revelation",
+      "src": [
+        322,
+        341
+      ],
+      "tgt": [
+        441,
+        475
+      ]
+    },
+    {
+      "ar": "فِيْ بَحْرِ قُرْبِكَ",
+      "en": "beneath the ocean of Thy nearness",
+      "src": [
+        368,
+        388
+      ],
+      "tgt": [
+        518,
+        551
+      ]
+    },
+    {
+      "ar": "وَرِضائِكَ،",
+      "en": "and pleasure",
+      "src": [
+        389,
+        400
+      ],
+      "tgt": [
+        552,
+        564
+      ]
+    },
+    {
+      "ar": "أَسْئَلُكَ",
+      "en": "I entreat",
+      "src": [
+        32,
+        42
+      ],
+      "tgt": [
+        36,
+        45
+      ]
+    },
+    {
+      "ar": "الَّتِي",
+      "en": "that",
+      "src": [
+        53,
+        60
+      ],
+      "tgt": [
+        65,
+        69
+      ]
+    },
+    {
+      "ar": "أَحاطَتِ",
+      "en": "have encompassed",
+      "src": [
+        61,
+        69
+      ],
+      "tgt": [
+        70,
+        86
+      ]
+    },
+    {
+      "ar": "المُمْكِناتِ،",
+      "en": "entire creation",
+      "src": [
+        70,
+        83
+      ],
+      "tgt": [
+        91,
+        106
+      ]
+    },
+    {
+      "ar": "مِنْهُ",
+      "en": "in",
+      "src": [
+        112,
+        118
+      ],
+      "tgt": [
+        179,
+        181
+      ]
+    },
+    {
+      "ar": "أَشْرَقَتِ",
+      "en": "hath illuminated",
+      "src": [
+        119,
+        129
+      ],
+      "tgt": [
+        149,
+        165
+      ]
+    },
+    {
+      "ar": "الأَرَضُونَ",
+      "en": "on earth",
+      "src": [
+        130,
+        141
+      ],
+      "tgt": [
+        193,
+        201
+      ]
+    },
+    {
+      "ar": "وَالسَّمواتُ،",
+      "en": "heaven",
+      "src": [
+        142,
+        155
+      ],
+      "tgt": [
+        182,
+        188
+      ]
+    },
+    {
+      "ar": "سَبَقَتِ",
+      "en": "hath surpassed",
+      "src": [
+        180,
+        188
+      ],
+      "tgt": [
+        225,
+        239
+      ]
+    },
+    {
+      "ar": "المَوْجُوداتِ،",
+      "en": "created things",
+      "src": [
+        189,
+        203
+      ],
+      "tgt": [
+        244,
+        258
+      ]
     },
     {
       "ar": "أَحاطَ",
-      "en": "hath suffused"
+      "en": "hath suffused",
+      "src": [
+        224,
+        230
+      ],
+      "tgt": [
+        282,
+        295
+      ]
     },
     {
       "ar": "الكائِنَاتِ",
-      "en": "the whole universe"
+      "en": "whole universe",
+      "src": [
+        231,
+        242
+      ],
+      "tgt": [
+        300,
+        314
+      ]
     },
     {
       "ar": "بِأَنْ",
-      "en": "to"
+      "en": "to",
+      "src": [
+        243,
+        249
+      ],
+      "tgt": [
+        316,
+        318
+      ]
     },
     {
       "ar": "تَخْرُقَ",
-      "en": "rend asunder"
+      "en": "rend asunder",
+      "src": [
+        250,
+        258
+      ],
+      "tgt": [
+        319,
+        331
+      ]
     },
     {
       "ar": "لِي",
-      "en": ""
+      "en": "me",
+      "src": [
+        259,
+        262
+      ],
+      "tgt": [
+        352,
+        354
+      ]
     },
     {
       "ar": "حُجُباتِ",
-      "en": "the veils"
+      "en": "the veils",
+      "src": [
+        263,
+        271
+      ],
+      "tgt": [
+        332,
+        341
+      ]
     },
     {
       "ar": "المَنْعِ",
-      "en": "that shut me out"
-    },
-    {
-      "ar": "لأَسْرُعَ",
-      "en": "that I may hasten"
+      "en": "that shut",
+      "src": [
+        272,
+        280
+      ],
+      "tgt": [
+        342,
+        351
+      ]
     },
     {
       "ar": "إِلى",
-      "en": "unto"
+      "en": "unto",
+      "src": [
+        291,
+        295
+      ],
+      "tgt": [
+        388,
+        392
+      ]
     },
     {
       "ar": "مَنْبَعِ",
-      "en": "the Fountainhead"
+      "en": "Fountainhead",
+      "src": [
+        296,
+        304
+      ],
+      "tgt": [
+        397,
+        409
+      ]
+    },
+    {
+      "ar": "عِزِّ",
+      "en": "mighty",
+      "src": [
+        305,
+        310
+      ],
+      "tgt": [
+        417,
+        423
+      ]
     },
     {
       "ar": "إِلْهامِكَ",
-      "en": "Thy mighty inspiration"
-    },
-    {
-      "ar": "مَطْلَعِ",
-      "en": "the Dayspring"
-    },
-    {
-      "ar": "وَحْيِكَ",
-      "en": "of Thy Revelation"
+      "en": "inspiration",
+      "src": [
+        311,
+        321
+      ],
+      "tgt": [
+        424,
+        435
+      ]
     },
     {
       "ar": "وَإِفْضالِكَ",
-      "en": "bountiful favors"
+      "en": "bountiful favors",
+      "src": [
+        342,
+        354
+      ],
+      "tgt": [
+        480,
+        496
+      ]
     },
     {
-      "ar": "أَنْغَمِسَ",
-      "en": "may be immersed"
-    },
-    {
-      "ar": "فِيْ",
-      "en": ""
-    },
-    {
-      "ar": "بَحْرِ",
-      "en": "the ocean"
-    },
-    {
-      "ar": "قُرْبِكَ",
-      "en": "of Thy nearness"
-    },
-    {
-      "ar": "وَرِضائِكَ",
-      "en": "pleasure"
+      "ar": "وَأَنْغَمِسَ",
+      "en": "may be immersed",
+      "src": [
+        355,
+        367
+      ],
+      "tgt": [
+        502,
+        517
+      ]
     }
   ],
   "terms": [

@@ -27,7 +27,7 @@ async function main() {
       default: {
         source: 'openAi',
         apiKey: OPENAI_API_KEY,
-        model: 'text-embedding-3-small',
+        model: 'text-embedding-3-large',
         documentTemplate: '{{doc.full_text}}',
       },
     });
@@ -51,7 +51,7 @@ async function main() {
       default: {
         source: 'openAi',
         apiKey: OPENAI_API_KEY,
-        model: 'text-embedding-3-small',
+        model: 'text-embedding-3-large',
         documentTemplate: '{{doc.text}}',
       },
     });

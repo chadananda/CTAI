@@ -1,0 +1,99 @@
+---
+import Base from '../layouts/Base.astro';
+import { imgUrl } from '../lib/imgix.js';
+
+const projects = [
+  {
+    name: 'Ocean Library',
+    url: 'https://oceanlibrary.com',
+    slug: 'oceanlibrary',
+    desc: 'An immersive interfaith library bringing together sacred texts from the world\'s great religions in one beautiful, searchable interface. Ocean 2.0 is the spiritual successor to the original Ocean Library that served the Baha\'i community for over two decades — now reimagined for the modern web with full-text search, reading lists, and a gorgeous reading experience.',
+  },
+  {
+    name: 'SifterSearch',
+    url: 'https://siftersearch.com',
+    slug: 'siftersearch',
+    desc: 'AI-powered semantic search across thousands of sacred texts from world religions. Ask a question in natural language and SifterSearch finds the most relevant passages — not just keyword matches, but actual meaning. It\'s like having a brilliant interfaith librarian who has memorized every text and can instantly surface the perfect passage for any query.',
+  },
+  {
+    name: 'Baha\'i Education',
+    url: 'https://bahai-education.org',
+    slug: 'bahai-education',
+    desc: 'A curated collection of articles, study guides, and digital tools for Baha\'i learning and scholarship. From study companions for foundational scriptures to explorations of Baha\'i history, this is a personal blog that has grown into a rich resource for anyone serious about deepening their understanding of the Baha\'i writings.',
+  },
+  {
+    name: 'Ocean of Lights',
+    url: 'https://oceanoflights.org',
+    slug: 'oceanoflights',
+    desc: 'A comprehensive multilingual repository of Baha\'i sacred texts in English, Arabic, and Persian. Ocean of Lights is a labor of love — a collaboratively curated collection of writings from Baha\'u\'llah, the Bab, \'Abdu\'l-Baha, and Shoghi Effendi, making these texts freely available to a global audience in their original languages and in translation.',
+  },
+  {
+    name: 'Desert Rose Baha\'i Institute',
+    url: 'https://drbi.org',
+    slug: 'drbi',
+    desc: 'An educational center in Eloy, Arizona fostering community through the arts, agriculture, lifelong learning, and media. DRBI runs a concert series, study programs, a local radio station (KURE-LP 106.1 FM), and serves as a gathering place where spiritual principles meet practical community building in the Arizona desert.',
+  },
+  {
+    name: 'Novel Arabic',
+    url: 'https://novelarabic.com',
+    slug: 'novelarabic',
+    desc: 'An experimental language learning platform that teaches Arabic through AI-generated stories calibrated to your reading level. Instead of drilling grammar tables, you read engaging narratives that progressively introduce new vocabulary and structures. The stories adapt to what you know, gently stretching your ability with every page.',
+  },
+  {
+    name: 'Almost English',
+    url: 'https://almost-english.pages.dev/',
+    slug: 'almost-english',
+    desc: 'A fresh approach to Spanish fluency built on a remarkable fact: English and Spanish share over 20,000 cognate words. Almost English leverages these "cognate bridges" to get you reading real Spanish stories from day one — no conjugation drills required. Start with stories you can already mostly understand, and build fluency naturally through reading.',
+  },
+  {
+    name: 'xSwarm',
+    url: 'https://xswarm.ai',
+    slug: 'xswarm',
+    desc: 'A developer tool that orchestrates multiple Claude Code terminals in parallel with automated quality controls. If you\'re paying for a Claude Code subscription but only working one project at a time, you\'re leaving capacity on the table. xSwarm lets you run 10 projects simultaneously with centralized dashboards, multi-agent code reviews, and zero babysitting.',
+  },
+  {
+    name: 'ThinkDone',
+    url: 'https://think-done.com',
+    slug: 'thinkdone',
+    desc: 'An AI-powered daily planning tool that runs a 15-minute morning meeting with you — every day. It reads your projects, challenges your priorities, surfaces what\'s stuck, and hands you one clean list. Then it shuts up and lets you work. No more planning paralysis. No more infinite todo lists. Just doing.',
+  },
+];
+---
+
+<Base
+  title="My Projects"
+  description="A collection of projects by Chad Jones — spanning interfaith libraries, language learning, AI tools, and community building."
+>
+  <div class="max-w-4xl mx-auto py-12">
+    <h1 class="text-3xl font-display font-bold text-ink-200 mb-2">My Projects</h1>
+    <p class="text-ink-500 text-sm mb-12">Things I built or am involved in building.</p>
+
+    <div class="space-y-10">
+      {projects.map(project => (
+        <article class="group flex gap-6 items-start">
+          <a href={project.url} target="_blank" rel="noopener noreferrer" class="shrink-0">
+            <div class="w-56 rounded-lg overflow-hidden border border-ink-700/50 group-hover:border-ink-600 transition-colors">
+              <img
+                src={imgUrl(`screenshots/${project.slug}.png`, { width: 480 })}
+                alt={`Screenshot of ${project.name}`}
+                width="224"
+                height="140"
+                class="w-full h-auto opacity-80 group-hover:opacity-100 transition-opacity"
+                loading="lazy"
+              />
+            </div>
+          </a>
+          <div class="min-w-0">
+            <h2 class="text-lg font-display font-bold text-ink-200 mb-0.5">
+              <a href={project.url} target="_blank" rel="noopener noreferrer" class="hover:text-gold-400 transition-colors">
+                {project.name}
+              </a>
+            </h2>
+            <p class="text-ink-600 text-xs font-mono mb-1.5">{project.url.replace(/^https?:\/\//, '')}</p>
+            <p class="text-ink-400 text-sm leading-relaxed">{project.desc}</p>
+          </div>
+        </article>
+      ))}
+    </div>
+  </div>
+</Base>

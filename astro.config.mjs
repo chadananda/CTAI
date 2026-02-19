@@ -36,6 +36,7 @@ if (fs.existsSync(concordanceIndexPath)) {
 }
 
 export default defineConfig({
+  devToolbar: { enabled: false },
   adapter: cloudflare({ imageService: 'passthrough' }),
   integrations: [svelte(), tailwind(), sitemap({
     customPages: [...corpusPages, ...concordancePages],

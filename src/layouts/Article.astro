@@ -5,25 +5,99 @@ interface Props {
   title: string;
   date?: string;
   author?: string;
+  description?: string;
 }
 
-const { title, date, author } = Astro.props;
+const { title, date, author, description } = Astro.props;
+const articleLd = {
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": title,
+  ...(author && { "author": { "@type": "Person", "name": author } }),
+  ...(date && { "datePublished": date }),
+  "publisher": { "@type": "Organization", "name": "CTAI" },
+  ...(description && { "description": description })
+};
 ---
 
-<Base title={title}>
+<Base title={title} description={description}>
+  <script slot="head" type="application/ld+json" set:html={JSON.stringify(articleLd)} />
   <article class="max-w-3xl mx-auto">
-    <header class="mb-8">
-      <h1 class="text-3xl font-semibold text-stone-800 mb-2">{title}</h1>
+    <header class="mb-10">
+      <h1 class="text-3xl md:text-4xl font-light text-gold-100 tracking-tight mb-3">{title}</h1>
       {(date || author) && (
-        <p class="text-sm text-stone-500">
+        <p class="text-xs text-ink-500 font-mono tracking-wider">
           {author && <span>{author}</span>}
-          {author && date && <span> · </span>}
+          {author && date && <span class="mx-2 text-ink-700">/</span>}
           {date && <time>{date}</time>}
         </p>
       )}
     </header>
-    <div class="prose prose-stone prose-lg max-w-none">
+    <div class="article-content prose prose-invert prose-lg max-w-none
+                prose-headings:text-gold-100 prose-headings:font-light prose-headings:tracking-tight
+                prose-h2:text-2xl prose-h2:mt-12 prose-h2:mb-4 prose-h2:border-b prose-h2:border-ink-800/50 prose-h2:pb-2
+                prose-h3:text-xl prose-h3:mt-8 prose-h3:mb-3
+                prose-p:text-ink-300 prose-p:leading-[1.8]
+                prose-a:text-gold-400 prose-a:no-underline hover:prose-a:text-gold-300
+                prose-strong:text-gold-200 prose-strong:font-normal
+                prose-em:text-ink-200
+                prose-blockquote:border-gold-500/30 prose-blockquote:text-ink-400 prose-blockquote:not-italic
+                prose-code:text-gold-400 prose-code:bg-ink-800 prose-code:px-1.5 prose-code:py-0.5 prose-code:rounded prose-code:text-sm prose-code:font-mono
+                prose-pre:bg-ink-900 prose-pre:border prose-pre:border-ink-700/40 prose-pre:rounded-xl
+                prose-li:text-ink-300
+                prose-hr:border-ink-800/50
+                prose-table:text-sm
+                prose-th:text-ink-200 prose-th:font-mono prose-th:text-xs prose-th:tracking-wider
+                prose-td:text-ink-400">
       <slot />
     </div>
   </article>
 </Base>
+
+<style is:global>
+  /* Arabic/Persian inline text — auto-detect RTL */
+  .article-content :where(code) {
+    direction: ltr;
+    unicode-bidi: isolate;
+  }
+
+  /* Ensure Arabic text in inline elements flows correctly */
+  .article-content p,
+  .article-content li {
+    unicode-bidi: plaintext;
+  }
+
+  /* Code blocks — always LTR */
+  .article-content pre {
+    direction: ltr;
+  }
+  .article-content pre code {
+    background: transparent;
+    padding: 0;
+    border-radius: 0;
+    font-size: 0.875rem;
+  }
+
+  /* Tables */
+  .article-content table {
+    border-collapse: collapse;
+  }
+  .article-content th,
+  .article-content td {
+    border: 1px solid rgba(var(--ink-700), 0.4);
+    padding: 0.5rem 0.75rem;
+  }
+
+  /* Lists */
+  .article-content ul {
+    list-style-type: disc;
+  }
+  .article-content ol {
+    list-style-type: decimal;
+  }
+
+  /* Horizontal rules as section dividers */
+  .article-content hr {
+    margin: 3rem 0;
+  }
+</style>

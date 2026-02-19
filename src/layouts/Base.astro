@@ -18,7 +18,6 @@ const currentPath = Astro.url.pathname;
 const canonical = canonicalUrl || Astro.url.href;
 
 import '../styles/theme.css';
-import '../styles/fonts.css';
 ---
 
 <!doctype html>
@@ -46,12 +45,34 @@ import '../styles/fonts.css';
     <link rel="canonical" href={canonical} />
     <slot name="head" />
     <link rel="preconnect" href="https://18441963.imgix.net" />
-    <!-- Preload critical fonts (body + display + Arabic) for fastest paint -->
+    <!-- Preload critical fonts — body, display, Arabic (normal + italic/bold) -->
     <link rel="preload" href="/fonts/source-serif-4-latin-normal.woff2" as="font" type="font/woff2" crossorigin />
+    <link rel="preload" href="/fonts/source-serif-4-latin-italic.woff2" as="font" type="font/woff2" crossorigin />
     <link rel="preload" href="/fonts/eb-garamond-latin-normal.woff2" as="font" type="font/woff2" crossorigin />
+    <link rel="preload" href="/fonts/eb-garamond-latin-italic.woff2" as="font" type="font/woff2" crossorigin />
     <link rel="preload" href="/fonts/scheherazade-new-arabic-normal-400.woff2" as="font" type="font/woff2" crossorigin />
+    <link rel="preload" href="/fonts/scheherazade-new-arabic-normal-700.woff2" as="font" type="font/woff2" crossorigin />
+    <!-- Inline @font-face rules so browser knows fonts before first paint (bypasses Vite JS injection in dev) -->
+    <style is:inline>
+      @font-face { font-family:'Source Serif 4'; font-style:normal; font-weight:300 900; font-display:optional; src:url('/fonts/source-serif-4-latin-normal.woff2') format('woff2'); unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD; }
+      @font-face { font-family:'Source Serif 4'; font-style:normal; font-weight:300 900; font-display:optional; src:url('/fonts/source-serif-4-latin-ext-normal.woff2') format('woff2'); unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF; }
+      @font-face { font-family:'Source Serif 4'; font-style:italic; font-weight:300 900; font-display:optional; src:url('/fonts/source-serif-4-latin-italic.woff2') format('woff2'); unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD; }
+      @font-face { font-family:'Source Serif 4'; font-style:italic; font-weight:300 900; font-display:optional; src:url('/fonts/source-serif-4-latin-ext-italic.woff2') format('woff2'); unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF; }
+      @font-face { font-family:'EB Garamond'; font-style:normal; font-weight:400 700; font-display:optional; src:url('/fonts/eb-garamond-latin-normal.woff2') format('woff2'); unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD; }
+      @font-face { font-family:'EB Garamond'; font-style:normal; font-weight:400 700; font-display:optional; src:url('/fonts/eb-garamond-latin-ext-normal.woff2') format('woff2'); unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF; }
+      @font-face { font-family:'EB Garamond'; font-style:italic; font-weight:400 700; font-display:optional; src:url('/fonts/eb-garamond-latin-italic.woff2') format('woff2'); unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD; }
+      @font-face { font-family:'EB Garamond'; font-style:italic; font-weight:400 700; font-display:optional; src:url('/fonts/eb-garamond-latin-ext-italic.woff2') format('woff2'); unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF; }
+      @font-face { font-family:'Scheherazade New'; font-style:normal; font-weight:400; font-display:optional; src:url('/fonts/scheherazade-new-arabic-normal-400.woff2') format('woff2'); unicode-range:U+0600-06FF,U+0750-077F,U+0870-088E,U+0890-0891,U+0897-08E1,U+08E3-08FF,U+200C-200E,U+2010-2011,U+204F,U+2E41,U+FB50-FDFF,U+FE70-FE74,U+FE76-FEFC; }
+      @font-face { font-family:'Scheherazade New'; font-style:normal; font-weight:400; font-display:optional; src:url('/fonts/scheherazade-new-latin-normal-400.woff2') format('woff2'); unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD; }
+      @font-face { font-family:'Scheherazade New'; font-style:normal; font-weight:700; font-display:optional; src:url('/fonts/scheherazade-new-arabic-normal-700.woff2') format('woff2'); unicode-range:U+0600-06FF,U+0750-077F,U+0870-088E,U+0890-0891,U+0897-08E1,U+08E3-08FF,U+200C-200E,U+2010-2011,U+204F,U+2E41,U+FB50-FDFF,U+FE70-FE74,U+FE76-FEFC; }
+      @font-face { font-family:'Scheherazade New'; font-style:normal; font-weight:700; font-display:optional; src:url('/fonts/scheherazade-new-latin-normal-700.woff2') format('woff2'); unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD; }
+      @font-face { font-family:'JetBrains Mono'; font-style:normal; font-weight:400; font-display:optional; src:url('/fonts/jetbrains-mono-latin-normal.woff2') format('woff2'); unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD; }
+      @font-face { font-family:'JetBrains Mono'; font-style:normal; font-weight:400; font-display:optional; src:url('/fonts/jetbrains-mono-latin-ext-normal.woff2') format('woff2'); unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF; }
+      @font-face { font-family:'JetBrains Mono'; font-style:normal; font-weight:500; font-display:optional; src:url('/fonts/jetbrains-mono-latin-normal.woff2') format('woff2'); unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD; }
+      @font-face { font-family:'JetBrains Mono'; font-style:normal; font-weight:500; font-display:optional; src:url('/fonts/jetbrains-mono-latin-ext-normal.woff2') format('woff2'); unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF; }
+    </style>
     <title>{title} — CTAI</title>
-    <!-- Global styles in src/styles/theme.css -->
+    <script>if ('serviceWorker' in navigator) navigator.serviceWorker.register('/sw.js');</script>
   </head>
   <body class="min-h-screen text-ink-300 font-serif antialiased">
     <a href="#main" class="sr-only focus:not-sr-only focus:fixed focus:top-2 focus:left-2 focus:z-[100] focus:bg-gold-400 focus:text-ink-900 focus:px-4 focus:py-2 focus:rounded focus:text-sm font-bold">
@@ -109,11 +130,11 @@ import '../styles/fonts.css';
           <span class="w-px h-3 bg-ink-700"></span>
           <span class="text-ink-500 text-[10px]">Committee Translation AI</span>
           <span class="flex-1 h-px bg-ink-700/40"></span>
-          <span class="text-[10px] text-ink-600">Built by <a href="https://github.com/chadananda" class="text-ink-500 hover:text-gold-400 transition-colors">Chad Jones</a></span>
+          <span class="text-[10px] text-ink-600">Built by <a href="/contact" class="text-ink-500 hover:text-gold-400 transition-colors">Chad Jones</a> — while procrastinating real work</span>
         </div>
         <div class="flex flex-col sm:flex-row gap-4 sm:gap-8">
           <div class="flex-1">
-            <p class="text-[10px] text-ink-600 font-mono tracking-wide uppercase mb-1.5">My Projects</p>
+            <a href="/my-projects" class="text-[10px] text-ink-600 hover:text-ink-500 font-mono tracking-wide uppercase mb-1.5 block transition-colors">My Projects</a>
             <div class="flex flex-wrap gap-x-1">
               {[
                 { href: 'https://oceanlibrary.com', name: 'OceanLibrary', desc: 'interfaith library' },
@@ -133,7 +154,7 @@ import '../styles/fonts.css';
             </div>
           </div>
           <div class="flex-1">
-            <p class="text-[10px] text-ink-600 font-mono tracking-wide uppercase mb-1.5">Other Cool Projects</p>
+            <a href="/cool-projects" class="text-[10px] text-ink-600 hover:text-ink-500 font-mono tracking-wide uppercase mb-1.5 block transition-colors">Other Cool Projects</a>
             <div class="flex flex-wrap gap-x-1">
               {[
                 { href: 'https://bahai-library.org', name: 'Bahai-Library', desc: "Bah\u00e1'\u00ed documents" },
@@ -150,6 +171,13 @@ import '../styles/fonts.css';
               ))}
             </div>
           </div>
+        </div>
+        <div class="mt-4 pt-3 border-t border-ink-800/40 text-center">
+          <a href="/terms" class="text-[9px] text-ink-600 hover:text-ink-500 transition-colors">Terms</a>
+          <span class="text-ink-700 text-[9px] mx-1.5">&middot;</span>
+          <a href="/privacy" class="text-[9px] text-ink-600 hover:text-ink-500 transition-colors">Privacy</a>
+          <span class="text-ink-700 text-[9px] mx-1.5">&middot;</span>
+          <a href="/contact" class="text-[9px] text-ink-600 hover:text-ink-500 transition-colors">Contact</a>
         </div>
       </div>
     </footer>

@@ -1,0 +1,19 @@
+---
+import { getCollection } from 'astro:content';
+import Article from '../../layouts/Article.astro';
+
+export async function getStaticPaths() {
+  const articles = await getCollection('articles');
+  return articles.map(article => ({
+    params: { id: article.id.replace(/\.md$/, '') },
+    props: { article },
+  }));
+}
+
+const { article } = Astro.props;
+const { Content } = await article.render();
+---
+
+<Article title={article.data.title} date={article.data.date} author={article.data.author} description={article.data.excerpt}>
+  <Content />
+</Article>

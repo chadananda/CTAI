@@ -14,33 +14,33 @@ const { work } = Astro.props;
 ---
 
 <Base title={work.title}>
-  <nav class="flex items-center gap-3 text-sm text-stone-500 mb-6">
-    <a href="/works/" class="hover:text-stone-700">Works</a>
+  <nav class="flex items-center gap-3 text-sm text-ink-500 mb-6">
+    <a href="/works/" class="hover:text-ink-200">Works</a>
     <span>/</span>
-    <a href={`/works/${work.author_slug}/`} class="hover:text-stone-700">{work.author}</a>
+    <a href={`/works/${work.author_slug}/`} class="hover:text-ink-200">{work.author}</a>
     <span>/</span>
-    <span class="text-stone-700">{work.title}</span>
+    <span class="text-ink-200">{work.title}</span>
   </nav>
 
   <div class="max-w-3xl">
-    <h1 class="text-3xl font-semibold text-stone-800 mb-1">{work.title}</h1>
+    <h1 class="text-3xl font-semibold text-ink-100 mb-1">{work.title}</h1>
     {work.title_original && (
-      <p class="font-arabic text-2xl text-stone-600 mb-4" dir="rtl">{work.title_original}</p>
+      <p class="font-arabic text-2xl text-ink-400 mb-4" dir="rtl">{work.title_original}</p>
     )}
 
     <dl class="grid grid-cols-[auto_1fr] gap-x-6 gap-y-2 text-sm mt-6">
-      <dt class="text-stone-400">Author</dt>
-      <dd class="text-stone-800">{work.author}</dd>
+      <dt class="text-ink-500">Author</dt>
+      <dd class="text-ink-200">{work.author}</dd>
 
-      <dt class="text-stone-400">Language</dt>
-      <dd class="text-stone-800">{work.language === 'ar' ? 'Arabic' : work.language === 'fa' ? 'Persian' : work.language}</dd>
+      <dt class="text-ink-500">Language</dt>
+      <dd class="text-ink-200">{work.language === 'ar' ? 'Arabic' : work.language === 'fa' ? 'Persian' : work.language}</dd>
 
       {work.source_url && (
         <>
-          <dt class="text-stone-400">Source</dt>
+          <dt class="text-ink-500">Source</dt>
           <dd>
             <a href={work.source_url} target="_blank" rel="noopener noreferrer"
-               class="text-gold-700 hover:text-gold-900 underline underline-offset-2">
+               class="text-gold-400 hover:text-gold-300 underline underline-offset-2">
               View original text
             </a>
           </dd>
@@ -49,10 +49,10 @@ const { work } = Astro.props;
 
       {work.has_english_translation && work.english_url && (
         <>
-          <dt class="text-stone-400">English</dt>
+          <dt class="text-ink-500">English</dt>
           <dd>
             <a href={work.english_url} target="_blank" rel="noopener noreferrer"
-               class="text-gold-700 hover:text-gold-900 underline underline-offset-2">
+               class="text-gold-400 hover:text-gold-300 underline underline-offset-2">
               View English translation
             </a>
           </dd>
@@ -61,10 +61,10 @@ const { work } = Astro.props;
 
       {work.se_translation && (
         <>
-          <dt class="text-stone-400">SE Corpus</dt>
+          <dt class="text-ink-500">SE Examples</dt>
           <dd>
-            <span class="text-gold-700 bg-gold-50 text-xs px-2 py-0.5 rounded">
-              In Shoghi Effendi translation corpus
+            <span class="text-gold-400 bg-gold-400/10 text-xs px-2 py-0.5 rounded">
+              In Shoghi Effendi translation examples
             </span>
           </dd>
         </>

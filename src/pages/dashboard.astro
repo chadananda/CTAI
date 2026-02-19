@@ -1,0 +1,26 @@
+---
+export const prerender = false;
+import Base from '../layouts/Base.astro';
+---
+
+<Base title="Developer Dashboard">
+  <div id="dashboard-root">
+    <noscript>
+      <p class="text-ink-400">JavaScript is required for the developer dashboard.</p>
+    </noscript>
+  </div>
+
+  <script src="https://accounts.google.com/gsi/client" async defer></script>
+
+  <script>
+    import Dashboard from '../components/Dashboard.svelte';
+    import { mount } from 'svelte';
+
+    const clientId = import.meta.env.PUBLIC_GOOGLE_CLIENT_ID || '';
+
+    mount(Dashboard, {
+      target: document.getElementById('dashboard-root'),
+      props: { clientId },
+    });
+  </script>
+</Base>
