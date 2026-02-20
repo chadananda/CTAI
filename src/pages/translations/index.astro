@@ -44,7 +44,7 @@ for (const [, works] of byAuthor) {
     return a.title.localeCompare(b.title);
   });
 }
-const sacredOrder = ["Baha'u'llah", "The Bab", "Abdu'l-Baha", "Shoghi Effendi"];
+const sacredOrder = ["Bah\u00e1\u2019u\u2019ll\u00e1h", "The B\u00e1b", "\u2018Abdu\u2019l-Bah\u00e1", "Shoghi Effendi"];
 const sortedAuthors = [...byAuthor.keys()].sort((a, b) => {
   const ai = sacredOrder.indexOf(a), bi = sacredOrder.indexOf(b);
   return (ai === -1 ? 99 : ai) - (bi === -1 ? 99 : bi);
@@ -135,7 +135,7 @@ const translatedWorks = allWorks.filter(w => w.data.translation_status === 'comp
                 const isTranslated = w.translation_status === 'complete';
                 const searchText = [w.title, w.title_english, w.title_original, w.subject, w.description, ...(w.subjects || [])].filter(Boolean).join(' ');
                 return (
-                  <div class="work-card group cursor-pointer px-2 py-1.5 rounded-lg border border-transparent hover:border-ink-700/40 hover:bg-ink-800/30 transition-colors"
+                  <div class="work-card group cursor-pointer px-2 py-1.5 rounded-lg border border-ink-700/30 bg-ink-800/20 hover:border-ink-600/50 hover:bg-ink-800/40 transition-colors"
                        data-work-card
                        data-idx={i}
                        data-category={w.category || 'sacred'}
@@ -195,12 +195,17 @@ const translatedWorks = allWorks.filter(w => w.data.translation_status === 'comp
                           {w.is_best_known && <span class="text-gold-500 mr-0.5">&#9733;</span>}{w.title}{w.volume ? ` (vol. ${w.volume})` : ''}
                         </div>
                         {w.title_english && (
-                          <div class="text-[10px] text-ink-500 italic leading-snug truncate">{w.title_english}</div>
+                          <div class="text-[10px] text-ink-400 italic leading-snug truncate">{w.title_english}</div>
                         )}
-                        <div class="flex items-center gap-1.5 mt-0.5">
-                          {isTranslated && <span class="text-[8px] text-emerald-400 uppercase tracking-wider">done</span>}
-                          <span class="text-[9px] font-mono text-ink-600">{fmtSize(w.word_count)}w</span>
-                          {w.est && <span class="text-[9px] font-mono text-gold-500/60">{fmtCost(w.est.total)}</span>}
+                        <div class="flex items-center justify-between mt-0.5">
+                          <div class="flex items-center gap-1.5">
+                            {isTranslated && <span class="text-[8px] text-emerald-400 uppercase tracking-wider">done</span>}
+                          </div>
+                          {w.est && (
+                            <span class="text-[9px] font-mono text-ink-400">
+                              {w.est.paras} pages, ~&thinsp;<span class="text-gold-400/80">{fmtCost(w.est.total)}</span>
+                            </span>
+                          )}
                         </div>
                       </div>
                     </div>
