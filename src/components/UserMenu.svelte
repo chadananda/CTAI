@@ -1,4 +1,6 @@
 <script>
+import { onMount } from 'svelte';
+
 let { clientId = '' } = $props();
 
 let user = $state(null);
@@ -6,7 +8,8 @@ let loading = $state(true);
 let dropdownOpen = $state(false);
 let gsiReady = $state(false);
 let gsiInitialized = false;
-let promptShown = false;
+let buttonRendered = false;
+let signinBtnEl;
 
 async function checkAuth() {
 	try {
@@ -32,6 +35,7 @@ async function handleCredential(response) {
 		if (res.ok) {
 			const data = await res.json();
 			user = data.user;
+			dropdownOpen = false;
 		}
 	} catch (err) {
 		console.error('Login failed:', err);
@@ -52,26 +56,46 @@ function initGsi() {
 	window.google.accounts.id.initialize({
 		client_id: clientId,
 		callback: handleCredential,
-		use_fedcm_for_prompt: true,
 	});
 	gsiInitialized = true;
 }
 
-function showPrompt() {
-	if (!clientId || !window.google?.accounts || promptShown) return;
+function renderSignInButton() {
+	if (!window.google?.accounts || buttonRendered || !signinBtnEl) return;
 	initGsi();
-	promptShown = true;
-	window.google.accounts.id.prompt();
+	window.google.accounts.id.renderButton(signinBtnEl, {
+		theme: 'filled_black',
+		size: 'large',
+		text: 'signin_with',
+		shape: 'pill',
+	});
+	buttonRendered = true;
 }
 
 function handleSignInClick(e) {
 	e.preventDefault();
+	e.stopPropagation();
 	if (window.google?.accounts) {
-		showPrompt();
+		dropdownOpen = !dropdownOpen;
+		// Render button after DOM update
+		if (dropdownOpen) {
+			requestAnimationFrame(() => renderSignInButton());
+		}
+	} else if (gsiReady) {
+		// Script loaded but google not ready yet, try again
+		dropdownOpen = !dropdownOpen;
+		if (dropdownOpen) {
+			const check = setInterval(() => {
+				if (window.google?.accounts) {
+					clearInterval(check);
+					renderSignInButton();
+				}
+			}, 50);
+			setTimeout(() => clearInterval(check), 3000);
+		}
+	} else {
+		window.location.href = '/dashboard';
 	}
-	// Always navigate to dashboard on click — One Tap may appear over it,
-	// or dashboard provides the full Google Sign-In button as fallback
-	window.location.href = '/dashboard';
 }
 
 function handleSignInHover() {
@@ -84,7 +108,7 @@ async function logout() {
 		await fetch('/api/auth/logout', { method: 'POST' });
 		user = null;
 		gsiInitialized = false;
-		promptShown = false;
+		buttonRendered = false;
 		dropdownOpen = false;
 	} catch (err) {
 		console.error('Logout failed:', err);
@@ -95,36 +119,22 @@ function toggleDropdown() {
 	dropdownOpen = !dropdownOpen;
 }
 
-function handleWindowClick(e) {
-	if (!e.target.closest('[data-usermenu]')) {
+onMount(() => {
+	checkAuth().then(() => {
+		if (!user) loadGsi();
+	});
+});
+
+// Close dropdown on outside click
+function onDocClick(e) {
+	if (dropdownOpen && !e.target.closest('[data-usermenu]')) {
 		dropdownOpen = false;
 	}
 }
 
-$effect(() => {
-	checkAuth();
-});
-
-// Preload GSI script when logged out, auto-prompt after 30s
-$effect(() => {
-	if (!loading && !user) {
-		loadGsi();
-		const timer = setTimeout(() => {
-			if (!user && !promptShown && window.google?.accounts) {
-				initGsi();
-				promptShown = true;
-				window.google.accounts.id.prompt();
-			}
-		}, 30000);
-		return () => clearTimeout(timer);
-	}
-});
-
-$effect(() => {
-	if (dropdownOpen) {
-		window.addEventListener('click', handleWindowClick);
-		return () => window.removeEventListener('click', handleWindowClick);
-	}
+onMount(() => {
+	document.addEventListener('click', onDocClick);
+	return () => document.removeEventListener('click', onDocClick);
 });
 </script>
 
@@ -176,15 +186,22 @@ $effect(() => {
 			{/if}
 		</div>
 	{:else}
-		<button
-			onclick={handleSignInClick}
-			onmouseenter={handleSignInHover}
-			class="flex items-center justify-center w-6 h-6 rounded-full border border-ink-700 hover:border-ink-500 transition-colors text-ink-500 hover:text-ink-300 cursor-pointer"
-			aria-label="Sign in"
-		>
-			<svg class="w-3.5 h-3.5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
-				<path stroke-linecap="round" stroke-linejoin="round" d="M15.75 6a3.75 3.75 0 1 1-7.5 0 3.75 3.75 0 0 1 7.5 0ZM4.501 20.118a7.5 7.5 0 0 1 14.998 0" />
-			</svg>
-		</button>
+		<div class="relative" data-usermenu>
+			<button
+				onclick={handleSignInClick}
+				onmouseenter={handleSignInHover}
+				class="flex items-center justify-center w-6 h-6 rounded-full border border-ink-700 hover:border-ink-500 transition-colors text-ink-500 hover:text-ink-300 cursor-pointer"
+				aria-label="Sign in"
+			>
+				<svg class="w-3.5 h-3.5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+					<path stroke-linecap="round" stroke-linejoin="round" d="M15.75 6a3.75 3.75 0 1 1-7.5 0 3.75 3.75 0 0 1 7.5 0ZM4.501 20.118a7.5 7.5 0 0 1 14.998 0" />
+				</svg>
+			</button>
+			{#if dropdownOpen}
+				<div class="absolute right-0 mt-2 rounded-xl shadow-xl z-50 overflow-hidden">
+					<div bind:this={signinBtnEl} class="[&_iframe]:!rounded-xl"></div>
+				</div>
+			{/if}
+		</div>
 	{/if}
 {/if}

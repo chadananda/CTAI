@@ -53,19 +53,18 @@
     newKey = null;
   }
 
-  function initGoogleOneTap() {
+  function initGoogleSignIn() {
     if (!clientId || !window.google?.accounts) return;
     window.google.accounts.id.initialize({
       client_id: clientId,
       callback: handleCredential,
-      auto_prompt: true,
       use_fedcm_for_prompt: true,
     });
     window.google.accounts.id.renderButton(
       document.getElementById('g-signin-btn'),
       { theme: 'filled_black', size: 'large', text: 'signin_with', shape: 'pill' }
     );
-    window.google.accounts.id.prompt();
+    // One Tap prompt is handled globally by UserMenu — don't call prompt() here
   }
 
   async function handleCredential(response) {
@@ -94,7 +93,7 @@
       // Wait for Google script to load
       const timer = setInterval(() => {
         if (window.google?.accounts) {
-          initGoogleOneTap();
+          initGoogleSignIn();
           clearInterval(timer);
         }
       }, 100);
