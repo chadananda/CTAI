@@ -167,6 +167,7 @@ const translatedWorks = allWorks.filter(w => w.data.translation_status === 'comp
                          subjects: w.subjects,
                          is_best_known: w.is_best_known,
                          author_bio: w.author_bio,
+                         cover_image: w.cover_image,
                          est: w.est,
                          translated: isTranslated,
                        })}>
@@ -296,6 +297,9 @@ const translatedWorks = allWorks.filter(w => w.data.translation_status === 'comp
     function fmtCost(n) { return n < 1 ? Math.round(n * 100) + '\u00a2' : '$' + n.toFixed(0); }
 
     function buildLargeThumb(data) {
+      if (data.cover_image) {
+        return '<img src="' + data.cover_image + '" alt="' + (data.title || '') + '" width="80" height="112" class="w-20 h-28 rounded object-cover"/>';
+      }
       const isSacred = (data.category || 'sacred') === 'sacred';
       const fill = isSacred ? '#2a1f15' : '#1a2030';
       const accent = isSacred ? '#b8860b' : '#60a5fa';

@@ -24,6 +24,15 @@ const AUTHOR_SLUGS = {
   'Aziz\'ullah Sulaymani Ardakani': 'sulaymani',
 };
 
+/** Normalize author names to use consistent Unicode curly quotes */
+const AUTHOR_CANONICAL = {
+  "'Abdu'l-Bah\u00e1": "\u2018Abdu\u2019l-Bah\u00e1",
+  "Baha'u'llah": "Bah\u00e1\u2019u\u2019ll\u00e1h",
+};
+function canonicalAuthor(author) {
+  return AUTHOR_CANONICAL[author] || author;
+}
+
 function authorSlug(author) {
   return AUTHOR_SLUGS[author] || author.toLowerCase().replace(/[^a-z0-9]+/g, '-');
 }
@@ -108,10 +117,18 @@ function main() {
         t => workTitle.includes(t) || t.includes(workTitle)
       );
 
+      // Preserve enrichment fields from existing JSON if present
+      const jsonPath = path.join(outPath, `${docId}.json`);
+      let existing = {};
+      if (fs.existsSync(jsonPath)) {
+        try { existing = JSON.parse(fs.readFileSync(jsonPath, 'utf-8')); } catch {}
+      }
+      const ENRICH_FIELDS = ['description', 'subjects', 'phelps_id', 'is_best_known', 'title_english', 'cover_image', 'author_bio'];
+
       const entry = {
         title: data.title || file.replace('.md', ''),
         title_original: data.title_original || null,
-        author: data.author || authorDir,
+        author: canonicalAuthor(data.author || authorDir),
         author_slug: aSlug,
         language: data.language || 'ar',
         source_url: data.source_url || null,
@@ -124,9 +141,15 @@ function main() {
         word_count: extractWordCount(bodyContent),
         category: 'sacred',
         translation_style: 'archaic',
+        ...(data.title_english && { title_english: data.title_english }),
       };
 
-      fs.writeFileSync(path.join(outPath, `${docId}.json`), JSON.stringify(entry, null, 2));
+      // Merge preserved enrichment fields
+      for (const key of ENRICH_FIELDS) {
+        if (existing[key] != null && entry[key] == null) entry[key] = existing[key];
+      }
+
+      fs.writeFileSync(jsonPath, JSON.stringify(entry, null, 2));
       total++;
     }
   }
