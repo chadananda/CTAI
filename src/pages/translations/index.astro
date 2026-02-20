@@ -17,10 +17,10 @@ const sortedAuthors = [...byAuthor.keys()].sort(
 ---
 
 <Base
-  title="Sacred Tablets"
-  description={"Browse 188 sacred tablets and writings from Bah\u00e1\u2019u\u2019ll\u00e1h, the B\u00e1b, and \u2018Abdu\u2019l-Bah\u00e1 in the CTAI corpus."}
+  title="Translations"
+  description={"Browse 188 sacred tablets and writings from Bahá'u'lláh, the Báb, and 'Abdu'l-Bahá in the CTAI corpus."}
 >
-  <h1 class="text-3xl font-semibold text-ink-100 mb-2">Sacred Tablets</h1>
+  <h1 class="text-3xl font-semibold text-ink-100 mb-2">Translations</h1>
   <p class="text-ink-400 mb-8">
     {allWorks.length} sacred texts in Arabic and Persian, with source links and metadata.
   </p>
@@ -31,12 +31,12 @@ const sortedAuthors = [...byAuthor.keys()].sort(
     return (
       <section class="mb-10">
         <h2 class="text-xl font-semibold text-ink-200 mb-1">
-          <a href={`/works/${slug}/`} class="hover:text-gold-400 transition-colors">{author}</a>
+          <a href={`/translations/${slug}/`} class="hover:text-gold-400 transition-colors">{author}</a>
         </h2>
         <p class="text-sm text-ink-500 mb-4">{works.length} works</p>
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-3">
           {works.map(w => (
-            <a href={`/works/${w.author_slug}/${w.doc_id}/`}
+            <a href={`/translations/${w.author_slug}/${w.doc_id}/`}
                class="block p-4 bg-ink-800/40 rounded-lg border border-ink-700/40 hover:border-gold-500/30 transition-colors">
               <div class="font-semibold text-ink-100 text-sm mb-1">{w.title}</div>
               {w.title_original && (

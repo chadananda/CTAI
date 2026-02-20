@@ -56,6 +56,7 @@ function initGsi() {
 	window.google.accounts.id.initialize({
 		client_id: clientId,
 		callback: handleCredential,
+		use_fedcm_for_prompt: true,
 	});
 	gsiInitialized = true;
 }
@@ -75,27 +76,41 @@ function renderSignInButton() {
 function handleSignInClick(e) {
 	e.preventDefault();
 	e.stopPropagation();
-	if (window.google?.accounts) {
-		dropdownOpen = !dropdownOpen;
-		// Render button after DOM update
-		if (dropdownOpen) {
-			requestAnimationFrame(() => renderSignInButton());
+	if (!window.google?.accounts) {
+		if (!gsiReady) {
+			window.location.href = '/dashboard';
+			return;
 		}
-	} else if (gsiReady) {
-		// Script loaded but google not ready yet, try again
-		dropdownOpen = !dropdownOpen;
-		if (dropdownOpen) {
-			const check = setInterval(() => {
-				if (window.google?.accounts) {
-					clearInterval(check);
-					renderSignInButton();
-				}
-			}, 50);
-			setTimeout(() => clearInterval(check), 3000);
-		}
-	} else {
-		window.location.href = '/dashboard';
+		// Script loaded but not ready — wait briefly
+		const check = setInterval(() => {
+			if (window.google?.accounts) {
+				clearInterval(check);
+				tryOneTap();
+			}
+		}, 50);
+		setTimeout(() => { clearInterval(check); window.location.href = '/dashboard'; }, 3000);
+		return;
 	}
+	tryOneTap();
+}
+
+function tryOneTap() {
+	initGsi();
+	try {
+		window.google.accounts.id.prompt((notification) => {
+			// If One Tap can't show (cooldown, dismissed, etc.), fall back to button dropdown
+			if (notification.isNotDisplayed?.() || notification.isSkippedMoment?.()) {
+				showButtonFallback();
+			}
+		});
+	} catch {
+		showButtonFallback();
+	}
+}
+
+function showButtonFallback() {
+	dropdownOpen = true;
+	requestAnimationFrame(() => renderSignInButton());
 }
 
 function handleSignInHover() {
@@ -166,6 +181,12 @@ onMount(() => {
 						class="block px-3 py-2 text-xs font-mono text-ink-300 hover:bg-ink-700/50 rounded"
 					>
 						Dashboard
+					</a>
+					<a
+						href="/translate"
+						class="block px-3 py-2 text-xs font-mono text-ink-300 hover:bg-ink-700/50 rounded"
+					>
+						Translate
 					</a>
 					{#if user.isAdmin}
 						<a

@@ -42,7 +42,7 @@ export default defineConfig({
     xslURL: '/sitemap.xsl',
     customPages: [...corpusPages, ...concordancePages],
     filter: (page) => {
-      if (page.includes('/dashboard') || page.includes('/admin')) return false;
+      if (page.includes('/dashboard') || page.includes('/admin') || page.includes('/billing') || page.includes('/translate') || page.includes('/donate')) return false;
       return true;
     },
     serialize: (item) => {
@@ -59,11 +59,11 @@ export default defineConfig({
         item.priority = 0.5;
         item.changefreq = 'monthly';
       }
-      else if (/\/(models|works|articles)\/?$/.test(url)) {
+      else if (/\/(models|translations|articles)\/?$/.test(url)) {
         item.priority = 0.8;
         item.changefreq = 'monthly';
       }
-      else if (/\/models\/[^/]+\/?$/.test(url) || /\/works\/[^/]+\/?$/.test(url)) {
+      else if (/\/models\/[^/]+\/?$/.test(url) || /\/translations\/[^/]+\/?$/.test(url)) {
         item.priority = 0.6;
         item.changefreq = 'monthly';
       }

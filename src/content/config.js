@@ -57,6 +57,10 @@ const works = defineCollection({
     english_url: z.string().nullable().optional(),
     se_translation: z.boolean().optional(),
     doc_id: z.string(),
+    translation_status: z.enum(['untranslated', 'in_progress', 'complete']).optional().default('untranslated'),
+    estimated_cost_usd: z.number().optional(),
+    source_preview: z.string().optional(),
+    word_count: z.number().optional(),
   }),
 });
 

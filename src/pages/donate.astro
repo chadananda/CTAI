@@ -1,0 +1,22 @@
+---
+export const prerender = false;
+import Base from '../layouts/Base.astro';
+import DonateForm from '../components/donate/DonateForm.svelte';
+import DocumentUpload from '../components/donate/DocumentUpload.svelte';
+---
+<Base title="Donate" description="Support CTAI translations through donations or by submitting texts for translation.">
+  <div class="max-w-3xl">
+    <h1 class="text-3xl font-semibold text-ink-100 mb-2">Support Translations</h1>
+    <p class="text-ink-400 mb-8">
+      Help bring sacred texts into English through donations, or submit a document you'd like to see translated.
+    </p>
+
+    <div class="space-y-8">
+      <DonateForm client:load />
+
+      <div class="border-t border-ink-700/40 pt-8">
+        <DocumentUpload client:load />
+      </div>
+    </div>
+  </div>
+</Base>

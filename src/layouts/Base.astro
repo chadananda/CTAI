@@ -19,6 +19,8 @@ const canonical = canonicalUrl || Astro.url.href;
 
 import '../styles/theme.css';
 import PostHog from '../components/PostHog.astro';
+import UserMenu from '../components/UserMenu.svelte';
+const googleClientId = import.meta.env.PUBLIC_GOOGLE_CLIENT_ID || '';
 ---
 
 <!doctype html>
@@ -93,9 +95,8 @@ import PostHog from '../components/PostHog.astro';
             { href: '/models/', label: 'Models' },
             { href: '/concordance/', label: 'Concordance' },
             { href: '/jafar', label: 'Jafar' },
-            { href: '/works/', label: 'Tablets' },
-            { href: '/quran/', label: "Qur\u2019an", disabled: true },
-            { href: '/scholars/', label: 'Scholars', disabled: true },
+            { href: '/translations/', label: 'Translations' },
+            { href: '/translate', label: 'Translate' },
             { href: '/articles/', label: 'Blog' },
           ].map(link => link.disabled ? (
             <span
@@ -117,7 +118,7 @@ import PostHog from '../components/PostHog.astro';
               {link.label}
             </a>
           ))}
-          <div id="user-menu-root"></div>
+          <UserMenu client:only="svelte" clientId={googleClientId} />
         </div>
       </nav>
     </header>
@@ -184,14 +185,5 @@ import PostHog from '../components/PostHog.astro';
         </div>
       </div>
     </footer>
-    <script>
-      import UserMenu from '../components/UserMenu.svelte';
-      import { mount } from 'svelte';
-      const target = document.getElementById('user-menu-root');
-      if (target) mount(UserMenu, {
-        target,
-        props: { clientId: import.meta.env.PUBLIC_GOOGLE_CLIENT_ID || '' },
-      });
-    </script>
   </body>
 </html>

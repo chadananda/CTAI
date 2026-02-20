@@ -1,0 +1,164 @@
+---
+import Base from '../../../layouts/Base.astro';
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  const allWorks = await getCollection('works');
+  return allWorks.map(entry => ({
+    params: { author: entry.data.author_slug, work: entry.data.doc_id },
+    props: { work: entry.data },
+  }));
+}
+
+const { work } = Astro.props;
+const isTranslated = work.translation_status === 'complete';
+const langName = work.language === 'ar' ? 'Arabic' : work.language === 'fa' ? 'Persian' : work.language;
+---
+
+<Base title={work.title} description={`${work.title} — ${isTranslated ? 'Committee translation' : 'Awaiting committee translation'} from ${langName}`}>
+  <nav class="flex items-center gap-3 text-sm text-ink-500 mb-6">
+    <a href="/translations/" class="hover:text-ink-200">Translations</a>
+    <span class="text-ink-700">/</span>
+    <a href={`/translations/${work.author_slug}/`} class="hover:text-ink-200">{work.author}</a>
+    <span class="text-ink-700">/</span>
+    <span class="text-ink-200">{work.title}</span>
+  </nav>
+
+  <div class="max-w-4xl">
+    {/* Title block */}
+    <div class="flex items-start gap-4 mb-6">
+      <div class={`work-icon text-lg ${work.language === 'ar' ? 'bg-gold-400/10 text-gold-400 border border-gold-500/20' : 'bg-emerald-400/10 text-emerald-400 border border-emerald-500/20'}`}>
+        {work.title_original ? work.title_original.charAt(0) : work.title.charAt(0)}
+      </div>
+      <div>
+        <h1 class="text-3xl font-semibold text-ink-100 mb-1">{work.title}</h1>
+        {work.title_original && (
+          <p class="font-arabic text-2xl text-ink-400" dir="rtl">{work.title_original}</p>
+        )}
+      </div>
+    </div>
+
+    {/* Status badge */}
+    <div class="flex items-center gap-3 mb-6">
+      {isTranslated ? (
+        <span class="text-xs uppercase tracking-wider text-emerald-400 bg-emerald-400/10 px-2 py-1 rounded">Committee Translation Complete</span>
+      ) : (
+        <span class="text-xs uppercase tracking-wider text-gold-400/70 bg-gold-400/5 px-2 py-1 rounded">Awaiting Committee Translation</span>
+      )}
+      <span class="text-xs uppercase tracking-wider text-ink-500 bg-ink-700 px-2 py-1 rounded">{langName}</span>
+      {work.se_translation && (
+        <span class="text-xs uppercase tracking-wider text-gold-400 bg-gold-400/10 px-2 py-1 rounded">SE Corpus</span>
+      )}
+    </div>
+
+    {/* Metadata */}
+    <dl class="grid grid-cols-[auto_1fr] gap-x-6 gap-y-2 text-sm mb-8">
+      <dt class="text-ink-500">Author</dt>
+      <dd class="text-ink-200">{work.author}</dd>
+
+      {work.word_count && (
+        <>
+          <dt class="text-ink-500">Length</dt>
+          <dd class="text-ink-200 font-mono">{work.word_count.toLocaleString()} words</dd>
+        </>
+      )}
+
+      {work.source_url && (
+        <>
+          <dt class="text-ink-500">Source</dt>
+          <dd>
+            <a href={work.source_url} target="_blank" rel="noopener noreferrer"
+               class="text-gold-400 hover:text-gold-300 underline underline-offset-2">
+              View original text &nearr;
+            </a>
+          </dd>
+        </>
+      )}
+
+      {work.has_english_translation && work.english_url && (
+        <>
+          <dt class="text-ink-500">English</dt>
+          <dd>
+            <a href={work.english_url} target="_blank" rel="noopener noreferrer"
+               class="text-gold-400 hover:text-gold-300 underline underline-offset-2">
+              View English translation &nearr;
+            </a>
+          </dd>
+        </>
+      )}
+
+      {work.estimated_cost_usd && !isTranslated && (
+        <>
+          <dt class="text-ink-500">Est. Cost</dt>
+          <dd class="text-ink-200 font-mono">${work.estimated_cost_usd.toFixed(0)}</dd>
+        </>
+      )}
+    </dl>
+
+    {isTranslated ? (
+      <Fragment>
+        {/* === TRANSLATED: Show SBS viewer placeholder === */}
+        <div class="bg-ink-800/40 border border-ink-700/40 rounded-lg p-6 mb-6">
+          <p class="text-ink-400 text-sm">Full side-by-side translation viewer with phrase highlighting will load here.</p>
+          <p class="text-ink-500 text-xs mt-2">Components: ViewSwitcher, PhraseHighlight, ReaderView, TranslationReport</p>
+        </div>
+      </Fragment>
+    ) : (
+      <Fragment>
+        {/* === UNTRANSLATED: Manuscript preview + sponsor CTA === */}
+
+        {/* Raw source text in manuscript style */}
+        {work.source_preview && (
+          <div class="mb-8">
+            <h2 class="text-sm font-mono text-ink-500 uppercase tracking-wider mb-3">Source Text Preview</h2>
+            <div class="manuscript" style="max-height: 280px;">
+              <div class="manuscript-text">{work.source_preview}</div>
+              <div class="manuscript-fade"></div>
+            </div>
+            <p class="text-[11px] text-ink-600 mt-2 italic">
+              This text has never been rendered into English by a committee translation process.
+            </p>
+          </div>
+        )}
+
+        {/* Sponsor CTA */}
+        <div class="bg-ink-800/40 border border-gold-500/20 rounded-lg p-6 mb-8">
+          <h2 class="text-lg font-semibold text-ink-100 mb-2">Sponsor This Translation</h2>
+          <p class="text-sm text-ink-400 mb-4">
+            Help bring this {langName} text into English through CTAI's committee translation process —
+            three AI translators deliberating over multiple rounds, guided by Shoghi Effendi's translation precedents
+            from the Jafar concordance.
+          </p>
+          {work.estimated_cost_usd ? (
+            <div class="flex items-center gap-4">
+              <span class="text-sm text-ink-300">Estimated cost: <span class="font-mono text-gold-400">${work.estimated_cost_usd.toFixed(0)}</span></span>
+              <a href="/translate" class="px-4 py-2 text-sm font-mono bg-gold-400/10 border border-gold-500/40 text-gold-400 rounded-lg hover:bg-gold-400/20 transition-colors">
+                Sponsor Translation
+              </a>
+            </div>
+          ) : (
+            <a href="/translate" class="inline-block px-4 py-2 text-sm font-mono bg-gold-400/10 border border-gold-500/40 text-gold-400 rounded-lg hover:bg-gold-400/20 transition-colors">
+              Learn About Sponsoring
+            </a>
+          )}
+        </div>
+
+        {/* What you get section */}
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-4 mb-8">
+          <div class="p-4 bg-ink-800/30 rounded-lg border border-ink-700/30">
+            <div class="text-gold-400 text-sm font-mono mb-2">3 Translators</div>
+            <p class="text-xs text-ink-500">Three AI translators render independently, then deliberate over multiple rounds to reach consensus.</p>
+          </div>
+          <div class="p-4 bg-ink-800/30 rounded-lg border border-ink-700/30">
+            <div class="text-gold-400 text-sm font-mono mb-2">Jafar Concordance</div>
+            <p class="text-xs text-ink-500">Every significant term is cross-referenced against Shoghi Effendi's translation precedents.</p>
+          </div>
+          <div class="p-4 bg-ink-800/30 rounded-lg border border-ink-700/30">
+            <div class="text-gold-400 text-sm font-mono mb-2">3 PDF Formats</div>
+            <p class="text-xs text-ink-500">Side-by-side by paragraph, by sentence, and by sentence with scholarly notes.</p>
+          </div>
+        </div>
+      </Fragment>
+    )}
+  </div>
+</Base>

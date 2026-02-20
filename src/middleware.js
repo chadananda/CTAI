@@ -34,7 +34,13 @@ export async function onRequest({ request, locals, url }, next) {
     }
   }
   // Phase 3: Gate /api/* routes (existing logic)
-  if (!url.pathname.startsWith('/api/') || url.pathname.startsWith('/api/auth/') || url.pathname.startsWith('/api/research')) {
+  const isPublicApi = !url.pathname.startsWith('/api/')
+    || url.pathname.startsWith('/api/auth/')
+    || url.pathname.startsWith('/api/research')
+    || url.pathname === '/api/billing/webhook'
+    || (request.method === 'GET' && url.pathname.startsWith('/api/translations'))
+    || (request.method === 'GET' && url.pathname.startsWith('/api/sponsorships'));
+  if (isPublicApi) {
     return next();
   }
   if (!db || !kv) {

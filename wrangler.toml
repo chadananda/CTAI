@@ -20,3 +20,11 @@ database_id = "64b01291-d9db-4827-9c66-a493adcf4221"
 [[kv_namespaces]]
 binding = "SESSIONS"
 id = "a3122683c8484bda94c2db009130648f"
+
+[[r2_buckets]]
+binding = "TRANSLATIONS_BUCKET"
+bucket_name = "ctai-translations"
+
+[[queues.producers]]
+binding = "TRANSLATION_QUEUE"
+queue = "ctai-translations"

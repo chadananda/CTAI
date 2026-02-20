@@ -1,0 +1,10 @@
+---
+export const prerender = false;
+import Base from '../../layouts/Base.astro';
+const { id } = Astro.params;
+---
+<Base title="Translation">
+  <h1 class="text-3xl font-semibold text-ink-100 mb-2">Translation Viewer</h1>
+  <p class="text-ink-400 mb-8">Side-by-side translation with phrase-level highlighting.</p>
+  <div class="text-ink-500 text-sm">Translation viewer coming soon. ID: {id}</div>
+</Base>

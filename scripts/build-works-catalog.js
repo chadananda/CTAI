@@ -32,6 +32,22 @@ function docIdFromFilename(filename) {
     .replace(/[^a-z0-9]+/g, '-')
     .replace(/^-|-$/g, '');
 }
+/** Extract first ~500 chars of body text for preview */
+function extractSourcePreview(body) {
+  const lines = body.split('\n')
+    .filter(l => !l.startsWith('#'))
+    .filter(l => !/^\d+\s+words/.test(l.trim()))
+    .map(l => l.trim())
+    .filter(l => l.length > 0);
+  const text = lines.join(' ');
+  return text.slice(0, 500);
+}
+/** Parse word count from body or count words as fallback */
+function extractWordCount(body) {
+  const match = body.match(/^(\d+)\s+words/m);
+  if (match) return parseInt(match[1], 10);
+  return body.split(/\s+/).filter(w => w.length > 0).length;
+}
 
 /** Get titles of works translated by Shoghi Effendi */
 function getSETranslationTitles() {
@@ -65,7 +81,7 @@ function main() {
     for (const file of files) {
       const filePath = path.join(dirPath, file);
       const raw = fs.readFileSync(filePath, 'utf-8');
-      const { data } = matter(raw);
+      const { data, content: bodyContent } = matter(raw);
       const docId = docIdFromFilename(file);
 
       const workTitle = (data.title || '').toLowerCase();
@@ -86,6 +102,8 @@ function main() {
         english_url: data.english_url || null,
         se_translation: hasSeTranslation,
         doc_id: docId,
+        source_preview: extractSourcePreview(bodyContent),
+        word_count: extractWordCount(bodyContent),
       };
 
       fs.writeFileSync(path.join(outPath, `${docId}.json`), JSON.stringify(entry, null, 2));
