@@ -5,6 +5,7 @@ pages_build_output_dir = "./dist"
 
 [vars]
 ENVIRONMENT = "production"
+SITE_ADMIN_EMAIL = "chad@ctai.info"
 
 [[d1_databases]]
 binding = "JAFAR_DB"

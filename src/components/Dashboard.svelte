@@ -147,7 +147,7 @@
 
       {#if newKey}
         <div class="mb-4 p-4 bg-ink-800/60 border border-gold-400/30 rounded-lg">
-          <p class="text-xs text-gold-400 font-mono mb-2">Copy your API key now — it won't be shown again:</p>
+          <p class="text-xs text-gold-400 font-mono mb-2">Copy your API key now — it won&rsquo;t be shown again:</p>
           <div class="flex items-center gap-2">
             <code class="flex-1 text-sm text-ink-200 font-mono bg-ink-900 px-3 py-2 rounded break-all">{newKey}</code>
             <button onclick={copyKey}

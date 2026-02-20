@@ -39,9 +39,10 @@ export default defineConfig({
   devToolbar: { enabled: false },
   adapter: cloudflare({ imageService: 'passthrough' }),
   integrations: [svelte(), tailwind(), sitemap({
+    xslURL: '/sitemap.xsl',
     customPages: [...corpusPages, ...concordancePages],
     filter: (page) => {
-      if (page.includes('/dashboard')) return false;
+      if (page.includes('/dashboard') || page.includes('/admin')) return false;
       return true;
     },
     serialize: (item) => {

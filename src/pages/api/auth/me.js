@@ -31,8 +31,10 @@ export async function GET({ request, locals }) {
     });
   }
 
+  const isAdmin = env.SITE_ADMIN_EMAIL && user.email === env.SITE_ADMIN_EMAIL;
+
   return new Response(JSON.stringify({
-    user: { email: user.email, name: user.name, tier: user.tier, picture: user.picture },
+    user: { email: user.email, name: user.name, tier: user.tier, picture: user.picture, isAdmin },
   }), {
     headers: { 'Content-Type': 'application/json' },
   });

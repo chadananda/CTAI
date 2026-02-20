@@ -1,0 +1,21 @@
+---
+export const prerender = false;
+import Base from '../../layouts/Base.astro';
+---
+
+<Base title="Admin Dashboard">
+  <div id="admin-root">
+    <noscript>
+      <p class="text-ink-400">JavaScript is required for the admin dashboard.</p>
+    </noscript>
+  </div>
+
+  <script>
+    import AdminDashboard from '../../components/admin/AdminDashboard.svelte';
+    import { mount } from 'svelte';
+
+    mount(AdminDashboard, {
+      target: document.getElementById('admin-root'),
+    });
+  </script>
+</Base>

@@ -94,7 +94,7 @@ import PostHog from '../components/PostHog.astro';
             { href: '/concordance/', label: 'Concordance' },
             { href: '/jafar', label: 'Jafar' },
             { href: '/works/', label: 'Tablets' },
-            { href: '/quran/', label: "Qur'an", disabled: true },
+            { href: '/quran/', label: "Qur\u2019an", disabled: true },
             { href: '/scholars/', label: 'Scholars', disabled: true },
             { href: '/articles/', label: 'Blog' },
           ].map(link => link.disabled ? (
@@ -117,6 +117,7 @@ import PostHog from '../components/PostHog.astro';
               {link.label}
             </a>
           ))}
+          <div id="user-menu-root"></div>
         </div>
       </nav>
     </header>
@@ -141,9 +142,9 @@ import PostHog from '../components/PostHog.astro';
               {[
                 { href: 'https://oceanlibrary.com', name: 'OceanLibrary', desc: 'interfaith library' },
                 { href: 'https://siftersearch.com', name: 'SifterSearch', desc: 'AI librarian search' },
-                { href: 'https://bahai-education.org', name: 'Bahai-Education', desc: "Baha'i blog" },
+                { href: 'https://bahai-education.org', name: 'Bahai-Education', desc: "Baha\u2019i blog" },
                 { href: 'https://oceanoflights.org', name: 'OceanofLights', desc: 'Universe of Tablets' },
-                { href: 'https://drbi.org', name: 'DRBI', desc: "Baha'i Institute" },
+                { href: 'https://drbi.org', name: 'DRBI', desc: "Baha\u2019i Institute" },
                 { href: 'https://novelarabic.com', name: 'NovelArabic', desc: 'Arabic story labs' },
                 { href: 'https://almost-english.com', name: 'Almost-English', desc: 'cognate bridges' },
                 { href: 'https://xswarm.ai', name: 'xSwarm', desc: 'agentic dev tools' },
@@ -159,9 +160,9 @@ import PostHog from '../components/PostHog.astro';
             <a href="/cool-projects" class="text-[10px] text-ink-600 hover:text-ink-500 font-mono tracking-wide uppercase mb-1.5 block transition-colors">Other Cool Projects</a>
             <div class="flex flex-wrap gap-x-1">
               {[
-                { href: 'https://bahai-library.org', name: 'Bahai-Library', desc: "Bah\u00e1'\u00ed documents" },
+                { href: 'https://bahai-library.org', name: 'Bahai-Library', desc: "Bah\u00e1\u2019\u00ed documents" },
                 { href: 'https://theutteranceproject.com', name: 'UtteranceProject', desc: 'readings resource' },
-                { href: 'https://upliftingwords.org', name: 'UpliftingWords', desc: "Bah\u00e1'\u00ed collection" },
+                { href: 'https://upliftingwords.org', name: 'UpliftingWords', desc: "Bah\u00e1\u2019\u00ed collection" },
                 { href: 'https://afnanlibrary.org', name: 'AfnanLibrary', desc: 'manuscripts' },
                 { href: 'https://blog.loomofreality.org', name: 'LoomofReality', desc: 'tablet inventory' },
                 { href: 'https://www.bahaiblog.net', name: 'BahaiBlog', desc: 'arts & musings' },
@@ -183,5 +184,14 @@ import PostHog from '../components/PostHog.astro';
         </div>
       </div>
     </footer>
+    <script>
+      import UserMenu from '../components/UserMenu.svelte';
+      import { mount } from 'svelte';
+      const target = document.getElementById('user-menu-root');
+      if (target) mount(UserMenu, {
+        target,
+        props: { clientId: import.meta.env.PUBLIC_GOOGLE_CLIENT_ID || '' },
+      });
+    </script>
   </body>
 </html>
