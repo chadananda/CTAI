@@ -61,6 +61,14 @@ const works = defineCollection({
     estimated_cost_usd: z.number().optional(),
     source_preview: z.string().optional(),
     word_count: z.number().optional(),
+    category: z.enum(['sacred', 'scholarly']).optional().default('sacred'),
+    translation_style: z.enum(['archaic', 'modern']).optional().default('archaic'),
+    subject: z.string().nullable().optional(),
+    author_original: z.string().nullable().optional(),
+    volume: z.union([z.number(), z.string()]).nullable().optional(),
+    volumes_total: z.union([z.number(), z.string()]).nullable().optional(),
+    date_composed: z.string().nullable().optional(),
+    source_format: z.string().nullable().optional(),
   }),
 });
 

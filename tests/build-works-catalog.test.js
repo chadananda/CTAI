@@ -68,7 +68,10 @@ describe('works catalog output', () => {
   });
 
   it('has valid author_slug values', () => {
-    const validSlugs = ['bahaullah', 'the-bab', 'abdul-baha', 'shoghi-effendi'];
+    const validSlugs = [
+      'bahaullah', 'the-bab', 'abdul-baha', 'shoghi-effendi',
+      'davudi', 'mazindarani', 'bushrui', 'sulaymani',
+    ];
     const authors = fs.readdirSync(WORKS_DIR).filter(d =>
       fs.statSync(path.join(WORKS_DIR, d)).isDirectory()
     );
@@ -79,6 +82,30 @@ describe('works catalog output', () => {
         const data = JSON.parse(fs.readFileSync(path.join(WORKS_DIR, author, file), 'utf-8'));
         expect(data.author_slug).toBe(author);
       }
+    }
+  });
+
+  it('scholarly works have category and translation_style', () => {
+    const scholarlyDirs = ['davudi', 'mazindarani', 'bushrui', 'sulaymani'];
+    for (const dir of scholarlyDirs) {
+      const dirPath = path.join(WORKS_DIR, dir);
+      if (!fs.existsSync(dirPath)) continue;
+      const files = fs.readdirSync(dirPath).filter(f => f.endsWith('.json'));
+      for (const file of files) {
+        const data = JSON.parse(fs.readFileSync(path.join(dirPath, file), 'utf-8'));
+        expect(data.category).toBe('scholarly');
+        expect(data.translation_style).toBe('modern');
+      }
+    }
+  });
+
+  it('sacred works have category sacred and translation_style archaic', () => {
+    const sampleDir = path.join(WORKS_DIR, 'bahaullah');
+    const files = fs.readdirSync(sampleDir).filter(f => f.endsWith('.json'));
+    for (const file of files.slice(0, 5)) {
+      const data = JSON.parse(fs.readFileSync(path.join(sampleDir, file), 'utf-8'));
+      expect(data.category).toBe('sacred');
+      expect(data.translation_style).toBe('archaic');
     }
   });
 });

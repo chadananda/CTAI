@@ -9,109 +9,300 @@ for (const entry of allWorks) {
   if (!byAuthor.has(author)) byAuthor.set(author, []);
   byAuthor.get(author).push(entry.data);
 }
-const authorOrder = ["Baha'u'llah", "The Bab", "Abdu'l-Baha", "Shoghi Effendi"];
-const sortedAuthors = [...byAuthor.keys()].sort(
-  (a, b) => (authorOrder.indexOf(a) === -1 ? 99 : authorOrder.indexOf(a)) - (authorOrder.indexOf(b) === -1 ? 99 : authorOrder.indexOf(b))
-);
+const sacredOrder = ["Baha'u'llah", "The Bab", "Abdu'l-Baha", "Shoghi Effendi"];
+const sortedAuthors = [...byAuthor.keys()].sort((a, b) => {
+  const ai = sacredOrder.indexOf(a);
+  const bi = sacredOrder.indexOf(b);
+  return (ai === -1 ? 99 : ai) - (bi === -1 ? 99 : bi);
+});
 const totalWorks = allWorks.length;
+const sacredCount = allWorks.filter(w => w.data.category === 'sacred').length;
+const scholarlyCount = allWorks.filter(w => w.data.category === 'scholarly').length;
 const translatedCount = allWorks.filter(w => w.data.translation_status === 'complete').length;
+
+function formatSize(n) {
+  if (!n) return '';
+  if (n >= 1000) return `${(n / 1000).toFixed(n >= 10000 ? 0 : 1)}k`;
+  return String(n);
+}
 ---
 
-<Base title="Translate" description="Browse 188 sacred texts awaiting translation by the CTAI committee translation system.">
+<Base title="Translate" description={`Browse ${totalWorks} works awaiting committee translation — sacred texts and scholarly works in Arabic and Persian.`}>
   <div class="mb-8">
     <h1 class="text-3xl font-semibold text-ink-100 mb-2">Translation Catalog</h1>
-    <p class="text-ink-400 mb-4">Sacred texts in Arabic and Persian, awaiting committee translation into English.</p>
-    <div class="flex gap-6 text-sm">
-      <div><span class="text-ink-100 font-mono">{totalWorks}</span> <span class="text-ink-500">total works</span></div>
+    <p class="text-ink-400 mb-4">Sacred texts and scholarly works in Arabic and Persian, awaiting committee translation into English.</p>
+    <div class="flex flex-wrap gap-4 text-sm">
+      <div><span class="text-ink-100 font-mono">{totalWorks}</span> <span class="text-ink-500">total</span></div>
+      <div><span class="text-gold-400 font-mono">{sacredCount}</span> <span class="text-ink-500">sacred</span></div>
+      <div><span class="text-blue-400 font-mono">{scholarlyCount}</span> <span class="text-ink-500">scholarly</span></div>
       <div><span class="text-emerald-400 font-mono">{translatedCount}</span> <span class="text-ink-500">translated</span></div>
-      <div><span class="text-gold-400 font-mono">{totalWorks - translatedCount}</span> <span class="text-ink-500">awaiting translation</span></div>
     </div>
   </div>
-  <div class="mb-8">
+
+  <!-- Toolbar: search + filters + view toggle -->
+  <div class="mb-8 flex flex-wrap gap-3 items-center">
     <input
       type="search"
       id="work-search"
-      placeholder="Filter works by title..."
-      class="w-full max-w-md px-4 py-2 text-sm bg-ink-800/60 border border-ink-700/40 rounded-lg text-ink-300 placeholder:text-ink-600 focus:border-gold-500/40 focus:outline-none"
+      placeholder="Filter by title..."
+      class="w-full max-w-xs px-3 py-1.5 text-sm bg-ink-800/60 border border-ink-700/40 rounded-lg text-ink-300 placeholder:text-ink-600 focus:border-gold-500/40 focus:outline-none"
     />
+    <div class="flex gap-1" id="category-filters">
+      <button data-filter="all" class="filter-btn px-2.5 py-1 text-[10px] font-mono uppercase tracking-wider rounded border border-ink-700/40 bg-ink-700 text-ink-200">All</button>
+      <button data-filter="sacred" class="filter-btn px-2.5 py-1 text-[10px] font-mono uppercase tracking-wider rounded border border-ink-700/40 text-ink-500 hover:text-ink-300">Sacred</button>
+      <button data-filter="scholarly" class="filter-btn px-2.5 py-1 text-[10px] font-mono uppercase tracking-wider rounded border border-ink-700/40 text-ink-500 hover:text-ink-300">Scholarly</button>
+    </div>
+    <div class="ml-auto flex gap-1">
+      <button id="view-compact" class="view-btn p-1.5 rounded border border-ink-700/40 bg-ink-700 text-ink-200" title="Compact view">
+        <svg class="w-3.5 h-3.5" viewBox="0 0 16 16" fill="currentColor"><rect x="1" y="1" width="6" height="6" rx="1"/><rect x="9" y="1" width="6" height="6" rx="1"/><rect x="1" y="9" width="6" height="6" rx="1"/><rect x="9" y="9" width="6" height="6" rx="1"/></svg>
+      </button>
+      <button id="view-expanded" class="view-btn p-1.5 rounded border border-ink-700/40 text-ink-500 hover:text-ink-300" title="Expanded view">
+        <svg class="w-3.5 h-3.5" viewBox="0 0 16 16" fill="currentColor"><rect x="1" y="1" width="14" height="4" rx="1"/><rect x="1" y="7" width="14" height="4" rx="1"/></svg>
+      </button>
+    </div>
   </div>
+
   {sortedAuthors.map(author => {
     const works = byAuthor.get(author).sort((a, b) => a.title.localeCompare(b.title));
-    const slug = works[0].author_slug;
+    const category = works[0].category || 'sacred';
+    const isSacred = category === 'sacred';
     return (
-      <section class="mb-12" data-author-section>
-        <div class="flex items-center gap-3 mb-4">
-          <h2 class="text-xl font-semibold text-ink-200">{author}</h2>
-          <span class="text-xs text-ink-500 font-mono">{works.length} works</span>
+      <section class="mb-10" data-author-section data-category={category}>
+        <div class="flex items-baseline gap-3 mb-3 border-b border-ink-800/60 pb-2">
+          <h2 class="text-lg font-semibold text-ink-200">{author}</h2>
+          <span class="text-[10px] text-ink-500 font-mono">{works.length} works</span>
+          {!isSacred && <span class="text-[10px] uppercase tracking-wider text-blue-400/60 bg-blue-400/5 px-1.5 py-0.5 rounded">Scholarly</span>}
         </div>
-        <div class="grid grid-cols-1 lg:grid-cols-2 gap-4">
+        <div class="work-grid grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 gap-4">
           {works.map(w => {
             const isTranslated = w.translation_status === 'complete';
-            const iconChar = w.title_original ? w.title_original.charAt(0) : w.title.charAt(0);
-            const iconColor = w.language === 'ar'
-              ? 'bg-gold-400/10 text-gold-400 border border-gold-500/20'
-              : 'bg-emerald-400/10 text-emerald-400 border border-emerald-500/20';
+            const origChar = w.title_original ? w.title_original.charAt(0) : '';
+            const wordLabel = formatSize(w.word_count);
             return (
-              <a href={`/translations/${w.author_slug}/${w.doc_id}/`}
-                 class="block group"
-                 data-work-card
-                 data-title={`${w.title} ${w.title_original || ''}`}>
-                <div class="p-4 bg-ink-800/40 rounded-lg border border-ink-700/40 hover:border-gold-500/30 transition-all">
-                  <div class="flex items-start gap-3 mb-3">
-                    <div class={`work-icon ${iconColor}`}>{iconChar}</div>
-                    <div class="min-w-0 flex-1">
-                      <div class="font-semibold text-ink-100 text-sm group-hover:text-gold-400 transition-colors">{w.title}</div>
-                      {w.title_original && (
-                        <div class="font-arabic text-ink-400 text-sm mt-0.5" dir="rtl">{w.title_original}</div>
-                      )}
-                    </div>
-                    {isTranslated ? (
-                      <span class="text-[10px] uppercase tracking-wider text-emerald-400 bg-emerald-400/10 px-1.5 py-0.5 rounded shrink-0">Translated</span>
+              <div class="work-item group"
+                   data-work-card
+                   data-category={w.category || 'sacred'}
+                   data-title={`${w.title} ${w.title_original || ''} ${w.subject || ''}`}
+                   data-expanded="false">
+                {/* Compact view: cover + title */}
+                <a href={`/translations/${w.author_slug}/${w.doc_id}/`}
+                   class="compact-view block">
+                  <div class="relative">
+                    {isSacred ? (
+                      <svg viewBox="0 0 120 170" class="w-full rounded shadow-md shadow-black/30 group-hover:shadow-gold-400/10 transition-shadow" xmlns="http://www.w3.org/2000/svg">
+                        <defs>
+                          <linearGradient id={`lg-${w.doc_id}`} x1="0" y1="0" x2="1" y2="1">
+                            <stop offset="0%" stop-color="#3d2b1f"/>
+                            <stop offset="50%" stop-color="#2a1f15"/>
+                            <stop offset="100%" stop-color="#1a140e"/>
+                          </linearGradient>
+                          <filter id={`tx-${w.doc_id}`}>
+                            <feTurbulence baseFrequency="0.9" numOctaves="4" seed={w.doc_id.length * 7} result="noise"/>
+                            <feColorMatrix type="saturate" values="0" in="noise" result="gray"/>
+                            <feBlend in="SourceGraphic" in2="gray" mode="soft-light"/>
+                          </filter>
+                        </defs>
+                        <rect width="120" height="170" rx="2" fill={`url(#lg-${w.doc_id})`} filter={`url(#tx-${w.doc_id})`}/>
+                        <rect x="0" y="0" width="6" height="170" fill="rgba(0,0,0,0.3)" rx="2"/>
+                        <rect x="10" y="12" width="100" height="146" rx="1" fill="none" stroke="#b8860b" stroke-width="0.5" opacity="0.5"/>
+                        <rect x="13" y="15" width="94" height="140" rx="1" fill="none" stroke="#b8860b" stroke-width="0.3" opacity="0.3"/>
+                        <g opacity="0.4" stroke="#b8860b" stroke-width="0.5" fill="none">
+                          <path d="M16,18 L26,18 M16,18 L16,28"/>
+                          <path d="M104,18 L94,18 M104,18 L104,28"/>
+                          <path d="M16,152 L26,152 M16,152 L16,142"/>
+                          <path d="M104,152 L94,152 M104,152 L104,142"/>
+                        </g>
+                        <g transform="translate(60,65)" opacity="0.3">
+                          <path d="M0,-18 L12,0 L0,18 L-12,0Z" fill="none" stroke="#b8860b" stroke-width="0.5"/>
+                          <circle cx="0" cy="0" r="4" fill="none" stroke="#b8860b" stroke-width="0.4"/>
+                        </g>
+                        {origChar && (
+                          <text x="60" y="67" text-anchor="middle" dominant-baseline="central"
+                                font-family="'Scheherazade New', serif" font-size="16"
+                                fill="#b8860b" opacity="0.6">{origChar}</text>
+                        )}
+                        <foreignObject x="14" y="96" width="92" height="50">
+                          <div xmlns="http://www.w3.org/1999/xhtml"
+                               style="font-family: 'EB Garamond', serif; font-size: 8px; color: #b8860b; text-align: center; line-height: 1.3; overflow: hidden; opacity: 0.7;">
+                            {w.title.length > 40 ? w.title.slice(0, 38) + '...' : w.title}
+                          </div>
+                        </foreignObject>
+                        <text x="60" y="162" text-anchor="middle" font-family="monospace" font-size="5"
+                              fill="#b8860b" opacity="0.35">{w.language === 'ar' ? 'ARABIC' : 'PERSIAN'}</text>
+                        {isTranslated && (
+                          <g>
+                            <rect x="0" y="0" width="120" height="170" rx="2" fill="rgba(16,185,129,0.08)"/>
+                            <rect x="70" y="4" width="46" height="12" rx="2" fill="#065f46"/>
+                            <text x="93" y="12.5" text-anchor="middle" font-family="monospace" font-size="5.5" fill="#34d399">DONE</text>
+                          </g>
+                        )}
+                      </svg>
                     ) : (
-                      <span class="text-[10px] uppercase tracking-wider text-gold-400/60 bg-gold-400/5 px-1.5 py-0.5 rounded shrink-0">Untranslated</span>
+                      <svg viewBox="0 0 120 170" class="w-full rounded shadow-md shadow-black/30 group-hover:shadow-blue-400/10 transition-shadow" xmlns="http://www.w3.org/2000/svg">
+                        <defs>
+                          <linearGradient id={`nb-${w.doc_id}`} x1="0" y1="0" x2="0.3" y2="1">
+                            <stop offset="0%" stop-color="#2a3040"/>
+                            <stop offset="100%" stop-color="#1a2030"/>
+                          </linearGradient>
+                        </defs>
+                        <rect width="120" height="170" rx="2" fill={`url(#nb-${w.doc_id})`}/>
+                        <rect x="0" y="0" width="6" height="170" fill="rgba(0,0,0,0.25)" rx="2"/>
+                        {[30,42,54,66,78,90,102,114,126,138].map(y => (
+                          <line x1="14" y1={y} x2="112" y2={y} stroke="#334155" stroke-width="0.3" opacity="0.5"/>
+                        ))}
+                        <line x1="22" y1="10" x2="22" y2="160" stroke="#ef444480" stroke-width="0.3"/>
+                        <rect x="8" y="10" width="104" height="16" rx="1" fill="rgba(96,165,250,0.08)"/>
+                        <foreignObject x="14" y="10" width="92" height="16">
+                          <div xmlns="http://www.w3.org/1999/xhtml"
+                               style="font-family: 'JetBrains Mono', monospace; font-size: 6px; color: #93c5fd; text-align: center; line-height: 16px; overflow: hidden; white-space: nowrap; text-overflow: ellipsis;">
+                            {w.title.length > 28 ? w.title.slice(0, 26) + '..' : w.title}
+                          </div>
+                        </foreignObject>
+                        {w.title_original && (
+                          <text x="60" y="42" text-anchor="middle"
+                                font-family="'Scheherazade New', serif" font-size="10"
+                                fill="#94a3b8" opacity="0.5" direction="rtl">{w.title_original.slice(0, 30)}</text>
+                        )}
+                        {w.subject && (
+                          <foreignObject x="26" y="50" width="86" height="40">
+                            <div xmlns="http://www.w3.org/1999/xhtml"
+                                 style="font-family: 'Source Serif 4', serif; font-size: 6.5px; color: #64748b; text-align: left; line-height: 1.4; overflow: hidden;">
+                              {w.subject.slice(0, 80)}
+                            </div>
+                          </foreignObject>
+                        )}
+                        {w.author_original && (
+                          <text x="60" y="105" text-anchor="middle"
+                                font-family="'Scheherazade New', serif" font-size="8"
+                                fill="#475569" opacity="0.6" direction="rtl">{w.author_original}</text>
+                        )}
+                        {w.volume && (
+                          <g>
+                            <rect x="80" y="120" width="30" height="12" rx="2" fill="rgba(96,165,250,0.1)" stroke="#60a5fa" stroke-width="0.3" opacity="0.5"/>
+                            <text x="95" y="129" text-anchor="middle" font-family="monospace" font-size="6" fill="#60a5fa" opacity="0.6">Vol {w.volume}</text>
+                          </g>
+                        )}
+                        <text x="60" y="162" text-anchor="middle" font-family="monospace" font-size="5"
+                              fill="#475569" opacity="0.4">{w.language === 'ar' ? 'ARABIC' : 'PERSIAN'}</text>
+                      </svg>
+                    )}
+                    {wordLabel && (
+                      <span class="absolute bottom-1 left-1 text-[8px] font-mono text-ink-500 bg-ink-900/80 px-1 rounded">
+                        {wordLabel}w
+                      </span>
                     )}
                   </div>
-                  <div class="flex items-center gap-2 mb-3">
-                    <span class="text-[10px] uppercase tracking-wider text-ink-500 bg-ink-700 px-1.5 py-0.5 rounded">
-                      {w.language === 'ar' ? 'Arabic' : 'Persian'}
-                    </span>
-                    {w.se_translation && (
-                      <span class="text-[10px] uppercase tracking-wider text-gold-400 bg-gold-400/10 px-1.5 py-0.5 rounded">SE Corpus</span>
-                    )}
-                    {w.has_english_translation && (
-                      <span class="text-[10px] uppercase tracking-wider text-emerald-400 bg-emerald-400/10 px-1.5 py-0.5 rounded">Has English</span>
-                    )}
-                    {w.word_count && (
-                      <span class="text-[10px] text-ink-600 font-mono">{w.word_count.toLocaleString()} words</span>
-                    )}
+                  <div class="mt-1.5 px-0.5">
+                    <div class="text-xs text-ink-200 leading-tight group-hover:text-gold-400 transition-colors line-clamp-2">{w.title}</div>
+                    {w.subject && <div class="text-[10px] text-ink-500 leading-tight mt-0.5 line-clamp-1">{w.subject}</div>}
                   </div>
-                  {!isTranslated && w.source_preview && (
-                    <div class="manuscript mt-2" style="max-height: 120px;">
-                      <div class="manuscript-text text-xs leading-relaxed" style="line-height: 2;">{w.source_preview.slice(0, 300)}</div>
-                      <div class="manuscript-fade"></div>
-                    </div>
-                  )}
-                  {isTranslated ? (
-                    <div class="mt-3 text-xs text-gold-400 group-hover:text-gold-300">Read translation &rarr;</div>
-                  ) : (
-                    <div class="mt-3 flex items-center justify-between">
-                      {w.estimated_cost_usd ? (
-                        <span class="text-xs text-ink-500">Est. ${w.estimated_cost_usd.toFixed(0)}</span>
+                </a>
+
+                {/* Expanded view: full metadata panel */}
+                <div class="expanded-view hidden">
+                  <div class="flex gap-4 p-4 bg-ink-800/40 rounded-lg border border-ink-700/40">
+                    {/* Mini cover */}
+                    <div class="shrink-0 w-20">
+                      {isSacred ? (
+                        <svg viewBox="0 0 120 170" class="w-full rounded shadow-sm" xmlns="http://www.w3.org/2000/svg">
+                          <rect width="120" height="170" rx="2" fill="#2a1f15"/>
+                          <rect x="0" y="0" width="6" height="170" fill="rgba(0,0,0,0.3)" rx="2"/>
+                          <rect x="10" y="12" width="100" height="146" rx="1" fill="none" stroke="#b8860b" stroke-width="0.5" opacity="0.4"/>
+                          {origChar && <text x="60" y="85" text-anchor="middle" font-family="'Scheherazade New', serif" font-size="24" fill="#b8860b" opacity="0.5">{origChar}</text>}
+                        </svg>
                       ) : (
-                        <span class="text-xs text-ink-600">Cost TBD</span>
+                        <svg viewBox="0 0 120 170" class="w-full rounded shadow-sm" xmlns="http://www.w3.org/2000/svg">
+                          <rect width="120" height="170" rx="2" fill="#1a2030"/>
+                          <rect x="0" y="0" width="6" height="170" fill="rgba(0,0,0,0.25)" rx="2"/>
+                          {[40,55,70,85,100,115,130].map(y => <line x1="14" y1={y} x2="112" y2={y} stroke="#334155" stroke-width="0.3" opacity="0.4"/>)}
+                          <line x1="22" y1="10" x2="22" y2="160" stroke="#ef444480" stroke-width="0.3"/>
+                        </svg>
                       )}
-                      <span class="text-xs text-gold-400 group-hover:text-gold-300">Sponsor this translation &rarr;</span>
                     </div>
-                  )}
+                    {/* Metadata */}
+                    <div class="flex-1 min-w-0">
+                      <div class="flex items-start justify-between gap-2 mb-2">
+                        <div>
+                          <h3 class="text-sm font-semibold text-ink-100">{w.title}</h3>
+                          {w.title_original && <div class="font-arabic text-ink-400 text-sm mt-0.5" dir="rtl">{w.title_original}</div>}
+                        </div>
+                        {isTranslated
+                          ? <span class="text-[10px] uppercase tracking-wider text-emerald-400 bg-emerald-400/10 px-1.5 py-0.5 rounded shrink-0">Translated</span>
+                          : <span class="text-[10px] uppercase tracking-wider text-gold-400/60 bg-gold-400/5 px-1.5 py-0.5 rounded shrink-0">Untranslated</span>
+                        }
+                      </div>
+                      {w.subject && <p class="text-xs text-ink-400 mb-2">{w.subject}</p>}
+                      <div class="flex flex-wrap gap-2 mb-3 text-[10px]">
+                        <span class="uppercase tracking-wider text-ink-500 bg-ink-700 px-1.5 py-0.5 rounded">
+                          {w.language === 'ar' ? 'Arabic' : 'Persian'}
+                        </span>
+                        {w.se_translation && <span class="uppercase tracking-wider text-gold-400 bg-gold-400/10 px-1.5 py-0.5 rounded">SE Corpus</span>}
+                        {w.has_english_translation && <span class="uppercase tracking-wider text-emerald-400 bg-emerald-400/10 px-1.5 py-0.5 rounded">Has English</span>}
+                        {w.volume && <span class="text-blue-400 bg-blue-400/10 px-1.5 py-0.5 rounded">Vol {w.volume}{w.volumes_total ? ` of ${w.volumes_total}` : ''}</span>}
+                        {w.translation_style === 'modern' && <span class="text-amber-400 bg-amber-400/10 px-1.5 py-0.5 rounded uppercase tracking-wider">Modern style</span>}
+                        {w.word_count && <span class="text-ink-500 font-mono">{w.word_count.toLocaleString()} words</span>}
+                        {w.date_composed && <span class="text-ink-600">{w.date_composed}</span>}
+                      </div>
+                      {w.source_preview && (
+                        <div class="manuscript" style="max-height: 80px;">
+                          <div class="manuscript-text text-xs leading-relaxed" style="line-height: 1.8;">{w.source_preview.slice(0, 250)}</div>
+                          <div class="manuscript-fade"></div>
+                        </div>
+                      )}
+                      <div class="mt-3 flex items-center gap-3">
+                        <a href={`/translations/${w.author_slug}/${w.doc_id}/`}
+                           class="text-xs text-gold-400 hover:text-gold-300">
+                          {isTranslated ? 'Read translation' : 'Sponsor this translation'} &rarr;
+                        </a>
+                        {w.source_url && (
+                          <a href={w.source_url} target="_blank" rel="noopener"
+                             class="text-xs text-ink-500 hover:text-ink-300">Source &nearr;</a>
+                        )}
+                      </div>
+                    </div>
+                  </div>
                 </div>
-              </a>
+              </div>
             );
           })}
         </div>
       </section>
     );
   })}
+
   <script is:inline>
+    let currentView = 'compact';
+
+    // View toggle
+    document.getElementById('view-compact').addEventListener('click', () => setView('compact'));
+    document.getElementById('view-expanded').addEventListener('click', () => setView('expanded'));
+
+    function setView(view) {
+      currentView = view;
+      const isCompact = view === 'compact';
+      // Toggle button states
+      document.querySelectorAll('.view-btn').forEach(btn => {
+        const active = btn.id === `view-${view}`;
+        btn.classList.toggle('bg-ink-700', active);
+        btn.classList.toggle('text-ink-200', active);
+        btn.classList.toggle('text-ink-500', !active);
+      });
+      // Toggle grid layout
+      document.querySelectorAll('.work-grid').forEach(grid => {
+        if (isCompact) {
+          grid.className = 'work-grid grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 gap-4';
+        } else {
+          grid.className = 'work-grid grid grid-cols-1 lg:grid-cols-2 gap-3';
+        }
+      });
+      // Toggle card views
+      document.querySelectorAll('.work-item').forEach(item => {
+        item.querySelector('.compact-view').classList.toggle('hidden', !isCompact);
+        item.querySelector('.expanded-view').classList.toggle('hidden', isCompact);
+      });
+    }
+
+    // Search filter
     const searchInput = document.getElementById('work-search');
     if (searchInput) {
       searchInput.addEventListener('input', (e) => {
@@ -126,5 +317,24 @@ const translatedCount = allWorks.filter(w => w.data.translation_status === 'comp
         });
       });
     }
+
+    // Category filter
+    document.querySelectorAll('.filter-btn').forEach(btn => {
+      btn.addEventListener('click', () => {
+        const filter = btn.dataset.filter;
+        document.querySelectorAll('.filter-btn').forEach(b => {
+          b.classList.toggle('bg-ink-700', b === btn);
+          b.classList.toggle('text-ink-200', b === btn);
+          b.classList.toggle('text-ink-500', b !== btn);
+        });
+        document.querySelectorAll('[data-author-section]').forEach(section => {
+          if (filter === 'all') {
+            section.style.display = '';
+          } else {
+            section.style.display = section.dataset.category === filter ? '' : 'none';
+          }
+        });
+      });
+    });
   </script>
 </Base>

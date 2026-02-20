@@ -153,6 +153,7 @@ onMount(() => {
 });
 </script>
 
+<span class="contents">
 {#if !loading}
 	{#if user}
 		<div class="relative" data-usermenu>
@@ -226,3 +227,4 @@ onMount(() => {
 		</div>
 	{/if}
 {/if}
+</span>
