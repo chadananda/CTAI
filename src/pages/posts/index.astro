@@ -1,0 +1,57 @@
+---
+import Base from '../../layouts/Base.astro';
+import { getCollection } from 'astro:content';
+
+let posts = [];
+try {
+  posts = await getCollection('posts');
+  posts.sort((a, b) => (b.data.date || '').localeCompare(a.data.date || ''));
+} catch {
+  // No posts yet
+}
+---
+
+<Base title="Posts" description="Articles, newsletters, and updates on AI-assisted translation of Arabic and Persian sacred texts.">
+  <div class="max-w-3xl mx-auto">
+    <header class="mb-10">
+      <h1 class="text-3xl font-light text-gold-100 tracking-tight mb-2">Posts</h1>
+      <p class="text-sm text-ink-400 leading-relaxed">
+        Technical deep-dives, translation discoveries, and weekly newsletters on AI-assisted scholarship.
+      </p>
+    </header>
+
+    {posts.length > 0 ? (
+      <div class="space-y-4">
+        {posts.map(post => (
+          <a href={`/posts/${post.id.replace(/\.md$/, '')}/`}
+             class="group block p-5 bg-ink-850 rounded-xl border border-ink-700/40 hover:border-gold-500/30 transition-all">
+            <div class="flex items-center gap-2 mb-1.5">
+              <h2 class="text-lg text-ink-100 group-hover:text-gold-300 transition-colors">{post.data.title}</h2>
+              {post.data.type === 'newsletter' && (
+                <span class="text-[9px] uppercase tracking-wider text-emerald-400 bg-emerald-400/10 px-1.5 py-0.5 rounded">Newsletter</span>
+              )}
+            </div>
+            {post.data.excerpt && (
+              <p class="text-sm text-ink-400 leading-relaxed line-clamp-2">{post.data.excerpt}</p>
+            )}
+            <div class="flex items-center gap-3 mt-3">
+              {post.data.author && (
+                <span class="text-[10px] text-ink-500 font-mono">{post.data.author}</span>
+              )}
+              {post.data.author && post.data.date && (
+                <span class="w-px h-3 bg-ink-700"></span>
+              )}
+              {post.data.date && (
+                <time class="text-[10px] text-ink-500 font-mono">{post.data.date}</time>
+              )}
+            </div>
+          </a>
+        ))}
+      </div>
+    ) : (
+      <div class="p-8 bg-ink-850 rounded-xl border border-ink-700/40 text-center">
+        <p class="text-ink-500">Posts coming soon.</p>
+      </div>
+    )}
+  </div>
+</Base>

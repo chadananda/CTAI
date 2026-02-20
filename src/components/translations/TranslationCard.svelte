@@ -46,14 +46,14 @@ let fundingProgress = $derived(
         <div class="w-full bg-ink-700 rounded-full h-1.5">
           <div class="h-1.5 rounded-full bg-gold-400 transition-all" style="width: {fundingProgress}%"></div>
         </div>
-        <a href="/translate" class="inline-block mt-2 text-xs text-gold-400 hover:text-gold-300 underline underline-offset-2">
+        <a href="/translations/" class="inline-block mt-2 text-xs text-gold-400 hover:text-gold-300 underline underline-offset-2">
           Sponsor this translation
         </a>
       </div>
     {:else if work.estimated_cost_usd}
       <div class="mt-3">
         <span class="text-xs text-ink-500">Est. cost: ${work.estimated_cost_usd.toFixed(0)}</span>
-        <a href="/translate" class="ml-2 text-xs text-gold-400 hover:text-gold-300 underline underline-offset-2">
+        <a href="/translations/" class="ml-2 text-xs text-gold-400 hover:text-gold-300 underline underline-offset-2">
           Sponsor translation
         </a>
       </div>

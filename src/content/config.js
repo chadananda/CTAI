@@ -69,17 +69,25 @@ const works = defineCollection({
     volumes_total: z.union([z.number(), z.string()]).nullable().optional(),
     date_composed: z.string().nullable().optional(),
     source_format: z.string().nullable().optional(),
+    description: z.string().nullable().optional(),
+    phelps_id: z.string().nullable().optional(),
+    subjects: z.array(z.string()).optional(),
+    is_best_known: z.boolean().optional(),
+    author_bio: z.string().nullable().optional(),
+    cover_image: z.string().nullable().optional(),
+    title_english: z.string().nullable().optional(),
   }),
 });
 
-const articles = defineCollection({
+const posts = defineCollection({
   type: 'content',
   schema: z.object({
     title: z.string(),
     date: z.string().optional(),
     author: z.string().optional(),
     excerpt: z.string().optional(),
+    type: z.enum(['article', 'newsletter']).optional().default('article'),
   }),
 });
 
-export const collections = { corpus, works, articles };
+export const collections = { corpus, works, posts };
