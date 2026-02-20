@@ -171,6 +171,7 @@ const translatedWorks = allWorks.filter(w => w.data.translation_status === 'comp
                          translated: isTranslated,
                        })}>
                     <div class="flex items-start gap-2">
+                      {w.is_best_known && <span class="shrink-0 text-gold-500 text-[10px] mt-0.5 ml-auto order-last" title="Best-Known Work">&#9733;</span>}
                       {w.cover_image ? (
                         <img src={w.cover_image}
                              alt={w.title}
@@ -182,7 +183,6 @@ const translatedWorks = allWorks.filter(w => w.data.translation_status === 'comp
                              role="img" aria-label={w.title}>
                           <rect width="40" height="56" rx="2" fill={isSacred ? '#2a1f15' : '#1a2030'}/>
                           <rect x="0" y="0" width="2.5" height="56" fill="rgba(0,0,0,0.25)" rx="1"/>
-                          {w.is_best_known && <polygon points="37,0 40,0 40,8 38.5,6 37,8" fill="#b8860b" opacity="0.7"/>}
                           <text x="21" y="28" text-anchor="middle" dominant-baseline="central"
                                 font-family="'Scheherazade New',serif" font-size="14"
                                 fill={isSacred ? '#b8860b' : '#60a5fa'} opacity="0.5">
@@ -192,7 +192,7 @@ const translatedWorks = allWorks.filter(w => w.data.translation_status === 'comp
                       )}
                       <div class="min-w-0 flex-1">
                         <div class="text-[11px] text-ink-200 leading-snug group-hover:text-ink-100 transition-colors line-clamp-1">
-                          {w.is_best_known && <span class="text-gold-500 mr-0.5">&#9733;</span>}{w.title}{w.volume ? ` (vol. ${w.volume})` : ''}
+                          {w.title}{w.volume ? ` (vol. ${w.volume})` : ''}
                         </div>
                         {w.title_english && (
                           <div class="text-[10px] text-ink-400 italic leading-snug truncate">{w.title_english}</div>
