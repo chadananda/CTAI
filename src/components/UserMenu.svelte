@@ -183,10 +183,10 @@ onMount(() => {
 						Dashboard
 					</a>
 					<a
-						href="/translate"
+						href="/try"
 						class="block px-3 py-2 text-xs font-mono text-ink-300 hover:bg-ink-700/50 rounded"
 					>
-						Translate
+						Try it
 					</a>
 					{#if user.isAdmin}
 						<a

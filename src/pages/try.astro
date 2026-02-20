@@ -1,0 +1,98 @@
+---
+export const prerender = false;
+import Base from '../layouts/Base.astro';
+import JafarSearch from '../components/JafarSearch.svelte';
+import TranslateWorkspace from '../components/translate/TranslateWorkspace.svelte';
+---
+
+<Base title="Try it" description="Try CTAI's concordance research and committee translation tools with canned examples.">
+  <div class="text-center mb-8">
+    <h1 class="text-2xl font-serif text-ink-100 mb-2">Try CTAI</h1>
+    <p class="text-sm text-ink-400 max-w-xl mx-auto leading-relaxed">
+      Explore our concordance research assistant and committee translation system with live examples.
+    </p>
+  </div>
+
+  <!-- Tab switcher -->
+  <div class="flex justify-center mb-8" id="tab-bar">
+    <div class="inline-flex bg-ink-800/60 border border-ink-700/40 rounded-lg p-1 gap-1">
+      <button
+        data-tab="concordance"
+        class="tab-btn px-4 py-2 text-xs font-mono rounded-md transition-all bg-ink-700 text-gold-400"
+      >
+        Concordance
+      </button>
+      <button
+        data-tab="translate"
+        class="tab-btn px-4 py-2 text-xs font-mono rounded-md transition-all text-ink-400 hover:text-ink-200"
+      >
+        Translate
+      </button>
+    </div>
+  </div>
+
+  <!-- Concordance panel -->
+  <div id="panel-concordance">
+    <div class="text-center mb-5">
+      <div class="inline-flex items-center gap-3 mb-2">
+        <div class="inline-flex items-center justify-center w-10 h-10 rounded-lg bg-ink-800 border border-ink-700/60">
+          <span class="text-gold-400 text-lg font-mono font-bold">J</span>
+        </div>
+        <h2 class="text-xl font-serif text-ink-100">Jafar <span class="text-ink-500 font-light">&mdash; Research Assistant</span></h2>
+      </div>
+      <p class="text-sm text-ink-300 max-w-xl mx-auto leading-relaxed">
+        The key to good AI translation is to inject good examples into the context.
+        Jafar does exactly that, adding relevant extracts from Shoghi Effendi&rsquo;s translations into the deliberation.
+      </p>
+    </div>
+    <JafarSearch client:only="svelte" />
+    <div class="mt-8 max-w-2xl mx-auto text-center">
+      <p class="text-xs text-ink-500 leading-relaxed">
+        Looks up terms across 12 Shoghi Effendi translations, tracing each word to its trilateral root
+        and showing every rendering the Guardian chose. Pre-computed concordance &mdash; instant results.
+      </p>
+    </div>
+  </div>
+
+  <!-- Translate panel -->
+  <div id="panel-translate" class="hidden">
+    <div class="text-center mb-5">
+      <div class="inline-flex items-center gap-3 mb-2">
+        <div class="inline-flex items-center justify-center w-10 h-10 rounded-lg bg-ink-800 border border-gold-500/30">
+          <span class="text-gold-400 text-lg font-serif font-bold">&xi;</span>
+        </div>
+        <h2 class="text-xl font-serif text-ink-100">Committee Translation</h2>
+      </div>
+      <p class="text-sm text-ink-300 max-w-xl mx-auto leading-relaxed">
+        Three AI translators deliberate in rounds, guided by Jafar&rsquo;s concordance data,
+        to produce a committee-quality rendering of Arabic and Persian sacred texts.
+      </p>
+    </div>
+    <TranslateWorkspace client:only="svelte" />
+  </div>
+
+  <script is:inline>
+    const tabs = document.querySelectorAll('.tab-btn');
+    const panels = {
+      concordance: document.getElementById('panel-concordance'),
+      translate: document.getElementById('panel-translate'),
+    };
+    tabs.forEach(btn => {
+      btn.addEventListener('click', () => {
+        const target = btn.dataset.tab;
+        tabs.forEach(t => {
+          if (t.dataset.tab === target) {
+            t.classList.add('bg-ink-700', 'text-gold-400');
+            t.classList.remove('text-ink-400', 'hover:text-ink-200');
+          } else {
+            t.classList.remove('bg-ink-700', 'text-gold-400');
+            t.classList.add('text-ink-400', 'hover:text-ink-200');
+          }
+        });
+        Object.entries(panels).forEach(([key, el]) => {
+          el.classList.toggle('hidden', key !== target);
+        });
+      });
+    });
+  </script>
+</Base>
