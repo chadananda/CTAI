@@ -4,33 +4,9 @@ import Base from '../../layouts/Base.astro';
 import { getCollection } from 'astro:content';
 const allWorks = await getCollection('works');
 
-const CHARS_PER_WORD = { ar: 4.5, fa: 5 };
-const CHARS_PER_PARA = { ar: 400, fa: 450 };
-const COST_PER_PARA = { seg: 0.20, research: 0.05, trans: 0.75, assembly: 0.05 };
-const CUSHION = 1.5;
-const TOTAL_PER_PARA = (COST_PER_PARA.seg + COST_PER_PARA.research + COST_PER_PARA.trans + COST_PER_PARA.assembly) * CUSHION;
+import { estimateCost, fmtCost } from '../../lib/cost-estimate.js';
 
-function estimateCost(w) {
-  if (!w.word_count) return null;
-  const lang = w.language || 'ar';
-  const chars = w.word_count * (CHARS_PER_WORD[lang] || 4.5);
-  const paras = Math.max(1, Math.ceil(chars / (CHARS_PER_PARA[lang] || 400)));
-  return {
-    paras,
-    seg: Math.round(paras * COST_PER_PARA.seg * CUSHION * 100) / 100,
-    trans: Math.round(paras * (COST_PER_PARA.research + COST_PER_PARA.trans + COST_PER_PARA.assembly) * CUSHION * 100) / 100,
-    total: Math.round(paras * TOTAL_PER_PARA * 100) / 100,
-  };
-}
-
-function fmtCost(n) { return n < 1 ? `${Math.round(n * 100)}¢` : `$${n.toFixed(0)}`; }
-function fmtSize(n) {
-  if (!n) return '?';
-  if (n >= 1000) return `${(n / 1000).toFixed(n >= 10000 ? 0 : 1)}k`;
-  return String(n);
-}
-
-const MIN_2ROW = 6;
+const MIN_3ROW = 9;
 const byAuthor = new Map();
 for (const entry of allWorks) {
   const a = entry.data.author;
@@ -123,7 +99,7 @@ const translatedWorks = allWorks.filter(w => w.data.translation_status === 'comp
         const slug = works[0].author_slug;
         const category = works[0].category || 'sacred';
         const isSacred = category === 'sacred';
-        const hasOverflow = works.length > MIN_2ROW;
+        const hasOverflow = works.length > MIN_3ROW;
         return (
           <section class="mb-8" id={slug} data-author-section data-category={category}>
             <div class="flex items-baseline gap-2 mb-3 border-b border-ink-800/60 pb-1.5">
@@ -135,7 +111,7 @@ const translatedWorks = allWorks.filter(w => w.data.translation_status === 'comp
                 const isTranslated = w.translation_status === 'complete';
                 const searchText = [w.title, w.title_english, w.title_original, w.subject, w.description, ...(w.subjects || [])].filter(Boolean).join(' ');
                 return (
-                  <div class="work-card group cursor-pointer px-2 py-1.5 rounded-lg border border-ink-700/30 bg-ink-800/20 hover:border-ink-600/50 hover:bg-ink-800/40 transition-colors"
+                  <div class="work-card group cursor-pointer px-1 pt-1 pb-0.5 rounded-lg border border-ink-700/30 bg-ink-800/20 hover:border-ink-600/50 hover:bg-ink-800/40 transition-colors"
                        data-work-card
                        data-idx={i}
                        data-category={w.category || 'sacred'}
@@ -171,16 +147,15 @@ const translatedWorks = allWorks.filter(w => w.data.translation_status === 'comp
                          est: w.est,
                          translated: isTranslated,
                        })}>
-                    <div class="flex items-start gap-2">
-                      {w.is_best_known && <span class="shrink-0 text-gold-500 text-[10px] mt-0.5 ml-auto order-last" title="Best-Known Work">&#9733;</span>}
+                    <div class="flex items-start gap-1.5">
                       {w.cover_image ? (
                         <img src={w.cover_image}
                              alt={w.title}
-                             width="24" height="34"
+                             width="43" height="60"
                              loading="lazy"
-                             class="shrink-0 rounded-sm bg-ink-800 object-cover mt-0.5"/>
+                             class="shrink-0 rounded-sm bg-ink-800 object-contain" style="width:43px;height:60px;"/>
                       ) : (
-                        <svg viewBox="0 0 40 56" class="shrink-0 w-6 h-[34px] rounded-sm mt-0.5" xmlns="http://www.w3.org/2000/svg"
+                        <svg viewBox="0 0 40 56" width="43" height="60" class="shrink-0 rounded-sm" style="width:43px;height:60px;" xmlns="http://www.w3.org/2000/svg"
                              role="img" aria-label={w.title}>
                           <rect width="40" height="56" rx="2" fill={isSacred ? '#2a1f15' : '#1a2030'}/>
                           <rect x="0" y="0" width="2.5" height="56" fill="rgba(0,0,0,0.25)" rx="1"/>
@@ -192,21 +167,31 @@ const translatedWorks = allWorks.filter(w => w.data.translation_status === 'comp
                         </svg>
                       )}
                       <div class="min-w-0 flex-1">
-                        <div class="text-[11px] text-ink-200 leading-snug group-hover:text-ink-100 transition-colors line-clamp-1">
-                          {w.title}{w.volume ? ` (vol. ${w.volume})` : ''}
+                        <div class="flex items-center gap-1">
+                          <span class="text-[11px] text-ink-200 leading-snug group-hover:text-ink-100 transition-colors truncate">
+                            {w.title}
+                          </span>
+                          <span class="flex-1"></span>
+                          {w.is_best_known && <span class="shrink-0 text-gold-500 text-[10px]" title="Best-Known Work">&#9733;</span>}
                         </div>
                         {w.title_english && (
                           <div class="text-[10px] text-ink-400 italic leading-snug truncate">{w.title_english}</div>
                         )}
-                        <div class="flex items-center justify-between mt-0.5">
-                          <div class="flex items-center gap-1.5">
-                            {isTranslated && <span class="text-[8px] text-emerald-400 uppercase tracking-wider">done</span>}
+                        <div class="card-bottom-row">
+                          <div class="min-w-0 overflow-hidden text-left">
+                            {w.title_original ? (
+                              <span class="font-arabic text-[13px] text-ink-300 block truncate leading-relaxed">{w.title_original}</span>
+                            ) : isTranslated ? (
+                              <span class="text-[8px] text-emerald-400 uppercase tracking-wider">done</span>
+                            ) : null}
                           </div>
-                          {w.est && (
-                            <span class="text-[9px] font-mono text-ink-400">
-                              {w.est.paras} pages, ~&thinsp;<span class="text-gold-400/80">{fmtCost(w.est.total)}</span>
-                            </span>
-                          )}
+                          <div class="shrink-0">
+                            {w.est && (
+                              <span class="text-[9px] font-mono text-ink-400 whitespace-nowrap">
+                                {w.est.paras}&thinsp;pg ~<span class="text-gold-400/80">{fmtCost(w.est.total)}</span>
+                              </span>
+                            )}
+                          </div>
                         </div>
                       </div>
                     </div>
@@ -282,6 +267,8 @@ const translatedWorks = allWorks.filter(w => w.data.translation_status === 'comp
           <a data-slot="action-btn"
              class="inline-flex items-center gap-1.5 px-4 py-2 text-xs font-mono bg-gold-400/10 border border-gold-500/40 text-gold-400 rounded-lg hover:bg-gold-400/20 transition-colors">
           </a>
+          <a data-slot="detail-link"
+             class="text-xs text-ink-400 hover:text-ink-200 transition-colors">View details &#8594;</a>
           <a data-slot="source-link" target="_blank" rel="noopener"
              class="text-xs text-ink-500 hover:text-ink-300 transition-colors hidden"></a>
         </div>
@@ -434,6 +421,10 @@ const translatedWorks = allWorks.filter(w => w.data.translation_status === 'comp
         actionBtn.href = '/translations/' + data.author_slug + '/' + data.doc_id + '/';
       }
 
+      // Detail page link
+      var detailLink = panel.querySelector('[data-slot="detail-link"]');
+      detailLink.href = '/translations/' + data.author_slug + '/' + data.doc_id + '/';
+
       // Source link
       var srcLink = panel.querySelector('[data-slot="source-link"]');
       if (data.source_url) {
@@ -561,9 +552,16 @@ const translatedWorks = allWorks.filter(w => w.data.translation_status === 'comp
 
   <style>
     .bookshelf-clamped {
-      /* Cards: ~60px per row (title + subtitle + pages line + padding). 2 rows + gap. */
-      max-height: 9.5rem;
+      /* Cards: ~66px per row (thumbnail 60px + pt-1 pb-0.5). 3 rows + 2 gaps. */
+      max-height: 13rem;
       overflow: hidden;
+    }
+    .card-bottom-row {
+      display: grid;
+      grid-template-columns: 1fr auto;
+      align-items: end;
+      gap: 0.25rem;
+      margin-top: 0;
     }
   </style>
 </Base>
