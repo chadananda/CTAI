@@ -25,6 +25,10 @@ export async function GET({ params, locals }) {
     const phases = await db.prepare(
       'SELECT phase, agent_role, round, tokens_in, tokens_out, cost_usd, created_at FROM job_phases WHERE job_id = ? ORDER BY created_at'
     ).bind(jobId).all();
+    // Get block-level progress
+    const blocks = await db.prepare(
+      'SELECT id, block_index, status, delib_round, cost_usd FROM job_blocks WHERE job_id = ? ORDER BY block_index'
+    ).bind(jobId).all();
     // Get latest output if complete
     let output = null;
     if (job.status === 'complete') {
@@ -45,12 +49,21 @@ export async function GET({ params, locals }) {
         estimatedCost: job.estimated_cost_usd,
         actualCost: job.actual_cost_usd,
         totalTokens: job.total_tokens,
+        totalBlocks: job.total_blocks || 0,
+        blocksDone: job.blocks_done || 0,
         delibRound: job.delib_round,
         errorMessage: job.error_message,
         createdAt: job.created_at,
         startedAt: job.started_at,
         completedAt: job.completed_at,
       },
+      blocks: (blocks.results || []).map(b => ({
+        id: b.id,
+        index: b.block_index,
+        status: b.status,
+        delibRound: b.delib_round,
+        cost: b.cost_usd,
+      })),
       phases: phases.results,
       output,
     }), {

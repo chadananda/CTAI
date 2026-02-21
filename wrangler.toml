@@ -25,6 +25,6 @@ id = "a3122683c8484bda94c2db009130648f"
 binding = "TRANSLATIONS_BUCKET"
 bucket_name = "ctai-translations"
 
-[[queues.producers]]
-binding = "TRANSLATION_QUEUE"
-queue = "ctai-translations"
+[[services]]
+binding = "PIPELINE_WORKER"
+service = "ctai-translation-pipeline"

@@ -39,7 +39,8 @@ export async function onRequest({ request, locals, url }, next) {
     || url.pathname.startsWith('/api/research')
     || url.pathname === '/api/billing/webhook'
     || (request.method === 'GET' && url.pathname.startsWith('/api/translations'))
-    || (request.method === 'GET' && url.pathname.startsWith('/api/sponsorships'));
+    || (request.method === 'GET' && url.pathname.startsWith('/api/sponsorships'))
+    || (request.method === 'GET' && url.pathname === '/api/email/unsubscribe');
   if (isPublicApi) {
     return next();
   }

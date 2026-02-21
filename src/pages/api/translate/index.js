@@ -32,10 +32,14 @@ export async function POST({ request, locals }) {
       `INSERT INTO translation_jobs (id, user_id, source_text, source_lang, style, status, estimated_cost_usd, stripe_payment_id, work_title, work_id)
        VALUES (?, ?, ?, ?, ?, 'paid', ?, ?, ?, ?)`
     ).bind(jobId, user.id, text, lang, style, estimate.totalCost, stripePaymentId || null, workTitle || null, workId || null).run();
-    // Enqueue first pipeline step
-    const queue = locals.runtime?.env?.TRANSLATION_QUEUE;
-    if (queue) {
-      await queue.send({ jobId, step: 'segment_phrases' });
+    // Trigger pipeline via Service Binding
+    const pipeline = locals.runtime?.env?.PIPELINE_WORKER;
+    if (pipeline) {
+      await pipeline.fetch('https://pipeline/start', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ jobId, text, lang, style, userEmail: user.email }),
+      });
     }
     return new Response(JSON.stringify({ jobId, estimate }), {
       status: 201, headers: { 'Content-Type': 'application/json' },

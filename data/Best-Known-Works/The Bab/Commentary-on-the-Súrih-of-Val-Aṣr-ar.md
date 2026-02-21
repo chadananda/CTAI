@@ -1,5 +1,6 @@
 ---
-title: "Commentary on the Súrih of Va'l-'Aṣr"
+title: "Tafsír-i-Súriy-i-Va'l-'Aṣr (Commentary on the Súrih of Va'l-'Aṣr)"
+title_english: "Commentary on the Súrih of Va'l-'Aṣr"
 title_original: "تفسير سوره و العصر"
 author: "The Bab"
 language: "ar"

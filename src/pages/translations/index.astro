@@ -80,7 +80,7 @@ const translatedWorks = allWorks.filter(w => w.data.translation_status === 'comp
     <!-- Main content -->
     <div class="flex-1 min-w-0">
       <div class="mb-8">
-        <h1 class="text-2xl font-semibold text-ink-100 mb-3">Translations</h1>
+        <h1 class="text-2xl font-semibold text-ink-100 mb-3">Some Documents to Translate</h1>
         <p class="text-ink-400 text-sm leading-relaxed max-w-2xl mb-2">
           Here are a whole bunch of sacred tablets, prayers, and scholarly works in Arabic and Persian &mdash;
           many of which have never been properly translated into English. Each one can be translated by our
@@ -215,63 +215,64 @@ const translatedWorks = allWorks.filter(w => w.data.translation_status === 'comp
   <!-- Expansion panel template -->
   <template id="expand-tpl">
     <div class="expand-panel overflow-hidden transition-all duration-300 ease-out" style="max-height:0;opacity:0;">
-      <div class="px-4 py-3 my-1.5 bg-ink-800/50 rounded-lg border border-ink-700/30">
-        <div class="flex items-start justify-between gap-3 mb-2">
-          <div class="flex items-start gap-4 min-w-0 flex-1">
-            <!-- Large floating thumbnail -->
+      <div class="my-1.5 bg-ink-800/50 rounded-lg border border-ink-700/30 overflow-hidden">
+        <!-- Clickable area linking to detail page -->
+        <a data-slot="detail-link" class="block px-4 py-3 hover:bg-ink-700/30 transition-colors cursor-pointer" style="text-decoration:none;color:inherit;">
+          <!-- Top row: cover + metadata side by side -->
+          <div class="flex items-start gap-4 mb-2">
+            <!-- Cover -->
             <div data-slot="large-thumb" class="shrink-0 hidden sm:block"></div>
-            <div class="min-w-0">
-              <h3 class="text-base font-semibold text-ink-100" data-slot="title"></h3>
-              <div class="text-sm text-ink-400 italic" data-slot="title-english" style="display:none;"></div>
-              <div class="font-arabic text-ink-400 text-sm mt-0.5" dir="rtl" data-slot="title-orig"></div>
+
+            <!-- Right column: title, description, tags -->
+            <div class="min-w-0 flex-1">
+              <div class="flex items-start justify-between gap-2 mb-1">
+                <div class="min-w-0">
+                  <h3 class="text-base font-semibold text-ink-100" data-slot="title"></h3>
+                  <div class="text-sm text-ink-400 italic" data-slot="title-english" style="display:none;"></div>
+                  <div class="font-arabic text-ink-400 text-sm mt-0.5" dir="rtl" data-slot="title-orig"></div>
+                </div>
+                <button class="expand-close shrink-0 w-6 h-6 flex items-center justify-center rounded text-ink-500 hover:text-ink-200 hover:bg-ink-700/50 transition-colors" aria-label="Close">
+                  <svg class="w-3 h-3" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 4l8 8M12 4l-8 8"/></svg>
+                </button>
+              </div>
+
+              <div data-slot="desc-wrap" class="hidden mb-1.5">
+                <p class="text-[13px] text-ink-300 leading-relaxed" data-slot="description"></p>
+              </div>
+
+              <div class="flex flex-wrap items-center gap-1.5 mb-1.5">
+                <div data-slot="best-known" class="hidden">
+                  <span class="inline-flex items-center gap-1 text-[10px] text-gold-400 bg-gold-400/10 border border-gold-500/20 px-2 py-0.5 rounded-full">
+                    &#9733; Best-Known Work
+                  </span>
+                </div>
+                <span data-slot="tags" class="contents"></span>
+              </div>
+
+              <div data-slot="subjects-wrap" class="hidden mb-1">
+                <div class="flex flex-wrap gap-1" data-slot="subjects"></div>
+              </div>
+
+              <div data-slot="bio-wrap" class="hidden mb-1 pl-3 border-l-2 border-ink-700/40">
+                <p class="text-xs text-ink-500 italic leading-relaxed" data-slot="author-bio"></p>
+              </div>
             </div>
           </div>
-          <button class="expand-close shrink-0 w-6 h-6 flex items-center justify-center rounded text-ink-500 hover:text-ink-200 hover:bg-ink-700/50 transition-colors" aria-label="Close">
-            <svg class="w-3 h-3" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 4l8 8M12 4l-8 8"/></svg>
-          </button>
-        </div>
 
-        <div data-slot="best-known" class="hidden mb-2">
-          <a href="https://oceanoflights.org/best-known-works/" target="_blank" rel="noopener"
-             class="inline-flex items-center gap-1 text-[10px] text-gold-400 bg-gold-400/10 border border-gold-500/20 px-2 py-0.5 rounded-full hover:bg-gold-400/20 transition-colors">
-            &#9733; Best-Known Work &#8599;
-          </a>
-        </div>
+          <!-- Full-width: source text preview directly below cover -->
+          <div class="manuscript" style="max-height:9.5rem;" data-slot="preview-wrap">
+            <div class="manuscript-text text-sm leading-relaxed" style="line-height:1.8;color:rgba(226,173,68,0.55);" data-slot="preview"></div>
+            <div class="manuscript-fade"></div>
+          </div>
+        </a>
 
-        <div data-slot="desc-wrap" class="hidden mb-2">
-          <p class="text-sm text-ink-300 leading-relaxed" data-slot="description"></p>
-        </div>
-
-        <div data-slot="subjects-wrap" class="hidden mb-2">
-          <div class="flex flex-wrap gap-1.5" data-slot="subjects"></div>
-        </div>
-
-        <div data-slot="bio-wrap" class="hidden mb-2 pl-3 border-l-2 border-ink-700/40">
-          <p class="text-xs text-ink-500 italic leading-relaxed" data-slot="author-bio"></p>
-        </div>
-
-        <div class="flex flex-wrap gap-1.5 mb-2" data-slot="tags"></div>
-
-        <div class="manuscript mb-2" style="max-height:80px;" data-slot="preview-wrap">
-          <div class="manuscript-text text-xs leading-relaxed" style="line-height:1.8;" data-slot="preview"></div>
-          <div class="manuscript-fade"></div>
-        </div>
-
-        <div class="flex flex-wrap gap-4 mb-3 text-[11px]" data-slot="costs">
-          <div><span class="text-ink-500">Segmentation</span> <span class="font-mono text-ink-300" data-slot="cost-seg"></span></div>
-          <div><span class="text-ink-500">Translation</span> <span class="font-mono text-ink-300" data-slot="cost-trans"></span></div>
-          <div><span class="text-ink-500">Total</span> <span class="font-mono text-gold-400" data-slot="cost-total"></span></div>
-          <div><span class="text-ink-600 font-mono" data-slot="cost-paras"></span></div>
-        </div>
-
-        <div class="flex items-center gap-3">
+        <!-- Sponsor button — full width -->
+        <div class="px-4 py-3 border-t border-ink-700/30">
           <a data-slot="action-btn"
-             class="inline-flex items-center gap-1.5 px-4 py-2 text-xs font-mono bg-gold-400/10 border border-gold-500/40 text-gold-400 rounded-lg hover:bg-gold-400/20 transition-colors">
+             class="block text-center py-3 font-mono bg-gold-400/10 border border-gold-500/40 text-gold-400 rounded-lg hover:bg-gold-400/20 transition-colors">
+            <span class="text-sm" data-slot="action-label"></span>
+            <span class="block text-[11px] text-ink-500 mt-0.5" data-slot="action-detail"></span>
           </a>
-          <a data-slot="detail-link"
-             class="text-xs text-ink-400 hover:text-ink-200 transition-colors">View details &#8594;</a>
-          <a data-slot="source-link" target="_blank" rel="noopener"
-             class="text-xs text-ink-500 hover:text-ink-300 transition-colors hidden"></a>
         </div>
       </div>
     </div>
@@ -286,14 +287,14 @@ const translatedWorks = allWorks.filter(w => w.data.translation_status === 'comp
 
     function buildLargeThumb(data) {
       if (data.cover_image) {
-        return '<img src="https://18441963.imgix.net/ctai/' + data.doc_id + '.png?auto=format&fit=max&w=160" alt="' + (data.title || '') + '" width="80" height="112" class="w-20 h-28 rounded object-cover"/>';
+        return '<img src="https://18441963.imgix.net/ctai/' + data.doc_id + '.png?auto=format&fit=max&w=320" alt="' + (data.title || '') + '" width="160" height="224" style="width:160px;height:224px;" class="rounded object-cover"/>';
       }
       const isSacred = (data.category || 'sacred') === 'sacred';
       const fill = isSacred ? '#2a1f15' : '#1a2030';
       const accent = isSacred ? '#b8860b' : '#60a5fa';
       const ch = data.title_original ? data.title_original.charAt(0) : (data.language === 'ar' ? '\u0639' : '\u0641');
       const lines = (data.title_original || '').split(' ').slice(0, 3);
-      let svg = '<svg viewBox="0 0 80 112" class="w-20 h-28 rounded" xmlns="http://www.w3.org/2000/svg">';
+      let svg = '<svg viewBox="0 0 80 112" style="width:160px;height:224px;" class="rounded" xmlns="http://www.w3.org/2000/svg">';
       svg += '<rect width="80" height="112" rx="3" fill="' + fill + '"/>';
       svg += '<rect x="0" y="0" width="5" height="112" fill="rgba(0,0,0,0.3)" rx="2"/>';
       // Decorative line
@@ -395,16 +396,6 @@ const translatedWorks = allWorks.filter(w => w.data.translation_status === 'comp
         tagsEl.appendChild(span);
       });
 
-      // Costs
-      if (data.est) {
-        panel.querySelector('[data-slot="cost-seg"]').textContent = fmtCost(data.est.seg);
-        panel.querySelector('[data-slot="cost-trans"]').textContent = fmtCost(data.est.trans);
-        panel.querySelector('[data-slot="cost-total"]').textContent = fmtCost(data.est.total);
-        panel.querySelector('[data-slot="cost-paras"]').textContent = '~' + data.est.paras + ' paras';
-      } else {
-        panel.querySelector('[data-slot="costs"]').style.display = 'none';
-      }
-
       // Preview
       if (data.source_preview) {
         panel.querySelector('[data-slot="preview"]').textContent = data.source_preview.slice(0, 300);
@@ -412,33 +403,37 @@ const translatedWorks = allWorks.filter(w => w.data.translation_status === 'comp
         panel.querySelector('[data-slot="preview-wrap"]').style.display = 'none';
       }
 
-      // Action
+      // Action button with cost detail inside
       var actionBtn = panel.querySelector('[data-slot="action-btn"]');
+      var actionLabel = panel.querySelector('[data-slot="action-label"]');
+      var actionDetail = panel.querySelector('[data-slot="action-detail"]');
+      var detailUrl = '/translations/' + data.author_slug + '/' + data.doc_id + '/';
+      actionBtn.href = detailUrl;
       if (data.translated) {
-        actionBtn.textContent = 'Read Translation \u2192';
-        actionBtn.href = '/translations/' + data.author_slug + '/' + data.doc_id + '/';
+        actionLabel.textContent = 'Read Translation \u2192';
+        actionDetail.style.display = 'none';
       } else {
-        actionBtn.textContent = data.est ? 'Sponsor for ' + fmtCost(data.est.total) + ' \u2192' : 'Sponsor Translation \u2192';
-        actionBtn.href = '/translations/' + data.author_slug + '/' + data.doc_id + '/';
+        actionLabel.textContent = data.est ? 'Sponsor for ' + fmtCost(data.est.total) + ' \u2192' : 'Sponsor Translation \u2192';
+        if (data.est) {
+          actionDetail.textContent = '~' + data.est.paras + ' paras \u00b7 Seg ' + fmtCost(data.est.seg) + ' + Trans ' + fmtCost(data.est.trans);
+        } else {
+          actionDetail.style.display = 'none';
+        }
       }
 
-      // Detail page link
+      // Detail page link (the whole card body)
       var detailLink = panel.querySelector('[data-slot="detail-link"]');
-      detailLink.href = '/translations/' + data.author_slug + '/' + data.doc_id + '/';
+      detailLink.href = detailUrl;
 
-      // Source link
-      var srcLink = panel.querySelector('[data-slot="source-link"]');
-      if (data.source_url) {
-        srcLink.href = data.source_url;
-        srcLink.textContent = 'View original source \u2197';
-        srcLink.classList.remove('hidden');
-      }
-
-      // Close
+      // Close button — stop link navigation and panel toggle
       panel.querySelector('.expand-close').addEventListener('click', function(ev) {
         ev.stopPropagation();
+        ev.preventDefault();
         closePanel();
       });
+
+      // Stop action btn clicks from bubbling to card toggle
+      actionBtn.addEventListener('click', function(ev) { ev.stopPropagation(); });
 
       panel.style.gridColumn = '1 / -1';
       var parentGrid = card.closest('.grid');

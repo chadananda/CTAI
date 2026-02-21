@@ -1,5 +1,6 @@
 ---
-title: "Commentary on the Súrih of Kawthar"
+title: "Tafsír-i-Súratu'l-Kawthar (Commentary on the Súrih of Kawthar)"
+title_english: "Commentary on the Súrih of Kawthar"
 title_original: "تفسير سوره كوثر"
 author: "The Bab"
 language: "ar"

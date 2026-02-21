@@ -17,12 +17,20 @@ database_id = "e077c62e-353d-46fe-b6a5-82590113dc64"
 binding = "TRANSLATIONS_BUCKET"
 bucket_name = "ctai-translations"
 
-[[queues.consumers]]
-queue = "ctai-translations"
-max_batch_size = 1
-max_retries = 3
-dead_letter_queue = "ctai-translations-dlq"
+[[workflows]]
+name = "ctai-segment"
+binding = "SEGMENT_WORKFLOW"
+class_name = "SegmentWorkflow"
 
-[[queues.producers]]
-binding = "TRANSLATION_QUEUE"
-queue = "ctai-translations"
+[[workflows]]
+name = "ctai-block"
+binding = "BLOCK_WORKFLOW"
+class_name = "BlockWorkflow"
+
+[[workflows]]
+name = "ctai-finalize"
+binding = "FINALIZE_WORKFLOW"
+class_name = "FinalizeWorkflow"
+
+[triggers]
+crons = ["0 14 * * MON"]

@@ -47,7 +47,7 @@ Each level informs the next. You cannot reliably find paragraph breaks without f
 
 Before any translation begins, a dedicated Research Agent analyzes your source passage and identifies every theologically significant term, literary device, and structural pattern. It then searches the complete indexed corpus of Shoghi Effendi's translations — using both exact keyword matching and semantic similarity — to assemble a **Reference Packet**: a dossier of every relevant precedent, organized by term, with full surrounding context.
 
-For example, if your passage contains **عرفان** (*'Irfán*), the Research Agent searches the Jafar dictionary (1,671 roots, 19,440 indexed occurrences across 12 works) and finds that Shoghi Effendi rendered forms of this root (ع-ر-ف) in 121 different passages: as "knowledge" when it appears in a general epistemological sense ("The beginning of all things is the knowledge of God" — GWB §7), as "understanding" in mystical contexts ("the heaven of understanding hath been adorned" — P&M §160), and as "recognition" when it refers to recognizing the Manifestation ("the recognition of the truth" — GWB §608). The Reference Packet includes all of these instances with their surrounding paragraphs, so the translators can see *which sense applies to your passage*.
+For example, if your passage contains **عرفان** (*'Irfán*), the Research Agent searches the Jafar dictionary (1,671 roots, 19,440 indexed occurrences across 11 works) and finds that Shoghi Effendi rendered forms of this root (ع-ر-ف) in 121 different passages: as "knowledge" when it appears in a general epistemological sense ("The beginning of all things is the knowledge of God" — GWB §7), as "understanding" in mystical contexts ("the heaven of understanding hath been adorned" — P&M §160), and as "recognition" when it refers to recognizing the Manifestation ("the recognition of the truth" — GWB §608). The Reference Packet includes all of these instances with their surrounding paragraphs, so the translators can see *which sense applies to your passage*.
 
 ### 2. Three Translators Work Independently — Meet the Committee
 
@@ -193,7 +193,7 @@ A fair question. Modern language models *can* translate Arabic and Persian. But 
 
 **1. Training noise.** LLMs have been trained on millions of translations of varying quality. When you ask for a translation, you get an average — a rendering influenced by every amateur, every machine translation, every divergent scholarly tradition in the training data. Shoghi Effendi's translations are a tiny fraction of that corpus, and their distinctive voice is drowned out by sheer volume.
 
-**2. Context window limits.** Shoghi Effendi's complete translations span thousands of pages — 19,440 indexed root-form occurrences across 12 works. You cannot fit them into a context window. But you *can* index them in a structured dictionary (Jafar) and retrieve exactly the relevant precedents for any given passage. This is what the Research Agent does — it gives the translators access to the full corpus without needing to fit it in memory.
+**2. Context window limits.** Shoghi Effendi's complete translations span thousands of pages — 19,440 indexed root-form occurrences across 11 works. You cannot fit them into a context window. But you *can* index them in a structured dictionary (Jafar) and retrieve exactly the relevant precedents for any given passage. This is what the Research Agent does — it gives the translators access to the full corpus without needing to fit it in memory.
 
 **3. Single-perspective blindness.** A single prompt produces a single rendering with a single set of biases. The multi-agent deliberation process surfaces tensions that a single model would silently resolve — often incorrectly. When Dr. Hamilton and Dr. Bakri disagree, that disagreement *is the information*. It tells you exactly where the hard decisions are.
 
@@ -264,7 +264,7 @@ A fair question. Modern language models *can* translate Arabic and Persian. But 
 
 ## The Corpus
 
-CTAI is powered by a carefully prepared index of Shoghi Effendi's complete translations — the **Jafar dictionary** — containing 1,671 Arabic roots, 19,440 indexed occurrences, and 10,415 distinct English renderings drawn from 12 works (Gleanings, Epistle to the Son of the Wolf, Prayers & Meditations, Kitáb-i-Íqán, Will & Testament, Hidden Words, Fire Tablet, Kitáb-i-Ahd, Tablet of Ahmad, Tablet of Carmel, and Tablet of the Holy Mariner). The corpus pipeline includes:
+CTAI is powered by a carefully prepared index of Shoghi Effendi's complete translations — the **Jafar dictionary** — containing 1,671 Arabic roots, 19,440 indexed occurrences, and 10,415 distinct English renderings drawn from 11 works (Gleanings, Epistle to the Son of the Wolf, Prayers & Meditations, Kitáb-i-Íqán, Will & Testament, Hidden Words, Fire Tablet, Kitáb-i-Ahd, Tablet of Ahmad, Tablet of Carmel, and Tablet of the Holy Mariner). The corpus pipeline includes:
 
 - **DOCX parsing** with table-structure extraction and column-alignment verification
 - **Automated alignment checks** — script detection, length ratios, structural validation

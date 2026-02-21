@@ -26,8 +26,15 @@ const AUTHOR_SLUGS = {
 
 /** Normalize author names to use consistent Unicode curly quotes */
 const AUTHOR_CANONICAL = {
+  // Sacred authors
   "'Abdu'l-Bah\u00e1": "\u2018Abdu\u2019l-Bah\u00e1",
   "Baha'u'llah": "Bah\u00e1\u2019u\u2019ll\u00e1h",
+  "The Bab": "The B\u00e1b",
+  // Scholarly authors
+  "Dr. Ali-Murad Davudi": "Dr. \u2018Al\u00ed-Mur\u00e1d D\u00e1v\u00fad\u00ed",
+  "Mirza Asad'ullah Fadil Mazindarani": "M\u00edrz\u00e1 Asadu\u2019ll\u00e1h F\u00e1\u1E0Dil M\u00e1zindar\u00e1n\u00ed",
+  "Hasan Fu'adi Bushrui": "\u1E24asan Fu\u2019\u00e1d\u00ed Bushr\u00fa\u2019\u00ed",
+  "Aziz'ullah Sulaymani Ardakani": "\u2018Az\u00edzu\u2019ll\u00e1h Sulaym\u00e1n\u00ed Ardak\u00e1n\u00ed",
 };
 function canonicalAuthor(author) {
   return AUTHOR_CANONICAL[author] || author;
