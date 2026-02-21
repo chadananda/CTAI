@@ -1,0 +1,72 @@
+---
+import Base from '../../../layouts/Base.astro';
+import { suras } from '../../../lib/quran.js';
+import { estimateCost, fmtCost } from '../../../lib/cost-estimate.js';
+
+const meccan = suras.filter(s => s.type === 'Meccan');
+const medinan = suras.filter(s => s.type === 'Medinan');
+const totalVerses = suras.reduce((a, s) => a + s.ayas, 0);
+const totalWords = suras.reduce((a, s) => a + s.word_count, 0);
+---
+
+<Base title="The Qur'án — Translations" description="Browse all 114 suras of the Qur'án for committee translation in the style of Shoghi Effendi.">
+  <nav class="flex items-center gap-3 text-sm text-ink-500 mb-6">
+    <a href="/translations/" class="hover:text-ink-200">Translations</a>
+    <span class="text-ink-700">/</span>
+    <span class="text-ink-200">The Qur'án</span>
+  </nav>
+
+  <header class="rounded-xl bg-emerald-950/30 border border-emerald-800/30 p-8 mb-10">
+    <h1 class="text-3xl md:text-4xl font-display font-bold text-ink-100 mb-2">The Qur'án</h1>
+    <p class="text-ink-400 text-sm leading-relaxed max-w-2xl mb-4">
+      Have you ever wondered what a translation of the Qur'án might look like if Shoghi Effendi had done it?
+      We have passages of the Qur'án throughout the 11 translations of Shoghi Effendi which have a power
+      and resonance beyond any other in English. What if&hellip;
+    </p>
+
+    <div class="flex flex-wrap gap-2 text-xs font-mono mb-4">
+      <span class="px-2.5 py-1 rounded bg-emerald-900/40 text-emerald-300">114 Suras</span>
+      <span class="px-2.5 py-1 rounded bg-emerald-900/40 text-emerald-300">{totalVerses.toLocaleString()} Verses</span>
+      <span class="px-2.5 py-1 rounded bg-emerald-900/40 text-emerald-300">{totalWords.toLocaleString()} Words</span>
+      <span class="px-2.5 py-1 rounded bg-amber-900/40 text-amber-300">{meccan.length} Meccan</span>
+      <span class="px-2.5 py-1 rounded bg-sky-900/40 text-sky-300">{medinan.length} Medinan</span>
+    </div>
+
+    <p class="text-ink-500 text-xs leading-relaxed max-w-2xl">
+      Uthmani script &middot; Kufan verse numbering &middot; sourced from
+      <a href="https://tanzil.net" class="text-emerald-400/70 hover:text-emerald-400 transition-colors" target="_blank" rel="noopener noreferrer">Tanzil</a>
+    </p>
+  </header>
+
+  <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-3">
+    {suras.map(s => {
+      const est = estimateCost({ word_count: s.word_count, language: 'ar' });
+      return (
+        <a href={`/translations/quran/${s.slug}/`}
+           class="block p-4 bg-ink-800/40 rounded-lg border border-ink-700/40 hover:border-emerald-500/30 transition-colors">
+          <div class="flex items-start gap-3">
+            <span class="shrink-0 w-10 h-10 flex items-center justify-center rounded bg-emerald-900/30 border border-emerald-700/20 font-mono text-sm text-emerald-400/70">
+              {s.index}
+            </span>
+            <div class="min-w-0 flex-1">
+              <div class="font-semibold text-ink-100 text-sm mb-0.5">{s.tname}</div>
+              <div class="flex items-center gap-2">
+                <span class="text-[11px] text-ink-400 italic">{s.ename}</span>
+                <span class="font-arabic text-ink-500 text-sm">{s.name}</span>
+              </div>
+              <div class="flex items-center gap-2 mt-1.5">
+                <span class={`text-[8px] uppercase tracking-wider px-1 py-px rounded ${s.type === 'Meccan' ? 'text-amber-500/60 bg-amber-500/5' : 'text-sky-400/60 bg-sky-400/5'}`}>
+                  {s.type}
+                </span>
+                <span class="text-[10px] text-ink-600 font-mono">{s.ayas} verses</span>
+                {est && (
+                  <span class="text-[10px] font-mono text-ink-500">~<span class="text-emerald-400/70">{fmtCost(est.total)}</span></span>
+                )}
+              </div>
+            </div>
+          </div>
+        </a>
+      );
+    })}
+  </div>
+</Base>

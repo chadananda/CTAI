@@ -1,0 +1,238 @@
+---
+import Base from '../../../layouts/Base.astro';
+import { suras, suraSlug } from '../../../lib/quran.js';
+import { estimateCost, fmtCost } from '../../../lib/cost-estimate.js';
+
+export function getStaticPaths() {
+  return suras.map(s => ({
+    params: { sura: s.slug },
+    props: { sura: s },
+  }));
+}
+
+const { sura } = Astro.props;
+const est = estimateCost({ word_count: sura.word_count, language: 'ar' });
+
+// Prev/next navigation
+const idx = suras.findIndex(s => s.index === sura.index);
+const prev = idx > 0 ? suras[idx - 1] : null;
+const next = idx < suras.length - 1 ? suras[idx + 1] : null;
+
+function ordinal(n) {
+  const s = ['th','st','nd','rd'], v = n % 100;
+  return n + (s[(v-20)%10] || s[v] || s[0]);
+}
+---
+
+<Base title={`${sura.tname} — The Qur'án`} description={`Sura ${sura.index}: ${sura.tname} (${sura.ename}) — ${sura.ayas} verses, ${sura.type}. Sponsor a committee translation in the style of Shoghi Effendi.`}>
+  <nav class="flex items-center gap-3 text-sm text-ink-500 mb-6">
+    <a href="/translations/" class="hover:text-ink-200">Translations</a>
+    <span class="text-ink-700">/</span>
+    <a href="/translations/quran/" class="hover:text-ink-200">The Qur'án</a>
+    <span class="text-ink-700">/</span>
+    <span class="text-ink-200">{sura.tname}</span>
+  </nav>
+
+  <!-- Hero -->
+  <header class="rounded-xl bg-emerald-950/30 border border-emerald-800/30 p-8 mb-10">
+    <div class="float-right ml-6 mb-4">
+      <svg viewBox="0 0 160 224" class="w-48 md:w-56" xmlns="http://www.w3.org/2000/svg" role="img" aria-label={sura.tname}>
+        <rect width="160" height="224" rx="6" fill="#0f2518" />
+        <rect x="0" y="0" width="10" height="224" fill="rgba(0,0,0,0.3)" rx="3" />
+        <line x1="24" y1="32" x2="144" y2="32" stroke="#34d399" stroke-opacity="0.2" stroke-width="0.5" />
+        <line x1="24" y1="192" x2="144" y2="192" stroke="#34d399" stroke-opacity="0.2" stroke-width="0.5" />
+        <!-- Sura number -->
+        <text x="84" y="56" text-anchor="middle" dominant-baseline="central"
+              font-family="'Source Serif 4',serif" font-size="24"
+              fill="#34d399" opacity="0.6">
+          {sura.index}
+        </text>
+        <!-- Arabic name -->
+        <text x="84" y="100" text-anchor="middle" dominant-baseline="central"
+              font-family="'Scheherazade New',serif" font-size="36"
+              fill="#34d399" opacity="0.5">
+          {sura.name}
+        </text>
+        <!-- Transliterated name words -->
+        {sura.tname.split('-').slice(0, 3).map((word, i) => (
+          <text x="84" y={140 + i * 18} text-anchor="middle"
+                font-family="'Source Serif 4',serif" font-size="12"
+                fill="#34d399" opacity="0.25">
+            {word}
+          </text>
+        ))}
+      </svg>
+    </div>
+
+    <div class="flex items-center gap-3 mb-2">
+      <span class="text-2xl font-mono text-emerald-400/60">{sura.index}</span>
+      <h1 class="text-3xl md:text-4xl font-display font-bold italic text-ink-100">{sura.tname}</h1>
+    </div>
+    <p class="text-lg text-ink-400 italic mb-1">{sura.ename}</p>
+    <p class="font-arabic text-2xl text-ink-400 text-left mb-3">{sura.name}</p>
+
+    <div class="flex flex-wrap gap-2 text-xs font-mono mb-5">
+      <span class="px-2.5 py-1 rounded bg-emerald-900/40 text-emerald-300">Arabic</span>
+      <span class="px-2.5 py-1 rounded bg-emerald-900/40 text-emerald-300">{sura.ayas} verses</span>
+      <span class="px-2.5 py-1 rounded bg-emerald-900/40 text-emerald-300">{sura.word_count.toLocaleString()} words</span>
+      <span class={`px-2.5 py-1 rounded ${sura.type === 'Meccan' ? 'bg-amber-900/40 text-amber-300' : 'bg-sky-900/40 text-sky-300'}`}>
+        {sura.type}
+      </span>
+      <span class="px-2.5 py-1 rounded bg-ink-700/60 text-ink-400">Revelation #{sura.order}</span>
+      <span class="px-2.5 py-1 rounded bg-ink-700/60 text-ink-400">Awaiting Translation</span>
+    </div>
+
+    <div class="border-l-2 border-ink-600/30 pl-5">
+      <p class="text-[15px] text-ink-300/90 leading-[1.75] tracking-wide">
+        Sura {sura.index} of the Qur'án &mdash; <em>{sura.ename}</em> ({sura.name}).
+        A {sura.type} sura with {sura.ayas} verses, revealed {sura.order === 1 ? 'first' : `${ordinal(sura.order)}`} in the order of revelation.
+      </p>
+    </div>
+  </header>
+
+  <!-- Source text preview -->
+  {sura.preview && (
+    <div class="mb-10">
+      <h2 class="text-sm font-mono text-ink-500 uppercase tracking-wider mb-4">Source Text Preview</h2>
+      <div class="rounded-xl bg-ink-800/30 border border-ink-700/30 p-6 md:p-8 relative">
+        <p class="font-arabic text-xl md:text-2xl text-ink-400 leading-[2.6] text-right source-preview-clamp" dir="rtl" lang="ar">
+          {sura.preview}
+        </p>
+        <div class="source-preview-fade"></div>
+      </div>
+      <p class="text-sm text-ink-500 mt-3">
+        <a href={`https://tanzil.net/#${sura.index}:1`} target="_blank" rel="noopener noreferrer"
+           class="text-emerald-400/70 hover:text-emerald-400 transition-colors">
+          Read full text on Tanzil &nearr;
+        </a>
+      </p>
+    </div>
+  )}
+
+  <!-- Sponsor CTA -->
+  <div class="bg-ink-800/40 border border-emerald-500/20 rounded-xl p-6 md:p-8 mb-8">
+    <h2 class="text-xl font-display font-semibold text-ink-100 mb-3">Sponsor This Translation</h2>
+    <p class="text-sm text-ink-400 mb-6 max-w-2xl">
+      Help bring <span class="text-ink-200 italic">{sura.tname} ({sura.ename})</span> into English through
+      CTAI&rsquo;s committee translation process &mdash; three AI translators deliberating over multiple rounds,
+      guided by Shoghi Effendi&rsquo;s translation precedents from the Jafar concordance.
+    </p>
+
+    {est && (
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-6 mb-6">
+        <div>
+          <h3 class="text-xs font-mono text-ink-500 uppercase tracking-wider mb-3">Document Details</h3>
+          <dl class="space-y-2 text-sm">
+            <div class="flex justify-between">
+              <dt class="text-ink-500">Source language</dt>
+              <dd class="text-ink-300">Arabic</dd>
+            </div>
+            <div class="flex justify-between">
+              <dt class="text-ink-500">Word count</dt>
+              <dd class="text-ink-300 font-mono">{sura.word_count.toLocaleString()}</dd>
+            </div>
+            <div class="flex justify-between">
+              <dt class="text-ink-500">Estimated paragraphs</dt>
+              <dd class="text-ink-300 font-mono">~{est.paras}</dd>
+            </div>
+            <div class="flex justify-between">
+              <dt class="text-ink-500">Verses</dt>
+              <dd class="text-ink-300 font-mono">{sura.ayas}</dd>
+            </div>
+            <div class="flex justify-between">
+              <dt class="text-ink-500">Translation style</dt>
+              <dd class="text-ink-300">Shoghi Effendi</dd>
+            </div>
+          </dl>
+        </div>
+
+        <div>
+          <h3 class="text-xs font-mono text-ink-500 uppercase tracking-wider mb-3">Cost Estimate</h3>
+          <dl class="space-y-2 text-sm">
+            <div class="flex justify-between">
+              <dt class="text-ink-500">Segmentation <span class="text-ink-600">(4 passes)</span></dt>
+              <dd class="text-ink-300 font-mono">{fmtCost(est.seg)}</dd>
+            </div>
+            <div class="flex justify-between">
+              <dt class="text-ink-500">Jafar research</dt>
+              <dd class="text-ink-300 font-mono">{fmtCost(est.research)}</dd>
+            </div>
+            <div class="flex justify-between">
+              <dt class="text-ink-500">Translation <span class="text-ink-600">(3 translators &times; 2&ndash;3 rounds)</span></dt>
+              <dd class="text-ink-300 font-mono">{fmtCost(est.trans)}</dd>
+            </div>
+            <div class="flex justify-between">
+              <dt class="text-ink-500">Assembly &amp; review</dt>
+              <dd class="text-ink-300 font-mono">{fmtCost(est.assembly)}</dd>
+            </div>
+            <div class="flex justify-between border-t border-ink-700/40 pt-2 mt-2">
+              <dt class="text-ink-200 font-medium">Total estimate</dt>
+              <dd class="text-emerald-400 font-mono font-semibold text-base">{fmtCost(est.total)}</dd>
+            </div>
+          </dl>
+          <p class="text-[10px] text-ink-600 mt-2">Includes 50% buffer for retries and complex passages.</p>
+        </div>
+      </div>
+    )}
+
+    <a href="/translations/" class="inline-block px-5 py-2.5 text-sm font-mono bg-emerald-400/10 border border-emerald-500/40 text-emerald-400 rounded-lg hover:bg-emerald-400/20 transition-colors">
+      Sponsor Translation
+    </a>
+  </div>
+
+  <!-- What you get -->
+  <div class="grid grid-cols-1 md:grid-cols-3 gap-4 mb-8">
+    <div class="p-4 bg-ink-800/30 rounded-lg border border-ink-700/30">
+      <div class="text-emerald-400 text-sm font-mono mb-2">3 Translators</div>
+      <p class="text-xs text-ink-500">Three AI translators render independently, then deliberate over multiple rounds to reach consensus.</p>
+    </div>
+    <div class="p-4 bg-ink-800/30 rounded-lg border border-ink-700/30">
+      <div class="text-emerald-400 text-sm font-mono mb-2">Jafar Concordance</div>
+      <p class="text-xs text-ink-500">Every significant term is cross-referenced against Shoghi Effendi&rsquo;s translation precedents.</p>
+    </div>
+    <div class="p-4 bg-ink-800/30 rounded-lg border border-ink-700/30">
+      <div class="text-emerald-400 text-sm font-mono mb-2">3 PDF Formats</div>
+      <p class="text-xs text-ink-500">Side-by-side by paragraph, by sentence, and by sentence with scholarly notes.</p>
+    </div>
+  </div>
+
+  <!-- Prev/Next navigation -->
+  <div class="flex justify-between items-center border-t border-ink-800/60 pt-6 mt-6">
+    {prev ? (
+      <a href={`/translations/quran/${prev.slug}/`} class="text-sm text-ink-400 hover:text-emerald-400 transition-colors">
+        &larr; {prev.index}. {prev.tname}
+      </a>
+    ) : <span></span>}
+    {next ? (
+      <a href={`/translations/quran/${next.slug}/`} class="text-sm text-ink-400 hover:text-emerald-400 transition-colors">
+        {next.index}. {next.tname} &rarr;
+      </a>
+    ) : <span></span>}
+  </div>
+
+  <!-- Links -->
+  <div class="flex flex-wrap gap-4 text-sm mt-6">
+    <a href={`https://tanzil.net/#${sura.index}:1`} target="_blank" rel="noopener noreferrer"
+       class="text-emerald-400 hover:text-emerald-300 underline underline-offset-2">
+      View on Tanzil &nearr;
+    </a>
+  </div>
+</Base>
+
+<style>
+  .source-preview-clamp {
+    display: -webkit-box;
+    -webkit-line-clamp: 6;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+  .source-preview-fade {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 4rem;
+    background: linear-gradient(transparent, rgb(26 26 30 / 0.8));
+    pointer-events: none;
+  }
+</style>

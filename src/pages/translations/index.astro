@@ -6,6 +6,7 @@ import { coverUrl } from '../../lib/imgix.js';
 const allWorks = await getCollection('works');
 
 import { estimateCost, fmtCost } from '../../lib/cost-estimate.js';
+import { suras as quranSurasWithSlugs } from '../../lib/quran.js';
 
 const MIN_3ROW = 9;
 const byAuthor = new Map();
@@ -27,6 +28,32 @@ const sortedAuthors = [...byAuthor.keys()].sort((a, b) => {
   return (ai === -1 ? 99 : ai) - (bi === -1 ? 99 : bi);
 });
 const translatedWorks = allWorks.filter(w => w.data.translation_status === 'complete');
+
+// Map Qur'an suras to the same shape as work cards
+const qWorks = quranSurasWithSlugs.map(s => {
+  const w = {
+    title: s.tname,
+    title_english: s.ename,
+    title_original: s.name,
+    author: "The Qur\u2019\u00e1n",
+    author_slug: 'quran',
+    doc_id: s.slug,
+    language: 'ar',
+    category: 'islam',
+    subject: s.type,
+    word_count: s.word_count,
+    source_preview: s.preview,
+    source_url: `https://tanzil.net/#${s.index}:1`,
+    description: `Sura ${s.index} \u2014 ${s.ayas} verses \u2014 ${s.type}. Revelation order: ${s.order}.`,
+    subjects: [s.type, `${s.ayas} verses`, `Revelation #${s.order}`],
+    is_best_known: false,
+    cover_image: null,
+    sura_index: s.index,
+    sura_slug: s.slug,
+  };
+  w.est = estimateCost(w);
+  return w;
+});
 ---
 
 <Base title="Translate" description="Browse and sponsor translations of sacred tablets and scholarly works.">
@@ -57,6 +84,12 @@ const translatedWorks = allWorks.filter(w => w.data.translation_status === 'comp
                 </li>
               );
             })}
+            <li>
+              <a href="#quran" class="flex justify-between items-center text-xs text-ink-400 hover:text-emerald-400 transition-colors">
+                <span class="truncate">The Qur'án</span>
+                <span class="text-ink-600 font-mono text-[10px] ml-2">114</span>
+              </a>
+            </li>
           </ul>
         </nav>
         <div class="hidden lg:block">
@@ -209,6 +242,76 @@ const translatedWorks = allWorks.filter(w => w.data.translation_status === 'comp
           </section>
         );
       })}
+
+      <!-- Islam Section: Qur'an -->
+      <section class="mb-8 mt-12 pt-8 border-t border-ink-700/40" id="quran" data-author-section data-category="islam">
+        <div class="flex items-baseline gap-3 mb-2">
+          <h2 class="text-sm font-semibold text-ink-300">The Qur'án</h2>
+          <span class="text-[8px] uppercase tracking-wider text-emerald-400/50 bg-emerald-400/5 px-1 py-0.5 rounded">114 Suras · 6,236 Verses</span>
+        </div>
+        <p class="text-ink-400 text-xs leading-relaxed max-w-2xl mb-2">
+          Have you ever wondered what a translation of the Qur'án might look like if Shoghi Effendi had done it?
+          We have passages of the Qur'án throughout the 11 translations of Shoghi Effendi which have a power
+          and resonance beyond any other in English. What if&hellip;
+        </p>
+        <p class="text-ink-500 text-xs leading-relaxed max-w-2xl mb-3">
+          Uthmani script · Kufan verse numbering · sourced from
+          <a href="https://tanzil.net" class="text-gold-400/70 hover:text-gold-400 transition-colors">Tanzil</a>
+        </p>
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-1.5 bookshelf-clamped">
+          {qWorks.map((w, i) => {
+            const searchText = [w.title, w.title_english, w.title_original, w.subject, w.description, ...(w.subjects || [])].filter(Boolean).join(' ');
+            return (
+              <div class="work-card group cursor-pointer px-1 pt-1 pb-0.5 rounded-lg border border-ink-700/30 bg-ink-800/20 hover:border-ink-600/50 hover:bg-ink-800/40 transition-colors"
+                   data-work-card
+                   data-idx={i}
+                   data-category="islam"
+                   data-title={searchText}
+                   data-doc-id={w.doc_id}
+                   data-sacred="0"
+                   data-translated="0"
+                   data-json={JSON.stringify({
+                     ...w,
+                     translated: false,
+                   })}>
+                <div class="flex items-start gap-1.5">
+                  <span class="shrink-0 w-[43px] h-[60px] flex items-center justify-center rounded-sm bg-emerald-900/30 border border-emerald-700/20">
+                    <span class="font-arabic text-lg text-emerald-400/50">{w.title_original}</span>
+                  </span>
+                  <div class="min-w-0 flex-1">
+                    <div class="flex items-center gap-1">
+                      <span class="text-[11px] text-ink-200 leading-snug group-hover:text-ink-100 transition-colors truncate">
+                        {w.sura_index}. {w.title}
+                      </span>
+                      <span class="flex-1"></span>
+                    </div>
+                    <div class="text-[10px] text-ink-400 italic leading-snug truncate">{w.title_english}</div>
+                    <div class="card-bottom-row">
+                      <div class="min-w-0 overflow-hidden text-left">
+                        <span class={`text-[8px] uppercase tracking-wider px-1 py-px rounded ${w.subject === 'Meccan' ? 'text-amber-500/50 bg-amber-500/5' : 'text-sky-400/50 bg-sky-400/5'}`}>
+                          {w.subject}
+                        </span>
+                        <span class="text-[8px] font-mono text-ink-600 ml-1">{w.subjects[1]}</span>
+                      </div>
+                      <div class="shrink-0">
+                        {w.est && (
+                          <span class="text-[9px] font-mono text-ink-400 whitespace-nowrap">
+                            ~<span class="text-emerald-400/80">{fmtCost(w.est.total)}</span>
+                          </span>
+                        )}
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            );
+          })}
+        </div>
+        <button class="show-more-btn w-full mt-3 py-1.5 text-xs text-ink-500 hover:text-ink-300 border border-ink-800/40 rounded-lg hover:border-ink-700/60 transition-colors"
+                data-total="114">
+          Show all 114
+        </button>
+      </section>
     </div>
   </div>
 
@@ -289,9 +392,10 @@ const translatedWorks = allWorks.filter(w => w.data.translation_status === 'comp
       if (data.cover_image) {
         return '<img src="https://18441963.imgix.net/ctai/' + data.doc_id + '.png?auto=format&fit=max&w=320" alt="' + (data.title || '') + '" width="160" height="224" style="width:160px;height:224px;" class="rounded object-cover"/>';
       }
+      const isIslam = data.category === 'islam';
       const isSacred = (data.category || 'sacred') === 'sacred';
-      const fill = isSacred ? '#2a1f15' : '#1a2030';
-      const accent = isSacred ? '#b8860b' : '#60a5fa';
+      const fill = isIslam ? '#0f2518' : isSacred ? '#2a1f15' : '#1a2030';
+      const accent = isIslam ? '#34d399' : isSacred ? '#b8860b' : '#60a5fa';
       const ch = data.title_original ? data.title_original.charAt(0) : (data.language === 'ar' ? '\u0639' : '\u0641');
       const lines = (data.title_original || '').split(' ').slice(0, 3);
       let svg = '<svg viewBox="0 0 80 112" style="width:160px;height:224px;" class="rounded" xmlns="http://www.w3.org/2000/svg">';
@@ -407,9 +511,20 @@ const translatedWorks = allWorks.filter(w => w.data.translation_status === 'comp
       var actionBtn = panel.querySelector('[data-slot="action-btn"]');
       var actionLabel = panel.querySelector('[data-slot="action-label"]');
       var actionDetail = panel.querySelector('[data-slot="action-detail"]');
-      var detailUrl = '/translations/' + data.author_slug + '/' + data.doc_id + '/';
+      var isQuran = data.category === 'islam';
+      var detailUrl = isQuran
+        ? '/translations/quran/' + (data.sura_slug || data.doc_id) + '/'
+        : '/translations/' + data.author_slug + '/' + data.doc_id + '/';
       actionBtn.href = detailUrl;
-      if (data.translated) {
+      if (isQuran) {
+        actionLabel.textContent = data.est ? 'Sponsor Translation for ' + fmtCost(data.est.total) + ' \u2192' : 'Sponsor Translation \u2192';
+        if (data.est) {
+          actionDetail.textContent = '~' + data.est.paras + ' paras \u00b7 Seg ' + fmtCost(data.est.seg) + ' + Trans ' + fmtCost(data.est.trans);
+        } else {
+          actionDetail.style.display = 'none';
+        }
+        actionBtn.className = actionBtn.className.replace(/gold/g, 'emerald');
+      } else if (data.translated) {
         actionLabel.textContent = 'Read Translation \u2192';
         actionDetail.style.display = 'none';
       } else {
@@ -424,6 +539,7 @@ const translatedWorks = allWorks.filter(w => w.data.translation_status === 'comp
       // Detail page link (the whole card body)
       var detailLink = panel.querySelector('[data-slot="detail-link"]');
       detailLink.href = detailUrl;
+      // Qur'an detail pages are internal now — no target="_blank"
 
       // Close button — stop link navigation and panel toggle
       panel.querySelector('.expand-close').addEventListener('click', function(ev) {
@@ -544,6 +660,7 @@ const translatedWorks = allWorks.filter(w => w.data.translation_status === 'comp
       btn.style.display = '';
       btn.textContent = 'Show all ' + btn.dataset.total;
     }
+
   </script>
 
   <style>
