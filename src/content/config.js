@@ -75,6 +75,7 @@ const works = defineCollection({
     is_best_known: z.boolean().optional(),
     author_bio: z.string().nullable().optional(),
     cover_image: z.string().nullable().optional(),
+    cover_description: z.string().nullable().optional(),
     title_english: z.string().nullable().optional(),
   }),
 });

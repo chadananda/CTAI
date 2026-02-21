@@ -2,6 +2,7 @@
 export const prerender = false;
 import Base from '../../layouts/Base.astro';
 import { getCollection } from 'astro:content';
+import { coverUrl } from '../../lib/imgix.js';
 const allWorks = await getCollection('works');
 
 import { estimateCost, fmtCost } from '../../lib/cost-estimate.js';
@@ -149,7 +150,7 @@ const translatedWorks = allWorks.filter(w => w.data.translation_status === 'comp
                        })}>
                     <div class="flex items-start gap-1.5">
                       {w.cover_image ? (
-                        <img src={w.cover_image}
+                        <img src={coverUrl(w.doc_id, { width: 86 })}
                              alt={w.title}
                              width="43" height="60"
                              loading="lazy"
@@ -285,7 +286,7 @@ const translatedWorks = allWorks.filter(w => w.data.translation_status === 'comp
 
     function buildLargeThumb(data) {
       if (data.cover_image) {
-        return '<img src="' + data.cover_image + '" alt="' + (data.title || '') + '" width="80" height="112" class="w-20 h-28 rounded object-cover"/>';
+        return '<img src="https://18441963.imgix.net/ctai/' + data.doc_id + '.png?auto=format&fit=max&w=160" alt="' + (data.title || '') + '" width="80" height="112" class="w-20 h-28 rounded object-cover"/>';
       }
       const isSacred = (data.category || 'sacred') === 'sacred';
       const fill = isSacred ? '#2a1f15' : '#1a2030';

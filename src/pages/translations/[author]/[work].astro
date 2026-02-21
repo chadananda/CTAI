@@ -1,6 +1,7 @@
 ---
 import Base from '../../../layouts/Base.astro';
 import { getCollection } from 'astro:content';
+import { coverUrl } from '../../../lib/imgix.js';
 
 export async function getStaticPaths() {
   const allWorks = await getCollection('works');
@@ -39,9 +40,10 @@ const colors = authorColors[work.author_slug] || { bg: 'bg-ink-800/30', border: 
   <header class={`rounded-xl ${colors.bg} ${colors.border} border p-8 mb-10`}>
     <div class="float-right ml-6 mb-4 hero-cover-wrapper">
       {work.cover_image ? (
-        <img src={work.cover_image} alt={work.title}
+        <img src={coverUrl(work.doc_id, { width: 448 })} alt={work.title}
              width="224" height="310"
-             class="hero-cover w-48 md:w-56" />
+             class="hero-cover w-48 md:w-56"
+             loading="eager" />
       ) : (
         <svg viewBox="0 0 160 224" class="hero-cover w-48 md:w-56" xmlns="http://www.w3.org/2000/svg" role="img" aria-label={work.title}>
           <rect width="160" height="224" rx="6" fill={work.category === 'sacred' ? '#2a1f15' : '#1a2030'} />
