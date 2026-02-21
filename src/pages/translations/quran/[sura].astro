@@ -24,11 +24,11 @@ function ordinal(n) {
 }
 ---
 
-<Base title={`${sura.tname} — The Qur'án`} description={`Sura ${sura.index}: ${sura.tname} (${sura.ename}) — ${sura.ayas} verses, ${sura.type}. Sponsor a committee translation in the style of Shoghi Effendi.`}>
+<Base title={`${sura.tname} — The Qurʼán`} description={`Sura ${sura.index}: ${sura.tname} (${sura.ename}) — ${sura.ayas} verses, ${sura.type}. Sponsor a committee translation in the style of Shoghi Effendi.`}>
   <nav class="flex items-center gap-3 text-sm text-ink-500 mb-6">
     <a href="/translations/" class="hover:text-ink-200">Translations</a>
     <span class="text-ink-700">/</span>
-    <a href="/translations/quran/" class="hover:text-ink-200">The Qur'án</a>
+    <a href="/translations/quran/" class="hover:text-ink-200">The Qurʼán</a>
     <span class="text-ink-700">/</span>
     <span class="text-ink-200">{sura.tname}</span>
   </nav>
@@ -84,7 +84,7 @@ function ordinal(n) {
 
     <div class="border-l-2 border-ink-600/30 pl-5">
       <p class="text-[15px] text-ink-300/90 leading-[1.75] tracking-wide">
-        Sura {sura.index} of the Qur'án &mdash; <em>{sura.ename}</em> ({sura.name}).
+        Sura {sura.index} of the Qurʼán &mdash; <em>{sura.ename}</em> ({sura.name}).
         A {sura.type} sura with {sura.ayas} verses, revealed {sura.order === 1 ? 'first' : `${ordinal(sura.order)}`} in the order of revelation.
       </p>
     </div>

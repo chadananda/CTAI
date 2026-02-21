@@ -86,7 +86,7 @@ const qWorks = quranSurasWithSlugs.map(s => {
             })}
             <li>
               <a href="#quran" class="flex justify-between items-center text-xs text-ink-400 hover:text-emerald-400 transition-colors">
-                <span class="truncate">The Qur'án</span>
+                <span class="truncate">The Qurʼán</span>
                 <span class="text-ink-600 font-mono text-[10px] ml-2">114</span>
               </a>
             </li>
@@ -246,12 +246,12 @@ const qWorks = quranSurasWithSlugs.map(s => {
       <!-- Islam Section: Qur'an -->
       <section class="mb-8 mt-12 pt-8 border-t border-ink-700/40" id="quran" data-author-section data-category="islam">
         <div class="flex items-baseline gap-3 mb-2">
-          <h2 class="text-sm font-semibold text-ink-300">The Qur'án</h2>
+          <h2 class="text-sm font-semibold text-ink-300">The Qurʼán</h2>
           <span class="text-[8px] uppercase tracking-wider text-emerald-400/50 bg-emerald-400/5 px-1 py-0.5 rounded">114 Suras · 6,236 Verses</span>
         </div>
         <p class="text-ink-400 text-xs leading-relaxed max-w-2xl mb-2">
-          Have you ever wondered what a translation of the Qur'án might look like if Shoghi Effendi had done it?
-          We have passages of the Qur'án throughout the 11 translations of Shoghi Effendi which have a power
+          Have you ever wondered what a translation of the Qurʼán might look like if Shoghi Effendi had done it?
+          We have passages of the Qurʼán throughout the 11 translations of Shoghi Effendi which have a power
           and resonance beyond any other in English. What if&hellip;
         </p>
         <p class="text-ink-500 text-xs leading-relaxed max-w-2xl mb-3">
@@ -275,23 +275,30 @@ const qWorks = quranSurasWithSlugs.map(s => {
                      translated: false,
                    })}>
                 <div class="flex items-start gap-1.5">
-                  <span class="shrink-0 w-[43px] h-[60px] flex items-center justify-center rounded-sm bg-emerald-900/30 border border-emerald-700/20">
-                    <span class="font-arabic text-lg text-emerald-400/50">{w.title_original}</span>
-                  </span>
+                  <svg viewBox="0 0 40 56" width="43" height="60" class="shrink-0 rounded-sm" style="width:43px;height:60px;" xmlns="http://www.w3.org/2000/svg"
+                       role="img" aria-label={w.title}>
+                    <rect width="40" height="56" rx="2" fill="#0f2518"/>
+                    <rect x="0" y="0" width="2.5" height="56" fill="rgba(0,0,0,0.25)" rx="1"/>
+                    <text x="21" y="28" text-anchor="middle" dominant-baseline="central"
+                          font-family="'Scheherazade New',serif" font-size="14"
+                          fill="#34d399" opacity="0.5">
+                      {w.title_original ? w.title_original.charAt(0) : '\u0639'}
+                    </text>
+                  </svg>
                   <div class="min-w-0 flex-1">
                     <div class="flex items-center gap-1">
                       <span class="text-[11px] text-ink-200 leading-snug group-hover:text-ink-100 transition-colors truncate">
                         {w.sura_index}. {w.title}
                       </span>
                       <span class="flex-1"></span>
+                      <span class={`shrink-0 text-[8px] uppercase tracking-wider px-1 py-px rounded ${w.subject === 'Meccan' ? 'text-amber-500/50 bg-amber-500/5' : 'text-sky-400/50 bg-sky-400/5'}`}>
+                        {w.subject}
+                      </span>
                     </div>
                     <div class="text-[10px] text-ink-400 italic leading-snug truncate">{w.title_english}</div>
                     <div class="card-bottom-row">
                       <div class="min-w-0 overflow-hidden text-left">
-                        <span class={`text-[8px] uppercase tracking-wider px-1 py-px rounded ${w.subject === 'Meccan' ? 'text-amber-500/50 bg-amber-500/5' : 'text-sky-400/50 bg-sky-400/5'}`}>
-                          {w.subject}
-                        </span>
-                        <span class="text-[8px] font-mono text-ink-600 ml-1">{w.subjects[1]}</span>
+                        <span class="font-arabic text-[13px] text-ink-300 block truncate leading-relaxed">{w.title_original}</span>
                       </div>
                       <div class="shrink-0">
                         {w.est && (

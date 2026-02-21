@@ -10,10 +10,10 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        serif: ['"Source Serif 4"', 'Georgia', 'serif'],
-        display: ['"EB Garamond"', 'Georgia', 'serif'],
-        arabic: ['"Scheherazade New"', '"Traditional Arabic"', 'serif'],
-        mono: ['"JetBrains Mono"', 'monospace'],
+        serif: ['"Source Serif 4"'],
+        display: ['"EB Garamond"'],
+        arabic: ['"Scheherazade New"'],
+        mono: ['"JetBrains Mono"'],
       },
       colors: {
         gold: {
