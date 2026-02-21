@@ -1,7 +1,8 @@
 #!/usr/bin/env node
-// Generate book cover images using Gemini (generateContent API) + rembg
+// Generate book cover images using Gemini (generateContent API)
 // Reads all work JSONs, auto-generates cover designs from metadata
-// Usage: node scripts/generate-covers.js [slug] [--skip-existing] [--dry-run] [--model=gemini-2.5-flash-preview-image-generation]
+// Usage: node scripts/generate-covers.js [slug] [--skip-existing] [--dry-run] [--model=...]
+//        node scripts/generate-covers.js --quran [--skip-existing] [--dry-run]
 import { readFileSync, existsSync, writeFileSync, mkdirSync, readdirSync } from 'fs';
 import { join, resolve } from 'path';
 import sharp from 'sharp';
@@ -396,38 +397,321 @@ async function generateCover(work, model, dryRun) {
   }
 }
 
+// ══════════════════════════════════════════════════════════════════════════════
+// ── Qurʼán sura covers ──
+// ══════════════════════════════════════════════════════════════════════════════
+
+const QURAN_PALETTE = {
+  meccan: { leather: 'deep emerald green', metal: 'gold', borderStyle: 'interlocking star-and-hexagon geometric lattice with celestial rosettes' },
+  medinan: { leather: 'deep emerald green', metal: 'silver', borderStyle: 'flowing arabesque vine scrolls with architectural arch motifs' },
+};
+
+// Per-sura unique motif mapped by sura index. Each motif is a visual description
+// that respects Islamic aniconism (no human/animal figures — abstract geometric only).
+const SURA_MOTIFS = {
+  1:   'an ornate gate opening to reveal radiant streams of golden light — the threshold of divine guidance',
+  2:   'a grand geometric medallion with agricultural motifs — wheat sheaves, flowing water channels, and concentric hexagonal patterns in gold and green',
+  3:   'an ascending family tree rendered as interlocking geometric branches, each node a luminous star medallion',
+  4:   'a protective geometric dome formed by overlapping crescent arches, sheltering a garden of stylized flowers',
+  5:   'an ornate ceremonial table rendered as a geometric rosette with five-fold symmetry, radiating abundance',
+  6:   'a hexagonal honeycomb pattern expanding outward, each cell containing a different geometric seed-of-life motif',
+  7:   'terraced mountain ridges ascending in geometric layers, crowned with luminous star patterns at the summit',
+  8:   'radiating spear-like geometric rays emanating from a central octagonal star — victory and divine aid',
+  9:   'a broken chain transforming into flowing arabesque vines — repentance blossoming into renewal',
+  10:  'a luminous celestial whale shape formed entirely from geometric tessellations and flowing water patterns',
+  11:  'concentric arches receding into infinite depth, each ring adorned with different geometric patterns — endurance',
+  12:  'a radiant twelve-pointed star within a geometric well shaft, light ascending from the depths',
+  13:  'jagged lightning-bolt geometric patterns radiating from thundercloud spirals in silver and electric blue',
+  14:  'a great geometric tree with roots forming intricate knotwork below and branches reaching into starlight above',
+  15:  'towering rock formations rendered as geometric crystalline columns with light refracting through faceted surfaces',
+  16:  'an elaborate hexagonal honeycomb mandala with floral rosettes in each cell — geometric abstraction of divine provision',
+  17:  'a sweeping arc of stars across a night sky with geometric cloud layers below — the celestial journey',
+  18:  'a deep cavern entrance framed by stalactite-like geometric formations with light glowing from within',
+  19:  'a luminous crescent cradling a radiant palm tree with dates rendered as golden geometric droplets',
+  20:  'two intersecting geometric letters forming an elaborate knot pattern, surrounded by burning bush motifs',
+  21:  'a procession of luminous geometric lanterns receding into the distance, each with unique filigree patterns',
+  22:  'the Kaaba rendered as a perfect geometric cube surrounded by concentric circles of worshippers as abstract dots',
+  23:  'ascending geometric stairs of light, each step adorned with a different arabesque pattern — the believers\' ascent',
+  24:  'a radiant geometric star emanating concentric rings of light — the famous Light Verse rendered as pure geometry',
+  25:  'a great balance scale rendered in geometric precision, light radiating from its fulcrum — the divine criterion',
+  26:  'flowing calligraphic scrollwork arranged in geometric wave patterns — the power of inspired verse',
+  27:  'an intricate radial mandala of tiny geometric cells arranged in precise mathematical spirals — abstract lattice',
+  28:  'an unrolling geometric scroll revealing nested stories within stories, each frame a different pattern',
+  29:  'an intricate radial web-like geometric mandala with concentric rings of increasing complexity and delicacy',
+  30:  'classical columns and arches rendered in geometric precision with crescent moons adorning each keystone',
+  31:  'a wise geometric tree with roots of knotwork and a canopy of overlapping medallion-leaf patterns',
+  32:  'a figure-like mihrab niche at the center of concentric geometric prayer-mat patterns — devotion in form',
+  33:  'interlocking shield-like geometric shapes forming an impenetrable wall pattern — unity of the clans',
+  34:  'an ancient geometric cityscape with terraced gardens, fountains, and dam structures in precise linework',
+  35:  'a cosmic spiral of geometric creation patterns, each arm seeded with different floral and stellar motifs',
+  36:  'an elaborate monogram of the letters Ya-Sin in ornamental Kufic style surrounded by geometric mandalas',
+  37:  'parallel rows of geometric lances arranged in perfect rank formation, tips touching a radiant sun above',
+  38:  'the letter Sad rendered as an enormous ornamental calligraphic form surrounded by geometric rosettes and stars',
+  39:  'flowing groups of geometric shapes converging toward a central radiant point — the gathering of souls',
+  40:  'a great geometric lock being opened by a key of light — divine forgiveness rendered as sacred mechanism',
+  41:  'concentric geometric frames, each layer revealing a more detailed and intricate pattern within — explained in detail',
+  42:  'a circular council of geometric shapes arranged in deliberation, rays connecting each to a central light',
+  43:  'ornate gold filigree patterns cascading across the cover like precious decorative metalwork — ornaments of gold',
+  44:  'swirling geometric smoke patterns in silver-gray, penetrated by shafts of golden light from above',
+  45:  'geometric figures in crouching postures rendered as abstract angular forms, arranged in concentric rings',
+  46:  'undulating geometric sand dune patterns with wind-carved ripples rendered in gold and amber gradients',
+  47:  'a radiant geometric sword crossed with an olive branch, both formed from interlocking arabesque patterns',
+  48:  'a great geometric gate swinging open with triumphant radiance — victory rendered as architectural revelation',
+  49:  'geometric room partitions forming an intricate floor plan mandala — the inner chambers of courtesy',
+  50:  'the letter Qaf rendered as a monumental ornamental form with mountain motifs and earth patterns surrounding it',
+  51:  'dynamic spiral geometric wind patterns carrying geometric seed forms — the winnowing rendered as sacred motion',
+  52:  'a great geometric mountain peak crowned with fire motifs and celestial patterns at its summit',
+  53:  'a radiant five-pointed star descending through geometric cloud layers — the celestial descent',
+  54:  'a luminous crescent moon within an elaborate geometric mandala of concentric star patterns',
+  55:  'cascading garden terraces with flowing geometric water channels and pomegranate-rosette trees — divine mercy',
+  56:  'a cosmic geometric hourglass with stars flowing through its narrow center — the inevitable rendered as form',
+  57:  'a great geometric anvil with radiating strength patterns — iron rendered as crystalline geometric lattice',
+  58:  'two geometric forms in dialogue across a bridge of light — the plea rendered as sacred geometry',
+  59:  'a geometric fortress dissolving into scattered star patterns — exile and divine reassignment',
+  60:  'a geometric scale weighing heart-shaped medallions — examination rendered as sacred measurement',
+  61:  'perfect geometric ranks of identical motifs arranged in military precision — unity in formation',
+  62:  'a geometric minaret with radiating call-to-prayer waves and a central gathering circle below',
+  63:  'a geometric mask pattern with cracks revealing light beneath — hypocrisy unveiled',
+  64:  'two mirrored geometric patterns revealing their hidden differences — mutual disillusion as sacred mirror',
+  65:  'a geometric knot being carefully untied, each strand becoming a flowing arabesque — separation with dignity',
+  66:  'a geometric seal being placed on a sacred geometric vessel — prohibition as divine protection',
+  67:  'a geometric crown and scepter formed from interlocking star patterns — divine sovereignty',
+  68:  'a great ornamental pen nib with flowing calligraphic streams of geometric patterns — the divine pen',
+  69:  'a geometric veil being drawn back to reveal a radiant geometric truth behind it — reality unveiled',
+  70:  'ascending geometric stairways spiraling upward through celestial layers — the ascending stairways to the divine',
+  71:  'a great geometric ark riding geometric waves beneath a canopy of stars — salvation through obedience',
+  72:  'flickering geometric flame-forms arranged in a circle around a central sacred fire — the unseen world',
+  73:  'a geometric figure wrapped in flowing arabesque robes of light — the enshrouded one in devotion',
+  74:  'a geometric figure cloaked in layered geometric patterns radiating outward — the cloaked one arising',
+  75:  'a cosmic geometric sunrise over a field of awakening geometric seed-forms — resurrection as renewal',
+  76:  'a geometric chalice pouring forth streams that branch into garden patterns — divine sustenance to humanity',
+  77:  'a procession of geometric wind-forms sweeping across the cover from right to left — divine emissaries',
+  78:  'a great geometric trumpet-form with expanding concentric sound-rings — the announcement',
+  79:  'dynamic geometric forms in sweeping curved arcs — those who draw forth rendered as cosmic motion',
+  80:  'a geometric face-form turning away, then turning toward light — the moment of frowning then accepting',
+  81:  'a cosmic geometric sphere being wrapped in darkness, then unwrapped to reveal stars — the overthrowing',
+  82:  'a geometric dome cleaving open along precise fault lines to reveal light within — the splitting asunder',
+  83:  'a tipping geometric balance with uneven loads — defrauding rendered as sacred asymmetry',
+  84:  'a geometric sky splitting open along a luminous seam with radiance pouring through — the splitting open',
+  85:  'twelve geometric constellation patterns arranged in a great zodiacal circle — the celestial mansions',
+  86:  'a radiant geometric morning star with piercing rays cutting through layered geometric darkness',
+  87:  'a soaring geometric ascent pattern reaching toward a radiant point above all other patterns — the Most High',
+  88:  'a great geometric wave cresting over everything below — the overwhelming rendered as cosmic force',
+  89:  'geometric rays of a breaking dawn splitting a dark geometric horizon — the sacred dawn',
+  90:  'a geometric cityscape with winding paths between buildings leading to a central radiant square — the city',
+  91:  'a radiant geometric sun with concentric arabesque rings expanding outward in gold and amber',
+  92:  'a deep geometric nightscape with stars as geometric points and a single path of moonlight below',
+  93:  'a gentle geometric sunrise with soft radiating bands of warm gold and amber — the morning hours',
+  94:  'a geometric heart-form with expanding concentric rings of relief and comfort — the consolation',
+  95:  'a geometric fig tree with ornate geometric framing, fruit rendered as golden geometric droplets',
+  96:  'a geometric drop of crimson becoming a radiant human-like geometric form — creation from the clot',
+  97:  'a single night sky dense with geometric stars, one radiant star-form brighter than all others — the Night of Power',
+  98:  'a radiant geometric book opening to reveal undeniable patterns of truth — the clear evidence',
+  99:  'concentric geometric earthquake ripples emanating from a central fissure of light — the great quaking',
+  100: 'dynamic geometric hoofprint patterns arranged in charging-gallop formation — the chargers as abstract motion',
+  101: 'a great geometric hammer-form striking an anvil with radiating shock-wave patterns — the calamity',
+  102: 'geometric towers growing taller in competitive stacks until they topple — the rivalry of accumulation',
+  103: 'a geometric hourglass with sand-grains as tiny stars flowing through — the declining day, time itself',
+  104: 'a geometric tongue-form wrapped in thorns that transform into geometric flames — the slanderer consumed',
+  105: 'a great geometric boulder formation with tiny geometric pebble-forms raining down — abstract divine intervention',
+  106: 'a geometric caravan route connecting two geometric city medallions — the tribal journey of Quraysh',
+  107: 'a geometric hand extending a geometric vessel of provision — almsgiving as sacred geometry',
+  108: 'a geometric fountain overflowing with cascading rivulets forming arabesque patterns — divine abundance',
+  109: 'two geometric worlds separated by an ornate geometric border — the clear separation of paths',
+  110: 'a geometric victory arch with flowing crowds rendered as abstract dots streaming through — divine support',
+  111: 'geometric palm fiber strands woven into a net pattern that disintegrates into ash — destruction of malice',
+  112: 'a single perfect geometric form — a radiant orb of absolute unity, no divisions, no parts — pure sincerity',
+  113: 'a geometric dawn breaking through a web of geometric darkness — seeking refuge in the daybreak',
+  114: 'concentric geometric circles representing all humanity, with a protective geometric shield at the center — refuge in God',
+};
+
+// Leather and border variations for Qurʼán covers
+const QURAN_LEATHER_VARIANTS = [
+  'with aged patina and warm golden undertones',
+  'with subtle grain and deep forest shadows',
+  'with rich burnished edges catching amber light',
+  'with antique finish and olive-gold undertones',
+  'with deep jewel-tone depth and visible tooling marks',
+  'with warm teal undertones and aged cracking',
+];
+
+const QURAN_BORDER_EXTRAS = [
+  'corner rosettes with crescent accents',
+  'star medallions at each corner',
+  'interlocking knot patterns at the borders',
+  'vine and leaf scrollwork framing',
+  'layered arch motifs at top and bottom',
+  'geometric cornerpieces with floral insets',
+];
+
+function suraSlug(tname) {
+  return tname
+    .normalize('NFD')
+    .replace(/[\u0300-\u036f]/g, '')
+    .replace(/[\u02BB\u02BC\u2018\u2019\u2032\u0027]/g, '')
+    .toLowerCase()
+    .replace(/\s+/g, '-')
+    .replace(/[^a-z0-9-]/g, '');
+}
+
+function loadQuranSuras() {
+  const dataPath = join(CWD, 'src/data/quran-suras.json');
+  return JSON.parse(readFileSync(dataPath, 'utf-8'));
+}
+
+function buildQuranPrompt(sura, design) {
+  return `Front cover of an antique hand-crafted leather-bound book, filling the ENTIRE image edge to edge — no margins, no background visible, just the book cover itself occupying 100% of the frame. Shot straight on from directly above. The leather is rich aged ${design.leather} with visible grain, wear marks, and patina. Dark, moody museum lighting.
+
+The CENTRAL focal point is the Arabic calligraphy "${sura.name}" — large, ornamental, deeply embossed in gold leaf. The calligraphy is surrounded by ${design.motif} in raised leather relief with hand-painted jewel tones (emerald, gold leaf, ${design.metal}). Purely geometric and floral — NO human or animal figures of any kind.
+
+Ornate ${design.metal}-leaf border with ${design.border} frames the entire cover.
+
+At the TOP of the cover, centered horizontally: "${sura.tname}" in raised gold-leaf serif lettering — the letters are embossed and catch warm light. The text must be EXACTLY "${sura.tname}" with all diacritical marks.
+
+At the BOTTOM of the cover, centered horizontally: "The Qurʼán · Sura ${sura.index}" in smaller gold-leaf serif lettering.
+
+Hyper-detailed macro photography quality. The embossed central calligraphy and surrounding geometric art should be the focal point — richly colored with deep saturated jewel tones, detailed, with strong dimensional depth from the tooled leather relief. The overall feel is dark, luxurious, and ancient — like a precious artifact photographed in dramatic museum lighting. No modern elements, no digital artifacts. No human faces or figures of any kind.`;
+}
+
+async function generateQuranCover(sura, model, dryRun) {
+  const slug = `quran-${suraSlug(sura.tname)}`;
+  const outfile = join(COVERS_DIR, `${slug}.png`);
+
+  if (skipExisting && existsSync(outfile)) {
+    console.log(`  SKIP: ${slug} (already exists)`);
+    return true;
+  }
+
+  const palette = sura.type === 'Meccan' ? QURAN_PALETTE.meccan : QURAN_PALETTE.medinan;
+  const hash = simpleHash(slug);
+  const leatherVar = QURAN_LEATHER_VARIANTS[hash % QURAN_LEATHER_VARIANTS.length];
+  const borderExtra = QURAN_BORDER_EXTRAS[(hash >> 2) % QURAN_BORDER_EXTRAS.length];
+
+  const design = {
+    leather: `${palette.leather} ${leatherVar}`,
+    metal: palette.metal,
+    border: `${palette.borderStyle} with ${borderExtra}`,
+    motif: SURA_MOTIFS[sura.index] || 'an elaborate Islamic geometric mandala with interlocking circles and hexagons',
+  };
+
+  console.log(`\n  [${slug}] Sura ${sura.index}: ${sura.tname} (${sura.ename})`);
+  console.log(`  Type: ${sura.type} | Metal: ${design.metal}`);
+  console.log(`  Motif: ${design.motif.slice(0, 100)}...`);
+
+  if (dryRun) {
+    console.log(`  DRY RUN: would generate cover`);
+    return true;
+  }
+
+  const prompt = buildQuranPrompt(sura, design);
+
+  try {
+    const response = await fetch(
+      `https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent?key=${apiKey}`,
+      {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          contents: [{ parts: [{ text: prompt }] }],
+          generationConfig: {
+            responseModalities: ['TEXT', 'IMAGE'],
+            imageConfig: { aspectRatio: '3:4' }
+          }
+        })
+      }
+    );
+
+    if (!response.ok) {
+      const errorText = await response.text();
+      console.error(`  ✗ API error (${response.status}):`, errorText.slice(0, 500));
+      return false;
+    }
+
+    const data = await response.json();
+    const parts = data.candidates?.[0]?.content?.parts || [];
+    const imagePart = parts.find(p => p.inlineData?.mimeType?.startsWith('image/'));
+
+    if (imagePart) {
+      const buffer = Buffer.from(imagePart.inlineData.data, 'base64');
+      writeFileSync(outfile, buffer);
+      const meta = await sharp(buffer).metadata();
+      console.log(`  ✓ Saved: ${slug}.png ${meta.width}x${meta.height} (${(buffer.length / 1024).toFixed(0)}KB)`);
+
+      const textPart = parts.find(p => p.text);
+      if (textPart) console.log(`  Model: ${textPart.text.slice(0, 100)}`);
+      return true;
+    }
+
+    const textPart = parts.find(p => p.text);
+    if (textPart) console.log(`  ✗ Text only: ${textPart.text.slice(0, 300)}`);
+    else console.log(`  ✗ No image generated. Response:`, JSON.stringify(data).slice(0, 500));
+    return false;
+  } catch (error) {
+    console.error(`  ✗ Error: ${error.message}`);
+    return false;
+  }
+}
+
 // ── CLI ──
 const args = process.argv.slice(2).filter(a => !a.startsWith('--'));
 const skipExisting = process.argv.includes('--skip-existing');
 const dryRun = process.argv.includes('--dry-run');
+const quranMode = process.argv.includes('--quran');
 const modelFlag = process.argv.find(a => a.startsWith('--model='));
 const MODEL = modelFlag ? modelFlag.split('=')[1] : 'gemini-3-pro-image-preview';
 const target = args[0];
 
 async function main() {
-  console.log(`Book cover generation (${MODEL} + rembg)`);
-  console.log(`Options: skip-existing=${skipExisting}, dry-run=${dryRun}\n`);
+  if (quranMode) {
+    console.log(`Qurʼán sura cover generation (${MODEL})`);
+    console.log(`Options: skip-existing=${skipExisting}, dry-run=${dryRun}\n`);
 
-  const works = loadAllWorks();
-  console.log(`Loaded ${works.length} works\n`);
+    const suras = loadQuranSuras();
+    console.log(`Loaded ${suras.length} suras\n`);
 
-  if (target) {
-    const work = works.find(w => w.doc_id === target);
-    if (!work) { console.error(`Work not found: ${target}`); process.exit(1); }
-    await generateCover(work, MODEL, dryRun);
-  } else {
-    // Sort by author for visual grouping in output
-    works.sort((a, b) => a.author_slug.localeCompare(b.author_slug) || a.doc_id.localeCompare(b.doc_id));
-    let success = 0, fail = 0, skip = 0;
-    for (let i = 0; i < works.length; i++) {
-      const ok = await generateCover(works[i], MODEL, dryRun);
+    const subset = target
+      ? suras.filter(s => suraSlug(s.tname) === target || String(s.index) === target)
+      : suras;
+
+    if (target && subset.length === 0) {
+      console.error(`Sura not found: ${target}`);
+      process.exit(1);
+    }
+
+    let success = 0, fail = 0;
+    for (let i = 0; i < subset.length; i++) {
+      const ok = await generateQuranCover(subset[i], MODEL, dryRun);
       if (ok) success++; else fail++;
-      if (!dryRun && i < works.length - 1) {
+      if (!dryRun && i < subset.length - 1) {
         console.log('  ⏳ Waiting 5s...');
         await delay(5000);
       }
     }
-    console.log(`\n  Done: ${success} generated, ${fail} failed out of ${works.length} works`);
+    console.log(`\n  Done: ${success} generated, ${fail} failed out of ${subset.length} suras`);
+  } else {
+    console.log(`Book cover generation (${MODEL})`);
+    console.log(`Options: skip-existing=${skipExisting}, dry-run=${dryRun}\n`);
+
+    const works = loadAllWorks();
+    console.log(`Loaded ${works.length} works\n`);
+
+    if (target) {
+      const work = works.find(w => w.doc_id === target);
+      if (!work) { console.error(`Work not found: ${target}`); process.exit(1); }
+      await generateCover(work, MODEL, dryRun);
+    } else {
+      works.sort((a, b) => a.author_slug.localeCompare(b.author_slug) || a.doc_id.localeCompare(b.doc_id));
+      let success = 0, fail = 0;
+      for (let i = 0; i < works.length; i++) {
+        const ok = await generateCover(works[i], MODEL, dryRun);
+        if (ok) success++; else fail++;
+        if (!dryRun && i < works.length - 1) {
+          console.log('  ⏳ Waiting 5s...');
+          await delay(5000);
+        }
+      }
+      console.log(`\n  Done: ${success} generated, ${fail} failed out of ${works.length} works`);
+    }
   }
 }
 

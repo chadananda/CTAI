@@ -1,6 +1,7 @@
 ---
 import Base from '../../../layouts/Base.astro';
 import { suras } from '../../../lib/quran.js';
+import { coverUrl } from '../../../lib/imgix.js';
 import { estimateCost, fmtCost } from '../../../lib/cost-estimate.js';
 
 const meccan = suras.filter(s => s.type === 'Meccan');
@@ -45,9 +46,14 @@ const totalWords = suras.reduce((a, s) => a + s.word_count, 0);
         <a href={`/translations/quran/${s.slug}/`}
            class="block p-4 bg-ink-800/40 rounded-lg border border-ink-700/40 hover:border-emerald-500/30 transition-colors">
           <div class="flex items-start gap-3">
-            <span class="shrink-0 w-10 h-10 flex items-center justify-center rounded bg-emerald-900/30 border border-emerald-700/20 font-mono text-sm text-emerald-400/70">
-              {s.index}
-            </span>
+            <img
+              src={coverUrl(`quran-${s.slug}`, { width: 80 })}
+              alt=""
+              width="40"
+              height="53"
+              class="shrink-0 w-10 rounded shadow-sm"
+              loading="lazy"
+            />
             <div class="min-w-0 flex-1">
               <div class="font-semibold text-ink-100 text-sm mb-0.5">{s.tname}</div>
               <div class="flex items-center gap-2">

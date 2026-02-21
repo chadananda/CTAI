@@ -1,6 +1,7 @@
 ---
 import Base from '../../../layouts/Base.astro';
 import { suras, suraSlug } from '../../../lib/quran.js';
+import { coverUrl } from '../../../lib/imgix.js';
 import { estimateCost, fmtCost } from '../../../lib/cost-estimate.js';
 
 export function getStaticPaths() {
@@ -36,32 +37,14 @@ function ordinal(n) {
   <!-- Hero -->
   <header class="rounded-xl bg-emerald-950/30 border border-emerald-800/30 p-8 mb-10">
     <div class="float-right ml-6 mb-4">
-      <svg viewBox="0 0 160 224" class="w-48 md:w-56" xmlns="http://www.w3.org/2000/svg" role="img" aria-label={sura.tname}>
-        <rect width="160" height="224" rx="6" fill="#0f2518" />
-        <rect x="0" y="0" width="10" height="224" fill="rgba(0,0,0,0.3)" rx="3" />
-        <line x1="24" y1="32" x2="144" y2="32" stroke="#34d399" stroke-opacity="0.2" stroke-width="0.5" />
-        <line x1="24" y1="192" x2="144" y2="192" stroke="#34d399" stroke-opacity="0.2" stroke-width="0.5" />
-        <!-- Sura number -->
-        <text x="84" y="56" text-anchor="middle" dominant-baseline="central"
-              font-family="'Source Serif 4',serif" font-size="24"
-              fill="#34d399" opacity="0.6">
-          {sura.index}
-        </text>
-        <!-- Arabic name -->
-        <text x="84" y="100" text-anchor="middle" dominant-baseline="central"
-              font-family="'Scheherazade New',serif" font-size="36"
-              fill="#34d399" opacity="0.5">
-          {sura.name}
-        </text>
-        <!-- Transliterated name words -->
-        {sura.tname.split('-').slice(0, 3).map((word, i) => (
-          <text x="84" y={140 + i * 18} text-anchor="middle"
-                font-family="'Source Serif 4',serif" font-size="12"
-                fill="#34d399" opacity="0.25">
-            {word}
-          </text>
-        ))}
-      </svg>
+      <img
+        src={coverUrl(`quran-${sura.slug}`, { width: 400 })}
+        alt={`${sura.tname} — Sura ${sura.index} of the Qurʼán`}
+        width="224"
+        height="299"
+        class="w-48 md:w-56 rounded-md shadow-lg"
+        loading="eager"
+      />
     </div>
 
     <div class="flex items-center gap-3 mb-2">
