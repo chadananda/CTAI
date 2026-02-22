@@ -4,8 +4,10 @@ import { WorkflowEntrypoint } from 'cloudflare:workers';
 import { completionEmailHtml, digestEmailHtml } from './email-templates.js';
 import {
   generateId, wordCount, splitIntoBlocks, jsonResponse, parseAIJson, calculateCost,
+  tokenizeWords, buildStructureFromIndices,
   ANTHROPIC_API, MODEL, PRICING, RESEND_API, MAX_BLOCK_WORDS, MAX_DELIB_ROUNDS,
 } from './utils.js';
+import { segmentPhrases, segmentSentences, segmentParagraphs } from './segmentation.js';
 
 // --- Anthropic API wrapper ---
 
@@ -83,8 +85,8 @@ async function sendEmail({ apiKey, to, subject, html }) {
 }
 
 // --- SegmentWorkflow ---
-// Segments source text into phrases → sentences → paragraphs → blocks
-// Then spawns N BlockWorkflow instances in parallel
+// Index-based segmentation: 3 passes returning only indices, not text.
+// Delegates to runSegmentation() from segmentation.js for the core pipeline.
 
 export class SegmentWorkflow extends WorkflowEntrypoint {
   async run(event, step) {
@@ -100,153 +102,131 @@ export class SegmentWorkflow extends WorkflowEntrypoint {
       return { sourceText: j.source_text, sourceLang: j.source_lang, style: j.style };
     });
 
-    const langName = job.sourceLang === 'ar' ? 'Arabic' : 'Persian';
-    const langCode = job.sourceLang;
-
-    const PHRASE_SYSTEM = langCode === 'ar'
-      ? `You are an expert segmenter of classical Arabic texts (Bahá'í sacred writings, Qur'anic, and literary Arabic).
-
-Your task: break the input text into clause-level phrases. These texts have NO punctuation and NO paragraph breaks — you must rely entirely on grammatical and semantic cues.
-
-For Arabic, identify clause boundaries using:
-- Verbal constructions: فعل + فاعل + مفعول sequences
-- Prepositional phrases: في، على، من، إلى، عن، ب، ل، ك
-- Conjunctions that open new clauses: و (wa), ف (fa), ثم (thumma), أو (aw)
-- Vocatives: يا، أيها، أيتها (these always start a new phrase)
-- Conditional/temporal markers: إذا، لو، إن، لمّا، حين
-- Demonstratives introducing new referents
-
-Poetry/verse detection:
-- If the text contains poetic couplets (بيت) or hemistichs (مصراع), flag them with "verse": true
-- Preserve hemistich structure — mark first hemistich as "hemistich": 1, second as "hemistich": 2
-- The * character in some texts acts as a phrase/clause delimiter — use it as a strong boundary hint
-
-Keep each phrase as a minimal complete grammatical unit. Do not split mid-construct (e.g., do not split an iḍāfa chain or a verb from its direct object).`
-      : `You are an expert segmenter of classical Persian texts (Bahá'í sacred writings, Sufi poetry, and literary Persian).
-
-Your task: break the input text into clause-level phrases. These texts have NO punctuation and NO paragraph breaks — you must rely entirely on grammatical and semantic cues.
-
-For Persian, identify clause boundaries using:
-- SOV verb position: the verb at the end of a clause marks its boundary
-- Ezafe constructions: -e/-ye connecting nouns/adjectives — keep these together as one phrase
-- Postpositions and prepositions: از، به، در، با، بر، برای، تا
-- Conjunctions: و (va), که (ke), تا (tā), اگر (agar), چون (chun), زيرا (zīrā)
-- Relative clauses introduced by که
-- Verb prefixes: می (mi-), ب (be-), ن (na-) marking new verbal phrases
-
-Poetry/verse detection:
-- If the text contains poetic couplets (بيت) or hemistichs (مصراع), flag them with "verse": true
-- Preserve hemistich structure — mark first hemistich as "hemistich": 1, second as "hemistich": 2
-- The * character in some texts acts as a phrase/clause delimiter — use it as a strong boundary hint
-
-Keep each phrase as a minimal complete grammatical unit. Do not split mid-construct (e.g., do not split an ezafe chain or a verb from its preverbal elements).`;
-
-    // Step 1: Segment into phrases
-    const phrases = await step.do('segment-phrases', async () => {
+    // Helper: create LLM call function that tracks calls and records phases
+    const makeLlmCall = () => async ({ phase, system, userContent }) => {
       const res = await trackedCallAnthropic({
-        db, jobId, phase: 'segment_phrases', agentRole: 'segmenter',
-        apiKey,
-        system: PHRASE_SYSTEM,
-        messages: [{ role: 'user', content: `Segment this ${langName} text into clause-level phrases.
-
-Return JSON: { "phrases": [{ "text": "...", "verse": false, "hemistich": null }, ...] }
-
-Where:
-- "text": the phrase text exactly as it appears (preserve all original characters)
-- "verse": true if this phrase is part of a poetic couplet/verse, false otherwise
-- "hemistich": null for prose, 1 for first hemistich, 2 for second hemistich
-
-Text:
-${job.sourceText}` }],
+        db, jobId, phase, agentRole: 'segmenter', apiKey, system,
+        messages: [{ role: 'user', content: userContent }],
         json: true,
       });
-      await recordPhase(db, { jobId, phase: 'segment_phrases', input: { step: 'segment_phrases' }, output: res.data, tokensIn: res.tokensIn, tokensOut: res.tokensOut, cost: res.cost });
-      return res.data;
-    });
-
-    // Step 2: Group into sentences
-    const sentences = await step.do('segment-sentences', async () => {
-      const res = await trackedCallAnthropic({
-        db, jobId, phase: 'segment_sentences', agentRole: 'segmenter',
-        apiKey,
-        system: `You are an expert in ${langName} text segmentation, specializing in grouping phrases into complete semantic statements.
-
-Rules for grouping:
-- A "sentence" is a complete semantic statement — a thought that can stand alone
-- For prose: group phrases that form a single proposition or command
-- For verse: a couplet (two hemistichs) = one sentence with type "verse_couplet"
-- A single verse line (one hemistich standing alone) = type "verse_line"
-- Prose statements = type "prose"
-- Preserve the order and exact text of all phrases — do not modify, merge, or drop any phrase`,
-        messages: [{ role: 'user', content: `Group these phrases into complete sentences.
-
-Return JSON: { "sentences": [{ "phrases": [{ "text": "...", "verse": false, "hemistich": null }], "text": "full sentence text", "type": "prose" | "verse_couplet" | "verse_line" }, ...] }
-
-Phrases:
-${JSON.stringify(phrases.phrases || phrases)}` }],
-        json: true,
+      await recordPhase(db, {
+        jobId, phase, input: { phase },
+        output: res.data, tokensIn: res.tokensIn, tokensOut: res.tokensOut, cost: res.cost,
       });
-      await recordPhase(db, { jobId, phase: 'segment_sentences', input: { step: 'segment_sentences' }, output: res.data, tokensIn: res.tokensIn, tokensOut: res.tokensOut, cost: res.cost });
-      return res.data;
-    });
+      return res;
+    };
 
-    // Step 3: Group into paragraphs
-    const paras = await step.do('segment-paragraphs', async () => {
-      const res = await trackedCallAnthropic({
-        db, jobId, phase: 'segment_paras', agentRole: 'segmenter',
-        apiKey,
-        system: `You are an expert in ${langName} text segmentation, specializing in identifying thematic paragraph boundaries.
+    // Helper: write status_detail JSON to the job
+    const updateStatusDetail = async (detail) => {
+      await db.prepare('UPDATE translation_jobs SET status_detail = ? WHERE id = ?')
+        .bind(JSON.stringify(detail), jobId).run();
+    };
 
-Rules for paragraph grouping:
-- For prose: detect thematic shifts — new topic, new addressee, shift from exhortation to narrative, shift from abstract to concrete, new logical argument
-- For verse: a stanza or thematic verse group = one paragraph with type "verse_stanza"
-- Mixed prose and verse in one thematic unit = type "mixed"
-- Pure prose paragraphs = type "prose"
-- Provide a brief theme description for each paragraph (in English)
-- Use sentence_indices (0-based) referencing the sentences array`,
-        messages: [{ role: 'user', content: `Group these sentences into thematic paragraphs.
+    // Helper: build phrases array from word indices
+    const buildPhrases = (words, phraseStarts, verseRanges) => {
+      const phrases = [];
+      for (let i = 0; i < phraseStarts.length; i++) {
+        const start = phraseStarts[i];
+        const end = i + 1 < phraseStarts.length ? phraseStarts[i + 1] : words.length;
+        const text = words.slice(start, end).join(' ');
+        const verse = (verseRanges || []).some(([vs, ve]) => start >= vs && start < ve);
+        phrases.push({ text, verse });
+      }
+      return phrases;
+    };
 
-Return JSON: { "paragraphs": [{ "sentence_indices": [0, 1, 2], "theme": "brief thematic description", "type": "prose" | "verse_stanza" | "mixed" }, ...] }
+    // Step 1: Phrase boundaries (Pass 1)
+    const phraseResult = await step.do('segment-phrases', async () => {
+      const { words, mandatoryBreaks } = tokenizeWords(job.sourceText);
+      const langName = job.sourceLang === 'ar' ? 'Arabic' : 'Persian';
 
-Sentences:
-${JSON.stringify(sentences.sentences || sentences)}` }],
-        json: true,
+      const { phraseStarts, verseRanges, passResults } = await segmentPhrases({
+        words, mandatoryBreaks, langCode: job.sourceLang, langName,
+        llmCall: makeLlmCall(),
+        onProgress: async (detail) => {
+          try { await updateStatusDetail(detail); } catch {}
+        },
       });
-      await recordPhase(db, { jobId, phase: 'segment_paras', input: { step: 'segment_paras' }, output: res.data, tokensIn: res.tokensIn, tokensOut: res.tokensOut, cost: res.cost });
-      return res.data;
-    });
 
-    // Step 4: Validate and produce final nested structure
-    const sentencesList = sentences.sentences || sentences;
-    const parasList = paras.paragraphs || paras;
-    const segmented = await step.do('segment-join', async () => {
-      const res = await trackedCallAnthropic({
-        db, jobId, phase: 'segment_join', agentRole: 'segmenter',
-        apiKey,
-        system: `You are a validation specialist for ${langName} text segmentation. Your job is to verify and produce the final nested structure.
+      const phraseCost = passResults.reduce((s, r) => s + (r.cost || 0), 0);
+      const phraseTokensIn = passResults.reduce((s, r) => s + (r.tokensIn || 0), 0);
+      const phraseTokensOut = passResults.reduce((s, r) => s + (r.tokensOut || 0), 0);
 
-Validation rules:
-- Every phrase from the original text must appear exactly once — no dropped or duplicated text
-- Sentence indices in paragraph groupings must cover all sentences with no gaps or overlaps
-- Preserve all verse/hemistich metadata from earlier passes
-- The concatenation of all phrase texts should reconstruct the original source text (allowing whitespace differences)
-- If you detect errors (missing text, duplicated phrases, invalid indices), fix them in the output`,
-        messages: [{ role: 'user', content: `Validate the segmentation and produce the final nested structure.
-
-Return JSON: { "paragraphs": [{ "text": "full paragraph text", "type": "prose" | "verse_stanza" | "mixed", "theme": "...", "sentences": [{ "text": "full sentence text", "type": "prose" | "verse_couplet" | "verse_line", "phrases": [{ "text": "phrase text", "verse": false, "hemistich": null }] }] }] }
-
-Sentences:
-${JSON.stringify(sentencesList)}
-
-Paragraph groupings:
-${JSON.stringify(parasList)}` }],
-        json: true,
+      await updateStatusDetail({
+        pass: 'phrases', status: 'complete',
+        phraseCount: phraseStarts.length,
+        tokensIn: phraseTokensIn, tokensOut: phraseTokensOut, cost: phraseCost,
       });
-      await recordPhase(db, { jobId, phase: 'segment_join', input: { step: 'segment_join' }, output: res.data, tokensIn: res.tokensIn, tokensOut: res.tokensOut, cost: res.cost });
-      return res.data;
+
+      return { phraseStarts, verseRanges, words, passResults };
     });
 
-    // Step 5: Split paragraphs into blocks of ≤ MAX_BLOCK_WORDS words
+    // Step 2: Sentence boundaries (Pass 2)
+    const sentenceResult = await step.do('segment-sentences', async () => {
+      const { words, phraseStarts, verseRanges, passResults: phrasePassResults } = phraseResult;
+      const langName = job.sourceLang === 'ar' ? 'Arabic' : 'Persian';
+      const phrases = buildPhrases(words, phraseStarts, verseRanges);
+
+      const { sentenceStarts, sentenceTypes, passResult } = await segmentSentences({
+        phrases, langName, llmCall: makeLlmCall(),
+      });
+
+      const runningTokensIn = phrasePassResults.reduce((s, r) => s + (r.tokensIn || 0), 0) + (passResult.tokensIn || 0);
+      const runningTokensOut = phrasePassResults.reduce((s, r) => s + (r.tokensOut || 0), 0) + (passResult.tokensOut || 0);
+      const runningCost = phrasePassResults.reduce((s, r) => s + (r.cost || 0), 0) + (passResult.cost || 0);
+
+      await updateStatusDetail({
+        pass: 'sentences',
+        phraseCount: phraseStarts.length,
+        sentenceCount: sentenceStarts.length,
+        tokensIn: runningTokensIn, tokensOut: runningTokensOut, cost: runningCost,
+      });
+
+      return { sentenceStarts, sentenceTypes, passResult };
+    });
+
+    // Step 3: Paragraph boundaries + structure assembly (Pass 3)
+    const segmented = await step.do('segment-paragraphs', async () => {
+      const { words, phraseStarts, verseRanges } = phraseResult;
+      const { sentenceStarts, sentenceTypes } = sentenceResult;
+      const langName = job.sourceLang === 'ar' ? 'Arabic' : 'Persian';
+      const phrases = buildPhrases(words, phraseStarts, verseRanges);
+
+      const sentences = [];
+      for (let i = 0; i < sentenceStarts.length; i++) {
+        const start = sentenceStarts[i];
+        const end = i + 1 < sentenceStarts.length ? sentenceStarts[i + 1] : phrases.length;
+        const sentPhrases = phrases.slice(start, end);
+        const sentText = sentPhrases.map(p => p.text).join(' ');
+        const type = sentenceTypes[String(start)] || 'prose';
+        sentences.push({ text: sentText, type });
+      }
+
+      const { paragraphStarts, passResult } = await segmentParagraphs({
+        sentences, langName, llmCall: makeLlmCall(),
+      });
+
+      // Aggregate all costs
+      const allPassResults = [...phraseResult.passResults, sentenceResult.passResult, passResult];
+      const totalTokensIn = allPassResults.reduce((s, r) => s + (r.tokensIn || 0), 0);
+      const totalTokensOut = allPassResults.reduce((s, r) => s + (r.tokensOut || 0), 0);
+      const totalCost = allPassResults.reduce((s, r) => s + (r.cost || 0), 0);
+
+      await updateStatusDetail({
+        pass: 'complete',
+        phraseCount: phraseStarts.length,
+        sentenceCount: sentenceStarts.length,
+        paragraphCount: paragraphStarts.length,
+        tokensIn: totalTokensIn, tokensOut: totalTokensOut, cost: totalCost,
+      });
+
+      // Build final structure
+      return buildStructureFromIndices({
+        words, phraseStarts, sentenceStarts, sentenceTypes, paragraphStarts, verseRanges,
+      });
+    });
+
+    // Split paragraphs into blocks of ≤ MAX_BLOCK_WORDS words
     const blockIds = await step.do('split-blocks', async () => {
       const paragraphs = segmented.paragraphs || [];
       let blocks = splitIntoBlocks(paragraphs, MAX_BLOCK_WORDS);
@@ -263,13 +243,13 @@ ${JSON.stringify(parasList)}` }],
         ids.push(blockId);
       }
 
-      await db.prepare('UPDATE translation_jobs SET total_blocks = ?, status = ? WHERE id = ?')
+      await db.prepare('UPDATE translation_jobs SET total_blocks = ?, status = ?, status_detail = NULL WHERE id = ?')
         .bind(blocks.length, 'researching', jobId).run();
 
       return ids;
     });
 
-    // Step 6: Spawn parallel BlockWorkflows
+    // Spawn parallel BlockWorkflows
     await step.do('spawn-blocks', async () => {
       for (const blockId of blockIds) {
         const instance = await this.env.BLOCK_WORKFLOW.create({

@@ -18,7 +18,91 @@ const apiKey = envContent.match(/GEMINI_API_KEY="([^"]+)"/)?.[1]
   || envContent.match(/GEMINI_API_KEY=([^\s]+)/)?.[1];
 if (!apiKey) { console.error('ERROR: GEMINI_API_KEY not found in .env'); process.exit(1); }
 
-// rembg no longer needed — dark-background covers don't need background removal
+// ── Green-screen post-processing pipeline ──
+// All covers are generated on a green (#00FF00) background, then chroma-keyed
+// to transparent. See docs/cover-generation.md for full rationale.
+async function chromaKeyAndTrim(buffer) {
+  const { data: px, info } = await sharp(buffer)
+    .ensureAlpha().raw().toBuffer({ resolveWithObject: true });
+  const w = info.width, h = info.height;
+  const out = Buffer.from(px);
+
+  // Sample background color from corners
+  const sz = 15;
+  let sr = 0, sg = 0, sb = 0, n = 0;
+  for (let y = 0; y < sz; y++)
+    for (let x = 0; x < sz; x++)
+      for (const [ox, oy] of [[0,0],[w-sz,0],[0,h-sz],[w-sz,h-sz]]) {
+        const gi = ((y + oy) * w + (x + ox)) * 4;
+        sr += px[gi]; sg += px[gi+1]; sb += px[gi+2]; n++;
+      }
+  const bgR = sr/n, bgG = sg/n, bgB = sb/n;
+
+  // Flood-fill from corners: remove connected background pixels (including shadows)
+  const visited = new Uint8Array(w * h);
+  const queue = new Int32Array(w * h * 2);
+  const tolerance = 120;
+
+  for (const [sx, sy] of [[0,0],[w-1,0],[0,h-1],[w-1,h-1]]) {
+    let qHead = 0, qTail = 0;
+    const sk = sy * w + sx;
+    if (visited[sk]) continue;
+    queue[qTail++] = sx; queue[qTail++] = sy;
+    visited[sk] = 1;
+
+    while (qHead < qTail) {
+      const cx = queue[qHead++], cy = queue[qHead++];
+      const gi = (cy * w + cx) * 4;
+      const r = out[gi], g = out[gi+1], b = out[gi+2];
+      const dr = r - bgR, dg = g - bgG, db = b - bgB;
+      const dist = Math.sqrt(dr*dr + dg*dg + db*db);
+
+      if (dist > tolerance) continue;
+
+      out[gi + 3] = 0;
+
+      for (const [dx, dy] of [[-1,0],[1,0],[0,-1],[0,1]]) {
+        const nx = cx + dx, ny = cy + dy;
+        if (nx < 0 || nx >= w || ny < 0 || ny >= h) continue;
+        const nk = ny * w + nx;
+        if (visited[nk]) continue;
+        visited[nk] = 1;
+        queue[qTail++] = nx; queue[qTail++] = ny;
+      }
+    }
+  }
+
+  // Despill: remove magenta tint from edge pixels adjacent to transparency
+  for (let i = 0; i < w * h; i++) {
+    if (out[i * 4 + 3] === 0) continue;
+    const x = i % w, y = (i - x) / w;
+    let nearEdge = false;
+    for (const [dx, dy] of [[-2,0],[2,0],[0,-2],[0,2],[-1,-1],[1,1],[-1,1],[1,-1]]) {
+      const nx = x + dx, ny = y + dy;
+      if (nx < 0 || nx >= w || ny < 0 || ny >= h) continue;
+      if (out[(ny * w + nx) * 4 + 3] === 0) { nearEdge = true; break; }
+    }
+    if (nearEdge) {
+      const gi = i * 4;
+      const r = out[gi], g = out[gi+1], b = out[gi+2];
+      // Magenta spill: both R and B elevated relative to G
+      const magenta = (r + b) / 2 - g;
+      if (magenta > 30) {
+        out[gi] = Math.min(r, g + 10);     // cap red
+        out[gi + 2] = Math.min(b, g + 10); // cap blue
+      }
+    }
+  }
+
+  const png = await sharp(out, { raw: { width: w, height: h, channels: 4 } })
+    .png().toBuffer();
+  const trimmed = await sharp(png).trim().toBuffer({ resolveWithObject: true });
+  const pad = 12;
+  return sharp(trimmed.data)
+    .extend({ top: pad, bottom: pad, left: pad, right: pad,
+              background: { r: 0, g: 0, b: 0, alpha: 0 } })
+    .png().toBuffer();
+}
 
 // ── Author palettes ──
 const AUTHOR_PALETTES = {
@@ -284,7 +368,9 @@ function generateDesign(work) {
 }
 
 function buildPrompt(title, author, design) {
-  return `Front cover of an antique hand-crafted leather-bound book, filling the ENTIRE image edge to edge — no margins, no background visible, just the book cover itself occupying 100% of the frame. Shot straight on from directly above. The leather is rich aged ${design.leather} with visible grain, wear marks, and patina. Dark, moody lighting with warm highlights that emphasize depth and texture.
+  return `Front cover of an antique hand-crafted leather-bound book, photographed from directly above against a SOLID BRIGHT MAGENTA (#FF00FF) background. The book should NOT fill the entire frame — show the complete book with its natural edges, worn corners, and irregular leather boundaries visible against the green background. Leave a visible margin of green around all edges of the book.
+
+The leather is rich aged ${design.leather} with visible grain, wear marks, and patina. Dark, moody lighting with warm highlights that emphasize depth and texture.
 
 The cover features a deeply embossed and tooled illustration occupying the central area — raised leather relief with hand-painted color details in rich jewel tones (deep ruby, emerald, gold leaf, sapphire) worked into the tooled leather. The embossed art is dramatic, three-dimensional, and richly colored against the dark leather. Ornate gold-leaf border with ${design.border} frames the illustration.
 
@@ -294,7 +380,9 @@ At the BOTTOM of the cover, centered horizontally, the author name "${author}" i
 
 The embossed center illustration (between title and author) shows ${design.scene}.
 
-Hyper-detailed macro photography quality. The embossed illustration should be the focal point — richly colored with deep saturated jewel tones, detailed, with strong dimensional depth from the tooled leather relief. The overall feel is dark, luxurious, and ancient — like a precious artifact photographed in dramatic museum lighting. No modern elements, no digital artifacts. No human faces or figures of any kind.`;
+Hyper-detailed macro photography quality. The embossed illustration should be the focal point — richly colored with deep saturated jewel tones, detailed, with strong dimensional depth from the tooled leather relief. The overall feel is dark, luxurious, and ancient — like a precious artifact photographed in dramatic museum lighting. No modern elements, no digital artifacts. No human faces or figures of any kind.
+
+CRITICAL: The background behind the book must be SOLID PURE MAGENTA (#FF00FF) with absolutely no variation, shadow, or gradient. The book's natural worn edges and corners should be clearly visible against this green.`;
 }
 
 const delay = (ms) => new Promise(resolve => setTimeout(resolve, ms));
@@ -368,7 +456,8 @@ async function generateCover(work, model, dryRun) {
     const imagePart = parts.find(p => p.inlineData?.mimeType?.startsWith('image/'));
 
     if (imagePart) {
-      const buffer = Buffer.from(imagePart.inlineData.data, 'base64');
+      const rawBuffer = Buffer.from(imagePart.inlineData.data, 'base64');
+      const buffer = await chromaKeyAndTrim(rawBuffer);
       writeFileSync(outfile, buffer);
       const meta = await sharp(buffer).metadata();
       console.log(`  ✓ Saved: ${meta.width}x${meta.height} (${(buffer.length / 1024).toFixed(0)}KB)`);
@@ -418,7 +507,7 @@ const SURA_MOTIFS = {
   7:   'terraced mountain ridges ascending in geometric layers, crowned with luminous star patterns at the summit',
   8:   'radiating spear-like geometric rays emanating from a central octagonal star — victory and divine aid',
   9:   'a broken chain transforming into flowing arabesque vines — repentance blossoming into renewal',
-  10:  'a luminous celestial whale shape formed entirely from geometric tessellations and flowing water patterns',
+  10:  'a luminous geometric vessel of light sailing across vast tessellated ocean waves in gold and deep blue — divine guidance across the depths',
   11:  'concentric arches receding into infinite depth, each ring adorned with different geometric patterns — endurance',
   12:  'a radiant twelve-pointed star within a geometric well shaft, light ascending from the depths',
   13:  'jagged lightning-bolt geometric patterns radiating from thundercloud spirals in silver and electric blue',
@@ -560,7 +649,9 @@ function loadQuranSuras() {
 }
 
 function buildQuranPrompt(sura, design) {
-  return `Front cover of an antique hand-crafted leather-bound book, filling the ENTIRE image edge to edge — no margins, no background visible, just the book cover itself occupying 100% of the frame. Shot straight on from directly above. The leather is rich aged ${design.leather} with visible grain, wear marks, and patina. Dark, moody museum lighting.
+  return `Front cover of an antique hand-crafted leather-bound book, photographed from directly above against a SOLID BRIGHT MAGENTA (#FF00FF) background. The book should NOT fill the entire frame — show the complete book with its natural edges, worn corners, and irregular leather boundaries visible against the green background. Leave a visible margin of green around all edges of the book.
+
+The leather is rich aged ${design.leather} with visible grain, wear marks, and patina. Dark, moody museum lighting.
 
 The CENTRAL focal point is the Arabic calligraphy "${sura.name}" — large, ornamental, deeply embossed in gold leaf. The calligraphy is surrounded by ${design.motif} in raised leather relief with hand-painted jewel tones (emerald, gold leaf, ${design.metal}). Purely geometric and floral — NO human or animal figures of any kind.
 
@@ -570,7 +661,9 @@ At the TOP of the cover, centered horizontally: "${sura.tname}" in raised gold-l
 
 At the BOTTOM of the cover, centered horizontally: "The Qurʼán · Sura ${sura.index}" in smaller gold-leaf serif lettering.
 
-Hyper-detailed macro photography quality. The embossed central calligraphy and surrounding geometric art should be the focal point — richly colored with deep saturated jewel tones, detailed, with strong dimensional depth from the tooled leather relief. The overall feel is dark, luxurious, and ancient — like a precious artifact photographed in dramatic museum lighting. No modern elements, no digital artifacts. No human faces or figures of any kind.`;
+Hyper-detailed macro photography quality. The embossed central calligraphy and surrounding geometric art should be the focal point — richly colored with deep saturated jewel tones, detailed, with strong dimensional depth from the tooled leather relief. The overall feel is dark, luxurious, and ancient — like a precious artifact photographed in dramatic museum lighting. No modern elements, no digital artifacts. No human faces or figures of any kind.
+
+CRITICAL: The background behind the book must be SOLID PURE MAGENTA (#FF00FF) with absolutely no variation, shadow, or gradient. The book's natural worn edges and corners should be clearly visible against this green.`;
 }
 
 async function generateQuranCover(sura, model, dryRun) {
@@ -579,7 +672,7 @@ async function generateQuranCover(sura, model, dryRun) {
 
   if (skipExisting && existsSync(outfile)) {
     console.log(`  SKIP: ${slug} (already exists)`);
-    return true;
+    return 'skip';
   }
 
   const palette = sura.type === 'Meccan' ? QURAN_PALETTE.meccan : QURAN_PALETTE.medinan;
@@ -632,7 +725,8 @@ async function generateQuranCover(sura, model, dryRun) {
     const imagePart = parts.find(p => p.inlineData?.mimeType?.startsWith('image/'));
 
     if (imagePart) {
-      const buffer = Buffer.from(imagePart.inlineData.data, 'base64');
+      const rawBuffer = Buffer.from(imagePart.inlineData.data, 'base64');
+      const buffer = await chromaKeyAndTrim(rawBuffer);
       writeFileSync(outfile, buffer);
       const meta = await sharp(buffer).metadata();
       console.log(`  ✓ Saved: ${slug}.png ${meta.width}x${meta.height} (${(buffer.length / 1024).toFixed(0)}KB)`);
@@ -678,16 +772,18 @@ async function main() {
       process.exit(1);
     }
 
-    let success = 0, fail = 0;
+    let success = 0, fail = 0, skip = 0;
     for (let i = 0; i < subset.length; i++) {
-      const ok = await generateQuranCover(subset[i], MODEL, dryRun);
-      if (ok) success++; else fail++;
-      if (!dryRun && i < subset.length - 1) {
+      const result = await generateQuranCover(subset[i], MODEL, dryRun);
+      if (result === 'skip') { skip++; success++; }
+      else if (result) { success++; }
+      else { fail++; }
+      if (!dryRun && result !== 'skip' && i < subset.length - 1) {
         console.log('  ⏳ Waiting 5s...');
-        await delay(5000);
+        await delay(10000);
       }
     }
-    console.log(`\n  Done: ${success} generated, ${fail} failed out of ${subset.length} suras`);
+    console.log(`\n  Done: ${success} generated (${skip} skipped), ${fail} failed out of ${subset.length} suras`);
   } else {
     console.log(`Book cover generation (${MODEL})`);
     console.log(`Options: skip-existing=${skipExisting}, dry-run=${dryRun}\n`);
@@ -707,7 +803,7 @@ async function main() {
         if (ok) success++; else fail++;
         if (!dryRun && i < works.length - 1) {
           console.log('  ⏳ Waiting 5s...');
-          await delay(5000);
+          await delay(10000);
         }
       }
       console.log(`\n  Done: ${success} generated, ${fail} failed out of ${works.length} works`);

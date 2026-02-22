@@ -1,6 +1,6 @@
 {
   "name": "ctai",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "type": "module",
   "private": true,
   "author": "Chad Jones <chadananda@gmail.com> (https://ctai.info)",
@@ -33,6 +33,7 @@
     "@astrojs/sitemap": "^3.7.0",
     "@astrojs/svelte": "^7.0.0",
     "@astrojs/tailwind": "^6.0.0",
+    "@imgly/background-removal-node": "^1.4.5",
     "@libsql/client": "^0.14.0",
     "@tailwindcss/typography": "^0.5.19",
     "astro": "^5.3.0",

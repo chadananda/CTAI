@@ -7,6 +7,8 @@ let phases = $state([]);
 let error = $state(null);
 let polling = $state(true);
 let showCelebration = $state(false);
+let statusDetail = $state(null);
+let isAdmin = $state(false);
 // Block status labels
 const blockStatusLabels = {
   pending: 'Pending',
@@ -33,6 +35,8 @@ async function poll() {
     job = data.job;
     blocks = data.blocks || [];
     phases = data.phases || [];
+    statusDetail = data.job?.statusDetail || null;
+    isAdmin = data.job?.isAdmin || false;
     if (job.status === 'complete') {
       polling = false;
       showCelebration = true;
@@ -55,12 +59,35 @@ onMount(() => {
 });
 // Derived values
 let segmentationComplete = $derived(job?.totalBlocks > 0);
-let segmentationStatus = $derived(
-  !job ? 'Waiting...' :
-  job.status === 'pending' || job.status === 'paid' ? 'Preparing...' :
-  job.status === 'segmenting' ? 'In progress...' :
-  'Complete'
-);
+let segmentationStatus = $derived.by(() => {
+  if (!job) return 'Waiting...';
+  if (job.status === 'pending' || job.status === 'paid') return 'Preparing...';
+  if (job.status !== 'segmenting' || !statusDetail) {
+    return job.status === 'segmenting' ? 'In progress...' : 'Complete';
+  }
+  const d = statusDetail;
+  if (d.pass === 'phrases' && d.status !== 'complete') {
+    return d.totalWindows > 1 ? `Phrases: chunk ${d.window}/${d.totalWindows}...` : 'Phrases...';
+  }
+  if (d.pass === 'phrases' && d.status === 'complete') {
+    return `Phrases: ${d.phraseCount} found`;
+  }
+  if (d.pass === 'sentences') {
+    return `Sentences: ${d.sentenceCount} found (${d.phraseCount} phrases)`;
+  }
+  if (d.pass === 'complete') {
+    return `Segmented: ${d.paragraphCount} paragraphs, ${d.sentenceCount} sentences, ${d.phraseCount} phrases`;
+  }
+  return 'In progress...';
+});
+let segmentationCostLine = $derived.by(() => {
+  if (!isAdmin || !statusDetail || !statusDetail.tokensIn) return null;
+  const d = statusDetail;
+  const tokIn = d.tokensIn.toLocaleString();
+  const tokOut = d.tokensOut.toLocaleString();
+  const cost = d.cost.toFixed(4);
+  return `\u21b3 ${tokIn} in / ${tokOut} out \u00b7 $${cost}`;
+});
 let allBlocksComplete = $derived(blocks.length > 0 && blocks.every(b => b.status === 'complete'));
 let assemblyStatus = $derived(
   !job ? 'Waiting for blocks' :
@@ -155,6 +182,11 @@ let timeEstimate = $derived.by(() => {
           {segmentationStatus}
         </span>
       </div>
+      {#if segmentationCostLine}
+        <div class="flex items-center gap-3 py-0.5 px-2 pl-9">
+          <span class="text-xs text-ink-500 font-mono">{segmentationCostLine}</span>
+        </div>
+      {/if}
 
       <!-- Block phases -->
       {#if job.totalBlocks > 0}

@@ -56,6 +56,8 @@ export async function GET({ params, locals }) {
         createdAt: job.created_at,
         startedAt: job.started_at,
         completedAt: job.completed_at,
+        statusDetail: job.status_detail ? JSON.parse(job.status_detail) : null,
+        isAdmin: user.tier === 'admin',
       },
       blocks: (blocks.results || []).map(b => ({
         id: b.id,
