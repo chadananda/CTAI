@@ -324,7 +324,8 @@ export class BlockWorkflow extends WorkflowEntrypoint {
         }
       } catch { /* concordance lookup is best-effort */ }
 
-      const res = await callAnthropic({
+      const res = await trackedCallAnthropic({
+        db, jobId, phase: 'research', agentRole: 'research',
         apiKey,
         system: `You are the Research Agent for the CTAI Committee Translation system. Your role is to prepare a comprehensive Reference Packet for the translation committee.\n\nGiven a segmented ${langName} source text, identify key terms that carry theological, mystical, or technical meaning. Build a reference packet with concordance precedents.`,
         messages: [{ role: 'user', content: `Analyze key terms in this ${langName} text and prepare a reference packet.\n${concordanceContext}\n\nText:\n${block.sourceText}\n\nReturn JSON: { "terms": [{ "term": "...", "transliteration": "...", "recommended_rendering": "...", "notes": "..." }], "reference_packet": "formatted summary for translators" }` }],
@@ -358,7 +359,8 @@ export class BlockWorkflow extends WorkflowEntrypoint {
 
         const results = await Promise.all(translatorConfigs.map(async ({ role, persona }) => {
           const prevCritiques = round > 1 ? `\n\nPrevious round critiques to address:\n${JSON.stringify(renderings?.map(r => r.critiques).filter(Boolean))}` : '';
-          const res = await callAnthropic({
+          const res = await trackedCallAnthropic({
+            db, jobId, phase: `render_r${round}`, agentRole: `render_${role}`,
             apiKey,
             system: persona,
             messages: [{ role: 'user', content: `Render this ${langName} text into English. Follow concordance precedents where they exist.\n\nReference packet: ${JSON.stringify(research)}\n\nSource text:\n${block.sourceText}${prevCritiques}\n\nReturn JSON: { "rendering": [{ "source": "source phrase", "translation": "English rendering" }] }` }],
@@ -384,7 +386,8 @@ export class BlockWorkflow extends WorkflowEntrypoint {
 
         const critiques = await Promise.all(renderings.map(async (rendering) => {
           const others = renderings.filter(r => r.role !== rendering.role);
-          const res = await callAnthropic({
+          const res = await trackedCallAnthropic({
+            db, jobId, phase: `critique_r${round}`, agentRole: `critique_${rendering.role}`,
             apiKey,
             system: `You are the ${rendering.role} translator. Critique the other translators' renderings. Identify agreements, disagreements, and suggested improvements.`,
             messages: [{ role: 'user', content: `Your rendering: ${JSON.stringify(rendering.data)}\nOther renderings: ${JSON.stringify(others.map(o => ({ role: o.role, data: o.data })))}\n\nReturn JSON: { "agreements": [...], "disagreements": [...], "suggestions": [...] }` }],
@@ -419,7 +422,8 @@ export class BlockWorkflow extends WorkflowEntrypoint {
     const convergeResult = await step.do('converge', async () => {
       await db.prepare("UPDATE job_blocks SET status = 'converging' WHERE id = ?").bind(blockId).run();
 
-      const res = await callAnthropic({
+      const res = await trackedCallAnthropic({
+        db, jobId, phase: 'converge', agentRole: 'convergence',
         apiKey,
         system: 'You are the convergence synthesizer. Produce a final phrase-by-phrase rendering from committee deliberation. Select the best rendering for each phrase, weighing concordance fidelity, semantic accuracy, and stylistic quality.',
         messages: [{ role: 'user', content: `Synthesize the final translation from these committee deliberation results.\n\nRenderings: ${JSON.stringify(renderings)}\n\nReturn JSON: { "final_rendering": [{ "source": "source phrase", "translation": "final English rendering", "notes": "brief rationale" }] }` }],
@@ -495,7 +499,8 @@ export class FinalizeWorkflow extends WorkflowEntrypoint {
       await db.prepare("UPDATE translation_jobs SET status = 'assembling' WHERE id = ?").bind(jobId).run();
 
       const allRenderings = jobData.blocks.map(b => b.output).filter(Boolean);
-      const res = await callAnthropic({
+      const res = await trackedCallAnthropic({
+        db, jobId, phase: 'assemble', agentRole: 'assembly',
         apiKey,
         system: `You are the Assembly Agent for the CTAI Committee Translation system. Compose phrase-level renderings into flowing English paragraphs.\n\nPreserve the exact wording chosen by the committee. Add only minimal connective tissue. Maintain paragraph boundaries and register.`,
         messages: [{ role: 'user', content: `Compose these block-level renderings into a single flowing document.\n\nSource text: ${jobData.sourceText}\n\nBlock renderings: ${JSON.stringify(allRenderings)}\n\nReturn JSON: { "paragraphs": [{ "source": "source paragraph", "translation": "English paragraph", "phrases": [{ "source": "...", "translation": "..." }] }] }` }],
@@ -511,7 +516,8 @@ export class FinalizeWorkflow extends WorkflowEntrypoint {
     const reviewed = await step.do('fidelity-review', async () => {
       await db.prepare("UPDATE translation_jobs SET status = 'reviewing' WHERE id = ?").bind(jobId).run();
 
-      const res = await callAnthropic({
+      const res = await trackedCallAnthropic({
+        db, jobId, phase: 'fidelity_review', agentRole: 'fidelity',
         apiKey,
         system: `You are the Fidelity Reviewer for the CTAI Committee Translation system. Compare the assembled English translation against the original ${langName} source. Flag semantic drift, missed content, added content, register inconsistency, and concordance violations.\n\nIf the translation passes review, set approved: true. If issues are critical, set approved: false.`,
         messages: [{ role: 'user', content: `Review this translation for fidelity.\n\nSource: ${jobData.sourceText}\nTranslation: ${JSON.stringify(assembled)}\n\nReturn JSON: { "approved": true/false, "issues": [...], "final_output": { "paragraphs": [{ "source": "...", "translation": "...", "phrases": [{ "source": "...", "translation": "..." }] }] } }` }],
