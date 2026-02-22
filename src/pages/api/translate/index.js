@@ -1,6 +1,7 @@
 export const prerender = false;
 import { generateId } from '../../../lib/auth.js';
 import { estimateCost } from '../../../lib/agents/cost-estimator.js';
+import { requireAdmin } from '../../../lib/admin.js';
 export async function POST({ request, locals }) {
   try {
     const user = locals.user;
@@ -9,6 +10,7 @@ export async function POST({ request, locals }) {
         status: 401, headers: { 'Content-Type': 'application/json' },
       });
     }
+    const isAdmin = requireAdmin(locals).authorized;
     const { text, lang, style = 'literary', workTitle, workId, stripePaymentId } = await request.json();
     if (!text?.trim()) {
       return new Response(JSON.stringify({ error: 'Source text is required' }), {
@@ -18,6 +20,11 @@ export async function POST({ request, locals }) {
     if (!['ar', 'fa'].includes(lang)) {
       return new Response(JSON.stringify({ error: 'Language must be ar or fa' }), {
         status: 400, headers: { 'Content-Type': 'application/json' },
+      });
+    }
+    if (!isAdmin && !stripePaymentId) {
+      return new Response(JSON.stringify({ error: 'Payment required' }), {
+        status: 402, headers: { 'Content-Type': 'application/json' },
       });
     }
     const estimate = estimateCost({ text, lang });
@@ -31,7 +38,7 @@ export async function POST({ request, locals }) {
     await db.prepare(
       `INSERT INTO translation_jobs (id, user_id, source_text, source_lang, style, status, estimated_cost_usd, stripe_payment_id, work_title, work_id)
        VALUES (?, ?, ?, ?, ?, 'paid', ?, ?, ?, ?)`
-    ).bind(jobId, user.id, text, lang, style, estimate.totalCost, stripePaymentId || null, workTitle || null, workId || null).run();
+    ).bind(jobId, user.id, text, lang, style, estimate.totalCost, isAdmin ? null : (stripePaymentId || null), workTitle || null, workId || null).run();
     // Trigger pipeline via Service Binding
     const pipeline = locals.runtime?.env?.PIPELINE_WORKER;
     if (pipeline) {

@@ -1,0 +1,17 @@
+---
+export const prerender = false;
+import Base from '../../layouts/Base.astro';
+import AdminCosts from '../../components/admin/AdminCosts.svelte';
+const user = Astro.locals.user;
+if (!user) return Astro.redirect('/dashboard');
+---
+<Base title="Admin — API Costs">
+  <nav class="flex items-center gap-3 text-sm text-ink-500 mb-6">
+    <a href="/admin" class="hover:text-ink-200">Admin</a>
+    <span>/</span>
+    <span class="text-ink-200">API Costs</span>
+  </nav>
+  <h1 class="text-3xl font-semibold text-ink-100 mb-2">API Cost Analysis</h1>
+  <p class="text-ink-400 mb-8">Per-call token usage and cost breakdown across pipeline phases.</p>
+  <AdminCosts client:load />
+</Base>

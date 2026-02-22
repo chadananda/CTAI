@@ -11,6 +11,20 @@ let estimateLoading = $state(false);
 let jobId = $state(null);
 let submitting = $state(false);
 let error = $state(null);
+let isAdmin = $state(false);
+
+// Check admin status on mount
+async function checkAdmin() {
+  try {
+    const res = await fetch('/api/auth/me');
+    if (res.ok) {
+      const data = await res.json();
+      isAdmin = data.user?.isAdmin || false;
+    }
+  } catch { /* not admin */ }
+}
+checkAdmin();
+
 async function getEstimate() {
   if (!sourceText.trim()) return;
   estimateLoading = true;
@@ -33,6 +47,22 @@ async function startTranslation() {
   submitting = true;
   error = null;
   try {
+    if (isAdmin) {
+      // Admin bypass — skip Stripe, call translate API directly
+      const res = await fetch('/api/translate', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ text: sourceText, lang, style }),
+      });
+      if (!res.ok) {
+        const data = await res.json().catch(() => ({}));
+        throw new Error(data.error || 'Translation failed');
+      }
+      const data = await res.json();
+      jobId = data.jobId;
+      submitting = false;
+      return;
+    }
     // Create checkout session
     const checkoutRes = await fetch('/api/billing/checkout', {
       method: 'POST',
@@ -54,6 +84,7 @@ async function startTranslation() {
 }
 let canEstimate = $derived(sourceText.trim().length > 20);
 let canSubmit = $derived(estimate && !submitting);
+let canAdminSubmit = $derived(isAdmin && sourceText.trim().length > 20 && !submitting);
 </script>
 
 {#if jobId}
@@ -77,7 +108,16 @@ let canSubmit = $derived(estimate && !submitting);
         {estimateLoading ? 'Estimating...' : 'Estimate Cost'}
       </button>
 
-      {#if estimate}
+      {#if isAdmin}
+        <button
+          type="button"
+          onclick={startTranslation}
+          disabled={!canAdminSubmit}
+          class="px-4 py-2 text-sm font-mono bg-emerald-400/10 border border-emerald-500/40 text-emerald-400 rounded-lg hover:bg-emerald-400/20 transition-colors disabled:opacity-40 disabled:cursor-not-allowed"
+        >
+          {submitting ? 'Starting...' : 'Translate (Admin)'}
+        </button>
+      {:else if estimate}
         <button
           type="button"
           onclick={startTranslation}

@@ -52,7 +52,13 @@ function getInitial(name) {
 </script>
 
 <div class="p-6">
-  <h1 class="text-2xl font-serif text-ink-200 mb-6">Admin Dashboard</h1>
+  <div class="flex items-center justify-between mb-6">
+    <h1 class="text-2xl font-serif text-ink-200">Admin Dashboard</h1>
+    <nav class="flex gap-3 text-xs font-mono">
+      <a href="/admin/analytics" class="text-ink-400 hover:text-ink-200 transition-colors">Analytics</a>
+      <a href="/admin/costs" class="text-ink-400 hover:text-ink-200 transition-colors">API Costs</a>
+    </nav>
+  </div>
 
   {#if loading}
     <div class="text-center text-ink-400 py-12">Loading...</div>
